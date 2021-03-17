@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tells migrants 'don't come over' in ABC News exclusive interview"
-    excerpt: "The president spoke with ABC News' George Stephanopoulos. On Location: March 16, 2021 President Joe Biden said in an exclusive interview with ABC News' George Stephanopoulos on Tuesday that his ..."
-    publishedDateTime: 2021-03-16T23:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
+  - title: "Texas' Greg Abbott Accuses Joe Biden of Enriching Cartels as 4,200 Border Kids Detained"
+    excerpt: "President Joe Biden's border policies are causing a surge in illegal immigration into the United States and \"enriching and empowering\" drug cartels in Mexico who profit from smuggling migrants, Texas Governor Greg Abbott warned on Sunday. His comments came ..."
+    publishedDateTime: 2021-03-15T11:25:00Z
+    webUrl: "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114"
+    ampWebUrl: "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114?amp=1"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://s.abcnews.com/images/US/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1755831/greg-abbott-migrants.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "xsk/fncZ3Egly9QP1Gb5xD+2X4NT3qzfg48QcC1/RE1mzVbaSrsD42QZyJxr96Lf2cKcOXMZoBHUqE7t12rvZzKgAfqYxJu6qKqeJql3uX3JvCuvU63PB4+n03txC0m1MTXBL/CbOmXskhOA/eGhHO6aUn6J38tYt96y1sSUnIPpy5o/qsOMMDpOUQBa3UIYdUJ4HS7yVEuF0iDLDEFCLkXsH5WSaS0QR/+9Ec69bZ7KxumQFhx0nyjpBFdUGr0mTwS0UZPDHZIHbdD+HrR7Q6EpN4hIBirfoDOGOsL/tvYjYcKzUrX4e67oXWdlGS8X+kwCcWk2c7d5C5Plkc/eBxgBIdf23EA65Pm5I9FCkXYl8eUWSf1XhSUhOPZbxyOWsMYPLegDjbO8LZQtxI8jbu+uaOxEd/byULglXGU4l3Z0CYKTtMwxlfwBoobfVBf1p9UYYqsZyTY0aK98y+QZLSxY8jaFPnQQDisDd3uqurrOpQDHRZ8HV4FgKAaeOFO5sKcA2Tky7OeA0Co9wljQfg==;ren/ZEccMHitqEzW6iOk/g=="

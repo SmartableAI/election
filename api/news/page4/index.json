@@ -2,6 +2,158 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-14-chaos-under-heaven-review-trump-as-raging-bull-in-a-china-policy-shop.md",
+      "title": "Chaos Under Heaven review: Trump as raging bull in a China policy shop",
+      "excerpt": "Before Covid upended everything, the US president upended relations with Beijing – without interest or ability to build anew",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/168f33036b5291f725aa69009a9fb865b046f7dd/0_19_3038_1823/master/3038.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=324f482f84ea1622e8e74215d12a035a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "publishedDateTime": "2021-03-13T21:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry.md",
+      "title": "Trump prophet Jeremiah Johnson who predicted 2020 victory ends ministry",
+      "excerpt": "Jeremiah Johnson, an evangelical Christian who predicted that former President Trump Donald Trump Pentagon takes heat for extending Guard's time at Capitol Fundraising spat points to Trump-GOP ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/news/543081-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry",
+      "originalUrl": "https://thehill.com/homenews/news/543081-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpgettyimages-1304602669.jpg",
+          "width": 980,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/news/543081-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543081-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry?amp",
+      "publishedDateTime": "2021-03-13T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-mike-pence-welcomes-first-grandchild-with-sweet-photo.md",
+      "title": "Mike Pence welcomes first grandchild with sweet photo",
+      "excerpt": "Former Vice President Mike Pence’s premature gray always made him look the part of a grandfather — now he has the grandchild to go with it. Pence and wife Karen announced the birth of Avery",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/",
+      "originalUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/210313-mike-pence-grandchild.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/amp/",
+      "publishedDateTime": "2021-03-13T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-many-in-gop-hope-trump-loses-in-court-goes-away-says-former-admin-member-miles-taylor.md",
       "title": "Many in GOP Hope Trump Loses in Court, Goes Away, Says Former Admin Member Miles Taylor",
       "excerpt": "Miles Taylor, a former Department of Homeland Security's chief of staff in the Trump administration, said Saturday that many in the GOP hope Donald Trump will lose in future court battles and move on from the party. Speaking on MSNBC, Taylor said he wouldn ...",
@@ -170,7 +322,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -222,7 +374,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1806,
+      "heat": 1826,
       "tags": null,
       "images": [
         {
@@ -1162,170 +1314,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-oliver-north-i-dont-think-biden-has-military-service-members-collective-back.md",
-      "title": "Oliver North: 'I don't think' Biden has military service members' collective back",
-      "excerpt": "Defense Secretary Lloyd Austin's stated ambition to drive domestic terrorists and extremists out of the military amounts to a \"witch hunt,\" former Marine Lt. Col. Oliver North told \"Tucker Carlson Tonight\" Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s5AALGE7FZg/oliver-north-biden-lloyd-austin-military",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s5AALGE7FZg/oliver-north-biden-lloyd-austin-military",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a538c523-198f-4598-9ac9-408a1a25956b/c74e1063-dbb2-4cd1-9dbb-899b7c95628a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/oliver-north-biden-lloyd-austin-military.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oliver-north-biden-lloyd-austin-military.amp",
-      "publishedDateTime": "2021-03-11T19:38:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-biden-fills-his-primetime-remarks-on-covid-19-with-jabs-at-trump.md",
-      "title": "Biden fills his primetime remarks on COVID-19 with jabs at Trump",
-      "excerpt": "In his first primetime address to the nation Thursday night, President Biden lobbed barely-conceal criticism at Donald Trump for his handling of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8382acb7-c09b-4e8e-a27d-19150c65075b/3cfe5695-e576-41ec-bf4b-ab25d5900187/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
-      "publishedDateTime": "2021-03-11T18:49:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-the-latest-biden-says-we-all-lost-something-to-pandemic.md",
-      "title": "The Latest: Biden says ‘we all lost something’ to pandemic",
-      "excerpt": "President Joe Biden is delivering a somber but optimistic message on the one-year anniversary of the coronavirus pandemic",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-11T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

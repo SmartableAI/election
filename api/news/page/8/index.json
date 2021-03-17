@@ -2,6 +2,120 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-06-lincoln-projection-former-adviser-to-disgraced-anti-trump-pac-calls-gop-the-ultimate-grift.md",
+      "title": "Lincoln Projection: Former adviser to disgraced anti-Trump PAC calls GOP 'the ultimate grift'",
+      "excerpt": "Former Lincoln Project senior adviser Kurt Bardella appears to have no issue with throwing stones from glass houses, as he recently accused the Republican Party of becoming the \"ultimate grift.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
+      "originalUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
+      "publishedDateTime": "2021-03-05T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-fbi-finds-contact-between-proud-boys-member-and-trump-associate-before-riot.md",
+      "title": "F.B.I. Finds Contact Between Proud Boys Member and Trump Associate Before Riot",
+      "excerpt": "A leader of the far-right group separately said he had been in touch with Roger Stone, but an official said it was not the same contact investigators found through electronic communications records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/05/us/politics/05dc-investigate1/05dc-investigate1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html",
+      "publishedDateTime": "2021-03-05T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-swalwell-files-lawsuit-against-trump-over-capitol-riots.md",
       "title": "Swalwell files lawsuit against Trump over Capitol riots",
       "excerpt": "Rep. Eric Swalwell, one of the House impeachment managers, filed a lawsuit against former President Trump saying he must be held financially responsible for destruction on Jan. 6 when a pro-Trump mob stormed the Capitol.",
@@ -1252,118 +1366,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-19t-coronavirus-bill-this-week.md",
-      "title": "Schumer prepared to outlast GOP delays tactics to pass Biden's $1.9T coronavirus bill this week",
-      "excerpt": "Senate Democrats are prepared to work long nights and through the weekend to push through President Biden's $1.9 trillion coronavirus relief legislation, determined to outlast an onslaught of expected GOP delay tactics.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d3342b12-c01b-47c2-8873-0b049df6cfd6/606ea425-b5de-4601-8e55-e4bb1312cc7d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp",
-      "publishedDateTime": "2021-03-04T12:31:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-alcee-hastings-once-impeached-from-bench-leads-screening-of-judicial-appointments-to-biden.md",
-      "title": "Alcee Hastings, once impeached from bench, leads screening of judicial appointments to Biden",
-      "excerpt": "Rep. Alcee Hastings, D-Fla., announced Thursday that he and Rep. Debbie Wasserman Schultz, D-Fla., formed three screening conferences that will recommend candidates to fill federal judicial openings as well as vacant U.S. Attorney and U.S. Marshal positions in their state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQirE7bFJgM/alcee-hastings-impeached-from-bench-biden-judicial-appointments",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQirE7bFJgM/alcee-hastings-impeached-from-bench-biden-judicial-appointments",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/alcee-hastings-impeached-from-bench-biden-judicial-appointments.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alcee-hastings-impeached-from-bench-biden-judicial-appointments.amp",
-      "publishedDateTime": "2021-03-04T11:16:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

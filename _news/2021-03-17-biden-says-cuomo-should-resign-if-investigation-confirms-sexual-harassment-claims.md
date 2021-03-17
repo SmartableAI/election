@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Pelosi, Biden step up critique of Cuomo, but stop short of calling for immediate resignation"
+    excerpt: "Add House Speaker Nancy Pelosi to those who think Gov. Andrew Cuomo should resign if allegations of sexual harassment are proven true."
+    publishedDateTime: 2021-03-17T14:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/17/pelosi-biden-cuomo-resignation-new-york/4731712001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4731712001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4731712001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/02/25/PROC/4604847e-c439-49f3-b43a-9b9f657e6171-AP19056619832676.jpg?auto=webp&crop=5183,2902,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "President Joe Biden finds allegations about Gov. Andrew Cuomo 'hard to read,' White House says"
     excerpt: "Growing reports of misbehavior by New York Gov. Andrew Cuomo concern President Joe Biden. He is making sure vaccine distribution is not affected."
     publishedDateTime: 2021-03-15T19:30:00Z
@@ -110,6 +126,6 @@ related:
         height: 630
         isCached: true
 
-secured: "E+1sqgMKDqPrV+B4RCtUdyJX3FkbpxwR0QrfTTi+tulQlU0QZey+64CR++4udJ7PvrK8cnD0+3O2XKQn+Yme/9TMEnR/6Mh4ChGqCBlYjh4Y8vVfZTjMOA6ScHgardYfZKgFU6jrF3JgvTG2zWm4YA+W8Uadnp7gRO7/ZnloJcHFpxubQ1aVnW1+3BiyDGELwAnUIyKtoWYYYRsPTg4lJTexQVBeCR9Xw5XAx/bBrSdm97yoTqfVxkH3JxNCSpcIu7t8oRR3zK5GqgI6lL5O1Ok2NcQN01mjGt31AUWJ8Hj2A2l3+7c2hR298Mv99zBIaum6SZIA06OQanvNEoa2jBfFUgQFKcXgG/dAEjPsU34=;EpQRqDprSkmBfJfIUkxCfQ=="
+secured: "xgF8W7oCXag8YIzSftRwuCoOSHweZCEdaee3DaGm92xMTvTHEsaop8mee3DWGKeQBku6dr66cIqa3FU0lOHaf4pYbOrl118q3m2f+t+/xUkTO/xGYaGVmhQLwQH0q4J8l60m2IDRI57eumbAbosVky3tc5xYkBbPjslISPbdo386wP4PYeUDAHDCBI+GyV37+mVizWzocbPmAWtcsbnc/4vSLB1RuAqjdxNlcgypeiq7vk7eg1eXpvLVN0UlLZiFh38ugsa6PH0x1Qx5hYO1EHMG6a+aJXmoCHqdngFvu8+1AG6P/6qESEYCNqI/a3uQiTx03fzYXiRiyN2HWmmQRiHvULqepvm/N2cHNRnYXd/Ax4zZkX4Ft6uI0UG2jzKGm1xyJFAkkvFC6d78c8ClYv456nOLZH9jXnTROR2pA1p+ry7+FaA4x5a5/I2tsnJw5O008bee+CEqq1xgC3yHTwvIjrT4h0eAb5HxX+vntYZDxjGGJPOJNAcu1Tz1nmitBuyb75n0NxrlFd3XM6OHEg==;W5w/N8BTxKI5yx2R9aun3w=="
 ---
 

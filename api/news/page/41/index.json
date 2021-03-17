@@ -2,6 +2,175 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-01-13-squad-member-accuses-vp-of-cowardice-for-not-using-25th-amendment-to-remove-trump.md",
+      "title": "'Squad' member accuses VP of 'cowardice' for not using 25th Amendment to remove Trump",
+      "excerpt": "Rep. Ayanna Pressley, D-Mass., said Vice President Mike Pence's decision not to invoke the 25th Amendment to remove President Trump from office is a show of \"pure cowardice.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2L3J6pWfdA/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2L3J6pWfdA/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp",
+      "publishedDateTime": "2021-01-13T06:32:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-allies-scorn-pence-and-pompeo-as-sandbergs-qanon-problem-grows.md",
+      "title": "Allies scorn Pence and Pompeo, as Sandberg’s QAnon problem grows",
+      "excerpt": "When CNN’s Jim Acosta reported a “source close to VP” saying Pence’s plan for the next week is to “telegraph to our allies and adversaries that we have a fully functioning government,\" Global Translations decided it was time to find out what European ambassadors in D.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/global-translations/2021/01/13/allies-scorn-pence-and-pompeo-as-sandbergs-qanon-problem-grows-491388",
+      "originalUrl": "https://www.politico.com/newsletters/global-translations/2021/01/13/allies-scorn-pence-and-pompeo-as-sandbergs-qanon-problem-grows-491388",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/bc/89ed482f4862b339c70a33cc0fb0/politico-global-translations-shared-graphic.jpg",
+          "width": 1201,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-biden-names-obama-era-un-ambassador-samantha-power-to-lead-usaid.md",
+      "title": "Biden names Obama-era UN ambassador Samantha Power to lead USAID",
+      "excerpt": "President-elect Joe Biden announced that former U.S. Ambassador to the United Nations Samantha Power will be his nominee for administrator of the United States Agency for International Development (USAID), a position that now will be added to the National Security Council.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KaszUox-O8g/biden-ambassador-samantha-power-usaid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KaszUox-O8g/biden-ambassador-samantha-power-usaid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2017/10/13/694940094001_5609044472001_5608987015001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ambassador-samantha-power-usaid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ambassador-samantha-power-usaid.amp",
+      "publishedDateTime": "2021-01-13T04:33:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-youtube-ban-google-blocks-new-uploads-to-donald-trumps-channel-after-capitol-riots-citing-potential-for-violence.md",
       "title": "YouTube ban: Google blocks new uploads to Donald Trump's channel after Capitol riots, citing potential for violence",
       "excerpt": "Google's YouTube is blocking new uploads to Trump's channel. It's also being threatened with a national ad boycott if it does not ban Trump.",
@@ -1204,166 +1373,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-critics-mock-ny-gov-cuomos-sudden-denunciation-of-lockdowns-suggest-trump-hacked-his-twitter-account.md",
-      "title": "Critics mock NY Gov. Cuomo's sudden denunciation of lockdowns, suggest Trump hacked his Twitter account",
-      "excerpt": "Democratic New York Gov. Andrew Cuomo raised eyebrows on Monday for his drastic shift on lockdowns during the pandemic. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6yXyhAfGjKY/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6yXyhAfGjKY/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ea97b24-9e30-4e75-8d6c-4d06095a1302/9b9f07f9-872e-48c0-9ac3-e802744ca6c6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account.amp",
-      "publishedDateTime": "2021-01-11T15:52:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-biden-chooses-veteran-diplomat-william-burns-as-his-cia-director.md",
-      "title": "Biden chooses veteran diplomat William Burns as his CIA director",
-      "excerpt": "William Burns, chosen by Biden to head the CIA, built a 33-year career at the State Department under both Republican and Democratic presidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
-      "publishedDateTime": "2021-01-11T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-former-white-house-spokesman-hogan-gidley-says-trump-is-the-most-masculine-president-in-us-history.md",
-      "title": "Former White House spokesman Hogan Gidley says Trump is the 'most masculine' president in US history",
-      "excerpt": "This came after Fox News host Bill Hemmer asked Gidley if Trump felt \"emasculated\" by the recent \"social media crackdown.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
-      "originalUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ffcc49fbde805001980c448?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
-      "publishedDateTime": "2021-01-11T14:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

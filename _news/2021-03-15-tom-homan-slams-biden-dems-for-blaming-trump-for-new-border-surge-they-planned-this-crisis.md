@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
 type: article
 quality: 178
-heat: 378
+heat: 398
 published: true
 
 provider:
@@ -117,6 +117,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4Mw_bKZ24U/tom-cotton-billy-madison-pelosi-biden-border-crisis"
     ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Rep. Crenshaw hits Biden for 'creating border crisis': Dems 'don't want the truth to get out'"
+    excerpt: "The Biden administration created a crisis on the border by rescinding former President Trump's policies, Rep. Dan Crenshaw said on Wednesday, reacting to migrants who were revealed to be on the terror watch list."
+    publishedDateTime: 2021-03-17T15:28:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wDsxR61d58I/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out"
+    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
     type: article
     provider:
       name: Fox News

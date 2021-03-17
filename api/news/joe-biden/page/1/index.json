@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-17-biden-brands-putin-a-killer-and-says-he-will-pay-for-russian-interference-in-us-election-live.md",
-      "title": "Biden brands Putin a 'killer' and says he will pay for Russian interference in US election – live",
-      "excerpt": "Biden’s comments come after declassified intelligence report bolstered allegations Putin was behind election interference",
+      "path": "_news/2021-03-17-biden-brands-putin-a-killer-and-says-he-will-pay-for-russian-election-interference-live.md",
+      "title": "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live",
+      "excerpt": "Joe Biden told immigrants making the difficult journey to the US-Mexico border “don’t come over” as the administration attempts to respond to an increase of unaccompanied children seeking asylum. In a wide-ranging interview with ABC News’ George ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-6051ed558f0832395ae58239",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-6051ed558f0832395ae58239",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605210d38f083d3e63c4b0b6",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605210d38f083d3e63c4b0b6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 270,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/1ec67a1de1482210c42ec256b30874e682d33a38/0_96_3816_2290/master/3816.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6c401fa244460e2db4ab62f03a7792b5",
+          "url": "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a",
           "width": 600,
           "height": 360,
           "title": null,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates",
-      "publishedDateTime": "2021-03-17T05:39:00-07:00",
+      "publishedDateTime": "2021-03-17T07:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -34,58 +34,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-backs-filibuster-reform-after-top-senate-republican-says-democrats-would-pay-if-its-scrapped.md",
-      "title": "Biden backs filibuster reform after top Senate Republican says Democrats would pay if it's scrapped",
-      "excerpt": "WASHINGTON (Reuters) - President Joe Biden on Tuesday backed reforming, rather than scrapping, the filibuster after Senate Minority Leader Mitch McConnell warned Democrats that ending the long-standing Senate procedure that can block partisan legislation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-senate-filibuster-biden-idUSKBN2B902U",
-      "originalUrl": "https://www.reuters.com/article/us-usa-senate-filibuster-biden-idUSKBN2B902U",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555137824&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G016",
-          "width": 822,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B902U",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B902U",
-      "publishedDateTime": "2021-03-16T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -114,7 +62,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -158,19 +106,19 @@
       ]
     },
     {
-      "path": "_news/2021-03-17-biden-tells-migrants-dont-come-over-in-abc-news-exclusive-interview.md",
-      "title": "Biden tells migrants 'don't come over' in ABC News exclusive interview",
-      "excerpt": "The president spoke with ABC News' George Stephanopoulos. On Location: March 16, 2021 President Joe Biden said in an exclusive interview with ABC News' George Stephanopoulos on Tuesday that his ...",
+      "path": "_news/2021-03-17-biden-says-he-supports-reforming-senate-filibuster-in-abc-news-exclusive-interview.md",
+      "title": "Biden says he supports reforming Senate filibuster in ABC News exclusive interview",
+      "excerpt": "President Joe Biden said he supports reforming the Senate filibuster in an ABC News exclusive interview Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159",
+      "webUrl": "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 139,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/US/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_16x9_992.jpg",
+          "url": "https://s.abcnews.com/images/US/president-joe-biden-interview-04-exclusive-abc-jc-210316_1615931643517_hpMain_16x9_992.jpg",
           "width": 992,
           "height": 558,
           "title": null,
@@ -180,12 +128,12 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159",
-      "publishedDateTime": "2021-03-16T16:08:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
+      "publishedDateTime": "2021-03-16T17:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABCNews",
+        "name": "ABC",
         "domain": "abcnews.go.com",
         "images": [
           {
@@ -592,7 +540,7 @@
       "originalUrl": "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -644,7 +592,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -852,7 +800,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -956,7 +904,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1562,6 +1510,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks.md",
+      "title": "AP source: Biden, Senate Democrats agree to tighten income limits for receiving $1,400-per-person stimulus checks",
+      "excerpt": "Biden, Senate Democrats agree to tighten income limits for receiving $1,400-per-person stimulus checks. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-03T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

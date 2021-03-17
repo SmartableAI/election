@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump urges supporters get vaccinated after Fauci, experts call on him to do so"
+    excerpt: "Former President Donald Trump encouraged his supporters to get vaccinated after a poll showed nearly half would not get the vaccine when it became available."
+    publishedDateTime: 2021-03-17T15:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-urges-supporters-vaccinated-fauci-experts-call/story?id=76509348"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-urges-supporters-vaccinated-fauci-experts-call/story?id=76509348"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-urges-supporters-vaccinated-fauci-experts-call/story?id=76509348"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-cpac-rt-ps-210317_1615989428814_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York"
     excerpt: "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\""
     publishedDateTime: 2021-03-08T22:33:00Z

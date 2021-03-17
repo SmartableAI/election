@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-17-harris-condemns-tragic-atlanta-shooting-and-expresses-solidarity-with-asian-american-community.md",
+      "title": "Harris condemns 'tragic' Atlanta shooting and expresses solidarity with Asian American community",
+      "excerpt": "Vice President Kamala Harris addressed the recent lethal shootings at a series of spas in the Atlanta area, marking her most formal remarks about the ongoing issue of violence against the Asian American community.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l_iRNPePubc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l_iRNPePubc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210108130454-01-kamala-harris-0827-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/17/politics/kamala-harris-atlanta-shooting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/kamala-harris-atlanta-shooting/index.html",
+      "publishedDateTime": "2021-03-17T08:48:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-says-putin-will-pay-a-price-for-russian-efforts-to-undermine-2020-us-election.md",
       "title": "Biden says Putin 'will pay a price' for Russian efforts to undermine 2020 US election",
       "excerpt": "President Joe Biden said Vladimir Putin \"will pay a price\" for his efforts to undermine the 2020 US election following a landmark American intelligence assessment which found that the Russian government meddled in the 2020 election with the aim of \"denigrating\" Biden's candidacy.\n    \n",
@@ -1628,63 +1685,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-trump-critic-rep-kinzinger-hopes-to-be-good-part-of-history.md",
-      "title": "Trump critic Rep. Kinzinger hopes to be 'good part of history'",
-      "excerpt": "CNN's Jeff Zeleny speaks to Rep. Adam Kinzinger (R-IL), an outspoken critic of former President Donald Trump, about some of the backlash he has received since voting to impeach Trump and his political future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
-      "originalUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308193714-adam-kinzinger-zeleny-dnt-03082021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
-      "publishedDateTime": "2021-03-08T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

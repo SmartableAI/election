@@ -43,6 +43,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
+    excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"
+    publishedDateTime: 2021-03-17T15:50:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6b6bc9db283edf2ba9affe858e9c3c4a/Vice-President-Kamala-Harris-hosts-Michel-Martin-Prime-Minister-of-Ireland/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6b6bc9db283edf2ba9affe858e9c3c4a/VICE-PRESIDENT-HARRIS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "ZMZ7QngSQ5ns8xEcvteGAx7BGGdd+yNEBM4z1x75DUprWO6uKkvW3LxELQsXdfd2PkBtttid2GbTAX31mSXWS7bJion+YprxE/dBMbwVCWHkQM8yhEdHOVqXrWC57R3wBX3MHR6OtCJxzwOjzPTO6gK5Xd+f3jr4rY7kf8Y50g33xDoANqRYk1gyjiXM3MfDnu9jHmcigab6tWhltn10acWIdsRlfm5398kLcWxBoCTxM2cvXry+iHJvGabpQ33uwR6ftd1wqe4BuSGibgqKob3+38CCuq0S7LAFepuq6LvapEGrIJY8d+VqaNZ89yKdJvU7PP9xWh4TEvtGg2YjzUy9cUDc5Di2tACKVH7pr/9o0u0weiSFm+PHfgTNJqanmkZxnA+gHx+C7vbR2LmNDi4Cc8qYyCPSIEzeAFG5Hnl+kJi+cKBK+g3BJrt8tCfavYsqsWarSX8lUxiXrt8viz8NDUwx/aSxwbXoGMry0vIR8Cci8KV37hz4J38LHQBUEWBYgfXzNdpMSjDzxXndLA==;5KKdCc/EAyHfqx3Qb9F/fg=="
 ---

@@ -447,6 +447,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden says withdrawing troops from Afghanistan by Trump's May 1 deadline will be 'tough'"
+    excerpt: "The current deadline was set in agreement with former President Donald Trump and the Taliban; the Afghan government didn't authorize the terms of the deal. Biden told George Stephanopoulos that he is speaking with allies about the current drawdown plans ..."
+    publishedDateTime: 2021-03-17T13:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-troop-withdrawal-from-afghanistan-may-trump-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-troop-withdrawal-from-afghanistan-may-trump-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-troop-withdrawal-from-afghanistan-may-trump-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/604534f844d8e300117b97d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. says Putin authorized operations to denigrate Biden and boost Trump in 2020 campaign"
     excerpt: "01:34 Washington — Russian President Vladimir Putin authorized influence operations that sought to damage President Biden's candidacy during the 2020 election and boost former President Donald Trump, according to an unclassified report from the U.S ..."
     publishedDateTime: 2021-03-17T12:05:00Z
@@ -1319,6 +1335,6 @@ related:
         height: 663
         isCached: true
 
-secured: "hcmJam38uhvd+SH1cgK1Rl2RFoke3JbBipAFiUfP+Dr8hoslS4JTa4d578ZlCP5OJ+nWk7aDGVwehs54K8Hzhgan703/U9lnnKXVupsU0WaqmrNSTx6h4RzF6ZhNMNEbDOY0ymHQSxoK/p6ilIUrUljOmIQmIaexPFZTu+OIc+HwyNd+VT+Xzg9h7hjG6bVZs22tc5WnXZ+dqMYXBPkfHemWTR7rDtFZsBMZv7eudoMjXDqFQnIslcbxKGOnE4Vf2ZFmHjD3iScPHsmGhFE7K/BaNh2F433EL8cP2zZsWh+tNxUthhehvRv+0o0wIAerlVeTw6/t0IWswtUc6nXxsgdezI+mqSpOEVvCzKelBNk=;wJzymX1vM9bMggz3q7281g=="
+secured: "DPb+OzpTT+4tUC331gY39DI6+JqJwP6NEyH2UduxJF9nrqjznCABhbpGVH5Brn8wis6QwvZAtOkI9UJo0ny5ip7a7UWOrjgW5E1H04BKsof6XrBr7wK7+eZnRQ7ByxqJpQeeLqGBTtrO7bbe27ln2vOeUFM4H0q0r3ErYxD6jT8DT0rCj/itKNYMHZyUHCKukr/YIXWX09ZiX2eHCqxYuBMuyZCBEYTOaus7n1aKXvcE05Q0dSpRkz2ENfJn5YmEVQrXJCulXxD6A2CyW2vi5sxZqPwE/iDVWFcHduNN7KH8a3UPOGrMQQ72Tw0EXLg199SaLl6pf7Ps6zPyqgTW+6Q4pEsDZ089vDt1EBTa3wyXQb7uYJkvx402Q3+mT0aHc7vfwoNIunYNdux6ruD5e9zet/DPh6MBqOjb3NQMZVkWL6avynnXK2cwsokfkj9D7i4MaWn6FruxaY1THdFytJyCCyshZ0mMoSyaRZOT0kOTslUENt43OhCOXNAtekGHLMAesjexxNSOAFSZfFbmqw==;ssNc4kUnscxBm7rDAdXWgg=="
 ---
 

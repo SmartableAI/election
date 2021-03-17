@@ -23,37 +23,21 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support"
-    excerpt: "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs."
-    publishedDateTime: 2021-03-10T20:03:00Z
-    webUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794"
-    ampWebUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
+  - title: "CDC identifies public-health guidance from the Trump administration that downplayed pandemic severity"
+    excerpt: "The analysis was done to promote public trust and ensure that CDC’s coronavirus guidance \"is evidence-based and free of politics,\" a memo says."
+    publishedDateTime: 2021-03-15T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg"
-        width: 1200
-        height: 949
-        isCached: true
-  - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
-    excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"
-    publishedDateTime: 2021-03-04T10:33:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 71
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/4e6/999/6d51cf8fb5705f6e1da184c5903f44cc19-GettyImages-1128135352.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UH7PHDC3EMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "58GNn5opknz5V7xHKFvp58YPau4PbaLlDDCYQpLY5UesBKtNFit3bBv0zdP24XRYD1e5j9e2J7m2ohrZasMtwUjpynLtsdmDwF8wnDAVWzu9xtgpwrudd9DTR0vtOvDnslCi7VRPAKVroAqmNCHoX77pDdWenaiXYhxJiR9Q4weqX0lk6pony+A9LMRCXhtXMp4qN5vZz9/81VC2QNSZI2dLemoswnZqLoODzEQdXo7Hqld6dZPVw1NSMmG20j41TDJg3l/qbuReGIouJa4Nm77lc13Rk9GNi4j94iFMTPrlVNEvq+UYnhzQCSs855zFgxzLIjX1+7rJuzbxM4OiM7EMC2g5DlUggxwx45jAI6JvUKkCXmTTc0Vrt9BBm+DSXTRHVnvlJFDHWiUtSG3dvdTSlNf12jrZDZ0bEMKvfzLSSTwKw0UAbet6tCBJYqHWasVCsCBXSmta7dO/GeVDnM1axqeclzAqcYLhQ/vVgJxNIHu4Cy9XRd3ToRJn5eWd7nLpXshfM4cyN1vy0jAeBQ==;tnPWhfytXzrehLR/Y0DQgA=="

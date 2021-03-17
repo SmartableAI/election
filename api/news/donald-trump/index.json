@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-17-trump-to-headline-fundraiser-for-ex-aide-challenging-pro-impeachment-republican.md",
+      "title": "Trump to headline fundraiser for ex-aide challenging pro-impeachment Republican",
+      "excerpt": "Former President Donald Trump will be stumping for one of his former White House aides who has launched a primary challenge to Rep. Anthony Gonzalez (R-Oh.) over his vote to impeach the outgoing",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/17/trump-to-headline-fundraiser-for-ex-aide-challenging-house-republican/",
+      "originalUrl": "https://nypost.com/2021/03/17/trump-to-headline-fundraiser-for-ex-aide-challenging-house-republican/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/anthony-gonzalez-maralago-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/17/trump-to-headline-fundraiser-for-ex-aide-challenging-house-republican/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/17/trump-to-headline-fundraiser-for-ex-aide-challenging-house-republican/amp/",
+      "publishedDateTime": "2021-03-17T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-trump-net-worth-dropped-by-700-million-during-presidency-report.md",
+      "title": "Trump Net Worth Dropped By $700 Million During Presidency: Report",
+      "excerpt": "Former President Donald Trump lost about a quarter of his overall wealth during the four years he served in the White House, according to the latest estimate from the Bloomberg Billionaire Index. When Trump took office in 2017, his net worth was estimated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
+      "originalUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1758105/donald-trump.jpg",
+          "width": 1024,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1",
+      "publishedDateTime": "2021-03-17T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-the-health-202-trump-says-he-recommends-the-coronavirus-vaccines.md",
       "title": "The Health 202: Trump says he 'recommends' the coronavirus vaccines",
       "excerpt": "Donald Trump made an important pronouncement in a Fox News interview last night: Americans should agree to get the “great” coronavirus vaccines. Support our journalism. Subscribe today. Yet research suggests one of the most vaccine-hesitant groups ...",
@@ -223,7 +323,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -537,6 +637,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-16-cdc-identifies-public-health-guidance-from-the-trump-administration-that-downplayed-pandemic-severity.md",
+      "title": "CDC identifies public-health guidance from the Trump administration that downplayed pandemic severity",
+      "excerpt": "The analysis was done to promote public trust and ensure that CDC’s coronavirus guidance \"is evidence-based and free of politics,\" a memo says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/",
+      "originalUrl": "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UH7PHDC3EMI6XKCJN6KCHJ277U.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp",
+      "publishedDateTime": "2021-03-15T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-democrats-2018-trump-country-hero-faces-hard-political-path.md",
       "title": "Democrats' 2018 Trump Country hero faces hard political path",
       "excerpt": "Barely a year into Donald Trump’s presidency, Democrats were desperate to show they could reconnect with the white, working-class voters who had turned against them DNC Chair Jaime Harrison ...",
@@ -643,58 +795,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-the-30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump.md",
-      "title": "The 30-second, post-presidency speech about dogs that perfectly summarizes Donald Trump",
-      "excerpt": "Donald Trump was the first president since Andrew Johnson to have not had any pets while living in the White House. In 2019, after singer Barbra Streisand criticized the then-president for not having a dog,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOJSJBQPWII6VESMWNGQTO6JJA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp",
-      "publishedDateTime": "2021-03-15T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -962,7 +1062,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-trump-idINKBN2B60DA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -1117,6 +1217,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-jared-kushner-to-write-a-behind-the-scenes-look-at-the-significant-events-of-the-trump-presidency-in-new-book.md",
+      "title": "Jared Kushner to write a behind-the-scenes look at the significant events of the Trump presidency in new book",
+      "excerpt": "The arrangement, brokered with Kushner's help, was the first official peace deal between the UAE and Israel in a decade and has become a key accomplishment touted by Trump. Kushner is \"not looking to settle scores but rather to provide historical context ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3",
+      "originalUrl": "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/604de62a10c8760018b931bd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3?amp",
+      "publishedDateTime": "2021-03-14T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1336,7 +1488,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1806,
+      "heat": 1826,
       "tags": null,
       "images": [
         {
@@ -1412,167 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-former-trump-adviser-pans-bidens-address-as-gloomy-that-failed-to-inspire-or-uplift.md",
-      "title": "Former Trump adviser pans Biden's address as 'gloomy' that failed to 'inspire or uplift'",
-      "excerpt": "\"Exactly, that’s what it was,\" remarked Miller. \"John F. Kennedy said let’s put a man on the moon. Donald Trump said let’s put a man on Mars. Joe Biden said let's see if you can eat BBQ ribs with your own relatives and loved ones July 4.\" \"Newsflash ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq",
-      "originalUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/b314e79e-6ac6-442c-9c81-ec46745bb39a/36ebf399-c770-4cb5-adf8-fc05ca582d5c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq.amp",
-      "publishedDateTime": "2021-03-12T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-no-july-4th-fireworks-at-mount-rushmore-this-year-after-controversial-2020-trump-event.md",
-      "title": "No July 4th Fireworks at Mount Rushmore This Year After Controversial 2020 Trump Event",
-      "excerpt": "Although former President Donald Trump held a 4th of July celebration at the memorial in 2020, NPS Regional Director Herbert Frost rejected South Dakota's request for 2021. In his letter to South Dakota Tourism Secretary Jim Hagen, Frost said that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857",
-      "originalUrl": "https://www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1755256/mount-rushmore-fireworks-ban-4th-july-trump.jpg",
-          "width": 2500,
-          "height": 1685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857?amp=1",
-      "publishedDateTime": "2021-03-12T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-chris-miller-defense-secretary-on-jan-6-sees-cause-and-effect-between-trumps-words-and-capitol-riot.md",
-      "title": "Chris Miller, defense secretary on Jan. 6, sees 'cause and effect' between Trump's words and Capitol riot",
-      "excerpt": "The top official in charge of the Pentagon and America's defenses when rioters stormed the U.S. Capitol on Jan. 6 said he believes there was direct \"cause-and-effect\" between then-President Donald Trump's words and the actions of the insurrectionist mob.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/12/chris-miller-pentagon-chief-trump-caused-capitol-riot/4661721001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/12/chris-miller-pentagon-chief-trump-caused-capitol-riot/4661721001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/12/USAT/599b80bb-094c-4e05-8b72-0c00e23a4fbf-GettyImages-1285497255.jpg?auto=webp&crop=5980,3364,x0,y123&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4661721001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4661721001",
-      "publishedDateTime": "2021-03-12T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

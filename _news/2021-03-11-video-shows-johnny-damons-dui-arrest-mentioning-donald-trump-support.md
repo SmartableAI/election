@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mention
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: International Business Times
@@ -31,31 +31,54 @@ images:
     isCached: true
 
 related:
-  - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
-    excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"
-    publishedDateTime: 2021-03-04T10:33:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+  - title: "Trump Net Worth Dropped By $700 Million During Presidency: Report"
+    excerpt: "Former President Donald Trump lost about a quarter of his overall wealth during the four years he served in the White House, according to the latest estimate from the Bloomberg Billionaire Index. When Trump took office in 2017, his net worth was estimated ..."
+    publishedDateTime: 2021-03-17T15:02:00Z
+    webUrl: "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845"
+    ampWebUrl: "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 71
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/4e6/999/6d51cf8fb5705f6e1da184c5903f44cc19-GettyImages-1128135352.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1758105/donald-trump.jpg"
+        width: 1024
+        height: 690
         isCached: true
-  - title: "Special Report: How Trump Administration Left Indelible Mark on U.S. Immigration Courts"
-    excerpt: "The Trump administration revised hiring for immigration judges to allow temporary appointments before background investigations were completed and gave the EOIR director more cont"
-    publishedDateTime: 2021-03-08T12:11:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-08/special-report-how-trump-administration-left-indelible-mark-on-us-immigration-courts"
+  - title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
+    excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
+    publishedDateTime: 2021-03-12T02:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 27
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-psa-vaccine-02-ht-jt-210311_1615493485600_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The 30-second, post-presidency speech about dogs that perfectly summarizes Donald Trump"
+    excerpt: "Donald Trump was the first president since Andrew Johnson to have not had any pets while living in the White House. In 2019, after singer Barbra Streisand criticized the then-president for not having a dog,"
+    publishedDateTime: 2021-03-15T14:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOJSJBQPWII6VESMWNGQTO6JJA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "QUaHUWge2UTSZBNdxKbBYNVw2RH9XoNegPJ2cp6NRO/cn8c76DCHb745oAcZ9uQ80Dpj1jgmwDAlUrx6ibWIypSUctzUQdNKwya2FfFThtc5f+F5ZMgnDmQckZN3/kQgORVzyR9C3Aws714X/K1ytJmbaNmqI/hGkGC87d3JO5+x2iGgNWfeM2AMdEdUH72RAo5C/LhBQ/RjcUVEtD1X9gPWoFHTYxF4CGNY8cOdGhjordZRoAn4FnhORZzC5jxCtBt35L9tQhhN66Uo7Mr90FVJmg2hUkkNFz9AxUKYNskKcF6NdMGDuWdhW4A1kriT+AyHeMFqcbEJ5VVmSzC5R6ItGL0+zrHPROj3sFcBJFGilCveAoQmzT7dRkUREWpzj02R/mySHocy2MieCbe2SqwWGsBG4Tworp7rQrCh5gzJEiHwFE1P3/v6Lupmn/ALSQx3G3c4ZyuDSF+Cm4GEKIx9TauW1rMAaz+szb3XF/3nwPoKQfy1N5fTEKwWyMG+JjQff3fDl29JNEKqEaxtrQ==;NHOExoOI36bRGUjbyuyIOQ=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "A good boy again: Biden's dog will return to the White House"
+    excerpt: "Major breaking news: President Joe Biden’s wayward pup is no longer in the doghouse WILMINGTON, Del. -- There is Major breaking news: President Joe Biden’s wayward pup is no longer in the ..."
+    publishedDateTime: 2021-03-17T13:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/good-boy-bidens-dog-return-white-house-76509382"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/good-boy-bidens-dog-return-white-house-76509382"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/good-boy-bidens-dog-return-white-house-76509382"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_19698d1254dd42eba9a63af4d75da2b4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Man charged in alleged threats to Biden, Pelosi and Whitmer"
     excerpt: "A 21-year-old western Michigan man has been arraigned after authorities say he made death threats to President Joe Biden, U.S. House Speaker Nancy Pelosi and Michigan Gov. Gretchen Whitmer"
     publishedDateTime: 2021-03-16T19:17:00Z

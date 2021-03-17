@@ -447,6 +447,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden says withdrawing troops from Afghanistan by Trump's May 1 deadline will be 'tough'"
+    excerpt: "The current deadline was set in agreement with former President Donald Trump and the Taliban; the Afghan government didn't authorize the terms of the deal. Biden told George Stephanopoulos that he is speaking with allies about the current drawdown plans ..."
+    publishedDateTime: 2021-03-17T13:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-troop-withdrawal-from-afghanistan-may-trump-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-troop-withdrawal-from-afghanistan-may-trump-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-troop-withdrawal-from-afghanistan-may-trump-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/604534f844d8e300117b97d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'The mess we inherited': Biden leans heavily on Trump's 'Warp Speed' but won't give credit"
     excerpt: "President Joe Biden is taking credit for accelerating the vaccine rollout, without giving credit to former President Donald Trump's team that laid the groundwork."
     publishedDateTime: 2021-03-11T03:00:00Z
@@ -1319,6 +1335,6 @@ related:
         height: 663
         isCached: true
 
-secured: "ZopO/jW9Is6r0N9Uo9maUw7/+C6UXxUEcqcwRqeSsShHr9861epK7NI7ZT8oRVP9taC0XFR18BAxsCSrkzkMgerTyuj8SRXp1TYmp3SGcf3g2X9YIHIfq2GRy3yS+Ng6aS9sDjrELoTDsSc1QD9GwEVzPsnFactEm/4M5Fvae5NsYCRoTxVNUj7naOvyhLhSbUNOJdmSSz7+8SfnZ6VfXKDyz5X6gWP9gS2xADU7OkPgEj0cKp0TAKfCk+dtpej8b3LHYvlwyyIYNJ7yu6BSRakwMAl3nJp9QxDuKVhNKzxaIGW7sERdo5ZGD2KTTjOXvVtOI0ZnX6hroNxztX5J2satj6Jw3RMcawLmXICB9rQ=;BPHfxLxzn676Co5so3Pk6w=="
+secured: "RnBeiqIJdz5GDxM4YmK2ubORpXSYUGr2dWyvefoLVzejGfv3/rUUQH9Iv43n8v5Q7agrDNvnfnwGw1YRmBz5+gf56rawrxkzZPXRsUrdCzMWwtUamDkNVpaZk+0G7I3noDG0ZKWe8Roa9tAjnkNaqHCXoO2CmmS+epEoSS/5uq2whspWytWOuD8FxIV7jp0OAggknh7BmztQeV6TqM/NynVTNDsbKpvqBozl4LJ9OGb744nhG3KpnhVXDq2sKafq8mzw1rS2HZeglmhG/5rPCpWmDmVKTd7YFFRwPBuwBhdh/1NpUjLuRvoVG57xNKC9ESdLUxrFBDRaOzwjA0tMu86yM+GZvcvpeYiCOC1eB1LcPwfH2eQ5guKWEIS5NQnwzVut+iERgh+Ku/d7M4KAfT25BJ9JYWQwpXN5TED0uLUdjl588zesWfatKYP9kiKW7nLMW/JU1rQbQ5iRk9evl/9c0fF8clBpTm2cxj8p0n1GUiIIump6POPMgdruYp+t3h0CG08pC4VRyxO4gTfqcQ==;UyJ7JAJD5AYyFd6TjHYTBg=="
 ---
 

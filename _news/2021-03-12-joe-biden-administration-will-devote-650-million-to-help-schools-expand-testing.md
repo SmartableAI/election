@@ -31,54 +31,108 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's $1.9 trillion coronavirus aid bill gets enough votes to pass House"
-    excerpt: "WASHINGTON, March 10 (Reuters) - President Joe Biden’s $1.9 trillion COVID-19 relief bill secured enough votes in the U.S. House of Representatives to pass on Wednesday. The Senate has already approved the legislation. The next step will be the White ..."
-    publishedDateTime: 2021-03-10T18:07:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B22IG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22IG"
+  - title: "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live"
+    excerpt: "Joe Biden told immigrants making the difficult journey to the US-Mexico border “don’t come over” as the administration attempts to respond to an increase of unaccompanied children seeking asylum. In a wide-ranging interview with ABC News’ George ..."
+    publishedDateTime: 2021-03-17T14:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605210d38f083d3e63c4b0b6"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554436201&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291I2"
-        width: 817
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Biden stimulus calls for expanded paid sick leave to help workers facing coronavirus challenges"
-    excerpt: "The U.S. is an outlier for its lack of mandatory paid sick leave. Biden's plan seeks to eliminate loopholes that prevented some 100 million workers from accessing it during the pandemic."
-    publishedDateTime: 2021-01-16T00:25:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/?outputType=amp"
+  - title: "Biden brands Putin a 'killer' and says he will pay for Russian interference in US election – live"
+    excerpt: "Biden’s comments come after declassified intelligence report bolstered allegations Putin was behind election interference"
+    publishedDateTime: 2021-03-17T12:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-6051ed558f0832395ae58239"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/1ec67a1de1482210c42ec256b30874e682d33a38/0_96_3816_2290/master/3816.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6c401fa244460e2db4ab62f03a7792b5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden puts muscle into implementing relief package"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate This ..."
+    publishedDateTime: 2021-03-15T22:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package"
+    ampWebUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030421getty_optimism.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden tells migrants 'don't come over' in ABC News exclusive interview"
+    excerpt: "The president spoke with ABC News' George Stephanopoulos. On Location: March 16, 2021 President Joe Biden said in an exclusive interview with ABC News' George Stephanopoulos on Tuesday that his ..."
+    publishedDateTime: 2021-03-16T23:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
+    excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"
+    publishedDateTime: 2021-03-14T00:35:00Z
+    webUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36AJD4CW3EI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZYDDWEELUI6XAO3WAXQHGHUTI.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 961
         isCached: true
-  - title: "New stimulus plan, Joe Biden, Coronavirus news & more: What’s trending today"
-    excerpt: "A look at some of the top stories trending today including news on Joe Biden and his new stimulus plan, coronavirus updates and much more."
-    publishedDateTime: 2021-01-15T11:07:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/new-stimulus-plan-joe-biden-coronavirus-news-more-whats-trending-today.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/new-stimulus-plan-joe-biden-coronavirus-news-more-whats-trending-today.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/new-stimulus-plan-joe-biden-coronavirus-news-more-whats-trending-today.html?outputType=amp"
+  - title: "Biden defends inaction against Saudi crown prince in killing"
+    excerpt: "President Joe Biden defended his decision to waive any punishment for in the killing of a U.S.-based journalist, claiming that acting against the Saudi royal would have been diplomatically unprecedented for the United States."
+    publishedDateTime: 2021-03-17T14:44:00Z
+    webUrl: "https://www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3?amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 72
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YH33X5XWHVBVBN2AQ2NQZKFA2M.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
+    excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
+    publishedDateTime: 2021-03-17T14:05:00Z
+    webUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LF3TP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LF3TP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
 
 secured: "c2DOaP4D6J7Vc1eig4k/hCmDaDl8I6meWS0TgC9PkvHNaVRlwMePNYWo3hGBK1sCxBcgptFXMpltnrlWx+4ML8pdhqDT6E35NaLhjbyVa7pjTpd3W9aIvVJWa7LwP6NXk6xf7UU35wpFJwWOAEqtZkTeG7qrzt6/BIYq8IuNBG467NpuvwL+bKjr9iv+rJwsWRIs49pkWjnRlzWzMTd5AW18F0456YLl8PIvf4EVHGdAhd5hUnt6hZloaCV4+sPGf5dR4mLR+0UtRBqizgK+sbl7C91pjM25RRc8k5hANKSb7a5/16hRsQRgtoDot/jpQAzpV2gGKZoBuaBx4ojpjgGwT0lGJqML0hRAd6j3mBo=;Rcja5gc1rO8gwgx1FWXv0g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump
 cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: New York Magazine
@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support"
-    excerpt: "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs."
-    publishedDateTime: 2021-03-10T20:03:00Z
-    webUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794"
-    ampWebUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
+  - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
+    excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
+    publishedDateTime: 2021-03-03T22:02:00Z
+    webUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764"
+    ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 75
+    quality: 62
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg"
-        width: 1200
-        height: 949
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/29/ronny-jackson.jpg"
+        width: 594
+        height: 396
         isCached: true
-  - title: "Special Report: How Trump Administration Left Indelible Mark on U.S. Immigration Courts"
-    excerpt: "The Trump administration revised hiring for immigration judges to allow temporary appointments before background investigations were completed and gave the EOIR director more cont"
-    publishedDateTime: 2021-03-08T12:11:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-08/special-report-how-trump-administration-left-indelible-mark-on-us-immigration-courts"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 27
 
 secured: "AG53D+wtAELvyONT7MaglOTqNdzwpibdfvY3M7HGNF4On1Qid33kkvmW/zmopNqqoUNYOKArny2RQnN2ef1o3hlameiXF1CEB/bEEJOHel4/X6ujdmhSmsX0wGUbRAfA8MObBDs+KKPJ/62/zayzxq4eAMVWcWyiHwjZSO+tw8i95WwcBrVpWZtihj/KjarDj1b3K4kSGRdtwXSiAxgwIizNSeP0I2b/Kve5UQoEfQ23poBo4mFYckB2npqDx3pyw+PQJr2UNyfaG662XhHV1LYXobxo5vWtRbfIsgFnn1wGZAUGKagYvQiy25/sbN5Xsfsn8n4HI10+f0mFYhXgWW8T6m6T850CvCCAXRVh6l9T76cAab4w9rMrHUk8e1tsf61Tg9CQncku/W3nTGVN0KjzNoGszrUJLObK0xP/CeRdzuWOIJQa5BXShQVoQbJzSEhwygM+VzqP4O3pS8qZkt4dBvxVXB11TvTtwzc/S2RqYZ1X8Qkqgy4NyhUFSUYzNNEJ7bZuLM1YYFh3mYuVpw==;VZDAoTq5fQ+3NGP6FQcOQg=="
 ---

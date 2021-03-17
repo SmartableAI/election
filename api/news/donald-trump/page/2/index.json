@@ -2,6 +2,167 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-13-former-trump-adviser-pans-bidens-address-as-gloomy-that-failed-to-inspire-or-uplift.md",
+      "title": "Former Trump adviser pans Biden's address as 'gloomy' that failed to 'inspire or uplift'",
+      "excerpt": "\"Exactly, that’s what it was,\" remarked Miller. \"John F. Kennedy said let’s put a man on the moon. Donald Trump said let’s put a man on Mars. Joe Biden said let's see if you can eat BBQ ribs with your own relatives and loved ones July 4.\" \"Newsflash ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq",
+      "originalUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/b314e79e-6ac6-442c-9c81-ec46745bb39a/36ebf399-c770-4cb5-adf8-fc05ca582d5c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq.amp",
+      "publishedDateTime": "2021-03-12T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-no-july-4th-fireworks-at-mount-rushmore-this-year-after-controversial-2020-trump-event.md",
+      "title": "No July 4th Fireworks at Mount Rushmore This Year After Controversial 2020 Trump Event",
+      "excerpt": "Although former President Donald Trump held a 4th of July celebration at the memorial in 2020, NPS Regional Director Herbert Frost rejected South Dakota's request for 2021. In his letter to South Dakota Tourism Secretary Jim Hagen, Frost said that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857",
+      "originalUrl": "https://www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1755256/mount-rushmore-fireworks-ban-4th-july-trump.jpg",
+          "width": 2500,
+          "height": 1685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857?amp=1",
+      "publishedDateTime": "2021-03-12T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-chris-miller-defense-secretary-on-jan-6-sees-cause-and-effect-between-trumps-words-and-capitol-riot.md",
+      "title": "Chris Miller, defense secretary on Jan. 6, sees 'cause and effect' between Trump's words and Capitol riot",
+      "excerpt": "The top official in charge of the Pentagon and America's defenses when rioters stormed the U.S. Capitol on Jan. 6 said he believes there was direct \"cause-and-effect\" between then-President Donald Trump's words and the actions of the insurrectionist mob.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/12/chris-miller-pentagon-chief-trump-caused-capitol-riot/4661721001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/12/chris-miller-pentagon-chief-trump-caused-capitol-riot/4661721001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/12/USAT/599b80bb-094c-4e05-8b72-0c00e23a4fbf-GettyImages-1285497255.jpg?auto=webp&crop=5980,3364,x0,y123&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4661721001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4661721001",
+      "publishedDateTime": "2021-03-12T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-cyrus-vance-prosecutor-investigating-trump-wont-seek-reelection.md",
       "title": "Cyrus Vance, prosecutor investigating Trump, won't seek reelection",
       "excerpt": "Vance's most high-profile current case is a wide-ranging criminal investigation of former President Donald Trump. The investigation initially targeted alleged hush-money payments made during the 2016 campaign to adult film star Stormy Daniels by Mr. Trump ...",
@@ -242,58 +403,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support.md",
-      "title": "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support",
-      "excerpt": "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794",
-      "originalUrl": "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg",
-          "width": 1200,
-          "height": 949,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1",
-      "publishedDateTime": "2021-03-10T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1501,110 +1610,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills.md",
-      "title": "Georgia GOP leaders who stood up to Trump back voting bills",
-      "excerpt": "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-05T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-refugees-flights-cancelled-as-trump-policy-remains.md",
-      "title": "Refugees’ flights cancelled as Trump policy remains",
-      "excerpt": "Refugee resettlement agencies say more than 260 refugees who were vetted, approved and booked to come to the United States have had their flights canceled by the State Department over the past two wee",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-04T20:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

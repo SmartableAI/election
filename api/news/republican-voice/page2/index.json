@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-12-cuomo-invokes-his-daily-fight-with-trump-as-democrats-call-for-him-to-resign.md",
+      "title": "Cuomo invokes his daily ‘fight’ with Trump as Democrats call for him to resign",
+      "excerpt": "New York Gov. Andrew Cuomo defended his ability to govern despite the controversy surrounding him, saying that he has handled multiple issues -- like feuding with former President Trump -- simultaneously.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F5Knj6xoRcY/cuomo-fight-trump-daily-resign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F5Knj6xoRcY/cuomo-fight-trump-daily-resign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d000a34-5ccc-46aa-8af4-9f28c864e571/35df76f6-3d51-490b-9688-2a831c83b17b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-fight-trump-daily-resign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-fight-trump-daily-resign.amp",
+      "publishedDateTime": "2021-03-12T12:02:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-psaki-pressed-on-bidens-fourth-of-july-goal-cautions-its-not-a-return-to-total-normalcy.md",
       "title": "Psaki pressed on Biden's Fourth of July goal, cautions it's not a 'return to total normalcy'",
       "excerpt": "White House press secretary Jen Psaki said President Biden’s aspiration for Americans to have fourth of July celebrations is not calling for a “mass event” or “return to total normalcy.”",
@@ -1596,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-senate-republican-retirements.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-senate-republican-retirements.amp",
       "publishedDateTime": "2021-03-08T11:56:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-biden-backs-house-gun-background-check-bills-that-would-tighten-restrictions.md",
-      "title": "Biden backs House gun background check bills that would tighten restrictions",
-      "excerpt": "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d_Y_MdnyAE/biden-gun-background-check-bills",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d_Y_MdnyAE/biden-gun-background-check-bills",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 292,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-gun-background-check-bills.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-background-check-bills.amp",
-      "publishedDateTime": "2021-03-08T09:31:07-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

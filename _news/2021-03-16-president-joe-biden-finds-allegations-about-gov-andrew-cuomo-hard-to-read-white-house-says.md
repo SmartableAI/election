@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Pelosi, Biden step up critique of Cuomo, but stop short of calling for immediate resignation"
+    excerpt: "Add House Speaker Nancy Pelosi to those who think Gov. Andrew Cuomo should resign if allegations of sexual harassment are proven true."
+    publishedDateTime: 2021-03-17T14:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/17/pelosi-biden-cuomo-resignation-new-york/4731712001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4731712001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4731712001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/02/25/PROC/4604847e-c439-49f3-b43a-9b9f657e6171-AP19056619832676.jpg?auto=webp&crop=5183,2902,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Biden addresses allegations against New York Governor Andrew Cuomo for the first time"
     excerpt: "Asked whether he thinks New York Governor Andrew Cuomo should resign over allegations of sexual harassment, President Joe Biden said he will wait and see what the investigation turns up. Josefa Velasquez,"
     publishedDateTime: 2021-03-15T14:12:00Z

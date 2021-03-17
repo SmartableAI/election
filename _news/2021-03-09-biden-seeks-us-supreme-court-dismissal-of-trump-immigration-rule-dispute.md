@@ -439,6 +439,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden says withdrawing troops from Afghanistan by Trump's May 1 deadline will be 'tough'"
+    excerpt: "The current deadline was set in agreement with former President Donald Trump and the Taliban; the Afghan government didn't authorize the terms of the deal. Biden told George Stephanopoulos that he is speaking with allies about the current drawdown plans ..."
+    publishedDateTime: 2021-03-17T13:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-troop-withdrawal-from-afghanistan-may-trump-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-troop-withdrawal-from-afghanistan-may-trump-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-troop-withdrawal-from-afghanistan-may-trump-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/604534f844d8e300117b97d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. says Putin authorized operations to denigrate Biden and boost Trump in 2020 campaign"
     excerpt: "01:34 Washington — Russian President Vladimir Putin authorized influence operations that sought to damage President Biden's candidacy during the 2020 election and boost former President Donald Trump, according to an unclassified report from the U.S ..."
     publishedDateTime: 2021-03-17T12:05:00Z

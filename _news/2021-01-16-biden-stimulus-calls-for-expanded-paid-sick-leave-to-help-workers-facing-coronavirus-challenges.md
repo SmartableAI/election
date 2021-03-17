@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Joe Biden administration will devote $650 million to help schools expand testing"
-    excerpt: "During his prime time speech Thursday, President Joe Biden noted his announcement last week to vaccinate teachers and school officials by the end of March will help the majority of K-8 schools reopen within his first 100 days in office, or by the end of ..."
-    publishedDateTime: 2021-03-12T01:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/joe-biden-administration-send-millions-schools-expand-testing/4657459001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4657459001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4657459001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/07/USAT/59e31eb1-a074-4387-83f2-c87d0ebf692c-VPC_BIDEN_EXEC_ORDER_desk.jpg?auto=webp&crop=1274,717,x5,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "New stimulus plan, Joe Biden, Coronavirus news & more: What’s trending today"
     excerpt: "A look at some of the top stories trending today including news on Joe Biden and his new stimulus plan, coronavirus updates and much more."
     publishedDateTime: 2021-01-15T11:07:00Z

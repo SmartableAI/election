@@ -91,6 +91,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump urges supporters get vaccinated after Fauci, experts call on him to do so"
+    excerpt: "Former President Donald Trump encouraged his supporters to get vaccinated after a poll showed nearly half would not get the vaccine when it became available."
+    publishedDateTime: 2021-03-17T15:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-urges-supporters-vaccinated-fauci-experts-call/story?id=76509348"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-urges-supporters-vaccinated-fauci-experts-call/story?id=76509348"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-urges-supporters-vaccinated-fauci-experts-call/story?id=76509348"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-cpac-rt-ps-210317_1615989428814_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "‘We want to be educated, not indoctrinated,’ say Trump voters wary of covid shots"
     excerpt: "Tout the number of people who got the vaccines in trials. And don’t show pro-vaccine ads with politicians — not even ones with Donald Trump. That’s what a focus group of vaccine-hesitant Trump voters insisted to politicians and pollsters this weekend ..."
     publishedDateTime: 2021-03-15T10:38:00Z
@@ -309,6 +325,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Yf/hp+7bghLbrOWBCnuYJ+z4wtYiq2lWrvkRv1Mz/WxZhbcjYNrdfTBY7Co9RL/UKGQDJTKegwWm3yOqu/vyMOhDhbZJvB00l5jcoruSLTWOVQpuat59evRDFyoa/+5OByqpG7/Ic76AchHjsWwzIjFzxE/UfXqTczgakvoOyzllp2rdzzgpuPcNxXcME6vinamNg30RWhnWQugSlvOgdSUCfkc5WavAeat4ygN6NnU/LpTCs1+pOIIznIRcUAwlIhgwbhfRLijFGyP/Ue/qFmn7QmMDXqrnFL4Gnc7u6NCbTFRY64wys5LfrPHKSduasuMHkuzGtt2tlgh2DXMaBq0XWENkmDOo9pv8PQvYWxg=;Ckqz1ZQ3XyaBH6gHFccDxA=="
+secured: "lghAQVV+V5W2wAlikYCHOV0HOroPONUeddhM5wLxtUfgTtoF6SxpdF0NgKzu3mHOmtIFB7LbGM/Jj9i4aW0gU8/5p57yt+UB8Uk22LtnGYPY46zE4535MDXsK/Ow8it4NI3wEBVxWnopCpT6aQNjskZRiJgfzoKvMAOKlx6nFi6AXh8IhjQlfFxVX/UM5cWSrOuyRop+iXR03yVgC6dF7Z19cB6INJ2odgL2r2Pelm2yFjbZ7G4plt7M+Be6/4DQ2tg/6GtQfY5e/gdnb6gmGiAg6NoQrpEUy0YZKNEF/Cnmks8y8mFVp6KG6VFeeRYnRwq9yLnAwViw7XOiUFkyt66RPbEQ1rc9J2zMa6XVP3PxBDeg/PZfIufVejyUeebgSW8uLnk5JTQuj30SKajdN7wRnZxy0NACvtadfuQTonYreHx21yd2ciia+ZU+dMz8FF4fYooUZxBb5nafYeVHOvVLxgO2wsMMx0/+9B++szWFN+aimYhJ66F1RwH0z31uQcIkcn1BnKHHvm1+wVdTgQ==;5GQFCR4NZFZ396ZA0n/W1w=="
 ---
 

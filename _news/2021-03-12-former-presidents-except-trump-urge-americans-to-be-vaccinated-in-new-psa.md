@@ -31,35 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to be interviewed by Fox's Bartiromo"
-    excerpt: "Former President Trump will appear on “Fox News Primetime” with host Maria Bartiromo on Wednesday night at 7 p.m., the former president’s office announced in a statement."
-    publishedDateTime: 2021-03-16T21:23:00Z
-    webUrl: "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo"
-    ampWebUrl: "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp"
+  - title: "Trump Net Worth Dropped By $700 Million During Presidency: Report"
+    excerpt: "Former President Donald Trump lost about a quarter of his overall wealth during the four years he served in the White House, according to the latest estimate from the Bloomberg Billionaire Index. When Trump took office in 2017, his net worth was estimated ..."
+    publishedDateTime: 2021-03-17T15:02:00Z
+    webUrl: "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845"
+    ampWebUrl: "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpcpac2_030121getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://d.newsweek.com/en/full/1758105/donald-trump.jpg"
+        width: 1024
+        height: 690
         isCached: true
-  - title: "Fox News' Maria Bartiromo went all in on Trump. Her gamble risks alienating Corporate America."
-    excerpt: "The legendary business reporter is aiming for a coveted primetime slot as her next big career move."
-    publishedDateTime: 2021-03-10T09:01:00Z
-    webUrl: "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3"
+  - title: "The 30-second, post-presidency speech about dogs that perfectly summarizes Donald Trump"
+    excerpt: "Donald Trump was the first president since Andrew Johnson to have not had any pets while living in the White House. In 2019, after singer Barbra Streisand criticized the then-president for not having a dog,"
+    publishedDateTime: 2021-03-15T14:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/6048005cdf53f8001802a61b?width=700"
-        width: 700
-        height: 525
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOJSJBQPWII6VESMWNGQTO6JJA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support"
+    excerpt: "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs."
+    publishedDateTime: 2021-03-10T20:03:00Z
+    webUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794"
+    ampWebUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg"
+        width: 1200
+        height: 949
         isCached: true
 
 secured: "X5yrZR3G56ixRUe7O9L9W8DxushbEerybBXJd5OZgDB7xZF8iJrPBZtURjekYNjzKtK46FZDHsueeNuQhFPCgjcZBV4undOVrYnvyDLMcDLEFg/7LSZWSEcTiUhjzsrfjfyuPmjWs3I/Ua9J1nrtgBKpKfU1/Q+bzMjCN2kKQ0WrLenrtp3+Uy4mmdiVEqD2jXxrJlBc2CzzZ9pwMJ5nILzcyNU7O9zdMarr59XthQGdAjqWhFyiVsEFxDn6/EaFspEszYsd6cWZZmZCCPzDIKGwjQyw9Pcw2LSBttw/FSsEhoH6KdDV/Ben3ivCud6KhD09a233sdCMXjR3QRdCBMC7Llzmhw8L6tl1T6Ih2XO5o72YhOh2zgO32A+ni4b6SNDR/h/b1AHTAG2pGPMyuv1JAzVlGz3ellWnGBDkA2y3I7r1G3+QWtlJ4AY2Z3NXhR7+sjjWAfrao90QHW/8Gm6Gz65iYQlSpw1QW9kdMB+xr6DmUKJG/Gmf5TiX8QddEHVbnptxO1uJKJfpiZ1BJA==;Co1aAwpcfFbi2fs8RtwTAg=="

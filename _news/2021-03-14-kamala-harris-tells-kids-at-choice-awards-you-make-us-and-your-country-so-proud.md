@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
 type: article
 quality: 69
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
+    excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"
+    publishedDateTime: 2021-03-17T15:50:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6b6bc9db283edf2ba9affe858e9c3c4a/Vice-President-Kamala-Harris-hosts-Michel-Martin-Prime-Minister-of-Ireland/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6b6bc9db283edf2ba9affe858e9c3c4a/VICE-PRESIDENT-HARRIS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "“We want to make sure you stay open”: Vice President Kamala Harris, husband promote federal stimulus plan in Colorado"
     excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, sat down at a table at Denver’s Maria Empanada restaurant on Tuesday afternoon. It wasn’t for a bite to eat, but instead part"
     publishedDateTime: 2021-03-16T23:04:00Z

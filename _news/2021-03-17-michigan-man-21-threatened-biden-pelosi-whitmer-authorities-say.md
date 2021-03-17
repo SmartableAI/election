@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-man-21-threatened-biden-pe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Pelosi joins Biden in saying Cuomo should resign if allegations are proven true"
+    excerpt: "House Speaker Nancy Pelosi said Wednesday that embattled New York Gov. Andrew Cuomo should step down if the allegations of sexual harassment against him are proven true."
+    publishedDateTime: 2021-03-17T14:36:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-AYMXWiKOJM/pelosi-joins-biden-cuomo-resign-allegations-proven-true"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-joins-biden-cuomo-resign-allegations-proven-true.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-joins-biden-cuomo-resign-allegations-proven-true.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aab7725-3f20-42e1-9e76-09f996c516b6/f0437966-e7dd-4d2c-a620-29bb3724ddc7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "FZPuaUpiIKkyyyDM9kHJj50rOmbwkL2OfiQu0+ePhRzqTJ882MO9FGoMDVGjZJJHiOwZ/rV0Wv+NH3WX94m7vNhhsnRR7jSsV5kseoyZTr99J3L0WRaJw88yD4i+SOlNWqgCPdgDIF2RtW+Ncm8KsfsUpXXrD/hoEqQQvjnyjp5Eav3dB55bqMTsrOWAvgOY75dKZEiG7wY73ickH/N32TlgCOGzRv7Dm1RUKSxNC3Ozx1Y4qMhpg78oRMtvzLa8PuIMcxtvBMLt0wxqogmko9Q3dgFY1/gMvi8us3WqKrlWg3PqEH6ftI2ws+X6iRrthnVmClE0yW/MnXZslHvOp9yaaEOme7NSQQyMBDC7iCA=;2+I2RtNDFXwFcZCAsyvBbw=="
 ---

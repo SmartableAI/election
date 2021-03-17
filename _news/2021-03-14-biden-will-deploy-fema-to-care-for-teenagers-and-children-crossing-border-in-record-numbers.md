@@ -31,84 +31,108 @@ images:
     isCached: true
 
 related:
-  - title: "For Biden, there's no place like a weekend home in Delaware"
-    excerpt: "For President Joe Biden, there's no place like a weekend home in Delaware WILMINGTON, Del. -- As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured ..."
-    publishedDateTime: 2021-03-13T14:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229"
+  - title: "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live"
+    excerpt: "Joe Biden told immigrants making the difficult journey to the US-Mexico border “don’t come over” as the administration attempts to respond to an increase of unaccompanied children seeking asylum. In a wide-ranging interview with ABC News’ George ..."
+    publishedDateTime: 2021-03-17T14:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605210d38f083d3e63c4b0b6"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
+    images:
+      - url: "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden brands Putin a 'killer' and says he will pay for Russian interference in US election – live"
+    excerpt: "Biden’s comments come after declassified intelligence report bolstered allegations Putin was behind election interference"
+    publishedDateTime: 2021-03-17T12:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-6051ed558f0832395ae58239"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/1ec67a1de1482210c42ec256b30874e682d33a38/0_96_3816_2290/master/3816.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6c401fa244460e2db4ab62f03a7792b5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden puts muscle into implementing relief package"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate This ..."
+    publishedDateTime: 2021-03-15T22:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package"
+    ampWebUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030421getty_optimism.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden tells migrants 'don't come over' in ABC News exclusive interview"
+    excerpt: "The president spoke with ABC News' George Stephanopoulos. On Location: March 16, 2021 President Joe Biden said in an exclusive interview with ABC News' George Stephanopoulos on Tuesday that his ..."
+    publishedDateTime: 2021-03-16T23:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
     type: article
     provider:
       name: ABCNews
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3b0cbd70660341528ecdc742bc6d4056_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "For Biden, there’s no place like a weekend home in Delaware"
-    excerpt: "WILMINGTON, Del. — As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured to the White House and said it’s a “magnificent building” to live in. Except on weekends. Support our journalism. Subscribe today."
-    publishedDateTime: 2021-03-14T00:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/for-biden-theres-no-place-like-a-weekend-home-in-delaware/2021/03/13/04b9c38e-8460-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/for-biden-theres-no-place-like-a-weekend-home-in-delaware/2021/03/13/04b9c38e-8460-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/for-biden-theres-no-place-like-a-weekend-home-in-delaware/2021/03/13/04b9c38e-8460-11eb-be22-32d331d87530_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
-    excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
-    publishedDateTime: 2021-03-14T14:12:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/14/biden-fema-migrant-children-surge-mexico-border"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/biden-fema-migrant-children-surge-mexico-border"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/biden-fema-migrant-children-surge-mexico-border"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/cf74fac66dcf5b171bb7741a4b82d816f593dc7b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36ae313660f3c7e19be3dc6dcea610a7"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden dogs are in Delaware while Jill Biden travels after Major caused a 'minor injury'"
-    excerpt: "The statements came Tuesday after CNN reported Monday that President Joe Biden and first lady Jill Biden's two German shepherds returned to their family home in Delaware last week following \"aggressive behavior at the White House\" involving Major."
-    publishedDateTime: 2021-03-10T11:04:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4640961001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4640961001"
+  - title: "Joe Biden administration will devote $650 million to help schools expand testing"
+    excerpt: "During his prime time speech Thursday, President Joe Biden noted his announcement last week to vaccinate teachers and school officials by the end of March will help the majority of K-8 schools reopen within his first 100 days in office, or by the end of ..."
+    publishedDateTime: 2021-03-12T01:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/joe-biden-administration-send-millions-schools-expand-testing/4657459001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4657459001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4657459001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 117
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/8953951b-8480-4aa9-bd02-06c6ebe10ae8-VPC_JILL_BIDEN_PSA_PUPPY_BOWL_DESK_THUMB.00_00_20_18.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/03/07/USAT/59e31eb1-a074-4387-83f2-c87d0ebf692c-VPC_BIDEN_EXEC_ORDER_desk.jpg?auto=webp&crop=1274,717,x5,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Police unions and civil-rights groups are rarely on the same page. They both see an ally in this Biden Justice Department nominee."
-    excerpt: "Associate Attorney General nominee Vanita Gupta is seen as a potential bridge between progressives and the White House as it pushes for bolder criminal justice reform policies."
-    publishedDateTime: 2021-03-16T02:16:00Z
-    webUrl: "https://www.businessinsider.com/vanita-gupta-associate-attorney-general-justice-department-doj-police-reform-2021-3"
+  - title: "Biden defends inaction against Saudi crown prince in killing"
+    excerpt: "President Joe Biden defended his decision to waive any punishment for in the killing of a U.S.-based journalist, claiming that acting against the Saudi royal would have been diplomatically unprecedented for the United States."
+    publishedDateTime: 2021-03-17T14:44:00Z
+    webUrl: "https://www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/604fb8023c6489001943b3ad?width=700"
-        width: 700
-        height: 525
-        isCached: true
+    quality: 105
+  - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
+    excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
+    publishedDateTime: 2021-03-17T14:05:00Z
+    webUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LF3TP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LF3TP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
 
 secured: "V6vcGdGaqc69jLPkoqVV7lcLbIxK1O6994gKgYkFzKBLgiHI25QfVJg1b+JH+5XKwhqoPsouu3YpTAKt9siC7THsL5okbgmqA1IqOEQwLFXdEr0M8nALjYr/vtYtyaG1ZMc5cxPhw+JXn+4g6/DSI7xzjz3wDWkcd6IGiz8Pe/vc08pmf/RY/d7hE6SDPPHHXHMKTEdh68E67+9idSnORkW0oOYHwi42jlGXM0p/GY1cBlD5bMX04A0zaiH7UZyok8DCv6sNqIXTvi0Vn6cNj1bqqh3aQO3yW8BBj6XVUujHtgYYAm1U1K+rXtr2RPgh1rN8iLmlTaWVZ//RKDD5Y1w6rlKg14GXaDvSL0+jIKdZyrVDh2WT5CpHw1RtfZrR7OKmq0voYPoi3Pqg68JwFSfPD/YlKOioOxPUNCRT7aB54D0RlEVlE+82beOsdOb16Ths6cT83c+s8EDtCwd0f9xlScXzsqp/RdrB/lWxAPI4dRfvETjoYl0O5jOrqtLUM5x8g1GHs/hzx25/30AZJA==;9sXdwxDS4c1fAL8DpINZqQ=="
 ---

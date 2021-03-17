@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-accusat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro.amp"
 type: article
 quality: 185
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a14e8454-6da2-4ad0-ac22-b98f9eeb2aff/adc0ac07-9da3-4087-90c4-ae385a9c3d17/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris supports change to filibuster in Senate to limit minority party power"
+    excerpt: "Vice President Kamala Harris supports changing the filibuster practice in the Senate in order to limit the ability of the minority party to easily block legislation, her office confirmed to Fox News Wednesday. "
+    publishedDateTime: 2021-03-17T14:54:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScI6CQMge0E/kamala-harris-filibuster-senate-limit-minority-party-power"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Clinton, Harris, Warren all silent on Cuomo after second woman brings sexual misconduct allegations"
     excerpt: "Multiple high-profile Democratic women have yet to publicly comment on sexual harassment allegations against New York Gov. Andrew Cuomo despite having fervently objected to the nomination of Brett Kavanaugh to the U.S. Supreme Court over decades-old allegations of sexual harassment."
