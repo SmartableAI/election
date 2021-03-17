@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-depar
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 525
+heat: 505
 published: true
 
 provider:
@@ -268,22 +268,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a2dac800-51ec-458f-9e34-02191eb985bd-Capitol_Police.jpg?auto=webp&crop=4999,2812,x1,y753&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
-    excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."
-    publishedDateTime: 2021-03-11T21:27:00Z
-    webUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/604a851ef196be0018beef55?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Former President Donald Trump urges ex-NFL star to run for U.S. Senate"
     excerpt: "Former President Donald Trump is hoping one of his long-time friends decides to run for a seat in the U.S. Senate."

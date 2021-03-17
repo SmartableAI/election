@@ -402,6 +402,20 @@ related:
         width: 1024
         height: 765
         isCached: true
+  - title: "Trump Encourages His Supporters To End Vaccine Resistance"
+    excerpt: "President Donald Trump on Tuesday encouraged his Republican supporters -- one of the main groups resistant to Covid-19 vaccines -- to get their shots. \"I would recommend it,\" Trump said during an interview on Fox News."
+    publishedDateTime: 2021-03-17T00:02:00Z
+    webUrl: "https://www.ibtimes.com/trump-encourages-his-supporters-end-vaccine-resistance-3163372"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T14:00:00Z

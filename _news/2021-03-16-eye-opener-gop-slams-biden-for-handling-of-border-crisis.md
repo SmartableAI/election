@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/eye-opener-gop-slams-biden-for-handl
 webUrl: "https://www.cbsnews.com/video/eye-opener-gop-slams-biden-for-handling-of-border-crisis/"
 type: article
 quality: 105
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Scarborough faults Biden for 'permissive' border message"
+    excerpt: "MORE faulted the Biden administration at then end of his \"Morning Joe\" program on Tuesday for a \"permissive\" border message that was leading to a surge of immigrants. Scarborough said he agreed ..."
+    publishedDateTime: 2021-03-16T14:32:00Z
+    webUrl: "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at"
+    ampWebUrl: "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/scarboroughjoe_011821screenshot.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "I2+FNZk88MvoFgyoewarxElP7/sK2gbf8Xd2laj4N8bmcQAO9qaDP/ZJkIi63lSHNFwCkEo824Q+6XnYiIGOPdE91GzOlG0IIFUq1olP20QgipRduHtgydTwE/KNceWd5v3dwkfTLTuvpIveNcN81Vng4aoaQerkXBEsTjWxr1AMPPD8whETMrq+hB304GqZ77LfOcgpUQM8yGjw2YyQXrCWmLe1Czg9yMqpW+HRXL9BICgbKbdD614Tk5i9DUF8ijklZbMrTbPA0Yd/jH1HnoJHkd5gaQJ6OYeZCvhI7vOrCRXHdQOibTCGFOXSAFRUeFfEZH904el8b5NpOfIx/p+EppQ3WBlwHSMlAWQlM71SbYqdZtjF9ex/t/aZVmVIysnEd0mPNg7V0zpvUfLq26m4HLPCCcFjrMNG7iGJ1CpOt6XFMBMdCpoYxURPiaqdn+xIXr6k0v1u/YNoxBcDxkT1vQdXYYprhCB3SxnfQM+TOjJkg9zNX9fkpczj5AeQ3zSSQZqtMX1Ejj+UB7NZvw==;YBaHv91ooMB5XdAJ4V1Dsw=="
 ---

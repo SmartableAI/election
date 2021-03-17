@@ -59,38 +59,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Fauci: Trump should urge his followers to get vaccinated"
-    excerpt: "Dr. Anthony Fauci says he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine Here’s every public figure who has ..."
-    publishedDateTime: 2021-03-14T16:59:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/fauci-trump-urge-followers-vaccinated-76450121"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/fauci-trump-urge-followers-vaccinated-76450121"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/fauci-trump-urge-followers-vaccinated-76450121"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_826ac61e54da4defa9b2b4d1443a216a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump should urge his followers to get vaccinated, Fauci says"
-    excerpt: "Dr. Anthony Fauci says he wishes former President Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
-    publishedDateTime: 2021-03-14T09:59:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d494534/2147483647/strip/true/crop/4800x3135+0+78/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2F0c%2F6f8f529e4ea0a1798b8a2a22b80b%2Fla-photos-1staff-598594-la-policevictimsrally-001-ls.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Trump Voters Hesitant About COVID Vaccine Won't Be Swayed by Former President"
     excerpt: "When trying to convince former President Donald Trump's supporters to get vaccinated against COVID-19, officials should look to hammering home facts about those who have been vaccinated and not rely on the former president's persuasion, a recent focus ..."
     publishedDateTime: 2021-03-15T17:45:00Z
@@ -187,6 +155,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Touts 'Safe' COVID Vaccine After Pressure from Psaki, Assures Supporters 'We Have Our Freedoms'"
+    excerpt: "After pressure from the White House, former President Donald Trump on Tuesday advised all Americans to get the coronavirus vaccine, saying that it is \"safe\" and \"something that works.\" Trump called into Fox News this evening to discuss the success of his administration's Operation Warp Speed,"
+    publishedDateTime: 2021-03-17T01:04:00Z
+    webUrl: "https://www.newsweek.com/trump-touts-safe-covid-vaccine-after-pressure-psaki-assures-supporters-we-have-our-freedoms-1576667"
+    ampWebUrl: "https://www.newsweek.com/trump-touts-safe-covid-vaccine-after-pressure-psaki-assures-supporters-we-have-our-freedoms-1576667?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-touts-safe-covid-vaccine-after-pressure-psaki-assures-supporters-we-have-our-freedoms-1576667?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 110
+    images:
+      - url: "https://d.newsweek.com/en/full/1757626/trump.jpg"
+        width: 2978
+        height: 1820
+        isCached: true
   - title: "Fauci says Trump should push supporters to get covid vaccine after ‘disturbing’ poll results show they won’t"
     excerpt: "Anthony S. Fauci, the nation’s top infectious-disease expert, said in interviews Sunday that former president Donald Trump should be enlisted to encourage his supporters to get a coronavirus vaccine, after recent polling showed Republican men and Trump ..."
     publishedDateTime: 2021-03-14T22:53:00Z
@@ -214,20 +198,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "White House would 'support' Trump vaccine effort"
-    excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"
-    publishedDateTime: 2021-03-16T00:03:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE478I5B"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210315&i=OVE478I5B&r=OVE478I5B&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
     excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
     publishedDateTime: 2021-03-14T19:08:00Z
@@ -258,37 +228,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fauci: Trump should urge his followers to get vaccinated"
-    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade more of his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows,"
-    publishedDateTime: 2021-03-15T05:07:00Z
-    webUrl: "https://www.chron.com/news/article/Fauci-Trump-should-urge-his-followers-to-get-16024842.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Fauci-Trump-should-urge-his-followers-to-get-16024842.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Fauci-Trump-should-urge-his-followers-to-get-16024842.php"
+  - title: "Trump urges supporters to get COVID vaccine, but tells them he also respects ‘freedom’"
+    excerpt: "The ex-president urged Americans late Tuesday to get vaccinated before saying he also “agrees” with their “freedom” to not do it, leaving his supporters with a distinctly mixed message. “I would recommend it and I would recommend it to a lot of people that don’t want to get it and a lot of those people voted for me,"
+    publishedDateTime: 2021-03-17T01:21:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html?outputType=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 67
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Fauci: Trump should use his sway to promote COVID vaccinations"
-    excerpt: "The government's top infectious disease expert lamented polling showing that Trump supporters are more likely to refuse to get vaccinated."
-    publishedDateTime: 2021-03-14T23:46:00Z
-    webUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html"
-    ampWebUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJPCM6T3LFASDDS7LXUUNGRCEM.jpg"
-        width: 4307
-        height: 2871
+      - url: "https://www.nydailynews.com/resizer/7TYSeLx83ZNph4_GAy8P_6__Ya0=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KBNWWBFMRFBS3D3XMPEQ4VYQBY.jpg"
+        width: 1200
+        height: 835
         isCached: true
 
 secured: "AtzHW9/nXDmfjT6K79Qya19rEGLfbTdC5+2VdKlDGaTgJVWDkHWLXP6t08OaGA+ZlXpIhl+WmHlWU5Xa/pVTsd25jUuU737D8iy8gdeqyFMoF1pIcWMcm2gkzHmhi0qlIe27O23Nar8aFjK/epSbwsduvnQVZKnQZxcGyh03BipoI/EuJArRkIl/80ChvaXzIZiVdtNHMoMIlSKaL9de1wdZwSXM26Qm+JwcvYA5jNRSu9JKmUBDn+UPI1rdnmZZjuxw5qcUOYY77CZoSJ2mszZntnOLjs0XBzwcds8KzzkY804rr8WOneh+i5iQzDPdJSkxRBZ0arIfDe2G6X96i1OAHV3u6msqHHdD2/wt2dqIF/Cc2bJ8BVqiq1S6ACnARHUWniPwog5FGO72hkdr2JNLVoiOaQHPjUZEJtLuYGoWT8BwRpReLf21eiwm+QeeD4OQmnDm/gZHPawwdI5aafKVBZD28k378qeTi+TAr2ZixFc2R4QfnbXid1pjtyJT03ULjNdkbfti3wDAxbZbQA==;h3ZLOjm7rILnYPYgikNf5A=="

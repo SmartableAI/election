@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6936053002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002"
 type: article
 quality: 125
-heat: 1005
+heat: 1025
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1755656/beachgoers-pictured-fort-lauderdale-florida.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Biden, in Pennsylvania to promote stimulus package, calls aid 'a big deal'"
+    excerpt: "President Joe Biden promoted his $1.9 trillion stimulus package in Pennsylvania on Tuesday as part of an all-out push by his team to sell a plan aimed at boosting the U.S. economy out of its pandemic doldrums."
+    publishedDateTime: 2021-03-16T22:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pennsylvania-idUSKBN2B825P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B825P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B825P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555122994&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1LD"
+        width: 817
+        height: 545
         isCached: true
   - title: "Kimmel on Biden's Covid relief bill: 'Naturally, Republicans are against it'"
     excerpt: "Late-night hosts discuss Covid relief, the latest Fox News culture wars, and the role white women play in bolstering QAnon"

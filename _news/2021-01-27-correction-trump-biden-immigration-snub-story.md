@@ -511,6 +511,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump blames Biden for border crisis"
+    excerpt: "Former President Trump on Tuesday blamed his successor for the burgeoning crisis at the southern border, saying previous progress has been \"eroded\" under President Biden."
+    publishedDateTime: 2021-03-17T01:52:00Z
+    webUrl: "https://thehill.com/homenews/administration/543547-trump-blames-biden-for-border-crisis"
+    ampWebUrl: "https://thehill.com/homenews/administration/543547-trump-blames-biden-for-border-crisis?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543547-trump-blames-biden-for-border-crisis?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpcpac2_030121getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
     excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"
     publishedDateTime: 2021-02-03T20:01:00Z

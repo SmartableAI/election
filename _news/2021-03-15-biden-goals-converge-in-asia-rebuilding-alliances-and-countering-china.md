@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Manchin on his veto power over Biden agenda: 'It's not a good place to be'"
-    excerpt: "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n"
-    publishedDateTime: 2021-03-11T00:49:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bjE6jWbXzE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html"
+  - title: "Biden says he supports bringing back the Senate's talking filibuster rule"
+    excerpt: "President Joe Biden on Tuesday said he supports changing the Senate's filibuster rule by bringing back the talking filibuster, requiring a senator who wants to block legislation to hold the floor without taking a break.\n    \n"
+    publishedDateTime: 2021-03-17T01:50:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EABo_4-Caes/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/biden-supports-reforming-filibuster/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/biden-supports-reforming-filibuster/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Top Senate Democrat sees little chance of passing Biden plan for pathway to citizenship for millions of undocumented immigrants"
+    excerpt: "a key pillar of President Joe Biden's immigration plan. \"I don't see a means for reaching that,\" Durbin, the Senate majority whip, told CNN when asked about the pathway to citizenship. \"I want it. I think we are much more likely to deal with discreet ..."
+    publishedDateTime: 2021-03-15T21:58:00Z
+    webUrl: "https://www.cnn.com/2021/03/15/politics/dick-durbin-immigration-pathway/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/dick-durbin-immigration-pathway/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/dick-durbin-immigration-pathway/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 107
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014113326-06-barrett-hearing-1014-durbin-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

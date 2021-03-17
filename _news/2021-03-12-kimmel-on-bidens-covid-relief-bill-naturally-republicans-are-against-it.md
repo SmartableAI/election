@@ -319,6 +319,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Biden, in Pennsylvania to promote stimulus package, calls aid 'a big deal'"
+    excerpt: "President Joe Biden promoted his $1.9 trillion stimulus package in Pennsylvania on Tuesday as part of an all-out push by his team to sell a plan aimed at boosting the U.S. economy out of its pandemic doldrums."
+    publishedDateTime: 2021-03-16T22:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pennsylvania-idUSKBN2B825P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B825P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B825P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555122994&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1LD"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
     excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
     publishedDateTime: 2021-03-04T04:53:00Z

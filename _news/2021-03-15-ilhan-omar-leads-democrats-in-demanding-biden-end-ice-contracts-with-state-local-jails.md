@@ -272,6 +272,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Scandal-plagued Cuomo joins White House call as Biden refuses to call for resignation"
+    excerpt: "New York Gov. Andrew Cuomo took part in a call between the National Governors Association and the White House on Tuesday, two people who were on the call told Fox News Channel. President Biden was not on the call, but White House coronavirus response team ..."
+    publishedDateTime: 2021-03-16T23:10:00Z
+    webUrl: "https://www.foxnews.com/politics/cuomo-joins-white-house-call-biden-resignation-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-joins-white-house-call-biden-resignation-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-joins-white-house-call-biden-resignation-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Andrew-Cuomo-Nursing-Home-Scandal-AP-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "6NrPnkwJldJ83LlINyLI9izv7AYh5jFtL3Dq9T2qkbWym2tb87lMWFKGPnSOZf42pBlE8xIJH3laE2J2I7KfCSHP5T5kR7bPr451oIGPNw1fTKSEfMgrjVrutK5l3ba4KNJTgpX9VlBymbXbuVXbSpaumSgO8adSsYp5PCyUFU4uRwh2vxgkIddyjoHFMbfpx2M72GJfmwAJeZOBaY3KYki3xZxRQN8GvwCwtce/dhqQcnU9OkECRoOfPYm9rPMv0f3nxbvpPCvjyjdLSGQsHu0cs5gr5a3/ZCDUVXniPDW/PvRkRXFCy9bKoFPOSYUaW9zwljUHDuc6W70ZBTOC9YPLVFhleBOZ3lBgmzyU2oo=;9arezeEcgJzr0ajW8fhzEw=="
 ---

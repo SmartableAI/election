@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Chaos Under Heaven review: Trump as raging bull in a China policy shop"
-    excerpt: "Before Covid upended everything, the US president upended relations with Beijing – without interest or ability to build anew"
-    publishedDateTime: 2021-03-14T05:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
+  - title: "Trump says election 'should have been overturned'"
+    excerpt: "Former President Trump said the 2020 election “should have been overturned,” citing his repeated claims of voter fraud despite a lack of evidence."
+    publishedDateTime: 2021-03-17T01:35:00Z
+    webUrl: "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned"
+    ampWebUrl: "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald4_08192020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Fauci: Trump should urge his followers to get vaccinated"
+    excerpt: "Dr. Anthony Fauci says he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine Here’s every public figure who has ..."
+    publishedDateTime: 2021-03-14T16:59:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/fauci-trump-urge-followers-vaccinated-76450121"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/fauci-trump-urge-followers-vaccinated-76450121"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/fauci-trump-urge-followers-vaccinated-76450121"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/168f33036b5291f725aa69009a9fb865b046f7dd/0_19_3038_1823/master/3038.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=324f482f84ea1622e8e74215d12a035a"
-        width: 600
-        height: 360
+      - url: "https://s.abcnews.com/images/Health/WireAP_826ac61e54da4defa9b2b4d1443a216a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump should urge his followers to get vaccinated, Fauci says"
+    excerpt: "Dr. Anthony Fauci says he wishes former President Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
+    publishedDateTime: 2021-03-14T09:59:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d494534/2147483647/strip/true/crop/4800x3135+0+78/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2F0c%2F6f8f529e4ea0a1798b8a2a22b80b%2Fla-photos-1staff-598594-la-policevictimsrally-001-ls.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Fauci says Trump should urge Republicans to get vaccinated"
     excerpt: "\"He has such an influence over people in the Republican Party. It would really be a game changer if he did,\" Fauci said."
@@ -63,51 +95,67 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GOP Polling Firm Finds Just 15 Percent of Republican Hold Anti-Trump Views"
-    excerpt: "Although a vocal faction of Republican lawmakers hope to end former President Donald Trump's hold over the GOP, new polling shows that they represent just a slim minority of their party's voters. Meanwhile, the survey divided respondents into four ..."
-    publishedDateTime: 2021-03-14T15:20:00Z
-    webUrl: "https://www.newsweek.com/gop-polling-firm-finds-just-15-percent-republican-hold-anti-trump-views-1576007"
-    ampWebUrl: "https://www.newsweek.com/gop-polling-firm-finds-just-15-percent-republican-hold-anti-trump-views-1576007?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-polling-firm-finds-just-15-percent-republican-hold-anti-trump-views-1576007?amp=1"
+  - title: "White House would 'support' Trump vaccine effort"
+    excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"
+    publishedDateTime: 2021-03-16T00:03:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE478I5B"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://d.newsweek.com/en/full/1755650/donald-trump.jpg"
-        width: 1024
-        height: 705
+      - url: "https://static.reuters.com/resources/r/?d=20210315&i=OVE478I5B&r=OVE478I5B&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Under Trump, the US Navy picked up the pace of its challenges to Beijing in the South China Sea"
-    excerpt: "US Navy challenges to China's efforts to restrict transit in the South China Sea and in the Taiwan Strait increased sharply over the past two years."
-    publishedDateTime: 2021-03-16T13:39:00Z
-    webUrl: "https://www.businessinsider.com/sharp-jump-in-us-navy-transits-to-counter-china-under-trump-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/sharp-jump-in-us-navy-transits-to-counter-china-under-trump-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sharp-jump-in-us-navy-transits-to-counter-china-under-trump-2021-3?amp"
+  - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
+    excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."
+    publishedDateTime: 2021-03-11T21:27:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 113
+    quality: 101
     images:
-      - url: "https://i.insider.com/6050b357fe6a340019aced9b?width=1200&format=jpeg"
+      - url: "https://i.insider.com/604a851ef196be0018beef55?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "European Stocks Gain As Recovery Hopes Trump Inflation Fear"
-    excerpt: "Optimism over an economic recovery helped push European stock markets higher Tuesday, while early trading was subdued in New York with the focus on the Federal Reserve's much-anticipated policy meeting this week."
-    publishedDateTime: 2021-03-16T14:59:00Z
-    webUrl: "https://www.ibtimes.com/european-stocks-gain-recovery-hopes-trump-inflation-fear-3162824"
+  - title: "Fauci: Trump should urge his followers to get vaccinated"
+    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade more of his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows,"
+    publishedDateTime: 2021-03-15T05:07:00Z
+    webUrl: "https://www.chron.com/news/article/Fauci-Trump-should-urge-his-followers-to-get-16024842.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Fauci-Trump-should-urge-his-followers-to-get-16024842.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Fauci-Trump-should-urge-his-followers-to-get-16024842.php"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/15/federal-reserve-boss-jerome-powells-post-meeting-comments.jpg"
-        width: 1024
-        height: 765
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Fauci: Trump should use his sway to promote COVID vaccinations"
+    excerpt: "The government's top infectious disease expert lamented polling showing that Trump supporters are more likely to refuse to get vaccinated."
+    publishedDateTime: 2021-03-14T23:46:00Z
+    webUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJPCM6T3LFASDDS7LXUUNGRCEM.jpg"
+        width: 4307
+        height: 2871
         isCached: true
 
 secured: "M6Nd/OBv1NFPDomDNeNlHGgVoK1xn3sdAWpO8THNlqAvQznUKE43DOeZgMLjKQ3m6ECY6TndsIBZ3Qq2/HT4WS1Wbnoee5Ps4TTRR6BPg3ExgHJe9jHMmBA6Dje2YE2g9c93vtB+NGIwVoy4xhDrq6boksF/pherml63JtDHyKDh1WykDh828Mugg96x/t5B2Vo+JMtDk6vPfZclU8enw835RrALtc6Wy+S2R6qAT5jVxuptjgvjmybdVnFMWifsVwmMVu2eqkAk3ul7kP8n+USVZ2C8wGfQQnm3YUzCTpz1a9DFmpCiuGy1fx1o1MgOneZLuCgqvvYfwwKG1niZAL9y3M7DC3JYdnbTuembanYEB6hIhCyyM6BXOFyiiej+EEKGqqPbV/xPZevoQgpyzrt2RBcbjoDmzLQ/MIg6dHYtOn6ndJ7YoJbiWv5rAMzwCGkotMu8gINKa2NdzYMyf4gGvFMBq3dyn5fEScmXBDD25K1Z2QYFaDG4ULUG15VkoRVZmIgTaBg5WNlIrWIGdw==;nv3ctR9Ipxs7UYclVTZODQ=="

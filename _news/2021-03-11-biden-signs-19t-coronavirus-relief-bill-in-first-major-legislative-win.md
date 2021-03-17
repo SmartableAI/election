@@ -287,6 +287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Donald Trump hints he will consider running for president again"
+    excerpt: "Former president Donald Trump suggested he will consider running again in 2024 if the Republican Party can reclaim numbers in Washington."
+    publishedDateTime: 2021-03-17T00:54:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sXyoO6SmgH4/donald-trump-hints-he-will-consider-running-for-president-again"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-hints-he-will-consider-running-for-president-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-hints-he-will-consider-running-for-president-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/972573f4-c440-4ab7-87a8-9d89ff30fa95/611943c2-27c2-4c9e-a4fb-d28e69658d33/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pompeo: Trump administration focused on America First, Biden prioritizes fancy deals on climate change"
     excerpt: "Former Secretary of State Mike Pompeo expressed concern with the Biden administration's priorities on 'Fox News Primetime'"
     publishedDateTime: 2021-03-13T01:26:11Z
@@ -668,6 +684,38 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-fauci-vaccine.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Recommends Covid-19 Vaccines to His Backers"
+    excerpt: "WASHINGTON—Former President Donald Trump urged his supporters to get vaccinated against Covid-19, noting many of them have been reluctant to do so. “I would recommend it and I would recommend it to a lot of people that don’t want to get it ..."
+    publishedDateTime: 2021-03-17T01:45:00Z
+    webUrl: "https://www.wsj.com/articles/trump-recommends-covid-19-vaccines-to-his-backers-11615945504"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-recommends-covid-19-vaccines-to-his-backers-11615945504"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-recommends-covid-19-vaccines-to-his-backers-11615945504"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-312714/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump urges supporters to get ‘great’ COVID-19 vaccines"
+    excerpt: "Former President Donald Trump on Tuesday said that he wants his supporters to take the “great” COVID-19 vaccines that were developed during his administration. Trump said in a Fox News ..."
+    publishedDateTime: 2021-03-17T00:53:00Z
+    webUrl: "https://nypost.com/2021/03/16/trump-urges-supporters-to-get-great-covid-19-vaccines/"
+    ampWebUrl: "https://nypost.com/2021/03/16/trump-urges-supporters-to-get-great-covid-19-vaccines/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/16/trump-urges-supporters-to-get-great-covid-19-vaccines/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-says-get-vaccine-513-index.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

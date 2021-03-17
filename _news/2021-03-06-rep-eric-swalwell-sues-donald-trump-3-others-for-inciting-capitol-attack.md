@@ -281,22 +281,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
-    excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."
-    publishedDateTime: 2021-03-11T21:27:00Z
-    webUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/604a851ef196be0018beef55?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Former President Donald Trump urges ex-NFL star to run for U.S. Senate"
     excerpt: "Former President Donald Trump is hoping one of his long-time friends decides to run for a seat in the U.S. Senate."
     publishedDateTime: 2021-03-11T10:00:00Z

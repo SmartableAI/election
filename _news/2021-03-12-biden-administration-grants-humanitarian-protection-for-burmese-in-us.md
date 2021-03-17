@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/biden-administration-tps
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/biden-administration-tps-burmese-nationals/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155403-05-white-house-covid-relief-event-0312-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says Cuomo should resign if investigation confirms sexual harassment allegations"
+    excerpt: "President Joe Biden said in an interview aired Tuesday that Democratic New York Gov. Andrew Cuomo should resign if an investigation confirms the allegations of sexual harassment against him.\n    \n"
+    publishedDateTime: 2021-03-17T01:18:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aytPHc42NhM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/biden-cuomo/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/biden-cuomo/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316194447-biden-abc-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

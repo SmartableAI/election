@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-17-biden-says-he-supports-reforming-senate-filibuster-in-abc-news-exclusive-interview.md",
+      "title": "Biden says he supports reforming Senate filibuster in ABC News exclusive interview",
+      "excerpt": "President Joe Biden said he supports reforming the Senate filibuster in an ABC News exclusive interview Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/president-joe-biden-interview-04-exclusive-abc-jc-210316_1615931643517_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
+      "publishedDateTime": "2021-03-16T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and-whitmer.md",
+      "title": "Michigan AG charges man with making death threats against Biden, Pelosi and Whitmer",
+      "excerpt": "Michigan Attorney General Dana Nessel (D) charged a 21-year-old man with making death threats against President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Split screen ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and",
+      "originalUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_pelosinancy_whitmergretchen.png",
+          "width": 980,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
+      "publishedDateTime": "2021-03-16T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-republicans-struggle-to-drown-out-bidens-help-is-here-pandemic-relief-tour.md",
       "title": "Republicans struggle to drown out Biden's 'Help is Here' pandemic relief tour",
       "excerpt": "PHILADELPHIA (Reuters) - Thomas McGarrigle, Republican Party chairman in Pennsylvania’s Delaware County, is certain that President Joe Biden’s $1.9 trillion coronavirus relief package is bloated with Democratic goodies and benefits Americans who have ...",
@@ -54,21 +158,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-16-eye-opener-gop-slams-biden-for-handling-of-border-crisis.md",
-      "title": "Eye Opener: GOP slams Biden for handling of border crisis",
-      "excerpt": "Republicans are criticizing the Biden administration for its handling of the border crisis. Also, more European nations are pausing their rollout of the AstraZeneca vaccine over reports of blood clotting.",
+      "path": "_news/2021-03-16-scarborough-faults-biden-for-permissive-border-message.md",
+      "title": "Scarborough faults Biden for 'permissive' border message",
+      "excerpt": "MORE faulted the Biden administration at then end of his \"Morning Joe\" program on Tuesday for a \"permissive\" border message that was leading to a surge of immigrants. Scarborough said he agreed ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/eye-opener-gop-slams-biden-for-handling-of-border-crisis/",
-      "originalUrl": "https://www.cbsnews.com/video/eye-opener-gop-slams-biden-for-handling-of-border-crisis/",
+      "webUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at",
+      "originalUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/16/241f6ca3-426c-4c7a-ab40-98dbd0a467c3/thumbnail/1200x630/e8535078541b312badaf5e3d06164871/cbsn-fusion-eye-opener-gop-slams-biden-for-handling-of-border-crisis-thumbnail-669374-640x360.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://thehill.com/sites/default/files/scarboroughjoe_011821screenshot.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +180,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T05:08:00-07:00",
+      "ampWebUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp",
+      "publishedDateTime": "2021-03-16T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -298,6 +402,63 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-senate-confirms-deb-haaland-as-bidens-interior-secretary-in-historic-vote.md",
+      "title": "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote",
+      "excerpt": "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html",
+      "originalUrl": "https://www.cnn.com/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210224140455-01-haaland-confirmation-hearing-0224-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html",
+      "publishedDateTime": "2021-03-15T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -743,7 +904,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1005,
+      "heat": 1025,
       "tags": null,
       "images": [
         {
@@ -1401,167 +1562,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-poisoning-nearly-killed-alexei-navalny-now-biden-is-sanctioning-putin-allies-in-russia.md",
-      "title": "Poisoning nearly killed Alexei Navalny. Now, Biden is sanctioning Putin allies in Russia",
-      "excerpt": "The Biden administration is sanctioning seven Russians allied with Vladimir Putin after the attempted murder of Alexei Nalvany.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/02/alexei-navalny-poisoning-leads-us-sanction-putin-allies-russia/6883733002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/02/alexei-navalny-poisoning-leads-us-sanction-putin-allies-russia/6883733002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/20/USAT/d8dd50e1-8d20-45a6-ad96-4e3580080056-AP_Russia_Navalny.jpg?auto=webp&crop=3199,1799,x1,y449&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6883733002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6883733002",
-      "publishedDateTime": "2021-03-02T22:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-a-reality-check-for-bidens-agenda-more-allegations-against-floyd-officer-and-vaccine-vaccine-for-dolly-parton.md",
-      "title": "A reality check for Biden's agenda, more allegations against Floyd officer and 'vaccine, vaccine' for Dolly Parton",
-      "excerpt": "A reality check for Biden's agenda, more allegations against Floyd officer and 'vaccine, vaccine' for Dolly Parton Good morning, NBC News readers. The Biden administration is beginning to face the harsh realities of a split Senate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/morning-briefing/reality-check-biden-s-agenda-more-allegations-against-floyd-officer-n1259433",
-      "originalUrl": "https://www.nbcnews.com/news/morning-briefing/reality-check-biden-s-agenda-more-allegations-against-floyd-officer-n1259433",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_09/3453524/210301-joe-biden-jm-1444_d38032cdcc81de1e6af02e6768b3ae86.jpg",
-          "width": 2500,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1259433",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259433",
-      "publishedDateTime": "2021-03-02T21:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-biden-plans-to-name-veteran-prosecutor-channing-phillips-as-acting-us-attorney-prosecuting-the-capitol-riot-cases-sources-say.md",
-      "title": "Biden plans to name veteran prosecutor Channing Phillips as acting US attorney prosecuting the Capitol riot cases, sources say",
-      "excerpt": "Channing Phillips is expected to be named acting chief of the US attorney's office in DC that is in charge of spearheading cases against accused participants in the January 6 rioting at the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-channing-phillips-acting-us-attorney-dc-capitol-riot-cases-2021-3",
-      "originalUrl": "https://www.businessinsider.com/biden-channing-phillips-acting-us-attorney-dc-capitol-riot-cases-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/603e7cb087d37600190d0ad7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

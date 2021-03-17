@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-se
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Manchin-Susan-Collins.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Scandal-plagued Cuomo joins White House call as Biden refuses to call for resignation"
+    excerpt: "New York Gov. Andrew Cuomo took part in a call between the National Governors Association and the White House on Tuesday, two people who were on the call told Fox News Channel. President Biden was not on the call, but White House coronavirus response team ..."
+    publishedDateTime: 2021-03-16T23:10:00Z
+    webUrl: "https://www.foxnews.com/politics/cuomo-joins-white-house-call-biden-resignation-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-joins-white-house-call-biden-resignation-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-joins-white-house-call-biden-resignation-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Andrew-Cuomo-Nursing-Home-Scandal-AP-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

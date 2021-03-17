@@ -410,6 +410,20 @@ related:
         width: 1024
         height: 765
         isCached: true
+  - title: "Trump Encourages His Supporters To End Vaccine Resistance"
+    excerpt: "President Donald Trump on Tuesday encouraged his Republican supporters -- one of the main groups resistant to Covid-19 vaccines -- to get their shots. \"I would recommend it,\" Trump said during an interview on Fox News."
+    publishedDateTime: 2021-03-17T00:02:00Z
+    webUrl: "https://www.ibtimes.com/trump-encourages-his-supporters-end-vaccine-resistance-3163372"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "RICO Expert Hired by Prosecutor Investigating Trump Call"
     excerpt: "An expert on Georgia’s racketeering law was set to be sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general election."
     publishedDateTime: 2021-03-10T11:28:00Z
