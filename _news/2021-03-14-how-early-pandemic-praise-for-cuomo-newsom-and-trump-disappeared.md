@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Andrew Cuomo Mind Melds With Donald Trump on Scandal Survival"
+    excerpt: "Andrew Cuomo resign? Not much attention is paid to a subsidiary question: Why should anyone care what you think about whether Cuomo should resign? Certainly Cuomo doesn’t care. Or, more precisely, he doesn’t care if you think he must quit in the face of cascading allegations of sexual harassment,"
+    publishedDateTime: 2021-03-18T09:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/03/18/andrew-cuomo-donald-trump-scandal-survival-476923"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/03/18/andrew-cuomo-donald-trump-scandal-survival-476923"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/03/18/andrew-cuomo-donald-trump-scandal-survival-476923"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/db/e0/0fc64e2a4f5fa86d3941458070f0/210317-cuomo-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "The year that could have been: How the pandemic derailed Trump's economic plans"
     excerpt: "From taxes to tariffs, many of the administration’s key priorities were upended as the economy was thrown into chaos."
     publishedDateTime: 2021-03-09T20:23:00Z

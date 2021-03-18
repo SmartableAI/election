@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris Attends Virtual Douglass Event"
-excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
+excerpt: "A St. Patrick's day gift from Ireland's Prime Minister Micheál Martin is seen in the Oval Office as U.S. President Joe Biden participates in a virtual bilateral meeting with Martin at the White House in Washington,"
 publishedDateTime: 2021-03-17T17:53:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/e271c84d4847f577c9ff5a6c4a09d2dd/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/e271c84d4847f577c9ff5a6c4a09d2dd/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/89cec93d6a5c447bccc8cc05726a8cc3/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/89cec93d6a5c447bccc8cc05726a8cc3/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/e271c84d4847f577c9ff5a6c4a09d2dd/VICE-PRESIDENT-HARRIS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/89cec93d6a5c447bccc8cc05726a8cc3/BIDEN-IRELAND.jpg"
     width: 650
-    height: 433
+    height: 432
     isCached: true
 
 related:
@@ -453,6 +453,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Man detained near Vice President Kamala Harris' residence with rifle, ammunition in his car"
+    excerpt: "WASHINGTON — D.C. Police detained a man near the residence of Vice President Kamala Harris on Wednesday on charges of carrying weapons, D.C. Police said. The man, 31-year-old Paul Murray of San Antonio, Texas, was stopped by Secret Service agents near ..."
+    publishedDateTime: 2021-03-17T23:05:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/17/man-arrested-near-kamala-harris-residence-possessing-weapons/4741536001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4741536001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4741536001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
     excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
     publishedDateTime: 2021-03-12T02:22:00Z
@@ -546,6 +562,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "tn4/u/FtS2GIPl6L1q/URZTjNTb3TqJ8XJaVyDWbg8r495VxTVzV9LtAznyqv5tOpjvAVb/GSf9mzAWIWhU+axwfHVq1irEHrUhgBscIge9n3r18Fzn0aK7cJ2cDz+6HfFE2JI31HGiWQACfUpePGBvJPoMgpx7tNCkSbfQR75UF6Eik1F+I/SDkdYnL2Yg7sMdeS9wG48OaSgTL/hs2OmCwudVkbhieHy7FmrIktrqjsMSZJzlA6y/fUWb3UJ6fPY347vpa9SuCu1Q1GHsiVe/ZcNjm50G3C/ICeoGJD/fGOqjFaLUL1DD6xJAoMKA87aHTyhrQ/TYulJL4O3ozCp4XoAhGweCo3vn9VPuKG0oYG1P8rupD2QhcbNAW+pfWu7jyz73ZoR2V4/j6i1pk9Yi8EZWCgliojlWr1XzfhJki+eP+Yq08yv/gjcLgBhKTAnXWxJQm2vetmQltFyDVrrhUUa00di/zVic41sD00jttY8R6usEJJEaLI5W7NjpZglAAyx9zXnRp4KFXHSziaA==;Zlr08EGfBoX+BZlfJUhjcA=="
+secured: "rdxnLPHTU3BsQ0P8UIKm7PnMRyUlgD/TmYOrypJklP70aanChqLQ7ubakABIuv2pUeCrgQXH4Nt3MmA5Vv+YTTjT9+x/BzJT3dQ1dLY2yEZ0GAt8h74QTy6vuRuXscC/Wnrm+27cgNUi+uwFpcxwAqDUcHtp5rP4RKARQKAhLuEwhDfEteT1sIeXDIxYIhZzc6J8503eOM/E4O2ICNxJfmC3WOsuSXMTLYGSQYrNlz/N46hd3PD6S8gZDYnvRBCjNF9+NGlAwkRi22ZGrgZYgEu/bgGbuOd9Cgz84jS+w7yoTjuweZ+XjGAYsLtj5DbbhrEWOVWCOw9fF5U38F7/7wB+Ycr4VFjMEvRZLiasKks=;+afzrFKwnX2eYfdseIKIPQ=="
 ---
 

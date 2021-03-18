@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Harris pitches COVID relief bill in Las Vegas"
-excerpt: "Vice President Kamala Harris says she's on a mission to ensure people know what they were entitled to in the American Rescue Plan. (March 15)"
-publishedDateTime: 2021-03-15T23:07:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/15/harris-pitches-covid-relief-bill-las-vegas/4710865001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/15/harris-pitches-covid-relief-bill-las-vegas/4710865001/"
+title: "Man detained near Vice President Kamala Harris' residence with rifle, ammunition in his car"
+excerpt: "WASHINGTON — D.C. Police detained a man near the residence of Vice President Kamala Harris on Wednesday on charges of carrying weapons, D.C. Police said. The man, 31-year-old Paul Murray of San Antonio, Texas, was stopped by Secret Service agents near ..."
+publishedDateTime: 2021-03-17T23:05:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/17/man-arrested-near-kamala-harris-residence-possessing-weapons/4741536001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/17/man-arrested-near-kamala-harris-residence-possessing-weapons/4741536001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/4741536001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4741536001"
 type: article
-quality: 105
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08776f89-5741-489a-bc95-2abf1b2bb016_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -186,6 +184,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Harris pitches COVID relief bill in Las Vegas"
+    excerpt: "Vice President Kamala Harris says she's on a mission to ensure people know what they were entitled to in the American Rescue Plan. (March 15)"
+    publishedDateTime: 2021-03-15T23:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/15/harris-pitches-covid-relief-bill-las-vegas/4710865001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08776f89-5741-489a-bc95-2abf1b2bb016_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Kamala Harris Says the ‘Status of Women Is the Status of Democracy'"
     excerpt: "U.S. Vice President Kamala Harris told the U.N.’s premiere global body fighting for gender equality that “the status of women is the status of democracy” and the Biden administration will work to improve both."
@@ -443,22 +455,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Man detained near Vice President Kamala Harris' residence with rifle, ammunition in his car"
-    excerpt: "WASHINGTON — D.C. Police detained a man near the residence of Vice President Kamala Harris on Wednesday on charges of carrying weapons, D.C. Police said. The man, 31-year-old Paul Murray of San Antonio, Texas, was stopped by Secret Service agents near ..."
-    publishedDateTime: 2021-03-17T23:05:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/17/man-arrested-near-kamala-harris-residence-possessing-weapons/4741536001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4741536001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4741536001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
     excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
     publishedDateTime: 2021-03-12T02:22:00Z
@@ -566,6 +562,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "z9SmTrMV8NUURi/MmOGOLYbyDrH6I1PW6jgvp/kGYM68SJYjQqDIop5X/XCHCHJ7r91yEtIdsiWLZzIaEv51ZfrhWleGYkmkhdJ45hoRHScJbAHvZx475jgDGdEECzbF6CHelzCr5cILQLIcm+ZAfKSKnxJT2WDOpgY2v28yOspoj2FfBHEK80tT1612QnwY3KSSkDfGrLx89lu2RVEc1PpnOdyE2PX/CX8so7oP5T0dG01OnH0yV0y0iJjv5GgA7ED3k0judy92Utum0VO623jSBq02qLLtajMa6AA4PkMhltHIWsv2YehqsIDWJOeQ+v41Y036DLqGRMV7j7KUf5sY7yyAFQ8yioWAMVwrlJM=;8qqavmSjb6uqg5YYAt8uHA=="
+secured: "nIsjWSoJwSGJU5+RAUz73RaP3LzNiPIwDjekgiiB7ZBBmU1I886Ibh3RFBhoDM3QsWtLX9HIVr/DCP9+s1ZVH7UkcdpdpQTqKtRN8zrXCsFuYdK9kBAwM1naoXaPI9Yvvvi0iEhM+38JldmG9iET2V7W5rYBEpcmZDc0OI1aTBRY11PXE6zFq0DXRKA5upfwOf6F4Rft1RD/byWaSwmvbQO+Q95Q0iP2utu+e9ajFmz1PIAoAgoFDujcwR+FDUUKzHQGUvIIbG12u2OWGGGJReI7m6VIUku1wFp83NOsxVuEvzzLMeYrUxkew5ImMpEXJQqeAXBhARDbQl/4qjf37XAmAUJ8LD9AyfHulMI/5bM=;pjEOA8gZHiJ4omJVDMK94A=="
 ---
 

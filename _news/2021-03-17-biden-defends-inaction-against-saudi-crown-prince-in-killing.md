@@ -137,6 +137,17 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Russian rouble steadies after Biden comments cause sell-off"
+    excerpt: "The rouble was flat against the dollar on Thursday, steadying after a sell-off in Russian assets triggered by U.S. President Joe Biden saying his Russian counterpart Vladimir Putin would pay for attempted election interference."
+    publishedDateTime: 2021-03-18T07:11:00Z
+    webUrl: "https://www.reuters.com/article/russia-markets/russian-rouble-steadies-after-biden-comments-cause-sell-off-idUSL8N2LG1PV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LG1PV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LG1PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
     excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
     publishedDateTime: 2021-03-17T14:05:00Z

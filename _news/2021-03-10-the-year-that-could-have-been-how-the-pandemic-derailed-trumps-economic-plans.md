@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Andrew Cuomo Mind Melds With Donald Trump on Scandal Survival"
+    excerpt: "Andrew Cuomo resign? Not much attention is paid to a subsidiary question: Why should anyone care what you think about whether Cuomo should resign? Certainly Cuomo doesn’t care. Or, more precisely, he doesn’t care if you think he must quit in the face of cascading allegations of sexual harassment,"
+    publishedDateTime: 2021-03-18T09:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/03/18/andrew-cuomo-donald-trump-scandal-survival-476923"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/03/18/andrew-cuomo-donald-trump-scandal-survival-476923"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/03/18/andrew-cuomo-donald-trump-scandal-survival-476923"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/db/e0/0fc64e2a4f5fa86d3941458070f0/210317-cuomo-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "mvT5u8sw4H6kRoXYHzqP4rtF8NyZYzvRDyfdqWRhv70+joA5182aIq8rIFHGWmsJjvZPx0Wp6zesAU4kQTEXx1cFmi90VoEb6sb0SpW24Zq5g8vEHhVho1TP+uJi2WzDpUaSM7TPXx71d7v+8roZnJ2kxgzkE8q0SA2oKYsIhSqba7APu7LHDNG6Lkl5FVPkx0zOXHOrtv1POctEkbqHwBpAZYlOOwGtS8H5YCiMvTFnrong5MCYdHIZUAQG0UcqXE4gQccv+V9jxU97fiOvptdVTFmOQtooLthUDXQ4k8fFl19ts1v/q8WcfFiDOTRp2nF4JrMvtDjfEUzhdQqAHL8kEcnu5uNTuJA9qbknaQuuQ1OO93OhsPPwzBeKonhlWihCp/II2936ziaLV7P1UX6WNx9EbSKr5rlfnjX1VVVxkOf85lBNTcm/1ny1fqtNUXVTceMjo4BnQP/oB1hntdfdqwpqrUMtXaV2WKyRuzfBfHFi3i6yhCxBnlBqKBzR0p1yB29VR5Y4+n4gF52KEw==;RpOB3B/1so/HerJIk7/wIg=="
 ---

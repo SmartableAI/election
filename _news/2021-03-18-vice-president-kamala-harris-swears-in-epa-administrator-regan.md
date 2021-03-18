@@ -453,6 +453,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Man detained near Vice President Kamala Harris' residence with rifle, ammunition in his car"
+    excerpt: "WASHINGTON — D.C. Police detained a man near the residence of Vice President Kamala Harris on Wednesday on charges of carrying weapons, D.C. Police said. The man, 31-year-old Paul Murray of San Antonio, Texas, was stopped by Secret Service agents near ..."
+    publishedDateTime: 2021-03-17T23:05:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/17/man-arrested-near-kamala-harris-residence-possessing-weapons/4741536001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4741536001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4741536001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
     excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
     publishedDateTime: 2021-03-12T02:22:00Z
@@ -496,18 +512,18 @@ related:
         height: 630
         isCached: true
   - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
-    excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
+    excerpt: "A St. Patrick's day gift from Ireland's Prime Minister Micheál Martin is seen in the Oval Office as U.S. President Joe Biden participates in a virtual bilateral meeting with Martin at the White House in Washington,"
     publishedDateTime: 2021-03-17T17:53:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e271c84d4847f577c9ff5a6c4a09d2dd/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/89cec93d6a5c447bccc8cc05726a8cc3/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e271c84d4847f577c9ff5a6c4a09d2dd/VICE-PRESIDENT-HARRIS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/89cec93d6a5c447bccc8cc05726a8cc3/BIDEN-IRELAND.jpg"
         width: 650
-        height: 433
+        height: 432
         isCached: true
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
@@ -546,6 +562,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "eudSYsapeP3K61qK7HIwyWbu+IZtZossyJI6UJJS4NKRXNrEIoU7hjwmJ3ZrG5LWz65NwhEPHpqMqvSe0HyJdruHvfZTkIS5BqqX8VN4yPKDHqcG0HiDvASYW3Lj7we6z5YeyjWGoePbi6DsOVFhMCIxJFyTvlIHtI6suFlvPcM+O8mvsS7nzd65FNk2gFYs5CR4Oq3r6MQUdo/+eaZo08EaiQjo025hKJp5npeBKxYzkmUZZEAIHcWDRM1DyZCjL8LNtVBd/4Dj9ERHCdnaXBIrTJyQK1K85fSMIJmbDi8QVzVWbR8yLfzLjdPoEhj1/SwoQuJOJliUv1/IvZ+Qe83d+8w3uQKYyiuEFje16xg=;Wz3Pbef/bO7QCxE/WP0mzA=="
+secured: "el5s2nz7JJXuM2vbFtIbvabQC1mDd/9GR9qxjwlD0t7HXwQMTz7xNq2DmotRWcTMh1Khe7hZkpyf3roqHuSEdhBKMs9Pss/+Lkz2XOm4lbqRbzXV0VpUXFZlR7X0uW4wxomy/UO1h1l6k1BTAnctDL1TPEcigjlw1FH0Bc8XUGbFMePjP6t5Cvl8A4Qh5OGAn5ApjqOmogXfYQPLROSyTw6UeUf3CZ5ex0eajgIyeg99tFho7umYAsXlWEgGZ70loRLLBMxMsQPApELUhoQJsIsq5eRcffwIpLRBy/KaqYS80avZCfXHM9VtZjEOdeu0+ezS7vQDCFmANpwekm2r1qLGE8TFBUve4Yz5L706OI2GecaGOU8HmI8zB+OPrT21TuFSlNf5o7EpwDbEbYp67reUeCh42aBW6WNRf2Hbj8o+YumFAmuqypWM9wUMXNCjkbCz2x10vmirP0fZluIhYR/tSS32HB6tshiko95PUsSdsDdLHifqfYDCTmPelodKuaRzdpdsmE+QfjUE1N+Ymw==;NPPKPdgYWaGS7C53lk+cVQ=="
 ---
 

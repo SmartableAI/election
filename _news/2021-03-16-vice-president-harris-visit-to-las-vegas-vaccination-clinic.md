@@ -447,6 +447,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Man detained near Vice President Kamala Harris' residence with rifle, ammunition in his car"
+    excerpt: "WASHINGTON — D.C. Police detained a man near the residence of Vice President Kamala Harris on Wednesday on charges of carrying weapons, D.C. Police said. The man, 31-year-old Paul Murray of San Antonio, Texas, was stopped by Secret Service agents near ..."
+    publishedDateTime: 2021-03-17T23:05:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/17/man-arrested-near-kamala-harris-residence-possessing-weapons/4741536001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4741536001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4741536001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
     excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
     publishedDateTime: 2021-03-12T02:22:00Z
@@ -490,18 +506,18 @@ related:
         height: 630
         isCached: true
   - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
-    excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
+    excerpt: "A St. Patrick's day gift from Ireland's Prime Minister Micheál Martin is seen in the Oval Office as U.S. President Joe Biden participates in a virtual bilateral meeting with Martin at the White House in Washington,"
     publishedDateTime: 2021-03-17T17:53:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e271c84d4847f577c9ff5a6c4a09d2dd/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/89cec93d6a5c447bccc8cc05726a8cc3/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e271c84d4847f577c9ff5a6c4a09d2dd/VICE-PRESIDENT-HARRIS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/89cec93d6a5c447bccc8cc05726a8cc3/BIDEN-IRELAND.jpg"
         width: 650
-        height: 433
+        height: 432
         isCached: true
   - title: "Vice President Kamala Harris Swears in EPA Administrator Regan"
     excerpt: "Michael Regan holds his hand up as he is sworn-in by United States Vice President Kamala Harris during a ceremonial swear-in as EPA Administrator in the Eisenhower Executive Office Building in Washington,"

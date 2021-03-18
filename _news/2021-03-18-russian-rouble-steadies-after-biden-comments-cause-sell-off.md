@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live"
-excerpt: "Joe Biden told immigrants making the difficult journey to the US-Mexico border “don’t come over” as the administration attempts to respond to an increase of unaccompanied children seeking asylum. In a wide-ranging interview with ABC News’ George ..."
-publishedDateTime: 2021-03-17T14:23:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+title: "Russian rouble steadies after Biden comments cause sell-off"
+excerpt: "The rouble was flat against the dollar on Thursday, steadying after a sell-off in Russian assets triggered by U.S. President Joe Biden saying his Russian counterpart Vladimir Putin would pay for attempted election interference."
+publishedDateTime: 2021-03-18T07:11:00Z
+originalUrl: "https://www.reuters.com/article/russia-markets/russian-rouble-steadies-after-biden-comments-cause-sell-off-idUSL8N2LG1PV"
+webUrl: "https://www.reuters.com/article/russia-markets/russian-rouble-steadies-after-biden-comments-cause-sell-off-idUSL8N2LG1PV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LG1PV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LG1PV"
 type: article
-quality: 130
-heat: 310
-published: true
+quality: 105
+heat: -1
+published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,13 +24,23 @@ topics:
   - Election
   - Joe Biden
 
-images:
-  - url: "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a"
-    width: 600
-    height: 360
-    isCached: true
-
 related:
+  - title: "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live"
+    excerpt: "Joe Biden told immigrants making the difficult journey to the US-Mexico border “don’t come over” as the administration attempts to respond to an increase of unaccompanied children seeking asylum. In a wide-ranging interview with ABC News’ George ..."
+    publishedDateTime: 2021-03-17T14:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
+    images:
+      - url: "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live"
     excerpt: "President’s comments come after declassified intelligence report bolstered allegations Putin was behind election interference – follow the latest"
     publishedDateTime: 2021-03-17T18:50:00Z
@@ -138,17 +148,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Russian rouble steadies after Biden comments cause sell-off"
-    excerpt: "The rouble was flat against the dollar on Thursday, steadying after a sell-off in Russian assets triggered by U.S. President Joe Biden saying his Russian counterpart Vladimir Putin would pay for attempted election interference."
-    publishedDateTime: 2021-03-18T07:11:00Z
-    webUrl: "https://www.reuters.com/article/russia-markets/russian-rouble-steadies-after-biden-comments-cause-sell-off-idUSL8N2LG1PV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LG1PV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LG1PV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
     excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
     publishedDateTime: 2021-03-17T14:05:00Z
@@ -161,6 +160,6 @@ related:
       domain: reuters.com
     quality: 104
 
-secured: "2snfxmOvQ/PFY6RZhC8bBkmy1VeW5/+JkWzwdJeWB7L0pc7PpdT12iEwx5MICagFl7/pc7ue23qd2+5cBJGHloiVVlfctzHPn8/ZhRcTP4ytp2ZBrLnIgpMA8kJQhwBlZ9aCSIdtG24DYOOhVYeSWevo+5KORfqJgBfirZt6Sb7eMnwAIuMMgP4rhVIGhGqnEVYD54bJZWahVzB+fdFajp7deipy3/jinICmO9Kiu/3uK+UUxVYjPVwDzbSOR2eQXVEJQWj3dkk/gljjw8ESk7vjHpb+I6+gKwM9azKk7RdbZ5rQDJ47NOwxqT3OyG/tPQMdQP9OReZXfXq35ATy4oQeWejxsWYJs+W0WsfP/Sg=;ObU6+SSlDmvFZmpa4fy1bA=="
+secured: "6/zEoNXx6z5MIbCsm1skxznp7UqRVtyFpPzv3AsnHLzHz9MQtHTFyv1GNr+UNC85+N516Nes97m9QAVlYkapJ31/+1UhkUpu5fPseb70kzdqxiFYAAp6ChGi51N9wutP41Fd8UTMIecyV+fx+FxYn0DxxrzTHsMYrIUblRBmQlIvbAUSPnDT7qzQrdOCMmg/BK/E6Dx39l9PQwbMUze1HYtcgXAAt/HHRMw8awiwjv+dY64dkMtqEu+UxlOSzbq5q9SGxZgnreJzrSoiVddomJPfuF19nzZxsDVMsecas6EZZU5G6ePJk1LMzEiohcMtn/31gKkaTb0GtKr4kBAPUrjmdBT/JNl+7U5ZmCLPz0o=;voD9pl7nYfarM2ENy7jypw=="
 ---
 
