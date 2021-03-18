@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meg
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     images:
       - url: "https://thehill.com/sites/default/files/sanders_sarah_trump_donald031521.jpg"
         width: 980
+        height: 551
+        isCached: true
+  - title: "Army denies appeal to return medals to soldier Trump pardoned: report"
+    excerpt: "Mathew Golsteyn, a Special Forces soldier whom former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive ..."
+    publishedDateTime: 2021-03-18T04:04:00Z
+    webUrl: "https://thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report"
+    ampWebUrl: "https://thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/golsteyn121418.png"
+        width: 882
         height: 551
         isCached: true
   - title: "'Not a Fan': Trump Criticizes Meghan Markle But Hopes She Runs for President in 2024"

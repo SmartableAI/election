@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
-publishedDateTime: 2021-03-11T20:13:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a5e348f08089f0d4af7b7"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a5e348f08089f0d4af7b7"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+title: "President Biden notes Asian American concerns about Atlanta shootings but not yet assigning racial motive"
+excerpt: "WASHINGTON – President Joe Biden on Wednesday said he is waiting for more information about the Atlanta-area shootings before assigning a motive, but he called attacks against Asian Americans \"very, very troublesome.\" \"Whatever the motivation here ..."
+publishedDateTime: 2021-03-17T19:52:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/17/atlanta-spa-shootings-president-biden-waiting-before-assigning-motive/4734680001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/03/17/atlanta-spa-shootings-president-biden-waiting-before-assigning-motive/4734680001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4734680001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4734680001"
 type: article
-quality: 125
+quality: 108
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/c89f7b009dbebfd512787d31b0b418199ee62348/0_185_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=20a2ea5b422f9fc530aba039568c149a"
-    width: 600
-    height: 360
+  - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/34fac83c-d605-4d7e-aef6-a2718ffd8227-shamrock.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_31121_gettyimages.png"
         width: 826
         height: 551
+        isCached: true
+  - title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
+    excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
+    publishedDateTime: 2021-03-11T20:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a5e348f08089f0d4af7b7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c89f7b009dbebfd512787d31b0b418199ee62348/0_185_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=20a2ea5b422f9fc530aba039568c149a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden played ‘sheriff’ on ‘09 aid, now salesman on COVID law"
     excerpt: "In 2009, then-Vice President Joe Biden acted as “Sheriff Joe” in making sure federal dollars from a massive economic aid package were getting to the right places and getting there quickly"
@@ -623,22 +639,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Biden notes Asian American concerns about Atlanta shootings but not yet assigning racial motive"
-    excerpt: "WASHINGTON – President Joe Biden on Wednesday said he is waiting for more information about the Atlanta-area shootings before assigning a motive, but he called attacks against Asian Americans \"very, very troublesome.\" \"Whatever the motivation here ..."
-    publishedDateTime: 2021-03-17T19:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/17/atlanta-spa-shootings-president-biden-waiting-before-assigning-motive/4734680001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4734680001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4734680001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/34fac83c-d605-4d7e-aef6-a2718ffd8227-shamrock.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden signs $1.9 trillion rescue package into law, starting the clock on distributing $1,400 stimulus checks"
     excerpt: "The measure authorizes direct payments for most taxpayers; renews unemployment benefits; and provides funding for vaccine distribution."
     publishedDateTime: 2021-03-11T20:22:00Z
@@ -802,6 +802,6 @@ related:
         height: 675
         isCached: true
 
-secured: "PspwSCHY3rIwnvZ0Oi+5ibY4/RshbPq43jyMZ7j0qWvLlBWMH3Yaep7CH8/sZukQltiuVuUxPko6QgeTgP9FbxO8DSGUTa3TA8dEzeDrkvOfGAP+HvAMDFdvQl+jsrrnZXJcG52Wc1flHfQhPlkra8WyFdUe5jyoSdFV7Swv6jvYwcSqmLRyuPCtDjkQLq/lFJmIbKg11hXEZ+UEZOoGu4pKt3q8XWAQhXt/zTsjF9TBwNL7+ic0krYi2zDu/KnqTfd/r+ZAlUiKD2AS7S9XZOmF99bV7jrnLlyNC98IhUjvfyEorpQThkoWciFffhWE316dnNrurj02lWlF2Es6jovPZK3Yp7P5Ru+LbZj7xWE=;Qtj5L3mBgRFE7zzJM597EA=="
+secured: "W+Czx7c07lJFZ3/y33SSnPSkvyIzfIaeZIcFRCCgyEm+Jg5fpaTRFwqYYWnXEmFz202RNyc/RtM2NzdBTgQ0Yg55WK0awOQ71L+z65sYYSxZ0PA8W79jYqZJg57kpp+sgjHnig07lqa87xfVajJJ4ISn2oTuM3spsjQl8dtT7AnWxNDXB6l5aKSdUjtxFhEsjvYohM5VJBj29hM3IrIhsQDJgQ7OGqHWmJpp5tpmDClUO8rzTKzU/5Fkgzmd1ngT4zLVyVncyc0xcfgygTyxLm6cMDXfE1+7dYVb3YhjfkA/2vydmhtQPzEN2u/VUnP7HRZeMR1wIrTIz0M7m/GGZkWGZHvlU1wdyDja2d/oHl0=;K9FsrlMY8fIQB1HRXC0+Zw=="
 ---
 

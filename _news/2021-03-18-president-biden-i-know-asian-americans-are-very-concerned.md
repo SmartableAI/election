@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden says his dog, Major, is working with a trainer in Delaware following biting incident"
-excerpt: "President Joe Biden said that his dog, Major, is working with a trainer at Biden's home in Delaware following a biting incident at the White House.\n    \n"
-publishedDateTime: 2021-03-17T13:36:40Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eMTbIw0jXjo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eMTbIw0jXjo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-major-dog-training-delaware/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-major-dog-training-delaware/index.html"
+title: "President Biden: ‘I know Asian-Americans are very concerned.’"
+excerpt: "Mr. Biden said “the question of motivation is still to be determined” in the Georgia shootings, while renewing his concerns over a recent surge in violence against Asian-Americans."
+publishedDateTime: 2021-03-17T18:24:00Z
+originalUrl: "https://www.nytimes.com/2021/03/17/us/biden-atlanta-shootings.html"
+webUrl: "https://www.nytimes.com/2021/03/17/us/biden-atlanta-shootings.html"
+ampWebUrl: "https://www.nytimes.com/2021/03/17/us/biden-atlanta-shootings.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/17/us/biden-atlanta-shootings.amp.html"
 type: article
-quality: 165
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109134008-02-biden-dogs-major-2018-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-biden/17atlanta-shooting-briefing-biden-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -159,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says his dog, Major, is working with a trainer in Delaware following biting incident"
+    excerpt: "President Joe Biden said that his dog, Major, is working with a trainer at Biden's home in Delaware following a biting incident at the White House.\n    \n"
+    publishedDateTime: 2021-03-17T13:36:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eMTbIw0jXjo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-major-dog-training-delaware/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-major-dog-training-delaware/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109134008-02-biden-dogs-major-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Japan's Prime Minister will be first foreign leader to visit US under Biden, administration official says"
     excerpt: "Prime Minister Yoshihide Suga of Japan will be the first foreign leader to visit the United States since President Joe Biden took office and the global coronavirus pandemic halted much international travel, according to a senior administration official.\n    \n"
     publishedDateTime: 2021-03-12T10:14:08Z
@@ -255,23 +272,7 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "President Biden: ‘I know Asian-Americans are very concerned.’"
-    excerpt: "Mr. Biden said “the question of motivation is still to be determined” in the Georgia shootings, while renewing his concerns over a recent surge in violence against Asian-Americans."
-    publishedDateTime: 2021-03-17T18:24:00Z
-    webUrl: "https://www.nytimes.com/2021/03/17/us/biden-atlanta-shootings.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/17/us/biden-atlanta-shootings.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/17/us/biden-atlanta-shootings.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-biden/17atlanta-shooting-briefing-biden-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
-secured: "LlWxiIJkQu54maFdQuLb5tflgHTjrl3cRIwo9iAnbn+/304ZE/5rbFjGqo8TUF/lPcpyUe67smnFa2KsLbfzqaP85S9bM7KzdeatL+mEAEn2tL5PvAURU+eL41vEwheVS37tb2CN64SkPnvGIPwetgg51jM54bhGNXmOrlYrXlhG8sa84Kp/qMuioT0puCz1X0wI4NSWqHxqH6s1cmaW+mkSqZ692cLYI4gWxL3DThz7v82dNPkWOE/lhMF2j7CYWtg3pYw58k8pOcpxkOEEQfydRd3MfokMKp5vWTXmXoMg127n+FMuV8pqKzZ4e7DW7j/A2sjOkzyEKbMMxvPR6VCBVZb+bMu+LlLbKFKVyZw=;h2ISTYeBPZAxDHL8Gt6WTg=="
+secured: "pwtdNkQFB2542YGcN0cliHeyJ83BpUBt4neX1iViKwPNTkZMWlSRpc8vjcbtmU4y94kpDuG2x1+Jh7koo6SVVEdq/geFci2OjfA6EmPQCoTh2BOmHX06l94hmQ58rozKI3xq+rIXab/TAhTsEPmJxBRe4z+k32et8aypEbJmxLeZtjR86L4b6u4Cq2gZfa4oTY2F0mnxWFvmaut84Ytx1dwP/pckMVJU8S8f2t10WhlM/aXcT225aDea6BnTHp+c17sr/UqbSX+v85aTE504Vb4nGuAmu3vM3JnM86cGz8N6nKRT28i7Txj2pc1WB2g/dKAcRXL6EQrwxb+DWM20wC2v6XbTAghvXLAy7kDc+80=;L/E7kYIVqFv2wubyuX8W8g=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
-excerpt: "LONDON, March 17 (Reuters) - The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden’s hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank’s hand at this week ..."
-publishedDateTime: 2021-03-17T14:04:00Z
-originalUrl: "https://www.reuters.com/article/russia-bonds-biden/update-1-russian-bonds-slide-as-biden-comment-seen-raising-sanctions-risk-idUSL8N2LF3TP"
-webUrl: "https://www.reuters.com/article/russia-bonds-biden/update-1-russian-bonds-slide-as-biden-comment-seen-raising-sanctions-risk-idUSL8N2LF3TP"
+excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
+publishedDateTime: 2021-03-17T14:05:00Z
+originalUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
+webUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LF3TP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LF3TP"
 type: article
@@ -149,6 +149,6 @@ related:
       domain: businessinsider.com
     quality: 105
 
-secured: "0pYscelTxkzTRezHZbd8wxJIc3Mix6Lg94tlr7/d4O6KG8oeySsIFe8rRd9iz5NUXRJzJlft31KJATOUaUU8rw0tKIZzrsbUCfIPfEUDLuwMYe3jKj1m4Z8LvY71JwVZcoFg69deTfzDzViOyAvvVKXfWxj6QOtoZKjvFAfQz/kobH7xMC7YDbjT1OU43ZosbMECsal1fOtD6PT9IbQ/U7p0qGUhjCIC+HvGdjucr+OqQyuxinI5dfzynLMob8q7bLTYBOjpTGn9NKh6G3FrDCqWZn3QiSZxP0YdHvFWERwcozMeN+l8M4eyUZpg83hEwWPBmQ5sEXbzmQpijmaP4rCrb6dyzBzD2xWb0znemtc=;mLHLpueBKClJsqAs5xFnNQ=="
+secured: "Un6U6iob0oivnv0pdyraobOkd68MnQC5rPgfZ6Ux9saPODxpjV9g40QT18QkUu5RvMxnqPyx8ds8vzV2Lfb5xIEvYjR+PUbIUq3lH0vReFdK/are9r4Fj6NAjFGm5WteQ9gF93nrM9iX6upW7qFzg6KAZMDJgZmlln/hrKrfShgT2wMhea7ckFWWJS+0OtpiUgHxPzeQy2KFUcsfRwBK+WmGXnaiqqWof9aUYyHh+N1oETwFri3ew7Anp7tEIlcyVp7jmUYSgIsV1P3RBFWF1PNODE8vPs65kn/b/3toI0Qy4I+GdtgMDIHUcZoN3dO6T48uiGruSr95AEq5v4QpnBk3PBQB2tq2LFbOtW+ZSZI=;a9YjXJhZju74Oq8sMsIdAQ=="
 ---
 

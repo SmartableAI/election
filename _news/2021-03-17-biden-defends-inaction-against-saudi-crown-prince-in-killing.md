@@ -138,9 +138,9 @@ related:
         height: 961
         isCached: true
   - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
-    excerpt: "LONDON, March 17 (Reuters) - The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden’s hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank’s hand at this week ..."
-    publishedDateTime: 2021-03-17T14:04:00Z
-    webUrl: "https://www.reuters.com/article/russia-bonds-biden/update-1-russian-bonds-slide-as-biden-comment-seen-raising-sanctions-risk-idUSL8N2LF3TP"
+    excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
+    publishedDateTime: 2021-03-17T14:05:00Z
+    webUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LF3TP"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LF3TP"
     type: article

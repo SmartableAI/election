@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Army denies appeal to return medals to soldier Trump pardoned: report"
+    excerpt: "Mathew Golsteyn, a Special Forces soldier whom former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive ..."
+    publishedDateTime: 2021-03-18T04:04:00Z
+    webUrl: "https://thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report"
+    ampWebUrl: "https://thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/golsteyn121418.png"
+        width: 882
+        height: 551
+        isCached: true
 
 secured: "4s2xyXFIjaQudwx+IclNOyR+ltLYHDw06p7S5uuSJhn1Z5iF27zddY5ck1JYaMasbmodo3EtbVpfdV7dwDMnBBNr/QTKIzwDNuEK8laXfY3ODmmFgyHzEcRXvBZ3PPsjQjbdWBbpefGFgoliURhOF7rrBs1y5wmZ09WGvWVlb049lmSJ47zS7crUyMJ2ZubsO1jrePUubqSau4ffCt6fyS50oFj/0CKwwdoDCXjS7JEwzbxXk9gipBMZlK540pnt7ntWQO+i13RBsEoyEeQDZbm8PktJHN1gcpIuSSN9EF9kfyOPpku9ldixErk6MNTtMT62hGcKzvGyOt7n8RkQRkWbAC3K7WPADpuJyVE37hFZNbzJg+yttsu+AR/AVNgrIjYexc80B3+mlAY61YnJuSK53af2/8KmydupRiuuzCLIUWqDTCGfmAuzyLpGbVOb8yJF8Fgl/u55L1cYY8taV2mMKXQ46yd1CHIxs9AxUmrvrYTckmoMDZ0uEH0avHgnF29uGE8Q0yDOmUFs+sItmA==;3ys4IDnTjnKtluMx3z9cXA=="
 ---

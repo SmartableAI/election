@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Trump appears at Sarah Huckabee Sanders campaign event"
-excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster ..."
-publishedDateTime: 2021-03-15T13:05:00Z
-originalUrl: "https://thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event"
-webUrl: "https://thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event"
-ampWebUrl: "https://thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event?amp"
+title: "Army denies appeal to return medals to soldier Trump pardoned: report"
+excerpt: "Mathew Golsteyn, a Special Forces soldier whom former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive ..."
+publishedDateTime: 2021-03-18T04:04:00Z
+originalUrl: "https://thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report"
+webUrl: "https://thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report"
+ampWebUrl: "https://thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report?amp"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/sanders_sarah_trump_donald031521.jpg"
-    width: 980
+  - url: "https://thehill.com/sites/default/files/golsteyn121418.png"
+    width: 882
     height: 551
     isCached: true
 
@@ -47,20 +47,20 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Army denies appeal to return medals to soldier Trump pardoned: report"
-    excerpt: "Mathew Golsteyn, a Special Forces soldier whom former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive ..."
-    publishedDateTime: 2021-03-18T04:04:00Z
-    webUrl: "https://thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report"
-    ampWebUrl: "https://thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/543760-army-denies-appeal-to-return-medals-to-soldier-trump-pardoned-report?amp"
+  - title: "Trump appears at Sarah Huckabee Sanders campaign event"
+    excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster ..."
+    publishedDateTime: 2021-03-15T13:05:00Z
+    webUrl: "https://thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event"
+    ampWebUrl: "https://thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/golsteyn121418.png"
-        width: 882
+      - url: "https://thehill.com/sites/default/files/sanders_sarah_trump_donald031521.jpg"
+        width: 980
         height: 551
         isCached: true
   - title: "'Not a Fan': Trump Criticizes Meghan Markle But Hopes She Runs for President in 2024"
@@ -80,6 +80,6 @@ related:
         height: 1136
         isCached: true
 
-secured: "He73mrbmU4HEHSfnZkiZ6vFkP6D+f23hoMqV/nge0QetR/DH1Nqu/+RKNflkw5kJ6r3kWyhpWYoeAMB0i0qoUJbgFStsZswwCEvP2dGLSj5VVwDhL7kPlle3Ua6zGHvn9wb11zz4IgsFLntGBPuSDYucLv5UD9XWwdkYgpEqW3atBfg+466v2om5BYW0SqFy9g4ux4wmwbyrtQntbwz+y299hYOLT3GS2C0Q+2EDuWg0mzljcQzm2F+kuwC8IvCz+N6yTMql1xItCeAoiukoN5OixtK9izALX3xFpkudrgPU97T4Nn2YZE7uF6BynRZTi7oRjed4P1vDaYyiEdt8l9ZoGmBi/sLPHVW4yqM8UwPYVlqOJWYZlep9tkB/3YsmFmwHV3B0EP2HLV54QyL7QjWd99+me/otqIt86CsewtXYJ2jcik8Z09AKBjxSvXh91Xk9E/+fzCCHLiEitVitynyJcsHu2//Bogyp+jy6IUg/wUnFxswterBpDpK3UUkbPUAq+9j6IzR+QyiXhbGekA==;mejY5Z/FtuwsL8IVYRVytA=="
+secured: "tUbW/TTwWz4pa8DSgpQ0KyXdCLcnsU3LVBY27R4GWK3mJmXGZb87weGhjaN4oIXcO6GnZpLhip5viv/E+7taPoOjY4SJh0iX8H95wzG2HthbVlnBRLbWcxnHI11VMowrYB4k8V/w7iya2csQtQzn0EeJOZtTpKwJ+JJFdzfPjzRzakNeS8mUUCYA5Q1jm+BbUMusE6M03RNwUR1b0DgeUB9XO4qdOXzhk+jAwaaoN+6808qrIY0EK0SVokW+UKr6+0xTmnCKAwKmZcIdHJsmVCpS6AF4NDaYJQbAtbrjKCMU9cibB+KMpTd8xHe9gkud54R93cuGJhSRcH3Cr8ntnabtZ81unutEs9CWYAMuYTY=;AEzvY2y5wGI7V7BwRfZ6Ew=="
 ---
 

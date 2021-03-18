@@ -255,6 +255,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "President Biden: ‘I know Asian-Americans are very concerned.’"
+    excerpt: "Mr. Biden said “the question of motivation is still to be determined” in the Georgia shootings, while renewing his concerns over a recent surge in violence against Asian-Americans."
+    publishedDateTime: 2021-03-17T18:24:00Z
+    webUrl: "https://www.nytimes.com/2021/03/17/us/biden-atlanta-shootings.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/17/us/biden-atlanta-shootings.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/17/us/biden-atlanta-shootings.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-biden/17atlanta-shooting-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "R+j7FqDEifqIeF9Fu5p1MkGppUMa2r4jEU/gNbFcB5Hd3JTBjbBWzrpERACHZVHJe5DgB0aAQomX7zb/D6oGGGX6DWV/E/n9VZ+3ULm43fmlJtFVW1j0fyGCN1Dd6nX/KX+135l3Ep08wiKGBKndizzvmAdRlupb0Jhzi8VwI0cIYgsQVEDvlulbnfsGD3hY4j7PYLpDVWz43h/9EnkUG8lc8a1TBdqimpyue3E+s0mhy6PEpDtLUMxbOcHWYApj80JVV4pYgdA5MHOQlJ6J6iWN6on0B94EOO68OUR17F2EQSFaVSsX3GMIZhFs7sSbMkFIkabqLSMYE5QQwxy2tkAbXCH/LEQdnxrMAPpmHNM=;tPtBh78+n0oEf8E9c4nZJQ=="
 ---
