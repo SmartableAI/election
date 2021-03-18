@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Sen. Capito blasts Biden for 'very weak' message telling migrants 'don't come over' to US"
+    excerpt: "President Biden \"sounded very weak\" when telling would-be migrants not to come to the United States during an interview with ABC News, Sen. Shelley Moore Capito, R-W.Va., told \"America Reports\" Wednesday."
+    publishedDateTime: 2021-03-17T21:27:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMV7Y5j9dbE/capito-biden-very-weak-message-migrants-dont-come"
+    ampWebUrl: "https://www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "x0csWgAeY5zMo9prLtN5VSwWHfuzuF/i22OD0cbqZytqy0277UCk12aON1Kh/SfmosZxzIAeQE1ZDxJ6dKGx2l+AL2NaoAQFiYMqMNAOqj/P7Gs29oXhNTPzywJY+Imu14uxImGYvQmfhRRR8zNaptuihX31ZaFuLYEixl6IQbMqlDxS9EiZfmn5e+2Dy3/ZC+12SFwHbTyziMALnwG9QIJInZ6kJw2pw8KvuGHsr3+RWpaCP5Z+FtN77ejrLaIyA1ARNiGksCgVguGlrcy18LTDeEo8FbExlr2SJE82ooh/cnXI2mxQX6iufFgO3SZG81zkSfk11Aiae5/OcwdMhFmBH598VGn0JIujOyIxF58=;AeOu7nqUc3f6QylfwPBRIg=="
 ---

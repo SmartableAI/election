@@ -48,54 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden directs states to reach full vaccine eligibility by May 1"
-    excerpt: "President Biden plans to say in an address to the nation Thursday that as part of the next phase in combatting the coronavirus, he is directing states, tribes, territories to ensure everyone is eligible for vaccination by May 1."
-    publishedDateTime: 2021-03-12T00:54:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jMXbi7hyt1s/biden-states-vaccine-eligibility-may"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-states-vaccine-eligibility-may.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-states-vaccine-eligibility-may.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e81eea02-b9ee-4037-8c41-00c2e0d60df6/c16d7856-1459-43f7-88c2-0bfb14275aca/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden still hasn't held a news conference, 52 days and counting"
-    excerpt: "After more than 50 days in office President Biden has yet to hold a solo press conference, separating him from over a dozen of his most recent predecessors."
-    publishedDateTime: 2021-03-13T20:13:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pV8q2Hckxp8/biden-still-hasnt-held-a-news-conference-52-days-and-counting"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-still-hasnt-held-a-news-conference-52-days-and-counting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-still-hasnt-held-a-news-conference-52-days-and-counting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65d81be2-0f00-484c-a8aa-5dbdf19245d7/ae58f8d0-4894-427c-b651-965f02480d97/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden nominee Deb Haaland confirmed as secretary of the interior"
-    excerpt: "The Senate voted Monday to confirm Deb Haaland as secretary of the interior, filling a position that will play a critical role in implementing President Biden’s planned shift toward green energy."
-    publishedDateTime: 2021-03-15T22:22:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nkzyicW46Y8/biden-nominee-deb-haaland-confirmed-secretary-of-the-interior"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-deb-haaland-confirmed-secretary-of-the-interior.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-deb-haaland-confirmed-secretary-of-the-interior.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e41f206-214c-4281-8a58-4e5743708646/a56e5474-d9ac-4c87-82ed-6e230b606564/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden says he has no plans to travel to the southern border"
     excerpt: "President Biden said Tuesday he does not have any plans to travel to the southern border \"at the moment,\" amid a migrant surge in migrants and overwhelmed facilities. "
     publishedDateTime: 2021-03-16T18:29:37Z
@@ -109,38 +61,6 @@ related:
     quality: 175
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden supports changing filibuster rules in Senate"
-    excerpt: "President Biden said in an interview Tuesday that he is in favor of overhauling the filibuster rules that could help Democrats use their majority in the Senate to steamroll some legislative initiatives without so much as looking at their Republican colleagues."
-    publishedDateTime: 2021-03-17T04:25:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i9rrGkauTB8/biden-supports-changing-filibuster-rules-in-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supports-changing-filibuster-rules-in-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supports-changing-filibuster-rules-in-senate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden silent on whether Cuomo should resign after avalanche of Dem calls"
-    excerpt: "President Biden isn't weighing in on whether New York Gov. Andrew Cuomo should resign even as top New York congressional Democrats say it's time for him to go, according to White House press secretary Jen Psaki."
-    publishedDateTime: 2021-03-12T18:29:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2seJnmpK5A/psaki-biden-cuomo-resign"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-cuomo-resign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-cuomo-resign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -175,22 +95,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden hits 50 day milestone of going without a formal news conference as president"
-    excerpt: "President Biden has been in office for 50 days, but has yet to schedule a formal press conference."
-    publishedDateTime: 2021-03-11T12:46:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_EugI2_A3w/biden-50-days-without-formal-news-conference-president"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-50-days-without-formal-news-conference-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-50-days-without-formal-news-conference-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Scandal-plagued Cuomo joins White House call as Biden refuses to call for resignation"
     excerpt: "New York Gov. Andrew Cuomo took part in a call between the National Governors Association and the White House on Tuesday."
@@ -287,22 +191,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Manchin-Susan-Collins.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Ilhan Omar leads Democrats in demanding Biden end ICE contracts with state, local jails"
-    excerpt: "Minn., led a group of progressive Democrats on Monday in demanding that President Biden's administration end contracts between federal immigration enforcement agencies and state and local detention facilites."
-    publishedDateTime: 2021-03-15T16:20:00Z
-    webUrl: "https://www.foxnews.com/politics/omar-end-contracts-ice-jails"
-    ampWebUrl: "https://www.foxnews.com/politics/omar-end-contracts-ice-jails.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-end-contracts-ice-jails.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 127
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73f5fe50-ad30-425e-a755-e6ba57fca7e7/f25ef0a7-9f70-4c99-89ac-701e3eb10927/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "Hsj72UHBknGgWUqqUymiF1jdOMSnWWXa8omhlCpgZZPKKeRhA851MZkwO5QZRfh7AVa5kl/ltFx2cUbx5JHvZTELI8GKu0FtGpHvM8UCBP/Hm2ViveZSPzFdnvXRm2ghgGXy1+7+Jk4YJWKRdR0C974Kojg/4gcvjMjAmSFRZGJpG9grFF02QdpuFCKIU1XhhjCrEzdKA0eAfePWTN6N1Wx5YXnqKEQVAyEFOUv0VHw073lWkKA7AC0hVD3IOSknt5xLlg7n/3G5eFOadtYoU2AzyRrHe62KeBQzsSudpvL0P7a/rh2UCwARFtPiTe3CKEBJmLeMSkL7sD4vyMJ3TbbMoKRPYckNLEhlTYKRrkU=;Z2CyCkbDN2Zh/WziX1vqTw=="

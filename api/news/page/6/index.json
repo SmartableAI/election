@@ -2,21 +2,25 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-03-12-biden-aims-for-quicker-shots-independence-from-this-virus.md",
-      "title": "Biden aims for quicker shots, 'independence from this virus'",
-      "excerpt": "Biden aims for quicker shots, 'independence from this virus' In a prime-time address, President Joe Biden has outlined his plan to make all adult Americans eligible for vaccination by May 1 ...",
+      "path": "_news/2021-03-12-kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california.md",
+      "title": "Kamala Harris childhood home landmark-status effort dropped in Berkeley, California",
+      "excerpt": "Vice President Kamala Harris' childhood home in Berkeley, California, won’t become a historical landmark anytime soon.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xw0b2dIOn0I/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xw0b2dIOn0I/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 199,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_bee013e7b6c546c9bb315f11a64481ed_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a14e8454-6da2-4ad0-ac22-b98f9eeb2aff/adc0ac07-9da3-4087-90c4-ae385a9c3d17/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "publishedDateTime": "2021-03-11T21:38:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california.amp",
+      "publishedDateTime": "2021-03-11T20:30:06-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +54,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Republican Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -122,7 +127,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1230,
+      "heat": 1170,
       "tags": null,
       "images": [
         {
@@ -544,6 +549,63 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-silence-on-cuomo-continues-for-kamala-harris-who-crusaded-against-brett-kavanaugh.md",
+      "title": "Silence on Cuomo continues for Kamala Harris, who crusaded against Brett Kavanaugh",
+      "excerpt": "Vice President Kamala Harris has not weighed in on the swelling sexual misconduct allegations against New York Gov. Andrew Cuomo. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5e96535-8049-4a95-9d9c-69ba9b304ef5/573d402d-aa19-4ae7-b06f-a22eb03424e7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp",
+      "publishedDateTime": "2021-03-11T12:18:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -1039,6 +1101,54 @@
       ]
     },
     {
+      "path": "_news/2021-03-11-gillibrand-quick-to-call-out-franken-kavanaugh-clinton-trump-but-not-cuomo.md",
+      "title": "Gillibrand quick to call out Franken, Kavanaugh, Clinton, Trump — but not Cuomo",
+      "excerpt": "Sen. Kirsten Gillibrand — who led the charge resulting in former Minnesota Sen. Al Franken’s resignation over sexual misconduct claims — still says it’s not the time to call for",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
+      "originalUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/Kristen-GillibrandArticle.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
+      "publishedDateTime": "2021-03-10T16:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-trump-calls-on-former-nfl-player-herschel-walker-to-run-for-senate-in-georgia.md",
       "title": "Trump calls on former NFL player Herschel Walker to run for Senate in Georgia",
       "excerpt": "Former President Trump surpassed his usual endorsements Wednesday, this time instead calling on former NFL player Herschel Walker to run for Senate in Georgia. ",
@@ -1256,118 +1366,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-biden-adviser-admits-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.md",
-      "title": "Biden adviser admits immigration policy 'may have driven' migrant surge, encouraged 'smugglers'",
-      "excerpt": "Southern Border Coordinator Roberta Jacobson said Wednesday that it was not a “coincidence” border crossing attempts spiked after President Biden took office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ap18060626927363.jpg",
-          "width": 1920,
-          "height": 1301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
-      "publishedDateTime": "2021-03-10T11:28:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-gillibrands-stance-on-cuomo-allegations-contrast-with-past-comments-about-trump-clinton-kavanaugh-franken.md",
-      "title": "Gillibrand's stance on Cuomo allegations contrast with past comments about Trump, Clinton, Kavanaugh, Franken",
-      "excerpt": "Sen. Kirsten Gillibrand, D-N.Y., appears to have departed from her previous stances on sexual misconduct allegations with her current stance on the accusations against New York Gov. Andrew Cuomo.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqkeckRBzpk/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqkeckRBzpk/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b5155-2393-4d14-b171-2c72feb69f0a/2d308622-72a3-4427-aedb-93f15761af39/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp",
-      "publishedDateTime": "2021-03-10T10:31:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

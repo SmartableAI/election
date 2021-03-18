@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
-    excerpt: "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\""
-    publishedDateTime: 2021-03-15T21:32:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+  - title: "Rep. Crenshaw slams Biden's border policy: 'Prioritizing illegal immigrants over US citizens’"
+    excerpt: "Rep. Dan Crenshaw, R-Texas, says he believes the Biden administration’s immigration policies are \"prioritizing illegal immigrants over U.S. citizens.\""
+    publishedDateTime: 2021-03-03T15:26:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1IwasZaMGy4/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20c1dab4-23d3-4f92-9b10-5cc6de6b6d12/3cafb7e6-7288-4d4c-a054-39509edb909a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Texas AG accuses Biden administration of putting Texans 'at risk' with influx of COVID-positive migrants"
-    excerpt: "The Biden administration's handling of the southern border is putting Texans at risk, Attorney General Ken Paxton told \"The Faulkner Focus\" on Friday."
-    publishedDateTime: 2021-03-13T00:52:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_BuhMpftRY/ken-paxton-biden-putting-texans-at-risk"
-    ampWebUrl: "https://www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
+  - title: "Florida AG sues Biden admin over release of criminal aliens: 'My frustration has boiled over'"
+    excerpt: "Florida Attorney General Ashley Moody announced Tuesday that she is suing the Biden administration over \"egregious\" immigration policies that she believes go against federal law and endanger American citizens."
+    publishedDateTime: 2021-03-09T14:59:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mxw8VTn1Rqg/florida-sues-biden-criminal-aliens-released-immigration-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-sues-biden-criminal-aliens-released-immigration-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-sues-biden-criminal-aliens-released-immigration-policy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11a2ee3-f012-4ad0-8cbb-047f5c5c23c1/603bf374-1eb6-41ff-a784-64d19c5a8789/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "tMaW7FM4v8DAB11m4zvf3R9OWnAhGHpYBZaurZ8k5a5nuoj87/BTWbZNpJyo2LTCbcu7Np6luHhGm/UlIXm4hIQbBR5FTCdpIXU8k3JLzWKZyj+MoxSZ58PapCDSwxXekZQCZEsM+WPQjyKIpOoDYfTwGgslroY4NYOml+lMFliIyJMXMLZMRZ5rNjp+RlIpf/pzhoOEqWzs+j/2OC1sNu7X8C7SOxicM/jgkr7gS5nMc6bvrARvKMeVjKrSfIlBWuKpbG3FwAOtGCHKdP0y1eosc7j+/WLHTTHufgjgIvGShbIEVryEHPmn+Hf6pDbh3LpgbCNYQ2uuqYr7LnV9TaEhptEaB0qiYTmp5SPWSwM=;6OAFarleSXQ752UDOTHbHg=="

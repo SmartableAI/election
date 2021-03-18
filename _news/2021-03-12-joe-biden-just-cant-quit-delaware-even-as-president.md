@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
 type: article
 quality: 175
-heat: 735
+heat: 755
 published: true
 
 provider:
@@ -380,6 +380,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/03/19/world/19biden-amlo-immigration-add1/19biden-amlo-immigration-add1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "With Biden Endorsement, Push to Weaken Filibuster Gains Traction"
+    excerpt: "Activists and lawmakers say momentum is on their side but warn of a prolonged fight as Republicans dig in and some Democrats remain unconvinced."
+    publishedDateTime: 2021-03-18T20:51:00Z
+    webUrl: "https://www.nytimes.com/2021/03/18/us/biden-filibuster-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/18/us/biden-filibuster-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/us/biden-filibuster-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/18/us/politics/18dc-hulse-1/18dc-hulse-1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

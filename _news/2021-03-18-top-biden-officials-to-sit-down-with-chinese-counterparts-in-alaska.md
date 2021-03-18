@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-alaska-meetings/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127095832-01-blinken-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
+    excerpt: "The federal government currently has more than 14,000 migrant children in its custody, administration officials said on Thursday, even as they insist that what is happening on the southern border does not constitute a \"crisis.\"\n    \n"
+    publishedDateTime: 2021-03-18T20:50:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZvV7zAlMo1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316151003-102-border-crisis-0314-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/kamala-harris-atlanta-sh
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/kamala-harris-atlanta-shooting/index.html"
 type: article
 quality: 172
-heat: 192
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden so far avoids talking gun reform post-Atlanta shooting"
+    excerpt: "In the wake of Tuesday's shootings in Atlanta, President Joe Biden has raised concerns about the spike in hate crimes against Asian Americans and tasked two senior advisers to convene listening sessions on the issue.\n    \n"
+    publishedDateTime: 2021-03-18T19:56:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vScqODW52GE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta-shooting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta-shooting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden orders flags to be flown at half-staff in honor of Atlanta shooting victims"
+    excerpt: "President Joe Biden has ordered the American flags at the White House and on other federal ground be flown at half-staff as \"a mark of respect for the victims of the senseless acts of violence\" in Atlanta this week.\n    \n"
+    publishedDateTime: 2021-03-18T17:30:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Yde7DV27dY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318130453-white-house-flag-half-staff-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden and Kamala Harris plan to visit with Asian-American leaders in Atlanta."
     excerpt: "President Biden and Vice President Kamala Harris at the White House last week. They plan to travel to Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris will meet in Atlanta on Friday with community ..."
     publishedDateTime: 2021-03-18T14:40:00Z
@@ -47,6 +79,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/18/multimedia/18atlanta-shootings-briefing-biden-harris/18atlanta-shootings-briefing-biden-harris-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden orders flags to be flown at half-staff in honor of Atlanta shooting victims"
+    excerpt: "(CNN)President Joe Biden has ordered the American flags at the White House and on other federal ground be flown at half-staff as \"a mark of respect for the victims of the senseless acts of violence\" in Atlanta this week. The shooting rampage on Tuesday ..."
+    publishedDateTime: 2021-03-18T17:30:00Z
+    webUrl: "https://www.cnn.com/2021/03/18/politics/biden-flags-atlanta/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318130453-white-house-flag-half-staff-0318-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "H7bwtJS7DJO3IBpIEx5mj3HIz5UMuJXh10cANKp4c8/gz0cSJqxNuYlSgICBcRhxHM6I6y2Ouw1/KoeTXmvz04pQ99gCXrpD9d92vkBsz8eCx7gKFoLhvoHkxMXV0/qEw1cResONdyoipY5Me1Y242Bd54nswku+xFo4hdTxGTsNO3QHwf7ryGQO5JJ9fYINoCYylOrFcw8IuDy1+PQxU26kC2UtaBmLkY27f6EyE+nL9ttISaVF6zf19F1q1pb1QMkimOpm9s+IFCoM1+xJUxe/CjrcmSLH49PYPVaLYJT6suFByl4yWhWlXk/jKZLtSq4e8AJTgvbbYi3Zj+F4lgXku+X92ycRhMeV0XZ5M7M=;LBd1exYh3VC72uohRN9J4w=="

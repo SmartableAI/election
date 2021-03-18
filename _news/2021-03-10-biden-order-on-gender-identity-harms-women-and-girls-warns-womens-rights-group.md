@@ -31,179 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Cassidy: Biden policies 'entirely' to blame for border surge"
-    excerpt: "Sen. Bill Cassidy, R-La., blames President Biden for the surge of migrants that have presented a crisis at the U.S. southern border."
-    publishedDateTime: 2021-03-14T13:58:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1mHC9bQtyxc/sen-cassidy-biden-policies-border-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-cassidy-biden-policies-border-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cassidy-biden-policies-border-surge.amp"
+  - title: "Biden backs House gun background check bills that would tighten restrictions"
+    excerpt: "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system."
+    publishedDateTime: 2021-03-08T17:31:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d_Y_MdnyAE/biden-gun-background-check-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-background-check-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-background-check-bills.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'"
-    excerpt: "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. "
-    publishedDateTime: 2021-03-18T17:26:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+  - title: "Fauci backs Biden pledge of normal Fourth of July, 3 million vaccines per day"
+    excerpt: "Around 3 million vaccines were administered for the first time over the weekend."
+    publishedDateTime: 2021-03-14T16:06:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QD9KMj4IVuM/fauci-biden-pledge-normal-july-3-million-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/fauci-biden-pledge-normal-july-3-million-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-biden-pledge-normal-july-3-million-vaccines.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6579499f-993a-4584-a386-7cd91ec889b6/7e691339-64be-4012-9d3a-60567bd772f2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden immigration policies have created 'disorder at the border,' GOP lawmakers say"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., and other GOP lawmakers called on President Biden to admit fault and work to reverse changes to immigration policies that they said have caused a dangerous surge in migrants at the southern border."
-    publishedDateTime: 2021-03-15T19:44:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRAWSOw5O4c/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
+  - title: "Biden wants to negotiate with GOP but outside 'forces' holding him back: Sen. Capito"
+    excerpt: "Sen. Shelley Moore Capito, R-W. Va., said the Democratic coronavirus stimulus bill was a \"non-starter\" on Friday, calling it \"bloated\" and a wasted opportunity to work across the aisle."
+    publishedDateTime: 2021-03-05T16:31:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmWiXPUpXko/biden-coronavirus-bill-bloated-wasted-opportunity-capito"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-bill-bloated-wasted-opportunity-capito.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-bill-bloated-wasted-opportunity-capito.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aea660e1-50db-4302-ab95-32e29d2d4cad/78743621-74f9-4557-a785-713a3cc77c6a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden admin can't keep up with border surge of migrant children, CBP official warns"
-    excerpt: "The number of migrant children in federal custody has passed 4,000, one source told Fox News."
-    publishedDateTime: 2021-03-16T21:51:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1tsjcCcU_k/migrant-children-border-dhs-families-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21071661472869.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Sen. Capito blasts Biden for 'very weak' message telling migrants 'don't come over' to US"
-    excerpt: "President Biden \"sounded very weak\" when telling would-be migrants not to come to the United States during an interview with ABC News, Sen. Shelley Moore Capito, R-W.Va., told \"America Reports\" Wednesday."
-    publishedDateTime: 2021-03-17T21:27:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMV7Y5j9dbE/capito-biden-very-weak-message-migrants-dont-come"
-    ampWebUrl: "https://www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp"
+  - title: "Biden won White House with ‘put your dumb uncle in the basement’ strategy, new book says"
+    excerpt: "President Biden won the White House because the coronavirus let him stay hidden in his basement, protecting his campaign from its biggest liability — the candidate himself, a new book says."
+    publishedDateTime: 2021-03-03T02:36:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZHgjoN7dPBs/biden-won-white-house-put-dumb-uncle-in-basement-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-won-white-house-put-dumb-uncle-in-basement-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-won-white-house-put-dumb-uncle-in-basement-strategy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21061782817925.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden's 'open border' policies enriching drug cartels as migrant crisis escalates: Gov. Abbott"
-    excerpt: "President Biden’s “open border policies” are not only inviting more illegal immigration to the U.S. but also enriching and empowering drug cartels in Mexico who profit from smuggling migrants across the border, Texas Gov. Greg Abbott said Sunday."
-    publishedDateTime: 2021-03-14T17:38:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbAxoxVDSqo/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+  - title: "Biden to sign voter registration executive order as he pushes Senate to pass sweeping HR 1 bill"
+    excerpt: "President Biden is scheduled to sign an executive order designed to increase voter access on Sunday as he pushes the Senate to pass H.R. 1, House Democrats' sweeping voting rights package."
+    publishedDateTime: 2021-03-07T13:44:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IE-fnE_wPkc/biden-voter-registration-executive-order-senate-hr-1"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/550f6423-a32c-452f-bdfd-b560fe6553e7/7ba82ed6-7af9-448b-8ff7-aa6485e70ef4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Biden-Voting-Executive-Order-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Border numbers expected to show wave as migrant children in custody triples, Biden DHS asks for help"
-    excerpt: "The Biden administration is set to release new border numbers this week, figures expected to show a wave of migration crashing down on the southern border in recent weeks -- just as the Department of Homeland Security  (DHS) is urging its staff to volunteer to help with what it admits are \"overwhelming\""
-    publishedDateTime: 2021-03-09T17:17:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAlSIcjiiDU/border-numbers-wave-migrant-children-triples-biden-dhs"
-    ampWebUrl: "https://www.foxnews.com/politics/border-numbers-wave-migrant-children-triples-biden-dhs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-numbers-wave-migrant-children-triples-biden-dhs.amp"
+  - title: "Biden Pentagon pick faces questions over ties to group that helped create Iran deal 'echo chamber'"
+    excerpt: "One of President Biden's top Pentagon picks is facing concern from Republicans about his views on Iran and his ties to a group that helped create an \"echo chamber\" to sell the Iran nuclear deal to the public."
+    publishedDateTime: 2021-03-04T21:53:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2guRl2zshQc/biden-pentagon-ploughshares-fund-iran-colin-kahl"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4394b12e-936e-4fd0-a56a-b3b597c07b47/d65ba80f-6261-4802-8b7c-78ce7d9f54fd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Colin-Kahl-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden's border crisis filtering 'into every community' and policies must be stopped: Florida sheriff"
-    excerpt: "The border crisis needs to be \"stopped\" as the migrant surge increase affects residents, Brevard County Sheriff Wayne Ivey told \"Fox & Friends\" on Thursday, blasting President Biden’s policies for heavily impacting the U.S. economy and communities."
-    publishedDateTime: 2021-03-18T15:40:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fT0NmWS0UFM/bidens-border-policies-stopped-crisis-florida-sheriff"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-border-policies-stopped-crisis-florida-sheriff.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-border-policies-stopped-crisis-florida-sheriff.amp"
+  - title: "Biden celebrates House passing HR 1, Dems' campaign bill, vows work to 'refine and advance' legislation"
+    excerpt: "President Biden on Thursday celebrated the House passing a sweeping election reform bill, saying he would sign it if it passes the Senate."
+    publishedDateTime: 2021-03-04T14:22:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/prjm5q22-xc/biden-house-passes-hr1-campaign-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-house-passes-hr1-campaign-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-house-passes-hr1-campaign-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
-    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
-    publishedDateTime: 2021-03-17T10:33:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McCarthy says he hasn’t heard back from White House about request for meeting with Biden on border crisis"
-    excerpt: "House Minority Leader Kevin McCarthy pressed President Biden—again—for a meeting to discuss a bipartisan way to address the situation at the U.S. Southern Border, maintaining that “securing our border should not be a partisan issue.”"
-    publishedDateTime: 2021-03-18T18:41:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZP-R41i2leQ/mccarthy-presses-biden-meeting-situation-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
+    quality: 159
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden admin allowed majority of migrant families who surrendered at border to enter US despite health order"
-    excerpt: "In February, U.S. Customs and Border Protection (CPB) allowed the majority of the migrant families it encountered on the U.S. southwestern border to stay in the country pending a decision on whether they will be allowed to stay permanently. "
-    publishedDateTime: 2021-03-18T17:21:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-p3906S9zsY/biden-border-crisis-migrants-health-order"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

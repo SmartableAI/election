@@ -31,37 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tells Americans to keep wearing masks 'until everyone is, in fact, vaccinated'"
-    excerpt: "President Biden wants Americans to wear face masks to prevent the spread of coronavirus \"until everyone is, in fact, vaccinated.\""
-    publishedDateTime: 2021-03-16T20:42:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NKcn9wCnYtU/biden-americans-coronavirus-mask-all-vaccinated"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp"
+  - title: "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'"
+    excerpt: "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. "
+    publishedDateTime: 2021-03-18T17:26:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21074656169869.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Florida lawsuit against Biden administration says ICE guidance puts Americans in danger"
-    excerpt: "Florida’s attorney general on Tuesday filed a lawsuit to halt Immigration and Customs Enforcement (ICE) guidance that narrows the illegal immigrants prioritized for arrest and deportation."
-    publishedDateTime: 2021-03-10T02:14:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp"
+  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
+    excerpt: "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\""
+    publishedDateTime: 2021-03-15T21:32:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3fb25b4-be53-4871-a0e0-07f16e230641/42e8ab05-3320-490b-aeb2-4cba2e2fdb05/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Dan Bongino slams Biden immigration agenda: Without a border, 'you don't have a country'"
+    excerpt: "Fox News contributor Dan Bongino rips Biden's immigration policy on \"Fox & Friends,\" and asserts that we don't have a country without a border."
+    publishedDateTime: 2021-03-16T15:03:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRKdl1linmU/dan-bongino-border-crisis-biden-immigration-fox-friends"
+    ampWebUrl: "https://www.foxnews.com/politics/dan-bongino-border-crisis-biden-immigration-fox-friends.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-bongino-border-crisis-biden-immigration-fox-friends.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43446e6c-352c-4c59-bfa5-2b93b2468473/bdfdbabc-61d5-4370-a3b3-ad549f1d987e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's 'open border' policies enriching drug cartels as migrant crisis escalates: Gov. Abbott"
+    excerpt: "President Biden’s “open border policies” are not only inviting more illegal immigration to the U.S. but also enriching and empowering drug cartels in Mexico who profit from smuggling migrants across the border, Texas Gov. Greg Abbott said Sunday."
+    publishedDateTime: 2021-03-14T17:38:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbAxoxVDSqo/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/550f6423-a32c-452f-bdfd-b560fe6553e7/7ba82ed6-7af9-448b-8ff7-aa6485e70ef4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
+    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
+    publishedDateTime: 2021-03-17T10:33:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "m81KDksVmgZvcFU8ugNYc51L68EzMPwq6YEp/DrLsM0dSqq/jDpv2Gb3P7/VgkbNGBM6q2G2Sh7Hu/SwYqtK6Ou7K/R2RQu7ARynHHYYEFKb5WtjL6TYXw0P60pvXno74zRWK4Bh+RLtxbSNjNWs2c2MyRVTEglBI32M+vh7AkZ4UG6lcnCN9N5QpK+VEqlZRXc+QsR33+YgLhMALvOYD4RoEwrjlgABku7Oxa9WJ0keSvgznM1yfz1Jww0WeEuV9hL+YhKGaXz/718SEnqxnbpWWG/5YdCowRzV8uw2dUy1QSsqoM9TetNzF9m9KExctrT7O8hBtwjsMNcRmtamFOMOtPWabGI4N9Bg6d/CzIw=;l8Cd7GOMUCmFreeeqwGS1g=="

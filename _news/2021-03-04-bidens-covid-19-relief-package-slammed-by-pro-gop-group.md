@@ -239,38 +239,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden set to address nation on anniversary of COVID-19 pandemic"
-    excerpt: "President Biden is set to deliver his first primetime address to the nation since taking office Thursday night, to mark one year since the World Health Organization designated the novel coronavirus a pandemic and shutdowns started across the country."
-    publishedDateTime: 2021-03-11T12:17:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JyDCkSI9vAM/biden-set-to-address-nation-on-anniversary-of-covid-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-set-to-address-nation-on-anniversary-of-covid-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-set-to-address-nation-on-anniversary-of-covid-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden to hold first press conference March 25"
-    excerpt: "President Biden will hold his first formal news briefing on Thursday afternoon, March 25, press secretary Jen Psaki announced Tuesday. "
-    publishedDateTime: 2021-03-16T20:31:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BR51-wHitSs/biden-to-hold-first-news-conference-march-25"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-first-news-conference-march-25.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-first-news-conference-march-25.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f29b4e2a-886f-491f-ba9f-d209269089f0/6042c3e1-2a94-4628-9ae1-57d01f5b3b7c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Donald Trump hints he will consider running for president again"
     excerpt: "Former president Donald Trump suggested he will consider running again in 2024 if the Republican Party can reclaim numbers in Washington."
     publishedDateTime: 2021-03-17T00:54:20Z
@@ -398,22 +366,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden's words on migrant children without beds, soap could come back to haunt him"
-    excerpt: "In 2019, then-candidate Biden went after then-President Donald Trump online over the conditions at detention centers holding migrant children as the Trump administration argued in defense of the facilities in federal court."
-    publishedDateTime: 2021-03-16T20:15:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/91pjycfr2jY/biden-border-crisis-child-migrant-toothbrushes-sleeping-floor"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-child-migrant-toothbrushes-sleeping-floor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-child-migrant-toothbrushes-sleeping-floor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Biden gives premature pat on the back to Democrats on COVID bill, ignores progressives"
     excerpt: "President Biden cheered the passage Saturday of his $1.9 trillion coronavirus relief bill in the Senate and said the massive stimulus is the key to ending the suffering caused by the yearlong pandemic. "

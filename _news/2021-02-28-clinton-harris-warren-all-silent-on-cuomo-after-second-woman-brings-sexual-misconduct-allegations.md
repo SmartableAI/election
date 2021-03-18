@@ -32,37 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris takes heat for silence on Cuomo accusations"
-    excerpt: "Vice President Harris is taking heat for staying silent amid sexual misconduct allegations against her fellow high-profile Democrat Andrew Cuomo."
-    publishedDateTime: 2021-03-16T00:16:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujkqM_blCvI/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/AP20038674193000.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden, Harris refuse to call for Cuomo to resign as governor's support collapses in New York, nationwide"
-    excerpt: "President Biden and Vice President Kamala Harris are not calling for New York Gov. Andrew Cuomo to resign even as a growing number of New York and national Democrats say it's time for the scandal-ridden governor to step down."
-    publishedDateTime: 2021-03-15T11:33:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GZ6rWcqau6U/biden-harris-and-pelosi-among-dwindling-group-of-dems-not-to-call-for-cuomo-to-resign-amid-cascading-scandals"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-and-pelosi-among-dwindling-group-of-dems-not-to-call-for-cuomo-to-resign-amid-cascading-scandals.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-and-pelosi-among-dwindling-group-of-dems-not-to-call-for-cuomo-to-resign-amid-cascading-scandals.amp"
+  - title: "Pelosi vows to keep minimum wage provision in House bill; Harris could act"
+    excerpt: "The Senate's chief parliamentarian ruled Thursday that a federal minimum wage hike should not be included in the $1.9 trillion COVID-19 relief package, but that seemed to do little to deter House Democrats from pursuing the plan — against impossible odds."
+    publishedDateTime: 2021-02-26T07:30:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wV7eyEm-PCI/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 183
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Kamala Harris speaks with Netanyahu in latest talk with a major world leader"
+    excerpt: "Vice President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu had a call Thursday amid the Middle Eastern ally's growing tension with Iran."
+    publishedDateTime: 2021-03-05T00:27:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uar-fidAJDA/kamala-harris-netanyahu-call"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-netanyahu-call.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-netanyahu-call.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7750b86-b666-441d-ad85-e004befe43e3/3f70789c-8232-4f13-a178-f669a03f6443/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Psaki won't say if Harris will speak out on Cuomo sexual misconduct allegations"
     excerpt: "White House press secretary Jen Psaki did not have an answer as to if or when Vice President Kamala Harris might speak out on the sexual misconduct allegations against New York Gov. Andrew Cuomo."
@@ -80,197 +80,101 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Silence on Cuomo continues for Kamala Harris, who crusaded against Brett Kavanaugh"
-    excerpt: "Vice President Kamala Harris has not weighed in on the swelling sexual misconduct allegations against New York Gov. Andrew Cuomo. "
-    publishedDateTime: 2021-03-11T20:18:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh"
-    ampWebUrl: "https://www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp"
+  - title: "Kamala Harris tweet celebrating Dr. Seuss in 2017 resurfaces after president's omission"
+    excerpt: "A tweet written by Vice President Kamala Harris praising Dr. Seuss four years ago resurfaced Tuesday after President Biden failed to mention the children’s author when making his \"Read Across America Day\" proclamation."
+    publishedDateTime: 2021-03-03T08:31:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fcCiIqCd-Zc/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 177
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5e96535-8049-4a95-9d9c-69ba9b304ef5/573d402d-aa19-4ae7-b06f-a22eb03424e7/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4f1b86c-28c5-45f6-981d-adc6a8383619/3216f352-6ba6-4bb0-9b2e-fde037b084ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris childhood home landmark-status effort dropped in Berkeley, California"
-    excerpt: "Vice President Kamala Harris' childhood home in Berkeley, California, won’t become a historical landmark anytime soon."
-    publishedDateTime: 2021-03-12T04:30:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xw0b2dIOn0I/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california.amp"
+  - title: "Kamala Harris casts tie-breaking vote to launch debate over $1.9 trillion COVID-19 bill"
+    excerpt: "Vice President Kamala Harris came to the rescue of Senate Democrats Thursday afternoon by breaking a 50-50 logjam over whether to advance President Biden's $1.9 trillion coronavirus legislation."
+    publishedDateTime: 2021-03-04T21:18:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U9mBDvCBCQg/vp-harris-casts-tie-breaking-vote-to-debate-1-9t-coronavirus-bill-gop-forces-full-reading-of-628-page-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-harris-casts-tie-breaking-vote-to-debate-1-9t-coronavirus-bill-gop-forces-full-reading-of-628-page-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-casts-tie-breaking-vote-to-debate-1-9t-coronavirus-bill-gop-forces-full-reading-of-628-page-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 177
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a14e8454-6da2-4ad0-ac22-b98f9eeb2aff/adc0ac07-9da3-4087-90c4-ae385a9c3d17/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris supports change to filibuster in Senate to limit minority party power"
-    excerpt: "Vice President Kamala Harris supports changing the filibuster practice in the Senate in order to limit the ability of the minority party to easily block legislation, her office confirmed to Fox News Wednesday. "
-    publishedDateTime: 2021-03-17T14:54:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScI6CQMge0E/kamala-harris-filibuster-senate-limit-minority-party-power"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Man arrested outside VP Harris' residence with rifle and ammunition, DC police say"
-    excerpt: "Washington D.C. police arrested a man outside of Vice President Kamala Harris’ residence on Wednesday after authorities found a rifle and ammunition in his car."
-    publishedDateTime: 2021-03-17T21:44:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1i9yXVDxmk/man-arrested-outside-vp-harris-residence-with-rifle-ammunition-dc-police-say"
-    ampWebUrl: "https://www.foxnews.com/politics/man-arrested-outside-vp-harris-residence-with-rifle-ammunition-dc-police-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-outside-vp-harris-residence-with-rifle-ammunition-dc-police-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c4cb1af-f73b-4680-b11d-08e12b08a8a6/67e4c7cc-e400-4230-afd4-756b2eccfd66/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "VP Harris dodges question about migrant children: 'I haven't been briefed on anything today about it'"
-    excerpt: "Harris' response comes as the Biden administration has refused to call the perilous border situation a crisis."
-    publishedDateTime: 2021-03-17T00:54:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sowtBx8Ipek/vp-kamala-harris-migrant-children-border"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075827674492.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21036028847140.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
-    excerpt: "President Joe Biden broke his silence on Governor Andrew Cuomo's mounting allegations of sexual misconduct on Sunday – but fell short of calling on the embattled New York Democrat to resign."
-    publishedDateTime: 2021-03-14T23:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U5lufCZypRo/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation.amp"
+  - title: "Ex-Trump administration HHS official Brian Harrison announces run for Texas House seat"
+    excerpt: "Ex-Trump administration HHS official Brian Harrison announces run for Texas House seat"
+    publishedDateTime: 2021-03-01T19:34:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqu2L8G6sCs/ex-trump-administration-hhs-official-brian-harrison-announces-run-for-texas-house-seat"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-trump-administration-hhs-official-brian-harrison-announces-run-for-texas-house-seat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-administration-hhs-official-brian-harrison-announces-run-for-texas-house-seat.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b105bf2-41fd-43b2-b0e7-a1100cbc737c/d57ad943-de85-4d3b-8af4-9e0d08e50f89/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "VP Kamala Harris takes another solo call with a world leader"
-    excerpt: "Vice President Kamala Harris had another call with a foreign leader Tuesday, independent of President Biden. Harris spoke with the prime minister of Norway, Erna Solberg, where Harris \"affirmed her commitment to deepening the strong alliance between Norway ..."
-    publishedDateTime: 2021-03-10T01:45:00Z
-    webUrl: "https://www.foxnews.com/politics/harris-call-norway-prime-minister"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-call-norway-prime-minister.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-call-norway-prime-minister.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21036028847140.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris ignores question on Cuomo sexual harassment scandal"
-    excerpt: "Vice President Kamala Harris ignored a question about Democratic New York Gov. Andrew Cuomo’s widening sexual harassment scandal while speaking with reporters on Wednesday. Harris briefly spoke with reporters after House lawmakers passed the Senate ..."
-    publishedDateTime: 2021-03-11T02:18:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-ignores-question-on-cuomo-sexual-harassment-scandal"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-ignores-question-on-cuomo-sexual-harassment-scandal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-ignores-question-on-cuomo-sexual-harassment-scandal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6114d9a-f847-43c3-a7ad-38b44749138c/da7bcf3d-f970-4418-948f-6904dfa22813/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris ignores question on Cuomo’s sexual misconduct scandal"
-    excerpt: "Vice President Kamala Harris refused to comment on Gov. Andrew Cuomo’s mounting sexual misconduct scandal — despite previously swiftly condemning former Democratic Sen. Al Franken when"
-    publishedDateTime: 2021-03-11T16:07:00Z
-    webUrl: "https://nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/"
-    ampWebUrl: "https://nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/amp/"
+  - title: "White House reporter covering Kamala Harris tests positive for COVID-19"
+    excerpt: "A reporter covering Vice President Kamala Harris tested positive for the coronavirus on Wednesday, forcing a thorough cleaning of the White House briefing room before this afternoon’s press"
+    publishedDateTime: 2021-02-24T17:21:00Z
+    webUrl: "https://nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/"
+    ampWebUrl: "https://nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-4.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/white-house-reporter-covid.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Merrick Garland speaks at DOJ before swearing-in by VP Kamala Harris"
-    excerpt: "Attorney General Merrick Garland paid a visit to his new office Thursday morning to deliver his first remarks to Justice Department staff ahead of his swearing-in by Vice President Kamala Harris."
-    publishedDateTime: 2021-03-11T18:30:00Z
-    webUrl: "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/"
-    ampWebUrl: "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/"
+  - title: "Kamala Harris breaks 50-50 tie to begin Senate debate on $1.9T stimulus"
+    excerpt: "Vice President Kamala Harris on Thursday broke a 50-50 tie to begin debate on President Biden’s $1.9 trillion COVID-19 relief bill. Debate on the bill, which would grant $1,400 stimulus checks ..."
+    publishedDateTime: 2021-03-04T20:42:00Z
+    webUrl: "https://nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/"
+    ampWebUrl: "https://nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/merrick-garland-01.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Kamala Harris continues to avoid commenting on Cuomo sexual misconduct allegations"
-    excerpt: "New York Gov. Andrew Cuomo's sexual misconduct allegations have gone yet another day without comment from Vice President Kamala Harris, who had been a crusader for sexual assault survivors as recently as 2018, during Brett Kavanaugh's Supreme Court ..."
-    publishedDateTime: 2021-03-17T01:03:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo.amp"
+  - title: "VP Kamala Harris To Black Americans: \"Let's Not Let COVID Get Us\""
+    excerpt: "Vice President Kamala Harris addressed the Black community and encouraged them to take the COVID vaccine in an interview with MSNBC host Rev. Al Sharpton that will air on Thursday and fully on the Saturday broadcast of his show on the news network."
+    publishedDateTime: 2021-02-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Harris-walkoff.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Kamala Harris silent on mounting Cuomo allegations after Kavanaugh crusade, #MeToo support"
-    excerpt: "While more and more members of both parties are weighing in on the sexual harassment allegations brought by multiple women against New York Gov. Andrew Cuomo, one voice absent in the conversation has been Vice President '."
-    publishedDateTime: 2021-03-02T15:36:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://assets.realclear.com/images/53/536177.jpg"
+        width: 1124
+        height: 842
         isCached: true
 
 secured: "WtmhXeqBnM3+/ovJyYuxLcaN2RfqKkN+Qog5CRMFWb/ij97YMCSjSsu900x9sRSYVGo/gW3Vz5GcYVgNLwpElNPTWUH1qIhPilqK7zKnv/XuG/h6y43Y4uJshxFRw3VTBUG0slxdIOTXGysaNg6zU4lII7cBDj0BcJcFIX9fDBVO8/ZW9t7CgoYJFMsaa35WJY8mqQED+k+b5dHjdlpCy6/xVofkq6mwbAdtJixL6F/4vu7QqUoO7nulT1ajNvjitfc2QQ955Jlb+RFJxlqgNzStQUWKFaeGKubVJOc9tyHdjPWamxvwSOgb7symZIM5regKiFg9X6tBAjGmG7aTeyMWDoy5gpJ32oqnkGNtw0U=;lPwTfDcZwhLRihloGikN9Q=="

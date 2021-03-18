@@ -217,6 +217,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Eyeing 2022 elections, Republicans jockey for Trump's blessing"
+    excerpt: "Off the stage, the candidates said in interviews they all want his blessing to replace Herrera Beutler, a 10-year incumbent, in Washington’s third congressional district next year. Trump is “still in charge” of the Republican Party and his endorsement would be “very important,"
+    publishedDateTime: 2021-03-18T15:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-politics-trump-republicans-insigh/eyeing-2022-elections-republicans-jockey-for-trumps-blessing-idUSKBN2BA11Q?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA11Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA11Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555326703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0KW"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Lucky review: how Biden beat Trump – and doubters like Obama and Hillary"
     excerpt: "Jonathan Allen and Amie Parnes deliver a clear-eyed account of an election which could not cure a country’s wounds"
     publishedDateTime: 2021-03-07T05:02:00Z

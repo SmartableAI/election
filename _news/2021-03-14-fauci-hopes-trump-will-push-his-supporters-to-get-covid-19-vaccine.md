@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B60DA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B60DA"
 type: article
 quality: 125
-heat: 545
+heat: 565
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 111
     images:
       - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Anti-Asian hashtags soared after Donald Trump first tied COVID-19 to China on Twitter, study shows"
+    excerpt: "The week after then-President Donald Trump first used the #chinesevirus hashtag, the number of people using the hashtag increased more than tenfold."
+    publishedDateTime: 2021-03-18T20:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/03/18/anti-asian-hashtags-donald-trump-covid-19-tweet-study/4728444001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4728444001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4728444001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/18/USAT/d540efd8-e28e-41e2-a68c-a13e422d19d8-Stop_Asian_Hate_Vigils_14.JPG?auto=webp&crop=4253,2392,x0,y42&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

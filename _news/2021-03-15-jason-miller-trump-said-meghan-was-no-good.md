@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meg
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://thehill.com/sites/default/files/golsteyn121418.png"
         width: 882
         height: 551
+        isCached: true
+  - title: "Newsmax hires Trump adviser Jason Miller, Giuliani's son"
+    excerpt: "The conservative network Newsmax said Thursday it is hiring Jason Miller, a senior adviser to former President Donald Trump, as a contributor, along with ex-Trump aide Andrew Giuliani NEW YORK ..."
+    publishedDateTime: 2021-03-18T20:03:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/newsmax-beefs-trump-team-hiring-miller-andrew-giuliani-76542852"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/newsmax-beefs-trump-team-hiring-miller-andrew-giuliani-76542852"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/newsmax-beefs-trump-team-hiring-miller-andrew-giuliani-76542852"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_a991e29a61084bea9ac91a29fe3bde46_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "'Not a Fan': Trump Criticizes Meghan Markle But Hopes She Runs for President in 2024"
     excerpt: "Meghan Markle is rumored to run for president in 2024, and former President Donald Trump responded in an interview with Fox News Tuesday night."

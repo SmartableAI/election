@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-18-biden-calls-his-second-in-command-president-harris.md",
+      "title": "Biden calls his second-in-command 'President Harris'",
+      "excerpt": "President Biden appeared to misspeak in a speech Thursday offering updates on an update on vaccination progress in the U.S., referring to his vice president as “President Harris.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZsCl0lpI7qI/biden-calls-his-vp-president-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZsCl0lpI7qI/biden-calls-his-vp-president-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 700,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp",
+      "publishedDateTime": "2021-03-18T12:58:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-biden-so-far-avoids-talking-gun-reform-post-atlanta-shooting.md",
+      "title": "Biden so far avoids talking gun reform post-Atlanta shooting",
+      "excerpt": "In the wake of Tuesday's shootings in Atlanta, President Joe Biden has raised concerns about the spike in hate crimes against Asian Americans and tasked two senior advisers to convene listening sessions on the issue.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vScqODW52GE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vScqODW52GE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta-shooting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta-shooting/index.html",
+      "publishedDateTime": "2021-03-18T12:56:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-liberal-media-need-to-wait-for-facts-before-blaming-atlanta-shootings-on-trump-and-racism-critics-say.md",
       "title": "Liberal media need to wait for facts before blaming Atlanta shootings on Trump and racism, critics say",
       "excerpt": "While authorities continue to investigate the Atlanta shootings, media watchdogs feel pundits and journalists should wait for the facts before casting racism as the motive.",
@@ -71,7 +184,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -115,25 +228,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-biden-orders-flags-to-be-flown-at-half-staff-in-honor-of-atlanta-shooting-victims.md",
-      "title": "Biden orders flags to be flown at half-staff in honor of Atlanta shooting victims",
-      "excerpt": "President Joe Biden has ordered the American flags at the White House and on other federal ground be flown at half-staff as \"a mark of respect for the victims of the senseless acts of violence\" in Atlanta this week.\n    \n",
+      "path": "_news/2021-03-18-rick-scott-blasts-biden-immigration-policies-americans-dont-want-open-borders.md",
+      "title": "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'",
+      "excerpt": "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. ",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Yde7DV27dY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Yde7DV27dY/index.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 190,
+      "heat": 270,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210318130453-white-house-flag-half-staff-0318-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -141,16 +254,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html",
-      "publishedDateTime": "2021-03-18T10:30:59-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp",
+      "publishedDateTime": "2021-03-18T10:26:11-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -167,7 +280,7 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     },
     {
@@ -1223,110 +1336,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions-limits-on-polluting-industries.md",
-      "title": "EPA asks court to toss Trump rule that could prevent emissions limits on polluting industries",
-      "excerpt": "The Environmental Protection Agency (EPA) on Wednesday asked a court to throw out a Trump administration rule that could prevent setting greenhouse gas limits on multiple pollu",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions",
-      "originalUrl": "https://thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/epaenvironmentalprotectionagency2_021820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions?amp",
-      "publishedDateTime": "2021-03-17T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting.md",
-      "title": "Judy Chu blames Trump for rising anti-Asian hate after Atlanta shooting",
-      "excerpt": "on Wednesday blamed former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting",
-      "originalUrl": "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/chujudy_072518am_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp",
-      "publishedDateTime": "2021-03-17T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

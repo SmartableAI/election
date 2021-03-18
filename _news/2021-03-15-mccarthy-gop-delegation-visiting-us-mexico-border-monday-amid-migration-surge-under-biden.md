@@ -63,6 +63,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden immigration policies have created 'disorder at the border,' GOP lawmakers say"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., and other GOP lawmakers called on President Biden to admit fault and work to reverse changes to immigration policies that they said have caused a dangerous surge in migrants at the southern border."
+    publishedDateTime: 2021-03-15T19:44:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRAWSOw5O4c/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden admin can't keep up with border surge of migrant children, CBP official warns"
+    excerpt: "The number of migrant children in federal custody has passed 4,000, one source told Fox News."
+    publishedDateTime: 2021-03-16T21:51:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1tsjcCcU_k/migrant-children-border-dhs-families-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21071661472869.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "'It's not a mystery': Sen. Kennedy tells 'Fox & Friends' how Biden border crisis can be stopped"
     excerpt: "Forty GOP senators, including Sen. John Kennedy, R-La., wrote a letter to the U.S. Government Accountability Office to determine whether President Biden’s executive order unlawfully halted a fund of $1 billion voted on by Congress to construct the border wall."
     publishedDateTime: 2021-03-18T15:48:48Z
@@ -92,6 +124,38 @@ related:
     quality: 159
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c57185e-ca00-4a31-8a79-5263e0ffb1bf/734d5af6-eb8b-41e0-b2e7-97595737b564/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden admin allowed majority of migrant families who surrendered at border to enter US despite health order"
+    excerpt: "In February, U.S. Customs and Border Protection (CPB) allowed the majority of the migrant families it encountered on the U.S. southwestern border to stay in the country pending a decision on whether they will be allowed to stay permanently. "
+    publishedDateTime: 2021-03-18T17:21:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-p3906S9zsY/biden-border-crisis-migrants-health-order"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Texas Republicans rip Biden after Border Patrol captures convicted sex predators illegally crossing border"
+    excerpt: "U.S. Customs and Border Patrol (CBP) announced on Wednesday the apprehension of multiple convicted \"sexual predators\" that were caught trying to illegally enter America through the southern border"
+    publishedDateTime: 2021-03-18T20:07:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXAoxEPkjj4/texas-border-patrol-migrant-sex-offenders-biden-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-patrol-migrant-sex-offenders-biden-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-patrol-migrant-sex-offenders-biden-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a94a9aa-c92b-4669-b50d-958d74be7fa0/64d54400-2a84-464f-b2df-17b212474f47/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

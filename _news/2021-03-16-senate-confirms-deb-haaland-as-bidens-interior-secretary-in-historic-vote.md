@@ -400,6 +400,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "With Biden Endorsement, Push to Weaken Filibuster Gains Traction"
+    excerpt: "Activists and lawmakers say momentum is on their side but warn of a prolonged fight as Republicans dig in and some Democrats remain unconvinced."
+    publishedDateTime: 2021-03-18T20:51:00Z
+    webUrl: "https://www.nytimes.com/2021/03/18/us/biden-filibuster-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/18/us/biden-filibuster-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/us/biden-filibuster-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/18/us/politics/18dc-hulse-1/18dc-hulse-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden says he wants to see investigation outcome when asked if Cuomo should resign"
     excerpt: "(CNN)President Joe Biden said Sunday he wants to see what comes of an investigation into allegations of sexual harassment against New York Gov. Andrew Cuomo when asked if the Democratic governor should resign. \"I think the investigation is underway and we ..."
     publishedDateTime: 2021-03-14T20:45:00Z

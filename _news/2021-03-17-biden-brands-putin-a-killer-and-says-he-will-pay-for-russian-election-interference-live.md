@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
 type: article
 quality: 130
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -316,6 +316,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "White House press secretary Jen Psaki says Biden doesn't regret calling Putin a 'killer' after Russia recalls its US ambassador"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden doesn't regret agreeing with ABC News' George Stephanopoulos during recent interview that Russian President Vladimir Putin is \"a killer,\" White House press secretary Jen Psaki said Thursday. In a highly unusual ..."
+    publishedDateTime: 2021-03-18T19:01:00Z
+    webUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60538ffaf75f09001814eabe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "2snfxmOvQ/PFY6RZhC8bBkmy1VeW5/+JkWzwdJeWB7L0pc7PpdT12iEwx5MICagFl7/pc7ue23qd2+5cBJGHloiVVlfctzHPn8/ZhRcTP4ytp2ZBrLnIgpMA8kJQhwBlZ9aCSIdtG24DYOOhVYeSWevo+5KORfqJgBfirZt6Sb7eMnwAIuMMgP4rhVIGhGqnEVYD54bJZWahVzB+fdFajp7deipy3/jinICmO9Kiu/3uK+UUxVYjPVwDzbSOR2eQXVEJQWj3dkk/gljjw8ESk7vjHpb+I6+gKwM9azKk7RdbZ5rQDJ47NOwxqT3OyG/tPQMdQP9OReZXfXq35ATy4oQeWejxsWYJs+W0WsfP/Sg=;ObU6+SSlDmvFZmpa4fy1bA=="
 ---

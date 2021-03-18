@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-02-stephen-colbert-on-trump-he-isnt-going-to-start-a-new-party-he-already-owns-one.md",
+      "title": "Stephen Colbert on Trump: 'He isn’t going to start a new party – he already owns one'",
+      "excerpt": "Late-night hosts recap the rightwing CPAC summit, which featured Ted Cruz Cancun jokes and a peculiar gold statue",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv",
+      "originalUrl": "https://www.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6e0b3a31638d6927c75652b400d03169479520f0/255_140_2511_1506/master/2511.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52ba0b17d86f9256b8a5b0e4a71b5b31",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv",
+      "publishedDateTime": "2021-03-02T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-jimmy-kimmel-compares-donald-trump-to-dr-pimple-popper-show.md",
       "title": "Jimmy Kimmel Compares Donald Trump to 'Dr. Pimple Popper' Show",
       "excerpt": "\"All this disgusting stuff keeps coming out and you're like 'Oh my god when is this going to end?' Kimmel said, mocking Trump's CPAC speech.",
@@ -1519,63 +1571,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-trump-administration-deserves-credit-for-breathtaking-operation-warp-speed-success-nih-director.md",
-      "title": "Trump administration deserves credit for 'breathtaking' Operation Warp Speed success: NIH director",
-      "excerpt": "National Institutes of Health director Dr. Francis Collins praised the Trump administration on Sunday for the \"breathtaking\" success of Operation Warp Speed in getting multiple effective coronavirus vaccines developed and tested within one year of the virus outbreak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director",
-      "originalUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/370e43ef-5b8f-448a-b40c-4be5e2db8ecc/2a546d21-7544-4865-ae15-9ad81e022ea5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director.amp",
-      "publishedDateTime": "2021-02-22T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

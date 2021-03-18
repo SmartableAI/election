@@ -31,6 +31,150 @@ images:
     isCached: true
 
 related:
+  - title: "Biden calls his second-in-command 'President Harris'"
+    excerpt: "President Biden appeared to misspeak in a speech Thursday offering updates on an update on vaccination progress in the U.S., referring to his vice president as “President Harris.” "
+    publishedDateTime: 2021-03-18T19:58:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZsCl0lpI7qI/biden-calls-his-vp-president-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cuomo accuser Lindsey Boylan slams Biden, Harris over silence on sexual harassment scandal"
+    excerpt: "Lindsey Boylan, the first woman to accuse New York Gov. Andrew Cuomo of sexual harassment in a widening scandal, slammed President Biden and Vice President Kamala Harris in a now-deleted tweet for staying silent on the allegations."
+    publishedDateTime: 2021-03-13T02:27:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/psUqsFbCiCw/cuomo-accuser-lindsey-boylan-slams-biden-harris-silence-sexual-harassment-scandal"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-accuser-lindsey-boylan-slams-biden-harris-silence-sexual-harassment-scandal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-accuser-lindsey-boylan-slams-biden-harris-silence-sexual-harassment-scandal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Lindsey-Boylan-TWEET.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden, Harris to hit battleground states to sell COVID package that passed without any GOP support"
+    excerpt: "Twenty-two congressional Democratic leaders and Vice President Kamala Harris will join the president to celebrate the passage of the massive measure, but no Republicans will be present. That’s because no House or Senate Republicans crossed the aisle to vote in favor of the bill."
+    publishedDateTime: 2021-03-12T17:28:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pvwSZiTXRzw/biden-harris-to-hit-battleground-states-to-sell-covid-package-that-passed-without-any-gop-support"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-to-hit-battleground-states-to-sell-covid-package-that-passed-without-any-gop-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-to-hit-battleground-states-to-sell-covid-package-that-passed-without-any-gop-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris takes heat for silence on Cuomo accusations"
+    excerpt: "Vice President Harris is taking heat for staying silent amid sexual misconduct allegations against her fellow high-profile Democrat Andrew Cuomo."
+    publishedDateTime: 2021-03-16T00:16:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujkqM_blCvI/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/AP20038674193000.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden, Harris refuse to call for Cuomo to resign as governor's support collapses in New York, nationwide"
+    excerpt: "President Biden and Vice President Kamala Harris are not calling for New York Gov. Andrew Cuomo to resign even as a growing number of New York and national Democrats say it's time for the scandal-ridden governor to step down."
+    publishedDateTime: 2021-03-15T11:33:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GZ6rWcqau6U/biden-harris-and-pelosi-among-dwindling-group-of-dems-not-to-call-for-cuomo-to-resign-amid-cascading-scandals"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-and-pelosi-among-dwindling-group-of-dems-not-to-call-for-cuomo-to-resign-amid-cascading-scandals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-and-pelosi-among-dwindling-group-of-dems-not-to-call-for-cuomo-to-resign-amid-cascading-scandals.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Man arrested outside VP Harris' residence with rifle and ammunition, DC police say"
+    excerpt: "Washington D.C. police arrested a man outside of Vice President Kamala Harris’ residence on Wednesday after authorities found a rifle and ammunition in his car."
+    publishedDateTime: 2021-03-17T21:44:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1i9yXVDxmk/man-arrested-outside-vp-harris-residence-with-rifle-ammunition-dc-police-say"
+    ampWebUrl: "https://www.foxnews.com/politics/man-arrested-outside-vp-harris-residence-with-rifle-ammunition-dc-police-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-outside-vp-harris-residence-with-rifle-ammunition-dc-police-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c4cb1af-f73b-4680-b11d-08e12b08a8a6/67e4c7cc-e400-4230-afd4-756b2eccfd66/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden set to address nation on anniversary of COVID-19 pandemic"
+    excerpt: "President Biden is set to deliver his first primetime address to the nation since taking office Thursday night, to mark one year since the World Health Organization designated the novel coronavirus a pandemic and shutdowns started across the country."
+    publishedDateTime: 2021-03-11T12:17:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JyDCkSI9vAM/biden-set-to-address-nation-on-anniversary-of-covid-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-set-to-address-nation-on-anniversary-of-covid-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-set-to-address-nation-on-anniversary-of-covid-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden directs states to reach full vaccine eligibility by May 1"
+    excerpt: "President Biden plans to say in an address to the nation Thursday that as part of the next phase in combatting the coronavirus, he is directing states, tribes, territories to ensure everyone is eligible for vaccination by May 1."
+    publishedDateTime: 2021-03-12T00:54:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jMXbi7hyt1s/biden-states-vaccine-eligibility-may"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-states-vaccine-eligibility-may.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-states-vaccine-eligibility-may.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e81eea02-b9ee-4037-8c41-00c2e0d60df6/c16d7856-1459-43f7-88c2-0bfb14275aca/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden still hasn't held a news conference, 52 days and counting"
+    excerpt: "After more than 50 days in office President Biden has yet to hold a solo press conference, separating him from over a dozen of his most recent predecessors."
+    publishedDateTime: 2021-03-13T20:13:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pV8q2Hckxp8/biden-still-hasnt-held-a-news-conference-52-days-and-counting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-still-hasnt-held-a-news-conference-52-days-and-counting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-still-hasnt-held-a-news-conference-52-days-and-counting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65d81be2-0f00-484c-a8aa-5dbdf19245d7/ae58f8d0-4894-427c-b651-965f02480d97/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Cassidy: Biden policies 'entirely' to blame for border surge"
     excerpt: "Sen. Bill Cassidy, R-La., blames President Biden for the surge of migrants that have presented a crisis at the U.S. southern border."
     publishedDateTime: 2021-03-14T13:58:44Z
@@ -47,165 +191,243 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden order on gender identity harms women and girls, warns women's rights group"
-    excerpt: "Women's Human Rights Campaign member and outspoken feminist Kara Dansky ramped up warnings against President Biden's gender identity initiative on Tuesday, telling \"Tucker Carlson Tonight\" that America is heading for a \"complete obliteration of biological sex\"."
-    publishedDateTime: 2021-03-10T03:38:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0oQLmODpalA/biden-gender-identity-order-women-girls"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gender-identity-order-women-girls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gender-identity-order-women-girls.amp"
+  - title: "Biden nominee Deb Haaland confirmed as secretary of the interior"
+    excerpt: "The Senate voted Monday to confirm Deb Haaland as secretary of the interior, filling a position that will play a critical role in implementing President Biden’s planned shift toward green energy."
+    publishedDateTime: 2021-03-15T22:22:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nkzyicW46Y8/biden-nominee-deb-haaland-confirmed-secretary-of-the-interior"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-deb-haaland-confirmed-secretary-of-the-interior.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-deb-haaland-confirmed-secretary-of-the-interior.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e41f206-214c-4281-8a58-4e5743708646/a56e5474-d9ac-4c87-82ed-6e230b606564/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden tells migrants 'don't come' to US as border crisis surges"
+    excerpt: "President Biden is now urging migrants planning on embarking to the United States not to come. "
+    publishedDateTime: 2021-03-16T23:53:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_TAk6aNcUkE/biden-tells-migrants-dont-come-to-us-as-border-crisis-surges"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tells-migrants-dont-come-to-us-as-border-crisis-surges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-migrants-dont-come-to-us-as-border-crisis-surges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e52c0609-4d29-486e-b174-b42ba89aa3fb/e3ebda85-242a-4429-b83e-06e05f008e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to hold first press conference March 25"
+    excerpt: "President Biden will hold his first formal news briefing on Thursday afternoon, March 25, press secretary Jen Psaki announced Tuesday. "
+    publishedDateTime: 2021-03-16T20:31:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BR51-wHitSs/biden-to-hold-first-news-conference-march-25"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-first-news-conference-march-25.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-first-news-conference-march-25.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f29b4e2a-886f-491f-ba9f-d209269089f0/6042c3e1-2a94-4628-9ae1-57d01f5b3b7c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden supports changing filibuster rules in Senate"
+    excerpt: "President Biden said in an interview Tuesday that he is in favor of overhauling the filibuster rules that could help Democrats use their majority in the Senate to steamroll some legislative initiatives without so much as looking at their Republican colleagues."
+    publishedDateTime: 2021-03-17T04:25:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i9rrGkauTB8/biden-supports-changing-filibuster-rules-in-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supports-changing-filibuster-rules-in-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supports-changing-filibuster-rules-in-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden silent on whether Cuomo should resign after avalanche of Dem calls"
+    excerpt: "President Biden isn't weighing in on whether New York Gov. Andrew Cuomo should resign even as top New York congressional Democrats say it's time for him to go, according to White House press secretary Jen Psaki."
+    publishedDateTime: 2021-03-12T18:29:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2seJnmpK5A/psaki-biden-cuomo-resign"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-cuomo-resign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-cuomo-resign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden border officials say he's wrong not to acknowledge migrant 'crisis'"
+    excerpt: "Border officials working under the Biden administration tell Fox News that the president and his surrogates are wrong not to call the border situation a crisis."
+    publishedDateTime: 2021-03-17T23:19:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TKxMNxwb-hE/biden-border-officials-crisis-mayorkas-migrants-numbers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-officials-crisis-mayorkas-migrants-numbers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-officials-crisis-mayorkas-migrants-numbers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21019753232322.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden's words on migrant children without beds, soap could come back to haunt him"
+    excerpt: "In 2019, then-candidate Biden went after then-President Donald Trump online over the conditions at detention centers holding migrant children as the Trump administration argued in defense of the facilities in federal court."
+    publishedDateTime: 2021-03-16T20:15:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/91pjycfr2jY/biden-border-crisis-child-migrant-toothbrushes-sleeping-floor"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-child-migrant-toothbrushes-sleeping-floor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-child-migrant-toothbrushes-sleeping-floor.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/857ee1c8-b07d-47e2-8382-5ec89d629096/90d961b8-6fe7-4a5d-943a-88196b31011f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'"
-    excerpt: "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. "
-    publishedDateTime: 2021-03-18T17:26:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden immigration policies have created 'disorder at the border,' GOP lawmakers say"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., and other GOP lawmakers called on President Biden to admit fault and work to reverse changes to immigration policies that they said have caused a dangerous surge in migrants at the southern border."
-    publishedDateTime: 2021-03-15T19:44:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRAWSOw5O4c/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden admin can't keep up with border surge of migrant children, CBP official warns"
-    excerpt: "The number of migrant children in federal custody has passed 4,000, one source told Fox News."
-    publishedDateTime: 2021-03-16T21:51:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1tsjcCcU_k/migrant-children-border-dhs-families-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
+  - title: "Biden hits 50 day milestone of going without a formal news conference as president"
+    excerpt: "President Biden has been in office for 50 days, but has yet to schedule a formal press conference."
+    publishedDateTime: 2021-03-11T12:46:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_EugI2_A3w/biden-50-days-without-formal-news-conference-president"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-50-days-without-formal-news-conference-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-50-days-without-formal-news-conference-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21071661472869.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Sen. Capito blasts Biden for 'very weak' message telling migrants 'don't come over' to US"
-    excerpt: "President Biden \"sounded very weak\" when telling would-be migrants not to come to the United States during an interview with ABC News, Sen. Shelley Moore Capito, R-W.Va., told \"America Reports\" Wednesday."
-    publishedDateTime: 2021-03-17T21:27:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMV7Y5j9dbE/capito-biden-very-weak-message-migrants-dont-come"
-    ampWebUrl: "https://www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's 'open border' policies enriching drug cartels as migrant crisis escalates: Gov. Abbott"
-    excerpt: "President Biden’s “open border policies” are not only inviting more illegal immigration to the U.S. but also enriching and empowering drug cartels in Mexico who profit from smuggling migrants across the border, Texas Gov. Greg Abbott said Sunday."
-    publishedDateTime: 2021-03-14T17:38:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbAxoxVDSqo/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+  - title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
+    excerpt: "President Joe Biden broke his silence on Governor Andrew Cuomo's mounting allegations of sexual misconduct on Sunday – but fell short of calling on the embattled New York Democrat to resign."
+    publishedDateTime: 2021-03-14T23:28:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U5lufCZypRo/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/550f6423-a32c-452f-bdfd-b560fe6553e7/7ba82ed6-7af9-448b-8ff7-aa6485e70ef4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b105bf2-41fd-43b2-b0e7-a1100cbc737c/d57ad943-de85-4d3b-8af4-9e0d08e50f89/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Border numbers expected to show wave as migrant children in custody triples, Biden DHS asks for help"
-    excerpt: "The Biden administration is set to release new border numbers this week, figures expected to show a wave of migration crashing down on the southern border in recent weeks -- just as the Department of Homeland Security  (DHS) is urging its staff to volunteer to help with what it admits are \"overwhelming\""
-    publishedDateTime: 2021-03-09T17:17:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAlSIcjiiDU/border-numbers-wave-migrant-children-triples-biden-dhs"
-    ampWebUrl: "https://www.foxnews.com/politics/border-numbers-wave-migrant-children-triples-biden-dhs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-numbers-wave-migrant-children-triples-biden-dhs.amp"
+  - title: "Cuomo seizes on common ground with Biden, agrees sexual misconduct allegations should be investigated"
+    excerpt: "Embattled New York Gov. Andrew Cuomo deflected questions Wednesday regarding his reaction to President Biden’s assertion that he should resign from office if an investigation confirms allegations that he sexually harassed several women, including former aides."
+    publishedDateTime: 2021-03-17T21:10:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jOK-V3pCOxg/cuomo-agrees-biden-call-review-of-sexual-harassment-allegations-repeats-he-wont-resign"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-agrees-biden-call-review-of-sexual-harassment-allegations-repeats-he-wont-resign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-agrees-biden-call-review-of-sexual-harassment-allegations-repeats-he-wont-resign.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4394b12e-936e-4fd0-a56a-b3b597c07b47/d65ba80f-6261-4802-8b7c-78ce7d9f54fd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd6f93f4-4a1b-47f3-8b1a-0c187836d1c2/c36aaf3d-1ae0-4c28-b4a8-9ffb948e0291/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
-    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
-    publishedDateTime: 2021-03-17T10:33:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+  - title: "Texas members of Congress demand lawsuit against Biden for border 'crisis'"
+    excerpt: "EXCLUSIVE: Texas GOP congressional members are calling on Attorney General Ken Paxton to file another lawsuit against the Biden Administration in an effort to block undocumented immigrants with coronavirus from entering the United States. "
+    publishedDateTime: 2021-03-15T22:19:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ecwZDYv64TY/texas-members-of-congress-demand-lawsuit-against-biden-for-border-crisis"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 153
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/van-duyne.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "McCarthy says he hasn’t heard back from White House about request for meeting with Biden on border crisis"
-    excerpt: "House Minority Leader Kevin McCarthy pressed President Biden—again—for a meeting to discuss a bipartisan way to address the situation at the U.S. Southern Border, maintaining that “securing our border should not be a partisan issue.”"
-    publishedDateTime: 2021-03-18T18:41:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZP-R41i2leQ/mccarthy-presses-biden-meeting-situation-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
+  - title: "Kamala Harris ignores question on Cuomo’s sexual misconduct scandal"
+    excerpt: "Vice President Kamala Harris refused to comment on Gov. Andrew Cuomo’s mounting sexual misconduct scandal — despite previously swiftly condemning former Democratic Sen. Al Franken when"
+    publishedDateTime: 2021-03-11T16:07:00Z
+    webUrl: "https://nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/"
+    ampWebUrl: "https://nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-4.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Biden admin allowed majority of migrant families who surrendered at border to enter US despite health order"
-    excerpt: "In February, U.S. Customs and Border Protection (CPB) allowed the majority of the migrant families it encountered on the U.S. southwestern border to stay in the country pending a decision on whether they will be allowed to stay permanently. "
-    publishedDateTime: 2021-03-18T17:21:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-p3906S9zsY/biden-border-crisis-migrants-health-order"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
+  - title: "Merrick Garland speaks at DOJ before swearing-in by VP Kamala Harris"
+    excerpt: "Attorney General Merrick Garland paid a visit to his new office Thursday morning to deliver his first remarks to Justice Department staff ahead of his swearing-in by Vice President Kamala Harris."
+    publishedDateTime: 2021-03-11T18:30:00Z
+    webUrl: "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/"
+    ampWebUrl: "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/merrick-garland-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris continues to avoid commenting on Cuomo sexual misconduct allegations"
+    excerpt: "New York Gov. Andrew Cuomo's sexual misconduct allegations have gone yet another day without comment from Vice President Kamala Harris, who had been a crusader for sexual assault survivors as recently as 2018, during Brett Kavanaugh's Supreme Court ..."
+    publishedDateTime: 2021-03-17T01:03:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 129
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Harris-walkoff.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Ilhan Omar leads Democrats in demanding Biden end ICE contracts with state, local jails"
+    excerpt: "Minn., led a group of progressive Democrats on Monday in demanding that President Biden's administration end contracts between federal immigration enforcement agencies and state and local detention facilites."
+    publishedDateTime: 2021-03-15T16:20:00Z
+    webUrl: "https://www.foxnews.com/politics/omar-end-contracts-ice-jails"
+    ampWebUrl: "https://www.foxnews.com/politics/omar-end-contracts-ice-jails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-end-contracts-ice-jails.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73f5fe50-ad30-425e-a755-e6ba57fca7e7/f25ef0a7-9f70-4c99-89ac-701e3eb10927/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "6FfylKADKoKG3XQnjsSStlIBJX5p5wLhC9YewDCcX2le7a42mHfqL88VlI+rDIBP4jsA67qYuw9BBhtesh1Fcq+JZKO4t+dU+rg6Y+I7Q20XK1ZZ5Xm86rWnwFZ0Qc2iSnZxSY/gstbdI2OnREtqU/SR8NUEIwzP0dARUHPsyKI+1SOPEsn8r927lTZYr6HnsWCAn0N/tYIxV4VEWSSVmpvcNXH91VqbMssNf6dyGe0rbBjlZhRAKekHIlUc81RdwFv3YgrjD2mIqmT54VG+fjIIgqxGErbfBHC8zhHdRxoP4ngXLKbWzErmX9SMUCqc3lCTeOjRhFU1Y4/6jjKmb2+Ic+YCq4i6lUZ6ws6jJ28=;R9bh3odzJph2Sc8mtW4anA=="

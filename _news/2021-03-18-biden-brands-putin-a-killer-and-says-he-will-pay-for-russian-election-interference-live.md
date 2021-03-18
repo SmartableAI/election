@@ -316,6 +316,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "White House press secretary Jen Psaki says Biden doesn't regret calling Putin a 'killer' after Russia recalls its US ambassador"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden doesn't regret agreeing with ABC News' George Stephanopoulos during recent interview that Russian President Vladimir Putin is \"a killer,\" White House press secretary Jen Psaki said Thursday. In a highly unusual ..."
+    publishedDateTime: 2021-03-18T19:01:00Z
+    webUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60538ffaf75f09001814eabe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "0TbwoSDB+NKSQ1V8VbdjZF0VuO0Fd+ha8U48/cxZJ04V/lBopmuKFzzabgbrtRbRvYVynis7BbXQLG44hczKVSihD18clL64yHU2XgXgAG9calfp+wAP+qlXtRJA8yvnezfWWL12xjnhWrKuAo6wbe4KcAz7lO4k4fVrxlSTmHs7QHKKo0zpACHLW9CbUxm+jGJJDIyV9cU4nRht1ij73LTLG3r04TPU5c7RVm5fomTPcF+WfP1Gf+C4ZaBcGP9Ti0tFx6XwS01yOvylwxTmsY9KtOXPXSLd5loFT62g3FLKCCtDQBXQrkEBGcD3whMIcm4htgxqgQtZAdSxlav6uJgvAo4IbSwyGNTEuHAokSk+YSw0SZ99FWUEDfEfRpj3kN8L+N4899AXHFN7S8Puzh5nqj/ShGoO3V2C9owdljGhV/eKv3cn3Jg7K6K39niM9Pm1j4BEQ6pBHXbOtQVYRzCjeCZNaBdfK90bXWEE1/Jwwk1yf6JIrU7gDDiVeqJiBkw9wLFsy5COXq4KVlDH9A==;AxomU9Feipbt2LGjCxkcEg=="
 ---

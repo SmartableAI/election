@@ -32,54 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris takes heat for silence on Cuomo accusations"
-    excerpt: "Vice President Harris is taking heat for staying silent amid sexual misconduct allegations against her fellow high-profile Democrat Andrew Cuomo."
-    publishedDateTime: 2021-03-16T00:16:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujkqM_blCvI/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/AP20038674193000.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden, Harris refuse to call for Cuomo to resign as governor's support collapses in New York, nationwide"
-    excerpt: "President Biden and Vice President Kamala Harris are not calling for New York Gov. Andrew Cuomo to resign even as a growing number of New York and national Democrats say it's time for the scandal-ridden governor to step down."
-    publishedDateTime: 2021-03-15T11:33:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GZ6rWcqau6U/biden-harris-and-pelosi-among-dwindling-group-of-dems-not-to-call-for-cuomo-to-resign-amid-cascading-scandals"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-and-pelosi-among-dwindling-group-of-dems-not-to-call-for-cuomo-to-resign-amid-cascading-scandals.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-and-pelosi-among-dwindling-group-of-dems-not-to-call-for-cuomo-to-resign-amid-cascading-scandals.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki won't say if Harris will speak out on Cuomo sexual misconduct allegations"
-    excerpt: "White House press secretary Jen Psaki did not have an answer as to if or when Vice President Kamala Harris might speak out on the sexual misconduct allegations against New York Gov. Andrew Cuomo."
-    publishedDateTime: 2021-03-02T19:41:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TNkBgdkl2M/psaki-harris-cuomo-sexual-misconduct-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-harris-cuomo-sexual-misconduct-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-cuomo-sexual-misconduct-allegations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ac83c37-360a-4688-9723-235035f9ff46/eb418ed8-fc9d-428b-aa57-4bde06c028ea/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Silence on Cuomo continues for Kamala Harris, who crusaded against Brett Kavanaugh"
     excerpt: "Vice President Kamala Harris has not weighed in on the swelling sexual misconduct allegations against New York Gov. Andrew Cuomo. "
     publishedDateTime: 2021-03-11T20:18:51Z
@@ -96,99 +48,35 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris childhood home landmark-status effort dropped in Berkeley, California"
-    excerpt: "Vice President Kamala Harris' childhood home in Berkeley, California, won’t become a historical landmark anytime soon."
-    publishedDateTime: 2021-03-12T04:30:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xw0b2dIOn0I/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california.amp"
+  - title: "Cuomo won't be getting Emmy for apology 'performance,' GOP assemblyman tells Harris Faulkner"
+    excerpt: "New York lawmakers \"must act\" to impeach Gov. Andrew Cuomo, a New York State Assemblyman Doug Smith said on Thursday."
+    publishedDateTime: 2021-03-04T20:38:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iJPqXU--9FM/andrew-cuomo-apology-performance-faulkner-focus"
+    ampWebUrl: "https://www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a14e8454-6da2-4ad0-ac22-b98f9eeb2aff/adc0ac07-9da3-4087-90c4-ae385a9c3d17/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris supports change to filibuster in Senate to limit minority party power"
-    excerpt: "Vice President Kamala Harris supports changing the filibuster practice in the Senate in order to limit the ability of the minority party to easily block legislation, her office confirmed to Fox News Wednesday. "
-    publishedDateTime: 2021-03-17T14:54:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScI6CQMge0E/kamala-harris-filibuster-senate-limit-minority-party-power"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Man arrested outside VP Harris' residence with rifle and ammunition, DC police say"
-    excerpt: "Washington D.C. police arrested a man outside of Vice President Kamala Harris’ residence on Wednesday after authorities found a rifle and ammunition in his car."
-    publishedDateTime: 2021-03-17T21:44:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1i9yXVDxmk/man-arrested-outside-vp-harris-residence-with-rifle-ammunition-dc-police-say"
-    ampWebUrl: "https://www.foxnews.com/politics/man-arrested-outside-vp-harris-residence-with-rifle-ammunition-dc-police-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-outside-vp-harris-residence-with-rifle-ammunition-dc-police-say.amp"
+  - title: "Gillibrand's stance on Cuomo allegations contrast with past comments about Trump, Clinton, Kavanaugh, Franken"
+    excerpt: "Sen. Kirsten Gillibrand, D-N.Y., appears to have departed from her previous stances on sexual misconduct allegations with her current stance on the accusations against New York Gov. Andrew Cuomo."
+    publishedDateTime: 2021-03-10T18:31:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqkeckRBzpk/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh"
+    ampWebUrl: "https://www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c4cb1af-f73b-4680-b11d-08e12b08a8a6/67e4c7cc-e400-4230-afd4-756b2eccfd66/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Clinton, Harris, Warren all silent on Cuomo after second woman brings sexual misconduct allegations"
-    excerpt: "Multiple high-profile Democratic women have yet to publicly comment on sexual harassment allegations against New York Gov. Andrew Cuomo despite having fervently objected to the nomination of Brett Kavanaugh to the U.S. Supreme Court over decades-old allegations of sexual harassment."
-    publishedDateTime: 2021-02-28T22:09:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0RpL2G5P4Q/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055530944049.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "VP Harris dodges question about migrant children: 'I haven't been briefed on anything today about it'"
-    excerpt: "Harris' response comes as the Biden administration has refused to call the perilous border situation a crisis."
-    publishedDateTime: 2021-03-17T00:54:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sowtBx8Ipek/vp-kamala-harris-migrant-children-border"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075827674492.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
-    excerpt: "President Joe Biden broke his silence on Governor Andrew Cuomo's mounting allegations of sexual misconduct on Sunday – but fell short of calling on the embattled New York Democrat to resign."
-    publishedDateTime: 2021-03-14T23:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U5lufCZypRo/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b105bf2-41fd-43b2-b0e7-a1100cbc737c/d57ad943-de85-4d3b-8af4-9e0d08e50f89/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b5155-2393-4d14-b171-2c72feb69f0a/2d308622-72a3-4427-aedb-93f15761af39/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -224,53 +112,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris ignores question on Cuomo’s sexual misconduct scandal"
-    excerpt: "Vice President Kamala Harris refused to comment on Gov. Andrew Cuomo’s mounting sexual misconduct scandal — despite previously swiftly condemning former Democratic Sen. Al Franken when"
-    publishedDateTime: 2021-03-11T16:07:00Z
-    webUrl: "https://nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/"
-    ampWebUrl: "https://nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-4.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Merrick Garland speaks at DOJ before swearing-in by VP Kamala Harris"
-    excerpt: "Attorney General Merrick Garland paid a visit to his new office Thursday morning to deliver his first remarks to Justice Department staff ahead of his swearing-in by Vice President Kamala Harris."
-    publishedDateTime: 2021-03-11T18:30:00Z
-    webUrl: "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/"
-    ampWebUrl: "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/merrick-garland-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris continues to avoid commenting on Cuomo sexual misconduct allegations"
-    excerpt: "New York Gov. Andrew Cuomo's sexual misconduct allegations have gone yet another day without comment from Vice President Kamala Harris, who had been a crusader for sexual assault survivors as recently as 2018, during Brett Kavanaugh's Supreme Court ..."
-    publishedDateTime: 2021-03-17T01:03:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo.amp"
+  - title: "Gillibrand's stance on Cuomo allegations contrast with past comments about Trump, Clinton, Kavanaugh, Franken"
+    excerpt: "She also called on former President Donald Trump — of whom she was a staunch critic — to resign amid sexual assault allegations made against him in 2017. Gillibrand’s office did not immediately respond to Fox News’ request for comment on her statem ..."
+    publishedDateTime: 2021-03-10T18:39:00Z
+    webUrl: "https://www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh"
+    ampWebUrl: "https://www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 129
+    quality: 116
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Harris-walkoff.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b5155-2393-4d14-b171-2c72feb69f0a/2d308622-72a3-4427-aedb-93f15761af39/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "RGtUiCbTiPIZsOtd2rNjW4c/QGAZAzgHDuJoskcMlKrcjR1q5v8eEUa8ZnLlqj42RG8JFk+9QgaZ+GwODpXuDsIYr5b2RYsYJqpUG/p1zh98mUgZHAENVPSDEC+eH9ydSQBUTcgV/3dpnM9mUKUcfH9Pp2jF1O07671Jx4IYBOiBSs903jQ4qoq+IRTrpRwa97gjTyMMfSjkyAxhF/nVVNIP+glD/ZGMi2yeTsxn+WjNkX89uyovkiwTNPL7SiaSqFDHW2CoVl+T3mHdoRXAvsv11ZLxQcNfg5/roIqHa3iC5gvL0BON6Tr3MeKqH3hnWG+WKWTXgbiPxwXaxkPoFb1b6Psu9pdFEg/Qx0NTJOs=;g0mGMFxk1mr2pvm9X0tBmg=="

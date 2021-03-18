@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Same-sex spouse fights government denial of death benefits in test for Biden administration"
+    excerpt: "Trump administration defended the Office of Personnel Management’s refusal to pay employee survivor benefits to same-sex spouse."
+    publishedDateTime: 2021-03-18T18:02:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/same-sex-government-death-benefits-/2021/03/18/ac8da2b0-873f-11eb-8a8b-5cf82c3dffe4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/same-sex-government-death-benefits-/2021/03/18/ac8da2b0-873f-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/same-sex-government-death-benefits-/2021/03/18/ac8da2b0-873f-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ID4WLNUHPMI6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 1030
+        isCached: true
   - title: "Biden puts Irish pride on display as he meets with Irish prime minister"
     excerpt: "Biden has likely the closest ties to Ireland of any president since JFK. On Location: March 17, 2021 President Joe Biden's Irish pride is certainly showing during his first St. Patrick's Day as ..."
     publishedDateTime: 2021-03-17T17:21:00Z

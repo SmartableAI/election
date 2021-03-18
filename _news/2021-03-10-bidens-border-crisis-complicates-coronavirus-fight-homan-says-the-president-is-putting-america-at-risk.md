@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden tells migrants 'don't come' to US as border crisis surges"
-    excerpt: "President Biden is now urging migrants planning on embarking to the United States not to come. "
-    publishedDateTime: 2021-03-16T23:53:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_TAk6aNcUkE/biden-tells-migrants-dont-come-to-us-as-border-crisis-surges"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-tells-migrants-dont-come-to-us-as-border-crisis-surges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-migrants-dont-come-to-us-as-border-crisis-surges.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e52c0609-4d29-486e-b174-b42ba89aa3fb/e3ebda85-242a-4429-b83e-06e05f008e44/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
     excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
     publishedDateTime: 2021-03-09T23:20:10Z
@@ -78,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden border officials say he's wrong not to acknowledge migrant 'crisis'"
-    excerpt: "Border officials working under the Biden administration tell Fox News that the president and his surrogates are wrong not to call the border situation a crisis."
-    publishedDateTime: 2021-03-17T23:19:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TKxMNxwb-hE/biden-border-officials-crisis-mayorkas-migrants-numbers"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-officials-crisis-mayorkas-migrants-numbers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-officials-crisis-mayorkas-migrants-numbers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21019753232322.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "The word the Biden administration won't use when it comes to the border? 'Crisis'"
     excerpt: "The Biden administration is facing what it admits is an \"overwhelming\" number of migrants at the southern border, while scrambling to construct new facilities to hold child migrants -- but it is doggedly refusing to describe the situation as a \"crisis.\""
@@ -190,20 +158,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Texas members of Congress demand lawsuit against Biden for border 'crisis'"
-    excerpt: "EXCLUSIVE: Texas GOP congressional members are calling on Attorney General Ken Paxton to file another lawsuit against the Biden Administration in an effort to block undocumented immigrants with coronavirus from entering the United States. "
-    publishedDateTime: 2021-03-15T22:19:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ecwZDYv64TY/texas-members-of-congress-demand-lawsuit-against-biden-for-border-crisis"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/van-duyne.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Republicans renew call for border crisis hearing amid Biden's 'open-borders rallying cry'"
     excerpt: "EXCLUSIVE: Republicans are renewing calls for Democrats to hold a hearing on the growing crisis at the southern border -- while warning that the Biden administration has been sounding an “open-borders rally cry.”"

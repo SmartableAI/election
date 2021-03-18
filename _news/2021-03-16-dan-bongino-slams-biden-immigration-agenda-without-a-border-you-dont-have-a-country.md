@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/dan-bongino-border-crisis-biden-imm
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-bongino-border-crisis-biden-immigration-fox-friends.amp"
 type: article
 quality: 166
-heat: 166
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,88 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'"
+    excerpt: "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. "
+    publishedDateTime: 2021-03-18T17:26:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden celebrates St. Patrick's Day with Irish PM, delivers address to Irish Americans"
+    excerpt: "President Biden celebrated St. Patrick’s Day virtually with Irish Prime Minister Micheál Martin Thursday and reiterated the U.S.’ ‘deep, deep affection’ for Ireland. "
+    publishedDateTime: 2021-03-17T23:47:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmNB-bXH5jo/biden-irish-pm"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-irish-pm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-irish-pm.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
+    excerpt: "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\""
+    publishedDateTime: 2021-03-15T21:32:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's 'open border' policies enriching drug cartels as migrant crisis escalates: Gov. Abbott"
+    excerpt: "President Biden’s “open border policies” are not only inviting more illegal immigration to the U.S. but also enriching and empowering drug cartels in Mexico who profit from smuggling migrants across the border, Texas Gov. Greg Abbott said Sunday."
+    publishedDateTime: 2021-03-14T17:38:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbAxoxVDSqo/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/550f6423-a32c-452f-bdfd-b560fe6553e7/7ba82ed6-7af9-448b-8ff7-aa6485e70ef4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
+    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
+    publishedDateTime: 2021-03-17T10:33:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "/WOu0xJCuDA7/2+O0aQCx9Rr5709qglHBeEsSejlY4NB8uBf1aqs91UfqVq/HhqWWbKC1VRryyGCLbC/K5CIjLIeujNofJldhCz2vmWzExST46FkAaE4AUtDu1sF/GQcwtOa3Xb2jZsfK96mfnK4PHJv3tulUlZ97manaQHCvcL6nXA1EKVRZ1w9ZVmNSrAbBeQEwkusp1X6NnYsSb05ZI+lRrdVbpbNTuawDHSX3zsjdplxPM2MUUt3zDSzaNILAX1P46YBOnZGGc0Wk9aEu57XUqbWl2dSx2sN3mrptvweoa00AHM1Q/h/qqTE1iFdhAlfV8qJ5Zf2tQ4KsufC7XG+DWM4du7e/NIF/tW2xxI=;UwTSb78wIPVUwfltlNYZQQ=="
 ---

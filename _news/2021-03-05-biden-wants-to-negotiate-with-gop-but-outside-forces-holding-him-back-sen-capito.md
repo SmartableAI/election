@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden order on gender identity harms women and girls, warns women's rights group"
+    excerpt: "Women's Human Rights Campaign member and outspoken feminist Kara Dansky ramped up warnings against President Biden's gender identity initiative on Tuesday, telling \"Tucker Carlson Tonight\" that America is heading for a \"complete obliteration of biological sex\"."
+    publishedDateTime: 2021-03-10T03:38:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0oQLmODpalA/biden-gender-identity-order-women-girls"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gender-identity-order-women-girls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gender-identity-order-women-girls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/857ee1c8-b07d-47e2-8382-5ec89d629096/90d961b8-6fe7-4a5d-943a-88196b31011f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden won White House with ‘put your dumb uncle in the basement’ strategy, new book says"
     excerpt: "President Biden won the White House because the coronavirus let him stay hidden in his basement, protecting his campaign from its biggest liability — the candidate himself, a new book says."
     publishedDateTime: 2021-03-03T02:36:40Z
