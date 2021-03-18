@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 809
         isCached: true
+  - title: "Public health experts want Trump to encourage his followers to get COVID vaccine"
+    excerpt: "Trump — credited with bringing a COVID vaccine to market — is the only living U.S. president who has not participated in a public health campaign."
+    publishedDateTime: 2021-03-17T20:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/03/17/public-health-experts-want-trump-encourage-his-followers-get-covid/4722548001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4722548001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4722548001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/41f6d0964c5f81173e956b63593a2648e8bd3f22/c=0-254-4841-2977/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200729950-97cb900a.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fauci: it's 'disturbing' that Trump voters say they won't get vaccinated for COVID-19"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
     publishedDateTime: 2021-03-14T15:03:00Z

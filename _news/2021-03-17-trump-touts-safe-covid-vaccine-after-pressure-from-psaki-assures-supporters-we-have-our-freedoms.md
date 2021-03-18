@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 809
         isCached: true
+  - title: "Public health experts want Trump to encourage his followers to get COVID vaccine"
+    excerpt: "Trump — credited with bringing a COVID vaccine to market — is the only living U.S. president who has not participated in a public health campaign."
+    publishedDateTime: 2021-03-17T20:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/03/17/public-health-experts-want-trump-encourage-his-followers-get-covid/4722548001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4722548001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4722548001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/41f6d0964c5f81173e956b63593a2648e8bd3f22/c=0-254-4841-2977/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200729950-97cb900a.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York"
     excerpt: "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\""
     publishedDateTime: 2021-03-08T22:33:00Z

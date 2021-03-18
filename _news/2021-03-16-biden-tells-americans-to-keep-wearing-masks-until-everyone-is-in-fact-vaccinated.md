@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-americans-coronavirus-mask-al
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden celebrates St. Patrick's Day with Irish PM, delivers address to Irish Americans"
+    excerpt: "President Biden celebrated St. Patrick’s Day virtually with Irish Prime Minister Micheál Martin Thursday and reiterated the U.S.’ ‘deep, deep affection’ for Ireland. "
+    publishedDateTime: 2021-03-17T23:47:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmNB-bXH5jo/biden-irish-pm"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-irish-pm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-irish-pm.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Florida lawsuit against Biden administration says ICE guidance puts Americans in danger"
     excerpt: "Florida’s attorney general on Tuesday filed a lawsuit to halt Immigration and Customs Enforcement (ICE) guidance that narrows the illegal immigrants prioritized for arrest and deportation."
     publishedDateTime: 2021-03-10T02:14:00Z

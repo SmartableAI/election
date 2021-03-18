@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Man arrested outside Vice President Kamala Harris' official residence and had rifle and ammunition in car"
+    excerpt: "Washington, DC, police arrested a Texas man outside Vice President Kamala Harris' official residence, the US Naval Observatory, in the nation's capital on Wednesday and he's now facing weapons and ammunition charges.\n    \n"
+    publishedDateTime: 2021-03-17T22:43:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AbeRLleBtRM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/kamala-harris-residence-arrest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/kamala-harris-residence-arrest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317184044-01-naval-observatory-vice-president-residence-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "‘Kamala Harris says the Atlanta attacks have ‘frightened and shocked and outraged all people.’"
     excerpt: "Vice President Kamala Harris, the first woman and the first Asian-American to hold the office, expressed condolences for the families of the victims during a meeting with Irish officials on Wednesday. “This speaks to a larger issue which is the issue of ..."
     publishedDateTime: 2021-03-17T09:40:00Z
@@ -63,6 +79,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-kamala/17atlanta-shooting-briefing-kamala-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Man arrested outside Vice President Kamala Harris' official residence and had rifle and ammunition in car"
+    excerpt: "(CNN)Washington, DC, police arrested a Texas man outside Vice President Kamala Harris' official residence, the US Naval Observatory, in the nation's capital on Wednesday and he's now facing weapons and ammunition charges. A spokesperson for Washington's ..."
+    publishedDateTime: 2021-03-17T22:43:00Z
+    webUrl: "https://www.cnn.com/2021/03/17/politics/kamala-harris-residence-arrest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 98
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317184044-01-naval-observatory-vice-president-residence-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "CyGpUSJcV7bXOaTyA0JyqXcGsaI8xIAYphZSZCHtpcKLz5cu+Itm99ycBhhRgF9q4Q0b5NCIV0zmZ7CGH7eupu0WhAp5rHyp1celpopeffJQSv4OgoWdgSeu8kG67Yy1p/LuDGATJ+qCt3DYo5znERai0H/0MHtDlROPxaTBYVrjdtKXQ2N4uKxhHUja/ihieb/nYXdwdPRe+8T9KiLHwLltBy3omtHHdyTw136zhGyrlGI8q8JwR4stICOqyYGW1QY57RK6tNRYkHxR0rCfcuoJ3fsoGs61UW5yrkoUU0aOp2J14mjYvpXRqdrfOpv0WKIYpGOiaZixW4gDtanK/8mxHQ2Af/h1nTomTj6TKTM=;KDqDn/jGTqsDWQ8nlzinDw=="

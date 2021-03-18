@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261166"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261166"
 type: article
 quality: 121
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Psaki: Trump Administration Rhetoric Contributed to Anti-Asian Threats"
+    excerpt: "new video loaded: Psaki: Trump Administration Rhetoric Contributed to Anti-Asian Threats transcript The White House press secretary, Jen Psaki, on Wednesday told reporters that rhetoric about the coronavirus used by former President Donald J. Trump’s ..."
+    publishedDateTime: 2021-03-17T22:10:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007660230/trump-asian-americans-georgia.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-biden/17atlanta-shooting-briefing-biden-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "j+DSVS1dkI0KXeK7US+dU/eror5US1yoX3cKJwtL2E0QlawOzGf0kojIqGeZ2NUJtKZWffGPnTWKdBZYySgGkcjgSWfMJ6gyjmVoy7ISreUrbwmvWqgc3t34k8tHVzoe2ASK75ixPwsWbCKaQVH/AXwZAT954QXFQ3F1tD0trEXXECeXYJlGkA86R9+c3Du4sLqQAPFiofRRRBJZ4shPsJyfKAztNFMpiTfUq2H5TO60O8SgFW74D8u/MhgLcHUntmLJgxNaSQYQJJrX13M3MgmwK2IDJo//hUd0zuIPRYl3a2SppdSuBqj8CX1KMscM11tEwCqaGkqM/kWksOIwNWyjKX+KNkyO+QuKLJSpBgci48NdSoKndFiC0whHON0Hk4LqpX/j1JAPs5dhrls9EqWi0ictQcvPk95P5yVCPysstjxqyXxCU/f89S7ZiHx2aRcNaFnk0ht0TPPBdcf8NN3+ErgaamEL3Wuhx0YpMEtbCTmfBAiy8UvNgIuHHVEz+syq0KyTPRb2mn3dZmQK0g==;aEozrOUoC9Va98wGEUe2zA=="
 ---

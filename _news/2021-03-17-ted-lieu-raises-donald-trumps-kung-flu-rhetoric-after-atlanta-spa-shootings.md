@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rheto
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1"
 type: article
 quality: 121
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -29,6 +29,40 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Judy Chu blames Trump for rising anti-Asian hate after Atlanta shooting"
+    excerpt: "on Wednesday blamed former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border ..."
+    publishedDateTime: 2021-03-17T22:51:00Z
+    webUrl: "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting"
+    ampWebUrl: "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/chujudy_072518am_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Department of Homeland Security chief defends U.S. handling of border crisis, blames Trump administration for surge"
+    excerpt: "In a lengthy statement, Homeland Security Secretary Alejandro Mayorkas revealed that the migration surge is heading towards a 20-year high — and partially blamed the former Trump administration for the tricky situation."
+    publishedDateTime: 2021-03-16T16:50:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 53
+    images:
+      - url: "https://www.nydailynews.com/resizer/OT8iCaWUuwg2Jezx-pa8tXH6XL0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A4X7LXFMHVGDXHY4UR6NHUX3TQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "pTxp4xaON4Vss0LWPwxFqMfXgAYxcBheikwZT4vKcSOJjQTETqneQf4/nYKJQhlJcGfpwM16js1GbvRI2NciBA1FAvJ73Sy1geNgIQJJTHKCLQZVl4PEBkW8eZ5Qkzy9wD5iji+cPkfluytDwzNAcmGg3ezIxM7LvR9gK7zD8m0DFbeJYvlOFY5oWfDbOXK3xfwn0FVHGjRYeJdjX5CHaNJEY9GyNabUT7IsgKXpicdIgCXUccBbEk3lb12RzXDtFblCxOn0FWHDjdHgSvzG376hGKGWxEw3fPLwWYhBYOAY9INIJnJJAtS1YSt+w4jrrzmFgd3TI6Mqdk+hlWNlaqvJilLzZZNUgH76lmZEBRxHN4xVHqon7qBqywtBCl5C9BRQvqKlJQ+0d4KXrhnx9QeD4rnZ3cY4kpuGsnyGSnxliNwAoknqiau3kJGM2O/QvNqah03KIublCsxEk2Mx+I3PX/tMkdAXvQ9L4xGEq6iICd8yTbP3FLjOuMjgZLyLPEqM5y1prs2uNpnHiu1Jog==;4bIkvURi5vZ7NvF2mxyrXw=="
 ---
