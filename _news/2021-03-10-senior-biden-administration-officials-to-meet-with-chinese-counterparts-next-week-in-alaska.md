@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/us-china-alaska-meeting/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/us-china-alaska-meeting/index.html"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210313182809-biden-north-korea-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration is considering sending some AstraZeneca vaccine doses to Canada and Mexico"
+    excerpt: "The Biden administration is considering sending some AstraZeneca Covid-19 vaccine doses stockpiled and waiting for official usage approval in the US over the border to Mexico and Canada, according to a senior administration official.\n    \n"
+    publishedDateTime: 2021-03-18T00:06:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7unDv7tAU4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/us-astrazeneca-mexico-canada/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/us-astrazeneca-mexico-canada/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312072040-01-astrazeneca-covid-19-vaccine-italy-0308-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

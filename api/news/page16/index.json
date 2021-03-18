@@ -2,6 +2,114 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-22-trump-supreme-court-tax-return-decision-a-continuation-of-the-greatest-political-witch-hunt.md",
+      "title": "Trump: Supreme Court tax return decision a ‘continuation of the greatest political witch hunt’",
+      "excerpt": "Former President Trump on Monday slammed the Supreme Court for declining to halt the turnover of his tax records to a New York prosecutor, calling it “a continuation of the greatest political Witch Hunt in the history of our Country.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/53AsKTg2ffI/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/53AsKTg2ffI/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp",
+      "publishedDateTime": "2021-02-22T12:01:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-trump-to-tell-cpac-he-is-republican-presumptive-2024-nominee-report.md",
+      "title": "Trump to tell CPAC he is Republican 'presumptive 2024 nominee' – report",
+      "excerpt": "Unnamed source tells news site Axios Trump’s speech to the rightwing event will have the message ‘I’m still in charge’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3a7275f576d965598d662bf1eb376ff03480bacd/0_364_5456_3273/master/5456.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0d6b3d50884a968f7fdefd6c0f54fdb0",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "publishedDateTime": "2021-02-22T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-garland-says-doj-would-advance-bidens-pro-gun-control-policies.md",
       "title": "Garland says DOJ would ‘advance’ Biden’s pro-gun control policies",
       "excerpt": "Merrick Garland, President Biden’s nominee for attorney general, signaled Monday that the Justice Department under his leadership would “advance” the policies of the Biden administration on gun control.",
@@ -1240,101 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-ella-emhoff-kamala-harris-stepdaughter-is-a-new-kind-of-style-icon.md",
-      "title": "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon",
-      "excerpt": "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/",
-      "originalUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771",
-          "width": 1024,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/",
-      "publishedDateTime": "2021-02-20T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-us-admits-first-group-of-asylum-seekers-as-biden-rolls-back-remain-in-mexico-policy.md",
-      "title": "U.S. admits first group of asylum-seekers as Biden rolls back Remain-in-Mexico policy",
-      "excerpt": "As part of its efforts to wind down a Trump-era policy that kept tens of thousands of asylum-seekers outside U.S. territory, the Biden administration on Friday admitted the first group of migrants who had been previously required to wait in Mexico for their immigration court hearings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/",
-      "originalUrl": "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/20/f3b8e40d-79c5-4918-a1bc-d715b17f6a23/thumbnail/1200x630/a99162a5d1bf159722d6b96ac72a25c9/gettyimages-1231266086.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/",
-      "publishedDateTime": "2021-02-20T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -2,6 +2,115 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-01-22-biden-signs-orders-to-end-muslim-ban-rejoin-climate-deal-who.md",
+      "title": "Biden signs orders to end ‘Muslim ban’, rejoin climate deal, WHO",
+      "excerpt": "Just hours into his presidency, Joe Biden signs string of executive actions reversing key Trump administration policies. President Joe Biden looks signs his first executive orders in the Oval ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/news/2021/1/21/biden-signs-orders-nix-muslim-ban-rejoin-paris-climate-accord",
+      "originalUrl": "https://www.aljazeera.com/news/2021/1/21/biden-signs-orders-nix-muslim-ban-rejoin-paris-climate-accord",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2021/01/AP_21020805654686-e1611205686390.jpg?resize=1200%2C630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/news/2021/1/21/biden-signs-orders-nix-muslim-ban-rejoin-paris-climate-accord",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/1/21/biden-signs-orders-nix-muslim-ban-rejoin-paris-climate-accord",
+      "publishedDateTime": "2021-01-21T17:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-new-york-times-contributor-loses-think-tank-job-over-tweet-suggesting-biden-should-lynch-mike-pence.md",
+      "title": "New York Times contributor loses think tank job over tweet suggesting Biden should 'lynch Mike Pence'",
+      "excerpt": "A contributing opinion writer for The New York Times was fired from his think tank job Thursday over a tweet that jokingly suggested former Vice President Mike Pence be lynched in order to unify the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times",
+      "originalUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times.amp",
+      "publishedDateTime": "2021-01-21T16:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-nato-secretary-general-jens-stoltenberg-says-need-to-rebuild-trust-after-trump.md",
       "title": "NATO Secretary General Jens Stoltenberg says ‘need to rebuild trust’ after Trump",
       "excerpt": "After four long years of Donald Trump’s attacks on NATO, Secretary General Jens Stoltenberg said Thursday that the defense alliance had survived the challenge — and that he looked forward to rebuilding the transatlantic relationship with President Biden.",
@@ -1212,118 +1321,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp",
       "publishedDateTime": "2021-01-20T18:28:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-biden-to-new-administration-staffers-be-nice-to-others-or-i-will-fire-you-on-the-spot.md",
-      "title": "Biden to new administration staffers: Be nice to others or 'I will fire you on the spot'",
-      "excerpt": "President Biden warned new members of his administration Wednesday that he’ll fire them “on the spot” if they fail to treat others nicely.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k6sLNw3_NhY/biden-administration-be-nice-or-i-will-fire-you",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k6sLNw3_NhY/biden-administration-be-nice-or-i-will-fire-you",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/biden-swearing-in.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-be-nice-or-i-will-fire-you.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-be-nice-or-i-will-fire-you.amp",
-      "publishedDateTime": "2021-01-20T16:48:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-gop-looks-to-biden-administration-to-lower-the-temperature-but-voice-skepticism.md",
-      "title": "GOP looks to Biden administration to ‘lower the temperature’ but voice skepticism",
-      "excerpt": "President Biden made a direct appeal to pro-Trump supporters and Republicans across the nation who did not vote for him to become the 46th president of the United States, calling for everyone to \"stop the shouting and lower the temperature.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WrAZbR84Yo/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WrAZbR84Yo/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism.amp",
-      "publishedDateTime": "2021-01-20T16:18:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

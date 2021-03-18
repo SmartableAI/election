@@ -2,6 +2,111 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-16-investigating-trump-a-big-early-move-for-atlantas-new-da.md",
+      "title": "Investigating Trump a big early move for Atlanta’s new DA",
+      "excerpt": "A Georgia district attorney who took office barely a month ago is leading an investigation that could bring charges against former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7256e58/2147483647/strip/true/crop/4740x3096+0+75/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2Fc6%2F15d8761a5d68b5bcf400b9a1668c%2F77cd140b3ef44640b8cad1fecac995aa",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true",
+      "publishedDateTime": "2021-02-15T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-kamala-harris-said-parts-of-the-trump-administrations-pandemic-response-left-biden-starting-from-scratch.md",
+      "title": "Kamala Harris said parts of the Trump administration's pandemic response left Biden 'starting from scratch'",
+      "excerpt": "Harris told \"Axios on HBO\" that the Trump administration left the country with no vaccine stockpile and no national strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
+      "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1087,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602a48982edd0f001a8d5c4c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
+      "publishedDateTime": "2021-02-15T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-biden-to-join-virtual-g7-event-friday-with-global-leaders-on-covid-19-efforts.md",
       "title": "Biden to join virtual G7 event Friday with global leaders on Covid-19 efforts",
       "excerpt": "President Joe Biden will participate in a virtual G7 event on Friday where he plans to discuss efforts to combat the Covid-19 pandemic and rebuild the world economy.\n    \n",
@@ -1234,114 +1339,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-trump-attorneys-falsely-claim-he-was-denied-due-process.md",
-      "title": "Trump attorneys falsely claim he was denied ‘due process’",
-      "excerpt": "Due process is a bedrock protection for anyone facing a loss of “life, liberty or property” — not public office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/13/trump-attorneys-falsely-claim-he-was-denied-due-process/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/13/trump-attorneys-falsely-claim-he-was-denied-due-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-13-2021/t_065a42902204474da662577810b75679_name_Trump_thumb.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/13/trump-attorneys-falsely-claim-he-was-denied-due-process/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/13/trump-attorneys-falsely-claim-he-was-denied-due-process/?outputType=amp",
-      "publishedDateTime": "2021-02-13T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-biden-will-try-to-close-guantanamo-after-robust-review.md",
-      "title": "Biden will try to close Guantanamo after ‘robust’ review",
-      "excerpt": "President Joe Biden will seek to close the prison on the U.S. base at Guantanamo Bay following a review process, resuming a project begun under the Obama administration, the White House said Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DV6zWcvEJ_E/biden-will-try-to-close-guantanamo-after-robust-review",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DV6zWcvEJ_E/biden-will-try-to-close-guantanamo-after-robust-review",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-617712896.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-will-try-to-close-guantanamo-after-robust-review.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-try-to-close-guantanamo-after-robust-review.amp",
-      "publishedDateTime": "2021-02-12T23:31:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

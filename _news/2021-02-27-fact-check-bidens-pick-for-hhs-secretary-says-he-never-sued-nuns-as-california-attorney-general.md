@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden wrong on three statistics he cited in ABC interview"
+    excerpt: "President Joe Biden sat for an interview with ABC News' George Stephanopoulos on Tuesday.\n    \n"
+    publishedDateTime: 2021-03-18T00:28:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F-rrp5CnuRQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/fact-check-biden-abc-stephanopoulos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/fact-check-biden-abc-stephanopoulos/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317164343-biden-on-abc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Key GOP swing vote undecided on whether to back Biden's imperiled budget pick"
     excerpt: "Republican Sen. Lisa Murkowksi of Alaska had a sit-down meeting on Monday with Neera Tanden, President Joe Biden's nominee to lead the Office of Management and Budget, but has not decided yet if she will provide the crucial vote Tanden likely needs to be confirmed.\n    \n"
     publishedDateTime: 2021-03-02T00:19:30Z

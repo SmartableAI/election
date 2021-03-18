@@ -43,6 +43,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Ohio attorney general sues Biden administration over $1.9 trillion stimulus"
+    excerpt: "Ohio Attorney General Dave Yost sued the Biden administration Wednesday over its $1.9 trillion coronavirus relief package, alleging the federal government sought to impose “unconstitutional” limits on states’ ability to access some of the aid."
+    publishedDateTime: 2021-03-17T23:39:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/17/stimulus-lawsuit-gop-ohio-attorney-general/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/17/stimulus-lawsuit-gop-ohio-attorney-general/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/17/stimulus-lawsuit-gop-ohio-attorney-general/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFXQY3HF74I6TMFGHUBXEG4F54.jpg&w=1440"
+        width: 1440
+        height: 875
+        isCached: true
   - title: "Biden says motivation for shootings at Atlanta day spas has not been determined"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden on Wednesday said the motivations of the suspect in the deadly shootings at day spas in and around Atlanta has not yet been determined. “The question of motivation is still to be determined,” Biden told ..."
     publishedDateTime: 2021-03-17T16:33:00Z

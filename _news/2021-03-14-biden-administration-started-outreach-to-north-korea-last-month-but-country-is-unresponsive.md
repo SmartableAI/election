@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration is considering sending some AstraZeneca vaccine doses to Canada and Mexico"
+    excerpt: "The Biden administration is considering sending some AstraZeneca Covid-19 vaccine doses stockpiled and waiting for official usage approval in the US over the border to Mexico and Canada, according to a senior administration official.\n    \n"
+    publishedDateTime: 2021-03-18T00:06:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7unDv7tAU4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/us-astrazeneca-mexico-canada/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/us-astrazeneca-mexico-canada/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312072040-01-astrazeneca-covid-19-vaccine-italy-0308-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "SLW3IuG7d75xxhjiuDSSFZIln83s9OLzLhntsb8aNiX6gsnGH1KfudTVew7BoQqsAHN9VPt3IixMWjYCmobQLr6BJMyh9sDZbZPZjoe2u2Fy3yIsKJD2koHr70M6l+VuXDlHCzDNCteNOx+qlQAABM7pOIzQX21LjTgrFnxComVGKCmy9/Iyq89yP1GK7wJcHN1yv7MSoElbv5oMCxR6YqkNCoZMZM+Rq0CctEwnCdDklImTnMx2YCxHG+bzEEpIUNQo9Gq7CAwH2XovT2t1vqLNGLIgoXXPPgoXsrAimHvsJix5a7cDhYmSm1mgMnbVG6A5bDzE3NDJPzwGUoVZNwFUaEPTr/IO//WMCQSXoro=;CXVNPUG7+dMh4WkzfeFo8A=="
 ---

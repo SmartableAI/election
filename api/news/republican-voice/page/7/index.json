@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-16-comey-email-reveals-fbi-doj-made-premeditated-effort-to-dislodge-trump-from-office-gaetz.md",
+      "title": "Comey email reveals FBI, DOJ made 'premeditated effort to dislodge' Trump from office: Gaetz",
+      "excerpt": "The Justice Department and FBI engaged in a \"premeditated effort to dislodge the duly elected president of the United States,\" Rep. Matt Gaetz, R-Fla., charged Monday on \"Hannity.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TdsKsL1kJ5M/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TdsKsL1kJ5M/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f75a584d-26b5-4022-a487-47a7e7f50c59/0e4ba9e4-e5f5-4b02-b0c5-8fe53c0020b1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier.amp",
+      "publishedDateTime": "2021-02-15T20:54:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.md",
       "title": "Trump drives past jubilant supporters at impromptu rally in Florida",
       "excerpt": "Former President Trump marked President’s Day by waiving to a throng of supporters gathered near his south Florida residence.",
@@ -1597,62 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/roy-bidens-purposeful-refusal-enforce-immigration-laws.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-bidens-purposeful-refusal-enforce-immigration-laws.amp",
       "publishedDateTime": "2021-02-10T12:26:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-ken-starr-says-trumps-second-impeachment-unconstitutional-and-sets-dangerous-precedent.md",
-      "title": "Ken Starr says Trump’s second impeachment 'unconstitutional' and sets 'dangerous precedent'",
-      "excerpt": "Former independent counsel Ken Starr says the impeachment trial of former President Donald Trump is an \"unconstitutional process\" and sets a \"very dangerous precedent\" because Trump has already left office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JoPvlIlvUcI/ken-starr-trumps-second-impeachment-unconstitutional-process",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JoPvlIlvUcI/ken-starr-trumps-second-impeachment-unconstitutional-process",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aca0cd36-13d5-400a-a98b-37d1e4bafa56/22e959fc-1526-4be6-ae2b-0ac2f2cc43f4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-trumps-second-impeachment-unconstitutional-process.amp",
-      "publishedDateTime": "2021-02-10T10:27:46-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

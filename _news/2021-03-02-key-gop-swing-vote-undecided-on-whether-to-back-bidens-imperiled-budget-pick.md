@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden wrong on three statistics he cited in ABC interview"
+    excerpt: "President Joe Biden sat for an interview with ABC News' George Stephanopoulos on Tuesday.\n    \n"
+    publishedDateTime: 2021-03-18T00:28:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F-rrp5CnuRQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/fact-check-biden-abc-stephanopoulos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/fact-check-biden-abc-stephanopoulos/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317164343-biden-on-abc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "From confidence to a distraction: Inside Biden's failed push for Neera Tanden"
     excerpt: "Standing onstage in December at the Queen Theater in Wilmington, Delaware, Joe Biden described his freshly nominated pick to run the White House budget office, Neera Tanden, as \"brilliant.\" He cited her hardscrabble upbringing. And he even quoted his father to emphasize her set of values.\n    \n"
     publishedDateTime: 2021-03-03T04:52:41Z

@@ -384,6 +384,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump set to do at least 12 book interviews in the coming weeks"
+    excerpt: "Former President Donald Trump is scheduled to sit for a dozen interviews in the coming weeks. | AP Photo/Andrew Harnik Get ready for the Donald Trump book barrage. The former president is scheduled to sit for a dozen interviews in the coming weeks with authors examining his presidency,"
+    publishedDateTime: 2021-03-18T00:58:00Z
+    webUrl: "https://www.politico.com/news/2021/03/17/donald-trump-book-interviews-476864"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/17/donald-trump-book-interviews-476864"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/17/donald-trump-book-interviews-476864"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/98/e9/fd3f32c04cbba9f78ab0d9dff7b8/ap20257716753024.jpg"
+        width: 6000
+        height: 3998
+        isCached: true
   - title: "Vindman twin set for promotion after bad evaluations from Trump appointees"
     excerpt: "Army Lt. Col. Yevgeny Vindman is set to be promoted to full colonel, despite attempts by loyalists to former President Donald Trump to derail his career following his bit role in the president's first impeachment, according to two people familiar with the ..."
     publishedDateTime: 2021-03-15T17:02:00Z

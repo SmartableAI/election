@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Ohio attorney general sues Biden administration over $1.9 trillion stimulus"
+    excerpt: "Ohio Attorney General Dave Yost sued the Biden administration Wednesday over its $1.9 trillion coronavirus relief package, alleging the federal government sought to impose “unconstitutional” limits on states’ ability to access some of the aid."
+    publishedDateTime: 2021-03-17T23:39:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/17/stimulus-lawsuit-gop-ohio-attorney-general/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/17/stimulus-lawsuit-gop-ohio-attorney-general/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/17/stimulus-lawsuit-gop-ohio-attorney-general/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFXQY3HF74I6TMFGHUBXEG4F54.jpg&w=1440"
+        width: 1440
+        height: 875
+        isCached: true
   - title: "Biden stimulus calls for expanded paid sick leave to help workers facing coronavirus challenges"
     excerpt: "The U.S. is an outlier for its lack of mandatory paid sick leave. Biden's plan seeks to eliminate loopholes that prevented some 100 million workers from accessing it during the pandemic."
     publishedDateTime: 2021-01-16T00:25:00Z

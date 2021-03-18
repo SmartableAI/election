@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-17-sen-bill-hagerty-warns-biden-of-increasing-aggression-from-iran-says-regime-testing-us-resolve.md",
+      "title": "Sen. Bill Hagerty warns Biden of 'increasing aggression' from Iran, says regime testing US resolve",
+      "excerpt": "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden expressing concern about \"increasing aggression\" from the Iranian regime -- just as the Biden administration has eased off a sanctions push and is moving to reverse the prior administration’s \"maximum pressure\" strategy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/APGrl_hZuzw/sen-bill-hagerty-biden-increasing-aggression-iran",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/APGrl_hZuzw/sen-bill-hagerty-biden-increasing-aggression-iran",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T05:00:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-the-health-202-trump-says-he-recommends-the-coronavirus-vaccines.md",
+      "title": "The Health 202: Trump says he 'recommends' the coronavirus vaccines",
+      "excerpt": "Donald Trump made an important pronouncement in a Fox News interview last night: Americans should agree to get the “great” coronavirus vaccines. Support our journalism. Subscribe today. Yet research suggests one of the most vaccine-hesitant groups ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7OYN2GEGWII6XPSKES4J6YLPFQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/?outputType=amp",
+      "publishedDateTime": "2021-03-17T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-new-us-intel-report-shows-russia-trump-and-gop-acolytes-have-same-goals.md",
       "title": "New US intel report shows Russia, Trump and GOP acolytes have same goals",
       "excerpt": "A new US intelligence report that finds Russia interfered in the 2020 election to help Donald Trump and hurt Joe Biden also underscores a fundamental truth: The gravest threat to US democracy comes from within.\n    \n",
@@ -1236,118 +1344,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-gop-targets-biden-border-crisis-in-new-ad-campaign-aimed-at-battleground-districts.md",
-      "title": "GOP targets \"Biden border crisis\" in new ad campaign aimed at battleground districts",
-      "excerpt": "Republicans are ramping up their attacks on Democrats over the ongoing crisis at the Southern border, including a new ad campaign accusing President Joe Biden of opening the border instead of focusing on opening schools and businesses.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312143856-02-border-migrant-crisis-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
-      "publishedDateTime": "2021-03-16T09:46:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-dan-bongino-slams-biden-immigration-agenda-without-a-border-you-dont-have-a-country.md",
-      "title": "Dan Bongino slams Biden immigration agenda: Without a border, 'you don't have a country'",
-      "excerpt": "Fox News contributor Dan Bongino rips Biden's immigration policy on \"Fox & Friends,\" and asserts that we don't have a country without a border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRKdl1linmU/dan-bongino-border-crisis-biden-immigration-fox-friends",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRKdl1linmU/dan-bongino-border-crisis-biden-immigration-fox-friends",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43446e6c-352c-4c59-bfa5-2b93b2468473/bdfdbabc-61d5-4370-a3b3-ad549f1d987e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dan-bongino-border-crisis-biden-immigration-fox-friends.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-bongino-border-crisis-biden-immigration-fox-friends.amp",
-      "publishedDateTime": "2021-03-16T08:03:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
