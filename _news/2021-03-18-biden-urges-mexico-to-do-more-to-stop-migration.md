@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden poised to tap former Sen. Bill Nelson to lead NASA"
+    excerpt: "President Joe Biden is poised to nominate former Democratic Sen. Bill Nelson of Florida to lead NASA, an official familiar with the decision said, elevating a longtime friend from the Senate and space aficionado as administrator of the agency.\n    \n"
+    publishedDateTime: 2021-03-18T19:13:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GdikrByGp8c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/bill-nelson-nasa-president-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/bill-nelson-nasa-president-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181118100615-02-bill-nelson-file-1118-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he supports bringing back the Senate's talking filibuster rule"
     excerpt: "President Joe Biden on Tuesday said he supports changing the Senate's filibuster rule by bringing back the talking filibuster, requiring a senator who wants to block legislation to hold the floor without taking a break.\n    \n"
     publishedDateTime: 2021-03-17T01:50:26Z
@@ -461,6 +477,6 @@ related:
         height: 630
         isCached: true
 
-secured: "G5Lhg5oC3zFHP+l/jvbSQ1HCkd6ZxNIxjCw2KilBUPZkWOVzre/ym8SHE41wgwF6vRL/RZgufLVeruTMCO6bJcbk+wPSKH4Odzbzo4yX5AZZHGrBnB+ygVsRkj1lXtRQy2ZcxN4Ka4Ue0/5UPgLRKekyQx1IfX2zkS1w36IN06Mpvu9fmMZpeUk/jwaIsZprO1xZ+j27O3EHoa5uUFJQOuOZmN7rmQOypff1G+K288UcdZb3PL+vUaggyRapVCkgttuGKMtAiVa1/zG12DSQF7mEPSO5fuQGGRLQIfRFxqj0vEShXtL6immjyaPBdRV0m0BQRh7jctQKzILy+gAZ3+8raQIicfKaBg7wcddePfo=;xu14lSd9PxwrpOmw4z9Ecw=="
+secured: "D+2Cyc3Lnyb3kvqdHRLOXEybhuP85aSoQTnSvaxqawDjdfVHROEwAfeQMDBbXeizsGQwWz8nRX1lVyAYo5SrMChPuQa7YgA1tazQ0liy3UL0owF6Ozqa9cOodzoKQY7pSV9YP9NZzFk1Vp3GYQR75MUvyIbsENqOy+gW3Gjp84rcd/aEboSv04iV8q8LGiJlqb9WdVjXopPv5nZFhr2DI63Ay36XOkvgTh9y0ZP0A/tMJIcSrrO9mwo7qfe/8KOEr+r3aLCZYZRZAVk6d3gid3+p5m9ZJmm5AOaRdJzncrRoDaZunkqQoMJdZo2mfO0i9fEA1kNx0B7ZBIfhJ1QPDew2NalguF7eSkh1N9/TnnBrGl+VlZPZD19fItds1JzEIEUdml4v4BX0dOdRCfJXDNH1uy38CZ34QBtSCi0l2VV0aHIBD7czu9cT/pbQtAR6nB3z6Hi8B1pvBEJBgjMJ0+JUw3BT9bLEC480z/baZWFaEIGLEfHoq7ehpvuoEIrgFSOl2fFv3b5SSH+EKGmwJA==;M42jrnoDRbPGO0gIfNLHZg=="
 ---
 

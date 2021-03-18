@@ -217,6 +217,22 @@ related:
         width: 1440
         height: 1200
         isCached: true
+  - title: "White House refuses to call Saudi leader MBS a 'killer' after Biden called Putin one"
+    excerpt: "President Joe Biden referred to Russian President Vladimir Putin, whose critics sometimes end up poisoned or dead, as a \"killer\" in a recent interview. When asked if Biden would use the same word to characterize Prince Mohammed, popularly known as MBS ..."
+    publishedDateTime: 2021-03-18T18:18:00Z
+    webUrl: "https://www.businessinsider.com/white-house-wont-call-mbs-killer-biden-called-putin-one-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/white-house-wont-call-mbs-killer-biden-called-putin-one-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-wont-call-mbs-killer-biden-called-putin-one-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/605396b4fe6a340019acf61c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Russia wants an apology from U.S. after Biden called Putin a killer, says Kremlin ally"
     excerpt: "Russia wants an apology from the United States after President Joe Biden said he thought Vladimir Putin was a killer and may retaliate against Washington unless it gets one, a senior Russian lawmaker said on Thursday."
     publishedDateTime: 2021-03-18T09:55:00Z
@@ -273,6 +289,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_91967fa26edc4c13be5abe16085a4238_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Psaki: Biden doesn't regret calling Putin a killer"
+    excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
+    publishedDateTime: 2021-03-18T19:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
     excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."

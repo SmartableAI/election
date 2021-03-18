@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris Meets with LAbor Leaders in the Ceremonial Office"
 excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice ..."
 publishedDateTime: 2021-03-18T16:06:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/6eb918329e5d9b8efe87aacb4d7ca26e/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/6eb918329e5d9b8efe87aacb4d7ca26e/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/27f2a99397b681d75445fcc5fa361fa5/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/27f2a99397b681d75445fcc5fa361fa5/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/6eb918329e5d9b8efe87aacb4d7ca26e/HARRIS-HISTORY-MONTH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/27f2a99397b681d75445fcc5fa361fa5/HARRIS-HISTORY-MONTH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -540,16 +540,16 @@ related:
         height: 434
         isCached: true
   - title: "VP Kamala Harris at Ceremonial Swearing in of Debra Haaland"
-    excerpt: "US Vice President Kamala Harris (R) participates in ceremonial swearing in of Debra Haaland (3-L), with her daughter Somah Haaland and family members, as Secretary of the Interior in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington,"
+    excerpt: "US Vice President Kamala Harris (R) participates in ceremonial swearing in of Debra Haaland (3-L), with her daughter Somah Haaland and family members, as Secretary of the Interior in the Vice President's Ceremonial Office in the Eisenhower Executive Office ..."
     publishedDateTime: 2021-03-18T15:28:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6f7696275c7f901fe9b7c20fcfb1554e/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3ac06ae5f2fb2988aa34d6bded03a936/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/6f7696275c7f901fe9b7c20fcfb1554e/HARRIS-HAALAND.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3ac06ae5f2fb2988aa34d6bded03a936/HARRIS-HAALAND.jpg"
         width: 650
         height: 433
         isCached: true
@@ -601,6 +601,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "J0Ch7lZ5XCeMfvtFSUTN6wNaexZqs56UlrBwklmy0IjXr8tN1Ze3VScAPUlyATP2yn9ZFv5ICiz/cZealNjd9EwXRfwruBXKZXyKBUacogWGD3yQNysQgoaTB/WEtGZPLsn7Mto3u7iMNUHuXkOphRgmFwFb95QQ7ihTlqYjvR7XxJ90Y6Ef8Os2ltIuBd2K326cJu/V9vOjwrBSID17uLMsYpDyeElTk1i1DLI+3HEDoqH9CI3RLWWGtRURuKWdAYFuKqc568Q89FADlVOsxioUEbc5R4MH/8Dl0qXKTeNxPmSgBYKJYtWjc1D/HdYnWxzueuZeJZDLCnaZnqW0MWDDazWpPhFdWwVDGTSfkAk=;xlCEYFHBI4YtEoH66Wc0Pg=="
+secured: "E3anG8O8J4DRQEuQgedfaNx/6Ke12wVfbzrqHKXQ7DvTFPpVCzv7OOZLPo89luvd6mEnhTnJkG56laVhNGy1990ZZ5jP+n6YPpfThe1t0mVzT5adLUVRve9Dovkv/0LZiHyi+Q/+YSlcc3AJYZKZr7Z8Fr7n0z0fYIxiq7P8OsL4lLZxlS3JUkSGS3c16Inr3vEzthQFZvj1du57b7nwXlLr23qMKiHzSNJi8iTggAog8lzd2jsbYmbpCzDDpSpqhSFWzZvxxwD3R+T/7CTYfKQArl4ZplgsbHvJ5teWTFCjuFekZWjDtdSVATyt0aba07hvblxgwLsUyTKbyQaX0u5gbq5mTOsyG68mi661MnU=;ANl2JvJxrXI7I1oWGTsd1Q=="
 ---
 

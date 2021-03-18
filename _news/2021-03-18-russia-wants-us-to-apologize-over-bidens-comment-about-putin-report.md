@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Psaki says Biden doesn't regret calling Putin a 'killer'"
+    excerpt: "White House press secretary Jen Psaki said President Biden does not regret calling Russian President Vladimir Putin a killer. "
+    publishedDateTime: 2021-03-18T18:37:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jCgeWw5vFtg/psaki-biden-putin-killer-mbs"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-putin-killer-mbs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-putin-killer-mbs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Psaki-318-3.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Russia warns Biden calling Putin 'killer' put US relations 'under the threat of collapse'"
+    excerpt: "Officials from Russia’s U.S. embassy in Washington warned Thursday that President Biden’s public criticism of Russian President Vladimir Putin had put strained relations between the two nations “under the threat of collapse.”"
+    publishedDateTime: 2021-03-18T19:14:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdEYkhq7qXQ/russia-warns-biden-calling-putin-killer-put-us-relations-under-the-threat-of-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/russia-warns-biden-calling-putin-killer-put-us-relations-under-the-threat-of-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-warns-biden-calling-putin-killer-put-us-relations-under-the-threat-of-collapse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b8a731c-8de1-4ce6-a352-dbb5195db15e/c9d8fa38-4723-4d3a-8207-63801bcca037/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7tlufDHZwnI707bNhsdjwnRaz91Q78v4wFNDMJa0LHT4iKfGWfvvrkFrDt+a8zxp5zPqs4+CGVM3Wz8V+HUvdn36lfr9zUCT/kz/RnSQzLCDIjOy/P+76vLPcR5+SBprUfeaJkhae4v1SfoXKlYa/DAevVBj9oU9c3/Pgdzg5tjftV8U0kwA2VzYMOlWPGfctW80+XCwzwS0xiXX3y5dwo5MjT4A8KE99IEC2Qzg3VFomEGCLYGPcN01HT16p0bu7HhC+lC/aV00crFZvSe6e16fsnpOqubX4Fuza+cEnIc6EAEHfOlJXmqlp1IbdngebmssVtJHGsJ1SBUcjhBukZNflRh3Sy9Mn/QWhqiixp4=;G50dADYPDgThC+1TSNxDVw=="
 ---

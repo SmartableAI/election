@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-l
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/amp/"
 type: article
 quality: 135
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bac9637a-a222-4ba9-a9f2-aff489c52155/2a589916-fe2e-4c13-9fab-6b765ba03c38/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "NJ school district paying former teacher $325K over Trump T-shirt scandal"
+    excerpt: "A retired New Jersey teacher who got death threats after editing a President Trump T-shirt out of a high school yearbook has now been awarded a $325,000 settlement from the district, according to"
+    publishedDateTime: 2021-03-18T19:42:00Z
+    webUrl: "https://nypost.com/2021/03/18/nj-school-district-paying-ex-teacher-325k-over-trump-shirt-scandal/"
+    ampWebUrl: "https://nypost.com/2021/03/18/nj-school-district-paying-ex-teacher-325k-over-trump-shirt-scandal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/nj-school-district-paying-ex-teacher-325k-over-trump-shirt-scandal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/grant-berardo.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "CNN hemorrhaging viewers since Trump left office, down nearly 50% in key measurables"
     excerpt: "CNN has been hemorrhaging viewers since former President Donald Trump left office, losing roughly half of its audience in key measurables since January following a brief post-Election Day spike."

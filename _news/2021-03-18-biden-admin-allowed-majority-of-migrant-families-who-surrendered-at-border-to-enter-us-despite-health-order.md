@@ -191,6 +191,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McCarthy says he hasn’t heard back from White House about request for meeting with Biden on border crisis"
+    excerpt: "House Minority Leader Kevin McCarthy pressed President Biden—again—for a meeting to discuss a bipartisan way to address the situation at the U.S. Southern Border, maintaining that “securing our border should not be a partisan issue.”"
+    publishedDateTime: 2021-03-18T18:41:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZP-R41i2leQ/mccarthy-presses-biden-meeting-situation-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "FEjhPYdRcTVPrfOrxHQkdpAMgTZgTeLiF8+dJnCvN6DF/t4xu8vuoTo6CY4F8fET4lYXNL0RGQ9gLZwsbN6SztrCkbxGtDc2OmfAQwlZ5eG8l03tV+JXO5+k5leNYTiWVDSe4EWQC8C6cg5n2Wjo/U5z7kQlwEqhOUBYtHdAiUWJNA9KDPfdscD6WL00Xa4joUOEG7V63ODIkXqSwgIgrlCZRiWVlRuE0KeUZmkaXUGkV5WtJ4Crv/7xJvu5e05Klaf02f5f/4ZeYAWCL5HEHGY078sz7iq++iuZXXzHbtA7s7PSqC7ZtIxjYOBeXInN/zgHbjUKErOccGDfV33n3VYTwIPrbxyvtx3mJQ5iGoQ=;ohJl/p4qVpgM17q+tfvrjA=="
 ---
