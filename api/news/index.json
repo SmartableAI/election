@@ -2,6 +2,330 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-18-biden-orders-flags-to-be-flown-at-half-staff-in-honor-of-atlanta-shooting-victims.md",
+      "title": "Biden orders flags to be flown at half-staff in honor of Atlanta shooting victims",
+      "excerpt": "President Joe Biden has ordered the American flags at the White House and on other federal ground be flown at half-staff as \"a mark of respect for the victims of the senseless acts of violence\" in Atlanta this week.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Yde7DV27dY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Yde7DV27dY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210318130453-white-house-flag-half-staff-0318-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html",
+      "publishedDateTime": "2021-03-18T10:30:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-texas-man-found-with-assault-style-rifle-near-vice-president-kamala-harris-dc-home.md",
+      "title": "Texas man found with assault-style rifle near Vice President Kamala Harris' DC home",
+      "excerpt": "A San Antonio man has been arrested after being found with an assault-style rifle and high-capacity magazine near the official residence of Vice President Kamala Harris. Paul Michael Murray, 31, who has also had an address in the College Station area,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/13/42/10/19800610/5/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/amp/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/texas/amp/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
+      "publishedDateTime": "2021-03-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-biden-orders-flags-at-half-staff-to-honor-victims-of-atlanta-area-spa-shootings.md",
+      "title": "Biden orders flags at half-staff to honor victims of Atlanta-area spa shootings",
+      "excerpt": "Biden, Harris to meet with Asian American lea... 09:36 Washington — President Biden on Thursday ordered flags at the White House and on federal grounds in the U.S. and abroad to be flown at half-staff after eight people, including six Asian women, were ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/atlanta-shootings-joe-biden-flags-half-staff/",
+      "originalUrl": "https://www.cbsnews.com/news/atlanta-shootings-joe-biden-flags-half-staff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/2e1ebb6a-c7fb-421e-bd5c-ffc0990f5a49/thumbnail/1200x630/db85c2794a36570ed26db7d1cc63b885/2021-03-18t162915z-272238798-rc2sdm9k6aaa-rtrmadp-3-crime-georgia-spa.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/atlanta-shootings-joe-biden-flags-half-staff/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/atlanta-shootings-joe-biden-flags-half-staff/",
+      "publishedDateTime": "2021-03-18T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.md",
+      "title": "Biden DHS secretary promises US will not expel unaccompanied minors",
+      "excerpt": "Homeland Security Secretary Alejandro Mayorkas vowed that the United States will not expel unaccompanied minors who cross the U.S. southern border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp",
+      "publishedDateTime": "2021-03-18T09:13:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-what-andrew-cuomo-and-kamala-harris-said-about-vaccine-skepticism.md",
+      "title": "What Andrew Cuomo and Kamala Harris said about vaccine skepticism",
+      "excerpt": "Both indicated that they didn’t fully trust the Trump administration to oversee the process, as many Republicans point out now. But their comments are worth a close look.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37AHSJTXWAI6XAIVTLK6TQBBC4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp",
+      "publishedDateTime": "2021-03-18T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-vanita-gupta-could-be-bidens-most-dangerous-doj-pick-gop-senator-argues-while-dem-leader-decries-smears.md",
+      "title": "Vanita Gupta could be Biden's 'most dangerous' DOJ pick, GOP senator argues, while Dem leader decries 'smears'",
+      "excerpt": "The Senate Judiciary Committee met Wednesday to discuss President Biden's nominations of Lisa Monaco to be the next deputy attorney general and Vanita Gupta as associate attorney general.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yy9Q6YK9c_A/vanita-gupta-biden-doj-pick-john-cornyn",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yy9Q6YK9c_A/vanita-gupta-biden-doj-pick-john-cornyn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/vanita-gupta-biden-doj-pick-john-cornyn.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-biden-doj-pick-john-cornyn.amp",
+      "publishedDateTime": "2021-03-18T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-new-jersey-district-pays-325k-in-trump-yearbook-censorship.md",
       "title": "New Jersey district pays $325K in Trump yearbook censorship",
       "excerpt": "A New Jersey school district is paying $325,000 to a former New Jersey teacher who claimed she was forced to edit a Donald Trump T-shirt worn by a student in a yearbook photo New Trump recording ...",
@@ -733,58 +1057,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-president-biden-calls-atlanta-shootings-very-very-troublesome-doesnt-assign-motive.md",
-      "title": "President Biden calls Atlanta shootings, 'very, very troublesome,' doesn't assign motive",
-      "excerpt": "President Joe Biden said he is waiting for more information on the Atlanta-area shootings, that left 8 dead, before assigning a motive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/03/17/atlanta-spa-shootings-president-joe-biden-concerned-shootings/4736461001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/03/17/atlanta-spa-shootings-president-joe-biden-concerned-shootings/4736461001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/17/USAT/aba4d3de-19f3-4987-8f1c-bdec86ccb1c7-VPC_BIDEN_ON_ATLANTA_SHOOTINGS_DESK.00_01_55_05.Still003.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-03-18-navarro-top-biden-admin-officials-compromised-by-china-urges-president-to-stand-strong-against-beijing.md",
       "title": "Navarro: Top Biden admin officials 'compromised' by China, urges president to 'stand strong' against Beijing",
       "excerpt": "More than 20 top officials in the Biden administration are \"\"compromised in some way ... by the Chinese Communist Party,\" former White House trade adviser Peter Navarro told \"Fox News Primetime\" Wednesday.",
@@ -1051,279 +1323,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report.md",
-      "title": "Eric Trump floats turning family's Florida golf resort into casino: report",
-      "excerpt": "Eric Trump, son of former President Trump and head of the Trump Organization, floated the idea of turning one of his family’s Florida golf courses into a casino, according to a Washington Post report",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report",
-      "originalUrl": "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumperic_101019getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report?amp",
-      "publishedDateTime": "2021-03-17T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the-greats.md",
-      "title": "Juan Williams is wrong — Trump will be remembered as one of the greats",
-      "excerpt": "I look forward to a day when Americans can look past their hatred and admit that Donald Trump was the most effective, impactful, and forward-thinking president we’ve ever had.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the",
-      "originalUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpgettyimages-1304602669.jpg",
-          "width": 980,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the?amp",
-      "publishedDateTime": "2021-03-17T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-russia-recalls-us-ambassador-after-biden-calls-putin-a-killer.md",
-      "title": "Russia recalls US ambassador after Biden calls Putin a 'killer'",
-      "excerpt": "Russia recalled its ambassador to the United States on Wednesday after President Biden said he agreed that Russian President Vladimir Putin was a “killer” and threatened further sanctions during a televised interview, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UnOodRKIaHc/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UnOodRKIaHc/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39041886-9779-4d90-b746-af3b50921d47/222f1f6b-7e21-46cc-ad7c-95efdbee56f8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling.amp",
-      "publishedDateTime": "2021-03-17T12:29:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-bidens-stimulus-provides-larger-single-year-tax-breaks-than-trumps-or-reagans-cuts.md",
-      "title": "Biden's stimulus provides larger single-year tax breaks than Trump's or Reagan's cuts",
-      "excerpt": "The multitude of tax breaks in the $1.9 trillion relief package signed this month by President Joe Biden will provide one of the biggest one-year tax cuts in modern history, a new analysis has found.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YqeeLfBGBKI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YqeeLfBGBKI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 623,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210126074106-stimulus-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/17/politics/stimulus-temporary-tax-cut/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/stimulus-temporary-tax-cut/index.html",
-      "publishedDateTime": "2021-03-17T11:32:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions.md",
-      "title": "Texas governor: Biden must answer for ‘enticing unaccompanied minors into inhumane conditions’",
-      "excerpt": "Texas Gov. Greg Abbott called out President Joe Biden’s border policies. The governor said, “reckless” policies are causing a surge in border crossing and the president must answer for “enticing unaccompanied minors into inhumane conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
-      "originalUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/abbott-00_01_00_23-Still001.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo108709957557",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo108709957557",
-      "publishedDateTime": "2021-03-17T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

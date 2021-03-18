@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-face-mask-workplace-misses-se
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
 type: article
 quality: 173
-heat: 213
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Daines, Lummis put hold on Haaland, Biden's nominee for Interior Department, forcing debate"
-    excerpt: "Sens. Steve Daines and Cynthia Lummis on Tuesday announced that they will put a \"hold\" on the nomination of Rep. Deb Haaland to lead the Interior Department, a procedural tactic designed to delay the nomination by forcing debate."
-    publishedDateTime: 2021-03-09T17:32:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eyo8HZzXzpk/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate.amp"
+  - title: "Biden DHS secretary promises US will not expel unaccompanied minors"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas vowed that the United States will not expel unaccompanied minors who cross the U.S. southern border."
+    publishedDateTime: 2021-03-18T16:13:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Jill Biden discusses school reopening in classroom with just 2 in-person learning students"
+    excerpt: "First lady Jill Biden visited a New Jersey elementary school classroom on Monday where just two students were learning in-person and 17 were learning virtually."
+    publishedDateTime: 2021-03-15T21:36:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WME4ULJP3O0/jill-biden-school-reopening-two-students-in-person"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-school-reopening-two-students-in-person.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-school-reopening-two-students-in-person.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ac61cc6-e8e7-460a-9dec-b7c0635ab3b7/6f6901c8-5c94-4f36-b53b-f8a212d69acf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Cuomo seizes on common ground with Biden, agrees sexual misconduct allegations should be investigated"
-    excerpt: "Embattled New York Gov. Andrew Cuomo deflected questions Wednesday regarding his reaction to President Biden’s assertion that he should resign from office if an investigation confirms allegations that he sexually harassed several women, including former aides."
-    publishedDateTime: 2021-03-17T21:10:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jOK-V3pCOxg/cuomo-agrees-biden-call-review-of-sexual-harassment-allegations-repeats-he-wont-resign"
-    ampWebUrl: "https://www.foxnews.com/politics/cuomo-agrees-biden-call-review-of-sexual-harassment-allegations-repeats-he-wont-resign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-agrees-biden-call-review-of-sexual-harassment-allegations-repeats-he-wont-resign.amp"
+  - title: "Abbott accuses Biden admin of 'not being transparent' about health of unaccompanied minors at border"
+    excerpt: "Texas Gov. Greg Abbott demanded Wednesday that the Biden administration allow state and local authorities access to unaccompanied migrant children in federal facilities to monitor COVID transmission and investigate human trafficking concerns."
+    publishedDateTime: 2021-03-18T02:58:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BOQ5eOt6qdU/abbott-white-house-not-transparent-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/abbott-white-house-not-transparent-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/abbott-white-house-not-transparent-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd6f93f4-4a1b-47f3-8b1a-0c187836d1c2/c36aaf3d-1ae0-4c28-b4a8-9ffb948e0291/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c222aa09-78a3-4aff-a892-43de8c45cd9f/f15a1bdd-971f-4397-9bfd-7362b323a1cd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

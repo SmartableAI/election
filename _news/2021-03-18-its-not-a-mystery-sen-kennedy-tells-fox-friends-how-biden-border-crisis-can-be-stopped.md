@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Senate confirms Xavier Becerra as Biden's HHS secretary despite GOP opposition"
+    excerpt: "The Senate on Thursday voted to confirm Xavier Becerra as President Biden’s Health and Human Services secretary, delivering the nascent administration another Cabinet member despite nearly unanimous opposition from Republican lawmakers."
+    publishedDateTime: 2021-03-18T16:49:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOKdmPCEdk/senate-confirms-xavier-becerra-as-bidens-hhs-secretary-despite-gop-opposition"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-xavier-becerra-as-bidens-hhs-secretary-despite-gop-opposition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-xavier-becerra-as-bidens-hhs-secretary-despite-gop-opposition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McCarthy, GOP delegation visiting US-Mexico border Monday amid migration surge under Biden"
     excerpt: "House Minority Leader Kevin McCarthy and 12 other House Republicans are at the Southern border and will make comments from El Paso, Texas later Monday as the GOP continues to hammer President Biden over immigration. "
     publishedDateTime: 2021-03-15T14:57:22Z

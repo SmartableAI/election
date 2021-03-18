@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
 type: article
 quality: 69
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -27,6 +27,86 @@ images:
     isCached: true
 
 related:
+  - title: "What Andrew Cuomo and Kamala Harris said about vaccine skepticism"
+    excerpt: "Both indicated that they didn’t fully trust the Trump administration to oversee the process, as many Republicans point out now. But their comments are worth a close look."
+    publishedDateTime: 2021-03-18T16:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37AHSJTXWAI6XAIVTLK6TQBBC4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Jeanine Pirro Blasts Kamala Harris for Being Silent on Cuomo Accusations: 'Fraud,' 'Phony'"
+    excerpt: "\"Some supporter of women, huh? A woman paraded around as a champion of women, quick to believe all women unless it doesn't work to her political advantage,\" the Fox News host said in comments about the vice president."
+    publishedDateTime: 2021-03-14T14:55:00Z
+    webUrl: "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006"
+    ampWebUrl: "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1755647/jeanine-pirro-fox-news-andrew-cuomo.jpg"
+        width: 3500
+        height: 2355
+        isCached: true
+  - title: "Kamala Harris visits Las Vegas to tout COVID relief bill"
+    excerpt: "Vice President Kamala Harris visited with health care providers at UNLV and workers packing food boxes for those in need at the Culinary Academy of Las Vegas on Monday in the first of a series of stops throughout the country to tout the benefits of the $1 ..."
+    publishedDateTime: 2021-03-16T00:11:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_webHARRIS-VEGAS-MAR16-21_031521kc_001.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
+    excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
+    publishedDateTime: 2021-03-13T10:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article249862338.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249862338.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249862338.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
+    excerpt: "It’s an unpaid position, but Doug Emhoff says he is approaching the role of being the first second gentleman like a full-time job"
+    publishedDateTime: 2021-03-13T16:24:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/03/13/first-second-gentleman-doug-emhoff-husband-kamala-harris-breaks-new-ground/4670261001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/4670261001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4670261001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/PDTN/bf269e26-7cb4-4442-9726-72b55f2654d6-US-NEWS-EMHOFF-3-AK.jpg?auto=webp&crop=942,530,x150,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
     excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"
     publishedDateTime: 2021-03-17T15:50:00Z
@@ -40,22 +120,6 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/VICE-PRESIDENT-HARRIS.jpg"
         width: 650
         height: 433
-        isCached: true
-  - title: "“We want to make sure you stay open”: Vice President Kamala Harris, husband promote federal stimulus plan in Colorado"
-    excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, sat down at a table at Denver’s Maria Empanada restaurant on Tuesday afternoon. It wasn’t for a bite to eat, but instead part"
-    publishedDateTime: 2021-03-16T23:04:00Z
-    webUrl: "https://www.denverpost.com/2021/03/16/kamala-harris-colorado-visit-denver-covid-stimulus/"
-    ampWebUrl: "https://www.denverpost.com/2021/03/16/kamala-harris-colorado-visit-denver-covid-stimulus/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/16/kamala-harris-colorado-visit-denver-covid-stimulus/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 52
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/03/AP21075736963900.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "2sr9vpNmKQQzK4Hu/CHcFvOSf1exNZXHIYlvC1eEZw6BeCZTt5XLknhHLWCNZOaEemPuMW1oiBaWRulN050YcX3s/T2sp2JngZALa7SI4hySRYBPfML62Xf3idHnnpaF/OyRWu3SMASK2MhJe7ve05MrpF/eQXR6cU8ptqCB2mcExjx03podgcOPbYuu0zOYRcTdRaTSRIRjgPKU9ZdgSWCuvs9KpBo9ARa25sST47p/7+KrdSr/5srp8cmVjD544TGMT2c/Oc/i4lcKEKscaRVT+fEWpW5+AFiaeVd67pl6ZWpmVUJ1YZbilSmM6U/iNeLvgPXn2YvggHakjPq5ys10wMyM4SgDje0ylqdmAvDNcHjF4ywT/lnrTvvkrxcHfr7neQ63RHFeCrPBLaxrG64ogRBsOzDLmrXusZXu0D+i2IsYoXGmvcvC3iD/kbRw5re8ruY+UTS7hmi/J4vjeV/g8a10GiEdYCThzkWznFfSPYxMoq0U4Sskdqrr2oFrwKf9B7n4EttFl/hyg351VQ==;BP8LgYo10OZ9VOX5af0d4Q=="

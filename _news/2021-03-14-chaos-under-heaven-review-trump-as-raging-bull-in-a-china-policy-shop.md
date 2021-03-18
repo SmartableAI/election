@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-j
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
     quality: 113
     images:
       - url: "https://i.insider.com/6050b357fe6a340019aced9b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Startups are racing to profit from a controversial Trump-era policy that lets big companies ditch their health plans"
+    excerpt: "One big employer expects to save $7.2 million by sending workers to buy their own health insurance with \"health reimbursement arrangements.\""
+    publishedDateTime: 2021-03-18T15:40:00Z
+    webUrl: "https://www.businessinsider.com/companies-are-giving-workers-money-to-buy-health-coverage-hra-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/5fb659bc50e71a00115561ff?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

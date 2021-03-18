@@ -31,19 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden adviser botches her Spanish, mistakenly tells migrants border is 'not closed'"
-    excerpt: "However, Jacobson had a slip of the tongue when she translated the message to Spanish, mistakenly saying “la frontera no está cerrada.”"
-    publishedDateTime: 2021-03-10T23:20:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kb1acOOYMT0/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp"
+  - title: "Biden DHS secretary promises US will not expel unaccompanied minors"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas vowed that the United States will not expel unaccompanied minors who cross the U.S. southern border."
+    publishedDateTime: 2021-03-18T16:13:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cb18237-90c1-4faf-aecc-6abd2f6fb9df/295238a8-7d1e-4b53-a9a2-f1b92b37795d/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden push for face mask standard in workplace misses self-imposed deadline"
+    excerpt: "President Biden planned to issue a temporary face mask standard in workplaces by his 55th day in office, but his administration missed that deadline as discussions continue on the potential new federal standard for private businesses. "
+    publishedDateTime: 2021-03-16T12:09:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QNhHL9qtHJ4/biden-face-mask-workplace-misses-self-imposed-deadline"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Jill Biden discusses school reopening in classroom with just 2 in-person learning students"
+    excerpt: "First lady Jill Biden visited a New Jersey elementary school classroom on Monday where just two students were learning in-person and 17 were learning virtually."
+    publishedDateTime: 2021-03-15T21:36:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WME4ULJP3O0/jill-biden-school-reopening-two-students-in-person"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-school-reopening-two-students-in-person.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-school-reopening-two-students-in-person.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ac61cc6-e8e7-460a-9dec-b7c0635ab3b7/6f6901c8-5c94-4f36-b53b-f8a212d69acf/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

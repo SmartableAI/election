@@ -352,6 +352,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Urges Mexico to Do More to Stop Migration"
+    excerpt: "The Biden administration has been quietly pressing Mexico to ramp up its efforts to limit the flow of migrants, clinging to a Trump policy of relying on southern neighbors to enforce America’s immigration agenda."
+    publishedDateTime: 2021-03-18T15:44:00Z
+    webUrl: "https://www.nytimes.com/2021/03/18/world/americas/biden-mexico-migration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/18/world/americas/biden-mexico-migration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/world/americas/biden-mexico-migration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/19/world/19biden-amlo-immigration-add1/19biden-amlo-immigration-add1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote"
     excerpt: "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ..."
     publishedDateTime: 2021-03-15T18:50:00Z

@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Putin points finger at US after Biden's 'killer' remark"
+    excerpt: "Russian President Vladimir Putin says that U.S. President Joe Biden’s remarks about him reflect the United States' own past and current problems Russia cracks down on Putin’s opposition MOSCOW ..."
+    publishedDateTime: 2021-03-18T12:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/russia-warns-scale-response-bidens-statement-76530030"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/russia-warns-scale-response-bidens-statement-76530030"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/russia-warns-scale-response-bidens-statement-76530030"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_91967fa26edc4c13be5abe16085a4238_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kremlin says Biden's Putin comment shows he has no interest in mending ties"
     excerpt: "MOSCOW (Reuters) - The Kremlin said on Thursday that comments by U.S. President Joe Biden that he thought Vladimir Putin was a killer clearly showed that Biden had no interest in mending ties with Moscow and that Russia would now take that into account."
     publishedDateTime: 2021-03-18T10:54:00Z
@@ -126,6 +142,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555329844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0NN"
         width: 817
         height: 545
+        isCached: true
+  - title: "'Takes one to know one': Putin-Biden spat escalates after 'killer' accusation"
+    excerpt: "Officials in Moscow go on offensive after Biden said Russian president would pay price for election meddling Last modified on Thu 18 Mar 2021 11.30 EDT Vladimir Putin has told Joe Biden that “it takes one to know one”, as Kremlin officials promised ..."
+    publishedDateTime: 2021-03-18T14:30:00Z
+    webUrl: "https://www.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology?via=webuproar"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/f3fc03741c62d2842d184e856f13cbfd21d48a53/0_623_5616_3370/master/5616.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e36063787e10c524ed227a1f0bafae79"
+        width: 600
+        height: 360
         isCached: true
   - title: "Joe Biden administration will devote $650 million to help schools expand testing"
     excerpt: "During his prime time speech Thursday, President Joe Biden noted his announcement last week to vaccinate teachers and school officials by the end of March will help the majority of K-8 schools reopen within his first 100 days in office, or by the end of ..."
@@ -218,6 +250,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Putin cites ills in US society after Biden's killer remark"
+    excerpt: "Russian President Vladimir Putin has responded to U.S. President Joe Biden’s description of him as a killer by citing America's own past and current problems MOSCOW -- President Vladimir Putin ..."
+    publishedDateTime: 2021-03-18T15:11:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/russia-warns-scale-response-bidens-statement-76530029"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_91967fa26edc4c13be5abe16085a4238_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Russian rouble steadies after Biden comments cause sell-off"
     excerpt: "The rouble was flat against the dollar on Thursday, steadying after a sell-off in Russian assets triggered by U.S. President Joe Biden saying his Russian counterpart Vladimir Putin would pay for attempted election interference."
     publishedDateTime: 2021-03-18T07:11:00Z
@@ -241,6 +287,6 @@ related:
       domain: reuters.com
     quality: 104
 
-secured: "uZDApFRcSgf+c+wpq5x4qQOiff2Bbjy4RvKdj+EV+aUNRogWZXnGUynF78o1sic6tSJQ2mztPOU1lOW4ENp7PDL0d/m9YPbttkBXgBbO5qRNZHFRGZiRh7peC0auUfJgxd1+Lhf3Rh7JHAnMCM/uXSNrTTxp2S6irzxS0pLvxRe/3gJrdGgeTThKSfLC5c5/DvMorOlqdQ2BHx8hwDdoRMkRtnGmtMf/eqO9eyXgF2MA9N652SzTqiifdlbUyPN8l7B1IZTSUoZbB53iyXyknYsx/1n8WC2AkX7uVYqgR/9EnXWtBmjDFTFCOy9fGzHaRZEj1J6tIhujLTL+ngdfGXmxSZRR1IxPPEHJVdAJxsI=;kmTj8u7wZHv+peUR9U4mGw=="
+secured: "3VInEeO5m6z3QbTlY7ro9En56Mn2iNRfJAgGSthzHV21p7sPJTEJjljnCrnyDhLhX2LjeX+hcBDhJZawWxW3O3dNWQf//5/bUsI8rGW8JZKr3RGHlKw0ABWQ4rTGr2SlzQeHrPWlEbECm0JyGRbp9bkA5FA3QJSInK4DTH94DY10p0HEVP1ppWxqkiIj3A0BIqfQx0oiKiubnknyVK1OI5s/6Niuu3ijX2ipg8gZBHNg0vR6TAtV9whujt6R4U3Z3reHhxoTzTu7GIqTwr+XYkZUypZqn9htdlHbwUvUhfzYagaGTu1jCbxQK0NOTqHvnf9ymQ7uUcn0TaioqXWSo3cUAHKtoKU7gh7+JyTst1JX53L+wTW7Egow8CqsGyEaZj4Af3nlVLWY+qUpdPBYa/rRs/WanXanQSR7yjTAuWFVM0CaLJRQidC/ZVO4rclCx1pg5uypF4DFvAJZG0eQXfdn8cw4j0PJMS/LRMy+GUB/Cr3ka9qk5vLcHz71lWWpBFL2KzhOIQFNuSkuPcWkWA==;1xviHcUxgLY7glTlTQDkpw=="
 ---
 

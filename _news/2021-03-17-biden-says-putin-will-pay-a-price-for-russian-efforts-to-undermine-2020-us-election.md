@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html"
 type: article
 quality: 183
-heat: 483
+heat: 503
 published: true
 
 provider:
@@ -270,6 +270,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-biden/17atlanta-shooting-briefing-biden-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Putin says Biden's 'killer' jab reflects U.S. history as Russia recalls ambassador"
+    excerpt: "Moscow responded angrily Thursday after President Joe Biden labeled Russian leader Vladimir Putin a \"killer\" and said he would “pay a price” for 2020 election interference. Russia recalled its ambassador to the United States on Wednesday for ..."
+    publishedDateTime: 2021-03-18T16:12:00Z
+    webUrl: "https://www.nbcnews.com/news/world/russia-recalls-its-ambassador-u-s-after-biden-brands-putin-n1261379"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 109
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_11/3457719/210318-vladimir-putin-mc-1252_3af4488ea8587f5f1a042e5983bceebd.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3mQvG07pAT0+6MFpESHST19rzNj+Ew/gTzljW1xkFzw6ej3XsCtcqsOl1krTOBghWGb58+pPx2q5nmGkFQABKPW5BybLWIBf5ETct5aVkwiI9l+dOT1hnxdvc6Js4WMB1Gu/KSE87D2qFIBF361M76Jjjf0HttHqyQic6HN/5kC8FztX7QH0rka7fbhS1bKWpjeCiiK1Q5tTaSdTXiP1n7tValjRzcFtgnLaQB1SfcjiIv/TVE0dIkh5xITsSYotpIufjXGThmW5DhzM001jfUVSvHzQW0mVw8vQWPE2eTY3sR8OoAml+VbRYwVtcnkKiXVN36at400mQflnEBqVoOcAcIWymJNJbSFwGOZApSE=;JfPcsXMk0O/cAW64k+NdAg=="

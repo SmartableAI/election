@@ -27,6 +27,70 @@ images:
     isCached: true
 
 related:
+  - title: "What Andrew Cuomo and Kamala Harris said about vaccine skepticism"
+    excerpt: "Both indicated that they didn’t fully trust the Trump administration to oversee the process, as many Republicans point out now. But their comments are worth a close look."
+    publishedDateTime: 2021-03-18T16:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37AHSJTXWAI6XAIVTLK6TQBBC4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Jeanine Pirro Blasts Kamala Harris for Being Silent on Cuomo Accusations: 'Fraud,' 'Phony'"
+    excerpt: "\"Some supporter of women, huh? A woman paraded around as a champion of women, quick to believe all women unless it doesn't work to her political advantage,\" the Fox News host said in comments about the vice president."
+    publishedDateTime: 2021-03-14T14:55:00Z
+    webUrl: "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006"
+    ampWebUrl: "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1755647/jeanine-pirro-fox-news-andrew-cuomo.jpg"
+        width: 3500
+        height: 2355
+        isCached: true
+  - title: "Kamala Harris visits Las Vegas to tout COVID relief bill"
+    excerpt: "Vice President Kamala Harris visited with health care providers at UNLV and workers packing food boxes for those in need at the Culinary Academy of Las Vegas on Monday in the first of a series of stops throughout the country to tout the benefits of the $1 ..."
+    publishedDateTime: 2021-03-16T00:11:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_webHARRIS-VEGAS-MAR16-21_031521kc_001.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
+    excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
+    publishedDateTime: 2021-03-14T15:43:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 69
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1841615727690/2021/1/beb597aa620d51fb657376388a969933/v1.5/Kamala-Harris-tells-kids-at-Choice-Awards-You-make-us-and-your-country-so-proud.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
     excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
     publishedDateTime: 2021-03-13T10:00:00Z
@@ -42,6 +106,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
+    excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"
+    publishedDateTime: 2021-03-17T15:50:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/Vice-President-Kamala-Harris-hosts-Michel-Martin-Prime-Minister-of-Ireland/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/VICE-PRESIDENT-HARRIS.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "karFVoTlL008dRSkJPX0+9MUG4oUuuR/q/9byJqjBla9QVAmcKCPILsso160oJiqBIwkoonvSt7LbLm8hZvsA7dIkp3NxAk3IFLH4nKCUaq0yJX/rldVY2itZE0GkeGBS/o6DMGOw8ReiQy6BZ0EHzsR5SaxBVrqWN++ZlIakYIKg03JGai+MdQBxSxqUnbkTHM2dspjnm0NLGq0JHRQvpm6vBzc9v7lLF2VHJivB/XcR4Rbi2f4LiyPnZonbl+RA4Cls5GZG6/JURLCmPHJLSV50R5h1nwesw3OkrjTTPQIuh3oguOrSbPZcsZyZXkFqtK61IZNW3+F8VfPQThvihfkjYgyJar563O6cNTaP90EIPpgxz22iHWrQy5kN1WBxQXjwN+JSf1zIpXjpbnFyjwdwiG3PTxwXLdW0UDWLkMuJ3+cYX7LL/A04FteX5ot3kshohji4HRnzoJSDrkHbiJjODEQEvxN8RM1nE4ESzJdgMLjBCC/U9jfMFQycOqX/hn2hmrsAOhD+H3GvEyYrg==;+344+QSb005mr6zVZ1Z0NQ=="

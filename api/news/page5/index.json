@@ -2,62 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-03-14-levin-biden-white-house-using-huge-propaganda-effort-to-push-tyrannical-agenda-claim-vaccine-credit.md",
-      "title": "Levin: Biden White House using 'huge propaganda effort' to push 'tyrannical agenda,' claim vaccine credit",
-      "excerpt": "The Biden administration is in \"a mad rush\" to institute a \"radical, tyrannical agenda\" as quickly as possible with minimal scrutiny, \"Life, Liberty & Levin\" host Mark Levin argued Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjcavFYC0Tc/mark-levin-biden-white-house-propaganda-campaign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjcavFYC0Tc/mark-levin-biden-white-house-propaganda-campaign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3c5b849-d650-48b2-9a7c-0c5540d5eccc/b4f75905-f0b6-4447-9b85-b378fba51502/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mark-levin-biden-white-house-propaganda-campaign.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-levin-biden-white-house-propaganda-campaign.amp",
-      "publishedDateTime": "2021-03-14T04:30:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-14-chaos-under-heaven-review-trump-as-raging-bull-in-a-china-policy-shop.md",
       "title": "Chaos Under Heaven review: Trump as raging bull in a China policy shop",
       "excerpt": "Before Covid upended everything, the US president upended relations with Beijing – without interest or ability to build anew",
@@ -66,7 +10,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -474,49 +418,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-13-the-first-second-gentleman-doug-emhoff-husband-of-kamala-harris-breaks-new-ground.md",
-      "title": "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground",
-      "excerpt": "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/news/politics-government/article249862338.html",
-      "originalUrl": "https://www.sacbee.com/news/politics-government/article249862338.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.sacbee.com/news/politics-government/article249862338.html",
-      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249862338.html",
-      "publishedDateTime": "2021-03-13T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-03-13-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off-stage-report.md",
       "title": "Trump rally organizer claims Alex Jones threatened to throw her off stage: report",
       "excerpt": "Women for America First had been planning an event to support then-President Trump Donald Trump The Memo: Nation rallies for Biden on his COVID-19 response Maryland GOP governor applauds Biden ...",
@@ -802,7 +703,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 695,
+      "heat": 715,
       "tags": null,
       "images": [
         {
@@ -1331,6 +1232,118 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-oliver-north-i-dont-think-biden-has-military-service-members-collective-back.md",
+      "title": "Oliver North: 'I don't think' Biden has military service members' collective back",
+      "excerpt": "Defense Secretary Lloyd Austin's stated ambition to drive domestic terrorists and extremists out of the military amounts to a \"witch hunt,\" former Marine Lt. Col. Oliver North told \"Tucker Carlson Tonight\" Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s5AALGE7FZg/oliver-north-biden-lloyd-austin-military",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s5AALGE7FZg/oliver-north-biden-lloyd-austin-military",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a538c523-198f-4598-9ac9-408a1a25956b/c74e1063-dbb2-4cd1-9dbb-899b7c95628a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/oliver-north-biden-lloyd-austin-military.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oliver-north-biden-lloyd-austin-military.amp",
+      "publishedDateTime": "2021-03-11T19:38:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-biden-fills-his-primetime-remarks-on-covid-19-with-jabs-at-trump.md",
+      "title": "Biden fills his primetime remarks on COVID-19 with jabs at Trump",
+      "excerpt": "In his first primetime address to the nation Thursday night, President Biden lobbed barely-conceal criticism at Donald Trump for his handling of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8382acb7-c09b-4e8e-a27d-19150c65075b/3cfe5695-e576-41ec-bf4b-ab25d5900187/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
+      "publishedDateTime": "2021-03-11T18:49:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

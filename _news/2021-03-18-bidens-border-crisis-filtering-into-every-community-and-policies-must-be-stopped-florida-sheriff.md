@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'"
+    excerpt: "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. "
+    publishedDateTime: 2021-03-18T17:26:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden immigration policies have created 'disorder at the border,' GOP lawmakers say"
     excerpt: "House Minority Leader Kevin McCarthy, R-Calif., and other GOP lawmakers called on President Biden to admit fault and work to reverse changes to immigration policies that they said have caused a dangerous surge in migrants at the southern border."
     publishedDateTime: 2021-03-15T19:44:25Z
@@ -156,6 +172,22 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden admin allowed majority of migrant families who surrendered at border to enter US despite health order"
+    excerpt: "In February, U.S. Customs and Border Protection (CPB) allowed the majority of the migrant families it encountered on the U.S. southwestern border to stay in the country pending a decision on whether they will be allowed to stay permanently. "
+    publishedDateTime: 2021-03-18T17:21:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-p3906S9zsY/biden-border-crisis-migrants-health-order"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

@@ -272,6 +272,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Putin says Biden's 'killer' jab reflects U.S. history as Russia recalls ambassador"
+    excerpt: "Moscow responded angrily Thursday after President Joe Biden labeled Russian leader Vladimir Putin a \"killer\" and said he would “pay a price” for 2020 election interference. Russia recalled its ambassador to the United States on Wednesday for ..."
+    publishedDateTime: 2021-03-18T16:12:00Z
+    webUrl: "https://www.nbcnews.com/news/world/russia-recalls-its-ambassador-u-s-after-biden-brands-putin-n1261379"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 109
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_11/3457719/210318-vladimir-putin-mc-1252_3af4488ea8587f5f1a042e5983bceebd.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QvUhIOBPZxMjc8nBe6fQQ1Ij2vaCuZbDmJkr72nrqhTAIwwlqGLidLKZMp35Zk0o62rUvVNQsIkBSvwbTZSVpcZ0WSjSqpeOz6FbXKFHH0rW0wjwBmtSK7+DYyV3s/KOf4Mz/kWd7OJNvDegOXU3S9s4M0IllviklP78K4IH3viH91ecI/Zx4V895cpTqm45F2RtjiAMZ3rLRj8a7nAkqINRHoYj0wPQrjwmSzGEfwc9jSIahBUty2dGvZePJ1qkW2t9klYlbBMbZB2LlXl4Zu6GYCgLKgaS4p87n6gBqPFCSvEte8iKeT2JVFGkH2VGKJE6Ple0SGowYKvgkEbuYpJiGIFnFiLavVFnl9ZcpEqLEeN6N07vgq6RSJPJld4RrdhlcvpLMJg6p3SmxRCUiDO6iO0KSzIlrTacQIVCGqdoOb6kf+zBZQLZIoiTeKZkNxqSsWqIU92j/8O8Xi2lncX57d8IpS2L+9TF5OkzFq5QzEUZmj+xx2I4SgEVXmEe+cP8HkgUbYIH8crOds970w==;sMwZ+JcAkFQdIKIAz1NE/g=="
 ---

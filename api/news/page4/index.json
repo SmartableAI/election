@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-16-undocumented-immigrants-see-light-of-hope-in-biden-relief-plan-which-gives-aid-to-their-us-born-children.md",
+      "title": "Undocumented immigrants see 'light of hope' in Biden relief plan which gives aid to their U.S.-born children",
+      "excerpt": "Undocumented workers were mostly left out of past COVID relief. Biden's $1.9 trillion plan would open that door through payments to their children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/11/PNJM/56b66752-bcca-4b40-b322-99f5b37ab7d2-jl_MORENO_FAMILY_31121_01.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4709977001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4709977001",
+      "publishedDateTime": "2021-03-15T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-top-senate-democrat-sees-little-chance-of-passing-biden-plan-for-pathway-to-citizenship-for-millions-of-undocumented-immigrants.md",
       "title": "Top Senate Democrat sees little chance of passing Biden plan for pathway to citizenship for millions of undocumented immigrants",
       "excerpt": "a key pillar of President Joe Biden's immigration plan. \"I don't see a means for reaching that,\" Durbin, the Senate majority whip, told CNN when asked about the pathway to citizenship. \"I want it. I think we are much more likely to deal with discreet ...",
@@ -976,49 +1028,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-14-kamala-harris-tells-kids-at-choice-awards-you-make-us-and-your-country-so-proud.md",
-      "title": "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'",
-      "excerpt": "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
-      "originalUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/1841615727690/2021/1/beb597aa620d51fb657376388a969933/v1.5/Kamala-Harris-tells-kids-at-Choice-Awards-You-make-us-and-your-country-so-proud.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
-      "publishedDateTime": "2021-03-14T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-03-14-fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters.md",
       "title": "Fauci: 'It makes absolutely no sense' for vaccine hesitancy among Trump voters",
       "excerpt": "WATCH: Dr. Fauci tells #MTP that \"it makes absolutely no sense\" for vaccine-hesitancy among Trump voters. Fauci: \"What is the problem here? This is a vaccine that is going to be life saving for millions of people.",
@@ -1073,58 +1082,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-jeanine-pirro-blasts-kamala-harris-for-being-silent-on-cuomo-accusations-fraud-phony.md",
-      "title": "Jeanine Pirro Blasts Kamala Harris for Being Silent on Cuomo Accusations: 'Fraud,' 'Phony'",
-      "excerpt": "\"Some supporter of women, huh? A woman paraded around as a champion of women, quick to believe all women unless it doesn't work to her political advantage,\" the Fox News host said in comments about the vice president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006",
-      "originalUrl": "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1755647/jeanine-pirro-fox-news-andrew-cuomo.jpg",
-          "width": 3500,
-          "height": 2355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006?amp=1",
-      "publishedDateTime": "2021-03-14T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -1305,7 +1262,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -1322,6 +1279,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/sen-cassidy-biden-policies-border-surge.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cassidy-biden-policies-border-surge.amp",
       "publishedDateTime": "2021-03-14T06:58:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-levin-biden-white-house-using-huge-propaganda-effort-to-push-tyrannical-agenda-claim-vaccine-credit.md",
+      "title": "Levin: Biden White House using 'huge propaganda effort' to push 'tyrannical agenda,' claim vaccine credit",
+      "excerpt": "The Biden administration is in \"a mad rush\" to institute a \"radical, tyrannical agenda\" as quickly as possible with minimal scrutiny, \"Life, Liberty & Levin\" host Mark Levin argued Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjcavFYC0Tc/mark-levin-biden-white-house-propaganda-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjcavFYC0Tc/mark-levin-biden-white-house-propaganda-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3c5b849-d650-48b2-9a7c-0c5540d5eccc/b4f75905-f0b6-4447-9b85-b378fba51502/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mark-levin-biden-white-house-propaganda-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-levin-biden-white-house-propaganda-campaign.amp",
+      "publishedDateTime": "2021-03-14T04:30:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

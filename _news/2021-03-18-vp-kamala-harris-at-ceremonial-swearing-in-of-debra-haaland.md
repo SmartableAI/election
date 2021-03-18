@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris at Ceremonial Swearing in of Debra Haaland"
 excerpt: "US Vice President Kamala Harris (R) participates in ceremonial swearing in of Debra Haaland (3-L), with her daughter Somah Haaland and family members, as Secretary of the Interior in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington,"
 publishedDateTime: 2021-03-18T15:28:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/06d8e4c5dffc0c9a6e5c7c08a74c0a6c/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/06d8e4c5dffc0c9a6e5c7c08a74c0a6c/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/6f7696275c7f901fe9b7c20fcfb1554e/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/6f7696275c7f901fe9b7c20fcfb1554e/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/06d8e4c5dffc0c9a6e5c7c08a74c0a6c/HARRIS-HAALAND.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/6f7696275c7f901fe9b7c20fcfb1554e/HARRIS-HAALAND.jpg"
     width: 650
     height: 433
     isCached: true
@@ -539,6 +539,20 @@ related:
         width: 650
         height: 434
         isCached: true
+  - title: "VP Kamala Harris Meets with LAbor Leaders in the Ceremonial Office"
+    excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice ..."
+    publishedDateTime: 2021-03-18T16:06:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6eb918329e5d9b8efe87aacb4d7ca26e/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6eb918329e5d9b8efe87aacb4d7ca26e/HARRIS-HISTORY-MONTH.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
     publishedDateTime: 2021-03-18T13:09:00Z
@@ -587,6 +601,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "3KgBt08LNxW7joBbRbLxw1zVAf0s+uk+DDD/FFrys2KdKlGvZks5dlZ8nalH65iw9VivomuO9eDfovMYGZ4DvBAoLD67sXam0VByPEU3CIwz8D6psDd6imCUNlkWGh/ykwAnZx20jdzExkOxIZgc6ksq7Ui0fXzm14HsPxRrHAdBBOXpqzhXVnmPMYTx2r8pc+yiwr8XMa6bpjEV5y1wOa4RmXjHmJDKL++iPgYl+zgk9NWMIkGRx+4pnsb6eJZRjhspKxg+cQme/jpKPZ2S22LX39ERyCri5m/MA2FBxKmV+U/bau2eUzzxAmuWrdVp74pPOS884EL3CWzyFD6LnSyobAuoy8MjUGN//GjD+x4=;1+mvPan8U2z/q8AQfpERPw=="
+secured: "I6dj8IT7x3h0fq40MJBlXVcVbggp5dpXSu7khuckKdSQ7bsgi1Py6rosaSt4DSytfihT9nFxc0Gr9qwdD9P0x0/J95fmeSimZpZPI46sRfgWd7C4EThpnhY60OSaNrXhpMCN7PLrCSZfyuzxrCBN4X4N13UMRZwzmJ11gLldlv1xcEUyzjFOJfyD84R+XK9wihrviVsXOG7LYZumFOW0TZznv19cDVYxC8+ELucVasZAiTHvRQ5eANTVrWYc1LW1VLXPebVwL3SkS44jT0c+l4dKDy2SoLlllcQQus6EJduasCBSqkrpTE6Lpwr64NBpZq0hTGXUnGtbniFsmmdwPDD4tlgRwcZR0kLyg3tsWTI=;dwvvar6YYp0RXGxv4WpG8w=="
 ---
 

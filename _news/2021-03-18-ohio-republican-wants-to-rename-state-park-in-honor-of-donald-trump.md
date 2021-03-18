@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Startups are racing to profit from a controversial Trump-era policy that lets big companies ditch their health plans"
+    excerpt: "One big employer expects to save $7.2 million by sending workers to buy their own health insurance with \"health reimbursement arrangements.\""
+    publishedDateTime: 2021-03-18T15:40:00Z
+    webUrl: "https://www.businessinsider.com/companies-are-giving-workers-money-to-buy-health-coverage-hra-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/5fb659bc50e71a00115561ff?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "European Stocks Gain As Recovery Hopes Trump Inflation Fear"
     excerpt: "Optimism over an economic recovery helped push European stock markets higher Tuesday, while early trading was subdued in New York with the focus on the Federal Reserve's much-anticipated policy meeting this week."
     publishedDateTime: 2021-03-16T14:59:00Z

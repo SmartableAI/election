@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Startups are racing to profit from a controversial Trump-era policy that lets big companies ditch their health plans"
+    excerpt: "One big employer expects to save $7.2 million by sending workers to buy their own health insurance with \"health reimbursement arrangements.\""
+    publishedDateTime: 2021-03-18T15:40:00Z
+    webUrl: "https://www.businessinsider.com/companies-are-giving-workers-money-to-buy-health-coverage-hra-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/5fb659bc50e71a00115561ff?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "yRmfZlwqd6B/JtNbE9+9eeUs7QJRz8qQHwswUkLlu8FdkDPevc9mxyB4lH328FvGq1BaA58cXyu31ICzruv/DFHYQ/z/E2G96htdhMGwSsUYq/Hr+GjrMoIFcUnVnn3CeHFBdafdyINHkX4ueXzr25ZVEZ72w7h1GiJK8exYgSi5KJDAQowsoDfH5LYy9Re6HW8DZwpFYt5YjWaCjXrYU2AU5VkeOVDiQpojzziR08Ys0R/GyQ2wXVXBVWYRR+XI2NGxzj3cM2ktjdhSAyfaPmUfV/8Nb1kkmM2zh/1WmXVsAPx7CwLXvksvYPuT/T868iHKh8TQz7hGXbdVPVRIYsFQ+PVXbnFxzb5ATBfhTiA=;r9LtrNf1isHEnA37lr7zSQ=="
 ---

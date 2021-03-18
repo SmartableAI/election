@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-18-biden-orders-flags-to-be-flown-at-half-staff-in-honor-of-atlanta-shooting-victims.md",
+      "title": "Biden orders flags to be flown at half-staff in honor of Atlanta shooting victims",
+      "excerpt": "President Joe Biden has ordered the American flags at the White House and on other federal ground be flown at half-staff as \"a mark of respect for the victims of the senseless acts of violence\" in Atlanta this week.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Yde7DV27dY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Yde7DV27dY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210318130453-white-house-flag-half-staff-0318-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html",
+      "publishedDateTime": "2021-03-18T10:30:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-house-democrats-weigh-ejecting-gop-winner-of-contested-iowa-race-dismissing-comparisons-to-trumps-efforts-to-overturn-election.md",
       "title": "House Democrats weigh ejecting GOP winner of contested Iowa race, dismissing comparisons to Trump's efforts to overturn election",
       "excerpt": "House Democrats are undeterred by the mounting GOP criticism over their review of a contested congressional race that could potentially overturn a state-certified Republican victory in southeast Iowa, brushing back attacks that they are seeking to subvert the will of voters just months after lambasting",
@@ -352,7 +408,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 483,
+      "heat": 503,
       "tags": null,
       "images": [
         {
@@ -1309,7 +1365,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 695,
+      "heat": 715,
       "tags": null,
       "images": [
         {
@@ -1606,62 +1662,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html",
       "publishedDateTime": "2021-03-10T16:49:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-senior-biden-administration-officials-to-meet-with-chinese-counterparts-next-week-in-alaska.md",
-      "title": "Senior Biden administration officials to meet with Chinese counterparts next week in Alaska",
-      "excerpt": "Two top Biden administration officials will meet with their Chinese counterparts next week in what will be the first meeting of officials from both countries since President Joe Biden took office in January.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eaqb7SY47uQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eaqb7SY47uQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210127095832-01-blinken-0127-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/10/politics/us-china-alaska-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/us-china-alaska-meeting/index.html",
-      "publishedDateTime": "2021-03-10T10:07:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -27,36 +27,76 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
-    excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
-    publishedDateTime: 2021-03-14T15:43:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
+  - title: "Texas man found with assault-style rifle near Vice President Kamala Harris' DC home"
+    excerpt: "A San Antonio man has been arrested after being found with an assault-style rifle and high-capacity magazine near the official residence of Vice President Kamala Harris. Paul Michael Murray, 31, who has also had an address in the College Station area,"
+    publishedDateTime: 2021-03-18T17:00:00Z
+    webUrl: "https://www.houstonchronicle.com/news/houston-texas/texas/article/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/houston-texas/texas/amp/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/texas/amp/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 69
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 119
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1841615727690/2021/1/beb597aa620d51fb657376388a969933/v1.5/Kamala-Harris-tells-kids-at-Choice-Awards-You-make-us-and-your-country-so-proud.jpg"
-        width: 800
-        height: 532
+      - url: "https://s.hdnux.com/photos/01/13/42/10/19800610/5/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
-    excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"
-    publishedDateTime: 2021-03-17T15:50:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/Vice-President-Kamala-Harris-hosts-Michel-Martin-Prime-Minister-of-Ireland/"
+  - title: "Mitch McConnell Swipes at Kamala Harris' Senate Role If Filibuster Ends in WSJ Op-Ed"
+    excerpt: "Senate Minority Leader Mitch McConnell of Kentucky took a jab at Vice President Kamala Harris's role in the Senate if the filibuster were to end, in an op-ed published in the Wall Street Journal on Wednesday. In the op-ed, titled \"The Scorched Earth Senate ..."
+    publishedDateTime: 2021-03-18T16:19:00Z
+    webUrl: "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105"
+    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 52
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
     images:
-      - url: "https://cdnph.upi.com/pv/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/VICE-PRESIDENT-HARRIS.jpg"
-        width: 650
-        height: 433
+      - url: "https://d.newsweek.com/en/full/1758570/senate-minority-leader-mitch-mcconnell-r-ky-talks.jpg"
+        width: 2500
+        height: 1667
         isCached: true
+  - title: "Kamala Harris Tells Asian American Community 'We Stand With You' After Georgia Shootings"
+    excerpt: "Vice President Kamala Harris expressed solidarity with the Asian American community after multiple shootings in Georgia on Tuesday left eight people dead, including six Asian women. Harris, the first South Asian, Black and female vice president ..."
+    publishedDateTime: 2021-03-17T17:04:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1758158/harris-speaks-atlanta-shootings.jpg"
+        width: 2500
+        height: 1675
+        isCached: true
+  - title: "Uber paid CLO Tony West, Kamala Harris' brother-in-law, $12.3 mln for 2020"
+    excerpt: "Uber Technologies Inc chief legal officer Tony West's total compensation for 2020 neared $12.3 million, mostly in the form of stock awards, the ride-hailing company has disclosed."
+    publishedDateTime: 2021-03-16T18:06:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-compensation-uber-idUSL1N2LE243"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LE243"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE243"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+  - title: "Kamala Harris visits vegan taco shop in Las Vegas"
+    excerpt: "U.S. Vice President Kamala Harris made an unscheduled stop at a vegan taco stand in Las Vegas, Nevada on Monday."
+    publishedDateTime: 2021-03-16T13:26:00Z
+    webUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.html"
+    ampWebUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
 
 secured: "ZMZ7QngSQ5ns8xEcvteGAx7BGGdd+yNEBM4z1x75DUprWO6uKkvW3LxELQsXdfd2PkBtttid2GbTAX31mSXWS7bJion+YprxE/dBMbwVCWHkQM8yhEdHOVqXrWC57R3wBX3MHR6OtCJxzwOjzPTO6gK5Xd+f3jr4rY7kf8Y50g33xDoANqRYk1gyjiXM3MfDnu9jHmcigab6tWhltn10acWIdsRlfm5398kLcWxBoCTxM2cvXry+iHJvGabpQ33uwR6ftd1wqe4BuSGibgqKob3+38CCuq0S7LAFepuq6LvapEGrIJY8d+VqaNZ89yKdJvU7PP9xWh4TEvtGg2YjzUy9cUDc5Di2tACKVH7pr/9o0u0weiSFm+PHfgTNJqanmkZxnA+gHx+C7vbR2LmNDi4Cc8qYyCPSIEzeAFG5Hnl+kJi+cKBK+g3BJrt8tCfavYsqsWarSX8lUxiXrt8viz8NDUwx/aSxwbXoGMry0vIR8Cci8KV37hz4J38LHQBUEWBYgfXzNdpMSjDzxXndLA==;5KKdCc/EAyHfqx3Qb9F/fg=="
 ---
