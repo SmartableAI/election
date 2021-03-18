@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Several U.S. states sue Biden administration for revoking permit for Keystone XL pipeline"
-excerpt: "(Reuters) - Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday. The lawsuit ..."
-publishedDateTime: 2021-03-18T00:27:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-keystone-lawsuit-idUSKBN2BA04S"
-webUrl: "https://www.reuters.com/article/us-usa-keystone-lawsuit-idUSKBN2BA04S"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA04S"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA04S"
+excerpt: "Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday."
+publishedDateTime: 2021-03-18T09:10:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-keystone-lawsuit-idUKKBN2BA04S"
+webUrl: "https://www.reuters.com/article/us-usa-keystone-lawsuit-idUKKBN2BA04S"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BA04S"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BA04S"
 type: article
 quality: 116
 heat: 116
@@ -25,11 +25,11 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555283716&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H02R"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555316907&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H02R"
     width: 817
     height: 545
     isCached: true
 
-secured: "q3YO0rvz59d0LlM2LUvbfuPV3RMOgBRTuGEVMO2dg9nt5rZoocaeOmo0YwMM7ups9lbgsW0fwSSn3uVBfP9Cqnie3/73C6Jaj+tSOnNFva7mat1+bPTO2mc2P71Y5qLE+BS6bO176NjQhj2vWURLZnb1pGqYz45GmoLLIJXuqyRw4uubU2d49kWV9hTZcprlnB1eCaDeHH/OlJwPCU5smq97chfnsGMjVGigoeNBQu8j+qVTyFgGz1hPdHPjBvgqPzsIl7LUSxBCopKsAUWF448Dq/RUMsnexp/ClLGUQyyI7QP6JJhrOIrgM7MKqzpexwdxloQvBTs9gb0EHksiqykgus28cc3DYe4/0u07OqI=;rLHbF6ZlnIuGEMyzSsfafQ=="
+secured: "3FctdtsNSjPgleWobl9xT/3fHprCjni7KkjwX9xn35rpwWZnzXtmkuntcJ4bYSuvUJ48f2UlgQS1zqu+h/a55sIxURG7grLZs12BqRZo6NCGDSTu+8au5l16lQjF2g4FSWIxvBnejan0m9KyuvYs0sq7V4nLq3Gc+5YniFZeq3YrSnX+g6cUtKzMi+z5VcxSU5Q8HUkJyZgec696XNl0tOABbU6OEGA7XSrKBUWtL9kp2GmEwDKxP5NeAAEI1rCtLp6ECf5/FbAlyZJxxV8WRYBusceKs2Phc1BikGkIXpMFSmyWTiIeW8AO5PRfH+3NJyrYDXJPGlnwI0mjnsRRTHupxrJUzShw+Gv5Ktfj3nY=;Nx+g4j64nYYLsOYcmQk/cA=="
 ---
 

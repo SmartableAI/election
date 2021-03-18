@@ -95,6 +95,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "House GOP holdouts muddle Trump vaccine message"
+    excerpt: "Former President Trump this week took the remarkable step of encouraging everyone in the country — even his reluctant followers — to get a COVID-19 vaccine. But the message has been slow to reach House Republicans."
+    publishedDateTime: 2021-03-18T11:00:00Z
+    webUrl: "https://thehill.com/homenews/house/543732-house-gop-holdouts-muddle-trump-vaccine-message"
+    ampWebUrl: "https://thehill.com/homenews/house/543732-house-gop-holdouts-muddle-trump-vaccine-message?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543732-house-gop-holdouts-muddle-trump-vaccine-message?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_burchetttim_031721getty-gn_split_vaccines.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "White House would 'support' Trump vaccine effort"
     excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"
     publishedDateTime: 2021-03-16T00:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-j
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ohio Republican Wants to Rename State Park in Honor of Donald Trump"
+    excerpt: "A bill introduced to the U.S. House of Representatives would prevent Trump's name being added to any federal properties."
+    publishedDateTime: 2021-03-18T10:08:00Z
+    webUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015"
+    ampWebUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1758394/former-president-donald-trump-cpac.jpg"
+        width: 3000
+        height: 2031
+        isCached: true
   - title: "GOP Polling Firm Finds Just 15 Percent of Republican Hold Anti-Trump Views"
     excerpt: "Although a vocal faction of Republican lawmakers hope to end former President Donald Trump's hold over the GOP, new polling shows that they represent just a slim minority of their party's voters. Meanwhile, the survey divided respondents into four ..."
     publishedDateTime: 2021-03-14T15:20:00Z

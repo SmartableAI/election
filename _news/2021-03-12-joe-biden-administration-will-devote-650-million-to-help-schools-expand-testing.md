@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kremlin says Biden's Putin comment shows he has no interest in mending ties"
+    excerpt: "MOSCOW (Reuters) - The Kremlin said on Thursday that comments by U.S. President Joe Biden that he thought Vladimir Putin was a killer clearly showed that Biden had no interest in mending ties with Moscow and that Russia would now take that into account."
+    publishedDateTime: 2021-03-18T10:54:00Z
+    webUrl: "https://www.reuters.com/article/us-russia-usa-kremlin-idUSKBN2BA166"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA166"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA166"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555329844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0NN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
     excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"
     publishedDateTime: 2021-03-14T00:35:00Z

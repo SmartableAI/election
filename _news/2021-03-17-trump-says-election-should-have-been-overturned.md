@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/543544-trump-says-electi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp"
 type: article
 quality: 140
-heat: 300
+heat: 320
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/11/50adae92-3f78-41b8-8460-21b3cfa69070/thumbnail/1200x630g2/1686752ca2c27ade8ae82c9d9804d9ee/gettyimages-1229866325.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "House GOP holdouts muddle Trump vaccine message"
+    excerpt: "Former President Trump this week took the remarkable step of encouraging everyone in the country — even his reluctant followers — to get a COVID-19 vaccine. But the message has been slow to reach House Republicans."
+    publishedDateTime: 2021-03-18T11:00:00Z
+    webUrl: "https://thehill.com/homenews/house/543732-house-gop-holdouts-muddle-trump-vaccine-message"
+    ampWebUrl: "https://thehill.com/homenews/house/543732-house-gop-holdouts-muddle-trump-vaccine-message?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543732-house-gop-holdouts-muddle-trump-vaccine-message?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_burchetttim_031721getty-gn_split_vaccines.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "White House would 'support' Trump vaccine effort"
     excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/stimulus-temporary-tax-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/stimulus-temporary-tax-cut/index.html"
 type: article
 quality: 183
-heat: 563
+heat: 583
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308160143-children-border-patrol-210225-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
+    excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
+    publishedDateTime: 2021-03-18T11:33:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_u-4hM36qk0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318071556-02-mo-brooks-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

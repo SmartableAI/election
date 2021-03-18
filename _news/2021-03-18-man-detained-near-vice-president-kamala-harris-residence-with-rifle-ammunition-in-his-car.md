@@ -498,18 +498,18 @@ related:
         height: 630
         isCached: true
   - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
-    excerpt: "A St. Patrick's day gift from Ireland's Prime Minister Micheál Martin is seen in the Oval Office as U.S. President Joe Biden participates in a virtual bilateral meeting with Martin at the White House in Washington,"
+    excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-03-17T17:53:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/89cec93d6a5c447bccc8cc05726a8cc3/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e271c84d4847f577c9ff5a6c4a09d2dd/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/89cec93d6a5c447bccc8cc05726a8cc3/BIDEN-IRELAND.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/e271c84d4847f577c9ff5a6c4a09d2dd/VICE-PRESIDENT-HARRIS.jpg"
         width: 650
-        height: 432
+        height: 433
         isCached: true
   - title: "Vice President Kamala Harris Swears in EPA Administrator Regan"
     excerpt: "Michael Regan holds his hand up as he is sworn-in by United States Vice President Kamala Harris during a ceremonial swear-in as EPA Administrator in the Eisenhower Executive Office Building in Washington,"
@@ -562,6 +562,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "nIsjWSoJwSGJU5+RAUz73RaP3LzNiPIwDjekgiiB7ZBBmU1I886Ibh3RFBhoDM3QsWtLX9HIVr/DCP9+s1ZVH7UkcdpdpQTqKtRN8zrXCsFuYdK9kBAwM1naoXaPI9Yvvvi0iEhM+38JldmG9iET2V7W5rYBEpcmZDc0OI1aTBRY11PXE6zFq0DXRKA5upfwOf6F4Rft1RD/byWaSwmvbQO+Q95Q0iP2utu+e9ajFmz1PIAoAgoFDujcwR+FDUUKzHQGUvIIbG12u2OWGGGJReI7m6VIUku1wFp83NOsxVuEvzzLMeYrUxkew5ImMpEXJQqeAXBhARDbQl/4qjf37XAmAUJ8LD9AyfHulMI/5bM=;pjEOA8gZHiJ4omJVDMK94A=="
+secured: "8e8+VGWbuXZShZil8c+vH8Hdevxf2veStqE/9E1zeQhbGC69z8K644i8PvfOwUVQCHnt0rVwUBRvn6Vl09NQETbI3GJdOmhb0XmvTkU1eZYhWykMxf1d/wcjqpYjsHYqupaQBvl23wzcwBe+4rhTKYBfBNW6KPzwGekef4Tkqf7UEDbyQxOqIPE5vCfXcNlMDYA/+LdDKSF3AXKDfnDmE45IL0R0bm/Pxlnmsv6Ud/sdP+uqXp7Z3OBDIhBGkXIni1tSl70A49drxDSrzhRQ2geUEIAiY/UXxvjXtCdLQ91YLp65jjQAN0g4ANxUhmRGhYctZXIwwIlWY6wZuqcXmy8k/wzz9wM9Yp9QR1XaY3kreXMb3C7V+LtoCjSHbyfM/oh44PLmdggW16ZDlySkwYL/6MW3ajNxmYkTlZ3p00N349ITIu8BkzzmtAw4pbOv8zvC5564vUyZLMSs1gXpDhV4jnE1YkyCwWl9vBEfC1aDjnsaBK8/ijAWGkru6iiIu2rWSxEHI4PjsTlVIQdzbA==;Dgzmtzy9fDC5PV6y8Q7vWA=="
 ---
 

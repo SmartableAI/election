@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "House GOP holdouts muddle Trump vaccine message"
+    excerpt: "Former President Trump this week took the remarkable step of encouraging everyone in the country — even his reluctant followers — to get a COVID-19 vaccine. But the message has been slow to reach House Republicans."
+    publishedDateTime: 2021-03-18T11:00:00Z
+    webUrl: "https://thehill.com/homenews/house/543732-house-gop-holdouts-muddle-trump-vaccine-message"
+    ampWebUrl: "https://thehill.com/homenews/house/543732-house-gop-holdouts-muddle-trump-vaccine-message?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543732-house-gop-holdouts-muddle-trump-vaccine-message?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_burchetttim_031721getty-gn_split_vaccines.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
     excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."
     publishedDateTime: 2021-03-11T21:27:00Z

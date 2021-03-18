@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Ohio Republican Wants to Rename State Park in Honor of Donald Trump"
+    excerpt: "A bill introduced to the U.S. House of Representatives would prevent Trump's name being added to any federal properties."
+    publishedDateTime: 2021-03-18T10:08:00Z
+    webUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015"
+    ampWebUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1758394/former-president-donald-trump-cpac.jpg"
+        width: 3000
+        height: 2031
+        isCached: true
   - title: "Donald Trump Spends His Days Gossiping, Golfing and Plotting Revenge on RINOs"
     excerpt: "The ex-president seems calm, friends say, but he's busy making plans to defeat \"disloyal\" Republicans in 2022."
     publishedDateTime: 2021-03-17T11:00:00Z

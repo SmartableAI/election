@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris Attends Virtual Douglass Event"
-excerpt: "A St. Patrick's day gift from Ireland's Prime Minister Micheál Martin is seen in the Oval Office as U.S. President Joe Biden participates in a virtual bilateral meeting with Martin at the White House in Washington,"
+excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
 publishedDateTime: 2021-03-17T17:53:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/89cec93d6a5c447bccc8cc05726a8cc3/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/89cec93d6a5c447bccc8cc05726a8cc3/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/e271c84d4847f577c9ff5a6c4a09d2dd/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/e271c84d4847f577c9ff5a6c4a09d2dd/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/89cec93d6a5c447bccc8cc05726a8cc3/BIDEN-IRELAND.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/e271c84d4847f577c9ff5a6c4a09d2dd/VICE-PRESIDENT-HARRIS.jpg"
     width: 650
-    height: 432
+    height: 433
     isCached: true
 
 related:
@@ -562,6 +562,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "rdxnLPHTU3BsQ0P8UIKm7PnMRyUlgD/TmYOrypJklP70aanChqLQ7ubakABIuv2pUeCrgQXH4Nt3MmA5Vv+YTTjT9+x/BzJT3dQ1dLY2yEZ0GAt8h74QTy6vuRuXscC/Wnrm+27cgNUi+uwFpcxwAqDUcHtp5rP4RKARQKAhLuEwhDfEteT1sIeXDIxYIhZzc6J8503eOM/E4O2ICNxJfmC3WOsuSXMTLYGSQYrNlz/N46hd3PD6S8gZDYnvRBCjNF9+NGlAwkRi22ZGrgZYgEu/bgGbuOd9Cgz84jS+w7yoTjuweZ+XjGAYsLtj5DbbhrEWOVWCOw9fF5U38F7/7wB+Ycr4VFjMEvRZLiasKks=;+afzrFKwnX2eYfdseIKIPQ=="
+secured: "yBb3qhY9Ll15jOckWISrS+SOvAUdwwC0Qmqhw603KA09DT6TdQQAmiXL6OYrPY6MQiQrjpxMXh64woaTUywyfl8rReIZ0KW7eoHAlebSDnIjtPYf2MBkl2JNE4z2u8RwJv0amDd7wuqJE4gOo6YIUdhaQSwQ7twy+nbTJIaT2RWE19VQRCf9mUTTNqBthHlPbu2E3rJBcXTyEbFqEv6yYU2PohOWpRlUb5Nb6P4VFGS/MTrjXyKYMKIUsrm7k3wflM5C64na2QTyhijYq+98Qwu+sM9D7GHnCfE985HlgNNIE8W7Iue3VQokCR9klsqK9opX+DZy6uJ6f4Zjkr/sdGkf59lDHLkfQltqyjgdKng=;z7C02jRY+PRt6M6pSLg2zQ=="
 ---
 
