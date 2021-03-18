@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'It's not a mystery': Sen. Kennedy tells 'Fox & Friends' how Biden border crisis can be stopped"
+    excerpt: "Forty GOP senators, including Sen. John Kennedy, R-La., wrote a letter to the U.S. Government Accountability Office to determine whether President Biden’s executive order unlawfully halted a fund of $1 billion voted on by Congress to construct the border wall."
+    publishedDateTime: 2021-03-18T15:48:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j5sEPOaie8/john-kennedy-biden-border-crisis-return-trump-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/john-kennedy-biden-border-crisis-return-trump-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kennedy-biden-border-crisis-return-trump-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa936991-88e4-4123-885e-ffe326593e34/430a6e2e-ee19-4c56-ac36-efb004635a29/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "VDiPxD++PT17jvJoa0ahfBjFBNWONmoba/Pfee1Z9+Aupb73+L3uM83EK217FvaJbetI4W0L3reCgeQ60XJpqSvAP5pdBSP7hiAVbP7f4NH+FCopmnr68gKlwReRDgd9R5zYViLGvtaj9JBlbms7oRZFuCi/I6IpBRhGbkOHAWkxaCalsG7gk09VmSrA7a7HT1cwk3Oz1piCNLJvaE587jR5CFeMUEHrOYGlSKJdiM9vSvAadn585dY84gLi/597Kjn5V/UdY9Nw2JzTVT/3Xgd5X7R8EGKVuB/286IoPP9NzFybsRTN6cZ306DOFBPoZgAY7ZxCXNO9HUXFEUFZRylC9VW7On2Nr/EFDVIb6OA=;3D+LjT0CMaTWbwkn0kRugw=="
 ---

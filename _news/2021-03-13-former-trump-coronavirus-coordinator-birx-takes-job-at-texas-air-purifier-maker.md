@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Daily 202: Trump gets tied to two forces targeting America: Russia, domestic extremism"
+    excerpt: "Welcome to The Daily 202 newsletter! Today, we look at the Biden administration's sharp criticism of Donald Trump's rhetoric. But don’t miss the latest on the former president's legal woes, and House action on immigration. Send me links to politics or ..."
+    publishedDateTime: 2021-03-18T15:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/18/daily-202-trump-gets-tied-two-forces-targeting-america-russia-domestic-extremism/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/18/daily-202-trump-gets-tied-two-forces-targeting-america-russia-domestic-extremism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/daily-202-trump-gets-tied-two-forces-targeting-america-russia-domestic-extremism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKFGUHUGUMI6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "881MXcf9ySzEd4ewQbFCROtDMtcVSkHVyxk2zwLqrVB3QFnSXYJudzgGYs1UW/PWzd0Ap/F26joo9F13NZTh9/lGFDvZhfR3R4lMMuFo+nTl8gD6Z1w58ris1ZXTjd45stdyH9c1Pss0QiirXYZb1TBlJ0oYOHGSanEPytI1jYr4QTALb1TFTM1UI2GU4qVthVHG4Te7+OA6+LV5OePWhLSrGzaGnUkcp2bVBDbG6xbWYBIMYsLM5ErKD2KQoqnMkCMS3L60oEzKoFFrb6+Se5nFfkAJzPBhpeySpC3tXuiv6SRWRipihlqbNK6Mu5Cr2mGBa5vnwKPmFy6BFpIGKHU/whINxpw38YfxvvO23dutzVXwT76rZPNfdRjeLWkgXIUMpFFezbcV/kHt4ltkWU/pL2HeI7/sMsEtFBo/OTZie773/YTJkOV55HguzKi+RoYr4bp2wNldZ2tRrdeVtd5NA6xYudqhms7DReTX8swd7wFFJm7LG5r5TcfBjJHlz4Uzu6xivqCFf7Z+zILC3g==;04Yf6m92KZbG1mA+RH6Zig=="
 ---

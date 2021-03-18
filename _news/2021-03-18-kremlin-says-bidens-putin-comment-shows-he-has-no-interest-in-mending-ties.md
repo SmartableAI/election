@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Putin wishes Biden 'good health' after killer accusation"
+    excerpt: "Diplomatic spat intensifies after Joe Biden said Russian president would pay price for election meddling Last modified on Thu 18 Mar 2021 09.13 EDT Vladmir Putin has wished Joe Biden “good health” as Kremlin officials lashed out at the “demented ..."
+    publishedDateTime: 2021-03-18T12:13:00Z
+    webUrl: "https://www.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology?fbclid=IwAR2p2axhusLyb7MLzwQB9BP5NCN0u0AXptTuNLKpJtapaSGzoq3fNMG8rpc"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/f3fc03741c62d2842d184e856f13cbfd21d48a53/0_623_5616_3370/master/5616.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e36063787e10c524ed227a1f0bafae79"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden administration will devote $650 million to help schools expand testing"
     excerpt: "During his prime time speech Thursday, President Joe Biden noted his announcement last week to vaccinate teachers and school officials by the end of March will help the majority of K-8 schools reopen within his first 100 days in office, or by the end of ..."
     publishedDateTime: 2021-03-12T01:58:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/68f4529d-061f-4f6f-9823-f71f884a0a64-Asian_boy.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Putin responds to Biden comment that he’s a killer: ‘I know you are, but what am I?’"
+    excerpt: "MOSCOW — Responding to President Biden’s comments that he thinks Russia’s president is a killer, Vladimir Putin suggested Thursday that the U.S. leader is projecting his own flaws and wished his American counterpart “good health.” Support our ..."
+    publishedDateTime: 2021-03-18T15:01:00Z
+    webUrl: "https://www.washingtonpost.com/world/europe/russia-putin-biden-response/2021/03/18/da5d2a36-87d9-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/europe/russia-putin-biden-response/2021/03/18/da5d2a36-87d9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/russia-putin-biden-response/2021/03/18/da5d2a36-87d9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IRQB6BEH4EI6XAV44WBBHSVDRY.jpg&w=1440"
+        width: 1440
+        height: 1200
         isCached: true
   - title: "Russia wants an apology from U.S. after Biden called Putin a killer, says Kremlin ally"
     excerpt: "Russia wants an apology from the United States after President Joe Biden said he thought Vladimir Putin was a killer and may retaliate against Washington unless it gets one, a senior Russian lawmaker said on Thursday."

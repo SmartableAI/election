@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-wall-freeze-unlawful-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "'It's not a mystery': Sen. Kennedy tells 'Fox & Friends' how Biden border crisis can be stopped"
+    excerpt: "Forty GOP senators, including Sen. John Kennedy, R-La., wrote a letter to the U.S. Government Accountability Office to determine whether President Biden’s executive order unlawfully halted a fund of $1 billion voted on by Congress to construct the border wall."
+    publishedDateTime: 2021-03-18T15:48:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j5sEPOaie8/john-kennedy-biden-border-crisis-return-trump-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/john-kennedy-biden-border-crisis-return-trump-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kennedy-biden-border-crisis-return-trump-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa936991-88e4-4123-885e-ffe326593e34/430a6e2e-ee19-4c56-ac36-efb004635a29/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Cruz, Cornyn to lead Senate delegation to border, as GOP ramps up pressure on Biden over border crisis"
     excerpt: "Texas Sens. Ted Cruz and John Cornyn will lead a Senate delegation to the border next week, as Republicans are ramping up the pressure on the Biden administration for what they say is a crisis fueled by the administration's own immigration policies."

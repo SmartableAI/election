@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-be
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
 type: article
 quality: 129
-heat: 889
+heat: 909
 published: true
 
 provider:
@@ -528,6 +528,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/b5f65e156d2ed8c6d86bdb0d368d6f0a/VICE-PRESIDENT-HARRIS.jpg"
         width: 650
         height: 434
+        isCached: true
+  - title: "VP Kamala Harris at Ceremonial Swearing in of Debra Haaland"
+    excerpt: "US Vice President Kamala Harris (R) participates in ceremonial swearing in of Debra Haaland (3-L), with her daughter Somah Haaland and family members, as Secretary of the Interior in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington,"
+    publishedDateTime: 2021-03-18T15:28:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/06d8e4c5dffc0c9a6e5c7c08a74c0a6c/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/06d8e4c5dffc0c9a6e5c7c08a74c0a6c/HARRIS-HAALAND.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."

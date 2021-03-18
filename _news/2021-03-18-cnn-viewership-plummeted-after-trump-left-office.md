@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-l
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/amp/"
 type: article
 quality: 135
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "MSNBC, CNN pundits rush to blame Trump, racism for Atlanta shootings"
+    excerpt: "MSNBC and CNN writers and pundits are continuing to blame anti-Asian racism and rhetoric by former President Donald Trump for the deadly Atlanta spa shootings, in spite of law enforcement indicating they do not believe the killer was not motivated by racial animus."
+    publishedDateTime: 2021-03-18T15:37:00Z
+    webUrl: "https://www.foxnews.com/media/msnbc-cnn-trump-racism-atlanta-shootings-knowing-shooters-motive"
+    ampWebUrl: "https://www.foxnews.com/media/msnbc-cnn-trump-racism-atlanta-shootings-knowing-shooters-motive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-cnn-trump-racism-atlanta-shootings-knowing-shooters-motive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bac9637a-a222-4ba9-a9f2-aff489c52155/2a589916-fe2e-4c13-9fab-6b765ba03c38/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "CNN hemorrhaging viewers since Trump left office, down nearly 50% in key measurables"
     excerpt: "CNN has been hemorrhaging viewers since former President Donald Trump left office, losing roughly half of its audience in key measurables since January following a brief post-Election Day spike."
     publishedDateTime: 2021-03-18T01:16:00Z
@@ -77,6 +93,6 @@ related:
         height: 842
         isCached: true
 
-secured: "CUe4+/UXD1H8u6mpkh1yKR/kVJXt8qfYxotRNDjRcosQCitt7Qeqjpwfs0KpjZQMaEh0R7CQn0PCZy1KODFoMAReP2trmUPY61L/ttBzNPk844wRtpIHFeRZ83MKTqfh0sUW8CRyroCPO0Ex5pDAXyuRF73df0Abxl6NjyCa+pr08c7puLScMnxa9Fw1RRMDj0tu9nyf7mx66D7xFmUuKQNoaYzTfMXHIdmjP689IeV4fCdYFRkF2Wc2yF1vnrfzb4O3Urakk2i6t5ZW6Ayw5rt29/LbxQLryg+DdV2g90yyM/cflINUB0yuEqW20I/GW+mRfU0GfEBB24f09QlnkyxIaU2gGczH54irY46xA50=;vrFXDwLTn4MBih8zcRz6XQ=="
+secured: "s89fAkkFAPmpILzyR0+wx3c8j6Vd+8JfRIsFnV1vwryyc03MlDJjfirJQT+nhNg3WKbuiI2WYqEHIcCCPQgOvNhzdAQ8+gLuvPnJ71W1czIY9OHnOv1OhwUkO0zC+8c60jdbTLI0/cTqCH7B690Me87s7hRuNFRIUKAkS297hOTW1wXy5J9rxz1LuiXPf0y1sGek7SqkmhUgGmrsOgISzTDzj3gIBAn6Gg0WR9N2PO9Wtt3otBnuSXj+BfdapHqxYHBwfBzixZ2TPY5j6fXojuhSe7HqjFELT6mdSLu/wPgb7r++57otsfY2WoHhQtaEC4CQf87aNyngqJxt4I+RMxC7lWuhcMVaGEArQSStRR1stTlUyiXhyx6F8bD+OgcN3z3ySu16IXiIiJcCeQ8NgyvF0jvghZCnVSdg7LmyxMXj5E0eRgZF9hiJV9x75hNU8mJndM4ohoMpzBZRSgaPkioAArFdRlHxZFwD6SmXf2oSauVnl2uRYm2bTDENbDFvBRrN90EgFDtEASSH4neKRA==;Rf3akrX/GK9EB94mr2oOxQ=="
 ---
 

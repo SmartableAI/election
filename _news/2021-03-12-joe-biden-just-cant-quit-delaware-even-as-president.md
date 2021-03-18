@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155403-05-white-house-covid-relief-event-0312-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden speech on Covid-19 vaccination progress comes at a critical juncture"
+    excerpt: "President Joe Biden on Thursday will address the progress his administration has made to reach his goal of getting 100 million coronavirus vaccines into the arms of Americans within his first 100 days in office, a White House official tells CNN.\n    \n"
+    publishedDateTime: 2021-03-18T15:31:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DLzs5MXGkd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/joe-biden-100-days-progress-coronavirus-vaccinations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/joe-biden-100-days-progress-coronavirus-vaccinations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317103228-01-biden-taxes-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

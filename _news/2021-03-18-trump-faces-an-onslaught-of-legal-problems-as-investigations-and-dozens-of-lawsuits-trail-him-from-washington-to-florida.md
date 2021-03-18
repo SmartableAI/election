@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Eric Trump floats turning family's Florida golf resort into casino: report"
-    excerpt: "Eric Trump, son of former President Trump and head of the Trump Organization, floated the idea of turning one of his family’s Florida golf courses into a casino, according to a Washington Post report"
-    publishedDateTime: 2021-03-17T20:37:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report?amp"
+  - title: "Power Up: Trump's legal exposure multiplies in New York and Washington"
+    excerpt: "This is the Power Up newsletter – thanks for waking up with us. FIRST IN POWER UP, TRUMP'S LEGAL EXPOSURE: Former president Donald Trump's tax records are being sifted through; those closest to him have been subpoenaed;"
+    publishedDateTime: 2021-03-18T15:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumperic_101019getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7SF3QQEHNEI6XAV44WBBHSVDRY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "QK/vuk75zHfA8/TthZUSH1IQ13XZEaOjM9Znc0ldmezy2AgCxnQCDe0NVA8ihd3IbahANdamHj3v1s1mpi2ooJoqniq8LWPFpYZzQHenaDKE8pkAFpPx2IDoGVv3ioYaQ6ZRLVQoPO+xFT/Vih9PYmDmTrLqZlQH0fXTE+Jnwd9isF5JZ/Qe8X9fpHw5UnvaAo3MwKEL6L3RWbkFN2VflkDiZwQU5tyVypLmjyrgF4d2ctB2oK0e184C9daUd8J13LqVhTn4DV5QhxYNvWO2t+fYisCJLnvfEx0CQQ2MNVGqrRzg4c6CsmtGVwLdkGmxWWdvmCuxQb0vlN7wMnt618Db4tLo87aXE3pGE1EsKbbsBRNFA0dSNmFt/AUNnNDBYj7WcfNhzsqbkVcTswowOXsd7LuHdZ6FCmtFLgpwuwlkm3BksUMzCEMGgU3GpgTO6v0bP9tIBuPVzM3LCtpWL8tWdy6rOTaCnBQ/yUa8/tRLwC2wDjpXbAmvV9+P0pxJ6zNYAIb4GyoUdJEUbRJ4Tw==;LhgUzE0+u0Akgpv3jaf/3Q=="

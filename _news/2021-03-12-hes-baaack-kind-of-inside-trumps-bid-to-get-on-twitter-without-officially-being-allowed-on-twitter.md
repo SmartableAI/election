@@ -333,6 +333,22 @@ related:
         width: 992
         height: 559
         isCached: true
+  - title: "Consumer Confidence Boosted More by Biden's COVID Relief Package Than Trump's Bills"
+    excerpt: "President Joe Biden's $1.9 trillion American Rescue Plan, which no Republican lawmakers supported, has spurred the biggest rise in consumer confidence of all the three major coronavirus relief plans."
+    publishedDateTime: 2021-03-18T15:16:00Z
+    webUrl: "https://www.newsweek.com/consumer-confidence-boosted-more-bidens-covid-relief-package-trumps-bills-1577128"
+    ampWebUrl: "https://www.newsweek.com/consumer-confidence-boosted-more-bidens-covid-relief-package-trumps-bills-1577128?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/consumer-confidence-boosted-more-bidens-covid-relief-package-trumps-bills-1577128?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 134
+    images:
+      - url: "https://d.newsweek.com/en/full/1758610/american-rescue-plan.jpg"
+        width: 1024
+        height: 595
+        isCached: true
   - title: "Trump's Election Lawsuit Battles End as Supreme Court Declines to Take Wisconsin Case"
     excerpt: "The former president and his Republican allies have lost dozens of election-related lawsuits filed in the wake of the November race."
     publishedDateTime: 2021-03-08T15:30:00Z
@@ -908,6 +924,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpmarkle.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "U.S. transport chief to testify on Biden infrastructure push"
+    excerpt: "President Joe Biden called for a $2 trillion boost to infrastructure as a candidate, but has not offered a specific plan for what he plans to seek from Congress."
+    publishedDateTime: 2021-03-18T14:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure/u-s-transport-chief-to-testify-on-biden-infrastructure-push-idUSKBN2BA201"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA201"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA201"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555362823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H13X"
+        width: 817
+        height: 545
         isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."

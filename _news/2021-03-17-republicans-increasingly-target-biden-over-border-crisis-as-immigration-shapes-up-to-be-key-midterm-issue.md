@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's border crisis filtering 'into every community' and policies must be stopped: Florida sheriff"
+    excerpt: "The border crisis needs to be \"stopped\" as the migrant surge increase affects residents, Brevard County Sheriff Wayne Ivey told \"Fox & Friends\" on Thursday, blasting President Biden’s policies for heavily impacting the U.S. economy and communities."
+    publishedDateTime: 2021-03-18T15:40:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fT0NmWS0UFM/bidens-border-policies-stopped-crisis-florida-sheriff"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-border-policies-stopped-crisis-florida-sheriff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-border-policies-stopped-crisis-florida-sheriff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "EL/ILxBDpyIKYzmSoa2FyQi7GMej0fw02CgnhYuy4ToNn5+mvPTtCK6+TLJpSp+SmrQ/snNomQRfgADZDfxgjmxWOQliMH9hMEhPMywm5RRploJQaK1iXBWCKgIn5EixNwZ8B0aI2mkopcIoJr1Blt3/u1lizE37iwBBDD8CKCp6BtuZfzrrxMHHMxbmO9cucJ1bzr5Niw8P+tRgpbQdm76KIxYQJ0gyfKOTlz1lmGRZwhln0Ue9z6O9tHuTFGIs2b3oRG1PVAwWZrhCFlIW8lczqxpMxWRpLfnyZ2VAyQW/EUz2I0viIkVUhLkAZpxOz/qb4/zgcmI7xVZr+zuvbMOH7aQfs0qSx16f+V+42mM=;S5D+azoRt1nPcu9SyyUiEw=="
 ---

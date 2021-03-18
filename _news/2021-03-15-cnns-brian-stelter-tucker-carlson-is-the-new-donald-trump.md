@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MSNBC, CNN pundits rush to blame Trump, racism for Atlanta shootings"
+    excerpt: "MSNBC and CNN writers and pundits are continuing to blame anti-Asian racism and rhetoric by former President Donald Trump for the deadly Atlanta spa shootings, in spite of law enforcement indicating they do not believe the killer was not motivated by racial animus."
+    publishedDateTime: 2021-03-18T15:37:00Z
+    webUrl: "https://www.foxnews.com/media/msnbc-cnn-trump-racism-atlanta-shootings-knowing-shooters-motive"
+    ampWebUrl: "https://www.foxnews.com/media/msnbc-cnn-trump-racism-atlanta-shootings-knowing-shooters-motive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-cnn-trump-racism-atlanta-shootings-knowing-shooters-motive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bac9637a-a222-4ba9-a9f2-aff489c52155/2a589916-fe2e-4c13-9fab-6b765ba03c38/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "CNN hemorrhaging viewers since Trump left office, down nearly 50% in key measurables"
     excerpt: "CNN has been hemorrhaging viewers since former President Donald Trump left office, losing roughly half of its audience in key measurables since January following a brief post-Election Day spike."
     publishedDateTime: 2021-03-18T01:16:00Z

@@ -191,6 +191,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Rep. Meng blames Trump for anti-Asian violence"
+    excerpt: "what happens is people, Asian Americans are getting shoved, assaulted, spat on,” Meng said. Tags Donald Trump Bill Clinton Grace Meng Judy Chu"
+    publishedDateTime: 2021-03-18T15:12:00Z
+    webUrl: "https://thehill.com/homenews/house/543812-congresswoman-meng-blames-trump-for-anti-asian-violence"
+    ampWebUrl: "https://thehill.com/homenews/house/543812-congresswoman-meng-blames-trump-for-anti-asian-violence?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543812-congresswoman-meng-blames-trump-for-anti-asian-violence?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_gracemeng_091720getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T18:29:00Z
