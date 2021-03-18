@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Intelligence report contradicts claims by Trump and his team on China election interference"
+    excerpt: "Washington (CNN)The US intelligence report released Tuesday detailing foreign election interference in the 2020 election contradicts repeated statements from former President Donald Trump and senior members of his administration that China -- and not ..."
+    publishedDateTime: 2021-03-17T20:29:00Z
+    webUrl: "https://www.cnn.com/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 140
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "R.N.C. Won't Use Trump's Name to Raise Money Without His OK"
     excerpt: "Lawyers for Mr. Trump had sent cease-and-desist letters to the Republican National Committee and other groups, warning them to stop relying on him in their fund-raising appeals."
     publishedDateTime: 2021-03-09T16:40:00Z

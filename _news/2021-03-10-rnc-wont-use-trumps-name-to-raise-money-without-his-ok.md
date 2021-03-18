@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Intelligence report contradicts claims by Trump and his team on China election interference"
+    excerpt: "Washington (CNN)The US intelligence report released Tuesday detailing foreign election interference in the 2020 election contradicts repeated statements from former President Donald Trump and senior members of his administration that China -- and not ..."
+    publishedDateTime: 2021-03-17T20:29:00Z
+    webUrl: "https://www.cnn.com/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 140
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump, Hungry for Power, Tries to Wrestle Away G.O.P. Fund-Raising"
     excerpt: "Angry at his critics in the party and seeking to keep his options for raising money open, the former president is trying to take charge of the online fund-raising juggernaut he helped create."
     publishedDateTime: 2021-03-09T23:14:00Z

@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Intelligence report contradicts claims by Trump and his team on China election interference"
+    excerpt: "Washington (CNN)The US intelligence report released Tuesday detailing foreign election interference in the 2020 election contradicts repeated statements from former President Donald Trump and senior members of his administration that China -- and not ..."
+    publishedDateTime: 2021-03-17T20:29:00Z
+    webUrl: "https://www.cnn.com/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 140
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "R.N.C. Won't Use Trump's Name to Raise Money Without His OK"
     excerpt: "Lawyers for Mr. Trump had sent cease-and-desist letters to the Republican National Committee and other groups, warning them to stop relying on him in their fund-raising appeals."
     publishedDateTime: 2021-03-09T16:40:00Z
@@ -544,6 +560,6 @@ related:
       domain: politico.com
     quality: 110
 
-secured: "iUeRYMP4t6WICTIiwJBFCPsS1LwVC+E5nXcNCoFHrka2E91m63IEeudmoh18itj13xm96tDF5Vo4H8dw5aZ+cyOgyAvpMIRHjQhHgncFM0OweH1x3s2VJffSBX3slbt7DKC456liSauJXBJk608SHIYoSsB7tTpiYlLLXG48p824K41kZn0dKLOvbd2MGEskUlADg2MrZVApWLKVCu+/wmKjJaSayFSz7yZEZ7zkQZaQXo6AiMj74E8ct0MtjbPM9c9vunaP6r7CgAW8mr56VF8vRcDJ3Zq0pIQZzvi+Tyeuw+dY9WEypAnqNiwSSMaJucpzw3DF8jZ6I0TVWKggediu2NNbniQu04fxkm5uwuo=;c8E9/7gNy+jQJhYY6JhNDA=="
+secured: "B3AyR9faEXqAqfv2dOcy0+Kbf/qwe1RS66qDEREHchspl/w4Tlm+BiuNEl/F8lnd9W3emBk/PJTVwfxB4jhDcqDoaaQ/cR2Cd7d5EAdAvFcaD5A1fuMg3vekPzbACEiSKPjFbiJUeC8as5VwynyN/ieyjUQtI18+EbRTnfGz65sn50g12fDdy+m99LxxM5LpnmrPZ5Vh0w7bIygx5M0a5QKvfmvowgoiH6YX1KLh+0kvAFdf6XDQKt8wVezav+7X1I/6qV245ye2EjWrHp4FZAhFZCRTbH94QRX7cvR7Imx2Kg/J6BoEAC3kn+jimBQBVnyNLUOcnh86+/Zvq1dKvOdVC4kod8qIkECIgPblkyG1RhZFZrTvkaykJBBWnL/4CFOvH8x+FwjAnMUL0PF33GQNLqr8/CO8ag06CYmkjyEyyX9B1IcOhzBfzJSKkhTxB6dJQ1YM72/+kIwkeX42reZ67+FIIeHRNi9Rv7Kw80hLI4sd+6eYHWcAs9ANs3RB1JWsdJJABQm+QVWHnTiicQ==;vU4PbRSbEL2psHM4h9sJaw=="
 ---
 
