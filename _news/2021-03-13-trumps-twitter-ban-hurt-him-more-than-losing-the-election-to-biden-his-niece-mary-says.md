@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
 type: article
 quality: 146
-heat: 1906
+heat: 1926
 published: true
 
 provider:
@@ -958,6 +958,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ex-Donald Trump Adviser Outlines 3 Reasons He Thinks GOP Is in Strong Position"
+    excerpt: "Jack Kingston, former Trump adviser and congressman, has said he thinks the Republican Party is in a \"very good position\" despite internal splits over the former president. Kingston, who was a Republican representative for Georgia's 1st congressional ..."
+    publishedDateTime: 2021-03-18T13:29:00Z
+    webUrl: "https://www.newsweek.com/former-donald-trump-adviser-gop-strong-position-1577050"
+    ampWebUrl: "https://www.newsweek.com/former-donald-trump-adviser-gop-strong-position-1577050?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-donald-trump-adviser-gop-strong-position-1577050?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1758549/donald-trump-speaking-cpac.jpg"
+        width: 3000
+        height: 1879
         isCached: true
   - title: "Biden administration to wind down long-term detention of migrant families — for now"
     excerpt: "ICE has begun releasing migrant parents and children from three family detention facilities in Texas and Pennsylvania."

@@ -525,6 +525,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
+    excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
+    publishedDateTime: 2021-03-18T13:09:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
     publishedDateTime: 2021-03-12T11:13:00Z

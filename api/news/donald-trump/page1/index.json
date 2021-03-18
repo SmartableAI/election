@@ -2,6 +2,97 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-18-cnn-viewership-plummeted-after-trump-left-office.md",
+      "title": "CNN viewership plummeted after Trump left office",
+      "excerpt": "CNN’s viewership has tanked since former President Trump left office — with new data showing the liberal network lost nearly half of its prime-time audience in a key demographic since",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/",
+      "originalUrl": "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cnn-90.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/amp/",
+      "publishedDateTime": "2021-03-18T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-fact-check-post-falsely-claims-price-of-oil-was-25-a-barrel-when-trump-left-office.md",
+      "title": "Fact Check-Post falsely claims price of oil was $25 a barrel when Trump left office",
+      "excerpt": "Recent social media posts have claimed that oil was only $25 a barrel when former President Donald Trump left office and more than doubled in the first months of President Joe Biden’s administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/factcheck-oil-prices-idUSL1N2LG1F2",
+      "originalUrl": "https://www.reuters.com/article/factcheck-oil-prices-idUSL1N2LG1F2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LG1F2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LG1F2",
+      "publishedDateTime": "2021-03-18T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-judge-denies-omarosa-manigault-newman-request-to-depose-trump-john-kelly-in-lawsuit.md",
       "title": "Judge denies Omarosa Manigault Newman request to depose Trump, John Kelly in lawsuit",
       "excerpt": "A judge on Tuesday ruled that former Trump White House aide Omarosa Manigault Newman is not allowed to depose former President Trump or former Trump chief of staff John Kelly in a lawsuit relating to her White House departure in 2018.",
@@ -155,63 +246,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-cnn-hemorrhaging-viewers-since-trump-left-office-down-nearly-50-in-key-measurables.md",
-      "title": "CNN hemorrhaging viewers since Trump left office, down nearly 50% in key measurables",
-      "excerpt": "CNN has been hemorrhaging viewers since former President Donald Trump left office, losing roughly half of its audience in key measurables since January following a brief post-Election Day spike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-hemorrhaging-viewers-trump-down-50-percent",
-      "originalUrl": "https://www.foxnews.com/media/cnn-hemorrhaging-viewers-trump-down-50-percent",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Trump-Biden-CNN.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-hemorrhaging-viewers-trump-down-50-percent.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-hemorrhaging-viewers-trump-down-50-percent.amp",
-      "publishedDateTime": "2021-03-17T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -460,49 +494,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-fact-check-poll-shows-70-of-republican-primary-voters-in-georgia-would-vote-for-trump-in-2024-not-70-of-all-voters.md",
-      "title": "Fact Check-Poll shows 70% of Republican primary voters in Georgia would vote for Trump in 2024, not 70% of all voters",
-      "excerpt": "Social media users have been sharing a tweet which claims 70% of voters in Georgia, United States, have said they would vote for former U.S. president Donald Trump in 2024 and 55.5% disapprove of the job President Joe Biden is currently doing. The figures ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-georgia-poll-idUSL1N2LF24D",
-      "originalUrl": "https://www.reuters.com/article/factcheck-georgia-poll-idUSL1N2LF24D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LF24D",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF24D",
-      "publishedDateTime": "2021-03-17T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1214,54 +1205,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-15-cnns-brian-stelter-tucker-carlson-is-the-new-donald-trump.md",
-      "title": "CNN's Brian Stelter: \"Tucker Carlson Is The New Donald Trump\"",
-      "excerpt": "CNN's \"Reliable Sources\" anchor Brian Stelter compares Fox News host Tucker Carlson to the former president. \"Tucker has taken Trump's place as a right-wing leader. As an outrage generator. As a fire starter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/03/14/cnns_brian_stelter_tucker_carlson_is_the_new_donald_trump.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/14/cnns_brian_stelter_tucker_carlson_is_the_new_donald_trump.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/51/515303.jpg",
-          "width": 1124,
-          "height": 842,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/14/cnns_brian_stelter_tucker_carlson_is_the_new_donald_trump.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/14/cnns_brian_stelter_tucker_carlson_is_the_new_donald_trump.amp.html",
-      "publishedDateTime": "2021-03-14T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-15-geoff-duncan-criticizes-voting-restrictions-and-divisive-trump-rules-out-gop-senate-run.md",
       "title": "Geoff Duncan Criticizes Voting Restrictions and 'Divisive' Trump, Rules Out GOP Senate Run",
       "excerpt": "Georgia's Lt. Governor Geoff Duncan, a Republican, criticized GOP-led efforts in his state—and across the country—to restrict voting while also slamming former President Donald Trump's \"divisive\" politics. Earlier this month, Georgia's State House ...",
@@ -1374,7 +1317,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-trump-idINKBN2B60DA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 525,
+      "heat": 545,
       "tags": null,
       "images": [
         {
@@ -1564,6 +1507,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-chaos-under-heaven-review-trump-as-raging-bull-in-a-china-policy-shop.md",
+      "title": "Chaos Under Heaven review: Trump as raging bull in a China policy shop",
+      "excerpt": "Before Covid upended everything, the US president upended relations with Beijing – without interest or ability to build anew",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/168f33036b5291f725aa69009a9fb865b046f7dd/0_19_3038_1823/master/3038.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=324f482f84ea1622e8e74215d12a035a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "publishedDateTime": "2021-03-13T21:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

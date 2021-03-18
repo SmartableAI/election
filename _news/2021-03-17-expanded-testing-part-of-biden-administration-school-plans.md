@@ -959,6 +959,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ex-Donald Trump Adviser Outlines 3 Reasons He Thinks GOP Is in Strong Position"
+    excerpt: "Jack Kingston, former Trump adviser and congressman, has said he thinks the Republican Party is in a \"very good position\" despite internal splits over the former president. Kingston, who was a Republican representative for Georgia's 1st congressional ..."
+    publishedDateTime: 2021-03-18T13:29:00Z
+    webUrl: "https://www.newsweek.com/former-donald-trump-adviser-gop-strong-position-1577050"
+    ampWebUrl: "https://www.newsweek.com/former-donald-trump-adviser-gop-strong-position-1577050?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-donald-trump-adviser-gop-strong-position-1577050?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1758549/donald-trump-speaking-cpac.jpg"
+        width: 3000
+        height: 1879
+        isCached: true
   - title: "Biden administration to wind down long-term detention of migrant families — for now"
     excerpt: "ICE has begun releasing migrant parents and children from three family detention facilities in Texas and Pennsylvania."
     publishedDateTime: 2021-03-07T12:00:00Z

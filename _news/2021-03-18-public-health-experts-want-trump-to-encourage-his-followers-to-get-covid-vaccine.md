@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 809
         isCached: true
+  - title: "QAnon Thinks Donald Trump's Vaccine Remarks Are Fake, Just a Very Good Imitation"
+    excerpt: "QAnon followers are once again pulling in all directions as they struggle to explain why Donald Trump would urge people to get COVID-19 vaccinations, which are highly-detested among Q-conspiracists. The former president, who is a savior-like figure in the ..."
+    publishedDateTime: 2021-03-18T11:55:00Z
+    webUrl: "https://www.newsweek.com/qanon-thinks-donald-trumps-vaccine-remarks-fake-good-impression-1577046"
+    ampWebUrl: "https://www.newsweek.com/qanon-thinks-donald-trumps-vaccine-remarks-fake-good-impression-1577046?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-thinks-donald-trumps-vaccine-remarks-fake-good-impression-1577046?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1758454/q.jpg"
+        width: 3165
+        height: 2110
+        isCached: true
   - title: "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York"
     excerpt: "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\""
     publishedDateTime: 2021-03-08T22:33:00Z

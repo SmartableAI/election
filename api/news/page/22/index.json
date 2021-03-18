@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-02-12-biden-governors-and-mayors-need-350-billion-to-fight-covid.md",
+      "title": "Biden: Governors and mayors need $350 billion to fight COVID",
+      "excerpt": "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-12T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-accomplice-senators-who-amplified-trumps-lies-now-get-a-say-in-his-fate.md",
       "title": "'Accomplice' senators who amplified Trump's lies now get a say in his fate",
       "excerpt": "Republicans Josh Hawley, Ted Cruz and others unabashedly endorsed the former president’s assault on democracy",
@@ -1309,58 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-adviser-says-donald-trump-in-great-mood-thinks-bruce-castor-made-some-good-points.md",
-      "title": "Adviser Says Donald Trump In 'Great Mood,' Thinks Bruce Castor Made 'Some Good Points'",
-      "excerpt": "\"There are a few things that we need to tighten up,\" Donald Trump's adviser Jason Miller said of Trump's defense team in the Senate impeachment trial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455",
-      "originalUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1732059/jason-miller-donald-trump-impeachment-bruce-castor.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adviser-says-donald-trump-great-mood-thinks-bruce-castor-made-some-good-points-1568455?amp=1",
-      "publishedDateTime": "2021-02-10T20:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

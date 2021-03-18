@@ -2,6 +2,62 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-01-28-pro-trump-social-media-influencer-charged-in-2016-scheme-to-suppress-votes-for-hillary-clinton.md",
+      "title": "Pro-Trump social media influencer charged in 2016 scheme to suppress votes for Hillary Clinton",
+      "excerpt": "A pro-Trump social media influencer was arrested in Florida Wednesday after prosecutors say he purposely spread disinformation online in an effort to suppress votes for Hillary Clinton in the 2016 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
+      "publishedDateTime": "2021-01-28T13:40:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.md",
       "title": "Trump meets with McCarthy in Florida to plan GOP House takeover in 2022",
       "excerpt": "House GOP Leader Kevin McCarthy met with former President Trump at Mar-a-lago Thursday where the two agreed to work together on Republicans taking back the House in 2022.",
@@ -1294,49 +1350,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-mike-pence-is-homeless.md",
-      "title": "Mike Pence Is Homeless",
-      "excerpt": "Pastor Crockett: I would like to welcome everyone to Lovejoy’s Church of Spirits and Blessings, which, as you all know, is a Pentecostal, Baptist, Catholic, atheist, Muslim, trap house for the lord.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theroot.com/mike-pence-is-homeless-1846141151",
-      "originalUrl": "https://www.theroot.com/mike-pence-is-homeless-1846141151",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hxsg59rkropisnxmyqwa.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theroot.com/mike-pence-is-homeless-1846141151/amp",
-      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/mike-pence-is-homeless-1846141151/amp",
-      "publishedDateTime": "2021-01-27T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Root",
-        "domain": "theroot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

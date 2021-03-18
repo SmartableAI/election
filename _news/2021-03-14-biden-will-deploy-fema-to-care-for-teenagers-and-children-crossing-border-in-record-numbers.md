@@ -143,6 +143,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Attacks on Asian Americans are up. What is the Biden administration doing about it?"
+    excerpt: "WASHINGTON – The concerns President Joe Biden expressed Wednesday following the fatal shootings of Asian Americans in Georgia echoed the comments he's made since taking office, a tenure that began with an executive action condemning racism and ..."
+    publishedDateTime: 2021-03-18T11:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/18/asian-american-groups-want-biden-do-more-after-atlanta-shootings/4739856001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4739856001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4739856001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/68f4529d-061f-4f6f-9823-f71f884a0a64-Asian_boy.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Russia wants an apology from U.S. after Biden called Putin a killer, says Kremlin ally"
+    excerpt: "Russia wants an apology from the United States after President Joe Biden said he thought Vladimir Putin was a killer and may retaliate against Washington unless it gets one, a senior Russian lawmaker said on Thursday."
+    publishedDateTime: 2021-03-18T09:55:00Z
+    webUrl: "https://www.reuters.com/article/us-russia-usa-reaction-idUSKBN2BA0S1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA0S1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA0S1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555316536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0FI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden defends inaction against Saudi crown prince in killing"
     excerpt: "President Joe Biden defended his decision to waive any punishment for in the killing of a U.S.-based journalist, claiming that acting against the Saudi royal would have been diplomatically unprecedented for the United States."
     publishedDateTime: 2021-03-17T14:44:00Z

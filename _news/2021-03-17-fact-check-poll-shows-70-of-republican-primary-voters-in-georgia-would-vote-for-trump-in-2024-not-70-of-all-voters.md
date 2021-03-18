@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LF24D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF24D"
 type: article
 quality: 82
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -23,6 +23,19 @@ provider:
 topics:
   - Election
   - Donald Trump
+
+related:
+  - title: "Fact Check-Post falsely claims price of oil was $25 a barrel when Trump left office"
+    excerpt: "Recent social media posts have claimed that oil was only $25 a barrel when former President Donald Trump left office and more than doubled in the first months of President Joe Biden’s administration."
+    publishedDateTime: 2021-03-18T12:33:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-oil-prices-idUSL1N2LG1F2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LG1F2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LG1F2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
 
 secured: "hURNV/g/i/PYBqxM2NkVPDf0tnx7gI5iEKNilR5zuXamPLivJR/OUqWjMafheZU4BBv3fe/ihF6ADLJTR5CvbmHlp0xjpc75AZBRMW+kDJBmPquuIxr1ZvaBnMb7zc2QcFqwqbj9AWpwPk8L0X++aXneM5v2r8/st+Qa2SDOEeqEHWFmaHxPUY935AyRv3WmtQIw9faoouVun6+UUJPDHVLG6V/cyA3KrFaykewU4u7yMsYYvafkCq+8v0zDUTrzJDxKGkrzHoUSgL6KbNfLLrtBIBg0xaFI4xROcegYySAI7QFlmNtw9WzlzwDaGxQkHQibJADHIh+5w9CVNkpxZKeA6BcXX1v1Zbx0Cx0RqZM=;nU0kFQpgmKFQUbyF0p5CGQ=="
 ---

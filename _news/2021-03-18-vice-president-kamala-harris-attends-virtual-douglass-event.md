@@ -525,6 +525,17 @@ related:
         width: 650
         height: 434
         isCached: true
+  - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
+    excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
+    publishedDateTime: 2021-03-18T13:09:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
     publishedDateTime: 2021-03-12T11:13:00Z
@@ -562,6 +573,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "yBb3qhY9Ll15jOckWISrS+SOvAUdwwC0Qmqhw603KA09DT6TdQQAmiXL6OYrPY6MQiQrjpxMXh64woaTUywyfl8rReIZ0KW7eoHAlebSDnIjtPYf2MBkl2JNE4z2u8RwJv0amDd7wuqJE4gOo6YIUdhaQSwQ7twy+nbTJIaT2RWE19VQRCf9mUTTNqBthHlPbu2E3rJBcXTyEbFqEv6yYU2PohOWpRlUb5Nb6P4VFGS/MTrjXyKYMKIUsrm7k3wflM5C64na2QTyhijYq+98Qwu+sM9D7GHnCfE985HlgNNIE8W7Iue3VQokCR9klsqK9opX+DZy6uJ6f4Zjkr/sdGkf59lDHLkfQltqyjgdKng=;z7C02jRY+PRt6M6pSLg2zQ=="
+secured: "EPA7ZuA0JtUFwYTZCWZ47s6+qUqto+OqZ5XEUvFAP/ccPsRbdwXg4RyjxJxlK5ZDmshAscOgTTliiDYK3v9QWSFwCx/mUG4MEXl/9AXz39AdyTkQUo4GhLqvmopQUJeSmX9CFI9BCifPvrtnCqs64joSz/GMCV/K6N2rsO1zSUe3piLEdoJ8NHYKJb5LwiA+vke5FnxO8BSn4Qgwd+bviUZLtCU0k4bJLFu7XHkepOWrHSyl5Gz7tiLvjRiQmCaeN5Z8tgGLipSc/o0uuQ450iIcPP1+yb7zAMhZlwPY+jwPwprF2yO37zLq64W6dAPnGxqJOzAn/M3+c3zitqirup8uziGpFfzs1amDO8xTmgGdAIZLlM9EnqWXrFVnzNn3Pe300uuXA9u1X9wfSXCFSwN0QWHeTK3SkcfswVHV+urlZnJZcoceXjrfFeupA+fgDIe4s2CBEL1KJMvY7VsA5I9t+KgHn7j3m4LoQuQ8e41vLDIa3H9RN0oEE6bFs4I20flaYEiQfio2TTX+q29UmQ==;XPzIRq5Gbjy8dv71N4G8Nw=="
 ---
 

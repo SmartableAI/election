@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-04-tim-allen-says-he-kind-of-liked-when-president-trump-made-people-angry.md",
+      "title": "Tim Allen says he 'kind of liked' when President Trump made people angry",
+      "excerpt": "Tim Allen got political on a podcast, saying he \"realized\" he \"kind of liked\" when President Trump pissed people off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/03/tim-allen-on-donald-trump-marc-maron-podcast/6905330002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/03/tim-allen-on-donald-trump-marc-maron-podcast/6905330002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/11/29/USAT/f5a8c383-6718-4f2d-90c6-eb06d8a86085-USP_NFL-_Chicago_Bears_at_Detroit_Lions.jpg?auto=webp&crop=7036,3958,x1,y733&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6905330002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6905330002",
+      "publishedDateTime": "2021-03-03T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-pence-rails-against-hr-1-laments-capitol-riot-prevented-substantive-discussion-on-election-integrity.md",
       "title": "Pence rails against HR 1, laments Capitol riot prevented 'substantive discussion' on election integrity",
       "excerpt": "Former Vice President Mike Pence offered harsh criticism for a Democrat-proposed voting reform legislation while condemning the Capitol protest on Jan. 6 that, he said, interrupted what would have been a worthwhile discussion of election integrity.",
@@ -1299,58 +1351,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-biden-plans-to-name-veteran-prosecutor-channing-phillips-as-acting-us-attorney-prosecuting-the-capitol-riot-cases-sources-say.md",
-      "title": "Biden plans to name veteran prosecutor Channing Phillips as acting US attorney prosecuting the Capitol riot cases, sources say",
-      "excerpt": "Channing Phillips is expected to be named acting chief of the US attorney's office in DC that is in charge of spearheading cases against accused participants in the January 6 rioting at the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-channing-phillips-acting-us-attorney-dc-capitol-riot-cases-2021-3",
-      "originalUrl": "https://www.businessinsider.com/biden-channing-phillips-acting-us-attorney-dc-capitol-riot-cases-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/603e7cb087d37600190d0ad7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

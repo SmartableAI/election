@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "CNN viewership plummeted after Trump left office"
+    excerpt: "CNN’s viewership has tanked since former President Trump left office — with new data showing the liberal network lost nearly half of its prime-time audience in a key demographic since"
+    publishedDateTime: 2021-03-18T13:01:00Z
+    webUrl: "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/"
+    ampWebUrl: "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cnn-90.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CNN hemorrhaging viewers since Trump left office, down nearly 50% in key measurables"
     excerpt: "CNN has been hemorrhaging viewers since former President Donald Trump left office, losing roughly half of its audience in key measurables since January following a brief post-Election Day spike."
     publishedDateTime: 2021-03-18T01:16:00Z
@@ -47,6 +63,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Trump-Biden-CNN.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "CNN's Brian Stelter: \"Tucker Carlson Is The New Donald Trump\""
+    excerpt: "CNN's \"Reliable Sources\" anchor Brian Stelter compares Fox News host Tucker Carlson to the former president. \"Tucker has taken Trump's place as a right-wing leader. As an outrage generator. As a fire starter,"
+    publishedDateTime: 2021-03-14T17:20:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/14/cnns_brian_stelter_tucker_carlson_is_the_new_donald_trump.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/14/cnns_brian_stelter_tucker_carlson_is_the_new_donald_trump.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/14/cnns_brian_stelter_tucker_carlson_is_the_new_donald_trump.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/51/515303.jpg"
+        width: 1124
+        height: 842
         isCached: true
 
 secured: "UxwUBoBg0iSEnUwIasyo5/4JoqAi6xB6/s0ZVhHGFrss7m0I61X+vjhoM4wrU7Ze+0UjzRIq86E00MDvP1DMFvC8ixPQoi5r4WhM91uIn1E6jgRYYEtosgb7q7EyjFQyfoAgdra2GsitRlByKpVIUX8WRhiXk/rIU2/GUJNjF9rjVJk45E4ZkJcpygF2PWL2XIXZj4Dd3YG9zA3SyCRPUuiEZQ72/AY1aR4VZTkbThUbtVu67v74WJmDzlxp6TlVL14xpEXwFtF9RIU0sxCGnhYJ3kulDGYl4rNbssVghaj8BTzAkmJJy0D0f1Zj3tIfj1ESXCUWT6YkagUliGEQ0v9hWU9VOr+cvQf7tKvSQQhHnRbvb7ITO72GQSVf6z297haXiw26Q6v50j6/6oJs+pEgx/MefYllblINcHd5nk2GqIPUSz3wWVvnb+XjOpVUyz7nOp/BHCaZKResll0UTO+o6VZ9x/IePaAZdoacGVg44wdOhz/gRU+FBoJ/DUF72KZooOUOZ6IvsKd7tf10PQ==;0hWxO5ItLb9S5OxsmEakgw=="

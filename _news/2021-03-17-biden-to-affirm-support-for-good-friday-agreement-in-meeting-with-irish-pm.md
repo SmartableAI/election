@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/543516-biden-to-affirm-s
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555234590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1FO"
         width: 816
         height: 545
+        isCached: true
+  - title: "Biden puts St. Patrick's Day pride on display as he meets with Irish prime minister"
+    excerpt: "Biden, Irish PM hold virtual meeting on St. Patrick's Day President Joe Biden's Irish pride certainly showed during his first St. Patrick's Day as president, as he held a traditional bilateral ..."
+    publishedDateTime: 2021-03-17T20:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-puts-irish-pride-display-meets-irish-prime/story?id=76511637"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 99
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-2-ap-ps-210317_1616001648329_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "sNnSdjVevnIkoEQAIKW0vJr07maWYU5cj3T6ehK/GtOBeKqT8Oqotm9/dEIxSY5Nh+1g7cLlwaBnK/9hTjUcuakVo606bCLP04EHzlVb0wGWBeiG7npYJBgBN+17bwFDcz/XgSh4Etz9ozg2tttf9ayqa3xO2gMIU1BexCeoTwShTYYo/yQEKsfCKzFwkdfipwLmY3714bVLZsWdZ9Fp+EWIZWJFhX4fGju5Rpv9skbEknLG/3s/buKuBgkNYHHM76WqUZ4Vkj50ZI1ySJJhsySdPDyystUGE8UOUwwIcGiwfA7TkZFTsrZlVCJux+fs7nWXAaO91ioqtHjRI8BAcv9HHmB6r4Eyd96XvbRFNKA=;j4hqji5Mut2DKEmlkk3D5Q=="

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's taxes in hand, Manhattan DA's probe heats up"
+    excerpt: "New York prosecutors are asking new questions about former President Donald Trump's Seven Springs estate NEW YORK -- With former President Donald Trump’s tax returns finally in hand, a team of New York prosecutors led by a newly hired former mob-buster is sending out fresh subpoenas and meeting face-to-face with key witnesses,"
+    publishedDateTime: 2021-03-18T02:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-taxes-hand-manhattan-das-probe-heats-76522597"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-taxes-hand-manhattan-das-probe-heats-76522597"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-taxes-hand-manhattan-das-probe-heats-76522597"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c2bafe5cb5964c1086f5b1764fe72f53_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Democrats reissue subpoena to Trump's accounting firm for financial records"
     excerpt: "The House Oversight and Reform Committee is seeking eight years of financial records from former President Trump and other entities affiliated with him."
     publishedDateTime: 2021-03-03T13:21:00Z

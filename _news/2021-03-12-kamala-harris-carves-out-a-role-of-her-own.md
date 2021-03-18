@@ -537,6 +537,17 @@ related:
         width: 650
         height: 434
         isCached: true
+  - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
+    excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
+    publishedDateTime: 2021-03-18T13:09:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "Vice President Harris American Rescue Plan Briefing"
     excerpt: "Vice President Harris participated in a brief conversation on the American Rescue Plan that preceded a closed… Vice President-elect Kamala Harris volunteered with her husband, Doug Emhoff, at Martha’s Table in Washington, D.C., to… President-elect ..."
     publishedDateTime: 2021-03-11T20:01:00Z

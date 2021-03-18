@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "QAnon Thinks Donald Trump's Vaccine Remarks Are Fake, Just a Very Good Imitation"
+    excerpt: "QAnon followers are once again pulling in all directions as they struggle to explain why Donald Trump would urge people to get COVID-19 vaccinations, which are highly-detested among Q-conspiracists. The former president, who is a savior-like figure in the ..."
+    publishedDateTime: 2021-03-18T11:55:00Z
+    webUrl: "https://www.newsweek.com/qanon-thinks-donald-trumps-vaccine-remarks-fake-good-impression-1577046"
+    ampWebUrl: "https://www.newsweek.com/qanon-thinks-donald-trumps-vaccine-remarks-fake-good-impression-1577046?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-thinks-donald-trumps-vaccine-remarks-fake-good-impression-1577046?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1758454/q.jpg"
+        width: 3165
+        height: 2110
+        isCached: true
   - title: "Fauci: it's 'disturbing' that Trump voters say they won't get vaccinated for COVID-19"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
     publishedDateTime: 2021-03-14T15:03:00Z

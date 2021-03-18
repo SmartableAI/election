@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
 type: article
 quality: 178
-heat: 418
+heat: 438
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58b5303f-1cc5-4819-ac7f-0ff6be8a874d/5d3b5642-d252-4d6f-a4f0-c41cadfb9fc0/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Texas congressman, ex-sheriff rips 'no-borders Biden' for continuing to deny crisis"
+    excerpt: "The Biden administration continues to ignore the crisis at the border while the migrant surge worsens, Rep. Troy Nehls told \"Fox & Friends.\"'"
+    publishedDateTime: 2021-03-18T13:45:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIAhOXancSs/texas-congressman-nehls-no-borders-biden-deny-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Texas Democrat knocks Biden delegation over border visit: 'They didn’t talk to anybody'"
     excerpt: "Rep. Henry Cuellar, D-Texas, criticized the Biden administration’s handling of the border crisis on Friday, telling \"Your World\" a delegation from the White House neglected to talk to anybody when they visited the region this week."

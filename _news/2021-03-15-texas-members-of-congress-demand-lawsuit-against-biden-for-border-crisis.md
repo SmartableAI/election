@@ -109,6 +109,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas congressman, ex-sheriff rips 'no-borders Biden' for continuing to deny crisis"
+    excerpt: "The Biden administration continues to ignore the crisis at the border while the migrant surge worsens, Rep. Troy Nehls told \"Fox & Friends.\"'"
+    publishedDateTime: 2021-03-18T13:45:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIAhOXancSs/texas-congressman-nehls-no-borders-biden-deny-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas Democrat knocks Biden delegation over border visit: 'They didn’t talk to anybody'"
     excerpt: "Rep. Henry Cuellar, D-Texas, criticized the Biden administration’s handling of the border crisis on Friday, telling \"Your World\" a delegation from the White House neglected to talk to anybody when they visited the region this week."
     publishedDateTime: 2021-03-12T23:48:49Z

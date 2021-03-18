@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas congressman, ex-sheriff rips 'no-borders Biden' for continuing to deny crisis"
+    excerpt: "The Biden administration continues to ignore the crisis at the border while the migrant surge worsens, Rep. Troy Nehls told \"Fox & Friends.\"'"
+    publishedDateTime: 2021-03-18T13:45:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIAhOXancSs/texas-congressman-nehls-no-borders-biden-deny-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McCarthy hammers Biden over border crisis, urges him to visit and see 'what he's created'"
     excerpt: "House Minority Leader Kevin McCarthy, R-Calif., urged President Biden Monday to visit the southern border and see \"what he's created,\" blaming the administration's policies for an alarming migrant and drug smuggling crisis."
     publishedDateTime: 2021-03-15T20:27:21Z

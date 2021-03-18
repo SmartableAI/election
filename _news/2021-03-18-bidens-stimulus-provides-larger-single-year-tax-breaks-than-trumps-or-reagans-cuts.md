@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's how Biden wants to raise taxes on the wealthy and corporations"
+    excerpt: "Now that he's signed the Democrats' $1.9 trillion Covid relief package, President Joe Biden is turning to the next items on his legislative agenda -- and laying the groundwork for raising taxes on wealthier Americans to pay for them.\n    \n"
+    publishedDateTime: 2021-03-18T12:07:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/80JLnw3hNdw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/biden-tax-plan-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-tax-plan-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317103228-01-biden-taxes-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
     excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
     publishedDateTime: 2021-03-18T11:33:43Z
@@ -271,6 +287,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_10/3456371/210312-joe-biden-ew-1123a_129040fcdf7f5b9fe5ce71119d9f8d88.jpg"
         width: 2500
         height: 1663
+        isCached: true
+  - title: "Taiwan feared Biden would be softer than Trump on China. So far, it has been pleasantly surprised."
+    excerpt: "TAIPEI, Taiwan — When Donald Trump lost re-election in November, there was one place far from his \"Make America Great Again\" rallies that also felt the loss keenly: Taiwan. Many Taiwanese favored Trump because of his administration's hard-line stance ..."
+    publishedDateTime: 2021-03-18T10:13:00Z
+    webUrl: "https://www.nbcnews.com/news/world/taiwan-feared-biden-would-be-softer-trump-china-so-far-n1261274"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261274"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261274"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 136
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3457676/210317-taiwan-china-mc-1142_e8b46c21800e9bbd415e3a7dcef32a7d.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Why these lifelong Republicans support Biden's relief bill"
     excerpt: "A lifelong Republican who switched parties says shame on the GOP for not supporting President Joe Biden's $1.9 trillion Covid-19 relief plan. CNN's Vanessa Yurkevich reports the Republican-turned-Democrat isn't alone."

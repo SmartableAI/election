@@ -975,6 +975,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ex-Donald Trump Adviser Outlines 3 Reasons He Thinks GOP Is in Strong Position"
+    excerpt: "Jack Kingston, former Trump adviser and congressman, has said he thinks the Republican Party is in a \"very good position\" despite internal splits over the former president. Kingston, who was a Republican representative for Georgia's 1st congressional ..."
+    publishedDateTime: 2021-03-18T13:29:00Z
+    webUrl: "https://www.newsweek.com/former-donald-trump-adviser-gop-strong-position-1577050"
+    ampWebUrl: "https://www.newsweek.com/former-donald-trump-adviser-gop-strong-position-1577050?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-donald-trump-adviser-gop-strong-position-1577050?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1758549/donald-trump-speaking-cpac.jpg"
+        width: 3000
+        height: 1879
+        isCached: true
   - title: "House set to take up $1.9 trillion stimulus, putting Biden on track to sign this week"
     excerpt: "House lawmakers are set to vote as soon as Tuesday on a roughly $1.9 trillion coronavirus relief package, putting President Biden on track to sign his first major legislative accomplishment into law by the end of the week."
     publishedDateTime: 2021-03-08T20:11:00Z
