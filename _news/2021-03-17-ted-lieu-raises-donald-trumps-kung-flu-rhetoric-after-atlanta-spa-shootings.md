@@ -47,6 +47,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "'No question' Trump worsened anti-Asian sentiment: WH"
+    excerpt: "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ..."
+    publishedDateTime: 2021-03-17T22:57:00Z
+    webUrl: "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210317&i=OVE4H8HR3&r=OVE4H8HR3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Department of Homeland Security chief defends U.S. handling of border crisis, blames Trump administration for surge"
     excerpt: "In a lengthy statement, Homeland Security Secretary Alejandro Mayorkas revealed that the migration surge is heading towards a 20-year high — and partially blamed the former Trump administration for the tricky situation."
     publishedDateTime: 2021-03-16T16:50:00Z

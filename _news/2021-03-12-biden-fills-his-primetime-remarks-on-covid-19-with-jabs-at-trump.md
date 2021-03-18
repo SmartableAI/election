@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 1210
+heat: 1230
 published: true
 
 provider:
@@ -826,6 +826,22 @@ related:
     quality: 122
     images:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former President Trump tells 'Fox News Primetime' massive migrant influx will 'destroy our country'"
+    excerpt: "EXCLUSIVE: Former President Donald Trump slammed President Biden as the border crisis further unravels. In an interview with Maria Bartiromo on \"Fox News Primetime\", Trump said he and Mexican President Andres Manuel Lopez Obrador had built a \"great ..."
+    publishedDateTime: 2021-03-18T07:24:00Z
+    webUrl: "https://www.foxnews.com/politics/former-president-donald-trump-to-appear-exclusively-on-fox-news-primetime-with-maria-bartiromo"
+    ampWebUrl: "https://www.foxnews.com/politics/former-president-donald-trump-to-appear-exclusively-on-fox-news-primetime-with-maria-bartiromo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-president-donald-trump-to-appear-exclusively-on-fox-news-primetime-with-maria-bartiromo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31800076-0375-4410-a8ac-456f1dd294c8/d29b302e-b138-4482-8466-f0346c88e6f4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -59,6 +59,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'No question' Trump worsened anti-Asian sentiment: WH"
+    excerpt: "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ..."
+    publishedDateTime: 2021-03-17T22:57:00Z
+    webUrl: "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210317&i=OVE4H8HR3&r=OVE4H8HR3&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "XKtqSbn1yImuXkd/ApqoDcwf4dfazB9jEGwjy8gCHiQnhdit1TwBGWLpH4XCWnUFS4nnVXTxdXXQkwscDv03MTj+Dj4Z2gbdZF2o6p2kY3KyHscDFj16OMdtcnaHCGU+h+q0Upg2HkxGTOve6NzHUZugkrrj7sluzR2dK21ZpFJonyycpIZnHSe2Eh/rJwQDrbry/7oahHDlcH7GefXain9NCRWfkJvTf7vt524OiqNXevgNkKfxGG2ClcUyG20vyKKp3biWaZFfXpv4gvBqTUwYVDYouIdhraCfRbErHRBzPhYKFjHlBgqoXyyQn7bY2+B72vPrjElQm/vhjSJmOSrjn0FQRwpcqk78VTZWTZ1Yl7zNJP/mNZmaCa7NTmZR8sY9Fuo2ZRIfCa8/BGtT0anhUK/dISAL7DGtXH7HDivXYsWIxyJpTZa77RtGbtnvox53aVoA/MLbKRcL5aSqMeju7BfIW9LwwaIcmTNquGihrNIhO/QIi3VUo6jPXTsXI4vFmeY2407rfrcHEcECww==;SMidVZT9plM1Xff25UDyxA=="
 ---

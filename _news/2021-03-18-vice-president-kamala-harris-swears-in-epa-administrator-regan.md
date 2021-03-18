@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris Swears in EPA Administrator Regan"
-excerpt: "United States Vice President Kamala Harris ceremonially swears in Michael Regan as EPA Administrator in the Eisenhower Executive Office Building in Washington, U.S., March 17, 2021. The Bible is a bible that Administor Reagan received as a high school graduation present from his church."
+excerpt: "Michael Regan holds his hand up as he is sworn-in by United States Vice President Kamala Harris during a ceremonial swear-in as EPA Administrator in the Eisenhower Executive Office Building in Washington,"
 publishedDateTime: 2021-03-17T21:05:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/913b6a56a5ff6478e03c32b87e7cf2de/Vice-President-Kamala-Harris-Swears-in-EPA-Administrator-Regan/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/913b6a56a5ff6478e03c32b87e7cf2de/Vice-President-Kamala-Harris-Swears-in-EPA-Administrator-Regan/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/b5f65e156d2ed8c6d86bdb0d368d6f0a/Vice-President-Kamala-Harris-Swears-in-EPA-Administrator-Regan/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/b5f65e156d2ed8c6d86bdb0d368d6f0a/Vice-President-Kamala-Harris-Swears-in-EPA-Administrator-Regan/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/913b6a56a5ff6478e03c32b87e7cf2de/VICE-PRESIDENT-HARRIS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/b5f65e156d2ed8c6d86bdb0d368d6f0a/VICE-PRESIDENT-HARRIS.jpg"
     width: 650
-    height: 433
+    height: 434
     isCached: true
 
 related:
@@ -546,6 +546,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "qdv+Qs5aRsym6+HYGG3zb6X0fT1WAU3+7vb/T+6z/O1TclPLBSXjd1b/k0UJsPXEEv1N2q3hop4fDXB3glWkcqgxfQ7qlyqQB6nvgLAjCl+vG+t5FqzmmW8IijJLeos/SRbAVUsCKn078Na+20MgPNLxapLR1FoH1Ztn/gmCa0NfQHhNYccvltrLa5VLH28PyoLzjlPfsw8gHTHMkmxNoN9F89vG2mLa857+0jMbz6any8quyVskOQ9D56XQpw3nkqECr6We0IecBArxP6E0ii/2Xjf+W4Y58A3sZbA9R3hii2uSddhgexdZZ3qsh4Cz//rg52OiPVY0Mg9zMCjMvB8RxA2U87VYlc/087muOGlAOMyGavhb4BgvDMpD5HZaGTKIy4oRRB2l189vlmdOZ8Lloz8jkeAP0RNq89tEE68JMypScyt1IU3b85SRk5ENO44gTFhZis+D2aVZekGGCAydNb9MpJuuu0tjpMFvBgjDR/yjBv+qHW55h9J7LUz07lwCzcUUAMI+tuaf2RAeng==;z1bqgKtT80hjXNsqBFcNFQ=="
+secured: "eudSYsapeP3K61qK7HIwyWbu+IZtZossyJI6UJJS4NKRXNrEIoU7hjwmJ3ZrG5LWz65NwhEPHpqMqvSe0HyJdruHvfZTkIS5BqqX8VN4yPKDHqcG0HiDvASYW3Lj7we6z5YeyjWGoePbi6DsOVFhMCIxJFyTvlIHtI6suFlvPcM+O8mvsS7nzd65FNk2gFYs5CR4Oq3r6MQUdo/+eaZo08EaiQjo025hKJp5npeBKxYzkmUZZEAIHcWDRM1DyZCjL8LNtVBd/4Dj9ERHCdnaXBIrTJyQK1K85fSMIJmbDi8QVzVWbR8yLfzLjdPoEhj1/SwoQuJOJliUv1/IvZ+Qe83d+8w3uQKYyiuEFje16xg=;Wz3Pbef/bO7QCxE/WP0mzA=="
 ---
 

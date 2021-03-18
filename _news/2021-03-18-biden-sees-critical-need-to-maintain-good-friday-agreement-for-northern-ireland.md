@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B912N"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B912N"
 type: article
 quality: 121
-heat: 141
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Several U.S. states sue Biden administration for revoking permit for Keystone XL pipeline"
-    excerpt: "(Reuters) - Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday. The lawsuit ..."
-    publishedDateTime: 2021-03-18T00:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-keystone-lawsuit-idUSKBN2BA04S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA04S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA04S"
+  - title: "Biden to affirm support for Good Friday Agreement in meeting with Irish PM"
+    excerpt: "President Biden on Wednesday will speak via video with the prime minister of Ireland to mark St. Patrick's Day in a virtual version of what is typically an annual in-person celebration."
+    publishedDateTime: 2021-03-17T10:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with"
+    ampWebUrl: "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: The Hill
+      domain: thehill.com
+    quality: 123
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555283716&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H02R"
-        width: 817
-        height: 545
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030521getty_memo.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "C4+QbZUMTMNoDnvljldH6cPKdpSvXNi01QghFIj9Z0MWsloLcyTAHsqT2xren83oXYYck8qLU0a5KjdaPrrj/HXJzCagQvlC8pRMWcTeUtyqBMuhG9jh2+bcDvaaNRpzA47B0xUIoAk2v23X8jklUaHQ0KPe/vF5wlrWEr+SWodDyRSbPjLtixUoy81aNmO0rP1xNjsAnFiNwcBw8/Ycg7zeDN80Pxjnthb+Qb37ERloiGsGa4xzRwk85zVZcYRYXIISZQO8UF6je0DFTvWqMvzQ70Oavvgp1PB1F+wEOkc2ve4UxDDTILQ2XqLXtP9XD70HL19NcWeG2154wQ711qrjwtuCA+yHaF9FPV9daJwy0uMbs922boK7/zuX2gxfGRjfFwxRIH6l3H0BaumL4NZb5UQsmvLr34iug9VvtlexQmKe1lgcNg3bL1Hz1OEGKPY8mkiwz9Pyhaz8rlAcs/SXkCwEdLQK5yNtqE4c1F2zb05MyyS3aFZM5OKvmdD8ZpY1Y5JkVVHq4EVH2YPVBg==;hodNYjugn8p7sPTEOnOc9A=="
