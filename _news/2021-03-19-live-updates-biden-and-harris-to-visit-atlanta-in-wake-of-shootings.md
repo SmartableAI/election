@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Joe Biden and Kamala Harris plan to visit with Asian-American leaders in Atlanta."
-excerpt: "President Biden and Vice President Kamala Harris at the White House last week. They plan to travel to Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris will meet in Atlanta on Friday with community ..."
-publishedDateTime: 2021-03-18T14:40:00Z
-originalUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.html"
-webUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.html"
-ampWebUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
+title: "Live Updates: Biden and Harris to Visit Atlanta in Wake of Shootings"
+excerpt: "Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta. The suspect wanted to curb his sexual urges, a former roommate says. Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta. President Biden and ..."
+publishedDateTime: 2021-03-19T05:01:00Z
+originalUrl: "https://www.nytimes.com/live/2021/03/19/us/atlanta-shootings-massage-spa"
+webUrl: "https://www.nytimes.com/live/2021/03/19/us/atlanta-shootings-massage-spa"
+ampWebUrl: "https://www.nytimes.com/live/2021/03/19/us/atlanta-shootings-massage-spa.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/19/us/atlanta-shootings-massage-spa.amp.html"
 type: article
-quality: 145
+quality: 160
 heat: -1
 published: false
 
@@ -22,11 +22,12 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
+  - Joe Biden
   - Democratic Voice
+  - Kamala Harris
 
 images:
-  - url: "https://static01.nyt.com/images/2021/03/18/multimedia/18atlanta-shootings-briefing-biden-harris/18atlanta-shootings-briefing-biden-harris-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing/19atlanta-shooting-briefing-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -144,22 +145,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Live Updates: Biden and Harris to Visit Atlanta in Wake of Shootings"
-    excerpt: "Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta. The suspect wanted to curb his sexual urges, a former roommate says. Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta. President Biden and ..."
-    publishedDateTime: 2021-03-19T05:01:00Z
-    webUrl: "https://www.nytimes.com/live/2021/03/19/us/atlanta-shootings-massage-spa"
-    ampWebUrl: "https://www.nytimes.com/live/2021/03/19/us/atlanta-shootings-massage-spa.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/19/us/atlanta-shootings-massage-spa.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 160
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing/19atlanta-shooting-briefing-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta."
     excerpt: "President Biden and Vice President Kamala Harris will visit Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris, the first Asian-American in the role, will meet with Asian-American leaders in Atlanta on ..."
     publishedDateTime: 2021-03-19T09:01:00Z
@@ -191,6 +176,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/bidenharrisntl.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Joe Biden and Kamala Harris plan to visit with Asian-American leaders in Atlanta."
+    excerpt: "President Biden and Vice President Kamala Harris at the White House last week. They plan to travel to Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris will meet in Atlanta on Friday with community ..."
+    publishedDateTime: 2021-03-18T14:40:00Z
+    webUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/18/multimedia/18atlanta-shootings-briefing-biden-harris/18atlanta-shootings-briefing-biden-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote"
     excerpt: "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ..."
@@ -239,6 +240,6 @@ related:
         height: 619
         isCached: true
 
-secured: "FSLTO46tTvyg7mVvTRCS527VqYQG8R55wABlSTpp4emCZIUWwJ+XGlDv/pfH1vSlS7VMWaxJZZ0aEn415OYoGfkYc4kLAn4ikcO6+4Z0qhBmUaH07MmPTSU1R35DX5kXSfUJhzsmEoEslYv4Xbk2Gy3xGD1TKwn7IqqEjJ6i33beYAX+KxNq3RymT4PaB1pB9bOHDdJP1I6jWAZJL6s7yWsXtHs6whlGsW5rIMb6KtODqxx2Xv1FWMbtoeBTJtcQNAhhWqy+tpDImVMJwYcbcGq2T4jKKwrAq8feFdlOvpGdkfowksaybfLMqJe/Z2QVUoOn1kyvHHAQmRG9oUBT5LCQmFqJeyW2NDv6/mbnaD4eSZbY+pLgOMAZMXgly+lNVoJ5Nloqj8yRogQojOEY3E0UPRok/+cEypCJ8GDX/A0fvJwOyp7j4rFWtuU2IkuL/dGFCN+BC3+9fHq3qmiWxmzHCNchSycgX8SAJ5lAmedCUhILDCXD4KcASkEE8W+aUrSQVcDv4ivzek2FrLZLGQ==;r5W8VL2VnVHg/PUYRBQpOg=="
+secured: "FckD0RirY3KmdQk0+gLLSG/b0x/kZ3AnPMSac1I9vwPPzeLkBlUuxnlvLRxu94r2nBu1HoI5UegW8LqyI2Hiiu6sQxKigdckL72NmJp2NfRX7gKXb5S0YQnvvXqAlgG/KW8k+mQuYW2tdp1qsxqeTl5fEQ92v0EvReCe+0e5wabUKVFjhtSsX1y2kJCR3UHCEJRiiW0TnNje3aCnfEhd9IC+mT4birIXyTYFaT4ml45m1gZkl504Xv/7QV36KzdIuessANstuxS2+c4MASbtZCWm/P6jxrsTJjR/35bgNAyH1S2JsOR7C11keERPytd8//cknKlsROqn+PBus4zKopUc6RZG/QPzlMyQjxmm6IM=;FhD1keJRfuMPS5Kn5N2ghA=="
 ---
 

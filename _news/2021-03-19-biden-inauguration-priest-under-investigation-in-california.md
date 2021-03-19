@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden inauguration priest, a longtime family friend, being investigated in California"
+    excerpt: "Reverand Kevin O'Brien, a longtime Biden family friend, is on leave from the university he heads, which says the allegations involve potentially inappropriate conversations."
+    publishedDateTime: 2021-03-19T09:13:00Z
+    webUrl: "https://www.cbsnews.com/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/19/25ba52c7-ab79-4224-8ba2-55fbc9dd7bb1/thumbnail/1200x630/c5af5b26f8d2927d90ec23f9fdf81972/priest.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Biden says Gov. Andrew Cuomo should resign if allegations of harassment are true"
     excerpt: "WASHINGTON — President Joe Biden said Tuesday that New York Gov. Andrew Cuomo should resign if an investigation into allegations he sexually harassed multiple women finds the claims are true. \"Yes,\" Biden said when asked in an interview with ABC's ..."
     publishedDateTime: 2021-03-17T02:16:00Z
@@ -158,6 +174,6 @@ related:
         height: 630
         isCached: true
 
-secured: "QguYWwkYMfS2+G7bnRYS3Mr2Ij2PRQhNeN8PWnWTLeBsGtHD4EzNNO/G8Sfa1594Wt1x5BJdscRoAlv04uCw3/OMX+GNz/axuT2BCxEnTNau70Mp1n022beXQ9uCmiz35Eo0ccc2CcDZhZ/yqU3NdrbyxpbnB+J/rZPYe6QbmHxrCNIIOOM9h7pHx9jthNAPM3RSXXnncjge6vCtU/K8BVHVn3N/a6sjr2EdhUsTmzlgUuNi0YZ6BpzH5ywv5AOWBonkurhR8Hyh9xPMkVx+gwdjH4sGNz9mB5WuWHDyRtTHHakZqjSC2V+tND62jSvmyFDINQMAly/oz11/acrJv37NDtd7msAId3ipvi1mMPE=;p9p4wDtTTSKf+sWB3EK8tw=="
+secured: "q1ZHL9GLX87GlnZnadPGBhmGOfJiqS7tHwDMMeE34EWMOb3kzTC6xThdYqUToVKJpNu4JE0Uil+n5YRaJUaOLCe7YlXChEm02bZMqvpCFT6ft1nIpAZ6SzJS47Xa1cQCDe2UZAtQ7p9CHllkNJ+vMsYRyC5yIc8BINyBPLIlXxAWbVqeaZiU0h+g8w1r+d9l7TOAH0Ljfs5WL0zPxXn96rDVy16FuDgjpxGMQ5hYSfurLqNJLLO7N9ElyVb3Fk8jLjDjwkyYWSrrRIQY+PYmdq4eOkMm68GThWmjDNHiP+7RdhqHLvJn/xU2DaTLReZGWFfMdTsrjwE2j8FAPRvptbkfT2ZS+hBGlUvOv+OtMzQJ3JS0jXbXCavsgsUM/6hHqp7ui5Uxu4yEPQhUGgGkr8zqrljWOFvzTW8wauM+G2CkXV4n0j/q7wvqDop8diNEssgOqfxXC4omYOjP0o6Sv7jVAdELDrC5L8jT+z3SXxj/Fcb4R2EwKfXeVIJXeSKwAu4uCjxfgl9dD/FxGIC2iA==;fjuoieHqZbg5Z+me/TFZtA=="
 ---
 

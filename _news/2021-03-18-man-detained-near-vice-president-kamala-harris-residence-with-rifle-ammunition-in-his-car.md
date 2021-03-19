@@ -570,16 +570,16 @@ related:
         height: 433
         isCached: true
   - title: "VP Kamala Harris at Ceremonial Swearing in of Katherine Tai"
-    excerpt: "Vice President Kamala Harris (R) participates in the ceremonial swearing in of Katherine Tai (L), with her husband Robert Skidmore (C), as United States Trade Representative in the Vice President's Ceremonial Office in the Eisenhower Executive Office ..."
+    excerpt: "Vice President Kamala Harris (R) participates in the ceremonial swearing in of Katherine Tai (L), with her husband Robert Skidmore, as United States Trade Representative in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building ..."
     publishedDateTime: 2021-03-18T23:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/702d761fa742deefe0c289a31a83d610/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Katherine-Tai/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a2eab7bc4c7d7253d5f0e0e95312963c/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Katherine-Tai/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/702d761fa742deefe0c289a31a83d610/HARRIS-TAI.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/a2eab7bc4c7d7253d5f0e0e95312963c/HARRIS-TAI.jpg"
         width: 650
         height: 433
         isCached: true

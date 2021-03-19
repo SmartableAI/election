@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1757732/democratic-representative-ted-lieu-california.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Study shows Trump's \"Chinese virus\" tweet sparked increased use of anti-Asian hashtags on Twitter"
+    excerpt: "A tweet by then-President Trump using the phrase \"Chinese virus\" sparked an increase in the use of anti-Asian hashtags on Twitter, according to a University of California, San Francisco study published on Wednesday. Researchers examined nearly 700,000 ..."
+    publishedDateTime: 2021-03-19T08:34:00Z
+    webUrl: "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/16/dda11331-c7e4-496d-b559-bc92ae2645e3/thumbnail/1200x630/b560b80e1fded362511a619970848848/cbsn-fusion-twitter-purges-accounts-associated-with-qanon-thumbnail-669403-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'No question' Trump worsened anti-Asian sentiment: WH"
     excerpt: "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ..."

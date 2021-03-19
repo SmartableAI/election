@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Ted Lieu Raises Donald Trump's 'Kung Flu' Rhetoric After Atlanta Spa Shootings"
-excerpt: "At least eight people were killed in three shooting incidents in Atlanta with six identified as women of Asian descent."
-publishedDateTime: 2021-03-17T11:09:00Z
-originalUrl: "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746"
-webUrl: "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746"
-ampWebUrl: "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1"
+title: "Study shows Trump's \"Chinese virus\" tweet sparked increased use of anti-Asian hashtags on Twitter"
+excerpt: "A tweet by then-President Trump using the phrase \"Chinese virus\" sparked an increase in the use of anti-Asian hashtags on Twitter, according to a University of California, San Francisco study published on Wednesday. Researchers examined nearly 700,000 ..."
+publishedDateTime: 2021-03-19T08:34:00Z
+originalUrl: "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
+webUrl: "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
 type: article
-quality: 121
+quality: 112
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1757732/democratic-representative-ted-lieu-california.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/16/dda11331-c7e4-496d-b559-bc92ae2645e3/thumbnail/1200x630/b560b80e1fded362511a619970848848/cbsn-fusion-twitter-purges-accounts-associated-with-qanon-thumbnail-669403-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Study shows Trump's \"Chinese virus\" tweet sparked increased use of anti-Asian hashtags on Twitter"
-    excerpt: "A tweet by then-President Trump using the phrase \"Chinese virus\" sparked an increase in the use of anti-Asian hashtags on Twitter, according to a University of California, San Francisco study published on Wednesday. Researchers examined nearly 700,000 ..."
-    publishedDateTime: 2021-03-19T08:34:00Z
-    webUrl: "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
+  - title: "Ted Lieu Raises Donald Trump's 'Kung Flu' Rhetoric After Atlanta Spa Shootings"
+    excerpt: "At least eight people were killed in three shooting incidents in Atlanta with six identified as women of Asian descent."
+    publishedDateTime: 2021-03-17T11:09:00Z
+    webUrl: "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746"
+    ampWebUrl: "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/16/dda11331-c7e4-496d-b559-bc92ae2645e3/thumbnail/1200x630/b560b80e1fded362511a619970848848/cbsn-fusion-twitter-purges-accounts-associated-with-qanon-thumbnail-669403-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1757732/democratic-representative-ted-lieu-california.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "'No question' Trump worsened anti-Asian sentiment: WH"
     excerpt: "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ..."
@@ -94,6 +94,6 @@ related:
         height: 800
         isCached: true
 
-secured: "pTxp4xaON4Vss0LWPwxFqMfXgAYxcBheikwZT4vKcSOJjQTETqneQf4/nYKJQhlJcGfpwM16js1GbvRI2NciBA1FAvJ73Sy1geNgIQJJTHKCLQZVl4PEBkW8eZ5Qkzy9wD5iji+cPkfluytDwzNAcmGg3ezIxM7LvR9gK7zD8m0DFbeJYvlOFY5oWfDbOXK3xfwn0FVHGjRYeJdjX5CHaNJEY9GyNabUT7IsgKXpicdIgCXUccBbEk3lb12RzXDtFblCxOn0FWHDjdHgSvzG376hGKGWxEw3fPLwWYhBYOAY9INIJnJJAtS1YSt+w4jrrzmFgd3TI6Mqdk+hlWNlaqvJilLzZZNUgH76lmZEBRxHN4xVHqon7qBqywtBCl5C9BRQvqKlJQ+0d4KXrhnx9QeD4rnZ3cY4kpuGsnyGSnxliNwAoknqiau3kJGM2O/QvNqah03KIublCsxEk2Mx+I3PX/tMkdAXvQ9L4xGEq6iICd8yTbP3FLjOuMjgZLyLPEqM5y1prs2uNpnHiu1Jog==;4bIkvURi5vZ7NvF2mxyrXw=="
+secured: "XQ7Pwm0QnDmRyB/ermCvbvJbw608E040hQXWbaF3U5f6PR0eAdUCFp+9VuKiJd0AH7zZhcfc6LvQuTwNJwVydL2Z0fBFAFHst/ZpB1SUWSUh8Z/djW4D80+qXDiBe7utJ4tqlB0gJln2Ssjf1Vplm/GwCeun+rRHdb74/KxLVHlgDSHcBBVh+Zv+IauQAcxI9tv9NoEGFnx93lkPS0v8ktIwdifdjgu8e5rzb+hw0itCahPGTfy5idv+vceFdONWYNWUYzHOta8V5IETWyndVy249FF+L5uVNV0muC9IuseMbV4SYU1PUaY+2/xet56NMCz7kqVE5Mptm4P3bNIaCHxbkObAehg9WeVdMjZai6s=;cfuoU7RhWfwb4EOUbQbfRQ=="
 ---
 

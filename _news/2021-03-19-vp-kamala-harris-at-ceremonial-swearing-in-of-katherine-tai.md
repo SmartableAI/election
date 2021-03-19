@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris at Ceremonial Swearing in of Katherine Tai"
-excerpt: "Vice President Kamala Harris (R) participates in the ceremonial swearing in of Katherine Tai (L), with her husband Robert Skidmore (C), as United States Trade Representative in the Vice President's Ceremonial Office in the Eisenhower Executive Office ..."
+excerpt: "Vice President Kamala Harris (R) participates in the ceremonial swearing in of Katherine Tai (L), with her husband Robert Skidmore, as United States Trade Representative in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building ..."
 publishedDateTime: 2021-03-18T23:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/702d761fa742deefe0c289a31a83d610/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Katherine-Tai/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/702d761fa742deefe0c289a31a83d610/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Katherine-Tai/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/a2eab7bc4c7d7253d5f0e0e95312963c/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Katherine-Tai/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/a2eab7bc4c7d7253d5f0e0e95312963c/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Katherine-Tai/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/702d761fa742deefe0c289a31a83d610/HARRIS-TAI.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/a2eab7bc4c7d7253d5f0e0e95312963c/HARRIS-TAI.jpg"
     width: 650
     height: 433
     isCached: true
@@ -631,6 +631,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "/kQTMShFc3820n/u/8RlSUt0y9MufW6p6v6tTMGp8Ndv/V1apCPyM0cdqi24WNXTMIl6I8++1H9vPjItOjM6Se0NvLKVLH2YqmEek2NQWqWefYdgOM/FXB5EddIVLWMqxY0A4s4xNSA2dvuTdRcecTy2XCvkJNgAHSLdfRI5URhLGboApcLOqB7USoxXW5xhGOzTXu4uFFTfUu1qBKZgDLh76JxJk8Sn7ney3ZntOwXykIaM4683aB/5d62BYjGn0KlAEZhtaapYR+yggvLfta9KRaPTHbB+kBChKnsRweXlvKDOukf4UHetxERGMJWnvJeZ+zM5hFVECRgZhH8VJFpoq81LnYcz34/cLP0NJtQA7Vtkg+tOkJBdLzlHz1Mb57e001+q24O00QXnmt1SJzgZq7EyR9+VuBtAc6mSEIIwbxzg588RVGIq8axxPv/ecIbglWK01mN4dhS1n5NSTYvuhN9NYavynGuyTVxKP5cWK/QRfzpgCgfnB67ZTYHLQy4jXxsC4Mby4lF73/G7rA==;4LMj318ZHMn2/57xUVOOQg=="
+secured: "OZdR2WlRSaHY42jsVdVB9jO60FCyZ5r2yaFreFw0d83mle5bsydUWTTFXW2XymBSMkHzsJgUsvvW+Oob/yEQWj64r7T9oAcXBAbjUc32UvfM2rJSjNILh3a+8hk7v7NTq+zBMcxc3ICBYiVrb5OO86rwBXbGHy7Y8emt2zNCray/zwzaHHijuShY+wx/2nSIgYHjOhImTtkKUBSEuegXNUFYS6SdMIufmVpbuLTcNVFhoqGSxBeQgBachgh79atTvxI/AV2q8b35+Swbl/XbmzdRVkounE1kJy4l19NSTN5bpZvTiqWdr1ogV1wzR/ZvU6KsHYtJwAddbgFLe4Xi3H3o5seHPhCuk4n92t3Vj0c=;XR4b+g/dsW1Bh9WUsk/ArA=="
 ---
 

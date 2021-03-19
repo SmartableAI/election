@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/16/e5b5cb81-84e1-400b-b8d0-0c9bca68ea56/thumbnail/1200x630/f7ae7d2a55b10073c60e65ff0391428c/cbsn-fusion-cuomo-accuser-reveals-new-details-about-governors-alleged-behavior-thumbnail-669558-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden inauguration priest, a longtime family friend, being investigated in California"
+    excerpt: "Reverand Kevin O'Brien, a longtime Biden family friend, is on leave from the university he heads, which says the allegations involve potentially inappropriate conversations."
+    publishedDateTime: 2021-03-19T09:13:00Z
+    webUrl: "https://www.cbsnews.com/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/19/25ba52c7-ab79-4224-8ba2-55fbc9dd7bb1/thumbnail/1200x630/c5af5b26f8d2927d90ec23f9fdf81972/priest.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "TRANSCRIPT: ABC News' George Stephanopoulos interviews President Joe Biden"
-excerpt: "EXCLUSIVE: Biden says Cuomo should resign if investigation confirms women’s claims On Tuesday, March 16, 2021, ABC News' George Stephanopoulos interviewed President Joe Biden. The following is a ..."
-publishedDateTime: 2021-03-17T16:36:00Z
-originalUrl: "https://abcnews.go.com/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
-webUrl: "https://abcnews.go.com/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
+title: "Biden inauguration priest, a longtime family friend, being investigated in California"
+excerpt: "Reverand Kevin O'Brien, a longtime Biden family friend, is on leave from the university he heads, which says the allegations involve potentially inappropriate conversations."
+publishedDateTime: 2021-03-19T09:13:00Z
+originalUrl: "https://www.cbsnews.com/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+webUrl: "https://www.cbsnews.com/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
 type: article
-quality: 123
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_2_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/19/25ba52c7-ab79-4224-8ba2-55fbc9dd7bb1/thumbnail/1200x630/c5af5b26f8d2927d90ec23f9fdf81972/priest.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "TRANSCRIPT: ABC News' George Stephanopoulos interviews President Joe Biden"
+    excerpt: "EXCLUSIVE: Biden says Cuomo should resign if investigation confirms women’s claims On Tuesday, March 16, 2021, ABC News' George Stephanopoulos interviewed President Joe Biden. The following is a ..."
+    publishedDateTime: 2021-03-17T16:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says Cuomo should resign if investigation confirms sexual harassment claims"
     excerpt: "President Biden said Tuesday that New York Governor Andrew Cuomo should resign if the state attorney general's investigation confirms the claims of the women who have accused the governor of sexual harassment."
     publishedDateTime: 2021-03-17T12:13:00Z
@@ -92,22 +108,6 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/16/e5b5cb81-84e1-400b-b8d0-0c9bca68ea56/thumbnail/1200x630/f7ae7d2a55b10073c60e65ff0391428c/cbsn-fusion-cuomo-accuser-reveals-new-details-about-governors-alleged-behavior-thumbnail-669558-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden inauguration priest, a longtime family friend, being investigated in California"
-    excerpt: "Reverand Kevin O'Brien, a longtime Biden family friend, is on leave from the university he heads, which says the allegations involve potentially inappropriate conversations."
-    publishedDateTime: 2021-03-19T09:13:00Z
-    webUrl: "https://www.cbsnews.com/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/19/25ba52c7-ab79-4224-8ba2-55fbc9dd7bb1/thumbnail/1200x630/c5af5b26f8d2927d90ec23f9fdf81972/priest.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -174,6 +174,6 @@ related:
         height: 630
         isCached: true
 
-secured: "MuzgRQWiPTWH46RqIw2SimcZ/JSLEFifoJcPmBjmmsSLvsLW+3PJnU4w6W8BXpoBgrip829u1KhR7VhyJVghpaHV0rys1+0LrCCciUnZS18pK15qMxkZVFyHYXHxeoXECiUqSMo56VWFEwc85Eouta74sYPYchm1i9X+8eVIWfpXCjfR9TpTAp491sSGJUR6sXtkxHXSeUyH95eljkBn0IZRo/dMJMOgjNT6KKFaBrMlZnipC77s89+pzbBdZkPGszf7R7LXilk6loaXpr4Ydzd0PLX+/A6dMf/Q6F1GlkIbOW8MBlE/p/kcdy2Cq3dQBTPIzqq6wLDlu7KozTZJz8fF4RuhucYdAD0pHaewCK1/Fg2NHSvVq125eBMTK39f/L0e12Ni5wxGHB3tgjRC6nrLbhnwiy+hu01XRpL0Y584oSMmYvzbIl5rzY0QdAe4kZHvlPKE0Hrck7vGqIRQVi4WegTBmGPRcNU/lRdniUYA5qt5w5cEjF4UvhuDFbw4/+2tUKp5Jdutl43kL0mPGw==;YfAA4hrbnzpGypou8jarSA=="
+secured: "4qSv2uVyKpFv7E7rhmXFZ5fIbSApXEmUeH40VR1x6So2MNqwkPWoLs6CddIs9Te5iCmKm9NJZWHHr1j0z7AqclV102x/oHyqtBlMDn4ZZajOHSHC9KZYgN4JLUjGrc/IQTrTi/baRgpIacWHfg7KLFST97VrRp549Qh/RRU1yMKTAdmA4EES+6U6FLoOmnI4oaodu2RZvJ3mFEeaX3ivxJheuUFFzdx0EouvSyzHmaZRDoP1Rv272YLsPZpGJcirqDXqoW2t49VaVIOaH9tGUosHf4tTMeA1ukcKn3WuSnyGoBMUfwQnnCPmAFqadOXbqbT5zE8zrIXLwze2wmQO96M/WOeDnaOrzD/NF8slJSU=;Y2Des9k6FEIGNiWQY9j9qQ=="
 ---
 
