@@ -63,6 +63,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "The word the Biden administration won't use when it comes to the border? 'Crisis'"
+    excerpt: "The Biden administration is facing what it admits is an \"overwhelming\" number of migrants at the southern border, while scrambling to construct new facilities to hold child migrants -- but it is doggedly refusing to describe the situation as a \"crisis.\""
+    publishedDateTime: 2021-03-12T14:53:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8EtxD3tVPc/biden-administration-wont-use-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58b5303f-1cc5-4819-ac7f-0ff6be8a874d/5d3b5642-d252-4d6f-a4f0-c41cadfb9fc0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Chad Wolf: Biden admin's messaging and policies a 'disaster,' fueling migrant surge"
+    excerpt: "The Biden administration's messaging on the border issues has been a \"disaster,\" former Homeland Security Secretary Chad Wolf said on Friday, reacting to the influx of migrants at the southern border."
+    publishedDateTime: 2021-03-19T19:13:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2kawZ73fMs/chad-wolf-biden-administration-replaced-secure-border-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/chad-wolf-biden-administration-replaced-secure-border-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chad-wolf-biden-administration-replaced-secure-border-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden’s ‘inhumane’ message puts migrants in hands of smugglers, traffickers: Chad Wolf"
     excerpt: "President Biden’s \"inhumane\" border policies are encouraging migrants to put themselves in the \"hands of smugglers and traffickers,\" former Acting DHS Secretary Chad Wolf told \"America Reports\" Thursday."
     publishedDateTime: 2021-03-11T22:25:29Z
@@ -110,6 +142,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Rep. Crenshaw hits Biden for 'creating border crisis': Dems 'don't want the truth to get out'"
+    excerpt: "The Biden administration created a crisis on the border by rescinding former President Trump's policies, Rep. Dan Crenshaw said on Wednesday, reacting to migrants who were revealed to be on the terror watch list."
+    publishedDateTime: 2021-03-17T15:28:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wDsxR61d58I/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out"
+    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "A8HGu8nDsbAoOtZq5QA7DwTILOkUX1wbkOINjDRGaoAbcp5flrO8yLuoIITueK+Edhtyvczb6B/I3XwyrvPOQtylf2tYIwVh5r84aVxN8O1XYGUvt9sjpJGXt23AAFQA05MH4aiURfu4BdEc8OBP0sCFf2tGa9wEStENTs3gTAshHD62vFN/pjoBsS2NDSJs5mVBFgHmTk4FF8nSJB6u0glVh2fDhjCOMGCMyU3WBav5PbTI928ErYP+ENMcEXhTzoFSYYi+hRh438hanuBEntRSs3PmgRw6zB4G9MMAnFz17hsK/oekwApnaTKz7QaCgTn+6LcRT3p3ozASZjhhSL3FnXqfC7W+uCOmrPL+Wvs=;eJ/hBaopBKzC/ph2DHWQTw=="

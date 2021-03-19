@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Trump fixer Michael Cohen meets with New York DA for the eighth time"
+    excerpt: "Michael Cohen, former President Donald Trump's former fixer, is meeting for the eighth time with the Manhattan District Attorney's office on Friday, according to a person familiar with the matter.\n    \n"
+    publishedDateTime: 2021-03-19T19:13:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kwEh88bGMDI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310210025-michael-cohen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McCarthy tries to rewrite history by claiming that he didn't back Trump's efforts to overturn the election"
     excerpt: "House Minority Leader Kevin McCarthy tried to rewrite history on Thursday by claiming that he was not involved in former President Donald Trump's efforts to overturn the election in a heated exchange during a news briefing.\n    \n"
     publishedDateTime: 2021-03-18T22:45:31Z
@@ -463,6 +479,22 @@ related:
       - url: "https://static.politico.com/c8/ba/b179bcff47c29f2790130692dfb8/20210315-yevgeny-vindman-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Former Trump fixer Michael Cohen meets with New York DA for the eighth time"
+    excerpt: "(CNN)Michael Cohen, former President Donald Trump's former fixer, is meeting for the eighth time with the Manhattan District Attorney's office on Friday, according to a person familiar with the matter. Prosecutors have increased the frequency of their ..."
+    publishedDateTime: 2021-03-19T19:13:00Z
+    webUrl: "https://www.cnn.com/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310210025-michael-cohen-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump set for summit with Putin after 12 Russians charged with hacking Democrats"
     excerpt: "President Donald Trump is one day away from his high-stakes meeting with Russian President Vladimir Putin in Helsinki, Finland. The summit comes just days after the special counsel investigation brought charges against 12 Russian intelligence officers accused of hacking the emails of Hillary Clinton’s campaign and the Democratic party."

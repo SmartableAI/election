@@ -429,6 +429,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NY prosecutors interview Cohen an 8th time in Trump inquiry"
+    excerpt: "Donald Trump's, Michael Cohen, was interviewed on Friday for an eighth time by New York prosecutors investigating the former president's"
+    publishedDateTime: 2021-03-19T16:02:00Z
+    webUrl: "https://www.chron.com/news/article/NY-prosecutors-interview-Cohen-an-8th-time-in-16038518.php"
+    ampWebUrl: "https://www.chron.com/news/amp/NY-prosecutors-interview-Cohen-an-8th-time-in-16038518.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NY-prosecutors-interview-Cohen-an-8th-time-in-16038518.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Asia Stocks Track US Rally As Recovery Hopes Trump Inflation Fear"
     excerpt: "Optimism over the economic recovery helped push Asian markets higher Tuesday following another record on Wall Street, with focus on the Federal Reserve's much-anticipated policy meeting this week. News that several European countries had stopped ..."
     publishedDateTime: 2021-03-16T08:20:00Z

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden admin under fire over lack of transparency on border crisis"
+    excerpt: "The Biden administration is facing increased scrutiny from the media for the lack of transparency around the child migrant facilities along the U.S.-Mexico border, which has transformed into a border crisis."
+    publishedDateTime: 2021-03-19T17:38:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FOXRraan5dI/biden-psaki-mayorkas-visit-border-crisis-transparency"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-mayorkas-visit-border-crisis-transparency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-mayorkas-visit-border-crisis-transparency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3b25a0f-3621-4168-b114-166c60079794/d952f25e-75d7-465d-a804-1fe4932ca34d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi says Biden has southern border situation 'under control'"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., expressed confidence in President Biden's handling of the surge of migrants at the Southern border, saying he's got it \"under control.\""
     publishedDateTime: 2021-03-19T17:03:08Z
@@ -172,6 +188,20 @@ related:
     quality: 157
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a94a9aa-c92b-4669-b50d-958d74be7fa0/64d54400-2a84-464f-b2df-17b212474f47/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans renew call for border crisis hearing amid Biden's 'open-borders rallying cry'"
+    excerpt: "EXCLUSIVE: Republicans are renewing calls for Democrats to hold a hearing on the growing crisis at the southern border -- while warning that the Biden administration has been sounding an “open-borders rally cry.”"
+    publishedDateTime: 2021-03-15T16:09:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwduK8UUyqE/republicans-renew-call-border-crisis-hearing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe9eafdf-a54e-4b6d-b45e-420094e73a89/7cc93579-97ff-4493-8721-9ea5284ab154/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

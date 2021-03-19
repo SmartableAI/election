@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Trump fixer Michael Cohen meets with New York DA for the eighth time"
+    excerpt: "Michael Cohen, former President Donald Trump's former fixer, is meeting for the eighth time with the Manhattan District Attorney's office on Friday, according to a person familiar with the matter.\n    \n"
+    publishedDateTime: 2021-03-19T19:13:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kwEh88bGMDI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310210025-michael-cohen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump wants top Republican fundraising organizations to stop using his likeness"
     excerpt: "Lawyers for former President Donald Trump sent out cease-and-desist letters Friday to the Republican National Committee, the National Republican Congressional Committee, and the National Republican Senatorial Committee for using his name and likeness on fundraising emails and merchandise, a Trump adviser"
     publishedDateTime: 2021-03-06T17:44:05Z
@@ -446,6 +462,22 @@ related:
       - url: "https://static.politico.com/c8/ba/b179bcff47c29f2790130692dfb8/20210315-yevgeny-vindman-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Former Trump fixer Michael Cohen meets with New York DA for the eighth time"
+    excerpt: "(CNN)Michael Cohen, former President Donald Trump's former fixer, is meeting for the eighth time with the Manhattan District Attorney's office on Friday, according to a person familiar with the matter. Prosecutors have increased the frequency of their ..."
+    publishedDateTime: 2021-03-19T19:13:00Z
+    webUrl: "https://www.cnn.com/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310210025-michael-cohen-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Russian Interference in 2020 Included Influencing Trump Associates, Report Says"
     excerpt: "Biden Jr., including intelligence operations to influence people close to former President Donald J. Trump, according to a declassified intelligence report released Tuesday. The report did not name those people but seemed to be a reference to the work of ..."

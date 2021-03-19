@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-social-media-influencer
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
 type: article
 quality: 173
-heat: 293
+heat: 273
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden, no stranger to inappropriate touching accusations, gives Cuomo pass"
-    excerpt: "President Biden refused to join the chorus of fellow Democrats calling for New York Gov. Andrew Cuomo to resign, as Cuomo faces multiple scandals, including allegations of improper touching."
-    publishedDateTime: 2021-03-15T15:09:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fIN5Q2skAIo/biden-inappropriate-touching-accusations-cuomo"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden admin 'letting everyone in' with catch-and-release policies: Rep. Biggs"
     excerpt: "On Tuesday, Rep. Andy Biggs R-Ariz., claimed that the Biden administration is \"basically letting everybody in\" at the border and said that they are \"encouraging\" more people to come as immigration continues to surge in the United States."
     publishedDateTime: 2021-03-09T19:40:15Z

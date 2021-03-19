@@ -352,6 +352,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden is president 'in name only' based on admin's left-wing agenda: Hilton"
+    excerpt: "Fox News host Steve Hilton asserted Friday that Joe Biden is not in charge of the White House and the president 'in name only.'"
+    publishedDateTime: 2021-03-19T18:09:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dLDj1WvVaa4/biden-president-gaffe-left-wing-agenda-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-president-gaffe-left-wing-agenda-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-president-gaffe-left-wing-agenda-democrats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b44d8898-b1c8-4c5b-a72d-83ccef285fcc/013259a8-9f4a-4146-8a94-070367bf7f9d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's words on migrant children without beds, soap could come back to haunt him"
     excerpt: "In 2019, then-candidate Biden went after then-President Donald Trump online over the conditions at detention centers holding migrant children as the Trump administration argued in defense of the facilities in federal court."
     publishedDateTime: 2021-03-16T20:15:11Z

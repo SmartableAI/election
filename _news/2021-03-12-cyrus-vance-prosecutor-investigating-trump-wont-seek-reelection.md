@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-ma
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-manhattan-da/"
 type: article
 quality: 140
-heat: 760
+heat: 780
 published: true
 
 provider:
@@ -414,6 +414,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/2b6/ae1/5cd2b0c410b6f6cd1db0c9832a5ef9871f-8-cyrus-vance.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "NY prosecutors interview Cohen an 8th time in Trump inquiry"
+    excerpt: "Donald Trump's, Michael Cohen, was interviewed on Friday for an eighth time by New York prosecutors investigating the former president's"
+    publishedDateTime: 2021-03-19T16:02:00Z
+    webUrl: "https://www.chron.com/news/article/NY-prosecutors-interview-Cohen-an-8th-time-in-16038518.php"
+    ampWebUrl: "https://www.chron.com/news/amp/NY-prosecutors-interview-Cohen-an-8th-time-in-16038518.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NY-prosecutors-interview-Cohen-an-8th-time-in-16038518.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Netanyahu Fights For Re-election Without Key Ally Trump"
     excerpt: "As Israeli Prime Minister Benjamin Netanyahu faces a re-election battle next week, he's missing an ally he could rely on during three previous votes over the past two years: Donald Trump. The American former president's conservative base was avidly pro ..."

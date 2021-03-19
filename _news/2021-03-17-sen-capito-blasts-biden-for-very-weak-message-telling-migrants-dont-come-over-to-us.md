@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "The word the Biden administration won't use when it comes to the border? 'Crisis'"
+    excerpt: "The Biden administration is facing what it admits is an \"overwhelming\" number of migrants at the southern border, while scrambling to construct new facilities to hold child migrants -- but it is doggedly refusing to describe the situation as a \"crisis.\""
+    publishedDateTime: 2021-03-12T14:53:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8EtxD3tVPc/biden-administration-wont-use-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58b5303f-1cc5-4819-ac7f-0ff6be8a874d/5d3b5642-d252-4d6f-a4f0-c41cadfb9fc0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "North Korea warns Biden administration to avoid 'causing a stink' if it wants peace"
     excerpt: "The sister of North Korean leader, Kim Yo Jong, criticised ongoing military drills in South Korea and warned the new U.S. administration against “causing a stink” if it wants peace, state news reported on Tuesday."
     publishedDateTime: 2021-03-15T23:21:37Z
@@ -78,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cbfcdd6-020a-4356-8354-e3b36978071e/8c4af3ca-6a87-4366-a264-f6213f22a7d2/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Chad Wolf: Biden admin's messaging and policies a 'disaster,' fueling migrant surge"
+    excerpt: "The Biden administration's messaging on the border issues has been a \"disaster,\" former Homeland Security Secretary Chad Wolf said on Friday, reacting to the influx of migrants at the southern border."
+    publishedDateTime: 2021-03-19T19:13:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2kawZ73fMs/chad-wolf-biden-administration-replaced-secure-border-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/chad-wolf-biden-administration-replaced-secure-border-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chad-wolf-biden-administration-replaced-secure-border-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden’s ‘inhumane’ message puts migrants in hands of smugglers, traffickers: Chad Wolf"
     excerpt: "President Biden’s \"inhumane\" border policies are encouraging migrants to put themselves in the \"hands of smugglers and traffickers,\" former Acting DHS Secretary Chad Wolf told \"America Reports\" Thursday."
@@ -110,6 +142,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Rep. Crenshaw hits Biden for 'creating border crisis': Dems 'don't want the truth to get out'"
+    excerpt: "The Biden administration created a crisis on the border by rescinding former President Trump's policies, Rep. Dan Crenshaw said on Wednesday, reacting to migrants who were revealed to be on the terror watch list."
+    publishedDateTime: 2021-03-17T15:28:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wDsxR61d58I/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out"
+    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "fnzDooqkG93s7K27TfnLmRZk2izfmk3ym2syEuiau1t126UTjFC8FLEqUZ4xRZEzykRRiTyGc56RdKo0CYD2wpMJgk/ojQjaqMVj8NxU9m4mg21n0iiFzMdHgUkvadNLvTF9zedBdWNawkZWH/2DhN58qLWNtvm2q5Lfi3I+k8TPlhUbnf7aTBe/j8yoD0kpLFzkwtqc490Ohjo1yUmurunslMYK6M54aydXNT5xaOx54tzjy48MXUsYzF5Z+2z72dvCZqFw6guj/3wdVzcg20x9e5yKV95O6zQ9RaCiR1C4ogMRf4ulicT4n8R/s8cyXGiDn9Z5TBDGJ62R8SQceMxfcZye8p0yhQWxqPbdZ50=;StZ5N5sCAzGs5DJaLm1Y7w=="

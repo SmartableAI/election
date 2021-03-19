@@ -189,6 +189,22 @@ related:
         width: 4307
         height: 2871
         isCached: true
+  - title: "Ohio governor, trolled by Trump, says he'd take endorsement"
+    excerpt: "Republican Ohio Gov. Mike DeWine, trolled by former President Donald Trump for acknowledging the legitimacy of President Joe Biden’s election, said Friday he’d accept a Trump endorsement for his second gubernatorial run."
+    publishedDateTime: 2021-03-19T19:27:00Z
+    webUrl: "https://www.chron.com/news/article/Ohio-governor-trolled-by-Trump-says-he-d-take-16039144.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Ohio-governor-trolled-by-Trump-says-he-d-take-16039144.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-governor-trolled-by-Trump-says-he-d-take-16039144.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "M6Nd/OBv1NFPDomDNeNlHGgVoK1xn3sdAWpO8THNlqAvQznUKE43DOeZgMLjKQ3m6ECY6TndsIBZ3Qq2/HT4WS1Wbnoee5Ps4TTRR6BPg3ExgHJe9jHMmBA6Dje2YE2g9c93vtB+NGIwVoy4xhDrq6boksF/pherml63JtDHyKDh1WykDh828Mugg96x/t5B2Vo+JMtDk6vPfZclU8enw835RrALtc6Wy+S2R6qAT5jVxuptjgvjmybdVnFMWifsVwmMVu2eqkAk3ul7kP8n+USVZ2C8wGfQQnm3YUzCTpz1a9DFmpCiuGy1fx1o1MgOneZLuCgqvvYfwwKG1niZAL9y3M7DC3JYdnbTuembanYEB6hIhCyyM6BXOFyiiej+EEKGqqPbV/xPZevoQgpyzrt2RBcbjoDmzLQ/MIg6dHYtOn6ndJ7YoJbiWv5rAMzwCGkotMu8gINKa2NdzYMyf4gGvFMBq3dyn5fEScmXBDD25K1Z2QYFaDG4ULUG15VkoRVZmIgTaBg5WNlIrWIGdw==;nv3ctR9Ipxs7UYclVTZODQ=="
 ---

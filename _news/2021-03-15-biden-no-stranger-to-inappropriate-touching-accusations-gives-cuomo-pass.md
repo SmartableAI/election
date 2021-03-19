@@ -31,101 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "White House partners with social media influencers to pitch Biden policies"
-    excerpt: "The White House is partnering with social media influences to pitch President Biden's policies and proposals, including the American Rescue Plan, pioneering what officials are calling a \"digital media tour\" amid the coronavirus pandemic."
-    publishedDateTime: 2021-03-08T16:51:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lJmh6DwrM_o/white-house-social-media-influencers-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
+  - title: "Biden White House says it's ready to have 'frank conversation' with China"
+    excerpt: "The White House said the Biden administration is ready to have a \"frank conversation\" with China and is negotiating from a position of \"strength,\" as officials hold tense bilateral talks with Beijing. "
+    publishedDateTime: 2021-03-19T17:58:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OqQlpkMLDU/biden-white-house-conversation-china"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-conversation-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-conversation-china.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden admin 'letting everyone in' with catch-and-release policies: Rep. Biggs"
-    excerpt: "On Tuesday, Rep. Andy Biggs R-Ariz., claimed that the Biden administration is \"basically letting everybody in\" at the border and said that they are \"encouraging\" more people to come as immigration continues to surge in the United States."
-    publishedDateTime: 2021-03-09T19:40:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hmj13dvFOi8/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
+  - title: "Biden says Cuomo should resign if the investigation confirms accusers' claims"
+    excerpt: "President Biden said Democratic New York Gov. Andrew Cuomo should resign if investigations support the claims made by his accusers."
+    publishedDateTime: 2021-03-17T01:05:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9e41ac5-58cd-4c8d-8149-9a801492bc51/51f9b07e-f976-4081-b4a5-c67a36353512/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6caaaa06-f983-4f4a-89aa-5a4899682cb2/ff5a3dc7-5d0e-49bc-a55c-89cca417a19e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden probe 'active and ongoing' without White House interference: sources"
-    excerpt: "The federal investigation into Hunter Biden’s “tax affairs” is “active and ongoing,” two sources familiar with the status of the probe told Fox News."
-    publishedDateTime: 2021-03-03T13:43:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBi-2viDn9I/hunter-biden-probe-active-ongoing"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp"
+  - title: "5 Biden White House staffers have lost jobs over past marijuana use, says Psaki"
+    excerpt: "Five staffers have lost their jobs during the Biden administration at the White House due to past marijuana use, press secretary Jen Psaki acknowledged Friday."
+    publishedDateTime: 2021-03-19T16:39:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqydXvRRzsw/staffers-lose-white-house-jobs-biden-marijuana-use"
+    ampWebUrl: "https://www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
-    excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
-    publishedDateTime: 2021-03-08T17:50:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U1SHnNmKhqM/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included"
-    ampWebUrl: "https://www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+  - title: "Biden’s inauguration priest under investigation by university after unspecified allegations"
+    excerpt: "The Rev. Kevin O'Brien, the president of Santa Clara University and the priest who delivered the Roman Catholic Mass for President Biden on the morning of his inauguration, is on leave from his job at the university after unspecified allegations against him. "
+    publishedDateTime: 2021-03-19T15:33:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-LbUv83gido/bidens-inauguration-priest-investigation-santa-clara-university"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McCarthy says he hasn’t heard back from White House about request for meeting with Biden on border crisis"
+    excerpt: "House Minority Leader Kevin McCarthy pressed President Biden—again—for a meeting to discuss a bipartisan way to address the situation at the U.S. Southern Border, maintaining that “securing our border should not be a partisan issue.”"
+    publishedDateTime: 2021-03-18T18:41:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZP-R41i2leQ/mccarthy-presses-biden-meeting-situation-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Sen. Bill Hagerty warns Biden of 'increasing aggression' from Iran, says regime testing US resolve"
+    excerpt: "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden expressing concern about \"increasing aggression\" from the Iranian regime -- just as the Biden administration has eased off a sanctions push and is moving to reverse the prior administration’s \"maximum pressure\" strategy."
+    publishedDateTime: 2021-03-17T12:00:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/APGrl_hZuzw/sen-bill-hagerty-biden-increasing-aggression-iran"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Ronna McDaniel: Biden seems more concerned with opening borders than opening schools"
-    excerpt: "The media needs to start probing President Biden the same way they would former President Trump, Republican National Committee Chairwoman Ronna McDaniel said on Friday, reacting to the commander-in-chief facing growing criticism for not holding a formal press conference in the six weeks since taking"
-    publishedDateTime: 2021-03-05T18:08:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e9skWQUfYq0/ronna-mcdaniel-media-biden-open-borders-schools"
-    ampWebUrl: "https://www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Katie Pavlich: Time for Biden to 'take some questions from the press corps about his policies'"
-    excerpt: "President Biden is not fulfilling his promise of transparency to the American people after going his first seven weeks in office without holding a formal press conference, \"Outnumbered\" panelist Katie Pavlich said Tuesday."
-    publishedDateTime: 2021-03-09T21:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pQMcmJ-6hGU/katie-pavlich-joe-biden-press-conference"
-    ampWebUrl: "https://www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "DBJMR6Yth+7c0lL5YBtpK8Locz/QPy33Bvl/IM0C4w81XATLq+DUiYqusib3iZQy6dU058xH4nHQYulwzRytnxT7S9HsCuD6LzEPx+0RF39nGFJNQp4AvWprKZWbw/GYYR0pbPXNtYXNLKb1MxtKdWhtXLxYCku0bVxTqh+QnKwfxOBFn7wfSO3eUbPIyKHGtE0dhXcBfPkyS47Xk2+ad5FdtbkLunxsVDsbhAPPuHuU1gu6vXmGdnWvoPAmOQ9rgNwaW+EqYfPgE2xL6QgmK56WyS25ceGHGAaP8rTHvpB8Qp63OL87O5B8MsQxFPcoprH8NmPMrIcfqoaW2uhIfjyJc3yi0s5vAB7v5tqrDNE=;ihQ27zwGU7vEg1f6axMyRQ=="

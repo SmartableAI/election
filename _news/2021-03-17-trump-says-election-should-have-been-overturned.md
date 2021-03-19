@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/543544-trump-says-electi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp"
 type: article
 quality: 140
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJPCM6T3LFASDDS7LXUUNGRCEM.jpg"
         width: 4307
         height: 2871
+        isCached: true
+  - title: "Ohio governor, trolled by Trump, says he'd take endorsement"
+    excerpt: "Republican Ohio Gov. Mike DeWine, trolled by former President Donald Trump for acknowledging the legitimacy of President Joe Biden’s election, said Friday he’d accept a Trump endorsement for his second gubernatorial run."
+    publishedDateTime: 2021-03-19T19:27:00Z
+    webUrl: "https://www.chron.com/news/article/Ohio-governor-trolled-by-Trump-says-he-d-take-16039144.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Ohio-governor-trolled-by-Trump-says-he-d-take-16039144.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-governor-trolled-by-Trump-says-he-d-take-16039144.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "jzQq2861xE657uHLDKVx6IQhXYekvazAA1SU0Qk7tjfaurfEaVx/cj9b2YIVgxKbBC7uWudnwuY9R8Xckst0Pr3UZyjwpsZYaXzn75bpAQB7PMNs1yKOyA1+RP4/cV4r+biZUVI3vYYP28FaeLSf3jY3ndOf7GVZ6TsI9mygDXGCPQXt7DQaBd5bQruu5oWEnqfHkzAQJBL38hs8sQQ5E+08FPZiT6pdYOkImcpwTDeNG4wXY5aGGOoY9dqQMKFY9tPeUp25yRXkh84cXGuFc0bDkhoi20Y9Ea7wwM+FTG21w0ACF7X3JT1caa2PgaNtst8/ruWi9+ikXTE0uMaT9KA3TWM113FSkg1baKdbnmvws81H14w+PstpZW45eUto444v5pQ9/NGHPwvSLfbD04HhXFYpG5ZgaLhL8raISWR5GCPiPdIZb1pO0paAVBqHkDClgAU9y1yqCYSlEiW2C68rcDfgKwy7r870fomcLVriUIJCkf99AzoMaKmPj58wCMIBnlrTriSD/sYMjYCq0w==;L+o594bPrgww7lHRAu8gzQ=="

@@ -31,83 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'"
-    excerpt: "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. "
-    publishedDateTime: 2021-03-18T17:26:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+  - title: "Biden touts fight against 'climate crisis' while refusing to call border ‘crisis’"
+    excerpt: "In a tweet posted Thursday, the president lauded the swearing-in of his new Environmental Protection Agency (EPA) Administrator Michael Regan and boasted how his new environment czar will fight the “climate crisis.”"
+    publishedDateTime: 2021-03-18T23:14:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/irtKcFvbPew/biden-immigration-border-crisis-climate-change-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-border-crisis-climate-change-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-border-crisis-climate-change-psaki.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be1041b4-3a45-4c0b-9d72-beeadf4278d4/9e2ca884-53d9-4f03-9f67-f970b6b2dd69/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden celebrates St. Patrick's Day with Irish PM, delivers address to Irish Americans"
-    excerpt: "President Biden celebrated St. Patrick’s Day virtually with Irish Prime Minister Micheál Martin Thursday and reiterated the U.S.’ ‘deep, deep affection’ for Ireland. "
-    publishedDateTime: 2021-03-17T23:47:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmNB-bXH5jo/biden-irish-pm"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-irish-pm.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-irish-pm.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
-    excerpt: "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\""
-    publishedDateTime: 2021-03-15T21:32:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Dan Bongino slams Biden immigration agenda: Without a border, 'you don't have a country'"
-    excerpt: "Fox News contributor Dan Bongino rips Biden's immigration policy on \"Fox & Friends,\" and asserts that we don't have a country without a border."
-    publishedDateTime: 2021-03-16T15:03:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRKdl1linmU/dan-bongino-border-crisis-biden-immigration-fox-friends"
-    ampWebUrl: "https://www.foxnews.com/politics/dan-bongino-border-crisis-biden-immigration-fox-friends.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-bongino-border-crisis-biden-immigration-fox-friends.amp"
+  - title: "McCarthy hammers Biden over border crisis, urges him to visit and see 'what he's created'"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., urged President Biden Monday to visit the southern border and see \"what he's created,\" blaming the administration's policies for an alarming migrant and drug smuggling crisis."
+    publishedDateTime: 2021-03-15T20:27:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oOm2EuTjS0A/mccarthy-hammers-biden-border-crisis-created"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-hammers-biden-border-crisis-created.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-hammers-biden-border-crisis-created.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43446e6c-352c-4c59-bfa5-2b93b2468473/bdfdbabc-61d5-4370-a3b3-ad549f1d987e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/633385c4-0cd9-4caf-a274-b3fe5d11cff3/40c4bf9c-ce0c-40af-8f5c-0fd276ec264e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's 'open border' policies enriching drug cartels as migrant crisis escalates: Gov. Abbott"
-    excerpt: "President Biden’s “open border policies” are not only inviting more illegal immigration to the U.S. but also enriching and empowering drug cartels in Mexico who profit from smuggling migrants across the border, Texas Gov. Greg Abbott said Sunday."
-    publishedDateTime: 2021-03-14T17:38:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbAxoxVDSqo/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+  - title: "FEMA gives $110 million to emergency fund for migrant care as Biden admin refuses to admit 'crisis'"
+    excerpt: "FEMA said Thursday it will give $110 million to organizations providing food and shelter to migrants encountered at the southern U.S. border by the Department of Homeland Security."
+    publishedDateTime: 2021-03-18T21:57:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m_6kOvyFcQQ/fema-110-million-border-migrants-emergency-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/fema-110-million-border-migrants-emergency-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fema-110-million-border-migrants-emergency-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/550f6423-a32c-452f-bdfd-b560fe6553e7/7ba82ed6-7af9-448b-8ff7-aa6485e70ef4/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077675294674.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Meadows slams Biden admin's lack of transparency on border crisis: Why won't they allow cameras in?"
+    excerpt: "Former White House Chief of Staff Mark Meadows on Friday called out the Biden administration for a lack of 'transparency' regarding the border crisis. "
+    publishedDateTime: 2021-03-19T15:40:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvZgpiByM74/mark-meadows-biden-border-transparency-crisis-immigration-media"
+    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-biden-border-transparency-crisis-immigration-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-biden-border-transparency-crisis-immigration-media.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1fb92f-3067-40a4-bb12-56209c49d4ff/d658eaa0-1056-4016-ac8a-4b571b495dea/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

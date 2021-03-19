@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-03-17-biden-says-he-supports-reforming-senate-filibuster-in-abc-news-exclusive-interview.md",
-      "title": "Biden says he supports reforming Senate filibuster in ABC News exclusive interview",
-      "excerpt": "President Joe Biden said he supports reforming the Senate filibuster in an ABC News exclusive interview Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/president-joe-biden-interview-04-exclusive-abc-jc-210316_1615931643517_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
-      "publishedDateTime": "2021-03-16T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-03-16-kayleigh-mcenany-biden-administration-incentivizing-flow-of-migrant-children-at-southern-border.md",
       "title": "Kayleigh McEnany: Biden administration 'incentivizing' flow of migrant children at southern border",
       "excerpt": "Former White House press secretary and Fox News Analyst Kayleigh McEnany reacts to the growing influx of migrant children at the southern border.",
@@ -1297,25 +1245,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-15-tom-homan-slams-biden-dems-for-blaming-trump-for-new-border-surge-they-planned-this-crisis.md",
-      "title": "Tom Homan slams Biden, Dems for blaming Trump for new border surge: 'They planned this crisis'",
-      "excerpt": "Former acting ICE director Tom Homan slammed the Biden administration for blaming Trump over the migrant surge at the border.",
+      "path": "_news/2021-03-15-jason-miller-trump-said-meghan-was-no-good.md",
+      "title": "Jason Miller: Trump said Meghan was 'no good'",
+      "excerpt": "Jason Miller, who served as a senior adviser to former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator ...",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VG3Kz7lKiy8/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VG3Kz7lKiy8/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys",
+      "webUrl": "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good",
+      "originalUrl": "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 458,
+      "highlight": null,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1323,16 +1267,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp",
-      "publishedDateTime": "2021-03-15T05:35:06-07:00",
+      "ampWebUrl": "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp",
+      "publishedDateTime": "2021-03-15T04:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1349,7 +1293,59 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-texas-greg-abbott-accuses-joe-biden-of-enriching-cartels-as-4200-border-kids-detained.md",
+      "title": "Texas' Greg Abbott Accuses Joe Biden of Enriching Cartels as 4,200 Border Kids Detained",
+      "excerpt": "President Joe Biden's border policies are causing a surge in illegal immigration into the United States and \"enriching and empowering\" drug cartels in Mexico who profit from smuggling migrants, Texas Governor Greg Abbott warned on Sunday. His comments came ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114",
+      "originalUrl": "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1755831/greg-abbott-migrants.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114?amp=1",
+      "publishedDateTime": "2021-03-15T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

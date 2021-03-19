@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas congressman, ex-sheriff rips 'no-borders Biden' for continuing to deny crisis"
+    excerpt: "The Biden administration continues to ignore the crisis at the border while the migrant surge worsens, Rep. Troy Nehls told \"Fox & Friends.\"'"
+    publishedDateTime: 2021-03-18T13:45:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIAhOXancSs/texas-congressman-nehls-no-borders-biden-deny-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden celebrates St. Patrick's Day with Irish PM, delivers address to Irish Americans"
     excerpt: "President Biden celebrated St. Patrick’s Day virtually with Irish Prime Minister Micheál Martin Thursday and reiterated the U.S.’ ‘deep, deep affection’ for Ireland. "
     publishedDateTime: 2021-03-17T23:47:01Z
@@ -95,21 +111,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
-    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
-    publishedDateTime: 2021-03-17T10:33:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+  - title: "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'"
+    excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border."
+    publishedDateTime: 2021-03-14T07:26:00Z
+    webUrl: "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy"
+    ampWebUrl: "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 143
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/114a33b8-ebad-4e1c-8c89-c639c966c2a7/82772f54-2d9d-440a-8640-896b0a23a31d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "dQC5I37FVFQNUsoN77LD5VsGprAoFrd9WpR26AxaMq9pwhiUeUTMB4oSoiAhsA8dTNkwvNtKgNa9quj5chLakElijGDl2B6iMUj9VTOWvSpRF1xTVP0HZkPzIZy2LsfsSX2TJVvL8+FgB1xIW+emgCa+3705ghslQ1GM7fOjfGBll01+yQW+ZGOrzK8cpzOEsrMUw7BuBmrhU8zEmypxvlC41cmDhMjDNEsKANM/V9tcpCheoXO7HCFrEqlfPv4sdp0FPlnwv9t4IaiVmVXDFS4jTzbX9uJx7xOrjBGCoplJsg1db53EGUZLg5JqlvzbAMgGRC1a3Q9NSLVzNhtHNRH+0x/MQFtzdyt9AkLI3lQ=;eRsKBnR991m6TvZ7K9xSkg=="
