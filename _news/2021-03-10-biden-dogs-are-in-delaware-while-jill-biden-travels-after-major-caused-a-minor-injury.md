@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden trade nominee Tai wins unanimous U.S. Senate backing in procedural vote"
+    excerpt: "The U.S. Senate advanced President Joe Biden's nominee for U.S. trade representative, Katherine Tai, a step closer to confirmation on Tuesday, voting unanimously in favor of her in a procedural vote."
+    publishedDateTime: 2021-03-16T20:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-tai-idUSKBN2B82T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82T0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555123879&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1K0"
+        width: 663
+        height: 545
+        isCached: true
   - title: "Same-sex spouse fights government denial of death benefits in test for Biden administration"
     excerpt: "Trump administration defended the Office of Personnel Management’s refusal to pay employee survivor benefits to same-sex spouse."
     publishedDateTime: 2021-03-18T18:02:00Z

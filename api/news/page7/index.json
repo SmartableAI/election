@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-10-blinken-says-trump-era-israel-peace-deals-were-a-very-good-thing.md",
+      "title": "Blinken says Trump-era Israel peace deals were a 'very good thing'",
+      "excerpt": "Secretary of State Antony Blinken on Wednesday paid a compliment to the Trump administration for its Abraham Accords in the Middle East. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvuKjfjyVh4/blinken-trump-israel-peace-deals-very-good-thing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvuKjfjyVh4/blinken-trump-israel-peace-deals-very-good-thing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0741f843-e9f8-4028-af2f-1a250d66796e/97e579a3-5542-4c1d-965b-c6f6dcb0efac/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp",
+      "publishedDateTime": "2021-03-10T14:54:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe.md",
       "title": "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe",
       "excerpt": "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U.",
@@ -170,7 +226,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -386,7 +442,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1105,
+      "heat": 1065,
       "tags": null,
       "images": [
         {
@@ -1280,62 +1336,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
       "publishedDateTime": "2021-03-09T06:19:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-cotton-on-biden-border-crisis-this-was-altogether-predictable-and-was-predicted-last-year.md",
-      "title": "Cotton on 'Biden border crisis': 'This was altogether predictable' and was 'predicted' last year",
-      "excerpt": "Sen. Tom Cotton R-Ark. blasted the Biden Administration Monday for their role in the current crisis at the U.S.-Mexico border, calling their policy \"recruit and release\" as opposed to \"catch and release.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cDwNpbSXLeM/cotton-biden-border-crisis-altogether-predictable",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cDwNpbSXLeM/cotton-biden-border-crisis-altogether-predictable",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2d65ea6-4669-4750-9f90-a270d335b120/5b2cc511-1777-4f6c-a7a2-c9d0afbbe7e4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cotton-biden-border-crisis-altogether-predictable.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-biden-border-crisis-altogether-predictable.amp",
-      "publishedDateTime": "2021-03-08T21:38:45-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

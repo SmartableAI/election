@@ -127,6 +127,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump's chief of staff could face scrutiny in Georgia criminal probe"
+    excerpt: "(Reuters) - In late December, as then-U.S. President Donald Trump falsely alleged that rampant voter fraud caused his Georgia election loss, White House chief of staff Mark Meadows made an unexpected visit to an Atlanta suburb, hoping to observe an audit ..."
+    publishedDateTime: 2021-03-19T09:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-georgia-meadows-insight-idUSKBN2BB0XX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB0XX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB0XX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555465183&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I0I5"
+        width: 817
+        height: 545
+        isCached: true
   - title: "White House would 'support' Trump vaccine effort"
     excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"
     publishedDateTime: 2021-03-16T00:03:00Z

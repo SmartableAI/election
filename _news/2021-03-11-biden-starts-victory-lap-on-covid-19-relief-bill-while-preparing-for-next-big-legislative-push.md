@@ -159,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "US reports surge of kids at SW border, a challenge for Biden"
+    excerpt: "a challenge for President Joe Biden as he works to undo the restrictive immigration policies of his predecessor. Statistics released Wednesday by U.S. Customs and Border Protection showed the ..."
+    publishedDateTime: 2021-03-10T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7b29382f34b343d48f3c413aa580d499_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Transcript: President Joe Biden on the coronavirus pandemic"
     excerpt: "Transcript of President Joe Biden's speech Thursday, March 11, 2021, on the coronavirus pandemic, as provided by the White House: Good evening, my fellow Americans. Tonight, I’d like to talk to you about where we are as we mark one year since everything stopped because of this pandemic."
     publishedDateTime: 2021-03-12T04:17:00Z

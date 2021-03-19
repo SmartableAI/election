@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-biden-and-harris-head-to-georgia-to-meet-community-leaders-after-atlanta-shooting-live-updates.md",
+      "title": "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live updates",
+      "excerpt": "President and vice president will also visit the CDC while in Georgia",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 757,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d8ed322efd0cd1c6655c2fc5e60dd5dad1d9da39/0_870_3724_2236/master/3724.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ee426e8702e8582ce1c7e753dee49b1",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "publishedDateTime": "2021-03-19T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-biden-meets-with-un-security-council-members-to-talk-climate.md",
       "title": "Biden meets with UN Security Council members to talk climate",
       "excerpt": "President Joe Biden has told the permanent representatives of the U.N. Security Council that the United States will join the international body’s Group of Friends on Climate and Society ...",
@@ -54,21 +107,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-biden-orders-flags-at-half-staff-to-honor-victims-of-atlanta-area-spa-shootings.md",
-      "title": "Biden orders flags at half-staff to honor victims of Atlanta-area spa shootings",
-      "excerpt": "Biden, Harris to meet with Asian American lea... 09:36 Washington — President Biden on Thursday ordered flags at the White House and on federal grounds in the U.S. and abroad to be flown at half-staff after eight people, including six Asian women, were ...",
+      "path": "_news/2021-03-19-biden-reaches-out-to-asian-americans-after-killings-but-many-remain-frustrated-by-lack-of-representation.md",
+      "title": "Biden reaches out to Asian Americans after killings — but many remain frustrated by lack of representation",
+      "excerpt": "President Biden has refocused his trip to Georgia on Friday so he can meet with Asian American leaders about violence against their community. He has ordered flags flown at half-staff after the shooting that killed six Atlanta-area women of Asian descent.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/atlanta-shootings-joe-biden-flags-half-staff/",
-      "originalUrl": "https://www.cbsnews.com/news/atlanta-shootings-joe-biden-flags-half-staff/",
+      "webUrl": "https://www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/2e1ebb6a-c7fb-421e-bd5c-ffc0990f5a49/thumbnail/1200x630/db85c2794a36570ed26db7d1cc63b885/2021-03-18t162915z-272238798-rc2sdm9k6aaa-rtrmadp-3-crime-georgia-spa.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3MSFHMEIGYI6XCULLT4CYPP74Q.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +129,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/atlanta-shootings-joe-biden-flags-half-staff/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/atlanta-shootings-joe-biden-flags-half-staff/",
-      "publishedDateTime": "2021-03-18T09:36:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-18T16:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -904,7 +957,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1112,7 +1165,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1164,7 +1217,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -1216,7 +1269,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1105,
+      "heat": 1065,
       "tags": null,
       "images": [
         {
@@ -1510,58 +1563,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-cruz-puts-hold-on-bidens-cia-pick-burns-over-nord-stream-2-pipeline.md",
-      "title": "Cruz puts hold on Biden's CIA pick Burns over Nord Stream 2 pipeline",
-      "excerpt": "Republican Senator Ted Cruz put a hold late on Friday on President Joe Biden's pick to lead the Central Intelligence Agency to pressure the administration to put tough sanctions on Russia's Nord Stream 2 natural gas pipeline project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-nord-stream-2-cruz-idINKBN2AY0FI",
-      "originalUrl": "https://www.reuters.com/article/usa-nord-stream-2-cruz-idINKBN2AY0FI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553982286&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250C2",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2AY0FI",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AY0FI",
-      "publishedDateTime": "2021-03-06T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

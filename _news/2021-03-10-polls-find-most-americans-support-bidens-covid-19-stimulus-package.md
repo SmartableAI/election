@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6936053002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002"
 type: article
 quality: 125
-heat: 1105
+heat: 1065
 published: true
 
 provider:
@@ -447,22 +447,6 @@ related:
         width: 805
         height: 545
         isCached: true
-  - title: "Biden heads to Pennsylvania in push to sell US Covid relief plan to nation – live updates"
-    excerpt: "President will speak at small business in battleground state, while Kamala Harris visits Colorado Martin Belam Hi and welcome to our live coverage of US politics for today. Here’s a catch-up on where we are, and some of what we have in the diary for ..."
-    publishedDateTime: 2021-03-16T09:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-60505f2e8f0856ecbbc7a636"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/0d5527ef8965a1f7abaaf21c99ddb64feb58858a/0_100_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d66423618d9e5709bb8cc359a6d6bb32"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Promising people vaccine shots and cash payments, Biden White House kicks off stimulus tour"
     excerpt: "WASHINGTON (Reuters) - With a promise of “shots in arms and money in pockets,” President Joe Biden on Monday kicked off a week of promotion and travel for the $1.9 trillion pandemic relief bill he signed into law last week to help the country move past ..."
     publishedDateTime: 2021-03-16T01:09:00Z
@@ -620,22 +604,6 @@ related:
     quality: 108
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/54bb4401-bfd2-461f-853d-8e63acc86ff5-AFP_AFP_94N9C8.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "President Biden notes Asian American concerns about Atlanta shootings but not yet assigning racial motive"
-    excerpt: "WASHINGTON – President Joe Biden on Wednesday said he is waiting for more information about the Atlanta-area shootings before assigning a motive, but he called attacks against Asian Americans \"very, very troublesome.\" \"Whatever the motivation here ..."
-    publishedDateTime: 2021-03-17T19:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/17/atlanta-spa-shootings-president-biden-waiting-before-assigning-motive/4734680001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4734680001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4734680001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/34fac83c-d605-4d7e-aef6-a2718ffd8227-shamrock.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

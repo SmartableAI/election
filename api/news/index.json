@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-biden-and-harris-head-to-georgia-to-meet-community-leaders-after-atlanta-shooting-live-updates.md",
+      "title": "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live updates",
+      "excerpt": "President and vice president will also visit the CDC while in Georgia",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 757,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d8ed322efd0cd1c6655c2fc5e60dd5dad1d9da39/0_870_3724_2236/master/3724.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ee426e8702e8582ce1c7e753dee49b1",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "publishedDateTime": "2021-03-19T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-a-direct-response-how-trumps-2020-loss-is-dictating-the-future-of-elections-in-battleground-states.md",
+      "title": "'A direct response': How Trump's 2020 loss is dictating the future of elections in battleground states",
+      "excerpt": "As GOP state lawmakers wage what critics are calling the most sweeping voter suppression campaign since the Jim Crow era, two notable swing states have been spared.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "originalUrl": "https://abcnews.go.com/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/ballot-drop-box-philadelphia-gty-jt-210318_1616097903196_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "publishedDateTime": "2021-03-19T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.md",
       "title": "Texas wax museum moves Trump statue because visitors kept hitting it: report",
       "excerpt": "The owner of Louis Tussaud’s Waxworks in San Antonio said the museum removed a statue of former President Trump because too many visitors punched and scratched the figure, a report said.",
@@ -280,6 +385,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-19-biden-reaches-out-to-asian-americans-after-killings-but-many-remain-frustrated-by-lack-of-representation.md",
+      "title": "Biden reaches out to Asian Americans after killings — but many remain frustrated by lack of representation",
+      "excerpt": "President Biden has refocused his trip to Georgia on Friday so he can meet with Asian American leaders about violence against their community. He has ordered flags flown at half-staff after the shooting that killed six Atlanta-area women of Asian descent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3MSFHMEIGYI6XCULLT4CYPP74Q.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-18T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-biden-dispatches-democratic-senator-to-ethiopia-amid-tigray-crisis.md",
       "title": "Biden dispatches Democratic senator to Ethiopia amid Tigray crisis",
       "excerpt": "President Joe Biden is dispatching one of his top congressional allies to Ethiopia to meet with Prime Minister Abiy Ahmed amid the humanitarian crisis in that country's Tigray region.\n    \n",
@@ -404,7 +561,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 800,
+      "heat": 820,
       "tags": null,
       "images": [
         {
@@ -682,7 +839,7 @@
       "originalUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -723,58 +880,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-biden-orders-flags-at-half-staff-to-honor-victims-of-atlanta-area-spa-shootings.md",
-      "title": "Biden orders flags at half-staff to honor victims of Atlanta-area spa shootings",
-      "excerpt": "Biden, Harris to meet with Asian American lea... 09:36 Washington — President Biden on Thursday ordered flags at the White House and on federal grounds in the U.S. and abroad to be flown at half-staff after eight people, including six Asian women, were ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/atlanta-shootings-joe-biden-flags-half-staff/",
-      "originalUrl": "https://www.cbsnews.com/news/atlanta-shootings-joe-biden-flags-half-staff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/2e1ebb6a-c7fb-421e-bd5c-ffc0990f5a49/thumbnail/1200x630/db85c2794a36570ed26db7d1cc63b885/2021-03-18t162915z-272238798-rc2sdm9k6aaa-rtrmadp-3-crime-georgia-spa.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/atlanta-shootings-joe-biden-flags-half-staff/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/atlanta-shootings-joe-biden-flags-half-staff/",
-      "publishedDateTime": "2021-03-18T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -842,7 +947,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1250,105 +1355,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-fact-check-post-falsely-claims-price-of-oil-was-25-a-barrel-when-trump-left-office.md",
-      "title": "Fact Check-Post falsely claims price of oil was $25 a barrel when Trump left office",
-      "excerpt": "Recent social media posts have claimed that oil was only $25 a barrel when former President Donald Trump left office and more than doubled in the first months of President Joe Biden’s administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-oil-prices-idUSL1N2LG1F2",
-      "originalUrl": "https://www.reuters.com/article/factcheck-oil-prices-idUSL1N2LG1F2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LG1F2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LG1F2",
-      "publishedDateTime": "2021-03-18T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-trumps-mar-a-lago-stays-busy-as-republican-candidates-make-fundraising-pilgrimages.md",
-      "title": "Trump's Mar-a-Lago stays busy as Republican candidates make fundraising pilgrimages",
-      "excerpt": "Former Trump White House aide Max Miller is the latest Republican candidate to flock to former President Trump's Mar-a-Lago resort to court influential donors and rainmakers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
-      "publishedDateTime": "2021-03-18T03:27:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

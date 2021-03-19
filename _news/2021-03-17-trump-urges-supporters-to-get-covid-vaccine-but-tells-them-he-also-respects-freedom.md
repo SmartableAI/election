@@ -356,6 +356,22 @@ related:
         width: 3395
         height: 2264
         isCached: true
+  - title: "Trump Is Losing Money: Net Worth Down $700 Million As COVID-19, Riot Batter His Wealth"
+    excerpt: "Donald Trump's days as president are over, and his return to the business world is greeted with a dwindling net worth and the falling income of his businesses amid the pandemic."
+    publishedDateTime: 2021-03-19T10:23:00Z
+    webUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350"
+    ampWebUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
+        width: 1024
+        height: 663
+        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z

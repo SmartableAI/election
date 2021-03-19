@@ -478,6 +478,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden to meet with Stacey Abrams during president's trip to Georgia"
+    excerpt: "During his visit to Atlanta on Friday, President Joe Biden will meet with former Georgia gubernatorial candidate Stacey Abrams, who has been widely credited with helping flip the former Republican stronghold blue."
+    publishedDateTime: 2021-03-18T22:22:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-stacey-abrams-to-meet-during-president-trip-to-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-stacey-abrams-to-meet-during-president-trip-to-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stacey-abrams-to-meet-during-president-trip-to-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bcb89c34-d114-47b4-b926-71a71dddd743/55259602-1e27-4555-90a3-5493af2e07eb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ilhan Omar leads Democrats in demanding Biden end ICE contracts with state, local jails"
     excerpt: "Minn., led a group of progressive Democrats on Monday in demanding that President Biden's administration end contracts between federal immigration enforcement agencies and state and local detention facilites."
     publishedDateTime: 2021-03-15T16:20:00Z

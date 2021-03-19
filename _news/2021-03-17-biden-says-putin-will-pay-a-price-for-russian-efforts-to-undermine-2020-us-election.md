@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html"
 type: article
 quality: 183
-heat: 503
+heat: 523
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311182531-01-joe-biden-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Insults fly as Biden locks horns with Russia and China"
+    excerpt: "President Joe Biden is suddenly waging a bitter two-front confrontation with America's foe in the last Cold War -- Moscow -- and the US adversary in a possible next one -- China.\n    \n"
+    publishedDateTime: 2021-03-19T10:36:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7ryUk_QHOdc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/president-joe-biden-russia-china/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/president-joe-biden-russia-china/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315162658-biden-0315-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

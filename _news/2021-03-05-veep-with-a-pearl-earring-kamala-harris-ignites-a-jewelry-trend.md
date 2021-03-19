@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-p
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
 type: article
 quality: 125
-heat: 785
+heat: 885
 published: true
 
 provider:
@@ -257,6 +257,54 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Vice President Kamala Harris coming to Las Vegas on Monday"
+    excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, will visit Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress on Wednesday."
+    publishedDateTime: 2021-03-11T02:25:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14897275_web1_KAMALA-VISIT-102720_es_010.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Biggest Thing Kamala Harris Could Do This Year"
+    excerpt: "The battle to protect voting rights needs a field general. Vice President Kamala Harris needs a cause to define her tenure. The second problem suggests the answer to the first: President Joe Biden could designate Harris as the administration’s point ..."
+    publishedDateTime: 2021-03-11T19:58:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/03/why-democrats-voting-rights-battle-needs-kamala-harris/618260/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/618260/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618260/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/vQL0Pc2lGf46uSug5fkjUvxOXaI=/570x321/media/img/mt/2021/03/0321_Nora_Katie_Kamala/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
+  - title: "What Kamala Harris Could Do for Voting Rights"
+    excerpt: "The cause needs a prominent leader who can draw national attention to Republican efforts to suppress the vote."
+    publishedDateTime: 2021-03-11T18:20:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/03/why-democrats-voting-rights-battle-needs-kamala-harris/618260/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/618260/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618260/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/vQL0Pc2lGf46uSug5fkjUvxOXaI=/570x321/media/img/mt/2021/03/0321_Nora_Katie_Kamala/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
     excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
     publishedDateTime: 2021-03-03T23:21:00Z
@@ -414,6 +462,34 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/5eccd64bb081a08470baddbe620601df/DEMOCRATIC-ISSUES-CONFERENCE.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Vice President Harris Swears in HUD Secretary Marcia Fudge"
+    excerpt: "U.S. Vice President Kamala Harris speaks to members of the press after swearing in Marcia Fudge, U.S. secretary of Housing And Urban Development (HUD), during a virtual ceremony in Washington, DC on Wednesday, March 10, 2021. During her confirmation ..."
+    publishedDateTime: 2021-03-11T00:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/801cc58e1186bced134ddaa50c600a99/Vice-President-Harris-Swears-in-HUD-Secretary-Marcia-Fudge/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/801cc58e1186bced134ddaa50c600a99/HUD-FUDGE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Vice President Kamala Harris scheduled to visit Colorado"
+    excerpt: "Vice President Kamala Harris will visit Denver on March 16 to highlight the $1.9 trillion COVID relief bill passed by Congress on Wednesday."
+    publishedDateTime: 2021-03-10T23:43:00Z
+    webUrl: "https://gazette.com/news/vice-president-kamala-harris-scheduled-to-visit-colorado/article_fdc4eaa2-81fa-11eb-ba45-8b30c57abbaf.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/6/2a/62accf86-5b9d-11eb-9ba0-1b643862cb4d/6008fcd797f38.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
   - title: "Harris, Emhoff to visit Las Vegas to promote relief bill"
     excerpt: "Vice President Kamala Harris and her husband Doug Emhoff will visit Las Vegas on Monday as part of a trip to promote the $1.9 trillion relief package that President Joe Biden signed into law Thursday."

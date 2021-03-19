@@ -63,6 +63,22 @@ related:
         width: 820
         height: 545
         isCached: true
+  - title: "In early foreign policy tests, Biden takes on world as it is"
+    excerpt: "President Joe Biden in his early days in office has vowed a dramatic reordering of U.S. foreign policy from his predecessor"
+    publishedDateTime: 2021-03-15T17:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f9ce496c7d34449c9f422668858143f4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A good boy again: Biden's dog will return to the White House"
     excerpt: "Major breaking news: President Joe Biden’s wayward pup is no longer in the doghouse WILMINGTON, Del. -- There is Major breaking news: President Joe Biden’s wayward pup is no longer in the ..."
     publishedDateTime: 2021-03-17T13:29:00Z

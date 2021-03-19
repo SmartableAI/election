@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-biden-and-harris-head-to-georgia-to-meet-community-leaders-after-atlanta-shooting-live-updates.md",
+      "title": "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live updates",
+      "excerpt": "President and vice president will also visit the CDC while in Georgia",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 757,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d8ed322efd0cd1c6655c2fc5e60dd5dad1d9da39/0_870_3724_2236/master/3724.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ee426e8702e8582ce1c7e753dee49b1",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
+      "publishedDateTime": "2021-03-19T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-biden-and-harris-to-visit-georgia-a-battleground-that-paved-way-for-agenda.md",
       "title": "Biden and Harris to visit Georgia, a battleground that paved way for agenda ",
       "excerpt": "Democratic voters in Georgia may have helped deliver Joe Biden's long quest to win the White House, but they take even prouder ownership of their critical role in cementing an early chapter of his legacy through the passage of the American Rescue Plan.\n    \n",
@@ -71,7 +124,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 800,
+      "heat": 820,
       "tags": null,
       "images": [
         {
@@ -124,7 +177,7 @@
       "originalUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -176,7 +229,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -277,58 +330,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-17-nearly-70-of-female-biden-voters-say-harris-being-on-the-ticket-was-factor-in-decision-poll.md",
-      "title": "Nearly 70% of Female Biden Voters Say Harris Being on the Ticket Was Factor in Decision: Poll",
-      "excerpt": "President Joe Biden's choice of Kamala Harris as his running mate in the 2020 election resonated with women across the U.S. According to a report released Tuesday by Gender on the Ballot, a nonpartisan project to examine gender dynamics in politics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571",
-      "originalUrl": "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 969,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1757384/kamala-harris-joe-biden-3-12-2021.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1",
-      "publishedDateTime": "2021-03-16T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-03-17-kamala-harris-tells-un-democracy-depends-on-empowerment-of-women-live.md",
       "title": "Kamala Harris tells UN: 'Democracy depends on empowerment of women' – live",
       "excerpt": "Vice-President gives pointed address to the UN on gender equality and women’s rights Joanna Walters (now) and Martin Belam (earlier) Martin Pengelly Meghan Markle’s comments about the royal family in her bombshell interview with Oprah Winfrey ...",
@@ -337,7 +338,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050b3a78f08b617ed42799b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -674,7 +675,7 @@
       "originalUrl": "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 785,
+      "heat": 885,
       "tags": null,
       "images": [
         {

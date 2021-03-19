@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-ho
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/cf74fac66dcf5b171bb7741a4b82d816f593dc7b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36ae313660f3c7e19be3dc6dcea610a7"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden trade nominee Tai wins unanimous U.S. Senate backing in procedural vote"
+    excerpt: "The U.S. Senate advanced President Joe Biden's nominee for U.S. trade representative, Katherine Tai, a step closer to confirmation on Tuesday, voting unanimously in favor of her in a procedural vote."
+    publishedDateTime: 2021-03-16T20:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-tai-idUSKBN2B82T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82T0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555123879&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1K0"
+        width: 663
+        height: 545
         isCached: true
   - title: "Biden dogs are in Delaware while Jill Biden travels after Major caused a 'minor injury'"
     excerpt: "The statements came Tuesday after CNN reported Monday that President Joe Biden and first lady Jill Biden's two German shepherds returned to their family home in Delaware last week following \"aggressive behavior at the White House\" involving Major."

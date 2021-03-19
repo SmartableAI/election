@@ -59,6 +59,64 @@ related:
         width: 3500
         height: 2355
         isCached: true
+  - title: "Harris pitches COVID relief bill in Las Vegas"
+    excerpt: "Vice President Kamala Harris says she's on a mission to ensure people know what they were entitled to in the American Rescue Plan. (March 15)"
+    publishedDateTime: 2021-03-15T23:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/15/harris-pitches-covid-relief-bill-las-vegas/4710865001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08776f89-5741-489a-bc95-2abf1b2bb016_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
+    excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."
+    publishedDateTime: 2021-03-16T20:47:00Z
+    webUrl: "https://www.chicagotribune.com/business/careers-finance/sns-hbcu-spotlight-kamala-harris-20210316-f7rg3d4gwfg47py5t5i7rtor4u-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/crQzkjNidk5NhtpkJam48A0ZW1Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJESQ7B73VCMJH3GOI3PJ6NCGA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Essential Politics: Kamala Harris takes a victory lap, with an eye on the 2022 midterms"
+    excerpt: "Politicians politicking. But it’s early and Harris’ role in making the case for Democrats looks as if it’s going to be a big one, perhaps on par with Biden’s. Good morning, and welcome to Essential Politics: Kamala Harris road edition. Today ..."
+    publishedDateTime: 2021-03-17T13:45:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-17/kamala-harris-coronavirus-relief-2022-midterms-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 97
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/285d75c/2147483647/strip/true/crop/3158x1658+0+224/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2Fc5%2F715ac64f424587ff60735848b2c8%2Fharris-55517.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris will visit Colorado on Tuesday"
+    excerpt: "Vice President Kamala Harris is scheduled to visit Colorado on Tuesday. The Democrat and her husband, Doug Emhoff, will begin their trip at a COVID-19 vaccination clinic at Plan De Salud Del Valle in Fort Lupton, in northern Colorado. After that ..."
+    publishedDateTime: 2021-03-15T22:35:00Z
+    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
+    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
     excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
     publishedDateTime: 2021-03-14T15:43:00Z
@@ -107,20 +165,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
-    excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"
-    publishedDateTime: 2021-03-17T15:50:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/Vice-President-Kamala-Harris-hosts-Michel-Martin-Prime-Minister-of-Ireland/"
+  - title: "Vice President Harris Visit to Las Vegas Vaccination Clinic"
+    excerpt: "President Biden spoke to reporters about the urgent need to pass the American Rescue Plan before taking part in an economic… President Biden and Vice President Kamala Harris took a virtual tour of the COVID-19 vaccine distribution site set up at… Vice ..."
+    publishedDateTime: 2021-03-15T19:45:00Z
+    webUrl: "https://www.c-span.org/video/?509908-1/vice-president-harris-visit-las-vegas-vaccination-clinic"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 52
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/VICE-PRESIDENT-HARRIS.jpg"
-        width: 650
-        height: 433
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "b/2DCueYKIb4yi68vg6vehQQsnrUOl9KzYvW2BxnIttBZbupD11oTepAg1oQx8XS58TpUIjNNLtO+Onm3FuDDNG7QjWrfgaD9i6ADFpMxnK8w9GcsbdjiHfqqE9e7jV+TDb668UrkSVLl5CaYy/JF9HUXzgWJZlckQWFTfPxR3l3SvNElFo/h5qmbnQHXCoTZS1buGzoMKmteTcmdiLqcPiO72lM0GpQy2i+1ZJ+XkDrt/FYWZKGdMeqlNfgT3lVPVpG0BBXo9DIwqVOhSl4f4Y5gEnKk0R57LGqE0Bo9p/NtZjwm8uyx8wX70729gVQ/u6PJZcrsxnxd57djQhnQze03+XGifP9VKRZnSkE9QC/1wEzs+BO2uWOkusAN9Nhi+ul1yBAZ9LJFDT6F7EzvNOZfOOhNcuTTAczyM7GddmqV0/D6e5JsGmrf7f1yCk5qxUSRNDCJn692odnhZRAdXWYPLDHh9Fa4El7Q7JY+tjv1l1vjlIx8AfaNIMR3jRAb/kxIvxv3Mm5917Zlaom3Q==;3Vvm6+HXfVZ7XrG74faDvQ=="
 ---

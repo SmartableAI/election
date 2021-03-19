@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-a-direct-response-how-trumps-2020-loss-is-dictating-the-future-of-elections-in-battleground-states.md",
+      "title": "'A direct response': How Trump's 2020 loss is dictating the future of elections in battleground states",
+      "excerpt": "As GOP state lawmakers wage what critics are calling the most sweeping voter suppression campaign since the Jim Crow era, two notable swing states have been spared.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "originalUrl": "https://abcnews.go.com/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/ballot-drop-box-philadelphia-gty-jt-210318_1616097903196_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "publishedDateTime": "2021-03-19T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-kellyanne-conway-michael-wolff-jonathan-karl-among-those-reportedly-writing-post-white-house-trump-books.md",
       "title": "Kellyanne Conway, Michael Wolff, Jonathan Karl among those reportedly writing post-White House Trump books",
       "excerpt": "The era of explosive tell-all books about the Trump presidency is apparently not over, even though the presidency itself has ended.",
@@ -892,7 +944,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 340,
       "tags": null,
       "images": [
         {
@@ -1503,58 +1555,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-the-political-history-of-mike-lindell-mypillow-ceo-and-trump-ally-timeline.md",
-      "title": "The political history of Mike Lindell, MyPillow CEO and Trump ally: timeline",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3",
-      "originalUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604ccf5f10c8760018b93165?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3?amp",
-      "publishedDateTime": "2021-03-14T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

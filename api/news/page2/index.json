@@ -2,6 +2,105 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-18-fact-check-post-falsely-claims-price-of-oil-was-25-a-barrel-when-trump-left-office.md",
+      "title": "Fact Check-Post falsely claims price of oil was $25 a barrel when Trump left office",
+      "excerpt": "Recent social media posts have claimed that oil was only $25 a barrel when former President Donald Trump left office and more than doubled in the first months of President Joe Biden’s administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/factcheck-oil-prices-idUSL1N2LG1F2",
+      "originalUrl": "https://www.reuters.com/article/factcheck-oil-prices-idUSL1N2LG1F2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LG1F2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LG1F2",
+      "publishedDateTime": "2021-03-18T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-trumps-mar-a-lago-stays-busy-as-republican-candidates-make-fundraising-pilgrimages.md",
+      "title": "Trump's Mar-a-Lago stays busy as Republican candidates make fundraising pilgrimages",
+      "excerpt": "Former Trump White House aide Max Miller is the latest Republican candidate to flock to former President Trump's Mar-a-Lago resort to court influential donors and rainmakers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
+      "publishedDateTime": "2021-03-18T03:27:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-several-us-states-sue-biden-administration-for-revoking-permit-for-keystone-xl-pipeline.md",
       "title": "Several U.S. states sue Biden administration for revoking permit for Keystone XL pipeline",
       "excerpt": "Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday.",
@@ -1237,118 +1336,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-arizona-sheriff-says-biden-border-crisis-worse-than-obama-years-like-the-wild-west.md",
-      "title": "Arizona sheriff says Biden border crisis worse than Obama years: 'Like the Wild West'",
-      "excerpt": "An Arizona sheriff said Wednesday that the current border crisis is worse than the Obama years, as DHS indicates that the migrant surge at the U.S.-Mexico border is expected to hit a 20-year high.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZjPlxbXcClI/border-crisis-worse-obama-arizona-sheriff-biden-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZjPlxbXcClI/border-crisis-worse-obama-arizona-sheriff-biden-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/351be049-60a5-44b0-908b-b3f6e133f59a/3ebae1b6-1e4e-4510-b280-561e7c72e25d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/border-crisis-worse-obama-arizona-sheriff-biden-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-worse-obama-arizona-sheriff-biden-immigration.amp",
-      "publishedDateTime": "2021-03-17T05:50:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-says-putin-will-pay-a-price-for-russian-efforts-to-undermine-2020-us-election.md",
-      "title": "Biden says Putin 'will pay a price' for Russian efforts to undermine 2020 US election",
-      "excerpt": "President Joe Biden said Vladimir Putin \"will pay a price\" for his efforts to undermine the 2020 US election following a landmark American intelligence assessment which found that the Russian government meddled in the 2020 election with the aim of \"denigrating\" Biden's candidacy.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SSAwGcRzApY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SSAwGcRzApY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 503,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311182608-01-joe-biden-0310-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html",
-      "publishedDateTime": "2021-03-17T05:41:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

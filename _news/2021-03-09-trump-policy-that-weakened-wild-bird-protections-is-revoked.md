@@ -943,6 +943,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden says US to hit 100 million virus goal on Friday"
+    excerpt: "With the U.S. closing in on President Joe Biden’s goal of injecting 100 million coronavirus vaccinations weeks ahead of his target date, officials say the nation is now in position to help supply neig"
+    publishedDateTime: 2021-03-18T22:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-highlight-vaccine-as-us-nears-100-millionth-shot/2021/03/18/71dc3e78-8803-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-highlight-vaccine-as-us-nears-100-millionth-shot/2021/03/18/71dc3e78-8803-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-highlight-vaccine-as-us-nears-100-millionth-shot/2021/03/18/71dc3e78-8803-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z

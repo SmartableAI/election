@@ -2,6 +2,118 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-17-arizona-sheriff-says-biden-border-crisis-worse-than-obama-years-like-the-wild-west.md",
+      "title": "Arizona sheriff says Biden border crisis worse than Obama years: 'Like the Wild West'",
+      "excerpt": "An Arizona sheriff said Wednesday that the current border crisis is worse than the Obama years, as DHS indicates that the migrant surge at the U.S.-Mexico border is expected to hit a 20-year high.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZjPlxbXcClI/border-crisis-worse-obama-arizona-sheriff-biden-immigration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZjPlxbXcClI/border-crisis-worse-obama-arizona-sheriff-biden-immigration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/351be049-60a5-44b0-908b-b3f6e133f59a/3ebae1b6-1e4e-4510-b280-561e7c72e25d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/border-crisis-worse-obama-arizona-sheriff-biden-immigration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-worse-obama-arizona-sheriff-biden-immigration.amp",
+      "publishedDateTime": "2021-03-17T05:50:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-biden-says-putin-will-pay-a-price-for-russian-efforts-to-undermine-2020-us-election.md",
+      "title": "Biden says Putin 'will pay a price' for Russian efforts to undermine 2020 US election",
+      "excerpt": "President Joe Biden said Vladimir Putin \"will pay a price\" for his efforts to undermine the 2020 US election following a landmark American intelligence assessment which found that the Russian government meddled in the 2020 election with the aim of \"denigrating\" Biden's candidacy.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SSAwGcRzApY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SSAwGcRzApY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 523,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311182608-01-joe-biden-0310-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html",
+      "publishedDateTime": "2021-03-17T05:41:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-sen-bill-hagerty-warns-biden-of-increasing-aggression-from-iran-says-regime-testing-us-resolve.md",
       "title": "Sen. Bill Hagerty warns Biden of 'increasing aggression' from Iran, says regime testing US resolve",
       "excerpt": "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden expressing concern about \"increasing aggression\" from the Iranian regime -- just as the Biden administration has eased off a sanctions push and is moving to reverse the prior administration’s \"maximum pressure\" strategy.",
@@ -454,7 +566,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 340,
       "tags": null,
       "images": [
         {
@@ -1148,58 +1260,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-17-nearly-70-of-female-biden-voters-say-harris-being-on-the-ticket-was-factor-in-decision-poll.md",
-      "title": "Nearly 70% of Female Biden Voters Say Harris Being on the Ticket Was Factor in Decision: Poll",
-      "excerpt": "President Joe Biden's choice of Kamala Harris as his running mate in the 2020 election resonated with women across the U.S. According to a report released Tuesday by Gender on the Ballot, a nonpartisan project to examine gender dynamics in politics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571",
-      "originalUrl": "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 969,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1757384/kamala-harris-joe-biden-3-12-2021.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1",
-      "publishedDateTime": "2021-03-16T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-03-17-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable.md",
       "title": "Birx: Trump's disinfectant injection moment was 'extraordinarily uncomfortable'",
       "excerpt": "Deborah Birx, the former White House coronavirus response coordinator, said on Monday that former President Trump’s suggestion to treat COVID-19 by injecting disinfectant and using ultraviolet rays wa",
@@ -1260,7 +1320,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050b3a78f08b617ed42799b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1301,62 +1361,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-gop-targets-biden-border-crisis-in-new-ad-campaign-aimed-at-battleground-districts.md",
-      "title": "GOP targets \"Biden border crisis\" in new ad campaign aimed at battleground districts",
-      "excerpt": "Republicans are ramping up their attacks on Democrats over the ongoing crisis at the Southern border, including a new ad campaign accusing President Joe Biden of opening the border instead of focusing on opening schools and businesses.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312143856-02-border-migrant-crisis-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
-      "publishedDateTime": "2021-03-16T09:46:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

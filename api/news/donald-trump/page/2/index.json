@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-14-the-political-history-of-mike-lindell-mypillow-ceo-and-trump-ally-timeline.md",
+      "title": "The political history of Mike Lindell, MyPillow CEO and Trump ally: timeline",
+      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3",
+      "originalUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/604ccf5f10c8760018b93165?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3?amp",
+      "publishedDateTime": "2021-03-14T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-fauci-hopes-trump-will-push-his-supporters-to-get-covid-19-vaccine.md",
       "title": "Fauci hopes Trump will push his supporters to get COVID-19 vaccine",
       "excerpt": "WASHINGTON (Reuters) - Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-trump-idINKBN2B60DA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 585,
       "tags": null,
       "images": [
         {
@@ -436,7 +488,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2006,
+      "heat": 2026,
       "tags": null,
       "images": [
         {
@@ -1534,58 +1586,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-the-magic-donald-trump-brought-to-republican-politics-is-not-a-mystery.md",
-      "title": "The ‘magic’ Donald Trump brought to Republican politics is not a mystery",
-      "excerpt": "Lindsey Graham (R-S.C.) painted former president Donald Trump as a sort of magical conservative chimera. That made it trickier, he suggested, for the Republican Party to leverage Trumpism without Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5Q2IST6AYI6XDC6GLSHWQVVDM.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp",
-      "publishedDateTime": "2021-03-08T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
