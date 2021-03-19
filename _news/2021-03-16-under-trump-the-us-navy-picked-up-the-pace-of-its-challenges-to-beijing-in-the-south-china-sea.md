@@ -63,6 +63,22 @@ related:
         width: 3000
         height: 2031
         isCached: true
+  - title: "Post Trump, House GOP recruiting chair looks to build off 2020 success"
+    excerpt: "GOP looks to take control of the House in 2022 GOP looks to take control of the House in 202... 04:51 Unlike President Trump and Senate Republicans in 2020, House GOP lawmakers were able to hold onto every seat held by an incumbent in 2020 and even ..."
+    publishedDateTime: 2021-03-18T20:42:00Z
+    webUrl: "https://www.cbsnews.com/news/republicans-house-2022-post-trump/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/republicans-house-2022-post-trump/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/republicans-house-2022-post-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2018/11/21/09f3bff3-a23e-489c-8864-b26f72b891b3/thumbnail/1200x630/6acdb9729e1474d227149e659d96993f/rts24lqr.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GOP Polling Firm Finds Just 15 Percent of Republican Hold Anti-Trump Views"
     excerpt: "Although a vocal faction of Republican lawmakers hope to end former President Donald Trump's hold over the GOP, new polling shows that they represent just a slim minority of their party's voters. Meanwhile, the survey divided respondents into four ..."
     publishedDateTime: 2021-03-14T15:20:00Z

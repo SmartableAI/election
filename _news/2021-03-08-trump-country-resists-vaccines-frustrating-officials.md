@@ -524,6 +524,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "House Democrats weigh ejecting GOP winner of contested Iowa race, dismissing comparisons to Trump's efforts to overturn election"
+    excerpt: "brushing back attacks that they are seeking to subvert the will of voters just months after lambasting former President Donald Trump for trying to reverse his electoral defeat. While Democrats say what's happening in Iowa's 2nd Congressional District is ..."
+    publishedDateTime: 2021-03-18T16:51:00Z
+    webUrl: "https://www.cnn.com/2021/03/18/politics/iowa-2nd-district-rita-hart-marianette-miller-meeks-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/iowa-2nd-district-rita-hart-marianette-miller-meeks-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/iowa-2nd-district-rita-hart-marianette-miller-meeks-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 121
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317153143-rita-hart-mariannette-miller-meeks-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump dives into battle for Senate"
     excerpt: "Donald Trump sounds like he’s ready for a GOP civil war. But he’s also eager to play a leading role in Senate Republicans' battle for the majority. The former president is dialing up GOP senators to back their campaigns and talk strategy, weighing how ..."
     publishedDateTime: 2021-03-12T09:30:00Z

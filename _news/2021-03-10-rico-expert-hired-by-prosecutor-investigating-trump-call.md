@@ -398,6 +398,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "CDPH Looking Into Vaccinations At Trump Tower..."
+    excerpt: "Watch \"CDPH Looking Into Vaccinations At Trump Tower\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-18T22:41:00Z
+    webUrl: "https://www.cbsnews.com/live/cbsn-local-chi/video/20210318212312-cdph-looking-into-vaccinations-at-trump-tower/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
   - title: "What Happens to the Trump Investigation Without Cy Vance?"
     excerpt: "Donald Trump. Vance’s announcement that he will not seek a fourth term comes weeks after his team won a critical battle at the Supreme Court to obtain millions of pages of tax records and other ..."
     publishedDateTime: 2021-03-12T13:23:00Z

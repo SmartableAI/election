@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Netanyahu Fights For Re-election Without Key Ally Trump"
-excerpt: "As Israeli Prime Minister Benjamin Netanyahu faces a re-election battle next week, he's missing an ally he could rely on during three previous votes over the past two years: Donald Trump. The American former president's conservative base was avidly pro ..."
-publishedDateTime: 2021-03-17T15:43:00Z
-originalUrl: "https://www.ibtimes.com/netanyahu-fights-re-election-without-key-ally-trump-3164016"
-webUrl: "https://www.ibtimes.com/netanyahu-fights-re-election-without-key-ally-trump-3164016"
+title: "CDPH Looking Into Vaccinations At Trump Tower..."
+excerpt: "Watch \"CDPH Looking Into Vaccinations At Trump Tower\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+publishedDateTime: 2021-03-18T22:41:00Z
+originalUrl: "https://www.cbsnews.com/live/cbsn-local-chi/video/20210318212312-cdph-looking-into-vaccinations-at-trump-tower/"
+webUrl: "https://www.cbsnews.com/live/cbsn-local-chi/video/20210318212312-cdph-looking-into-vaccinations-at-trump-tower/"
 type: article
-quality: 70
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/17/a-file-photo-from-january-28-shows-then.jpg"
-    width: 985
-    height: 768
-    isCached: true
 
 related:
   - title: "Cyrus Vance, prosecutor investigating Trump, won't seek reelection"
@@ -404,15 +398,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "CDPH Looking Into Vaccinations At Trump Tower..."
-    excerpt: "Watch \"CDPH Looking Into Vaccinations At Trump Tower\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-03-18T22:41:00Z
-    webUrl: "https://www.cbsnews.com/live/cbsn-local-chi/video/20210318212312-cdph-looking-into-vaccinations-at-trump-tower/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 85
   - title: "What Happens to the Trump Investigation Without Cy Vance?"
     excerpt: "Donald Trump. Vance’s announcement that he will not seek a fourth term comes weeks after his team won a critical battle at the Supreme Court to obtain millions of pages of tax records and other ..."
     publishedDateTime: 2021-03-12T13:23:00Z
@@ -428,6 +413,20 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/2b6/ae1/5cd2b0c410b6f6cd1db0c9832a5ef9871f-8-cyrus-vance.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Netanyahu Fights For Re-election Without Key Ally Trump"
+    excerpt: "As Israeli Prime Minister Benjamin Netanyahu faces a re-election battle next week, he's missing an ally he could rely on during three previous votes over the past two years: Donald Trump. The American former president's conservative base was avidly pro ..."
+    publishedDateTime: 2021-03-17T15:43:00Z
+    webUrl: "https://www.ibtimes.com/netanyahu-fights-re-election-without-key-ally-trump-3164016"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/17/a-file-photo-from-january-28-shows-then.jpg"
+        width: 985
+        height: 768
         isCached: true
   - title: "Asia Stocks Track US Rally As Recovery Hopes Trump Inflation Fear"
     excerpt: "Optimism over the economic recovery helped push Asian markets higher Tuesday following another record on Wall Street, with focus on the Federal Reserve's much-anticipated policy meeting this week. News that several European countries had stopped ..."
@@ -490,6 +489,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JnJNFCCumyJ/B7mp2EzVvGtOW0cTmykS8/Pj8B44SK6AbhvWvUySM77C69hSVyo1TqvUiRiVHgvkfvKXujnY3zD20Vz7dDspfcpC8cxGOHFmSGSDUy0XBIMUXLEjiqTe5J7YzsHmKV2w9Ffb1EF1e9sueinQaP+5dFRW41RwtyARK1aqqEOFHlilwQPyUZggx9Stb/LG+XGq2JrLB/nromPiFfptG6eEhZl9N1Ox1umv2kRC2B7tNncl/dV71JLLjCSmcmjPoRAa9gFgEds9X4tXHjfcW/BmhuQkr/hMPM8lCk+Y8BBxqlVa870Z2zfw8naQFMxq7bvURpZ/ZfkUR7jPDBpb7243RhcxY4sadGXCJadDeEt1VCnePpE1MI7vkXOHtDeMU0XYa4Q8LjkDnMgbeeeE1t21YOUIo19/IG3SDsuV7GEq/v1OVdwcoLujFa1kWK3EZqFNmhreiUYFxqgELJA6/A4zFaXVzjSLMw2GH0ohCJMIoVBcprfMPCb1neKGPwaevo8IP659u5FioQ==;NcDKajfxfY7rQaZAWKMBWw=="
+secured: "nOHM6Ppaq0vQ46ZeWHOSsh1As3UbujE3whPZI9Y+ttmVP5habIeqCzOMv5bFVsam56pQ6Y8PNhkNNrg9Fw3dnbSREXyNUemRGL2XrkjiUJBBWfKDItxiLHefk2PMgWwijsHTzW1a19ho3w5jFdZXDqqnxAAaezijClI4k79Dlm8U0Vz8OQGEuvOma745aiNfu95YSQ892XDWHfLROHS6rJCKzzI8eRgX0YwMEROajd/YqTyy7tXwXbUGEtaK/j07+apeMjc2eTlhO0yx+ue+a3XpOo5fmj27XmR9V5hRlvmaouNbQolKvF1QT3b20+okTKFcSFuVEIbYueVJEgP8YWNxyz6D4sNhSV2Tf/VWrVB9HG5Dfq/2tk/v5dk5sxOXiy7a8l/eExBB0PsB1oW2J7S16zmK/G1lq64CrxC5ceOkZbXmn6TKzdyXCJpgUPrN9Q8aJOwIFPZ0ZiiwB+N2fjPrrPzqdX1Rhj2IztIkETV9aAXh8ivz8kqnk7IQ4PiJOAGnNl0mbcF9FRDV9F3ZnA==;pFCCmtxqqwE0zE6bK0hsHA=="
 ---
 

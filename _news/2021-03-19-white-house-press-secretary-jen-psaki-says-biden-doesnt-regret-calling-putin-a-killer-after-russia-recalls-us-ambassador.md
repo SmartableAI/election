@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Manhattan prosecutors are focusing their investigation on Trump's Seven Springs estate in New York"
-excerpt: "It indicates a way to close an interaction, or dismiss a notification. New York prosecutors investigating Donald Trump's finances have intensified their inquiry into his Seven Springs estate, The Wall Street Journal reported on Tuesday. Investigators in ..."
-publishedDateTime: 2021-03-13T06:12:00Z
-originalUrl: "https://www.businessinsider.com/manhattan-prosecutors-focus-on-donald-trumps-new-york-estate-report-2021-3"
-webUrl: "https://www.businessinsider.com/manhattan-prosecutors-focus-on-donald-trumps-new-york-estate-report-2021-3"
+title: "White House press secretary Jen Psaki says Biden doesn't regret calling Putin a 'killer' after Russia recalls US ambassador"
+excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President Joe Biden doesn't regret agreeing with ABC News' George Stephanopoulos during recent interview that Russian President Vladimir Putin is \"a ..."
+publishedDateTime: 2021-03-18T19:01:00Z
+originalUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3"
+webUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3"
+ampWebUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3?amp"
 type: article
-quality: 91
+quality: 99
 heat: -1
 published: false
 
@@ -20,12 +22,12 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://i.insider.com/6048c8699942cf001865d808?width=1200&format=jpeg"
-    width: 1107
-    height: 553
+  - url: "https://i.insider.com/60538ffaf75f09001814eabe?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -1332,22 +1334,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 102
-  - title: "White House press secretary Jen Psaki says Biden doesn't regret calling Putin a 'killer' after Russia recalls US ambassador"
-    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President Joe Biden doesn't regret agreeing with ABC News' George Stephanopoulos during recent interview that Russian President Vladimir Putin is \"a ..."
-    publishedDateTime: 2021-03-18T19:01:00Z
-    webUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://i.insider.com/60538ffaf75f09001814eabe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
     publishedDateTime: 2021-03-10T12:13:00Z
@@ -1374,6 +1360,20 @@ related:
       - url: "https://i.insider.com/604bb0fafea127001886a7e3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Manhattan prosecutors are focusing their investigation on Trump's Seven Springs estate in New York"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. New York prosecutors investigating Donald Trump's finances have intensified their inquiry into his Seven Springs estate, The Wall Street Journal reported on Tuesday. Investigators in ..."
+    publishedDateTime: 2021-03-13T06:12:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-focus-on-donald-trumps-new-york-estate-report-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/6048c8699942cf001865d808?width=1200&format=jpeg"
+        width: 1107
+        height: 553
         isCached: true
   - title: "Wyoming moving ahead with Trump Jr.-backed election changes"
     excerpt: "CHEYENNE, Wyo. (AP) — Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned. A legislative committee voted ..."
@@ -1477,6 +1477,6 @@ related:
         height: 663
         isCached: true
 
-secured: "Te9raDbZ26vJoSBQrYOXEvLO0MG7xEPB4gnDVvOePtGd2nWB80ZVWhOmjiX1R0Wlitd39HCjo3Qhwwe9O6vqVgSoq5HsbPyFBu/xHKR9ybt1sj4mcSrn9V6G8NgcDPrjk8Mvv3XZqcvKI38YhphGEDIDvZPcdUHGcW08q47HD+5Uj4EDfj3cP/nSaQTHAcLTbVRBbmxW4Q2CZtZNYy7xKB+x7yx0OPgVldQ8Se+jKUH32Q50Dyp2rU4l2Q0wdv6gHscTGgfSc/CbdyfhhqPxTFQsxREBLf+EvMlPc2YOQnM/nBoEKCOI8Qbaj8QzDDVPR8x4lbwIr9TnTAhEDlwZJbvOfsSI6iFKrSMN3XWDVqI=;pMcVfEb2stoM2WRutdvXew=="
+secured: "8qVcAe9FM9YZxrf/wXYQZmlz3z78R0SQOzTtwZ7lhlR93pzRxxzP6N8IMQ4X5thQA9/9MpCoeB3UhcLAIyaAZN2C4WATLHNaMSaa8EgrO0qi6LS82J7635JbYlO36BdFGEFm7LWorHwIR1Ka64iyp3+2UcrHSjol5gdpKIYUHDsAy+w2ydtnwzEwixGNvDOiiGi2Yj0c7cgm3gq36vkS7WiFk2Aun6I/5kd9omYc2nlTRHqdmV2TUFAsBEtH/0vGD0/MR2W2b5WbEMVxnd5U39Ls8aVuqeZQwds87LWzY2T7KtbD0xjWMLCBa2w0D/rsTXjZ0vMpjNBgQIyZ2+MsDHrGKcZt/PxYiF553rD+9GQ=;djz1qw3GP4xwnBZ1Wu8C7w=="
 ---
 
