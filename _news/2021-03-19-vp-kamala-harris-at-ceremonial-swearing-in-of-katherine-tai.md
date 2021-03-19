@@ -556,16 +556,16 @@ related:
         height: 434
         isCached: true
   - title: "VP Kamala Harris at Ceremonial Swearing in of Debra Haaland"
-    excerpt: "US Vice President Kamala Harris (R) participates in ceremonial swearing in of Debra Haaland (3-L), with her daughter Somah Haaland and family members, as Secretary of the Interior in the Vice President's Ceremonial Office in the Eisenhower Executive Office ..."
+    excerpt: "US Vice President Kamala Harris (R) participates in ceremonial swearing in of Debra Haaland (3-L), with her daughter Somah Haaland and family members, as Secretary of the Interior in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-03-18T15:28:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/3ac06ae5f2fb2988aa34d6bded03a936/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8bb801f8d8c6ac01cad50a1434cb1dea/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/3ac06ae5f2fb2988aa34d6bded03a936/HARRIS-HAALAND.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8bb801f8d8c6ac01cad50a1434cb1dea/HARRIS-HAALAND.jpg"
         width: 650
         height: 433
         isCached: true
@@ -631,6 +631,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "RsehxhceaILq3LQQOSE+igCjWSLETI7+ucu3EGCMpPlxDv0SWKMDsWE3XDjiEQ81STNNodFyJz65PkJypbPVc8cYG4j9p1FxkQ8pkan+4RnsFKeNCF7Phb+xMB/smP/A1cxAV+jRZKyVKePEi1U/1gdJ7fMzo7RJNe/I5+ufCI/qTblhi0dyYq3/wNDjN2rBEl/WMmWzbIxQztzgQcGLE6dAT8t4WdVhBz+J7YYPsPbUnXBeOb615vOPFsfqpuZT9sSaeJ4d8lzc4yYW0RJhtF94luQEZ45FCTubNvywlnQXQqKszlb9i+IFsEFFCr85d/beMghoRPuhPPeYbNcO/62u27vSnxVxKEeF0rDoMbw=;bOMuuUeEVfJbaAghIlDN5w=="
+secured: "/kQTMShFc3820n/u/8RlSUt0y9MufW6p6v6tTMGp8Ndv/V1apCPyM0cdqi24WNXTMIl6I8++1H9vPjItOjM6Se0NvLKVLH2YqmEek2NQWqWefYdgOM/FXB5EddIVLWMqxY0A4s4xNSA2dvuTdRcecTy2XCvkJNgAHSLdfRI5URhLGboApcLOqB7USoxXW5xhGOzTXu4uFFTfUu1qBKZgDLh76JxJk8Sn7ney3ZntOwXykIaM4683aB/5d62BYjGn0KlAEZhtaapYR+yggvLfta9KRaPTHbB+kBChKnsRweXlvKDOukf4UHetxERGMJWnvJeZ+zM5hFVECRgZhH8VJFpoq81LnYcz34/cLP0NJtQA7Vtkg+tOkJBdLzlHz1Mb57e001+q24O00QXnmt1SJzgZq7EyR9+VuBtAc6mSEIIwbxzg588RVGIq8axxPv/ecIbglWK01mN4dhS1n5NSTYvuhN9NYavynGuyTVxKP5cWK/QRfzpgCgfnB67ZTYHLQy4jXxsC4Mby4lF73/G7rA==;4LMj318ZHMn2/57xUVOOQg=="
 ---
 

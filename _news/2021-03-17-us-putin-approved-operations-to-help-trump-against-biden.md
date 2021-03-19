@@ -208,9 +208,9 @@ related:
         height: 1822
         isCached: true
   - title: "Eyeing 2022 elections, Republicans jockey for Trump's blessing"
-    excerpt: "Off the stage, the candidates said in interviews they all want his blessing to replace Herrera Beutler, a 10-year incumbent, in Washington’s third congressional district next year. Trump is “still in charge” of the Republican Party and his endorsement would be “very important,"
-    publishedDateTime: 2021-03-18T15:19:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-politics-trump-republicans-insigh/eyeing-2022-elections-republicans-jockey-for-trumps-blessing-idUSKBN2BA11Q?edition-redirect=ca"
+    excerpt: "Advisers say Trump has been so inundated with requests that he has set up a formal process for considering whom he should support. His son Donald Trump Jr. and long-time campaign aides such as Justin Clark and Jason Miller are involved in the vetting ..."
+    publishedDateTime: 2021-03-18T15:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-politics-trump-republicans-insigh/eyeing-2022-elections-republicans-jockey-for-trumps-blessing-idUSKBN2BA11Q?edition-redirect=uk"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA11Q"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA11Q"
     type: article

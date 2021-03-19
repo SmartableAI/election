@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden and Kamala Harris plan to visit with Asian-American leaders in Atlanta."
-    excerpt: "President Biden and Vice President Kamala Harris at the White House last week. They plan to travel to Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris will meet in Atlanta on Friday with community ..."
-    publishedDateTime: 2021-03-18T14:40:00Z
-    webUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 145
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/18/multimedia/18atlanta-shootings-briefing-biden-harris/18atlanta-shootings-briefing-biden-harris-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "xGyALaCQYgCERr1S/cgxiChgGXjYvTyE0XDHZC605KmiGhp3ISp9//Bc+IMojbwJK5Kc4rTAc+LPqr83fHJT9oeQZFXlI+dK99pO4sNvDMC5dGno8B2kll4NQSsTUgJKOc3BTlkJNxUqsHIsU4hQAP3pX/a3iSoT8hEyRrWWP6Z753j5L7e9qLOugfEpfrSsnCSqAyyxiGxrME0W8ufUsxkidFkjumTBHQJDzzh7FXJ2OT0DdhSAzhfrQ0WN8fa7M7w6yv0mBkSqf7TPGSduaTJ5lSkda7Br161Wsy13u8kfDf+bXgyMxuEzHIDlu1WkjVtd7F7JmpUJkzq0zCldTIGSa0MNZWmXHLyGPiStEpw=;zecPdO/sYwmP1H8/WHog/w=="
 ---

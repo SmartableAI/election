@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
 type: article
 quality: 130
-heat: 530
+heat: 550
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f3fc03741c62d2842d184e856f13cbfd21d48a53/0_623_5616_3370/master/5616.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e36063787e10c524ed227a1f0bafae79"
         width: 600
         height: 360
+        isCached: true
+  - title: "Putin challenges Biden to debate after president calls him a 'killer'"
+    excerpt: "Biden spoke out about the Russian president in an ABC News interview this week. Examined: How Putin keeps power Russian President Vladimir Putin has reacted to President Joe Biden calling him a ..."
+    publishedDateTime: 2021-03-18T18:11:00Z
+    webUrl: "https://abcnews.go.com/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    ampWebUrl: "https://abcnews.go.com/amp/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/vladimir-putin-debate-challenge-02-rt-llr-210318_1616089376917_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kremlin says Biden's Putin comment shows he has no interest in mending ties"
     excerpt: "MOSCOW (Reuters) - The Kremlin said on Thursday that comments by U.S. President Joe Biden that he thought Vladimir Putin was a killer clearly showed that Biden had no interest in mending ties with Moscow and that Russia would now take that into account."

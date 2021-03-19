@@ -143,6 +143,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Putin challenges Biden to debate after president calls him a 'killer'"
+    excerpt: "Biden spoke out about the Russian president in an ABC News interview this week. Examined: How Putin keeps power Russian President Vladimir Putin has reacted to President Joe Biden calling him a ..."
+    publishedDateTime: 2021-03-18T18:11:00Z
+    webUrl: "https://abcnews.go.com/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    ampWebUrl: "https://abcnews.go.com/amp/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/vladimir-putin-debate-challenge-02-rt-llr-210318_1616089376917_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'Takes one to know one': Putin-Biden spat escalates after 'killer' accusation"
     excerpt: "Officials in Moscow go on offensive after Biden said Russian president would pay price for election meddling Last modified on Thu 18 Mar 2021 11.30 EDT Vladimir Putin has told Joe Biden that “it takes one to know one”, as Kremlin officials promised ..."
     publishedDateTime: 2021-03-18T14:30:00Z

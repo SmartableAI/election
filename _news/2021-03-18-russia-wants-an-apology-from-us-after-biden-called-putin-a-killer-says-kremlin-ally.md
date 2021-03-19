@@ -143,6 +143,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Putin challenges Biden to debate after president calls him a 'killer'"
+    excerpt: "Biden spoke out about the Russian president in an ABC News interview this week. Examined: How Putin keeps power Russian President Vladimir Putin has reacted to President Joe Biden calling him a ..."
+    publishedDateTime: 2021-03-18T18:11:00Z
+    webUrl: "https://abcnews.go.com/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    ampWebUrl: "https://abcnews.go.com/amp/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/vladimir-putin-debate-challenge-02-rt-llr-210318_1616089376917_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kremlin says Biden's Putin comment shows he has no interest in mending ties"
     excerpt: "MOSCOW (Reuters) - The Kremlin said on Thursday that comments by U.S. President Joe Biden that he thought Vladimir Putin was a killer clearly showed that Biden had no interest in mending ties with Moscow and that Russia would now take that into account."
     publishedDateTime: 2021-03-18T10:54:00Z
@@ -333,6 +349,6 @@ related:
         height: 600
         isCached: true
 
-secured: "DYuvz3l4F/5CIZg+tF992Cgm2lBLUu7Km/xRlmDjn+f1Yzfq8YucgbmfR5Pmu2QhD8DAfk9J5kKnuZFsPiB/Y9TtFmnU1LP6Q6ALMXLWXVBYqbf2A7tjVA6mSPCjStqJ1KKP4U3d2N52PiWLbhx79ifFrsHKME6qZwCgyBOgJeQCANHj9c01V76DjMVnogNcOl0BfDhWt9WXPD3iEOJyLqfVXkUaUdMAceIYLkZpY/Cn2t0xk2/IVmYeOBxp/BtH8j9it8Ux0ilQ5MxJx0DNBt/oWadl2PPQ2I/b22QjQzJOtc9ORV4TEMJmB6ZtjEvwO3ews5CMi+r0fwzSeHkrksQM9DidfPh541BL8gIHvjc=;rxHp2V7nTEQCuNwDE4rJ7g=="
+secured: "iC8HeQIwkMSKhB1WKxBZRtne5yzxOpm4Cmw5zBIXSLx8mIFjAde+AUladOTN/+Vq2Fqn19ywKTWof3Cv9k4OrXg8KK9ZFzPMoyu6VLSv/YzDvqWG28XGOh7QNqNFXjkizthAzGJ3j+j37iPKGhJjx92Has35H8Z/H3sR/l9kecd3gE9pnC/ABale9UM/cYfeons6Q31rgzcXlwHGcX/HbzeroGl58Mzna/ORqRHqmWvKedSLbcTwgpB3SL5D2Usnm6cKDNzJe6WvXO646yFQdFy61N79JIGMVaUHLBL1ONLa9BJmrVZVW58ZuqckPD9bo5ocqwthGPFEJSkBbZAfkuXLNzzRiahX27k/AQIykoHhF5TtYEGqVrRlo7whJNp6tMwCEDFfIBigDTdi/2jTmrFOXHFn7ZfSdh73pXBDyrU4+sgqCulYt5CfjYRYrzXB4/QRnXIAC1yCpJ00L58RZ0p4iliIT2/Hu8MFGbGKVYCni6H3SP3MUYWRvT9KrYlLW73qvUr7l1hK4WlSHnxbiA==;eV+k/Evb96vLqltjjvg8TQ=="
 ---
 

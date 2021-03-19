@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "AOC has only tweeted about child migrant detention twice under Biden"
+    excerpt: "Rep. Alexandria Ocasio-Cortez has only tweeted about the situation at the border a handful of times since President Biden took office."
+    publishedDateTime: 2021-03-19T00:29:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZdEP6-vm4XU/aoc-child-migrant-detention-twitter-biden-trump-border"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-child-migrant-detention-twitter-biden-trump-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-child-migrant-detention-twitter-biden-trump-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077675294674.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "North Korea warns Biden administration to avoid 'causing a stink' if it wants peace"
     excerpt: "The sister of North Korean leader, Kim Yo Jong, criticised ongoing military drills in South Korea and warned the new U.S. administration against “causing a stink” if it wants peace, state news reported on Tuesday."
     publishedDateTime: 2021-03-15T23:21:37Z

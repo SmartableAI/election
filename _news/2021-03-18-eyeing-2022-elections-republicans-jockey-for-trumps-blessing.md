@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Eyeing 2022 elections, Republicans jockey for Trump's blessing"
-excerpt: "Off the stage, the candidates said in interviews they all want his blessing to replace Herrera Beutler, a 10-year incumbent, in Washington’s third congressional district next year. Trump is “still in charge” of the Republican Party and his endorsement would be “very important,"
-publishedDateTime: 2021-03-18T15:19:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-politics-trump-republicans-insigh/eyeing-2022-elections-republicans-jockey-for-trumps-blessing-idUSKBN2BA11Q?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-politics-trump-republicans-insigh/eyeing-2022-elections-republicans-jockey-for-trumps-blessing-idUSKBN2BA11Q?edition-redirect=ca"
+excerpt: "Advisers say Trump has been so inundated with requests that he has set up a formal process for considering whom he should support. His son Donald Trump Jr. and long-time campaign aides such as Justin Clark and Jason Miller are involved in the vetting ..."
+publishedDateTime: 2021-03-18T15:10:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-politics-trump-republicans-insigh/eyeing-2022-elections-republicans-jockey-for-trumps-blessing-idUSKBN2BA11Q?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/us-usa-politics-trump-republicans-insigh/eyeing-2022-elections-republicans-jockey-for-trumps-blessing-idUSKBN2BA11Q?edition-redirect=uk"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA11Q"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA11Q"
 type: article
@@ -1461,6 +1461,6 @@ related:
         height: 663
         isCached: true
 
-secured: "MYKiNpiOSefku/K0CSxFs67W7vt6UR5F/6EiKcBforsAJ4covRF3o45RIKtv3zaPU1t1HR7Chf/VMk76AYYaMxWFdHki+m5BGvSWkdeXGD8D3FYCi1swYxNz7Arjl7LqtF12B8awB1JWpZdJefbcIkvJ+syXOJ+4my+B8a3VdTIbtIk5o+YjMmGub38z7/LJGXwxYnK/VzBF6w0TcqAVGhYi0kcUpMTBX7YT6jYgYcWtdiM66Bp1tG5aDpEU3jUqLmBAOQO/pMlQolkCF2L6nRsG8nHtMCAVaqfCu1LRTa+OzMN3QooEQekJjbgQZMyAUkJLxIPhl2UXWgyf2ej4Qm6ZOnTnF5QiSODjAEFRmPH8et4J9EBZTq/WQaScHg4Tw+OsaT34CPbZ3G3jlX8VDCMXv627eXtdIepKhFheF1UE+ki3Vk05fpFePtdMtRbxiZ8yrc2Dgm4bP3L72bHs40f9huzLJ+I2bhN7zqZFSrdgE9hyfSfZRsh77RDTJLDQN+lbdQgC4pJ1pbeFba/uhg==;rZCjO1Kd2P9rvazHfl28gg=="
+secured: "5aWkEPD8AM+rIG3V17tuBWvc/ms2ESOR5ChnK/Q9ZAlOnXrkOFPbPrSX0r7LRMga6Q+MwqEj/OAj7crVYckralnSGjWbFNu2FQAI8XSeKanN9uhRkaWWcb462+ngzTESCb18ydzwq0Cv2jBmF5dqaghvEL03MUOf3ljR2CBKi+KVnkfDAbMlld13BN5XWTEgN0Vl6WePNvJ0a26JFvFuoU4kZkPOtbCVlIKJ74vMqsEkj+ccILTPHsJFmPxEU1aFMoq9HrPsUBlDpobbTjXAZOLf2nlmgbhdM+6Kk89L8tX4TvLVIMdtJ1aGOkUHxIaPCQWXu8ZRR9kP1Mjo97RzGjvLyBuoeDWxnlTqEq8saGE=;Eih0sdO0YQ+MP8fchrPkYw=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "AOC has only tweeted about child migrant detention twice under Biden"
+    excerpt: "Rep. Alexandria Ocasio-Cortez has only tweeted about the situation at the border a handful of times since President Biden took office."
+    publishedDateTime: 2021-03-19T00:29:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZdEP6-vm4XU/aoc-child-migrant-detention-twitter-biden-trump-border"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-child-migrant-detention-twitter-biden-trump-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-child-migrant-detention-twitter-biden-trump-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077675294674.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden’s ‘inhumane’ message puts migrants in hands of smugglers, traffickers: Chad Wolf"
     excerpt: "President Biden’s \"inhumane\" border policies are encouraging migrants to put themselves in the \"hands of smugglers and traffickers,\" former Acting DHS Secretary Chad Wolf told \"America Reports\" Thursday."
     publishedDateTime: 2021-03-11T22:25:29Z
