@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House says Biden is 'quite busy' after Putin invites president for 'live' chat"
+    excerpt: "The White House seemingly turned down an invitation for a \"live\" public conversation with Russian President Vladimir Putin, saying President Biden is \"quite busy\" this weekend. "
+    publishedDateTime: 2021-03-19T12:30:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UlEfO3Yh6eA/white-house-biden-busy-putin-live-chat"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-busy-putin-live-chat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-busy-putin-live-chat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Russia warns Biden calling Putin 'killer' put US relations 'under the threat of collapse'"
     excerpt: "Officials from Russia’s U.S. embassy in Washington warned Thursday that President Biden’s public criticism of Russian President Vladimir Putin had put strained relations between the two nations “under the threat of collapse.”"
     publishedDateTime: 2021-03-18T19:14:57Z

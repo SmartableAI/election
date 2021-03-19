@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House says Biden is 'quite busy' after Putin invites president for 'live' chat"
+    excerpt: "The White House seemingly turned down an invitation for a \"live\" public conversation with Russian President Vladimir Putin, saying President Biden is \"quite busy\" this weekend. "
+    publishedDateTime: 2021-03-19T12:30:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UlEfO3Yh6eA/white-house-biden-busy-putin-live-chat"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-busy-putin-live-chat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-busy-putin-live-chat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "z5fsnTO77na0l2ZL5nvk0fCpYSss+1YpKheVdtajQGIgmVDWBUcl9VgbcLd+euhnw9TmbqyfbNy6EZBP2sYStdRWMQ8kCNPbzG0fFw38qwhHslIFWVd+HUGUkOE0RfS0K6fdyFD4mlb96cZQeQ2HfNEFnB0w/cxpkuz0d9c6BEE2DrSa4O+YbQCsDgpDsPSMabTwhTtjyUW11NLWG0lvu/piwOgwRZ+SLl1N7Uuum3QKNEVKXI5rvWSq0p58Nc16c6rUjLFdYunNEjmYe6BdnaEDkU+Pnm3jX340qkmxhYHIt+SCr1HGxkOf5ReBhhXPSEg126Sn80VsHGr3brqAMiqumd6QVKHfcijoirhb5IE=;virHus60AFJar3iWvCyS4A=="
 ---

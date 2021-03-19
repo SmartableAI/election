@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-s
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914?amp=1"
 type: article
 quality: 117
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 3500
     height: 2333
     isCached: true
+
+related:
+  - title: "Department of Homeland Security chief defends U.S. handling of border crisis, blames Trump administration for surge"
+    excerpt: "In a lengthy statement, Homeland Security Secretary Alejandro Mayorkas revealed that the migration surge is heading towards a 20-year high — and partially blamed the former Trump administration for the tricky situation."
+    publishedDateTime: 2021-03-16T16:50:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 53
+    images:
+      - url: "https://www.nydailynews.com/resizer/OT8iCaWUuwg2Jezx-pa8tXH6XL0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A4X7LXFMHVGDXHY4UR6NHUX3TQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "W7j3SZenaf6l2zUJD2uJJvUzO9KxVghGseKPUg8FF4797CMWbLmxjHGoiWJLjzp1BE+fUvXzNwvwAmjBkTFUIiQJ9qMjnfcvlHKxhWCKEe8WbJAip/YWFpJYl5PtxvKanVZkzbdaq6nAb3QCd0uIqN4A/wqY4aBLb/SG6/chVzhm61wq9g39cWfMG54H+HirNw2qyM3+6mmkE1PGkPmvYfTG3L0ElfbwLibMmAp4/WPcacdIMOprid/Eeb0WuIbElpzEjZHVb7mlY9/U25J73gm/iyj65mHucs/S/bRsTUzaQcqbnIzP/FwJfkG9hyxy84y/XX47vKeuA6NMuVoNmI17zOaCGBwd1ISO4pY+rRI=;l86fKbre+RhUifp5iNuddw=="
 ---

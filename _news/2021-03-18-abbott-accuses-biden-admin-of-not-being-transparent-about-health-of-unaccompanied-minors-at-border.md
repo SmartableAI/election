@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator"
+    excerpt: "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News."
+    publishedDateTime: 2021-03-19T12:51:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator"
+    ampWebUrl: "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden push for face mask standard in workplace misses self-imposed deadline"
     excerpt: "President Biden planned to issue a temporary face mask standard in workplaces by his 55th day in office, but his administration missed that deadline as discussions continue on the potential new federal standard for private businesses. "
     publishedDateTime: 2021-03-16T12:09:26Z
@@ -58,6 +74,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "DHS chief Mayorkas to visit southern border as Biden admin under pressure on immigration"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas will visit the southern border Friday with Sen. Rob Portman as the Biden administration is facing intense scrutiny over the worsening situation on the border. "
+    publishedDateTime: 2021-03-19T13:06:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmJVcurxE/dhs-chief-mayorkas-visit-southern-border-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/dhs-chief-mayorkas-visit-southern-border-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-chief-mayorkas-visit-southern-border-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340

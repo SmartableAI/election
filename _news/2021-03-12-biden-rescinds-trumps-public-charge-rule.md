@@ -1307,6 +1307,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "A museum has removed a wax statue of Trump because people kept punching it"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. A waxwork museum removed a statue of former President Donald Trump because people kept on attacking it, the San Antonio Express-News reported. A post shared by Ripley's Believe It or Not!"
+    publishedDateTime: 2021-03-19T12:15:00Z
+    webUrl: "https://www.businessinsider.com/trump-wax-statue-removed-from-museum-visitors-keep-punching-it-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/605492261fcb5700186ee581?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "A Dominion exec forced into hiding due to death threats from Trump fans is beefing up his lawsuit against Newsmax over election conspiracy theories"
     excerpt: "The lawsuit accuses Donald Trump's presidential campaign, conspiracy theorist attorneys Rudy Giuliani and Sidney Powell, and right-wing media outlets like Newsmax, One America News, and The Gateway Pundit of boosting false claims about him. The defendants ..."
     publishedDateTime: 2021-03-15T18:03:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rheto
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1"
 type: article
 quality: 121
-heat: -1
-published: false
+heat: 121
+published: true
 
 provider:
   name: Newsweek
@@ -29,70 +29,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Judy Chu blames Trump for rising anti-Asian hate after Atlanta shooting"
-    excerpt: "on Wednesday blamed former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border ..."
-    publishedDateTime: 2021-03-17T22:51:00Z
-    webUrl: "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting"
-    ampWebUrl: "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/chujudy_072518am_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Study shows Trump's \"Chinese virus\" tweet sparked increased use of anti-Asian hashtags on Twitter"
-    excerpt: "A tweet by then-President Trump using the phrase \"Chinese virus\" sparked an increase in the use of anti-Asian hashtags on Twitter, according to a University of California, San Francisco study published on Wednesday. Researchers examined nearly 700,000 ..."
-    publishedDateTime: 2021-03-19T08:34:00Z
-    webUrl: "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/16/dda11331-c7e4-496d-b559-bc92ae2645e3/thumbnail/1200x630/b560b80e1fded362511a619970848848/cbsn-fusion-twitter-purges-accounts-associated-with-qanon-thumbnail-669403-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "'No question' Trump worsened anti-Asian sentiment: WH"
-    excerpt: "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ..."
-    publishedDateTime: 2021-03-17T22:57:00Z
-    webUrl: "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210317&i=OVE4H8HR3&r=OVE4H8HR3&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Department of Homeland Security chief defends U.S. handling of border crisis, blames Trump administration for surge"
-    excerpt: "In a lengthy statement, Homeland Security Secretary Alejandro Mayorkas revealed that the migration surge is heading towards a 20-year high — and partially blamed the former Trump administration for the tricky situation."
-    publishedDateTime: 2021-03-16T16:50:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 53
-    images:
-      - url: "https://www.nydailynews.com/resizer/OT8iCaWUuwg2Jezx-pa8tXH6XL0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A4X7LXFMHVGDXHY4UR6NHUX3TQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "pTxp4xaON4Vss0LWPwxFqMfXgAYxcBheikwZT4vKcSOJjQTETqneQf4/nYKJQhlJcGfpwM16js1GbvRI2NciBA1FAvJ73Sy1geNgIQJJTHKCLQZVl4PEBkW8eZ5Qkzy9wD5iji+cPkfluytDwzNAcmGg3ezIxM7LvR9gK7zD8m0DFbeJYvlOFY5oWfDbOXK3xfwn0FVHGjRYeJdjX5CHaNJEY9GyNabUT7IsgKXpicdIgCXUccBbEk3lb12RzXDtFblCxOn0FWHDjdHgSvzG376hGKGWxEw3fPLwWYhBYOAY9INIJnJJAtS1YSt+w4jrrzmFgd3TI6Mqdk+hlWNlaqvJilLzZZNUgH76lmZEBRxHN4xVHqon7qBqywtBCl5C9BRQvqKlJQ+0d4KXrhnx9QeD4rnZ3cY4kpuGsnyGSnxliNwAoknqiau3kJGM2O/QvNqah03KIublCsxEk2Mx+I3PX/tMkdAXvQ9L4xGEq6iICd8yTbP3FLjOuMjgZLyLPEqM5y1prs2uNpnHiu1Jog==;4bIkvURi5vZ7NvF2mxyrXw=="
 ---

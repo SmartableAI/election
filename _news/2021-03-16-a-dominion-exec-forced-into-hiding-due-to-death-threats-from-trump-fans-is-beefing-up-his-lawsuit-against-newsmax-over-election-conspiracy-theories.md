@@ -1323,6 +1323,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "A museum has removed a wax statue of Trump because people kept punching it"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. A waxwork museum removed a statue of former President Donald Trump because people kept on attacking it, the San Antonio Express-News reported. A post shared by Ripley's Believe It or Not!"
+    publishedDateTime: 2021-03-19T12:15:00Z
+    webUrl: "https://www.businessinsider.com/trump-wax-statue-removed-from-museum-visitors-keep-punching-it-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/605492261fcb5700186ee581?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Florida teen pleads guilty to hacking Twitter accounts of Biden, celebrities"
     excerpt: "The Florida teenager accused of being behind the hack of celebrity Twitter accounts last year has pleaded guilty in the state's 13th Judicial Circuit Court in Tampa and agreed to serve three years in juvenile prison."
     publishedDateTime: 2021-03-17T07:27:00Z

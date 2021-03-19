@@ -899,6 +899,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Joe Biden, Kamala Harris offering solace to grieving Asian Americans"
+    excerpt: "For Asian Americans, 2020 was a year of political success and newfound influence. But it was also a time of vulnerability to racist assaults."
+    publishedDateTime: 2021-03-19T10:33:00Z
+    webUrl: "https://www.mercurynews.com/2021/03/19/biden-harris-offering-solace-to-grieving-asian-americans/"
+    ampWebUrl: "https://www.mercurynews.com/2021/03/19/biden-harris-offering-solace-to-grieving-asian-americans/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/03/19/biden-harris-offering-solace-to-grieving-asian-americans/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 90
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/03/Biden_88927-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
     excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
     publishedDateTime: 2021-02-07T00:34:00Z
@@ -1134,6 +1150,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/01/USAT/c35c9bb9-bed0-4130-a062-1440af27dee5-AP_Harris_Senate.jpg?auto=webp&crop=2800,1575,x10,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "After deadly Georgia shootings, President Joe Biden, Vice President Kamala Harris to visit Atlanta"
+    excerpt: "Biden and Harris will spend their visit consoling a community whose growing voting power helped secure their victory in Georgia and beyond."
+    publishedDateTime: 2021-03-19T12:15:00Z
+    webUrl: "https://www.masslive.com/politics/2021/03/after-deadly-georgia-shootings-president-joe-biden-vice-president-kamala-harris-to-visit-atlanta.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/03/after-deadly-georgia-shootings-president-joe-biden-vice-president-kamala-harris-to-visit-atlanta.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/03/after-deadly-georgia-shootings-president-joe-biden-vice-president-kamala-harris-to-visit-atlanta.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 76
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7AUOXU7OSFE6LNARF5V7KAQTRQ.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Blair House guest quarters a temporary home for VP Harris"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."

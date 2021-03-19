@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
 type: article
 quality: 146
-heat: 2026
+heat: 2046
 published: true
 
 provider:
@@ -1304,6 +1304,20 @@ related:
     quality: 104
     images:
       - url: "https://i.insider.com/604f909287891e0019850d47?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "A museum has removed a wax statue of Trump because people kept punching it"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. A waxwork museum removed a statue of former President Donald Trump because people kept on attacking it, the San Antonio Express-News reported. A post shared by Ripley's Believe It or Not!"
+    publishedDateTime: 2021-03-19T12:15:00Z
+    webUrl: "https://www.businessinsider.com/trump-wax-statue-removed-from-museum-visitors-keep-punching-it-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/605492261fcb5700186ee581?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
