@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administrati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
 type: article
 quality: 161
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Texas Gov. Abbott demands Biden admin give access to migrant children for trafficking investigation"
-    excerpt: "Texas Gov. Greg Abbott is demanding that the Biden administration allow the state to interview unaccompanied migrant children in federal facilities."
-    publishedDateTime: 2021-03-17T19:57:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNFOJ5W7nqo/texas-border-migrant-children-greg-abbott-biden-trafficking"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075718186443.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "'Confounding' for Biden administration to announce press conference nine days in advance: McEnany"
     excerpt: "The Biden administration announcing the date that the president will hold his first formal press conference nine days ahead of time is a \"confounding strategy,\" Fox News contributor and former White House press secretary Kayleigh McEnany told \"Outnumbered\" Wednesday."
     publishedDateTime: 2021-03-17T20:39:46Z

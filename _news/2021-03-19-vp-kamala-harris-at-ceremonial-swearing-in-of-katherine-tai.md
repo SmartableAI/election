@@ -413,6 +413,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris takes jab at husband on Twitter for picking NCAA Tournament No. 1 seeds"
+    excerpt: "Doug Emhoff, the Second Gentleman, went with No. 1 seeds Gonzaga and Stanford to win the men's and women's NCAA Tournaments, respectively."
+    publishedDateTime: 2021-03-19T02:13:00Z
+    webUrl: "https://www.indystar.com/story/sports/ncaab/tourney/2021/03/18/march-madness-kamala-harris-jabs-husband-twitter-bracket-picks/4759695001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4759695001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4759695001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
     excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-03-17T17:53:00Z

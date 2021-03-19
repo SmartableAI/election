@@ -1347,6 +1347,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 102
+  - title: "4 solutions experts say Biden can try right now to deal with thousands of migrant kids coming to the US-Mexico border"
+    excerpt: "DOW S&P 500 NASDAQ 100 The number of unaccompanied migrant children detained at the US Southern border has more than tripled in the past few weeks, straining facilities and ramping up pressure on the Biden administration to address the situation."
+    publishedDateTime: 2021-03-19T15:44:00Z
+    webUrl: "https://www.businessinsider.com/four-steps-experts-say-biden-can-take-to-address-the-border-situation"
+    ampWebUrl: "https://www.businessinsider.com/four-steps-experts-say-biden-can-take-to-address-the-border-situation?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/four-steps-experts-say-biden-can-take-to-address-the-border-situation?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/604936409942cf001865db14?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "White House press secretary Jen Psaki says Biden doesn't regret calling Putin a 'killer' after Russia recalls US ambassador"
     excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President Joe Biden doesn't regret agreeing with ABC News' George Stephanopoulos during recent interview that Russian President Vladimir Putin is \"a ..."
     publishedDateTime: 2021-03-18T19:01:00Z
@@ -1419,6 +1435,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Trump Lackeys Are Teaming Up Again With Putin to Mock Biden"
+    excerpt: "This week, asked by ABC News if he considered Vladimir Putin a “killer,” President Biden responded in the affirmative. Putin responded by challenging Biden to a debate this weekend. At this point, Donald Trump’s allies immediately weighed in on Putin’s side."
+    publishedDateTime: 2021-03-19T13:37:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/biden-putin-killer-debate-challenge-trump-hannity.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/biden-putin-killer-debate-challenge-trump-hannity.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/biden-putin-killer-debate-challenge-trump-hannity.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/14e/204/a7cfd359921d7c8f0975af9ca3cc6ecc38-putin-hannity-dtj.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "He's baaack (kind of). Inside Trump's bid to get on Twitter without officially being allowed on Twitter."
     excerpt: "Trump's most recent statements from his new political action committee and his post-presidential office read exactly like his tweets. Most are crafted just under Twitter's 280-character threshold. Journalists,"

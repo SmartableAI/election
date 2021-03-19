@@ -2,6 +2,218 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-18-power-up-trumps-legal-exposure-multiplies-in-new-york-and-washington.md",
+      "title": "Power Up: Trump's legal exposure multiplies in New York and Washington",
+      "excerpt": "This is the Power Up newsletter – thanks for waking up with us. FIRST IN POWER UP, TRUMP'S LEGAL EXPOSURE: Former president Donald Trump's tax records are being sifted through; those closest to him have been subpoenaed;",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7SF3QQEHNEI6XAV44WBBHSVDRY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp",
+      "publishedDateTime": "2021-03-18T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-army-wont-restore-medals-to-mathew-golsteyn-who-was-pardoned-by-trump.md",
+      "title": "Army won’t restore medals to Mathew Golsteyn, who was pardoned by Trump",
+      "excerpt": "The US Army has reportedly denied a request to return medals of valor to a retired major accused of murder in Afghanistan who was pardoned by former President Donald Trump. Retired Maj. Mathew",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/",
+      "originalUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/Vigilante-Green-Beret.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/amp/",
+      "publishedDateTime": "2021-03-18T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-biden-defense-secretary-warns-us-forces-ready-to-fight-tonight-after-north-korea-warning.md",
+      "title": "Biden defense secretary warns US forces ready to 'fight tonight' after North Korea warning",
+      "excerpt": "Defense Secretary Lloyd Austin on Thursday warned North Korea that U.S. forces are ready to \"fight tonight\" after the dictatorship condemned military drills taking place in South Korea.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0e0cad0-33bc-446b-9db5-16102b405c1a/af3c1e50-36bb-43f0-9294-7cb7dcad73ef/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp",
+      "publishedDateTime": "2021-03-18T06:32:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-biden-pandering-to-coastal-elite-friends-with-keystone-pipeline-shutdown-montana-ag.md",
+      "title": "Biden 'pandering to coastal elite friends' with Keystone pipeline shutdown: Montana AG",
+      "excerpt": "Montana Attorney General Austin Knudsen said Thursday that President Biden's shutdown of the Keystone pipeline is really just \"pandering to his coastal elite friends.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZWBTHTaZ904/biden-keystone-pipeline-pandering-elite-lawsuit-montana",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZWBTHTaZ904/biden-keystone-pipeline-pandering-elite-lawsuit-montana",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2682fc54-190c-4f84-9525-ba7663838cbe/790d029c-c038-48f8-9d75-83695b1a9fc5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-keystone-pipeline-pandering-elite-lawsuit-montana.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-pipeline-pandering-elite-lawsuit-montana.amp",
+      "publishedDateTime": "2021-03-18T06:07:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-cnn-viewership-plummeted-after-trump-left-office.md",
       "title": "CNN viewership plummeted after Trump left office",
       "excerpt": "CNN’s viewership has tanked since former President Trump left office — with new data showing the liberal network lost nearly half of its prime-time audience in a key demographic since",
@@ -1116,218 +1328,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-may-not-be-tough-enough-to-stand-up-to-aoc-bernie-sanders-on-filibuster-tom-cotton.md",
-      "title": "Biden 'may not be tough enough' to stand up to AOC, Bernie Sanders on filibuster: Tom Cotton",
-      "excerpt": "On Wednesday, Sen. Tom Cotton R-Ark., warned against ending the filibuster and said that President Biden may not be tough enough to stand up against far-left Democrats like Alexandria Ocasio-Cortez and Bernie Sanders.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W9VKpyM2sEQ/biden-stand-up-aoc-bernie-sanders-far-left-tom-cotton-filibuster",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W9VKpyM2sEQ/biden-stand-up-aoc-bernie-sanders-far-left-tom-cotton-filibuster",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b46a2c41-4d0a-4761-a9eb-4888b06ece33/1319585b-8d9d-4b88-8c21-69ab03480902/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-stand-up-aoc-bernie-sanders-far-left-tom-cotton-filibuster.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stand-up-aoc-bernie-sanders-far-left-tom-cotton-filibuster.amp",
-      "publishedDateTime": "2021-03-17T08:58:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-tough-to-withdraw-from-afghanistan-by-may.md",
-      "title": "Biden: 'Tough' to withdraw from Afghanistan by May",
-      "excerpt": "Withdrawing all U.S. troops from Afghanistan by May 1 as called for in a deal between the United States and the Taliban would be \"tough,\" President Biden Joe Biden Biden and Congress must take bold action to prevent violent extremism The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border crisis MORE said in an interview aired Wednesday,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may",
-      "originalUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe2_31121_gettyimages.png",
-          "width": 826,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may?amp",
-      "publishedDateTime": "2021-03-17T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-trump-net-worth-dropped-by-700-million-during-presidency-report.md",
-      "title": "Trump Net Worth Dropped By $700 Million During Presidency: Report",
-      "excerpt": "Former President Donald Trump lost about a quarter of his overall wealth during the four years he served in the White House, according to the latest estimate from the Bloomberg Billionaire Index. When Trump took office in 2017, his net worth was estimated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
-      "originalUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1758105/donald-trump.jpg",
-          "width": 1024,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1",
-      "publishedDateTime": "2021-03-17T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-brands-putin-a-killer-and-says-he-will-pay-for-russian-election-interference-live.md",
-      "title": "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live",
-      "excerpt": "Joe Biden told immigrants making the difficult journey to the US-Mexico border “don’t come over” as the administration attempts to respond to an increase of unaccompanied children seeking asylum. In a wide-ranging interview with ABC News’ George ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 550,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates",
-      "publishedDateTime": "2021-03-17T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

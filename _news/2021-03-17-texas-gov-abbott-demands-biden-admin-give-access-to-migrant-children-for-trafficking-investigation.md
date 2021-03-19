@@ -31,35 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Kayleigh McEnany: Biden administration 'incentivizing' flow of migrant children at southern border"
-    excerpt: "Former White House press secretary and Fox News Analyst Kayleigh McEnany reacts to the growing influx of migrant children at the southern border."
-    publishedDateTime: 2021-03-16T22:52:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdtHfZOHqhY/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
+  - title: "Biden administration 'importing' coronavirus into Texas by not securing border: Gov. Abbott"
+    excerpt: "Texas Gov. Greg Abbott, R., told \"America's Newsroom\" Friday that the Biden administration is effectively importing coronavirus into the United States by not adequately securing the southern border."
+    publishedDateTime: 2021-03-19T14:32:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CZOpF_xlbQ/biden-importing-coronavirus-securing-border-abbott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "'Confounding' for Biden administration to announce press conference nine days in advance: McEnany"
-    excerpt: "The Biden administration announcing the date that the president will hold his first formal press conference nine days ahead of time is a \"confounding strategy,\" Fox News contributor and former White House press secretary Kayleigh McEnany told \"Outnumbered\" Wednesday."
-    publishedDateTime: 2021-03-17T20:39:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXooPDjUya0/mcenany-biden-press-conference-announcement-confounding"
+  - title: "Biden and leaders of Japan, Australia, India to unveil plans to boost coronavirus vaccine production"
+    excerpt: "President Biden and other leaders of nations in the \"Quad\" alliance will unveil an agreement to ramp up production of coronavirus vaccines in Southeast Asia in a first-of-its-kind virtual meeting Friday, according to senior administration officials with knowledge of the matter."
+    publishedDateTime: 2021-03-12T10:03:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3aWQAGGEbE/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 142
+    quality: 160
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7acab5e-b008-41de-bc5f-595cc76dc02e/e95ab723-09b5-472b-9196-51d50716a162/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Texas AG accuses Biden administration of putting Texans 'at risk' with influx of COVID-positive migrants"
+    excerpt: "The Biden administration's handling of the southern border is putting Texans at risk, Attorney General Ken Paxton told \"The Faulkner Focus\" on Friday."
+    publishedDateTime: 2021-03-13T00:52:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_BuhMpftRY/ken-paxton-biden-putting-texans-at-risk"
+    ampWebUrl: "https://www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "/+C907w2M86kkgbB6MHbUI+TgbsrCPTIGPvrljmI3xnor3l4/8Dc2l6JdSWEp4j/xAWxJmcRigK+b0s8W293Xls/R143nKx+D7b6+SAwd7GCFULAy4lzjXup+/xPXBRv020ZWQO4J59Ugh1DJgIeDRgm0X9mocfj0DBEvl06US8U8kqXb9TfJOz3StmPS/RTqiOxdmtQdvtVJIIjH4ePepit+GEgfM8a0Pfpk8acrriXLgMHUVdnEeXre5PP15Ri1OwB3O/3V3DUFJwjbxOroRfyBcArBfoUkjSM/eeOvCGkORxPm6eS6FM5Wu0jUit4SKswWIzKpf0eFITQCP58u3jq5JcWzeqq6GhFLrGg1bM=;zwQtv0DlkFNp6JWtp+Y62g=="

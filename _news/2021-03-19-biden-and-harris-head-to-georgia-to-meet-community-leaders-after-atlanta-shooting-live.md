@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
 type: article
 quality: 141
-heat: 801
+heat: 821
 published: true
 
 provider:
@@ -404,6 +404,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris takes jab at husband on Twitter for picking NCAA Tournament No. 1 seeds"
+    excerpt: "Doug Emhoff, the Second Gentleman, went with No. 1 seeds Gonzaga and Stanford to win the men's and women's NCAA Tournaments, respectively."
+    publishedDateTime: 2021-03-19T02:13:00Z
+    webUrl: "https://www.indystar.com/story/sports/ncaab/tourney/2021/03/18/march-madness-kamala-harris-jabs-husband-twitter-bracket-picks/4759695001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4759695001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4759695001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
     excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-03-17T17:53:00Z
@@ -518,6 +534,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "cUdtPjrrttVkrrU21WifRdbwMFJ8jQSlsEgz7FvdQYBQkKB0RboxQ47aMpn2GcEabvgSEBMouuTmOr7gj27ffhrvhA2PTD4oCYPDj0n9MG59bUrI1TB575rN2A/cvps1jSSDADLOGwXIK4hes8ErMOLqJDGyfMvrjCMKZK22FEdr8LkvR9e5wDEZNGMgdYiE9ylEu/SqBeMBAgN/+wFBuU0ZffBn10uTHlui/0m+AWmp84OyPLtl+e8ZMWmdFwdot7m9+5/PWWOpOORavz8/EzvWy24qaa+RgpBx6b84XQDB5jLmdpruI3H1Acwp0HYOpMwdGFERUZYEMrxhmZPQ3dRCicx7Qh4+BD/othUDm/I=;xAl8Y7cQEC9a05leG9S8SA=="
+secured: "Pfni0LG/xjR/78u0g44Y0ifgo3jt23myOMoBUNUqcQEH3/ijg86aLzSmCzlKNHHt7ZeM2nb0iJdTyCHrGkZZoEnPjr4hyqoZGsYXcvVFoCIin1JvaPoViZDN8xod+NYsANwbTceEQiRv+PZuvJMb8ikY/wpw8Ncj5Aph6TRWwgpt2Jq4+rDJbSRl20kj2clM/cB82/ifXcmqHUFYanl3r6y1nkxmvpnyH/iG4Z4KKZyEol5Ds8wOt0+50HebdEm8lLaQ8z1+0aVoQ/L7j9TxaZYSqaKBFgllVzxzgo+G8ZW96DikwPcndlOAcq7bjyrOrss9bgBEHr0cTAYRFoco9GXSWp7DV/9TXceG2MHH8yuLo2kag8XIq7oljIFONP9aCwEYT8DTbInMP4djNQq8HvnMdZr7LiBu8qJEv82TNVVKrIhrqJfZF0E/73SBh6w34ttgHDnlAfcpLmfPSg4R6Q1I+df5GiOO8FOiSWC/u4ngtgRm/v8XLztzuUMnvAUL7avdBMVUmzmVlTunOEZLxg==;gSkWiGw7EcfkA8ts7/pZwg=="
 ---
 

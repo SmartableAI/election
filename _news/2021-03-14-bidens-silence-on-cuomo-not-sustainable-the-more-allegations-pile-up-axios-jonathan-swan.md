@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s inauguration priest under investigation by university after unspecified allegations"
+    excerpt: "The Rev. Kevin O'Brien, the president of Santa Clara University and the priest who delivered the Roman Catholic Mass for President Biden on the morning of his inauguration, is on leave from his job at the university after unspecified allegations against him. "
+    publishedDateTime: 2021-03-19T15:33:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-LbUv83gido/bidens-inauguration-priest-investigation-santa-clara-university"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "xIMJOyM2OgeCxXdAikL05wqZgQGo+cCZ/AVSMJgXgq/HJsPnYWtv/bKlspV0x8nyLaWmktH9tFJdtwmy1W9yGRBcz1nw2maWwPAGNRJl3/pT4j9HVu/x35evIzqIOsEGt4P0L0Ual8Yk9ZGZQaZ1u7VdBWpHGrJzz/9kR+N1fU4XzjAYaPUyw2tEhTUUv7Z2jOkCP9PV3RbNPSX+qle7hkbWZPlnho8LXOqUaj0sgVbg+1t2gXGZ7nrppwImhQJwoQ/LPqm+WOb072ikLQTuQOZ7RSN2yx15G/s9cobn2XSL/6B/KBjB84hAOLpMNIOMGVw2uDcUA/QJaZ+nunaw953ihwbdFOTmgbrNM4fd1TQ=;ghkpiRWZfugkY4ztiu8HaA=="
 ---

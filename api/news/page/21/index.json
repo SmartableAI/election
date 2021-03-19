@@ -2,6 +2,110 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-15-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of-parkland-shooting.md",
+      "title": "Biden calls for 'commonsense gun law reforms' on anniversary of Parkland shooting",
+      "excerpt": "President Biden called on Congress to pass \"commonsense gun law reforms\" on Sunday in a message marking the third anniversary of the shooting at Marjory Stoneman Douglas High School in Parkland, Fla.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
+      "originalUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_020521getty_stocks.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
+      "publishedDateTime": "2021-02-14T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-trump-triumphant-but-senior-republicans-still-see-battles-ahead.md",
+      "title": "Trump triumphant – but senior Republicans still see battles ahead",
+      "excerpt": "Former president celebrates second impeachment acquittal as supporters and moderates prepare to contest party direction",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 625,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b09aaef858886f4fa0b19c990a60565bc8ffbcd7/0_99_4729_2838/master/4729.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7054ca77cdfe83aad2194ca18e75b250",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/donald-trump-impeachment-republican-party-cornyn-hogan-graham-mcconnell",
+      "publishedDateTime": "2021-02-14T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-black-immigrant-advocates-praise-biden-for-reinstating-deportation-protections-for-liberians-who-fled-civil-war.md",
       "title": "Black immigrant advocates praise Biden for reinstating deportation protections for Liberians who fled civil war",
       "excerpt": "More than 10,000 Liberians, who have been living in the U.S. without legal status since fleeing a civil war decades ago, will get to stay for now.",
@@ -1252,114 +1356,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-key-republican-breaks-with-trump-we-shouldnt-have-followed-him.md",
-      "title": "Key Republican breaks with Trump: 'We shouldn't have followed him'",
-      "excerpt": "Former ambassador to the UN Nikki Haley weighed in on Trump's legacy during an interview with Politico, saying that he had \"fallen so far\" and was likely out of the picture for 2024 presidential candidates. Former special assistant to President George H.W. Bush and president of the Council on Foreign",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUGrERbuGhY/nikki-haley-trump-election-richard-haass-nr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUGrERbuGhY/nikki-haley-trump-election-richard-haass-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 495,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181009111215-18-nikki-haley-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn",
-      "publishedDateTime": "2021-02-12T10:35:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-kamala-harris-late-in-life-love-story-an-example-of-changing-trend.md",
-      "title": "Kamala Harris' late-in-life love story an example of changing trend",
-      "excerpt": "Vice President Kamala Harris is making history as the first woman and first woman of color to serve in that role. As the country celebrates Valentine's Day on Sunday, experts are pointing to the fact that Harris is also the face of a growing demographic of women marrying later in life,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/GMA/Living/kamala-harris-late-life-love-story-changing-trend/story?id=75819461",
-      "originalUrl": "https://abcnews.go.com/GMA/Living/kamala-harris-late-life-love-story-changing-trend/story?id=75819461",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 565,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/GMA/kamala-harris-swearing-in-gty-jt-210211_1613067168367_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461",
-      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461",
-      "publishedDateTime": "2021-02-12T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

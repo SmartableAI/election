@@ -45,22 +45,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Texas Gov. Abbott demands Biden admin give access to migrant children for trafficking investigation"
-    excerpt: "Texas Gov. Greg Abbott is demanding that the Biden administration allow the state to interview unaccompanied migrant children in federal facilities."
-    publishedDateTime: 2021-03-17T19:57:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNFOJ5W7nqo/texas-border-migrant-children-greg-abbott-biden-trafficking"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075718186443.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "sZ45KDYvhuQqBEgvJ2VEf0ELXako5NPiLStaYLaYqUKi+CvhwsdApbOJ0oM07Wd44wm89PYfxPGlEU2aTHimL+KuwiiEmsp7EzeHJopT5JzZfyec5h6FIDF8CkxMcEGroxJ+mS3xt0akH8xcI9XjPv8MotaBOMZkjCvf+KKK3bjIqjN3VmHCDq+iha75EbrK++CdAgx0WuvXojdQ3QJ89Zo6odfButKXxJwHhsuA+emY2yK5ycaWmdAiwno7g1ChTeL95A94CUDWln/z5so8AosUKYcV9O03y22HDvsFA8VaRhMZMcHePg+BtoGmVHvjTOQ6kyIXW2x/6UlameBcSQCBlRl1piPAfqUPGy2WADg=;nA1/gRYVIqyz3xU5Eq/92w=="
 ---

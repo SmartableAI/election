@@ -2,6 +2,170 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-trump-wax-figure-removed-from-san-antonio-museum-after-customers-kept-punching-and-scratching-it.md",
+      "title": "Trump wax figure removed from San Antonio museum after customers kept punching and scratching it",
+      "excerpt": "A wax figure of former President Donald Trump was temporarily removed from Louis Tussaud's Waxworks in San Antonio, Texas, after sustaining damage from customers. The decision to put the figure in storage came after patrons at the wax museum kept punching ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation-now/2021/03/19/donald-trump-wax-figure-removed-museum-after-customers-punched/4763313001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation-now/2021/03/19/donald-trump-wax-figure-removed-museum-after-customers-punched/4763313001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/9aa99cc22011782e4f05a1684074bb2b09e2ef96/c=0-2241-3985-4492/local/-/media/2016/11/11/Brevard/Brevard/636144729050694649-Trumpwax14.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4763313001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4763313001",
+      "publishedDateTime": "2021-03-19T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-biden-administration-importing-coronavirus-into-texas-by-not-securing-border-gov-abbott.md",
+      "title": "Biden administration 'importing' coronavirus into Texas by not securing border: Gov. Abbott",
+      "excerpt": "Texas Gov. Greg Abbott, R., told \"America's Newsroom\" Friday that the Biden administration is effectively importing coronavirus into the United States by not adequately securing the southern border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CZOpF_xlbQ/biden-importing-coronavirus-securing-border-abbott",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CZOpF_xlbQ/biden-importing-coronavirus-securing-border-abbott",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp",
+      "publishedDateTime": "2021-03-19T07:32:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-kevin-mccarthy-on-fox-friends-biden-border-crisis-now-becoming-human-tragedy.md",
+      "title": "Kevin McCarthy on 'Fox & Friends': Biden border crisis now becoming 'human tragedy'",
+      "excerpt": "The issues on the border go beyond a crisis to a \"human tragedy,\" House Minority Leader Kevin McCarthy, R-Calif., said on Friday, reacting to the Biden administration denying media access to migrant facilities.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
+      "publishedDateTime": "2021-03-19T07:29:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-biden-and-harris-head-to-georgia-to-meet-community-leaders-after-atlanta-shooting-live.md",
       "title": "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live",
       "excerpt": "President and vice-president’s trip to Atlanta to focus on meeting Asian American community leaders",
@@ -10,7 +174,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates?page=with:block-605475e08f085f49c135a0aa",
       "featuredContent": null,
       "highlight": null,
-      "heat": 801,
+      "heat": 821,
       "tags": null,
       "images": [
         {
@@ -172,7 +336,7 @@
       "originalUrl": "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -491,6 +655,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-giroir-accuses-biden-of-playing-fast-and-loose-with-covid-science-taking-credit-for-operation-warp-speed.md",
+      "title": "Giroir accuses Biden of playing 'fast and loose' with COVID science, taking credit for Operation Warp Speed",
+      "excerpt": "President Biden is somehow able to \"stand up and completely rewrite history and go fast and loose with the science and the data,\" former HHS Assistant Secretary Brett Giroir told \"The Story\" Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AoH1GK5IMbU/giroir-biden-fast-and-loose-covid-science-operation-warp-speed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AoH1GK5IMbU/giroir-biden-fast-and-loose-covid-science-operation-warp-speed",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/giroir-biden-fast-and-loose-covid-science-operation-warp-speed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giroir-biden-fast-and-loose-covid-science-operation-warp-speed.amp",
+      "publishedDateTime": "2021-03-18T15:29:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -1153,218 +1373,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-power-up-trumps-legal-exposure-multiplies-in-new-york-and-washington.md",
-      "title": "Power Up: Trump's legal exposure multiplies in New York and Washington",
-      "excerpt": "This is the Power Up newsletter – thanks for waking up with us. FIRST IN POWER UP, TRUMP'S LEGAL EXPOSURE: Former president Donald Trump's tax records are being sifted through; those closest to him have been subpoenaed;",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7SF3QQEHNEI6XAV44WBBHSVDRY.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp",
-      "publishedDateTime": "2021-03-18T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-army-wont-restore-medals-to-mathew-golsteyn-who-was-pardoned-by-trump.md",
-      "title": "Army won’t restore medals to Mathew Golsteyn, who was pardoned by Trump",
-      "excerpt": "The US Army has reportedly denied a request to return medals of valor to a retired major accused of murder in Afghanistan who was pardoned by former President Donald Trump. Retired Maj. Mathew",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/",
-      "originalUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/Vigilante-Green-Beret.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/amp/",
-      "publishedDateTime": "2021-03-18T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-biden-defense-secretary-warns-us-forces-ready-to-fight-tonight-after-north-korea-warning.md",
-      "title": "Biden defense secretary warns US forces ready to 'fight tonight' after North Korea warning",
-      "excerpt": "Defense Secretary Lloyd Austin on Thursday warned North Korea that U.S. forces are ready to \"fight tonight\" after the dictatorship condemned military drills taking place in South Korea.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0e0cad0-33bc-446b-9db5-16102b405c1a/af3c1e50-36bb-43f0-9294-7cb7dcad73ef/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp",
-      "publishedDateTime": "2021-03-18T06:32:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-biden-pandering-to-coastal-elite-friends-with-keystone-pipeline-shutdown-montana-ag.md",
-      "title": "Biden 'pandering to coastal elite friends' with Keystone pipeline shutdown: Montana AG",
-      "excerpt": "Montana Attorney General Austin Knudsen said Thursday that President Biden's shutdown of the Keystone pipeline is really just \"pandering to his coastal elite friends.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZWBTHTaZ904/biden-keystone-pipeline-pandering-elite-lawsuit-montana",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZWBTHTaZ904/biden-keystone-pipeline-pandering-elite-lawsuit-montana",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2682fc54-190c-4f84-9525-ba7663838cbe/790d029c-c038-48f8-9d75-83695b1a9fc5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-keystone-pipeline-pandering-elite-lawsuit-montana.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-pipeline-pandering-elite-lawsuit-montana.amp",
-      "publishedDateTime": "2021-03-18T06:07:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

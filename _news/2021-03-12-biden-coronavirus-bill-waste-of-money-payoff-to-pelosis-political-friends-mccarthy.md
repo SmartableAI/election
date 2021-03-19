@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-coronavirus-bill-waste-mon
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends.amp"
 type: article
 quality: 167
-heat: 207
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden and leaders of Japan, Australia, India to unveil plans to boost coronavirus vaccine production"
-    excerpt: "President Biden and other leaders of nations in the \"Quad\" alliance will unveil an agreement to ramp up production of coronavirus vaccines in Southeast Asia in a first-of-its-kind virtual meeting Friday, according to senior administration officials with knowledge of the matter."
-    publishedDateTime: 2021-03-12T10:03:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3aWQAGGEbE/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit.amp"
+  - title: "Kevin McCarthy on 'Fox & Friends': Biden border crisis now becoming 'human tragedy'"
+    excerpt: "The issues on the border go beyond a crisis to a \"human tragedy,\" House Minority Leader Kevin McCarthy, R-Calif., said on Friday, reacting to the Biden administration denying media access to migrant facilities."
+    publishedDateTime: 2021-03-19T14:29:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7acab5e-b008-41de-bc5f-595cc76dc02e/e95ab723-09b5-472b-9196-51d50716a162/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "McCarthy says he hasn’t heard back from White House about request for meeting with Biden on border crisis"
     excerpt: "House Minority Leader Kevin McCarthy pressed President Biden—again—for a meeting to discuss a bipartisan way to address the situation at the U.S. Southern Border, maintaining that “securing our border should not be a partisan issue.”"

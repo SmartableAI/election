@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden coronavirus bill 'waste of money, payoff to Pelosi's political friends': McCarthy"
-    excerpt: "The massive $1.9 trillion coronavirus relief bill is a \"waste of money\" and a \"payoff\" to House Speaker Nancy Pelosi's \"political friends,\" Rep. Kevin McCarthy, R-Calif., said on Friday."
-    publishedDateTime: 2021-03-12T16:53:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwhwKRuOVzE/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends.amp"
+  - title: "Biden administration 'importing' coronavirus into Texas by not securing border: Gov. Abbott"
+    excerpt: "Texas Gov. Greg Abbott, R., told \"America's Newsroom\" Friday that the Biden administration is effectively importing coronavirus into the United States by not adequately securing the southern border."
+    publishedDateTime: 2021-03-19T14:32:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CZOpF_xlbQ/biden-importing-coronavirus-securing-border-abbott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "McCarthy says he hasn’t heard back from White House about request for meeting with Biden on border crisis"
-    excerpt: "House Minority Leader Kevin McCarthy pressed President Biden—again—for a meeting to discuss a bipartisan way to address the situation at the U.S. Southern Border, maintaining that “securing our border should not be a partisan issue.”"
-    publishedDateTime: 2021-03-18T18:41:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZP-R41i2leQ/mccarthy-presses-biden-meeting-situation-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
+  - title: "Texas Gov. Abbott demands Biden admin give access to migrant children for trafficking investigation"
+    excerpt: "Texas Gov. Greg Abbott is demanding that the Biden administration allow the state to interview unaccompanied migrant children in federal facilities."
+    publishedDateTime: 2021-03-17T19:57:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNFOJ5W7nqo/texas-border-migrant-children-greg-abbott-biden-trafficking"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075718186443.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Texas AG accuses Biden administration of putting Texans 'at risk' with influx of COVID-positive migrants"
+    excerpt: "The Biden administration's handling of the southern border is putting Texans at risk, Attorney General Ken Paxton told \"The Faulkner Focus\" on Friday."
+    publishedDateTime: 2021-03-13T00:52:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_BuhMpftRY/ken-paxton-biden-putting-texans-at-risk"
+    ampWebUrl: "https://www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
