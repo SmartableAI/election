@@ -455,6 +455,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Man with rifle arrested outside Vice President Kamala Harris’ official residence"
+    excerpt: "Washington, DC, police arrested a Texas man outside Vice President Kamala Harris’ official residence, the US Naval Observatory, in the nation’s capital on Wednesday and he’s now facing weapons and ammunition charges. A spokesperson for Washington’s ..."
+    publishedDateTime: 2021-03-18T06:28:00Z
+    webUrl: "https://www.dailynews.com/2021/03/17/man-arrested-outside-vp-harris-official-residence/"
+    ampWebUrl: "https://www.dailynews.com/2021/03/17/man-arrested-outside-vp-harris-official-residence/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/03/17/man-arrested-outside-vp-harris-official-residence/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 70
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/03/hypatia-h_6fdac63cea83d40e08df55323e323ef8-h_b82685b849db8905ad29787cfe85cd51-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
     excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
     publishedDateTime: 2021-03-12T02:22:00Z
@@ -550,6 +566,20 @@ related:
     quality: 55
     images:
       - url: "https://cdnph.upi.com/pv/upi/27f2a99397b681d75445fcc5fa361fa5/HARRIS-HISTORY-MONTH.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "VP Kamala Harris at Ceremonial Swearing in of Katherine Tai"
+    excerpt: "Vice President Kamala Harris (R) participates in the ceremonial swearing in of Katherine Tai (L), with her husband Robert Skidmore (C), as United States Trade Representative in the Vice President's Ceremonial Office in the Eisenhower Executive Office ..."
+    publishedDateTime: 2021-03-18T23:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/702d761fa742deefe0c289a31a83d610/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Katherine-Tai/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/702d761fa742deefe0c289a31a83d610/HARRIS-TAI.jpg"
         width: 650
         height: 433
         isCached: true

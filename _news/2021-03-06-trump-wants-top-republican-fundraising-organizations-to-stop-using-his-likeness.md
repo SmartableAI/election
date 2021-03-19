@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy tries to rewrite history by claiming that he didn't back Trump's efforts to overturn the election"
+    excerpt: "House Minority Leader Kevin McCarthy tried to rewrite history on Thursday by claiming that he was not involved in former President Donald Trump's efforts to overturn the election in a heated exchange during a news briefing.\n    \n"
+    publishedDateTime: 2021-03-18T22:45:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G_K5_Ln71uw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/mccarthy-rewrite-history-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mccarthy-rewrite-history-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318145819-kevin-mccarthy-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia district attorney investigating Trump hires lawyer with expertise in racketeering cases"
     excerpt: "A lawyer with deep expertise in racketeering cases has been retained by the Atlanta-area district attorney's office investigating former President Donald Trump.\n    \n"
     publishedDateTime: 2021-03-07T00:47:44Z

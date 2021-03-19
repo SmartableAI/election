@@ -252,6 +252,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to meet with Stacey Abrams during president's trip to Georgia"
+    excerpt: "During his visit to Atlanta on Friday, President Joe Biden will meet with former Georgia gubernatorial candidate Stacey Abrams, who has been widely credited with helping flip the former Republican stronghold blue."
+    publishedDateTime: 2021-03-18T22:16:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoCs_q6os4A/biden-stacey-abrams-to-meet-during-president-trip-to-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-stacey-abrams-to-meet-during-president-trip-to-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stacey-abrams-to-meet-during-president-trip-to-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bcb89c34-d114-47b4-b926-71a71dddd743/55259602-1e27-4555-90a3-5493af2e07eb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden silent on whether Cuomo should resign after avalanche of Dem calls"
     excerpt: "President Biden isn't weighing in on whether New York Gov. Andrew Cuomo should resign even as top New York congressional Democrats say it's time for him to go, according to White House press secretary Jen Psaki."
     publishedDateTime: 2021-03-12T18:29:13Z
@@ -283,6 +299,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21019753232322.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden transgender policy meets broad state-based Republican counterattack"
+    excerpt: "Legislation addressing the issue of transgender athletes in the U.S. has nearly doubled this year, with 42 bills introduced in 26 states. Republicans say it is a robust response to President Biden’s executive order aimed at preventing discrimination on the basis of gender identity, allowing students"
+    publishedDateTime: 2021-03-18T22:18:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ib0ZVc82CM8/how-youth-sports-took-center-stage-in-one-of-the-nations-most-complex-political-debates"
+    ampWebUrl: "https://www.foxnews.com/politics/how-youth-sports-took-center-stage-in-one-of-the-nations-most-complex-political-debates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/how-youth-sports-took-center-stage-in-one-of-the-nations-most-complex-political-debates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f73d0602-afa1-4562-9bed-c418710c3a09/0e66cbfe-7a67-43e7-a62c-78b108d0ad36/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Cornyn says Biden administration is 'in denial' over the border crisis"
+    excerpt: "Biden admin can't build enough housing for 'sea of humanity' crossing the border, Republican tells 'Your World'"
+    publishedDateTime: 2021-03-18T22:58:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/or-aRgTSywo/sen-cornyn-biden-administration-not-willing-to-acknowledge-reality-of-southern-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-cornyn-biden-administration-not-willing-to-acknowledge-reality-of-southern-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cornyn-biden-administration-not-willing-to-acknowledge-reality-of-southern-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden's words on migrant children without beds, soap could come back to haunt him"
     excerpt: "In 2019, then-candidate Biden went after then-President Donald Trump online over the conditions at detention centers holding migrant children as the Trump administration argued in defense of the facilities in federal court."

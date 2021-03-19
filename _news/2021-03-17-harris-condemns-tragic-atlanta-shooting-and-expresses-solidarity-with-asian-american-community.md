@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden will meet with Stacey Abrams in Atlanta"
+    excerpt: "President Joe Biden will meet with Stacey Abrams while in Atlanta on Friday, according to an administration official, who said Abrams has \"played a leading role in voting access and voter protection and she will be an important partner in taking action on this important issue moving forward.\"\n    \n"
+    publishedDateTime: 2021-03-18T22:24:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qom0JsPP5dM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/stacey-abrams-joe-biden-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/stacey-abrams-joe-biden-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190321115607-joe-biden-stacey-abrams-split-0321-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden orders flags to be flown at half-staff in honor of Atlanta shooting victims"
     excerpt: "President Joe Biden has ordered the American flags at the White House and on other federal ground be flown at half-staff as \"a mark of respect for the victims of the senseless acts of violence\" in Atlanta this week.\n    \n"
     publishedDateTime: 2021-03-18T17:30:59Z

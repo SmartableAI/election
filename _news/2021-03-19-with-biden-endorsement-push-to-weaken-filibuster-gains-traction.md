@@ -400,6 +400,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden dispatches Democratic senator to Ethiopia amid Tigray crisis"
+    excerpt: "Washington (CNN)President Joe Biden is dispatching one of his top congressional allies to Ethiopia to meet with Prime Minister Abiy Ahmed amid the humanitarian crisis in that country's Tigray region. Sen. Chris Coons \"will convey President Biden's grave ..."
+    publishedDateTime: 2021-03-18T22:00:00Z
+    webUrl: "https://www.cnn.com/2021/03/18/politics/chris-coons-tigray/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225095126-sen-chris-coons-0222-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote"
     excerpt: "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ..."
     publishedDateTime: 2021-03-15T18:50:00Z
@@ -492,7 +508,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
+    excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
+    publishedDateTime: 2021-03-18T20:50:00Z
+    webUrl: "https://www.cnn.com/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 113
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316151003-102-border-crisis-0314-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
-secured: "sp0rEqSEct64rpb0Lo8eXPVTLoNq3TVhWKK8WMXTdrXXgp6FJTmLBjEaZx0esfEFqnqsgFx9mWGLZWrYxa2bPmlElLdXxk0uCXMbQZ+zTe0hsNT53UyYUdDE4uM4CVqBAgJBls5dpiT1+BQndZsjpeKiBd9mZZmOOGWeO01ITbMu0rIUBNnEgYygCrcepQWrbL9ROv79q1AuGWaYAa6vhlobpQ2u5amzbPU8EGBD7S4xcyvEbfrSU7n27on+sXK2zD03GuBSEVjYNUoniNBHoyXQ5ZpUY1ebYReWczafHBkvsT7UffJb9H4yYWlmScDK8hgqsWKF8URxjHc6dCd1g5pG3tR6o1YPWu7Wgn/ZZ5g=;8LArCBFASUL0aRWtLCcqSg=="
+secured: "wkAwc1MTHqkGbO/Rk3xRZ09P8BrkFmNyZbJSj3K67gCOAX1apyN71OOo59+20l/n3nKaGZIxKlplmsBMvBXYzZdHzbRnRMgJwP9vhoWxRFKlCB3nElUSSerFqwvW6LSoPsQWR6cpicuD00AIWlTGDeEIXyDEJ9aS3MIRZOKeYWSuWKXyttJimyuu3qzw2Mh84OIp81YjmOC0AO5/SNK01yAmOT5UNwliLABNBKOecOZ+XvyXqAjdgGblWViuNHyt3xH3uJCtqGGoY4ur1l7a57JZW76PQ4R04ml3p5UE66cZsZpzeJfef5ZrbE5aCvDIsF3MIFJam4cmMiV30gIAL3y0iSjHZ5YPZsGmFHWVkPnmzciDsOX0UBDA/gyu0t7vWRAaJVb02WrRQ04oP5fIN4RkRJHgJdOIld0+IcV+i144rnQx10mzlphQ0wBXssPqUj+A0fG8i64HxLVp+g6uehfVQgnVYpW9oth1ltFzTsYy6/pNy9AkaxqO8DdKjBj0MbCG/Vo3XHUNhjwssUjaog==;B3Ol5VrRfWnLA9Wc0GI5AQ=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Will Donald Trump Face Criminal Charges? Michael Cohen Continues Focus On Ex-President's Legal Problems"
+    excerpt: "Trump's former lawyer called New York's inquiry \"a proctological exam of the highest order\" now that it has access to Trump's tax records."
+    publishedDateTime: 2021-03-18T22:23:00Z
+    webUrl: "https://www.ibtimes.com/will-donald-trump-face-criminal-charges-michael-cohen-continues-focus-ex-presidents-3165024"
+    ampWebUrl: "https://www.ibtimes.com/will-donald-trump-face-criminal-charges-michael-cohen-continues-focus-ex-presidents-3165024?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-donald-trump-face-criminal-charges-michael-cohen-continues-focus-ex-presidents-3165024?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/07/cohen-lawsuit.jpg"
+        width: 1024
+        height: 714
+        isCached: true
 
 secured: "QK/vuk75zHfA8/TthZUSH1IQ13XZEaOjM9Znc0ldmezy2AgCxnQCDe0NVA8ihd3IbahANdamHj3v1s1mpi2ooJoqniq8LWPFpYZzQHenaDKE8pkAFpPx2IDoGVv3ioYaQ6ZRLVQoPO+xFT/Vih9PYmDmTrLqZlQH0fXTE+Jnwd9isF5JZ/Qe8X9fpHw5UnvaAo3MwKEL6L3RWbkFN2VflkDiZwQU5tyVypLmjyrgF4d2ctB2oK0e184C9daUd8J13LqVhTn4DV5QhxYNvWO2t+fYisCJLnvfEx0CQQ2MNVGqrRzg4c6CsmtGVwLdkGmxWWdvmCuxQb0vlN7wMnt618Db4tLo87aXE3pGE1EsKbbsBRNFA0dSNmFt/AUNnNDBYj7WcfNhzsqbkVcTswowOXsd7LuHdZ6FCmtFLgpwuwlkm3BksUMzCEMGgU3GpgTO6v0bP9tIBuPVzM3LCtpWL8tWdy6rOTaCnBQ/yUa8/tRLwC2wDjpXbAmvV9+P0pxJ6zNYAIb4GyoUdJEUbRJ4Tw==;LhgUzE0+u0Akgpv3jaf/3Q=="
 ---

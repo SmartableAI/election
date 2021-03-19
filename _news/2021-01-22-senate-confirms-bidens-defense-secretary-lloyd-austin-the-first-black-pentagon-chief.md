@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Congress demands to see if Iran is paying Americans to help influence Biden policy"
+    excerpt: "The U.S. government should investigate what is alleged to be a covert Iranian propaganda operation being run on American soil, according to a congressional request."
+    publishedDateTime: 2021-03-18T22:22:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uj8jrNXQnD8/congress-demands-to-see-if-iran-is-paying-americans-to-help-influence-biden-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-demands-to-see-if-iran-is-paying-americans-to-help-influence-biden-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-demands-to-see-if-iran-is-paying-americans-to-help-influence-biden-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bb4a0e2-a42f-4a3d-bf4f-c9b998b54ff2/5f3f4be0-f631-4421-a713-4b4537a336a7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden commerce pick promises jobless Keystone workers 'we will make sure that you have jobs'"
     excerpt: "Gina Raimondo, President Biden's nominee for secretary of commerce, promised that the Biden administration will ensure that union workers who lost jobs due to the blocking of the Keystone XL pipeline will get new jobs."
     publishedDateTime: 2021-01-26T18:54:05Z

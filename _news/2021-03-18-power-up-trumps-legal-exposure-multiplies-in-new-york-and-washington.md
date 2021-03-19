@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-le
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSN4VWD2E4I6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Will Donald Trump Face Criminal Charges? Michael Cohen Continues Focus On Ex-President's Legal Problems"
+    excerpt: "Trump's former lawyer called New York's inquiry \"a proctological exam of the highest order\" now that it has access to Trump's tax records."
+    publishedDateTime: 2021-03-18T22:23:00Z
+    webUrl: "https://www.ibtimes.com/will-donald-trump-face-criminal-charges-michael-cohen-continues-focus-ex-presidents-3165024"
+    ampWebUrl: "https://www.ibtimes.com/will-donald-trump-face-criminal-charges-michael-cohen-continues-focus-ex-presidents-3165024?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-donald-trump-face-criminal-charges-michael-cohen-continues-focus-ex-presidents-3165024?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/07/cohen-lawsuit.jpg"
+        width: 1024
+        height: 714
         isCached: true
 
 secured: "5KrUAzvMRTo8M4yBCift/xArHL/9f1bgZsxYeShAX29JD74ZaeTlBDA8JdyfuY6sW7JDKqjf0rroIIj16Tgjj4Q5hz5fCYRc+LIdT60X1sA3hDLrYOPPABvaHNkvQLkN24sDVzuCr7alUAzSXYMb7YVVeMU+LbKYfg9V4EwFMWHcBxBbUm/HPC+TqYRlCLSvr5gR1PvTnohkPbnVh7sGeG8jSkbN9QQGGrtOiIfgnK1JyvFW4Az91b/uPmPJj4Zg/MxP22Yt1FLl409W5HrNm/EAT/r0mBxXxClbSeNkPW4wQoM0zKx9Mg75fYyA2TFuJhPsVf/ASymuZ4jRDttDW1iLzcxhBKB/H+X/AHnflxMtT+vj8rNvUhNwS5pbqnphH+RHjzPWLxs3fEBN3Nm7o8/2UkWlSRHjSZXSEdn74lypA/zHMD3d5HYCMisnx8WG71zWj7MTUYpZodwMgw6zDE3H7CBPDwh+SYd7FjaGJTxYeZ01EkF1bSoEVB7hS/E5ggSYhhKoggSGdLxrlOoEmA==;nrch9UvXHY/y9gx9LYGDXQ=="

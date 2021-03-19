@@ -140,6 +140,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Congress demands to see if Iran is paying Americans to help influence Biden policy"
+    excerpt: "The U.S. government should investigate what is alleged to be a covert Iranian propaganda operation being run on American soil, according to a congressional request."
+    publishedDateTime: 2021-03-18T22:22:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uj8jrNXQnD8/congress-demands-to-see-if-iran-is-paying-americans-to-help-influence-biden-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-demands-to-see-if-iran-is-paying-americans-to-help-influence-biden-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-demands-to-see-if-iran-is-paying-americans-to-help-influence-biden-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bb4a0e2-a42f-4a3d-bf4f-c9b998b54ff2/5f3f4be0-f631-4421-a713-4b4537a336a7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Senate confirms Biden's Defense Secretary Lloyd Austin, the first Black Pentagon chief"
     excerpt: "The Senate on Friday confirmed President Biden's Defense Secretary Lloyd Austin in a big bipartisan vote, marking the first time an African American will lead the Pentagon in U.S. history."
     publishedDateTime: 2021-01-22T16:05:45Z
