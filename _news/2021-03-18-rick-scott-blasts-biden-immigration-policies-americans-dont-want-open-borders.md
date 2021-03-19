@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-bor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
 type: article
 quality: 170
-heat: 290
+heat: 310
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43446e6c-352c-4c59-bfa5-2b93b2468473/bdfdbabc-61d5-4370-a3b3-ad549f1d987e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden admin considering flying Latin American migrants to states near Canadian border: report"
+    excerpt: "As crossings along the southern border surge to near-record levels, the Biden administration is considering flying migrants to states near the Canadian border, according to a report. "
+    publishedDateTime: 2021-03-19T21:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4bInlyZh5rY/biden-admin-fly-latin-american-migrants-states-canadian-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-fly-latin-american-migrants-states-canadian-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-fly-latin-american-migrants-states-canadian-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Border-1-.jpg"
         width: 1280
         height: 720
         isCached: true

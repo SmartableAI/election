@@ -143,22 +143,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden heads to Pennsylvania to tout $1.9 trillion American Rescue Plan"
-    excerpt: "The president, Vice President Kamala Harris and their spouses are traveling the country to advertise the legislation this week."
-    publishedDateTime: 2021-03-16T15:17:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-american-rescue-plan-pennsylvania-trip/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-american-rescue-plan-pennsylvania-trip/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-american-rescue-plan-pennsylvania-trip/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/16/0eb16c64-3214-459f-9228-5414b5510730/thumbnail/1200x630g2/81c6d595dbf360fb43d8beff85a3a63d/gettyimages-1231735168.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden taps Gene Sperling to oversee COVID-19 relief package"
     excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package ..."
     publishedDateTime: 2021-03-15T18:22:00Z
@@ -174,22 +158,6 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_1f585f6d25c046ac96827091c1f322cd_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden touts direct checks ahead of American Rescue Plan tour"
-    excerpt: "Washington — President Biden continued his message that \"help is here\" on Monday, speaking briefly on the implementation of his $1.9 trillion COVID-19 relief package as he, Vice President Kamala Harris and their spouses prepare to depart on a nationwide ..."
-    publishedDateTime: 2021-03-15T19:20:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-bill-american-rescue-act-remarks-live-stream-today-2021-03-15/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-bill-american-rescue-act-remarks-live-stream-today-2021-03-15/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-bill-american-rescue-act-remarks-live-stream-today-2021-03-15/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/15/b69c1c03-363c-4d82-a08d-6a1c76fc816d/thumbnail/1200x630/a3f25d54f8264a3111da18afbe05aae3/gettyimages-1307093617.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "U.S. talking to several countries about extra COVID-19 vaccine: Biden"
     excerpt: "U.S. President Joe Biden said on Tuesday the United States is in talks with several countries about who will get any extra doses of COVID-19 vaccines."
@@ -367,22 +335,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Americans Have Saved Enough Amid Pandemic to Nearly Pay for Biden's Stimulus Plan"
-    excerpt: "Oxford Economics estimated that U.S. households saved $1.8 trillion from March 2020 to January 2021—just shy of the $1.9 trillion price tag attached to Biden's relief package."
-    publishedDateTime: 2021-03-15T21:34:00Z
-    webUrl: "https://www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318"
-    ampWebUrl: "https://www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1756527/joe-biden-delivers-remarks-covid-package.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
     excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
     publishedDateTime: 2021-03-04T21:00:00Z
@@ -430,22 +382,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
         width: 817
         height: 545
-        isCached: true
-  - title: "Biden taps Gene Sperling to oversee implementation of $1.9 trillion American Rescue Plan"
-    excerpt: "President Biden has tapped Gene Sperling, a longtime economic adviser under Democratic administrations, to oversee implementation of his $1.9 trillion coronavirus relief plan, the White House announced Monday."
-    publishedDateTime: 2021-03-15T13:43:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-gene-sperling-implementation-american-rescue-plan/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-gene-sperling-implementation-american-rescue-plan/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-gene-sperling-implementation-american-rescue-plan/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 116
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/15/40187898-7362-4551-bc6e-84607736896e/thumbnail/1200x630/f7fa0cbfadb1363e4d116f35cd2d8c98/gettyimages-460966663.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden White House launching 'Help is Here' tour to promote stimulus package in key states"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden and his allies are hitting the road this week to promote the $1.9 trillion pandemic relief bill he signed in law last week as the right prescription for a country humbled by the COVID-19 pandemic. Biden and a ..."
@@ -575,22 +511,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden denounced the attacks on Asian Americans during the COVID-19 pandemic, calling them ‘un-American’"
-    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden in his Thursday address to the nation denounced a surge in attacks on Asian Americans during the coronavirus pandemic. In the prime-time address marking the one-year anniversary of the COVID-19 outbreak being ..."
-    publishedDateTime: 2021-03-12T13:01:00Z
-    webUrl: "https://www.businessinsider.com/biden-slams-attacks-on-asian-americans-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-slams-attacks-on-asian-americans-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-slams-attacks-on-asian-americans-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/604b5a97fea127001886a616?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Dentists and midwives giving shots, 4,000 troops to help: How Biden is expanding COVID-19 vaccinations"
     excerpt: "WASHINGTON – Americans wanting a COVID-19 vaccination will now have many more ways to get the shot. President Joe Biden’s administration is dramatically expanding the pool of medical professionals who can administer the vaccinations, is launching new ..."
     publishedDateTime: 2021-03-12T19:25:00Z
@@ -667,34 +587,6 @@ related:
         width: 852
         height: 480
         isCached: true
-  - title: "Hate crimes against Asian-Americans 'must stop:' Biden"
-    excerpt: "Biden. Posted . President Joe Biden said on Thursday (March 11) called for an end to \"vicious hate crimes against Asian"
-    publishedDateTime: 2021-03-12T09:58:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE3S8DZZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210312&i=OVE3S8DZZ&r=OVE3S8DZZ&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Biden condemns hate crimes against Asian Americans"
-    excerpt: "President Biden has condemned hate crimes against Asian Americans amid a surge in attacks. \"It's wrong. It's un-American. It must stop,\" he said Thursday. Weijia Jiang has more."
-    publishedDateTime: 2021-03-13T00:34:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-condemns-hate-crimes-against-asian-americans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/13/81b85568-c29d-4e04-9a35-39cfeac5ff30/thumbnail/1200x630/a20cc7fa1dde742f4e75cd61f9472325/cbsn-fusion-biden-condemns-hate-crimes-against-asian-americans-thumbnail-667349-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Capital Gains Are Taxed and What Biden Might Do"
     excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
     publishedDateTime: 2021-03-16T23:50:00Z
@@ -738,36 +630,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/05978c65-180a-48f4-b571-fa12d578336e-GTY_1231477838.jpg?auto=webp&crop=4499,2531,x0,y229&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
-    excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
-    publishedDateTime: 2021-03-15T19:21:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-american-rescue-plan-covid-shots-in-arms-and-money-in-pockets/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 96
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/15/bd97d734-d062-464a-8747-7ef801963fed/thumbnail/1200x630/8283c876473a7508645e3fb40183592b/cbsn-fusion-biden-touts-shots-in-arms-and-money-in-pockets-thats-important-thumbnail-668817-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "American billionaires could fund two-thirds of Biden's COVID-19 relief package just using profits generated during the pandemic, a report shows"
-    excerpt: "DOW S&P 500 NASDAQ 100 American billionaires have earned so much money during the pandemic that they could fund two-thirds of President Joe Biden's COVID-19 relief package using profits generated in the last year, a report shows. The combined fortune of ..."
-    publishedDateTime: 2021-03-13T11:01:00Z
-    webUrl: "https://www.businessinsider.com/biden-covid-relief-plan-stimulus-billionaire-pandemic-profits-fund-economy-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-covid-relief-plan-stimulus-billionaire-pandemic-profits-fund-economy-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-covid-relief-plan-stimulus-billionaire-pandemic-profits-fund-economy-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/5f1052132618b95c16267fa4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "'Dinner table' politics: Why Joe Biden ditched bipartisan dealmaking to pass his COVID-19 relief bill"
     excerpt: "President Biden's decision to go it alone on his COVID-19 relief plan could sink any promise of bipartisanship for his next big-ticket proposals."

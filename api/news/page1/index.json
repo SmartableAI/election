@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-glory-days-of-trumps-gold-plated-757-seem-far-away-as-plane-sits-idle-at-a-sleepy-airport.md",
+      "title": "Glory days of Trump's gold-plated 757 seem far away as plane sits idle at a sleepy airport  ",
+      "excerpt": "Trump's personal Boeing 757 was always the crown jewel of his wealth -- the ultimate sign that he had made it. He's used it as a backdrop for sleek photo shoots, campaign rallies, VIP tours, for shots of him eating his Big Macs and KFC, plated, with a knife and fork. Trump loved to show it off -- the",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BVwxmk_KKYg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BVwxmk_KKYg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319145726-01a-screengrab-trump-757-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/19/politics/trump-757-repairs-gold-plated-glory-days/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/trump-757-repairs-gold-plated-glory-days/index.html",
+      "publishedDateTime": "2021-03-19T13:11:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-biden-offers-veiled-criticism-of-trump-in-visit-to-cdc-says-science-is-back.md",
       "title": "Biden offers veiled criticism of Trump in visit to CDC, says 'science is back'",
       "excerpt": "President Biden visited the Centers for Disease Control and Prevention in Georgia on Friday, touting health officials for having “changed things” in a way to “make everyone healthier\" amid the coronavirus pandemic. ",
@@ -55,6 +111,59 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-biden-harris-visit-georgias-asian-american-community-leaders-after-shooting.md",
+      "title": "Biden, Harris visit Georgia's Asian-American community leaders after shooting",
+      "excerpt": "ATLANTA (Reuters) - President Joe Biden and Vice President Kamala Harris arrived in Georgia on Friday to meet with Asian-American community leaders after a deadly shooting rampage in the state, shifting the focus of a trip originally planned to promote the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-biden-georgia-idUKKBN2BB2AM",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-biden-georgia-idUKKBN2BB2AM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1027,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555506176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I0ZH",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2BB2AM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BB2AM",
+      "publishedDateTime": "2021-03-19T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
       ]
     },
     {
@@ -267,6 +376,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-outraged-biden-urges-congress-to-pass-hate-crimes-bill-in-wake-of-atlanta-attacks-live.md",
+      "title": "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live",
+      "excerpt": "Covid-19 Hate Crimes Act would ‘expedite the government’s response to the rise of hate crimes exacerbated during the pandemic’ – follow the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054d5028f08131c2e527ff9",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054d5028f08131c2e527ff9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b3d1927dd2a0417b6e898d9ef0722b11dfb8d2cf/0_405_4459_2675/master/4459.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a31b1b3813371bbaaf1612234a8095d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest",
+      "publishedDateTime": "2021-03-19T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -490,59 +651,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-19-biden-and-harris-head-to-georgia-to-meet-community-leaders-after-atlanta-shooting-live.md",
-      "title": "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live",
-      "excerpt": "President and vice-president’s trip to Atlanta to focus on meeting Asian American community leaders",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates?page=with:block-605475e08f085f49c135a0aa",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates?page=with:block-605475e08f085f49c135a0aa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 861,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1c15577873ecd04cb2ec8335c3cd026833ca41b9/0_0_4840_2905/master/4840.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a81a3a6480275709a44a0b8e5195495",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
-      "publishedDateTime": "2021-03-19T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-03-19-ex-wife-of-trump-org-executive-has-spoken-to-investigators-multiple-times.md",
       "title": "Ex-wife of Trump Org executive has spoken to investigators 'multiple times'",
       "excerpt": "Jennifer Weisselberg said it appears investigators have been seeking information about her former father-in-law, Allen Weisselberg, the company’s CFO.",
@@ -632,58 +740,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter.md",
-      "title": "Study shows Trump's \"Chinese virus\" tweet sparked increased use of anti-Asian hashtags on Twitter",
-      "excerpt": "A tweet by then-President Trump using the phrase \"Chinese virus\" sparked an increase in the use of anti-Asian hashtags on Twitter, according to a University of California, San Francisco study published on Wednesday. Researchers examined nearly 700,000 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "originalUrl": "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/16/dda11331-c7e4-496d-b559-bc92ae2645e3/thumbnail/1200x630/b560b80e1fded362511a619970848848/cbsn-fusion-twitter-purges-accounts-associated-with-qanon-thumbnail-669403-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "publishedDateTime": "2021-03-19T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1162,7 +1218,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 840,
+      "heat": 900,
       "tags": null,
       "images": [
         {
@@ -1317,62 +1373,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-top-biden-officials-to-sit-down-with-chinese-counterparts-in-alaska.md",
-      "title": "Top Biden officials to sit down with Chinese counterparts in Alaska",
-      "excerpt": "Two of the Biden administration's top national security officials will sit down with their Chinese counterparts Thursday -- a key first meeting in the relationship that the US secretary of state has called \"the biggest geopolitical test of the 21st century.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/quv-ckIlqiA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/quv-ckIlqiA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210318005411-01-antony-blinken-0316-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-alaska-meetings/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-alaska-meetings/index.html",
-      "publishedDateTime": "2021-03-18T11:35:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

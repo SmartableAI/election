@@ -223,22 +223,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Attacks on Asian Americans are up. What is the Biden administration doing about it?"
-    excerpt: "WASHINGTON – The concerns President Joe Biden expressed Wednesday following the fatal shootings of Asian Americans in Georgia echoed the comments he's made since taking office, a tenure that began with an executive action condemning racism and ..."
-    publishedDateTime: 2021-03-18T11:40:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/18/asian-american-groups-want-biden-do-more-after-atlanta-shootings/4739856001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4739856001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4739856001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/68f4529d-061f-4f6f-9823-f71f884a0a64-Asian_boy.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Putin responds to Biden comment that he’s a killer: ‘I know you are, but what am I?’"
     excerpt: "MOSCOW — Responding to President Biden’s comments that he thinks Russia’s president is a killer, Vladimir Putin suggested Thursday that the U.S. leader is projecting his own flaws and wished his American counterpart “good health.” Support our ..."
     publishedDateTime: 2021-03-18T15:01:00Z
@@ -328,17 +312,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Russian rouble steadies after Biden comments cause sell-off"
-    excerpt: "The rouble was flat against the dollar on Thursday, steadying after a sell-off in Russian assets triggered by U.S. President Joe Biden saying his Russian counterpart Vladimir Putin would pay for attempted election interference."
-    publishedDateTime: 2021-03-18T07:11:00Z
-    webUrl: "https://www.reuters.com/article/russia-markets/russian-rouble-steadies-after-biden-comments-cause-sell-off-idUSL8N2LG1PV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LG1PV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LG1PV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Psaki: Biden doesn't regret calling Putin a killer"
     excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
     publishedDateTime: 2021-03-18T19:14:00Z
@@ -353,17 +326,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
-    excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
-    publishedDateTime: 2021-03-17T14:05:00Z
-    webUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LF3TP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LF3TP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
 
 secured: "KabJ9egztRhCJRa8o83KUDAF76AMnVP9gVhs5WJjK7TnUCpGZxNc/+SMU0qVTCBtORtndRTQmwGEKUvU6c1A7eXGRW94CRoWcZRlfhQDxgA99LBBqmbZtxTofhILuA9X4wfu4LccxxmtyeT5kH1EGITAZ2sECcWq+MjYDQgozj5I1HL8r0PTiJQX7N/WpdrtvEap4UtMzzXAFkq8rY7c2J+UZ3BNKu+jkDPUIkZWMnl7RCtHbKnSNfiOVUrDyRCf5iifxFOqAyM6y+DSBeBfBuRX9nUdGmcbG736F8IrkvIGnb4ktzFpIpfCK7KmCZhJ7CKKFXf9iL5BkrJtQDGeaZDHHQhrcVFbsjViL/O4w10=;jX0AyOra9ANXZzYGh/ZCag=="
 ---

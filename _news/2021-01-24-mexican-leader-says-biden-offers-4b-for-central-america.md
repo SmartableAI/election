@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816"
 type: article
 quality: 125
-heat: 405
+heat: 385
 published: true
 
 provider:
@@ -142,22 +142,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210302&t=2&i=1553491215&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH211BH"
         width: 786
         height: 545
-        isCached: true
-  - title: "Democrats finding support for Biden in small-city America"
-    excerpt: "Democrats are looking for new sources of political strength as the election map is shifting MANKATO, Minnesota -- Mary McGaw grew up in a Republican home on the rural prairie of south central Minnesota."
-    publishedDateTime: 2021-03-13T14:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4624562d5d2047398c5455b0cd122e58_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."

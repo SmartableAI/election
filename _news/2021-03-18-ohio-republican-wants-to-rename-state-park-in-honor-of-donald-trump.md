@@ -95,6 +95,22 @@ related:
         width: 3000
         height: 2031
         isCached: true
+  - title: "A Trump Statue Was Removed From a Wax Museum After Visitors Kept Damaging It"
+    excerpt: "A statue of former President Donald Trump was repeatedly punched and scratched, while tufts of artificial hair was even pulled off it while people took selfies. The damage eventually proved to be enough for the Louis Tussaud's Waxworks in San Antonio ..."
+    publishedDateTime: 2021-03-19T16:29:00Z
+    webUrl: "https://www.newsweek.com/trump-statue-damaged-1577433"
+    ampWebUrl: "https://www.newsweek.com/trump-statue-damaged-1577433?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-statue-damaged-1577433?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1759045/trump-wax-statue.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Under Trump, the US Navy picked up the pace of its challenges to Beijing in the South China Sea"
     excerpt: "US Navy challenges to China's efforts to restrict transit in the South China Sea and in the Taiwan Strait increased sharply over the past two years."
     publishedDateTime: 2021-03-16T13:39:00Z

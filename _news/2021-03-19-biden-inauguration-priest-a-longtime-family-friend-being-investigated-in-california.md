@@ -3,10 +3,10 @@ category: news
 title: "Biden inauguration priest, a longtime family friend, being investigated in California"
 excerpt: "Reverand Kevin O'Brien, a longtime Biden family friend, is on leave from the university he heads, which says the allegations involve potentially inappropriate conversations."
 publishedDateTime: 2021-03-19T09:13:00Z
-originalUrl: "https://www.cbsnews.com/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
-webUrl: "https://www.cbsnews.com/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+originalUrl: "https://www.cbsnews.com/news/biden-inauguration-priest-a-longtime-family-friend-being-investigated-in-california/"
+webUrl: "https://www.cbsnews.com/news/biden-inauguration-priest-a-longtime-family-friend-being-investigated-in-california/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/biden-inauguration-priest-a-longtime-family-friend-being-investigated-in-california/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-inauguration-priest-a-longtime-family-friend-being-investigated-in-california/"
 type: article
 quality: 118
 heat: -1
@@ -174,6 +174,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1IPCN7MAF65jDlyG87r5hpMudBBvOYr7SpdIw4SM2VFXdj86w6vHjjL6TKP9WdTRQ2VVTEOQUf2HWEwomaUJ8B0bJizdbBk6SnPqNmiakFVNeUJdQjgwnJY/lt7STCXmiUCaGVlwNh2jYM2lw/hpMYwYGA7SpbZIyYIpQLj0MD6Z/2vcknPpv657Ef2GZvGk03cOICkr1KOv7JuOVDM0ZJNspDBr6yXe7XJSaplXy2Jr70qbAjWZd0/8Fyg2itMIWoZwM+ZoWGJV0T87O2hSTjmsa/9nj1LIcyQUguwdboy902PJE6TBTWjRGxqCPl0+B0iPsykrGj9BHcyfgqgvgrszuB9hnBrIHwAYmXfJInWjbHdOmAw3cujX6uiECvwSGDLRhaNM8O+H6tYCbaMrewci6PrIj9YnkHX6ZNiGuMJzad1RUFquVbErNjDwoedsJRYMd+PEm/1L+SafQ3aszxltfZj3v/pHOwXJ5pUaLcPdAGegEwpd3lrEDzaoSGgZ+P+tVsiE8fTzpKBB1hOAKA==;bA7tdLuZmsrr7Jzjav4CWQ=="
+secured: "41enPNtg/oT0O+ez+JwRfkfRufsF4Fic8WOQX4AJVcI40I7eoo0lHMR1jP2rgq0iYiiMG4HiqatqN1A6CVC+rzV+FYORYON4RBmLIBhMwl+9WtUuJThgCmwsVVK1GmezAlRSJgtFQEuZ7K9Akydk72D+wpR1Jqvf30tCRPBxVaULqDri77X8aLUoQfpX96r6HEpk2AGNykUYbbQZgWFqsIGqGsFA2K5AdeCUw7xuCUp9IKfaOhnUv7QfPc1RhVjyNpeeVP1278jXBtz5rMoSrxGbeKz3Ta35Ka4X2/PBFetoUoY2Ag9aV0eDSD/LOKUzV6r00F1vr+gGWfOJeB9sLuiwEaogbpmXsYuzObXX170=;5ebbFmKOCRwYjLIlfunXAQ=="
 ---
 

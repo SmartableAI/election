@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B42C4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42C4"
 type: article
 quality: 115
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 817
     height: 545
     isCached: true
+
+related:
+  - title: "Biden's White House reportedly pushed out and sidelined staffers who disclosed past marijuana use even in states where the drug is legal"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. The White ..."
+    publishedDateTime: 2021-03-19T14:44:00Z
+    webUrl: "https://www.businessinsider.com/white-house-biden-pushed-out-sidelined-staff-marijuana-use-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/white-house-biden-pushed-out-sidelined-staff-marijuana-use-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-biden-pushed-out-sidelined-staff-marijuana-use-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5fd8cb95dc030c001aab6a0a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "SbSGCvB5MlhDF06b5qD21+mVeDJVZIHIq6VOa4b3FSNxB5u27jRA26894wvyQsIcTpuo5cPeDzPlCEThBkHXAdzvgiuBZ5aejcYAkAt2zXk9cA0dFkyw0F6XNyWYou5VNZndeNr62F9eqAMXpcupQuHhkE0szAnj9A9vv/nLsEZ1AXqX09V1p75RZEoiLGuNHb0lctf/ldsqMhwMR/SHpOGW+b3f1oIko8cpt4Cy7RQzvnJGLC9s3Hnbc+qTxiscdqUtcm89hE4H7hG01a4qWJwSRL0R4a+yZ0cgwpBLslmKm0ST4woFf0mGnPj1selBoLtukHAwFSwcd7ge9KUBbB/x2JORZMJ6tUZDJuScxK5vN4yOji6gSd5wlAmU52vlDfVn2IXhOxTZm5R7SrPYEAJqhW7jaj2/99g+OWNW36GkTMLoUo/vcW3QfpyrlRlKdoMjPo33TzNSHw9WFxn690r6KQA6ShDvuRDmVls6lonzwR/HRX/9kOl49UUYWpZ+jwbJyU1jlUvgmgTv09S7uA==;XwH8JS05NoLToF97/IEu5g=="
 ---

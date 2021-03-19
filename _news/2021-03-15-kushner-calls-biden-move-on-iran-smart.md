@@ -815,22 +815,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden Prompts Republican Crisis of Confidence on World Stage"
-    excerpt: "President Joe Biden declared last month that \"America is back,\" as his administration looks to revive traditional U.S. diplomacy and global leadership that he and his allies said were severely weakened under former President Donald Trump. Early polls ..."
-    publishedDateTime: 2021-03-15T15:02:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1755891/joe-biden-pictured-south-lawn-dc.jpg"
-        width: 2500
-        height: 1782
-        isCached: true
   - title: "White House says Biden continues to support same-sex unions"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden continues to support same-sex unions, White House Press Secretary Jen Psaki said on Monday after the Vatican said priests cannot bless same-sex unions. Psaki said Biden, a devout Catholic, had no personal ..."
     publishedDateTime: 2021-03-15T16:20:00Z
@@ -878,22 +862,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/17/a05c5ca3-7ad5-4a6e-badc-3ab9994d7092/thumbnail/1200x630/9d65b4b7d5e5e510fea7b8742d351efc/gettyimages-1231752985.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden tells Central American migrants: 'Don't come over'"
-    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President Biden has told people from Central America not to come to the US after reports of a massive surge in migrants at the US-Mexico border."
-    publishedDateTime: 2021-03-17T03:28:00Z
-    webUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/6051614a0347cb00184b62a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Expanded testing part of Biden administration school plans"
     excerpt: "The Biden administration is pushing forward with its plan to reopen schools, and as part of that, it’s expanding coronavirus testing for teachers, staff and students"

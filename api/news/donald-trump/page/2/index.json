@@ -2,110 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-16-trumps-cfos-ex-daughter-in-law-is-cooperating-with-prosecutors-and-refuses-to-be-silenced-her-lawyer-says.md",
-      "title": "Trump's CFO's ex-daughter-in-law is cooperating with prosecutors and 'refuses to be silenced,' her lawyer says",
-      "excerpt": "Allen Weisselberg holds the keys to Donald Trump's personal finances, as well as his company's financial details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3",
-      "originalUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604fc60dfe6a340019acec9e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3?amp",
-      "publishedDateTime": "2021-03-15T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-democrats-2018-trump-country-hero-faces-hard-political-path.md",
-      "title": "Democrats' 2018 Trump Country hero faces hard political path",
-      "excerpt": "Barely a year into Donald Trump’s presidency, Democrats were desperate to show they could reconnect with the white, working-class voters who had turned against them DNC Chair Jaime Harrison ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_712af980a1d74ef9a72e4711f09aa4aa_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641",
-      "publishedDateTime": "2021-03-15T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-15-jason-miller-trump-said-meghan-was-no-good.md",
       "title": "Jason Miller: Trump said Meghan was 'no good'",
       "excerpt": "Jason Miller, who served as a senior adviser to former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator ...",
@@ -488,7 +384,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -644,7 +540,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2106,
+      "heat": 2066,
       "tags": null,
       "images": [
         {
@@ -1571,6 +1467,120 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-trump-critic-rep-kinzinger-hopes-to-be-good-part-of-history.md",
+      "title": "Trump critic Rep. Kinzinger hopes to be 'good part of history'",
+      "excerpt": "CNN's Jeff Zeleny speaks to Rep. Adam Kinzinger (R-IL), an outspoken critic of former President Donald Trump, about some of the backlash he has received since voting to impeach Trump and his political future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308193714-adam-kinzinger-zeleny-dnt-03082021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "publishedDateTime": "2021-03-08T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-sanctions-are-reimposed-on-israeli-billionaire-granted-relief-under-trump.md",
+      "title": "Sanctions Are Reimposed on Israeli Billionaire Granted Relief Under Trump",
+      "excerpt": "The Biden administration moved to reverse an action that had benefited Dan Gertler, who has been accused of corruption over mining deals in the Democratic Republic of Congo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/09/us/politics/08dc-gertler-print/08dc-gertler-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.amp.html",
+      "publishedDateTime": "2021-03-08T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

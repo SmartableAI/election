@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House blames wind for Biden stumbles boarding Air Force One"
+    excerpt: "Windy conditions were a factor in President Biden’s stumble while boarding Air Force One at Joint Base Andrews on Friday, according to the White House."
+    publishedDateTime: 2021-03-19T20:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gS_5wk0ahgk/white-house-blames-wind-biden-stumble-boarding-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-blames-wind-biden-stumble-boarding-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-blames-wind-biden-stumble-boarding-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden push for face mask standard in workplace misses self-imposed deadline"
     excerpt: "President Biden planned to issue a temporary face mask standard in workplaces by his 55th day in office, but his administration missed that deadline as discussions continue on the potential new federal standard for private businesses. "
     publishedDateTime: 2021-03-16T12:09:26Z

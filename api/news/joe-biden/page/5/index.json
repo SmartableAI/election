@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-27-biden-speaks-to-putin-for-first-time-since-taking-power-white-house.md",
+      "title": "Biden speaks to Putin for first time since taking power: White House",
+      "excerpt": "U.S. President Joe Biden spoke to Russian President Vladimir Putin on Tuesday for the first time since taking office and raised concerns about Russian activities including the treatment of jailed Kremlin critic Alexei Navalny,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ",
+      "originalUrl": "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549143451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1CN",
+          "width": 844,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2AJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2AJ",
+      "publishedDateTime": "2021-01-26T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-watch-live-biden-to-deliver-remarks-on-covid-19-response.md",
       "title": "Watch Live: Biden to deliver remarks on COVID-19 response",
       "excerpt": "Biden promised it will be \"this spring\" when any American who wants a COVID-19 vaccine will be able to get one.",
@@ -323,7 +375,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -416,6 +468,59 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-georgia-black-women-leaders-on-saving-democracy-by-helping-flip-senate-fueling-biden-harris-win.md",
+      "title": "Georgia Black women leaders on 'saving democracy' by helping flip Senate, fueling Biden-Harris win",
+      "excerpt": "It’s almost like someone has wiped the darkness away and given us new light,” a voter registration organizer said.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "originalUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/KamalaHarris-ht-er-210121_1611268223802_hpMain_2_16x9_992.jpg",
+          "width": 992,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "publishedDateTime": "2021-01-21T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
       ]
     },
     {
@@ -1439,110 +1544,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-politics-updates-horrified-loews-wont-host-hawley-fundraiser-biden-outlines-orders-planned-for-first-10-days.md",
-      "title": "Politics updates: 'Horrified' Loews won't host Hawley fundraiser; Biden outlines orders planned for first 10 days",
-      "excerpt": "\"We are horrified and opposed to the events at the Capitol and all who supported and incited the actions,\" the hotel chain said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/16/politics-updates-joe-biden-inauguration-donald-trump-impeachment/4188126001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/16/politics-updates-joe-biden-inauguration-donald-trump-impeachment/4188126001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/08/USAT/676a28d8-30ca-4a07-b18d-b2610251ec17-29701ba5-8e59-4c85-a41c-fda5046ede39-AP21006849368171.jpg?auto=webp&crop=2499,1406,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4188126001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4188126001",
-      "publishedDateTime": "2021-01-16T18:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-biden-well-manage-the-hell-out-of-feds-covid-response.md",
-      "title": "Biden: We'll 'manage the hell' out of feds' COVID response",
-      "excerpt": "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_8fe513d6b6cd49e6ae4f13509231de33_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
-      "publishedDateTime": "2021-01-16T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

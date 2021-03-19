@@ -263,58 +263,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-19-study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter.md",
-      "title": "Study shows Trump's \"Chinese virus\" tweet sparked increased use of anti-Asian hashtags on Twitter",
-      "excerpt": "A tweet by then-President Trump using the phrase \"Chinese virus\" sparked an increase in the use of anti-Asian hashtags on Twitter, according to a University of California, San Francisco study published on Wednesday. Researchers examined nearly 700,000 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "originalUrl": "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/16/dda11331-c7e4-496d-b559-bc92ae2645e3/thumbnail/1200x630/b560b80e1fded362511a619970848848/cbsn-fusion-twitter-purges-accounts-associated-with-qanon-thumbnail-669403-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "publishedDateTime": "2021-03-19T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-19-kellyanne-conway-michael-wolff-jonathan-karl-among-those-reportedly-writing-post-white-house-trump-books.md",
       "title": "Kellyanne Conway, Michael Wolff, Jonathan Karl among those reportedly writing post-White House Trump books",
       "excerpt": "The era of explosive tell-all books about the Trump presidency is apparently not over, even though the presidency itself has ended.",
@@ -880,21 +828,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-no-question-trump-worsened-anti-asian-sentiment-wh.md",
-      "title": "'No question' Trump worsened anti-Asian sentiment: WH",
-      "excerpt": "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ...",
+      "path": "_news/2021-03-18-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting.md",
+      "title": "Judy Chu blames Trump for rising anti-Asian hate after Atlanta shooting",
+      "excerpt": "on Wednesday blamed former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf",
-      "originalUrl": "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf",
+      "webUrl": "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting",
+      "originalUrl": "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://static.reuters.com/resources/r/?d=20210317&i=OVE4H8HR3&r=OVE4H8HR3&t=2",
-          "width": 960,
-          "height": 540,
+          "url": "https://thehill.com/sites/default/files/chujudy_072518am_lead.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -902,16 +850,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T15:57:00-07:00",
+      "ampWebUrl": "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp",
+      "publishedDateTime": "2021-03-17T15:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1125,58 +1073,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ted-lieu-raises-donald-trumps-kung-flu-rhetoric-after-atlanta-spa-shootings.md",
-      "title": "Ted Lieu Raises Donald Trump's 'Kung Flu' Rhetoric After Atlanta Spa Shootings",
-      "excerpt": "At least eight people were killed in three shooting incidents in Atlanta with six identified as women of Asian descent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746",
-      "originalUrl": "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1757732/democratic-representative-ted-lieu-california.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1",
-      "publishedDateTime": "2021-03-17T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1573,6 +1469,110 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-trumps-cfos-ex-daughter-in-law-is-cooperating-with-prosecutors-and-refuses-to-be-silenced-her-lawyer-says.md",
+      "title": "Trump's CFO's ex-daughter-in-law is cooperating with prosecutors and 'refuses to be silenced,' her lawyer says",
+      "excerpt": "Allen Weisselberg holds the keys to Donald Trump's personal finances, as well as his company's financial details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3",
+      "originalUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/604fc60dfe6a340019acec9e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3?amp",
+      "publishedDateTime": "2021-03-15T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-democrats-2018-trump-country-hero-faces-hard-political-path.md",
+      "title": "Democrats' 2018 Trump Country hero faces hard political path",
+      "excerpt": "Barely a year into Donald Trump’s presidency, Democrats were desperate to show they could reconnect with the white, working-class voters who had turned against them DNC Chair Jaime Harrison ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_712af980a1d74ef9a72e4711f09aa4aa_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641",
+      "publishedDateTime": "2021-03-15T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

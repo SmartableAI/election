@@ -84,6 +84,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Black colleges counting on Harris to make funding a priority | Charlotte Observer"
+    excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
+    publishedDateTime: 2021-03-16T10:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249959349.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249959349.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249959349.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/63fb6cbf-6fea-4217-b61a-3a15a9ef9139/c98eabd7-999d-4061-87d6-76d995916018/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
     excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
     publishedDateTime: 2021-03-15T21:35:00Z
@@ -100,33 +116,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Man detained near Vice President Kamala Harris' residence with rifle, ammunition in his car"
-    excerpt: "WASHINGTON — D.C. Police detained a man near the residence of Vice President Kamala Harris on Wednesday on charges of carrying weapons, D.C. Police said. The man, 31-year-old Paul Murray of San Antonio, Texas, was stopped by Secret Service agents near ..."
-    publishedDateTime: 2021-03-17T23:05:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/17/man-arrested-near-kamala-harris-residence-possessing-weapons/4741536001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4741536001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4741536001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris visits vegan taco shop in Las Vegas"
-    excerpt: "U.S. Vice President Kamala Harris made an unscheduled stop at a vegan taco stand in Las Vegas, Nevada on Monday."
-    publishedDateTime: 2021-03-16T13:26:00Z
-    webUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.html"
-    ampWebUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
   - title: "“We want to make sure you stay open”: Vice President Kamala Harris, husband promote federal stimulus plan in Colorado"
     excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, sat down at a table at Denver’s Maria Empanada restaurant on Tuesday afternoon. It wasn’t for a bite to eat, but instead part"
     publishedDateTime: 2021-03-16T23:04:00Z

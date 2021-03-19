@@ -319,6 +319,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden comment mocking Trump's walking resurfaces after president stumbles, falls boarding Air Force One"
+    excerpt: "President Biden, who tripped Friday while boarding Air Force One, drew criticism from conservatives who pointed out he once mocked former President Donald Trump’s slow walk down a ramp during a trip to West Point."
+    publishedDateTime: 2021-03-19T19:58:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNq8LT2JSas/biden-comment-mocking-trump-walking-president-stumbles-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-comment-mocking-trump-walking-president-stumbles-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-comment-mocking-trump-walking-president-stumbles-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Cornyn says Biden administration is 'in denial' over the border crisis"
     excerpt: "Biden admin can't build enough housing for 'sea of humanity' crossing the border, Republican tells 'Your World'"
     publishedDateTime: 2021-03-18T22:58:46Z
@@ -431,6 +447,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Texas mayor blindsided by migrant arrival at holding facility tells President Biden to 'get control'"
+    excerpt: "Midland, Texas Mayor Patrick Payton tells \"America Reports\" Friday that \"overreach and abuse\" by the federal government has led to utter chaos in his community."
+    publishedDateTime: 2021-03-19T20:20:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l94jTRi8sNw/texas-mayor-blindsided-by-migrant-arrival-at-holding-facility-tells-president-biden-to-get-control"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-mayor-blindsided-by-migrant-arrival-at-holding-facility-tells-president-biden-to-get-control.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-mayor-blindsided-by-migrant-arrival-at-holding-facility-tells-president-biden-to-get-control.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas members of Congress demand lawsuit against Biden for border 'crisis'"
     excerpt: "EXCLUSIVE: Texas GOP congressional members are calling on Attorney General Ken Paxton to file another lawsuit against the Biden Administration in an effort to block undocumented immigrants with coronavirus from entering the United States. "
     publishedDateTime: 2021-03-15T22:19:30Z
@@ -490,6 +522,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bcb89c34-d114-47b4-b926-71a71dddd743/55259602-1e27-4555-90a3-5493af2e07eb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden comment mocking Trump's walking resurfaces after president stumbles, falls boarding Air Force One"
+    excerpt: "President Biden, who tripped Friday while boarding Air Force One, drew scrutiny from conservatives who pointed out he once mocked former President Donald Trump’s slow walk down a ramp during a trip to West Point. Biden poked fun at Trump last September ..."
+    publishedDateTime: 2021-03-19T20:02:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-comment-mocking-trump-walking-president-stumbles-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-comment-mocking-trump-walking-president-stumbles-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-comment-mocking-trump-walking-president-stumbles-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -159,22 +159,6 @@ related:
         width: 786
         height: 545
         isCached: true
-  - title: "Democrats finding support for Biden in small-city America"
-    excerpt: "Democrats are looking for new sources of political strength as the election map is shifting MANKATO, Minnesota -- Mary McGaw grew up in a Republican home on the rural prairie of south central Minnesota."
-    publishedDateTime: 2021-03-13T14:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4624562d5d2047398c5455b0cd122e58_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Live politics updates: 69% of Americans approve of Biden's plan to tackle pandemic, poll finds"
     excerpt: "Fifty-seven percent of Americans believe Biden can follow-through on his promise to unite a divided America, according to a recent ABC News poll."
     publishedDateTime: 2021-01-24T17:48:00Z

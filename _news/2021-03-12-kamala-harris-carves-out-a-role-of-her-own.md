@@ -23,6 +23,22 @@ topics:
   - Kamala Harris
 
 related:
+  - title: "Biden, Harris visit Georgia's Asian-American community leaders after shooting"
+    excerpt: "ATLANTA (Reuters) - President Joe Biden and Vice President Kamala Harris arrived in Georgia on Friday to meet with Asian-American community leaders after a deadly shooting rampage in the state, shifting the focus of a trip originally planned to promote the ..."
+    publishedDateTime: 2021-03-19T18:22:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-georgia-idUKKBN2BB2AM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BB2AM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BB2AM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 147
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555506176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I0ZH"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live"
     excerpt: "President and vice-president’s trip to Atlanta to focus on meeting Asian American community leaders"
     publishedDateTime: 2021-03-19T12:47:00Z
@@ -54,22 +70,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/d8ed322efd0cd1c6655c2fc5e60dd5dad1d9da39/0_870_3724_2236/master/3724.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ee426e8702e8582ce1c7e753dee49b1"
         width: 600
         height: 360
-        isCached: true
-  - title: "Georgia Black women leaders on 'saving democracy' by helping flip Senate, fueling Biden-Harris win"
-    excerpt: "It’s almost like someone has wiped the darkness away and given us new light,” a voter registration organizer said."
-    publishedDateTime: 2021-01-22T04:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 136
-    images:
-      - url: "https://s.abcnews.com/images/Politics/KamalaHarris-ht-er-210121_1611268223802_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 559
         isCached: true
   - title: "Nearly 70% of Female Biden Voters Say Harris Being on the Ticket Was Factor in Decision: Poll"
     excerpt: "President Joe Biden's choice of Kamala Harris as his running mate in the 2020 election resonated with women across the U.S. According to a report released Tuesday by Gender on the Ballot, a nonpartisan project to examine gender dynamics in politics ..."
@@ -119,21 +119,101 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Judy Chu blames Trump for rising anti-Asian hate after Atlanta shooting"
-    excerpt: "on Wednesday blamed former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border ..."
-    publishedDateTime: 2021-03-17T22:51:00Z
-    webUrl: "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting"
-    ampWebUrl: "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp"
+  - title: "Democrats finding support for Biden in small-city America"
+    excerpt: "Democrats are looking for new sources of political strength as the election map is shifting MANKATO, Minnesota -- Mary McGaw grew up in a Republican home on the rural prairie of south central Minnesota."
+    publishedDateTime: 2021-03-13T14:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/chujudy_072518am_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4624562d5d2047398c5455b0cd122e58_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden Prompts Republican Crisis of Confidence on World Stage"
+    excerpt: "President Joe Biden declared last month that \"America is back,\" as his administration looks to revive traditional U.S. diplomacy and global leadership that he and his allies said were severely weakened under former President Donald Trump. Early polls ..."
+    publishedDateTime: 2021-03-15T15:02:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1755891/joe-biden-pictured-south-lawn-dc.jpg"
+        width: 2500
+        height: 1782
+        isCached: true
+  - title: "Biden heads to Pennsylvania to tout $1.9 trillion American Rescue Plan"
+    excerpt: "The president, Vice President Kamala Harris and their spouses are traveling the country to advertise the legislation this week."
+    publishedDateTime: 2021-03-16T15:17:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-american-rescue-plan-pennsylvania-trip/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-american-rescue-plan-pennsylvania-trip/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-american-rescue-plan-pennsylvania-trip/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/16/0eb16c64-3214-459f-9228-5414b5510730/thumbnail/1200x630g2/81c6d595dbf360fb43d8beff85a3a63d/gettyimages-1231735168.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden touts direct checks ahead of American Rescue Plan tour"
+    excerpt: "Washington — President Biden continued his message that \"help is here\" on Monday, speaking briefly on the implementation of his $1.9 trillion COVID-19 relief package as he, Vice President Kamala Harris and their spouses prepare to depart on a nationwide ..."
+    publishedDateTime: 2021-03-15T19:20:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-bill-american-rescue-act-remarks-live-stream-today-2021-03-15/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-bill-american-rescue-act-remarks-live-stream-today-2021-03-15/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-bill-american-rescue-act-remarks-live-stream-today-2021-03-15/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/15/b69c1c03-363c-4d82-a08d-6a1c76fc816d/thumbnail/1200x630/a3f25d54f8264a3111da18afbe05aae3/gettyimages-1307093617.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden tells Central American migrants: 'Don't come over'"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President Biden has told people from Central America not to come to the US after reports of a massive surge in migrants at the US-Mexico border."
+    publishedDateTime: 2021-03-17T03:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/6051614a0347cb00184b62a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
+    excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
+    publishedDateTime: 2021-01-20T16:50:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55738741"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55738741"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55738741"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 123
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F67C/production/_116600136_mediaitem116600135.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Armed Man Arrested for Carrying Shotgun, Ammunition Near Kamala Harris' House"
     excerpt: "Members of the Secret Service detained an armed suspect near the home of Vice President Kamala Harris on Wednesday."
@@ -151,22 +231,6 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "Biden says motivation for shootings at Atlanta day spas has not been determined"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden on Wednesday said the motivations of the suspect in the deadly shootings at day spas in and around Atlanta has not yet been determined. “The question of motivation is still to be determined,” Biden told ..."
-    publishedDateTime: 2021-03-17T16:33:00Z
-    webUrl: "https://www.reuters.com/article/us-crime-georgia-spa-biden-idUSKBN2B92KH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B92KH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B92KH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555238199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1HC"
-        width: 731
-        height: 545
-        isCached: true
   - title: "Biden orders flags at half-staff to honor victims of Atlanta-area spa shootings"
     excerpt: "Biden, Harris to meet with Asian American lea... 09:36 Washington — President Biden on Thursday ordered flags at the White House and on federal grounds in the U.S. and abroad to be flown at half-staff after eight people, including six Asian women, were ..."
     publishedDateTime: 2021-03-18T16:36:00Z
@@ -183,6 +247,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Americans Have Saved Enough Amid Pandemic to Nearly Pay for Biden's Stimulus Plan"
+    excerpt: "Oxford Economics estimated that U.S. households saved $1.8 trillion from March 2020 to January 2021—just shy of the $1.9 trillion price tag attached to Biden's relief package."
+    publishedDateTime: 2021-03-15T21:34:00Z
+    webUrl: "https://www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318"
+    ampWebUrl: "https://www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1756527/joe-biden-delivers-remarks-covid-package.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Man With Gun Arrested Near Kamala Harris Home After Texas Tip-off, Regional Alert"
     excerpt: "An armed man was arrested and detained by members of the Secret Service near the Naval Observatory on Wednesday, the official residence of Vice President Kamala Harris and first gentleman Doug Emhoff. Members of the Washington, D.C. Metropolitan Police ..."
     publishedDateTime: 2021-03-17T22:20:00Z
@@ -198,6 +278,38 @@ related:
       - url: "https://d.newsweek.com/en/full/1758354/kamala-harris-paul-murray-guns.jpg"
         width: 2500
         height: 1668
+        isCached: true
+  - title: "Attacks on Asian Americans are up. What is the Biden administration doing about it?"
+    excerpt: "WASHINGTON – The concerns President Joe Biden expressed Wednesday following the fatal shootings of Asian Americans in Georgia echoed the comments he's made since taking office, a tenure that began with an executive action condemning racism and ..."
+    publishedDateTime: 2021-03-18T11:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/18/asian-american-groups-want-biden-do-more-after-atlanta-shootings/4739856001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4739856001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4739856001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/68f4529d-061f-4f6f-9823-f71f884a0a64-Asian_boy.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden taps Gene Sperling to oversee implementation of $1.9 trillion American Rescue Plan"
+    excerpt: "President Biden has tapped Gene Sperling, a longtime economic adviser under Democratic administrations, to oversee implementation of his $1.9 trillion coronavirus relief plan, the White House announced Monday."
+    publishedDateTime: 2021-03-15T13:43:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-gene-sperling-implementation-american-rescue-plan/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-gene-sperling-implementation-american-rescue-plan/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-gene-sperling-implementation-american-rescue-plan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/15/40187898-7362-4551-bc6e-84607736896e/thumbnail/1200x630/f7fa0cbfadb1363e4d116f35cd2d8c98/gettyimages-460966663.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris Tells Asian American Community 'We Stand With You' After Georgia Shootings"
     excerpt: "Vice President Kamala Harris expressed solidarity with the Asian American community after multiple shootings in Georgia on Tuesday left eight people dead, including six Asian women. Harris, the first South Asian, Black and female vice president ..."
@@ -230,9 +342,9 @@ related:
         height: 630
         isCached: true
   - title: "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live"
-    excerpt: "Covid-19 Hate Crimes Act would ‘expedite the government’s response to the rise of hate crimes exacerbated during the pandemic’ – follow the latest"
-    publishedDateTime: 2021-03-19T16:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054d5028f08131c2e527ff9"
+    excerpt: "CNN has a full list of the people Joe Biden and Kamala Harris are meeting with in Atlanta to discuss Asian American violence. Among the state leaders and community leaders are Atlanta Mayor Keisha Lance Bottoms; Georgia state senator Dr Michelle Au ..."
+    publishedDateTime: 2021-03-19T19:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054feca8f0824e5cc4fa8cf"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
     type: article
@@ -241,25 +353,25 @@ related:
       domain: theguardian.com
     quality: 115
     images:
-      - url: "https://i.guim.co.uk/img/media/b3d1927dd2a0417b6e898d9ef0722b11dfb8d2cf/0_405_4459_2675/master/4459.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a31b1b3813371bbaaf1612234a8095d"
+      - url: "https://i.guim.co.uk/img/media/29917f705c9870429d3c935d73b93393020bf99a/0_103_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1cc9f4de08fe0da065e457a4f87bbeae"
         width: 600
         height: 360
         isCached: true
-  - title: "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live"
-    excerpt: "Covid-19 Hate Crimes Act would ‘expedite the government’s response to the rise of hate crimes exacerbated during the pandemic’ – follow the latest"
-    publishedDateTime: 2021-03-19T18:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054ef288f0824e5cc4fa801"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
+  - title: "Biden denounced the attacks on Asian Americans during the COVID-19 pandemic, calling them ‘un-American’"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden in his Thursday address to the nation denounced a surge in attacks on Asian Americans during the coronavirus pandemic. In the prime-time address marking the one-year anniversary of the COVID-19 outbreak being ..."
+    publishedDateTime: 2021-03-12T13:01:00Z
+    webUrl: "https://www.businessinsider.com/biden-slams-attacks-on-asian-americans-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-slams-attacks-on-asian-americans-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-slams-attacks-on-asian-americans-2021-3?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 115
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
     images:
-      - url: "https://i.guim.co.uk/img/media/b3d1927dd2a0417b6e898d9ef0722b11dfb8d2cf/0_405_4459_2675/master/4459.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a31b1b3813371bbaaf1612234a8095d"
-        width: 600
-        height: 360
+      - url: "https://i.insider.com/604b5a97fea127001886a616?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "President Biden notes Asian American concerns about Atlanta shootings but not yet assigning racial motive"
     excerpt: "WASHINGTON – President Joe Biden on Wednesday said he is waiting for more information about the Atlanta-area shootings before assigning a motive, but he called attacks against Asian Americans \"very, very troublesome.\" \"Whatever the motivation here ..."
@@ -309,34 +421,56 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
-    excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile. She’s traveling to Nevada and Colorado, both important ..."
-    publishedDateTime: 2021-03-15T16:53:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-15/harris-sells-stimulus-to-nevada-colorado-in-first-solo-trip"
+  - title: "Hate crimes against Asian-Americans 'must stop:' Biden"
+    excerpt: "Biden. Posted . President Joe Biden said on Thursday (March 11) called for an end to \"vicious hate crimes against Asian"
+    publishedDateTime: 2021-03-12T09:58:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE3S8DZZ"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 103
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izBuQ5qE9GnA/v0/1200x800.jpg"
+      - url: "https://static.reuters.com/resources/r/?d=20210312&i=OVE3S8DZZ&r=OVE3S8DZZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Biden condemns hate crimes against Asian Americans"
+    excerpt: "President Biden has condemned hate crimes against Asian Americans amid a surge in attacks. \"It's wrong. It's un-American. It must stop,\" he said Thursday. Weijia Jiang has more."
+    publishedDateTime: 2021-03-13T00:34:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-condemns-hate-crimes-against-asian-americans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/13/81b85568-c29d-4e04-9a35-39cfeac5ff30/thumbnail/1200x630/a20cc7fa1dde742f4e75cd61f9472325/cbsn-fusion-biden-condemns-hate-crimes-against-asian-americans-thumbnail-667349-640x360.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
-    excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile."
-    publishedDateTime: 2021-03-15T17:09:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/kamala-harris-makes-solo-debut-selling-relief-law-and-raising-her-profile/2021/03/15/6d48ad28-85b1-11eb-be4a-24b89f616f2c_story.html"
+  - title: "Russian rouble steadies after Biden comments cause sell-off"
+    excerpt: "The rouble was flat against the dollar on Thursday, steadying after a sell-off in Russian assets triggered by U.S. President Joe Biden saying his Russian counterpart Vladimir Putin would pay for attempted election interference."
+    publishedDateTime: 2021-03-18T07:11:00Z
+    webUrl: "https://www.reuters.com/article/russia-markets/russian-rouble-steadies-after-biden-comments-cause-sell-off-idUSL8N2LG1PV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LG1PV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LG1PV"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
+    excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
+    publishedDateTime: 2021-03-17T14:05:00Z
+    webUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LF3TP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LF3TP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "Dem insiders say Kamala Harris will follow Biden's lead on Andrew Cuomo. 'It's not her call,' one ally says."
     excerpt: "Harris has been quiet about sexual-misconduct accusations against Gov. Andrew Cuomo as Democrats have demanded his resignation."
     publishedDateTime: 2021-03-16T22:20:00Z
@@ -351,35 +485,49 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "President Biden calls Atlanta shootings, 'very, very troublesome,' doesn't assign motive"
-    excerpt: "President Joe Biden said he is waiting for more information on the Atlanta-area shootings, that left 8 dead, before assigning a motive."
-    publishedDateTime: 2021-03-18T03:09:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/17/atlanta-spa-shootings-president-joe-biden-concerned-shootings/4736461001/"
+  - title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
+    excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."
+    publishedDateTime: 2021-03-16T20:47:00Z
+    webUrl: "https://www.chicagotribune.com/business/careers-finance/sns-hbcu-spotlight-kamala-harris-20210316-f7rg3d4gwfg47py5t5i7rtor4u-photogallery.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/crQzkjNidk5NhtpkJam48A0ZW1Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJESQ7B73VCMJH3GOI3PJ6NCGA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
+    excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
+    publishedDateTime: 2021-03-15T19:21:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-american-rescue-plan-covid-shots-in-arms-and-money-in-pockets/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 96
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/aba4d3de-19f3-4987-8f1c-bdec86ccb1c7-VPC_BIDEN_ON_ATLANTA_SHOOTINGS_DESK.00_01_55_05.Still003.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/15/bd97d734-d062-464a-8747-7ef801963fed/thumbnail/1200x630/8283c876473a7508645e3fb40183592b/cbsn-fusion-biden-touts-shots-in-arms-and-money-in-pockets-thats-important-thumbnail-668817-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Kamala Harris to speak at Nickelodeon Kids' Choice Awards"
-    excerpt: "March 12 (UPI) --Vice President Kamala Harris will speak at the 2021 Nickelodeon Kids' Choice Awards. Nickelodeon confirmed in a press release Friday that Harris, 56, will deliver special remarks during the awards show Saturday. Advertisement Harris will ..."
-    publishedDateTime: 2021-03-12T16:40:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2021/03/12/Kamala-Harris-Nickelodeon-Kids-Choice-Awards-Vice-President-speak-remarks/8601615566021/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/03/12/Kamala-Harris-Nickelodeon-Kids-Choice-Awards-Vice-President-speak-remarks/8601615566021/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/03/12/Kamala-Harris-Nickelodeon-Kids-Choice-Awards-Vice-President-speak-remarks/8601615566021/"
+  - title: "American billionaires could fund two-thirds of Biden's COVID-19 relief package just using profits generated during the pandemic, a report shows"
+    excerpt: "DOW S&P 500 NASDAQ 100 American billionaires have earned so much money during the pandemic that they could fund two-thirds of President Joe Biden's COVID-19 relief package using profits generated in the last year, a report shows. The combined fortune of ..."
+    publishedDateTime: 2021-03-13T11:01:00Z
+    webUrl: "https://www.businessinsider.com/biden-covid-relief-plan-stimulus-billionaire-pandemic-profits-fund-economy-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-covid-relief-plan-stimulus-billionaire-pandemic-profits-fund-economy-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-covid-relief-plan-stimulus-billionaire-pandemic-profits-fund-economy-2021-3?amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/8601615566021/2021/1/3333515b46ab5ca653c20fdc04d459e1/v1.5/Kamala-Harris-to-speak-at-Nickelodeon-Kids-Choice-Awards.jpg"
-        width: 800
-        height: 534
+      - url: "https://i.insider.com/5f1052132618b95c16267fa4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Vice President Kamala Harris to visit Las Vegas on Monday"
     excerpt: "Details have emerged about Vice President Kamala Harris’ visit to Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress."
@@ -397,82 +545,65 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Harris arrives in Las Vegas to tout COVID relief bill"
-    excerpt: "Vice President Kamala Harris touched down in Las Vegas on Monday, where she visited a vaccination clinic at UNLV and will speak at an event at the Culinary Training Center in North Las Vegas. Harris’ trip was one part of a larger push by officials in ..."
-    publishedDateTime: 2021-03-15T19:58:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/"
-    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+  - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
+    excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
+    publishedDateTime: 2021-03-03T23:21:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
     type: article
     provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 75
+      name: UPI.com
+      domain: upi.com
+    quality: 73
     images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_web-Harris4-0315.jpg?w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9921614809626/2021/1/737179c4b2717553b05f15134d377fc8/v1.5/Kamala-Harris-visits-woman-owned-yarn-store-to-discuss-American-Rescue-Plan.jpg"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Black colleges counting on Harris to make funding a priority | Charlotte Observer"
-    excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
-    publishedDateTime: 2021-03-16T10:00:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249959349.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249959349.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249959349.html"
+  - title: "Authorities arrest Texas man near residence of Vice President Kamala Harris, report says"
+    excerpt: "On Wednesday, the U.S. Secret Service arrested Paul Murray, 31, of San Antonio near the residence of Vice President Kamala Harris, according to a report from CNBC. Police said they found a rifle and ammunition in Murray's car. He was stopped near the ..."
+    publishedDateTime: 2021-03-18T00:58:00Z
+    webUrl: "https://www.chron.com/news/article/San-Antonio-man-arrested-kamala-harris-16034184.php"
+    ampWebUrl: "https://www.chron.com/news/amp/San-Antonio-man-arrested-kamala-harris-16034184.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/San-Antonio-man-arrested-kamala-harris-16034184.php"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 70
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 66
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/63fb6cbf-6fea-4217-b61a-3a15a9ef9139/c98eabd7-999d-4061-87d6-76d995916018/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
-    excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
-    publishedDateTime: 2021-03-12T02:22:00Z
-    webUrl: "https://www.ajc.com/politics/politics-blog/biden-and-harris-are-headed-to-atlanta-next-week-after-signing-19t-covid-19-relief-plan/Q7JFFTZBGFH2JMHNYT2BOB3CFA/"
+  - title: "Man detained near Vice President Kamala Harris' residence with rifle, ammunition in his car"
+    excerpt: "WASHINGTON — D.C. Police detained a man near the residence of Vice President Kamala Harris on Wednesday on charges of carrying weapons, D.C. Police said. The man, 31-year-old Paul Murray of San Antonio, Texas, was stopped by Secret Service agents near ..."
+    publishedDateTime: 2021-03-17T23:05:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/17/man-arrested-near-kamala-harris-residence-possessing-weapons/4741536001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4741536001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4741536001"
     type: article
     provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 64
-    images:
-      - url: "https://www.ajc.com/resizer/MMXL-u7FbeNag8S3s5fgZvuqLZU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/G7QYTXK4ABLJ6ZLT5W64ISOBU4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vice President Kamala Harris takes jab at husband on Twitter for picking NCAA Tournament No. 1 seeds"
-    excerpt: "Doug Emhoff, the Second Gentleman, went with No. 1 seeds Gonzaga and Stanford to win the men's and women's NCAA Tournaments, respectively."
-    publishedDateTime: 2021-03-19T02:13:00Z
-    webUrl: "https://www.indystar.com/story/sports/ncaab/tourney/2021/03/18/march-madness-kamala-harris-jabs-husband-twitter-bracket-picks/4759695001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4759695001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4759695001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 60
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
-    excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
-    publishedDateTime: 2021-03-17T17:53:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e271c84d4847f577c9ff5a6c4a09d2dd/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+  - title: "Kamala Harris visits vegan taco shop in Las Vegas"
+    excerpt: "U.S. Vice President Kamala Harris made an unscheduled stop at a vegan taco stand in Las Vegas, Nevada on Monday."
+    publishedDateTime: 2021-03-16T13:26:00Z
+    webUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.html"
+    ampWebUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/e271c84d4847f577c9ff5a6c4a09d2dd/VICE-PRESIDENT-HARRIS.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "Vice President Kamala Harris Swears in EPA Administrator Regan"
     excerpt: "Michael Regan holds his hand up as he is sworn-in by United States Vice President Kamala Harris during a ceremonial swear-in as EPA Administrator in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-03-17T21:05:00Z
@@ -515,20 +646,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "VP Kamala Harris at Ceremonial Swearing in of Katherine Tai"
-    excerpt: "Vice President Kamala Harris (R) participates in the ceremonial swearing in of Katherine Tai (L), with her husband Robert Skidmore (C), as United States Trade Representative in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington,"
-    publishedDateTime: 2021-03-18T23:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/702d761fa742deefe0c289a31a83d610/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Katherine-Tai/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/702d761fa742deefe0c289a31a83d610/HARRIS-TAI.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
     publishedDateTime: 2021-03-18T13:09:00Z
@@ -540,28 +657,23 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
-    excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"
-    publishedDateTime: 2021-03-17T15:50:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/Vice-President-Kamala-Harris-hosts-Michel-Martin-Prime-Minister-of-Ireland/"
+  - title: "Vice President Harris American Rescue Plan Briefing"
+    excerpt: "Vice President Harris participated in a brief conversation on the American Rescue Plan that preceded a closed… Vice President-elect Kamala Harris volunteered with her husband, Doug Emhoff, at Martha’s Table in Washington, D.C., to… President-elect ..."
+    publishedDateTime: 2021-03-11T20:01:00Z
+    webUrl: "https://www.c-span.org/video/?509795-1/vice-president-harris-american-rescue-plan-briefing"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 52
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/VICE-PRESIDENT-HARRIS.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Kamala Harris Makes U.N. Debut, Pledges to Fight for Women, Democracy"
-    excerpt: "U.S. Vice President Kamala Harris made her debut at the United Nations on Tuesday, telling a meeting on gender equality that democracy fundamentally depends on the empowerment of women and that democracy globally is increasingly \"under great strain."
-    publishedDateTime: 2021-03-16T13:34:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-03-16/kamala-harris-makes-un-debut-pledges-to-fight-for-women-democracy"
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Harris Visit to Las Vegas Vaccination Clinic"
+    excerpt: "President Biden spoke to reporters about the urgent need to pass the American Rescue Plan before taking part in an economic… President Biden and Vice President Kamala Harris took a virtual tour of the COVID-19 vaccine distribution site set up at… Vice ..."
+    publishedDateTime: 2021-03-15T19:45:00Z
+    webUrl: "https://www.c-span.org/video/?509908-1/vice-president-harris-visit-las-vegas-vaccination-clinic"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: C-SPAN
+      domain: c-span.org
     quality: 35
 
 secured: "guwP9Llxuiud+y09/nrwZGXGNRGD7YMADwNXSLqP64ZLsW96pF5FMbQkCH6fEtls+E/Z9IzBgbkfB96s8Zje7wnHq9kz7F5lqz5Newjh9icq+Y7iR/O7+D8qHiwfhoLwAxEaimW28z0x2JJ54lkfGTZNX/FDTKiemNRuo2M2PHEFo4s1t4NCTRfRQcWT66w1USyOG2BxH71+s7HWSfEfQNRF8DnWFgtyJ71L7uyHHc1wY///dux3WXz2UywYvyGvbu9hjfKFjOL63uLndP0fx2WB11ap7Ng1RdehWls/4G96R0tO/lmuXesAeYMdquD4vcvyQ8KLd+2OFo3LYCEncgvxCiww70Y0X1q+0vvpQww4kBiKn0MmV/dGW7qGig86b0caobdA9oskSO5QqRlyTJDeO9G2bjLqZovNu3y+g16pzRbCi664/rmLovN1+n7HOEg3vuNEJcaESZ57KuF3HkRROwZRb3rIhssxmDD6X3rV6R+ykz3T+gV35SKR0FQdEo01L0XihsiQzO9sxQ6e+A==;f2bIdT5UqExx/c5BX194jg=="

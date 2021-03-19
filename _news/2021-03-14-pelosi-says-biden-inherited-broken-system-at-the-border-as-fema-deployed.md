@@ -79,6 +79,22 @@ related:
         width: 731
         height: 545
         isCached: true
+  - title: "Amid border surge, confusion reigns over Biden policies"
+    excerpt: "A new migrant camp in Tijuana, Mexico, shows how confusion has undercut the message from U.S. President Joe Biden that it’s not the time to come to the United States"
+    publishedDateTime: 2021-03-19T20:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/amid-border-surge-confusion-reigns-over-biden-policies/2021/03/19/25a0faa8-88da-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/amid-border-surge-confusion-reigns-over-biden-policies/2021/03/19/25a0faa8-88da-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/amid-border-surge-confusion-reigns-over-biden-policies/2021/03/19/25a0faa8-88da-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden trade nominee Tai wins unanimous U.S. Senate backing in procedural vote"
     excerpt: "The U.S. Senate advanced President Joe Biden's nominee for U.S. trade representative, Katherine Tai, a step closer to confirmation on Tuesday, voting unanimously in favor of her in a procedural vote."
     publishedDateTime: 2021-03-16T20:18:00Z

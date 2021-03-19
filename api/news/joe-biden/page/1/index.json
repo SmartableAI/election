@@ -2,19 +2,72 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-19-biden-and-harris-head-to-georgia-to-meet-community-leaders-after-atlanta-shooting-live.md",
-      "title": "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live",
-      "excerpt": "President and vice-president’s trip to Atlanta to focus on meeting Asian American community leaders",
+      "path": "_news/2021-03-20-biden-harris-visit-georgias-asian-american-community-leaders-after-shooting.md",
+      "title": "Biden, Harris visit Georgia's Asian-American community leaders after shooting",
+      "excerpt": "ATLANTA (Reuters) - President Joe Biden and Vice President Kamala Harris arrived in Georgia on Friday to meet with Asian-American community leaders after a deadly shooting rampage in the state, shifting the focus of a trip originally planned to promote the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates?page=with:block-605475e08f085f49c135a0aa",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates?page=with:block-605475e08f085f49c135a0aa",
+      "webUrl": "https://www.reuters.com/article/uk-usa-biden-georgia-idUKKBN2BB2AM",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-biden-georgia-idUKKBN2BB2AM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 861,
+      "heat": 1027,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/1c15577873ecd04cb2ec8335c3cd026833ca41b9/0_0_4840_2905/master/4840.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a81a3a6480275709a44a0b8e5195495",
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555506176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I0ZH",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2BB2AM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BB2AM",
+      "publishedDateTime": "2021-03-19T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-outraged-biden-urges-congress-to-pass-hate-crimes-bill-in-wake-of-atlanta-attacks-live.md",
+      "title": "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live",
+      "excerpt": "Covid-19 Hate Crimes Act would ‘expedite the government’s response to the rise of hate crimes exacerbated during the pandemic’ – follow the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054d5028f08131c2e527ff9",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054d5028f08131c2e527ff9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b3d1927dd2a0417b6e898d9ef0722b11dfb8d2cf/0_405_4459_2675/master/4459.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a31b1b3813371bbaaf1612234a8095d",
           "width": 600,
           "height": 360,
           "title": null,
@@ -24,9 +77,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates",
-      "publishedDateTime": "2021-03-19T05:47:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest",
+      "publishedDateTime": "2021-03-19T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -50,8 +103,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
-        "Kamala Harris"
+        "Joe Biden"
       ]
     },
     {
@@ -380,7 +432,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189",
       "featuredContent": null,
       "highlight": null,
-      "heat": 570,
+      "heat": 510,
       "tags": null,
       "images": [
         {
@@ -905,7 +957,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -957,7 +1009,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-asia-diplomacy-idUSKBN2B42C4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1165,7 +1217,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -1217,7 +1269,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1085,
+      "heat": 905,
       "tags": null,
       "images": [
         {
@@ -1511,58 +1563,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-cruz-puts-hold-on-bidens-cia-pick-burns-over-nord-stream-2-pipeline.md",
-      "title": "Cruz puts hold on Biden's CIA pick Burns over Nord Stream 2 pipeline",
-      "excerpt": "Republican Senator Ted Cruz put a hold late on Friday on President Joe Biden's pick to lead the Central Intelligence Agency to pressure the administration to put tough sanctions on Russia's Nord Stream 2 natural gas pipeline project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-nord-stream-2-cruz-idINKBN2AY0FI",
-      "originalUrl": "https://www.reuters.com/article/usa-nord-stream-2-cruz-idINKBN2AY0FI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553982286&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250C2",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2AY0FI",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AY0FI",
-      "publishedDateTime": "2021-03-06T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

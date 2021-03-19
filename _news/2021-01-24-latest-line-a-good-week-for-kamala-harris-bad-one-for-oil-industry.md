@@ -75,22 +75,6 @@ related:
         width: 2500
         height: 1787
         isCached: true
-  - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
-    excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
-    publishedDateTime: 2021-01-20T16:50:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55738741"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55738741"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55738741"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 123
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F67C/production/_116600136_mediaitem116600135.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "For friends and allies of Kamala D. Harris, deadly Capitol attacks prompt fresh fears"
     excerpt: "Pride in the achievement of Harris, soon to be the first Black woman sworn in as vice president, is now mixed with concern for her safety"
     publishedDateTime: 2021-01-14T16:04:00Z
@@ -273,38 +257,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NJ boutique owners hope for a boost from Jill Biden's blues and Kamala Harris' pearls"
-    excerpt: "It's been a long 10 months for fashionistas during the pandemic. So the bold colors and styles at last week's inauguration were cause for celebration."
-    publishedDateTime: 2021-01-26T15:26:00Z
-    webUrl: "https://www.northjersey.com/story/news/2021/01/25/nj-boutiques-hope-boost-biden-harris-inauguration-fashions/6673515002/"
-    ampWebUrl: "https://amp.northjersey.com/amp/6673515002"
-    cdnAmpWebUrl: "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/6673515002"
-    type: article
-    provider:
-      name: NorthJersey.com
-      domain: northjersey.com
-    quality: 83
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PNJM/353a055b-28ab-4770-a323-fcc01cda77f6-tiffany.jpg?auto=webp&crop=827,466,x0,y141&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Reports: Joe Biden to pick Jaime Harrison as DNC chair"
-    excerpt: "Jaime Harrison, who challenged Lindsey Graham for his Senate seat during the past election, will be the new chair of the Democratic National Committee, according to media reports."
-    publishedDateTime: 2021-01-14T18:49:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/2811610648136/2021/1/a2c697c9cf853c4956da9471080b084a/v1.5/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair.jpg"
-        width: 800
-        height: 530
-        isCached: true
   - title: "Kamala Harris' Alpha Kappa Alpha sorority sisters celebrate"
     excerpt: "(AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment. AKA South Eastern Director Mitzi Dease Paige said that many members were “tickled pink and green” to see the first woman of color become vice president."
     publishedDateTime: 2021-01-23T14:23:00Z
@@ -433,54 +385,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris has already made history, but some young women won't feel it until they see it"
-    excerpt: "Kamala Harris' ascension marks a pivotal moment in history as young women say her inauguration may finally allow them to savor what has been won."
-    publishedDateTime: 2021-01-19T22:13:00Z
-    webUrl: "https://www.azcentral.com/story/life/health-wellness/2021/01/19/kamala-harris-inauguration-emotional-moment-young-women-color/4208343001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4208343001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4208343001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/d883f446-f5c3-46a4-9b52-147fb9eb058e-good3.jpg?auto=webp&crop=1770,996,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris makes history. Her swearing-in as vice president shows ‘strength of our democracy.’"
-    excerpt: "And this year, after the chaos dies down, Kamala Harris will make history as she raises her right hand to become the first woman to take the vice presidential oath of office. Her African American and Asian American roots are empowering groups whose voices ..."
-    publishedDateTime: 2021-01-18T12:44:00Z
-    webUrl: "https://www.freep.com/in-depth/opinion/voices/2021/01/18/kamala-harris-swearing-vice-president-shows-strength-our-democracy-column/6564032002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6564032002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6564032002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris makes history. Her swearing-in as vice president shows ‘strength of our democracy.’"
-    excerpt: "Kamala Harris’ inauguration is a marker that the arc of history is bending toward the democracy America deserves. Support her, and hold her accountable. Kamala Harris’ inauguration is a marker that the arc of history is bending toward the democracy ..."
-    publishedDateTime: 2021-01-18T16:23:00Z
-    webUrl: "https://www.indystar.com/in-depth/opinion/voices/2021/01/18/kamala-harris-swearing-vice-president-shows-strength-our-democracy-column/6564032002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6564032002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6564032002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Will Kamala Harris as vice president finally change how corporate America sees and treats Black women?"
     excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
     publishedDateTime: 2021-01-20T09:35:00Z
@@ -540,20 +444,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/16/24/75/20533103/3/rawImage.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "The Debate on Vice President Kamala Harris’s Vogue Cover"
-    excerpt: "Vogue announced Vice President Kamala Harris as its February 2021 Cover Star, leading to intense backlash on social media over how the Vice President was styled."
-    publishedDateTime: 2021-01-26T03:00:00Z
-    webUrl: "https://www.thecrimson.com/article/2021/1/26/vice-president-kamala-harris-vogue/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 55
-    images:
-      - url: "https://s3.amazonaws.com/media.thecrimson.com/photos/2021/01/25/212618_1347909.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Faith and Kamala Harris; China's Uighar Minority; How to be a Refugee"
     excerpt: "When Kamala Harris was sworn in as the US vice-president this week, Hindus gathered in her family's ancestral home town in India to pray for her success. Much is said about her st"
@@ -671,15 +561,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
-  - title: "Vice President Harris American Rescue Plan Briefing"
-    excerpt: "Vice President Harris participated in a brief conversation on the American Rescue Plan that preceded a closed… Vice President-elect Kamala Harris volunteered with her husband, Doug Emhoff, at Martha’s Table in Washington, D.C., to… President-elect ..."
-    publishedDateTime: 2021-03-11T20:01:00Z
-    webUrl: "https://www.c-span.org/video/?509795-1/vice-president-harris-american-rescue-plan-briefing"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
     quality: 35
 
 secured: "KjfAsrjw0aTpDt6UJOeCkkox6s3vvC0Ae7AUSr/fL1gYvi/UnaeqZOtEVDdUyGnEDXlHy1+i9M1ueq1As2aAB/q/qk+Xy9Kt5hCozomQ/PhIQhT97yp8flfkgeGVavX0HVdBR1lCF9gAR2PaWB+QcDwQC8yR4FohXW7kS/WtbQyosWhounoM8VhQJJF0pDK8FbJaI8o2E9ef3OhghTO3wXoH8Q6Sm5OuWK9NUckATUf8xrm8FkHRnIBFFEuxep3M/W+xI9Khej1eSbqg+JfnnkWnNmcpWzq/qmMXtS2/SFn/zQJM5M7jVC6uoZBObaHJGHA0EGwCjIpouRN446lZpc2hsp+Gh24dZ7fksZvkLFV4NR/0ZrEdD21FZe/J8DcihYAyD80t0zoWPGSPtVzoJqJy3YLsHKdSGVHTZwgonAfthYHBHQlTFGMbc4FZ1R2HkB+yOSVSB5+71Qy5IVOwT3t8GJyNNpyX1PM2FflrDXdNXjrZE7dL+SKDYPl1RjvzVVl4k0VzAqTNS0d5nzmWGA==;s2WVpYYz329mpLOYvB+/YQ=="

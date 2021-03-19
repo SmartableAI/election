@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden admin considering flying Latin American migrants to states near Canadian border: report"
+    excerpt: "As crossings along the southern border surge to near-record levels, the Biden administration is considering flying migrants to states near the Canadian border, according to a report. "
+    publishedDateTime: 2021-03-19T21:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4bInlyZh5rY/biden-admin-fly-latin-american-migrants-states-canadian-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-fly-latin-american-migrants-states-canadian-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-fly-latin-american-migrants-states-canadian-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Border-1-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'"
     excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border."
     publishedDateTime: 2021-03-14T07:26:00Z

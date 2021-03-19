@@ -2,110 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-01-19-white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26.md",
-      "title": "White House confirms Trump lifting EU, Brazil travel restrictions Jan. 26",
-      "excerpt": "U.S. President Donald Trump on Monday rescinded entry bans imposed because of the coronavirus on most non-U.S. citizens arriving from Brazil and much of Europe effective Jan. 26, the White House said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-travel/white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26-idUSKBN29O00A",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-travel/white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26-idUSKBN29O00A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548250189&r=LYNXMPEH0I00B&w=800",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails.md",
-      "title": "‘The Capitol riot was our Chernobyl’: James Comey on Trump, the ‘pee tape’ and Clinton’s emails",
-      "excerpt": "The former FBI director was sickened and angered by the attack incited by the president. But has he come to terms with his part in getting him elected?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c1670d9840b03e3422e575cb3d7bcb5acadfeb84/0_243_3598_2158/master/3598.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6802a03dd80cbc31d986ecc43d7b3ac",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
-      "publishedDateTime": "2021-01-18T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-19-gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-to-make-trump-look-bad.md",
       "title": "GOP Lawmaker Claimed 'Democratic Machine' Paid Capitol Rioters to Make Trump Look Bad",
       "excerpt": "As rioters supporting President Donald Trump attacked the U.S. Capitol on January 6, newly elected Republican North Carolina Congressman Madison Cawthorn told conservative talk radio program The Charlie Kirk Show that the \"Democratic machine\" had placed \"agitators\" among the mob in order to make Trump and his followers look bad.",
@@ -1546,6 +1442,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-as-new-york-dumps-trump-a-trump-exodus-to-florida-is-underway.md",
+      "title": "As New York dumps Trump, a Trump exodus to Florida is underway",
+      "excerpt": "As New York officials make aggressive moves to cut ties with President Trump, planning has been underway for Trump and some of his children to ditch the Empire State.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "originalUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/trump-family-gty-ml-210114_1610647078401_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "publishedDateTime": "2021-01-14T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-i-support-him-more-than-i-ever-did-no-regrets-as-trump-loyalists-gather-at-ohio-movie-theater-to-discuss-jan-6.md",
+      "title": "'I support him more than I ever did.' No regrets as Trump loyalists gather at Ohio movie theater to discuss Jan. 6",
+      "excerpt": "A group of Republicans gathered at a suburban Cincinnati movie theater to hear firsthand from six Trump loyalists who attended the Jan. 6 rally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/14/capitol-riot-trump-loyalists-ohio-relive-jan-6-no-regrets/4156313001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/14/capitol-riot-trump-loyalists-ohio-relive-jan-6-no-regrets/4156313001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/14/PCIN/fe3ba51d-da5e-456a-b04c-8073d2f33284-trump_clermont_poll.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4156313001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4156313001",
+      "publishedDateTime": "2021-01-14T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -114,9 +114,9 @@ related:
   - title: "Biden inauguration priest, a longtime family friend, being investigated in California"
     excerpt: "Reverand Kevin O'Brien, a longtime Biden family friend, is on leave from the university he heads, which says the allegations involve potentially inappropriate conversations."
     publishedDateTime: 2021-03-19T09:13:00Z
-    webUrl: "https://www.cbsnews.com/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kevin-obrien-biden-inauguration-priest-investigated-in-california/"
+    webUrl: "https://www.cbsnews.com/news/biden-inauguration-priest-a-longtime-family-friend-being-investigated-in-california/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-inauguration-priest-a-longtime-family-friend-being-investigated-in-california/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-inauguration-priest-a-longtime-family-friend-being-investigated-in-california/"
     type: article
     provider:
       name: CBS News

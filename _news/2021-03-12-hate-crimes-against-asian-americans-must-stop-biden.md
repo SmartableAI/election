@@ -29,117 +29,133 @@ images:
     isCached: true
 
 related:
-  - title: "Polls find most Americans support Biden's COVID-19 stimulus package"
-    excerpt: "President Joe Biden is also enjoying a positive approval rating as the package heads to his desk. A FiveThirtyEight aggregate of polls finds Biden's approval rating sits at 53.4% approving and 38.8% disapproving. Specifically, on his response to the ..."
-    publishedDateTime: 2021-03-10T14:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6936053002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002"
+  - title: "Biden, Harris visit Georgia's Asian-American community leaders after shooting"
+    excerpt: "ATLANTA (Reuters) - President Joe Biden and Vice President Kamala Harris arrived in Georgia on Friday to meet with Asian-American community leaders after a deadly shooting rampage in the state, shifting the focus of a trip originally planned to promote the ..."
+    publishedDateTime: 2021-03-19T18:22:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-georgia-idUKKBN2BB2AM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BB2AM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BB2AM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 147
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555506176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I0ZH"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live"
+    excerpt: "President and vice-president’s trip to Atlanta to focus on meeting Asian American community leaders"
+    publishedDateTime: 2021-03-19T12:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates?page=with:block-605475e08f085f49c135a0aa"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 141
+    images:
+      - url: "https://i.guim.co.uk/img/media/1c15577873ecd04cb2ec8335c3cd026833ca41b9/0_0_4840_2905/master/4840.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a81a3a6480275709a44a0b8e5195495"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live updates"
+    excerpt: "President and vice president will also visit the CDC while in Georgia"
+    publishedDateTime: 2021-03-19T09:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/d8ed322efd0cd1c6655c2fc5e60dd5dad1d9da39/0_870_3724_2236/master/3724.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ee426e8702e8582ce1c7e753dee49b1"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Nearly 70% of Female Biden Voters Say Harris Being on the Ticket Was Factor in Decision: Poll"
+    excerpt: "President Joe Biden's choice of Kamala Harris as his running mate in the 2020 election resonated with women across the U.S. According to a report released Tuesday by Gender on the Ballot, a nonpartisan project to examine gender dynamics in politics ..."
+    publishedDateTime: 2021-03-16T17:51:00Z
+    webUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571"
+    ampWebUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 129
+    images:
+      - url: "https://d.newsweek.com/en/full/1757384/kamala-harris-joe-biden-3-12-2021.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Atlanta spa shootings: Biden and Harris to meet with Asian American leaders; family members remember shooting victims"
+    excerpt: "ATLANTA — President Joe Biden and Vice President Kamala Harris will meet with Asian American leaders in Atlanta on Friday, after a gunman opened fire on Atlanta-area spas, killing mostly women of Asian descent in at least two massage parlors he frequented."
+    publishedDateTime: 2021-03-19T11:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/03/19/atlanta-shooting-updates-biden-harris-asian-american-hate-crime/4752589001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4752589001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4752589001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 127
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/05/USAT/650f7c42-3bb7-4281-951e-aa870f369b46-AP_Biden_8.jpg?auto=webp&crop=4964,2793,x0,y251&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/03/18/USAT/e34b8a5e-f808-4534-8d9a-f8dd1327708f-AP_Massage_Parlor_Shootings.jpg?auto=webp&crop=5163,2904,x0,y338&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden denounces hate, violence against Asian Americans: 'It must stop'"
-    excerpt: "President Biden Joe Biden Manchin cements key-vote status in 50-50 Senate The Memo: How the COVID year upended politics Post-pandemic plans for lawmakers: Chuck E. Cheese, visiting friends ..."
-    publishedDateTime: 2021-03-12T02:44:00Z
-    webUrl: "https://thehill.com/homenews/news/542872-biden-denounces-hate-violence-against-asian-americans-it-must-stop"
-    ampWebUrl: "https://thehill.com/homenews/news/542872-biden-denounces-hate-violence-against-asian-americans-it-must-stop?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/542872-biden-denounces-hate-violence-against-asian-americans-it-must-stop?amp"
+  - title: "Kamala Harris says young leaders 'inspire me and President Biden every day' at Kids' Choice Awards"
+    excerpt: "Vice President Kamala Harris honored young people for doing their part to help others amid the coronavirus pandemic while accepting an award at the 2021 Kids' Choice Awards. \"Thank you to the young leaders for being so incredible, and for all that you do ..."
+    publishedDateTime: 2021-03-14T13:42:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/03/14/kids-choice-awards-kamala-harris-thanks-kids-helping-amid-covid/4691421001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4691421001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4691421001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_31121_gettyimages.png"
-        width: 826
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2021/03/08/USAT/fce28786-c318-4bd3-a93f-c48fcefc93dd-harris_NLC.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-    excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
-    publishedDateTime: 2021-03-11T20:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a5e348f08089f0d4af7b7"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/c89f7b009dbebfd512787d31b0b418199ee62348/0_185_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=20a2ea5b422f9fc530aba039568c149a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden played ‘sheriff’ on ‘09 aid, now salesman on COVID law"
-    excerpt: "In 2009, then-Vice President Joe Biden acted as “Sheriff Joe” in making sure federal dollars from a massive economic aid package were getting to the right places and getting there quickly"
-    publishedDateTime: 2021-03-13T10:32:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Joe Biden writes a cheque for America – and the rest of the world"
-    excerpt: "The president’s $1.9tn stimulus package should lift US GDP by up to 4% – and thus buoy up the whole of the global economy US president Joe Biden did the world a favour last Thursday when he signed a bill handing $1.9 trillion (£1.4tn) of rescue funds ..."
-    publishedDateTime: 2021-03-13T15:00:00Z
-    webUrl: "https://www.theguardian.com/business/2021/mar/13/joe-biden-writes-a-cheque-for-america-and-the-rest-of-the-world"
-    ampWebUrl: "https://amp.theguardian.com/business/2021/mar/13/joe-biden-writes-a-cheque-for-america-and-the-rest-of-the-world"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/mar/13/joe-biden-writes-a-cheque-for-america-and-the-rest-of-the-world"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/d2193751d44666d3bd5f3a954e00c7cfc3012188/0_0_6216_3729/master/6216.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8431f5b96275f25f8db2499ccc1c9432"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to name Sperling to oversee COVID-19 relief package"
-    excerpt: "A White House official says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package"
-    publishedDateTime: 2021-03-15T14:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-sperling-oversee-covid-19-relief-package-76466460"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-sperling-oversee-covid-19-relief-package-76466460"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-sperling-oversee-covid-19-relief-package-76466460"
+  - title: "Democrats finding support for Biden in small-city America"
+    excerpt: "Democrats are looking for new sources of political strength as the election map is shifting MANKATO, Minnesota -- Mary McGaw grew up in a Republican home on the rural prairie of south central Minnesota."
+    publishedDateTime: 2021-03-13T14:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_1f585f6d25c046ac96827091c1f322cd_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4624562d5d2047398c5455b0cd122e58_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Advocates seek Biden push on gun bills, but prospects iffy"
-    excerpt: "The House recently passed legislation that would require background checks for gun purchases, a signature Democratic issue for decades"
-    publishedDateTime: 2021-03-16T04:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+  - title: "Joe Biden Prompts Republican Crisis of Confidence on World Stage"
+    excerpt: "President Joe Biden declared last month that \"America is back,\" as his administration looks to revive traditional U.S. diplomacy and global leadership that he and his allies said were severely weakened under former President Donald Trump. Early polls ..."
+    publishedDateTime: 2021-03-15T15:02:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://d.newsweek.com/en/full/1755891/joe-biden-pictured-south-lawn-dc.jpg"
+        width: 2500
+        height: 1782
         isCached: true
   - title: "Biden heads to Pennsylvania to tout $1.9 trillion American Rescue Plan"
     excerpt: "The president, Vice President Kamala Harris and their spouses are traveling the country to advertise the legislation this week."
@@ -157,22 +173,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden taps Gene Sperling to oversee COVID-19 relief package"
-    excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package ..."
-    publishedDateTime: 2021-03-15T18:22:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_1f585f6d25c046ac96827091c1f322cd_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden touts direct checks ahead of American Rescue Plan tour"
     excerpt: "Washington — President Biden continued his message that \"help is here\" on Monday, speaking briefly on the implementation of his $1.9 trillion COVID-19 relief package as he, Vice President Kamala Harris and their spouses prepare to depart on a nationwide ..."
     publishedDateTime: 2021-03-15T19:20:00Z
@@ -189,181 +189,69 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. talking to several countries about extra COVID-19 vaccine: Biden"
-    excerpt: "U.S. President Joe Biden said on Tuesday the United States is in talks with several countries about who will get any extra doses of COVID-19 vaccines."
-    publishedDateTime: 2021-03-16T19:05:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82O8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82O8"
+  - title: "Biden tells Central American migrants: 'Don't come over'"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President Biden has told people from Central America not to come to the US after reports of a massive surge in migrants at the US-Mexico border."
+    publishedDateTime: 2021-03-17T03:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555107585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1HQ"
-        width: 763
-        height: 545
-        isCached: true
-  - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
-    excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
-    publishedDateTime: 2021-03-04T12:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "House approves $1.9 trillion COVID relief package, sending bill to Biden"
-    excerpt: "Mr. Biden celebrated the passage of his plan in the wake of the ... These compromises were negotiated to satisfy moderate Democrats in the Senate, particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support ..."
-    publishedDateTime: 2021-03-11T12:01:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-passes-house-representatives/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-representatives/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-representatives/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/10/461fb591-be60-4a58-bebb-c908871d9234/thumbnail/1200x630/1950d4fb8ac3c83f3784c1f47ab20b14/2021-03-10t191936z-1953990643-rc2j8m915qnv-rtrmadp-3-health-coronavirus-usa-congress.jpg"
+      - url: "https://i.insider.com/6051614a0347cb00184b62a2?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Biden, Democrats celebrate 'transformational' victory on COVID-19 relief"
-    excerpt: "Biden begins ‘Help is Here’ tour to tout COVID relief bill Surrounded by his fellow Democrats for the first Rose Garden event of his presidency, President Joe Biden celebrated signing his ..."
-    publishedDateTime: 2021-03-12T22:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
+  - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
+    excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
+    publishedDateTime: 2021-01-20T16:50:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55738741"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55738741"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55738741"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-rose-garden-american-rescue-plan-covid-04-ap-llr-210311_1615581633885_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden's $1.9 trillion COVID-19 package clears procedural vote in U.S. House"
-    excerpt: "The U.S. House of Representatives voted on Tuesday to advance President Joe Biden's $1.9 trillion COVID-19 relief bill, clearing the way for the measure to be considered on Wednesday, when it is expected to pass."
-    publishedDateTime: 2021-03-09T22:40:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idINKBN2B11PO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B11QB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B11QB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: BBC
+      domain: bbc.com
     quality: 123
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554270389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH280VT"
-        width: 817
-        height: 545
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F67C/production/_116600136_mediaitem116600135.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Biden tempers COVID optimism with calls for unity -- and patience: ANALYSIS"
-    excerpt: "President Biden delivers remarks on 1-year anniversary of COVID-19 pandemic President Joe Biden addressed the nation Thursday night to mark a full year of the COVID crisis -- as awful and painful ..."
-    publishedDateTime: 2021-03-12T07:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-tempers-covid-optimism-calls-unity-patience-analysis/story?id=76392651"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-tempers-covid-optimism-calls-unity-patience-analysis/story?id=76392651"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tempers-covid-optimism-calls-unity-patience-analysis/story?id=76392651"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-american-rescue-primetime-address-06-gty-llr-210311_1615511624482_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Florida GOP Rules Out COVID Curbs Despite Joe Biden, Anthony Fauci Warnings"
-    excerpt: "Leading Florida Republicans have dismissed coronavirus warnings from President Joe Biden and his chief medical adviser Anthony Fauci as the Sunshine State looks to end pandemic restrictions and boost businesses ravaged by a year of turmoil. Biden warned ..."
-    publishedDateTime: 2021-03-14T17:12:00Z
-    webUrl: "https://www.newsweek.com/florida-gop-rules-out-covid-curbs-despite-joe-biden-anthony-fauci-warnings-1576009"
-    ampWebUrl: "https://www.newsweek.com/florida-gop-rules-out-covid-curbs-despite-joe-biden-anthony-fauci-warnings-1576009?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/florida-gop-rules-out-covid-curbs-despite-joe-biden-anthony-fauci-warnings-1576009?amp=1"
+  - title: "Armed Man Arrested for Carrying Shotgun, Ammunition Near Kamala Harris' House"
+    excerpt: "Members of the Secret Service detained an armed suspect near the home of Vice President Kamala Harris on Wednesday."
+    publishedDateTime: 2021-03-17T22:20:00Z
+    webUrl: "https://www.newsweek.com/armed-man-arrested-carrying-shotgun-ammunition-near-kamala-harris-house-1576964"
+    ampWebUrl: "https://www.newsweek.com/armed-man-arrested-carrying-shotgun-ammunition-near-kamala-harris-house-1576964?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/armed-man-arrested-carrying-shotgun-ammunition-near-kamala-harris-house-1576964?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1755656/beachgoers-pictured-fort-lauderdale-florida.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Biden, in Pennsylvania to promote stimulus package, calls aid 'a big deal'"
-    excerpt: "President Joe Biden promoted his $1.9 trillion stimulus package in Pennsylvania on Tuesday as part of an all-out push by his team to sell a plan aimed at boosting the U.S. economy out of its pandemic doldrums."
-    publishedDateTime: 2021-03-16T22:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-pennsylvania-idUSKBN2B825P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B825P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B825P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555122994&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1LD"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Kimmel on Biden's Covid relief bill: 'Naturally, Republicans are against it'"
-    excerpt: "Late-night hosts discuss Covid relief, the latest Fox News culture wars, and the role white women play in bolstering QAnon"
-    publishedDateTime: 2021-03-11T17:05:00Z
-    webUrl: "https://www.theguardian.com/culture/2021/mar/11/jimmy-kimmel-biden-covid-relief-republicans-late-night-recap"
-    ampWebUrl: "https://amp.theguardian.com/culture/2021/mar/11/jimmy-kimmel-biden-covid-relief-republicans-late-night-recap"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/mar/11/jimmy-kimmel-biden-covid-relief-republicans-late-night-recap"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 122
     images:
-      - url: "https://i.guim.co.uk/img/media/df7e29d55154a36d3d9e15f21d4bcc2307d33289/154_135_2548_1529/master/2548.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=76408b46ca2561469e4d7598edfad1df"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1758354/kamala-harris-paul-murray-guns.jpg"
+        width: 2500
+        height: 1668
         isCached: true
-  - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
-    excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
-    publishedDateTime: 2021-03-04T04:53:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
+  - title: "Biden orders flags at half-staff to honor victims of Atlanta-area spa shootings"
+    excerpt: "Biden, Harris to meet with Asian American lea... 09:36 Washington — President Biden on Thursday ordered flags at the White House and on federal grounds in the U.S. and abroad to be flown at half-staff after eight people, including six Asian women, were ..."
+    publishedDateTime: 2021-03-18T16:36:00Z
+    webUrl: "https://www.cbsnews.com/news/atlanta-shootings-joe-biden-flags-half-staff/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/atlanta-shootings-joe-biden-flags-half-staff/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/atlanta-shootings-joe-biden-flags-half-staff/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 121
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
-        width: 822
-        height: 545
-        isCached: true
-  - title: "Biden to name Gene Sperling to lead COVID-19 relief plan: administration official"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden will name Gene Sperling to lead implementation of the $1.9 trillion COVID-19 relief plan, one of the largest economic stimulus measures in American history, an administration official said on Sunday."
-    publishedDateTime: 2021-03-15T04:10:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-stimulus-idUSKBN2B7077"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B7077"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B7077"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554893091&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E04N"
-        width: 817
-        height: 545
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/2e1ebb6a-c7fb-421e-bd5c-ffc0990f5a49/thumbnail/1200x630/db85c2794a36570ed26db7d1cc63b885/2021-03-18t162915z-272238798-rc2sdm9k6aaa-rtrmadp-3-crime-georgia-spa.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Americans Have Saved Enough Amid Pandemic to Nearly Pay for Biden's Stimulus Plan"
     excerpt: "Oxford Economics estimated that U.S. households saved $1.8 trillion from March 2020 to January 2021—just shy of the $1.9 trillion price tag attached to Biden's relief package."
@@ -381,53 +269,37 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
-    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
-    publishedDateTime: 2021-03-04T21:00:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-6-senate-delays-debate-on-bidens-19-trillion-covid-19-bill-while-it-is-read-aloud-idUSL2N2L21QX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
+  - title: "Man With Gun Arrested Near Kamala Harris Home After Texas Tip-off, Regional Alert"
+    excerpt: "An armed man was arrested and detained by members of the Secret Service near the Naval Observatory on Wednesday, the official residence of Vice President Kamala Harris and first gentleman Doug Emhoff. Members of the Washington, D.C. Metropolitan Police ..."
+    publishedDateTime: 2021-03-17T22:20:00Z
+    webUrl: "https://www.newsweek.com/armed-man-arrested-carrying-shotgun-ammunition-near-kamala-harris-house-1576964"
+    ampWebUrl: "https://www.newsweek.com/armed-man-arrested-carrying-shotgun-ammunition-near-kamala-harris-house-1576964?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/armed-man-arrested-carrying-shotgun-ammunition-near-kamala-harris-house-1576964?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1758354/kamala-harris-paul-murray-guns.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
+  - title: "Attacks on Asian Americans are up. What is the Biden administration doing about it?"
+    excerpt: "WASHINGTON – The concerns President Joe Biden expressed Wednesday following the fatal shootings of Asian Americans in Georgia echoed the comments he's made since taking office, a tenure that began with an executive action condemning racism and ..."
+    publishedDateTime: 2021-03-18T11:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/18/asian-american-groups-want-biden-do-more-after-atlanta-shootings/4739856001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4739856001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4739856001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 119
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "House Democrats pass $1.9 trillion COVID-19 relief bill, handing Biden major victory"
-    excerpt: "House Democrats pass $1.9 trillion COVID-19 relief bill House Democrats on Wednesday passed a massive $1.9 trillion COVID-19 relief bill with the goal of having it on President Joe Biden's desk by ..."
-    publishedDateTime: 2021-03-10T20:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/house-democrats-pass-19-trillion-covid-19-relief/story?id=76327205"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/house-democrats-pass-19-trillion-covid-19-relief/story?id=76327205"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-democrats-pass-19-trillion-covid-19-relief/story?id=76327205"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/pelosi-relief-vote-gty-ps-210310_1615404007615_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
-    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
-    publishedDateTime: 2021-03-05T12:32:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AW18U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/68f4529d-061f-4f6f-9823-f71f884a0a64-Asian_boy.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden taps Gene Sperling to oversee implementation of $1.9 trillion American Rescue Plan"
     excerpt: "President Biden has tapped Gene Sperling, a longtime economic adviser under Democratic administrations, to oversee implementation of his $1.9 trillion coronavirus relief plan, the White House announced Monday."
@@ -445,133 +317,51 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden White House launching 'Help is Here' tour to promote stimulus package in key states"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden and his allies are hitting the road this week to promote the $1.9 trillion pandemic relief bill he signed in law last week as the right prescription for a country humbled by the COVID-19 pandemic. Biden and a ..."
-    publishedDateTime: 2021-03-15T09:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-tour/biden-white-house-launching-help-is-here-tour-to-promote-stimulus-package-in-key-states-idUSKBN2B7137?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B7137"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B7137"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554920146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E0O2"
-        width: 805
-        height: 545
-        isCached: true
-  - title: "Biden heads to Pennsylvania in push to sell US Covid relief plan to nation – live updates"
-    excerpt: "President will speak at small business in battleground state, while Kamala Harris visits Colorado Martin Belam Hi and welcome to our live coverage of US politics for today. Here’s a catch-up on where we are, and some of what we have in the diary for ..."
-    publishedDateTime: 2021-03-16T09:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-60505f2e8f0856ecbbc7a636"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/0d5527ef8965a1f7abaaf21c99ddb64feb58858a/0_100_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d66423618d9e5709bb8cc359a6d6bb32"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Promising people vaccine shots and cash payments, Biden White House kicks off stimulus tour"
-    excerpt: "WASHINGTON (Reuters) - With a promise of “shots in arms and money in pockets,” President Joe Biden on Monday kicked off a week of promotion and travel for the $1.9 trillion pandemic relief bill he signed into law last week to help the country move past ..."
-    publishedDateTime: 2021-03-16T01:09:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-tour-idUSKBN2B7137"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B7137"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B7137"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 115
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554984909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E0O2"
-        width: 805
-        height: 545
-        isCached: true
-  - title: "$1,400 Stimulus Checks Start Arriving in Bank Accounts as Biden Hits Road to Tout Rescue Plan"
-    excerpt: "President Joe Biden and Vice President Kamala Harris are preparing to hit the road to boost support for the $1.9 trillion stimulus package, as some Americans have started to see the $1,400 checks arrive in their bank accounts."
-    publishedDateTime: 2021-03-13T22:32:00Z
-    webUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961"
-    ampWebUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961?amp=1"
+  - title: "Kamala Harris Tells Asian American Community 'We Stand With You' After Georgia Shootings"
+    excerpt: "Vice President Kamala Harris expressed solidarity with the Asian American community after multiple shootings in Georgia on Tuesday left eight people dead, including six Asian women. Harris, the first South Asian, Black and female vice president ..."
+    publishedDateTime: 2021-03-17T17:04:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 114
+    quality: 116
     images:
-      - url: "https://d.newsweek.com/en/full/1755572/joe-biden-kamala-harris-wh.jpg"
+      - url: "https://d.newsweek.com/en/full/1758158/harris-speaks-atlanta-shootings.jpg"
         width: 2500
-        height: 1668
+        height: 1675
         isCached: true
-  - title: "Biden poised for first major legislative victory with House vote on $1.9tn Covid relief – live"
-    excerpt: "Jay Ashcroft, the Missouri secretary of state, has said he does not plan to run for the US Senate next year. “After intense, prayerful consideration we have decided to remain devoted to the work Missouri voters have entrusted to me as secretary of state ..."
-    publishedDateTime: 2021-03-10T15:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604877188f08168521f61562"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+  - title: "'Very troubling': Joe Biden and Kamala Harris on Atlanta spa shootings – video"
+    excerpt: "Harris said the Atlanta massage parlor shootings were ‘tragic’ and spoke to the larger issue of violence in American society"
+    publishedDateTime: 2021-03-17T17:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/17/very-troubling-joe-biden-and-kamala-harris-on-atlanta-spa-shootings-video"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 113
+    quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/9f5e7e43926723c85f4f28f3cb46d46e3e17c560/0_326_4896_2938/master/4896.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4a94294c36c72c3edd021e1967335d3"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Live updates: President Joe Biden says 'America is coming back' as he memorializes a pandemic year"
-    excerpt: "WASHINGTON – President Joe Biden wrapped up his first address as president Thursday night, touting America’s progress with COVID-19 vaccinations, saying hope was to be found and pleading with Americans to stay vigilant. Biden directed states to ..."
-    publishedDateTime: 2021-03-11T23:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/live-updates-president-joe-biden-prime-time-speech-covid-pandemic/6944067002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6944067002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6944067002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/b43fab33-e7b3-4079-96fe-943d023e4e98-AP21071039023733.jpg?auto=webp&crop=5717,3216,x0,y190&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden administration and Texas governor battle over COVID testing and treatment of migrants at border"
-    excerpt: "The administration said it would reimburse local officials for COVID testing and shelter for asylum seekers. Governor Abbott said \"no.\""
-    publishedDateTime: 2021-03-05T22:24:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-migrants-testing-treatment-texas-biden-administration/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 110
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/05/d91c28fc-46de-4969-8666-b3dd9f6fd058/thumbnail/1200x630/0991716f0dd8f34963de0bff94bf3745/gettyimages-1231479467.jpg"
+      - url: "https://i.guim.co.uk/img/media/f4a638864f3918c76fd642f7e683c49f8b5d69d3/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94514b230302fc6479c04bb1f0d22a6d"
         width: 1200
         height: 630
         isCached: true
-  - title: "White House says Trump administration rhetoric on COVID has elevated threats against Asian-Americans"
-    excerpt: "White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian-Americans."
-    publishedDateTime: 2021-03-17T19:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-violence-trump-idUSKBN2B92VI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B92VI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B92VI"
+  - title: "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live"
+    excerpt: "CNN has a full list of the people Joe Biden and Kamala Harris are meeting with in Atlanta to discuss Asian American violence. Among the state leaders and community leaders are Atlanta Mayor Keisha Lance Bottoms; Georgia state senator Dr Michelle Au ..."
+    publishedDateTime: 2021-03-19T19:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054feca8f0824e5cc4fa8cf"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 110
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555255094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1NL"
-        width: 817
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/29917f705c9870429d3c935d73b93393020bf99a/0_103_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1cc9f4de08fe0da065e457a4f87bbeae"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden denounced the attacks on Asian Americans during the COVID-19 pandemic, calling them ‘un-American’"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden in his Thursday address to the nation denounced a surge in attacks on Asian Americans during the coronavirus pandemic. In the prime-time address marking the one-year anniversary of the COVID-19 outbreak being ..."
@@ -589,97 +379,53 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Dentists and midwives giving shots, 4,000 troops to help: How Biden is expanding COVID-19 vaccinations"
-    excerpt: "WASHINGTON – Americans wanting a COVID-19 vaccination will now have many more ways to get the shot. President Joe Biden’s administration is dramatically expanding the pool of medical professionals who can administer the vaccinations, is launching new ..."
-    publishedDateTime: 2021-03-12T19:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/covid-19-vaccine-joe-biden-expands-ways-americans-can-get-shot/4662975001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4662975001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4662975001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/310e23e6-2afc-4b4f-a10a-20d113035fa5-AFP_AFP_94T4PB.jpg?auto=webp&crop=5132,2887,x0,y260&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ohio's attorney general is suing the Biden administration over the $1.9 trillion COVID-19 stimulus bill"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
-    publishedDateTime: 2021-03-17T18:20:00Z
-    webUrl: "https://www.businessinsider.com/ohio-attorney-general-suing-biden-administration-stimulus-bill-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/ohio-attorney-general-suing-biden-administration-stimulus-bill-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ohio-attorney-general-suing-biden-administration-stimulus-bill-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/604fa9bffe6a340019acec25?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Live updates: President Joe Biden will sign COVID-19 stimulus package on Friday; Pelosi, Schumer laud it"
-    excerpt: "Joe Biden announced his COVID-19 stimulus plan before he even entered office. It's up for a final vote Wednesday in the House."
-    publishedDateTime: 2021-03-10T20:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-stimulus-updates-house-verge-passing-joe-bidens-bill/6924862002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6924862002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6924862002"
+  - title: "President Biden notes Asian American concerns about Atlanta shootings but not yet assigning racial motive"
+    excerpt: "WASHINGTON – President Joe Biden on Wednesday said he is waiting for more information about the Atlanta-area shootings before assigning a motive, but he called attacks against Asian Americans \"very, very troublesome.\" \"Whatever the motivation here ..."
+    publishedDateTime: 2021-03-17T19:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/17/atlanta-spa-shootings-president-biden-waiting-before-assigning-motive/4734680001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4734680001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4734680001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 108
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/54bb4401-bfd2-461f-853d-8e63acc86ff5-AFP_AFP_94N9C8.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/34fac83c-d605-4d7e-aef6-a2718ffd8227-shamrock.jpg?auto=webp&crop=6047,3402,x0,y303&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden signs $1.9 trillion rescue package into law, starting the clock on distributing $1,400 stimulus checks"
-    excerpt: "The measure authorizes direct payments for most taxpayers; renews unemployment benefits; and provides funding for vaccine distribution."
-    publishedDateTime: 2021-03-11T20:22:00Z
-    webUrl: "https://www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3?amp"
+  - title: "Watch Live: Vice President Kamala Harris speaks at U.N. meeting on gender equality and women's empowerment"
+    excerpt: "Vice President Kamala Harris is delivering a statement Tuesday on behalf of the United States during a session of the United Nations' Commission on the Status of Women. The theme of this year's session, the 65th, is women's \"full and effective ..."
+    publishedDateTime: 2021-03-16T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
     images:
-      - url: "https://i.insider.com/604547c244d8e300117b97e5?width=1200&format=jpeg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "WH: Biden signature won't be on COVID relief check"
-    excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
-    publishedDateTime: 2021-03-09T21:05:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
+  - title: "Biden reaches out to Asian Americans after killings — but many remain frustrated by lack of representation"
+    excerpt: "President Biden has refocused his trip to Georgia on Friday so he can meet with Asian American leaders about violence against their community. He has ordered flags flown at half-staff after the shooting that killed six Atlanta-area women of Asian descent."
+    publishedDateTime: 2021-03-18T23:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a9951c60-0a2b-4258-8681-1301da9ed212_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "White House: Biden's signature won't be on COVID relief check"
-    excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
-    publishedDateTime: 2021-03-11T10:29:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/ab387543-2f21-412d-a360-e1217b78d450-a9951c60-0a2b-4258-8681-1301da9ed212_thumbnail.png?quality=10"
-        width: 852
-        height: 480
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3MSFHMEIGYI6XCULLT4CYPP74Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden condemns hate crimes against Asian Americans"
     excerpt: "President Biden has condemned hate crimes against Asian Americans amid a surge in attacks. \"It's wrong. It's un-American. It must stop,\" he said Thursday. Weijia Jiang has more."
@@ -695,49 +441,55 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Capital Gains Are Taxed and What Biden Might Do"
-    excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
-    publishedDateTime: 2021-03-16T23:50:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-capital-gains-are-taxed-and-what-biden-might-do/2021/03/16/67202cf8-86b2-11eb-be4a-24b89f616f2c_story.html?amp;amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MY35HQUGWII6XPSKES4J6YLPFQ.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
-  - title: "Trump pushes Americans to get COVID-19 vaccine"
-    excerpt: "Reuters Now Trump pushes Americans to get COVID-19 vaccine Posted In an interview with Fox News, former President Donald Trump on Tuesday night pushed Americans to get vaccinated against the coronavirus, even those who might not want to."
-    publishedDateTime: 2021-03-17T18:24:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPRoI?now=true"
+  - title: "Russian rouble steadies after Biden comments cause sell-off"
+    excerpt: "The rouble was flat against the dollar on Thursday, steadying after a sell-off in Russian assets triggered by U.S. President Joe Biden saying his Russian counterpart Vladimir Putin would pay for attempted election interference."
+    publishedDateTime: 2021-03-18T07:11:00Z
+    webUrl: "https://www.reuters.com/article/russia-markets/russian-rouble-steadies-after-biden-comments-cause-sell-off-idUSL8N2LG1PV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LG1PV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LG1PV"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/60523a8ce4b0653eea184b1c-1616001676528?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden's relief bill isn't getting bipartisan support like previous stimulus bills. What do Republicans dislike so much?"
-    excerpt: "Republican Senators have described President Joe Biden's COVID-19 stimulus plan as a \"clunker,\" \"bad politics\" and “wildly expensive.\" The legislation, dubbedthe"
-    publishedDateTime: 2021-03-05T10:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/biden-covid-stimulus-bill-why-relief-legislation-so-partisan/6889189002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6889189002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6889189002"
+  - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
+    excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
+    publishedDateTime: 2021-03-17T14:05:00Z
+    webUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LF3TP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LF3TP"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+  - title: "Dem insiders say Kamala Harris will follow Biden's lead on Andrew Cuomo. 'It's not her call,' one ally says."
+    excerpt: "Harris has been quiet about sexual-misconduct accusations against Gov. Andrew Cuomo as Democrats have demanded his resignation."
+    publishedDateTime: 2021-03-16T22:20:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-biden-andrew-cuomo-misconduct-allegations-resignation-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 101
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/05978c65-180a-48f4-b571-fa12d578336e-GTY_1231477838.jpg?auto=webp&crop=4499,2531,x0,y229&format=pjpg&width=1200"
+      - url: "https://i.insider.com/605125ccfe6a340019acf008?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
+        isCached: true
+  - title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
+    excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."
+    publishedDateTime: 2021-03-16T20:47:00Z
+    webUrl: "https://www.chicagotribune.com/business/careers-finance/sns-hbcu-spotlight-kamala-harris-20210316-f7rg3d4gwfg47py5t5i7rtor4u-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/crQzkjNidk5NhtpkJam48A0ZW1Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJESQ7B73VCMJH3GOI3PJ6NCGA.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
     excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
@@ -769,22 +521,161 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "'Dinner table' politics: Why Joe Biden ditched bipartisan dealmaking to pass his COVID-19 relief bill"
-    excerpt: "President Biden's decision to go it alone on his COVID-19 relief plan could sink any promise of bipartisanship for his next big-ticket proposals."
-    publishedDateTime: 2021-03-07T17:15:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/03/07/covid-19-bill-biden-chooses-dinner-table-politics-over-bipartisanship/6892438002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6892438002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6892438002"
+  - title: "Vice President Kamala Harris to visit Las Vegas on Monday"
+    excerpt: "Details have emerged about Vice President Kamala Harris’ visit to Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress."
+    publishedDateTime: 2021-03-15T04:21:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-monday-2299493/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-monday-2299493/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-monday-2299493/amp/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 60
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/f34c2dbd-39ad-4e86-a788-3f01e5c248f6-GTY_1231494873.jpg?auto=webp&crop=4499,2531,x0,y229&format=pjpg&width=1200"
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14897275_web1_KAMALA-VISIT-102720_es_010.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
+    excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
+    publishedDateTime: 2021-03-03T23:21:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9921614809626/2021/1/737179c4b2717553b05f15134d377fc8/v1.5/Kamala-Harris-visits-woman-owned-yarn-store-to-discuss-American-Rescue-Plan.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Authorities arrest Texas man near residence of Vice President Kamala Harris, report says"
+    excerpt: "On Wednesday, the U.S. Secret Service arrested Paul Murray, 31, of San Antonio near the residence of Vice President Kamala Harris, according to a report from CNBC. Police said they found a rifle and ammunition in Murray's car. He was stopped near the ..."
+    publishedDateTime: 2021-03-18T00:58:00Z
+    webUrl: "https://www.chron.com/news/article/San-Antonio-man-arrested-kamala-harris-16034184.php"
+    ampWebUrl: "https://www.chron.com/news/amp/San-Antonio-man-arrested-kamala-harris-16034184.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/San-Antonio-man-arrested-kamala-harris-16034184.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 66
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Man detained near Vice President Kamala Harris' residence with rifle, ammunition in his car"
+    excerpt: "WASHINGTON — D.C. Police detained a man near the residence of Vice President Kamala Harris on Wednesday on charges of carrying weapons, D.C. Police said. The man, 31-year-old Paul Murray of San Antonio, Texas, was stopped by Secret Service agents near ..."
+    publishedDateTime: 2021-03-17T23:05:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/17/man-arrested-near-kamala-harris-residence-possessing-weapons/4741536001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4741536001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4741536001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris visits vegan taco shop in Las Vegas"
+    excerpt: "U.S. Vice President Kamala Harris made an unscheduled stop at a vegan taco stand in Las Vegas, Nevada on Monday."
+    publishedDateTime: 2021-03-16T13:26:00Z
+    webUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.html"
+    ampWebUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+  - title: "Vice President Kamala Harris Swears in EPA Administrator Regan"
+    excerpt: "Michael Regan holds his hand up as he is sworn-in by United States Vice President Kamala Harris during a ceremonial swear-in as EPA Administrator in the Eisenhower Executive Office Building in Washington,"
+    publishedDateTime: 2021-03-17T21:05:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b5f65e156d2ed8c6d86bdb0d368d6f0a/Vice-President-Kamala-Harris-Swears-in-EPA-Administrator-Regan/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b5f65e156d2ed8c6d86bdb0d368d6f0a/VICE-PRESIDENT-HARRIS.jpg"
+        width: 650
+        height: 434
+        isCached: true
+  - title: "VP Kamala Harris at Ceremonial Swearing in of Debra Haaland"
+    excerpt: "US Vice President Kamala Harris (R) participates in ceremonial swearing in of Debra Haaland (3-L), with her daughter Somah Haaland and family members, as Secretary of the Interior in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington,"
+    publishedDateTime: 2021-03-18T15:28:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6f7696275c7f901fe9b7c20fcfb1554e/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6f7696275c7f901fe9b7c20fcfb1554e/HARRIS-HAALAND.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "VP Kamala Harris Meets with LAbor Leaders in the Ceremonial Office"
+    excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice ..."
+    publishedDateTime: 2021-03-18T16:06:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/27f2a99397b681d75445fcc5fa361fa5/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/27f2a99397b681d75445fcc5fa361fa5/HARRIS-HISTORY-MONTH.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
+    excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
+    publishedDateTime: 2021-03-18T13:09:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/man-arrested-near-future-residence-of-kamala-harris-had-rifle-police-say/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
+  - title: "Kamala Harris Carves Out a Role of Her Own"
+    excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
+    publishedDateTime: 2021-03-12T11:13:00Z
+    webUrl: "https://www.usnews.com/news/the-report/articles/2021-03-12/kamala-harris-carves-out-a-vice-presidential-of-role-of-her-own"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Vice President Harris American Rescue Plan Briefing"
+    excerpt: "Vice President Harris participated in a brief conversation on the American Rescue Plan that preceded a closed… Vice President-elect Kamala Harris volunteered with her husband, Doug Emhoff, at Martha’s Table in Washington, D.C., to… President-elect ..."
+    publishedDateTime: 2021-03-11T20:01:00Z
+    webUrl: "https://www.c-span.org/video/?509795-1/vice-president-harris-american-rescue-plan-briefing"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Harris Visit to Las Vegas Vaccination Clinic"
+    excerpt: "President Biden spoke to reporters about the urgent need to pass the American Rescue Plan before taking part in an economic… President Biden and Vice President Kamala Harris took a virtual tour of the COVID-19 vaccine distribution site set up at… Vice ..."
+    publishedDateTime: 2021-03-15T19:45:00Z
+    webUrl: "https://www.c-span.org/video/?509908-1/vice-president-harris-visit-las-vegas-vaccination-clinic"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "PRqHkQqX31T2ZA6GQkn3ZRFroVLb2y50aSdoZW5zNQiNYqXPPoSsIao1mnSSfyif6a15a6Ul92uAUHTomvrbFv1r/tflfa0EGU0/U/XHLr1qikDN/KFmxeUEm0D0Tsvr2SqnKcym4e4qqcRLD7CvS68s+xjY6G/QgKqYQ4n5iLFrAFx9Ky6+lLSj/9vrmG2eZhEVN3Moh8uYg3bS3VmBMI822fibjcJh2KKdo3ndt/KRhvjOzPmyJcmIJNGFSNnPrhhmHBMgEMqyDxeymwBtavuWVP3HnKjwFVXsedu/Mi4820aAd1O9fBRzlaWvTiuyrB8Q9KGP6G1KunB5ZR2sk0frMR0OoDmH77J8yi877WE=;odS7w39DUkWG4pe2S1nI4g=="
 ---

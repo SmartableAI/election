@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tw
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/"
 type: article
 quality: 112
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,6 +31,52 @@ images:
     isCached: true
 
 related:
+  - title: "Judy Chu blames Trump for rising anti-Asian hate after Atlanta shooting"
+    excerpt: "on Wednesday blamed former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border ..."
+    publishedDateTime: 2021-03-17T22:51:00Z
+    webUrl: "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting"
+    ampWebUrl: "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/chujudy_072518am_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Ted Lieu Raises Donald Trump's 'Kung Flu' Rhetoric After Atlanta Spa Shootings"
+    excerpt: "At least eight people were killed in three shooting incidents in Atlanta with six identified as women of Asian descent."
+    publishedDateTime: 2021-03-17T11:09:00Z
+    webUrl: "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746"
+    ampWebUrl: "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1757732/democratic-representative-ted-lieu-california.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "'No question' Trump worsened anti-Asian sentiment: WH"
+    excerpt: "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ..."
+    publishedDateTime: 2021-03-17T22:57:00Z
+    webUrl: "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210317&i=OVE4H8HR3&r=OVE4H8HR3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Study: Anti Asian hashtags soared after Trump..."
     excerpt: "Watch \"Study: Anti Asian hashtags soared after Trump first tied COVID-19 to China\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-03-19T11:06:00Z
@@ -44,6 +90,22 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09510654_1616151904.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Department of Homeland Security chief defends U.S. handling of border crisis, blames Trump administration for surge"
+    excerpt: "In a lengthy statement, Homeland Security Secretary Alejandro Mayorkas revealed that the migration surge is heading towards a 20-year high — and partially blamed the former Trump administration for the tricky situation."
+    publishedDateTime: 2021-03-16T16:50:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 53
+    images:
+      - url: "https://www.nydailynews.com/resizer/OT8iCaWUuwg2Jezx-pa8tXH6XL0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A4X7LXFMHVGDXHY4UR6NHUX3TQ.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "XQ7Pwm0QnDmRyB/ermCvbvJbw608E040hQXWbaF3U5f6PR0eAdUCFp+9VuKiJd0AH7zZhcfc6LvQuTwNJwVydL2Z0fBFAFHst/ZpB1SUWSUh8Z/djW4D80+qXDiBe7utJ4tqlB0gJln2Ssjf1Vplm/GwCeun+rRHdb74/KxLVHlgDSHcBBVh+Zv+IauQAcxI9tv9NoEGFnx93lkPS0v8ktIwdifdjgu8e5rzb+hw0itCahPGTfy5idv+vceFdONWYNWUYzHOta8V5IETWyndVy249FF+L5uVNV0muC9IuseMbV4SYU1PUaY+2/xet56NMCz7kqVE5Mptm4P3bNIaCHxbkObAehg9WeVdMjZai6s=;cfuoU7RhWfwb4EOUbQbfRQ=="
