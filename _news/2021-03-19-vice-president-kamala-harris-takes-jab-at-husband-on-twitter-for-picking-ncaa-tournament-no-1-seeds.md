@@ -233,6 +233,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live"
+    excerpt: "Covid-19 Hate Crimes Act would ‘expedite the government’s response to the rise of hate crimes exacerbated during the pandemic’ – follow the latest"
+    publishedDateTime: 2021-03-19T16:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054d5028f08131c2e527ff9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/b3d1927dd2a0417b6e898d9ef0722b11dfb8d2cf/0_405_4459_2675/master/4459.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a31b1b3813371bbaaf1612234a8095d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "President Biden notes Asian American concerns about Atlanta shootings but not yet assigning racial motive"
     excerpt: "WASHINGTON – President Joe Biden on Wednesday said he is waiting for more information about the Atlanta-area shootings before assigning a motive, but he called attacks against Asian Americans \"very, very troublesome.\" \"Whatever the motivation here ..."
     publishedDateTime: 2021-03-17T19:52:00Z
@@ -529,6 +545,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "XXnQu5SK1VO8jtuMRWziYPkfzTuNVU9f2O5udqnoFz8PDj91daniYXbbU2tFiBDSlLkoiNwwUI4MVdO66JyjikNBB4/jjnUAMon3PhFEa4w90hM2J2TItWvXgdmHrJooJls3UzplKAjdVt1pCS7XltTUL7oDiVFsfSHXmKih3Gu8awHOfGr5YFZm5Tgd0a1tR0ih3uU/ZyIUV194NMkeRW55k/2VqWsC2/OZ3Gf0x6znTdMY5gAzJHlKE0cA3CbNuCetykeH5Og1ELX3Ta4kTrKo2YmjvD5zjTXOHdLb70062iqsJN3X+9YBBbLvi/fj5fZGmIGItUccALPAe/96a3VmA9p6bVvqYoaLZo1NFJo=;YPL5YI/KmA6+TdLaOmaRmg=="
+secured: "2EDXofPynn6oqSl6CgY+IeWRrgqro8AbkaVxzqoAonGau24hU+opZ4aa8Nlkd4b2a0rKhWN8PYlI16n6zsgo8gtTSozy+Alr1NyI9KQC1OtuF8Q5T3zM8LuwUjYS+QauBRWuQkdrvKFb6cvzjmppjJ5tgSXyxYROmQIRBgGYApWZHji1zO2qSt7D1M2s74vT31ctJN6F8sqTxZhlaOnlCS1qVmodmGjIAGRwYb0tJp0DzWLAK5+tzxbIpDr/ZDT8F7TqJbnL/yIYsBlNTkzfqAjChORPp8Cw1L6mh1qFWVqGNIhK/iytZeodhHTXEdDMX6kJiyUD0OjCpUVjkv8XXfEX5mQHn2WmbGdej5Nlr0kMUyxknynPJST/lGwCN+5XmFbcOWIdXkgmC7J7TlnbY9QA1qyVTskEQ4dRSilis3WPt4qtIrz2aRqbYeDQLrOgSL/GjfL8xU+c4lb8bx2KY2npcJ7u8HvmFqpXQOmyvRMQtJlMW6MC+WyuLmT8upUBthzhKD+qwasYztx9SZKV0w==;euIoLZoqEiljO7fQ/FtY0w=="
 ---
 

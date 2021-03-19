@@ -1299,6 +1299,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden's foreign policy moves raise bipartisan eyebrows: The Note"
+    excerpt: "Members of Congress testify on anti-Asian hate The TAKE with Rick Klein It's hard to argue that President Joe Biden won an election based on foreign policy, notwithstanding the deep experience on ..."
+    publishedDateTime: 2021-03-19T10:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-foreign-policy-moves-raise-bipartisan-eyebrows-note/story?id=76260015"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden_hpMain_20210318-200645_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A Dominion exec forced into hiding due to death threats from Trump fans is beefing up his defamation lawsuit over election conspiracy theories"
     excerpt: "The lawsuit accuses Donald Trump's presidential campaign, conspiracy theorist attorneys Rudy Giuliani and Sidney Powell, and right-wing media outlets like Newsmax, One America News, and The Gateway Pundit of boosting false claims about him. The defendants ..."
     publishedDateTime: 2021-03-15T23:07:00Z

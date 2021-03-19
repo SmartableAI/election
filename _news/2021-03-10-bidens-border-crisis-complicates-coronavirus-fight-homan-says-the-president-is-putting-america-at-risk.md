@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden admin under fire over lack of transparency on border crisis"
+    excerpt: "The Biden administration is facing increased scrutiny from the media for the lack of transparency around the child migrant facilities along the U.S.-Mexico border, which has transformed into a border crisis."
+    publishedDateTime: 2021-03-19T17:38:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FOXRraan5dI/biden-psaki-mayorkas-visit-border-crisis-transparency"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-mayorkas-visit-border-crisis-transparency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-mayorkas-visit-border-crisis-transparency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3b25a0f-3621-4168-b114-166c60079794/d952f25e-75d7-465d-a804-1fe4932ca34d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
     excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
     publishedDateTime: 2021-03-09T23:20:10Z
@@ -190,6 +206,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1fb92f-3067-40a4-bb12-56209c49d4ff/d658eaa0-1056-4016-ac8a-4b571b495dea/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden once mocked Trump over ‘slippery’ ramp descent"
+    excerpt: "Biden be trippin’. President Biden once took a swipe at Donald Trump over how his predecessor walked down a ramp at West Point — in light of his own stair stumble on Friday."
+    publishedDateTime: 2021-03-19T17:11:00Z
+    webUrl: "https://nypost.com/2021/03/19/biden-once-mocked-trump-over-slippery-ramp-descent/"
+    ampWebUrl: "https://nypost.com/2021/03/19/biden-once-mocked-trump-over-slippery-ramp-descent/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/19/biden-once-mocked-trump-over-slippery-ramp-descent/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/biden-stairs-trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 740
         isCached: true
   - title: "Republicans renew call for border crisis hearing amid Biden's 'open-borders rallying cry'"
     excerpt: "EXCLUSIVE: Republicans are renewing calls for Democrats to hold a hearing on the growing crisis at the southern border -- while warning that the Biden administration has been sounding an “open-borders rally cry.”"

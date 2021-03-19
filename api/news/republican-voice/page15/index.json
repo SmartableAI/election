@@ -2,6 +2,174 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-11-melania-trump-disappointed-and-disheartened-over-capitol-attack-nation-must-heal-in-a-civil-manner.md",
+      "title": "Melania Trump ‘disappointed and disheartened’ over Capitol attack: ‘Nation must heal in a civil manner'",
+      "excerpt": "The deadly riots unfolded on Wednesday after a rally to support President Trump descended into a mob that stormed the Capitol during the certification of the Electoral College vote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvK_YCPPbTA/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvK_YCPPbTA/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e56d820d-efe3-4b7e-8ffb-0e2cf480f0d1/3b7121e6-427b-4dbd-89b9-9bcaa499ee04/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner.amp",
+      "publishedDateTime": "2021-01-11T05:12:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-biden-announces-william-burns-for-cia-director.md",
+      "title": "Biden announces William Burns for CIA director",
+      "excerpt": "President-elect Joe Biden announced Ambassador William Burns as his nominee for director of the CIA on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7AdeLJYzGc/biden-william-burns-cia-director",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7AdeLJYzGc/biden-william-burns-cia-director",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-william-burns-cia-director.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp",
+      "publishedDateTime": "2021-01-11T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-right-back-to-where-we-were-last-year-dems-seek-trump-impeachment.md",
+      "title": "Right back to where we were last year: Dems seek Trump impeachment",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/piuxTC5hNWc/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/piuxTC5hNWc/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp",
+      "publishedDateTime": "2021-01-10T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.md",
       "title": "Pelosi says lawmakers moving forward with impeachment, calls Trump 'imminent threat' to 'our Democracy'",
       "excerpt": "House Speaker Nancy Pelosi on Sunday said the House will be moving forward with a resolution to impeach Donald Trump, whom she referred to in a letter to her colleagues as an “imminent threat” to both the U.S. Constitution and Democracy.",
@@ -1496,176 +1664,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-trump-condemns-heinous-attack-on-capitol-calls-for-healing-and-reconciliation.md",
-      "title": "Trump condemns 'heinous attack' on Capitol, calls for 'healing and reconciliation'",
-      "excerpt": "President Trump condemned Wednesday’s “heinous attack” on the Capitol by his supporters and called for a moment of healing. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZbPTVQ7h-MY/trump-condemns-heinous-attack-capitol-healing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZbPTVQ7h-MY/trump-condemns-heinous-attack-capitol-healing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14916eca-a34a-435c-be33-946448326628/d7fd995c-e60f-4564-b82f-a9101b39de67/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-condemns-heinous-attack-capitol-healing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-condemns-heinous-attack-capitol-healing.amp",
-      "publishedDateTime": "2021-01-07T17:15:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-biden-quiet-on-25th-amendment-calls-tells-pence-cabinet-congress-to-act-as-they-see-fit.md",
-      "title": "Biden quiet on 25th Amendment calls; tells Pence, Cabinet, Congress to 'act as they see fit'",
-      "excerpt": "President-elect Joe Biden has stayed mum amid calls from Democrats to invoke the 25th Amendment or pursue articles of impeachment to thwart the last two weeks of the Trump presidency. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I7d3a75mKe8/biden-quiet-25th-amendment-calls-pence-cabinet-congress",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I7d3a75mKe8/biden-quiet-25th-amendment-calls-pence-cabinet-congress",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21006772770151.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-quiet-25th-amendment-calls-pence-cabinet-congress.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-quiet-25th-amendment-calls-pence-cabinet-congress.amp",
-      "publishedDateTime": "2021-01-07T17:05:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-biden-says-capitol-was-stormed-by-riotous-mob-domestic-terrorists.md",
-      "title": "Biden says Capitol was stormed by ‘riotous mob,' 'domestic terrorists’",
-      "excerpt": "President-elect Joe Biden says that the supporters of President Trump who attacked the Capitol on Wednesday were “a riotous mob” and “domestic terrorists.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists",
-      "originalUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006854495058.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
-      "publishedDateTime": "2021-01-07T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

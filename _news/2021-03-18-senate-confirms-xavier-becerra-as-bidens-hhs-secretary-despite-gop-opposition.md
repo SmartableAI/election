@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pelosi says Biden has southern border situation 'under control'"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., expressed confidence in President Biden's handling of the surge of migrants at the Southern border, saying he's got it \"under control.\""
+    publishedDateTime: 2021-03-19T17:03:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jmpWtJ042e0/pelosi-biden-border-situation-under-control"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-biden-border-situation-under-control.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-biden-border-situation-under-control.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa6016c2-e559-4d73-9aeb-b85211588100/5915beb0-707b-482e-92c7-77b60563f947/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden immigration policies have created 'disorder at the border,' GOP lawmakers say"
     excerpt: "House Minority Leader Kevin McCarthy, R-Calif., and other GOP lawmakers called on President Biden to admit fault and work to reverse changes to immigration policies that they said have caused a dangerous surge in migrants at the southern border."
     publishedDateTime: 2021-03-15T19:44:25Z

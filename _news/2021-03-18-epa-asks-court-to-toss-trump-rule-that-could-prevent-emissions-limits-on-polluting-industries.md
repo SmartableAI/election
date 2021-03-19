@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/543731-epa-asks-court-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions?amp"
 type: article
 quality: 114
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "CDC identifies public-health guidance from the Trump administration that downplayed pandemic severity"
-    excerpt: "The analysis was done to promote public trust and ensure that CDC’s coronavirus guidance \"is evidence-based and free of politics,\" a memo says."
-    publishedDateTime: 2021-03-15T20:44:00Z
-    webUrl: "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UH7PHDC3EMI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "A controversial Trump-era policy is saving companies millions by letting them ditch their health plans and send workers to buy their own coverage"
     excerpt: "One big employer expects to save $7.2 million by sending workers to buy their own health insurance with \"health reimbursement arrangements.\""
     publishedDateTime: 2021-03-17T14:24:00Z

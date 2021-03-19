@@ -31,36 +31,79 @@ images:
     isCached: true
 
 related:
-  - title: "EPA asks court to toss Trump rule that could prevent emissions limits on polluting industries"
-    excerpt: "The Environmental Protection Agency (EPA) on Wednesday asked a court to throw out a Trump administration rule that could prevent setting greenhouse gas limits on multiple pollu"
-    publishedDateTime: 2021-03-17T23:07:00Z
-    webUrl: "https://thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions"
-    ampWebUrl: "https://thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions?amp"
+  - title: "See the list of Florida GOP websites that still show Trump as president"
+    excerpt: "Donald Trump lost the 2020 election, but some Florida GOP sites continue to show him as the winner and the current president of the United States."
+    publishedDateTime: 2021-03-19T17:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4754798001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4754798001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/18/PTCN/b18427b7-45f1-4200-bb10-9aa1adbbabb7-TCN_GOP_WEBSITES_TRUMP04.jpg?auto=webp&crop=1577,887,x5,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Eric Trump floats turning family's Florida golf resort into casino: report"
+    excerpt: "Eric Trump, son of former President Trump and head of the Trump Organization, floated the idea of turning one of his family’s Florida golf courses into a casino, according to a Washington Post report"
+    publishedDateTime: 2021-03-17T20:37:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 114
+    quality: 123
     images:
-      - url: "https://thehill.com/sites/default/files/epaenvironmentalprotectionagency2_021820getty.jpg"
+      - url: "https://thehill.com/sites/default/files/trumperic_101019getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "A controversial Trump-era policy is saving companies millions by letting them ditch their health plans and send workers to buy their own coverage"
-    excerpt: "One big employer expects to save $7.2 million by sending workers to buy their own health insurance with \"health reimbursement arrangements.\""
-    publishedDateTime: 2021-03-17T14:24:00Z
-    webUrl: "https://www.businessinsider.com/companies-are-giving-workers-money-to-buy-health-coverage-hra-2021-3"
+  - title: "Many in GOP Hope Trump Loses in Court, Goes Away, Says Former Admin Member Miles Taylor"
+    excerpt: "Miles Taylor, a former Department of Homeland Security's chief of staff in the Trump administration, said Saturday that many in the GOP hope Donald Trump will lose in future court battles and move on from the party. Speaking on MSNBC, Taylor said he wouldn ..."
+    publishedDateTime: 2021-03-13T16:15:00Z
+    webUrl: "https://www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914"
+    ampWebUrl: "https://www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1755343/donald-trump.jpg"
+        width: 3500
+        height: 2333
+        isCached: true
+  - title: "Jared Kushner to write a behind-the-scenes look at the significant events of the Trump presidency in new book"
+    excerpt: "The arrangement, brokered with Kushner's help, was the first official peace deal between the UAE and Israel in a decade and has become a key accomplishment touted by Trump. Kushner is \"not looking to settle scores but rather to provide historical context ..."
+    publishedDateTime: 2021-03-14T14:04:00Z
+    webUrl: "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 68
+    quality: 106
     images:
-      - url: "https://i.insider.com/6051066afe6a340019acef72?width=1200&format=jpeg"
+      - url: "https://i.insider.com/604de62a10c8760018b931bd?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Casino Miami? Florida Gambling Bill Raises Possibility"
+    excerpt: "Donald Trump’s struggling Doral golf club near Miami could be thrown a lifeline if a Florida bill being hammered out behind closed doors allows more gambling in the state and the property is allowed to operate a casino."
+    publishedDateTime: 2021-03-18T21:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-18/trump-casino-miami-florida-gambling-bill-raises-possibility"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "B9AprcUiAUIET8qedZ4ZK5z8w19UoeRptDHxomoIWpx5mUvDptT8z1yV/LhHha1Eb7cu+M+mFuzPNTQvfznl+08ipF2ZLb5nVznR7PmTIAXQa341UEFqR52+Baga7uywYOHCXBOq9H1sV52czAo5ZJ0Nlropyx5M28oF21N30lwEdP88doXbNxZ9uY1qiQ+THisBuLsDijutsfvqBf7tEZhUfuyNiYJyvEKB4r2dTOXtozg7iu8rR3VuwZSBo4wbWRH4ZMeTRCi/AneWTV+8Mvo2rviWlpd3hlpDO4AYWd2kw2ROxYSH6XSfq9gMEfKIfylfcPrrkBvlpnpGxkjet9pmwKxsOGApoSzwZyNUD+j4vJ3cNwS0y2jSqfZhIqYiWVlIWMMXUrqd7GNgvF/kGxoSg3u1/SVI6vQQ/Ux8kPW12pjr1Gqc5S587Z/uBQPTSPW4mbT4287OL1fZQZuMpPiCjJxC1tgKkeh4dbbbet+Wqq/7HFPRGG4d7rIm4hL2FcibGdNkuf0AlqvyeDGXnQ==;yp7tlNqkLgrNWgvrT7S8lg=="
 ---

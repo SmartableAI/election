@@ -2,6 +2,118 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-11-trump-expected-to-meet-with-sen-rick-scott-amid-gop-divide-over-former-president.md",
+      "title": "Trump expected to meet with Sen. Rick Scott amid GOP divide over former President",
+      "excerpt": "Former President Donald Trump is expected to meet with Republican Sen. Rick Scott this week, a source familiar with the meeting told CNN, at a time when the party is heatedly debating Trump's role in its future.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40Zo2mlfAss/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40Zo2mlfAss/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210310190838-trump-scott-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/10/politics/trump-rick-scott-nrsc/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/trump-rick-scott-nrsc/index.html",
+      "publishedDateTime": "2021-03-10T18:13:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-trump-takes-credit-for-china-virus-vaccine-i-hope-everyone-remembers.md",
+      "title": "Trump takes credit for 'china virus' vaccine: 'I hope everyone remembers!'",
+      "excerpt": "Former President Trump touted his administration's efforts obtaining a COVID-19 vaccine, arguing that without him, Americans wouldn't receive a vaccine for years.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ksY3yrEySWo/trump-takes-credit-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ksY3yrEySWo/trump-takes-credit-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6114d9a-f847-43c3-a7ad-38b44749138c/da7bcf3d-f970-4418-948f-6904dfa22813/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-takes-credit-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-takes-credit-vaccine.amp",
+      "publishedDateTime": "2021-03-10T17:04:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-manchin-on-his-veto-power-over-biden-agenda-its-not-a-good-place-to-be.md",
       "title": "Manchin on his veto power over Biden agenda: 'It's not a good place to be'",
       "excerpt": "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n",
@@ -1243,114 +1355,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-doj-asks-supreme-court-to-dismiss-case-related-to-trump-era-public-charge-rule.md",
-      "title": "DOJ asks Supreme Court to dismiss case related to Trump era \"public charge\" rule",
-      "excerpt": "The Department of Justice asked the Supreme Court on Tuesday to dismiss a case concerning a controversial Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use public benefits, such as Medicaid, food stamps and housing vouchers.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kWBkClzYtck/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kWBkClzYtck/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210129144107-05-scotus-exterior-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/09/politics/doj-dismiss-case-public-charge-rule/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/doj-dismiss-case-public-charge-rule/index.html",
-      "publishedDateTime": "2021-03-09T09:56:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-the-hills-1230-report-presented-by-johns-hopkins-university-trumps-relationship-with-gop-worsens.md",
-      "title": "The Hill's 12:30 Report - Presented by Johns Hopkins University - Trump's relationship with GOP worsens",
-      "excerpt": "To receive The Hill's 12:30 Report in your inbox, please sign up here:  --> A midday take on what's happening in politics and how to have a sense of humor about it.* *Ha. Haha. Hahah. Sniff. Haha. Sniff.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
-      "originalUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
-      "publishedDateTime": "2021-03-09T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

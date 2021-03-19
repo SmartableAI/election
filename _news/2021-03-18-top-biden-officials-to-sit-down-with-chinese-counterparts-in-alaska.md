@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-alaska-meetings/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden 'proud' of Blinken after tense exchange with Chinese officials"
+    excerpt: "President Joe Biden said Friday he was \"proud\" of Secretary of State Tony Blinken, a day after the top US diplomat pushed back against Chinese officials in an unusually public and tense diplomatic exchange.\n    \n"
+    publishedDateTime: 2021-03-19T17:36:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ka8pM4yCY2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-blinken-china-tussle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-blinken-china-tussle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319011003-02-blinken-china-meeting-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senior Biden administration officials to meet with Chinese counterparts next week in Alaska"
     excerpt: "Two top Biden administration officials will meet with their Chinese counterparts next week in what will be the first meeting of officials from both countries since President Joe Biden took office in January.\n    \n"
     publishedDateTime: 2021-03-10T18:07:19Z

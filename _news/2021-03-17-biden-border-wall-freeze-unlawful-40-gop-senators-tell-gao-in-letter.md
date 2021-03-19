@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-wall-freeze-unlawful-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pelosi says Biden has southern border situation 'under control'"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., expressed confidence in President Biden's handling of the surge of migrants at the Southern border, saying he's got it \"under control.\""
+    publishedDateTime: 2021-03-19T17:03:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jmpWtJ042e0/pelosi-biden-border-situation-under-control"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-biden-border-situation-under-control.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-biden-border-situation-under-control.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa6016c2-e559-4d73-9aeb-b85211588100/5915beb0-707b-482e-92c7-77b60563f947/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Senate confirms Xavier Becerra as Biden's HHS secretary despite GOP opposition"
     excerpt: "The Senate on Thursday voted to confirm Xavier Becerra as President Biden’s Health and Human Services secretary, delivering the nascent administration another Cabinet member despite nearly unanimous opposition from Republican lawmakers."
     publishedDateTime: 2021-03-18T16:49:05Z

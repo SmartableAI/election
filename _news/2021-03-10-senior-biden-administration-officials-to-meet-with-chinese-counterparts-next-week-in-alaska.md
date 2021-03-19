@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden 'proud' of Blinken after tense exchange with Chinese officials"
+    excerpt: "President Joe Biden said Friday he was \"proud\" of Secretary of State Tony Blinken, a day after the top US diplomat pushed back against Chinese officials in an unusually public and tense diplomatic exchange.\n    \n"
+    publishedDateTime: 2021-03-19T17:36:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ka8pM4yCY2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-blinken-china-tussle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-blinken-china-tussle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319011003-02-blinken-china-meeting-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
     excerpt: "The federal government currently has more than 14,000 migrant children in its custody, administration officials said on Thursday, even as they insist that what is happening on the southern border does not constitute a \"crisis.\"\n    \n"
     publishedDateTime: 2021-03-18T20:50:20Z

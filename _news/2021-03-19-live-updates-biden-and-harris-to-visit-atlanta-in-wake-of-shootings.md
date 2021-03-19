@@ -49,6 +49,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Harris travel to Atlanta to meet with Asian American leaders in wake of mass shooting"
+    excerpt: "President Joe Biden and Vice President Kamala Harris traveled to Atlanta on Friday to meet with Asian American leaders in the wake of deadly shootings that killed eight people, including six women of Asian descent.\n    \n"
+    publishedDateTime: 2021-03-19T17:30:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e3wE3JAM_Vw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-harris-atlanta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-harris-atlanta/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris uses UN speech to champion women's role in democracy"
     excerpt: "Kamala Harris declared \"the status of women is the status of democracy\" on Tuesday, in her first speech before the United Nations as the first female vice president of the United States.\n    \n"
     publishedDateTime: 2021-03-16T17:20:55Z

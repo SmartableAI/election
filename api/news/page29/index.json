@@ -2,6 +2,114 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-02-02-trumps-oval-office-meeting-with-4-election-conspiracists-spiraled-into-a-chaotic-multi-hour-screaming-match.md",
+      "title": "Trump's Oval Office meeting with 4 election conspiracists spiraled into a chaotic multi-hour screaming match",
+      "excerpt": "\"Are you out of your f---ing mind?,\" White House advisor Eric Herschmann told conspiracy-wielding layer Sidney Powell at one point, Axios reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2",
+      "originalUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff8b9cdd184b30018aadd87?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2?amp",
+      "publishedDateTime": "2021-02-02T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-live-updates-biden-meets-with-republican-senators-on-coronavirus-aid.md",
+      "title": "Live Updates: Biden meets with Republican senators on coronavirus aid",
+      "excerpt": "President Joe Biden on Monday night said that he's unwilling to settle on an insufficient coronavirus aid package.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8Pf8Cya2s/live-updates-biden-2-2-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8Pf8Cya2s/live-updates-biden-2-2-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 535,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ee85791-b1c2-4b3e-9f69-c5782ed6f4dc/031107ab-fd5f-4504-b7b8-bb97e033f264/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp",
+      "publishedDateTime": "2021-02-01T23:01:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-trump-lawyer-impeachment-case-undemocratic-ill-advised.md",
       "title": "Trump lawyer: Impeachment case ‘undemocratic,’ ill-advised",
       "excerpt": "Democrats are using the upcoming Senate impeachment trial of Donald Trump as a political “weapon” to bar the former president from seeking office again, and are pursuing a case that is “undemocratic” and unconstitutional,",
@@ -1227,105 +1335,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-republican-fundraising-after-election.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-republican-fundraising-after-election.amp",
       "publishedDateTime": "2021-01-31T10:37:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-heres-what-to-exect-from-pences-post-vp-life.md",
-      "title": "Here's what to exect from Pence's post-VP life",
-      "excerpt": "Pence's relationship with former President Donald Trump, which, to put it mildly, faltered after the deadly Jan. 6 Capitol riot, does not appear to have improved over the last few weeks, NBC reports.",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
-      "originalUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230702122.jpg?itok=9TsIXNEV&resize=450x300",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life",
-      "publishedDateTime": "2021-01-31T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-twitter-employees-heavily-favored-biden-over-trump-ahead-of-priceless-ban.md",
-      "title": "Twitter employees heavily favored Biden over Trump ahead of 'priceless' ban",
-      "excerpt": "President Biden was the clear favorite of Twitter employees when it came to campaign donations during the 2020 election cycle.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 588,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322568207291-e1605632911601.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp",
-      "publishedDateTime": "2021-01-31T05:45:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

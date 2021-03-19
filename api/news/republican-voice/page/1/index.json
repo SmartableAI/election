@@ -2,6 +2,166 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-20-trump-wax-figure-museum-always-had-trouble-with-presidential-section.md",
+      "title": "Trump wax figure museum ‘always had trouble with presidential section’",
+      "excerpt": "Presidential wax figures need a Secret Service detail of their own. Replicas of the last three commanders in chief have been subject to constant vandalism at a San Antonio museum. “When it’s a",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
+      "originalUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-wax-01.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
+      "publishedDateTime": "2021-03-19T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-5-biden-white-house-staffers-have-lost-jobs-over-past-marijuana-use-says-psaki.md",
+      "title": "5 Biden White House staffers have lost jobs over past marijuana use, says Psaki",
+      "excerpt": "Five staffers have lost their jobs during the Biden administration at the White House due to past marijuana use, press secretary Jen Psaki acknowledged Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqydXvRRzsw/staffers-lose-white-house-jobs-biden-marijuana-use",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqydXvRRzsw/staffers-lose-white-house-jobs-biden-marijuana-use",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp",
+      "publishedDateTime": "2021-03-19T09:39:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-biden-stumbles-multiple-times-falls-as-he-scales-air-force-one-stairs.md",
+      "title": "Biden stumbles multiple times, falls as he scales Air Force One stairs",
+      "excerpt": "President Biden stumbled twice and fell as he scaled the stairs to Air Force One on Friday at Joint Base Andrews. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
+      "publishedDateTime": "2021-03-19T09:12:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-biden-administration-importing-coronavirus-into-texas-by-not-securing-border-gov-abbott.md",
       "title": "Biden administration 'importing' coronavirus into Texas by not securing border: Gov. Abbott",
       "excerpt": "Texas Gov. Greg Abbott, R., told \"America's Newsroom\" Friday that the Biden administration is effectively importing coronavirus into the United States by not adequately securing the southern border.",
@@ -70,7 +230,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 209,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1122,7 +1282,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1499,175 +1659,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.md",
-      "title": "Michigan man, 21, threatened Biden, Pelosi, Whitmer, authorities say",
-      "excerpt": "A western Michigan man was arraigned Tuesday with allegedly making death threats against President Biden, House Speaker Nancy Pelosi and Michigan Gov. Gretchen Whitmer, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3YjiuswNZOY/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3YjiuswNZOY/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/ContentBroker_contentid-84b432a43c574b518a2ddfa84a53efc9.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.amp",
-      "publishedDateTime": "2021-03-16T21:36:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-says-cuomo-should-resign-if-the-investigation-confirms-accusers-claims.md",
-      "title": "Biden says Cuomo should resign if the investigation confirms accusers' claims",
-      "excerpt": "President Biden said Democratic New York Gov. Andrew Cuomo should resign if investigations support the claims made by his accusers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6caaaa06-f983-4f4a-89aa-5a4899682cb2/ff5a3dc7-5d0e-49bc-a55c-89cca417a19e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp",
-      "publishedDateTime": "2021-03-16T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-vp-harris-dodges-question-about-migrant-children-i-havent-been-briefed-on-anything-today-about-it.md",
-      "title": "VP Harris dodges question about migrant children: 'I haven't been briefed on anything today about it'",
-      "excerpt": "Harris' response comes as the Biden administration has refused to call the perilous border situation a crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sowtBx8Ipek/vp-kamala-harris-migrant-children-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sowtBx8Ipek/vp-kamala-harris-migrant-children-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075827674492.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp",
-      "publishedDateTime": "2021-03-16T17:54:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

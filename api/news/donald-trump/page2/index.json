@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-16-trumps-cfos-ex-daughter-in-law-is-cooperating-with-prosecutors-and-refuses-to-be-silenced-her-lawyer-says.md",
+      "title": "Trump's CFO's ex-daughter-in-law is cooperating with prosecutors and 'refuses to be silenced,' her lawyer says",
+      "excerpt": "Allen Weisselberg holds the keys to Donald Trump's personal finances, as well as his company's financial details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3",
+      "originalUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/604fc60dfe6a340019acec9e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3?amp",
+      "publishedDateTime": "2021-03-15T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-democrats-2018-trump-country-hero-faces-hard-political-path.md",
       "title": "Democrats' 2018 Trump Country hero faces hard political path",
       "excerpt": "Barely a year into Donald Trump’s presidency, Democrats were desperate to show they could reconnect with the white, working-class voters who had turned against them DNC Chair Jaime Harrison ...",
@@ -428,58 +480,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-14-jared-kushner-to-write-a-behind-the-scenes-look-at-the-significant-events-of-the-trump-presidency-in-new-book.md",
-      "title": "Jared Kushner to write a behind-the-scenes look at the significant events of the Trump presidency in new book",
-      "excerpt": "The arrangement, brokered with Kushner's help, was the first official peace deal between the UAE and Israel in a decade and has become a key accomplishment touted by Trump. Kushner is \"not looking to settle scores but rather to provide historical context ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3",
-      "originalUrl": "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604de62a10c8760018b931bd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3?amp",
-      "publishedDateTime": "2021-03-14T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-14-chaos-under-heaven-review-trump-as-raging-bull-in-a-china-policy-shop.md",
       "title": "Chaos Under Heaven review: Trump as raging bull in a China policy shop",
       "excerpt": "Before Covid upended everything, the US president upended relations with Beijing – without interest or ability to build anew",
@@ -584,58 +584,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-14-many-in-gop-hope-trump-loses-in-court-goes-away-says-former-admin-member-miles-taylor.md",
-      "title": "Many in GOP Hope Trump Loses in Court, Goes Away, Says Former Admin Member Miles Taylor",
-      "excerpt": "Miles Taylor, a former Department of Homeland Security's chief of staff in the Trump administration, said Saturday that many in the GOP hope Donald Trump will lose in future court battles and move on from the party. Speaking on MSNBC, Taylor said he wouldn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914",
-      "originalUrl": "https://www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1755343/donald-trump.jpg",
-          "width": 3500,
-          "height": 2333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914?amp=1",
-      "publishedDateTime": "2021-03-13T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-13-lara-trump-called-so-gross-after-dog-charity-scam-exposed.md",
       "title": "Lara Trump Called ‘So Gross’ After Dog Charity Scam Exposed",
       "excerpt": "Another member of the Trump family is under scrutiny for allegedly funneling charity money into Donald Trump’s pockets after Lara Trump, the former President’s daughter-in-law, was exposed for spending money from a dog charity at Mar-A-Lago resort.",
@@ -696,7 +644,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2086,
+      "heat": 2106,
       "tags": null,
       "images": [
         {
@@ -1554,6 +1502,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-the-hills-1230-report-presented-by-johns-hopkins-university-trumps-relationship-with-gop-worsens.md",
+      "title": "The Hill's 12:30 Report - Presented by Johns Hopkins University - Trump's relationship with GOP worsens",
+      "excerpt": "To receive The Hill's 12:30 Report in your inbox, please sign up here:  --> A midday take on what's happening in politics and how to have a sense of humor about it.* *Ha. Haha. Hahah. Sniff. Haha. Sniff.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
+      "originalUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
+      "publishedDateTime": "2021-03-09T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

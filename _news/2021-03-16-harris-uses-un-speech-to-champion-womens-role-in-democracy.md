@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Harris travel to Atlanta to meet with Asian American leaders in wake of mass shooting"
+    excerpt: "President Joe Biden and Vice President Kamala Harris traveled to Atlanta on Friday to meet with Asian American leaders in the wake of deadly shootings that killed eight people, including six women of Asian descent.\n    \n"
+    publishedDateTime: 2021-03-19T17:30:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e3wE3JAM_Vw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-harris-atlanta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-harris-atlanta/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Get ready for a raft of Biden court nominees"
     excerpt: "The Biden administration has pledged a laser-like focus on the judiciary in the coming months, vowing to not only prioritize nominations but also cast a wide net in its search for potential appointees.\n    \n"
     publishedDateTime: 2021-03-11T10:01:42Z

@@ -2,6 +2,274 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-white-house-says-biden-is-100-fine-after-he-tripped-boarding-air-force-one.md",
+      "title": "White House says Biden is '100% fine' after he tripped boarding Air Force One",
+      "excerpt": "President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YJxRRTs2Rw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YJxRRTs2Rw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html",
+      "publishedDateTime": "2021-03-19T10:41:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-trump-wax-figure-museum-always-had-trouble-with-presidential-section.md",
+      "title": "Trump wax figure museum ‘always had trouble with presidential section’",
+      "excerpt": "Presidential wax figures need a Secret Service detail of their own. Replicas of the last three commanders in chief have been subject to constant vandalism at a San Antonio museum. “When it’s a",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
+      "originalUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-wax-01.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
+      "publishedDateTime": "2021-03-19T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-see-the-list-of-florida-gop-websites-that-still-show-trump-as-president.md",
+      "title": "See the list of Florida GOP websites that still show Trump as president",
+      "excerpt": "Donald Trump lost the 2020 election, but some Florida GOP sites continue to show him as the winner and the current president of the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/18/PTCN/b18427b7-45f1-4200-bb10-9aa1adbbabb7-TCN_GOP_WEBSITES_TRUMP04.jpg?auto=webp&crop=1577,887,x5,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4754798001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4754798001",
+      "publishedDateTime": "2021-03-19T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-5-biden-white-house-staffers-have-lost-jobs-over-past-marijuana-use-says-psaki.md",
+      "title": "5 Biden White House staffers have lost jobs over past marijuana use, says Psaki",
+      "excerpt": "Five staffers have lost their jobs during the Biden administration at the White House due to past marijuana use, press secretary Jen Psaki acknowledged Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqydXvRRzsw/staffers-lose-white-house-jobs-biden-marijuana-use",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqydXvRRzsw/staffers-lose-white-house-jobs-biden-marijuana-use",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp",
+      "publishedDateTime": "2021-03-19T09:39:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-biden-stumbles-multiple-times-falls-as-he-scales-air-force-one-stairs.md",
+      "title": "Biden stumbles multiple times, falls as he scales Air Force One stairs",
+      "excerpt": "President Biden stumbled twice and fell as he scaled the stairs to Air Force One on Friday at Joint Base Andrews. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
+      "publishedDateTime": "2021-03-19T09:12:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-trump-wax-figure-removed-from-san-antonio-museum-after-customers-kept-punching-and-scratching-it.md",
       "title": "Trump wax figure removed from San Antonio museum after customers kept punching and scratching it",
       "excerpt": "A wax figure of former President Donald Trump was temporarily removed from Louis Tussaud's Waxworks in San Antonio, Texas, after sustaining damage from customers. The decision to put the figure in storage came after patrons at the wax museum kept punching ...",
@@ -122,7 +390,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 209,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -174,7 +442,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates?page=with:block-605475e08f085f49c135a0aa",
       "featuredContent": null,
       "highlight": null,
-      "heat": 821,
+      "heat": 841,
       "tags": null,
       "images": [
         {
@@ -557,7 +825,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 457,
+      "heat": 477,
       "tags": null,
       "images": [
         {
@@ -1008,7 +1276,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1105,274 +1373,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-texas-man-found-with-assault-style-rifle-near-vice-president-kamala-harris-dc-home.md",
-      "title": "Texas man found with assault-style rifle near Vice President Kamala Harris' DC home",
-      "excerpt": "A San Antonio man has been arrested after being found with an assault-style rifle and high-capacity magazine near the official residence of Vice President Kamala Harris. Paul Michael Murray, 31, who has also had an address in the College Station area,",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/13/42/10/19800610/5/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/amp/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/texas/amp/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
-      "publishedDateTime": "2021-03-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.md",
-      "title": "Biden DHS secretary promises US will not expel unaccompanied minors",
-      "excerpt": "Homeland Security Secretary Alejandro Mayorkas vowed that the United States will not expel unaccompanied minors who cross the U.S. southern border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp",
-      "publishedDateTime": "2021-03-18T09:13:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-what-andrew-cuomo-and-kamala-harris-said-about-vaccine-skepticism.md",
-      "title": "What Andrew Cuomo and Kamala Harris said about vaccine skepticism",
-      "excerpt": "Both indicated that they didn’t fully trust the Trump administration to oversee the process, as many Republicans point out now. But their comments are worth a close look.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37AHSJTXWAI6XAIVTLK6TQBBC4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp",
-      "publishedDateTime": "2021-03-18T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-vanita-gupta-could-be-bidens-most-dangerous-doj-pick-gop-senator-argues-while-dem-leader-decries-smears.md",
-      "title": "Vanita Gupta could be Biden's 'most dangerous' DOJ pick, GOP senator argues, while Dem leader decries 'smears'",
-      "excerpt": "The Senate Judiciary Committee met Wednesday to discuss President Biden's nominations of Lisa Monaco to be the next deputy attorney general and Vanita Gupta as associate attorney general.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yy9Q6YK9c_A/vanita-gupta-biden-doj-pick-john-cornyn",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yy9Q6YK9c_A/vanita-gupta-biden-doj-pick-john-cornyn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vanita-gupta-biden-doj-pick-john-cornyn.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-biden-doj-pick-john-cornyn.amp",
-      "publishedDateTime": "2021-03-18T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-new-jersey-district-pays-325k-in-trump-yearbook-censorship.md",
-      "title": "New Jersey district pays $325K in Trump yearbook censorship",
-      "excerpt": "A New Jersey school district is paying $325,000 to a former New Jersey teacher who claimed she was forced to edit a Donald Trump T-shirt worn by a student in a yearbook photo New Trump recording ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_a2483d633d1349c5a864fc3b7d2d0090_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
-      "publishedDateTime": "2021-03-18T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

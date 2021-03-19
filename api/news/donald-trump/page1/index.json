@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-20-trump-wax-figure-museum-always-had-trouble-with-presidential-section.md",
+      "title": "Trump wax figure museum ‘always had trouble with presidential section’",
+      "excerpt": "Presidential wax figures need a Secret Service detail of their own. Replicas of the last three commanders in chief have been subject to constant vandalism at a San Antonio museum. “When it’s a",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
+      "originalUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-wax-01.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
+      "publishedDateTime": "2021-03-19T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-see-the-list-of-florida-gop-websites-that-still-show-trump-as-president.md",
+      "title": "See the list of Florida GOP websites that still show Trump as president",
+      "excerpt": "Donald Trump lost the 2020 election, but some Florida GOP sites continue to show him as the winner and the current president of the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/18/PTCN/b18427b7-45f1-4200-bb10-9aa1adbbabb7-TCN_GOP_WEBSITES_TRUMP04.jpg?auto=webp&crop=1577,887,x5,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4754798001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4754798001",
+      "publishedDateTime": "2021-03-19T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-trump-wax-figure-removed-from-san-antonio-museum-after-customers-kept-punching-and-scratching-it.md",
       "title": "Trump wax figure removed from San Antonio museum after customers kept punching and scratching it",
       "excerpt": "A wax figure of former President Donald Trump was temporarily removed from Louis Tussaud's Waxworks in San Antonio, Texas, after sustaining damage from customers. The decision to put the figure in storage came after patrons at the wax museum kept punching ...",
@@ -736,7 +836,7 @@
       "originalUrl": "https://thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -886,58 +986,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report.md",
-      "title": "Eric Trump floats turning family's Florida golf resort into casino: report",
-      "excerpt": "Eric Trump, son of former President Trump and head of the Trump Organization, floated the idea of turning one of his family’s Florida golf courses into a casino, according to a Washington Post report",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report",
-      "originalUrl": "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumperic_101019getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report?amp",
-      "publishedDateTime": "2021-03-17T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1525,58 +1573,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-trumps-cfos-ex-daughter-in-law-is-cooperating-with-prosecutors-and-refuses-to-be-silenced-her-lawyer-says.md",
-      "title": "Trump's CFO's ex-daughter-in-law is cooperating with prosecutors and 'refuses to be silenced,' her lawyer says",
-      "excerpt": "Allen Weisselberg holds the keys to Donald Trump's personal finances, as well as his company's financial details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3",
-      "originalUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604fc60dfe6a340019acec9e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3?amp",
-      "publishedDateTime": "2021-03-15T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

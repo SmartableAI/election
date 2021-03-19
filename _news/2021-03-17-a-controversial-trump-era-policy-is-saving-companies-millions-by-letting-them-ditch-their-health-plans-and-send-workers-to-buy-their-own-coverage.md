@@ -45,22 +45,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "CDC identifies public-health guidance from the Trump administration that downplayed pandemic severity"
-    excerpt: "The analysis was done to promote public trust and ensure that CDC’s coronavirus guidance \"is evidence-based and free of politics,\" a memo says."
-    publishedDateTime: 2021-03-15T20:44:00Z
-    webUrl: "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UH7PHDC3EMI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "AQOCeXsFVgJFJhZXEfQE9G837stNjb8T8+koEa44hwVz/IIr5p2dJziYZMeNDHTK6kN6zjJOFJ2ByqcDySQQspoeq7wlc0whw3lp0D88eRIUrOFTbjVsHwOuNX9F1v5XrmEvXCB7pp7JFFqAn0omlK/nfvLtdpW1nPKDKdkH8sG/xD196QJ7NH7/HGQNmT9nxuQosYE6A0S1K04KVVux0SCHUl0jvSFuNdZC5+L2Soj5yCpf0nnb8QbFdrkudRjxOCx2xtuM0WRTCPuE37KRgSrFzJutH0Veg8450N7MA5FOMRZNrv7vvjPaIQMrpf5TIxnhKOwl39gz2NFkvxgWvwLVRKQcao1g1nVUTkuZ2pU=;8Rh5pXCKG94842WkQb+Lkg=="
 ---

@@ -1307,6 +1307,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden's foreign policy moves raise bipartisan eyebrows: The Note"
+    excerpt: "Members of Congress testify on anti-Asian hate The TAKE with Rick Klein It's hard to argue that President Joe Biden won an election based on foreign policy, notwithstanding the deep experience on ..."
+    publishedDateTime: 2021-03-19T10:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-foreign-policy-moves-raise-bipartisan-eyebrows-note/story?id=76260015"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden_hpMain_20210318-200645_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A Dominion exec forced into hiding due to death threats from Trump fans is beefing up his defamation lawsuit over election conspiracy theories"
     excerpt: "The lawsuit accuses Donald Trump's presidential campaign, conspiracy theorist attorneys Rudy Giuliani and Sidney Powell, and right-wing media outlets like Newsmax, One America News, and The Gateway Pundit of boosting false claims about him. The defendants ..."
     publishedDateTime: 2021-03-15T23:07:00Z
@@ -1539,6 +1553,6 @@ related:
         height: 663
         isCached: true
 
-secured: "bkpYOxlsPZT4qrvIDNrVcQNyeWtdtP3B8IC1I2b6RBEi7DWVA8IWVM1V1lBYYXv242ORK03KGZMasQa4OICMXB0nXnYwvOPTdptz7hxRcv2bH7uoWt6fxSAVu7+oDYR6YBPEL3qrcG1PDHB5YY62F9Pmu3j6l9FFTqK7PyR8TCXjn5Zzi4UZuikXe4XvQr585CMxzNw4JJUdRx/vNgOBdNS7fk5mYIKVy4jfVekdFe+gtzLTusK42PedzldWOKNLiwqLzibUvK1M5GApautoGl3UaehWJwK/htqwHboN/lMbxNoS5WfleNm8xJgXwvYouFQZFpQr74GlngcP7LHSgoW02WKgsYRV+kJZGrrcPi8=;in83db1tFVbxB2gYvQRseg=="
+secured: "jLdJzudkcjaMUZ+N/CafDNW5wN1QYOgmLqpzgP4Kllb5L8RLgUk3WpOhuJXcYsyDWFH0mx0EKUaO2j6NP2EhoZbQpLiYJla78P7XIBF77QpFmnsXSwydw60A0cA1FCZ+UI6s3+znR89VJ8rV/e2pnxqFjlFyP7OVEq2+2ThGQiww058rkzbbD2nRVwnh9AKOlKVyMC4Qn1ha1pTuCCKjkDomFR2QtHgzZDT/st9TiEPrlW9O5ITyqU/ozN8X/QPz3JBwQzTZAPHdTNDYHZ9E5zp2lrmIuaaxaQR6eaa4vufwzBNxCDz5cWGu9LL99sxxiEzFV6amO9zdYztmgj9d4w6k+oHkiv2gy+dCxpXYd0I/GH7HPgwFjsdppAYWF0B7dR+P91jpWHe6X/KcJjkRbWDf+dcPtvGoiDGzgF/1q0obYpIrewH7Wtz8lhcccXO9Ql0VO2FIxBgPwmrlME+G4zqZzzrAQY6Eg6n1Xttz7nnBfRkDX0w+1yL6R/abT6cvbgq0FAK2SeOjiXMOnBw3BA==;4ZhhlUwrMfVonyjIMKeczQ=="
 ---
 

@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-01-20-annika-sorenstam-defends-accepting-award-from-donald-trump.md",
-      "title": "Annika Sörenstam defends accepting award from Donald Trump",
-      "excerpt": "Annika Sörenstam, who received the presidential medal of freedom from Donald Trump the day after US Capitol riot, has defended her decision",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "originalUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4870f7e1cabf35505f3d66840e415c25b5c2c460/0_24_5058_3036/master/5058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=725a944cd02a16e9137eca91996a64c6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "publishedDateTime": "2021-01-19T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-donald-trump-is-first-president-in-modern-history-to-never-reach-50-approval-in-gallup-poll.md",
       "title": "Donald Trump is First President in Modern History to Never Reach 50% Approval in Gallup Poll",
       "excerpt": "Trump will also exit the White House with the lowest average approval rating of any president in the Gallup poll. At 41 percent, the president's rating is four points lower than the averages of Jimmy Carter and Harry Truman,",
@@ -1562,6 +1510,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-ted-cruzs-former-staffers-are-disgusted-by-his-new-low-for-trump.md",
+      "title": "Ted Cruz’s Former Staffers Are ‘Disgusted’ by His New Low for Trump",
+      "excerpt": "Ted Cruz has long had a public reputation as an unctuous asshole. Even so, his staffers have tended to hold him in high regard as a kind and geeky man who treated his underlings well even while his fellow senators loathed him.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/ca8/dcb/e481ac5a11528488a970fe59710d78add0-ted-cruz.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "publishedDateTime": "2021-01-14T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

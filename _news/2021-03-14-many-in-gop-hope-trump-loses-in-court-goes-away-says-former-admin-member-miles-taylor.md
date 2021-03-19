@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-s
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914?amp=1"
 type: article
 quality: 117
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,22 +31,79 @@ images:
     isCached: true
 
 related:
-  - title: "Department of Homeland Security chief defends U.S. handling of border crisis, blames Trump administration for surge"
-    excerpt: "In a lengthy statement, Homeland Security Secretary Alejandro Mayorkas revealed that the migration surge is heading towards a 20-year high — and partially blamed the former Trump administration for the tricky situation."
-    publishedDateTime: 2021-03-16T16:50:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
+  - title: "See the list of Florida GOP websites that still show Trump as president"
+    excerpt: "Donald Trump lost the 2020 election, but some Florida GOP sites continue to show him as the winner and the current president of the United States."
+    publishedDateTime: 2021-03-19T17:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4754798001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4754798001"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 53
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://www.nydailynews.com/resizer/OT8iCaWUuwg2Jezx-pa8tXH6XL0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A4X7LXFMHVGDXHY4UR6NHUX3TQ.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/03/18/PTCN/b18427b7-45f1-4200-bb10-9aa1adbbabb7-TCN_GOP_WEBSITES_TRUMP04.jpg?auto=webp&crop=1577,887,x5,y0&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
+  - title: "Eric Trump floats turning family's Florida golf resort into casino: report"
+    excerpt: "Eric Trump, son of former President Trump and head of the Trump Organization, floated the idea of turning one of his family’s Florida golf courses into a casino, according to a Washington Post report"
+    publishedDateTime: 2021-03-17T20:37:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543690-eric-trump-floats-turning-familys-florida-golf-resort-into-casino-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/trumperic_101019getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "CDC identifies public-health guidance from the Trump administration that downplayed pandemic severity"
+    excerpt: "The analysis was done to promote public trust and ensure that CDC’s coronavirus guidance \"is evidence-based and free of politics,\" a memo says."
+    publishedDateTime: 2021-03-15T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UH7PHDC3EMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Jared Kushner to write a behind-the-scenes look at the significant events of the Trump presidency in new book"
+    excerpt: "The arrangement, brokered with Kushner's help, was the first official peace deal between the UAE and Israel in a decade and has become a key accomplishment touted by Trump. Kushner is \"not looking to settle scores but rather to provide historical context ..."
+    publishedDateTime: 2021-03-14T14:04:00Z
+    webUrl: "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/604de62a10c8760018b931bd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump Casino Miami? Florida Gambling Bill Raises Possibility"
+    excerpt: "Donald Trump’s struggling Doral golf club near Miami could be thrown a lifeline if a Florida bill being hammered out behind closed doors allows more gambling in the state and the property is allowed to operate a casino."
+    publishedDateTime: 2021-03-18T21:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-18/trump-casino-miami-florida-gambling-bill-raises-possibility"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "W7j3SZenaf6l2zUJD2uJJvUzO9KxVghGseKPUg8FF4797CMWbLmxjHGoiWJLjzp1BE+fUvXzNwvwAmjBkTFUIiQJ9qMjnfcvlHKxhWCKEe8WbJAip/YWFpJYl5PtxvKanVZkzbdaq6nAb3QCd0uIqN4A/wqY4aBLb/SG6/chVzhm61wq9g39cWfMG54H+HirNw2qyM3+6mmkE1PGkPmvYfTG3L0ElfbwLibMmAp4/WPcacdIMOprid/Eeb0WuIbElpzEjZHVb7mlY9/U25J73gm/iyj65mHucs/S/bRsTUzaQcqbnIzP/FwJfkG9hyxy84y/XX47vKeuA6NMuVoNmI17zOaCGBwd1ISO4pY+rRI=;l86fKbre+RhUifp5iNuddw=="
 ---
