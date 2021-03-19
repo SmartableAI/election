@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/casillasguzmanisabella_020321getty_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden inauguration priest under investigation in California"
+    excerpt: "The Jesuit priest who presided over an inaugural Mass for President Joe Biden is under investigation for unspecified allegations and is on leave from his position as president of Santa Clara ..."
+    publishedDateTime: 2021-03-19T05:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-priest-investigation-california-76551826"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-priest-investigation-california-76551826"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-priest-investigation-california-76551826"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_956190282c054b5a876915eda1f67e39_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "TRANSCRIPT: ABC News' George Stephanopoulos interviews President Joe Biden"
     excerpt: "EXCLUSIVE: Biden says Cuomo should resign if investigation confirms women’s claims On Tuesday, March 16, 2021, ABC News' George Stephanopoulos interviewed President Joe Biden. The following is a ..."

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.md",
+      "title": "Texas wax museum moves Trump statue because visitors kept hitting it: report",
+      "excerpt": "The owner of Louis Tussaud’s Waxworks in San Antonio said the museum removed a statue of former President Trump because too many visitors punched and scratched the figure, a report said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5LHYLgaC0U/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5LHYLgaC0U/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.amp",
+      "publishedDateTime": "2021-03-18T23:44:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-kellyanne-conway-michael-wolff-jonathan-karl-among-those-reportedly-writing-post-white-house-trump-books.md",
       "title": "Kellyanne Conway, Michael Wolff, Jonathan Karl among those reportedly writing post-White House Trump books",
       "excerpt": "The era of explosive tell-all books about the Trump presidency is apparently not over, even though the presidency itself has ended.",
@@ -1589,62 +1645,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp",
       "publishedDateTime": "2021-03-16T13:42:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-manchin-target-of-ad-in-west-virginia-pressuring-him-to-block-controversial-biden-doj-nominee.md",
-      "title": "Manchin target of ad in West Virginia pressuring him to block controversial Biden DOJ nominee",
-      "excerpt": "The Judicial Crisis Network (JCN) is launching a campaign aiming to scuttle the nomination of Vanita Gupta to be the associate attorney general for civil rights by targeting moderate Democratic Sen. Joe Manchin in his home state of West Virginia. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4sOSR23hplE/manchin-vanita-gupta-west-virginia-conservatives",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4sOSR23hplE/manchin-vanita-gupta-west-virginia-conservatives",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/manchin-vanita-gupta-west-virginia-conservatives.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-vanita-gupta-west-virginia-conservatives.amp",
-      "publishedDateTime": "2021-03-16T12:02:57-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

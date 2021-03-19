@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-16-manchin-target-of-ad-in-west-virginia-pressuring-him-to-block-controversial-biden-doj-nominee.md",
+      "title": "Manchin target of ad in West Virginia pressuring him to block controversial Biden DOJ nominee",
+      "excerpt": "The Judicial Crisis Network (JCN) is launching a campaign aiming to scuttle the nomination of Vanita Gupta to be the associate attorney general for civil rights by targeting moderate Democratic Sen. Joe Manchin in his home state of West Virginia. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4sOSR23hplE/manchin-vanita-gupta-west-virginia-conservatives",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4sOSR23hplE/manchin-vanita-gupta-west-virginia-conservatives",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/manchin-vanita-gupta-west-virginia-conservatives.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-vanita-gupta-west-virginia-conservatives.amp",
+      "publishedDateTime": "2021-03-16T12:02:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-donald-trump-jr-calls-the-talk-hiatus-over-piers-morgan-debate-insane-defends-sharon-osbourne.md",
       "title": "Donald Trump Jr. calls 'The Talk' hiatus over Piers Morgan debate 'insane,' defends Sharon Osbourne",
       "excerpt": "Donald Trump Jr. spoke out in defense of Sharon Osbourne and Piers Morgan after 'The Talk' announced its hiatus.",
@@ -71,7 +127,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1589,62 +1645,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp",
       "publishedDateTime": "2021-03-10T14:54:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-biden-adviser-admits-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.md",
-      "title": "Biden adviser admits immigration policy 'may have driven' migrant surge, encouraged 'smugglers'",
-      "excerpt": "Southern Border Coordinator Roberta Jacobson said Wednesday that it was not a “coincidence” border crossing attempts spiked after President Biden took office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ap18060626927363.jpg",
-          "width": 1920,
-          "height": 1301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
-      "publishedDateTime": "2021-03-10T11:28:20-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

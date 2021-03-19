@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden says Cuomo should resign if investigation confirms sexual harassment claims"
-excerpt: "President Biden said Tuesday that New York Governor Andrew Cuomo should resign if the state attorney general's investigation confirms the claims of the women who have accused the governor of sexual harassment."
-publishedDateTime: 2021-03-17T12:13:00Z
-originalUrl: "https://www.cbsnews.com/news/cuomo-sexuaul-harrassment-investigation-biden-resign/"
-webUrl: "https://www.cbsnews.com/news/cuomo-sexuaul-harrassment-investigation-biden-resign/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/cuomo-sexuaul-harrassment-investigation-biden-resign/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cuomo-sexuaul-harrassment-investigation-biden-resign/"
+title: "Biden inauguration priest under investigation in California"
+excerpt: "The Jesuit priest who presided over an inaugural Mass for President Joe Biden is under investigation for unspecified allegations and is on leave from his position as president of Santa Clara ..."
+publishedDateTime: 2021-03-19T05:16:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-priest-investigation-california-76551826"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-priest-investigation-california-76551826"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-priest-investigation-california-76551826"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-priest-investigation-california-76551826"
 type: article
-quality: 120
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/16/e5b5cb81-84e1-400b-b8d0-0c9bca68ea56/thumbnail/1200x630/f7ae7d2a55b10073c60e65ff0391428c/cbsn-fusion-cuomo-accuser-reveals-new-details-about-governors-alleged-behavior-thumbnail-669558-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Politics/WireAP_956190282c054b5a876915eda1f67e39_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden inauguration priest under investigation in California"
-    excerpt: "The Jesuit priest who presided over an inaugural Mass for President Joe Biden is under investigation for unspecified allegations and is on leave from his position as president of Santa Clara ..."
-    publishedDateTime: 2021-03-19T05:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-inauguration-priest-investigation-california-76551826"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-inauguration-priest-investigation-california-76551826"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-inauguration-priest-investigation-california-76551826"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_956190282c054b5a876915eda1f67e39_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "TRANSCRIPT: ABC News' George Stephanopoulos interviews President Joe Biden"
     excerpt: "EXCLUSIVE: Biden says Cuomo should resign if investigation confirms women’s claims On Tuesday, March 16, 2021, ABC News' George Stephanopoulos interviewed President Joe Biden. The following is a ..."
     publishedDateTime: 2021-03-17T16:36:00Z
@@ -94,6 +78,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden says Cuomo should resign if investigation confirms sexual harassment claims"
+    excerpt: "President Biden said Tuesday that New York Governor Andrew Cuomo should resign if the state attorney general's investigation confirms the claims of the women who have accused the governor of sexual harassment."
+    publishedDateTime: 2021-03-17T12:13:00Z
+    webUrl: "https://www.cbsnews.com/news/cuomo-sexuaul-harrassment-investigation-biden-resign/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cuomo-sexuaul-harrassment-investigation-biden-resign/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cuomo-sexuaul-harrassment-investigation-biden-resign/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/16/e5b5cb81-84e1-400b-b8d0-0c9bca68ea56/thumbnail/1200x630/f7ae7d2a55b10073c60e65ff0391428c/cbsn-fusion-cuomo-accuser-reveals-new-details-about-governors-alleged-behavior-thumbnail-669558-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President Biden says Gov. Andrew Cuomo should resign if allegations of harassment are true"
     excerpt: "WASHINGTON — President Joe Biden said Tuesday that New York Gov. Andrew Cuomo should resign if an investigation into allegations he sexually harassed multiple women finds the claims are true. \"Yes,\" Biden said when asked in an interview with ABC's ..."
@@ -158,6 +158,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xgF8W7oCXag8YIzSftRwuCoOSHweZCEdaee3DaGm92xMTvTHEsaop8mee3DWGKeQBku6dr66cIqa3FU0lOHaf4pYbOrl118q3m2f+t+/xUkTO/xGYaGVmhQLwQH0q4J8l60m2IDRI57eumbAbosVky3tc5xYkBbPjslISPbdo386wP4PYeUDAHDCBI+GyV37+mVizWzocbPmAWtcsbnc/4vSLB1RuAqjdxNlcgypeiq7vk7eg1eXpvLVN0UlLZiFh38ugsa6PH0x1Qx5hYO1EHMG6a+aJXmoCHqdngFvu8+1AG6P/6qESEYCNqI/a3uQiTx03fzYXiRiyN2HWmmQRiHvULqepvm/N2cHNRnYXd/Ax4zZkX4Ft6uI0UG2jzKGm1xyJFAkkvFC6d78c8ClYv456nOLZH9jXnTROR2pA1p+ry7+FaA4x5a5/I2tsnJw5O008bee+CEqq1xgC3yHTwvIjrT4h0eAb5HxX+vntYZDxjGGJPOJNAcu1Tz1nmitBuyb75n0NxrlFd3XM6OHEg==;W5w/N8BTxKI5yx2R9aun3w=="
+secured: "QguYWwkYMfS2+G7bnRYS3Mr2Ij2PRQhNeN8PWnWTLeBsGtHD4EzNNO/G8Sfa1594Wt1x5BJdscRoAlv04uCw3/OMX+GNz/axuT2BCxEnTNau70Mp1n022beXQ9uCmiz35Eo0ccc2CcDZhZ/yqU3NdrbyxpbnB+J/rZPYe6QbmHxrCNIIOOM9h7pHx9jthNAPM3RSXXnncjge6vCtU/K8BVHVn3N/a6sjr2EdhUsTmzlgUuNi0YZ6BpzH5ywv5AOWBonkurhR8Hyh9xPMkVx+gwdjH4sGNz9mB5WuWHDyRtTHHakZqjSC2V+tND62jSvmyFDINQMAly/oz11/acrJv37NDtd7msAId3ipvi1mMPE=;p9p4wDtTTSKf+sWB3EK8tw=="
 ---
 

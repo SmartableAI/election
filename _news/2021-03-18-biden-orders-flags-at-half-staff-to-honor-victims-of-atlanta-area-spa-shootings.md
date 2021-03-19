@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/atlanta-shootings-joe-biden-flags-h
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/atlanta-shootings-joe-biden-flags-half-staff/"
 type: article
 quality: 121
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden reaches out to Asian Americans after killings — but many remain frustrated by lack of representation"
+    excerpt: "President Biden has refocused his trip to Georgia on Friday so he can meet with Asian American leaders about violence against their community. He has ordered flags flown at half-staff after the shooting that killed six Atlanta-area women of Asian descent."
+    publishedDateTime: 2021-03-18T23:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-shootings-in-atlanta/2021/03/18/1e88c500-8800-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 107
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3MSFHMEIGYI6XCULLT4CYPP74Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "President Biden calls Atlanta shootings, 'very, very troublesome,' doesn't assign motive"
     excerpt: "President Joe Biden said he is waiting for more information on the Atlanta-area shootings, that left 8 dead, before assigning a motive."
     publishedDateTime: 2021-03-18T03:09:00Z

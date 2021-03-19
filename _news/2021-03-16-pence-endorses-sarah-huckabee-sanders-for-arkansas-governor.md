@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/543279-pence-endorses-sarah-hu
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/98b894c499b561540f5e059a36144ecda8e06958/0_0_2127_1276/master/2127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f4008f5ddf67e795af5e9e89e605153"
         width: 600
         height: 360
+        isCached: true
+  - title: "Former Vice President Mike Pence endorses Sarah Huckabee Sanders for Arkansas Governor"
+    excerpt: "\"Sarah Huckabee Sanders is a Christian, a conservative, and a proud Arkansan who will fight for the people of Arkansas,\" Pence said in a statement."
+    publishedDateTime: 2021-03-15T20:05:00Z
+    webUrl: "https://www.khou.com/article/news/politics/former-vice-president-mike-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor/527-2792edf1-57b5-4c6f-bb1c-b293c3bde08c"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/former-vice-president-mike-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor/527-2792edf1-57b5-4c6f-bb1c-b293c3bde08c"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/former-vice-president-mike-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor/527-2792edf1-57b5-4c6f-bb1c-b293c3bde08c"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 67
+    images:
+      - url: "https://media.khou.com/assets/KFSM/images/e48093d5-6062-4ac7-a05a-76163489efb9/e48093d5-6062-4ac7-a05a-76163489efb9_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Arkansas Gov. Sarah Sanders? Former Trump spokesman, Mike Huckabee daughter expected to run"
     excerpt: "Sanders joins an expensive Republican primary that already includes two statewide elected leaders, Lt. Gov. Tim Griffin and Attorney General Leslie Rutledge."

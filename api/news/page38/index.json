@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-01-20-the-latest-biden-nominee-says-intel-wont-be-politicized.md",
+      "title": "The Latest: Biden nominee says intel won't be politicized",
+      "excerpt": "The Latest on Senate confirmation hearings for President-elect Joe Biden’s nominees for his administration (all times local):",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1",
+      "originalUrl": "https://www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1?amp",
+      "publishedDateTime": "2021-01-19T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-mitch-mcconnell-capitol-hill-mob-was-provoked-by-trump.md",
       "title": "Mitch McConnell: Capitol Hill mob was 'provoked' by Trump",
       "excerpt": "Senate Majority Leader Mitch McConnell said on Tuesday that the mob that attacked the Capitol was \"provoked\" by President Donald Trump.\n    \n",
@@ -1280,58 +1323,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-vice-president-pence-thanks-us-troops-at-fort-drum.md",
-      "title": "Vice President Pence thanks U.S. troops at Fort Drum",
-      "excerpt": "Vice President Mike Pence and his wife made their final official appearance together with a visit to Fort Drum, where they thanked the 10th Mountain Division and their families for their service",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-17T17:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],
