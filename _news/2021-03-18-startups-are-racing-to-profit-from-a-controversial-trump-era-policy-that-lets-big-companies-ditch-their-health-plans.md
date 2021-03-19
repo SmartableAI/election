@@ -137,6 +137,20 @@ related:
         width: 1024
         height: 765
         isCached: true
+  - title: "Asia Markets Retreat As Rate Fears Trump Recovery Optimism"
+    excerpt: "Most stocks fell in Asia on Friday as the euphoria from the Federal Reserve's upbeat economic outlook was replaced by fears the recovery will fan inflation and force policymakers to wind back on their pledge to maintain record interest rates for as long as needed."
+    publishedDateTime: 2021-03-19T03:08:00Z
+    webUrl: "https://www.ibtimes.com/asia-markets-retreat-rate-fears-trump-recovery-optimism-3165226"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/18/paris-and-other-parts-of-france-are-facing.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "b3a550boUBNVostF1DoJKpOgBMZp6bDmWXnX81Gux50CokMrItM2N3qB/JegQYMoyRwjhQ0W1lFGgbHHcvny4YgBaaet8RLKfVs5exuspRF2u/9GSnVyIOHVy8MFCkKs/SKA4ntDcQt15Njr7SPJxtfQtLCU9QMShYKn73e/5I1Fsk8iw4oPguYRmVfgynuVgKrJPSrFoUGWtJQyvZKukUhzBjabI3Mg5gqIQuayYF7x8mSHUU+Kh4GI86xZcP2he3hunUJ60iqYNHWPJOzAsP8pHADL2Zqt1b/x/H6NSf2RMi+VZ6R7iTExxW49IvUhd/eCtTmEHsObcO2pLDezaCiaL2knOxbHFBncS/iCKFU=;ncDMoTdwM0l85ZXleV4LFQ=="
 ---

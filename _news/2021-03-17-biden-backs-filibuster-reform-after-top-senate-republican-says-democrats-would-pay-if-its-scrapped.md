@@ -31,19 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says he supports reforming Senate filibuster in ABC News exclusive interview"
-    excerpt: "President Joe Biden said he supports reforming the Senate filibuster in an ABC News exclusive interview Tuesday."
-    publishedDateTime: 2021-03-17T00:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156"
+  - title: "Biden meets with UN Security Council members to talk climate"
+    excerpt: "President Joe Biden has told the permanent representatives of the U.N. Security Council that the United States will join the international body’s Group of Friends on Climate and Society ..."
+    publishedDateTime: 2021-03-19T01:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
     type: article
     provider:
-      name: ABC
+      name: ABCNews
       domain: abcnews.go.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/president-joe-biden-interview-04-exclusive-abc-jc-210316_1615931643517_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_cb93cfce0f6f4c5a8e4aed32c7515b59_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to affirm support for Good Friday Agreement in meeting with Irish PM"
+    excerpt: "President Biden on Wednesday will speak via video with the prime minister of Ireland to mark St. Patrick's Day in a virtual version of what is typically an annual in-person celebration."
+    publishedDateTime: 2021-03-17T10:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with"
+    ampWebUrl: "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030521getty_memo.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden’s party-line approach in Congress has worked so far. But Sen. Joe Manchin wants bipartisanship."
+    excerpt: "Manchin has reiterated that he believes the 60-vote requirement is what makes the Senate a unique legislative body across the globe."
+    publishedDateTime: 2021-03-11T11:04:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I37U2VEB7YI6XLBXIOB7O4E2XY.jpg&w=1440"
+        width: 1440
+        height: 979
+        isCached: true
+  - title: "Biden puts St. Patrick's Day pride on display as he meets with Irish prime minister"
+    excerpt: "Biden, Irish PM hold virtual meeting on St. Patrick's Day President Joe Biden's Irish pride certainly showed during his first St. Patrick's Day as president, as he held a traditional bilateral ..."
+    publishedDateTime: 2021-03-17T20:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-puts-irish-pride-display-meets-irish-prime/story?id=76511637"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 99
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-2-ap-ps-210317_1616001648329_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

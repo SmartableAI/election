@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-j
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/15/federal-reserve-boss-jerome-powells-post-meeting-comments.jpg"
         width: 1024
         height: 765
+        isCached: true
+  - title: "Asia Markets Retreat As Rate Fears Trump Recovery Optimism"
+    excerpt: "Most stocks fell in Asia on Friday as the euphoria from the Federal Reserve's upbeat economic outlook was replaced by fears the recovery will fan inflation and force policymakers to wind back on their pledge to maintain record interest rates for as long as needed."
+    publishedDateTime: 2021-03-19T03:08:00Z
+    webUrl: "https://www.ibtimes.com/asia-markets-retreat-rate-fears-trump-recovery-optimism-3165226"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/18/paris-and-other-parts-of-france-are-facing.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "6QTlZabPqfiaYT+LqBuJExJJil6kRYu+qMoS31jYXpQM4npzndd61O5b0AX/c62sisRFuU7tUGAgKKGWFGlHlMj4WcSkGdU6Zmg9yRJSoS7UAh0mjJ8vBb5wcpi9oLZJEqI1a9DcOUwpxq7ZhCAPLRXIwYyztW3zlLFKjo8EcHc+umYW6GI34qb9vthrFayzXrrB+x5wb6+doX4M54vjDQlokmDo9lCu7zA2gvASdM+46wWL9EShrqxtQ4KaBFz43ixwX35A0EyKsBrFq3h+kRUSkvcNG5ovf59nDfQ3yqw1irY9aZEYGeDIF6gLUojjVVB8lKPS7k5CJJeNdmo1KyK0F1PgftYuijwrSs2hVdg=;bqOkbZvye8kqDKl+YQw93g=="

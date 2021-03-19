@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Gaetz: Everyone in DC knows that when Harris shakes Biden's hand 'she's checking his pulse'"
+    excerpt: "Rep. Matt Gaetz, R-Fla., mocked President Biden on \"Hannity\" Thursday after the 78-year-old commander-in-chief referred to his vice president as \"President Harris\" during remarks discussing the progress made on coronavirus vaccinations in the U.S."
+    publishedDateTime: 2021-03-19T03:21:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YfpyqdtQijQ/gaetz-kamala-harris-checking-bidens-pulse"
+    ampWebUrl: "https://www.foxnews.com/politics/gaetz-kamala-harris-checking-bidens-pulse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-kamala-harris-checking-bidens-pulse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden, Harris to hit battleground states to sell COVID package that passed without any GOP support"
     excerpt: "Twenty-two congressional Democratic leaders and Vice President Kamala Harris will join the president to celebrate the passage of the massive measure, but no Republicans will be present. That’s because no House or Senate Republicans crossed the aisle to vote in favor of the bill."
     publishedDateTime: 2021-03-12T17:28:02Z
@@ -477,6 +493,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73f5fe50-ad30-425e-a755-e6ba57fca7e7/f25ef0a7-9f70-4c99-89ac-701e3eb10927/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President Biden Calls Vice President Kamala Harris \"President Harris\""
+    excerpt: "Biden, on Thursday, said, \"Now when President Harris and I took a virtual tour of a vaccination center in Arizona not long ago, one of the nurses on that, on that tour injecting people, giving vaccinations,"
+    publishedDateTime: 2021-03-18T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 100
+    images:
+      - url: "https://assets.realclear.com/images/53/538196.jpg"
+        width: 850
+        height: 636
         isCached: true
 
 secured: "1y62kKIcLVDMrr6PYTbqf7ElTQlb6SMSu7rzqAGJUztHtW5HorJik26GjBrOh6kR3QM2UIIKHF1KqC33EBSatXSXqqnqOo+HZx5XUyMldN/Ya87mw2VWQHA2+g3NVju6h65w9ncV6xPFzOF/HuMxaTEs7AEqRzJ3gTyLByXRro2ZbaURqtEgbmjd1NwV8t9sjLa2ftU9/+pFR5h+p43g8RnrLDNOnwZEoF6LpU0aKDBD2BnFjk5wBRPNR+RAQKqGDHZIAw8BsxUTApEqvUbJ9K7MKXjTqihIug2pxJ7FxXqu8922TfwDRxe4lCe5NuyBEIaG5LQOJj6DR+vqxPU421SyQ9yw3pienJA6Iu+53RA=;XPR+47hB/DBn22OUv6q86Q=="
