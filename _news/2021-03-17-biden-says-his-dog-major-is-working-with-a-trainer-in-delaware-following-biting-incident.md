@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration off to a combative start with tough rhetoric on Russia, China"
+    excerpt: "President Joe Biden didn't waste a beat when asked this week whether he believed his Russian counterpart Vladimir Putin was a \"killer.\"\n    \n"
+    publishedDateTime: 2021-03-20T14:15:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G07ZwOfPcc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/biden-russia-china-tough-rhetoric-foreign-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/biden-russia-china-tough-rhetoric-foreign-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318203613-china-meeting-alaska-blinken-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Japan's Prime Minister will be first foreign leader to visit US under Biden, administration official says"
     excerpt: "Prime Minister Yoshihide Suga of Japan will be the first foreign leader to visit the United States since President Joe Biden took office and the global coronavirus pandemic halted much international travel, according to a senior administration official.\n    \n"
     publishedDateTime: 2021-03-12T10:14:08Z

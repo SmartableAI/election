@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration off to a combative start with tough rhetoric on Russia, China"
+    excerpt: "President Joe Biden didn't waste a beat when asked this week whether he believed his Russian counterpart Vladimir Putin was a \"killer.\"\n    \n"
+    publishedDateTime: 2021-03-20T14:15:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G07ZwOfPcc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/biden-russia-china-tough-rhetoric-foreign-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/biden-russia-china-tough-rhetoric-foreign-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318203613-china-meeting-alaska-blinken-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says his dog, Major, is working with a trainer in Delaware following biting incident"
     excerpt: "President Joe Biden said that his dog, Major, is working with a trainer at Biden's home in Delaware following a biting incident at the White House.\n    \n"
     publishedDateTime: 2021-03-17T13:36:40Z

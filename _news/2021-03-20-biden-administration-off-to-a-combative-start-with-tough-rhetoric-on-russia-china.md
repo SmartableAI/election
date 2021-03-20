@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Russia stoked Ukraine allegations, used Trump allies to undermine Biden, U.S. intel agencies say"
-excerpt: "Russia tried again last year to help former President Donald Trump win the White House, the U.S. intelligence community said Tuesday in a long-awaited postmortem — adding that a \"primary\" tactic in that effort was the spreading of corruption allegations ..."
-publishedDateTime: 2021-03-17T05:24:00Z
-originalUrl: "https://www.politico.com/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
-webUrl: "https://www.politico.com/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
-ampWebUrl: "https://www.politico.com/amp/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
+title: "Biden administration off to a combative start with tough rhetoric on Russia, China"
+excerpt: "President Joe Biden didn't waste a beat when asked this week whether he believed his Russian counterpart Vladimir Putin was a \"killer.\"\n    \n"
+publishedDateTime: 2021-03-20T14:15:48Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G07ZwOfPcc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G07ZwOfPcc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/biden-russia-china-tough-rhetoric-foreign-policy/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/biden-russia-china-tough-rhetoric-foreign-policy/index.html"
 type: article
-quality: 137
+quality: 169
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/fb/c3/d776387447ef8a78d7ede679465d/webp.net-resizeimage%20-%202021-02-09T235133.366.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318203613-china-meeting-alaska-blinken-split-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -176,22 +175,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration off to a combative start with tough rhetoric on Russia, China"
-    excerpt: "President Joe Biden didn't waste a beat when asked this week whether he believed his Russian counterpart Vladimir Putin was a \"killer.\"\n    \n"
-    publishedDateTime: 2021-03-20T14:15:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G07ZwOfPcc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/biden-russia-china-tough-rhetoric-foreign-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/biden-russia-china-tough-rhetoric-foreign-policy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318203613-china-meeting-alaska-blinken-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden says his dog, Major, is working with a trainer in Delaware following biting incident"
     excerpt: "President Joe Biden said that his dog, Major, is working with a trainer at Biden's home in Delaware following a biting incident at the White House.\n    \n"
     publishedDateTime: 2021-03-17T13:36:40Z
@@ -239,6 +222,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014113326-06-barrett-hearing-1014-durbin-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Russia stoked Ukraine allegations, used Trump allies to undermine Biden, U.S. intel agencies say"
+    excerpt: "Russia tried again last year to help former President Donald Trump win the White House, the U.S. intelligence community said Tuesday in a long-awaited postmortem — adding that a \"primary\" tactic in that effort was the spreading of corruption allegations ..."
+    publishedDateTime: 2021-03-17T05:24:00Z
+    webUrl: "https://www.politico.com/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 137
+    images:
+      - url: "https://static.politico.com/fb/c3/d776387447ef8a78d7ede679465d/webp.net-resizeimage%20-%202021-02-09T235133.366.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden at 54 percent approval halfway through first 100 days in office"
     excerpt: "Halfway through President Joe Biden's first 100 days in office, his presidential approval rating is at 53.7 percent. NBC News' Steve Kornacki discusses where Biden ranks against former President Donald Trump and other modern presidents at the same point in their presidency."
@@ -319,6 +318,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Lb4u9OHbLlb6O6fOpPztObOjT1tExhD4LT4jhpNxN5LORkeh4spT9wneZDCUfLAenMt89p8ndy4dzUqwryEvaYqzs+vozkmwrQcv6Tw/2xPPK7eYSbKF/p8CUu5jPJJGAnboc9YpoZ06FHVemcMdciWhyV+RbKx193Gt+g6tuQcIeJiptCrU4pEiK7yClFOFw2I8DL4oDpjyJ4L7AMhdVyzqDx0cI5xWocoLkNUD9b69zeCZoe5JXzcoeWU7hdcgCT1WfGpnMTeSTa7MPuzlya7jjGk8CiWAC54Vu3GlVDafAAgfutsPpwBOgziC3M1y5JanLcGW0Ma3qTxCIGDcBYEQikWAfvtUu96uJolhn2D8rd5pXRcqgGAkX2fkSKSppXqpdoWdc86+uJFfEik4DVv4A8fAwLeVm496PtsvVUqcww+uQ3ird6rCYMVamH565WSoq9zwFi5CEJgBS6N16nUerKHWFlLtxVOldcEbemx0rg9kXh0q1cUyjFCZpLnvDCKYZWmfEu6nHKLs1cW4jA==;Xy8otjfIwws3TguF80N/sQ=="
+secured: "+ZZ0+sUwEJYQQkkolKj0LkDgXLkeztL/RAKwFUphVqEExJ+oOwBCDWSIknUMFK+Lep9rgQpiMpXfMhI1TrEo8vWAyxPRQ7Yru7Yd3ewKeHv/cmqAlGN1kYV29YxnDA4tvi3T28zvYOCfdEUjD6h7dmly9gBMsOK73qsa9XVD1v+VCul+W4epCqRY9kriVqbahR9d4Gm1wCz/+NocvJFtg2B6RTPKSLBXa1xRwYSQRbBYSVvrdPbEkeIy7h+KY1OW+f39WATBAENkJzXesBUJcKQsy9kZdupJ13oGRvXVJmXfc40jInJwBqNLwnGhxZu+lc6HYSHZQ1SuajLpkVCbf8GEAR/fxqZ6PPAmI255cQw=;dK6UUnra1ncQfNszUp5JBQ=="
 ---
 

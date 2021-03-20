@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Twitter sues Texas AG, claiming retaliation for Trump ban"
-excerpt: "Twitter has filed a lawsuit against Texas Attorney General Ken Paxton, claiming the Republican used his office to retaliate against it for banning the account of former President Donald Trump following the riot at the U."
-publishedDateTime: 2021-03-09T02:13:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
-webUrl: "https://abcnews.go.com/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
+title: "Fact Check-No evidence Joe Biden made muddled quote about teaching a man how to fish"
+excerpt: "Social media users have been sharing posts online with an incoherent quote about teaching a man to fish attributed to President Joe Biden. There is no evidence Biden made this remark."
+publishedDateTime: 2021-03-19T20:11:00Z
+originalUrl: "https://www.reuters.com/article/factcheck-biden-quote-idUSL1N2LH369"
+webUrl: "https://www.reuters.com/article/factcheck-biden-quote-idUSL1N2LH369"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LH369"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LH369"
 type: article
-quality: 125
+quality: 98
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
+  - Joe Biden
 
 related:
   - title: "Trump's Twitter ban hurt him more than losing the election to Biden, his niece Mary says"
@@ -718,6 +712,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Twitter sues Texas AG, claiming retaliation for Trump ban"
+    excerpt: "Twitter has filed a lawsuit against Texas Attorney General Ken Paxton, claiming the Republican used his office to retaliate against it for banning the account of former President Donald Trump following the riot at the U."
+    publishedDateTime: 2021-03-09T02:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Border squeeze tempers Biden victory lap: The Note"
     excerpt: "Increase of unaccompanied migrant children at the border The TAKE with Rick Klein President Joe Biden is about to have something very big to sell, with the House on track to pass his $1.9 trillion ..."
@@ -1426,17 +1436,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Fact Check-No evidence Joe Biden made muddled quote about teaching a man how to fish"
-    excerpt: "Social media users have been sharing posts online with an incoherent quote about teaching a man to fish attributed to President Joe Biden. There is no evidence Biden made this remark."
-    publishedDateTime: 2021-03-19T20:11:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-biden-quote-idUSL1N2LH369"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LH369"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LH369"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
   - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
     publishedDateTime: 2021-03-10T12:13:00Z
@@ -1596,6 +1595,6 @@ related:
         height: 663
         isCached: true
 
-secured: "t6rx9D9XoXdL2dQexPYaEn60REfeAbRDxxulhUtpePnwWqapxGciczTnxBxYoTSJZuU6fYXqWeCKJl9dIfdOez0jWcRycgUZVn8fFxzAPJcy2eA5ZLQovlrtr/Vji2y6KYr6off6Hqs1A7rA46iZjw8gv7YNzoHAco73ywX9yYT8G/4gD+I4CP0KVKFx3+uySk+dEzfjhrmE5opU+BktOEbjMzAlMcg/Rjff80XPHFaMqqOAAd1Jc6/8NXHm4q1bf0c3mLnHlpE6IAN/Tn9N5dx985H3u7cx6aAVyEouzWYeg9Arejt00ldUzlKtwjlKzVhOHBXuQ4gt4yqKmM4y6vRKxhbgY4Vu2QJ7AYUdyv4=;DJMLCH3RsM43OuBcMm/i3g=="
+secured: "2ToCSf7c3XSrNWgW4vGfRdSrfEMFYZRFbirpx2PqpVAEwsMIH0gxjMnOd3PhQ1ArayCLcorYxDxPWyUec/7QYDlH/JktWVCXM+sSxLR6sgm+smnqHHgEo4bDa9Q+UexWkdogAmvMI5KKI8gEuoW2Va9QG7h1xA3yJBzBDmQ0schiaY5bt7V/C9tgdrv11opFyCAHfubrZyiCjTAYM12rVW2xkoMwOahVymMetIxHwVKwBpWFRBFyckasotPPalJZAqBZT/jVZbyMabb7z0qYirhRFnr+XYCegarc4nm48HOmbYA5/859BQ7q3GTiT+zMv0NlRPXGfZxTXF1k0czaTs2SVJLbrmTJcVfPs44KHlQ=;sxNEJMt58dnFLMWoXAjZdg=="
 ---
 

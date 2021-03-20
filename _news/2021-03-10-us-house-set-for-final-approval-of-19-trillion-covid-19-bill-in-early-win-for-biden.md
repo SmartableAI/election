@@ -1436,6 +1436,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact Check-No evidence Joe Biden made muddled quote about teaching a man how to fish"
+    excerpt: "Social media users have been sharing posts online with an incoherent quote about teaching a man to fish attributed to President Joe Biden. There is no evidence Biden made this remark."
+    publishedDateTime: 2021-03-19T20:11:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-biden-quote-idUSL1N2LH369"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LH369"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LH369"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
   - title: "Psaki refuses to give Trump credit for vaccine rollout and says it was an 'incredible effort by science and by medical experts'"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. White House press secretary Jen Psaki has repeatedly refused to give credit to former President Donald Trump for the coronavirus-vaccine development and rollout under his administration."
     publishedDateTime: 2021-03-12T19:17:00Z

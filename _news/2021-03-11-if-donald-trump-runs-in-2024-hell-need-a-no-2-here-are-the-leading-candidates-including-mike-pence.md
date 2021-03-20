@@ -1427,6 +1427,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact Check-No evidence Joe Biden made muddled quote about teaching a man how to fish"
+    excerpt: "Social media users have been sharing posts online with an incoherent quote about teaching a man to fish attributed to President Joe Biden. There is no evidence Biden made this remark."
+    publishedDateTime: 2021-03-19T20:11:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-biden-quote-idUSL1N2LH369"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LH369"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LH369"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
   - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
     publishedDateTime: 2021-03-10T12:13:00Z

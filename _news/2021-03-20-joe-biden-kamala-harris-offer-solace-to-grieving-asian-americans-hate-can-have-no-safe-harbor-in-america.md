@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
-excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
-publishedDateTime: 2021-03-20T02:11:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+excerpt: "ATLANTA — President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta on Friday, just days after a white gunman killed eight ..."
+publishedDateTime: 2021-03-20T03:11:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
 type: article
-quality: 121
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+  - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
     width: 1200
     height: 800
     isCached: true
@@ -477,8 +473,8 @@ related:
         isCached: true
   - title: "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live"
     excerpt: "CNN has a full list of the people Joe Biden and Kamala Harris are meeting with in Atlanta to discuss Asian American violence. Among the state leaders and community leaders are Atlanta Mayor Keisha Lance Bottoms; Georgia state senator Dr Michelle Au ..."
-    publishedDateTime: 2021-03-19T18:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054f4d88f0824e5cc4fa85c"
+    publishedDateTime: 2021-03-19T19:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-6054feca8f0824e5cc4fa8cf"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
     type: article
@@ -1064,6 +1060,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "j+ELVABGCBXcsigmOAOGeoGIhKhBhK7KSumqDKkDt7fy8MZj1ti3X6KvZhl6XYpYmAVBe6GFRssEGoHoLmHWV7LLTPAaAYifiYvRhxYLtaUuD4to1SGrr9k6sz+bT836cMPMOmpmTSveZDwKrr79MUhlHSMx0d5lOkl5A5jHE/TGl7wSH/aHTbuaScRuFQFGVASV69QS/og6flmRyJhmePZKwK4US5d7bV4a8qmF6q35F6WQCc+gCUg2GU2DhbO6NL+c1ZKRDPBQHL/Gdl9j7jCOYpKGpNCStAPgBkn8F1nHL/+PRm3KOKOgybqFMYjT5ruEqQ6ATf+5QEz8xKuLNfLn2wXlKGF1E72QJ2Bq1t0kFGsRmvdxqg0sErdvGXcrj+3GZQRoNckHB1vMljgyRRmCG71460jVm2sBoAEsnComfVm5Afj0gOp5lb2QhFJwuyXiXCMY3wNukJntrR10YPg+uzrt2kILIYdXpxfw30GId5LVaWl6glvZrmrfrZHGU19NIbFqoLyD/15f2MSotQ==;Yt2C0WZZycoUqsPieIO9Dw=="
+secured: "A5UmJJeMg3UJyud+8enEtNNdnUXl0ShkgOzZnmG/fMucWEk7963/yWN8Yyvckxrr12gSlBpeYTXptwnEsxhtelrf4K3Nt58/WYaF5TVlBULWk9al16CS5jcz1P0/1Ad417ucMTITInW236mGzDTYkK9m0wmM/T0Krz5tq+twytDydsKm/1D04/rZUwRRbTVUJl7Zs0wFjTxrRXE9VeGwqAAy082+QY/cN9SSNBfMcSa5FgJgT5QuvzGzkwMWJ52Ed0VvIup0xuZfDP+lAro0eGkZ543PPerlItelDSpGZjA8zvSa29Zol+sJfHAanipHhfxiWj30oeELCTDIH9n2EqQ3/8RkxY75tQMMTXesfuc=;Tu15YplJcoQaXlo6ZsB4zQ=="
 ---
 
