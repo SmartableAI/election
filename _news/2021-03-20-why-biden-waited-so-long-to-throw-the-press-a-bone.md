@@ -538,6 +538,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden gets his chance on Afghanistan"
+    excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN wanted out of Afghanistan. In"
+    publishedDateTime: 2021-03-19T23:03:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/03/19/biden-gets-his-chance-on-afghanistan-492182"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
     excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
     publishedDateTime: 2021-03-18T20:50:00Z
@@ -555,6 +569,6 @@ related:
         height: 619
         isCached: true
 
-secured: "5UvpuGDr4hAl5k6odUuk3L9+BJeoi5vNCoS5kIHmIpZCvGv4PjNJl/fkBbWFp+fyYAVL579PJZuHlLRdqg/5EfXWa8TpslhhhTluBgJ+UNb9b9yBGbpyI9Rsil6sXn1PXhT6mcNpDjNax7JosuVKiVoTAD4JifNF6j/yiieGfFzAQB6LqA0S91GmKckQdhOT5qv4rp/+ntp1TBsB8y774z4lzlI+xZhhOslt/y0GnhTheXUpXulEa5KOFloQpTb8g6nQ1jnzeYN+hLDAsB0luk4pYXVADSp5FOqKtalFUbBQicAQYQrfHfTwMAIpziXPvbrGb0Drkg6SroeZmuKG8EQOuziSpwvOyslrRNnadws=;q1VvA+fPOorELX6E7Agatw=="
+secured: "49VWLoS5Fga5J17usUp3jeXRf8968pREY7QNESBou/IUGJPJBiJLaE+3Dutxu0RKbf88C3IlqIN7UwFaWi6x+yT0lS+Z924YrVmm0mk9KYPK+fMY4uT7ie9Yd4XXtpe7NoEtedc4LRYjEikXdhS3u81WfkMsqavfzp6sey/dWF3dKUHwgenM15tDdC9zGkP4JG+o61fVxbtnsLI1laMqAgF+9EHI6b71IPWL+v44U8X4E4WajIqIwyj7eA12j4QEGtKAJVN7sGiKdgTkJzBGNBcVSCSQRgRBNUafgeHXX9py9vWQJUHaGWknVNYPi9KKbvTnlO30RU0PuydkF/6ACSIazEyNRAZeZozsNhYX8qbEJk6An7XZCHp+WFA7ko9ZHt0LWvX2Hn3wyBtYG/IHyc1ZySWKI0nf82/Z/A0sc+af1ODIdZQ/t9aHrN2qEOS/JNrT5x/58CimVLpZzyiLkJJY0Ev0CDdh4sxGR4md5HsmiS1G6IV+KZR375gEaWD2K6xN+ZXRenSteHEGBWJQcQ==;T9bKYQIkkM7VhTTIxyVllg=="
 ---
 

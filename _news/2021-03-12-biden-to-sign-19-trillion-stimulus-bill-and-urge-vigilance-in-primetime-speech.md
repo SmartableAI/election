@@ -47,22 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Who deserves credit? Biden leans into pandemic politics"
-    excerpt: "It was the same when Biden kicked off a national tour in Pennsylvania on Tuesday to promote the $1.9 trillion “American Rescue Plan.” Now, as his administration is on the cusp of delivering on his promise of administering 100 million doses of vaccine in his first 100 days,"
-    publishedDateTime: 2021-03-18T04:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/who-deserves-credit-biden-leans-into-pandemic-politics/2021/03/18/b23618b2-87a0-11eb-be4a-24b89f616f2c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/who-deserves-credit-biden-leans-into-pandemic-politics/2021/03/18/b23618b2-87a0-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/who-deserves-credit-biden-leans-into-pandemic-politics/2021/03/18/b23618b2-87a0-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden signs $1.9 trillion stimulus bill into law on U.S. lockdown anniversary"
     excerpt: "President Joe Biden signed his $1.9 trillion stimulus bill into law on Thursday, commemorating the one-year anniversary of a U.S. lockdown over the coronavirus pandemic with a measure designed to bring relief to Americans and boost the economy."
     publishedDateTime: 2021-03-12T00:30:00Z

@@ -2,26 +2,30 @@
 category: news
 title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
 excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
-publishedDateTime: 2021-03-20T02:27:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+publishedDateTime: 2021-03-20T02:11:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
 type: article
-quality: 71
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+  - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
     width: 1200
     height: 800
     isCached: true
@@ -1046,6 +1050,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Z0/S9hMLHk0go0OGrOXgWUPthytCrc2WDLD+Aq3aduHD4sxXU0M479Q3S/rnvQ2Ltq7jh0ITkM87f6ku1ESD4VPpV1/Hcf6NP0XFfUB2qSEbDpW4ZDv7AOro7c0cr2rhC9fKotLew9lSErcBltZma5was4/wECtu0jt3LttYq+ZkzP+Bt8nbL/OLjZEfhn4uiz7Qs7HXhcBZeky+Ozn6Bhb7M7hHJlKGHVL0YJX0a0et06qHET5Aqkp9tKCBXxOf/WEwnspciIn+yp0jg/akYCJoyD6gUlruw4Imb4hwo2mxC1/BwSgcRIcV8DjrA4KN5vJ2lNwad1SI1Wi4jmTNII/zJlirog1koF42gQw7bD6BQu4qgJTjIL7u9DG29MIJnEaRbCL47SMwsxFzRonmMkEFSGWPEa2B13WZf2XqVLv72O1tMQxfDLp9VYs5lIEZ6gZiRMRvqEQGCexy+63WERet8ufDN6s0IRJrdHj7l0JtdSLHwulh0ShZfO5o5R9zudYEDzK1GtjyRO2o9wkZgA==;s8kmYgUmSDG59RNXsNnsng=="
+secured: "3RFbMmE7jZZMZwHuiwfS+yVw+ZaAClmkZsso1S1pxKy2fQP0SK1b2bAcLYBKUseSE3aFDk4683AsKCQlBiAyJs99f4R17jxI1bAC4TanHENx1zQLZiUe0Qk92jIyL7Xxc6s40sgnJMc7IEqQlRKuYnb2gE9xa39kKqE7Y793JewFjzZvJ1tXSN2DpZK6YaOjJlOuLra9zdsnKLfcH/biKAy9zK3y/oOx/DND9SZeto2gRVAdob8IpWXUNomWnkxwZSFMqZJ63vxl1T94zUiRN+jAiG1HOnOwlIbmkxwhL3fqG0Pnpb1rpaDakdK9Xm58yy5tdsBobD8ukr2Pbj3VmkyTm2+JzhgjVx9eponpWOg=;bRTUdFbTCsy6GAoY63gL3w=="
 ---
 

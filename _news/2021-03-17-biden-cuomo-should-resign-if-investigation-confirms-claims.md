@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 245
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Senate confirms Biden's pick to lead Small Business Administration"
-    excerpt: "The Senate on Tuesday confirmed Isabel Guzman to lead the Small Business Administration (SBA), approving another member of President Biden's economic team."
-    publishedDateTime: 2021-03-16T22:07:00Z
-    webUrl: "https://thehill.com/policy/finance/543498-senate-confirms-bidens-pick-to-lead-sba"
-    ampWebUrl: "https://thehill.com/policy/finance/543498-senate-confirms-bidens-pick-to-lead-sba?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/543498-senate-confirms-bidens-pick-to-lead-sba?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/casillasguzmanisabella_020321getty_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden inauguration priest under investigation in California"
     excerpt: "The Jesuit priest who presided over an inaugural Mass for President Joe Biden is under investigation for unspecified allegations and is on leave from his position as president of Santa Clara ..."
     publishedDateTime: 2021-03-19T05:16:00Z
@@ -110,38 +94,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/19/25ba52c7-ab79-4224-8ba2-55fbc9dd7bb1/thumbnail/1200x630/c5af5b26f8d2927d90ec23f9fdf81972/priest.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "President Biden says Gov. Andrew Cuomo should resign if allegations of harassment are true"
-    excerpt: "WASHINGTON — President Joe Biden said Tuesday that New York Gov. Andrew Cuomo should resign if an investigation into allegations he sexually harassed multiple women finds the claims are true. \"Yes,\" Biden said when asked in an interview with ABC's ..."
-    publishedDateTime: 2021-03-17T02:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/16/joe-biden-andrew-cuomo-sexual-harassment-allegations/4727248001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4727248001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4727248001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/3906fbcabf1ce3703967b341d5182f9676840ead/c=0-12-3665-2083/local/-/media/2016/06/15/USATODAY/USATODAY/636015771773498194-AP-Biden-Cuomo-LaGuardia-Airport.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Pelosi, Biden step up critique of Cuomo, but stop short of calling for immediate resignation"
-    excerpt: "Add House Speaker Nancy Pelosi to those who think Gov. Andrew Cuomo should resign if allegations of sexual harassment are proven true."
-    publishedDateTime: 2021-03-17T14:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/17/pelosi-biden-cuomo-resignation-new-york/4731712001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4731712001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4731712001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/02/25/PROC/4604847e-c439-49f3-b43a-9b9f657e6171-AP19056619832676.jpg?auto=webp&crop=5183,2902,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 672
         isCached: true
   - title: "President Joe Biden finds allegations about Gov. Andrew Cuomo 'hard to read,' White House says"
     excerpt: "Growing reports of misbehavior by New York Gov. Andrew Cuomo concern President Joe Biden. He is making sure vaccine distribution is not affected."

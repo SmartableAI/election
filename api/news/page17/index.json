@@ -2,58 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-02-23-trump-to-tell-cpac-he-is-republican-presumptive-2024-nominee-report.md",
-      "title": "Trump to tell CPAC he is Republican 'presumptive 2024 nominee' – report",
-      "excerpt": "Unnamed source tells news site Axios Trump’s speech to the rightwing event will have the message ‘I’m still in charge’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3a7275f576d965598d662bf1eb376ff03480bacd/0_364_5456_3273/master/5456.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0d6b3d50884a968f7fdefd6c0f54fdb0",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
-      "publishedDateTime": "2021-02-22T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-22-garland-says-doj-would-advance-bidens-pro-gun-control-policies.md",
       "title": "Garland says DOJ would ‘advance’ Biden’s pro-gun control policies",
       "excerpt": "Merrick Garland, President Biden’s nominee for attorney general, signaled Monday that the Justice Department under his leadership would “advance” the policies of the Biden administration on gun control.",
@@ -547,7 +495,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1787,
+      "heat": 1747,
       "tags": null,
       "images": [
         {
@@ -1335,6 +1283,58 @@
       "topics": [
         "Election",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-us-admits-first-group-of-asylum-seekers-as-biden-rolls-back-remain-in-mexico-policy.md",
+      "title": "U.S. admits first group of asylum-seekers as Biden rolls back Remain-in-Mexico policy",
+      "excerpt": "As part of its efforts to wind down a Trump-era policy that kept tens of thousands of asylum-seekers outside U.S. territory, the Biden administration on Friday admitted the first group of migrants who had been previously required to wait in Mexico for their immigration court hearings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/",
+      "originalUrl": "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/20/f3b8e40d-79c5-4918-a1bc-d715b17f6a23/thumbnail/1200x630/a99162a5d1bf159722d6b96ac72a25c9/gettyimages-1231266086.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/",
+      "publishedDateTime": "2021-02-20T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

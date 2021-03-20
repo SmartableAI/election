@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-20-video-of-mike-pence-tripping-on-stairs-resurfaces-after-joe-bidens-stumble.md",
+      "title": "Video of Mike Pence Tripping on Stairs Resurfaces After Joe Biden's Stumble",
+      "excerpt": "President Joe Biden stumbled as he boarded Air Force One, in an echo of a similar incident experience by the former Vice President.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566",
+      "originalUrl": "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1238,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1760141/us-vice-president-mike-pence.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1",
+      "publishedDateTime": "2021-03-20T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-biden-harris-travel-to-atlanta-to-comfort-asian-americans.md",
       "title": "Biden, Harris travel to Atlanta to comfort Asian Americans",
       "excerpt": "President Joe Biden and Vice President Kamala Harris are offering solace to Asian Americans and a reeling nation as they visit Atlanta just days after a white gunman killed eight people, most of them",
@@ -658,6 +710,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-19-biden-to-meet-putin-when-the-time-is-right-white-house.md",
+      "title": "Biden to meet Putin 'when the time is right': White House",
+      "excerpt": "U.S. President Joe Biden, who said earlier this week he thought Vladimir Putin was a killer, will meet with the Russian leader \"when the time is right,\" the White House said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-russia-usa-biden-idUSKBN2BB20O",
+      "originalUrl": "https://www.reuters.com/article/us-russia-usa-biden-idUSKBN2BB20O",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555509691&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I143",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BB20O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB20O",
+      "publishedDateTime": "2021-03-19T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-mary-trump-scoffs-at-idea-ex-presidents-children-will-run-for-office-they-have-no-skills.md",
       "title": "Mary Trump Scoffs at Idea Ex-President's Children Will Run for Office: 'They Have No Skills'",
       "excerpt": "Mary Trump, the niece of Donald Trump and a ferocious critic of her family, scoffed at the idea that the former president's children could become elected officials and said that \"they have no skills.\" Asked if they should run for office,",
@@ -1096,58 +1200,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-19-biden-meets-with-un-security-council-members-to-talk-climate.md",
-      "title": "Biden meets with UN Security Council members to talk climate",
-      "excerpt": "President Joe Biden has told the permanent representatives of the U.N. Security Council that the United States will join the international body’s Group of Friends on Climate and Society ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_cb93cfce0f6f4c5a8e4aed32c7515b59_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "publishedDateTime": "2021-03-18T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-03-19-biden-and-harris-to-visit-georgia-a-battleground-that-paved-way-for-agenda.md",
       "title": "Biden and Harris to visit Georgia, a battleground that paved way for agenda ",
       "excerpt": "Democratic voters in Georgia may have helped deliver Joe Biden's long quest to win the White House, but they take even prouder ownership of their critical role in cementing an early chapter of his legacy through the passage of the American Rescue Plan.\n    \n",
@@ -1290,62 +1342,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-border-crisis-climate-change-psaki.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-border-crisis-climate-change-psaki.amp",
       "publishedDateTime": "2021-03-18T16:14:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-giroir-accuses-biden-of-playing-fast-and-loose-with-covid-science-taking-credit-for-operation-warp-speed.md",
-      "title": "Giroir accuses Biden of playing 'fast and loose' with COVID science, taking credit for Operation Warp Speed",
-      "excerpt": "President Biden is somehow able to \"stand up and completely rewrite history and go fast and loose with the science and the data,\" former HHS Assistant Secretary Brett Giroir told \"The Story\" Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AoH1GK5IMbU/giroir-biden-fast-and-loose-covid-science-operation-warp-speed",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AoH1GK5IMbU/giroir-biden-fast-and-loose-covid-science-operation-warp-speed",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/giroir-biden-fast-and-loose-covid-science-operation-warp-speed.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giroir-biden-fast-and-loose-covid-science-operation-warp-speed.amp",
-      "publishedDateTime": "2021-03-18T15:29:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
 type: article
 quality: 175
-heat: 835
+heat: 855
 published: true
 
 provider:
@@ -522,6 +522,20 @@ related:
       - url: "https://media4.s-nbcnews.com/j/newscms/2021_11/3457067/210316-kim_yo_jong-mc-919_cd0a860ea683857ab88d1ba24b79b780.nbcnews-fp-1200-630.JPG"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden gets his chance on Afghanistan"
+    excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN wanted out of Afghanistan. In"
+    publishedDateTime: 2021-03-19T23:03:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/03/19/biden-gets-his-chance-on-afghanistan-492182"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Why Biden Waited So Long to Throw the Press a Bone"
     excerpt: "According to a fresh POLITICO/Morning Consult poll, 62 percent of registered voters give Joe their approval. Biden must be asking himself: Why break a sweat running when coasting is what got you to where you always wanted to go? With the possible exception ..."

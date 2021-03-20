@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1787
+heat: 1747
 published: true
 
 provider:
@@ -864,22 +864,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Republican states in legal threat to Biden's $1.9 Covid relief plan – live updates"
-    excerpt: "21 states threaten action over provision which they say would prevent them from cutting taxes"
-    publishedDateTime: 2021-03-17T09:49:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
-    images:
-      - url: "https://i.guim.co.uk/img/media/83dc8517209df43523da0699fd49f4c8d136129d/11_0_3162_1899/master/3162.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=69d112a721bfbc4436ddb5664a68d070"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden will ask DOJ to review his authority to cancel student loan debt - White House"
     excerpt: "President Joe Biden will ask the Department of Justice to review his legal authority to cancel student loan debt, the White House said on Wednesday, adding the president does not favor $50,000 in student loan relief without limitation."
     publishedDateTime: 2021-02-18T00:20:00Z
@@ -925,22 +909,6 @@ related:
     quality: 118
     images:
       - url: "https://i.guim.co.uk/img/media/16e3d9a719baa82b897c996e0f6d3b080041fb01/0_0_6892_4137/master/6892.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=175c55370a031adacac3537b996b46b6"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Republican states in legal threat to Biden's $1.9tn Covid relief plan – live updates"
-    excerpt: "Read more here: NBC News – Biden administration limits what Border Patrol can share with media about migrant surge at border Passing the $1.9tn Covid relief bill through Congress has been an early legislative triumph for Joe Biden’s presidency ..."
-    publishedDateTime: 2021-03-17T10:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-6051b64c8f08b617ed4286a0"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 118
-    images:
-      - url: "https://i.guim.co.uk/img/media/83dc8517209df43523da0699fd49f4c8d136129d/11_0_3162_1899/master/3162.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=69d112a721bfbc4436ddb5664a68d070"
         width: 600
         height: 360
         isCached: true

@@ -2,49 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2021-03-02-elizabeth-warrens-wealth-tax-plan-is-back-but-is-joe-biden-on-board.md",
-      "title": "Elizabeth Warren's wealth tax plan is back. But is Joe Biden on board?",
-      "excerpt": "\"He has a lot of respect for Senator Warren and is aligned on the goal of ensuring the ultra-wealthy and big corporations finally pay their fair share.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden",
-      "originalUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boston.com/wp-content/uploads/2021/03/USUQ37BEHVNAMO2EOJ7Z5COMHM-603d71faeee5a-850x478.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden/amp",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden/amp",
-      "publishedDateTime": "2021-03-01T19:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-03-01-the-point-beware-false-trump-idols.md",
       "title": "The Point: Beware false (Trump) idols!",
       "excerpt": "On Sunday morning, Republican Sen. Bill Cassidy of Louisiana told CNN's Dana Bash something very important about the future of his party.\n    \n",
@@ -1338,6 +1295,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-28-pompeo-says-biden-administration-sending-mixed-signals-on-chinas-human-rights-abuses.md",
+      "title": "Pompeo says Biden administration sending ‘mixed signals’ on China's human rights abuses",
+      "excerpt": "Former Secretary of State Mike Pompeo said on Saturday that the Biden administration has sent \"mixed signals\" on the Chinese persecution of religious minorities in Xinjiang -- and called for the administration to impose \"real costs\" on Beijing.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa_WjtosXlc/pompeo-biden-mixed-signals-chinas-human-rights-abuses",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa_WjtosXlc/pompeo-biden-mixed-signals-chinas-human-rights-abuses",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4390b48-7d19-4e62-b1c3-bf5adacaa001/436db621-11ed-418d-9084-282486783be2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-mixed-signals-chinas-human-rights-abuses.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-mixed-signals-chinas-human-rights-abuses.amp",
+      "publishedDateTime": "2021-02-27T19:09:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

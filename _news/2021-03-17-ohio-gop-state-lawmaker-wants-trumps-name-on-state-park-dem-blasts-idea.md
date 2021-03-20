@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp"
 type: article
 quality: 174
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "As Trump teases a 2024 presidential run, potential GOP rivals start making early visits"
+    excerpt: "As former President Donald Trump teases a possible 2024 White House run, other potential GOP presidential rivals start planning visits to the early voting states."
+    publishedDateTime: 2021-03-20T10:37:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QTYAkVOL2TY/trump-teases-2024-presidential-run-potential-gop-rivals"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Mt3Ohje85auuChcs3jixgpJDMMv3psuzdbnsEHWuPbhyJst3p0NWt7BTBybICsYnfebMps9CZ4SnXe6CYVInypRApBuQMnVj5xgNDvzdaqSJTsLGCDmPGa0U1ZDkec7s3LcjajldKSJm2LGaAcklnq6biwdOhqVu6Pa2P4QHDp8pTrIIacXrPjCh7tyLrnPMzaLXfDkAgWYYl8iKIPS0SqsyoBDUhdkn+Nl/TAlZBFWx7ef/Y91RYqr5GaC5a8mwf2je4hzC5ISJ+MfrouI12VwlJj6Jo2mV6IkIYAYW204gKJcbDjmcj32Z82yPluAORMJtEU0uaaQ66Qp74yTBvVAArdizhsrbfQgFvH3J9dk=;fiuMQ3pWRPHrkx1Mz3IJxQ=="
 ---

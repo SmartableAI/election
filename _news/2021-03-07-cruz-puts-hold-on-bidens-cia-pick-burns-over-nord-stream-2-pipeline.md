@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AY0FI"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AY0FI"
 type: article
 quality: 125
-heat: 225
+heat: 185
 published: true
 
 provider:
@@ -78,38 +78,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241FA"
         width: 777
         height: 545
-        isCached: true
-  - title: "Biden's make or break moment: president aims to build on success of relief bill"
-    excerpt: "Kamala Harris, the vice-president, heaped praise on Joe Biden for signing a $1.9tn coronavirus relief bill, the biggest expansion of the American welfare state in decades. “Your empathy has become a trademark of your presidency and can be found on each ..."
-    publishedDateTime: 2021-03-13T12:43:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/13/american-rescue-plan-joe-biden-democrats"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/13/american-rescue-plan-joe-biden-democrats"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/13/american-rescue-plan-joe-biden-democrats"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/733857c3e254a63ab3e5c6642ba317260c133b5e/0_243_5000_3001/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=162a29c6d35f145d2068f617c66e5435"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
-    excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."
-    publishedDateTime: 2021-03-14T02:53:00Z
-    webUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/604d771610c8760018b931ac?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "W65fTRDnIvh7zgVe+4maTEeLd/7sQ2+TXVXfafOFAUharcL8/B/dY5tByLK9GEfwjdQUBwK0zpnbkm/vOUoXTkQy8n7xHJmgvc5eDuAzttB1MgQb7kodtdS95yI21LsGLBhvB0AzKHVDd2fxKdlSwSnfYpWfSCX1VxhyE8VBoEYD5EL6/n2V+Pm5IEyVnpM5y6PzC9VyTIszkHHIhFn/GYhyxDJISbESAWnUx/4yQ3p/Kw517ceExMTXPa+ll2eLz7/WcHN3BT/8PbZUcD9VcEkRPM9uf+KGsoxRCsT7IIowDeSMQWsmMK5MQaHRzK5y23s1Dc2p8obFzwsgFobWXf42D2atTm+5dzBAHL6acVs=;1nGEliWV0lcjl5dzCSmaeA=="

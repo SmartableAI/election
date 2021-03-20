@@ -2,58 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-03-08-fact-check-mike-pence-claims-bill-would-force-universal-mail-in-voting.md",
-      "title": "Fact check: Mike Pence claims bill would force universal mail-in voting",
-      "excerpt": "The voting bill known as HR 1 “would force states to adopt universal mail-in ballots.” — Mike Pence, former vice president. Pence, the Republican who was Donald Trump’s vice president, raised multiple objections to the bill in a column that appeared in the Daily Signal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/16/77/21/20706426/5/rawImage.jpg",
-          "width": 2048,
-          "height": 1375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
-      "publishedDateTime": "2021-03-08T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-03-08-biden-to-sign-executive-orders-establishing-gender-policy-council-and-addressing-sexual-violence-in-education.md",
       "title": "Biden to sign executive orders establishing Gender Policy Council and addressing sexual violence in education",
       "excerpt": "President Joe Biden is set to sign two executive orders on Monday which will establish the White House Gender Policy Council and address sexual violence in the education field.\n    \n",
@@ -593,7 +541,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-nord-stream-2-cruz-idINKBN2AY0FI",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1358,6 +1306,63 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-newsom-recall-timing-is-everything-caleg-passes-schools-bill-high-school-sports-can-resume-youtube-eyes-trump-return.md",
+      "title": "NEWSOM RECALL: Timing is everything — CALEG passes SCHOOLS bill — HIGH SCHOOL SPORTS can resume — YOUTUBE eyes TRUMP return",
+      "excerpt": "Nearly a year after California schools closed their doors to in-person instruction, lawmakers moved on Thursday to get kids back to class by March. However lawmakers chose to vote on the school reopening bill,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/california-playbook/2021/03/05/newsom-recall-timing-is-everything-caleg-passes-schools-bill-high-school-sports-can-resume-youtube-eyes-trump-return-492002",
+      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2021/03/05/newsom-recall-timing-is-everything-caleg-passes-schools-bill-high-school-sports-can-resume-youtube-eyes-trump-return-492002",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],
