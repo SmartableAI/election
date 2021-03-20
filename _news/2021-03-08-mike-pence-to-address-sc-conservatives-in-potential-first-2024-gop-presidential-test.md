@@ -61,19 +61,19 @@ related:
         isCached: true
   - title: "Pence to give speech in SC, his 1st since leaving office"
     excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office"
-    publishedDateTime: 2021-03-08T10:03:00Z
-    webUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html?outputType=amp"
+    publishedDateTime: 2021-03-08T10:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fb0471f6a80f4b2fad1e5fe5012788d9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Pence all-in on 'election integrity' push"
     excerpt: "Former Vice President Mike Pence on Wednesday said he shares the concerns of voters over the “significant voting irregularities and numerous instances of officials setting aside state election law” in the 2020 presidential election."

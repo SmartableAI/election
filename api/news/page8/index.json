@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-10-this-cant-be-the-end-of-the-matter-advocates-lawmakers-press-biden-to-punish-saudi-crown-prince.md",
+      "title": "'This can't be the end of the matter': Advocates, lawmakers press Biden to punish Saudi crown prince",
+      "excerpt": "WASHINGTON – Several prominent human rights advocates blasted President Joe Biden on Tuesday for failing to directly penalize Saudi Arabia's crown prince for his role in the murder of Washington Post columnist Jamal Khashoggi. It comes as Democrats in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/09/biden-pressed-punish-mohammad-bin-salman-jamal-khashoggi-death/6926968002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/09/biden-pressed-punish-mohammad-bin-salman-jamal-khashoggi-death/6926968002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/28/USAT/2b4b8963-ba75-4b58-8f3c-9b54cb63507b-AFP_8XQ2CT.jpg?auto=webp&crop=2351,1322,x1,y168&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6926968002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6926968002",
+      "publishedDateTime": "2021-03-09T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-former-vp-pence-narrates-the-age-of-rush-a-look-at-the-man-behind-the-golden-microphone.md",
       "title": "Former VP Pence narrates 'The Age of Rush', a look at the man behind the golden microphone",
       "excerpt": "How did Rush Limbaugh, a shy college dropout, become the most powerful radio talk show host of all time? A new FOX Nation special, \"The Age of Rush\" examines the late conservative icon's life and legacy.",
@@ -1323,63 +1375,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball.md",
-      "title": "MAKING THE MOST OF $13.5B — LAUF's PRO-TRUMP HIRE FOR IL-16 — STILL NO FANS FOR BASEBALL",
-      "excerpt": "The state Senate is returning to Springfield for session on Tuesday. — Biden rides a ‘Keep It Simple, Stupid’ strategy to early success: “Biden kept Democrats from splintering and barreled ahead without Republican support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/03/08/making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball-492030",
-      "originalUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/03/08/making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball-492030",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

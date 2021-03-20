@@ -2,21 +2,21 @@
 category: news
 title: "Pence to give speech in SC, his 1st since leaving office"
 excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office"
-publishedDateTime: 2021-03-08T10:03:00Z
-originalUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html"
-webUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html?outputType=amp"
+publishedDateTime: 2021-03-08T10:24:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
+webUrl: "https://abcnews.go.com/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_fb0471f6a80f4b2fad1e5fe5012788d9_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -121,6 +121,6 @@ related:
       domain: charlotteobserver.com
     quality: 52
 
-secured: "+v7K3VDPZgRx7uiVQxrAlEeVwucrDbidhXPozlZYDA9D+FfkWBYmnYUxxm8L8vm2jzmw/V/3Y1ETbnHHK180d/k5gJs8tmj7D9v0OJLpHWIiAiXn7g+TMLcA7bE/EVuNU5TrFDYiR0p5dTonwYO44FU3pQw9qE+JyE7wUEPS3Zqf3OJFEhBfXrwO/Irrerg6Nu+x0rd554hmih2NV7+B3qNvABH+59zspy/Zq0E55H22QZJOXiUa7r3yrG6wMvSCcmbh3Ci7QVI3fd26WGh1UzeFF9GGpcGYDtlmxF8NKUiNNBJ2QDjJttFbBHNxAsQWcUVISJjqLRU2Gka/L0XKIIiYurMIxtxri5SP1euQyss=;04/juK57wex0nfnZLqQfLA=="
+secured: "NwH5aQCY0s/ahzoFe5bqjbBCO2/PdEIbRT7CoKpMFuyw7v0otTfQVhjuSqGyr56t/Xu38ScGMNZtBQbR3RvH3/jgoBlmueu8Xwn46cZUa7p3PrksPF4qAORZ7uqR66vHrnBtZObvYYYtkbTlUwyvsrrha7H9glfoLMqkvMehn8SeaLppRzGXuoOLU56BImLJaiWyE4WrLMSgEpbzX8ANZB0aVUF5wKYnTBRXNSgwNr2dPa9+t/cCiTtY+d41pXNK8S2K64pLGuyJBdB2RoQZkD5hWROsrtcz7+I5hiC1pVxxxXMhwZG442X2kDQH0/sfRJCRhs3ms2XTxnA1ggtysP0ae3DHcdLo9ndHaoaum24=;+243kYUSf5pTS5S5p/dY+g=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-17-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable.md",
+      "title": "Birx: Trump's disinfectant injection moment was 'extraordinarily uncomfortable'",
+      "excerpt": "Deborah Birx, the former White House coronavirus response coordinator, said on Monday that former President Trump’s suggestion to treat COVID-19 by injecting disinfectant and using ultraviolet rays wa",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable",
+      "originalUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_birxdeborah_03242020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable?amp",
+      "publishedDateTime": "2021-03-16T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-fired-by-trump-white-house-brother-of-impeachment-witness-vindman-now-says-army-set-to-promote-him.md",
       "title": "Fired by Trump White House, brother of impeachment witness Vindman now says Army set to promote him",
       "excerpt": "The brothers were both Army officers serving on the National Security Council when they raised concerns about former President Donald Trump's phone call to Ukranian President Volodymyr Zelensky in July 2019. They told an NSC lawyer that Trump's phone call ...",
@@ -1524,58 +1576,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-bible-teacher-beth-moore-trump-critic-and-advocate-for-sexual-abuse-victims-splits-with-southern-baptist-convention.md",
-      "title": "Bible teacher Beth Moore, Trump critic and advocate for sexual abuse victims, splits with Southern Baptist Convention",
-      "excerpt": "For nearly three decades, Beth Moore has been the very model of a modern Southern Baptist. She loves Jesus and the Bible and has dedicated her life to teaching others why they need both of them in their lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/",
-      "originalUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2WM7QCX2FBSRING2TDYMIJI7M.JPG&w=1440",
-          "width": 1260,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/?outputType=amp",
-      "publishedDateTime": "2021-03-09T12:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

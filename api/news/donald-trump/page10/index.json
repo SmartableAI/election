@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-20-report-ex-detroit-mayor-kwame-kilpatrick-on-donald-trumps-pardon-list.md",
+      "title": "Report: Ex-Detroit Mayor Kwame Kilpatrick on Donald Trump's pardon list",
+      "excerpt": "Kwame Kilpatrick may get out of prison 20 years early thanks to Donald Trump, who included the ex-mayor on his pardon list, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2021/01/20/kwame-kilpatrick-pardoned-donald-trump-detroit-mayor/4217253001/",
+      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2021/01/20/kwame-kilpatrick-pardoned-donald-trump-detroit-mayor/4217253001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/27/PDTF/0308a838-1ad7-4aea-8dfb-a98c9475b901-mayor_032408_kg.jpg?auto=webp&crop=3103,1746,x0,y159&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/4217253001",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4217253001",
+      "publishedDateTime": "2021-01-19T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-annika-sorenstam-defends-accepting-award-from-donald-trump.md",
       "title": "Annika Sörenstam defends accepting award from Donald Trump",
       "excerpt": "Annika Sörenstam, who received the presidential medal of freedom from Donald Trump the day after US Capitol riot, has defended her decision",
@@ -1503,58 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment.md",
-      "title": "U.S. judge says Bolton may probe whether White House delayed security aide’s memoir to protect Trump from embarrassment",
-      "excerpt": "Justice Dept. seeks profits from “The Room Where it Happened”; court rules Bolton may not challenge whether manuscript contained classified information",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXVECLRQZQI6VICT3RWZIS5HOY.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-14T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

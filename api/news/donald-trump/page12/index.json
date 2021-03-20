@@ -2,6 +2,63 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-10-immediate-removal-of-president-trump-full-hakeem-jeffries-interview.md",
+      "title": "'Immediate removal' of President Trump: Full Hakeem Jeffries Interview",
+      "excerpt": "In an exclusive interview with Meet the Press, Rep. Hakeem Jeffries (D-N.Y.), Chair, House Democratic Caucus, talks to Chuck Todd about the Democrats' impeachment plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-immediate-removal-of-president-trump-full-hakeem-jeffries-interview-99225157671",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-immediate-removal-of-president-trump-full-hakeem-jeffries-interview-99225157671",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/1610288735582_mtp_full_hakeem_210110_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99225157671",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99225157671",
+      "publishedDateTime": "2021-01-10T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-trump-pressured-georgia-elections-official-to-find-evidence-of-voter-fraud-in-call.md",
       "title": "Trump pressured Georgia elections official to find evidence of voter fraud in call",
       "excerpt": "Georgia told an elections investigator that they would be a \"national hero\" if they found evidence of elections fraud.",
