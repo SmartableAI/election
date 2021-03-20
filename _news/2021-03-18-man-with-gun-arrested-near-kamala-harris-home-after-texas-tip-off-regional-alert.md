@@ -111,6 +111,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden and Kamala Harris condemn attacks on Asian Americans – video"
+    excerpt: "The US president and vice-president offered solace to Asian Americans as they visited Atlanta just days after a white gunman killed eight people, most of them Asian American women"
+    publishedDateTime: 2021-03-20T10:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/20/joe-biden-kamala-harris-condemn-attacks-asian-americans-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
+    images:
+      - url: "https://i.guim.co.uk/img/media/515e4fba6738ee8e6b7a1cda370b5419a760ab9e/0_104_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b95b22609ef473345586ff001b2a950"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nearly 70% of Female Biden Voters Say Harris Being on the Ticket Was Factor in Decision: Poll"
     excerpt: "President Joe Biden's choice of Kamala Harris as his running mate in the 2020 election resonated with women across the U.S. According to a report released Tuesday by Gender on the Ballot, a nonpartisan project to examine gender dynamics in politics ..."
     publishedDateTime: 2021-03-16T17:51:00Z
@@ -271,6 +285,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden Urges Americans to Take Vaccines as Skepticism Undermines Rollout"
+    excerpt: "President Joe Biden pleaded with Americans to get COVID-19 vaccine shots as he said his administration would reach its goal of administering 100 million doses of COVID-19 within 100 days on Friday. In a video statement released on Thursday, the president ..."
+    publishedDateTime: 2021-03-19T10:37:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1758913/president-joe-biden-vaccination-effort.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden And Kamala Harris Condemned The “Scapegoating\" Of Asian Americans After The Shooting In Atlanta"
     excerpt: "For the last year, we've had people in positions of incredible power scapegoating Asian Americans,\" Vice President Kamala Harris said in Atlanta."
     publishedDateTime: 2021-03-20T00:34:00Z
@@ -350,20 +380,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1756527/joe-biden-delivers-remarks-covid-package.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Joe Biden and Kamala Harris condemn attacks on Asian Americans – video"
-    excerpt: "The US president and vice-president offered solace to Asian Americans as they visited Atlanta just days after a white gunman killed eight people, most of them Asian American women"
-    publishedDateTime: 2021-03-20T10:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/20/joe-biden-kamala-harris-condemn-attacks-asian-americans-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/515e4fba6738ee8e6b7a1cda370b5419a760ab9e/0_104_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b95b22609ef473345586ff001b2a950"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Attacks on Asian Americans are up. What is the Biden administration doing about it?"
     excerpt: "WASHINGTON – The concerns President Joe Biden expressed Wednesday following the fatal shootings of Asian Americans in Georgia echoed the comments he's made since taking office, a tenure that began with an executive action condemning racism and ..."

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden deplores rising anti-Asian violence, asks Americans to stand together against hate"
-excerpt: "President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday."
-publishedDateTime: 2021-03-20T05:14:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
-webUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
+title: "Joe Biden Urges Americans to Take Vaccines as Skepticism Undermines Rollout"
+excerpt: "President Joe Biden pleaded with Americans to get COVID-19 vaccine shots as he said his administration would reach its goal of administering 100 million doses of COVID-19 within 100 days on Friday. In a video statement released on Thursday, the president ..."
+publishedDateTime: 2021-03-19T10:37:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300"
+webUrl: "https://www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300"
+ampWebUrl: "https://www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300?amp=1"
 type: article
-quality: 116
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555545258&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I1IE"
-    width: 808
-    height: 545
+  - url: "https://d.newsweek.com/en/full/1758913/president-joe-biden-vaccination-effort.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -285,22 +285,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Joe Biden Urges Americans to Take Vaccines as Skepticism Undermines Rollout"
-    excerpt: "President Joe Biden pleaded with Americans to get COVID-19 vaccine shots as he said his administration would reach its goal of administering 100 million doses of COVID-19 within 100 days on Friday. In a video statement released on Thursday, the president ..."
-    publishedDateTime: 2021-03-19T10:37:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1758913/president-joe-biden-vaccination-effort.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Joe Biden And Kamala Harris Condemned The “Scapegoating\" Of Asian Americans After The Shooting In Atlanta"
     excerpt: "For the last year, we've had people in positions of incredible power scapegoating Asian Americans,\" Vice President Kamala Harris said in Atlanta."
     publishedDateTime: 2021-03-20T00:34:00Z
@@ -474,6 +458,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f4a638864f3918c76fd642f7e683c49f8b5d69d3/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94514b230302fc6479c04bb1f0d22a6d"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden deplores rising anti-Asian violence, asks Americans to stand together against hate"
+    excerpt: "President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday."
+    publishedDateTime: 2021-03-20T05:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555545258&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I1IE"
+        width: 808
+        height: 545
         isCached: true
   - title: "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live"
     excerpt: "Covid-19 Hate Crimes Act would ‘expedite the government’s response to the rise of hate crimes exacerbated during the pandemic’ – follow the latest"
@@ -1096,6 +1096,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "U64I3Z6zes+3dLytbefg8VG4RAVWMPpdNnsniK9eiTsP17oDqOAQP2MxPUpHKp8412V/zfKgAf7yuj09gsQMFdx28vxf/SAYTZa9m+goKJgCas6Q6T6q/bXHgklp5ehIY8ON6U2ZA9rp06yY4lYxDTGtkkV73eQGDHf+NQtlSbg3BYuSYOLix7HpDEJzrdHK97yhbhccjej0HWHLmnU9eTwYdikkPfTxOzzeE0vdWJKLSBuJeotbkZryGGLkWAJxluOU5NXGR7rgSjrfmbEHtc0QYrObE+Bqg7UbCh2GtgLYbbF14ADxJcKa2oah8tGffWPJrl3+LnkqWMZ+9BefhfqD7Zq8p7CvD/7bnruO+Iw=;ZQPGHW4HAVq52zYdqrd5ig=="
+secured: "jc5KVk07DGY7UCo4uGJ1cRh0+veYfkepqAT0mSKAqzIwRSA2ynu+/iXmwlMhIIS48yhiGnoXVTDGk/peBv2x6p5n21qpYDNZ2E8nrIbVPlgLmiz2icRCRmeNtqsgWO1G/wpjiKod8cGeZAfZP9N0khrPlIvF0tknk4PDQXrJ7bsKgGNKa4D2H0AW6gWkUCAsH5C7pGYsX5D8bsd3vbJud5/2m8FzBLzDJwmlNBUggv3uwuGVc89pLsXQwR+d4aik/DD7Y1p/k9VA8ZnhnHfh+OtJzp7HuUp7y+icWbNqf8Odyr8J14k/IHlZ3M8LKR2mJN1ZSj0IP2c7Irgq3xjvwDcPk+gIVAkHHlJIbWkie0E=;2iDIv2QF3eiAmHUBdURo1g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B60DA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B60DA"
 type: article
 quality: 125
-heat: 665
+heat: 685
 published: true
 
 provider:
@@ -346,6 +346,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump's Mar-a-Lago partially closed after COVID outbreak"
+    excerpt: "Top News Trump's Mar-a-Lago partially closed after COVID outbreak Posted Parts of Donald Trump’s Florida golf resort Mar-a-Lago have been temporarily closed because of a coronavirus outbreak, according to two sources familiar with the matter."
+    publishedDateTime: 2021-03-20T20:28:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE4W707Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210320&i=OVE4W707Z&r=OVE4W707Z&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
     excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
     publishedDateTime: 2021-03-14T19:08:00Z

@@ -360,6 +360,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump's Mar-a-Lago partially closed after COVID outbreak"
+    excerpt: "Top News Trump's Mar-a-Lago partially closed after COVID outbreak Posted Parts of Donald Trump’s Florida golf resort Mar-a-Lago have been temporarily closed because of a coronavirus outbreak, according to two sources familiar with the matter."
+    publishedDateTime: 2021-03-20T20:28:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE4W707Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210320&i=OVE4W707Z&r=OVE4W707Z&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "EU countries suspend AstraZeneca vaccine as US considers authorization; CDC review hints at Trump administration meddling: COVID-19 updates"
     excerpt: "The CDC failed to live up to standards during Trump administration, according to agency review. U.S. death toll tops 535K. Latest COVID-19 updates."
     publishedDateTime: 2021-03-16T00:36:00Z

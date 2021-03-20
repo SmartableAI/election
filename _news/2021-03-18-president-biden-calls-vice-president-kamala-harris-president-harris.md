@@ -3,8 +3,8 @@ category: news
 title: "President Biden Calls Vice President Kamala Harris \"President Harris\""
 excerpt: "Biden, on Thursday, said, \"Now when President Harris and I took a virtual tour of a vaccination center in Arizona not long ago, one of the nurses on that, on that tour injecting people, giving vaccinations,"
 publishedDateTime: 2021-03-18T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.amp.html"
 type: article
@@ -667,6 +667,6 @@ related:
         height: 720
         isCached: true
 
-secured: "8NblBi0TlXn5hqI1VOxJ9/Afk+fX8rWMO1mMYHsz/PSbmCUFwaMKjid1Wkz+oUdUyYzwyYTGiRwgAaRDP+8TufLov2JV5dYEIeUdI+B3GZYSKJwK8ZOPm5QXnCw15XItCYYEqFeLe8UD+Y97Ef4/pLu1Uo06gmdv/Thr/eD5cTsBiLOY9V/HfW6pTP/sD5PRkUsMO9L3UvPA0zX9pPxkHpfOpN0Vr98gLO4ndnWUsC/boVR9c9o2fmCnvfGpwXnYzWSYFvja5tct7bDIj/f7Z216gGdyGm3i9UfWlymJnDLH79Flw4R74qhM2wk4PwSKXt/h6wu1AXs34tAYDkwheYNzh2WQUJpktm3vb8m7JMtra0+aOI+mlgzmPGKu6YQ9j8jT6kg4soIRVsnUOUv6cRbtdMWJEgUV7a6ZJ/D9R9xqivloRxGl2d3a2cc2/1zyaDukUo0azLRJU8VFW1YsiIUpOePbXOtTSHGVqbuEgetfnOEfIOgHVtdvJ81qQz3aOMz9OrGUrKzWAKQjLwnwkg==;roQ5lmtRq70Omxzt4mDcsA=="
+secured: "frIjWXKr44rov1nqyCiEeKwpV3GSM3Osfmaglt5X1csus2HNOPnHQ5sQYPLdQ84RFhTTx7VNhNJ59m/ysOotkJf0N3a2M0mmbZorwXTl8MBJqKn4Wrxvn6qZ/pmd39VdPT7DoS/Aj20Wu7RNkB1ZCpiw4dw9RZh4YroYnH7a0bew07CvmIcu5TIWYTYW7cE7VPw1N0JgBpQXnw8wYcOQS2u/52IjA7rUagb/1moOMVSuxat0opj/yiFt4Nry2cYH+9fayKu8WXJVjn1bpFo42fdlXIn+k65S7PVMb/4VWrqRMqgCQX4yDs/3ualvkKTmXNoei4/gpUCjkzViPcMzoy5dbRPIeiYuwIHQ1OXr7po=;DiP/7Ab89Y0MXGQNWHfy5w=="
 ---
 

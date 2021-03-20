@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-20T10:20:00Z
 originalUrl: "https://www.theguardian.com/us-news/video/2021/mar/20/joe-biden-kamala-harris-condemn-attacks-asian-americans-video"
 webUrl: "https://www.theguardian.com/us-news/video/2021/mar/20/joe-biden-kamala-harris-condemn-attacks-asian-americans-video"
 type: article
-quality: 120
+quality: 130
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://i.guim.co.uk/img/media/515e4fba6738ee8e6b7a1cda370b5419a760ab9e/0_104_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b95b22609ef473345586ff001b2a950"
@@ -268,6 +269,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F67C/production/_116600136_mediaitem116600135.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Joe Biden Urges Americans to Take Vaccines as Skepticism Undermines Rollout"
+    excerpt: "President Joe Biden pleaded with Americans to get COVID-19 vaccine shots as he said his administration would reach its goal of administering 100 million doses of COVID-19 within 100 days on Friday. In a video statement released on Thursday, the president ..."
+    publishedDateTime: 2021-03-19T10:37:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-urges-americans-take-vaccine-skepticism-rollout-1577300?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1758913/president-joe-biden-vaccination-effort.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Joe Biden And Kamala Harris Condemned The “Scapegoating\" Of Asian Americans After The Shooting In Atlanta"
     excerpt: "For the last year, we've had people in positions of incredible power scapegoating Asian Americans,\" Vice President Kamala Harris said in Atlanta."

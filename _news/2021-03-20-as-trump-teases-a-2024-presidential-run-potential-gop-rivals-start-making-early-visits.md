@@ -1,14 +1,14 @@
 ---
 category: news
 title: "As Trump teases a 2024 presidential run, potential GOP rivals start making early visits"
-excerpt: "As former President Donald Trump teases a possible 2024 White House run, other potential GOP presidential rivals start planning visits to the early voting states."
-publishedDateTime: 2021-03-20T10:37:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QTYAkVOL2TY/trump-teases-2024-presidential-run-potential-gop-rivals"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QTYAkVOL2TY/trump-teases-2024-presidential-run-potential-gop-rivals"
+excerpt: "Donald Trump might not be the only one with an eye on 2024. Former Secretary of State Mike Pompeo heads to Iowa next week to advocate on behalf of conservatives. The trip by Pompeo, the former congressman from Kansas who served as CIA director in the Trump ..."
+publishedDateTime: 2021-03-20T10:39:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals"
+webUrl: "https://www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals"
 ampWebUrl: "https://www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals.amp"
 type: article
-quality: 167
+quality: 127
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/tim-scott-iowa-invitation.png?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -48,6 +49,6 @@ related:
         height: 720
         isCached: true
 
-secured: "nkLGscWyGwVufSEHM4T3zmk9v9CHEG47/TGUiqw0/CZQZc1Oc6i6U4r0b6Uq9ss+/C9iNQcwhURstDxSmc8DiQk2yGkHH3ydWQ9e/2SEf7Q/YIc+8mJ1b/HlmpohTmwxRWqRAW3q58HyMPyKywBnJCXq0NL/d/ioCKqFARvFJ/83baRmaTRKdOsTzuPSpKZZEyr8w4p/K8Tpogg/JU4JVZnv0rzHzhi3e1SkeJIxmq/7oejYNb0tx8/QoMrPTxKmErii/1aTy6QhXRVNbFpIXLIFW/3WmGzpnktIg74zJrqz4IOQHnN0Rn1E5bdy9DkXMOvJbm9QhQARkj+YuiIOFlPJaTpcUCB7QVz/mE+uFNc=;lj9B7fxOKv41xmkrgz+fug=="
+secured: "yb0d5+Q++hTKtPipfHkTabJe59YoUpGn8L0NGQtpwMicSB0vPVNsA5a8WlxcmclnVuLQSh+Il3qzUFFMrGGflsjEYjIAfeOtWBxI97HAJSFWlzLjExbq6v7zgpGD+zuaygTdKsdXQqOlqAH175etXubca6UvXOmwKud6iZ2sMvvIdKABwXcgQbwThX23nX4wVmgG8c2/nmryxsH0f+CKp5FPG4lXmAthZCM3RcJjzoSDy/BfA4iUJDeM+jIjFhqqDFcTcUopW9kO+aGNReck66mQ72h8ByydDyRfkiJOP2WwNRBHe3Yd1aD0k6/k2Nu6tb91PYhvyV2kT8wO/9gYUPqHAgJ0EhCbaT0CLCftCqo=;O4M3wakl/HttHwSuFWOUxA=="
 ---
 

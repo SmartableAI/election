@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump Is Losing Money: Net Worth Down $700 Million As COVID-19, Riot Batter His Wealth"
-excerpt: "Donald Trump's days as president are over, and his return to the business world is greeted with a dwindling net worth and the falling income of his businesses amid the pandemic."
-publishedDateTime: 2021-03-19T10:23:00Z
-originalUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350"
-webUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350"
-ampWebUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
+title: "Trump's Mar-a-Lago partially closed after COVID outbreak"
+excerpt: "Top News Trump's Mar-a-Lago partially closed after COVID outbreak Posted Parts of Donald Trump’s Florida golf resort Mar-a-Lago have been temporarily closed because of a coronavirus outbreak, according to two sources familiar with the matter."
+publishedDateTime: 2021-03-20T20:28:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVE4W707Z"
+webUrl: "https://www.reuters.com/video/watch/idOVE4W707Z"
 type: article
-quality: 67
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
-    width: 1024
-    height: 663
+  - url: "https://static.reuters.com/resources/r/?d=20210320&i=OVE4W707Z&r=OVE4W707Z&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -362,20 +360,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Trump's Mar-a-Lago partially closed after COVID outbreak"
-    excerpt: "Top News Trump's Mar-a-Lago partially closed after COVID outbreak Posted Parts of Donald Trump’s Florida golf resort Mar-a-Lago have been temporarily closed because of a coronavirus outbreak, according to two sources familiar with the matter."
-    publishedDateTime: 2021-03-20T20:28:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE4W707Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210320&i=OVE4W707Z&r=OVE4W707Z&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
     excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
     publishedDateTime: 2021-03-14T19:08:00Z
@@ -454,6 +438,22 @@ related:
         width: 1200
         height: 835
         isCached: true
+  - title: "Trump Is Losing Money: Net Worth Down $700 Million As COVID-19, Riot Batter His Wealth"
+    excerpt: "Donald Trump's days as president are over, and his return to the business world is greeted with a dwindling net worth and the falling income of his businesses amid the pandemic."
+    publishedDateTime: 2021-03-19T10:23:00Z
+    webUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350"
+    ampWebUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
+        width: 1024
+        height: 663
+        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z
@@ -471,6 +471,6 @@ related:
         height: 675
         isCached: true
 
-secured: "QuoiT96NsAEKPc06hbgJbebfc9Qo0d0FDGZFdWgW81g2/gNZ4O3UEdNdZjjsXTxPcT0/Nfwa/YuSHJwowFF7f35b24H7tbfqDLrqssrmh0TZgwLUOL094HEyJxeZnOnjML7FN7QUPvjUrxIKFXgOLJfjYaNWXLgGDou7Cfftz0s0mRIdrXHOWsuGvCtsKogb3NmrDIcbZtNFoFTZEtIF4EAjmxR8PbNOlEeNOPsPSLdto2UU5TLC3cjBuXmRqdhBy+j8RlP9WJp1hkJgxhgzTYTV2jsUlKNKg9FZMGZ4BDhqGi5PUUUBr5JhDlaqq5fSqYyimzsGQQFB9/MryIC2xOui5Nx6nYlO4Dhrxz8A2cM1QBj/HR9JlU/VkIHQOZzKgyBG/BbnwYG7GO+SiAasXWnPF5Y/nFNX5mGtsPER5ukDv/SZizohB4OPQzBCmmvksokveWn6Yq9yuZr0bb/xCl+LTKUQbL0A74kSYIpPKiZjn3znPwmHtlsS4lupXcZQZZ8JkyRSLYObAGlnSPsG2Q==;sGs5X7mIWRW/nl0F/vfYLQ=="
+secured: "gpNOFsQC41h9ZFjv8vWdl/PL1GmWvxJb+1GYtnKmx21XI/PRvbbfD5oS7p0u2ewnzXYpfYDkb/mMYsjl/Bc5QjDof7z7ZiLTqld0BhRTot0nh+l2ht2As4/mr2U+teMICFB1eqJvSBvGYUCHpJ5UZNIJBHjWIL9WdNM8BOi/vzSDf22/JWGhkEgKOwNlILJQum371EKw/8GhMh/l2/NVmPcOG1QvdNaik3NEVvXMgFbligfYYbtRfvmJX+pcFKQ8GYMhfa1HDZlRCtCIrDfstEWR8TUsELFDjRg2ZLsok1kz+JPOR6CnvpJm1MVjofWEJZz/uCbb0XUzjQBQpHhRldAN1I+VeqBDbzfHtBMMeZA=;8+Up4u/38BukiQJDDWT/Ow=="
 ---
 

@@ -657,7 +657,7 @@ related:
   - title: "President Biden Calls Vice President Kamala Harris \"President Harris\""
     excerpt: "Biden, on Thursday, said, \"Now when President Harris and I took a virtual tour of a vaccination center in Arizona not long ago, one of the nurses on that, on that tour injecting people, giving vaccinations,"
     publishedDateTime: 2021-03-18T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/18/president_biden_calls_vice_president_kamala_harris_president_harris.amp.html"
     type: article
