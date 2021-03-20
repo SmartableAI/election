@@ -223,6 +223,22 @@ related:
         width: 1440
         height: 967
         isCached: true
+  - title: "Prosecutors question ex-wife of the son of Trump Organization's CFO"
+    excerpt: "A spokesperson for Jennifer Weisselberg said criminal investigators with the Manhattan District Attorney's office began questioning her in December, and investigators with a New York Attorney General'"
+    publishedDateTime: 2021-03-19T22:20:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-organization-cfo-allen-weisselberg-son-ex-wife-jennifer-weisselberg/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-cfo-allen-weisselberg-son-ex-wife-jennifer-weisselberg/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-cfo-allen-weisselberg-son-ex-wife-jennifer-weisselberg/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/24/942c54fd-0a5e-4419-820d-077f2d64b97b/thumbnail/1200x630/a790b92d06953017c660e04e95b82c6e/allen2.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T18:29:00Z

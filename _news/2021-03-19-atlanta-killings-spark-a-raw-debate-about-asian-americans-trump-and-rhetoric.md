@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris, in apparent swipe at Trump, says people ‘with the biggest pulpits’ spewed hate toward Asian Americans"
+    excerpt: "Vice President Kamala Harris, speaking in Atlanta in the wake of this week's mass shooting, said that people in power had been \"scapegoating Asian Americans,” an apparent reference to Donald Trump. "
+    publishedDateTime: 2021-03-19T23:15:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBqiYYYoQfk/harris-trump-people-pulpits-spewed-hate-asian-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21008722501552.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Jr: Andrew Cuomo the 'biggest predator in American politics today'"
     excerpt: "Trump Organization executive vice president Donald Trump Jr. slammed New York Democratic Gov. Andrew Cuomo in the wake of a seventh accusation of sexual misconduct."
     publishedDateTime: 2021-03-16T00:39:25Z
@@ -43,6 +59,22 @@ related:
     quality: 174
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e51c902-2e32-430c-b7b3-56b5b1fe6650/16179807-06e0-4a45-9149-cf035b800f32/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Harris, in apparent swipe at Trump, says people ‘with the biggest pulpits’ spewed hate toward Asian Americans"
+    excerpt: "Vice President Kamala Harris, speaking in Atlanta in the wake of this week's mass shooting, said that people in power had been \"scapegoating Asian Americans,” an apparent reference to Donald Trump."
+    publishedDateTime: 2021-03-19T23:21:00Z
+    webUrl: "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21008722501552.jpg"
         width: 1280
         height: 720
         isCached: true

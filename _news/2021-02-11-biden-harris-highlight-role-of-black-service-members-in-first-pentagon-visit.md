@@ -48,6 +48,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Spa shooting victims ID'd as Biden, Harris head to Atlanta"
+    excerpt: "The names of four additional victims in the Atlanta-area massage businesses shootings have been released, hours before President Joe Biden and Vice President Kamala Harris arrive in Atlanta to meet wi"
+    publishedDateTime: 2021-03-19T16:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/spa-shooting-victims-idd-biden-harris-head-atlanta-76560038"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/spa-shooting-victims-idd-biden-harris-head-atlanta-76560038"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/spa-shooting-victims-idd-biden-harris-head-atlanta-76560038"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_bd69e0bbb92d45cb83dc1f050b912276_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden and Harris call for teachers to be vaccine priority – US politics live"
     excerpt: "Vice-president says ‘teachers should be a priority along with other frontline workers’ for Covid vaccine – follow all the latest politics news"
     publishedDateTime: 2021-02-17T16:43:00Z

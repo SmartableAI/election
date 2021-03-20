@@ -565,6 +565,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
+    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
+    publishedDateTime: 2021-03-19T22:41:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 71
+    images:
+      - url: "https://www.courant.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Man detained near Vice President Kamala Harris' residence with rifle, ammunition in his car"
     excerpt: "WASHINGTON — D.C. Police detained a man near the residence of Vice President Kamala Harris on Wednesday on charges of carrying weapons, D.C. Police said. The man, 31-year-old Paul Murray of San Antonio, Texas, was stopped by Secret Service agents near ..."
     publishedDateTime: 2021-03-17T23:05:00Z
@@ -673,6 +689,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "7m3U2hN40dUHcsA4XYacPmhj9HUMDPkYodaId1RnlrosgrzB7G5e30qbQgKYk5LB7TS/xBEsOL5hv8Os6HO7ugNB5sXmi6ijrDv/+4eIZa7mrckH4/lUHpunGdaWm+1QElhtj+oVGYXTD1qMS1nH12VF6QyjTRWJK9LTR6vOzZSydiK/445YtSktEu4jQNud/+iuZFwfTxi1GSqAStZkoT4rwEtNsMybz2mCr7Dn1l4s75jZHOljYKKzXMFj1QKxstvjMLjyKVk0kyPgaAYGnnBptaVhc0gJYgWhfMeHvkCvjDUpwbeOUOjQ/mHkgfDJyaIVe1WCFitlhb+oP5RyPCV4GTSgmsnRWUqVYNd8Z7M=;e5g5PWs5Xf8hZWeNkgEjbg=="
+secured: "7IDTj3Y7ybyty3Z9BOB1dD2/8ufh0P2a3RFm96ZKL2oTMR/ltStVxuqLkpqWOkneIypgo7r84SHRTaf2HWYdMGmzoXHeFFl6BpEmyV1tKw4of/jFXzTrLJwx/9p5cgS+tfZX3Xz5cmX2/GtkjtrvJpQIKIorN4BCyupqJwQGLmWPw7h7f/3Pd4yrnJ2zut8+k9MzG/MWexsWg444sq/K5JBThvI169fGkmD6Syek5JzQ2JOR47BVBKoNEb1fBPKJc6SHwPRtU7RPhS4uFTm9R0LbtMx+8chVow6OypP0lHGO3C7GgHDeKIzwO0jzHIstLdrDKhvoHzgSUg1Occml9JQ1ylvI0KEKBx0XZRussEHZ10K43QlAL2oL1ciBrv939cnK3cmJm274R9UyC6DyMglkZmsZbw2hJiaR3oDdj/PD+cm9FfTNgbXhsr7EhScgFzNAL9WSdcSCyIFzLt2aPKtAxtGn5xF8igMLzfgwXTFylCVOnQeCSOgX1CETxVilvomJ8xvUEUpxCXaC/3lvzQ==;sXg1qsSBDvsRZD3LVykGyA=="
 ---
 

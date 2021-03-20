@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-meets-security-c
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-2-ap-ps-210317_1616001648329_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Essential Politics: A Senate showdown builds as Biden takes a stand on filibusters and taxes"
+    excerpt: "President Biden's comments on the filibuster and taxes as well as House votes on immigration all build toward a Senate showdown later this year."
+    publishedDateTime: 2021-03-19T17:23:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-19/step-by-step-sidling-toward-confrontation-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 94
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9ae2e90/2147483647/strip/true/crop/3278x1721+0+236/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc2%2F10%2Ff7135c0b413393f2b0c34c57617c%2Fcongress-biden-cabinet-62357.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "rV2/XZtmgQq0BLOvruh/nPVu0WixczjXehgf5AqsA2N7a9CIAUB28dED2aMd6BDwr3a3nD/XE2un4x10AcpFhmv4NgI+Qj6nfXyNGvlsdm/LfkIJUTfqUFPCYOADdc1zhji2/3Sd8mugK9TXYnAbag67I6JBqhTZHz2XLW+ANKMbl2CYsNNWmQKxVAz4ylQxlu5f+H1VZr0EGPDqYUkmyFpYC3ibWZMFIOSdncGeYQTzAHXxyfio0K/IjdQB7mb0jItRWO1yos211HJVvS195c3ajKkApjATPn5oxdCKC2hi6hZJWiqU5q8+KbwzrsJOh5LpSQhjLTfS/vdxZTTPB1teiLMcUYIRKJWEikY+gok=;Ju0pohU710tj+89oElIU0A=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-jr-andrew-cuomo-the-biggest-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today.amp"
 type: article
 quality: 174
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Harris, in apparent swipe at Trump, says people ‘with the biggest pulpits’ spewed hate toward Asian Americans"
+    excerpt: "Vice President Kamala Harris, speaking in Atlanta in the wake of this week's mass shooting, said that people in power had been \"scapegoating Asian Americans,” an apparent reference to Donald Trump. "
+    publishedDateTime: 2021-03-19T23:15:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBqiYYYoQfk/harris-trump-people-pulpits-spewed-hate-asian-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21008722501552.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Harris, in apparent swipe at Trump, says people ‘with the biggest pulpits’ spewed hate toward Asian Americans"
+    excerpt: "Vice President Kamala Harris, speaking in Atlanta in the wake of this week's mass shooting, said that people in power had been \"scapegoating Asian Americans,” an apparent reference to Donald Trump."
+    publishedDateTime: 2021-03-19T23:21:00Z
+    webUrl: "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21008722501552.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Atlanta killings spark a raw debate about Asian-Americans, Trump and rhetoric"
     excerpt: "The horrific shootings in Atlanta have plunged the country into an acute awareness, and difficult debate, over hatred aimed at Asian-Americans. And, as with every mass killing or terror attack, political finger-pointing has immediately been woven into that very raw discussion."
     publishedDateTime: 2021-03-19T07:03:00Z

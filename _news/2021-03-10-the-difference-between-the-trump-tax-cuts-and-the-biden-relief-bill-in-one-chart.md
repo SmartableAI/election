@@ -319,6 +319,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Trump Jr. shares edited video showing father knocking Biden down with golf ball"
+    excerpt: "Donald Trump Jr. Don Trump Trump: 'I can't imagine' any Republican would beat me in 2024 primary if I run Trump Jr.: There are 'plenty' of GOP incumbents who should be challenged Donald Trump Jr ..."
+    publishedDateTime: 2021-03-19T19:51:00Z
+    webUrl: "https://thehill.com/homenews/news/544077-trump-jr-shares-edited-video-showing-father-knock-biden-down-with-golf-balls"
+    ampWebUrl: "https://thehill.com/homenews/news/544077-trump-jr-shares-edited-video-showing-father-knock-biden-down-with-golf-balls?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/544077-trump-jr-shares-edited-video-showing-father-knock-biden-down-with-golf-balls?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 136
+    images:
+      - url: "https://thehill.com/sites/default/files/donaldtrumpjr.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden, Fauci appear at odds over calling on Trump to urge supporters get vaccinated"
     excerpt: "Vaccinations rise as travel picks up President Joe Biden appeared to be at odds with his top scientist in the pandemic fight, Dr. Anthony Fauci, about whether former president Donald Trump should ..."
     publishedDateTime: 2021-03-15T21:24:00Z

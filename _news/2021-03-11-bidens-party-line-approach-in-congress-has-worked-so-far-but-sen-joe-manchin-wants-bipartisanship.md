@@ -93,6 +93,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Essential Politics: A Senate showdown builds as Biden takes a stand on filibusters and taxes"
+    excerpt: "President Biden's comments on the filibuster and taxes as well as House votes on immigration all build toward a Senate showdown later this year."
+    publishedDateTime: 2021-03-19T17:23:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-19/step-by-step-sidling-toward-confrontation-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 94
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9ae2e90/2147483647/strip/true/crop/3278x1721+0+236/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc2%2F10%2Ff7135c0b413393f2b0c34c57617c%2Fcongress-biden-cabinet-62357.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Y8jzLrgJKpIzOuU8iOHlYNI/GBGIvgrAebSg9GtbPs+CFp2L/+P0JJI0TibADlIjRtFJVT+o7lTkd+ZCFWQNx7U19tgFxJ4Cj3ewD8QQAwQYgwsv3pjm9ljNvyO1EdtXwGP5RGFSHIl0EipMkyrgqpnMlF8hj8a8Qb8db31EdzBSg8dT9WUJ04UcA+Tqy5rGXjCSwpgmbZbb7dd69JY+OEbH7y6+x/RL1bQhzaO4SK3xPzc775jNQyvYsAA4+7RtvyAl8OzVIAflDkIfXniRxxEmqYPWfwuCicQM4pgFZQDm1duCaiYH1HENeTpgB2KmVi64hJQJaSH1vU0+KgtL51wd3lvYFnfBiAAOw7skGOypWcXJ+tIDij6JS3nZBXpT5XVoNcZuD4NyxkNIxbz1seJKoRGfE61vn5dAkKVtp4jcYRRbrPjNYuJdquWFqc0+V5VDL6UgZYRJM445d696uFjN+sQyd7tCDpbmfO1ToTTQmJYbV9Hs+y13xk6/oeF6jyTUy1wdChYqp6LFMDGDew==;1bpo5C8niSzR3R6GWz4axQ=="
 ---

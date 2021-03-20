@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump's Mar-a-Lago resort partially closed by Covid-19 outbreak"
+    excerpt: "Receptionist says Florida club where Trump moved after leaving White House is closed until further notice"
+    publishedDateTime: 2021-03-19T17:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/3dabdb6797ecd0eac172a64d1dbd3ecd46ef50d6/0_136_6000_3601/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70d7639d69892d667db99b5199d789bc"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump Voters Hesitant About COVID Vaccine Won't Be Swayed by Former President"
     excerpt: "When trying to convince former President Donald Trump's supporters to get vaccinated against COVID-19, officials should look to hammering home facts about those who have been vaccinated and not rely on the former president's persuasion, a recent focus ..."
     publishedDateTime: 2021-03-15T17:45:00Z
@@ -154,6 +170,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1758454/q.jpg"
         width: 3165
         height: 2110
+        isCached: true
+  - title: "COVID-19 outbreak at Trump's Mar-a-Lago club leads to partial closure, per report"
+    excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump's Palm Beach club has partially closed following a COVID-19 outbreak, the Associated Press reported Friday. A Mar-a-Lago club member reportedly received a phone call about the closure Friday and a ..."
+    publishedDateTime: 2021-03-19T21:56:00Z
+    webUrl: "https://www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/60551b69cad7d300183f82a9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York"
     excerpt: "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\""

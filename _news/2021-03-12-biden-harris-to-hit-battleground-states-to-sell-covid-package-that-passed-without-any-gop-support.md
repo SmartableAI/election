@@ -128,6 +128,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "WH axes staffers over past pot use even though Kamala Harris has admitted she smoked it"
+    excerpt: "Vice President Kamala Harris has publicly admitted to smoking weed in college as the White House revealed that a handful of staffers were let go over past use."
+    publishedDateTime: 2021-03-19T23:28:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/irgIrjg8lDQ/kamala-harris-pot-wh-staffers-past-use"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-pot-wh-staffers-past-use.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-pot-wh-staffers-past-use.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46201ea5-06b8-4224-aecd-58d01dd3df89/c52f7acd-e909-4d31-9921-c077241afbed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden set to address nation on anniversary of COVID-19 pandemic"
     excerpt: "President Biden is set to deliver his first primetime address to the nation since taking office Thursday night, to mark one year since the World Health Organization designated the novel coronavirus a pandemic and shutdowns started across the country."
     publishedDateTime: 2021-03-11T12:17:14Z
@@ -539,6 +555,22 @@ related:
     quality: 134
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden is president 'in name only' based on admin's left-wing agenda: Hilton"
+    excerpt: "But, more seriously from a substantive basis, you only have to look at the agenda that’s being pursued to see that Joe Biden is president in name only. He ran with a very clear centrist message. He said look I’m Joe Biden you know who I am. I’m not ..."
+    publishedDateTime: 2021-03-19T18:14:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-president-gaffe-left-wing-agenda-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-president-gaffe-left-wing-agenda-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-president-gaffe-left-wing-agenda-democrats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b44d8898-b1c8-4c5b-a72d-83ccef285fcc/013259a8-9f4a-4146-8a94-070367bf7f9d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

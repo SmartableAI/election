@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Kremlin: Putin’s offer of a call with Biden was to save ties"
-excerpt: "The Kremlin says that President Putin’s offer to speak by phone with U.S. President Joe Biden is intended to prevent bilateral ties from completely falling apart over the American’s remark that the Ru"
-publishedDateTime: 2021-03-19T16:20:00Z
-originalUrl: "https://www.washingtonpost.com/world/europe/kremlin-putins-offer-of-a-call-with-biden-was-to-save-ties/2021/03/19/05c70fb0-88b7-11eb-be4a-24b89f616f2c_story.html"
-webUrl: "https://www.washingtonpost.com/world/europe/kremlin-putins-offer-of-a-call-with-biden-was-to-save-ties/2021/03/19/05c70fb0-88b7-11eb-be4a-24b89f616f2c_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/europe/kremlin-putins-offer-of-a-call-with-biden-was-to-save-ties/2021/03/19/05c70fb0-88b7-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/kremlin-putins-offer-of-a-call-with-biden-was-to-save-ties/2021/03/19/05c70fb0-88b7-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+title: "Kremlin: Putin's offer of a call with Biden was to save ties"
+excerpt: "Kremlin: Putin's offer of a call with Biden was to save ties The Kremlin says that President Vladimir Putin’s offer to speak by phone with U.S. President Joe Biden is intended to prevent ..."
+publishedDateTime: 2021-03-19T16:18:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+webUrl: "https://abcnews.go.com/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/International/WireAP_7617f5f10e8043a48d45967b73a84d27_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -327,6 +327,6 @@ related:
         height: 600
         isCached: true
 
-secured: "rNCsogXaIoY+pxrOCR9nzr+XKlqPGdtwkzHxSJYnxIuwjgzOfLwfjVnULBvILqrD0hLFifdEs+ZZYH/juvlw+Jih+5n1ezJrZ2Gs7PCNEPJ44uoyrkRjEMRAz08lDrMktU09svoQCzN1zyO+yc/Rmtn0i/ZUW8CZG+Cl6n1I25mnPGWojoOqawP49VQ1BFf57QJz4i91dgRcAKsDBxfhuJZv2fAOOUWlXAwPmniqxErTBTAJiFeHthq4PVsRbWbnrVT7OimvrasqiBIWZNFHPMWEF6Gpi6WgMDuyabne+cv7j7d7J6KJJzK1E+tCi3/fpL6AN7mwUheTLvyLz6Bqb3w2YbRxFibelzj0IPz88a4=;JswWgkczoIIWhShPiblr5A=="
+secured: "YXUXXMrP4qNeYkH/HJ8G+mrqvb+wGoyqwuFqs2wMVURmTNU+E9ZeP/K8qbDhWi768CB8gMiuMJhsxdg72JLpq/fhDe4XnXlhIuhNSljPTSL4vXdqICx6K+Ta0ngTFyOSE17uIRRL40cgh9GzRPrID5xb8/ltHpST4B1Wj3LaCic8CPrsy5GtQm3d5CYA3SsZwW2AKV2Q+sKbtsxtDtBSviHh0gJGJqbZmP/Xp4XPZlnvD3qvFDrTy3pTvsaBeGT+2K2wJvtnGdupNj15SPJfNmbPsz25Sp1JnnD4Au5g9EK8r4fqs7gJ6Il8Y00bIsP/b5ovWCRYfnL+UZsUPfZcvQntWgl7j0bNq68YMSoNC4E=;jqg9FoR1L+xAjsUK4pHWsw=="
 ---
 

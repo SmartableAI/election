@@ -553,6 +553,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
+    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
+    publishedDateTime: 2021-03-19T22:41:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 71
+    images:
+      - url: "https://www.courant.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Authorities arrest Texas man near residence of Vice President Kamala Harris, report says"
     excerpt: "On Wednesday, the U.S. Secret Service arrested Paul Murray, 31, of San Antonio near the residence of Vice President Kamala Harris, according to a report from CNBC. Police said they found a rifle and ammunition in Murray's car. He was stopped near the ..."
     publishedDateTime: 2021-03-18T00:58:00Z
@@ -677,6 +693,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "grxf4MMx8kyG7NoPVIHplVOBZnn+CNLFruaSNsTcQOg5AmMhf1mDSrk0Pcj/LdVbLk51DaDPC0DIiGqdpeV25XacrmKAqKHwSMI9ikcQNj+Q+KpDGDeqd+fs9i2hpZWHZVfNWxfhv1q/hpQpXWzC5PeZ0Moltq0/UKbotF7WbIHpE6od0x/ZhjkEojj20GP/VYyLeT1BnCWYAsHM+X0Es5XUbBEtDJwgjlU1dpkPNuyCJIKmWwmwpkcYFV5yo4ZHfDpaoFxISy7FB7LdBB4jmmnGd86xE+EbHeldSEf+19/7dx33IL54kzziRtp4kCYrUhh1ST7rttwvRBQtq06g09M7ZGG3TmS2pyQfIfpTRIc=;EymoWYNL1Jf4gUyotNvfdg=="
+secured: "yWibb42yGWuhQ1oTbVE7a/9gkJpUc/Mqqa/sLbk5OZIeilw/tjKPBT6GqljMLvGiDUgp03dF8Rckf6kAM08RLz5WCabd4VPGQriaxuGOAwxsXAu1ZuwiVU69Z81jD4bsBKyLwOVzYMZFCs5lo17pxDHly+9WkAOAnh5hIFy9yTxMKTj179rpFNPjl06fo/BS3mnA09hDAi8/bXdShvKWuULnD1BXgpYmkc3Jw8e60F9fqqQusLllwi5yXRGyCtamcxGNo8yEQ4Oiv7Lk8cHK1Lu6AQqcw1sMEOVY7RJXgKyfsr1zUnWE4kLLYHijrVlmgPg9tQTlP6KEIiB31vNct0LrXf2zqKULBnH6EPGdd8ld1wvShX9XYVr/S0b1gFkCg45he4SrtPXHEJCMoh/tAdCaaE4Tt73LQY1JoW0pNyTekKfaVr2mCPBHrhWkZq8lkBIi+U5gctKmKyxf2EuBS6a5ZM4V23dIqWZsr9/OsQx/kCQB7fF1WRUnL03ju9thmY4b669NMt1+wBps2DNgCA==;AhLbtj2Sd4vLyjcXX68+Qg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2650
+heat: 2670
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Spa shooting victims ID'd as Biden, Harris head to Atlanta"
+    excerpt: "The names of four additional victims in the Atlanta-area massage businesses shootings have been released, hours before President Joe Biden and Vice President Kamala Harris arrive in Atlanta to meet wi"
+    publishedDateTime: 2021-03-19T16:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/spa-shooting-victims-idd-biden-harris-head-atlanta-76560038"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/spa-shooting-victims-idd-biden-harris-head-atlanta-76560038"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/spa-shooting-victims-idd-biden-harris-head-atlanta-76560038"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_bd69e0bbb92d45cb83dc1f050b912276_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden, Harris highlight role of Black service members in first Pentagon visit"
     excerpt: "President Biden and Vice President Harris paid tribute to the contributions of Black service members, acknowledging the barriers they have faced in uniform, on Wednesday during their first official visit to the Pentagon."
     publishedDateTime: 2021-02-11T05:04:00Z

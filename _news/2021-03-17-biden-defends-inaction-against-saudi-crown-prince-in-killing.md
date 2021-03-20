@@ -137,21 +137,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Kremlin: Putin’s offer of a call with Biden was to save ties"
-    excerpt: "The Kremlin says that President Putin’s offer to speak by phone with U.S. President Joe Biden is intended to prevent bilateral ties from completely falling apart over the American’s remark that the Ru"
-    publishedDateTime: 2021-03-19T16:20:00Z
-    webUrl: "https://www.washingtonpost.com/world/europe/kremlin-putins-offer-of-a-call-with-biden-was-to-save-ties/2021/03/19/05c70fb0-88b7-11eb-be4a-24b89f616f2c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/europe/kremlin-putins-offer-of-a-call-with-biden-was-to-save-ties/2021/03/19/05c70fb0-88b7-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/kremlin-putins-offer-of-a-call-with-biden-was-to-save-ties/2021/03/19/05c70fb0-88b7-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+  - title: "Kremlin: Putin's offer of a call with Biden was to save ties"
+    excerpt: "Kremlin: Putin's offer of a call with Biden was to save ties The Kremlin says that President Vladimir Putin’s offer to speak by phone with U.S. President Joe Biden is intended to prevent ..."
+    publishedDateTime: 2021-03-19T16:18:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/International/WireAP_7617f5f10e8043a48d45967b73a84d27_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Putin challenges Biden to debate after president calls him a 'killer'"
     excerpt: "Biden spoke out about the Russian president in an ABC News interview this week. Examined: How Putin keeps power Russian President Vladimir Putin has reacted to President Joe Biden calling him a ..."
