@@ -79,21 +79,37 @@ related:
         width: 731
         height: 545
         isCached: true
-  - title: "Amid border surge, confusion reigns over Biden policies"
-    excerpt: "A new migrant camp in Tijuana, Mexico, shows how confusion has undercut the message from U.S. President Joe Biden that it’s not the time to come to the United States"
-    publishedDateTime: 2021-03-19T20:32:00Z
-    webUrl: "https://www.washingtonpost.com/politics/amid-border-surge-confusion-reigns-over-biden-policies/2021/03/19/25a0faa8-88da-11eb-be4a-24b89f616f2c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/amid-border-surge-confusion-reigns-over-biden-policies/2021/03/19/25a0faa8-88da-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/amid-border-surge-confusion-reigns-over-biden-policies/2021/03/19/25a0faa8-88da-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+  - title: "Biden to meet Putin 'when the time is right': White House"
+    excerpt: "U.S. President Joe Biden, who said earlier this week he thought Vladimir Putin was a killer, will meet with the Russian leader \"when the time is right,\" the White House said on Friday."
+    publishedDateTime: 2021-03-19T16:02:00Z
+    webUrl: "https://www.reuters.com/article/us-russia-usa-biden-idUSKBN2BB20O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB20O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB20O"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555509691&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I143"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Amid border surge, confusion reigns over Biden policies"
+    excerpt: "A new migrant camp in Tijuana, Mexico, shows how confusion has undercut the message from U.S. President Joe Biden that it's not the time to come to the United States"
+    publishedDateTime: 2021-03-19T22:30:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/amid-border-surge-confusion-reigns-biden-policies-76561132"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/amid-border-surge-confusion-reigns-biden-policies-76561132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/amid-border-surge-confusion-reigns-biden-policies-76561132"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/210319_abcnl_update_9a_moore_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."

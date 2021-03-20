@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
 type: article
 quality: 175
-heat: 775
+heat: 795
 published: true
 
 provider:
@@ -430,6 +430,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311182531-01-joe-biden-0210-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden hit his first vaccination milestone today. Here's how the numbers break down."
+    excerpt: "Biden hit his first vaccination milestone today. Here's how the numbers break down. The country has counted 100 million Covid-19 vaccine doses administered 59 days into Biden’s first 100 days. On Friday,"
+    publishedDateTime: 2021-03-19T17:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-100-million-vaccinations-milestone-n1261583"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261583"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261583"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3458152/210319-covid-vaccination-se-1132a_4a3b765696e0a6dda791ab29c0e908ee.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "US has assessed North Korea could be preparing to carry out first weapons test since Biden took office"
     excerpt: "Washington (CNN)US intelligence has assessed that North Korea could be preparing to carry out their first weapons test since President Joe Biden came into office, according to several US officials speaking to CNN on condition of anonymity. The US officials ..."

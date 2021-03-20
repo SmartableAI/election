@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp"
 type: article
 quality: 112
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Donald Trump wax figure removed from Texas museum after suffering repeated face punches"
+    excerpt: "Following in the footsteps of the former president, a Donald Trump wax figure has gone into hiding at a Texas museum. Louis Tussaud’s Waxworks in San Antonio moved the figure to a storage room, per San Antonio Express-News' Randy Diamond, after museum ..."
+    publishedDateTime: 2021-03-19T16:31:00Z
+    webUrl: "https://www.chron.com/culture/arts/article/Donald-Trump-wax-figure-removed-from-Texas-museum-16038348.php"
+    ampWebUrl: "https://www.chron.com/culture/arts/amp/Donald-Trump-wax-figure-removed-from-Texas-museum-16038348.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/culture/arts/amp/Donald-Trump-wax-figure-removed-from-Texas-museum-16038348.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 67
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/14/76/20762517/3/rawImage.png"
+        width: 803
+        height: 591
+        isCached: true
 
 secured: "GIadq0cDJL3R7J/fd4yLsa92jt0FOMjO/gQWNvbXPiTOPI1kr7HWZ0ihN6bL4Xql8YrjpV4VqerbcSvGjibvDq6AbohGDpSVFSSzm3W9Y5EjenssrEHUYzx4ltsAr2AysawCQFkMwfgRA8lNjbM9U1tA7R9xCT4YhekiWs1lY4K7qNHziVvIYnFK20Ssh1M+uKqVjot2K832yzGM6RoL4p2LBPi3n1rWokmQqnVDwRWH4fFxPJsPJ/8nny9gcG3qcPQWLrtUzAW7AwlNIkYNX33WAJuYVPJ8nzmKdso3ZBjO3PT3Goe6BsV9Vvjh8VKUsv0FdwSULIGb4BWriJxDLe0zR3gJ8iwMnW3sL3eGT4A=;Fh45p2aLsiTWJgd0rn98cg=="
 ---

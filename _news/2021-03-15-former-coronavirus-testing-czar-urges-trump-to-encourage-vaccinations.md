@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former daughter-in-law of Trump Org officer has talked to New York prosecutors about rent-free apartments"
+    excerpt: "The former daughter-in-law of a Trump Organization officer said she is cooperating with inquiries by New York investigators who are looking into former President Donald Trump and his business, and have asked her about apartments she and her ex-husband were allowed to live in rent-free.\n    \n"
+    publishedDateTime: 2021-03-20T03:02:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQ3KpKu1Y8Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/trump-vance-investigation-weisselberg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/trump-vance-investigation-weisselberg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319221118-01-trump-weisselberg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Wall Street Journal: Trump pressured Georgia investigator to find 'the right answer' in baseless fraud push"
     excerpt: "In a phone call to the Georgia secretary of state's office in December, then-President Donald Trump urged a top investigator to find fraud in the 2020 presidential election, telling her that she would be \"praised\" for overturning results that were in favor of Joe Biden, according to newly reported audio"
     publishedDateTime: 2021-03-11T01:53:04Z

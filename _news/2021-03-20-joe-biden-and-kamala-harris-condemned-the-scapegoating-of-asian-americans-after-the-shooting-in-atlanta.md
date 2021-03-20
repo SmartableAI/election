@@ -365,6 +365,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Watch Live: Biden speaks after meeting with Asian American leaders in Atlanta following shootings"
+    excerpt: "President Biden and Vice President Harris will meet with Asian American leaders after the Atlanta-area shootings this week."
+    publishedDateTime: 2021-03-19T18:05:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-harris-asian-american-leaders-atlanta-shootings/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-harris-asian-american-leaders-atlanta-shootings/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-harris-asian-american-leaders-atlanta-shootings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/18/6eaa8cf6-f88a-45da-bbdf-359021d3a2d4/thumbnail/1200x630/a4bc3aaa1fc841a9d214ebfa8cfdf452/ctm-0317-biden-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden denounced the attacks on Asian Americans during the COVID-19 pandemic, calling them ‘un-American’"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden in his Thursday address to the nation denounced a surge in attacks on Asian Americans during the coronavirus pandemic. In the prime-time address marking the one-year anniversary of the COVID-19 outbreak being ..."
     publishedDateTime: 2021-03-12T13:01:00Z
@@ -571,17 +587,17 @@ related:
         isCached: true
   - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
     excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
-    publishedDateTime: 2021-03-19T22:41:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    publishedDateTime: 2021-03-20T02:27:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 71
     images:
-      - url: "https://www.courant.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+      - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
         width: 1200
         height: 800
         isCached: true
@@ -709,6 +725,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "HQXkwvcelKsjPPePf6+jLyN+bYhQrCPlubbmh3tSVV6PV5sww6Jx9agGGk4Q8z/nPmyxyS7Ned3eqddQnczlrUPKTQ/OqhMujJ/w5uwjCJNhw99MdOfpknmzy+bZdCAent5qIjFAlhwgjFJuS2p440i22JRJco1HlAMYVg0BdekwIp/6KZ5qvncrWm9K2iasuFLvrYfHg2JfaG9DCSreZpApZVTqsz1lgylXVOfdF9F7s0gJC162PGqzyf8wzJ1KtgVg7GafdYdUJ3/7GgrsMoApXQcmrEf4sLr/cuxmGoxp7aG+zYyRIiRk6Sze213jO8fi75y/ZIl4o90A+DWFyv1uNV3Q1TTK9f1YNinLXdw=;lYSpZX3JMc/xmdMJk5EtXw=="
+secured: "GFIuZQ4RMVqzXJKyH8N8ABhTXU6bGS4Lhdh6TQb2EtEO/v8R8JAZF/YhusKOKI2j2UEulk2dnMpiSCbhL+lkAam7nE9sU4nbxmjNFBGmUCa3qYT4COrEn104SKM4EdVEjTN8IY26Ck5QAVjdQGR30qFsTZoylO4mDE6dzde1sX8dyrmxYuw9hZ/3epnho1Gd/oTBLxhsOzho+HD+E9cJhEvDVVvmZVB7wp2JxLTLErcbtlfcdlLcvQbkucBSdlZ/Y6T+Zdu5VyTBITNrkcZVocluMOPzb3qW7c8C8rprXfqZwL4134VFho/OephUnKmogDqfEgW5ClRJ7CfhYekRiumPA55i80MOj2X1zxAzY7cZDtlactO06qu62hXA/CKSaXqMdqFevAl0VQu5miNDi+JyuYEohxyp36f+gadHG9nxUZvYJbbUiqvNOZYQ04KUBCxobyufTkMnfpVGDjHgIQ9P7N1jWoqJf85+LvwMa2zk16nAJmRXTa2fw0FGHODCacGY26nHYMW5rZpb/pO6Vg==;xfIQ0TRbThriPqlqNaKyxg=="
 ---
 

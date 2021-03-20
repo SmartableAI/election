@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former daughter-in-law of Trump Org officer has talked to New York prosecutors about rent-free apartments"
+    excerpt: "The former daughter-in-law of a Trump Organization officer said she is cooperating with inquiries by New York investigators who are looking into former President Donald Trump and his business, and have asked her about apartments she and her ex-husband were allowed to live in rent-free.\n    \n"
+    publishedDateTime: 2021-03-20T03:02:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQ3KpKu1Y8Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/trump-vance-investigation-weisselberg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/trump-vance-investigation-weisselberg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319221118-01-trump-weisselberg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Plaskett reacts to Trump's call with elections investigator"
     excerpt: "Del. Stacey Plaskett (D-USVI), one of the House impeachment managers in former President Donald Trump's second impeachment trial, says Trump's call with a Georgia elections investigator is further evidence to corroborate the claims Democrats made during his second impeachment trial."
     publishedDateTime: 2021-03-11T15:47:00Z

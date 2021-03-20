@@ -381,6 +381,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Watch Live: Biden speaks after meeting with Asian American leaders in Atlanta following shootings"
+    excerpt: "President Biden and Vice President Harris will meet with Asian American leaders after the Atlanta-area shootings this week."
+    publishedDateTime: 2021-03-19T18:05:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-harris-asian-american-leaders-atlanta-shootings/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-harris-asian-american-leaders-atlanta-shootings/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-harris-asian-american-leaders-atlanta-shootings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/18/6eaa8cf6-f88a-45da-bbdf-359021d3a2d4/thumbnail/1200x630/a4bc3aaa1fc841a9d214ebfa8cfdf452/ctm-0317-biden-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Biden notes Asian American concerns about Atlanta shootings but not yet assigning racial motive"
     excerpt: "WASHINGTON – President Joe Biden on Wednesday said he is waiting for more information about the Atlanta-area shootings before assigning a motive, but he called attacks against Asian Americans \"very, very troublesome.\" \"Whatever the motivation here ..."
     publishedDateTime: 2021-03-17T19:52:00Z
@@ -571,17 +587,17 @@ related:
         isCached: true
   - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
     excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
-    publishedDateTime: 2021-03-19T22:41:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    publishedDateTime: 2021-03-20T02:27:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 71
     images:
-      - url: "https://www.courant.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+      - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
         width: 1200
         height: 800
         isCached: true

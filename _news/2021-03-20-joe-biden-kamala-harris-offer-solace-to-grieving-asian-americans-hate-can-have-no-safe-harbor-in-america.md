@@ -2,26 +2,26 @@
 category: news
 title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
 excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
-publishedDateTime: 2021-03-19T22:41:00Z
-originalUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-webUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-ampWebUrl: "https://www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+publishedDateTime: 2021-03-20T02:27:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.courant.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+  - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
     width: 1200
     height: 800
     isCached: true
@@ -377,6 +377,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Watch Live: Biden speaks after meeting with Asian American leaders in Atlanta following shootings"
+    excerpt: "President Biden and Vice President Harris will meet with Asian American leaders after the Atlanta-area shootings this week."
+    publishedDateTime: 2021-03-19T18:05:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-harris-asian-american-leaders-atlanta-shootings/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-harris-asian-american-leaders-atlanta-shootings/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-harris-asian-american-leaders-atlanta-shootings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/18/6eaa8cf6-f88a-45da-bbdf-359021d3a2d4/thumbnail/1200x630/a4bc3aaa1fc841a9d214ebfa8cfdf452/ctm-0317-biden-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden denounced the attacks on Asian Americans during the COVID-19 pandemic, calling them ‘un-American’"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden in his Thursday address to the nation denounced a surge in attacks on Asian Americans during the coronavirus pandemic. In the prime-time address marking the one-year anniversary of the COVID-19 outbreak being ..."
     publishedDateTime: 2021-03-12T13:01:00Z
@@ -705,6 +721,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "QXZezJm+rwIg6sUE+NemzUxsustCYMSVepaKtgFF3S+fsN0c7Yto2JgNIhJFkYgpQNZ5WNHd/1KDA2Hva/nJzUgNXNo2A7+KARTto1kssUWvB/1U1dto6g1/pZz+T91GUZE6XlzsOwRgfTSB0OW3vJHphhYhJk2+8KriDiCXgDGPZIDj59R7s4tSP+qdAozXn/kK/aTso2MpwCZOa9aW175pPhLkOOCuLHFUhWl8I35//dZegXQs5Kpisc4ogkRJFiPSZtvzRMCUY57ILuSWSZTLDrmsaaNP7gwaVyy5qrj+9iPQM8g1/JKZ1fSMEnhovNOBt4YohpqUeOgHABlEgpWtNQTnf29is+vhrPkeeUP6AgVG8PTnquMje1zTPhDK6iuMvsu6uh7Y4NTtvwJ0jSD0GjN+5mSQk3YsqefG0PXffkiNyIFfno2b86z0Cz3eAUb2P72Z69iNZjyWj1kGe0Jmb1SE9j294VhKsnfCoKTGOGsVGfkTqoxHTxVgqBUu7AqaiuxAGyYYOxtr8FpT1Q==;hVXs/vjH0cIEBOnyjZs7zw=="
+secured: "SxovqnmfYu+C1axLOs00xNnjLkpCWufm8dG0xD26XFF6xGHl29vr+74/vdS2KbWlIWgh+RcgQnOS9+3n+HPJmphQL89o0zK6gvRpxM8Tqw3gIMU5/Gw9aLuEkMghyn7AI2QlVs2qi28Maz3XZqMnE5LcMZjYyv941GsmR8ZaRCQ1p4LlbDHECOdIKHnOGN62Np5kXef8s0R6y1Q/2Wli93cFTgdEHQI7Fd318NXF0GGmHHwodP+OVcNR/kRG4/i7TLBZccA629sqX6ULD+A7Szkv7M6ghMCCseEj48n0WZ5h6OqNquAk16nFgdRqhw8LQZ7+dpq0G7fk9peNsXQqQjjERQC3IB7YlowFnyRne1c=;LLmm+634dUXxRqSsyrUsfA=="
 ---
 
