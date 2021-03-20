@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-c
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2021/03/zapata-county-texas-trump.jpg"
         width: 2400
         height: 2400
+        isCached: true
+  - title: "'His new business': Trump seeks personal political brand as he grips Republican base"
+    excerpt: "Donald Trump issued a statement lashing out against one of the very Republican senators who made that acquittal possible. “The Republican party can never again be respected or strong with political ‘leaders’ like Senator Mitch McConnell at its helm ..."
+    publishedDateTime: 2021-03-20T05:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/20/donald-trump-republican-party-personal-political-brand"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/29a4c5409b760ba9a5af90b3d2b874ee809e0486/0_233_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07d47333c1c5099526b300582b6b51c7"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "YG86EfvVcPLW4gCm8HUEMRYMUyNobpXbl/njXnkAKGFhJ3D4Ubds7U2k9FnlU9NHQ1RBSa9IEDlf6VwvgJB8Mqxb49hoxe0cPjYZYM9bQhO+ftOoOD/p6TzyfwRj5GmY8x4hrLcd9oBhjF6Jq52Ovz760uijs7Udyf0vto0KHvScSrFm/Q3p6qGGlVOqVRNWq4vYTcP8veiRqfISdv4pqqC1duTwpJpAQTSPpFL3B2zvYjTjuH+3vyEMZFMQp2yo46k2mBkcZwOorZsMcfyu7J6/Cmp2VJQfdGHirs++B6WdDt/Uk/JwFA4foT0U+Y84XnBpH9cNIQJfoqKJOfu+KkaMCYwphmKRX8yITy4MH0I=;VbGl0tUny4EelsFMnh1hxg=="

@@ -107,6 +107,20 @@ related:
         width: 2400
         height: 2400
         isCached: true
+  - title: "'His new business': Trump seeks personal political brand as he grips Republican base"
+    excerpt: "Donald Trump issued a statement lashing out against one of the very Republican senators who made that acquittal possible. “The Republican party can never again be respected or strong with political ‘leaders’ like Senator Mitch McConnell at its helm ..."
+    publishedDateTime: 2021-03-20T05:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/20/donald-trump-republican-party-personal-political-brand"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/29a4c5409b760ba9a5af90b3d2b874ee809e0486/0_233_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07d47333c1c5099526b300582b6b51c7"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "t9Q7gRnoPKCynlun3Mrx/ZUdZs1AGQTqM/i36dAX/d49r1POvXWNJLUwi0bFBsm7JH17mlxZ3dsGmiKlDi0Q7s9vx8v9ZimMaqQtAZ3q3NZqBDXxAuZOQ9WZeXJ/8XZYYBKANcX+tLSBwhpPFq1lQGeUUd45ts1TWwRxBt8N9KEG+QSNbErUMnfk1JMoQp+JsNCFQwXaWuOro0cvSygZqVY6uPx+ikyZ9sGo25Os6gghkWpzumLYfoJi8Ok7T0rD6IoBDyFwECIusqNHkce1z7fuIObpTF4ZdEvZW1hNXAfjrW6TSwGLZoxxAK6eyiq1C4+Tc+4o4qC/1J2h8plmILD3I7tLKKmmDRqea7pM6W4=;tYKWY/M0FQhaLHOnWWU/Tw=="
 ---

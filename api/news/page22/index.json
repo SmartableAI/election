@@ -2,6 +2,62 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-02-13-biden-will-try-to-close-guantanamo-after-robust-review.md",
+      "title": "Biden will try to close Guantanamo after ‘robust’ review",
+      "excerpt": "President Joe Biden will seek to close the prison on the U.S. base at Guantanamo Bay following a review process, resuming a project begun under the Obama administration, the White House said Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DV6zWcvEJ_E/biden-will-try-to-close-guantanamo-after-robust-review",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DV6zWcvEJ_E/biden-will-try-to-close-guantanamo-after-robust-review",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-617712896.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-will-try-to-close-guantanamo-after-robust-review.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-try-to-close-guantanamo-after-robust-review.amp",
+      "publishedDateTime": "2021-02-12T23:31:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-florida-democrat-says-biden-vaccine-distribution-plan-hurts-states-with-high-senior-populations.md",
       "title": "Florida Democrat says Biden vaccine distribution plan hurts states with high senior populations",
       "excerpt": "Florida Democratic Rep. Stephanie Murphy urged President Biden to adjust his plan for distributing vaccines nationwide after finding \"obvious flaws\" that could prove detrimental to states with higher rates of seniors.",
@@ -1305,62 +1361,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-psaki-admits-parents-shouldnt-be-satisfied-with-in-person-school-one-day-a-week-as-biden-takes-heat.md",
-      "title": "Psaki admits parents shouldn't be 'satisfied' with in-person school one day a week as Biden takes heat",
-      "excerpt": "White House press secretary Jen Psaki said parents shouldn’t be satisfied with schools reopening one day a week, after doubling down on that as the White House goal for the 100th day in office. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PDVMZRSczY0/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PDVMZRSczY0/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21034688188622-e1612386247366.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week.amp",
-      "publishedDateTime": "2021-02-11T11:05:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

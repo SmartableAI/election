@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 outbreak partially shuts down Trump's Mar-A-Lago"
+    excerpt: "COVID outbreak partially closes Trump's Mar-a... 00:18 Former President Trump's Mar-A-Lago club has been partially shut down because of a COVID-19 outbreak, a receptionist confirmed to CBS News. The extent of the outbreak at the club, where Mr. Trump has ..."
+    publishedDateTime: 2021-03-20T03:49:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/20/b21cbfdc-1834-4ce0-8487-0d051d781d15/thumbnail/1200x630/75efd186fc82f99aeb2092c5fe59fe8c/gettyimages-1301449867.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Voters Hesitant About COVID Vaccine Won't Be Swayed by Former President"
     excerpt: "When trying to convince former President Donald Trump's supporters to get vaccinated against COVID-19, officials should look to hammering home facts about those who have been vaccinated and not rely on the former president's persuasion, a recent focus ..."
     publishedDateTime: 2021-03-15T17:45:00Z

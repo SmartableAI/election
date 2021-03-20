@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
 type: article
 quality: 175
-heat: 795
+heat: 815
 published: true
 
 provider:
@@ -446,6 +446,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3458152/210319-covid-vaccination-se-1132a_4a3b765696e0a6dda791ab29c0e908ee.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Sheriff’s spokesman replaced on shootings case; Biden orders flags to be flown at half-staff"
+    excerpt: "The presidential proclamation comes amid an escalating controversy over local law enforcement’s comments about the shooting suspect’s possible motivation."
+    publishedDateTime: 2021-03-20T01:50:00Z
+    webUrl: "https://www.politico.com/news/2021/03/18/warnock-atlanta-killings-hate-476945"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/18/warnock-atlanta-killings-hate-476945"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/18/warnock-atlanta-killings-hate-476945"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 124
+    images:
+      - url: "https://static.politico.com/75/fb/a1a60ada40f2814fd3e2ff8969c9/ap21069630477955.png"
+        width: 1160
+        height: 773
         isCached: true
   - title: "US has assessed North Korea could be preparing to carry out first weapons test since Biden took office"
     excerpt: "Washington (CNN)US intelligence has assessed that North Korea could be preparing to carry out their first weapons test since President Joe Biden came into office, according to several US officials speaking to CNN on condition of anonymity. The US officials ..."

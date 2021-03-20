@@ -211,6 +211,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-19-mary-trump-scoffs-at-idea-ex-presidents-children-will-run-for-office-they-have-no-skills.md",
+      "title": "Mary Trump Scoffs at Idea Ex-President's Children Will Run for Office: 'They Have No Skills'",
+      "excerpt": "Mary Trump, the niece of Donald Trump and a ferocious critic of her family, scoffed at the idea that the former president's children could become elected officials and said that \"they have no skills.\" Asked if they should run for office,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
+      "originalUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1759070/trump-family.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1",
+      "publishedDateTime": "2021-03-19T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-ex-wife-of-trump-org-executive-has-spoken-to-investigators-multiple-times.md",
       "title": "Ex-wife of Trump Org executive has spoken to investigators 'multiple times'",
       "excerpt": "Jennifer Weisselberg said it appears investigators have been seeking information about her former father-in-law, Allen Weisselberg, the company’s CFO.",
@@ -686,49 +738,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-fact-check-post-falsely-claims-price-of-oil-was-25-a-barrel-when-trump-left-office.md",
-      "title": "Fact Check-Post falsely claims price of oil was $25 a barrel when Trump left office",
-      "excerpt": "Recent social media posts have claimed that oil was only $25 a barrel when former President Donald Trump left office and more than doubled in the first months of President Joe Biden’s administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-oil-prices-idUSL1N2LG1F2",
-      "originalUrl": "https://www.reuters.com/article/factcheck-oil-prices-idUSL1N2LG1F2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LG1F2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LG1F2",
-      "publishedDateTime": "2021-03-18T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-18-judge-denies-omarosa-manigault-newman-request-to-depose-trump-john-kelly-in-lawsuit.md",
       "title": "Judge denies Omarosa Manigault Newman request to depose Trump, John Kelly in lawsuit",
       "excerpt": "A judge on Tuesday ruled that former Trump White House aide Omarosa Manigault Newman is not allowed to depose former President Trump or former Trump chief of staff John Kelly in a lawsuit relating to her White House departure in 2018.",
@@ -1078,6 +1087,49 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-fact-check-poll-shows-70-of-republican-primary-voters-in-georgia-would-vote-for-trump-in-2024-not-70-of-all-voters.md",
+      "title": "Fact Check-Poll shows 70% of Republican primary voters in Georgia would vote for Trump in 2024, not 70% of all voters",
+      "excerpt": "Social media users have been sharing a tweet which claims 70% of voters in Georgia, United States, have said they would vote for former U.S. president Donald Trump in 2024 and 55.5% disapprove of the job President Joe Biden is currently doing. The figures ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/factcheck-georgia-poll-idUSL1N2LF24D",
+      "originalUrl": "https://www.reuters.com/article/factcheck-georgia-poll-idUSL1N2LF24D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LF24D",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF24D",
+      "publishedDateTime": "2021-03-17T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1516,63 +1568,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-fired-by-trump-white-house-brother-of-impeachment-witness-vindman-now-says-army-set-to-promote-him.md",
-      "title": "Fired by Trump White House, brother of impeachment witness Vindman now says Army set to promote him",
-      "excerpt": "The brothers were both Army officers serving on the National Security Council when they raised concerns about former President Donald Trump's phone call to Ukranian President Volodymyr Zelensky in July 2019. They told an NSC lawyer that Trump's phone call ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/military/fired-trump-white-house-brother-impeachment-witness-vindman-now-says-n1261166",
-      "originalUrl": "https://www.nbcnews.com/news/military/fired-trump-white-house-brother-impeachment-witness-vindman-now-says-n1261166",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_35/3407686/200826-yevgeny-vindman-jm-1531_81b99312784f6566b63cd89ba04236a9.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261166",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261166",
-      "publishedDateTime": "2021-03-16T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

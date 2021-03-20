@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LG1F2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LG1F2"
 type: article
 quality: 99
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -25,17 +25,22 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Fact Check-Poll shows 70% of Republican primary voters in Georgia would vote for Trump in 2024, not 70% of all voters"
-    excerpt: "Social media users have been sharing a tweet which claims 70% of voters in Georgia, United States, have said they would vote for former U.S. president Donald Trump in 2024 and 55.5% disapprove of the job President Joe Biden is currently doing. The figures ..."
-    publishedDateTime: 2021-03-17T15:53:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-georgia-poll-idUSL1N2LF24D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LF24D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF24D"
+  - title: "Mary Trump Scoffs at Idea Ex-President's Children Will Run for Office: 'They Have No Skills'"
+    excerpt: "Mary Trump, the niece of Donald Trump and a ferocious critic of her family, scoffed at the idea that the former president's children could become elected officials and said that \"they have no skills.\" Asked if they should run for office,"
+    publishedDateTime: 2021-03-19T15:49:00Z
+    webUrl: "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409"
+    ampWebUrl: "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1759070/trump-family.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "TbLeV1ho8Lhna4PNdPFSXvM8MkcwrN56zg2RUFS3S4bEixmVjeajWP61hvXMxAHxwXL/1ajjEp2npcFLpyBMxKDTnMdJTIjVcXH9iMGyrvJGQfFldVtRmbTSOMSefUMJrTJdMoFNdzNVaVc5myFs47ZI0bZjp8wiHNYUfsM3uRdbBBlCKDYTKST8y18PhgvdZmHMI/XWiKVkGz9RfryPHl0RTGQIFFuX6q8JWNyjxUZAcblYicwRZ9WD8awhJLukNs3j7p7ZbBpuOb9Nc30iv2W5T16Ay7vYGDdk8u8bYUytMez37QhuaTK45dYjjqGIh8Z1fICUT1eNRPN/jIDNAm5UD5Z6haKVLxxW5Xekef8=;2pw3V0CXchFcrk/LwqGJqw=="
 ---

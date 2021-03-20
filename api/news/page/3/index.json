@@ -552,6 +552,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-17-fact-check-poll-shows-70-of-republican-primary-voters-in-georgia-would-vote-for-trump-in-2024-not-70-of-all-voters.md",
+      "title": "Fact Check-Poll shows 70% of Republican primary voters in Georgia would vote for Trump in 2024, not 70% of all voters",
+      "excerpt": "Social media users have been sharing a tweet which claims 70% of voters in Georgia, United States, have said they would vote for former U.S. president Donald Trump in 2024 and 55.5% disapprove of the job President Joe Biden is currently doing. The figures ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/factcheck-georgia-poll-idUSL1N2LF24D",
+      "originalUrl": "https://www.reuters.com/article/factcheck-georgia-poll-idUSL1N2LF24D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LF24D",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF24D",
+      "publishedDateTime": "2021-03-17T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-tough-to-withdraw-from-afghanistan-by-may.md",
       "title": "Biden: 'Tough' to withdraw from Afghanistan by May",
       "excerpt": "Withdrawing all U.S. troops from Afghanistan by May 1 as called for in a deal between the United States and the Taliban would be \"tough,\" President Biden Joe Biden Biden and Congress must take bold action to prevent violent extremism The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border crisis MORE said in an interview aired Wednesday,",
@@ -1272,7 +1315,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1313,58 +1356,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-trump-says-election-should-have-been-overturned.md",
-      "title": "Trump says election 'should have been overturned'",
-      "excerpt": "Former President Trump said the 2020 election “should have been overturned,” citing his repeated claims of voter fraud despite a lack of evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
-      "originalUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 360,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald4_08192020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp",
-      "publishedDateTime": "2021-03-16T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -510,7 +510,7 @@ related:
   - title: "Biden addresses Atlanta attacks: ‘words have consequences’ whatever the motivation - as it happened"
     excerpt: "When it does, that’s the day you know you’re going to make it.” Joe Biden speaks at Emory University in Atlanta, Georgia. Photograph: Eric Baradat/AFP/Getty Images Updated at 6.28pm EDT Joe Biden has addressed the shootings in Atlanta, saying that ..."
     publishedDateTime: 2021-03-19T22:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-60551ca28f0825dddef5daf8"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
     type: article
@@ -739,6 +739,22 @@ related:
     quality: 89
     images:
       - url: "https://i.insider.com/5f1052132618b95c16267fa4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "In Atlanta speech, President Biden calls for an end to anti-Asian attacks and says that Georgia 'made it possible to pass the American Rescue Plan'"
+    excerpt: "DOW S&P 500 NASDAQ 100 In heartfelt speeches on Friday, President Joe Biden and Vice President Kamala Harris addressed Tuesday's shootings at Atlanta-area Asian-owned spas, honoring the victims and calling for an end to attacks against Asian Americans."
+    publishedDateTime: 2021-03-19T23:23:00Z
+    webUrl: "https://www.businessinsider.com/biden-condemns-anti-asian-attacks-touts-georgia-senators-covid-relief-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-condemns-anti-asian-attacks-touts-georgia-senators-covid-relief-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-condemns-anti-asian-attacks-touts-georgia-senators-covid-relief-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/605531c11fcb5700186ee8ab?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

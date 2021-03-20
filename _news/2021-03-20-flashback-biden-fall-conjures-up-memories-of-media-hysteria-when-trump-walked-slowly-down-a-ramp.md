@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CNN, MSNBC erupted over Trump's ramp walk -- but virtually ignore Biden's staircase stumble"
+    excerpt: "After sounding the alarm over President Trump's use of a ramp at the U.S. Military Academy during the 2020 presidential election, both CNN and MSNBC on Friday virtually ignored President Biden's intense fall while climbing the stairs onto Air Force One."
+    publishedDateTime: 2021-03-20T06:37:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Trump-West-Point-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "e5lSV4X/N/xwtvAfbXsIafNKu0blQNJl6TBJ4DHNK6ReHYuKAZongz52EeAcgl0CFU2Jkue/tlxcEzdae88TcaQgGT78IWdBqIY3KhnVStcfVsyp2rlW89cM2Yp7GTgr7euxm+NI2ltVclQBI1CzSDp4k0sNMVK3pvfOVEcuuFawyS3bU8V5l4yGFqfkZJxWQ+oTY/m83x/MDgv5pAcbKm9Pd0ei0XvhGY6eKvmbIydbZwecLagveF7JJuItDJsRJPFXhQLEZrsEo7WU2Mc7f+64H4EGVsOxPRZXacZF/YMKfZO1eIfQt4Gl3jbHQw1MwH/iyke06ShHoq1D6qdFkqdzhTchtbbYaGG7u8k8XvDmIRBT8/reecVQ8CW+lT3/CUH/+HmvN5q6RUSIBrJp/WXx+ZKdrhKiTuknTwlJNZU5CWgAF9ghnnLfgSvCJwk7f4hd/gMerdFXuy/iVEKCyobWP1mCQAJnlbyT2pKqzSt+7uG8Sgyswi6cs1htyMKRJpHBVhlP1fBXetm+hRXfXw==;4Qh4abXsu8KN+9QpRhuRwg=="
 ---

@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 outbreak partially shuts down Trump's Mar-A-Lago"
+    excerpt: "COVID outbreak partially closes Trump's Mar-a... 00:18 Former President Trump's Mar-A-Lago club has been partially shut down because of a COVID-19 outbreak, a receptionist confirmed to CBS News. The extent of the outbreak at the club, where Mr. Trump has ..."
+    publishedDateTime: 2021-03-20T03:49:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/20/b21cbfdc-1834-4ce0-8487-0d051d781d15/thumbnail/1200x630/75efd186fc82f99aeb2092c5fe59fe8c/gettyimages-1301449867.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump's Mar-a-Lago resort partially closed by Covid-19 outbreak"
     excerpt: "Receptionist says Florida club where Trump moved after leaving White House is closed until further notice"
     publishedDateTime: 2021-03-19T17:28:00Z
@@ -425,6 +441,6 @@ related:
         height: 675
         isCached: true
 
-secured: "vRAyo5AhOb9/6fEqwUvq9rfrGoDV4lGZzmzNr4J3kPs0rgC+HxZml6KmJay69cUWZgZVx/2lBGQWodokn3BYGw5HSPP6KXEATyy5wNB2NaaodcXJ9KwhTrSwx7Vd3oDNCe+ZBAfos9GAOp/DRBI4zwRyfqBdl8YvvmW84mPOgQHVWVop0kWADV7tpPm54ydgHAcMxSeZRSzKYPbIMl17ANAh4eeAHnj72BTj10KfTn34+c5+I/uFd4T64oGkNrBmol/UKsDRqO6Z6ZozU6Vt+cwqHnAYnhY3lqKRW6P6F4qMAO54hBADdULyy3ERg5h2t1xHg/E2qdHlE44iAniVjAwK4oveHwhIWDvIxT5uybA=;mm7riQ2en7BSvYhlvdXOkw=="
+secured: "Faimz22JsfJpeGwizf0LKYQYdC/K15gPdWwSe8h0IT0RhkkXY/3L+i7z4A8NcN3nKeARpSPt9Dmsr2Kj8YsWtwx5TQMxUu1iK56fj5XtPa+92Nob6htSHWiqSeLoj6XT+ezOFzN4CVneA71Z8exlsEKgga4H+iVKiQ5Qi4yaqhxsJB+XxqAIgeIMtkLEqwv3OMw2FngOZqoUblYFEk8sJ5M/lGh/iaSxVsEeoFq6nYgTESHU+psBItynB98Tn70EYlQs83GySikKfCFCIbkGJht5qxMFjmUNspHv26mPe3bDnJKWKOUTrWU1oyP+zP+9wZ17MzAHwGpFI+gAL9Ra0D3j+O95o3dJ0LKQjRlA8HImYiNdH43EyUWgOHjM2IF1lZ9Ws4iANXUwL005gGcP7ZnT/rUJq8ih95OalKYHMIYqKAhi7r2flEMfsD3KcjnHovbN8EZmXgxUGWPHpAPR3P+PtLnT6wXUzk7D91iWIHx8VqddRfRDlfuQYJ5Z5WUy/dnNVJ2c8o/rHUgJ0jsoUA==;pXI/igtHGI1cls664G0KwA=="
 ---
 

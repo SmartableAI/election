@@ -2,6 +2,59 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-15-kamala-harris-said-parts-of-the-trump-administrations-pandemic-response-left-biden-starting-from-scratch.md",
+      "title": "Kamala Harris said parts of the Trump administration's pandemic response left Biden 'starting from scratch'",
+      "excerpt": "Harris told \"Axios on HBO\" that the Trump administration left the country with no vaccine stockpile and no national strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
+      "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1067,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602a48982edd0f001a8d5c4c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
+      "publishedDateTime": "2021-02-15T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-biden-to-join-virtual-g7-event-friday-with-global-leaders-on-covid-19-efforts.md",
       "title": "Biden to join virtual G7 event Friday with global leaders on Covid-19 efforts",
       "excerpt": "President Joe Biden will participate in a virtual G7 event on Friday where he plans to discuss efforts to combat the Covid-19 pandemic and rebuild the world economy.\n    \n",
@@ -1286,62 +1339,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-biden-will-try-to-close-guantanamo-after-robust-review.md",
-      "title": "Biden will try to close Guantanamo after ‘robust’ review",
-      "excerpt": "President Joe Biden will seek to close the prison on the U.S. base at Guantanamo Bay following a review process, resuming a project begun under the Obama administration, the White House said Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DV6zWcvEJ_E/biden-will-try-to-close-guantanamo-after-robust-review",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DV6zWcvEJ_E/biden-will-try-to-close-guantanamo-after-robust-review",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-617712896.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-will-try-to-close-guantanamo-after-robust-review.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-try-to-close-guantanamo-after-robust-review.amp",
-      "publishedDateTime": "2021-02-12T23:31:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

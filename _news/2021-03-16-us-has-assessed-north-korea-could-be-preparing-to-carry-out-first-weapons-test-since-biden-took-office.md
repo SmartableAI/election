@@ -464,6 +464,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Sheriff’s spokesman replaced on shootings case; Biden orders flags to be flown at half-staff"
+    excerpt: "The presidential proclamation comes amid an escalating controversy over local law enforcement’s comments about the shooting suspect’s possible motivation."
+    publishedDateTime: 2021-03-20T01:50:00Z
+    webUrl: "https://www.politico.com/news/2021/03/18/warnock-atlanta-killings-hate-476945"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/18/warnock-atlanta-killings-hate-476945"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/18/warnock-atlanta-killings-hate-476945"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 124
+    images:
+      - url: "https://static.politico.com/75/fb/a1a60ada40f2814fd3e2ff8969c9/ap21069630477955.png"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Presidential Speech Highlights: Biden Calls For U.S. to ‘Mark Our Independence From This Virus’ by 4th of July"
     excerpt: "The president delivered his first prime-time White House address, hours after signing into law a $1.9 trillion stimulus package."
     publishedDateTime: 2021-03-12T16:18:00Z

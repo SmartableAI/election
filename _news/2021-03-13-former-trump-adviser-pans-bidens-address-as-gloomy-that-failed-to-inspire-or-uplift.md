@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "CNN, MSNBC erupted over Trump's ramp walk -- but virtually ignore Biden's staircase stumble"
+    excerpt: "After sounding the alarm over President Trump's use of a ramp at the U.S. Military Academy during the 2020 presidential election, both CNN and MSNBC on Friday virtually ignored President Biden's intense fall while climbing the stairs onto Air Force One."
+    publishedDateTime: 2021-03-20T06:37:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Trump-West-Point-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Flashback: Biden fall conjures up memories of media hysteria when Trump walked slowly down a ramp"
     excerpt: "President Biden fell three times when attempting to board Air Force One on Friday, conjuring up memories of the mainstream media hyperventilating over former President Trump cautiously walking down a ramp last year."
     publishedDateTime: 2021-03-19T19:00:00Z

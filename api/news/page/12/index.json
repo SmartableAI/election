@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-03-mike-pence-calls-proposed-election-reform-bill-reckless-and-anti-democratic-in-op-ed.md",
+      "title": "Mike Pence Calls Proposed Election Reform Bill 'Reckless' and 'Anti-Democratic' in Op-Ed",
+      "excerpt": "The former vice president said H.R. 1, also known as For the People Act, was \"a brazen attempt to nationalize elections in blatant disregard of the U.S. Constitution.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-calls-proposed-election-reform-bill-reckless-anti-democratic-op-ed-1573460",
+      "originalUrl": "https://www.newsweek.com/mike-pence-calls-proposed-election-reform-bill-reckless-anti-democratic-op-ed-1573460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1747132/mike-pence-election-reform-oped.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-calls-proposed-election-reform-bill-reckless-anti-democratic-op-ed-1573460?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-calls-proposed-election-reform-bill-reckless-anti-democratic-op-ed-1573460?amp=1",
+      "publishedDateTime": "2021-03-03T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-kamala-harris-tweet-about-dr-seuss-resurfaces-amid-racial-controversy.md",
       "title": "Kamala Harris’ tweet about Dr. Seuss resurfaces amid racial controversy",
       "excerpt": "Harris was a senator when she sent out the tweet, dated March 2, 2017, in which she wished the famed children’s book author a happy birthday.",
@@ -1301,49 +1353,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-elizabeth-warrens-wealth-tax-plan-is-back-but-is-joe-biden-on-board.md",
-      "title": "Elizabeth Warren's wealth tax plan is back. But is Joe Biden on board?",
-      "excerpt": "\"He has a lot of respect for Senator Warren and is aligned on the goal of ensuring the ultra-wealthy and big corporations finally pay their fair share.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden",
-      "originalUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boston.com/wp-content/uploads/2021/03/USUQ37BEHVNAMO2EOJ7Z5COMHM-603d71faeee5a-850x478.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden/amp",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden/amp",
-      "publishedDateTime": "2021-03-01T19:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

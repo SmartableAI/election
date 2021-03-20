@@ -3,8 +3,8 @@ category: news
 title: "Biden addresses Atlanta attacks: ‘words have consequences’ whatever the motivation - as it happened"
 excerpt: "When it does, that’s the day you know you’re going to make it.” Joe Biden speaks at Emory University in Atlanta, Georgia. Photograph: Eric Baradat/AFP/Getty Images Updated at 6.28pm EDT Joe Biden has addressed the shootings in Atlanta, saying that ..."
 publishedDateTime: 2021-03-19T22:18:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-60551ca28f0825dddef5daf8"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-60551ca28f0825dddef5daf8"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
 type: article
@@ -742,6 +742,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "In Atlanta speech, President Biden calls for an end to anti-Asian attacks and says that Georgia 'made it possible to pass the American Rescue Plan'"
+    excerpt: "DOW S&P 500 NASDAQ 100 In heartfelt speeches on Friday, President Joe Biden and Vice President Kamala Harris addressed Tuesday's shootings at Atlanta-area Asian-owned spas, honoring the victims and calling for an end to attacks against Asian Americans."
+    publishedDateTime: 2021-03-19T23:23:00Z
+    webUrl: "https://www.businessinsider.com/biden-condemns-anti-asian-attacks-touts-georgia-senators-covid-relief-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-condemns-anti-asian-attacks-touts-georgia-senators-covid-relief-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-condemns-anti-asian-attacks-touts-georgia-senators-covid-relief-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/605531c11fcb5700186ee8ab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris to speak at Nickelodeon Kids' Choice Awards"
     excerpt: "March 12 (UPI) --Vice President Kamala Harris will speak at the 2021 Nickelodeon Kids' Choice Awards. Nickelodeon confirmed in a press release Friday that Harris, 56, will deliver special remarks during the awards show Saturday. Advertisement Harris will ..."
     publishedDateTime: 2021-03-12T16:40:00Z
@@ -1034,6 +1050,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "QiRBrTvkr9fjysWroRj3Dv23rTA53bZ/ugF1hGuj3F62R2Pj2P7OFla5OvhAMiwPvatq1y1fyQRL8Spy6Z/qA5nxbsFHGzMGv1y+OpYHsw0fTUENDfGb39tpA/eoof/ltiBccPwvpCXXSJxtYAUWHFrxcrHi4QhPRafAopS356rXReue7l4VOZq1DlFAGb5ZopoNZrpwMjL/Z2ob+ViijTWVIy+aOTTMCmYCJeIVmBHt2AfkPVI9m5EJDjZdidEYDDZliPTmPSxI3eFAaGvMKHn5J+5C3meA6SzMkaxhmfjQ3CseQ7hX6X7qg+0E83dxrv7JXEuMCPWTlkPH9acF/1KFJZB+t3t2DHCoI017vV8=;jnXXXlM+HPt9dxidxffosg=="
+secured: "bXw8ocUjJkmrpgeNlr+PmNdNC6rCNTuMEg200baJvS8KZhFVR1eFIwjnEOi3wJtH1OP9ehwWmonD360mViRT/CRaLKk4YDloDzKEoPumvqt1Y/dLOMN9OXTrvbjl6x8JnIastoTBeMeSQVC7x2OJpzmNO7BcvGie4eeC1h5R9JiAJ1ja9/jBME6n3NjYLpOLQ18c2WfmKl6cEOIaw7HBQMFmKy9S9UF2FA8/G8udySQznZK3wq6/IiGB+Euxx+qIzo9ekyb8xuP91TwX4VgnPSpNaYulKsxdFt53U9LiMWuOjAkCAvSnWayztzoi6gIHTj5HvqJaGC8couP+5+yxLrgf+lF1kkNm0Vdr0L5uuHo=;nWs9a4VjYDIRxquDdx35lw=="
 ---
 

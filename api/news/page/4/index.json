@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-17-trump-says-election-should-have-been-overturned.md",
+      "title": "Trump says election 'should have been overturned'",
+      "excerpt": "Former President Trump said the 2020 election “should have been overturned,” citing his repeated claims of voter fraud despite a lack of evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
+      "originalUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 360,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald4_08192020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp",
+      "publishedDateTime": "2021-03-16T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-vp-harris-dodges-question-about-migrant-children-i-havent-been-briefed-on-anything-today-about-it.md",
       "title": "VP Harris dodges question about migrant children: 'I haven't been briefed on anything today about it'",
       "excerpt": "Harris' response comes as the Biden administration has refused to call the perilous border situation a crisis.",
@@ -1296,62 +1348,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-psaki-acknowledges-big-problem-at-border-blames-trump-administration.md",
-      "title": "Psaki acknowledges ‘big problem’ at border, blames Trump administration",
-      "excerpt": "White House press secretary Jen Psaki on Monday referred to the influx of migrants at the southern border as a “big problem” and blamed the Trump administration for an “unworkable system” -- following weeks of the Biden administration refusing to call it a “crisis.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yJNGeaJjy10/psaki-acknowledges-big-problem-at-border-blames-trump-administration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yJNGeaJjy10/psaki-acknowledges-big-problem-at-border-blames-trump-administration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdea85e2-ea28-429b-a835-9cd14914c963/761c5027-d1f1-4704-bcc4-9a870e352bf8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-acknowledges-big-problem-at-border-blames-trump-administration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-acknowledges-big-problem-at-border-blames-trump-administration.amp",
-      "publishedDateTime": "2021-03-15T11:33:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
