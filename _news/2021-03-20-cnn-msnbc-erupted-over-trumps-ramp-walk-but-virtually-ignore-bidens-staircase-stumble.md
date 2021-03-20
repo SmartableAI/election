@@ -112,6 +112,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
+    excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"
+    publishedDateTime: 2021-03-20T15:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/16/trump_biden_border_crisis_will_get_much_worse_like_youve_never_seen.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/50/509974.jpg"
+        width: 500
+        height: 375
+        isCached: true
 
 secured: "+vGJCsSuOKvGSCUVNSCNHBDrk/bdatuej421NY8IHObz2P8vmDAvNSYQfaLmXbJhFyePQRJj4+4GJbVDwHZS7T/SNskfy572AUyhp2KX1lVmMbGwkzk2q71/4uGXoKyN4u/0mOaiIt3MN0GQ2lajto2RlGuw90GVRwTuJkefA2ORdvna6RFq8h4k8Uw/6YOLjAv9T+851SLXKK7ejE6ocCyp8UkOkSpMFMzgqUipEWNDW+s2Jb4CYipfko4DCIrTYTgcbvuf6JswLjTukeQzY/z6ECI5y5+2QbyFV937ILJdCJXxlehGdX2IKGiH/Yq0Nzh8qiHGkmovCHLAgsuG+a+Qt9QJCHHkmFi6wb0Nizc=;qD34K3+F5ypbwn1/IR4glg=="
 ---

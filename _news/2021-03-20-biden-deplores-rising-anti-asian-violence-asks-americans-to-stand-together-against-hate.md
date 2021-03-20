@@ -1,31 +1,33 @@
 ---
 category: news
-title: "'Very troubling': Joe Biden and Kamala Harris on Atlanta spa shootings – video"
-excerpt: "Harris said the Atlanta massage parlor shootings were ‘tragic’ and spoke to the larger issue of violence in American society"
-publishedDateTime: 2021-03-17T17:37:00Z
-originalUrl: "https://www.theguardian.com/us-news/video/2021/mar/17/very-troubling-joe-biden-and-kamala-harris-on-atlanta-spa-shootings-video"
-webUrl: "https://www.theguardian.com/us-news/video/2021/mar/17/very-troubling-joe-biden-and-kamala-harris-on-atlanta-spa-shootings-video"
+title: "Biden deplores rising anti-Asian violence, asks Americans to stand together against hate"
+excerpt: "President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday."
+publishedDateTime: 2021-03-20T05:14:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
+webUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
 type: article
 quality: 116
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/f4a638864f3918c76fd642f7e683c49f8b5d69d3/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94514b230302fc6479c04bb1f0d22a6d"
-    width: 1200
-    height: 630
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555545258&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I1IE"
+    width: 808
+    height: 545
     isCached: true
 
 related:
@@ -443,21 +445,19 @@ related:
         width: 2500
         height: 1675
         isCached: true
-  - title: "Biden deplores rising anti-Asian violence, asks Americans to stand together against hate"
-    excerpt: "President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday."
-    publishedDateTime: 2021-03-20T05:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
+  - title: "'Very troubling': Joe Biden and Kamala Harris on Atlanta spa shootings – video"
+    excerpt: "Harris said the Atlanta massage parlor shootings were ‘tragic’ and spoke to the larger issue of violence in American society"
+    publishedDateTime: 2021-03-17T17:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/17/very-troubling-joe-biden-and-kamala-harris-on-atlanta-spa-shootings-video"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 116
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555545258&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I1IE"
-        width: 808
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/f4a638864f3918c76fd642f7e683c49f8b5d69d3/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94514b230302fc6479c04bb1f0d22a6d"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live"
     excerpt: "Covid-19 Hate Crimes Act would ‘expedite the government’s response to the rise of hate crimes exacerbated during the pandemic’ – follow the latest"
@@ -1080,6 +1080,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "DYeI1QcO0J5Hs0A8Spnk9XwejiQg6N8OKFF+EiMzZtHqODEOQ06X41tZxkxtOL4pyx/3fNr0nHkp0jGZWR/SSXQlrkS6mhl3o97LBgSzUWVAv/O2dPhMRq1OP4te2YYE4F6o9CaIRdHW6gBFCMhlpAquhgugzWMqNoEnucMWgijBI2IGSi2K5netmBpGt1shUWuPQIxeUZPuZrZ58OotMkR0Zy/APL0h/V3mt1ygLpTaH+bkcstnIv8CnASscU4hR2EGGw7kooUuNdEbMUUY83BWAnYnBj0RNroKVuIOKX38JwFQ2p47ZrmqkpLdNjDzad+EzJDmGl/KjzEkX5ed2mJjgzToDcjQQzCYUUEieSsAM7NTR1HY8/14soF9lvJRFjJfhf0RDwY0dxFwx1sk7l+L9kPYWEJYJSw0SUovwxfyvGaFD3EPKvZtG0KLf0NuB7s+hXobaAcMS76Lb1sLzTTbeoNmm782qZa7pYb18X9PQ9EYZKCnUJfzHhTPfbEGS66d5ZUCJQt6W8zHAcjjVA==;2Yqs2zsm3qxY+m7M+xH1Bg=="
+secured: "U64I3Z6zes+3dLytbefg8VG4RAVWMPpdNnsniK9eiTsP17oDqOAQP2MxPUpHKp8412V/zfKgAf7yuj09gsQMFdx28vxf/SAYTZa9m+goKJgCas6Q6T6q/bXHgklp5ehIY8ON6U2ZA9rp06yY4lYxDTGtkkV73eQGDHf+NQtlSbg3BYuSYOLix7HpDEJzrdHK97yhbhccjej0HWHLmnU9eTwYdikkPfTxOzzeE0vdWJKLSBuJeotbkZryGGLkWAJxluOU5NXGR7rgSjrfmbEHtc0QYrObE+Bqg7UbCh2GtgLYbbF14ADxJcKa2oah8tGffWPJrl3+LnkqWMZ+9BefhfqD7Zq8p7CvD/7bnruO+Iw=;ZQPGHW4HAVq52zYdqrd5ig=="
 ---
 

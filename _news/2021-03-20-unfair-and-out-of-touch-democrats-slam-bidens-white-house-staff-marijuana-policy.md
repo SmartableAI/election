@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's White House reportedly pushed out and sidelined staffers who disclosed past marijuana use even in states where the drug is legal"
-excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. The White ..."
-publishedDateTime: 2021-03-19T14:44:00Z
-originalUrl: "https://www.businessinsider.com/white-house-biden-pushed-out-sidelined-staff-marijuana-use-2021-3"
-webUrl: "https://www.businessinsider.com/white-house-biden-pushed-out-sidelined-staff-marijuana-use-2021-3"
-ampWebUrl: "https://www.businessinsider.com/white-house-biden-pushed-out-sidelined-staff-marijuana-use-2021-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-biden-pushed-out-sidelined-staff-marijuana-use-2021-3?amp"
+title: "'Unfair and out-of-touch': Democrats slam Biden's White House staff marijuana policy"
+excerpt: "Sources told The Daily Beast that dozens of young staffers under were suspended, asked to resign, or told to work remotely after informing the White House that they had smoked marijuana recreationally — a marked reversal from President Joe Biden ..."
+publishedDateTime: 2021-03-20T15:13:00Z
+originalUrl: "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3"
+webUrl: "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3"
+ampWebUrl: "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp"
 type: article
-quality: 92
+quality: 118
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/5fd8cb95dc030c001aab6a0a?width=1200&format=jpeg"
+  - url: "https://i.insider.com/60560d061fcb5700186ee8e0?width=1200&format=jpeg"
     width: 1200
     height: 600
     isCached: true
@@ -543,22 +543,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "'Unfair and out-of-touch': Democrats slam Biden's White House staff marijuana policy"
-    excerpt: "Sources told The Daily Beast that dozens of young staffers under were suspended, asked to resign, or told to work remotely after informing the White House that they had smoked marijuana recreationally — a marked reversal from President Joe Biden ..."
-    publishedDateTime: 2021-03-20T15:13:00Z
-    webUrl: "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/60560d061fcb5700186ee8e0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Several U.S. states sue Biden administration for revoking permit for Keystone XL pipeline"
     excerpt: "Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday."
     publishedDateTime: 2021-03-18T09:10:00Z
@@ -901,7 +885,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's White House reportedly pushed out and sidelined staffers who disclosed past marijuana use even in states where the drug is legal"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. The White ..."
+    publishedDateTime: 2021-03-19T14:44:00Z
+    webUrl: "https://www.businessinsider.com/white-house-biden-pushed-out-sidelined-staff-marijuana-use-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/white-house-biden-pushed-out-sidelined-staff-marijuana-use-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-biden-pushed-out-sidelined-staff-marijuana-use-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5fd8cb95dc030c001aab6a0a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "lR77jTqt4zOzmq3pDsJewMfJo0ybUV4CFKgc87XfUDOHQy5BQY5K5G6y7YAmhU8gCEDgX5y7puBsp7bMLSU6zeK1CrbdyIJ3vpA1nQLHf/f09mkNie9h4HKJe9/zABz5yB7ZHKJ8LIs1h17mmFSqnD6svLyz3HKhA0RuwXpEEl/3QsXr9eLyDiXOXlOeLk9/mq+Tb+dBuD13Y253624bkjV9nKvXPFtubAjMUzHaujvBZ3wqFG2vSaZ5HiFavcHygL8MKzCx5dT5MLbGUNft/i1yRPeZwDTX5NoutpDPT3KZburnhC7dNcWBriA/cWJhOyoe8sPLDVv8T7rFHpv7J1+FpKevr4xw+tYk4IKxdxf2qInS9021+sKVfE5775dBYdWtLqdsWWh1ihWgPKVVNErC/uwVmeLDAEyyiVqpQGl50wn69GbGevjqwuj1ubeOfGV5BSJAEXg89HgEBDlc4ED7JxbmMyebdBEMa25DQo3DwUKaLINKBx6ggdRu+FMLgCHopGIsPKIy63AX+AfqDQ==;rIjOi8ij9UhGGcQQpbROuQ=="
+secured: "176lbwYYT4K/yS9i3uMGEMIfVdRcrDQtSiv6A5ivp8KrxmkavDzPyu5CLV0Eftpe5HngGCUXPezT2r3DjLK4nL4M2Pfwo32tY1zJkhiQ1knEMK4FZnuWrtiYE+h5FQpJTHapLBhT9KAfcZWXHWtzvH33tZx4czL0/n58+bnjgm0xE76xkhucBeeHBzmK0fv6QdB1/Sm18mL+Pl7SChQ+maTqzNA160wbtySeVTBuk7AuUgpOMUq7TK0VKl0PgKmjBIvMiIOHxHy/HRFnWZ0Vq2NIzuaNLxWQ52zgqg+hmKkEveV7TRtj8baf/J4JcBx58HQ//NL2ScTirJD0vIyOgySngcXzsutRMLhhlW7/DOE=;Jct4IVkih4GHLPkYHPMMuA=="
 ---
 

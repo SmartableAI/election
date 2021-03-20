@@ -1,24 +1,18 @@
 ---
 category: news
-title: "Flashback: Biden fall conjures up memories of media hysteria when Trump walked slowly down a ramp"
-excerpt: "President Biden fell three times when attempting to board Air Force One on Friday, conjuring up memories of the mainstream media hyperventilating over former President Trump cautiously walking down a ramp last year."
-publishedDateTime: 2021-03-19T19:00:00Z
-originalUrl: "https://www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp"
-webUrl: "https://www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp"
-ampWebUrl: "https://www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp.amp"
+title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
+excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"
+publishedDateTime: 2021-03-20T15:28:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/03/16/trump_biden_border_crisis_will_get_much_worse_like_youve_never_seen.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/03/16/trump_biden_border_crisis_will_get_much_worse_like_youve_never_seen.html#!"
 type: article
-quality: 137
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,9 +20,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57251046-2d50-49cc-89bb-faad0d5819f9/493c0740-d968-4c4e-8b16-bebbb2038260/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/50/509974.jpg"
+    width: 500
+    height: 375
     isCached: true
 
 related:
@@ -112,21 +106,23 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
-    excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"
-    publishedDateTime: 2021-03-20T15:28:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/16/trump_biden_border_crisis_will_get_much_worse_like_youve_never_seen.html#!"
+  - title: "Flashback: Biden fall conjures up memories of media hysteria when Trump walked slowly down a ramp"
+    excerpt: "President Biden fell three times when attempting to board Air Force One on Friday, conjuring up memories of the mainstream media hyperventilating over former President Trump cautiously walking down a ramp last year."
+    publishedDateTime: 2021-03-19T19:00:00Z
+    webUrl: "https://www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp"
+    ampWebUrl: "https://www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 79
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
     images:
-      - url: "https://assets.realclear.com/images/50/509974.jpg"
-        width: 500
-        height: 375
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57251046-2d50-49cc-89bb-faad0d5819f9/493c0740-d968-4c4e-8b16-bebbb2038260/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "e5lSV4X/N/xwtvAfbXsIafNKu0blQNJl6TBJ4DHNK6ReHYuKAZongz52EeAcgl0CFU2Jkue/tlxcEzdae88TcaQgGT78IWdBqIY3KhnVStcfVsyp2rlW89cM2Yp7GTgr7euxm+NI2ltVclQBI1CzSDp4k0sNMVK3pvfOVEcuuFawyS3bU8V5l4yGFqfkZJxWQ+oTY/m83x/MDgv5pAcbKm9Pd0ei0XvhGY6eKvmbIydbZwecLagveF7JJuItDJsRJPFXhQLEZrsEo7WU2Mc7f+64H4EGVsOxPRZXacZF/YMKfZO1eIfQt4Gl3jbHQw1MwH/iyke06ShHoq1D6qdFkqdzhTchtbbYaGG7u8k8XvDmIRBT8/reecVQ8CW+lT3/CUH/+HmvN5q6RUSIBrJp/WXx+ZKdrhKiTuknTwlJNZU5CWgAF9ghnnLfgSvCJwk7f4hd/gMerdFXuy/iVEKCyobWP1mCQAJnlbyT2pKqzSt+7uG8Sgyswi6cs1htyMKRJpHBVhlP1fBXetm+hRXfXw==;4Qh4abXsu8KN+9QpRhuRwg=="
+secured: "G8xaSVocBZSJ35cCknWURCliSyujqtvy/SYZYi4gnrkpUiITIA0vUuU0kPL7mdzIuCp5qXC0CZ1NW/cJbTbOYiKUYmAAUP2lI6Zwbegx9sD0I8Oqwo2IyYcPAFZwm7MwqzAPf4H3ctnC6hnxoj4e5Zma8CWqh6OZi8hlQGjmIZoEN4Og/n6GofwVERl3KcmlIwh/VO/6Kr2b7umitBkYF33S2MwFOdjNFMpa7kgiaKg1nzWEqi4RjM1/E7YsQWSPv1C9YuA505bJdrI99Df7c9ZK7O2KrJE5M2NJBV0cboo3xgsePxrMTD9fa8NazXgf1BuepU4nyIczHWN2thq9OYtwCSjzC5AOtcg1qwNrVxs=;WamVhY3vwT13p6wL/ptIBA=="
 ---
 

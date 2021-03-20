@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1"
 type: article
 quality: 138
-heat: 1238
+heat: 1258
 published: true
 
 provider:
@@ -526,6 +526,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHZ4KLEI64I6XP67JU3NVOB2NU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "'Unfair and out-of-touch': Democrats slam Biden's White House staff marijuana policy"
+    excerpt: "Sources told The Daily Beast that dozens of young staffers under were suspended, asked to resign, or told to work remotely after informing the White House that they had smoked marijuana recreationally — a marked reversal from President Joe Biden ..."
+    publishedDateTime: 2021-03-20T15:13:00Z
+    webUrl: "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/60560d061fcb5700186ee8e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Several U.S. states sue Biden administration for revoking permit for Keystone XL pipeline"
     excerpt: "Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday."

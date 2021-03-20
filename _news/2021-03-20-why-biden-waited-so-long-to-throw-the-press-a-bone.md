@@ -552,6 +552,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Same old Joe: Rebuffing staff who smoked pot fits Biden’s MO"
+    excerpt: "Anyone surprised that Joe Biden would scrutinize the weed-smoking habits of his White House staff hasn't paid attention to one of the more consistent policy threads of his decades-long career. He’s just not ready to embrace cannabis. Despite a shift in ..."
+    publishedDateTime: 2021-03-19T23:56:00Z
+    webUrl: "https://www.politico.com/news/2021/03/19/same-old-joe-rebuffing-staff-who-smoked-pot-fits-bidens-mo-477283"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/74/23/be836012497c9fdf3e614f9b6575/210318-joe-biden-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
     excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
     publishedDateTime: 2021-03-18T20:50:00Z

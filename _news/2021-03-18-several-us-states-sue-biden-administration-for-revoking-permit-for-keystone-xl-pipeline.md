@@ -543,6 +543,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'Unfair and out-of-touch': Democrats slam Biden's White House staff marijuana policy"
+    excerpt: "Sources told The Daily Beast that dozens of young staffers under were suspended, asked to resign, or told to work remotely after informing the White House that they had smoked marijuana recreationally — a marked reversal from President Joe Biden ..."
+    publishedDateTime: 2021-03-20T15:13:00Z
+    webUrl: "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/60560d061fcb5700186ee8e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
     excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"
     publishedDateTime: 2021-03-14T00:35:00Z

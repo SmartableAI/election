@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-visit-cdc-say-science-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-visit-cdc-say-science-is-back-coronavirus-pandemic.amp"
 type: article
 quality: 186
-heat: 286
+heat: 306
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57251046-2d50-49cc-89bb-faad0d5819f9/493c0740-d968-4c4e-8b16-bebbb2038260/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
+    excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"
+    publishedDateTime: 2021-03-20T15:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/16/trump_biden_border_crisis_will_get_much_worse_like_youve_never_seen.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/50/509974.jpg"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "1qU7fXyl2QVLWNfDFrR4EmTRCB3kj6ChuLlH0H5+2ktFnoPwnVBID5DcoBbJ7vwu8plBCYk9DEbfilFnhx5QR4GwwSRf0+vLqyS6SwrcE68mO4872vW6ttHmV3xvG0Tk0EdhvxjynIqXU4ZbOuCI2rrgWJ0KF1cflxQDrWtHUPq4SC7tWizE0yPvQ/H9e8omyKUi4hWDdQsl6doWSgLn0ik4dk0QBA9S+8khSo6lQYZ7K6a4g+ZajvraiJyMMAoNHUeySwr5uj+TkLQv9jkk/hzRndQx1blIWQoHvw7zes98/k8V4ItZviBjEo7S6TsIerun4wHOnQ2rlVVQ8t0m/2rW0xwHqYI1d5jXPWOPrP0=;RvkU+A5F9VOuXjl1cZknvA=="

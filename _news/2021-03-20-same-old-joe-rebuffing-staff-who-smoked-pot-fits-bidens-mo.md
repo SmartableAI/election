@@ -1,33 +1,32 @@
 ---
 category: news
-title: "'Frustration in our future': Democrats prepare for internal clashes that could slow Biden's agenda"
-excerpt: "House and Senate Democrats are bracing for a clash over the next phase of President Joe Biden's agenda, preparing for a long slog and intense debate over competing priorities and legislative tactics after quickly coming together on the massive relief plan signed into law Thursday.\n    \n"
-publishedDateTime: 2021-03-11T23:05:55Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
+title: "Same old Joe: Rebuffing staff who smoked pot fits Biden’s MO"
+excerpt: "Anyone surprised that Joe Biden would scrutinize the weed-smoking habits of his White House staff hasn't paid attention to one of the more consistent policy threads of his decades-long career. He’s just not ready to embrace cannabis. Despite a shift in ..."
+publishedDateTime: 2021-03-19T23:56:00Z
+originalUrl: "https://www.politico.com/news/2021/03/19/same-old-joe-rebuffing-staff-who-smoked-pot-fits-bidens-mo-477283"
+webUrl: "https://www.politico.com/news/2021/03/19/same-old-joe-rebuffing-staff-who-smoked-pot-fits-bidens-mo-477283"
 type: article
-quality: 161
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310152321-03-pelosi-schumer-relief-bill-presser-signing-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/74/23/be836012497c9fdf3e614f9b6575/210318-joe-biden-getty-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -268,6 +267,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210314200145-biden-03142021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Frustration in our future': Democrats prepare for internal clashes that could slow Biden's agenda"
+    excerpt: "House and Senate Democrats are bracing for a clash over the next phase of President Joe Biden's agenda, preparing for a long slog and intense debate over competing priorities and legislative tactics after quickly coming together on the massive relief plan signed into law Thursday.\n    \n"
+    publishedDateTime: 2021-03-11T23:05:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310152321-03-pelosi-schumer-relief-bill-presser-signing-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -537,20 +552,6 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Same old Joe: Rebuffing staff who smoked pot fits Biden’s MO"
-    excerpt: "Anyone surprised that Joe Biden would scrutinize the weed-smoking habits of his White House staff hasn't paid attention to one of the more consistent policy threads of his decades-long career. He’s just not ready to embrace cannabis. Despite a shift in ..."
-    publishedDateTime: 2021-03-19T23:56:00Z
-    webUrl: "https://www.politico.com/news/2021/03/19/same-old-joe-rebuffing-staff-who-smoked-pot-fits-bidens-mo-477283"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/74/23/be836012497c9fdf3e614f9b6575/210318-joe-biden-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Why Biden Waited So Long to Throw the Press a Bone"
     excerpt: "According to a fresh POLITICO/Morning Consult poll, 62 percent of registered voters give Joe their approval. Biden must be asking himself: Why break a sweat running when coasting is what got you to where you always wanted to go? With the possible exception ..."
     publishedDateTime: 2021-03-19T22:26:00Z
@@ -582,6 +583,6 @@ related:
         height: 619
         isCached: true
 
-secured: "1yEIXptzDO825bv0Md1hVtk9tTqkIwBQ/jdAn7/rwT/mxOTk02QW3og8BqKfV5egziAPJAWy06gXDF9i1S8WbGerfnK4dJmkb7lGF1WiqD//BGBd7tRuk/hZ8Ig2HjYFuluxGQpUUA5AnxHQBunnvahPVEiyRa+KX6cUnxyG8McH7j6nIwmiKvDhg6rXb7hmoGZ2DQfFNowMSoCSFMobx38Pjzh9YV5glW1V6j9XmPSwjLrFzbW2CA/y3XEkDtx40GC0fJszaPf4TvFT29a9h9YoSWBEPbSxG3y3Yt+f7zeRKc6LusYpUPjPQfOLqAQOcVA3fyPlx0rIlcSoztDWST33ojiF22u2UiGIzDKEtTA=;9cUsnoITsfc0ux1QrdoeYA=="
+secured: "8t4DlY+09ozMwjQro1paKm177jQZ0omSoMoIDK0J1T9HL8fTVbIlw/vyKxuA/Oyl6IMzFGwPj0pOyTVAdxanEGcCokO1I77F+icOk5qWGxgK35Ry2zoTVQ0Lj56jxHK6st2dazHYUIoV6AWwyVDgFI+ZnEX8cCAmaTIP4J4lKEnN1gqXyzBPdpRSYo+l2zxpiwdoJ5lenQ10SpHkIWCLUeQzS/frJneh+r7ocbT7rN1JKmHVDRkHnWfRHDiEh7uXI1xPnZN//nCyy+6iImN/O1kqTQZWomcEp9x4JaXUhUpji0JN8TRX66jURqKhLOeee+k04+GxuLnoghtTzRvwnQWI33CGZpWsFzI0ndmquUA=;CktRLj9BgHz1Igx3iRb/uw=="
 ---
 

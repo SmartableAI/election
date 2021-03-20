@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/trump-757-repairs-gold-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/trump-757-repairs-gold-plated-glory-days/index.html"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Mary Trump has her next act — and believes her uncle’s guilty of sedition"
+    excerpt: "Donald Trump’s niece is writing a new book and joining the board of LGBTQ+ group promoting female candidates for office."
+    publishedDateTime: 2021-03-20T19:22:00Z
+    webUrl: "https://www.politico.com/news/2021/03/19/mary-trump-donald-lgbtq-477130"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/19/mary-trump-donald-lgbtq-477130"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/19/mary-trump-donald-lgbtq-477130"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/8a/6f/f599a0ed490695cb6f5ec7b241d7/210318-marytrump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "+tjLK3IAw2XIqBObSgkXdy99Zy5GlA0a1mMT9cR0UPlIlwuhlET3yZ94/KtLXi9xhf896jJSmq0a9j+wOjtZAU4XNK5OX3WbeOogChwS1PhrrGN29oj0MIB1y5mcpoaQZZh6SUN+B2o3xWyHq8jQ4smCf0uPXyKUYshugBjbAJubCIIwjCS64H2gvAuBkhdZhj994Bd8TvMSmEx3YhZvDGIyHLHz5+7aD+I1a8vdwlDTVH+1w1ARCoe1g1sWyrvUsti0KGDaLui1lsS9b7VvkmU5fSGFGkByYl0e98JAXe5UchdH0DEV1upK/tdabVwZq30jjfJ/53iv/QgQ38ioVEBkp8tJe/Q33sZUr8AhCP8=;JQWmUzdOFBXjot55q5do0A=="
 ---

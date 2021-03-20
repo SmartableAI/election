@@ -8,7 +8,7 @@ webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kama
 ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
 type: article
-quality: 71
+quality: 81
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
@@ -454,6 +455,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f4a638864f3918c76fd642f7e683c49f8b5d69d3/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94514b230302fc6479c04bb1f0d22a6d"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden deplores rising anti-Asian violence, asks Americans to stand together against hate"
+    excerpt: "President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday."
+    publishedDateTime: 2021-03-20T05:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555545258&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I1IE"
+        width: 808
+        height: 545
         isCached: true
   - title: "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live"
     excerpt: "Covid-19 Hate Crimes Act would ‘expedite the government’s response to the rise of hate crimes exacerbated during the pandemic’ – follow the latest"
@@ -1060,6 +1077,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "A5UmJJeMg3UJyud+8enEtNNdnUXl0ShkgOzZnmG/fMucWEk7963/yWN8Yyvckxrr12gSlBpeYTXptwnEsxhtelrf4K3Nt58/WYaF5TVlBULWk9al16CS5jcz1P0/1Ad417ucMTITInW236mGzDTYkK9m0wmM/T0Krz5tq+twytDydsKm/1D04/rZUwRRbTVUJl7Zs0wFjTxrRXE9VeGwqAAy082+QY/cN9SSNBfMcSa5FgJgT5QuvzGzkwMWJ52Ed0VvIup0xuZfDP+lAro0eGkZ543PPerlItelDSpGZjA8zvSa29Zol+sJfHAanipHhfxiWj30oeELCTDIH9n2EqQ3/8RkxY75tQMMTXesfuc=;Tu15YplJcoQaXlo6ZsB4zQ=="
+secured: "xsM426BPY4zFW4vUfd9PsgNTIkEjPymaDkpb4ZP6RxdxM3hHVudxAGsU5h4FFpIAecAO7CRqHzBK9VPIEtwibS+CD0OZnha3ad9jE8QDvdaECGaWAlwoozlDYvuteRlKdW0/kfm/KyXzXHL2YdFEPYTW4iwiARLaxLkv1DTvhhzB4VRutqtYT0Q+uPmELsJz9Imr2XQ+VonH6ln2q8fp3CNEDP9UuOM2eOGSOXqTzw6+sgaEXEF/Kf3Gk6e3Sw6u4I5rSSI8or3jM5yesSEy7Xp0mSQPD1BKCCYFf5XTQIafhqe7S0NpnR03YySSzD4w3xrUH8Iq8Z43unELyYhqBj7WQ/XFdweSUow3gZ/PFfz2iPUdKV88bsxEuDuu/QZs7zQUllBdduUqomnzMVsgQs0fajvzZiQ2Tx7JeeOIIUO6E+DZp7RJqfuD0Q8z1AGhhLKb8MYdrak60cHy7v+vWEek9GHl74Hcnk1dKoBkXQ1jobJBXKDUH1oxr4PMFv35IKc8+/rW7PoW1qGLD+eVFw==;PRIW+x/2XItRPqldWr8rBg=="
 ---
 
