@@ -2,6 +2,120 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-10-trump-rnc-relationship-grows-thorny-with-fundraising-dispute.md",
+      "title": "Trump-RNC Relationship Grows Thorny With Fundraising Dispute",
+      "excerpt": "After telling the Republican Party not to use his name to raise money, ex-president tells people to send donations to his Save America PAC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
+      "originalUrl": "https://www.wsj.com/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-309225/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
+      "publishedDateTime": "2021-03-09T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-trump-critic-rep-kinzinger-hopes-to-be-good-part-of-history.md",
+      "title": "Trump critic Rep. Kinzinger hopes to be 'good part of history'",
+      "excerpt": "CNN's Jeff Zeleny speaks to Rep. Adam Kinzinger (R-IL), an outspoken critic of former President Donald Trump, about some of the backlash he has received since voting to impeach Trump and his political future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308193714-adam-kinzinger-zeleny-dnt-03082021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "publishedDateTime": "2021-03-08T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-sanctions-are-reimposed-on-israeli-billionaire-granted-relief-under-trump.md",
       "title": "Sanctions Are Reimposed on Israeli Billionaire Granted Relief Under Trump",
       "excerpt": "The Biden administration moved to reverse an action that had benefited Dan Gertler, who has been accused of corruption over mining deals in the Democratic Republic of Congo.",
@@ -1485,115 +1599,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-tim-allen-says-he-liked-that-president-trump-pissed-people-off.md",
-      "title": "Tim Allen says he 'liked' that President Trump 'pissed people off'",
-      "excerpt": "Tim Allen makes a living making people laugh but one person who's apparently made the funnyman chuckle himself is former President Donald Trump. The \" Last Man Standing \" star appeared on the \"WTF with Marc Maron\" podcast this week where he was asked about whether he views himself as an \"old school conservative\" as opposed to a \"right-wing wack job.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off",
-      "originalUrl": "https://www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Tim-Allen-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off.amp",
-      "publishedDateTime": "2021-03-03T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-kayleigh-mcenany-compares-biden-appearances-to-donald-trump-barack-obama-wheres-joe.md",
-      "title": "Kayleigh McEnany Compares Biden Appearances to Donald Trump, Barack Obama: 'Where's Joe?'",
-      "excerpt": "The former White House press secretary has questioned President Joe Biden not yet holding a solo press conference, pointing to his two predecessors having done so by this point in their tenures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400",
-      "originalUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1747043/kayleigh-mcenany-press-briefing.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1",
-      "publishedDateTime": "2021-03-03T04:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

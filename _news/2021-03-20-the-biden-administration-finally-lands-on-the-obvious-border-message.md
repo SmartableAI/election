@@ -831,6 +831,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden Prompts Republican Crisis of Confidence on World Stage"
+    excerpt: "President Joe Biden declared last month that \"America is back,\" as his administration looks to revive traditional U.S. diplomacy and global leadership that he and his allies said were severely weakened under former President Donald Trump. Early polls ..."
+    publishedDateTime: 2021-03-15T15:02:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1755891/joe-biden-pictured-south-lawn-dc.jpg"
+        width: 2500
+        height: 1782
+        isCached: true
   - title: "Kushner calls Biden move on Iran 'smart'"
     excerpt: "Jared Kushner, former President Trump's son-in-law and a former senior White House adviser, praised President Biden for signaling he is open to rejoining the Iran deal and said his administration has"
     publishedDateTime: 2021-03-15T13:36:00Z
@@ -1553,6 +1569,6 @@ related:
         height: 663
         isCached: true
 
-secured: "velZXTB2NFP9T8teSpuAf8cALMU1bhxVUCXEDAsUWCvWXK8YhyolgDuiRoZa5AAaQOjc9RjfOFoM6CPXCzyEhpy9/bc+nGb0aGOJT/Jn+0+r+nAtKz348qcR1XonITBIeDKVTFX1tJBfrD+FBM6IhBPrlLxo73P+W3M1KPaLc6ihRlayCXKZ6bHbbROGgwtGBdKlpxjV+feWzAkemifiXZI0oucXSe5C3gYqIdnuhhcuhvAQ07p4wN1gcm0gDXOHbxrg6afOtI/VhJCEvs7g16qpU8WGRZ0JgCgfxF9oM9Z/5a44V4D3Iixcew8hB/uoa4GQUMK5XPp4ulGsUuLMwnrwmEaPKqfVA2ARtHcijpY=;8J1pXYBKmY5tK8nEuqpFcw=="
+secured: "wdcOvaQguvq7MTExT7a77oLauUQMNmSeGzp5g6DpCqyD8LFlM5gDpnDSDxuc4/3mBirXirAfZohD+cegrBsbcpGUmBrU9zghPpeUc3YfezLcoKCe989KXTRgvAXZPabHdlqNvkeM8RdbKNlOjMcASAyO9RNpkZKqN3+58rqqksfoyAr6Pvz2nsULvA8uigHVExaFiECtfUj8Zdsp7OcJmFrFYERAmXhWep7GWaNMcs8XP1x4Q3EE7jBplHdXXfqteNThZwXAHrZsVBV3nK7TCMoDfLgHE43UV7/MUGazKxrxVVWV8UYfbz4A8LUJKq8ZmvUTlXYTSm16F+JujDd/ANCe29uniXEbLMuoWE/eHe5KZ1BOzISlw2laZOY6obTBfA1jVLjpJWaG26X/yw+ZznCeFwiaTR5EnGTzv3lScYITlbqR1/4EjuBvRfFSLuBPeBstK9FapJ3QicnySaT0O3HlN8NfYqH017bLrbPx+VBbBp8ySXp2KHfHUaPG5cdFX0rW9XOGcAS60R97B0+dQA==;84yKrpEt8XEnjo075ubb/g=="
 ---
 

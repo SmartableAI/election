@@ -14,7 +14,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 980,
+      "heat": 1000,
       "tags": null,
       "images": [
         {
@@ -284,21 +284,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-19-texas-man-found-with-assault-style-rifle-near-vice-president-kamala-harris-dc-home.md",
-      "title": "Texas man found with assault-style rifle near Vice President Kamala Harris' DC home",
-      "excerpt": "A San Antonio man has been arrested after being found with an assault-style rifle and high-capacity magazine near the official residence of Vice President Kamala Harris. Paul Michael Murray, 31, who has also had an address in the College Station area,",
+      "path": "_news/2021-03-18-mitch-mcconnell-swipes-at-kamala-harris-senate-role-if-filibuster-ends-in-wsj-op-ed.md",
+      "title": "Mitch McConnell Swipes at Kamala Harris' Senate Role If Filibuster Ends in WSJ Op-Ed",
+      "excerpt": "Senate Minority Leader Mitch McConnell of Kentucky took a jab at Vice President Kamala Harris's role in the Senate if the filibuster were to end, in an op-ed published in the Wall Street Journal on Wednesday. In the op-ed, titled \"The Scorched Earth Senate ...",
       "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
+      "webUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105",
+      "originalUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 138,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/13/42/10/19800610/5/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
+          "url": "https://d.newsweek.com/en/full/1758570/senate-minority-leader-mitch-mcconnell-r-ky-talks.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -306,16 +306,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/amp/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/texas/amp/kamala-harris-texas-man-assault-rifle-dc-home-16035877.php",
-      "publishedDateTime": "2021-03-18T10:00:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1",
+      "publishedDateTime": "2021-03-18T09:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -400,7 +400,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1283,21 +1283,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting.md",
-      "title": "Judy Chu blames Trump for rising anti-Asian hate after Atlanta shooting",
-      "excerpt": "on Wednesday blamed former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border ...",
+      "path": "_news/2021-03-18-no-question-trump-worsened-anti-asian-sentiment-wh.md",
+      "title": "'No question' Trump worsened anti-Asian sentiment: WH",
+      "excerpt": "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ...",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting",
-      "originalUrl": "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting",
+      "webUrl": "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf",
+      "originalUrl": "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/chujudy_072518am_lead.jpg",
-          "width": 980,
-          "height": 551,
+          "url": "https://static.reuters.com/resources/r/?d=20210317&i=OVE4H8HR3&r=OVE4H8HR3&t=2",
+          "width": 960,
+          "height": 540,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1305,16 +1305,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/543729-rep-judy-chu-blames-trump-for-rising-anti-asian-hate-after-atlanta-shooting?amp",
-      "publishedDateTime": "2021-03-17T15:51:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T15:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

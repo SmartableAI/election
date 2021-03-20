@@ -95,22 +95,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Joe Biden writes a cheque for America – and the rest of the world"
-    excerpt: "The president’s $1.9tn stimulus package should lift US GDP by up to 4% – and thus buoy up the whole of the global economy US president Joe Biden did the world a favour last Thursday when he signed a bill handing $1.9 trillion (£1.4tn) of rescue funds ..."
-    publishedDateTime: 2021-03-13T15:00:00Z
-    webUrl: "https://www.theguardian.com/business/2021/mar/13/joe-biden-writes-a-cheque-for-america-and-the-rest-of-the-world"
-    ampWebUrl: "https://amp.theguardian.com/business/2021/mar/13/joe-biden-writes-a-cheque-for-america-and-the-rest-of-the-world"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/mar/13/joe-biden-writes-a-cheque-for-america-and-the-rest-of-the-world"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/d2193751d44666d3bd5f3a954e00c7cfc3012188/0_0_6216_3729/master/6216.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8431f5b96275f25f8db2499ccc1c9432"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden to name Sperling to oversee COVID-19 relief package"
     excerpt: "A White House official says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package"
     publishedDateTime: 2021-03-15T14:47:00Z
@@ -415,22 +399,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "$1,400 Stimulus Checks Start Arriving in Bank Accounts as Biden Hits Road to Tout Rescue Plan"
-    excerpt: "President Joe Biden and Vice President Kamala Harris are preparing to hit the road to boost support for the $1.9 trillion stimulus package, as some Americans have started to see the $1,400 checks arrive in their bank accounts."
-    publishedDateTime: 2021-03-13T22:32:00Z
-    webUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961"
-    ampWebUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1755572/joe-biden-kamala-harris-wh.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
   - title: "Biden poised for first major legislative victory with House vote on $1.9tn Covid relief – live"
     excerpt: "Jay Ashcroft, the Missouri secretary of state, has said he does not plan to run for the US Senate next year. “After intense, prayerful consideration we have decided to remain devoted to the work Missouri voters have entrusted to me as secretary of state ..."
     publishedDateTime: 2021-03-10T15:07:00Z
@@ -478,22 +446,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/05/d91c28fc-46de-4969-8666-b3dd9f6fd058/thumbnail/1200x630/0991716f0dd8f34963de0bff94bf3745/gettyimages-1231479467.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "White House says Trump administration rhetoric on COVID has elevated threats against Asian-Americans"
-    excerpt: "White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian-Americans."
-    publishedDateTime: 2021-03-17T19:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-violence-trump-idUSKBN2B92VI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B92VI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B92VI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 110
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555255094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1NL"
-        width: 817
-        height: 545
         isCached: true
   - title: "Dentists and midwives giving shots, 4,000 troops to help: How Biden is expanding COVID-19 vaccinations"
     excerpt: "WASHINGTON – Americans wanting a COVID-19 vaccination will now have many more ways to get the shot. President Joe Biden’s administration is dramatically expanding the pool of medical professionals who can administer the vaccinations, is launching new ..."

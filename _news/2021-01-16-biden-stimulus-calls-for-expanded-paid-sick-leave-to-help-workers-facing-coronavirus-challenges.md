@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 875
         isCached: true
-  - title: "Biden says motivation for shootings at Atlanta day spas has not been determined"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden on Wednesday said the motivations of the suspect in the deadly shootings at day spas in and around Atlanta has not yet been determined. “The question of motivation is still to be determined,” Biden told ..."
-    publishedDateTime: 2021-03-17T16:33:00Z
-    webUrl: "https://www.reuters.com/article/us-crime-georgia-spa-biden-idUSKBN2B92KH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B92KH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B92KH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555238199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1HC"
-        width: 731
-        height: 545
-        isCached: true
   - title: "New stimulus plan, Joe Biden, Coronavirus news & more: What’s trending today"
     excerpt: "A look at some of the top stories trending today including news on Joe Biden and his new stimulus plan, coronavirus updates and much more."
     publishedDateTime: 2021-01-15T11:07:00Z

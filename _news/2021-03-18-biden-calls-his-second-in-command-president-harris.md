@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp"
 type: article
 quality: 200
-heat: 980
+heat: 1000
 published: true
 
 provider:
@@ -603,6 +603,22 @@ related:
     quality: 129
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Harris-walkoff.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden's dog Major to return to the White House: 'He's a sweet dog,' president says"
+    excerpt: "President Joe Biden’s German Shepherd Major will return to 1600 Pennsylvania Avenue, after spending time at the Bidens’ Delaware home."
+    publishedDateTime: 2021-03-19T14:53:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/biden-dog-major-return-white-house"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/biden-dog-major-return-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/biden-dog-major-return-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/thumbnail_image2.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

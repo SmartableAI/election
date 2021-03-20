@@ -321,6 +321,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
+    excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
+    publishedDateTime: 2021-03-03T23:21:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9921614809626/2021/1/737179c4b2717553b05f15134d377fc8/v1.5/Kamala-Harris-visits-woman-owned-yarn-store-to-discuss-American-Rescue-Plan.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "VP Kamala Harris' Berkeley childhood home may gain historic landmark status"
     excerpt: "A pale yellow, two-story duplex in Berkeley with a powerful political connection may soon be eligible to receive historic status. That’s because as a child, Kamala Harris — who is the first woman and first Black and Southeast Asian woman to hold the office of vice president — lived on the top floor of the home on Bancroft Way."
     publishedDateTime: 2021-03-07T19:46:00Z

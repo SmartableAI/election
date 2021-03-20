@@ -59,47 +59,21 @@ related:
         width: 3500
         height: 2355
         isCached: true
-  - title: "Harris pitches COVID relief bill in Las Vegas"
-    excerpt: "Vice President Kamala Harris says she's on a mission to ensure people know what they were entitled to in the American Rescue Plan. (March 15)"
-    publishedDateTime: 2021-03-15T23:07:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/15/harris-pitches-covid-relief-bill-las-vegas/4710865001/"
+  - title: "Watch Live: Vice President Kamala Harris speaks at U.N. meeting on gender equality and women's empowerment"
+    excerpt: "Vice President Kamala Harris is delivering a statement Tuesday on behalf of the United States during a session of the United Nations' Commission on the Status of Women. The theme of this year's session, the 65th, is women's \"full and effective ..."
+    publishedDateTime: 2021-03-16T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08776f89-5741-489a-bc95-2abf1b2bb016_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
-    excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile. She’s traveling to Nevada and Colorado, both important ..."
-    publishedDateTime: 2021-03-15T16:53:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-15/harris-sells-stimulus-to-nevada-colorado-in-first-solo-trip"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 103
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izBuQ5qE9GnA/v0/1200x800.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
-    excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile."
-    publishedDateTime: 2021-03-15T17:09:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/kamala-harris-makes-solo-debut-selling-relief-law-and-raising-her-profile/2021/03/15/6d48ad28-85b1-11eb-be4a-24b89f616f2c_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+        height: 630
         isCached: true
   - title: "Essential Politics: Kamala Harris takes a victory lap, with an eye on the 2022 midterms"
     excerpt: "Politicians politicking. But it’s early and Harris’ role in making the case for Democrats looks as if it’s going to be a big one, perhaps on par with Biden’s. Good morning, and welcome to Essential Politics: Kamala Harris road edition. Today ..."
@@ -114,38 +88,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/285d75c/2147483647/strip/true/crop/3158x1658+0+224/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2Fc5%2F715ac64f424587ff60735848b2c8%2Fharris-55517.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Kamala Harris to speak at Nickelodeon Kids' Choice Awards"
-    excerpt: "March 12 (UPI) --Vice President Kamala Harris will speak at the 2021 Nickelodeon Kids' Choice Awards. Nickelodeon confirmed in a press release Friday that Harris, 56, will deliver special remarks during the awards show Saturday. Advertisement Harris will ..."
-    publishedDateTime: 2021-03-12T16:40:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2021/03/12/Kamala-Harris-Nickelodeon-Kids-Choice-Awards-Vice-President-speak-remarks/8601615566021/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/03/12/Kamala-Harris-Nickelodeon-Kids-Choice-Awards-Vice-President-speak-remarks/8601615566021/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/03/12/Kamala-Harris-Nickelodeon-Kids-Choice-Awards-Vice-President-speak-remarks/8601615566021/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/8601615566021/2021/1/3333515b46ab5ca653c20fdc04d459e1/v1.5/Kamala-Harris-to-speak-at-Nickelodeon-Kids-Choice-Awards.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Harris arrives in Las Vegas to tout COVID relief bill"
-    excerpt: "Vice President Kamala Harris touched down in Las Vegas on Monday, where she visited a vaccination clinic at UNLV and will speak at an event at the Culinary Training Center in North Las Vegas. Harris’ trip was one part of a larger push by officials in ..."
-    publishedDateTime: 2021-03-15T19:58:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/"
-    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 75
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_web-Harris4-0315.jpg?w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Kamala Harris visits Las Vegas to tout COVID relief bill"
     excerpt: "Vice President Kamala Harris visited with health care providers at UNLV and workers packing food boxes for those in need at the Culinary Academy of Las Vegas on Monday in the first of a series of stops throughout the country to tout the benefits of the $1 ..."
@@ -162,22 +104,6 @@ related:
       - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_webHARRIS-VEGAS-MAR16-21_031521kc_001.jpg?w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Vice President Kamala Harris will visit Colorado on Tuesday"
-    excerpt: "Vice President Kamala Harris is scheduled to visit Colorado on Tuesday. The Democrat and her husband, Doug Emhoff, will begin their trip at a COVID-19 vaccination clinic at Plan De Salud Del Valle in Fort Lupton, in northern Colorado. After that ..."
-    publishedDateTime: 2021-03-15T22:35:00Z
-    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
-    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
     excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
@@ -211,64 +137,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
-    excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
-    publishedDateTime: 2021-03-12T02:22:00Z
-    webUrl: "https://www.ajc.com/politics/politics-blog/biden-and-harris-are-headed-to-atlanta-next-week-after-signing-19t-covid-19-relief-plan/Q7JFFTZBGFH2JMHNYT2BOB3CFA/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 64
-    images:
-      - url: "https://www.ajc.com/resizer/MMXL-u7FbeNag8S3s5fgZvuqLZU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/G7QYTXK4ABLJ6ZLT5W64ISOBU4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vice President Kamala Harris takes jab at husband on Twitter for picking NCAA Tournament No. 1 seeds"
-    excerpt: "Doug Emhoff, the Second Gentleman, went with No. 1 seeds Gonzaga and Stanford to win the men's and women's NCAA Tournaments, respectively."
-    publishedDateTime: 2021-03-19T02:13:00Z
-    webUrl: "https://www.indystar.com/story/sports/ncaab/tourney/2021/03/18/march-madness-kamala-harris-jabs-husband-twitter-bracket-picks/4759695001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4759695001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4759695001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 60
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
-    excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
-    publishedDateTime: 2021-03-17T17:53:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e271c84d4847f577c9ff5a6c4a09d2dd/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/e271c84d4847f577c9ff5a6c4a09d2dd/VICE-PRESIDENT-HARRIS.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "VP Kamala Harris at Ceremonial Swearing in of Katherine Tai"
-    excerpt: "Vice President Kamala Harris (R) participates in the ceremonial swearing in of Katherine Tai (L), with her husband Robert Skidmore (C), as United States Trade Representative in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington,"
-    publishedDateTime: 2021-03-18T23:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/702d761fa742deefe0c289a31a83d610/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Katherine-Tai/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/702d761fa742deefe0c289a31a83d610/HARRIS-TAI.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
     excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"
     publishedDateTime: 2021-03-17T15:50:00Z
@@ -283,15 +151,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Kamala Harris Makes U.N. Debut, Pledges to Fight for Women, Democracy"
-    excerpt: "U.S. Vice President Kamala Harris made her debut at the United Nations on Tuesday, telling a meeting on gender equality that democracy fundamentally depends on the empowerment of women and that democracy globally is increasingly \"under great strain."
-    publishedDateTime: 2021-03-16T13:34:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-03-16/kamala-harris-makes-un-debut-pledges-to-fight-for-women-democracy"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "karFVoTlL008dRSkJPX0+9MUG4oUuuR/q/9byJqjBla9QVAmcKCPILsso160oJiqBIwkoonvSt7LbLm8hZvsA7dIkp3NxAk3IFLH4nKCUaq0yJX/rldVY2itZE0GkeGBS/o6DMGOw8ReiQy6BZ0EHzsR5SaxBVrqWN++ZlIakYIKg03JGai+MdQBxSxqUnbkTHM2dspjnm0NLGq0JHRQvpm6vBzc9v7lLF2VHJivB/XcR4Rbi2f4LiyPnZonbl+RA4Cls5GZG6/JURLCmPHJLSV50R5h1nwesw3OkrjTTPQIuh3oguOrSbPZcsZyZXkFqtK61IZNW3+F8VfPQThvihfkjYgyJar563O6cNTaP90EIPpgxz22iHWrQy5kN1WBxQXjwN+JSf1zIpXjpbnFyjwdwiG3PTxwXLdW0UDWLkMuJ3+cYX7LL/A04FteX5ot3kshohji4HRnzoJSDrkHbiJjODEQEvxN8RM1nE4ESzJdgMLjBCC/U9jfMFQycOqX/hn2hmrsAOhD+H3GvEyYrg==;+344+QSb005mr6zVZ1Z0NQ=="
 ---

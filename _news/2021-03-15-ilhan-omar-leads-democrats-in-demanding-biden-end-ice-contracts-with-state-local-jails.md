@@ -622,6 +622,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's dog Major to return to the White House: 'He's a sweet dog,' president says"
+    excerpt: "President Joe Biden’s German Shepherd Major will return to 1600 Pennsylvania Avenue, after spending time at the Bidens’ Delaware home."
+    publishedDateTime: 2021-03-19T14:53:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/biden-dog-major-return-white-house"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/biden-dog-major-return-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/biden-dog-major-return-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/thumbnail_image2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "WH axes staffers over past pot use even though Kamala Harris has admitted she smoked it"
     excerpt: "The White House revealed that a handful of staffers were let go over past pot use, even though Vice President Kamala Harris has publicly admitted to smoking weed in college. Then-senator Harris, who was also a 2020 presidential candidate, supported ..."
     publishedDateTime: 2021-03-19T23:33:00Z
