@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump's Mar-a-Lago Club Partially Closed Due to COVID-19 Outbreak"
+    excerpt: "Former President Donald Trump's club, Mar-a-Lago, has been partially closed due to an outbreak of COVID-19. The golf club and resort is located in Palm Beach, Florida, and now serves as Trump's primary residence. A member of the club's staff tested ..."
+    publishedDateTime: 2021-03-20T09:26:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1760135/president-trump-travels-mar-lago.jpg"
+        width: 3998
+        height: 2665
+        isCached: true
   - title: "Trump urges supporters get vaccinated after Fauci, experts call on him to do so"
     excerpt: "Former President Donald Trump encouraged his supporters to get vaccinated after a poll showed nearly half would not get the vaccine when it became available."
     publishedDateTime: 2021-03-17T15:36:00Z

@@ -540,6 +540,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Biden Waited So Long to Throw the Press a Bone"
+    excerpt: "According to a fresh POLITICO/Morning Consult poll, 62 percent of registered voters give Joe their approval. Biden must be asking himself: Why break a sweat running when coasting is what got you to where you always wanted to go? With the possible exception ..."
+    publishedDateTime: 2021-03-19T22:26:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/03/19/why-biden-waited-so-long-to-throw-the-press-a-bone-477213"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/88/fe/817de5cf44d4ab032b9c198150fa/ap21075642381335-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "+/eENCZ/haoa4+wwvuzsK4DHuC/x1xXl8bV4+NMT6vWh/crItPa+NfPiKiGKO81xZktInJrp14hpGfPuUv6hFWYw8U0b5GsNewGiFT9LjMpl5qChXJ8a6gfnwHsFg2vHjc8Q3zjQF3ykLmzt6ymtgtqRSWubIZf/EnTorKPipPUcJBgUAdZ8zL68xYi66frF3q4Fc/rV+7KvDKPfU3Y7EXVjGFyMltP1E1VgbIIwfhG5y0r5HDHvle/mWd9vbn8WOrdTdebioOGY5cOpZUu8otYMm5MO6Eh3VfVmSJk4R1nQjZqq9qwr50G4yKcZSkM6QnAC2T7Y5UNTsF0IAgIKXvpIL+qV3J2YUDNs/+Qw3Jg=;D6r9fPWDU8/Hu4FmPJy3Kw=="
 ---

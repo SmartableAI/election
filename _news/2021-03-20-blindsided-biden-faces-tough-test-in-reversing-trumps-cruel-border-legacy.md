@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Border squeeze tempers Biden victory lap: The Note"
-excerpt: "Increase of unaccompanied migrant children at the border The TAKE with Rick Klein President Joe Biden is about to have something very big to sell, with the House on track to pass his $1.9 trillion ..."
-publishedDateTime: 2021-03-10T11:00:00Z
-originalUrl: "https://abcnews.go.com/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
-webUrl: "https://abcnews.go.com/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
+title: "'Blindsided': Biden faces tough test in reversing Trump's cruel border legacy"
+excerpt: "Single adults and families are being expelled under coronavirus safety rules inherited from Donald Trump. But a growing number of children, some as young as six years old, from Guatemala, El Salvador and Honduras are arriving at the southern border without ..."
+publishedDateTime: 2021-03-20T05:03:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
 type: article
-quality: 125
+quality: 137
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/joe-biden-hardware-store-gty-jc-210309_1615335195697_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i.guim.co.uk/img/media/04134eae57ca6dbecda06fd51416be1cd4b1529d/0_366_5495_3298/master/5495.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a9105d5b8fea6b5ab008ac78ca420f7"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -286,22 +286,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/27e2771/2147483647/strip/true/crop/3618x2363+281+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F1e%2F6f3fd75dd8cf337e371f4b0065a0%2Fac3f35f2c1554c75ac18550bee411639"
         width: 320
         height: 209
-        isCached: true
-  - title: "'Blindsided': Biden faces tough test in reversing Trump's cruel border legacy"
-    excerpt: "Single adults and families are being expelled under coronavirus safety rules inherited from Donald Trump. But a growing number of children, some as young as six years old, from Guatemala, El Salvador and Honduras are arriving at the southern border without ..."
-    publishedDateTime: 2021-03-20T05:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 137
-    images:
-      - url: "https://i.guim.co.uk/img/media/04134eae57ca6dbecda06fd51416be1cd4b1529d/0_366_5495_3298/master/5495.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a9105d5b8fea6b5ab008ac78ca420f7"
-        width: 600
-        height: 360
         isCached: true
   - title: "Joe Biden Visa Decision on Donald Trump's 'Muslim Ban' Infuriates Progressives"
     excerpt: "The American Civil Liberties Union (ACLU) said that a large number of Africans would be affected and that Biden \"has failed to help so many of those harmed\" by the Trump administration's immigration restrictions. \"Instead of restoring this opportunity ..."
@@ -734,6 +718,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Border squeeze tempers Biden victory lap: The Note"
+    excerpt: "Increase of unaccompanied migrant children at the border The TAKE with Rick Klein President Joe Biden is about to have something very big to sell, with the House on track to pass his $1.9 trillion ..."
+    publishedDateTime: 2021-03-10T11:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-hardware-store-gty-jc-210309_1615335195697_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump accelerates his effort to wring power from the Republican Party"
     excerpt: "In the weeks after President Donald Trump lost the 2020 election, he and his team flooded email and text-message inboxes with false claims that the results of the contest were illegitimate. The messages were almost panicky: The Democrats were committing a crime on a historic scale and the guileless victim of that dishonesty — your favorite president — needed every able-bodied American to take to the ramparts."
@@ -1585,6 +1585,6 @@ related:
         height: 663
         isCached: true
 
-secured: "gYhjoT16t74xB8mcTPfs6wDFcfQ/ZWPoPaNkoelUznc+z1jezw3BGpkreUx4fEU/uR4J3kDDBfLWN3pjWFpSqi35asViOx7zkbeJQ3cCe3Xr8FPtwmVJbPpdMSoiotntFNKH2T0HJlPwaSQywScs07dqCMJBvKQEdU/CSncmplp+0eTDxJzaKa6altoEXZHdpiswN1XfODchqfhTuHxN03GO/AoE0smpgAWVrMZ76NKdkXLNEUBTko0ZtnZxkSF04jDAa3wmAbSrDn+zFI7acCtFJraZ/cEz67eMQdX3ceg96wgJYXNbV7QZWxjUx6lmYCCcfqZUinu0N+2SQZdPM9EXpSDdLpnyPXnJI3G9Q68EysZUvFhwSOzBNbdsPT+tT4sTRJ5vx9T1OBf6GuTbyaKrmNIf6j09etrLbGGeDwScqVMtt1vlX/wekT+ea6UxDZS6wWLZSGOVr1trrFWczzYwXQvv55Q549bez6Bc858nkYaII1ljNfQVTENrKldxfRGRXRwK/84N4y8Svctxrg==;uNjybckuFPOPJhbV8Y5uxw=="
+secured: "EADL2jXYC5rTtG2kMInbGd85yt2hja4Vbn6ehCKvxhMYQiGl+q/XdKluBrItqlpCI+YNTVIUgE/kGRKOnyd6LAVLFGKtx0ZPWpw64bsL8fzrGA1GF8LzDStHUtbdjiiEm7BtLiY779wHdKrJbLPK43Im38q0KmkO8pgT92V8n+uakLMVrFUcTR45w4p6PLoDLgsHVDGrCA4ZgYdbOZPFu/L/IG9PasBGUA7Uucte4s9o31Dqyyg+A2INtVs/HGtoyrdONWiC+4anWUoL9XV6kthZYjhNReQbjnOT+2YNeCjvQURT5BUhSPGoaIXZk2V+pevj7BeGysdGvu8B+GDjfKMuy3mw9ulZOFF3RZcrKxE=;4sAUHC28q5fiJy1N5mU9bw=="
 ---
 

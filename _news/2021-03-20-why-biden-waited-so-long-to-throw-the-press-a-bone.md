@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Analysis: There's a new surge of kids at the border, but the Biden administration won't call it a crisis"
-excerpt: "Unaccompanied minors from Central America are again overwhelming the US immigration system as they cross the US-Mexico border.\n    \n"
-publishedDateTime: 2021-03-10T21:25:48Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-XnAPlJfGA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-XnAPlJfGA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/what-matters-march-10/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/what-matters-march-10/index.html"
+title: "Why Biden Waited So Long to Throw the Press a Bone"
+excerpt: "According to a fresh POLITICO/Morning Consult poll, 62 percent of registered voters give Joe their approval. Biden must be asking himself: Why break a sweat running when coasting is what got you to where you always wanted to go? With the possible exception ..."
+publishedDateTime: 2021-03-19T22:26:00Z
+originalUrl: "https://www.politico.com/news/magazine/2021/03/19/why-biden-waited-so-long-to-throw-the-press-a-bone-477213"
+webUrl: "https://www.politico.com/news/magazine/2021/03/19/why-biden-waited-so-long-to-throw-the-press-a-bone-477213"
 type: article
-quality: 158
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/88/fe/817de5cf44d4ab032b9c198150fa/ap21075642381335-1.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -303,6 +302,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: There's a new surge of kids at the border, but the Biden administration won't call it a crisis"
+    excerpt: "Unaccompanied minors from Central America are again overwhelming the US immigration system as they cross the US-Mexico border.\n    \n"
+    publishedDateTime: 2021-03-10T21:25:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-XnAPlJfGA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/what-matters-march-10/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/what-matters-march-10/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden: Covid-19 relief deal puts working people first"
     excerpt: "President Joe Biden touted his $1.9 trillion Covid-19 stimulus deal while speaking from the White House Rose Garden, saying it \"changes the paradigm\" for workers in the United States."
     publishedDateTime: 2021-03-12T21:39:00Z
@@ -523,20 +538,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why Biden Waited So Long to Throw the Press a Bone"
-    excerpt: "According to a fresh POLITICO/Morning Consult poll, 62 percent of registered voters give Joe their approval. Biden must be asking himself: Why break a sweat running when coasting is what got you to where you always wanted to go? With the possible exception ..."
-    publishedDateTime: 2021-03-19T22:26:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/03/19/why-biden-waited-so-long-to-throw-the-press-a-bone-477213"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/88/fe/817de5cf44d4ab032b9c198150fa/ap21075642381335-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
     excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
     publishedDateTime: 2021-03-18T20:50:00Z
@@ -554,6 +555,6 @@ related:
         height: 619
         isCached: true
 
-secured: "iJa+ccEzKQw7KrriBmGN8ztgVYlbxMLHUWlPepf7g+pLCOQC649NRukdRdrkf6ds/Z0fyBmagrsPqhKqsPvOeyn/gx0S87QFBqsv5lSHEXPqjlznpWn4ymYDdZWZpHsLaMSd/0o+gRgCcUVOz5fHn4MIcYTnMYCmovvyQI9pLpcl3OKHcYJSIMjEgTQgCPxHZKqaapXol+Y1qHvwMRee8ERXDX/2tEU7sh9MvTAkNh0phYxrEYupimD+siNQyAsDAmj0CzxLHCF3z2mVQYmwJmH0WOhK5iDSoxCe/EVO0EIkUeVz5+BHff1LMs/40lciF8Cin+Ooun+sXhtX3HgquvHzUYNWM7ms0pUqvnlwdDc=;6got9KP8Yn6NhgIoT980YQ=="
+secured: "5UvpuGDr4hAl5k6odUuk3L9+BJeoi5vNCoS5kIHmIpZCvGv4PjNJl/fkBbWFp+fyYAVL579PJZuHlLRdqg/5EfXWa8TpslhhhTluBgJ+UNb9b9yBGbpyI9Rsil6sXn1PXhT6mcNpDjNax7JosuVKiVoTAD4JifNF6j/yiieGfFzAQB6LqA0S91GmKckQdhOT5qv4rp/+ntp1TBsB8y774z4lzlI+xZhhOslt/y0GnhTheXUpXulEa5KOFloQpTb8g6nQ1jnzeYN+hLDAsB0luk4pYXVADSp5FOqKtalFUbBQicAQYQrfHfTwMAIpziXPvbrGb0Drkg6SroeZmuKG8EQOuziSpwvOyslrRNnadws=;q1VvA+fPOorELX6E7Agatw=="
 ---
 

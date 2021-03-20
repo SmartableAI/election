@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta."
-excerpt: "President Biden and Vice President Kamala Harris will visit Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris, the first Asian-American in the role, will meet with Asian-American leaders in Atlanta on ..."
-publishedDateTime: 2021-03-19T09:01:00Z
-originalUrl: "https://www.nytimes.com/2021/03/19/us/joe-biden-and-kamala-harris-are-set-to-meet-with-asian-american-leaders-in-atlanta.html"
-webUrl: "https://www.nytimes.com/2021/03/19/us/joe-biden-and-kamala-harris-are-set-to-meet-with-asian-american-leaders-in-atlanta.html"
-ampWebUrl: "https://www.nytimes.com/2021/03/19/us/joe-biden-and-kamala-harris-are-set-to-meet-with-asian-american-leaders-in-atlanta.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/19/us/joe-biden-and-kamala-harris-are-set-to-meet-with-asian-american-leaders-in-atlanta.amp.html"
+excerpt: "The president has ordered that American flags be flown at half-staff to honor the victims of the Atlanta spa shootings."
+publishedDateTime: 2021-03-19T05:01:00Z
+originalUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.html"
+webUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.html"
+ampWebUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/19/us/biden-harris-atlanta.amp.html"
 type: article
-quality: 154
+quality: 144
 heat: -1
 published: false
 
@@ -24,10 +24,9 @@ topics:
   - Election
   - Kamala Harris
   - Democratic Voice
-  - Joe Biden
 
 images:
-  - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing/19atlanta-shooting-briefing-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing-biden-harris1/merlin_185269029_cd765145-7a66-4257-8304-4dc030273010-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -256,6 +255,6 @@ related:
         height: 619
         isCached: true
 
-secured: "RSnSDDf80HP4X73I4kexyp8clCsH2tzSTnZwGhbB3wXqEKM1BR76cjBkJpAGyxLnVm2+FdBuMIg8B2RqWKcqDJWAsWqzsPZ+DAqwi4NWeWND49NyB42r8gBAYQ6ngl/2XT3Hff3UQOAisqmBxhjdDZNililhvVKbZgQZnzydmZgrIt1gvA5gsSQ9LY9jL4SGq87kJ++IwCmFoA4c2gOtXsL8ArDA0lR6ysgqrxGsfhRvygwx+17J2VhG6qFjLgtyOS7FjRK9rR+hiVuWFMGKCB3N1ltE7tzFn66E3ooFl6AcypGX5TpS5b4bHrhcdkfbrRliafw3lvB72JJCMTYx6JT5aZszauJacGvZdIjgs4Obc7/pQgeFMzMesIHb4ZcLYItnIt5fO6J75uAhWwV4BmxOt5NPxv6hNnmyhwUWN8wQ1+FAWz0IcA+sD9CnqcSYkcdSRaK1VfWrWjUTNvwwF+AD2k7yg43Zaw6MNoauEl7Y6FFurilo0gXmd7Oim/WuR3DDtNMRK0UGRtKIpjFiRA==;cB/pXo2RWegIvpmaue6o7Q=="
+secured: "MF7rZB/MCn3pf+wTHTdNSXSRIiNcdi0zA1vZiUzTJlTMchxUXRNk4vJFKiV5tcqOh2vgGy5PMI3mzONFcQp+VPiKg66UcQkArgA5/4Z/n+ULfvmZ8d3bMXFa7PF0XLrY7lLOLDcElkFuHagB959dDUzPg09a0JJVuQlgBm9aHBniIZdy7ArpXx2MSUnYWQ8FE6ngIP2ya5jZoWtkmC3U7Bk9ezp7UbVbmohaIW+lHIXqcOLwZOh2ybwLXlgtn8zqMPi79xoMgbGD0uvKkeBtHhjCjdH7t2bY3N4FIdIf8jZPPdvaCzRJrRi2158WehsmT59gs9HtCkrEHfMh+G59QZQc1Ba93GUio+MXTYRVuwc=;PnDEYo1XCS1Fq5f2vLiSlw=="
 ---
 

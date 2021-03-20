@@ -524,6 +524,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Biden Waited So Long to Throw the Press a Bone"
+    excerpt: "According to a fresh POLITICO/Morning Consult poll, 62 percent of registered voters give Joe their approval. Biden must be asking himself: Why break a sweat running when coasting is what got you to where you always wanted to go? With the possible exception ..."
+    publishedDateTime: 2021-03-19T22:26:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/03/19/why-biden-waited-so-long-to-throw-the-press-a-bone-477213"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/88/fe/817de5cf44d4ab032b9c198150fa/ap21075642381335-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
     excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
     publishedDateTime: 2021-03-18T20:50:00Z

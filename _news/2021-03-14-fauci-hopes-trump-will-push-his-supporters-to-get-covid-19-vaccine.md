@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B60DA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B60DA"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/3dabdb6797ecd0eac172a64d1dbd3ecd46ef50d6/0_136_6000_3601/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70d7639d69892d667db99b5199d789bc"
         width: 600
         height: 360
+        isCached: true
+  - title: "Donald Trump's Mar-a-Lago Club Partially Closed Due to COVID-19 Outbreak"
+    excerpt: "Former President Donald Trump's club, Mar-a-Lago, has been partially closed due to an outbreak of COVID-19. The golf club and resort is located in Palm Beach, Florida, and now serves as Trump's primary residence. A member of the club's staff tested ..."
+    publishedDateTime: 2021-03-20T09:26:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1760135/president-trump-travels-mar-lago.jpg"
+        width: 3998
+        height: 2665
         isCached: true
   - title: "Trump Voters Hesitant About COVID Vaccine Won't Be Swayed by Former President"
     excerpt: "When trying to convince former President Donald Trump's supporters to get vaccinated against COVID-19, officials should look to hammering home facts about those who have been vaccinated and not rely on the former president's persuasion, a recent focus ..."

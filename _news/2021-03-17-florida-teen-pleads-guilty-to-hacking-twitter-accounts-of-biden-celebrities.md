@@ -281,6 +281,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "'Blindsided': Biden faces tough test in reversing Trump's cruel border legacy"
+    excerpt: "Single adults and families are being expelled under coronavirus safety rules inherited from Donald Trump. But a growing number of children, some as young as six years old, from Guatemala, El Salvador and Honduras are arriving at the southern border without ..."
+    publishedDateTime: 2021-03-20T05:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/04134eae57ca6dbecda06fd51416be1cd4b1529d/0_366_5495_3298/master/5495.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a9105d5b8fea6b5ab008ac78ca420f7"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden Visa Decision on Donald Trump's 'Muslim Ban' Infuriates Progressives"
     excerpt: "The American Civil Liberties Union (ACLU) said that a large number of Africans would be affected and that Biden \"has failed to help so many of those harmed\" by the Trump administration's immigration restrictions. \"Instead of restoring this opportunity ..."
     publishedDateTime: 2021-03-10T10:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
 type: article
 quality: 175
-heat: 815
+heat: 835
 published: true
 
 provider:
@@ -522,6 +522,20 @@ related:
       - url: "https://media4.s-nbcnews.com/j/newscms/2021_11/3457067/210316-kim_yo_jong-mc-919_cd0a860ea683857ab88d1ba24b79b780.nbcnews-fp-1200-630.JPG"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Why Biden Waited So Long to Throw the Press a Bone"
+    excerpt: "According to a fresh POLITICO/Morning Consult poll, 62 percent of registered voters give Joe their approval. Biden must be asking himself: Why break a sweat running when coasting is what got you to where you always wanted to go? With the possible exception ..."
+    publishedDateTime: 2021-03-19T22:26:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/03/19/why-biden-waited-so-long-to-throw-the-press-a-bone-477213"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/88/fe/817de5cf44d4ab032b9c198150fa/ap21075642381335-1.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
     excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."

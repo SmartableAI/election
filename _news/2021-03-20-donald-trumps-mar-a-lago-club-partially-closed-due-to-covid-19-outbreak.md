@@ -1,22 +1,22 @@
 ---
 category: news
-title: "‘We want to be educated, not indoctrinated,’ say Trump voters wary of covid shots"
-excerpt: "Tout the number of people who got the vaccines in trials. And don’t show pro-vaccine ads with politicians — not even ones with Donald Trump. That’s what a focus group of vaccine-hesitant Trump voters insisted to politicians and pollsters this weekend ..."
-publishedDateTime: 2021-03-15T10:38:00Z
-originalUrl: "https://www.washingtonpost.com/health/2021/03/15/vaccine-hesitant-republicans-focus-group/"
-webUrl: "https://www.washingtonpost.com/health/2021/03/15/vaccine-hesitant-republicans-focus-group/"
-ampWebUrl: "https://www.washingtonpost.com/health/2021/03/15/vaccine-hesitant-republicans-focus-group/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/15/vaccine-hesitant-republicans-focus-group/?outputType=amp"
+title: "Donald Trump's Mar-a-Lago Club Partially Closed Due to COVID-19 Outbreak"
+excerpt: "Former President Donald Trump's club, Mar-a-Lago, has been partially closed due to an outbreak of COVID-19. The golf club and resort is located in Palm Beach, Florida, and now serves as Trump's primary residence. A member of the club's staff tested ..."
+publishedDateTime: 2021-03-20T09:26:00Z
+originalUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559"
+webUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559"
+ampWebUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
 type: article
-quality: 120
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RAD2SMQAOVG3HNABLM5FMKKBPM.png&w=1440"
-    width: 1440
-    height: 809
+  - url: "https://d.newsweek.com/en/full/1760135/president-trump-travels-mar-lago.jpg"
+    width: 3998
+    height: 2665
     isCached: true
 
 related:
@@ -111,22 +111,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Donald Trump's Mar-a-Lago Club Partially Closed Due to COVID-19 Outbreak"
-    excerpt: "Former President Donald Trump's club, Mar-a-Lago, has been partially closed due to an outbreak of COVID-19. The golf club and resort is located in Palm Beach, Florida, and now serves as Trump's primary residence. A member of the club's staff tested ..."
-    publishedDateTime: 2021-03-20T09:26:00Z
-    webUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559"
-    ampWebUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1760135/president-trump-travels-mar-lago.jpg"
-        width: 3998
-        height: 2665
-        isCached: true
   - title: "Trump Voters Hesitant About COVID Vaccine Won't Be Swayed by Former President"
     excerpt: "When trying to convince former President Donald Trump's supporters to get vaccinated against COVID-19, officials should look to hammering home facts about those who have been vaccinated and not rely on the former president's persuasion, a recent focus ..."
     publishedDateTime: 2021-03-15T17:45:00Z
@@ -158,6 +142,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-cpac-rt-ps-210317_1615989428814_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "‘We want to be educated, not indoctrinated,’ say Trump voters wary of covid shots"
+    excerpt: "Tout the number of people who got the vaccines in trials. And don’t show pro-vaccine ads with politicians — not even ones with Donald Trump. That’s what a focus group of vaccine-hesitant Trump voters insisted to politicians and pollsters this weekend ..."
+    publishedDateTime: 2021-03-15T10:38:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/03/15/vaccine-hesitant-republicans-focus-group/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/03/15/vaccine-hesitant-republicans-focus-group/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/15/vaccine-hesitant-republicans-focus-group/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RAD2SMQAOVG3HNABLM5FMKKBPM.png&w=1440"
+        width: 1440
+        height: 809
         isCached: true
   - title: "Public health experts want Trump to encourage his followers to get COVID vaccine"
     excerpt: "Trump — credited with bringing a COVID vaccine to market — is the only living U.S. president who has not participated in a public health campaign."
@@ -457,6 +457,6 @@ related:
         height: 675
         isCached: true
 
-secured: "WjI3XlmMjrZiwORzCERBhNusBsID86urSSauM8htkUL3Na06ChBicKpLxsEv5Vj/j3prHJQH4tRfDCB2mPVfgh+xhodOnG+SuVAXtxQ7D4LWvhP9uVEsZ2NOuIsYUiDKX6xYOrfG9WyRv+jThWxmdS6tAYhwxAGYfhx1AAzrBcDe71tUMoyd+l/FqavN0H0+dWLsDDixe8Xo4YquNF24EaJ48pnyXqWbF5tKzoG/ZB3kTq9Fi2pP0yk0MW/X9k/4PDl8eUt1mLWXAWvKy3Y5txPzvO5eqyGZe98ic/G2Axn8zQwHI/B94pkNpG8o1tiRlEltvoMdlK3fuSoR023SyFsAOipPx7hlyHGYJq21tTVWGomoW2LITT7eSV2K02mv5pjvFcKXQTacYF5QJrMRanSjxECLYbhWDh8sPx8mIxHNiVQNlHecloIXX3qnhqjH3OUcjTGDFy0cuKrkwBqESSzVtHfz+f4qcdwzTkVoFVzZcJVcgbC+nSRrkr7N/itHJIQtY6bOH2XZRU76gZ7uqw==;D+Afsmmk22/kLYcBwxK5hw=="
+secured: "kVdlUVyP+FRCIel+L9u4pAyb7xeDubiJulg1tiwgP0vg7deQeEWFc2/H+Jx7N9Ysvw+4dJ0oB0jdLZtE3rUYu3xK+e2c/A2jwcT87RzV1BweZ/dVBeyn9gvp03G47uLrmE6mhRcsP24P+pVEw/EwIchmNJfY1EAKm4/gvzyP9WaGcggeDuRHZWIlpJauFoGIRv5FhMRiPmtsCRJ1Gqa4kbcOIxLqCTF2fnl6CZtEIOjGNaG1PoXIQc7IWo7RXpug5P4JtnjBxdFgcV7MCjLSa0J/KIT9uvBEguGMZrKT9htm3fMmEshWvFbOo654/4AHRZZ4RqPFA7qSt0sWdd9fLsZHzag537j18BcvaedcxxU=;TMS9GQEAUenPlJuflniakQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
 type: article
 quality: 146
-heat: 2126
+heat: 2146
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/27e2771/2147483647/strip/true/crop/3618x2363+281+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F1e%2F6f3fd75dd8cf337e371f4b0065a0%2Fac3f35f2c1554c75ac18550bee411639"
         width: 320
         height: 209
+        isCached: true
+  - title: "'Blindsided': Biden faces tough test in reversing Trump's cruel border legacy"
+    excerpt: "Single adults and families are being expelled under coronavirus safety rules inherited from Donald Trump. But a growing number of children, some as young as six years old, from Guatemala, El Salvador and Honduras are arriving at the southern border without ..."
+    publishedDateTime: 2021-03-20T05:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/20/joe-biden-challenge-trump-border-legacy"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/04134eae57ca6dbecda06fd51416be1cd4b1529d/0_366_5495_3298/master/5495.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a9105d5b8fea6b5ab008ac78ca420f7"
+        width: 600
+        height: 360
         isCached: true
   - title: "Joe Biden Visa Decision on Donald Trump's 'Muslim Ban' Infuriates Progressives"
     excerpt: "The American Civil Liberties Union (ACLU) said that a large number of Africans would be affected and that Biden \"has failed to help so many of those harmed\" by the Trump administration's immigration restrictions. \"Instead of restoring this opportunity ..."
