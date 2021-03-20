@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
 type: article
 quality: 146
-heat: 2086
+heat: 2106
 published: true
 
 provider:
@@ -942,6 +942,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "The Biden administration finally lands on the obvious border message"
+    excerpt: "The Biden administration has confronted multiple major challenges in its early days, from the continued coronavirus pandemic to the economic strife that resulted to now an emerging crisis on the border."
+    publishedDateTime: 2021-03-19T17:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/19/biden-administrations-struggles-its-border-message-echoes-what-happened-schools/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/19/biden-administrations-struggles-its-border-message-echoes-what-happened-schools/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/19/biden-administrations-struggles-its-border-message-echoes-what-happened-schools/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BJ4HDET2XQI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."

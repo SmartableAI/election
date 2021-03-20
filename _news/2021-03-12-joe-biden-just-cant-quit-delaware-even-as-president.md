@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
 type: article
 quality: 175
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/181118100615-02-bill-nelson-file-1118-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "CNN's Amara Walker gets emotional after Biden speech"
+    excerpt: "CNN's Amara Walker got emotional following President Joe Biden's remarks supporting the Asian American community in the wake of the Atlanta spa shootings.\n    \n"
+    publishedDateTime: 2021-03-19T23:06:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NJ3ORYuYc8/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/19/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/19/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319185524-amara-walker-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

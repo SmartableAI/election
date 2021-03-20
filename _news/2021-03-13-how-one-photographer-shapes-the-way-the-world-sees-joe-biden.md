@@ -206,6 +206,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration prepares to expand phased entry of migrants forced to stay in Mexico under Trump-era policy"
+    excerpt: "The Biden administration is preparing to expand the phased entry of migrants who were forced to stay in Mexico under a Trump-era policy to two additional ports of entry, the Department of Homeland Security told CNN on Friday.\n    \n"
+    publishedDateTime: 2021-03-20T01:10:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5yEbaSNXQ30/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/migrants-phased-entry-remain-in-mexico-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/migrants-phased-entry-remain-in-mexico-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154002-01-central-american-minors-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden under pressure to tap fewer political ambassadors than Trump, Obama"
     excerpt: "Donald Trump named more of his political allies to serve as ambassadors than any president in modern history. Now the pressure is on Joe Biden to reverse that trend — and set a new standard. Biden still plans to dole out ambassadorships to major campaign donors,"
     publishedDateTime: 2021-03-16T00:55:00Z

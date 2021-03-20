@@ -943,6 +943,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Biden administration finally lands on the obvious border message"
+    excerpt: "The Biden administration has confronted multiple major challenges in its early days, from the continued coronavirus pandemic to the economic strife that resulted to now an emerging crisis on the border."
+    publishedDateTime: 2021-03-19T17:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/19/biden-administrations-struggles-its-border-message-echoes-what-happened-schools/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/19/biden-administrations-struggles-its-border-message-echoes-what-happened-schools/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/19/biden-administrations-struggles-its-border-message-echoes-what-happened-schools/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BJ4HDET2XQI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z
@@ -1537,6 +1553,6 @@ related:
         height: 663
         isCached: true
 
-secured: "+xV2fR89To7AY9tLfLS2nwI/KHmIa95sr9J5+dLxVEnv9dI/qdEXxLWZtZ84oi/7MAB1lSYzSkv+umc3wW6QX0hfQMF81IMy5ucAeAVFO+wnzC7beF2xU+lhLpvwgvPGqwHi+VQN54udM1h72km1+RoHhLKcZ7YAB2adY2dmcGa1bBUDPHVpf6ym6GBfkHoAOpEBxrtR+loUgcIWZhSn5qACS8gIDCIz14msQxtTu5DxeZntUylSRoYBY4yb+V1NnsJ7/3ZUcfLZuFCDD4DIxMscCCCWm69CKA7zOIjEBcBuXMUYtJ8ouYSVkrwDiDSMT+9j/xJVmQJE+PDpSBmNJwTrL4rWBzA+hmOgd65pRVU=;qOiNlTOmlREIGDqt/ABp0w=="
+secured: "eyh8FlyRxzDeO7SKSq+llcQMwFZyD3hEsqV05zW6VR0jib/vsw0lsty7xrjQifz1sFeY8v5PlGVnOt0Lt+aa0dbRPs4KWJXKviP6uwDKtyQl2ZaO+CWQRHDc/xS2TcXQ9JfK46mUs1oIXzAGwmO9t6i6nlfRz59D5g90pzagu3DjkA0ed1M5Wz8JSpETDYM8LEWKdT5wuqjLRGsTJfqBJjOdeSi8m8KC62PrI/bVcCd3RgyGH/aLdreRkoeGKc/56JIRyLtj/gPD5YJnbMZ1gY9uwkL3h5uVa8D5UDXS1pWa4ynVuaspH85yet3wNa5kDUvT1wiO2osbZ1kpeJ/Tv9lpVWwuT+8AzKRN3URUYum+N4UprbO+sDCHhHiL+n4G+1VMz1TPGi4KXa6ZoNOMj4XH+apzT6gYh1OWcKUw4ISiW4hsRhQ7SzL+g+EOw2RBFRfV/M32xLHNaAXQfV86v1KJKgVOP0JPqxAAh+Wx/bz/2oZF9NZ2hMeeORB3DlmRVKVLSeTOpFxnwhAjoMe0xA==;4+Zp3OUPyMD0eMfK+WktqA=="
 ---
 

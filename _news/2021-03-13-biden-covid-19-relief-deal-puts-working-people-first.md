@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "CNN's Amara Walker gets emotional after Biden speech"
+    excerpt: "CNN's Amara Walker got emotional following President Joe Biden's remarks supporting the Asian American community in the wake of the Atlanta spa shootings.\n    \n"
+    publishedDateTime: 2021-03-19T23:06:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NJ3ORYuYc8/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/19/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/19/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319185524-amara-walker-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he supports bringing back the Senate's talking filibuster rule"
     excerpt: "President Joe Biden on Tuesday said he supports changing the Senate's filibuster rule by bringing back the talking filibuster, requiring a senator who wants to block legislation to hold the floor without taking a break.\n    \n"
     publishedDateTime: 2021-03-17T01:50:26Z

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden condemns 'skyrocketing' hate crimes against Asian Americans in wake of deadly shooting"
+    excerpt: "President Joe Biden and Vice President Kamala Harris traveled to Atlanta on Friday to meet with Asian American leaders in the wake of deadly shootings that killed eight people, including six women of Asian descent.\n    \n"
+    publishedDateTime: 2021-03-20T00:06:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e3wE3JAM_Vw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-harris-atlanta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-harris-atlanta/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "xGyALaCQYgCERr1S/cgxiChgGXjYvTyE0XDHZC605KmiGhp3ISp9//Bc+IMojbwJK5Kc4rTAc+LPqr83fHJT9oeQZFXlI+dK99pO4sNvDMC5dGno8B2kll4NQSsTUgJKOc3BTlkJNxUqsHIsU4hQAP3pX/a3iSoT8hEyRrWWP6Z753j5L7e9qLOugfEpfrSsnCSqAyyxiGxrME0W8ufUsxkidFkjumTBHQJDzzh7FXJ2OT0DdhSAzhfrQ0WN8fa7M7w6yv0mBkSqf7TPGSduaTJ5lSkda7Br161Wsy13u8kfDf+bXgyMxuEzHIDlu1WkjVtd7F7JmpUJkzq0zCldTIGSa0MNZWmXHLyGPiStEpw=;zecPdO/sYwmP1H8/WHog/w=="
 ---

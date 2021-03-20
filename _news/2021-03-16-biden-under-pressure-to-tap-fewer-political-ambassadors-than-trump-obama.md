@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration prepares to expand phased entry of migrants forced to stay in Mexico under Trump-era policy"
+    excerpt: "The Biden administration is preparing to expand the phased entry of migrants who were forced to stay in Mexico under a Trump-era policy to two additional ports of entry, the Department of Homeland Security told CNN on Friday.\n    \n"
+    publishedDateTime: 2021-03-20T01:10:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5yEbaSNXQ30/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/migrants-phased-entry-remain-in-mexico-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/migrants-phased-entry-remain-in-mexico-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154002-01-central-american-minors-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden compares himself to the alternative (Trump) in first prime-time speech"
     excerpt: "WASHINGTON — Many Americans want to forget about former President Donald Trump, but President Joe Biden won't let them. In nearly every sentiment of the new president's first prime-time address to the nation Thursday night, an unsentimental Trump loomed ..."
     publishedDateTime: 2021-03-12T15:46:00Z

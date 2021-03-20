@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "CNN's Amara Walker gets emotional after Biden speech"
+    excerpt: "CNN's Amara Walker got emotional following President Joe Biden's remarks supporting the Asian American community in the wake of the Atlanta spa shootings.\n    \n"
+    publishedDateTime: 2021-03-19T23:06:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NJ3ORYuYc8/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/19/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/19/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319185524-amara-walker-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Capitol Hill has picked Shalanda Young to lead OMB -- but Biden hasn't yet"
     excerpt: "Congressional Democrats are pushing President Joe Biden to nominate Shalanda Young to lead the Office of Management and Budget after Neera Tanden withdrew her nomination amid opposition in the Senate.\n    \n"
     publishedDateTime: 2021-03-05T22:14:09Z

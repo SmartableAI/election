@@ -959,6 +959,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Biden administration finally lands on the obvious border message"
+    excerpt: "The Biden administration has confronted multiple major challenges in its early days, from the continued coronavirus pandemic to the economic strife that resulted to now an emerging crisis on the border."
+    publishedDateTime: 2021-03-19T17:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/19/biden-administrations-struggles-its-border-message-echoes-what-happened-schools/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/19/biden-administrations-struggles-its-border-message-echoes-what-happened-schools/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/19/biden-administrations-struggles-its-border-message-echoes-what-happened-schools/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BJ4HDET2XQI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump pressured another Georgia elections official, Frances Watson, to uncover nonexistent voter fraud"
     excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump urged a Georgia elections official to uncover nonexistent evidence of mass fraud before the \"very important date\" of ..."
     publishedDateTime: 2021-03-11T01:27:00Z

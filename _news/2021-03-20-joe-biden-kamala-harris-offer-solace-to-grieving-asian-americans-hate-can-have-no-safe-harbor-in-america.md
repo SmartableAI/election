@@ -219,6 +219,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden And Kamala Harris Condemned The “Scapegoating\" Of Asian Americans After The Shooting In Atlanta"
+    excerpt: "For the last year, we've had people in positions of incredible power scapegoating Asian Americans,\" Vice President Kamala Harris said in Atlanta."
+    publishedDateTime: 2021-03-20T00:34:00Z
+    webUrl: "https://www.buzzfeednews.com/article/ryancbrooks/biden-atlanta-shooting-asian-violence-kamala-harris"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/biden-atlanta-shooting-asian-violence-kamala-harris"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/biden-atlanta-shooting-asian-violence-kamala-harris"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 123
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-08/5/17/campaign_images/9c5efebe53d7/cory-booker-says-donald-trump-is-responsible-for--2-935-1565025509-4_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "Armed Man Arrested for Carrying Shotgun, Ammunition Near Kamala Harris' House"
     excerpt: "Members of the Secret Service detained an armed suspect near the home of Vice President Kamala Harris on Wednesday."
     publishedDateTime: 2021-03-17T22:20:00Z
@@ -689,6 +705,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "3s8o0c2iFOVF/3lryJUl2sFzfqhjgA+TKPGRgCDGQWjU8AwMH3c6BTUxD5PCSwU1UtR3kz+DiuRJlsLb+jpa9HHN1/0pEFQcJw+dSu+vsAg8UUB4Ce3KZW2+mLZiRd9kKqkldbZiALIR8KkII6zIjXCLHFPdjk2nSyVQyPXAjBWIX455zxt/85sUw2WC5mV1ESFB0RQzhHcxRqOU1V+WgTc38DO2/jtLgsapOINYM/0lknaXlgFfq2s3SgrzgHDVIJRHPUFIbEuO/HZhkJYnPK0YEpnZKVZaodLzJ4eMD4/Ok4eiybwvOj8uaP51pW5eiuSTZwO9kDfbr076PeQb8vZyCblQbDO+k4Z7lQ08WEA=;JODz4jOIBhwW5g5iRRbNwg=="
+secured: "QXZezJm+rwIg6sUE+NemzUxsustCYMSVepaKtgFF3S+fsN0c7Yto2JgNIhJFkYgpQNZ5WNHd/1KDA2Hva/nJzUgNXNo2A7+KARTto1kssUWvB/1U1dto6g1/pZz+T91GUZE6XlzsOwRgfTSB0OW3vJHphhYhJk2+8KriDiCXgDGPZIDj59R7s4tSP+qdAozXn/kK/aTso2MpwCZOa9aW175pPhLkOOCuLHFUhWl8I35//dZegXQs5Kpisc4ogkRJFiPSZtvzRMCUY57ILuSWSZTLDrmsaaNP7gwaVyy5qrj+9iPQM8g1/JKZ1fSMEnhovNOBt4YohpqUeOgHABlEgpWtNQTnf29is+vhrPkeeUP6AgVG8PTnquMje1zTPhDK6iuMvsu6uh7Y4NTtvwJ0jSD0GjN+5mSQk3YsqefG0PXffkiNyIFfno2b86z0Cz3eAUb2P72Z69iNZjyWj1kGe0Jmb1SE9j294VhKsnfCoKTGOGsVGfkTqoxHTxVgqBUu7AqaiuxAGyYYOxtr8FpT1Q==;hVXs/vjH0cIEBOnyjZs7zw=="
 ---
 

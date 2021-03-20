@@ -84,6 +84,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Vice President Kamala Harris will travel to Jacksonville on Monday"
+    excerpt: "Vice President Kamala Harris will travel to Jacksonville to tout the administration's $1.9 trillion coronavirus stimulus plan."
+    publishedDateTime: 2021-03-19T22:17:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/19/vice-president-kamala-harris-jacksonville-florida-visit/4759495001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4759495001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4759495001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PFRE/2aeae88e-c268-47e8-8a18-dcb9c85b20e8-kamala_harris.jpg?auto=webp&crop=4500,2532,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
     excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
     publishedDateTime: 2021-03-15T21:35:00Z

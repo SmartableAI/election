@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden, Harris meet with Asian American leaders in Atlanta"
+    excerpt: "President Biden and Vice President Kamala Harris met with leaders of the Asian American and Pacific  Islander (AAPI) community Friday in Atlanta, in the wake of Tuesday’s shooting that left eight dead. "
+    publishedDateTime: 2021-03-19T23:55:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1w_kNeNoqvg/biden-harris-asian-american-leaders-atlanta"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-asian-american-leaders-atlanta.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-asian-american-leaders-atlanta.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Biden-Harris-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cuomo accuser Lindsey Boylan slams Biden, Harris over silence on sexual harassment scandal"
     excerpt: "Lindsey Boylan, the first woman to accuse New York Gov. Andrew Cuomo of sexual harassment in a widening scandal, slammed President Biden and Vice President Kamala Harris in a now-deleted tweet for staying silent on the allegations."
     publishedDateTime: 2021-03-13T02:27:38Z
@@ -602,6 +618,22 @@ related:
     quality: 127
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73f5fe50-ad30-425e-a755-e6ba57fca7e7/f25ef0a7-9f70-4c99-89ac-701e3eb10927/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "WH axes staffers over past pot use even though Kamala Harris has admitted she smoked it"
+    excerpt: "The White House revealed that a handful of staffers were let go over past pot use, even though Vice President Kamala Harris has publicly admitted to smoking weed in college. Then-senator Harris, who was also a 2020 presidential candidate, supported ..."
+    publishedDateTime: 2021-03-19T23:33:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-pot-wh-staffers-past-use"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-pot-wh-staffers-past-use.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-pot-wh-staffers-past-use.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46201ea5-06b8-4224-aecd-58d01dd3df89/c52f7acd-e909-4d31-9921-c077241afbed/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

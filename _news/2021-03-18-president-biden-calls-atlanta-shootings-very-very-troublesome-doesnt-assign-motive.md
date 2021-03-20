@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden addresses Atlanta attacks: ‘words have consequences’ whatever the motivation - as it happened"
+    excerpt: "When it does, that’s the day you know you’re going to make it.” Joe Biden speaks at Emory University in Atlanta, Georgia. Photograph: Eric Baradat/AFP/Getty Images Updated at 6.28pm EDT Joe Biden has addressed the shootings in Atlanta, saying that ..."
+    publishedDateTime: 2021-03-19T22:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest?page=with:block-60551ca28f0825dddef5daf8"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/atlanta-shootings-biden-harris-visit-asian-americans-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/29917f705c9870429d3c935d73b93393020bf99a/0_103_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1cc9f4de08fe0da065e457a4f87bbeae"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "p/luSrdyj7Jk1/mbNA7F56viGaBo0mzw73KcTzscv4jk6tXqPQAdZth1+995A6d7h9p4ANeFG1ds5vnbyw2tVuh29TYQFGOSblRLsVhpduFpDp/speFW3Z479DCVb1opoxhU6lBf/1Fd2mTH557Y4f3j3Y306+0kgL7j+cRzTgRMt7MS3Y5m9nyVzZIEyDpRJSXRnmZ8JpvlMPUYjTf47TQPgvrUYdSyp+JFO94D3qZ4urjdcrxYlA0w4w72UfBxhMdxRNlGaxFuwypc9VkTeioeG0av6FHii0r//UxvxYsja1rWxJGwBdrf+lpyZ6RnI1Q8HZjuWA3ae0uLoy1pdm4UD/Ck9vpe+mbQTGGq0aU=;jFHyyRHdWmIwzr+ra4T6pQ=="
 ---

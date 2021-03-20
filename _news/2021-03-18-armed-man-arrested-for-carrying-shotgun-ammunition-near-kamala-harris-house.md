@@ -223,6 +223,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden And Kamala Harris Condemned The “Scapegoating\" Of Asian Americans After The Shooting In Atlanta"
+    excerpt: "For the last year, we've had people in positions of incredible power scapegoating Asian Americans,\" Vice President Kamala Harris said in Atlanta."
+    publishedDateTime: 2021-03-20T00:34:00Z
+    webUrl: "https://www.buzzfeednews.com/article/ryancbrooks/biden-atlanta-shooting-asian-violence-kamala-harris"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/biden-atlanta-shooting-asian-violence-kamala-harris"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/biden-atlanta-shooting-asian-violence-kamala-harris"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 123
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-08/5/17/campaign_images/9c5efebe53d7/cory-booker-says-donald-trump-is-responsible-for--2-935-1565025509-4_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "Biden orders flags at half-staff to honor victims of Atlanta-area spa shootings"
     excerpt: "Biden, Harris to meet with Asian American lea... 09:36 Washington — President Biden on Thursday ordered flags at the White House and on federal grounds in the U.S. and abroad to be flown at half-staff after eight people, including six Asian women, were ..."
     publishedDateTime: 2021-03-18T16:36:00Z
