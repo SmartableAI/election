@@ -367,6 +367,20 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Joe Biden and Kamala Harris condemn attacks on Asian Americans – video"
+    excerpt: "The US president and vice-president offered solace to Asian Americans as they visited Atlanta just days after a white gunman killed eight people, most of them Asian American women"
+    publishedDateTime: 2021-03-20T10:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/20/joe-biden-kamala-harris-condemn-attacks-asian-americans-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/515e4fba6738ee8e6b7a1cda370b5419a760ab9e/0_104_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b95b22609ef473345586ff001b2a950"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Attacks on Asian Americans are up. What is the Biden administration doing about it?"
     excerpt: "WASHINGTON – The concerns President Joe Biden expressed Wednesday following the fatal shootings of Asian Americans in Georgia echoed the comments he's made since taking office, a tenure that began with an executive action condemning racism and ..."
     publishedDateTime: 2021-03-18T11:40:00Z
@@ -1050,6 +1064,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "3RFbMmE7jZZMZwHuiwfS+yVw+ZaAClmkZsso1S1pxKy2fQP0SK1b2bAcLYBKUseSE3aFDk4683AsKCQlBiAyJs99f4R17jxI1bAC4TanHENx1zQLZiUe0Qk92jIyL7Xxc6s40sgnJMc7IEqQlRKuYnb2gE9xa39kKqE7Y793JewFjzZvJ1tXSN2DpZK6YaOjJlOuLra9zdsnKLfcH/biKAy9zK3y/oOx/DND9SZeto2gRVAdob8IpWXUNomWnkxwZSFMqZJ63vxl1T94zUiRN+jAiG1HOnOwlIbmkxwhL3fqG0Pnpb1rpaDakdK9Xm58yy5tdsBobD8ukr2Pbj3VmkyTm2+JzhgjVx9eponpWOg=;bRTUdFbTCsy6GAoY63gL3w=="
+secured: "j+ELVABGCBXcsigmOAOGeoGIhKhBhK7KSumqDKkDt7fy8MZj1ti3X6KvZhl6XYpYmAVBe6GFRssEGoHoLmHWV7LLTPAaAYifiYvRhxYLtaUuD4to1SGrr9k6sz+bT836cMPMOmpmTSveZDwKrr79MUhlHSMx0d5lOkl5A5jHE/TGl7wSH/aHTbuaScRuFQFGVASV69QS/og6flmRyJhmePZKwK4US5d7bV4a8qmF6q35F6WQCc+gCUg2GU2DhbO6NL+c1ZKRDPBQHL/Gdl9j7jCOYpKGpNCStAPgBkn8F1nHL/+PRm3KOKOgybqFMYjT5ruEqQ6ATf+5QEz8xKuLNfLn2wXlKGF1E72QJ2Bq1t0kFGsRmvdxqg0sErdvGXcrj+3GZQRoNckHB1vMljgyRRmCG71460jVm2sBoAEsnComfVm5Afj0gOp5lb2QhFJwuyXiXCMY3wNukJntrR10YPg+uzrt2kILIYdXpxfw30GId5LVaWl6glvZrmrfrZHGU19NIbFqoLyD/15f2MSotQ==;Yt2C0WZZycoUqsPieIO9Dw=="
 ---
 

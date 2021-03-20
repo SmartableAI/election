@@ -222,6 +222,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Speaking out against hate crimes, Biden tries to restore moral clarity to the presidency"
+    excerpt: "President Joe Biden and Vice President Kamala Harris moved to reassert control over America's bully pulpit Friday, decrying acts of violence against Asian Americans after a year in which former President Donald Trump inflamed racist attitudes by referring countless times to the coronavirus as \"Kung Flu\""
+    publishedDateTime: 2021-03-20T04:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgB6ALPRmew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden under pressure to tap fewer political ambassadors than Trump, Obama"
     excerpt: "Donald Trump named more of his political allies to serve as ambassadors than any president in modern history. Now the pressure is on Joe Biden to reverse that trend — and set a new standard. Biden still plans to dole out ambassadorships to major campaign donors,"
     publishedDateTime: 2021-03-16T00:55:00Z

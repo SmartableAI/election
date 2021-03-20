@@ -367,6 +367,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden and Kamala Harris condemn attacks on Asian Americans – video"
+    excerpt: "The US president and vice-president offered solace to Asian Americans as they visited Atlanta just days after a white gunman killed eight people, most of them Asian American women"
+    publishedDateTime: 2021-03-20T10:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/20/joe-biden-kamala-harris-condemn-attacks-asian-americans-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/515e4fba6738ee8e6b7a1cda370b5419a760ab9e/0_104_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b95b22609ef473345586ff001b2a950"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Attacks on Asian Americans are up. What is the Biden administration doing about it?"
     excerpt: "WASHINGTON – The concerns President Joe Biden expressed Wednesday following the fatal shootings of Asian Americans in Georgia echoed the comments he's made since taking office, a tenure that began with an executive action condemning racism and ..."
     publishedDateTime: 2021-03-18T11:40:00Z
