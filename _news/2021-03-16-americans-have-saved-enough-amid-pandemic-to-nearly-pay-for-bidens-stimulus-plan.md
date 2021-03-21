@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
+    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
+    publishedDateTime: 2021-03-20T02:11:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 131
+    images:
+      - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden and Kamala Harris condemn attacks on Asian Americans – video"
     excerpt: "The US president and vice-president offered solace to Asian Americans as they visited Atlanta just days after a white gunman killed eight people, most of them Asian American women"
     publishedDateTime: 2021-03-20T10:20:00Z
@@ -381,22 +397,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
-    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
-    publishedDateTime: 2021-03-20T02:11:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 121
-    images:
-      - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Man With Gun Arrested Near Kamala Harris Home After Texas Tip-off, Regional Alert"
     excerpt: "An armed man was arrested and detained by members of the Secret Service near the Naval Observatory on Wednesday, the official residence of Vice President Kamala Harris and first gentleman Doug Emhoff. Members of the Washington, D.C. Metropolitan Police ..."
     publishedDateTime: 2021-03-17T22:20:00Z
@@ -492,9 +492,9 @@ related:
         height: 630
         isCached: true
   - title: "Biden deplores rising anti-Asian violence, asks Americans to stand together against hate"
-    excerpt: "President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday."
-    publishedDateTime: 2021-03-20T05:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
+    excerpt: "ATLANTA (Reuters) - President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday. Biden and Vice ..."
+    publishedDateTime: 2021-03-20T05:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-georgia-idUSKBN2BB0ZY"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
     type: article

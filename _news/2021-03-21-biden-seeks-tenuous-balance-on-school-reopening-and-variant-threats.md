@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden set to address nation with an eye toward reopening"
-excerpt: "President Joe Biden will use his first evening address to the nation to open the next chapter of the coronavirus pandemic, taking stock of the worst year in recent memory while projecting hope the next one will be better.\n    \n"
-publishedDateTime: 2021-03-11T21:06:31Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m-hICRImayI/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m-hICRImayI/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-one-year-covid-address/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-one-year-covid-address/index.html"
+title: "Biden seeks tenuous balance on school reopening and variant threats"
+excerpt: "When officials from the US Centers for Disease Control and Prevention announced Friday that they were relaxing the physical distancing guidelines for many schools, White House officials hailed it as another moment when the barriers to in-person instruction were falling.\n    \n"
+publishedDateTime: 2021-03-21T04:08:28Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TE1cgq2vMPQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TE1cgq2vMPQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
 type: article
 quality: 175
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310155553-02-biden-jj-merck-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319165015-02-biden-cdc-0319-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205527-01-joe-biden-0305-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to address nation with an eye toward reopening"
+    excerpt: "President Joe Biden will use his first evening address to the nation to open the next chapter of the coronavirus pandemic, taking stock of the worst year in recent memory while projecting hope the next one will be better.\n    \n"
+    publishedDateTime: 2021-03-11T21:06:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m-hICRImayI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-one-year-covid-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-one-year-covid-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310155553-02-biden-jj-merck-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -156,22 +172,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308160143-children-border-patrol-210225-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden seeks tenuous balance on school reopening and variant threats"
-    excerpt: "When officials from the US Centers for Disease Control and Prevention announced Friday that they were relaxing the physical distancing guidelines for many schools, White House officials hailed it as another moment when the barriers to in-person instruction were falling.\n    \n"
-    publishedDateTime: 2021-03-21T04:08:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TE1cgq2vMPQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319165015-02-biden-cdc-0319-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -378,6 +378,6 @@ related:
         height: 619
         isCached: true
 
-secured: "eDPLVURqAUPRA4rNFE3al4iNRvsqFfwH56zeHvO4V1ANaprXW4wWCDIJGXaldQk8VyuHhi1mlkXpNfdq3S3JtGB5ObQIu+OE3IlKQuamL7IVPfs8ewFhe0TFoQVIGlodHAIaJN7hxvSBfcklykluZw+k4bncaW/7IiIqoRDTw1CpASj18eQTnOq3uznDAmT7RztNFJuUgchDgpiHmEKOzDsz4JcTiWWpkKFaN9qeuAsu0aerp/k/56f30YryyPjXscfUqXh8z18txso+GA3GLWaopO7b54reS0ziEMr/H8VspvsbIL/AKpAyFi/vJpD5C1EKaeYrfgEJcKUhrTUK7/0OprYxlqByGVNv3gyO+eU=;RzuiABrT56vv1c8Xg3ZNag=="
+secured: "dPJFimESqe5aBQ/fE8MwsIi47M/m7fr4mhr0rn+O3wv2a9eq2uuo/eb5LCJKE9l/YQ25a908SQFzpb8la4FoXlpYJKxE41weti1jp9ao8ARw+z7sq9WM4510VEEcFTskDngREyqqg9Bc2RydYl5App1QRMsR3u6m5fidhUGSpw5T4EwkWcUan06B7ESIFT1Za6StctVio4f+ZIIAogV9EqWG4XgH2/dK+G1S/pTtt6TnQxd2WVOuWYGxG/0vMbMf8ThJqboRHv3vN3sKvPCuTyaUiIGFBh+vAmLzlWOsoYEUDXwKja55+q6DdrmMVYyJ03PDdGUWflRRT8u6DcYVV220V0r1rzko6iWpBpcn6/8=;F4KLIK+EYFiaXr2tMZvSZg=="
 ---
 

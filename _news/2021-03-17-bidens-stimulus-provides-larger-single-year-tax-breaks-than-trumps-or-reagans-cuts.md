@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/stimulus-temporary-tax-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/stimulus-temporary-tax-cut/index.html"
 type: article
 quality: 183
-heat: 603
+heat: 623
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308160143-children-border-patrol-210225-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden seeks tenuous balance on school reopening and variant threats"
+    excerpt: "When officials from the US Centers for Disease Control and Prevention announced Friday that they were relaxing the physical distancing guidelines for many schools, White House officials hailed it as another moment when the barriers to in-person instruction were falling.\n    \n"
+    publishedDateTime: 2021-03-21T04:08:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TE1cgq2vMPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319165015-02-biden-cdc-0319-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

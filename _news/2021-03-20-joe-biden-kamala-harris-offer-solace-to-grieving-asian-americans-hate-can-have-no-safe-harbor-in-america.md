@@ -8,7 +8,7 @@ webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-
 ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
 type: article
-quality: 121
+quality: 131
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
@@ -492,9 +493,9 @@ related:
         height: 630
         isCached: true
   - title: "Biden deplores rising anti-Asian violence, asks Americans to stand together against hate"
-    excerpt: "President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday."
-    publishedDateTime: 2021-03-20T05:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
+    excerpt: "ATLANTA (Reuters) - President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday. Biden and Vice ..."
+    publishedDateTime: 2021-03-20T05:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-georgia-idUSKBN2BB0ZY"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
     type: article
@@ -1128,6 +1129,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "qte8PRs0hBgRdikJvnh8GzTJqXyifxphoCDT8+pBr8fjG91+Z/QWyHAaWpWTBGlK5yVEnPdMhpIk3btV8D25RegWeXTmxtK0usQth/tpDw0v75VnBJZkfyY+x7K6LzQ2HA1yVpqL60/bUwjf14S7KYVCwYGoErchJn8uc4mhYAVP4QbIkvMhQUY4nPOzvdY4xlFkloCRmjcKkw+1pZ8Zm3eLYmQElfGRbL53Z3jecFuoCzNPSxr/2AtC1q3t5tD5+gCIxO/6ktSb60/5GmTafcLQDTXHS7Iy4XDrAt+baCsVJZ+eqFORtYWDzNVLgQFbnQs3vs5AeCt8WAlrt+VXYUkHj747Erz/sf9cXxpyP9w=;QqwI9/g6J8Cb1BzuZbzKAQ=="
+secured: "OZPxz+r/GeDEenoVd1pIZiuA8nuuVgsZiMtzepa3Hz7r2bEQk7smH4Jmn9vdDY4qkXJh/OJkyjjClUwWQAIQnEaXtoDbZYAyrx/WxZ8JpqjH6xzq3DB5kRTE/3brNp11NNPuiwJqLNx6RWAq+ba1cClSjrWmU2biXEgH8tSpBkjrZKQkz9Ee0v+t/OuD2tWK7/WQ6cTSefInGI2Vcz9h6Zds856yJmdGJ0qT6uTiXuo2ZxqFgj60/eraNPY2Dav101pyzPm07/kN+sMJU07TKWDIdEAq5BF1HQtEvVFBkLDVaobzTIN22PQ5MF1r1SGC7GrK5j2lMOSkA/Dg3AcDDNkWUUxh2gRQBZGDuAfxac0S3nMpXgUPp6+N/6aXbGwDLvFz+naeldpcErsnOI1qqhCJ4zzdx9erHQI1MzgbtRwoiX52LsXTAhrALshQc7Q0OdSZ0C0rBapzOw77CyrwGyhzo7OtTuCa5cma6f/YYqmpzRdL8wa83m6dq8JHSnsdN+pbIYMSVgL4goc1KPs4DA==;lrNN18nkZmNzg2Bw23Onjg=="
 ---
 

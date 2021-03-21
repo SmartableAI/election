@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden deplores rising anti-Asian violence, asks Americans to stand together against hate"
-excerpt: "President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday."
-publishedDateTime: 2021-03-20T05:14:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
-webUrl: "https://www.reuters.com/article/us-usa-biden-georgia/biden-and-harris-shifting-focus-of-georgia-trip-after-atlanta-shooting-rampage-idUSKBN2BB0ZY"
+excerpt: "ATLANTA (Reuters) - President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday. Biden and Vice ..."
+publishedDateTime: 2021-03-20T05:13:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-georgia-idUSKBN2BB0ZY"
+webUrl: "https://www.reuters.com/article/us-usa-biden-georgia-idUSKBN2BB0ZY"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB0ZY"
 type: article
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d8ed322efd0cd1c6655c2fc5e60dd5dad1d9da39/0_870_3724_2236/master/3724.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ee426e8702e8582ce1c7e753dee49b1"
         width: 600
         height: 360
+        isCached: true
+  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
+    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
+    publishedDateTime: 2021-03-20T02:11:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 131
+    images:
+      - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Joe Biden and Kamala Harris condemn attacks on Asian Americans – video"
     excerpt: "The US president and vice-president offered solace to Asian Americans as they visited Atlanta just days after a white gunman killed eight people, most of them Asian American women"
@@ -380,22 +396,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/2e1ebb6a-c7fb-421e-bd5c-ffc0990f5a49/thumbnail/1200x630/db85c2794a36570ed26db7d1cc63b885/2021-03-18t162915z-272238798-rc2sdm9k6aaa-rtrmadp-3-crime-georgia-spa.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
-    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
-    publishedDateTime: 2021-03-20T02:11:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 121
-    images:
-      - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Americans Have Saved Enough Amid Pandemic to Nearly Pay for Biden's Stimulus Plan"
     excerpt: "Oxford Economics estimated that U.S. households saved $1.8 trillion from March 2020 to January 2021—just shy of the $1.9 trillion price tag attached to Biden's relief package."
@@ -1128,6 +1128,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "U64I3Z6zes+3dLytbefg8VG4RAVWMPpdNnsniK9eiTsP17oDqOAQP2MxPUpHKp8412V/zfKgAf7yuj09gsQMFdx28vxf/SAYTZa9m+goKJgCas6Q6T6q/bXHgklp5ehIY8ON6U2ZA9rp06yY4lYxDTGtkkV73eQGDHf+NQtlSbg3BYuSYOLix7HpDEJzrdHK97yhbhccjej0HWHLmnU9eTwYdikkPfTxOzzeE0vdWJKLSBuJeotbkZryGGLkWAJxluOU5NXGR7rgSjrfmbEHtc0QYrObE+Bqg7UbCh2GtgLYbbF14ADxJcKa2oah8tGffWPJrl3+LnkqWMZ+9BefhfqD7Zq8p7CvD/7bnruO+Iw=;ZQPGHW4HAVq52zYdqrd5ig=="
+secured: "mswaRZKpNNCJidSjiYP4WAizDoPerOtonXB+HZpa7mGqxfSU/h+Jms13s1ej/WkBiXk11S1wtKswEOdRSG+CanQVdGSvC/jXSVMI2jgv77bicVmW7GQf0B5Qb77MUIP8F1vYXeA09SSD79KGHN/PXJdhmtuWj2Oj9LRd/6z6uhJxxbK67ejrDMPGlCGtp6HZzKJaDFsNyQDWX4Wnpk05LZBWkGCH5ciLJN8mkMrQFuNFoNLcHMevLtfDiRZUmmVu6Xqb7F7DMh7fpR4fdb2R1QiRQfib2OazWZONl0YfoGhWhrJeCM23tBs5XQwBYZxCvpC4JOanrrL7N20WtDK46meOPubBGMGQvWtreOUobJA=;bsvhmAs0oy+XM27Y46IHsA=="
 ---
 

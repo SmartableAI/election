@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden seeks tenuous balance on school reopening and variant threats"
+    excerpt: "When officials from the US Centers for Disease Control and Prevention announced Friday that they were relaxing the physical distancing guidelines for many schools, White House officials hailed it as another moment when the barriers to in-person instruction were falling.\n    \n"
+    publishedDateTime: 2021-03-21T04:08:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TE1cgq2vMPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319165015-02-biden-cdc-0319-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
     excerpt: "Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president.\n    \n"
     publishedDateTime: 2021-03-11T18:37:36Z

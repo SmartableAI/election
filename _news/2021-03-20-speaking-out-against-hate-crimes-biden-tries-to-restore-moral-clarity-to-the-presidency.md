@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden seeks tenuous balance on school reopening and variant threats"
+    excerpt: "When officials from the US Centers for Disease Control and Prevention announced Friday that they were relaxing the physical distancing guidelines for many schools, White House officials hailed it as another moment when the barriers to in-person instruction were falling.\n    \n"
+    publishedDateTime: 2021-03-21T04:08:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TE1cgq2vMPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319165015-02-biden-cdc-0319-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
     excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
     publishedDateTime: 2021-03-18T11:33:43Z
