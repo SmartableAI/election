@@ -45,22 +45,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden admin under fire over lack of transparency on border crisis"
-    excerpt: "The Biden administration is facing increased scrutiny from the media for the lack of transparency around the child migrant facilities along the U.S.-Mexico border, which has transformed into a border crisis."
-    publishedDateTime: 2021-03-19T17:38:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FOXRraan5dI/biden-psaki-mayorkas-visit-border-crisis-transparency"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-mayorkas-visit-border-crisis-transparency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-mayorkas-visit-border-crisis-transparency.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3b25a0f-3621-4168-b114-166c60079794/d952f25e-75d7-465d-a804-1fe4932ca34d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pelosi says Biden has southern border situation 'under control'"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., expressed confidence in President Biden's handling of the surge of migrants at the Southern border, saying he's got it \"under control.\""
     publishedDateTime: 2021-03-19T17:03:08Z
@@ -92,38 +76,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden immigration policies have created 'disorder at the border,' GOP lawmakers say"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., and other GOP lawmakers called on President Biden to admit fault and work to reverse changes to immigration policies that they said have caused a dangerous surge in migrants at the southern border."
-    publishedDateTime: 2021-03-15T19:44:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRAWSOw5O4c/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden admin can't keep up with border surge of migrant children, CBP official warns"
-    excerpt: "The number of migrant children in federal custody has passed 4,000, one source told Fox News."
-    publishedDateTime: 2021-03-16T21:51:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1tsjcCcU_k/migrant-children-border-dhs-families-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21071661472869.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "McCarthy, GOP delegation visiting US-Mexico border Monday amid migration surge under Biden"
     excerpt: "House Minority Leader Kevin McCarthy and 12 other House Republicans are at the Southern border and will make comments from El Paso, Texas later Monday as the GOP continues to hammer President Biden over immigration. "
@@ -172,22 +124,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c57185e-ca00-4a31-8a79-5263e0ffb1bf/734d5af6-eb8b-41e0-b2e7-97595737b564/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden admin allowed majority of migrant families who surrendered at border to enter US despite health order"
-    excerpt: "In February, U.S. Customs and Border Protection (CPB) allowed the majority of the migrant families it encountered on the U.S. southwestern border to stay in the country pending a decision on whether they will be allowed to stay permanently. "
-    publishedDateTime: 2021-03-18T17:21:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-p3906S9zsY/biden-border-crisis-migrants-health-order"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Texas Republicans rip Biden after Border Patrol captures convicted sex predators illegally crossing border"
     excerpt: "U.S. Customs and Border Patrol (CBP) announced on Wednesday the apprehension of multiple convicted \"sexual predators\" that were caught trying to illegally enter America through the southern border"

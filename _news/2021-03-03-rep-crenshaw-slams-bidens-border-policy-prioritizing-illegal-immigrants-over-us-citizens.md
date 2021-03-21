@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-prioritizing-illegal-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp"
 type: article
 quality: 164
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11a2ee3-f012-4ad0-8cbb-047f5c5c23c1/603bf374-1eb6-41ff-a784-64d19c5a8789/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Mexican government fears Biden admin policies fueling illegal immigration, organized crime: report"
-    excerpt: "The report also revealed that the gangs involved in facilitating the illegal immigration are looking at the policies “incentiviz[ing] migration” and adjusting their modus operandi for smuggling accordingly."
-    publishedDateTime: 2021-03-10T17:21:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EoWrh25_zuo/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report"
-    ampWebUrl: "https://www.foxnews.com/politics/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e917dbc8-eefb-415f-9b27-5e3e16132d85/5d68fd92-d27f-4acb-b296-191f2f577df4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

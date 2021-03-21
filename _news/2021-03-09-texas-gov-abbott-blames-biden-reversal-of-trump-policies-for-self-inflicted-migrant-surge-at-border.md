@@ -31,357 +31,419 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership"
-    excerpt: "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck."
-    publishedDateTime: 2021-03-02T23:52:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+  - title: "Mayorkas blames migrant surge on Trump admin, not Biden policies"
+    excerpt: "Secretary of Homeland Security Alejandro Mayorkas has claimed that the number of people looking to enter the U.S. at the sourthern border could be the highest in 20 years, but in an interview with \"Fox News Sunday\" he claimed that this is because of the Trump administration's actions, not policy changes"
+    publishedDateTime: 2021-03-21T14:19:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BIDIVzX8FQQ/mayorkas-blames-migrant-surge-trump-admin-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 176
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Ted Cruz won't travel with Biden on Texas trip following Cancun gaffe"
-    excerpt: "Sen. Ted Cruz, R-TX, will not accompany President Biden on Air Force One during his trip to assist with recovery efforts and survey damage related to destructive winter weather conditions in Texas, White House Press Secretary Jen Psaki said Thursday."
-    publishedDateTime: 2021-02-26T02:44:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnUcFsujNew/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe.amp"
+  - title: "Biden offers veiled criticism of Trump in visit to CDC, says 'science is back'"
+    excerpt: "President Biden visited the Centers for Disease Control and Prevention in Georgia on Friday, touting health officials for having “changed things” in a way to “make everyone healthier\" amid the coronavirus pandemic. "
+    publishedDateTime: 2021-03-19T19:49:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-i5jfAJnoKI/biden-harris-visit-cdc-say-science-is-back-coronavirus-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-visit-cdc-say-science-is-back-coronavirus-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-visit-cdc-say-science-is-back-coronavirus-pandemic.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3a9250b-c67e-4fc2-8773-b09a51a26cf2/ac28a3f8-2e0a-4d8e-810a-92aa3e576e37/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Psaki says Biden isn't 'snubbing' Congress by postponing joint address"
-    excerpt: "White House press secretary Jen Psaki on Friday said President Biden is not \"snubbing\" Congress by delaying his joint address, pointing to the coronavirus pandemic and saying the administration has been \"engaged closely\" with congressional leadership regarding their plans."
-    publishedDateTime: 2021-03-05T19:44:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+    quality: 186
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden’s dog injured someone at the White House, Psaki confirms"
-    excerpt: "The first dog did in fact bite someone at the White House, causing a \"minor injury,\" press secretary Jen Psaki confirmed Tuesday. "
-    publishedDateTime: 2021-03-09T21:16:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIQ2Zagsv00/bidens-dog-injured-someone-white-house-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-dog-injured-someone-white-house-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-dog-injured-someone-white-house-psaki.amp"
+  - title: "Biden signs three immigration orders in latest move to reverse key Trump policies"
+    excerpt: "President Biden on Tuesday signed three executive orders on immigration, including one to create a task force to reunify migrants separated under the Trump administration"
+    publishedDateTime: 2021-02-02T22:54:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gL56p1TaQF4/biden-signs-immigration-orders-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-immigration-orders-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-immigration-orders-trump-era-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 185
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6423eb4b-2774-420f-84fe-d9dfac3316b6/5db3f176-689a-4bd2-99ce-1b4d762459d8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation"
-    excerpt: "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author."
-    publishedDateTime: 2021-03-02T20:13:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp"
+  - title: "Tom Homan slams Biden, Dems for blaming Trump for new border surge: 'They planned this crisis'"
+    excerpt: "Former acting ICE director Tom Homan slammed the Biden administration for blaming Trump over the migrant surge at the border."
+    publishedDateTime: 2021-03-15T12:35:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VG3Kz7lKiy8/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki says Biden will hold press conference ‘before the end of the month’"
-    excerpt: "White House press secretary Jen Psaki said Thursday President Biden will hold a press conference before the end of the month. "
-    publishedDateTime: 2021-03-05T19:28:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bkWu30_QLxg/psaki-biden-press-conference-before-end-month"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-press-conference-before-end-month.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-press-conference-before-end-month.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Homan fires back after Biden DHS secretary slams Trump immigration policies: ‘Don't tell me about compassion’"
-    excerpt: "The Biden administration's immigration policies are not as compassionate as they are making it out to be, former ICE Director Tom Homan said on Tuesday."
-    publishedDateTime: 2021-03-02T14:12:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aTZim8tk9C4/homan-biden-dhs-mayorkas-trump-immigration-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Jen Psaki defends Biden 'Neanderthal' reopening quip targeting Texas and Mississippi"
-    excerpt: "White House press secretary Jen Psaki said President Biden’s “neanderthal thinking” quip about states removing their mask mandates was an expression of his “frustration and exasperation.” "
-    publishedDateTime: 2021-03-04T19:27:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5-q5Q7GqrE/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Psaki says Biden backs probe of Cuomo harassment allegations, accusers deserve respect"
-    excerpt: "White House press secretary Jen Psaki on Monday said President Biden supports the investigation into the sexual harassment allegations leveled against New York Gov. Andrew Cuomo, maintaining that \"every woman\" who comes forward be treated with \"respect.\""
-    publishedDateTime: 2021-03-01T19:39:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0KO4gLzTomE/biden-cuomo-harassment-allegations-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-harassment-allegations-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-harassment-allegations-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden won't deliver speech to Congress until after vote on coronavirus bill, Psaki says"
-    excerpt: "White House press secretary Jen Psaki said President Biden will wait to address a joint session of Congress until after Congress decides on the American Rescue Plan, his coronavirus relief package."
-    publishedDateTime: 2021-03-03T20:00:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drcOHAb5y6o/biden-no-speech-to-congress-until-coronavirus-bill-passes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McEnany: 'I warned the reporters' Biden would be a no-show in White House Briefing Room"
-    excerpt: "Former White House Press Secretary Kayleigh McEnany told Fox News on Monday that she warned the press corps in the waning days of the Trump administration that the suddenly rare appearances by Donald Trump would be a primer for how the Biden administration would interact with the media."
-    publishedDateTime: 2021-03-08T22:04:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aurikjv05v8/mcenany-i-warned-the-reporters-biden-would-be-a-no-show-in-white-house-briefing-room"
-    ampWebUrl: "https://www.foxnews.com/politics/mcenany-i-warned-the-reporters-biden-would-be-a-no-show-in-white-house-briefing-room.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-i-warned-the-reporters-biden-would-be-a-no-show-in-white-house-briefing-room.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
+    quality: 178
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Psaki: Biden admin 'committed to fighting our hearts out' for Tanden, raising minimum wage"
-    excerpt: "The Biden administration remains committed to \"fighting our hearts out\" for Budget Director pick Neera Tanden, Biden's press secrestary said Sunday."
-    publishedDateTime: 2021-02-28T15:10:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToK0jmcWdGc/biden-neera-tanden-omb-minimum-wage-jen-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-neera-tanden-omb-minimum-wage-jen-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neera-tanden-omb-minimum-wage-jen-psaki.amp"
+  - title: "Psaki acknowledges ‘big problem’ at border, blames Trump administration"
+    excerpt: "White House press secretary Jen Psaki on Monday referred to the influx of migrants at the southern border as a “big problem” and blamed the Trump administration for an “unworkable system” -- following weeks of the Biden administration refusing to call it a “crisis.”"
+    publishedDateTime: 2021-03-15T18:33:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yJNGeaJjy10/psaki-acknowledges-big-problem-at-border-blames-trump-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-acknowledges-big-problem-at-border-blames-trump-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-acknowledges-big-problem-at-border-blames-trump-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/neera-tanden.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdea85e2-ea28-429b-a835-9cd14914c963/761c5027-d1f1-4704-bcc4-9a870e352bf8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Chad Wolf warns migrants won't listen to Biden's 'don't come' plea"
+    excerpt: "Former Acting DHS Secretary Chad Wolf warned on Wednesday that the surge of migrants to the southern border won't stop as long as those making the journey \"see other individuals\" being allowed to stay in the U.S."
+    publishedDateTime: 2021-03-17T13:31:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb9ZgLr97Ho/joe-biden-dont-come-migrants-border-chad-wolf"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden DHS secretary promises US will not expel unaccompanied minors"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas vowed that the United States will not expel unaccompanied minors who cross the U.S. southern border."
+    publishedDateTime: 2021-03-18T16:13:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "AOC has only tweeted about child migrant detention twice under Biden"
+    excerpt: "Rep. Alexandria Ocasio-Cortez has only tweeted about the situation at the border a handful of times since President Biden took office."
+    publishedDateTime: 2021-03-19T00:29:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZdEP6-vm4XU/aoc-child-migrant-detention-twitter-biden-trump-border"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-child-migrant-detention-twitter-biden-trump-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-child-migrant-detention-twitter-biden-trump-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077675294674.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden focused on COVID vaccines for 'every American' before aiding other nations, Psaki says"
-    excerpt: "White House press secretary Jen Psaki on Monday said President Biden's focus is making sure \"every American\" is vaccinated before discussing helping other nations with their COVID-19 vaccination process."
-    publishedDateTime: 2021-03-01T19:26:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rNnAKyaLtEQ/white-house-biden-focus-americans-vaccinated-foreign-aid"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-focus-americans-vaccinated-foreign-aid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-focus-americans-vaccinated-foreign-aid.amp"
+  - title: "Biden admin under fire over lack of transparency on border crisis"
+    excerpt: "The Biden administration is facing increased scrutiny from the media for the lack of transparency around the child migrant facilities along the U.S.-Mexico border, which has transformed into a border crisis."
+    publishedDateTime: 2021-03-19T17:38:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FOXRraan5dI/biden-psaki-mayorkas-visit-border-crisis-transparency"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-mayorkas-visit-border-crisis-transparency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-mayorkas-visit-border-crisis-transparency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3b25a0f-3621-4168-b114-166c60079794/d952f25e-75d7-465d-a804-1fe4932ca34d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden stumbles multiple times, falls as he scales Air Force One stairs"
+    excerpt: "President Biden stumbled twice and fell as he scaled the stairs to Air Force One on Friday at Joint Base Andrews. "
+    publishedDateTime: 2021-03-19T16:12:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House blames wind for Biden stumbles boarding Air Force One"
+    excerpt: "Windy conditions were a factor in President Biden’s stumble while boarding Air Force One at Joint Base Andrews on Friday, according to the White House."
+    publishedDateTime: 2021-03-19T20:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gS_5wk0ahgk/white-house-blames-wind-biden-stumble-boarding-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-blames-wind-biden-stumble-boarding-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-blames-wind-biden-stumble-boarding-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'"
+    excerpt: "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. "
+    publishedDateTime: 2021-03-18T17:26:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden immigration policies have created 'disorder at the border,' GOP lawmakers say"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., and other GOP lawmakers called on President Biden to admit fault and work to reverse changes to immigration policies that they said have caused a dangerous surge in migrants at the southern border."
+    publishedDateTime: 2021-03-15T19:44:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRAWSOw5O4c/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden admin can't keep up with border surge of migrant children, CBP official warns"
+    excerpt: "The number of migrant children in federal custody has passed 4,000, one source told Fox News."
+    publishedDateTime: 2021-03-16T21:51:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1tsjcCcU_k/migrant-children-border-dhs-families-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21071661472869.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Chad Wolf: Biden admin's messaging and policies a 'disaster,' fueling migrant surge"
+    excerpt: "The Biden administration's messaging on the border issues has been a \"disaster,\" former Homeland Security Secretary Chad Wolf said on Friday, reacting to the influx of migrants at the southern border."
+    publishedDateTime: 2021-03-19T19:13:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2kawZ73fMs/chad-wolf-biden-administration-replaced-secure-border-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/chad-wolf-biden-administration-replaced-secure-border-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chad-wolf-biden-administration-replaced-secure-border-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "DHS chief Mayorkas to visit southern border as Biden admin under pressure on immigration"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas will visit the southern border Friday with Sen. Rob Portman as the Biden administration is facing intense scrutiny over the worsening situation on the border. "
+    publishedDateTime: 2021-03-19T13:06:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmJVcurxE/dhs-chief-mayorkas-visit-southern-border-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/dhs-chief-mayorkas-visit-southern-border-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-chief-mayorkas-visit-southern-border-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Tom Cotton channels 'Billy Madison,' slams Pelosi's irrational defense of Biden border policy"
+    excerpt: "Sen. Tom Cotton, R-Ark., channeled the movie \"Billy Madison\" Monday on \"Fox & Friends\" as he hit back at House Speaker Nancy Pelosi, D-Calif., for claiming that the Biden administration inherited a broken immigration system from former President Trump. "
+    publishedDateTime: 2021-03-15T12:51:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4Mw_bKZ24U/tom-cotton-billy-madison-pelosi-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden wants new war powers vote in Congress for authorizing America's foreign wars, Psaki says"
-    excerpt: "The White House on Friday said it is \"committed\" to working with Congress on new legislation to repeal current presidential war powers to be replaced with a \"narrow and specific framework\" to protect U.S. national security, while \"ending the forever wars.\""
-    publishedDateTime: 2021-03-05T16:16:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bBbZA3LIPAk/biden-powers-vote-congress-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-powers-vote-congress-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-powers-vote-congress-psaki.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McCarthy requests meeting with Biden on immigration, Psaki says president would welcome dialogue"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., requested a meeting with President Biden Friday to talk about the surge in migrants at the southern border."
-    publishedDateTime: 2021-03-05T19:05:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDbC9Q3VuJ0/mccarthy-meeting-biden-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-meeting-biden-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-meeting-biden-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cca20d6f-bb28-4389-8746-9334007a2c3e/a8557a36-9eeb-4bed-8bec-f990a28aa8f9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Psaki defends Biden's Syria airstrike decision as progressives push back, some Republicans applaud"
-    excerpt: "White House press secretary Jen Psaki defended President Biden’s decision to issue an airstrike against Iranian-backed forces in Syria in retaliation for recent attacks on American service members, saying it was a \"proportional military response.\""
-    publishedDateTime: 2021-02-26T20:08:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i8MjENiC2Rw/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud.amp"
+  - title: "Texas Gov. Abbott demands Biden admin give access to migrant children for trafficking investigation"
+    excerpt: "Texas Gov. Greg Abbott is demanding that the Biden administration allow the state to interview unaccompanied migrant children in federal facilities."
+    publishedDateTime: 2021-03-17T19:57:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNFOJ5W7nqo/texas-border-migrant-children-greg-abbott-biden-trafficking"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075718186443.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Top Biden adviser pushes reparations commission, predicts progress 'breaking down systemic racism'"
-    excerpt: "White House adviser Cedric Richmond said it is “doable” for President Biden to make progress in his first term to break down barriers for people of color, as the administration supports a study on potential reparations for Black Americans."
-    publishedDateTime: 2021-03-01T20:13:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpFWpJ_8yQQ/top-biden-adviser-pushes-reparations-predicting-progress"
-    ampWebUrl: "https://www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
+  - title: "FEMA gives $110 million to emergency fund for migrant care as Biden admin refuses to admit 'crisis'"
+    excerpt: "FEMA said Thursday it will give $110 million to organizations providing food and shelter to migrants encountered at the southern U.S. border by the Department of Homeland Security."
+    publishedDateTime: 2021-03-18T21:57:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m_6kOvyFcQQ/fema-110-million-border-migrants-emergency-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/fema-110-million-border-migrants-emergency-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fema-110-million-border-migrants-emergency-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077675294674.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Not so fast: WH dodges on whether Biden agrees with Kerry nine-year deadline to avert climate catastrophe"
-    excerpt: "White House Press Secretary Jen Psaki stopped short of saying President Biden is on board with the idea that there are less than ten years left to thwart the worst consequences of a global climate crisis."
-    publishedDateTime: 2021-02-23T21:07:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPLFWBexWwo/psaki-biden-kerry-climate-prediction"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-kerry-climate-prediction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-kerry-climate-prediction.amp"
+  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
+    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
+    publishedDateTime: 2021-03-17T10:33:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden to begin bipartisan work to 'end cancer as we know it,' Psaki says, calling it a 'priority' for admin"
-    excerpt: "President Biden and Vice President Kamala Harris are set to meet with a bipartisan group of lawmakers in the Oval Office on Wednesday afternoon on the work to begin \"end cancer as we know it,\" White House press secretary Jen Psaki said."
-    publishedDateTime: 2021-03-03T18:34:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMuDiezVOpc/biden-cancer-research"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cancer-research.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancer-research.amp"
+  - title: "Biden admin allowed majority of migrant families who surrendered at border to enter US despite health order"
+    excerpt: "In February, U.S. Customs and Border Protection (CPB) allowed the majority of the migrant families it encountered on the U.S. southwestern border to stay in the country pending a decision on whether they will be allowed to stay permanently. "
+    publishedDateTime: 2021-03-18T17:21:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-p3906S9zsY/biden-border-crisis-migrants-health-order"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Kissinger says Trump, Nixon foreign policies similar, warns Biden on Iran"
-    excerpt: "Dr. Henry Kissinger, the former secretary of state for both Presidents Richard Nixon and Gerald Ford, likened President Donald Trump's Middle East diplomatic achievements to Nixon's opening of China in 1972."
-    publishedDateTime: 2021-03-04T01:17:00Z
-    webUrl: "https://www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar"
-    ampWebUrl: "https://www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar.amp"
+  - title: "Biden once mocked Trump over ‘slippery’ ramp descent"
+    excerpt: "Biden be trippin’. President Biden once took a swipe at Donald Trump over how his predecessor walked down a ramp at West Point — in light of his own stair stumble on Friday."
+    publishedDateTime: 2021-03-19T17:11:00Z
+    webUrl: "https://nypost.com/2021/03/19/biden-once-mocked-trump-over-slippery-ramp-descent/"
+    ampWebUrl: "https://nypost.com/2021/03/19/biden-once-mocked-trump-over-slippery-ramp-descent/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/19/biden-once-mocked-trump-over-slippery-ramp-descent/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/biden-stairs-trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 740
+        isCached: true
+  - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
+    excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
+    publishedDateTime: 2021-01-29T02:27:00Z
+    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-291886/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "CNN, MSNBC erupted over Trump's ramp walk -- but virtually ignore Biden's staircase stumble"
+    excerpt: "After sounding the alarm over President Trump's use of a ramp at the U.S. Military Academy during the 2020 presidential election, both CNN and MSNBC on Friday virtually ignored President Biden's intense fall while climbing the stairs onto Air Force One."
+    publishedDateTime: 2021-03-20T06:37:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 149
+    quality: 140
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4ce8712-c550-4132-901c-bcfbd56c9541/40c34bf2-87b8-4fe1-af83-c111b185dbe9/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Trump-West-Point-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Flashback: Biden fall conjures up memories of media hysteria when Trump walked slowly down a ramp"
+    excerpt: "President Biden fell three times when attempting to board Air Force One on Friday, conjuring up memories of the mainstream media hyperventilating over former President Trump cautiously walking down a ramp last year."
+    publishedDateTime: 2021-03-19T19:00:00Z
+    webUrl: "https://www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp"
+    ampWebUrl: "https://www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57251046-2d50-49cc-89bb-faad0d5819f9/493c0740-d968-4c4e-8b16-bebbb2038260/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
-    excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"
-    publishedDateTime: 2021-03-02T13:30:00Z
-    webUrl: "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp"
+  - title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
+    excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"
+    publishedDateTime: 2021-03-20T15:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/16/trump_biden_border_crisis_will_get_much_worse_like_youve_never_seen.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 136
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6135620-aa93-4f89-89c8-d3f90db43495/edbfa245-82dc-4205-9d6f-f6a77fc1d355/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "McEnany on Psaki's performance: I didn't have to 'circle back' because Trump gave me access"
-    excerpt: "Former White House press secretary Kayleigh McEnany said Thursday she didn't need to a \"ton of circling back\" with reporters because of the access afforded her by former President Donald Trump, in a reference to successor Jen Psaki's go-to line when she can't directly answer questions."
-    publishedDateTime: 2021-03-04T14:40:00Z
-    webUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access"
-    ampWebUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e464313-ed77-41c9-b931-b2206dfad890/ed9febb7-24a2-4cf4-b2f0-ee81280ac2cc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/50/509974.jpg"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "RYU2LzHY4pR4De1eDU9cajc2/RY9gcT7uTIIPjOL4gf/rN3/j2z1zYkOv752MBsvh1qYGv/PXhXnXveTriIjbeXox1t/C67+ol59v46SbK+8LDj0umBE8OUB0uGqU7L2EWPSYYgUcuhWg3fA3ccC7gOoc2U64vXjp3I6Nva2TmO3EdYnnqfxIY/4t6vPXEqnkAS70EqhlDRBW6w1LCwY8h2DAtdPQfQmkLOaB4kGd8H3d8SqvmSxsLuyraSAVJ6gnLRT1kmHIu25PnwOcK3wvYQoZLFeWUDyceMq2oWewD7kMn227a+h0T8mPvCLOvQ+0kjj4Xh/fsZQQjw5AaiK7MRQ31G5b6fvFRPmcuudSIg=;c04/x6jvMHU9znGMtFWgrg=="

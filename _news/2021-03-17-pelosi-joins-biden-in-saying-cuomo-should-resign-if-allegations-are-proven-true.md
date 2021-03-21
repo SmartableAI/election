@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Tom Cotton channels 'Billy Madison,' slams Pelosi's irrational defense of Biden border policy"
-    excerpt: "Sen. Tom Cotton, R-Ark., channeled the movie \"Billy Madison\" Monday on \"Fox & Friends\" as he hit back at House Speaker Nancy Pelosi, D-Calif., for claiming that the Biden administration inherited a broken immigration system from former President Trump. "
-    publishedDateTime: 2021-03-15T12:51:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4Mw_bKZ24U/tom-cotton-billy-madison-pelosi-biden-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "YVSrFAb+/YE8Fy+vxGl4Sk60a3sRAPV8pgIcEMO2/5BVl+ALe0Zjm7ArQRPTvaCLPQKAxYejq83s0o6S0jRb+zAmF5Z3RAfu5vWc3qvddx7YWEI9jRok9GwOxmlojuFqbKTMl7tLnBTv+gRqtAK43JZuz2a/PTWr/D+cCNgxECd+wivrCtHqAqZphXA8nWC9GYT5+U/u7OVFlyx5rBITAD6oso3YSyRog4IMQcT9evIY1fAh8Lp0ueNnSixXwUCEoWDW/DfQcrZcs0uREvFCZjnVWYJF09hCgBe+bEx/NVoDAEvnEP6UXFd6iJAiwIyaHepgWAKN3RQ/4mZdiZoGhDh1WJuAW5FsQNK/AafUGrc=;bHqUtgDEmCTW//36Swauug=="
 ---

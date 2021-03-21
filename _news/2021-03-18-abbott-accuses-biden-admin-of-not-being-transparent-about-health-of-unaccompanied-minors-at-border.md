@@ -31,99 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden DHS secretary promises US will not expel unaccompanied minors"
-    excerpt: "Homeland Security Secretary Alejandro Mayorkas vowed that the United States will not expel unaccompanied minors who cross the U.S. southern border."
-    publishedDateTime: 2021-03-18T16:13:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
+  - title: "Biden adviser botches her Spanish, mistakenly tells migrants border is 'not closed'"
+    excerpt: "However, Jacobson had a slip of the tongue when she translated the message to Spanish, mistakenly saying “la frontera no está cerrada.”"
+    publishedDateTime: 2021-03-10T23:20:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kb1acOOYMT0/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "White House blames wind for Biden stumbles boarding Air Force One"
-    excerpt: "Windy conditions were a factor in President Biden’s stumble while boarding Air Force One at Joint Base Andrews on Friday, according to the White House."
-    publishedDateTime: 2021-03-19T20:46:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gS_5wk0ahgk/white-house-blames-wind-biden-stumble-boarding-air-force-one"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-blames-wind-biden-stumble-boarding-air-force-one.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-blames-wind-biden-stumble-boarding-air-force-one.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator"
-    excerpt: "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News."
-    publishedDateTime: 2021-03-19T12:51:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden push for face mask standard in workplace misses self-imposed deadline"
-    excerpt: "President Biden planned to issue a temporary face mask standard in workplaces by his 55th day in office, but his administration missed that deadline as discussions continue on the potential new federal standard for private businesses. "
-    publishedDateTime: 2021-03-16T12:09:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QNhHL9qtHJ4/biden-face-mask-workplace-misses-self-imposed-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "DHS chief Mayorkas to visit southern border as Biden admin under pressure on immigration"
-    excerpt: "Homeland Security Secretary Alejandro Mayorkas will visit the southern border Friday with Sen. Rob Portman as the Biden administration is facing intense scrutiny over the worsening situation on the border. "
-    publishedDateTime: 2021-03-19T13:06:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmJVcurxE/dhs-chief-mayorkas-visit-southern-border-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/dhs-chief-mayorkas-visit-southern-border-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-chief-mayorkas-visit-southern-border-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Jill Biden discusses school reopening in classroom with just 2 in-person learning students"
-    excerpt: "First lady Jill Biden visited a New Jersey elementary school classroom on Monday where just two students were learning in-person and 17 were learning virtually."
-    publishedDateTime: 2021-03-15T21:36:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WME4ULJP3O0/jill-biden-school-reopening-two-students-in-person"
-    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-school-reopening-two-students-in-person.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-school-reopening-two-students-in-person.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ac61cc6-e8e7-460a-9dec-b7c0635ab3b7/6f6901c8-5c94-4f36-b53b-f8a212d69acf/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cb18237-90c1-4faf-aecc-6abd2f6fb9df/295238a8-7d1e-4b53-a9a2-f1b92b37795d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

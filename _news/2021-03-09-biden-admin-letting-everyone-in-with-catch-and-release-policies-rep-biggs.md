@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Jill Biden discusses school reopening in classroom with just 2 in-person learning students"
+    excerpt: "First lady Jill Biden visited a New Jersey elementary school classroom on Monday where just two students were learning in-person and 17 were learning virtually."
+    publishedDateTime: 2021-03-15T21:36:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WME4ULJP3O0/jill-biden-school-reopening-two-students-in-person"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-school-reopening-two-students-in-person.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-school-reopening-two-students-in-person.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ac61cc6-e8e7-460a-9dec-b7c0635ab3b7/6f6901c8-5c94-4f36-b53b-f8a212d69acf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Katie Pavlich: Time for Biden to 'take some questions from the press corps about his policies'"
     excerpt: "President Biden is not fulfilling his promise of transparency to the American people after going his first seven weeks in office without holding a formal press conference, \"Outnumbered\" panelist Katie Pavlich said Tuesday."
     publishedDateTime: 2021-03-09T21:28:09Z

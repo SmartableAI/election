@@ -415,6 +415,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden administration tries to get control of border, story"
+    excerpt: "As migrants surge at the U.S.-Mexico border, President Joe Biden’s administration has been caught on its heels and is now scrambling to manage a humanitarian and political challenge that threatens to"
+    publishedDateTime: 2021-03-21T15:45:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-administration-tries-to-get-control-of-border-story/2021/03/21/75f44f0e-8a5c-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-administration-tries-to-get-control-of-border-story/2021/03/21/75f44f0e-8a5c-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-administration-tries-to-get-control-of-border-story/2021/03/21/75f44f0e-8a5c-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "How Democrats can use Biden's $1.9tn Covid relief to win the midterms"
     excerpt: "The bill’s passage may be the party’s best chances of avoiding a historical trend and keeping control of both chambers of Congress after next year’s elections"
     publishedDateTime: 2021-03-21T08:02:00Z
@@ -963,6 +979,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pelosi baited Republicans by collecting positive news coverage about Biden's $1.9 trillion stimulus deal from their districts"
+    excerpt: "The House passed President Joe Biden's $1.9 trillion stimulus package in early March without Republican support. Biden signed the bill on March 11. \"Republicans are desperately trying to change the subject, but American Rescue Plan relief is front page ..."
+    publishedDateTime: 2021-03-21T14:53:00Z
+    webUrl: "https://www.businessinsider.com/nancy-pelosi-collects-news-coverage-praising-biden-stimulus-plan-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-collects-news-coverage-praising-biden-stimulus-plan-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-collects-news-coverage-praising-biden-stimulus-plan-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/605738f3cad7d300183f835d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Essential Politics: A Senate showdown builds as Biden takes a stand on filibusters and taxes"
     excerpt: "President Biden's comments on the filibuster and taxes as well as House votes on immigration all build toward a Senate showdown later this year."
     publishedDateTime: 2021-03-19T17:23:00Z
@@ -994,6 +1026,6 @@ related:
         height: 600
         isCached: true
 
-secured: "DpjzSxrNz2aEUMfqRZiKRF2NI+hZkzsqD0R2yiP+Zbvxi5mgmtnS97t26u0mFnxLMvd1/SaZeTyEkC5W/lsGAhc+qNahLPAnqQWn0sdvZcBS8sN52L5Jt1GvRNCmekXsbYvidV2FIOoDmjcj7tkfLeGHHLZSygkZ6iJ5dKIWa7DJXGBHb3+GB3MJBNoHVlY0g9J1UMuIAkKvvjNqoON6nRZ3mj9aoofikFlCQ/L9yOw4vwlYWASbK8jXqh5T6+7bohlDRDw5JEA8QRWhH3HFUwG4zuQ3uIN7v9zM2/AM1TEI+cmMS4y0vl4Pkx3CC8qTA1O2nMUatSFNWZxvikjt7wTzYtmPxPFzeQqBOf91zWY=;gxbvGfAPyetGKZ8TpreYRg=="
+secured: "+HKmhwijSV9blQo3MMDQjjpXBcGm6V44N7H2E0B78DyeFeD5CagJTtVi+6dvMuWbYCSYIaEYeI30VNrtjNwnFBQ15Dpoh94zLRJQ/LtcUzpR763aHYt8jSIYXcOcP4PsN8wZrqv0PEvoTuiZ4Otb/N0wfxS0eh8PRMARQQWMSVVbyTZZ4hEeIH8yGxlx9+kcaO3SMOXh6+2Jx+fR7PfoyYW1Tzelsv3QLbVQ+7lRYkCA08bp7giQknpjgGrdPXisKl/R7S5ehCo7SrClEIvNU90ot/ffDScUhaeZmQBsqy+YVD2t21a53IxN7odiV5uvBdu7HGzffF+O5KIxZUq8KyDyqJWAi/UQzvXTNAez3YOyfeVdHnSUh/6vF/hl7fGpAZKhwXFEJU2YtHLOQT9ekoaTNsEiqywm+SAJV9Le3kuKbaBWkwHW+Mjf6mrLKilLqhFaQ6uet5ti0RpiDri1kdguuIh2pU8FpoQwlhjqkpPOE7fColvZ6GRHCMbqD2f5OsfRWcRSe5C0BmLPlne+Pg==;jr4RhjIEQYkYo3Kg59ujAg=="
 ---
 

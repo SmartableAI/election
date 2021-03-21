@@ -319,6 +319,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Cotton suggests 3 measures Biden can take to fix border crisis"
+    excerpt: "\"Joe Biden could re-impose all three of those things this week if he wanted to."
+    publishedDateTime: 2021-03-21T14:30:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-mJfUpO0HaE/tom-cotton-biden-border-crisis-policies-fox-news-sunday"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-biden-border-crisis-policies-fox-news-sunday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-biden-border-crisis-policies-fox-news-sunday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/US-Mexico-Border-Crisis-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden border officials say he's wrong not to acknowledge migrant 'crisis'"
     excerpt: "Border officials working under the Biden administration tell Fox News that the president and his surrogates are wrong not to call the border situation a crisis."
     publishedDateTime: 2021-03-17T23:19:23Z
@@ -524,6 +540,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/van-duyne.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden calls Kamala ‘President Harris’ during speech"
+    excerpt: "President Biden on Thursday called his vice president, Kamala Harris, “President Harris” while celebrating the US nearing administration of 100 million COVID-19 vaccine doses. Biden"
+    publishedDateTime: 2021-03-18T21:59:00Z
+    webUrl: "https://nypost.com/2021/03/18/biden-calls-kamala-president-harris-during-speech/"
+    ampWebUrl: "https://nypost.com/2021/03/18/biden-calls-kamala-president-harris-during-speech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/biden-calls-kamala-president-harris-during-speech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/biden-harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris ignores question on Cuomo’s sexual misconduct scandal"
     excerpt: "Vice President Kamala Harris refused to comment on Gov. Andrew Cuomo’s mounting sexual misconduct scandal — despite previously swiftly condemning former Democratic Sen. Al Franken when"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-border-crisis-cli
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-border-crisis-climate-change-psaki.amp"
 type: article
 quality: 170
-heat: 250
+heat: 230
 published: true
 
 provider:
@@ -47,21 +47,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "FEMA gives $110 million to emergency fund for migrant care as Biden admin refuses to admit 'crisis'"
-    excerpt: "FEMA said Thursday it will give $110 million to organizations providing food and shelter to migrants encountered at the southern U.S. border by the Department of Homeland Security."
-    publishedDateTime: 2021-03-18T21:57:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m_6kOvyFcQQ/fema-110-million-border-migrants-emergency-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/fema-110-million-border-migrants-emergency-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fema-110-million-border-migrants-emergency-biden.amp"
+  - title: "Rep. Crenshaw hits Biden for 'creating border crisis': Dems 'don't want the truth to get out'"
+    excerpt: "The Biden administration created a crisis on the border by rescinding former President Trump's policies, Rep. Dan Crenshaw said on Wednesday, reacting to migrants who were revealed to be on the terror watch list."
+    publishedDateTime: 2021-03-17T15:28:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wDsxR61d58I/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out"
+    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077675294674.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Meadows slams Biden admin's lack of transparency on border crisis: Why won't they allow cameras in?"
     excerpt: "Former White House Chief of Staff Mark Meadows on Friday called out the Biden administration for a lack of 'transparency' regarding the border crisis. "
@@ -78,22 +78,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1fb92f-3067-40a4-bb12-56209c49d4ff/d658eaa0-1056-4016-ac8a-4b571b495dea/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
-    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
-    publishedDateTime: 2021-03-17T10:33:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "aCRGS3mjGhzgi18y7VWCAVqO2SwnEVF4qF3B/LL8JCnmZSPhRhMP2KhFaF9B2oaSPG4pxT9LCUeEBnjOnzMkqpKUota2JKkKLejYDixNvgAaGPU2jSYYYpKwSkMT7G97wWpMd7pnv4UhHKAW6NjaSv5LQZrlaA4BAqoDq27To2WUrR8LQLMOesueoOGfoaC1Y6euikk7sgFnM2m1mt1Y4psQxAGW15/vqgkgPEuepygRp8kwNVua3oLvbDybH6hcCinpBAgmICKLjQBtQNgOJjkbgr4rScsipOLG2bldiYab9VLq+ZfB8bC/zS+adZnP69mwsS7mp0VMNVUHKL+ZbVQEiFYTRsD6qJG4kwc1wRo=;ppRlNE/ohUPubUzhzWD+Sw=="

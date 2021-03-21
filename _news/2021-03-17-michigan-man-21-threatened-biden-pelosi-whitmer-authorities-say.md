@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-man-21-threatened-biden-pe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aab7725-3f20-42e1-9e76-09f996c516b6/f0437966-e7dd-4d2c-a620-29bb3724ddc7/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Tom Cotton channels 'Billy Madison,' slams Pelosi's irrational defense of Biden border policy"
-    excerpt: "Sen. Tom Cotton, R-Ark., channeled the movie \"Billy Madison\" Monday on \"Fox & Friends\" as he hit back at House Speaker Nancy Pelosi, D-Calif., for claiming that the Biden administration inherited a broken immigration system from former President Trump. "
-    publishedDateTime: 2021-03-15T12:51:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4Mw_bKZ24U/tom-cotton-billy-madison-pelosi-biden-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "FZPuaUpiIKkyyyDM9kHJj50rOmbwkL2OfiQu0+ePhRzqTJ882MO9FGoMDVGjZJJHiOwZ/rV0Wv+NH3WX94m7vNhhsnRR7jSsV5kseoyZTr99J3L0WRaJw88yD4i+SOlNWqgCPdgDIF2RtW+Ncm8KsfsUpXXrD/hoEqQQvjnyjp5Eav3dB55bqMTsrOWAvgOY75dKZEiG7wY73ickH/N32TlgCOGzRv7Dm1RUKSxNC3Ozx1Y4qMhpg78oRMtvzLa8PuIMcxtvBMLt0wxqogmko9Q3dgFY1/gMvi8us3WqKrlWg3PqEH6ftI2ws+X6iRrthnVmClE0yW/MnXZslHvOp9yaaEOme7NSQQyMBDC7iCA=;2+I2RtNDFXwFcZCAsyvBbw=="

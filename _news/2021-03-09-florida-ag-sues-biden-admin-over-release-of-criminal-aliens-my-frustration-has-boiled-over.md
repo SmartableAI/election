@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Mexican government fears Biden admin policies fueling illegal immigration, organized crime: report"
-    excerpt: "The report also revealed that the gangs involved in facilitating the illegal immigration are looking at the policies “incentiviz[ing] migration” and adjusting their modus operandi for smuggling accordingly."
-    publishedDateTime: 2021-03-10T17:21:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EoWrh25_zuo/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report"
-    ampWebUrl: "https://www.foxnews.com/politics/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e917dbc8-eefb-415f-9b27-5e3e16132d85/5d68fd92-d27f-4acb-b296-191f2f577df4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "nwn6wA59yZxoE/CNjXCumtpXOYhb5tAhKdjGmPMJnmOwCXXjUY5qeoN/Nmj/L5VfpD2oYRBYaBLSGfZL/Ia+flfcWhQeB/w/fjk4cIR+FEYh83gnSXlQp1ajXJynYzCmes9th5r7AHCjwQ3kqJ69MRCXtor96KO/AHvAYBo8qW+J72eU3ut0PXDsJ66EbY8BEIGn2qhOFADpF+fptjcxRZMVLHSklZfR26hoxospOgDIACpGXMQz1CO6fiuzrC2oW/wLqSkbuxRLmaEVWIn2n/uR14piCces+RqFBeK4j1f0+YF6NWn8OM6w0Qw2kCa31OpghuzE9K4EGv1saZTsMNe0Ji6V5HkxleoLovElVgo=;CPY6geq+cfg+kDKrV+gMOw=="
 ---

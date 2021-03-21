@@ -316,6 +316,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Cotton suggests 3 measures Biden can take to fix border crisis"
+    excerpt: "\"Joe Biden could re-impose all three of those things this week if he wanted to."
+    publishedDateTime: 2021-03-21T14:30:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-mJfUpO0HaE/tom-cotton-biden-border-crisis-policies-fox-news-sunday"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-biden-border-crisis-policies-fox-news-sunday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-biden-border-crisis-policies-fox-news-sunday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/US-Mexico-Border-Crisis-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden silent on whether Cuomo should resign after avalanche of Dem calls"
     excerpt: "President Biden isn't weighing in on whether New York Gov. Andrew Cuomo should resign even as top New York congressional Democrats say it's time for him to go, according to White House press secretary Jen Psaki."
     publishedDateTime: 2021-03-12T18:29:13Z
@@ -537,6 +553,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/van-duyne.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden calls Kamala ‘President Harris’ during speech"
+    excerpt: "President Biden on Thursday called his vice president, Kamala Harris, “President Harris” while celebrating the US nearing administration of 100 million COVID-19 vaccine doses. Biden"
+    publishedDateTime: 2021-03-18T21:59:00Z
+    webUrl: "https://nypost.com/2021/03/18/biden-calls-kamala-president-harris-during-speech/"
+    ampWebUrl: "https://nypost.com/2021/03/18/biden-calls-kamala-president-harris-during-speech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/biden-calls-kamala-president-harris-during-speech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/biden-harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Merrick Garland speaks at DOJ before swearing-in by VP Kamala Harris"
     excerpt: "Attorney General Merrick Garland paid a visit to his new office Thursday morning to deliver his first remarks to Justice Department staff ahead of his swearing-in by Vice President Kamala Harris."

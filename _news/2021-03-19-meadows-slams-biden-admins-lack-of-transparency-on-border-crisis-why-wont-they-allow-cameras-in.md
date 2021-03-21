@@ -63,35 +63,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "FEMA gives $110 million to emergency fund for migrant care as Biden admin refuses to admit 'crisis'"
-    excerpt: "FEMA said Thursday it will give $110 million to organizations providing food and shelter to migrants encountered at the southern U.S. border by the Department of Homeland Security."
-    publishedDateTime: 2021-03-18T21:57:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m_6kOvyFcQQ/fema-110-million-border-migrants-emergency-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/fema-110-million-border-migrants-emergency-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fema-110-million-border-migrants-emergency-biden.amp"
+  - title: "Rep. Crenshaw hits Biden for 'creating border crisis': Dems 'don't want the truth to get out'"
+    excerpt: "The Biden administration created a crisis on the border by rescinding former President Trump's policies, Rep. Dan Crenshaw said on Wednesday, reacting to migrants who were revealed to be on the terror watch list."
+    publishedDateTime: 2021-03-17T15:28:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wDsxR61d58I/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out"
+    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077675294674.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
-    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
-    publishedDateTime: 2021-03-17T10:33:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

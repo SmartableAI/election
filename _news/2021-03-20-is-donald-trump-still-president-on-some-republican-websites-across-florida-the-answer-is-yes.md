@@ -3,18 +3,22 @@ category: news
 title: "Is Donald Trump still president? On some Republican websites across Florida, the answer is yes"
 excerpt: "Some of the largest counties in Florida — such as Miami-Dade and Hillsborough — display Donald Trump on their local GOP websites as president."
 publishedDateTime: 2021-03-19T17:11:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/19/some-florida-gop-websites-list-trump-not-biden-president/4707326001/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/19/some-florida-gop-websites-list-trump-not-biden-president/4707326001/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/4707326001"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4707326001"
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/some-florida-gop-websites-list-trump-not-biden-president/4707326001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/some-florida-gop-websites-list-trump-not-biden-president/4707326001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4707326001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4707326001"
 type: article
-quality: 63
+quality: 113
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -108,6 +112,6 @@ related:
         height: 949
         isCached: true
 
-secured: "I9rRPU+rBtZ4/jRBeA8daE44Jp4iAY6jsrjJH5QmL/fsHEQWuPtA89KK7+toTqs1MW9YkqIokILtxfdX5E4U59Ts+lmOZfiv56/Aitp2kGAUZjZT5iczIApsBWVE0yCcnHL/ffxYNRrZDAa8Py7tN7drx7INtpRGP45EKkY4nnEmiD7t2lXaS0hnn197yJ64QKaEnd8rcGLw+Gfnl6zrtnm8DLcQt61B9QhDAfwrD5YVAP4Au8ceXibMcwV/4oaECE8XbwS4uv2jvS8RY0a58c0bfFfQD/TagbI8QVhEpc2AUqhJDj6+A+EsI8Rw4p01fqsDXcWq5ZH7LLnbeFDQFRfjccd/EWXxtEknJRTzddM/GlDT8xKlXT5/4b0o1PnaSZNgntuOwUvDo9VolvKtxgvh3ViwQQRByvx2OGv7rKYlnkTeLwu6AVhchhEQoXRhv3Rky8LuCCDWilXKoPdub8KTMM9k4SBf7scaPkADjDtmfvMj4Z2hq8FyKC2VHIuVkRcJZcmTB32o35CFWO/nXQ==;V7ePpzHU5QRpfGa3vhIE/w=="
+secured: "2oDanC1GPKSojziOqclkQm08HA9aGqace2dH5MlCZp72AOqtmcl9OMVjqxKECLjWhHxEsd9gl065t38FaF3DMWzPoYfUHreFDtAG8V1ZYbNv4JvYfB+WjSOdWwIa37Tcgkl+vEAhGNQBq7OkA6dgEEVZ7mBqy+aQilG5T/dtUG0ja2bPZ94d8Idas0fKRifqXUEf9eKKXCmro6RaTTukBzYCiJFSf2bqAc8q0N8RcyXEKyWqvYjYyC3KZBydlwgEeR8Jv7LLUOiHW0Vn+JS36/omsDpCDEdXw0oRimSNyWRd/dq0vxdFgM01xogPUDmgnA0vkulvlT+2ToaXKRlmTVUu6StVh+GjcEdg5kT37Eo=;57zMVfrSHJuSmzWyBN2ciw=="
 ---
 

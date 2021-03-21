@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2240
+heat: 2260
 published: true
 
 provider:
@@ -1261,6 +1261,22 @@ related:
       - url: "https://static.politico.com/bb/91/9f851a124fa9916f91a2888d4e5d/mag-gettyimages-1231325998.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "It's not Joe Biden's Senate anymore"
+    excerpt: "WASHINGTON — All presidents come to town with hope for pushing through a bipartisan agenda, before running into the reality of a divided Washington, but some people believed Joe Biden’s experience in the Senate and his knowledge of its personalities ..."
+    publishedDateTime: 2021-03-21T14:34:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/it-s-not-joe-biden-s-senate-anymore-n1261686"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261686"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261686"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.png"
+        width: 1680
+        height: 840
         isCached: true
   - title: "Vice President Mike Pence ensures 'safe inauguration' after Capitol riot"
     excerpt: "During a briefing at FEMA headquarters, Vice President Mike Pence addressed the Capitol riot and ensured an “orderly transition into a safe inauguration.”"

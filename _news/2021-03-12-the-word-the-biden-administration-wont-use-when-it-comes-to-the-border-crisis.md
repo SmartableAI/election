@@ -31,133 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Chad Wolf warns migrants won't listen to Biden's 'don't come' plea"
-    excerpt: "Former Acting DHS Secretary Chad Wolf warned on Wednesday that the surge of migrants to the southern border won't stop as long as those making the journey \"see other individuals\" being allowed to stay in the U.S."
-    publishedDateTime: 2021-03-17T13:31:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb9ZgLr97Ho/joe-biden-dont-come-migrants-border-chad-wolf"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp"
+  - title: "Biden White House says it's ready to have 'frank conversation' with China"
+    excerpt: "The White House said the Biden administration is ready to have a \"frank conversation\" with China and is negotiating from a position of \"strength,\" as officials hold tense bilateral talks with Beijing. "
+    publishedDateTime: 2021-03-19T17:58:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OqQlpkMLDU/biden-white-house-conversation-china"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-conversation-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-conversation-china.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "AOC has only tweeted about child migrant detention twice under Biden"
-    excerpt: "Rep. Alexandria Ocasio-Cortez has only tweeted about the situation at the border a handful of times since President Biden took office."
-    publishedDateTime: 2021-03-19T00:29:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZdEP6-vm4XU/aoc-child-migrant-detention-twitter-biden-trump-border"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-child-migrant-detention-twitter-biden-trump-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-child-migrant-detention-twitter-biden-trump-border.amp"
+  - title: "Biden, no stranger to inappropriate touching accusations, gives Cuomo pass"
+    excerpt: "President Biden refused to join the chorus of fellow Democrats calling for New York Gov. Andrew Cuomo to resign, as Cuomo faces multiple scandals, including allegations of improper touching."
+    publishedDateTime: 2021-03-15T15:09:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fIN5Q2skAIo/biden-inappropriate-touching-accusations-cuomo"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077675294674.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "North Korea warns Biden administration to avoid 'causing a stink' if it wants peace"
-    excerpt: "The sister of North Korean leader, Kim Yo Jong, criticised ongoing military drills in South Korea and warned the new U.S. administration against “causing a stink” if it wants peace, state news reported on Tuesday."
-    publishedDateTime: 2021-03-15T23:21:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hI8TJhtDfcM/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace"
-    ampWebUrl: "https://www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp"
+  - title: "Biden says Cuomo should resign if the investigation confirms accusers' claims"
+    excerpt: "President Biden said Democratic New York Gov. Andrew Cuomo should resign if investigations support the claims made by his accusers."
+    publishedDateTime: 2021-03-17T01:05:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cbfcdd6-020a-4356-8354-e3b36978071e/8c4af3ca-6a87-4366-a264-f6213f22a7d2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6caaaa06-f983-4f4a-89aa-5a4899682cb2/ff5a3dc7-5d0e-49bc-a55c-89cca417a19e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Chad Wolf: Biden admin's messaging and policies a 'disaster,' fueling migrant surge"
-    excerpt: "The Biden administration's messaging on the border issues has been a \"disaster,\" former Homeland Security Secretary Chad Wolf said on Friday, reacting to the influx of migrants at the southern border."
-    publishedDateTime: 2021-03-19T19:13:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2kawZ73fMs/chad-wolf-biden-administration-replaced-secure-border-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/chad-wolf-biden-administration-replaced-secure-border-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chad-wolf-biden-administration-replaced-secure-border-policy.amp"
+  - title: "5 Biden White House staffers have lost jobs over past marijuana use, says Psaki"
+    excerpt: "Five staffers have lost their jobs during the Biden administration at the White House due to past marijuana use, press secretary Jen Psaki acknowledged Friday."
+    publishedDateTime: 2021-03-19T16:39:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqydXvRRzsw/staffers-lose-white-house-jobs-biden-marijuana-use"
+    ampWebUrl: "https://www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden’s ‘inhumane’ message puts migrants in hands of smugglers, traffickers: Chad Wolf"
-    excerpt: "President Biden’s \"inhumane\" border policies are encouraging migrants to put themselves in the \"hands of smugglers and traffickers,\" former Acting DHS Secretary Chad Wolf told \"America Reports\" Thursday."
-    publishedDateTime: 2021-03-11T22:25:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7Mu2FW-fEnE/bidens-migrants-smugglers-traffickers-chad-wolf"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-migrants-smugglers-traffickers-chad-wolf.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-migrants-smugglers-traffickers-chad-wolf.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. Capito blasts Biden for 'very weak' message telling migrants 'don't come over' to US"
-    excerpt: "President Biden \"sounded very weak\" when telling would-be migrants not to come to the United States during an interview with ABC News, Sen. Shelley Moore Capito, R-W.Va., told \"America Reports\" Wednesday."
-    publishedDateTime: 2021-03-17T21:27:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMV7Y5j9dbE/capito-biden-very-weak-message-migrants-dont-come"
-    ampWebUrl: "https://www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Dem New Mexico Gov. Grisham concerned with Biden's energy agenda: 'Doesn't make any sense'"
-    excerpt: "New Mexico Democratic Gov. Michelle Lujan Grisham said during Wednesday's event that President Biden's moratorium pausing oil and gas leasing on federal lands \"hurts New Mexico.\""
-    publishedDateTime: 2021-03-12T22:37:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQunnf9DxHE/new-mexico-grisham-biden-oil-moratorium"
-    ampWebUrl: "https://www.foxnews.com/politics/new-mexico-grisham-biden-oil-moratorium.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-mexico-grisham-biden-oil-moratorium.amp"
+  - title: "Biden’s inauguration priest under investigation by university after unspecified allegations"
+    excerpt: "The Rev. Kevin O'Brien, the president of Santa Clara University and the priest who delivered the Roman Catholic Mass for President Biden on the morning of his inauguration, is on leave from his job at the university after unspecified allegations against him. "
+    publishedDateTime: 2021-03-19T15:33:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-LbUv83gido/bidens-inauguration-priest-investigation-santa-clara-university"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Rep. Crenshaw hits Biden for 'creating border crisis': Dems 'don't want the truth to get out'"
-    excerpt: "The Biden administration created a crisis on the border by rescinding former President Trump's policies, Rep. Dan Crenshaw said on Wednesday, reacting to migrants who were revealed to be on the terror watch list."
-    publishedDateTime: 2021-03-17T15:28:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wDsxR61d58I/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out"
-    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
+  - title: "McCarthy says he hasn’t heard back from White House about request for meeting with Biden on border crisis"
+    excerpt: "House Minority Leader Kevin McCarthy pressed President Biden—again—for a meeting to discuss a bipartisan way to address the situation at the U.S. Southern Border, maintaining that “securing our border should not be a partisan issue.”"
+    publishedDateTime: 2021-03-18T18:41:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZP-R41i2leQ/mccarthy-presses-biden-meeting-situation-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Sen. Bill Hagerty warns Biden of 'increasing aggression' from Iran, says regime testing US resolve"
+    excerpt: "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden expressing concern about \"increasing aggression\" from the Iranian regime -- just as the Biden administration has eased off a sanctions push and is moving to reverse the prior administration’s \"maximum pressure\" strategy."
+    publishedDateTime: 2021-03-17T12:00:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/APGrl_hZuzw/sen-bill-hagerty-biden-increasing-aggression-iran"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "0Zv4Dne9h9eMBAfQlgbEyJhiLGCOHn2Tv7IcfFRB+zAuCGCrwBhgK8FXLXqLH8CYkfE4Q2j78+iINbQJSCXNPK715IesdwhLgFJjT9ojN1s7NJPMhpL7FzxUEm4XoFIky0TEVn6DnzzYmewTRky9W2KW2fD/dzWlQNBavp7sXJSJIwOkjrsh+IRsGB9XuDsJgkyQ0zqSqFKAPQ6SpGJwvOv2NPFEHcrFGSKp6w1+nvgBocPbxOYSx7YZ4L40sDXCMOsc3lypqBr54ZFf+KyLXv6XpfQP/N9dEpDKbQDH403h3KJTI69h8WXwpSMhHT5WUbeB+LgzEr8N5AS0oBf6BhJ9d9NqkpXWFJIAUCpFzlo=;IuTKVF96IKPleGVTR4pkpw=="

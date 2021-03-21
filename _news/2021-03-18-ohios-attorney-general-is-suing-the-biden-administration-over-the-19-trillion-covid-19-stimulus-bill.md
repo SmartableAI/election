@@ -415,6 +415,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden administration tries to get control of border, story"
+    excerpt: "As migrants surge at the U.S.-Mexico border, President Joe Biden’s administration has been caught on its heels and is now scrambling to manage a humanitarian and political challenge that threatens to"
+    publishedDateTime: 2021-03-21T15:45:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-administration-tries-to-get-control-of-border-story/2021/03/21/75f44f0e-8a5c-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-administration-tries-to-get-control-of-border-story/2021/03/21/75f44f0e-8a5c-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-administration-tries-to-get-control-of-border-story/2021/03/21/75f44f0e-8a5c-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "How Democrats can use Biden's $1.9tn Covid relief to win the midterms"
     excerpt: "The bill’s passage may be the party’s best chances of avoiding a historical trend and keeping control of both chambers of Congress after next year’s elections"
     publishedDateTime: 2021-03-21T08:02:00Z
@@ -962,6 +978,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-2-ap-ps-210317_1616001648329_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Pelosi baited Republicans by collecting positive news coverage about Biden's $1.9 trillion stimulus deal from their districts"
+    excerpt: "The House passed President Joe Biden's $1.9 trillion stimulus package in early March without Republican support. Biden signed the bill on March 11. \"Republicans are desperately trying to change the subject, but American Rescue Plan relief is front page ..."
+    publishedDateTime: 2021-03-21T14:53:00Z
+    webUrl: "https://www.businessinsider.com/nancy-pelosi-collects-news-coverage-praising-biden-stimulus-plan-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-collects-news-coverage-praising-biden-stimulus-plan-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-collects-news-coverage-praising-biden-stimulus-plan-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/605738f3cad7d300183f835d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Essential Politics: A Senate showdown builds as Biden takes a stand on filibusters and taxes"
     excerpt: "President Biden's comments on the filibuster and taxes as well as House votes on immigration all build toward a Senate showdown later this year."

@@ -31,19 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Alcee Hastings, once impeached from bench, leads screening of judicial appointments to Biden"
-    excerpt: "Rep. Alcee Hastings, D-Fla., announced Thursday that he and Rep. Debbie Wasserman Schultz, D-Fla., formed three screening conferences that will recommend candidates to fill federal judicial openings as well as vacant U.S. Attorney and U.S. Marshal positions in their state."
-    publishedDateTime: 2021-03-04T19:16:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQirE7bFJgM/alcee-hastings-impeached-from-bench-biden-judicial-appointments"
-    ampWebUrl: "https://www.foxnews.com/politics/alcee-hastings-impeached-from-bench-biden-judicial-appointments.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alcee-hastings-impeached-from-bench-biden-judicial-appointments.amp"
+  - title: "North Korea warns Biden administration to avoid 'causing a stink' if it wants peace"
+    excerpt: "The sister of North Korean leader, Kim Yo Jong, criticised ongoing military drills in South Korea and warned the new U.S. administration against “causing a stink” if it wants peace, state news reported on Tuesday."
+    publishedDateTime: 2021-03-15T23:21:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hI8TJhtDfcM/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace"
+    ampWebUrl: "https://www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cbfcdd6-020a-4356-8354-e3b36978071e/8c4af3ca-6a87-4366-a264-f6213f22a7d2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden defense secretary warns US forces ready to 'fight tonight' after North Korea warning"
+    excerpt: "Defense Secretary Lloyd Austin on Thursday warned North Korea that U.S. forces are ready to \"fight tonight\" after the dictatorship condemned military drills taking place in South Korea."
+    publishedDateTime: 2021-03-18T13:32:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0e0cad0-33bc-446b-9db5-16102b405c1a/af3c1e50-36bb-43f0-9294-7cb7dcad73ef/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Texas AG accuses Biden administration of putting Texans 'at risk' with influx of COVID-positive migrants"
+    excerpt: "The Biden administration's handling of the southern border is putting Texans at risk, Attorney General Ken Paxton told \"The Faulkner Focus\" on Friday."
+    publishedDateTime: 2021-03-13T00:52:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_BuhMpftRY/ken-paxton-biden-putting-texans-at-risk"
+    ampWebUrl: "https://www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
