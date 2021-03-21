@@ -366,6 +366,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
+    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
+    publishedDateTime: 2021-03-20T02:11:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
+    images:
+      - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Americans Have Saved Enough Amid Pandemic to Nearly Pay for Biden's Stimulus Plan"
     excerpt: "Oxford Economics estimated that U.S. households saved $1.8 trillion from March 2020 to January 2021—just shy of the $1.9 trillion price tag attached to Biden's relief package."
     publishedDateTime: 2021-03-15T21:34:00Z
@@ -821,22 +837,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
-    excerpt: "ATLANTA — President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta on Friday, just days after a white gunman killed eight ..."
-    publishedDateTime: 2021-03-20T03:11:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 81
-    images:
-      - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kamala Harris to speak at Nickelodeon Kids' Choice Awards"
     excerpt: "March 12 (UPI) --Vice President Kamala Harris will speak at the 2021 Nickelodeon Kids' Choice Awards. Nickelodeon confirmed in a press release Friday that Harris, 56, will deliver special remarks during the awards show Saturday. Advertisement Harris will ..."
     publishedDateTime: 2021-03-12T16:40:00Z
@@ -1129,6 +1129,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "z1SwT2ZmRaokYW+8uuWgu2RlurV9PFfzNsQU000vB7p3DFONq/qn6PsPRy64nHE1Ba3lAU4mbA/kKml5tjBO7CPInZCESZSSlflDiTdbe7c+6PJay99VjLGBgqj3HGwsOX/DOjzp8GeQjEZMtP+xSGe+ZYvIWSN35AKFQxFnkhQ/SedzG4nSRNO/xgDUApVMfoGEEbimynO+xFsFbzDCQOz/tVJru/XOdT7Uj6bm+GfTdazeE8oG0TSw1YuklJtYuksFcztr7o5UGUwcudIFkxtvwTaZ4jebcADqz0yzi09vBU6zQnVP+gQ4Nk3kzCPbTva4k/7fCGmiJyT4rqVx5ejggl0fwiZfgK+wWwETW6E=;ENCcOufIP3u/ALYxBqrk0w=="
+secured: "nD3+XQK+9DNZSN5QUEJlJkkOdbAll59yGua80avNW5GdVUKKPsS/TvJD3ZAb+qRljf4H7JLFZE1RfI4o2aWbwQ02JZblvcdRRWEABj93It9yQ+5LC2P3DTrdGsijk3WMY6mRHOBJOZwoybxZ50Ac0QXYYqvLnKs4HeUH8fsqE7+3J66LgFvYkKyYcDo3pqLgu+Bul0EUGvNxbYFkzSFvDS1G1hJvPYEChJwrNr537+wSvuaDPNySLstVyNWkpCgbfvRzWpEdj31Yn4biij2RoZBy/ZMt7wbLsTfQ39yWvNZdjWEqcKNSteA0YTg48d71BLlxG4FI4eikx5do+X1xx7kAlpy27tYyYwnHn4sgfSUKKKdY6OP1rxIgT+6Xcm+XTPvSUl/xGgWq6NHXBT8PivGds1lB3roEt1PL+vG4A3LnfQ9CgzPJQcveRwbJJzn3zN2AkDZBz4eI8uJsZ5GA49UpM4Es3wEXESmopwsvrsq+04sq5Epye/VtwZbvFGz4Am8FpjYvdvLg3NKfD5/rlw==;B7WUQFlO8qJHYR7UJIBJ1Q=="
 ---
 

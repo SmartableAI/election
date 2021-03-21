@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B22DF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22DF"
 type: article
 quality: 120
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_041819gn7_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump's tax records 'holy grail' to probe -Cohen"
+    excerpt: "In a brief video interview with Reuters on Wednesday, Donald Trump's former lawyer and fixer, Michael Cohen, said he'll go in for a seventh interview with the Manhattan district attorney's office as prosecutors step up the criminal investigation into the former U."
+    publishedDateTime: 2021-03-10T19:03:00Z
+    webUrl: "https://www.reuters.com/video/watch/trumps-tax-records-holy-grail-to-probe-c-idOVE3I9IOV?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210310&i=OVE3I9IOV&r=OVE3I9IOV&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "GiYzUoM4L9PYiwocc6isfNyrb59oUVcM2eILenBOmZIuD8NHdj9AhLWq1Dz0u7buzLZdIGZNYXOFn6fofQU1rnTTqehIEz59/VVdqUIs47TPmimqhVQz5+EBElvGXFzvUoGJ+cDkfdeud+d0bX3HkGP+qVYYZYXUgZoANc5oz6p4xpmJAzOIUPdmGp5wd4bF1LyXf8PokK1RwyIguw8axvDrY9pM44AIJSiyg49J/hjN0AMzozDPuzTmLG1YdtKiLbqauq5FtZ1J4IMP/OCF7CSw8q/0LCRCaxygSksD2WiZC84+ZIzpRlnDgUvmJuYNdDndSOAOPNdnQmtwDWdPfcoFghx9vtlc6HUeKve5A2E5eLsINM7C03+lB43Lz6TYL6x3SVrghP2PM1IaJz0rJ5a4VaunlSSeXunYbR59XZmxCf8W0IEhHVg27JsJS4XXruSk61g5VIOMowNLh4rL3P55zwWrl/JoI/xYlAkTqdjYEOuGaEBiQajFVDUqJGHi8Ox7pwskLKlKffN5hRF+rA==;msWWknVUftyp6mZ7obZQ0g=="

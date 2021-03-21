@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Harris uses UN speech to champion women's role in democracy"
-excerpt: "Kamala Harris declared \"the status of women is the status of democracy\" on Tuesday, in her first speech before the United Nations as the first female vice president of the United States.\n    \n"
-publishedDateTime: 2021-03-16T17:20:55Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwZgBfADM9s/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwZgBfADM9s/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/kamala-harris-united-nations-women-democracy/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/kamala-harris-united-nations-women-democracy/index.html"
+title: "How the border problem caught the Biden team off guard, and how they've scrambled to fix it "
+excerpt: "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n"
+publishedDateTime: 2021-03-21T00:41:58Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
 type: article
-quality: 185
+quality: 164
 heat: -1
 published: false
 
@@ -23,10 +23,9 @@ provider:
 topics:
   - Election
   - Democratic Voice
-  - Kamala Harris
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310112201-02-kamala-harris-0210-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -61,6 +60,22 @@ related:
     quality: 188
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris uses UN speech to champion women's role in democracy"
+    excerpt: "Kamala Harris declared \"the status of women is the status of democracy\" on Tuesday, in her first speech before the United Nations as the first female vice president of the United States.\n    \n"
+    publishedDateTime: 2021-03-16T17:20:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwZgBfADM9s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/kamala-harris-united-nations-women-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/kamala-harris-united-nations-women-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310112201-02-kamala-harris-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -141,22 +156,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317184044-01-naval-observatory-vice-president-residence-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How the border problem caught the Biden team off guard, and how they've scrambled to fix it "
-    excerpt: "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n"
-    publishedDateTime: 2021-03-21T00:41:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -271,6 +270,6 @@ related:
         height: 619
         isCached: true
 
-secured: "OrzM3UFTx2C392aA8lj5MRsK1cfLwZC3pBga4zHCaAuvkwZS/JV5K2WnCoFTr+x08J90RGjr7UTfBxYp1ogeWiSL1ad27s4ucK99XiC6ccTdGBImsF1UwDKmMO66D2p4r7Bm+jQkG/O3R212HU8A+IC32n6pX0IEfFWb4zboRJa/mUm/jAJOFdsrC/16cE8eMz//2/XQ8LI3p13fwEh0wmAuUl/lFMoVjd52NP4SGJgty7Aw7yBrXF3fGvYETP/tTPH3wg+wmLhXcphGYTnxnYuIXrsL3Fs29YRSdRyApNj7VuFS7Jv0hVUb19kOjA4Hy/lwkrTK4zebgoanpZ6avuFEO9sMjUavDHD5MYKTR/U=;k8WHz5WVFE/3utdZLlNWbg=="
+secured: "oEfXtgNlkJbfLiuhzuwIg8TfHJBktYJczdeN7AgPh/br1y51eUmLguPLdPfq1CCwXz9AS5hUdsf/lMpjCoT9RrQjaueZmv4YVIiLwBuIdKkXNSZSagJ1DSrM5fz1N2SndKr0qG54emmMSkwIoiBWABte6VAwzZDLEiDZlMIEDc+J+5QmMtjfSfUlXy95fCzn82Pq0z5EUOyNB1SqE+69jKF21Rpiwmp8kBorLb6BvTMyY2wgZNiy3dAA5WjvLWU907UD5APGRnHbEmm9O7AnJOpUrDXCd9pT45EaiLPEbjJLZGg7cnbbiaANKNiraSFe+YzOqQFEyV8V3bsOBh8f6Xho8aKbSsSZp12BAZdNnj0=;2Nv9tqFfBpw5rEubsGED4w=="
 ---
 

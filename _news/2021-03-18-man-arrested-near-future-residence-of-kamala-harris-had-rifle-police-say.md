@@ -371,6 +371,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
+    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
+    publishedDateTime: 2021-03-20T02:11:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
+    images:
+      - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Americans Have Saved Enough Amid Pandemic to Nearly Pay for Biden's Stimulus Plan"
     excerpt: "Oxford Economics estimated that U.S. households saved $1.8 trillion from March 2020 to January 2021—just shy of the $1.9 trillion price tag attached to Biden's relief package."
     publishedDateTime: 2021-03-15T21:34:00Z
@@ -825,22 +841,6 @@ related:
       - url: "https://i.insider.com/605531c11fcb5700186ee8ab?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
-    excerpt: "ATLANTA — President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta on Friday, just days after a white gunman killed eight ..."
-    publishedDateTime: 2021-03-20T03:11:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 81
-    images:
-      - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Kamala Harris to speak at Nickelodeon Kids' Choice Awards"
     excerpt: "March 12 (UPI) --Vice President Kamala Harris will speak at the 2021 Nickelodeon Kids' Choice Awards. Nickelodeon confirmed in a press release Friday that Harris, 56, will deliver special remarks during the awards show Saturday. Advertisement Harris will ..."

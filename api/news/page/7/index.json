@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-11-fauci-who-opposed-china-travel-ban-and-praised-their-transparency-criticizes-trump-response.md",
+      "title": "Fauci, who opposed China travel ban and praised their transparency, criticizes Trump response",
+      "excerpt": "White House chief medical adviser Dr. Anthony Fauci, who early on in the coronavirus pandemic opposed a travel ban on China and praised their transparency, on Tuesday criticized former President Donald Trump for not pushing the country harder for more information on the outbreak.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KffGTSsyd2I/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KffGTSsyd2I/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Anthony-Fauci-1-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response.amp",
+      "publishedDateTime": "2021-03-11T12:13:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-mcconnell-trashes-bidens-covid-relief-package-as-multitrillion-dollar-trojan-horse.md",
       "title": "McConnell trashes Biden's COVID relief package as 'multitrillion-dollar Trojan horse'",
       "excerpt": "Senate Republican leader Mitch McConnell is lambasting President Biden's $1.9 trillion COVID relief package that Democrats passed through Congress along party-line votes as \"a multitrillion-dollar Trojan horse.\"",
@@ -215,58 +271,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race.md",
-      "title": "Trump endorses widow of Rep.-elect Luke Letlow in Louisiana House race",
-      "excerpt": "Former President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate commitment to working with Trump amid back-and-forth Top ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race",
-      "originalUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp",
-      "publishedDateTime": "2021-03-10T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -662,7 +666,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": [
         {

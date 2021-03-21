@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ex-Trump aide tweets 'executive orders' after Google lists him as president"
+    excerpt: "On Saturday, before noticing his accidental promotion by Google, Grenell complained about media coverage of Biden’s fall including criticism of Donald Trump Jr’s decision to tweet a gif showing his father knocking Biden over with a golf ball."
+    publishedDateTime: 2021-03-20T15:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/2298c3bf713d8b6dfb5235d43c503af3554a6b32/0_222_4421_2655/master/4421.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9e16d549714f02e78b1390a2da93bd49"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Many in GOP Hope Trump Loses in Court, Goes Away, Says Former Admin Member Miles Taylor"
     excerpt: "Miles Taylor, a former Department of Homeland Security's chief of staff in the Trump administration, said Saturday that many in the GOP hope Donald Trump will lose in future court battles and move on from the party. Speaking on MSNBC, Taylor said he wouldn ..."
     publishedDateTime: 2021-03-13T16:15:00Z

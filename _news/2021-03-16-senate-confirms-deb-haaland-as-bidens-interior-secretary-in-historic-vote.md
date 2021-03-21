@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How the border problem caught the Biden team off guard, and how they've scrambled to fix it "
+    excerpt: "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n"
+    publishedDateTime: 2021-03-21T00:41:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden and Harris to Visit Atlanta in Wake of Shootings"
     excerpt: "Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta. The suspect wanted to curb his sexual urges, a former roommate says. Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta. President Biden and ..."
     publishedDateTime: 2021-03-19T05:01:00Z
@@ -173,6 +189,22 @@ related:
     quality: 160
     images:
       - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing/19atlanta-shooting-briefing-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Joe Biden and Kamala Harris plan to visit with Asian-American leaders in Atlanta."
+    excerpt: "President Biden and Vice President Kamala Harris at the White House last week. They plan to travel to Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris will meet in Atlanta on Friday with community ..."
+    publishedDateTime: 2021-03-18T14:40:00Z
+    webUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 155
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/18/multimedia/18atlanta-shootings-briefing-biden-harris/18atlanta-shootings-briefing-biden-harris-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -207,22 +239,6 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/bidenharrisntl.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Joe Biden and Kamala Harris plan to visit with Asian-American leaders in Atlanta."
-    excerpt: "President Biden and Vice President Kamala Harris at the White House last week. They plan to travel to Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris will meet in Atlanta on Friday with community ..."
-    publishedDateTime: 2021-03-18T14:40:00Z
-    webUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 145
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/18/multimedia/18atlanta-shootings-briefing-biden-harris/18atlanta-shootings-briefing-biden-harris-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "‘Kamala Harris says the Atlanta attacks have ‘frightened and shocked and outraged all people.’"
     excerpt: "Vice President Kamala Harris, the first woman and the first Asian-American to hold the office, expressed condolences for the families of the victims during a meeting with Irish officials on Wednesday. “This speaks to a larger issue which is the issue of ..."

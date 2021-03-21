@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Trump Casino Miami? Florida Gambling Bill Raises Possibility"
-excerpt: "Donald Trump’s struggling Doral golf club near Miami could be thrown a lifeline if a Florida bill being hammered out behind closed doors allows more gambling in the state and the property is allowed to operate a casino."
-publishedDateTime: 2021-03-18T21:36:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-03-18/trump-casino-miami-florida-gambling-bill-raises-possibility"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-03-18/trump-casino-miami-florida-gambling-bill-raises-possibility"
+title: "Ex-Trump aide tweets 'executive orders' after Google lists him as president"
+excerpt: "On Saturday, before noticing his accidental promotion by Google, Grenell complained about media coverage of Biden’s fall including criticism of Donald Trump Jr’s decision to tweet a gif showing his father knocking Biden over with a golf ball."
+publishedDateTime: 2021-03-20T15:26:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
 type: article
-quality: 35
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.guim.co.uk/img/media/2298c3bf713d8b6dfb5235d43c503af3554a6b32/0_222_4421_2655/master/4421.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9e16d549714f02e78b1390a2da93bd49"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "See the list of Florida GOP websites that still show Trump as president"
@@ -54,22 +62,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumperic_101019getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Ex-Trump aide tweets 'executive orders' after Google lists him as president"
-    excerpt: "On Saturday, before noticing his accidental promotion by Google, Grenell complained about media coverage of Biden’s fall including criticism of Donald Trump Jr’s decision to tweet a gif showing his father knocking Biden over with a golf ball."
-    publishedDateTime: 2021-03-20T15:26:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/2298c3bf713d8b6dfb5235d43c503af3554a6b32/0_222_4421_2655/master/4421.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9e16d549714f02e78b1390a2da93bd49"
-        width: 600
-        height: 360
         isCached: true
   - title: "Many in GOP Hope Trump Loses in Court, Goes Away, Says Former Admin Member Miles Taylor"
     excerpt: "Miles Taylor, a former Department of Homeland Security's chief of staff in the Trump administration, said Saturday that many in the GOP hope Donald Trump will lose in future court battles and move on from the party. Speaking on MSNBC, Taylor said he wouldn ..."
@@ -119,7 +111,16 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Casino Miami? Florida Gambling Bill Raises Possibility"
+    excerpt: "Donald Trump’s struggling Doral golf club near Miami could be thrown a lifeline if a Florida bill being hammered out behind closed doors allows more gambling in the state and the property is allowed to operate a casino."
+    publishedDateTime: 2021-03-18T21:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-18/trump-casino-miami-florida-gambling-bill-raises-possibility"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "cJ4lw9a8MNohtbtc7ZLZBGLia9D9NKMktHnlkEhZrvSrSUy3GcIKNRKhhY41ry3Hk/sVx04Wiv89ScpfEUV27+HBZmVYGBhGasRf64AeuQgAqWOoJtIiodPbMKhCsgjNUAuMphD/ya864nO46ZAV9akB+akBfiatkAuv1H4GelIzR63Hn1+/ta5CfE4/ZvIygZQh/p1/mUQpRxccwfOhj1z4csW0bvRuEPiiSPg7rERMYFyL5d8RZER9vJtt/Ja1P9oxvRNZwVQ05/4chR5BL1RShhUsGFBqshaN82Nrwg3LS7jN7s9QR84DKCjxYrBGOjjYS262pcqwK956oXq3v5e+En0QrRr/vmzb5B07SwRSeTva6HvKYtzZ4aDtDiJnoAxbxY0876TSC6hSDljZeLW5B7icf590AKm5CsDuUrdqVy5SJQGP7EyaJUERGmivhKazpQ7UINcT6Z7iYnvuCnoZ8xKOK+oUG/DeIxpFCLdS1am/1r6t3jDB8L3ggDFC5RjzEpIozsv9gn/dBEU7SQ==;PQSDEPHQMroJeym60QmvnA=="
+secured: "e6uFVlh9puElJZNYAXOknLM/xN/dTb1GjxIlhwlbajitA1Q1hGUH1qtqI0rQ2HBN1pZ4rJIIuEsmKRMY6/6XSjM/TiSG8j+HfjVVg3jIdfS4ve/pM5SVrDGGPAAcZcyKNe3hUUe9mbnbh866mqEXT/GZNmuxa8hojw8/j5cF4obwNlM30snaK3yd0xdPFcXbTepKveYaE4t3rX2+QiGOKoVyN2i63fDzs8CfK55IJPuEQEcmP8QMfMF6D7vzcBrLxSnjEtPE7+Ed2zjFIie5zx69zZ1hew9ElliLBmi5em6kiOwSFk7mLqU2lEU+e54QWaXHGkQxXyJoCE2iF5z2RxnNIvxTo1lXPlj/rCDG8I8=;tfYB5NAOcVBxB0E9iBhvEw=="
 ---
 

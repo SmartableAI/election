@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-20-trump-boosts-julia-letlow-ahead-of-louisiana-special-election.md",
+      "title": "Trump boosts Julia Letlow ahead of Louisiana special election",
+      "excerpt": "Former President Trump Donald Trump Illinois House passes resolution condemning state rep. for 'standing with insurrectionists' Florida Democrats call for election redo after former state senator ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/544146-trump-boosts-julia-letlow-ahead-of-louisiana-special-election",
+      "originalUrl": "https://thehill.com/homenews/campaign/544146-trump-boosts-julia-letlow-ahead-of-louisiana-special-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_letlowjulia_youtubegetty.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/544146-trump-boosts-julia-letlow-ahead-of-louisiana-special-election?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/544146-trump-boosts-julia-letlow-ahead-of-louisiana-special-election?amp",
+      "publishedDateTime": "2021-03-20T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-trump-wax-figure-pulled-from-texas-display-after-visitors-attacked-it-reports.md",
       "title": "Trump wax figure pulled from Texas display after visitors attacked it – reports",
       "excerpt": "Statue of ex-president apparently had deep gouges inflicted by museum patrons who clawed and punched it, local report said Last modified on Fri 19 Mar 2021 18.07 EDT A wax figure of Donald Trump has been pulled from the display of a waxworks exhibit after ...",
@@ -162,7 +214,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1499,58 +1551,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-republicans-are-recycling-trumps-fear-mongering-about-terrorists-entering-the-us-through-mexico.md",
-      "title": "Republicans are recycling Trump's fear-mongering about terrorists entering the US through Mexico",
-      "excerpt": "DOW S&P 500 NASDAQ 100 As record numbers of unaccompanied minors turn up at southern border, congressional Republicans are echoing dubious claims from former President Donald Trump about terrorists attempting to cross into the US from Mexico. House ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
-      "originalUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/605113400347cb00184b61e4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
-      "publishedDateTime": "2021-03-16T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -29,19 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump endorses widow of Rep.-elect Luke Letlow in Louisiana House race"
-    excerpt: "Former President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate commitment to working with Trump amid back-and-forth Top ..."
-    publishedDateTime: 2021-03-11T03:12:00Z
-    webUrl: "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race"
-    ampWebUrl: "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp"
+  - title: "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe"
+    excerpt: "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U."
+    publishedDateTime: 2021-03-10T21:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B22DF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22DF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554431647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291FE"
+        width: 837
+        height: 545
+        isCached: true
+  - title: "Trump told Ga. investigator he won the state: 'You'll be praised' for 'the right answer'"
+    excerpt: "New audio obtained by The Wall Street Journal shows then-President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate ..."
+    publishedDateTime: 2021-03-10T22:52:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
+    quality: 116
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg"
+      - url: "https://thehill.com/sites/default/files/trumpdonald_041819gn7_lead.jpg"
         width: 980
         height: 551
         isCached: true

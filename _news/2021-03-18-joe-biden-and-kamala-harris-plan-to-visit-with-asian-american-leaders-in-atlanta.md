@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.html"
 ampWebUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
 type: article
-quality: 145
+quality: 155
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Kamala Harris
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://static01.nyt.com/images/2021/03/18/multimedia/18atlanta-shootings-briefing-biden-harris/18atlanta-shootings-briefing-biden-harris-facebookJumbo.jpg"
@@ -157,6 +158,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317184044-01-naval-observatory-vice-president-residence-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the border problem caught the Biden team off guard, and how they've scrambled to fix it "
+    excerpt: "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n"
+    publishedDateTime: 2021-03-21T00:41:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
