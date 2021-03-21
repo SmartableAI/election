@@ -2,21 +2,21 @@
 category: news
 title: "Biden administration tries to get control of border, story"
 excerpt: "As migrants surge at the U.S.-Mexico border, President Joe Biden’s administration has been caught on its heels and is now scrambling to manage a humanitarian and political challenge that threatens to"
-publishedDateTime: 2021-03-21T15:45:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/biden-administration-tries-to-get-control-of-border-story/2021/03/21/75f44f0e-8a5c-11eb-a33e-da28941cb9ac_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/biden-administration-tries-to-get-control-of-border-story/2021/03/21/75f44f0e-8a5c-11eb-a33e-da28941cb9ac_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-administration-tries-to-get-control-of-border-story/2021/03/21/75f44f0e-8a5c-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-administration-tries-to-get-control-of-border-story/2021/03/21/75f44f0e-8a5c-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+publishedDateTime: 2021-03-21T16:12:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-control-border-story-76590962"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-control-border-story-76590962"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-control-border-story-76590962"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-control-border-story-76590962"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_db4468bae5c74ab9b2a27461915080c6_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1026,6 +1026,6 @@ related:
         height: 600
         isCached: true
 
-secured: "bA/ahl3czEmuNc+u8X7HlRw12/jqN4mW8KU1mg8wF9oQSqhigcBBX8wJVB09hecI78FZVaymil17NsbM4D41qerdE/+tYrrWMjXwuq2kBvJVpQOEfjdqnjOXuX6zLazeMETHc9VVs8O2VFQ3GxwR7RdPtNa0rNrftdMm9GXzeIiOLxLIuD0tZYMkdBcb/YR/7pxTvd4KEt+SFxT3N/+El7C6s+YLPki/Jj+dCRphV9eU47LaYCNQBb4OyJkegQ/v0QmbxTipGTAqA5+r949o/0B1KjpOCI3XEQW8NckgF4HfwYWqH+BhaLHbOdgnTlmOHfqGeroNBib1JTmVLIsvqcIw9Nrpdxhzsh2l6ZWgN8M=;YMn7TVDKswrvymeSZ5j0nQ=="
+secured: "uOh3dh3hO4LZ09drlG98PFVl7jMm0rqeKxyyzBp/yPNvWInn4N1+/AXMnX6pid753gMdNOny1TC5pm3oTNCEqf4WkVCTMD9Pb9VV6SrPyGIUwzehEjd28kXhr4TtrPqk3yxeyrFSmFTtYCftYcGC4WMqHXO2eEf1nV6/WRTjn9ZS6pPh8a2yk+glChZK7qsgE5uR7Jz7JO+5sWlazAVDINdvkDPXgqiXd17Sj2KgOQoxdh8zyRU9kGCJLW4b4lSPIgdjYs3z5cABLY5Yy86h4lQZ/gV99yDO9tCFbFHQ1yxPjfa49R4n8+lzabDFH5oKymPjTSrH8JzJ+6Nbu5M1JHaE9fqpPp/JE5GkVM5tuNc=;tC6fMTrEiuTSona1eRhqHA=="
 ---
 

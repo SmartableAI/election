@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cotton calls for return of Trump border policies"
+    excerpt: "A repeated talking point by Mayorkas on Sunday was that the Trump administration, which took a hard line on border policy, was to blame because it \"dismantled the orderly, humane and efficient way\" of dealing with the migrant children. Mayorkas said the U ..."
+    publishedDateTime: 2021-03-21T14:35:00Z
+    webUrl: "https://www.politico.com/news/2021/03/21/cotton-us-border-wide-open-477379"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/21/cotton-us-border-wide-open-477379"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/cotton-us-border-wide-open-477379"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/07/c1/69b4871745b3965c09fc92d63ffb/210321-cotton-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "How to mess up a possible Trump endorsement in one easy step"
     excerpt: "The Senate GOP primary in Alabama is a case study in the various ways to win over Trump — and how to alienate him too."
     publishedDateTime: 2021-03-21T07:00:00Z

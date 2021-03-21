@@ -58,6 +58,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Operation Warp Speed Doc: 90% of Biden vaccine rollout plan was same as Trump's"
+    excerpt: "Slaoui pointed to the manufacturing, supply and distribution of the vaccine as being essentially the same as what Trump planned to do."
+    publishedDateTime: 2021-03-21T16:17:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MpqWgiUbPXg/operation-warp-speed-doc-90-of-biden-vaccine-rollout-plan-was-same-as-trumps"
+    ampWebUrl: "https://www.foxnews.com/politics/operation-warp-speed-doc-90-of-biden-vaccine-rollout-plan-was-same-as-trumps.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/operation-warp-speed-doc-90-of-biden-vaccine-rollout-plan-was-same-as-trumps.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/slaoui.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden signs three immigration orders in latest move to reverse key Trump policies"
     excerpt: "President Biden on Tuesday signed three executive orders on immigration, including one to create a task force to reunify migrants separated under the Trump administration"
     publishedDateTime: 2021-02-02T22:54:56Z
@@ -215,6 +231,22 @@ related:
     quality: 174
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Migrant says he came to US border because Biden was elected, would not have tried to cross under Trump"
+    excerpt: "A South American migrant who recently crossed the U.S.-Mexico border said he did so \"basically\" because Joe Biden was elected president and would not have tried to cross under former President Donald Trump."
+    publishedDateTime: 2021-03-21T17:29:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tTw7TvKNrXw/migrant-border-crossing-biden-elected-not-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-border-crossing-biden-elected-not-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-border-crossing-biden-elected-not-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -439,6 +471,22 @@ related:
     quality: 137
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57251046-2d50-49cc-89bb-faad0d5819f9/493c0740-d968-4c4e-8b16-bebbb2038260/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Migrant says he came to US border because Biden was elected, would not have tried to cross under Trump"
+    excerpt: "A South American migrant who recently crossed the U.S.-Mexico border said he did so \"basically\" because Joe Biden was elected president and would not have tried to cross under former President Donald Trump."
+    publishedDateTime: 2021-03-21T17:34:00Z
+    webUrl: "https://www.foxnews.com/politics/migrant-border-crossing-biden-elected-not-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-border-crossing-biden-elected-not-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-border-crossing-biden-elected-not-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

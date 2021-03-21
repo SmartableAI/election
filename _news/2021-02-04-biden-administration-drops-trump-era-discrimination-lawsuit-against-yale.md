@@ -543,6 +543,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Mayorkas blames Trump for border woes as Republicans attack Biden"
+    excerpt: "Homeland security secretary pressed in Sunday interviews as GOP sees chance to hammer new administration"
+    publishedDateTime: 2021-03-21T12:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/21/mayorkas-trump-biden-border-republicans-migrant-children-immigration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/mayorkas-trump-biden-border-republicans-migrant-children-immigration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/mayorkas-trump-biden-border-republicans-migrant-children-immigration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/69fc9720384228f66f726d6adff67e74bae9785e/0_73_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=14e71b30cf3e3a63d2e80bb4002c7431"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z
