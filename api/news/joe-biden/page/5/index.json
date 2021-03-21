@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-27-biden-says-hes-bringing-back-the-pros-for-virus-briefings.md",
+      "title": "Biden says he’s ‘bringing back the pros’ for virus briefings",
+      "excerpt": "President Joe Biden is dispatching the nation’s top scientists and public health experts to regularly brief the American public about the pandemic that has claimed more than 425,000 U.S. lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-27T02:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-biden-speaks-to-putin-for-first-time-since-taking-power-white-house.md",
       "title": "Biden speaks to Putin for first time since taking power: White House",
       "excerpt": "U.S. President Joe Biden spoke to Russian President Vladimir Putin on Tuesday for the first time since taking office and raised concerns about Russian activities including the treatment of jailed Kremlin critic Alexei Navalny,",
@@ -1509,58 +1561,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-gen-milley-key-to-military-continuity-as-biden-takes-office.md",
-      "title": "Gen. Milley key to military continuity as Biden takes office",
-      "excerpt": "When the incoming Biden administration takes charge of a Pentagon rocked by four years of leadership churn, it’ll look mainly to one holdover to provide continuity",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-17T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

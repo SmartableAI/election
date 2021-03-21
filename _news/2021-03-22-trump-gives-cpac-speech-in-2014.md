@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Trump's South Texas Gains Vex Democrats"
-excerpt: "He thought things had gone O.K. during Donald Trump’s presidency. He didn’t think Trump was fair on immigration, but thought he was good on the economy. Neither party had tried hard to win his ..."
-publishedDateTime: 2021-03-15T09:58:00Z
-originalUrl: "https://time.com/5946848/donald-trump-hispanic-latino-voters-texas/"
-webUrl: "https://time.com/5946848/donald-trump-hispanic-latino-voters-texas/"
+title: "Trump gives CPAC speech in 2014"
+excerpt: "Addressing CPAC in Oxon Hill, Md., real estate magnate-turned-reality TV star Donald Trump charged that President Obama is turning out to be worse than \"the late, great\" (but very much alive) former President Jimmy Carter."
+publishedDateTime: 2021-03-21T19:57:00Z
+originalUrl: "https://www.cbsnews.com/video/trump-gives-cpac-speech-in-2014/"
+webUrl: "https://www.cbsnews.com/video/trump-gives-cpac-speech-in-2014/"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Time
-  domain: time.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://api.time.com/wp-content/uploads/2021/03/zapata-county-texas-trump.jpg"
-    width: 2400
-    height: 2400
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/4e23eae5-a7fb-4320-80a7-d9b4d25ca390/thumbnail/1200x630/5246c015c4d1c805406987e92c06bee6/politics-trump-306-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -107,19 +107,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump gives CPAC speech in 2014"
-    excerpt: "Addressing CPAC in Oxon Hill, Md., real estate magnate-turned-reality TV star Donald Trump charged that President Obama is turning out to be worse than \"the late, great\" (but very much alive) former President Jimmy Carter."
-    publishedDateTime: 2021-03-21T19:57:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-gives-cpac-speech-in-2014/"
+  - title: "Trump's South Texas Gains Vex Democrats"
+    excerpt: "He thought things had gone O.K. during Donald Trump’s presidency. He didn’t think Trump was fair on immigration, but thought he was good on the economy. Neither party had tried hard to win his ..."
+    publishedDateTime: 2021-03-15T09:58:00Z
+    webUrl: "https://time.com/5946848/donald-trump-hispanic-latino-voters-texas/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Time
+      domain: time.com
     quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/4e23eae5-a7fb-4320-80a7-d9b4d25ca390/thumbnail/1200x630/5246c015c4d1c805406987e92c06bee6/politics-trump-306-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://api.time.com/wp-content/uploads/2021/03/zapata-county-texas-trump.jpg"
+        width: 2400
+        height: 2400
         isCached: true
   - title: "'His new business': Trump seeks personal political brand as he grips Republican base"
     excerpt: "Donald Trump issued a statement lashing out against one of the very Republican senators who made that acquittal possible. “The Republican party can never again be respected or strong with political ‘leaders’ like Senator Mitch McConnell at its helm ..."
@@ -136,6 +136,6 @@ related:
         height: 630
         isCached: true
 
-secured: "kf71cGTRw1RkyanMS9hLlpTrZuBIaVljVbYclr85477WN6YEZ9prV7FiuazAoUh1cs/JDWamiP/wemjVZoIquIX/U+GrlJI37J4X3623t8bff/VvDdE09q5pqTJq5/AKsPWBHbt8hrhDZKvP/I0okkSZuVrgkSWf1tjpSUkh7wyAQmgQ0TxZ5GgaT8b1AviArzfnp4w7YXwy8CUqrubHsyeKDvCpjxuUIYPiYm+M//jhqTAS7dVCofDhLg0ixImGJ3v1xdWs+fZ6+idCxiYV088jSohbsIz7sUNGS/MCdNhArpA3j4F4MaQadpB0TBvtd1RjlsN0ynGXNDtTEI7UzFLZdKNXKBYiozZogYSUUWlOuSBDkQ/y9f4xjH2dGUO9BfNOQ4zSdA5/OAfCF9dHFfEbXa17gGeAQ5gcFDszZP14I2YNifZOXMErOLI/z96yXUfes3p+5ADPGuHyZWODHU9kZRA8jKhju0BI5PsdiPtdxDyrRJTUlj/61ojHvDOZK77kb35G1XwtQo8CGumwdA==;nRTIONF984OW9jisHRWR4w=="
+secured: "ZGzX4IOLpdUMnBjRagtjs/8iJTuD/S3ljKG1admW8WyalXPowA+QF+Ld8hnvDlhAtIG0JEsSKIFlaq8UE3pQqzj5WIZYmueJAqSBlJ3vEl7Ys4BPbQRTrMDRraB3wNWbhAXPDNdK37oAWzg2vNwkAspjZxfPNO6l7b7OazMjwUCktrz4XoZxLZjKVaLY0XOUGOX6nAMhccZ7NKyUhlZ3LeE4l4cHpPsSxP9G9P7W1lxFsvp1L5tVgoriZBkFJBzHEIRdMThzTlKAL6z2R+nZUhZU4fkJ1IKFsy30UMs1eqBuTBTCEe2PNs6tRev4CiKixgH1vPI9v8LHmzhv03JaBwMo6kQeG21MtFIv6kRUiFI=;4goVdkP4xOtQ9pzTlptdrA=="
 ---
 

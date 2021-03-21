@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-16-bidens-top-diplomat-calls-for-deeper-japan-ties-as-china-north-korea-cast-shadow.md",
+      "title": "Biden's top diplomat calls for deeper Japan ties, as China, North Korea cast shadow",
+      "excerpt": "U.S. Secretary of State Antony Blinken on Tuesday called for deeper economic and security ties with Japan, as he and Defence Secretary Lloyd Austin seek to use their first trip abroad to strengthen Asian alliances in the face of China's assertiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-asia-blinken-japan-idUSKBN2B71C9",
+      "originalUrl": "https://www.reuters.com/article/us-usa-asia-blinken-japan-idUSKBN2B71C9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555035634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0E8",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B71C9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B71C9",
+      "publishedDateTime": "2021-03-15T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.md",
       "title": "North Korea warns Biden administration to avoid 'causing a stink' if it wants peace",
       "excerpt": "The sister of North Korean leader, Kim Yo Jong, criticised ongoing military drills in South Korea and warned the new U.S. administration against “causing a stink” if it wants peace, state news reported on Tuesday.",
@@ -339,7 +391,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -391,7 +443,7 @@
       "originalUrl": "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1303,54 +1355,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-mike-pence-welcomes-first-grandchild-with-sweet-photo.md",
-      "title": "Mike Pence welcomes first grandchild with sweet photo",
-      "excerpt": "Former Vice President Mike Pence’s premature gray always made him look the part of a grandfather — now he has the grandchild to go with it. Pence and wife Karen announced the birth of Avery",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/",
-      "originalUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/210313-mike-pence-grandchild.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/amp/",
-      "publishedDateTime": "2021-03-13T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

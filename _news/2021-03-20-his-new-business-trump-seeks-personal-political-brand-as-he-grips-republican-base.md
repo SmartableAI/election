@@ -121,6 +121,20 @@ related:
         width: 2400
         height: 2400
         isCached: true
+  - title: "Trump gives CPAC speech in 2014"
+    excerpt: "Addressing CPAC in Oxon Hill, Md., real estate magnate-turned-reality TV star Donald Trump charged that President Obama is turning out to be worse than \"the late, great\" (but very much alive) former President Jimmy Carter."
+    publishedDateTime: 2021-03-21T19:57:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-gives-cpac-speech-in-2014/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/4e23eae5-a7fb-4320-80a7-d9b4d25ca390/thumbnail/1200x630/5246c015c4d1c805406987e92c06bee6/politics-trump-306-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jYCooavuDonjY685bGByESkcVM4rVMpl9ZEScWkjr2aWaIznLfXkH5MjnMQWBkNeUz6KODe3jn7fiHjKxleplRUGIaHK2IY8ykyWdyAWSJQIihK7aJrEIM3obfmCjKx0+PMZhY2cL1LItgmClbxB+lj+TVutUotTMgYPjKawwpGya19XknOj2mTaIHV9v20MFF4r6m7jlzJYJZNVCZz6V1Ajpy+vbhs0/rSle0XKaR8xi96bl8Td4Lqsmw1wfp/3I5cy90NmpJNnOyMLRpC5mN2fHcvavHUyxCegK0vRt7tBXkVmk6/NaDl8WwmDD5Cg+U701oM1Uo2GRFAUk+mVXW4+6D18k/zN9a6GRaB3Q0KL4PCctYP5oCXBJOqUGiAXw33qsaxlbHwk9ZELuRG0mspAUwudW6gKx/A71QZ11N0fFqy/c/RTKhta1r0/phgvVnJany5dLlpezYlMbeP+/d6rPuLNMpjwiBfRfZ/63HiRKb8OQ0H7mkknEckhHH9iZVjG40pqRlT/u0rd1uG9dQ==;4SjnrDlAP9XchSsO29X0Pw=="
 ---

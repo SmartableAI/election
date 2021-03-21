@@ -95,6 +95,20 @@ related:
         width: 1620
         height: 1136
         isCached: true
+  - title: "Trump is reportedly planning to launch his own social-media platform in the next few months, aide Jason Miller says"
+    excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump is planning to launch his own social-media platform within the coming months, longtime Trump adviser Jason Miller said during a Sunday appearance on Fox News \"Media Buzz.\" The former president was barred ..."
+    publishedDateTime: 2021-03-21T16:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-planning-to-launch-his-own-social-media-platform-soon-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/60576ea61fcb5700186ee980?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "wyb2K2BtzPlaM2pq2ASPcRez3OwHl3e60pILXcTt8pdcLzxVHrUnmZyNAk68H7rIvtvj976rDbnQ4MzXWRovIWZuxRE6PR83vXtqKNVSd/+BLL2l2w+pojCKshnIYJqnMbTjTtpLcVKlYgO6kkgy+c+Bdxaw75PNMM5zAyYH81X7GL0olTdyOf8/BCK/eMB+clnuf+LNbW5XDYTREuMQ7T/ILB7hJN4elGjjZAAltOZtifN4siRLmkXaYVKX11LT+kDaovw7gQ+UJZEbACsz6duA2MEr17y7Wxu7no1VeZoeC5PSl1r7VW3JJL9b8kFqchE8j4opHxyHxNioFDtoNRSzytbqQEAExjbgy6BN+AO391hr2vvvou5KqGbMyOkZRUWRdDJQHD4+8S/CNnH4rmH7SBQjwuqOcVvdDbSRvu1NPjId3yU6EibIB1VpBzS1CWXOUJJPHvfpQchPAjk+KJz6NWqeE5oyMMZ7AZ3qZrAtu16zIt1bB3LBniFjFOjOjdRkNJclacy+P2QA7SsSpA==;w+GtpoPdPqQK5dSap0J6EQ=="
 ---

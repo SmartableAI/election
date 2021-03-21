@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meg
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1757651/meghan-markle.jpg"
         width: 1620
         height: 1136
+        isCached: true
+  - title: "Trump is reportedly planning to launch his own social-media platform in the next few months, aide Jason Miller says"
+    excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump is planning to launch his own social-media platform within the coming months, longtime Trump adviser Jason Miller said during a Sunday appearance on Fox News \"Media Buzz.\" The former president was barred ..."
+    publishedDateTime: 2021-03-21T16:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-planning-to-launch-his-own-social-media-platform-soon-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/60576ea61fcb5700186ee980?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "l7nWmf+To2IeMg9qOzfKK//K5GDcLmTbec1e7Teg+PlmBVW5waOSsMW0p4yZUCsMyIke9ADs97t1p1Qz1h9+Tt68IzEP2RcDqLyYAEHTdmgAHUuxmD7KgOr4Mns/FNtie8N7shtQ60OEvky3gi0T5G+zIWvcsdONRDD4lH4sZdMQU2nzt35H/nKNpxoaPaOtBQMUeLd58HNS+6hM8PNMdXCN9c0aoMeGMYyVsY7QMKcvvyKSBgmfpv5j2XDp9HJUHhhEUS+nysyfBpPPlKb2E/zjR3oCN875ySSdUMdIleutPus732SLbpWU/tWhTJGJ2pJc5XF1+W2mddN3FzhxKJRbrUm5g80hfidt49pFWuvX0IAk/P/D4Mbs032o6FE33H2+ajXF7B8AtGmfG4apQLtL170qyo/BxRId6908ZqV8pctuKGTPkqeBKhNRkfh9s6M5l6SC5uPu3Mb7/niySG/Nidwrc5bWxlOKaGGO75KptAgNv3ByABzwOr1Lhvqex1LNygcH9RG1NbRq8EHFQQ==;vNYQHVyvrKd0BJ1ZroHNow=="

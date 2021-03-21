@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-19-kevin-mccarthy-on-fox-friends-biden-border-crisis-now-becoming-human-tragedy.md",
+      "title": "Kevin McCarthy on 'Fox & Friends': Biden border crisis now becoming 'human tragedy'",
+      "excerpt": "The issues on the border go beyond a crisis to a \"human tragedy,\" House Minority Leader Kevin McCarthy, R-Calif., said on Friday, reacting to the Biden administration denying media access to migrant facilities.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
+      "publishedDateTime": "2021-03-19T07:29:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-florida-ex-sen-bill-nelson-to-be-tapped-by-biden-for-nasa-administrator.md",
       "title": "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator",
       "excerpt": "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News.",
@@ -1307,62 +1363,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-trumps-mar-a-lago-stays-busy-as-republican-candidates-make-fundraising-pilgrimages.md",
-      "title": "Trump's Mar-a-Lago stays busy as Republican candidates make fundraising pilgrimages",
-      "excerpt": "Former Trump White House aide Max Miller is the latest Republican candidate to flock to former President Trump's Mar-a-Lago resort to court influential donors and rainmakers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
-      "publishedDateTime": "2021-03-18T03:27:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

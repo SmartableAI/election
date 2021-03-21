@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump appears at Sarah Huckabee Sanders campaign event"
-excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster ..."
-publishedDateTime: 2021-03-15T13:05:00Z
-originalUrl: "https://thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event"
-webUrl: "https://thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event"
-ampWebUrl: "https://thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event?amp"
+title: "Trump is reportedly planning to launch his own social-media platform in the next few months, aide Jason Miller says"
+excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump is planning to launch his own social-media platform within the coming months, longtime Trump adviser Jason Miller said during a Sunday appearance on Fox News \"Media Buzz.\" The former president was barred ..."
+publishedDateTime: 2021-03-21T16:25:00Z
+originalUrl: "https://www.businessinsider.com/trump-planning-to-launch-his-own-social-media-platform-soon-2021-3"
+webUrl: "https://www.businessinsider.com/trump-planning-to-launch-his-own-social-media-platform-soon-2021-3"
 type: article
-quality: 125
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/sanders_sarah_trump_donald031521.jpg"
-    width: 980
-    height: 551
+  - url: "https://i.insider.com/60576ea61fcb5700186ee980?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -44,6 +42,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump appears at Sarah Huckabee Sanders campaign event"
+    excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster ..."
+    publishedDateTime: 2021-03-15T13:05:00Z
+    webUrl: "https://thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event"
+    ampWebUrl: "https://thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543184-trump-appears-at-sarah-huckabee-sanders-campaign-event?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/sanders_sarah_trump_donald031521.jpg"
         width: 980
         height: 551
         isCached: true
@@ -95,21 +109,7 @@ related:
         width: 1620
         height: 1136
         isCached: true
-  - title: "Trump is reportedly planning to launch his own social-media platform in the next few months, aide Jason Miller says"
-    excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump is planning to launch his own social-media platform within the coming months, longtime Trump adviser Jason Miller said during a Sunday appearance on Fox News \"Media Buzz.\" The former president was barred ..."
-    publishedDateTime: 2021-03-21T16:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-planning-to-launch-his-own-social-media-platform-soon-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/60576ea61fcb5700186ee980?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "He73mrbmU4HEHSfnZkiZ6vFkP6D+f23hoMqV/nge0QetR/DH1Nqu/+RKNflkw5kJ6r3kWyhpWYoeAMB0i0qoUJbgFStsZswwCEvP2dGLSj5VVwDhL7kPlle3Ua6zGHvn9wb11zz4IgsFLntGBPuSDYucLv5UD9XWwdkYgpEqW3atBfg+466v2om5BYW0SqFy9g4ux4wmwbyrtQntbwz+y299hYOLT3GS2C0Q+2EDuWg0mzljcQzm2F+kuwC8IvCz+N6yTMql1xItCeAoiukoN5OixtK9izALX3xFpkudrgPU97T4Nn2YZE7uF6BynRZTi7oRjed4P1vDaYyiEdt8l9ZoGmBi/sLPHVW4yqM8UwPYVlqOJWYZlep9tkB/3YsmFmwHV3B0EP2HLV54QyL7QjWd99+me/otqIt86CsewtXYJ2jcik8Z09AKBjxSvXh91Xk9E/+fzCCHLiEitVitynyJcsHu2//Bogyp+jy6IUg/wUnFxswterBpDpK3UUkbPUAq+9j6IzR+QyiXhbGekA==;mejY5Z/FtuwsL8IVYRVytA=="
+secured: "gfVOjype8w+idh/WAsAM3pUeFdMQ1Gs3Z6NgPYJDu9/B13tzRITGlBqdem3S6hOm0K8MFYJxqicmPRcr76acvxmVccng9X+uuXZkOgnvFzPmR/WW4Zn3Fnd1qQtBWWMq7vqnzD/G9hRPN5QbhvBID2Y2tITh3zEo+GHlh9q2c/JJaQHvEtaEE2VoQUNs/6SIzI8TpxWkuyGUurWpheIyIBJJK07a0Cd8iGFpANgnLwn1XqjOilfu+rzSSSjLmKvlJ12Gbfv1W33fF9Td+fs1fAb/ApUPQhKwRDiE9AwaoRydvfqU9iHjuwkbSPNdbJmndjKqhJ353wNatsLK3bIq0IEY2SLbuOAv/VOedwHqWsw=;DB8/+RwnYvV/S5slN+Qqrw=="
 ---
 

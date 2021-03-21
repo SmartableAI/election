@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-c
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2021/03/zapata-county-texas-trump.jpg"
         width: 2400
         height: 2400
+        isCached: true
+  - title: "Trump gives CPAC speech in 2014"
+    excerpt: "Addressing CPAC in Oxon Hill, Md., real estate magnate-turned-reality TV star Donald Trump charged that President Obama is turning out to be worse than \"the late, great\" (but very much alive) former President Jimmy Carter."
+    publishedDateTime: 2021-03-21T19:57:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-gives-cpac-speech-in-2014/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/4e23eae5-a7fb-4320-80a7-d9b4d25ca390/thumbnail/1200x630/5246c015c4d1c805406987e92c06bee6/politics-trump-306-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'His new business': Trump seeks personal political brand as he grips Republican base"
     excerpt: "Donald Trump issued a statement lashing out against one of the very Republican senators who made that acquittal possible. “The Republican party can never again be respected or strong with political ‘leaders’ like Senator Mitch McConnell at its helm ..."

@@ -44,7 +44,23 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Jason Miller: President Trump Is Going To \"Redefine The Game\" With His Own Social Media Platform"
+    excerpt: "Former Trump aide Jason Miller teases that the president is planning to launch his own social media network in the next few months, saying it will be the \"hot ticket\" for the president's fans. \"Donald Trump obviously has been booted off Twitter and Facebook and Instagram,"
+    publishedDateTime: 2021-03-21T08:49:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/21/jason_miller_president_trump_is_going_to_redefine_the_game_with_his_own_social_media_platform.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/21/jason_miller_president_trump_is_going_to_redefine_the_game_with_his_own_social_media_platform.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/21/jason_miller_president_trump_is_going_to_redefine_the_game_with_his_own_social_media_platform.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 72
+    images:
+      - url: "https://assets.realclear.com/images/53/538325.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
-secured: "krUGclgOt9DlVrrcj5MTiGfK6d5KcqwkLAaNQb5SeLlLzT06G2Ms8YMosat9b8IAxdKRpvPw9ByM3c4JxzM9QhZtW5sFb5HxzbU0wZbvAyIiM7pZURqSqbBiz/JS1rSNi0bv78lgGYKzdbgRjfCGwAnB6DfIJAIvHVea3Imd3yw8Rku0aoERm7/QztwZ2HDqF/gyOtm5ZA/WEDQxXQ7FDv4Sl/QIHznIa2b0Im+N3v8t3q7KiwBpeEoOT/L3pZrbNwIc7R7ZVhj3TKB48uo8OrJvBjLJBWVCO6ZZKpgrmMMx9KsXi4jnWo/iM+AYDXDCQKLhsVRcpGWkL5//tiuAuvbnN8c3NGRwp/wPG59IqiM=;vT7oKcbVYIfiYE9HfMSR0A=="
+secured: "FaJuFRQng8ZcYVAeh8xypg9K9o9mKe1N4p7RBKtlHGjOgoPwUjnxscu7EBb5KiMVlAxUT1lrUI2Hviip1DLJfHsrgqi/eBB2mYTlFM9voetUQzKnHTB4thlBS9rFurOcaWjqjhRuQZ0+1jUjJWUnszQaX+7bD6GXVF0Adbb3c0FSeaXRKxNXxWM8BEeyiz2UoaUAvsky5ATSKQcJiBuQG1qJcWWWfSWZMjAqWVT0rX6+twGLPHZjBWJu3j31JrBOETqR45KneEud1/pMafRRhyTKrKsvajQojZ6JRXFZOyjgbDXnn7qdYYR9O7MQuFp3rcHQi8qTp0uGoD2Ezj6Qb0R5wDM7PHZt4S2Pl7SJmYn7JAEF2816LFdUbeIdDQGy0uMNloICVRajgCoIqFUdUPEDsz57zhY+bxGprvqX/+jighSHw2J4EligD+WyrCRovDZExA3ciDHhHpb+Rv+X4usIqqRZ8G9iu17AFt9vBFPc+OAvfCQOPRwDgZVdnf/swiA8HI6AqSgxB4Z5uzzUlg==;Nk/WUVACFGkxkKe+eydrRw=="
 ---
 
