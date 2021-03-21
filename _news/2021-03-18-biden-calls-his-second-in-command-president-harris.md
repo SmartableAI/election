@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp"
 type: article
 quality: 200
-heat: 1000
+heat: 1020
 published: true
 
 provider:
@@ -367,6 +367,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President Biden, after 60 days in office, has yet to hold news conference"
+    excerpt: "If President Biden makes good on a recent White House promise that he'll field questions from a roomful of reporters for the first time this coming Thursday, he will be doing so on his 65th day since taking office."
+    publishedDateTime: 2021-03-21T06:18:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jl5A3RAnanw/president-biden-60-days-in-office-has-yet-to-hold-news-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/president-biden-60-days-in-office-has-yet-to-hold-news-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-60-days-in-office-has-yet-to-hold-news-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-press.gif"
+        width: 600
+        height: 337
         isCached: true
   - title: "Sen. Cornyn says Biden administration is 'in denial' over the border crisis"
     excerpt: "Biden admin can't build enough housing for 'sea of humanity' crossing the border, Republican tells 'Your World'"

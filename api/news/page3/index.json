@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-18-donald-trump-jr-calls-john-kerry-liberal-hypocrite-for-maskless-photo-on-flight.md",
+      "title": "Donald Trump Jr. Calls John Kerry 'Liberal Hypocrite' for Maskless Photo on Flight",
+      "excerpt": "If I dropped my mask to one ear on a flight, it was momentary,\" U.S. climate envoy John Kerry said in response to criticism of a photo appearing to show him not wearing his face mask on an American Airlines flight Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-jr-calls-john-kerry-liberal-hypocrite-maskless-photo-flight-1577000",
+      "originalUrl": "https://www.newsweek.com/donald-trump-jr-calls-john-kerry-liberal-hypocrite-maskless-photo-flight-1577000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1758379/john-kerry-donald-trump-jr-masks-covid-19.jpg",
+          "width": 2500,
+          "height": 1714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-calls-john-kerry-liberal-hypocrite-maskless-photo-flight-1577000?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-calls-john-kerry-liberal-hypocrite-maskless-photo-flight-1577000?amp=1",
+      "publishedDateTime": "2021-03-17T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-as-biden-keeps-troops-in-syria-ex-texas-trooper-says-its-time-for-military-to-stop-mexican-cartel-crisis.md",
       "title": "As Biden keeps troops in Syria, ex-Texas trooper says 'it's time' for military to stop Mexican cartel crisis",
       "excerpt": "Jaeson Jones, a former captain in the Texas Department of Public Safety's counter-terror division, said Wednesday 'it's time' for the federal government to focus more on the escalating cartel violence, and the rapidly intensifying smuggling operations they oversee.",
@@ -1296,58 +1348,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with-irish-pm.md",
-      "title": "Biden to affirm support for Good Friday Agreement in meeting with Irish PM",
-      "excerpt": "President Biden on Wednesday will speak via video with the prime minister of Ireland to mark St. Patrick's Day in a virtual version of what is typically an annual in-person celebration.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with",
-      "originalUrl": "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_030521getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp",
-      "publishedDateTime": "2021-03-17T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

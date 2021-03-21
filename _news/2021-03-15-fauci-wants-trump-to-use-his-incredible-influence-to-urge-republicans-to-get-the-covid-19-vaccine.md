@@ -283,22 +283,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anti-Asian hashtags soared after Donald Trump first tied COVID-19 to China on Twitter, study shows"
-    excerpt: "The week after then-President Donald Trump first used the #chinesevirus hashtag, the number of people using the hashtag increased more than tenfold."
-    publishedDateTime: 2021-03-18T20:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/03/18/anti-asian-hashtags-donald-trump-covid-19-tweet-study/4728444001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4728444001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4728444001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/18/USAT/d540efd8-e28e-41e2-a68c-a13e422d19d8-Stop_Asian_Hate_Vigils_14.JPG?auto=webp&crop=4253,2392,x0,y42&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump Touts 'Safe' COVID Vaccine After Pressure from Psaki, Assures Supporters 'We Have Our Freedoms'"
     excerpt: "After pressure from the White House, former President Donald Trump on Tuesday advised all Americans to get the coronavirus vaccine, saying that it is \"safe\" and \"something that works.\" Trump called into Fox News this evening to discuss the success of his administration's Operation Warp Speed,"
     publishedDateTime: 2021-03-17T01:04:00Z
@@ -465,6 +449,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
         width: 1024
         height: 663
+        isCached: true
+  - title: "Anti-Asian hashtags soared after Donald Trump first tied COVID-19 to China on Twitter, study shows"
+    excerpt: "The week after then-President Donald Trump first used the #chinesevirus hashtag, the number of people using the hashtag increased more than tenfold."
+    publishedDateTime: 2021-03-18T22:02:00Z
+    webUrl: "https://www.statesman.com/story/news/nation/2021/03/18/anti-asian-hashtags-donald-trump-covid-19-tweet-study/4728444001/"
+    ampWebUrl: "https://amp.statesman.com/amp/4728444001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4728444001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 61
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/18/USAT/d540efd8-e28e-41e2-a68c-a13e422d19d8-Stop_Asian_Hate_Vigils_14.JPG?auto=webp&crop=4253,2392,x0,y42&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "AtzHW9/nXDmfjT6K79Qya19rEGLfbTdC5+2VdKlDGaTgJVWDkHWLXP6t08OaGA+ZlXpIhl+WmHlWU5Xa/pVTsd25jUuU737D8iy8gdeqyFMoF1pIcWMcm2gkzHmhi0qlIe27O23Nar8aFjK/epSbwsduvnQVZKnQZxcGyh03BipoI/EuJArRkIl/80ChvaXzIZiVdtNHMoMIlSKaL9de1wdZwSXM26Qm+JwcvYA5jNRSu9JKmUBDn+UPI1rdnmZZjuxw5qcUOYY77CZoSJ2mszZntnOLjs0XBzwcds8KzzkY804rr8WOneh+i5iQzDPdJSkxRBZ0arIfDe2G6X96i1OAHV3u6msqHHdD2/wt2dqIF/Cc2bJ8BVqiq1S6ACnARHUWniPwog5FGO72hkdr2JNLVoiOaQHPjUZEJtLuYGoWT8BwRpReLf21eiwm+QeeD4OQmnDm/gZHPawwdI5aafKVBZD28k378qeTi+TAr2ZixFc2R4QfnbXid1pjtyJT03ULjNdkbfti3wDAxbZbQA==;h3ZLOjm7rILnYPYgikNf5A=="

@@ -1246,6 +1246,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Under Biden, A New Kind of Family Separation"
+    excerpt: "U.S. agents are no longer tearing children from their parents, but under the Biden administration’s policy of letting in only minors, parents are making painful decisions just on the other side of the border."
+    publishedDateTime: 2021-03-20T13:33:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/03/20/border-family-separation-mexico-biden-477309"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/03/20/border-family-separation-mexico-biden-477309"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/03/20/border-family-separation-mexico-biden-477309"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/bb/91/9f851a124fa9916f91a2888d4e5d/mag-gettyimages-1231325998.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Vice President Mike Pence ensures 'safe inauguration' after Capitol riot"
     excerpt: "During a briefing at FEMA headquarters, Vice President Mike Pence addressed the Capitol riot and ensured an “orderly transition into a safe inauguration.”"
     publishedDateTime: 2021-01-14T22:56:00Z

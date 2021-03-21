@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-17-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with-irish-pm.md",
+      "title": "Biden to affirm support for Good Friday Agreement in meeting with Irish PM",
+      "excerpt": "President Biden on Wednesday will speak via video with the prime minister of Ireland to mark St. Patrick's Day in a virtual version of what is typically an annual in-person celebration.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with",
+      "originalUrl": "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_030521getty_memo.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp",
+      "publishedDateTime": "2021-03-17T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.md",
       "title": "Ohio GOP state lawmaker wants Trump’s name on state park; Dem blasts idea",
       "excerpt": "A Republican state lawmaker in Ohio says he plans to introduce a bill to rename a state park after former President Donald Trump – but at least one state Democrat quickly criticized the idea.",
@@ -1303,58 +1355,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor.md",
-      "title": "Pence endorses Sarah Huckabee Sanders for Arkansas governor",
-      "excerpt": "Former Vice President Mike Pence Michael (Mike) Richard Pence In 'restoring America's soul,' Biden can become a hero for the persecuted Pences announce birth of first grandchild White House faces ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor",
-      "originalUrl": "https://thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_11192020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor?amp",
-      "publishedDateTime": "2021-03-15T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

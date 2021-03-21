@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-16-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor.md",
+      "title": "Pence endorses Sarah Huckabee Sanders for Arkansas governor",
+      "excerpt": "Former Vice President Mike Pence Michael (Mike) Richard Pence In 'restoring America's soul,' Biden can become a hero for the persecuted Pences announce birth of first grandchild White House faces ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor",
+      "originalUrl": "https://thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_11192020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor?amp",
+      "publishedDateTime": "2021-03-15T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-biden-shots-in-arms-and-money-in-pockets.md",
       "title": "Biden: ‘Shots in Arms and Money in Pockets’",
       "excerpt": "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans.",
@@ -1149,7 +1201,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 233,
+      "heat": 253,
       "tags": null,
       "images": [
         {
@@ -1277,58 +1329,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off-stage-report.md",
-      "title": "Trump rally organizer claims Alex Jones threatened to throw her off stage: report",
-      "excerpt": "Women for America First had been planning an event to support then-President Trump Donald Trump The Memo: Nation rallies for Biden on his COVID-19 response Maryland GOP governor applauds Biden ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off",
-      "originalUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/jonesalex_stoneroger_121118gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off?amp",
-      "publishedDateTime": "2021-03-12T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

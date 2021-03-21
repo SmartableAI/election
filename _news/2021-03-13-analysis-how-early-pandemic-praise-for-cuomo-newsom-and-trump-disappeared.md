@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-y
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static.politico.com/db/e0/0fc64e2a4f5fa86d3941458070f0/210317-cuomo-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "After Being Scratched and Punched, Trump Wax Figure Is Removed"
+    excerpt: "Trump often complained that he felt battered and under assault, but that did not compare with the physical beating a wax statue of the former president recently endured at a Texas attraction. The figure of Mr."
+    publishedDateTime: 2021-03-20T13:39:00Z
+    webUrl: "https://www.nytimes.com/2021/03/20/us/trump-wax-museum.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/20/us/trump-wax-museum.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/20/us/trump-wax-museum.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/19/lens/19xp-waxfigure-photo/19xp-waxfigure-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "The year that could have been: How the pandemic derailed Trump's economic plans"
     excerpt: "From taxes to tariffs, many of the administration’s key priorities were upended as the economy was thrown into chaos."
