@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Republican states in legal threat to Biden's $1.9tn Covid relief plan – live updates"
-excerpt: "Read more here: NBC News – Biden administration limits what Border Patrol can share with media about migrant surge at border Passing the $1.9tn Covid relief bill through Congress has been an early legislative triumph for Joe Biden’s presidency ..."
-publishedDateTime: 2021-03-17T10:25:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-6051b64c8f08b617ed4286a0"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-6051b64c8f08b617ed4286a0"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+title: "How Democrats can use Biden's $1.9tn Covid relief to win the midterms"
+excerpt: "The bill’s passage may be the party’s best chances of avoiding a historical trend and keeping control of both chambers of Congress after next year’s elections"
+publishedDateTime: 2021-03-21T08:02:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
 type: article
-quality: 118
+quality: 125
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/83dc8517209df43523da0699fd49f4c8d136129d/11_0_3162_1899/master/3162.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=69d112a721bfbc4436ddb5664a68d070"
+  - url: "https://i.guim.co.uk/img/media/36721cec76203c89a10b492b5771b487e324afc9/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=379038a57514036f62f627ad841e40bc"
     width: 600
     height: 360
     isCached: true
@@ -415,22 +415,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "How Democrats can use Biden's $1.9tn Covid relief to win the midterms"
-    excerpt: "The bill’s passage may be the party’s best chances of avoiding a historical trend and keeping control of both chambers of Congress after next year’s elections"
-    publishedDateTime: 2021-03-21T08:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/36721cec76203c89a10b492b5771b487e324afc9/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=379038a57514036f62f627ad841e40bc"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
     publishedDateTime: 2021-03-14T14:12:00Z
@@ -538,6 +522,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/83dc8517209df43523da0699fd49f4c8d136129d/11_0_3162_1899/master/3162.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=69d112a721bfbc4436ddb5664a68d070"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Republican states in legal threat to Biden's $1.9tn Covid relief plan – live updates"
+    excerpt: "Read more here: NBC News – Biden administration limits what Border Patrol can share with media about migrant surge at border Passing the $1.9tn Covid relief bill through Congress has been an early legislative triumph for Joe Biden’s presidency ..."
+    publishedDateTime: 2021-03-17T10:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-6051b64c8f08b617ed4286a0"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
     images:
       - url: "https://i.guim.co.uk/img/media/83dc8517209df43523da0699fd49f4c8d136129d/11_0_3162_1899/master/3162.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=69d112a721bfbc4436ddb5664a68d070"
         width: 600
@@ -948,6 +948,6 @@ related:
         height: 600
         isCached: true
 
-secured: "c8KEJI7q93hFPTF12awlNOIZwC5gzEz+jRlWfa+/hiYEh+ZMYvVQOXzpg6s+LUpMk8dWtLwWlRaIpIuE26CpmfJTPPgL4Hi7Xy8SuPZnJfLkZjx260SSotBe9VIahCFbCvoqnqqJ7e1ZwnaAFYtiDZPgOT4+chsCz/znW8Rk8IlDUSA+ur/EWD7vI333Z9DJTOJtWh0/C5zQst7c1wcrODiHRCqocOmrdKWA7MljufSgjoT6jGIauQoXGlEAFJ3LVaBXIALGlWf9EGD29nJ4uBzoYEA8KFllB10OsTHmcQFBumuBr3adoVkFgHTZDoLTJKkQ7Dlm3TvxWAVZxVXAOkep/JEpjVL3baoOxsUZSoyPe07AX2vF2XCuvntcS1ZfQyRWkHzESfaBREkt3JZ9R6lTRquJ7LebfyHDeHQf4KOfeEww3IAF3oLUY8gSbuAJ5dut0VEGRDioeH7hMscOlHapGR/sbIwmz1sIFsrTJfWvyR+5x5c0SsokOC/v7lFW+7fG8Rz7r44YqUuYZVPM1g==;c+PBOOKN7hVu4hE3PxO/Wg=="
+secured: "6uffnlYQXA/JGdgqcUiz9hT9JPU+IiYhhizb831fT/Ywc0jdJolWSc9snbWxmqSuALdD922QJRLYCOLhTgmDfQ33FRsOzMu1dGzJk3884ovA8LR8JlHYgOxlN0Ry7Tj5MbY2aPUdvNCgRdTn6K10nLbJe8ISQCASHvnapuuv/Bpj5YWcAYxiu6oK2TI+3q+zk4ZqiCUbP8+kQ0ifKR29H1dXF1cRuUnNV9D65EThdYFeJi1vBHImqVg1BTJwHgZcZh3xkCRFJVpRdI9fUrVqqA6cy3yL5aBb7XevPLNYd2SHOUNbn7cfGXwKmXtxV5qnIBwNvf13s2JwBqsRlRa27X0UVz69sX4qMa0qSkfG0eA=;YkzsxP9PGC9O7yANIdfasA=="
 ---
 

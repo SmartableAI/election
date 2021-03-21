@@ -1,27 +1,33 @@
 ---
 category: news
-title: "'A visual turning point': Myrtle Beach-area women react to Kamala Harris' inauguration"
-excerpt: "Kamala Harris' inauguration impacted many women across the country and Grand Strand, symbolizing a new chapter for public life, politics and social justice."
-publishedDateTime: 2021-01-30T14:00:00Z
-originalUrl: "https://www.postandcourier.com/myrtle-beach/a-visual-turning-point-myrtle-beach-area-women-react-to-kamala-harris-inauguration/article_e1d3147e-60c4-11eb-9daf-f75c8feaecf7.html"
-webUrl: "https://www.postandcourier.com/myrtle-beach/a-visual-turning-point-myrtle-beach-area-women-react-to-kamala-harris-inauguration/article_e1d3147e-60c4-11eb-9daf-f75c8feaecf7.html"
+title: "Kamala Harris sidesteps question of her role to take Biden's message on the road"
+excerpt: "Aides and allies say it is too early to define the vice-president’s portfolio but she is unlikely to be confined to just one subject area"
+publishedDateTime: 2021-03-21T08:02:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/21/kamala-harris-vice-president-role-biden"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/21/kamala-harris-vice-president-role-biden"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/kamala-harris-vice-president-role-biden"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/kamala-harris-vice-president-role-biden"
 type: article
-quality: 47
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Post and Courier Charleston
-  domain: postandcourier.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/0/07/00710fc0-60c6-11eb-a2fb-03e06b985b97/600872e2853cb.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
+  - url: "https://i.guim.co.uk/img/media/8b9699eb490e13e7f38bbbb3d5019e5ca3167fe2/0_343_5120_3072/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=16cd46dd6c7fbcff26b89ca438b330b9"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -166,22 +172,6 @@ related:
     quality: 136
     images:
       - url: "https://i.guim.co.uk/img/media/be249d338a0abc25679067d6f2554ceacbf282d1/0_11_4602_2761/master/4602.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ea758282063091755395ad55beb83c37"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Kamala Harris sidesteps question of her role to take Biden's message on the road"
-    excerpt: "Aides and allies say it is too early to define the vice-president’s portfolio but she is unlikely to be confined to just one subject area"
-    publishedDateTime: 2021-03-21T08:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/21/kamala-harris-vice-president-role-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/kamala-harris-vice-president-role-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/kamala-harris-vice-president-role-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 135
-    images:
-      - url: "https://i.guim.co.uk/img/media/8b9699eb490e13e7f38bbbb3d5019e5ca3167fe2/0_343_5120_3072/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=16cd46dd6c7fbcff26b89ca438b330b9"
         width: 600
         height: 360
         isCached: true
@@ -1886,6 +1876,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 48
+  - title: "'A visual turning point': Myrtle Beach-area women react to Kamala Harris' inauguration"
+    excerpt: "Kamala Harris' inauguration impacted many women across the country and Grand Strand, symbolizing a new chapter for public life, politics and social justice."
+    publishedDateTime: 2021-01-30T14:00:00Z
+    webUrl: "https://www.postandcourier.com/myrtle-beach/a-visual-turning-point-myrtle-beach-area-women-react-to-kamala-harris-inauguration/article_e1d3147e-60c4-11eb-9daf-f75c8feaecf7.html"
+    type: article
+    provider:
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/0/07/00710fc0-60c6-11eb-a2fb-03e06b985b97/600872e2853cb.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "What Do Black Women in Rural NC Think of Kamala Harris?"
     excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
     publishedDateTime: 2021-01-31T05:09:00Z
@@ -1923,6 +1927,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "cEPio6mRXD0J/MBb3KWcLIOkNEzrMe3QKSa1XpSZSf15ivrzMLEfo0OK9M29oPBN5EIJtOWVYk/2pRRyW2+IrU+/yG7Yf/vrVKLI3NjK7NwBtfZknHBar4ETxbhLHiHHcusLTxWkJtBra/WtRv6dCiQi5BIs/lhw6JsNWuZlaOEhN8V5/FOJhnB39qkPHGAu6GSIfi43yYiVxThvtlaFz88GLnNjfh8xgKO3+kiXHLbN8k4WPZ41wVIdqMO9e+Z8I9FR1FyuJxmNSgNVIrWMUtnrLCxcgEo4CBhK/PpOOeHvWNyg1IC8h8LF60IETHTo76AHzwsLTYAjueP++6dGyVcCQXteFaAjA1GSEa1ATRZX6LuypRyPpovSv1JsiVs9K4lCKWIO5++LxgIMMeKihEx4p64WsHPzxHXv0rRFWyi118+8r+gWMH0vATWj4eCHmT1QqPmyQ8pfvhMYpmwwn/I9xy5rBSj82tfxfebDl5PWNenJk11dyTXMLjTjFRjrw3Go+cVt81ebxY+eLe3Y8g==;B8jcyUG/eWLUvpOpxi0DOQ=="
+secured: "HR55gOKjvrUHTio4uSfM31RPq3iTpBXjhx7QDoyupfZfCxOUuJoEGyLGmkbmScSTMs7KHw4MAjRzKswGTzStXknpksNjaDOm6HqELL8YQSvXIBkhfEMTSjKwKZmp9u8lRnI1+dxzWN4uUca7HH+2T+JT+i9jqDOlJd1VLJPRuN6u4qBd+TELaKaEaltU9A+UUfRtdUNU1z6bH9ShVFVO1uHfY8ZHzzVjjOJ1uIrptQz/urblF13VW3AqjxWU5De+lz5UxUvMUuEov4brf1g0iT1COt9hnb3UWu/TbFy67XCJKVRgGB1UGFdEsKHhxoZe7ckfWfHXlPCvJsoIk7Dz2MXX7y6NdIkgi9omLJ1SSx4=;5l9wJmHaMBlVKKL4p4M/JA=="
 ---
 

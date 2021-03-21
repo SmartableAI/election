@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1"
 type: article
 quality: 138
-heat: 1298
+heat: 1318
 published: true
 
 provider:
@@ -398,6 +398,22 @@ related:
       - url: "https://s.abcnews.com/images/US/210319_abcnl_update_9a_moore_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "How Democrats can use Biden's $1.9tn Covid relief to win the midterms"
+    excerpt: "The bill’s passage may be the party’s best chances of avoiding a historical trend and keeping control of both chambers of Congress after next year’s elections"
+    publishedDateTime: 2021-03-21T08:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/36721cec76203c89a10b492b5771b487e324afc9/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=379038a57514036f62f627ad841e40bc"
+        width: 600
+        height: 360
         isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."

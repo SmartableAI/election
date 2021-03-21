@@ -169,6 +169,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Kamala Harris sidesteps question of her role to take Biden's message on the road"
+    excerpt: "Aides and allies say it is too early to define the vice-president’s portfolio but she is unlikely to be confined to just one subject area"
+    publishedDateTime: 2021-03-21T08:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/21/kamala-harris-vice-president-role-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/kamala-harris-vice-president-role-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/kamala-harris-vice-president-role-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 135
+    images:
+      - url: "https://i.guim.co.uk/img/media/8b9699eb490e13e7f38bbbb3d5019e5ca3167fe2/0_343_5120_3072/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=16cd46dd6c7fbcff26b89ca438b330b9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Fact check: Kamala Harris did not say military would be used against Trump supporters"
     excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that she does not care about the constitution and will use federal law enforcement and the military against Trump supporters."
     publishedDateTime: 2021-02-08T21:53:00Z
