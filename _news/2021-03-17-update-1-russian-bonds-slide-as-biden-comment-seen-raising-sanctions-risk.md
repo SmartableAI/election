@@ -1054,14 +1054,14 @@ related:
   - title: "VP Kamala Harris Meets with LAbor Leaders in the Ceremonial Office"
     excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice ..."
     publishedDateTime: 2021-03-18T16:06:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/27f2a99397b681d75445fcc5fa361fa5/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ed3b73c337d695d77cf510a1e7ac6dc9/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/27f2a99397b681d75445fcc5fa361fa5/HARRIS-HISTORY-MONTH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/ed3b73c337d695d77cf510a1e7ac6dc9/HARRIS-HISTORY-MONTH.jpg"
         width: 650
         height: 433
         isCached: true

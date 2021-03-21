@@ -480,6 +480,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump administration dismantled ‘safe’ border policies, Biden rebuilding process: DHS chief Mayorkas"
+    excerpt: "President Biden's immigration policy is under fire as a flood of unaccompanied children arrive at the Southern border and get to stay in the U.S. ALEJANDRO MAYORKAS, HOMELAND SECURITY SECRETARY: Their families make the heart wrenching decision to send them on a journey across Mexico to provide them with a better,"
+    publishedDateTime: 2021-03-21T18:40:00Z
+    webUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas"
+    ampWebUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
     excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"
     publishedDateTime: 2021-03-20T15:28:00Z

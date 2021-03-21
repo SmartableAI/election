@@ -41,22 +41,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
-    excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
-    publishedDateTime: 2021-03-15T21:35:00Z
-    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
-    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 70
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Vice President Kamala Harris and Ireland’s Prime Minister Micheál Martin Join CIEE in Congratulating the 2021 Frederick Douglass Global Fellows"
     excerpt: "WASHINGTON, March 17, 2021 /PRNewswire/ -- At an online St. Patrick’s Day roundtable today, Vice President Kamala Harris and Ireland’s Taoiseach (Prime Minister) Micheál Martin joined Nettie Washington Douglass, the great-great-granddaughter of ..."
     publishedDateTime: 2021-03-17T21:29:00Z

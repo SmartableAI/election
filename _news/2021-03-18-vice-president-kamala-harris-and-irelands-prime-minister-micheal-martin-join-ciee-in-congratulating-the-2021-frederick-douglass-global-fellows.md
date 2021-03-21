@@ -55,22 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
-    excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
-    publishedDateTime: 2021-03-15T21:35:00Z
-    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
-    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 70
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "“We want to make sure you stay open”: Vice President Kamala Harris, husband promote federal stimulus plan in Colorado"
     excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, sat down at a table at Denver’s Maria Empanada restaurant on Tuesday afternoon. It wasn’t for a bite to eat, but instead part"
     publishedDateTime: 2021-03-16T23:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
 type: article
 quality: 190
-heat: 770
+heat: 790
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
     quality: 137
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57251046-2d50-49cc-89bb-faad0d5819f9/493c0740-d968-4c4e-8b16-bebbb2038260/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump administration dismantled ‘safe’ border policies, Biden rebuilding process: DHS chief Mayorkas"
+    excerpt: "President Biden's immigration policy is under fire as a flood of unaccompanied children arrive at the Southern border and get to stay in the U.S. ALEJANDRO MAYORKAS, HOMELAND SECURITY SECRETARY: Their families make the heart wrenching decision to send them on a journey across Mexico to provide them with a better,"
+    publishedDateTime: 2021-03-21T18:40:00Z
+    webUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas"
+    ampWebUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
