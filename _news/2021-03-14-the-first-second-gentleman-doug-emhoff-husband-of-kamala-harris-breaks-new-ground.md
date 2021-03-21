@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VP Kamala Harris to visit Jacksonville on Monday"
+    excerpt: "Vice President Kamala Harris is slated to travel Monday to Jacksonville, Harris’ office announced Friday. The announcement said details of the trip would be released later. But Jacksonville news media reported that the trip will be part of what has been dubbed the “Help is Here” tour to tout a recently passed $1."
+    publishedDateTime: 2021-03-19T17:54:00Z
+    webUrl: "https://www.tampabay.com/news/florida-politics/2021/03/19/vp-kamala-harris-to-visit-jacksonville-on-monday/"
+    ampWebUrl: "https://www.tampabay.com/news/florida-politics/2021/03/19/vp-kamala-harris-to-visit-jacksonville-on-monday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2021/03/19/vp-kamala-harris-to-visit-jacksonville-on-monday/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
+    images:
+      - url: "https://www.tampabay.com/resizer/qNMDJudv7y_hrFfQb2898oVHois=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/4WVCEKP2VBAODHWT6XN2MZGHRM.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
     excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
     publishedDateTime: 2021-03-14T15:43:00Z

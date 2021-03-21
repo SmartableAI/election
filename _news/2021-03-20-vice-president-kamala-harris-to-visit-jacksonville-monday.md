@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
-excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
-publishedDateTime: 2021-03-15T19:21:00Z
-originalUrl: "https://www.cbsnews.com/video/biden-american-rescue-plan-covid-shots-in-arms-and-money-in-pockets/"
-webUrl: "https://www.cbsnews.com/video/biden-american-rescue-plan-covid-shots-in-arms-and-money-in-pockets/"
+title: "Vice President Kamala Harris to visit Jacksonville Monday"
+excerpt: "The trip is part of Vice President Harris and President Joe Biden's \"Help is Here\" tour, a cross-country effort highlighting the $1.9 trillion COVID-19 relief plan."
+publishedDateTime: 2021-03-19T18:34:00Z
+originalUrl: "https://www.firstcoastnews.com/article/news/local/vice-president-kamala-harris-visits-jacksonville-monday/77-92ceba77-5d9b-471a-b4f5-da63b049dedd"
+webUrl: "https://www.firstcoastnews.com/article/news/local/vice-president-kamala-harris-visits-jacksonville-monday/77-92ceba77-5d9b-471a-b4f5-da63b049dedd"
+ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-visits-jacksonville-monday/77-92ceba77-5d9b-471a-b4f5-da63b049dedd"
+cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-visits-jacksonville-monday/77-92ceba77-5d9b-471a-b4f5-da63b049dedd"
 type: article
-quality: 96
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: First Coast News
+  domain: firstcoastnews.com
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/15/bd97d734-d062-464a-8747-7ef801963fed/thumbnail/1200x630/8283c876473a7508645e3fb40183592b/cbsn-fusion-biden-touts-shots-in-arms-and-money-in-pockets-thats-important-thumbnail-668817-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://media.firstcoastnews.com/assets/WTLV/images/5c9a6278-5ec2-4259-9802-1d5c6c900dd2/5c9a6278-5ec2-4259-9802-1d5c6c900dd2_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -774,6 +772,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
+    excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
+    publishedDateTime: 2021-03-15T19:21:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-american-rescue-plan-covid-shots-in-arms-and-money-in-pockets/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/15/bd97d734-d062-464a-8747-7ef801963fed/thumbnail/1200x630/8283c876473a7508645e3fb40183592b/cbsn-fusion-biden-touts-shots-in-arms-and-money-in-pockets-thats-important-thumbnail-668817-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Biden calls Atlanta shootings, 'very, very troublesome,' doesn't assign motive"
     excerpt: "President Joe Biden said he is waiting for more information on the Atlanta-area shootings, that left 8 dead, before assigning a motive."
     publishedDateTime: 2021-03-18T03:09:00Z
@@ -899,22 +911,6 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Vice President Kamala Harris to visit Jacksonville Monday"
-    excerpt: "The trip is part of Vice President Harris and President Joe Biden's \"Help is Here\" tour, a cross-country effort highlighting the $1.9 trillion COVID-19 relief plan."
-    publishedDateTime: 2021-03-19T18:34:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/local/vice-president-kamala-harris-visits-jacksonville-monday/77-92ceba77-5d9b-471a-b4f5-da63b049dedd"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-visits-jacksonville-monday/77-92ceba77-5d9b-471a-b4f5-da63b049dedd"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-visits-jacksonville-monday/77-92ceba77-5d9b-471a-b4f5-da63b049dedd"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 75
-    images:
-      - url: "https://media.firstcoastnews.com/assets/WTLV/images/5c9a6278-5ec2-4259-9802-1d5c6c900dd2/5c9a6278-5ec2-4259-9802-1d5c6c900dd2_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Vice President Kamala Harris will travel to Jacksonville on Monday"
     excerpt: "Vice President Kamala Harris will travel to Jacksonville to tout the administration's $1.9 trillion coronavirus stimulus plan."
@@ -1128,6 +1124,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "vIqZO9gWMrUUSVodr3xXXQj2KRYsdvemOxBwO8+QH33Ob9ax7bP5w5v49QYi99+8q0+xkirMfYy6rhfw/p2ZRTOJ241eOGnP2AT/vCEKmVgLXrgz4rliDeGvtxxKaJ2Qj029BDLffalYrax0SrXYxLLBPUXfWIqGU4I5KMg4tYqIeQKJEYE8jcxqXdQc9a1GixsYMkt7vCkpplO999K/UYg0ngYyf87eZ72oJjeyBJDRbUdR0+XuEoDrs4JdHzaGqlCufDJS/rzRGwdQ1wYLh/EHiK9VqJ0bv8FM3Oce9ciY/wrGgDgHzgUepVhQjXnYfXWy8KoaN+1WiGYdfb+xNAKlG3Gl/HyUIRBP1HU17z0=;2UTdADhbsPhlksjaTvooAQ=="
+secured: "qTXdASb3fWV14dmuBQl/BPZKbLv5oXgkN1IS04JiSQ/dJV948pLOd/ijYEasaCPS70Nh1rYqQpRiS3XfNvXJ2xzxs8lAU44GdW6JaOxzjP8TCapeag2aHjApkwGQJWmv6iC9R5B/U7zY437r9fY8ivsRZMSgBwOZt1VYkOFF9/qegjt4DCMnL2NTEOGeiusrpnXufQ+A7hTk6PBxVyxVsIEHlf5H711yQAxrxYbdBQmEAvdsPogr21l1ffTEV7BAcoDCl2yayK2mu+4pzdhj301A6FsmAJwhWMogrmEyJH3kT5MSJAzH1y5BOtr8BtH1U3Ljbf/aX59bW7e2Uz/eKsTm7wlxU0OffwBsaBmHWIw=;zZpNL76HG+5XBlse1+pALA=="
 ---
 

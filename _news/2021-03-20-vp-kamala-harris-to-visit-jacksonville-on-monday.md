@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Watch Live: Vice President Kamala Harris speaks at U.N. meeting on gender equality and women's empowerment"
-excerpt: "Vice President Kamala Harris is delivering a statement Tuesday on behalf of the United States during a session of the United Nations' Commission on the Status of Women. The theme of this year's session, the 65th, is women's \"full and effective ..."
-publishedDateTime: 2021-03-16T13:44:00Z
-originalUrl: "https://www.cbsnews.com/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
-webUrl: "https://www.cbsnews.com/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+title: "VP Kamala Harris to visit Jacksonville on Monday"
+excerpt: "Vice President Kamala Harris is slated to travel Monday to Jacksonville, Harris’ office announced Friday. The announcement said details of the trip would be released later. But Jacksonville news media reported that the trip will be part of what has been dubbed the “Help is Here” tour to tout a recently passed $1."
+publishedDateTime: 2021-03-19T17:54:00Z
+originalUrl: "https://www.tampabay.com/news/florida-politics/2021/03/19/vp-kamala-harris-to-visit-jacksonville-on-monday/"
+webUrl: "https://www.tampabay.com/news/florida-politics/2021/03/19/vp-kamala-harris-to-visit-jacksonville-on-monday/"
+ampWebUrl: "https://www.tampabay.com/news/florida-politics/2021/03/19/vp-kamala-harris-to-visit-jacksonville-on-monday/?outputType=amp"
+cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2021/03/19/vp-kamala-harris-to-visit-jacksonville-on-monday/?outputType=amp"
 type: article
-quality: 107
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Tampa Bay Times
+  domain: tampabay.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.tampabay.com/resizer/qNMDJudv7y_hrFfQb2898oVHois=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/4WVCEKP2VBAODHWT6XN2MZGHRM.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -63,6 +59,22 @@ related:
         width: 3500
         height: 2355
         isCached: true
+  - title: "Watch Live: Vice President Kamala Harris speaks at U.N. meeting on gender equality and women's empowerment"
+    excerpt: "Vice President Kamala Harris is delivering a statement Tuesday on behalf of the United States during a session of the United Nations' Commission on the Status of Women. The theme of this year's session, the 65th, is women's \"full and effective ..."
+    publishedDateTime: 2021-03-16T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Essential Politics: Kamala Harris takes a victory lap, with an eye on the 2022 midterms"
     excerpt: "Politicians politicking. But it’s early and Harris’ role in making the case for Democrats looks as if it’s going to be a big one, perhaps on par with Biden’s. Good morning, and welcome to Essential Politics: Kamala Harris road edition. Today ..."
     publishedDateTime: 2021-03-17T13:45:00Z
@@ -92,22 +104,6 @@ related:
       - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_webHARRIS-VEGAS-MAR16-21_031521kc_001.jpg?w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "VP Kamala Harris to visit Jacksonville on Monday"
-    excerpt: "Vice President Kamala Harris is slated to travel Monday to Jacksonville, Harris’ office announced Friday. The announcement said details of the trip would be released later. But Jacksonville news media reported that the trip will be part of what has been dubbed the “Help is Here” tour to tout a recently passed $1."
-    publishedDateTime: 2021-03-19T17:54:00Z
-    webUrl: "https://www.tampabay.com/news/florida-politics/2021/03/19/vp-kamala-harris-to-visit-jacksonville-on-monday/"
-    ampWebUrl: "https://www.tampabay.com/news/florida-politics/2021/03/19/vp-kamala-harris-to-visit-jacksonville-on-monday/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2021/03/19/vp-kamala-harris-to-visit-jacksonville-on-monday/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 75
-    images:
-      - url: "https://www.tampabay.com/resizer/qNMDJudv7y_hrFfQb2898oVHois=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/4WVCEKP2VBAODHWT6XN2MZGHRM.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
     excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
@@ -172,6 +168,6 @@ related:
         height: 433
         isCached: true
 
-secured: "TnNtzRKsItJGbPizlt/VSUAZIHgdITw1rfu7CrxRhaVzeVhrQP5mA/Xx4JNbwNJqa9I2M1uGzLNE7gclgKh2CzAG+a/cMiPXyLGWKWxtiKAKdVwBepWcgtCftoUG6LTmXvk0xlBPZhvHiz0YLcozlh8T74kTLO3LMjXPN3b2nUTwYcJ8acA9XLqYYMlCgo+rA4nHLkHVCT4Z7xbaz37mLAvqPZqLpwrdu2N6yHC56MAGCxW0khjQmAE5OecP6pyhhVWRkbJUMRFxwXZOG0b9/IgBP2ksd7MG8XMXcM+lt+/xaS0CT37hD4gs+3Eo5GELaHcmovsmydQwXKb1bYuD8jRfA6I2e9EWMhvYAHzYQINxUNNMQwSpIlMJbbb/8/BtWWk8rTSrEBVxX204y+zlVs0SjP/TM40EFz4rY00BDJB2o41Xol855xzWOYxljOiYAOXLHkLrtK8pwuCqeUSdSpxo9CFg7mz6Wp1EmpoUHm5vLLyAgZFpjPAKc2lobv/mlavK7jSZIWq+kPx5GxH5iA==;dspuMAIDMBxVaQoA19C0PQ=="
+secured: "ZJEU4y5/sbbGm9BtjvR32tLMu5Gwt+VyRHPAg49kwBC/IGXKjeBWCd5be67y1SPPYKh6rTwFhAI5910D3dgikQLeyoCYuMcwcvuIfump8cRMepq4tvawahWVtZnMSNwmZcOZ654wbQHBXCg3Qo4VyW2g6m/nzTzIEFB3ME9CHPRe4SS5QQhGfj0wcUkbMxKZc++vDb5Ahm+pF3QLt8Y+GPtdWRUfpH0xEeoEL1vL+HdFOTblMpxNu1uKZAkAs3G4qqYewLqPL2fJmnI+6pNJ5NVimO6McKz9XS6rMXN74u9+VstkWjgs2q9FoxTVw5hs1tKV9uMevfcd6Vrw0pjbMQH9A0DjFwD+rE3VTjYRT6c=;IPmAshbRr7YcHY0TSY7o9A=="
 ---
 

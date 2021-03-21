@@ -1,31 +1,34 @@
 ---
 category: news
-title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
-excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
-publishedDateTime: 2021-03-15T19:21:00Z
-originalUrl: "https://www.cbsnews.com/video/biden-american-rescue-plan-covid-shots-in-arms-and-money-in-pockets/"
-webUrl: "https://www.cbsnews.com/video/biden-american-rescue-plan-covid-shots-in-arms-and-money-in-pockets/"
+title: "'Our silence is complicity. We can not be complicit': Biden, Harris meet with Asian American advocates after Atlanta killings"
+excerpt: "WASHINGTON – President Joe Biden and Vice President Kamala Harris on Friday condemned racism against Asian Americans, days after a shooting deaths of six Asian American women in the Atlanta area. The act of violence has rocked Asian American ..."
+publishedDateTime: 2021-03-19T22:47:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/biden-harris-travel-atlanta-meet-asian-american-leaders/4754107001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/biden-harris-travel-atlanta-meet-asian-american-leaders/4754107001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4754107001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4754107001"
 type: article
-quality: 96
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/15/bd97d734-d062-464a-8747-7ef801963fed/thumbnail/1200x630/8283c876473a7508645e3fb40183592b/cbsn-fusion-biden-touts-shots-in-arms-and-money-in-pockets-thats-important-thumbnail-668817-640x360.jpg"
+  - url: "https://www.gannett-cdn.com/presto/2021/03/19/USAT/546cd8c9-11fe-46dc-87a1-ec0a9761c121-AP_Biden_6.jpg?auto=webp&crop=5762,3242,x0,y293&format=pjpg&width=1200"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -314,22 +317,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-08/5/17/campaign_images/9c5efebe53d7/cory-booker-says-donald-trump-is-responsible-for--2-935-1565025509-4_dblbig.jpg"
         width: 625
         height: 415
-        isCached: true
-  - title: "'Our silence is complicity. We can not be complicit': Biden, Harris meet with Asian American advocates after Atlanta killings"
-    excerpt: "WASHINGTON – President Joe Biden and Vice President Kamala Harris on Friday condemned racism against Asian Americans, days after a shooting deaths of six Asian American women in the Atlanta area. The act of violence has rocked Asian American ..."
-    publishedDateTime: 2021-03-19T22:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/biden-harris-travel-atlanta-meet-asian-american-leaders/4754107001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4754107001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4754107001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/19/USAT/546cd8c9-11fe-46dc-87a1-ec0a9761c121-AP_Biden_6.jpg?auto=webp&crop=5762,3242,x0,y293&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Armed Man Arrested for Carrying Shotgun, Ammunition Near Kamala Harris' House"
     excerpt: "Members of the Secret Service detained an armed suspect near the home of Vice President Kamala Harris on Wednesday."
@@ -774,6 +761,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
+    excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
+    publishedDateTime: 2021-03-15T19:21:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-american-rescue-plan-covid-shots-in-arms-and-money-in-pockets/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/15/bd97d734-d062-464a-8747-7ef801963fed/thumbnail/1200x630/8283c876473a7508645e3fb40183592b/cbsn-fusion-biden-touts-shots-in-arms-and-money-in-pockets-thats-important-thumbnail-668817-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Biden calls Atlanta shootings, 'very, very troublesome,' doesn't assign motive"
     excerpt: "President Joe Biden said he is waiting for more information on the Atlanta-area shootings, that left 8 dead, before assigning a motive."
     publishedDateTime: 2021-03-18T03:09:00Z
@@ -1128,6 +1129,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "vIqZO9gWMrUUSVodr3xXXQj2KRYsdvemOxBwO8+QH33Ob9ax7bP5w5v49QYi99+8q0+xkirMfYy6rhfw/p2ZRTOJ241eOGnP2AT/vCEKmVgLXrgz4rliDeGvtxxKaJ2Qj029BDLffalYrax0SrXYxLLBPUXfWIqGU4I5KMg4tYqIeQKJEYE8jcxqXdQc9a1GixsYMkt7vCkpplO999K/UYg0ngYyf87eZ72oJjeyBJDRbUdR0+XuEoDrs4JdHzaGqlCufDJS/rzRGwdQ1wYLh/EHiK9VqJ0bv8FM3Oce9ciY/wrGgDgHzgUepVhQjXnYfXWy8KoaN+1WiGYdfb+xNAKlG3Gl/HyUIRBP1HU17z0=;2UTdADhbsPhlksjaTvooAQ=="
+secured: "z1SwT2ZmRaokYW+8uuWgu2RlurV9PFfzNsQU000vB7p3DFONq/qn6PsPRy64nHE1Ba3lAU4mbA/kKml5tjBO7CPInZCESZSSlflDiTdbe7c+6PJay99VjLGBgqj3HGwsOX/DOjzp8GeQjEZMtP+xSGe+ZYvIWSN35AKFQxFnkhQ/SedzG4nSRNO/xgDUApVMfoGEEbimynO+xFsFbzDCQOz/tVJru/XOdT7Uj6bm+GfTdazeE8oG0TSw1YuklJtYuksFcztr7o5UGUwcudIFkxtvwTaZ4jebcADqz0yzi09vBU6zQnVP+gQ4Nk3kzCPbTva4k/7fCGmiJyT4rqVx5ejggl0fwiZfgK+wWwETW6E=;ENCcOufIP3u/ALYxBqrk0w=="
 ---
 

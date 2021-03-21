@@ -98,14 +98,14 @@ related:
   - title: "Is Donald Trump still president? On some Republican websites across Florida, the answer is yes"
     excerpt: "Some of the largest counties in Florida — such as Miami-Dade and Hillsborough — display Donald Trump on their local GOP websites as president."
     publishedDateTime: 2021-03-19T17:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/some-florida-gop-websites-list-trump-not-biden-president/4707326001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4707326001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4707326001"
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/19/some-florida-gop-websites-list-trump-not-biden-president/4707326001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4707326001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4707326001"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 63
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/18/PTCN/238ad31f-0fe6-49bb-9fcf-b6374eeff35b-TCN_GOP_WEBSITES_TRUMP01.jpg?auto=webp&crop=2815,1583,x6,y4&format=pjpg&width=1200"
         width: 1200

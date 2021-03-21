@@ -79,22 +79,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Is Donald Trump still president? On some Republican websites across Florida, the answer is yes"
-    excerpt: "Some of the largest counties in Florida — such as Miami-Dade and Hillsborough — display Donald Trump on their local GOP websites as president."
-    publishedDateTime: 2021-03-19T17:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/some-florida-gop-websites-list-trump-not-biden-president/4707326001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4707326001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4707326001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/18/PTCN/238ad31f-0fe6-49bb-9fcf-b6374eeff35b-TCN_GOP_WEBSITES_TRUMP01.jpg?auto=webp&crop=2815,1583,x6,y4&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support"
     excerpt: "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs."
     publishedDateTime: 2021-03-10T20:03:00Z
@@ -110,6 +94,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg"
         width: 1200
         height: 949
+        isCached: true
+  - title: "Is Donald Trump still president? On some Republican websites across Florida, the answer is yes"
+    excerpt: "Some of the largest counties in Florida — such as Miami-Dade and Hillsborough — display Donald Trump on their local GOP websites as president."
+    publishedDateTime: 2021-03-19T17:11:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/19/some-florida-gop-websites-list-trump-not-biden-president/4707326001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4707326001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4707326001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/18/PTCN/238ad31f-0fe6-49bb-9fcf-b6374eeff35b-TCN_GOP_WEBSITES_TRUMP01.jpg?auto=webp&crop=2815,1583,x6,y4&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "uN50YMND0q9z9LWAxP5N8yCYTNutITm1EBq8LiQzrzN46PIr1AGPaELp63LTxYCn+19NtArTmSmxvS5FKYSwCJxO8GXPfVGEoglyMiX4VnTwvZcix8B6mxkm6R/FEia+M7dHZxCH3+oxiQIPYXuDB4lMyOkTJP4JU4Lln7yndS5qS8seGkq9f3ExlqLSRF9gJQ8ik0p0iBPKCeBCnx5fLEiWa9NIJ24nA6IKAAAONOyqd5Wy54Y0vjJFPJi4h5ZEGJL1oMzRd+wlHPOJrhR+sUoD7UR1kppYkIodxtHhIPxxHGVvvHibtVeiflJs88AQanaBeKMV8OXR8GyfWVvTTTW6KLuMrpqy8OuE8cJ+nu2Wuiskk19leTEE6v/7ZWlStxSMoBx4CcwV7IOGE2yC6SqCmS59ITruiaifSuCvBJzljQaCRarrWJUxj2vjnYBi9rxWVEbVkvwBXSiPhQcFpueCzDOD2MMcVppAJqymStnIaCLdlvDFvc3QP8y5Ua07WNOS70+56Sj5dGgqDmyxTA==;6P4/nXU/gw8jPUzwQgRS/Q=="

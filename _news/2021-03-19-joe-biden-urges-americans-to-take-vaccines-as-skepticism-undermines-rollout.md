@@ -301,6 +301,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "'Our silence is complicity. We can not be complicit': Biden, Harris meet with Asian American advocates after Atlanta killings"
+    excerpt: "WASHINGTON – President Joe Biden and Vice President Kamala Harris on Friday condemned racism against Asian Americans, days after a shooting deaths of six Asian American women in the Atlanta area. The act of violence has rocked Asian American ..."
+    publishedDateTime: 2021-03-19T22:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/biden-harris-travel-atlanta-meet-asian-american-leaders/4754107001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4754107001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4754107001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/19/USAT/546cd8c9-11fe-46dc-87a1-ec0a9761c121-AP_Biden_6.jpg?auto=webp&crop=5762,3242,x0,y293&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Armed Man Arrested for Carrying Shotgun, Ammunition Near Kamala Harris' House"
     excerpt: "Members of the Secret Service detained an armed suspect near the home of Vice President Kamala Harris on Wednesday."
     publishedDateTime: 2021-03-17T22:20:00Z
@@ -884,6 +900,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Vice President Kamala Harris to visit Jacksonville Monday"
+    excerpt: "The trip is part of Vice President Harris and President Joe Biden's \"Help is Here\" tour, a cross-country effort highlighting the $1.9 trillion COVID-19 relief plan."
+    publishedDateTime: 2021-03-19T18:34:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/vice-president-kamala-harris-visits-jacksonville-monday/77-92ceba77-5d9b-471a-b4f5-da63b049dedd"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-visits-jacksonville-monday/77-92ceba77-5d9b-471a-b4f5-da63b049dedd"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-visits-jacksonville-monday/77-92ceba77-5d9b-471a-b4f5-da63b049dedd"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/5c9a6278-5ec2-4259-9802-1d5c6c900dd2/5c9a6278-5ec2-4259-9802-1d5c6c900dd2_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Vice President Kamala Harris will travel to Jacksonville on Monday"
     excerpt: "Vice President Kamala Harris will travel to Jacksonville to tout the administration's $1.9 trillion coronavirus stimulus plan."
     publishedDateTime: 2021-03-19T22:17:00Z
@@ -1096,6 +1128,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "jc5KVk07DGY7UCo4uGJ1cRh0+veYfkepqAT0mSKAqzIwRSA2ynu+/iXmwlMhIIS48yhiGnoXVTDGk/peBv2x6p5n21qpYDNZ2E8nrIbVPlgLmiz2icRCRmeNtqsgWO1G/wpjiKod8cGeZAfZP9N0khrPlIvF0tknk4PDQXrJ7bsKgGNKa4D2H0AW6gWkUCAsH5C7pGYsX5D8bsd3vbJud5/2m8FzBLzDJwmlNBUggv3uwuGVc89pLsXQwR+d4aik/DD7Y1p/k9VA8ZnhnHfh+OtJzp7HuUp7y+icWbNqf8Odyr8J14k/IHlZ3M8LKR2mJN1ZSj0IP2c7Irgq3xjvwDcPk+gIVAkHHlJIbWkie0E=;2iDIv2QF3eiAmHUBdURo1g=="
+secured: "0lJwGWg1C9PvBXalliCKnBbcO75sghCjUHGw4fkdpc0PHXLbFNfbY/RB85zCaE+y2tZFfKeq8zcl49Kv45b3ReF/J+gzr58qwEtLbIMXOpP8OL27XIjTYbVfYP0wLN4TLbQJmRgrlbxuov2zkqHrWyYoLA5AttLQm4aVye9PucY9QieYg7/xp/tedwRQUCnyZp6X6DLsHBss/nvhzrjswCVDxfUhL1bAf4gfISH2xk9PaF1v13z2Y+oivXHwbf89aOXgw7CBUb6uiG1jdrCJVIbHx6cc0DbjnZPFel74xPgYXrnHjUisflHKzM2btk7DCUzqrKKyaTBWZSzVeKU2c9jxntuVEAwofeyztcsO18kbPxmFCOtHsp7MuWjwdItBmVFRhzKzg2XI24YOz7CvZrMgladcMkHakBsfKiS0zJI4A4AuafYb5fjcI1cbaXhOxk1HANOEOlWZ/CwyDwnpOy7aZlkbFHIArQrQ2FmO3u1bVt3lj9Ua02ss6Yx3FvcT+3iP5o8n83BluWByRZJ4SA==;5m+mgupSPP4NVpF09ERhgQ=="
 ---
 
