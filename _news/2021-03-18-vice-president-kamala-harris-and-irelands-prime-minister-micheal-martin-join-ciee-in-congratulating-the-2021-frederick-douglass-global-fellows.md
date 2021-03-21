@@ -87,6 +87,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Police say Texan Paul Murray, arrested near Vice President Kamala Harris’ new home, was armed with ‘large capacity ammunition-feeding device’"
+    excerpt: "Vice President Kamala Harris does not live at the home yet. The man was seen on Massachusetts Avenue and was detained by Secret Service officers stationed near the residence following an intelligence bulletin from Texas, the Metropolitan Police Department ..."
+    publishedDateTime: 2021-03-18T01:51:00Z
+    webUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html"
+    ampWebUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HOPBTSY7XBEJHOOKP64Q6R44UE.jpg"
+        width: 754
+        height: 492
+        isCached: true
 
 secured: "yGLA77Ajg/p7syXwPmdqkAY7kfCBV3zI+Xm40ocrPe9LfPrA5P4s2UmhEDmyCer48gAs2GKjeflP5GEQHody5FB0fYjBq1wt92DQUgpuQqluh40a3G04mwm8N4XwJB7V3hAg6VDoMK6mvQRm15r5TbUkmWAOaCJu06hoR775BwWR7BGS7siDU+ig1knO3MBNgnecXVkgVsvdBcw8tFkjOfcXfw889z8rRZvJnVmW9nKDHVQY8/s+5vCm62iJ5Yxcd+a7Nvl5427HH14EOBtFR0Z3tgKxy1STBv6Dmz0L4oB/vH2SqEc7r9orWgKRNPTMZJC5yLellA9ARLrR3dj5sTGTDy+5G9sN1EfhbfbUrsc=;MJLCqQTkuUkkQBXR4Rtyig=="
 ---

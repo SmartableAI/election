@@ -349,6 +349,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden nominates ex-Florida Sen. Bill Nelson to lead NASA"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report — Presented by Facebook — Biden delivers 100 million shots in 58 days, doses to neighbors Advocates demand transparency in Biden migrant ..."
+    publishedDateTime: 2021-03-19T14:27:00Z
+    webUrl: "https://thehill.com/homenews/administration/544012-biden-nominates-former-florida-senator-bill-nelson-as-nasa"
+    ampWebUrl: "https://thehill.com/homenews/administration/544012-biden-nominates-former-florida-senator-bill-nelson-as-nasa?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/544012-biden-nominates-former-florida-senator-bill-nelson-as-nasa?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/nelsonbill_062618gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Kremlin: Putin's offer of a call with Biden was to save ties"
     excerpt: "Kremlin: Putin's offer of a call with Biden was to save ties The Kremlin says that President Vladimir Putin’s offer to speak by phone with U.S. President Joe Biden is intended to prevent ..."
     publishedDateTime: 2021-03-19T16:18:00Z
@@ -857,6 +873,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Joe Biden stumbles on steps of Air Force One – video"
+    excerpt: "Biden tripped on the steps up to the plane, before recovering and carrying on unaided, turning to salute at the top. The 78-year-old fractured his right foot in November 2020 while playing with his dog Major"
+    publishedDateTime: 2021-03-19T16:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/19/joe-biden-stumbles-on-steps-of-air-force-one-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/d6ef58a7b181b9644d28d4dfdb226084793193af/383_225_1330_798/master/1330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc86c28c013057900cc2754db6dbee37"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden puts St. Patrick's Day pride on display as he meets with Irish prime minister"
     excerpt: "Biden, Irish PM hold virtual meeting on St. Patrick's Day President Joe Biden's Irish pride certainly showed during his first St. Patrick's Day as president, as he held a traditional bilateral ..."
     publishedDateTime: 2021-03-17T20:20:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "U.S. talking to several countries about extra COVID-19 vaccine: Biden"
-excerpt: "U.S. President Joe Biden said on Tuesday the United States is in talks with several countries about who will get any extra doses of COVID-19 vaccines."
-publishedDateTime: 2021-03-16T19:05:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
-webUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82O8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82O8"
+title: "Biden nominates ex-Florida Sen. Bill Nelson to lead NASA"
+excerpt: "President Biden Joe Biden The Hill's Morning Report — Presented by Facebook — Biden delivers 100 million shots in 58 days, doses to neighbors Advocates demand transparency in Biden migrant ..."
+publishedDateTime: 2021-03-19T14:27:00Z
+originalUrl: "https://thehill.com/homenews/administration/544012-biden-nominates-former-florida-senator-bill-nelson-as-nasa"
+webUrl: "https://thehill.com/homenews/administration/544012-biden-nominates-former-florida-senator-bill-nelson-as-nasa"
+ampWebUrl: "https://thehill.com/homenews/administration/544012-biden-nominates-former-florida-senator-bill-nelson-as-nasa?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/544012-biden-nominates-former-florida-senator-bill-nelson-as-nasa?amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555107585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1HQ"
-    width: 763
-    height: 545
+  - url: "https://thehill.com/sites/default/files/nelsonbill_062618gn_lead.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -271,6 +271,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "U.S. talking to several countries about extra COVID-19 vaccine: Biden"
+    excerpt: "U.S. President Joe Biden said on Tuesday the United States is in talks with several countries about who will get any extra doses of COVID-19 vaccines."
+    publishedDateTime: 2021-03-16T19:05:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555107585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1HQ"
+        width: 763
+        height: 545
+        isCached: true
   - title: "Putin points finger at US after Biden's 'killer' remark"
     excerpt: "Russian President Vladimir Putin says that U.S. President Joe Biden’s remarks about him reflect the United States' own past and current problems Russia cracks down on Putin’s opposition MOSCOW ..."
     publishedDateTime: 2021-03-18T12:19:00Z
@@ -334,22 +350,6 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_cb93cfce0f6f4c5a8e4aed32c7515b59_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden nominates ex-Florida Sen. Bill Nelson to lead NASA"
-    excerpt: "President Biden Joe Biden The Hill's Morning Report — Presented by Facebook — Biden delivers 100 million shots in 58 days, doses to neighbors Advocates demand transparency in Biden migrant ..."
-    publishedDateTime: 2021-03-19T14:27:00Z
-    webUrl: "https://thehill.com/homenews/administration/544012-biden-nominates-former-florida-senator-bill-nelson-as-nasa"
-    ampWebUrl: "https://thehill.com/homenews/administration/544012-biden-nominates-former-florida-senator-bill-nelson-as-nasa?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/544012-biden-nominates-former-florida-senator-bill-nelson-as-nasa?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/nelsonbill_062618gn_lead.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Kremlin: Putin's offer of a call with Biden was to save ties"
     excerpt: "Kremlin: Putin's offer of a call with Biden was to save ties The Kremlin says that President Vladimir Putin’s offer to speak by phone with U.S. President Joe Biden is intended to prevent ..."
@@ -932,6 +932,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ODCB166ZF6dBwKyOQV/Dj5SWbnnKju9B5YuTKT8jf39kfQSp7pI566qyHFumQOKpvgUU3YoEj9K2YrE0+3lfk9keeXAedzrRsHpHh0Y1qWDrtuBkYN1OjbzxWcB45YYHnlvvw8QR3mnKCJv77hBBtbgcGza1zXwamdxXOLvAmdx2VB6IU0rX297cd2T3XsRb6aEqo48y6IO/HhficmxZ1yxlKZoqZxY9HkJ79iL8hXOupEDFfGBKotbPIA687Yr5+anuISKC5gBwElBe5LiGBFXxPohLby+jEXy2/M4jyYUl5C/Hp4fnvBmVP786G2XQ2xcsZSz/1IXMIV42S6JHEjo50sJmY8jsc1keaFLmtOk=;oTK9D7xUvy+kOVzoGpR7cw=="
+secured: "lQ+a88WUvh6ZFb8qm2Y3R+mYBfFJiKumfkDXyDYesjUalkg8lWeBQHXa41CAYmdOAvjZxnnTTPty9msT/qq5CYlxWWipBpXv9s850cWwD9JRwJ0pCOUWbJFpHEW2R7g628yCWFaq6msdrgBYy/AG6n/yUhQaTTTHAyfQ5hqYiNeJilU63v/OUUiq80XwsjEnQWJrCjfPkGPtPccJrzEpRMTxg/vffiyLwPHF+qY9m1NWEeIMk57djV/sGnb5TwxbeptU6j+mRqrSULtw1YCPF/d0+LZJaAd+DDBWnQcovF1iFZryQVdFfEjzuuvSBSsqXUzqEXIJ/N+1ITsK9Vuq0h78CKocEG9glw6stVt1A3Q=;yIgfAvt3UED8ctQyCo8uEg=="
 ---
 

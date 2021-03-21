@@ -87,6 +87,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Police say Texan Paul Murray, arrested near Vice President Kamala Harris’ new home, was armed with ‘large capacity ammunition-feeding device’"
+    excerpt: "Vice President Kamala Harris does not live at the home yet. The man was seen on Massachusetts Avenue and was detained by Secret Service officers stationed near the residence following an intelligence bulletin from Texas, the Metropolitan Police Department ..."
+    publishedDateTime: 2021-03-18T01:51:00Z
+    webUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html"
+    ampWebUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HOPBTSY7XBEJHOOKP64Q6R44UE.jpg"
+        width: 754
+        height: 492
+        isCached: true
 
 secured: "ZMZ7QngSQ5ns8xEcvteGAx7BGGdd+yNEBM4z1x75DUprWO6uKkvW3LxELQsXdfd2PkBtttid2GbTAX31mSXWS7bJion+YprxE/dBMbwVCWHkQM8yhEdHOVqXrWC57R3wBX3MHR6OtCJxzwOjzPTO6gK5Xd+f3jr4rY7kf8Y50g33xDoANqRYk1gyjiXM3MfDnu9jHmcigab6tWhltn10acWIdsRlfm5398kLcWxBoCTxM2cvXry+iHJvGabpQ33uwR6ftd1wqe4BuSGibgqKob3+38CCuq0S7LAFepuq6LvapEGrIJY8d+VqaNZ89yKdJvU7PP9xWh4TEvtGg2YjzUy9cUDc5Di2tACKVH7pr/9o0u0weiSFm+PHfgTNJqanmkZxnA+gHx+C7vbR2LmNDi4Cc8qYyCPSIEzeAFG5Hnl+kJi+cKBK+g3BJrt8tCfavYsqsWarSX8lUxiXrt8viz8NDUwx/aSxwbXoGMry0vIR8Cci8KV37hz4J38LHQBUEWBYgfXzNdpMSjDzxXndLA==;5KKdCc/EAyHfqx3Qb9F/fg=="
 ---

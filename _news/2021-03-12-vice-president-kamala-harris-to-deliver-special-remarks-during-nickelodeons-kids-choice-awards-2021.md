@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/entertainment-award
 webUrl: "https://apnews.com/press-release/business-wire/entertainment-award-shows-justin-bieber-north-america-daryl-dragon-8cd9fe50082e4475903537ec4f2506fa"
 type: article
 quality: 90
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -86,6 +86,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/03/AP21075736963900.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Police say Texan Paul Murray, arrested near Vice President Kamala Harris’ new home, was armed with ‘large capacity ammunition-feeding device’"
+    excerpt: "Vice President Kamala Harris does not live at the home yet. The man was seen on Massachusetts Avenue and was detained by Secret Service officers stationed near the residence following an intelligence bulletin from Texas, the Metropolitan Police Department ..."
+    publishedDateTime: 2021-03-18T01:51:00Z
+    webUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html"
+    ampWebUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HOPBTSY7XBEJHOOKP64Q6R44UE.jpg"
+        width: 754
+        height: 492
         isCached: true
 
 secured: "Kthc3HKiNIm740hHyij1C+H+oOn4SsBP9hWZQipES9Vf63ryuN6guibMVt0OUzkAguBC9BQnHhxbLjFcT3NjyQX8tjsKOxlmmZs9RnIv1zk4IoTO/5kavmxx13oSraxVLO7IUsSQXhNdUe+/l/aBmaLx+Pp0zFyONHK+yP0m0CLARRpEX1COvANS+FDhAMXMfj4sFYcob0fBcHwIqDGfgY6C/w0z74UTeSfnLjS/FP1Xpn0iB1nAtQbCjiwQWQCTudLyaWVURqynnFduU/z2hAqoaB2cbvsmqWjM1a3cf6M9pBpFDDQ4WOCt4LYPdgzuxgzM8Xh5gdirHcGB/BJW9marn5T+8BynVsjRRdWluog=;L26bou+S4a+NT1qbXjzYEg=="

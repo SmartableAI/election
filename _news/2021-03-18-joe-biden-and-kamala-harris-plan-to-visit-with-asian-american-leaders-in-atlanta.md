@@ -176,6 +176,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta."
+    excerpt: "The president has ordered that American flags be flown at half-staff to honor the victims of the Atlanta spa shootings."
+    publishedDateTime: 2021-03-19T05:01:00Z
+    webUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/19/us/biden-harris-atlanta.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 154
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing-biden-harris1/merlin_185269029_cd765145-7a66-4257-8304-4dc030273010-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Harris, Biden announce nominations of two women to be 4-star combatant commanders"
     excerpt: "President Joe Biden and Kamala Harris announced the nominations of Gen. Jacqueline D. Van Ovost of the Air Force and Lt. Gen. Laura J. Richardson of the Army to be four-star combatants. Once confirmed by the Senate the women will become the second and third in U."
     publishedDateTime: 2021-03-10T02:18:00Z
@@ -191,22 +207,6 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/bidenharrisntl.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta."
-    excerpt: "The president has ordered that American flags be flown at half-staff to honor the victims of the Atlanta spa shootings."
-    publishedDateTime: 2021-03-19T05:01:00Z
-    webUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/19/us/biden-harris-atlanta.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 144
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing-biden-harris1/merlin_185269029_cd765145-7a66-4257-8304-4dc030273010-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote"
     excerpt: "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ..."

@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.html"
 ampWebUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/19/us/biden-harris-atlanta.amp.html"
 type: article
-quality: 144
+quality: 154
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Kamala Harris
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing-biden-harris1/merlin_185269029_cd765145-7a66-4257-8304-4dc030273010-facebookJumbo.jpg"

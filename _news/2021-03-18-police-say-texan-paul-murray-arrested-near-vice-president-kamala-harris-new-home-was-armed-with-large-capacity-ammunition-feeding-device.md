@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
-excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
-publishedDateTime: 2021-03-15T21:35:00Z
-originalUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
-webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
-ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+title: "Police say Texan Paul Murray, arrested near Vice President Kamala Harris’ new home, was armed with ‘large capacity ammunition-feeding device’"
+excerpt: "Vice President Kamala Harris does not live at the home yet. The man was seen on Massachusetts Avenue and was detained by Secret Service officers stationed near the residence following an intelligence bulletin from Texas, the Metropolitan Police Department ..."
+publishedDateTime: 2021-03-18T01:51:00Z
+originalUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html"
+webUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html"
+ampWebUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html?outputType=amp"
 type: article
-quality: 70
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
-    width: 1024
-    height: 683
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HOPBTSY7XBEJHOOKP64Q6R44UE.jpg"
+    width: 754
+    height: 492
     isCached: true
 
 related:
@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
+    excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
+    publishedDateTime: 2021-03-15T21:35:00Z
+    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
+    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 70
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President Kamala Harris and Ireland’s Prime Minister Micheál Martin Join CIEE in Congratulating the 2021 Frederick Douglass Global Fellows"
     excerpt: "WASHINGTON, March 17, 2021 /PRNewswire/ -- At an online St. Patrick’s Day roundtable today, Vice President Kamala Harris and Ireland’s Taoiseach (Prime Minister) Micheál Martin joined Nettie Washington Douglass, the great-great-granddaughter of ..."
     publishedDateTime: 2021-03-17T21:29:00Z
@@ -87,23 +103,7 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Police say Texan Paul Murray, arrested near Vice President Kamala Harris’ new home, was armed with ‘large capacity ammunition-feeding device’"
-    excerpt: "Vice President Kamala Harris does not live at the home yet. The man was seen on Massachusetts Avenue and was detained by Secret Service officers stationed near the residence following an intelligence bulletin from Texas, the Metropolitan Police Department ..."
-    publishedDateTime: 2021-03-18T01:51:00Z
-    webUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html"
-    ampWebUrl: "https://www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/03/police-say-texan-paul-murray-arrested-near-vice-president-kamala-harris-new-home-was-armed-with-large-capacity-ammunition-feeding-device.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 40
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HOPBTSY7XBEJHOOKP64Q6R44UE.jpg"
-        width: 754
-        height: 492
-        isCached: true
 
-secured: "r+BHKroS22vyTgl/OsuONFHXfJl8uGfQvDbsOnQugUtuzzimr+hBu39j5dIAdOngW/XFB9z+ZArEoBgWSlEgvKI4rlcSEXOGvZGEQg6DljASrAxG0BsVL0+jl0mgrhtXu+ueAz4Qbc3QFqlVL/c611xUl8eGtVHxwgh/woofVI6l6e7GgQUbmNLAtIwYs9cVc5CMGC+Yqaod3GTxy0qXNP7hQn/MMnwW6zkNh3oNNWQs/nKdguLpZ2mH3acV//qYrCRoOqKTqdfM8uV9THCACrvigI3eFsq/jMXiR2L4jDhW7GMiKIjCPdMqEhE8i3RmFqWP5ocaWTuVe+ZWAr+QmRs+0/I95ZG+a/XyNT4tEA4gL8i8Zl9EYKhD81YjYYTSGIgw4Gg6tf6GAq1HLX0H7aMCJ1loNuQf+WhenGQMFArUnLgoBOe9r1wlwdEn5ybhsIhzKgCQJW9+nmSYWqdwizMY+lpe6yjpn5TDiFr3dNwIJ7ZLJeJoUylDIWXJU0C0TtFUjZSCkmw3Hcw5zRlHRA==;P9b5WD8fgtCFYTND1kFu+w=="
+secured: "feVwZK91LYu33LEq7lf8R1xgXfBOdBYLue5tygrfOrJlWB1zCbVErtqjnYe1IQOYjzMnSEVv+n4VvxG6AQ2ZPQ/VcHXm99zM0rCrVyG3u0NL2Z4QooNfsBozV9MwDY5o+0QC13/UlqVit0uy3IpjHsBWZivc6XvVIEjc0FWlMtlXZpCnhkSEolc4RbFSovoSfFgB9Z156UQjzMxiTenSNF/f0na07hbKmLOwliurKZ15PZ9YU/OvQUIXgkZ+f+14ubeU26fvgPRIU1q3eMXdNkKhSiCELt4EFqaQx6dr0EJgtcqIBmaafB1WlzgLLMYBmWTmt+E95ywBfnivHHgyj2g1swtyauvXVsLQl/aB3rY=;zyUX5qYLCZ0zsOIltUL0rQ=="
 ---
 

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "U.S. talking to several countries about extra COVID-19 vaccine: Biden"
-excerpt: "U.S. President Joe Biden said on Tuesday the United States is in talks with several countries about who will get any extra doses of COVID-19 vaccines."
-publishedDateTime: 2021-03-16T19:05:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
-webUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82O8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82O8"
+title: "Joe Biden stumbles on steps of Air Force One – video"
+excerpt: "Biden tripped on the steps up to the plane, before recovering and carrying on unaided, turning to salute at the top. The 78-year-old fractured his right foot in November 2020 while playing with his dog Major"
+publishedDateTime: 2021-03-19T16:45:00Z
+originalUrl: "https://www.theguardian.com/us-news/video/2021/mar/19/joe-biden-stumbles-on-steps-of-air-force-one-video"
+webUrl: "https://www.theguardian.com/us-news/video/2021/mar/19/joe-biden-stumbles-on-steps-of-air-force-one-video"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555107585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1HQ"
-    width: 763
-    height: 545
+  - url: "https://i.guim.co.uk/img/media/d6ef58a7b181b9644d28d4dfdb226084793193af/383_225_1330_798/master/1330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc86c28c013057900cc2754db6dbee37"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -270,6 +268,22 @@ related:
       - url: "https://thehill.com/sites/default/files/casillasguzmanisabella_020321getty_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "U.S. talking to several countries about extra COVID-19 vaccine: Biden"
+    excerpt: "U.S. President Joe Biden said on Tuesday the United States is in talks with several countries about who will get any extra doses of COVID-19 vaccines."
+    publishedDateTime: 2021-03-16T19:05:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555107585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1HQ"
+        width: 763
+        height: 545
         isCached: true
   - title: "Putin points finger at US after Biden's 'killer' remark"
     excerpt: "Russian President Vladimir Putin says that U.S. President Joe Biden’s remarks about him reflect the United States' own past and current problems Russia cracks down on Putin’s opposition MOSCOW ..."
@@ -859,20 +873,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Joe Biden stumbles on steps of Air Force One – video"
-    excerpt: "Biden tripped on the steps up to the plane, before recovering and carrying on unaided, turning to salute at the top. The 78-year-old fractured his right foot in November 2020 while playing with his dog Major"
-    publishedDateTime: 2021-03-19T16:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/19/joe-biden-stumbles-on-steps-of-air-force-one-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/d6ef58a7b181b9644d28d4dfdb226084793193af/383_225_1330_798/master/1330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc86c28c013057900cc2754db6dbee37"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Psaki: Biden doesn't regret calling Putin a killer"
     excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
     publishedDateTime: 2021-03-18T19:14:00Z
@@ -932,6 +932,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ODCB166ZF6dBwKyOQV/Dj5SWbnnKju9B5YuTKT8jf39kfQSp7pI566qyHFumQOKpvgUU3YoEj9K2YrE0+3lfk9keeXAedzrRsHpHh0Y1qWDrtuBkYN1OjbzxWcB45YYHnlvvw8QR3mnKCJv77hBBtbgcGza1zXwamdxXOLvAmdx2VB6IU0rX297cd2T3XsRb6aEqo48y6IO/HhficmxZ1yxlKZoqZxY9HkJ79iL8hXOupEDFfGBKotbPIA687Yr5+anuISKC5gBwElBe5LiGBFXxPohLby+jEXy2/M4jyYUl5C/Hp4fnvBmVP786G2XQ2xcsZSz/1IXMIV42S6JHEjo50sJmY8jsc1keaFLmtOk=;oTK9D7xUvy+kOVzoGpR7cw=="
+secured: "rtHAjG4wQ/31GQRbSJxoXsZ/ssXYwX5vAvj5k+8eDZd9/69lvxITAzzBvkx/tHhLhxNf/OHDqcVIDnu58nYS6dkzcxZggfXmCc1HkrotdmwFIjM6brBeGo+uoSt/qVAn5pmUYKqT9jqOPcYGBkupt8GZ7/jeVrpCJXe58tJqb3i12zUrhiezKlmYGv89pe/Jibid4NYcF+ZEtzH1BBGMWyLE3F/wymQgt9vyFpFTE5x54gDQzJRfv/hJJwTNVMC9sXWmszVmvSS09iMS3bgBnKQK7MhfODGjDFo4tm4A53wMES/TqW1beqH62yUr0tgIvti5GX+cFqnoGxhb4OjCjJvnQBm7AAMXe3j4zPcBNqw=;GMb0ThEu1uDYSzFWrxwDMQ=="
 ---
 
