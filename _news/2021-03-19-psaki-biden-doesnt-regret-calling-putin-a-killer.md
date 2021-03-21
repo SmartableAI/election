@@ -903,6 +903,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
+    excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One. Biden ‘doing fine’ after aircraft stumble. Video, 00:00:28Biden ‘doing fine’ after aircraft stumble Up Next."
+    publishedDateTime: 2021-03-21T00:28:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-56462824"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09b8lsv.jpg"
+        width: 400
+        height: 224
+        isCached: true
   - title: "Biden puts St. Patrick's Day pride on display as he meets with Irish prime minister"
     excerpt: "Biden, Irish PM hold virtual meeting on St. Patrick's Day President Joe Biden's Irish pride certainly showed during his first St. Patrick's Day as president, as he held a traditional bilateral ..."
     publishedDateTime: 2021-03-17T20:20:00Z

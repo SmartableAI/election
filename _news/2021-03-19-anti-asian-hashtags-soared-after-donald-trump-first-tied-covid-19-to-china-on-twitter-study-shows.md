@@ -2,23 +2,19 @@
 category: news
 title: "Anti-Asian hashtags soared after Donald Trump first tied COVID-19 to China on Twitter, study shows"
 excerpt: "The week after then-President Donald Trump first used the #chinesevirus hashtag, the number of people using the hashtag increased more than tenfold."
-publishedDateTime: 2021-03-18T20:41:00Z
-originalUrl: "https://www.usatoday.com/story/news/nation/2021/03/18/anti-asian-hashtags-donald-trump-covid-19-tweet-study/4728444001/"
-webUrl: "https://www.usatoday.com/story/news/nation/2021/03/18/anti-asian-hashtags-donald-trump-covid-19-tweet-study/4728444001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4728444001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4728444001"
+publishedDateTime: 2021-03-18T22:02:00Z
+originalUrl: "https://www.statesman.com/story/news/nation/2021/03/18/anti-asian-hashtags-donald-trump-covid-19-tweet-study/4728444001/"
+webUrl: "https://www.statesman.com/story/news/nation/2021/03/18/anti-asian-hashtags-donald-trump-covid-19-tweet-study/4728444001/"
+ampWebUrl: "https://amp.statesman.com/amp/4728444001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4728444001"
 type: article
-quality: 111
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -471,6 +467,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Tz4HEAB/9TNQPeyafJF6qCsABMSNwjjUOUCaPgRLz/+VZwhBhQPYNPSYZ1q37n6VNE06zAVGQAfVxV9LOdajScX/bAHfYnzQRcuSDjkfAv2YcAslXvJqVeN+xxEnawrDjdD01/OG5YTALzGLstbgCxsNKgWRL4/60ptjRWM8opVO2c86bRxk0jjyrmweihYeyST2MIrkefcUNh442uqGIWo5HEztyXzQ5Jz7mRJkvJ/9qRvzs/RIkJH7U+PPiIWIv6gEDSv8c2aRdRmdyjkk0spah+Tq+dedb/dOqlet1y2idbeYjvO8sv+jMZIPdDeGeMj9LZr14LrbqU/rVgUxeXq1GeBz1prJTmeYq8e9v1I=;7KEMrKEbfV6BfBVUMg7AZA=="
+secured: "hfF0/5da1fN7iuHD6GPXLvoSOxN9hHjrT8nNffyCOisEf3lkRTYKAmbjS5lUlnwKxIvDSZSKtLBFjxPiAYFbkBIdsVIRCc9srHQwz/9VcavQzksSvNmKS2YfJwsdvSk5d3LsxDWVYWrbiJKK0GIS5SZ7p5W/QLKTw7UYBseD+GPanLRFVwcaOTYRhZ2tQW5dJIdgbIO/isikQRk4rBgLVRxWk4NkTkX84f2/E3pratKuhDNcKtwvSlAN6leOzly9rY2Je4kJl3g7uldmD9SHceUyzygoz842yXJ4SA26/aldM+If4VzchTrhW8xzwpsV7ByEd/ikNyqADX/8MdL+Nu+OCtLsxvjbXPOq3hY3Bqw=;5GJaNeno9+yJmB0b2vUkfA=="
 ---
 

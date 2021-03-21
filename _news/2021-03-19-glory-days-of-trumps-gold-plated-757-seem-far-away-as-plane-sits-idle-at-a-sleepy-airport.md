@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/trump-757-repairs-gold-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/trump-757-repairs-gold-plated-glory-days/index.html"
 type: article
 quality: 164
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 134
     images:
       - url: "https://static.politico.com/8a/6f/f599a0ed490695cb6f5ec7b241d7/210318-marytrump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "How to mess up a possible Trump endorsement in one easy step"
+    excerpt: "The Senate GOP primary in Alabama is a case study in the various ways to win over Trump — and how to alienate him too."
+    publishedDateTime: 2021-03-21T07:00:00Z
+    webUrl: "https://www.politico.com/news/2021/03/21/trump-endorsement-alabama-gop-477337"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/86/10/373c171346f29b84482197cc5b3b/210320-donald-trump-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

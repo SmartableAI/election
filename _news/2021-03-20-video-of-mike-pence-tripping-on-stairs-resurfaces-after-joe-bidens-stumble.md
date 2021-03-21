@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1"
 type: article
 quality: 138
-heat: 1318
+heat: 1338
 published: true
 
 provider:
@@ -902,6 +902,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
+    excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One. Biden ‘doing fine’ after aircraft stumble. Video, 00:00:28Biden ‘doing fine’ after aircraft stumble Up Next."
+    publishedDateTime: 2021-03-21T00:28:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-56462824"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09b8lsv.jpg"
+        width: 400
+        height: 224
         isCached: true
   - title: "Biden puts St. Patrick's Day pride on display as he meets with Irish prime minister"
     excerpt: "Biden, Irish PM hold virtual meeting on St. Patrick's Day President Joe Biden's Irish pride certainly showed during his first St. Patrick's Day as president, as he held a traditional bilateral ..."

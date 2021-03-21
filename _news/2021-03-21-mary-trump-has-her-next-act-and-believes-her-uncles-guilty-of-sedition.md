@@ -48,6 +48,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How to mess up a possible Trump endorsement in one easy step"
+    excerpt: "The Senate GOP primary in Alabama is a case study in the various ways to win over Trump — and how to alienate him too."
+    publishedDateTime: 2021-03-21T07:00:00Z
+    webUrl: "https://www.politico.com/news/2021/03/21/trump-endorsement-alabama-gop-477337"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/86/10/373c171346f29b84482197cc5b3b/210320-donald-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "MlEqO9Lf6kB1fz9YBZV2ZVfJ/wucGq1UCWVCXImgqSCbmiHayqTtotkNqP8mPAHFKLcL1dNXjeKy9j8hwEsSr5fMWOKR1t/7379i3XqFT4fmtONFh9MwyIM7U+XR/ETxoVGNYrgjtxF1w+LJ9RwCsJTUisW1FRSwa+ovrCbrKSmJPLorFZe7ed3gh3FDQXUZR37jF/RlJywo7GBLuptEwuLDF4k/vDSHXupzURwZ6Sz+40LR/bgFQfUlEc10sIyo2XqNT6212+vaom89QA/s1T0ld8eqtyHJb84VTTubCPQKrMJ0qyRkT2EqiiWPtpRBhntM5woFTk1NGejVWqznVGfLNVp+2rdugjm/NtH7mk8=;Jo86kKY6vE4ib8rJrfCYCQ=="
 ---

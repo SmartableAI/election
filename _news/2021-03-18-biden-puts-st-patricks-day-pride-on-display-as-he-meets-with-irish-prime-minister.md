@@ -917,6 +917,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
+    excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One. Biden ‘doing fine’ after aircraft stumble. Video, 00:00:28Biden ‘doing fine’ after aircraft stumble Up Next."
+    publishedDateTime: 2021-03-21T00:28:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-56462824"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09b8lsv.jpg"
+        width: 400
+        height: 224
+        isCached: true
   - title: "Essential Politics: A Senate showdown builds as Biden takes a stand on filibusters and taxes"
     excerpt: "President Biden's comments on the filibuster and taxes as well as House votes on immigration all build toward a Senate showdown later this year."
     publishedDateTime: 2021-03-19T17:23:00Z
