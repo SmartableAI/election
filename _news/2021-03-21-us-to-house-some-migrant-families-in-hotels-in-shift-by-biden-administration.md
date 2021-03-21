@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Psaki: Biden doesn't regret calling Putin a killer"
-excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
-publishedDateTime: 2021-03-18T19:14:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
+title: "US to house some migrant families in hotels in shift by Biden administration"
+excerpt: "Plan is to move away from detention centers as nonprofit will oversee sites at hotels in Texas and Arizona"
+publishedDateTime: 2021-03-21T12:05:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/21/us-migrant-families-hotels-biden"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/21/us-migrant-families-hotels-biden"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/us-migrant-families-hotels-biden"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/us-migrant-families-hotels-biden"
 type: article
-quality: 105
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://i.guim.co.uk/img/media/6d1817d37ad9bb254eb2ad6188319b1d4911f2c0/0_130_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d5a01d73b50acf580cad2cf990c4d510"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -493,22 +495,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "US to house some migrant families in hotels in shift by Biden administration"
-    excerpt: "Plan is to move away from detention centers as nonprofit will oversee sites at hotels in Texas and Arizona"
-    publishedDateTime: 2021-03-21T12:05:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/21/us-migrant-families-hotels-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/us-migrant-families-hotels-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/us-migrant-families-hotels-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/6d1817d37ad9bb254eb2ad6188319b1d4911f2c0/0_130_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d5a01d73b50acf580cad2cf990c4d510"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden's make or break moment: president aims to build on success of relief bill"
     excerpt: "Kamala Harris, the vice-president, heaped praise on Joe Biden for signing a $1.9tn coronavirus relief bill, the biggest expansion of the American welfare state in decades. “Your empathy has become a trademark of your presidency and can be found on each ..."
     publishedDateTime: 2021-03-13T12:43:00Z
@@ -935,6 +921,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Psaki: Biden doesn't regret calling Putin a killer"
+    excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
+    publishedDateTime: 2021-03-18T19:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
     excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One. Biden ‘doing fine’ after aircraft stumble. Video, 00:00:28Biden ‘doing fine’ after aircraft stumble Up Next."
     publishedDateTime: 2021-03-21T00:28:00Z
@@ -994,6 +994,6 @@ related:
         height: 600
         isCached: true
 
-secured: "+oi27MBJGZgTratDgn7+iV//mZK+AZIuB1S55SkyK1J2OzNW3uX91h/MA6cfT1eA0PCj1YkA2z0+aYacgyRnOSdrFEviMaGoK35FzWx2kFO9UxMSaL8fmXVeOMibEoNp4LxpMH0mdC6uNdUG/yuSvReQslgHHWN/KVq4tBd8YqEOvXkNyp2Ai3ogqMvh69K7hxuov2idb866ONsRmwi3DCU7AsnGdudnNaeWHz/D1HdbvZj2FIXnNDqQBTZc4Uvc+zi939Ztz8rG5SO9AtTVANi6hmkSvpRB1kbHoxyYPiFok+g1N+KxfhaUO5vZk90M53PHk4ZRT1a14xuWiwWviExOfJ8qbrbJN3RgbxVv8M4=;IMv1Rai6+t5KnTf1BZSSuA=="
+secured: "yKFeJcvvwKcGH8FOeBe7UkFaEAOPNlg6vxNcprDzMZUrQzOmTJMSjjN0SqO2ezPGCOVMs4MtEeUNtrnJRxNEJHm3Cu/CnxzF83JfuawQaKVzXZDC+pC9KzdJ95iWNUi1FDkEnjSDLsPb4JNBublWNw4mmqyBp+Kig9yNkDAaP6dDbEAR0If2jt7yVPSJHiVbbzY2wL8y2VqBK3EMGJYyIpvJe0q1OUNpySGPcW6QYSXwsIKgvW4Y7Jpgo8KISQD1IYbYFy6rHjOKVNOm48sDDRwpJetS/dDm/Md5aW66OB0wnBeRN+/KfdStJ45lFURIjIz/2zDijS1WEl+NUSn04W5T9UjXYu3PCGmWupGVG/M=;v8/J5Mi0QdnCS8TGMgGwXw=="
 ---
 

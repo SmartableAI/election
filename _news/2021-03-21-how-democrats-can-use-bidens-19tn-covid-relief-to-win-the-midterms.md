@@ -479,6 +479,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "US to house some migrant families in hotels in shift by Biden administration"
+    excerpt: "Plan is to move away from detention centers as nonprofit will oversee sites at hotels in Texas and Arizona"
+    publishedDateTime: 2021-03-21T12:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/21/us-migrant-families-hotels-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/us-migrant-families-hotels-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/us-migrant-families-hotels-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/6d1817d37ad9bb254eb2ad6188319b1d4911f2c0/0_130_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d5a01d73b50acf580cad2cf990c4d510"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden's make or break moment: president aims to build on success of relief bill"
     excerpt: "Kamala Harris, the vice-president, heaped praise on Joe Biden for signing a $1.9tn coronavirus relief bill, the biggest expansion of the American welfare state in decades. “Your empathy has become a trademark of your presidency and can be found on each ..."
     publishedDateTime: 2021-03-13T12:43:00Z
@@ -590,6 +606,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555316907&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H02R"
         width: 817
         height: 545
+        isCached: true
+  - title: "‘No end in sight’: Inside the Biden administration’s failure to contain the border surge"
+    excerpt: "(Guillermo Arias/AFP/Getty Images) Shortly before Christmas last year, Susan Rice and Jake Sullivan, two top advisers to President-elect Joe Biden, sat for an interview with EFE, a Spanish wire service, to issue a stark warning to migrants considering ..."
+    publishedDateTime: 2021-03-20T20:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZYRJAT6AII6XM6RTZNKHVJCBQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
     excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"

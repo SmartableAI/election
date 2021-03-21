@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Psaki: Biden doesn't regret calling Putin a killer"
-excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
-publishedDateTime: 2021-03-18T19:14:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
+title: "‘No end in sight’: Inside the Biden administration’s failure to contain the border surge"
+excerpt: "(Guillermo Arias/AFP/Getty Images) Shortly before Christmas last year, Susan Rice and Jake Sullivan, two top advisers to President-elect Joe Biden, sat for an interview with EFE, a Spanish wire service, to issue a stark warning to migrants considering ..."
+publishedDateTime: 2021-03-20T20:24:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZYRJAT6AII6XM6RTZNKHVJCBQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -621,22 +623,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "‘No end in sight’: Inside the Biden administration’s failure to contain the border surge"
-    excerpt: "(Guillermo Arias/AFP/Getty Images) Shortly before Christmas last year, Susan Rice and Jake Sullivan, two top advisers to President-elect Joe Biden, sat for an interview with EFE, a Spanish wire service, to issue a stark warning to migrants considering ..."
-    publishedDateTime: 2021-03-20T20:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZYRJAT6AII6XM6RTZNKHVJCBQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
     excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"
     publishedDateTime: 2021-03-14T00:35:00Z
@@ -935,6 +921,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Psaki: Biden doesn't regret calling Putin a killer"
+    excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
+    publishedDateTime: 2021-03-18T19:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
     excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One. Biden ‘doing fine’ after aircraft stumble. Video, 00:00:28Biden ‘doing fine’ after aircraft stumble Up Next."
     publishedDateTime: 2021-03-21T00:28:00Z
@@ -994,6 +994,6 @@ related:
         height: 600
         isCached: true
 
-secured: "+oi27MBJGZgTratDgn7+iV//mZK+AZIuB1S55SkyK1J2OzNW3uX91h/MA6cfT1eA0PCj1YkA2z0+aYacgyRnOSdrFEviMaGoK35FzWx2kFO9UxMSaL8fmXVeOMibEoNp4LxpMH0mdC6uNdUG/yuSvReQslgHHWN/KVq4tBd8YqEOvXkNyp2Ai3ogqMvh69K7hxuov2idb866ONsRmwi3DCU7AsnGdudnNaeWHz/D1HdbvZj2FIXnNDqQBTZc4Uvc+zi939Ztz8rG5SO9AtTVANi6hmkSvpRB1kbHoxyYPiFok+g1N+KxfhaUO5vZk90M53PHk4ZRT1a14xuWiwWviExOfJ8qbrbJN3RgbxVv8M4=;IMv1Rai6+t5KnTf1BZSSuA=="
+secured: "DpjzSxrNz2aEUMfqRZiKRF2NI+hZkzsqD0R2yiP+Zbvxi5mgmtnS97t26u0mFnxLMvd1/SaZeTyEkC5W/lsGAhc+qNahLPAnqQWn0sdvZcBS8sN52L5Jt1GvRNCmekXsbYvidV2FIOoDmjcj7tkfLeGHHLZSygkZ6iJ5dKIWa7DJXGBHb3+GB3MJBNoHVlY0g9J1UMuIAkKvvjNqoON6nRZ3mj9aoofikFlCQ/L9yOw4vwlYWASbK8jXqh5T6+7bohlDRDw5JEA8QRWhH3HFUwG4zuQ3uIN7v9zM2/AM1TEI+cmMS4y0vl4Pkx3CC8qTA1O2nMUatSFNWZxvikjt7wTzYtmPxPFzeQqBOf91zWY=;gxbvGfAPyetGKZ8TpreYRg=="
 ---
 
