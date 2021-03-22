@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "DeSantis Could Be The Next Trump, 'Odds-On Favorite' To Be President In 2024"
+    excerpt: "Ron DeSantis could become the next Donald Trump due to the Florida politician's popularity among fellow Republicans and supporters of the former president. DeSantis, R-Fla., has nailed high approval marks and many in the GOP see the governor as the best person to continue Trump’s legacy in the 2024 presidential election."
+    publishedDateTime: 2021-03-22T05:08:00Z
+    webUrl: "https://www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686"
+    ampWebUrl: "https://www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/21/florida-governor-ron-desantis-has-come-under-fire.jpg"
+        width: 1024
+        height: 743
+        isCached: true
   - title: "Trump Casino Miami? Florida Gambling Bill Raises Possibility"
     excerpt: "Donald Trump’s struggling Doral golf club near Miami could be thrown a lifeline if a Florida bill being hammered out behind closed doors allows more gambling in the state and the property is allowed to operate a casino."
     publishedDateTime: 2021-03-18T21:36:00Z

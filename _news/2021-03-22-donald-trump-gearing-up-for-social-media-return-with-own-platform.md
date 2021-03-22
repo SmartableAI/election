@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "'Everybody wants him': Trump to launch social media platform in coming months, aide says"
+    excerpt: "Former President Donald Trump is planning to return to social media with his own social network, according to spokesman Jason Miller. \"I do think that we're going to see President Trump returning to social media, probably in about two or three months here ..."
+    publishedDateTime: 2021-03-21T19:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/21/trump-launch-social-media-platform-coming-months-aide-says/4791721001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4791721001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4791721001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/3b00c057-9a08-4f94-97fd-87a281d4baf3-AP_Trump-Social_Media_Bans.jpg?auto=webp&crop=4089,2301,x0,y208&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump To Launch Own Social Media Platform: Ex-aide"
     excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
     publishedDateTime: 2021-03-21T19:35:00Z

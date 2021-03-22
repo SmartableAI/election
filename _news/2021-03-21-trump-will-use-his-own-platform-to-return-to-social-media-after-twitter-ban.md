@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-so
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform"
 type: article
 quality: 122
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Everybody wants him': Trump to launch social media platform in coming months, aide says"
+    excerpt: "Former President Donald Trump is planning to return to social media with his own social network, according to spokesman Jason Miller. \"I do think that we're going to see President Trump returning to social media, probably in about two or three months here ..."
+    publishedDateTime: 2021-03-21T19:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/21/trump-launch-social-media-platform-coming-months-aide-says/4791721001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4791721001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4791721001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/3b00c057-9a08-4f94-97fd-87a281d4baf3-AP_Trump-Social_Media_Bans.jpg?auto=webp&crop=4089,2301,x0,y208&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump Gearing Up For Social Media Return With Own Platform"
     excerpt: "After months of being banned from social media sites, he's decided to launch his own site in the next few months."
     publishedDateTime: 2021-03-21T20:51:00Z

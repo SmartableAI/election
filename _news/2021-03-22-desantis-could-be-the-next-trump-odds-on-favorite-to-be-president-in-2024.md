@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Ex-Trump aide tweets 'executive orders' after Google lists him as president"
-excerpt: "On Saturday, before noticing his accidental promotion by Google, Grenell complained about media coverage of Biden’s fall including criticism of Donald Trump Jr’s decision to tweet a gif showing his father knocking Biden over with a golf ball."
-publishedDateTime: 2021-03-20T15:26:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
-webUrl: "https://www.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
+title: "DeSantis Could Be The Next Trump, 'Odds-On Favorite' To Be President In 2024"
+excerpt: "Ron DeSantis could become the next Donald Trump due to the Florida politician's popularity among fellow Republicans and supporters of the former president. DeSantis, R-Fla., has nailed high approval marks and many in the GOP see the governor as the best person to continue Trump’s legacy in the 2024 presidential election."
+publishedDateTime: 2021-03-22T05:08:00Z
+originalUrl: "https://www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686"
+webUrl: "https://www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686"
+ampWebUrl: "https://www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686?amp=1"
 type: article
-quality: 123
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/2298c3bf713d8b6dfb5235d43c503af3554a6b32/0_222_4421_2655/master/4421.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9e16d549714f02e78b1390a2da93bd49"
-    width: 600
-    height: 360
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/21/florida-governor-ron-desantis-has-come-under-fire.jpg"
+    width: 1024
+    height: 743
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumperic_101019getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Ex-Trump aide tweets 'executive orders' after Google lists him as president"
+    excerpt: "On Saturday, before noticing his accidental promotion by Google, Grenell complained about media coverage of Biden’s fall including criticism of Donald Trump Jr’s decision to tweet a gif showing his father knocking Biden over with a golf ball."
+    publishedDateTime: 2021-03-20T15:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/20/richard-grenell-google-president-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/2298c3bf713d8b6dfb5235d43c503af3554a6b32/0_222_4421_2655/master/4421.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9e16d549714f02e78b1390a2da93bd49"
+        width: 600
+        height: 360
         isCached: true
   - title: "Many in GOP Hope Trump Loses in Court, Goes Away, Says Former Admin Member Miles Taylor"
     excerpt: "Miles Taylor, a former Department of Homeland Security's chief of staff in the Trump administration, said Saturday that many in the GOP hope Donald Trump will lose in future court battles and move on from the party. Speaking on MSNBC, Taylor said he wouldn ..."
@@ -111,22 +127,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeSantis Could Be The Next Trump, 'Odds-On Favorite' To Be President In 2024"
-    excerpt: "Ron DeSantis could become the next Donald Trump due to the Florida politician's popularity among fellow Republicans and supporters of the former president. DeSantis, R-Fla., has nailed high approval marks and many in the GOP see the governor as the best person to continue Trump’s legacy in the 2024 presidential election."
-    publishedDateTime: 2021-03-22T05:08:00Z
-    webUrl: "https://www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686"
-    ampWebUrl: "https://www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/21/florida-governor-ron-desantis-has-come-under-fire.jpg"
-        width: 1024
-        height: 743
-        isCached: true
   - title: "Trump Casino Miami? Florida Gambling Bill Raises Possibility"
     excerpt: "Donald Trump’s struggling Doral golf club near Miami could be thrown a lifeline if a Florida bill being hammered out behind closed doors allows more gambling in the state and the property is allowed to operate a casino."
     publishedDateTime: 2021-03-18T21:36:00Z
@@ -137,6 +137,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "e6uFVlh9puElJZNYAXOknLM/xN/dTb1GjxIlhwlbajitA1Q1hGUH1qtqI0rQ2HBN1pZ4rJIIuEsmKRMY6/6XSjM/TiSG8j+HfjVVg3jIdfS4ve/pM5SVrDGGPAAcZcyKNe3hUUe9mbnbh866mqEXT/GZNmuxa8hojw8/j5cF4obwNlM30snaK3yd0xdPFcXbTepKveYaE4t3rX2+QiGOKoVyN2i63fDzs8CfK55IJPuEQEcmP8QMfMF6D7vzcBrLxSnjEtPE7+Ed2zjFIie5zx69zZ1hew9ElliLBmi5em6kiOwSFk7mLqU2lEU+e54QWaXHGkQxXyJoCE2iF5z2RxnNIvxTo1lXPlj/rCDG8I8=;tfYB5NAOcVBxB0E9iBhvEw=="
+secured: "U5Ptd7aDl6mZjKL2whrtr1gs7u3DOV1OtRmWqoE237BmDJStthmEEPN8/msl52r52pdkNkVPNIXFvVHvSpRZfPxaKNKqGB0BSuD7wLwY3w9xDuWROgEG2d+L0dhF36khfpH/FrJd+WUt7mT9/VaA/sjLnq6mTIHpH9VTmzTYVaCzDpXuFnKMHkuTsLh5w8+CIGlQ8eA6BhPMDxEeRjEOHbcGx3OuTsfvoat5HSLbP400QXoKpqk+b+oeXGPwGcHPnvn8J6Xnx/bZI7k4lkdGNos51V48179dVKg/jLfOKLacN45P/Q/jc6D9Cwwr9Ww3nPX5OkAMfIKWGWxz1n7lqGoyaXzcTTHb6/ogLP7AX4A=;WrKOSapWmLTOszOe6CKz0g=="
 ---
 

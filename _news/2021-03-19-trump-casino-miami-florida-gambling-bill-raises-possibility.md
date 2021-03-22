@@ -119,6 +119,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DeSantis Could Be The Next Trump, 'Odds-On Favorite' To Be President In 2024"
+    excerpt: "Ron DeSantis could become the next Donald Trump due to the Florida politician's popularity among fellow Republicans and supporters of the former president. DeSantis, R-Fla., has nailed high approval marks and many in the GOP see the governor as the best person to continue Trump’s legacy in the 2024 presidential election."
+    publishedDateTime: 2021-03-22T05:08:00Z
+    webUrl: "https://www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686"
+    ampWebUrl: "https://www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/desantis-could-be-next-trump-odds-favorite-be-president-2024-3166686?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/21/florida-governor-ron-desantis-has-come-under-fire.jpg"
+        width: 1024
+        height: 743
+        isCached: true
 
 secured: "cJ4lw9a8MNohtbtc7ZLZBGLia9D9NKMktHnlkEhZrvSrSUy3GcIKNRKhhY41ry3Hk/sVx04Wiv89ScpfEUV27+HBZmVYGBhGasRf64AeuQgAqWOoJtIiodPbMKhCsgjNUAuMphD/ya864nO46ZAV9akB+akBfiatkAuv1H4GelIzR63Hn1+/ta5CfE4/ZvIygZQh/p1/mUQpRxccwfOhj1z4csW0bvRuEPiiSPg7rERMYFyL5d8RZER9vJtt/Ja1P9oxvRNZwVQ05/4chR5BL1RShhUsGFBqshaN82Nrwg3LS7jN7s9QR84DKCjxYrBGOjjYS262pcqwK956oXq3v5e+En0QrRr/vmzb5B07SwRSeTva6HvKYtzZ4aDtDiJnoAxbxY0876TSC6hSDljZeLW5B7icf590AKm5CsDuUrdqVy5SJQGP7EyaJUERGmivhKazpQ7UINcT6Z7iYnvuCnoZ8xKOK+oUG/DeIxpFCLdS1am/1r6t3jDB8L3ggDFC5RjzEpIozsv9gn/dBEU7SQ==;PQSDEPHQMroJeym60QmvnA=="
 ---

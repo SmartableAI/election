@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1630
+heat: 1650
 published: true
 
 provider:
@@ -994,6 +994,22 @@ related:
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris touts COVID-19 relief plan, March Madness surprises: 5 things to know Monday"
+    excerpt: "Vice President Kamala Harris will travel to Jacksonville on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an administration source. It will be her first visit since crisscrossing Florida last fall during the ..."
+    publishedDateTime: 2021-03-22T07:20:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/2021/03/22/ncaa-kamala-harris-miami-beach-dr-oz-d-c-5-things-know-monday/4766398001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4766398001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4766398001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/08/USAT/fce28786-c318-4bd3-a93f-c48fcefc93dd-harris_NLC.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

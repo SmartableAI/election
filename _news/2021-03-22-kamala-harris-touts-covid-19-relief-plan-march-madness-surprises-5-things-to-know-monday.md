@@ -1,31 +1,29 @@
 ---
 category: news
-title: "'Very troubling': Joe Biden and Kamala Harris on Atlanta spa shootings – video"
-excerpt: "Harris said the Atlanta massage parlor shootings were ‘tragic’ and spoke to the larger issue of violence in American society"
-publishedDateTime: 2021-03-17T17:37:00Z
-originalUrl: "https://www.theguardian.com/us-news/video/2021/mar/17/very-troubling-joe-biden-and-kamala-harris-on-atlanta-spa-shootings-video"
-webUrl: "https://www.theguardian.com/us-news/video/2021/mar/17/very-troubling-joe-biden-and-kamala-harris-on-atlanta-spa-shootings-video"
+title: "Kamala Harris touts COVID-19 relief plan, March Madness surprises: 5 things to know Monday"
+excerpt: "Vice President Kamala Harris will travel to Jacksonville on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an administration source. It will be her first visit since crisscrossing Florida last fall during the ..."
+publishedDateTime: 2021-03-22T07:20:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/2021/03/22/ncaa-kamala-harris-miami-beach-dr-oz-d-c-5-things-know-monday/4766398001/"
+webUrl: "https://www.desmoinesregister.com/story/news/2021/03/22/ncaa-kamala-harris-miami-beach-dr-oz-d-c-5-things-know-monday/4766398001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/4766398001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4766398001"
 type: article
-quality: 116
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/f4a638864f3918c76fd642f7e683c49f8b5d69d3/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94514b230302fc6479c04bb1f0d22a6d"
+  - url: "https://www.gannett-cdn.com/presto/2021/03/08/USAT/fce28786-c318-4bd3-a93f-c48fcefc93dd-harris_NLC.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -474,6 +472,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1758158/harris-speaks-atlanta-shootings.jpg"
         width: 2500
         height: 1675
+        isCached: true
+  - title: "'Very troubling': Joe Biden and Kamala Harris on Atlanta spa shootings – video"
+    excerpt: "Harris said the Atlanta massage parlor shootings were ‘tragic’ and spoke to the larger issue of violence in American society"
+    publishedDateTime: 2021-03-17T17:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/17/very-troubling-joe-biden-and-kamala-harris-on-atlanta-spa-shootings-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/f4a638864f3918c76fd642f7e683c49f8b5d69d3/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94514b230302fc6479c04bb1f0d22a6d"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden deplores rising anti-Asian violence, asks Americans to stand together against hate"
     excerpt: "ATLANTA (Reuters) - President Joe Biden deplored a surge in anti-Asian violence in the United States after a deadly shooting rampage in Georgia, and asked all Americans to stand together against hate during a visit to the state on Friday. Biden and Vice ..."
@@ -996,22 +1008,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris touts COVID-19 relief plan, March Madness surprises: 5 things to know Monday"
-    excerpt: "Vice President Kamala Harris will travel to Jacksonville on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an administration source. It will be her first visit since crisscrossing Florida last fall during the ..."
-    publishedDateTime: 2021-03-22T07:20:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/2021/03/22/ncaa-kamala-harris-miami-beach-dr-oz-d-c-5-things-know-monday/4766398001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4766398001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4766398001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/08/USAT/fce28786-c318-4bd3-a93f-c48fcefc93dd-harris_NLC.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
     excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
     publishedDateTime: 2021-03-12T02:22:00Z
@@ -1160,6 +1156,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "DYeI1QcO0J5Hs0A8Spnk9XwejiQg6N8OKFF+EiMzZtHqODEOQ06X41tZxkxtOL4pyx/3fNr0nHkp0jGZWR/SSXQlrkS6mhl3o97LBgSzUWVAv/O2dPhMRq1OP4te2YYE4F6o9CaIRdHW6gBFCMhlpAquhgugzWMqNoEnucMWgijBI2IGSi2K5netmBpGt1shUWuPQIxeUZPuZrZ58OotMkR0Zy/APL0h/V3mt1ygLpTaH+bkcstnIv8CnASscU4hR2EGGw7kooUuNdEbMUUY83BWAnYnBj0RNroKVuIOKX38JwFQ2p47ZrmqkpLdNjDzad+EzJDmGl/KjzEkX5ed2mJjgzToDcjQQzCYUUEieSsAM7NTR1HY8/14soF9lvJRFjJfhf0RDwY0dxFwx1sk7l+L9kPYWEJYJSw0SUovwxfyvGaFD3EPKvZtG0KLf0NuB7s+hXobaAcMS76Lb1sLzTTbeoNmm782qZa7pYb18X9PQ9EYZKCnUJfzHhTPfbEGS66d5ZUCJQt6W8zHAcjjVA==;2Yqs2zsm3qxY+m7M+xH1Bg=="
+secured: "hfnjExMnOW07159NdqMg+/iaJG+YhhxUcZL7ZrLf/ys2k2+NXpyg6Z3q7RO/mPwtCaGbtWgA38uR0LTPHMck1TCbfkf+z74AOkpb4ApkVEI41Pww7HTv/4uZMTSUtYRgHSBBT+I6T2OKmAee/J0LvbcV6Vgep5+n9Ohb0PHfMSg1DuhW3jQUow7B2197oD/SinQgTzd3zpJvaXOsb4qvhssUq7Wc3O3Gp+iYll4j1mzItSGw8RdoMOfoLayeg2lONAksoxesYsTWJcKXf49ozWbeVg4riF7KX5p4zJSQHhcvEcKo4UVvu4YiXKD6GlwmzbWlpLs6QsGLGdWVRMlgGJ91jKF65Wro5Qntr6Cu6QQ=;PXzfKLlQRnBy81T8rW/Xyw=="
 ---
 

@@ -1002,6 +1002,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris touts COVID-19 relief plan, March Madness surprises: 5 things to know Monday"
+    excerpt: "Vice President Kamala Harris will travel to Jacksonville on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an administration source. It will be her first visit since crisscrossing Florida last fall during the ..."
+    publishedDateTime: 2021-03-22T07:20:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/2021/03/22/ncaa-kamala-harris-miami-beach-dr-oz-d-c-5-things-know-monday/4766398001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4766398001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4766398001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/08/USAT/fce28786-c318-4bd3-a93f-c48fcefc93dd-harris_NLC.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
     excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
     publishedDateTime: 2021-03-12T02:22:00Z
