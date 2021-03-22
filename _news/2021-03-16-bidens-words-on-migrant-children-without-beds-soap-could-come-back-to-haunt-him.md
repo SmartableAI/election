@@ -447,6 +447,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "WH ignores illegal crosser crediting Biden for allowing him in US, wouldn't have come if Trump was president"
+    excerpt: "Secretary of Homeland Security Alejandro Mayorkas told \"Fox News Sunday\" that the influx of migrants crossing the border is due to the Trump administration's actions, not policy changes that took place in the early days of President Biden's administration."
+    publishedDateTime: 2021-03-22T01:37:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GjRTADE70bo/wh-ignores-illegal-crosser-crediting-biden-for-allowing-him-in-us-wouldnt-have-come-if-trump-was-president"
+    ampWebUrl: "https://www.foxnews.com/politics/wh-ignores-illegal-crosser-crediting-biden-for-allowing-him-in-us-wouldnt-have-come-if-trump-was-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-ignores-illegal-crosser-crediting-biden-for-allowing-him-in-us-wouldnt-have-come-if-trump-was-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden hits 50 day milestone of going without a formal news conference as president"
     excerpt: "President Biden has been in office for 50 days, but has yet to schedule a formal press conference."
     publishedDateTime: 2021-03-11T12:46:12Z

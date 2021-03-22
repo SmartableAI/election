@@ -284,6 +284,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democratic border-town mayor: Biden admin handling of crisis ‘a slap in the face’"
+    excerpt: "The Democratic mayor of a southern border town says he’s incensed over the Biden administration’s handling of the immigration crisis in his backyard — and he’s \"pleading\" with Washington to do more to stem the stream of migrants pouring into his small city. "
+    publishedDateTime: 2021-03-22T00:31:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a30dfc5-144a-4b76-96c1-f6baf817c817/92e81741-299a-4f50-9d6c-b1338e279cb2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden immigration policies have created 'disorder at the border,' GOP lawmakers say"
     excerpt: "House Minority Leader Kevin McCarthy, R-Calif., and other GOP lawmakers called on President Biden to admit fault and work to reverse changes to immigration policies that they said have caused a dangerous surge in migrants at the southern border."
     publishedDateTime: 2021-03-15T19:44:25Z
@@ -555,6 +571,6 @@ related:
         height: 375
         isCached: true
 
-secured: "8ZnLyQIpoAySW+Zqho86Tad2fw5QDUItb+atBrzR34TKIKLV62HY5oURzYwK8ZpFrVGCRAcjDGimB0yY8ug8OHUW/mU3/l3vAY/U6W32/0Dd6G7q5MbypAfFJaXCBm1KoHFnkR3q+rrBXtiEFGE0PClpbKdK0DhZqGdJUVaHINpKcplmbg6kZMmpmB1rz6FI0BciZY92zWTt4lCKBPhx8THV5UWSJF4XtBSp+m1XWj3+c0cqNcCzzT9CmAolhVrk3+x7TVvqwpmd1yvP2MFkDHtDfCC/+TqaIlAVLmL0IgHsRAdqv34lbk6nS9sxNoJsdGm9Ti3Wx2etZL9vBBlUCpdwLZXkNxE10ujw8vt7nc0=;5Os4RrP7Alur/BvgWSaA5Q=="
+secured: "GXTog3XzB4Mk7oqFGkJcuvUTIpx8jCllM9EfaVuWHxtmDY01JLYbaI7bCT+xGHVkjrLCM8vrgtsNBLyN4PZa+p0SHlnv60/WXApKjidnJTMoiLJAyeNrSuz1YtuRqAjIwuctSBEhmIar+BIBZ1RnlaDLIUM/eh+X1H6VAuLATBbAiBMMyj+rGqfd/0GGYHtUFxKqXakMAR8WRqIzdPvBRNnYfG7gSM5tdqF0wxsbUyARAvDIwL3RZdLGfcUhV/ABV1bRXK5GkTvmgpJpDOY/qj78NKvOQxmtZYj4WOZQfZxz4WL7wXVOqnKBi1dSxBD2ZSaizLACfAo77WVLYBCoWRpasRcMDVI2WWAmfm1oinPCHOhvWbTlxhU3Yb40jyoU8zkjd0G+5T26L3pn3LrJtC+Z6hy/a2FMXAS8gi6pWltu6Y0MwWDB94HpHTz2nHbg1fLsMBNDl0vuyZ0qUfkZ36sliK+6bBH71q6OWjJa1CwJTZhXieFnJXlmNbVHIOQDu01ebKfcX0uFSC1qR8gluw==;uRWh+/b0ERjHtlIvafpchg=="
 ---
 

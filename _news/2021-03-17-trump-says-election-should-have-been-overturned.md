@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/543544-trump-says-electi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp"
 type: article
 quality: 140
-heat: 360
+heat: 380
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555465183&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I0I5"
         width: 817
         height: 545
+        isCached: true
+  - title: "Donald Trump plans social media comeback, says adviser"
+    excerpt: "Former US President Donald Trump will soon return to social media \"with his own platform\", his adviser has said. \"I do think that we're going to see President Trump returning to social media in probably about two or three months,\" Jason Miller told Fox News."
+    publishedDateTime: 2021-03-22T00:35:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56479316?at_medium=custom7&at_campaign=64&at_custom4=B245F530-8AA6-11EB-8EC9-54AA4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56479316"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56479316"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/27A4/production/_116384101_mediaitem116381016.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "White House would 'support' Trump vaccine effort"
     excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"

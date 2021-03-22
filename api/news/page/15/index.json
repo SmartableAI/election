@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-27-liberal-privilege-donald-trump-jr-criticizes-bruce-springsteen-dwi-charge-dismissal.md",
+      "title": "'Liberal privilege': Donald Trump Jr. criticizes Bruce Springsteen DWI charge dismissal",
+      "excerpt": "Donald Trump Jr., who had an alcohol related charge against him dismissed, rails against Bruce Springsteen's DWI dismissal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/2021/02/26/donald-trump-jr-says-bruce-springsteens-dwi-dismissal-privilege/6834089002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/2021/02/26/donald-trump-jr-says-bruce-springsteens-dwi-dismissal-privilege/6834089002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/25/PAPP/58002f0e-27f7-4ae9-8050-a62dd39d801d-TrumpBoss.jpeg?auto=webp&crop=623,350,x29,y2&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6834089002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6834089002",
+      "publishedDateTime": "2021-02-26T10:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-ted-cruz-in-cpac-speech-says-trump-aint-goin-anywhere-jokes-about-cancun-controversy.md",
       "title": "Ted Cruz in CPAC speech says ‘Trump ain’t goin’ anywhere,’ jokes about Cancun controversy",
       "excerpt": "Sen. Ted Cruz says the GOP is the party of the working class and vows that former President Trump will remain a power player in the Republican Party.",
@@ -1302,58 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-jill-biden-says-health-inequities-have-lasted-far-too-long.md",
-      "title": "Jill Biden says health inequities have lasted ‘far too long’",
-      "excerpt": "During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html",
-      "originalUrl": "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-24T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

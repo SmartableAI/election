@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden administration tries to get control of border, story"
-excerpt: "As migrants surge at the U.S.-Mexico border, President Joe Biden’s administration has been caught on its heels and is now scrambling to manage a humanitarian and political challenge that threatens to"
-publishedDateTime: 2021-03-21T16:12:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-control-border-story-76590962"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-control-border-story-76590962"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-control-border-story-76590962"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-control-border-story-76590962"
+excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — As at the U.S.-Mexico border, President Joe Biden’s administration has been caught on its heels and is now scrambling to manage a humanitarian and political ..."
+publishedDateTime: 2021-03-21T15:45:00Z
+originalUrl: "https://www.businessinsider.com/biden-administration-tries-to-get-control-of-border-story-2021-3"
+webUrl: "https://www.businessinsider.com/biden-administration-tries-to-get-control-of-border-story-2021-3"
+ampWebUrl: "https://www.businessinsider.com/biden-administration-tries-to-get-control-of-border-story-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-administration-tries-to-get-control-of-border-story-2021-3?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_db4468bae5c74ab9b2a27461915080c6_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Video of Mike Pence Tripping on Stairs Resurfaces After Joe Biden's Stumble"
@@ -1026,6 +1020,6 @@ related:
         height: 600
         isCached: true
 
-secured: "qF+GLWih0Mp6VhZEUjoDQwPP75xu4j7Wrsae5vJWrxBGBlZecVd9lJxpAFKiHjRMSPogGvaGhC+SrHZL5CtLo3iyNf4tRdvqWe2mted+8Luu2B3ulip7JOt/uzx972i7vHS5UqPvHo6i9iQYrNdlQp3wXgkt1+D2vYwctyirA2sIZYHD+DmJv3YcX60j97Zx8FIp7wToqSEsPctZ9TUIm0nalwfELfKIBFh1hiRFyOEYWY7BJW5BXFbEDxd7T016HqLBQMpeQsthH0HlPNs5PzRcin+fEwDPQ3v0bJo7cjdNnUq2OBJQ/RFvRwmJLrhIzuuKvUBhNk/723fJXRLpXpIamyGGUaYDnMbKsHyW0031LyY6ymh78e15tigOEIZALiUS8JJmM/HEi176yiBID3BLOuji8/6enrTt0B+LBWuW+kN6k+WKYF1O1oimEk12Fmjd+nVViFFIYa2X583GjnEUG29i3e7FWOx/n9F/WVwCezIhmUtsNeDo7u7HSwHZM+4EohfhRyn4cmqawL5tZQ==;vFu3akU9HWDOifTvGC4HBA=="
+secured: "hIiOiLa4E+s1BLqIi4q5eF20UvfPq42coldzdjlOpJFLFc46XGJCIYp3dpBoI6WErbPcRfDPtrI6/nqpAH5MnWhcFZnHwj6soZJNXQ1PFCxRglNZOXmQZfy9P3XRAWkgePbVkdLxh8dmTTADRWPvFSaamnfQvAWYSsCgv5Mji4bNuYUziiwQanQ5kC7mVMfrPk2JHgJHc/Bn6Jzyh/e0/+Yb0G6AOflgF/vUGvC4bkdJg4BfgKBKshTZw91GPia1meA2VPfgpsNgZw+mHH01ohIGwdiPGreVr5RYC7u67d/HbCY3ifPQW4Ig5lilMCXC7cU+6/N+zJgGW6S853vOL0IAQ+knMBWzB/xcMNnXSEc=;moi5ukZtOLm3RYYOjK2dfA=="
 ---
 

@@ -141,6 +141,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Donald Trump plans social media comeback, says adviser"
+    excerpt: "Former US President Donald Trump will soon return to social media \"with his own platform\", his adviser has said. \"I do think that we're going to see President Trump returning to social media in probably about two or three months,\" Jason Miller told Fox News."
+    publishedDateTime: 2021-03-22T00:35:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56479316?at_medium=custom7&at_campaign=64&at_custom4=B245F530-8AA6-11EB-8EC9-54AA4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56479316"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56479316"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/27A4/production/_116384101_mediaitem116381016.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
     excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."
     publishedDateTime: 2021-03-11T21:27:00Z
