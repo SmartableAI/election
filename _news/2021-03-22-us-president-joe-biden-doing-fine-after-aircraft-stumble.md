@@ -1030,6 +1030,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democratic frustration is boiling over as Biden administration staffing slogs along, and 2020 staffers tell Insider they feel 'left out in the cold'"
+    excerpt: "But not everyone who wants a job on Team Biden — or thinks they deserve one — has landed a gig working for the new president. Some feel like they've been left in limbo. Several described President Joe Biden's hiring process as opaque. And even time ..."
+    publishedDateTime: 2021-03-22T08:00:00Z
+    webUrl: "https://www.businessinsider.com/biden-white-house-hiring-jobs-democrats-frozen-out-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/6053ad91f75f09001814eb90?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "AEsQgd8NhBb+zgSYy6VO9rrhsvNJX/0KiSfh4WABMTWULJ9OZdDza1nlCif0nZKRVmrU2d9s6FdeJcGhdqdL+bXbnH2dYJECcvvst14RNIrls904x01LeyPhL5okgJiPOvj+z7XgSkIq9iH5R7yNM/TXUni4fRlTkJzxr/5HdveLXWNJetgn5STYx+SKIpWRB+03NxglClXjW1bY2ghkbIuwFSho4MnydzUytCkTbZNXpKsXukw+QbXdkQq4G/+33eZixpt6zVMAHsZN1KbnnlON683K9+fi8TQNaAPpFyT9+iCFDUMaFq8hpcz29iBnCDt8KOeTdjNp28zEaK4DhRuTMunWH1pZZQwYl/OKgPRa0SAP8bCU5HWQMJ/NJXC5wMBFGeUqbD+5H6+OjZpxFTg4Qw9aOt6jxrN2I0FJ/mVZN5Ar6TkW6MGCcNr9DlCNZREYdxsArD7IMOspfXRuzieoG0DctKvpkGkPLMvujut+XNoHrYdFbuCDNpX5vit2lr2orpdG9I6jVb9GydW+fw==;r5JXsIug6IFpjRIot+3/Cw=="
 ---

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence planning first public speech since leaving office"
+    excerpt: "Former Vice President Mike Pence Michael (Mike) Richard Pence Federal judge rules 'QAnon shaman' too dangerous to be released from jail Supreme Court rejects Trump ally challenge to Georgia Senate ..."
+    publishedDateTime: 2021-03-08T12:38:00Z
+    webUrl: "https://thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office"
+    ampWebUrl: "https://thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pence_010621getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pence all-in on 'election integrity' push"
     excerpt: "Former Vice President Mike Pence on Wednesday said he shares the concerns of voters over the “significant voting irregularities and numerous instances of officials setting aside state election law” in the 2020 presidential election."
     publishedDateTime: 2021-03-03T17:08:00Z

@@ -1,24 +1,34 @@
 ---
 category: news
-title: "Pence to give speech in SC, his 1st since leaving office | Charlotte Observer"
-excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office."
-publishedDateTime: 2021-03-08T10:44:00Z
-originalUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249773183.html"
-webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249773183.html"
-ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article249773183.html"
-cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249773183.html"
+title: "Pence planning first public speech since leaving office"
+excerpt: "Former Vice President Mike Pence Michael (Mike) Richard Pence Federal judge rules 'QAnon shaman' too dangerous to be released from jail Supreme Court rejects Trump ally challenge to Georgia Senate ..."
+publishedDateTime: 2021-03-08T12:38:00Z
+originalUrl: "https://thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office"
+webUrl: "https://thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office"
+ampWebUrl: "https://thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office?amp"
 type: article
-quality: 52
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: The Hill
+  domain: thehill.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://thehill.com/sites/default/files/pence_010621getty.jpg"
+    width: 980
+    height: 551
+    isCached: true
 
 related:
   - title: "Pence breaks silence to criticize 2020 elections"
@@ -52,22 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/57ee0d46-76bb-43da-b45c-a407e61be497-AP_Pence_Inauguration.jpg?auto=webp&crop=5409,3043,x208,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Pence planning first public speech since leaving office"
-    excerpt: "Former Vice President Mike Pence Michael (Mike) Richard Pence Federal judge rules 'QAnon shaman' too dangerous to be released from jail Supreme Court rejects Trump ally challenge to Georgia Senate ..."
-    publishedDateTime: 2021-03-08T12:38:00Z
-    webUrl: "https://thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office"
-    ampWebUrl: "https://thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/pence_010621getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Pence to give speech in SC, his 1st since leaving office"
     excerpt: "COLUMBIA, S.C. (AP) — In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a conservative Christian nonprofit in the state that plays a crucial role in the ..."
@@ -129,7 +123,18 @@ related:
         width: 400
         height: 308
         isCached: true
+  - title: "Pence to give speech in SC, his 1st since leaving office | Charlotte Observer"
+    excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office."
+    publishedDateTime: 2021-03-08T10:44:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249773183.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article249773183.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249773183.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
 
-secured: "1OBlfI8452TOS/XCDQ+7/lyX0BgSvgtnncuY12iGaVhCU4DsCg1RED+YKWbVccBtYelke12svto32pG/JbFg30JIPtCD0T4OAn2M0SiN9FdqOCU810NL6CEh+aNSIeqjA4NfxP8aTrEUiwb1++4ZsDCsMdoStlM6Xdsq7ZD8E1snDvyJsEmKRJPl3c56J270E45zTfPUxYuayO8ysJkxNKuLr7NDSDp7siyQqtOrmycFHDuOQ2wYpo7YA2AV8Go9DU287GZTnFlDkTcD46dxJ6C9gDHdcbR3ecWbqgsRSatYEWU05fIgNdFhLkqy7/CIuUyIR77Yp9yoBlYdnBA5MQbxaXVyHsrOqnwQJbc1KmTtGgx8oQjOF0ho9Taa+8pvHjhUdFGA/IJ08tRYN42Lq6h8daf9NPL3EQDSjfVa09p325Emw5gzV8NvehFuY4iUsGsJGLzz34O20e0/qMHBBFspgtOyoM0PNj5Xo5RuF5zxIrRjGdjtp2yoh6OJsVZCglyCEiDX2nHGu0GiyEPhoQ==;BSDQfCtltwa52hsQla9yqA=="
+secured: "H1iDySl5hrETSUzxjMyG3a9wFOinuCg816QsIIYiFGpf/wCugLSBGA+HAxQYA1RoNiEhvqZKQNaR9fy/z8pkfuln/9/cTVS1qz1FWerzhimGXFWLFUJoGDypVQfEoSiuzIRJhcQ73usEzX/x00ZxjbOMDDarIPC9eTWE2A62yk1V8LZnbc4Ktdz7T/10kucFz5s+TyKc7L7eIdh22EG107uaNNfMlxbkViy7x7BIgcCaMo73miAwnMm+I/YlhvP9dGTdFW/U1gYRCybjDFQVNU86q4yUn25r1yB0s5pbUiPGmGMmS4Nu2u6FnXXQ5XhQ1N7E6fERKOB/t7VLQkI3kfQH6gvnTzMd3c2uoYTcHwo=;Zyp9HrIb9N3vfmtKSqCTNQ=="
 ---
 

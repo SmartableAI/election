@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Donald Trump plans social media comeback, says adviser"
-excerpt: "Former US President Donald Trump will soon return to social media \"with his own platform\", his adviser has said. \"I do think that we're going to see President Trump returning to social media in probably about two or three months,\" Jason Miller told Fox News."
+excerpt: "Former US President Donald Trump will soon return to social media \"with his own platform\", his adviser has said. \"I do think that we're going to see President Trump returning to social media in probably about two or three months,"
 publishedDateTime: 2021-03-22T00:35:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-56479316?at_medium=custom7&at_campaign=64&at_custom4=B245F530-8AA6-11EB-8EC9-54AA4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter"
-webUrl: "https://www.bbc.com/news/world-us-canada-56479316?at_medium=custom7&at_campaign=64&at_custom4=B245F530-8AA6-11EB-8EC9-54AA4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter"
+originalUrl: "https://www.bbc.com/news/world-us-canada-56479316"
+webUrl: "https://www.bbc.com/news/world-us-canada-56479316"
 ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56479316"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56479316"
 type: article
@@ -222,6 +222,6 @@ related:
         height: 336
         isCached: true
 
-secured: "vKJKU2AjD+bsStaBTxqvIkjOJMsUSRhjdrYY797fsNwnrk4+2NgD98hgOxLWlKUevUxMXR3ar66XwIwQ2aGuIvbel7AFwHiTdrLboTOALC4GJ5fK3UCbU1b0RxaCl4YQ+U/xvyeMXIdNhWkap8VIRWWm8C7g4EN/6ei4TLhj1wbeZT9Xig46ivg62j7ESyK09XGZO21mFifJe58nQ5vCAcLMwd4Cveq+bPdJC3r+sfM7kC2TJ2zehWCTjxuWYoXa+a2eXizVP6VsGeZvhZFx+aHBYb9qdp1aJH4wHGZTN+ju/N1dmIrsOsmld4kDy7YAUhbi/D0+8U52mzCKk30SmaBbGC+QqU7gOeunwXvHFCekH/xExDd7IzDaxLCCiKOPln0YhCuhVqxVEcLoAlJGB3Lkl+if/hricByupLk4yTdDtNpBP1foDMFXvF1qakhlbTd2k7ZOaOb5x1QtE/LAHvTSuKlvCg5gJMIMJUmEaeZjQXVQz5i+OkQ1Ok0+TmKTBKKBRPrXD53rUJdgkntFbA==;0parFYNJsCfTHC0TlEbz7w=="
+secured: "In+Fx3YntjrBXazX8qYqCp8OVn+khi44Pkxgvtk260f5LEWgB8VavAYDrMDzT1oVCqsPRjiR9rzNXmNYokQNu5S3GBKW+G6O3pkzht13LYiO+cZEsCnvaSTTbXrJMPVQGupauLTpbJzltmLS8G0lPHuZnoKYBibKO+i7J1ijjFUgvH/p7tdBM8NhPBRIaVzNhrVCklrTDKnxRLUDJdtOtVTA5vWBIRT3Ot3CkF3QK2Ofml7UbtL8Mo9Adj0+e5YSNm2zLFAkK1/bE4C4m16zaj5reVjW8JyEqdckuclkcBKqS7Pe/KJ5FZ7ZF/brBs4N6Ks4SiLosevNGX6j4ZyLofwuH9ADM03J9nlk0VzEcMs=;LsO2HUdr9zD+owI4hhteZQ=="
 ---
 

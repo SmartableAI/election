@@ -62,6 +62,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump plans social media return with his own platform"
+    excerpt: "WASHINGTON — Former President Donald Trump, suspended from Twitter, Facebook and other social media sites after the Jan. 6 attack on the Capitol, plans to launch his own platform in two to three months, one of his senior advisers told Fox News on Sunday."
+    publishedDateTime: 2021-03-21T18:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-plans-social-media-return-his-own-platform-n1261694"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261694"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261694"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_29/3391138/200618-donald-trump-cellphone-smartphone-cell-ac-1059p_98bab316821b75cf38c81649899893b2.jpg"
+        width: 2500
+        height: 1560
+        isCached: true
   - title: "Mary Trump has her next act — and believes her uncle’s guilty of sedition"
     excerpt: "Donald Trump’s niece is writing a new book and joining the board of LGBTQ+ group promoting female candidates for office."
     publishedDateTime: 2021-03-20T19:22:00Z

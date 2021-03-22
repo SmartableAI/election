@@ -1019,6 +1019,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democratic frustration is boiling over as Biden administration staffing slogs along, and 2020 staffers tell Insider they feel 'left out in the cold'"
+    excerpt: "But not everyone who wants a job on Team Biden — or thinks they deserve one — has landed a gig working for the new president. Some feel like they've been left in limbo. Several described President Joe Biden's hiring process as opaque. And even time ..."
+    publishedDateTime: 2021-03-22T08:00:00Z
+    webUrl: "https://www.businessinsider.com/biden-white-house-hiring-jobs-democrats-frozen-out-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/6053ad91f75f09001814eb90?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
     excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One."
     publishedDateTime: 2021-03-22T00:28:00Z

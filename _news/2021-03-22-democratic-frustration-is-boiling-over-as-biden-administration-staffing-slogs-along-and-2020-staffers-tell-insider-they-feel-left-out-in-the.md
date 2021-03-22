@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Psaki: Biden doesn't regret calling Putin a killer"
-excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
-publishedDateTime: 2021-03-18T19:14:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
+title: "Democratic frustration is boiling over as Biden administration staffing slogs along, and 2020 staffers tell Insider they feel 'left out in the cold'"
+excerpt: "But not everyone who wants a job on Team Biden — or thinks they deserve one — has landed a gig working for the new president. Some feel like they've been left in limbo. Several described President Joe Biden's hiring process as opaque. And even time ..."
+publishedDateTime: 2021-03-22T08:00:00Z
+originalUrl: "https://www.businessinsider.com/biden-white-house-hiring-jobs-democrats-frozen-out-2021-3"
+webUrl: "https://www.businessinsider.com/biden-white-house-hiring-jobs-democrats-frozen-out-2021-3"
 type: article
-quality: 105
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://i.insider.com/6053ad91f75f09001814eb90?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -935,6 +935,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Psaki: Biden doesn't regret calling Putin a killer"
+    excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
+    publishedDateTime: 2021-03-18T19:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden administration tries to get control of border, story"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — As at the U.S.-Mexico border, President Joe Biden’s administration has been caught on its heels and is now scrambling to manage a humanitarian and political ..."
     publishedDateTime: 2021-03-21T15:45:00Z
@@ -1020,20 +1034,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Democratic frustration is boiling over as Biden administration staffing slogs along, and 2020 staffers tell Insider they feel 'left out in the cold'"
-    excerpt: "But not everyone who wants a job on Team Biden — or thinks they deserve one — has landed a gig working for the new president. Some feel like they've been left in limbo. Several described President Joe Biden's hiring process as opaque. And even time ..."
-    publishedDateTime: 2021-03-22T08:00:00Z
-    webUrl: "https://www.businessinsider.com/biden-white-house-hiring-jobs-democrats-frozen-out-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://i.insider.com/6053ad91f75f09001814eb90?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
     excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One."
     publishedDateTime: 2021-03-22T00:28:00Z
@@ -1049,6 +1049,6 @@ related:
         height: 224
         isCached: true
 
-secured: "+oi27MBJGZgTratDgn7+iV//mZK+AZIuB1S55SkyK1J2OzNW3uX91h/MA6cfT1eA0PCj1YkA2z0+aYacgyRnOSdrFEviMaGoK35FzWx2kFO9UxMSaL8fmXVeOMibEoNp4LxpMH0mdC6uNdUG/yuSvReQslgHHWN/KVq4tBd8YqEOvXkNyp2Ai3ogqMvh69K7hxuov2idb866ONsRmwi3DCU7AsnGdudnNaeWHz/D1HdbvZj2FIXnNDqQBTZc4Uvc+zi939Ztz8rG5SO9AtTVANi6hmkSvpRB1kbHoxyYPiFok+g1N+KxfhaUO5vZk90M53PHk4ZRT1a14xuWiwWviExOfJ8qbrbJN3RgbxVv8M4=;IMv1Rai6+t5KnTf1BZSSuA=="
+secured: "DR1Xg9p3UkjArFUVRePgX4J6Pbi3SZVig+d50O31rvafRRgRrdMZTwHk7w8U5ZIjOh33YIrEi3quiT8cn2s21Jp3Czv6rEM/zXvzO3v+RAPafTW1vZ0CxYlYTAjJq3p3Cog5l1wl4XPKkFqwverbn4BR/C3oJZodqpT6jDa5iNOL98IFaZPtrCw2M3YBvz6qWkQ6MaZkto2dR8ac+yZMY9tQDcr7ZwBDMVhTEcBhMCcJ+VETqhyD05GwTfoqgc34sqWFixKi4jVoGw7XJqFFFVduMHi46bvYvOGyTK1WazanjnqXSwBIquhFBfEyoQDtnWUq5TNvDemdniAAR6Fu0SlbBRLdODs0a0eG8TJ04Ws=;m2OwMt5MRjvpdlpyUhunRw=="
 ---
 

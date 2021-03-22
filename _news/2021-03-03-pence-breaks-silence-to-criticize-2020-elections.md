@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
 type: article
 quality: 140
-heat: 260
+heat: 280
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/57ee0d46-76bb-43da-b45c-a407e61be497-AP_Pence_Inauguration.jpg?auto=webp&crop=5409,3043,x208,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pence planning first public speech since leaving office"
+    excerpt: "Former Vice President Mike Pence Michael (Mike) Richard Pence Federal judge rules 'QAnon shaman' too dangerous to be released from jail Supreme Court rejects Trump ally challenge to Georgia Senate ..."
+    publishedDateTime: 2021-03-08T12:38:00Z
+    webUrl: "https://thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office"
+    ampWebUrl: "https://thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/542059-pence-planning-first-public-speech-since-leaving-office?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pence_010621getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Pence to give speech in SC, his 1st since leaving office"
     excerpt: "COLUMBIA, S.C. (AP) — In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a conservative Christian nonprofit in the state that plays a crucial role in the ..."
