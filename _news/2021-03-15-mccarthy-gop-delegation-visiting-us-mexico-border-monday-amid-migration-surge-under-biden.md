@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jen Psaki dodges question about whether Biden saw doctor after fall"
+    excerpt: "Reporters pressed White House press secretary Jen Psaki on whether President Biden was seen by a doctor after falling up the stairs boarding Air Force One."
+    publishedDateTime: 2021-03-22T20:18:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0pP2zcWrhiI/jen-psaki-press-biden-fall-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/politics/jen-psaki-press-biden-fall-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jen-psaki-press-biden-fall-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21078698245169.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Senate confirms Xavier Becerra as Biden's HHS secretary despite GOP opposition"
     excerpt: "The Senate on Thursday voted to confirm Xavier Becerra as President Biden’s Health and Human Services secretary, delivering the nascent administration another Cabinet member despite nearly unanimous opposition from Republican lawmakers."
     publishedDateTime: 2021-03-18T16:49:05Z

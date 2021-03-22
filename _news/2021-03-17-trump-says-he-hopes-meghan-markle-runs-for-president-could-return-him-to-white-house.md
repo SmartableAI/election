@@ -60,6 +60,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "CNN was skeptical of coronavirus vaccines prior to 2020 election when it would have helped Trump"
+    excerpt: "And so, no, I would not trust his word. I would trust the word of public health experts and scientists, but not Donald Trump,\" Harris said. Bash responded, \"Let's just say there is a vaccine that is approved and even distributed before the election."
+    publishedDateTime: 2021-03-22T18:50:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-coronavirus-vaccines-prior-to-2020-election-trump"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-coronavirus-vaccines-prior-to-2020-election-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-coronavirus-vaccines-prior-to-2020-election-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/iStock-458619967.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "Ex7QnDTCuKI9b6/pHSgNR17TxIuWf+2uIi8yVrV3I0LJPMVnA/qABJL+aP9g4GjLnI+N1yn+zWeRATF6DnchoXkgJX4b8zXM/CgJuTfjETzsI1UUiqp1O2H94QY3m68FOiKQqaB8MBs8Qp3gaadEm7sez9RG0JOaPUUYXhxgg+iFSxB6RHhpxLWO9oeR5OAAnSMjZQtPZ/h6cNKHg2wOQpp1vlcgrUHTmGcO3AKfQ1PiFMgHCaYxAi2FvIVoXQ/0caXHqPxTcsqADd3B5q0V8CfqM8xMf+nVXgtt4GJD5SVQzpfnmyx/oZljDhIrpnYxmAJs6IMiHD7IhxzwtaF8LkS7G6uNyxIZBrDEC1p1MsD0wEYSS55J4kMJ54iLCxN/ShSLeZaPevNloPianw5RJu0FLBbfzCyLn7oBT7bxgBea8KbPybj7qHkUdiovykAQj+8s+QzZemBOxBhXaJlG0EY3tsyfFwzXaeiwNNaD2wdsMzTq+TF3HlO0fdzSmP21fzH49nd9F4GeLyZHqSW6GA==;bodhI63AkVLNtD1T0QIOLA=="
 ---

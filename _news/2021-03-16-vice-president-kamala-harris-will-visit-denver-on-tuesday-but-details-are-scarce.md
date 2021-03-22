@@ -59,6 +59,20 @@ related:
         width: 299
         height: 487
         isCached: true
+  - title: "Vice President Harris Visits a Food Bank in Jacksonville, Florida"
+    excerpt: "Vice President Kamala Harris participates in a roundtable discussion on food insecurity in the wake of the COVID-19 pandemic at Feeding Northeast Florida, in Jacksonville, Florida on Monday, March 22, 2021. Vice President Harris highlighted the effects of ..."
+    publishedDateTime: 2021-03-22T21:05:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f164b91e362ed1488dfbcb68df0ba0e3/Vice-President-Harris-Visits-a-Food-Bank-in-Jacksonville-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/f164b91e362ed1488dfbcb68df0ba0e3/HARRIS-JACKSONVILLE.jpg"
+        width: 650
+        height: 432
+        isCached: true
 
 secured: "r+BHKroS22vyTgl/OsuONFHXfJl8uGfQvDbsOnQugUtuzzimr+hBu39j5dIAdOngW/XFB9z+ZArEoBgWSlEgvKI4rlcSEXOGvZGEQg6DljASrAxG0BsVL0+jl0mgrhtXu+ueAz4Qbc3QFqlVL/c611xUl8eGtVHxwgh/woofVI6l6e7GgQUbmNLAtIwYs9cVc5CMGC+Yqaod3GTxy0qXNP7hQn/MMnwW6zkNh3oNNWQs/nKdguLpZ2mH3acV//qYrCRoOqKTqdfM8uV9THCACrvigI3eFsq/jMXiR2L4jDhW7GMiKIjCPdMqEhE8i3RmFqWP5ocaWTuVe+ZWAr+QmRs+0/I95ZG+a/XyNT4tEA4gL8i8Zl9EYKhD81YjYYTSGIgw4Gg6tf6GAq1HLX0H7aMCJ1loNuQf+WhenGQMFArUnLgoBOe9r1wlwdEn5ybhsIhzKgCQJW9+nmSYWqdwizMY+lpe6yjpn5TDiFr3dNwIJ7ZLJeJoUylDIWXJU0C0TtFUjZSCkmw3Hcw5zRlHRA==;P9b5WD8fgtCFYTND1kFu+w=="
 ---

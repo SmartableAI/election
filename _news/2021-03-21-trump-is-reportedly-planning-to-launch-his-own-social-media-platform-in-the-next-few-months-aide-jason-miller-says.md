@@ -93,6 +93,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Brook, joined by Trump advisor to make campaign announcement"
+    excerpt: "HUNTSVILLE, Ala. — Alabama U.S. Rep. Mo Brooks has scheduled a Monday night campaign rally where he will be joined by former President Donald Trump adviser Stephen Miller where it is anticipated he will enter the race to replace Sen. Richard Shelby."
+    publishedDateTime: 2021-03-22T17:21:00Z
+    webUrl: "https://www.washingtonpost.com/national/brook-joined-by-trump-advisor-to-make-campaign-announcement/2021/03/22/0431a8bc-8b33-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/brook-joined-by-trump-advisor-to-make-campaign-announcement/2021/03/22/0431a8bc-8b33-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/brook-joined-by-trump-advisor-to-make-campaign-announcement/2021/03/22/0431a8bc-8b33-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "'Not a Fan': Trump Criticizes Meghan Markle But Hopes She Runs for President in 2024"
     excerpt: "Meghan Markle is rumored to run for president in 2024, and former President Donald Trump responded in an interview with Fox News Tuesday night."
     publishedDateTime: 2021-03-17T05:28:00Z
@@ -109,6 +125,22 @@ related:
         width: 1620
         height: 1136
         isCached: true
+  - title: "Meghan McCain apologizes for previously condoning anti-Asian rhetoric used by Donald Trump"
+    excerpt: "\"There is no doubt Donald Trump’s racist rhetoric fueled many of these attacks and I apologize for any past comments that aided that agenda.\" A study published Thursday in the American Journal of Public Health found that people who used #chinesevirus ..."
+    publishedDateTime: 2021-03-22T19:11:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/03/22/meghan-mccain-apologizes-past-comments-condoning-anti-asian-terms/4802697001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4802697001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4802697001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/12/26/USAT/4d9a86bb-816b-40c2-a821-fb58db8e3178-148113__OS_0639_.jpg?auto=webp&crop=2101,1182,x366,y161&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump is planning to launch his own social-media platform in the next few months, aide Jason Miller says"
     excerpt: "Miller during an appearance on Fox News said Trump would be \"returning to social media in two or three months\" with \"his own platform.\""
     publishedDateTime: 2021-03-22T01:16:00Z
@@ -122,22 +154,6 @@ related:
       - url: "https://i.insider.com/60576ea61fcb5700186ee980?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Brook, joined by Trump advisor to make campaign announcement"
-    excerpt: "Mo Brooks has scheduled a Monday night campaign rally where he will be joined by former President Donald Trump adviser Stephen Miller where it is anticipated he will enter the race to replace Sen. Richard Shelby."
-    publishedDateTime: 2021-03-22T17:21:00Z
-    webUrl: "https://www.chron.com/news/article/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "gfVOjype8w+idh/WAsAM3pUeFdMQ1Gs3Z6NgPYJDu9/B13tzRITGlBqdem3S6hOm0K8MFYJxqicmPRcr76acvxmVccng9X+uuXZkOgnvFzPmR/WW4Zn3Fnd1qQtBWWMq7vqnzD/G9hRPN5QbhvBID2Y2tITh3zEo+GHlh9q2c/JJaQHvEtaEE2VoQUNs/6SIzI8TpxWkuyGUurWpheIyIBJJK07a0Cd8iGFpANgnLwn1XqjOilfu+rzSSSjLmKvlJ12Gbfv1W33fF9Td+fs1fAb/ApUPQhKwRDiE9AwaoRydvfqU9iHjuwkbSPNdbJmndjKqhJ353wNatsLK3bIq0IEY2SLbuOAv/VOedwHqWsw=;DB8/+RwnYvV/S5slN+Qqrw=="

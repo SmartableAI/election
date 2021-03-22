@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jen Psaki dodges question about whether Biden saw doctor after fall"
+    excerpt: "Reporters pressed White House press secretary Jen Psaki on whether President Biden was seen by a doctor after falling up the stairs boarding Air Force One."
+    publishedDateTime: 2021-03-22T20:18:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0pP2zcWrhiI/jen-psaki-press-biden-fall-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/politics/jen-psaki-press-biden-fall-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jen-psaki-press-biden-fall-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21078698245169.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "McCarthy, GOP delegation visiting US-Mexico border Monday amid migration surge under Biden"
     excerpt: "House Minority Leader Kevin McCarthy and 12 other House Republicans are at the Southern border and will make comments from El Paso, Texas later Monday as the GOP continues to hammer President Biden over immigration. "
     publishedDateTime: 2021-03-15T14:57:22Z

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "AOC endorses controversial Democrat who compared voting for Biden to eating 's***'"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., endorsed controversial Democrat Nina Turner running for a vacant Ohio congressional seat who compared voting for President Joe Biden to eating feces. "
+    publishedDateTime: 2021-03-22T20:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0e9a35a-cdd7-493d-b0e0-8535c57de3fb/071070e4-ce62-44fe-9a99-32dadfc7bf59/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas congressman, ex-sheriff: Biden admin 'almost aiding and abetting' human trafficking"
     excerpt: "The Biden administration is nearly “aiding and abetting in human trafficking” due to what is occurring at the southern border, Texas sheriff turned congressman Troy Nehls said on Thursday."
     publishedDateTime: 2021-03-11T14:22:51Z

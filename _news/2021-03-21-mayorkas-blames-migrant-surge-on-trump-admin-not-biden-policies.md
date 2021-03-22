@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
 type: article
 quality: 190
-heat: 1010
+heat: 1030
 published: true
 
 provider:
@@ -669,10 +669,24 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Interview With Donald J. Trump"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-03-22T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/22/interview_with_donald_j_trump_538765.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/536568_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Interview With Donald Trump"
-    excerpt: "The mainstream media is broken. Groupthink, fake news, and distrust are just a few words to describe it. Too many journalists now bow to the pressure of political correctness instead of standing tall for the truth. That is why Americans don't know who to ..."
+    excerpt: "RealClearPolitics"
     publishedDateTime: 2021-03-22T11:30:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/22/interview_with_donald_trump_538765.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/03/22/interview_with_donald_trump_538765.html"
     type: article
     provider:
       name: RealClearPolitics

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1730
+heat: 1750
 published: true
 
 provider:
@@ -976,6 +976,22 @@ related:
       name: First Coast News
       domain: firstcoastnews.com
     quality: 75
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/d4ecd02d-aa9e-4950-a015-6d20f1c680bf/d4ecd02d-aa9e-4950-a015-6d20f1c680bf_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Vice President Kamala Harris visits Jacksonville COVID-19 vaccination site"
+    excerpt: "The president, vice president, and first lady are traveling around the country visiting vaccine sites and community organizations."
+    publishedDateTime: 2021-03-22T21:06:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/look-ahead-vice-presidents-visit-jacksonville/77-0ee5e431-d8f0-4102-a381-d0d2598619a6"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/look-ahead-vice-presidents-visit-jacksonville/77-0ee5e431-d8f0-4102-a381-d0d2598619a6"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/look-ahead-vice-presidents-visit-jacksonville/77-0ee5e431-d8f0-4102-a381-d0d2598619a6"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 73
     images:
       - url: "https://media.firstcoastnews.com/assets/WTLV/images/d4ecd02d-aa9e-4950-a015-6d20f1c680bf/d4ecd02d-aa9e-4950-a015-6d20f1c680bf_1140x641.jpg"
         width: 1140

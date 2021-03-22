@@ -174,6 +174,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House aides prep $3 trillion jobs package for Biden"
+    excerpt: "White House advisers are expected to present a two-part, $3 trillion jobs and infrastructure proposal to President Joe Biden as soon as this week, according to two people familiar with the plan.\n    \n"
+    publishedDateTime: 2021-03-22T20:49:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wA_y2GO3M0M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/white-house-jobs-spending-trillions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/white-house-jobs-spending-trillions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322105445-02-joe-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration off to a combative start with tough rhetoric on Russia, China"
     excerpt: "President Joe Biden didn't waste a beat when asked this week whether he believed his Russian counterpart Vladimir Putin was a \"killer.\"\n    \n"
     publishedDateTime: 2021-03-20T14:15:48Z

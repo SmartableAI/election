@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Brook, joined by Trump advisor to make campaign announcement"
-excerpt: "Mo Brooks has scheduled a Monday night campaign rally where he will be joined by former President Donald Trump adviser Stephen Miller where it is anticipated he will enter the race to replace Sen. Richard Shelby."
+excerpt: "HUNTSVILLE, Ala. — Alabama U.S. Rep. Mo Brooks has scheduled a Monday night campaign rally where he will be joined by former President Donald Trump adviser Stephen Miller where it is anticipated he will enter the race to replace Sen. Richard Shelby."
 publishedDateTime: 2021-03-22T17:21:00Z
-originalUrl: "https://www.chron.com/news/article/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
-webUrl: "https://www.chron.com/news/article/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
-ampWebUrl: "https://www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+originalUrl: "https://www.washingtonpost.com/national/brook-joined-by-trump-advisor-to-make-campaign-announcement/2021/03/22/0431a8bc-8b33-11eb-a33e-da28941cb9ac_story.html"
+webUrl: "https://www.washingtonpost.com/national/brook-joined-by-trump-advisor-to-make-campaign-announcement/2021/03/22/0431a8bc-8b33-11eb-a33e-da28941cb9ac_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/brook-joined-by-trump-advisor-to-make-campaign-announcement/2021/03/22/0431a8bc-8b33-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/brook-joined-by-trump-advisor-to-make-campaign-announcement/2021/03/22/0431a8bc-8b33-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -107,6 +111,22 @@ related:
         width: 1620
         height: 1136
         isCached: true
+  - title: "Meghan McCain apologizes for previously condoning anti-Asian rhetoric used by Donald Trump"
+    excerpt: "\"There is no doubt Donald Trump’s racist rhetoric fueled many of these attacks and I apologize for any past comments that aided that agenda.\" A study published Thursday in the American Journal of Public Health found that people who used #chinesevirus ..."
+    publishedDateTime: 2021-03-22T19:11:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/03/22/meghan-mccain-apologizes-past-comments-condoning-anti-asian-terms/4802697001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4802697001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4802697001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/12/26/USAT/4d9a86bb-816b-40c2-a821-fb58db8e3178-148113__OS_0639_.jpg?auto=webp&crop=2101,1182,x366,y161&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump is planning to launch his own social-media platform in the next few months, aide Jason Miller says"
     excerpt: "Miller during an appearance on Fox News said Trump would be \"returning to social media in two or three months\" with \"his own platform.\""
     publishedDateTime: 2021-03-22T01:16:00Z
@@ -136,6 +156,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ejDRywGGgycntdIHPRFksgP4+IVZO5T6jw9KAo8I6quoc51xkkYv+EL/RbagYd2iREeJlH575BH1FZNoIb1cPOZBozjpfGG3fvXtWpbdTt1HbOKHtb1jSO26JcuiI0ZUGvqlE7zg6oQH+60zHdxYgvJ3lr5gHX1YuLVi6ob2uh3ymFbwRnj4Uh18/uAZfDbXo83akFigKNq4SCCqmXqJuU8pb4EDsVq9cg32SsthkWJXaNpyQ3APgihypRWqNbRJDmVyIHzRHKNfNTTi0nNcwCCPSiqphbuRRFphL6OsIErRL0RSRKFQIqj+FSjOGE1o7xB8iUI/0Us0yBu6hWCA3/0CzP9dl85r/JZs/6ta7xY=;1M6O3QI/UzygFwq/S+HyFw=="
+secured: "G5zrRHWobDU2LTi6SV3Au2wGWCGC5wKTIhaSKgA4LqUI6TmHp5XTGaVIreOah97U7H8g5ugMCB5xG6D0NISeccWOp3c4Y0dbcEheXlF7H5tN7KxrKlkn8mII/FH8uETV2RHuWFNNw0n1U/QYZELkQjDxzcwdBSA4UTvizvgF5fUvipeus1eNy3s5Lv7b3XvLR0zlEAeZgiR7+zsRJujCod27gp2zcqB1lUmdYH3ZPX6GdLWDu+ZPLKL2UJhyaaWHZVKugbWFyBL7rdh0KzlnEAKbs4SbVmVeJ/yUAisHQFeSQKapPl63NS74+uFHn6REbWeo5LlSBhWeE7l8PIeeIAqwxwwYHv2pHpGKMpIwYS0=;SFz8OfcXbLvyujSUb8CT4w=="
 ---
 

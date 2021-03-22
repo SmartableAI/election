@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4792761001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4792761001"
 type: article
 quality: 110
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Vice President Harris Visits a Food Bank in Jacksonville, Florida"
+    excerpt: "Vice President Kamala Harris participates in a roundtable discussion on food insecurity in the wake of the COVID-19 pandemic at Feeding Northeast Florida, in Jacksonville, Florida on Monday, March 22, 2021. Vice President Harris highlighted the effects of ..."
+    publishedDateTime: 2021-03-22T21:05:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f164b91e362ed1488dfbcb68df0ba0e3/Vice-President-Harris-Visits-a-Food-Bank-in-Jacksonville-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/f164b91e362ed1488dfbcb68df0ba0e3/HARRIS-JACKSONVILLE.jpg"
+        width: 650
+        height: 432
         isCached: true
 
 secured: "wQqzccb6EOO9A9tMGIctM93/TwtB/dl+/eGtEtHh5lAVCQBtMxEsnnMyL7bfkQC70hZEP6DfVX0xfTEE1riTXRsfLYg1f3OM9q2Pumvt+vnwv3gJZeyo+5ZQCsb+T691ba3PQQql/kX3/bBPcEgFWC5KPyTrk0wjrZyY/AeWKOnC3LLeAggbM6RhXWsk175aXf1BzYPQWfuPNcWjJp7gQU1TMGY/JBRNjDcljSQnAu2h30cDEivEsDmULbYHGGVL8nAJKXt48jUnP0DKNvFbXLo1Je78twbDQwZnzK6nMRZJvaYIkpNGwrQqnzQ5BTC45/VR09Aa+DQBvoeFRPgnqcx2+0Ir80HhSYNUZelyL54=;yCw7VBO1lhPQyGGOK1m3Ww=="

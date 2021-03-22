@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Interview With Donald Trump"
-excerpt: "The mainstream media is broken. Groupthink, fake news, and distrust are just a few words to describe it. Too many journalists now bow to the pressure of political correctness instead of standing tall for the truth. That is why Americans don't know who to ..."
+excerpt: "RealClearPolitics"
 publishedDateTime: 2021-03-22T11:30:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/03/22/interview_with_donald_trump_538765.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/03/22/interview_with_donald_trump_538765.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/03/22/interview_with_donald_trump_538765.html"
+webUrl: "https://www.realclearpolitics.com/2021/03/22/interview_with_donald_trump_538765.html"
 type: article
 quality: 45
 heat: -1
@@ -674,7 +674,21 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Interview With Donald J. Trump"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-03-22T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/22/interview_with_donald_j_trump_538765.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/536568_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "sunxmsF/sCdQgRIiJ+v3YVWxixvxmJuigAx5tGctPbfJ3KAKuAkgOa0O1hmSO/FnOfmoujb/j44VbOzcH7PhgxWTsUaLFCHzoRspTBlnmFNmSuys3XuslfKkH5AWhStJeZG8HVJJkC6FkYoRKUUbAy9cGN1u/AIMCVOu3BFJVzEsjZjtLGHgXs0uWDR0dSCBODGJmT45ogUQINZZM45oohmGuaTA5o1km9MsW4C9RQ/rRxiTBGEhNDtv6+VqPX9FGAwpbZByssGwEz2t9nngDc1sXA6thcyu5xWCUCIHy02yFATHfYDyO6J1AX6hUOadbP6FPwWTfSqtt2sGFiBf20VkagzpuB1EQj0G6BFQ5K0=;QgsXip3oydJ1ciYh0VsFtQ=="
+secured: "KZ3gbNNEQXVp1qapA/sZWvsQd46n5wz4mZXfk2mmzHAdfWShWYFcY9L/9fH4Njp6qoz/yyQnasmq3wr4YeyzusxEMktGFw2EynWbcTmaK5xfQsdIwwv3sz57dHXnL8oWZMGiEnTqoilZo+XgfcBIE0PCRya199+iXCG2l75LP4NaT93nZcisVscEIFudQIoIn/Q1gRSSr9P0h5+1W9u2xVr9fEpkDJV6AsrS7FJ1/4qFN00iAI41sFVd9dB9SQxrmlI2qayHbF5/+I5n8aXxnz+p89WMPCP4ct9fnqBv5AonwRQbnEf3Q142PlcX1xMT3lMpQaIH29PtkxIFS+21oydQJVdE2GEjNbpSZP5z4II=;jCKUTKs7WiBXVY4/Q8X/Ww=="
 ---
 

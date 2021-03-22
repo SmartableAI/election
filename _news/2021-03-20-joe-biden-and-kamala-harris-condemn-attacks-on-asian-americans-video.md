@@ -981,6 +981,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Vice President Kamala Harris visits Jacksonville COVID-19 vaccination site"
+    excerpt: "The president, vice president, and first lady are traveling around the country visiting vaccine sites and community organizations."
+    publishedDateTime: 2021-03-22T21:06:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/look-ahead-vice-presidents-visit-jacksonville/77-0ee5e431-d8f0-4102-a381-d0d2598619a6"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/look-ahead-vice-presidents-visit-jacksonville/77-0ee5e431-d8f0-4102-a381-d0d2598619a6"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/look-ahead-vice-presidents-visit-jacksonville/77-0ee5e431-d8f0-4102-a381-d0d2598619a6"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 73
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/d4ecd02d-aa9e-4950-a015-6d20f1c680bf/d4ecd02d-aa9e-4950-a015-6d20f1c680bf_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
     excerpt: "ATLANTA — President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta on Friday, just days after a white gunman killed eight ..."
     publishedDateTime: 2021-03-20T03:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-hires-trumps-white-house-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-hires-trumps-white-house-political-director.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "CNN was skeptical of coronavirus vaccines prior to 2020 election when it would have helped Trump"
+    excerpt: "And so, no, I would not trust his word. I would trust the word of public health experts and scientists, but not Donald Trump,\" Harris said. Bash responded, \"Let's just say there is a vaccine that is approved and even distributed before the election."
+    publishedDateTime: 2021-03-22T18:50:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-coronavirus-vaccines-prior-to-2020-election-trump"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-coronavirus-vaccines-prior-to-2020-election-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-coronavirus-vaccines-prior-to-2020-election-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/iStock-458619967.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump says he hopes Meghan Markle runs for president, could return him to White House"
     excerpt: "Former President Donald Trump on Tuesday said that a he is “not a fan” of Meghan Markle but that he hopes she launches her rumored 2024 presidential run. Trump was asked in a Fox News ..."
