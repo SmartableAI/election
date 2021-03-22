@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-17-arizona-sheriff-says-biden-border-crisis-worse-than-obama-years-like-the-wild-west.md",
+      "title": "Arizona sheriff says Biden border crisis worse than Obama years: 'Like the Wild West'",
+      "excerpt": "An Arizona sheriff said Wednesday that the current border crisis is worse than the Obama years, as DHS indicates that the migrant surge at the U.S.-Mexico border is expected to hit a 20-year high.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZjPlxbXcClI/border-crisis-worse-obama-arizona-sheriff-biden-immigration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZjPlxbXcClI/border-crisis-worse-obama-arizona-sheriff-biden-immigration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/351be049-60a5-44b0-908b-b3f6e133f59a/3ebae1b6-1e4e-4510-b280-561e7c72e25d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/border-crisis-worse-obama-arizona-sheriff-biden-immigration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-worse-obama-arizona-sheriff-biden-immigration.amp",
+      "publishedDateTime": "2021-03-17T05:50:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-says-putin-will-pay-a-price-for-russian-efforts-to-undermine-2020-us-election.md",
       "title": "Biden says Putin 'will pay a price' for Russian efforts to undermine 2020 US election",
       "excerpt": "President Joe Biden said Vladimir Putin \"will pay a price\" for his efforts to undermine the 2020 US election following a landmark American intelligence assessment which found that the Russian government meddled in the 2020 election with the aim of \"denigrating\" Biden's candidacy.\n    \n",
@@ -1044,7 +1100,7 @@
       "originalUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1301,58 +1357,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-scarborough-faults-biden-for-permissive-border-message.md",
-      "title": "Scarborough faults Biden for 'permissive' border message",
-      "excerpt": "MORE faulted the Biden administration at then end of his \"Morning Joe\" program on Tuesday for a \"permissive\" border message that was leading to a surge of immigrants. Scarborough said he agreed ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at",
-      "originalUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/scarboroughjoe_011821screenshot.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp",
-      "publishedDateTime": "2021-03-16T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

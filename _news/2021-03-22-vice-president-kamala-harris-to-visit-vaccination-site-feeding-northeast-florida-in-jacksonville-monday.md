@@ -1053,14 +1053,14 @@ related:
   - title: "VP Kamala Harris at Ceremonial Swearing in of Debra Haaland"
     excerpt: "US Vice President Kamala Harris (R) participates in ceremonial swearing in of Debra Haaland (3-L), with her daughter Somah Haaland and family members, as Secretary of the Interior in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-03-18T15:28:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6f7696275c7f901fe9b7c20fcfb1554e/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8bb801f8d8c6ac01cad50a1434cb1dea/VP-Kamala-Harris-at-Ceremonial-Swearing-in-of-Debra-Haaland/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/6f7696275c7f901fe9b7c20fcfb1554e/HARRIS-HAALAND.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8bb801f8d8c6ac01cad50a1434cb1dea/HARRIS-HAALAND.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1140,6 +1140,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "WQCl9BXLs5miVbWbLPZox56DY5TyGllDbLsMdQyOVZbm5YwrtDsHQ0d0Rz+HiNiuAP4KBsRaNm9x8ixfSc7CLGSpiyQWCqG/dHWA1JJgKA5jeNfN0dmrsegr832XKdIUq+P0tWkDmJbkDxITI9JE433i35tLpx3k/EnjW4Bq8s1AoWdiR9mTlFBscK/a9GpevF5FJqJydYqkCwq9qKXUQmTMOIHkS2gENWRo9zHzNbjVqkoEU8Uaz4+WnhXJBM5kJnmbjK0W5jISF1Q67Q8EftWKlKahk/ht9dKsSlxuEfrgKoSQ+ikcv7hk/samN1sSMpeEgsmEUwLh1UyUkgaoAh/4ZVkO7LFL/1Guv+cKEHo=;rdsMNvTkgwWoTSOkV1gX7Q=="
+secured: "Y+oprW1b+rnR6bSvybXfq4LTrEiVmXGnbHSchVuSsDyRooo7VvDrcK1XBDj6c6oM6xRWDADZ8fkD8GmCOhzJVFq+2FBKyIJ3UmEUBBXVpUE4OON18NHMmfGhbfswaX5PxJZNLHNtxIPLM8A1Tue1kGGjcZHQo/SPyTM781HKW5vP1Hzt0K8U/0gCY9aA3fzZ3DF2McV3IQsVUuPlvZmwr08JLQj+HPUOZRqtDt/eSsF10+S32sx2UYTH+cK5TzJe3qDBANJsPyUkPUnHFeletH67a7kKqvflxGmUiGSnxImBGMyTOvVYgTeFVsveouNbsJVcy7bmzELHFC1SQCJU+7YDcodoYpjH+1Dn63ewkVfIV8zzOeKmg7A/qMYizw2uBu8w2YSk8BTVL+ppW/C44W9ugrPjCBwcj2emhx59Q4t62ggivu8Q/Ck3WCH1FsMIcMO1bi5VnqdVkL9rSUI4A0Ji3/mLeKt1qBVaMf/oJNoeoKxAE03fQCORRQV4YLIteITQbpAC96isjYbQdyF7Xw==;gMtTHuNcIiQQMXqzEQs1Bg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-25-what-happened-must-never-happen-again-rep-liz-cheney-a-top-house-republican-again-hits-trump-over-capitol-riots.md",
+      "title": "'What happened ... must never happen again': Rep. Liz Cheney, a top House Republican, again hits Trump over Capitol riots",
+      "excerpt": "Despite threats to her re-election, Republican Rep. Liz Cheney did not back down from criticism of Donald Trump over the Jan. 6 insurrection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/23/liz-cheney-again-hits-president-donald-trump-over-jan-6-insurrection/4559614001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/23/liz-cheney-again-hits-president-donald-trump-over-jan-6-insurrection/4559614001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/17ab0a832cd78ecc70cb4b93786a0d088066895f/c=0-292-5465-3380/local/-/media/2018/07/17/USATODAY/USATODAY/636674189159039396-AP-17086712547630.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4559614001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4559614001",
+      "publishedDateTime": "2021-02-24T22:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-jill-biden-says-health-inequities-have-lasted-far-too-long.md",
       "title": "Jill Biden says health inequities have lasted ‘far too long’",
       "excerpt": "During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities.",
@@ -1316,62 +1368,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-in-virginia-gubernatorial-race-amanda-chase-casts-herself-as-trump-in-heels.md",
-      "title": "In Virginia gubernatorial race, Amanda Chase casts herself as 'Trump in heels'",
-      "excerpt": "Republican Virginia State Sen. Amanda Chase is doing everything she can to present herself as the Donald Trump in a governor's race full of Liz Cheneys and Mitt Romneys.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AKrt_ERGV4o/virginia-governor-race-amanda-chase-trump-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AKrt_ERGV4o/virginia-governor-race-amanda-chase-trump-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Amanda-Chase.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/virginia-governor-race-amanda-chase-trump-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-governor-race-amanda-chase-trump-2021.amp",
-      "publishedDateTime": "2021-02-23T07:23:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-22-morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns.md",
+      "title": "Morning mail: NSW floods worsen, Australia exports 'negative climate policy', Trump returns",
+      "excerpt": "After reviewing policies and procedures, Buckingham Palace has acknowledged that “more needs to be done”. Recently Donald Trump has released short, combative statements that many observers have likened to his tweets of old. Photograph: John Raoux/AP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2021/mar/22/morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns",
+      "originalUrl": "https://www.theguardian.com/australia-news/2021/mar/22/morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/72ddb0c4f51fe31a576cf63feefd1cd1050b93a3/0_80_1200_720/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b992d7764eb421318decccd865b4b8bc",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-21T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-trump-will-use-his-own-platform-to-return-to-social-media-after-twitter-ban.md",
       "title": "Trump will use 'his own platform’ to return to social media after Twitter ban",
       "excerpt": "Last modified on Sun 21 Mar 2021 13.28 EDT Donald Trump will soon use “his own platform” to return to social media, an adviser said on Sunday, months after the former president was banned from Twitter for inciting the US Capitol riot. 'His new business ...",
@@ -1494,58 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ted-lieu-raises-donald-trumps-kung-flu-rhetoric-after-atlanta-spa-shootings.md",
-      "title": "Ted Lieu Raises Donald Trump's 'Kung Flu' Rhetoric After Atlanta Spa Shootings",
-      "excerpt": "At least eight people were killed in three shooting incidents in Atlanta with six identified as women of Asian descent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746",
-      "originalUrl": "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1757732/democratic-representative-ted-lieu-california.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-raises-donald-trump-kung-flu-rhetoric-after-atlanta-spa-shootings-1576746?amp=1",
-      "publishedDateTime": "2021-03-17T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

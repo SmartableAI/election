@@ -1422,6 +1422,17 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "‘Speak out:’ Biden, Harris decry racism during Atlanta visit"
+    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta, just days after a white gunman killed eight people, most of them Asian ..."
+    publishedDateTime: 2021-03-22T05:41:00Z
+    webUrl: "https://www.fresnobee.com/news/article250082804.html"
+    ampWebUrl: "https://amp.fresnobee.com/news/article250082804.html"
+    cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/article250082804.html"
+    type: article
+    provider:
+      name: The Fresno Bee
+      domain: fresnobee.com
+    quality: 70
   - title: "Biden, Harris, Blinken meet with members of the Quad from the White House"
     excerpt: "Vice President Kamala Harris and President Joe Biden (not shown) meet virtually with the 'Quad,' Prime Minister Narendra Modi of India, Prime Minister Scott Morrison of Australia, and Prime Minister Yoshihide Suga of Japan,"
     publishedDateTime: 2021-03-12T14:44:00Z

@@ -2,6 +2,62 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-01-08-trumps-failure-to-call-off-mob-at-capitol-riots-was-breaking-point-alyssa-farah.md",
+      "title": "Trump's failure to 'call off mob' at Capitol riots was 'breaking point': Alyssa Farah",
+      "excerpt": "Former White House communications director Alyssa Farah criticized President Trump for his actions Wednesday amid the \"heartbreaking\" Capitol Hill riots that \"crossed a line.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aKzFrbVaWcU/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aKzFrbVaWcU/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah.amp",
+      "publishedDateTime": "2021-01-08T08:24:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-all-honor-to-mike-pence.md",
       "title": "All Honor to Mike Pence",
       "excerpt": "We have an editorial up titled “Mitch McConnell’s Finest Hour” that also makes a nod to the admirable role which Mike Pence played in the proceedings on Wednesday. I want to underline that point because I thought Pence would recuse himself,",
@@ -1292,58 +1348,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-top-ceos-may-cut-off-funding-to-republicans-who-have-supported-trumps-election-challenge-money-is-the-key-way.md",
-      "title": "Top CEOs may cut off funding to Republicans who have supported Trump's election challenge: 'Money is the key way'",
-      "excerpt": "Execs from Disney, Accenture, and Deloitte, as well as former White House advisors, attended a call to discuss Trump's election challenge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ceos-stop-funding-republicans-back-trump-election-challenge-jeffrey-sonnenfeld-2021-1",
-      "originalUrl": "https://www.businessinsider.com/ceos-stop-funding-republicans-back-trump-election-challenge-jeffrey-sonnenfeld-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f921b54abcd0c0018d693e5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ceos-stop-funding-republicans-back-trump-election-challenge-jeffrey-sonnenfeld-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ceos-stop-funding-republicans-back-trump-election-challenge-jeffrey-sonnenfeld-2021-1?amp",
-      "publishedDateTime": "2021-01-07T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

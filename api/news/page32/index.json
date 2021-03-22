@@ -2,6 +2,58 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-01-29-trump-officials-moved-most-bureau-of-land-management-positions-out-of-dc-more-than-87-percent-quit-instead.md",
+      "title": "Trump officials moved most Bureau of Land Management positions out of D.C. More than 87 percent quit instead.",
+      "excerpt": "The decision to relocate BLM headquarters to Colorado and redistribute jobs in the West prompted 287 employees to retire or find other jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/",
+      "originalUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC6BWOA4CUI6PBMYTKM5UVM7TY&w=1440",
+          "width": 1440,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp",
+      "publishedDateTime": "2021-01-28T20:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-fauci-says-bidens-push-to-reopen-schools-in-100-days-may-not-happen.md",
       "title": "Fauci says Biden's push to reopen schools in 100 days 'may not happen'",
       "excerpt": "Dr. Anthony Fauci, the nation's leading infectious disease expert, cautioned Thursday that President Joe Biden's push to reopen most schools within 100 days \"may not happen\" as the US continues to grapple with high Covid-19 transmission.\n    \n",
@@ -1275,62 +1327,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/republicans-push-back-on-bidens-new-energy-policies-warn-of-job-losses.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-push-back-on-bidens-new-energy-policies-warn-of-job-losses.amp",
       "publishedDateTime": "2021-01-27T14:00:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-biden-un-pick-promises-to-counter-chinas-authoritarian-agenda-and-regrets-2019-speech.md",
-      "title": "BIden UN pick promises to counter China's 'authoritarian agenda' and regrets 2019 speech",
-      "excerpt": "Linda Thomas-Greenfield, President Biden’s pick to be ambassador to the United Nations, pledged Wednesday to stand up to China’s \"authoritarian agenda\" at the U.N., -- as she was grilled by lawmakers about a 2019 speech she made praising Beijing’s approach in Africa.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQ6gcNRqD4g/biden-un-pick-chinas-agenda-2019-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQ6gcNRqD4g/biden-un-pick-chinas-agenda-2019-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21027610672208.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-un-pick-chinas-agenda-2019-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-un-pick-chinas-agenda-2019-speech.amp",
-      "publishedDateTime": "2021-01-27T12:52:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

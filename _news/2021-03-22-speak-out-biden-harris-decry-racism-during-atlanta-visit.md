@@ -1,34 +1,24 @@
 ---
 category: news
-title: "Interview flap shows challenges as Harris settles in as VP"
-excerpt: "Vice President Kamala Harris has spent her first two weeks in office working with the president on coronavirus relief, consulting with the head of the World Health Organization and talking with the pr"
-publishedDateTime: 2021-02-03T02:06:00Z
-originalUrl: "https://www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html"
-webUrl: "https://www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html?outputType=amp"
+title: "‘Speak out:’ Biden, Harris decry racism during Atlanta visit"
+excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta, just days after a white gunman killed eight people, most of them Asian ..."
+publishedDateTime: 2021-03-22T05:41:00Z
+originalUrl: "https://www.fresnobee.com/news/article250082804.html"
+webUrl: "https://www.fresnobee.com/news/article250082804.html"
+ampWebUrl: "https://amp.fresnobee.com/news/article250082804.html"
+cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/article250082804.html"
 type: article
-quality: 125
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Fresno Bee
+  domain: fresnobee.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Biden, Harris pay respects to Capitol officer killed in riot"
@@ -398,6 +388,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/03/8253d8eb-ce37-43e6-964f-385c24b1ca38/thumbnail/1200x630/e1abc469a14472727465ef2e5fa2840d/gettyimages-1230938717.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Interview flap shows challenges as Harris settles in as VP"
+    excerpt: "Vice President Kamala Harris has spent her first two weeks in office working with the president on coronavirus relief, consulting with the head of the World Health Organization and talking with the pr"
+    publishedDateTime: 2021-02-03T02:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden officials considering action on student debt relief"
     excerpt: "The Biden administration is reviewing whether it can take steps to provide student debt relief through executive action, even as it continues to call on Congress to pass legislation to help borrowers"
@@ -1410,17 +1416,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "‘Speak out:’ Biden, Harris decry racism during Atlanta visit"
-    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta, just days after a white gunman killed eight people, most of them Asian ..."
-    publishedDateTime: 2021-03-22T05:41:00Z
-    webUrl: "https://www.fresnobee.com/news/article250082804.html"
-    ampWebUrl: "https://amp.fresnobee.com/news/article250082804.html"
-    cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/article250082804.html"
-    type: article
-    provider:
-      name: The Fresno Bee
-      domain: fresnobee.com
-    quality: 70
   - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
     excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
     publishedDateTime: 2021-02-04T21:48:00Z
@@ -1938,6 +1933,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "kqJVFJ4b9dfJ3vZUz8M8oAGLs/uBmg/Pq8mrp32XPOXqfbCuhOia1XS/emNzRvSkei7VzGzcF3kIljh/A4Xy544RF/Ur6fCKMOVfO6bjlDaSdaHoeDsK0q3Lii+4bX/nN7lr0LrufpetsczwplN8FoAkPrFgCFHlEiOXhDJahunmX+aGXxICdwupPrCQhLY1JkdfTzQp0z5VkoQDgsQ8HUwtSSHYvfCcfYIdV2RCtgTW1HTKam+CcjUWFe3MRH+nnvhp8so5ehTlSAwaCDO8fkYsadKktWONaow32fij8mJpAdQBsoq1fhMbFAN2NtYCjw9GR0s6+L6DWoPHkl7fnSVch8NY7sccfoS0AutEBxg=;MUe0CiFzOKl7NimVV8iuYA=="
+secured: "bEvy9fvLjks2+BB8xLj8GezbKrv3EpIG99sb7IBZWUW4NT20re53RkiNkhiTpJJWlKDf+gn6LIpAO8yEDuTS1GibDxSDlv8LLUTDt9aTO1EvycsuXA7zG0gPooLEPXNun8yPT9eP1CWq77/+JhsAsxy10foH8tTDES3cyrTbMmWZ0ZCziHdLOqlOFQSrCcc0/u0qQuyc/fJsJmlJUpikKNLbTovKpDtc5qTUhHuZFzi5byH/5s/72oRAtJw/Qyz5TIl5ADYK+pQwfGx1rOkNvdBhRO9+uRjFz/fpNLUF94nNPY89506SJXkT/FPGhTXb3UEqDnW/my4E1PqJLYYU+I1OmDUKOhH5jyGsFswlEAA=;5qMC3GsGgPZC9DnBDPq0aw=="
 ---
 

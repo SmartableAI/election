@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-21-donald-trump-grants-clemency-to-legendary-las-vegas-gambler-billy-walters.md",
+      "title": "Donald Trump grants clemency to legendary Las Vegas gambler Billy Walters",
+      "excerpt": "Famed sports gambler Billy Walters was among the 143 people to which outgoing President Donald Trump granted clemency in his final day in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/2t16n8Mz9CcYaGATnLGU-glOYJs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KOZBWRJWBJHHPENSR4ZSMVOI4M.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-20T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-how-the-government-will-thoroughly-clean-and-disinfect-white-house-furniture-door-knobs-and-light-switches-after-trump-leaves.md",
       "title": "How the government will 'thoroughly clean and disinfect' White House furniture, door knobs, and light switches after Trump leaves",
       "excerpt": "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in.",
@@ -1494,58 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trump-receives-moroccos-highest-award-for-middle-east-work-official.md",
-      "title": "Trump receives Morocco's highest award for Middle East work: official",
-      "excerpt": "U.S. President Donald Trump on Friday received Morocco's highest award for his work in advancing a normalization deal between Israel and Morocco, a senior administration official told Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547969691&r=LYNXMPEH0E1FT&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

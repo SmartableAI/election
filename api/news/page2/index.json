@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-20-see-the-list-of-florida-gop-websites-that-still-show-trump-as-president.md",
+      "title": "See the list of Florida GOP websites that still show Trump as president",
+      "excerpt": "Donald Trump lost the 2020 election, but some Florida GOP sites continue to show him as the winner and the current president of the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/18/PTCN/b18427b7-45f1-4200-bb10-9aa1adbbabb7-TCN_GOP_WEBSITES_TRUMP04.jpg?auto=webp&crop=1577,887,x5,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4754798001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4754798001",
+      "publishedDateTime": "2021-03-19T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-texas-museum-removes-trump-wax-figure-after-visitors-kept-attacking-it.md",
       "title": "Texas museum removes Trump wax figure after visitors kept attacking it",
       "excerpt": "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ...",
@@ -1317,54 +1369,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-army-wont-restore-medals-to-mathew-golsteyn-who-was-pardoned-by-trump.md",
-      "title": "Army won’t restore medals to Mathew Golsteyn, who was pardoned by Trump",
-      "excerpt": "The US Army has reportedly denied a request to return medals of valor to a retired major accused of murder in Afghanistan who was pardoned by former President Donald Trump. Retired Maj. Mathew",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/",
-      "originalUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/Vigilante-Green-Beret.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/amp/",
-      "publishedDateTime": "2021-03-18T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

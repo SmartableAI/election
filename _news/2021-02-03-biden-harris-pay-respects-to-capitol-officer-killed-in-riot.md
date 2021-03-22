@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2690
+heat: 2710
 published: true
 
 provider:
@@ -1411,6 +1411,17 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "‘Speak out:’ Biden, Harris decry racism during Atlanta visit"
+    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta, just days after a white gunman killed eight people, most of them Asian ..."
+    publishedDateTime: 2021-03-22T05:41:00Z
+    webUrl: "https://www.fresnobee.com/news/article250082804.html"
+    ampWebUrl: "https://amp.fresnobee.com/news/article250082804.html"
+    cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/article250082804.html"
+    type: article
+    provider:
+      name: The Fresno Bee
+      domain: fresnobee.com
+    quality: 70
   - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
     excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
     publishedDateTime: 2021-02-04T21:48:00Z
