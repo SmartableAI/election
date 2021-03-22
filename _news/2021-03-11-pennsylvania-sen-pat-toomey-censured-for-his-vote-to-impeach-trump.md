@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-gop-censures-toomey-20210310-f5444sh4fzgfhbkxlwhml23bn4-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Virginia Republican candidates for governor show grip Trump has on party"
-    excerpt: "The first 2021 statewide election has Republicans relitigating the 2020 election through the topic of \"election integrity.\""
-    publishedDateTime: 2021-03-16T11:47:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-virginia-governors-race-republicans/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/16/989c5cef-0670-40aa-8072-fd3d770d1baf/thumbnail/1200x630/630e0ad1bc2443774b4a5018d77393d5/virginia-race-for-governor-side-by-side.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Army denies medals, Special Forces insignia to soldier Trump pardoned for alleged murder"
     excerpt: "WASHINGTON – The Army has rejected an appeal to return medals for valor to retired Maj. Mathew Golsteyn, a Special Forces soldier former President Donald Trump pardoned for alleged murder in Afghanistan. It was one of three high-profile cases in which ..."
     publishedDateTime: 2021-03-17T19:05:00Z

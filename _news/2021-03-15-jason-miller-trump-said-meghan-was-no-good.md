@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meg
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -122,6 +122,22 @@ related:
       - url: "https://i.insider.com/60576ea61fcb5700186ee980?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Brook, joined by Trump advisor to make campaign announcement"
+    excerpt: "Mo Brooks has scheduled a Monday night campaign rally where he will be joined by former President Donald Trump adviser Stephen Miller where it is anticipated he will enter the race to replace Sen. Richard Shelby."
+    publishedDateTime: 2021-03-22T17:21:00Z
+    webUrl: "https://www.chron.com/news/article/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "l7nWmf+To2IeMg9qOzfKK//K5GDcLmTbec1e7Teg+PlmBVW5waOSsMW0p4yZUCsMyIke9ADs97t1p1Qz1h9+Tt68IzEP2RcDqLyYAEHTdmgAHUuxmD7KgOr4Mns/FNtie8N7shtQ60OEvky3gi0T5G+zIWvcsdONRDD4lH4sZdMQU2nzt35H/nKNpxoaPaOtBQMUeLd58HNS+6hM8PNMdXCN9c0aoMeGMYyVsY7QMKcvvyKSBgmfpv5j2XDp9HJUHhhEUS+nysyfBpPPlKb2E/zjR3oCN875ySSdUMdIleutPus732SLbpWU/tWhTJGJ2pJc5XF1+W2mddN3FzhxKJRbrUm5g80hfidt49pFWuvX0IAk/P/D4Mbs032o6FE33H2+ajXF7B8AtGmfG4apQLtL170qyo/BxRId6908ZqV8pctuKGTPkqeBKhNRkfh9s6M5l6SC5uPu3Mb7/niySG/Nidwrc5bWxlOKaGGO75KptAgNv3ByABzwOr1Lhvqex1LNygcH9RG1NbRq8EHFQQ==;vNYQHVyvrKd0BJ1ZroHNow=="

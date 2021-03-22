@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/543544-trump-says-electi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp"
 type: article
 quality: 140
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Trump Flip-Flops on the Filibuster"
+    excerpt: "Trump often said the filibuster was killing the Republican Party. Now, he says keeping it is the key to the party’s survival."
+    publishedDateTime: 2021-03-22T17:25:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/trump-flip-flops-on-the-filibuster.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/trump-flip-flops-on-the-filibuster.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/trump-flip-flops-on-the-filibuster.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/b4e/c84/38c846a2c58da07fbaf6e4e88f4bca691a-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "jzQq2861xE657uHLDKVx6IQhXYekvazAA1SU0Qk7tjfaurfEaVx/cj9b2YIVgxKbBC7uWudnwuY9R8Xckst0Pr3UZyjwpsZYaXzn75bpAQB7PMNs1yKOyA1+RP4/cV4r+biZUVI3vYYP28FaeLSf3jY3ndOf7GVZ6TsI9mygDXGCPQXt7DQaBd5bQruu5oWEnqfHkzAQJBL38hs8sQQ5E+08FPZiT6pdYOkImcpwTDeNG4wXY5aGGOoY9dqQMKFY9tPeUp25yRXkh84cXGuFc0bDkhoi20Y9Ea7wwM+FTG21w0ACF7X3JT1caa2PgaNtst8/ruWi9+ikXTE0uMaT9KA3TWM113FSkg1baKdbnmvws81H14w+PstpZW45eUto444v5pQ9/NGHPwvSLfbD04HhXFYpG5ZgaLhL8raISWR5GCPiPdIZb1pO0paAVBqHkDClgAU9y1yqCYSlEiW2C68rcDfgKwy7r870fomcLVriUIJCkf99AzoMaKmPj58wCMIBnlrTriSD/sYMjYCq0w==;L+o594bPrgww7lHRAu8gzQ=="

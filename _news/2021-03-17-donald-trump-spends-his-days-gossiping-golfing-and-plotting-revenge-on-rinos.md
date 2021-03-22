@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Ohio Republican Wants to Rename State Park in Honor of Donald Trump"
-    excerpt: "A bill introduced to the U.S. House of Representatives would prevent Trump's name being added to any federal properties."
-    publishedDateTime: 2021-03-18T10:08:00Z
-    webUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015"
-    ampWebUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1758394/former-president-donald-trump-cpac.jpg"
-        width: 3000
-        height: 2031
-        isCached: true
   - title: "Post Trump, House GOP recruiting chair looks to build off 2020 success"
     excerpt: "GOP looks to take control of the House in 2022 GOP looks to take control of the House in 202... 04:51 Unlike President Trump and Senate Republicans in 2020, House GOP lawmakers were able to hold onto every seat held by an incumbent in 2020 and even ..."
     publishedDateTime: 2021-03-18T20:42:00Z
@@ -126,20 +110,6 @@ related:
       - url: "https://i.insider.com/6050b357fe6a340019aced9b?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "After years of Trump tweets, Republicans are suddenly outraged by mean tweets"
-    excerpt: "After spending years defending President Donald Trump’s at times racist and conspiratorial tweets, Senate Republicans are now criticizing Biden administration nominees for their tweets."
-    publishedDateTime: 2021-03-18T20:33:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/after-years-of-trump-tweets-republicans-are-suddenly-outraged-by-mean-tweets/2021/03/18/207bdfd4-ff5e-4772-8281-cfe9ec54ccb3_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-18-2021/t_d3ee9fc30cbc4c7ab0dc1fd590e6c9f7_name_20210317_GOP_TWEETS_V4.png&w=1080"
-        width: 1080
-        height: 608
         isCached: true
   - title: "Startups are racing to profit from a controversial Trump-era policy that lets big companies ditch their health plans"
     excerpt: "One big employer expects to save $7.2 million by sending workers to buy their own health insurance with \"health reimbursement arrangements.\""

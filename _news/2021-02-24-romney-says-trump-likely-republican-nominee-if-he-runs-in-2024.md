@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Donald Trump reveals who he thinks is future of ‘stacked’ Republican Party"
+    excerpt: "Speaking on the debut episode of “The Lisa Boothe Show,” the 45th commander-in-chief made the remarks after being asked who he believed were the ones to watch in the next era of the"
+    publishedDateTime: 2021-03-22T17:43:00Z
+    webUrl: "https://nypost.com/2021/03/22/trump-reveals-who-he-thinks-is-future-of-the-republican-party/"
+    ampWebUrl: "https://nypost.com/2021/03/22/trump-reveals-who-he-thinks-is-future-of-the-republican-party/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-reveals-who-he-thinks-is-future-of-the-republican-party/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/boothe-trump-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Qdy+MkQHyiPZPSHToG1Sk5Em3rB8evvcggoHStzezoavRoXvD2FASAQPDd3YwqN/BlZ7M4mblZTCmaafp104gnTWlZcqs6VeOGdebqfDlo2UpP2eK2DA3GZhhZrIVOdoOBPwxaAqQORPfZ0WpLR+hAxT+a+X1u2ZyPsaYtCaG2DvwkUPWbDFB4Ue4POEw77pXpg9yOtDnwhrBNQZSYM3ROaJLY3Tx4uIrIXRM4gWtf5nVLnDn2wkQ9LI7Qb7vtB9KaEkkTzxaF+obmQtJIhXty87oV3s0398qrnjJtrRdOqXQ6AiIXO9hf5jXPuYkbqrAVCwQq0SCxPTRWqezu8snufj8xZPdFEeIekCuxR06uM=;XnuwPVnG7vCGIztWtBFCeg=="
 ---

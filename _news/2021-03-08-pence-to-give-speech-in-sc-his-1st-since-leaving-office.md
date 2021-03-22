@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Pence to give speech in SC, his 1st since leaving office"
-excerpt: "COLUMBIA, S.C. (AP) — In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a conservative Christian nonprofit in the state that plays a crucial role in the ..."
-publishedDateTime: 2021-03-08T10:00:00Z
-originalUrl: "https://apnews.com/bda56f16bc2655da95c75cf3ae71da37"
-webUrl: "https://apnews.com/bda56f16bc2655da95c75cf3ae71da37"
+excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office"
+publishedDateTime: 2021-03-08T10:24:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
+webUrl: "https://abcnews.go.com/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/fb0471f6a80f4b2fad1e5fe5012788d9/1698.jpeg"
-    width: 1698
-    height: 1132
+  - url: "https://s.abcnews.com/images/Politics/WireAP_fb0471f6a80f4b2fad1e5fe5012788d9_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -131,6 +137,6 @@ related:
       domain: charlotteobserver.com
     quality: 52
 
-secured: "W2g8/4BWUV8vyD/pwUcyQi/vBLJsSpltUo8PXvTwVoitz20+hdLnS8vN8NgmiKHPLet2NbupmMAyl/L4gOYoIEcVfynL5I8geEAB2DPvU5uUusWDsluQ5VHB90gWNi7hbr2v1ZBJc6SbVRdCq8HsE0QXWsYKeL7BNjnHhf+b0jdH8dpb8Og3PfgLvHua29FojsWuCzMNVN9ve9A7+aNrcynaH5rXzkAddzJ0rJgLktZJbKpzvYFKNk39LxDYlCkfdlGa/x85RCmwryWaEg+gDI9ZSWOHPWpvSG9sLmv0f0ACHerDG1dH6vdrlFyq1eARyYfedVJJUruE/mT1QXQQejqgDeckftUAfcBHAKt3F4E=;NhWPy1QouCNiOnFsyKh6qA=="
+secured: "4o94219sYg2Dq48c122Tn/V7ibV6/TWIpAN9AT1qRVvJxjrs71PlH5PC4Z/as3OHjGRd9rJ8hFTmD9GCRHpG0ux4GT/SnHaOw3NpuVVqEayGsg86F4l5KFYe3q8jeJEK+HGzOUtQMTcM5+9zr1aMnG/gK6W07EMHcW3W1I1iTUKvkTcud3OCcLP8P5VdrULSbSBneHThPOk2gaZn97oXH+SMwrSpZGQbPovjaWFrHdYVDEi0LZoIgiquWCSU7mNIVDrK9PcLw6EFPs/6hblZBNSqAlkcJDEXwTk4X4UFTSU/AnACVBYZzJ8AiYZwG7RXgI/R4vbVoJ2Gc+MpJnwSJWYI0mMFzUeZd93H460oteU=;WNY1Oc9sNbWf2KHwAVwsug=="
 ---
 

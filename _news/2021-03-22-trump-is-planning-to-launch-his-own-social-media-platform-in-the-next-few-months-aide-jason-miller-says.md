@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Brook, joined by Trump advisor to make campaign announcement"
+    excerpt: "Mo Brooks has scheduled a Monday night campaign rally where he will be joined by former President Donald Trump adviser Stephen Miller where it is anticipated he will enter the race to replace Sen. Richard Shelby."
+    publishedDateTime: 2021-03-22T17:21:00Z
+    webUrl: "https://www.chron.com/news/article/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "2Rdmc6c3JK5VETRYW4cLVezYcmPQNHJWWmcjj4comiSBXcXdAgT40TaYk8YR+6ytx7JwefwDdQqSN9SPuhLteTTGCrqFUNJ2Cqz74N1EXjpXgXbSB5kX76nyjaX4qfb6zell6oQcUykI6aMcnWLntFDfvm4yGAcHNAGYs1ATnHmgpg8ACHSKEtBtZmL/KrVKB27nz23JbXihvgiVNXw0xDw8FJn4jTEwlWICKKeD1vhtTnPOqDaj01fHiTiMndO09yQesEsEipOSKqxV5r3kga50zqryQHRszg6XifKQpShsyQSCdnyo9xXNoLD2WWdR3uR13LqySN33Zts7IAQP6V56V8mPmyh+BL0KN6alVms=;vacgMFIMngJRFzgyGWLiVA=="
 ---

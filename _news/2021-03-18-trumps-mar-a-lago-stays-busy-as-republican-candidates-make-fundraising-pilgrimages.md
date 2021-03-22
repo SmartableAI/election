@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-mar-a-lago-fundraising-republ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Donald-Trump-CPAC-Speech-Florida-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump to headline fundraiser for ex-aide challenging pro-impeachment Republican"
+    excerpt: "Former President Donald Trump will be stumping for one of his former White House aides who has launched a primary challenge to Rep. Anthony Gonzalez (R-Oh.) over his vote to impeach the outgoing"
+    publishedDateTime: 2021-03-17T15:14:00Z
+    webUrl: "https://nypost.com/2021/03/17/trump-to-headline-fundraiser-for-ex-aide-challenging-house-republican/"
+    ampWebUrl: "https://nypost.com/2021/03/17/trump-to-headline-fundraiser-for-ex-aide-challenging-house-republican/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/17/trump-to-headline-fundraiser-for-ex-aide-challenging-house-republican/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/anthony-gonzalez-maralago-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "hsOz6JURVHbbP4iomAE/pHGLop8tmKYkHnfAW2Hbwncqr2sFlin0b42GT6MK3hq2KS+wcU7zBDjji+UcyWn/ffwVIWgSPYSoO8AgUVGrUZBbfc2ULwSNie59nJu7pmaOUJVFFWaacLPqQJ+Wewab13w6Gg1jud1i/+ImvH+D1Stl6ZaI6YLAGBMRf8yeMfvmSu7qE7rnATlOie5jb9sOuGOUl8giufDHvYbnpSlBMxIOIhLTtK3yQm+KQAeQy6nAdOZzOga6VJfeXRWHBDGi4bNj54qGemgqEYzhA6uEoc1gufeZhnAZQIchHMQc+Ozgn4qKz+s9sZ76yMLmXtQPDvLxH4pKjJffncEfHJuyKyI=;+MTndv+3Rx6eTK4lKdbRjQ=="

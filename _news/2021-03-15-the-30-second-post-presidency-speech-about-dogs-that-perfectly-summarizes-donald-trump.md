@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Is Donald Trump still president? On some Republican websites across Florida, the answer is yes"
-    excerpt: "Some of the largest counties in Florida — such as Miami-Dade and Hillsborough — display Donald Trump on their local GOP websites as president."
-    publishedDateTime: 2021-03-19T17:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/some-florida-gop-websites-list-trump-not-biden-president/4707326001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4707326001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4707326001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/18/PTCN/238ad31f-0fe6-49bb-9fcf-b6374eeff35b-TCN_GOP_WEBSITES_TRUMP01.jpg?auto=webp&crop=2815,1583,x6,y4&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support"
     excerpt: "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs."
     publishedDateTime: 2021-03-10T20:03:00Z

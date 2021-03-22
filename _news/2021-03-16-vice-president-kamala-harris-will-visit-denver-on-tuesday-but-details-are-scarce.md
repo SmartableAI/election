@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
+    excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
+    publishedDateTime: 2021-03-22T17:08:00Z
+    webUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.html"
+    ampWebUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 71
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/ff/9fff39ec-8b26-11eb-9974-ebd1af91d058/5fa6d8b7cf982.image.jpg?crop=299%2C487%2C929%2C107"
+        width: 299
+        height: 487
+        isCached: true
 
 secured: "r+BHKroS22vyTgl/OsuONFHXfJl8uGfQvDbsOnQugUtuzzimr+hBu39j5dIAdOngW/XFB9z+ZArEoBgWSlEgvKI4rlcSEXOGvZGEQg6DljASrAxG0BsVL0+jl0mgrhtXu+ueAz4Qbc3QFqlVL/c611xUl8eGtVHxwgh/woofVI6l6e7GgQUbmNLAtIwYs9cVc5CMGC+Yqaod3GTxy0qXNP7hQn/MMnwW6zkNh3oNNWQs/nKdguLpZ2mH3acV//qYrCRoOqKTqdfM8uV9THCACrvigI3eFsq/jMXiR2L4jDhW7GMiKIjCPdMqEhE8i3RmFqWP5ocaWTuVe+ZWAr+QmRs+0/I95ZG+a/XyNT4tEA4gL8i8Zl9EYKhD81YjYYTSGIgw4Gg6tf6GAq1HLX0H7aMCJ1loNuQf+WhenGQMFArUnLgoBOe9r1wlwdEn5ybhsIhzKgCQJW9+nmSYWqdwizMY+lpe6yjpn5TDiFr3dNwIJ7ZLJeJoUylDIWXJU0C0TtFUjZSCkmw3Hcw5zRlHRA==;P9b5WD8fgtCFYTND1kFu+w=="
 ---

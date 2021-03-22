@@ -31,37 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "The ‘magic’ Donald Trump brought to Republican politics is not a mystery"
-    excerpt: "Lindsey Graham (R-S.C.) painted former president Donald Trump as a sort of magical conservative chimera. That made it trickier, he suggested, for the Republican Party to leverage Trumpism without Trump."
-    publishedDateTime: 2021-03-08T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp"
+  - title: "House Republicans who backed Trump impeachment warn Dems on Iowa election challenge"
+    excerpt: "A group of nine House Republicans that voted to impeach former President Trump has signed a letter to Speaker Nancy Pelosi (D-Calif.) warning her against pursuing an investigation into the Iowa electi"
+    publishedDateTime: 2021-03-22T17:54:00Z
+    webUrl: "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa"
+    ampWebUrl: "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
+      name: The Hill
+      domain: thehill.com
+    quality: 134
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5Q2IST6AYI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 961
+      - url: "https://thehill.com/sites/default/files/miller-meeksmarianette_hartrita_031921gn-courtesy-rita-hart-camp_iowa.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Lindsey Graham Warns Donald Trump Could 'Destroy' GOP After Combative CPAC Speech"
-    excerpt: "Senator Lindsey Graham has warned that former President Donald Trump could destroy the Republican Party or rebuild it as a bigger and more diverse coalition after his combative speech at the Conservative Political Action Conference."
-    publishedDateTime: 2021-03-08T10:41:00Z
-    webUrl: "https://www.newsweek.com/lindsey-graham-warns-donald-trump-destroy-gop-cpac-1574411"
-    ampWebUrl: "https://www.newsweek.com/lindsey-graham-warns-donald-trump-destroy-gop-cpac-1574411?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-warns-donald-trump-destroy-gop-cpac-1574411?amp=1"
+  - title: "House Dems ask Trump to testify oath for impeachment case"
+    excerpt: "House Democrats have asked former President Donald Trump to testify under oath for his Senate impeachment trial"
+    publishedDateTime: 2021-02-04T18:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Ohio Republican Wants to Rename State Park in Honor of Donald Trump"
+    excerpt: "A bill introduced to the U.S. House of Representatives would prevent Trump's name being added to any federal properties."
+    publishedDateTime: 2021-03-18T10:08:00Z
+    webUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015"
+    ampWebUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1751479/senator-lindsey-graham.jpg"
-        width: 1024
-        height: 683
+      - url: "https://d.newsweek.com/en/full/1758394/former-president-donald-trump-cpac.jpg"
+        width: 3000
+        height: 2031
+        isCached: true
+  - title: "Virginia Republican candidates for governor show grip Trump has on party"
+    excerpt: "The first 2021 statewide election has Republicans relitigating the 2020 election through the topic of \"election integrity.\""
+    publishedDateTime: 2021-03-16T11:47:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-virginia-governors-race-republicans/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/16/989c5cef-0670-40aa-8072-fd3d770d1baf/thumbnail/1200x630/630e0ad1bc2443774b4a5018d77393d5/virginia-race-for-governor-side-by-side.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "After years of Trump tweets, Republicans are suddenly outraged by mean tweets"
+    excerpt: "After spending years defending President Donald Trump’s at times racist and conspiratorial tweets, Senate Republicans are now criticizing Biden administration nominees for their tweets."
+    publishedDateTime: 2021-03-18T20:33:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/after-years-of-trump-tweets-republicans-are-suddenly-outraged-by-mean-tweets/2021/03/18/207bdfd4-ff5e-4772-8281-cfe9ec54ccb3_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-18-2021/t_d3ee9fc30cbc4c7ab0dc1fd590e6c9f7_name_20210317_GOP_TWEETS_V4.png&w=1080"
+        width: 1080
+        height: 608
         isCached: true
 
 secured: "AZ2UNuHmzEQrXGIaeuYUwrukIfq4Okb5CZr0QtwTnzQkzF34Mk0VLNTSSb02/3ad64NQHM2tXzsyDssBo5WuD/suSua4a6ANAO16Fytta+vkJhW3h6chU9juqN8i0+dmRAIAlTyCLCvn9Sn0093eAMGwPRZgR0OFKE/Dp1bg5VU1IA8Y/Uhu4a0EXK7bAWovGfGIAl9k89iRFqb0pPkr1jMVq5dv4uXWMxe/PnYI0ZqVGj8E+ut7jqfPePbHUPpaw1XQHqRTZfmCktIYo9TQsT5y6rxxRErhGfd9HgKZlZIaq8xCBM1478h+MVasBv5vbJhEvnfkxj1XSnv99MJE6toLXO3HEWTWq/ZACXAu1Q2HgpQxUUSctxuNFUaisxGCjdClwXlSM6fk0kW52brMEg25IV+1Df2PnmlVULNVPeilwHZ9d1VoKoHnfI6ZMCf6vajw8wjHCUs0fIrxvqmxtejVIzDcVXsMa4dyT805WG5fOmKacXX+jjEgYL+4lHku3RKtl+1R/7cCfiy3/8AS7A==;W6EHrn5zLZLZyhwKUPsMDA=="

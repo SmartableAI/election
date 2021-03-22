@@ -284,6 +284,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas mayor refutes Biden administration claim that border is closed and secure"
+    excerpt: "Laredo, Texas Mayor Pete Saenz refuted Homeland Security Secretary Alejandro Mayorkas' and President Biden's claim that the U.S.-Mexico border was closed and secure in an interview Monday."
+    publishedDateTime: 2021-03-22T16:29:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ypn3PC8FWGM/texas-mayor-biden-border-closed-secure-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump tells Fox News the Biden admin 'enforcing nothing' as migrants make it into the US despite health order"
+    excerpt: "Former President Donald Trump on Monday said the Biden administration is \"enforcing nothing\" at the southwestern border as more migrant families are making it into the United States despite a health order instituted last year. "
+    publishedDateTime: 2021-03-22T16:25:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BDz3rAM3qss/trump-biden-health-order-border-fox-news-interview"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-health-order-border-fox-news-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-health-order-border-fox-news-interview.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'"
     excerpt: "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. "
     publishedDateTime: 2021-03-18T17:26:11Z
@@ -475,6 +507,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/biden-stairs-trump.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 740
+        isCached: true
+  - title: "Trump says he wrote Biden letter ‘from the heart’"
+    excerpt: "Former President Donald Trump says he wrote President Biden a lengthy letter “from the heart” before he left the White House— even though he believes Biden is “bought and paid"
+    publishedDateTime: 2021-03-22T17:51:00Z
+    webUrl: "https://nypost.com/2021/03/22/trump-says-he-wrote-biden-a-letter-despite-china-ties/"
+    ampWebUrl: "https://nypost.com/2021/03/22/trump-says-he-wrote-biden-a-letter-despite-china-ties/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-says-he-wrote-biden-a-letter-despite-china-ties/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-biden-letter-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump says migrants will be ‘flowing in by the millions’ because of Biden"
     excerpt: "Trump attributed the surge to Biden’s policies, including his termination last month of the “Remain in Mexico” policy that required Central Americans to await US asylum decisions"

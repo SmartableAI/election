@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-hires-trumps-white-house-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-hires-trumps-white-house-political-director.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Garland taps new official to lead US attorneys after Trump-era lawyers asked to resign"
+    excerpt: "Attorney General Merrick Garland on Monday tapped former acting Attorney General Monty Wilkinson to lead the U.S. attorneys within the Justice Department after the Biden administration asked Trump-appointed federal prosecutors to resign."
+    publishedDateTime: 2021-03-22T16:38:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E3l3KX5xK8o/garland-new-official-us-attorneys-trump-era-lawyers-resignations"
+    ampWebUrl: "https://www.foxnews.com/politics/garland-new-official-us-attorneys-trump-era-lawyers-resignations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-new-official-us-attorneys-trump-era-lawyers-resignations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says he hopes Meghan Markle runs for president, could return him to White House"
     excerpt: "Former President Donald Trump on Tuesday said that a he is “not a fan” of Meghan Markle but that he hopes she launches her rumored 2024 presidential run. Trump was asked in a Fox News ..."
     publishedDateTime: 2021-03-17T01:30:00Z
@@ -48,6 +64,6 @@ related:
         height: 800
         isCached: true
 
-secured: "PhhEzu49p4Ecsb908tUGwIdGi11U75eBTKiC2LOkq5I8oLm9q9bdJ/T3r0tTGFQgRdgavKs5QWQJBNe66N1CayoF4xCrZrRzbd2bmgFgI0vWAZ/HheZrKaqFCGnI+2CwvLsia4vvzrF5yWBzwrRwI9kZwUq+pYI8IBAnH5GdtysMXtJ1kqA1AuS4/59PbJLhgULCTcM/E0nhD9bkC9Ey2FfiJcbQsOvdiGf6m36dByZ42jegwZ9/rjy9wJ93ykz+JM/kNpk4ZwawJjblV2SqTwYrtXWyuMqSbBRppUeDrB9RnZ8wxQKN9rE1rQfoDY35AHKsTXxq4FZvbVteAB9HbIqKQJhrHk1hKdPCFsEHf44=;C6WBQXYw8/bWoQIvxfM2QQ=="
+secured: "+gTgVRWuUp1jE1CRjYAFDvC+vi1acDgS8FUKNeohHq1UK2HZm4u87J0+F6+Ae534D/Zk8TGTdG/ksVhmkyy2Y88YP9vhOWKKK8oXQIglTHzB13nudQSDjBukln1jef/MirY+N/daOf4BzA/iyvQGS36FZuftSeqMy7Meuv6MQgQZMOjd0JWHFNt3vSiFkDXZaWceYHdZtfUiZeohsn1OoRyM+hug08ua0sSVmzBpXWtW7CXihQPvCxVb4i7fq8MDigUEml3my9znXL6bkz2k6lT9Lz64YR1N7orOZqzqGMumKBLWL/69YuAUArLf0BYgTkKAqWL0rmnFMkVNUa92j369fOHKMPhQVgbZzr9payg=;QT6iEDcoj0jtcy1XZan4Tw=="
 ---
 

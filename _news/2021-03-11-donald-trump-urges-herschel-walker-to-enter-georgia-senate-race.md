@@ -44,6 +44,54 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Washington Post runs correction admitting it ‘misquoted’ Trump in Georgia election story"
+    excerpt: "The Washington Post admitted in a correction that it had “misquoted” former President Donald Trump telling Georgia’s top elections investigator “to find the fraud,”"
+    publishedDateTime: 2021-03-15T21:05:00Z
+    webUrl: "https://nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/"
+    ampWebUrl: "https://nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 141
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-georgia-wapo-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Call to Georgia Lead Investigator Reveals New Details"
+    excerpt: "Photo: Associated Press/Brynn Anderson/STAR MAX (Video from 1/3/21) ATLANTA—Then-President Donald Trump urged the chief investigator of the Georgia Secretary of State’s office to look for fraud during an audit of mail-in ballots in a suburban Atlanta ..."
+    publishedDateTime: 2021-03-11T15:08:00Z
+    webUrl: "https://www.wsj.com/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-309890/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Greg Gutfeld blasts WaPo's 'deep-fake news' after massive retraction in Trump-Georgia reporting"
+    excerpt: "Greg Gutfeld slammed the mainstream media in the wake of a massive correction by The Washington Post, which read in part that, contrary to the paper's original reporting, former President Donald Trump did not tell Georgia state elections investigator Frances Watson to 'find the fraud."
+    publishedDateTime: 2021-03-16T23:07:00Z
+    webUrl: "https://www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting"
+    ampWebUrl: "https://www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/328f1d5b-d529-4e88-8490-e0379d34c001/5028207a-bf2a-4a39-b87f-df5df24e887e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EwJLcfnV1zIsmgupenIYoYqHxFeC9UGW1deYfF1KUBd8EbfW3repvAzGyqiw3sIy5C2Ps61EKxr1hd0pWL1wA/l5920Mf7FJtEZIcPgXo1taUjPULc7BdI9m5aF+xBqBLCqU5YVG/k/uX1WYfL4mHC8bxIxUhKJUjRfNxpcBWVeZNgaMOtz/sGIR8zhh4TY9+1Fm0Emh9qI/A3D66FEFceY3ijftunbVyZDX8VRzV6vjFif0MtfH4Xd2Onj16+10zvgQq/dtcjohi068xd83PGknJ57tsu/e+Nz/d8SlhRHkudvKwxvRO1eSy1zjFMjwsur3imgXNOHWAWzSwY1TTCCGFCLV06SqktauHlw3KdM6Db0k16vgKA0EIzaMAhke7KRs6xoi9B8MvEUWqcw4oEx2psQ6BxcWTChIRCA/z+hLUjoXrrPmVikTEbqnLSSa8FT/Eq1Pfd8ED05VxSUIoK3E2dNuwWOObuHSi3OtSbz75hr94bat7WRAeBXOktuk85iZiZFvlkfLdHG86Ugcpw==;mUdSCnR8C0DpEpaI0tYvFw=="
 ---

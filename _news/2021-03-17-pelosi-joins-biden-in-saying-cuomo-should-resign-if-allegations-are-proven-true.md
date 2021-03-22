@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden, Erdogan exchange criticism amid worries White House giving Turkey the cold shoulder"
+    excerpt: "After verbal jabs with Russia and China last week, President Biden criticized ally Turkey's withdrawal from a European convention on violence against women, adding to the diplomatic tensions facing the early days of Biden's presidency."
+    publishedDateTime: 2021-03-22T16:14:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ch1YnSdclm0/turkey-biden-administration-erdogan"
+    ampWebUrl: "https://www.foxnews.com/politics/turkey-biden-administration-erdogan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/turkey-biden-administration-erdogan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Turkey-Erdogan-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "YVSrFAb+/YE8Fy+vxGl4Sk60a3sRAPV8pgIcEMO2/5BVl+ALe0Zjm7ArQRPTvaCLPQKAxYejq83s0o6S0jRb+zAmF5Z3RAfu5vWc3qvddx7YWEI9jRok9GwOxmlojuFqbKTMl7tLnBTv+gRqtAK43JZuz2a/PTWr/D+cCNgxECd+wivrCtHqAqZphXA8nWC9GYT5+U/u7OVFlyx5rBITAD6oso3YSyRog4IMQcT9evIY1fAh8Lp0ueNnSixXwUCEoWDW/DfQcrZcs0uREvFCZjnVWYJF09hCgBe+bEx/NVoDAEvnEP6UXFd6iJAiwIyaHepgWAKN3RQ/4mZdiZoGhDh1WJuAW5FsQNK/AafUGrc=;bHqUtgDEmCTW//36Swauug=="
 ---

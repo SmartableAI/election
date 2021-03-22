@@ -107,22 +107,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
-    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
-    publishedDateTime: 2021-03-20T02:11:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 131
-    images:
-      - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Joe Biden and Kamala Harris condemn attacks on Asian Americans – video"
     excerpt: "The US president and vice-president offered solace to Asian Americans as they visited Atlanta just days after a white gunman killed eight people, most of them Asian American women"
     publishedDateTime: 2021-03-20T10:20:00Z
@@ -976,6 +960,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch Live: Vice President Kamala Harris arrives in Jacksonville"
+    excerpt: "JACKSONVILLE, Fla — Vice President Kamala Harris will be in Jacksonville Monday afternoon. This is a part of a larger mission where President Joe Biden as well as First Lady Jill Biden have been touring the country as a part of the American Rescue Plan ..."
+    publishedDateTime: 2021-03-22T17:54:00Z
+    webUrl: "https://www.firstcoastnews.com/article/entertainment/television/programs/gmj/look-ahead-vice-presidents-visit-jacksonville/77-0ee5e431-d8f0-4102-a381-d0d2598619a6"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/entertainment/television/programs/gmj/look-ahead-vice-presidents-visit-jacksonville/77-0ee5e431-d8f0-4102-a381-d0d2598619a6"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/entertainment/television/programs/gmj/look-ahead-vice-presidents-visit-jacksonville/77-0ee5e431-d8f0-4102-a381-d0d2598619a6"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/d4ecd02d-aa9e-4950-a015-6d20f1c680bf/d4ecd02d-aa9e-4950-a015-6d20f1c680bf_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
+    excerpt: "ATLANTA — President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta on Friday, just days after a white gunman killed eight ..."
+    publishedDateTime: 2021-03-20T03:11:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 71
+    images:
+      - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Man with rifle arrested outside Vice President Kamala Harris’ official residence"
     excerpt: "Washington, DC, police arrested a Texas man outside Vice President Kamala Harris’ official residence, the US Naval Observatory, in the nation’s capital on Wednesday and he’s now facing weapons and ammunition charges. A spokesperson for Washington’s ..."
     publishedDateTime: 2021-03-18T06:28:00Z
@@ -1204,6 +1220,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "2DUyvBtv6LTh/9LPlOY9/MYU1t5qJsFF9RYsc5ff2NUmrLXsR230VPA0jX/SQ84jNZk/sjHPNDvDB1uEEVTzluf5p3+PqX0+5fOozB5QHeNfQfhqGV5kH0YYncjSX6K2TNC///IVomXY9HUUuenF+dBXAO/YJ6Q4hKggl7pW5NkUu6Y+YBeChgekRxJ5ELKP7QiAb0VGsUsBFDk2XcN93ZQPAeRmqoVmuUUbX3gmMPyrMdBfl9eIJk8UnYs49sKHaGMekHubdTkuhKL4/UXpzf5lLWwKm55l0Ytf6AVro9O57urURdl6o7FPJbGCGNC0yRLQNWSHbQFKA+EnDfLUO1cvzgIJhWwfs50odwfTNsE=;hCZPkaJnLhEFBxGD41KHdw=="
+secured: "NgujDGnvrtsDbeidB89wSuDxBeV03OR3jtTjT7LAVHMmMp4UqbvNAawuUTlTFrWD4ZiOrwyD5HF5SKb+d8iOdR0I/eIuUsQ2X3hmSIhbJAwccgRv1TbMEtbIIQwBqqml/+T0b5iB2a9Ksg7vvUfu5UgzeyJ7HmPnNgxQP9leCAm2VeJOMOhpfSmU2Ovd36BaXMEQhOCO/fKhpJHY/vDjqgqGhcBTbAU0cZ3QyTyiTJuRQ9pCTL5Isnh6YSTvuesIK7TB2RS6o9KX6zXsTyCmXhrBoivUcOm4ghZ1ikCZVWw+RoY2BNK2rUaN8455xU4WRJEOvaKT8+bLeki2a0c2HQheTDSIWsH+D5GV2BnsmPE/Qq3KK/G/wpB5Y7tvtv1wEl9w4TdmfmDtMCb6T4t+zygdr4pm6r+vFJzE6k5ycu8nw37kRr4FYSwDT0AOQ/uD/5gDBXVjsNRNBIEMn2aQncIBt2luwfD+rQTlvCgB88boIrk7WnarchDaByYA5h3QElCXyf4Di/IvmGaE/POFTA==;o3FFqrA+CXGnlwQzT9ho0g=="
 ---
 

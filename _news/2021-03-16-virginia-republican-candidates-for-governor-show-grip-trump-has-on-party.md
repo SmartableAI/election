@@ -31,53 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Pennsylvania Sen. Pat Toomey censured for his vote to impeach Trump"
-    excerpt: "Lehigh County Republicans censured Sen. Pat Toomey, the most powerful Republican elected official in the region."
-    publishedDateTime: 2021-03-10T18:26:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-gop-censures-toomey-20210310-f5444sh4fzgfhbkxlwhml23bn4-story.html?outputType=amp"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-gop-censures-toomey-20210310-f5444sh4fzgfhbkxlwhml23bn4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-gop-censures-toomey-20210310-f5444sh4fzgfhbkxlwhml23bn4-story.html?outputType=amp"
+  - title: "House Republicans who backed Trump impeachment warn Dems on Iowa election challenge"
+    excerpt: "A group of nine House Republicans that voted to impeach former President Trump has signed a letter to Speaker Nancy Pelosi (D-Calif.) warning her against pursuing an investigation into the Iowa electi"
+    publishedDateTime: 2021-03-22T17:54:00Z
+    webUrl: "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa"
+    ampWebUrl: "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: The Hill
+      domain: thehill.com
+    quality: 134
+    images:
+      - url: "https://thehill.com/sites/default/files/miller-meeksmarianette_hartrita_031921gn-courtesy-rita-hart-camp_iowa.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "House Dems ask Trump to testify oath for impeachment case"
+    excerpt: "House Democrats have asked former President Donald Trump to testify under oath for his Senate impeachment trial"
+    publishedDateTime: 2021-02-04T18:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/Nu6aiq0mA3FpEAX8-dWRtRERC8A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEYQFYBIBDRW6JISVX7DQDOEQM.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Army denies medals, Special Forces insignia to soldier Trump pardoned for alleged murder"
-    excerpt: "WASHINGTON – The Army has rejected an appeal to return medals for valor to retired Maj. Mathew Golsteyn, a Special Forces soldier former President Donald Trump pardoned for alleged murder in Afghanistan. It was one of three high-profile cases in which ..."
-    publishedDateTime: 2021-03-17T19:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/17/army-denies-medals-soldier-trump-pardoned-alleged-afghan-murder/4730488001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4730488001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4730488001"
+  - title: "Ohio Republican Wants to Rename State Park in Honor of Donald Trump"
+    excerpt: "A bill introduced to the U.S. House of Representatives would prevent Trump's name being added to any federal properties."
+    publishedDateTime: 2021-03-18T10:08:00Z
+    webUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015"
+    ampWebUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1758394/former-president-donald-trump-cpac.jpg"
+        width: 3000
+        height: 2031
+        isCached: true
+  - title: "Amid Republican civil war, Trump holds court — and his grip on GOP — at Mar-a-Lago"
+    excerpt: "The question of how much clout former president Donald Trump would retain after leaving office and where he would wield it has been answered."
+    publishedDateTime: 2021-03-15T13:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/donald-trump-holds-court-and-his-grip-gop-mar-lago/4698811001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4698811001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4698811001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 116
+    quality: 119
     images:
-      - url: "https://www.gannett-cdn.com/presto/2018/12/19/USAT/8610465d-361d-460e-955a-4c22f52660e8-AP_627059237495.jpg?auto=webp&crop=3702,2080,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/NPPP/bea9dd40-3c2d-4ec8-bd5c-bf4858badbd3-IMG-1949_2.jpg?auto=webp&crop=1727,972,x97,y0&format=pjpg&width=1200"
         width: 1200
-        height: 674
+        height: 675
         isCached: true
-  - title: "A Pennsylvania man said he would find a local Democratic Party office and \"shoot it up\" for Donald Trump. And then he did, authorities say."
-    excerpt: "Anthony Nero is accused firing his handgun at the Montgomery County Democratic Party's office in Norristown, Pennsylvania."
-    publishedDateTime: 2021-03-04T15:49:00Z
-    webUrl: "https://www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3?amp"
+  - title: "After years of Trump tweets, Republicans are suddenly outraged by mean tweets"
+    excerpt: "After spending years defending President Donald Trump’s at times racist and conspiratorial tweets, Senate Republicans are now criticizing Biden administration nominees for their tweets."
+    publishedDateTime: 2021-03-18T20:33:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/after-years-of-trump-tweets-republicans-are-suddenly-outraged-by-mean-tweets/2021/03/18/207bdfd4-ff5e-4772-8281-cfe9ec54ccb3_video.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
     images:
-      - url: "https://i.insider.com/60414fe92dc90100183557d5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-18-2021/t_d3ee9fc30cbc4c7ab0dc1fd590e6c9f7_name_20210317_GOP_TWEETS_V4.png&w=1080"
+        width: 1080
+        height: 608
         isCached: true
 
 secured: "6p+znBeKeuLacaPNSE18VjSxmCJ4ffecrf3WiExT5L2eDvJF75ZMp0e8tN4wqpV2TdFCFMZID330Yf7kbEv07KIh33jLXyXA8LOZ+7qteZpzPjHFMvRhgUHSO19L22NPQ41ekEG7yGciVyK8Idftcv7gfASBO1HpW5zlOkVi0vvgquJTVpP3CMZsZRvQm4gbqtwqGENR85O0pjaHwDVu6b/fbMWWJFzOK7twjRYzSahTt6x0wWsXp/LPh5LAtEDpJ3kVY5WIRXGbMxl149lMEm+W045odfdGqApekrfJHmx5m19+sx1f63A8qL/Rq1E2NrGiT1bM0evK1ImiLwE1hyYRnebAHOPJAY66REr0AUXJ+7EHEXX6nQ34FO5kSArjpCH1lq3CG/veZjfkXfIurKjnpzVnOXcOF/LYiPUFT7zgEFSYB5pnqt/cJzVFmXh3R6LbOoYiHHUk71v6BOzDi+UaErtbTLgwf2OangaU5oZHnwpIwOBbx+4KZnTNg9JIGIQOqstpp+6YNhUws5iY1A==;uZbSgUrWqOCpCE4EBNNoxA=="

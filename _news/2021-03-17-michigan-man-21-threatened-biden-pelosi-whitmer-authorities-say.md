@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-man-21-threatened-biden-pe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aab7725-3f20-42e1-9e76-09f996c516b6/f0437966-e7dd-4d2c-a620-29bb3724ddc7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden, Erdogan exchange criticism amid worries White House giving Turkey the cold shoulder"
+    excerpt: "After verbal jabs with Russia and China last week, President Biden criticized ally Turkey's withdrawal from a European convention on violence against women, adding to the diplomatic tensions facing the early days of Biden's presidency."
+    publishedDateTime: 2021-03-22T16:14:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ch1YnSdclm0/turkey-biden-administration-erdogan"
+    ampWebUrl: "https://www.foxnews.com/politics/turkey-biden-administration-erdogan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/turkey-biden-administration-erdogan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Turkey-Erdogan-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "FZPuaUpiIKkyyyDM9kHJj50rOmbwkL2OfiQu0+ePhRzqTJ882MO9FGoMDVGjZJJHiOwZ/rV0Wv+NH3WX94m7vNhhsnRR7jSsV5kseoyZTr99J3L0WRaJw88yD4i+SOlNWqgCPdgDIF2RtW+Ncm8KsfsUpXXrD/hoEqQQvjnyjp5Eav3dB55bqMTsrOWAvgOY75dKZEiG7wY73ickH/N32TlgCOGzRv7Dm1RUKSxNC3Ozx1Y4qMhpg78oRMtvzLa8PuIMcxtvBMLt0wxqogmko9Q3dgFY1/gMvi8us3WqKrlWg3PqEH6ftI2ws+X6iRrthnVmClE0yW/MnXZslHvOp9yaaEOme7NSQQyMBDC7iCA=;2+I2RtNDFXwFcZCAsyvBbw=="

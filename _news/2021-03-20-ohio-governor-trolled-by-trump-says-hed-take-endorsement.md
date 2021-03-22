@@ -265,6 +265,22 @@ related:
         width: 4307
         height: 2871
         isCached: true
+  - title: "Trump Flip-Flops on the Filibuster"
+    excerpt: "Trump often said the filibuster was killing the Republican Party. Now, he says keeping it is the key to the party’s survival."
+    publishedDateTime: 2021-03-22T17:25:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/trump-flip-flops-on-the-filibuster.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/trump-flip-flops-on-the-filibuster.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/trump-flip-flops-on-the-filibuster.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/b4e/c84/38c846a2c58da07fbaf6e4e88f4bca691a-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+oA7FBfUGmPpXcaCti26vRXchLZz+8dII4gbuJxvagdRD6T06zr3xKFCpOCbDoGTNIR7+14iZN0xHgHYe8+IdKCSkHjf8lyWZPBfC9fyx1fxfP+kaMQBeG83LRYTAKSgc/cEN0T7ggwpAZiAo89w9GzHNMRRrCZnAcISWXNSBscMnUfYT3hGE4r3tYL1j7iUKoS5RBnVIcpheS2AIrBveiKra6w6Oxb+2rfpFsOmh6c1MTHGsu1T0k/VKNpXoxs6/4s6eqfE8R92wj18ou5on6QLkF8ICaZeb0p7QeSzOPs6GoqW0vNICD78n4t2h4nhR5VSNHf7x4OTH1yw27Gt0O7uNWt6/a8h8LueXjutoAE=;XkrdbFgnsP0lFzhiaFF74A=="
 ---

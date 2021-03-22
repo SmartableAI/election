@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP hopefuls crank up the ‘if-Trump-doesn’t-run’ primary"
+    excerpt: "For potential candidates, there is little choice but to prepare as though they are running and Trump isn’t — and then watch it all evaporate if he does."
+    publishedDateTime: 2021-03-22T17:10:00Z
+    webUrl: "https://www.politico.com/news/2021/03/22/2024-election-trump-477353"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/22/2024-election-trump-477353"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/22/2024-election-trump-477353"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/46/44/311f22e0423cb5aea6458887b7e9/ap21058693308535-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Russia tried to help Trump in 2020, Iran tried to hurt him and China stayed out of it, says new report"
     excerpt: "WASHINGTON — Despite repeated assertions by senior Trump administration officials that China sought to hurt then-President Donald Trump in the 2020 election, a newly declassified intelligence assessment finds that China did not seek to influence the outcome."
     publishedDateTime: 2021-03-16T19:53:00Z

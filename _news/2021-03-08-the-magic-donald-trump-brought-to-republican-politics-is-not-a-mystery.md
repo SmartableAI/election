@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trum
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp"
 type: article
 quality: 124
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1751479/senator-lindsey-graham.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Amid Republican civil war, Trump holds court — and his grip on GOP — at Mar-a-Lago"
-    excerpt: "The question of how much clout former president Donald Trump would retain after leaving office and where he would wield it has been answered."
-    publishedDateTime: 2021-03-15T13:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/donald-trump-holds-court-and-his-grip-gop-mar-lago/4698811001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4698811001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4698811001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/07/NPPP/bea9dd40-3c2d-4ec8-bd5c-bf4858badbd3-IMG-1949_2.jpg?auto=webp&crop=1727,972,x97,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "1xybjxliIyYQACLmYnW9HLwev72XNGrQLnKSuVA2wJ6oNdZxTaX1PbsltOAQC/cKVOxe3swblJ5gRX8SEAyyyAeb+8jZfGjwvpxsAsagE02nnQF6llDctF8ZfT2VfbSdquIz5ajagpH6cKBviJxqryiS2/6ohdtDLHSPzeb4DLqugv4DFmw5koAZNxURuxwMpXTnyLYuNmRHTwpXbgLZgPYdHfay6y8Mj/q+GUxYXX5vx9j4Mg/NBuXvlX6C7zNF7LRHmVxGzkQsVHWIdg7FZKDQ5zEsKeP8IFi/VVBaUo13w0UyGo8ty2HI2yMjnfg3qXC5hu/XiHBMnbp71w8u51c5cxm14iciDAfr3n3OjnW28mLrdgxlBsC5295ttDsRi9fU0Y3KIqMFsegnLRzNM+iqddVpWT67CRzTnFG4OC7+aKdGQS54CogtrhzpZVhAsNoddC6fB81fO89LsVGJy4P7GtnN04PQ1VtLcnV5Abi2hbHCTyR3UOdHkEgqgQmXOzgQ+N30mgcvWUWnbsKpdw==;Js+ZQFeDM4nySEpWx524fA=="

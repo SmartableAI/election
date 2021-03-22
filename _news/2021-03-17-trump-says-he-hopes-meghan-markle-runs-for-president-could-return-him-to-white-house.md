@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Garland taps new official to lead US attorneys after Trump-era lawyers asked to resign"
+    excerpt: "Attorney General Merrick Garland on Monday tapped former acting Attorney General Monty Wilkinson to lead the U.S. attorneys within the Justice Department after the Biden administration asked Trump-appointed federal prosecutors to resign."
+    publishedDateTime: 2021-03-22T16:38:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E3l3KX5xK8o/garland-new-official-us-attorneys-trump-era-lawyers-resignations"
+    ampWebUrl: "https://www.foxnews.com/politics/garland-new-official-us-attorneys-trump-era-lawyers-resignations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-new-official-us-attorneys-trump-era-lawyers-resignations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Ex7QnDTCuKI9b6/pHSgNR17TxIuWf+2uIi8yVrV3I0LJPMVnA/qABJL+aP9g4GjLnI+N1yn+zWeRATF6DnchoXkgJX4b8zXM/CgJuTfjETzsI1UUiqp1O2H94QY3m68FOiKQqaB8MBs8Qp3gaadEm7sez9RG0JOaPUUYXhxgg+iFSxB6RHhpxLWO9oeR5OAAnSMjZQtPZ/h6cNKHg2wOQpp1vlcgrUHTmGcO3AKfQ1PiFMgHCaYxAi2FvIVoXQ/0caXHqPxTcsqADd3B5q0V8CfqM8xMf+nVXgtt4GJD5SVQzpfnmyx/oZljDhIrpnYxmAJs6IMiHD7IhxzwtaF8LkS7G6uNyxIZBrDEC1p1MsD0wEYSS55J4kMJ54iLCxN/ShSLeZaPevNloPianw5RJu0FLBbfzCyLn7oBT7bxgBea8KbPybj7qHkUdiovykAQj+8s+QzZemBOxBhXaJlG0EY3tsyfFwzXaeiwNNaD2wdsMzTq+TF3HlO0fdzSmP21fzH49nd9F4GeLyZHqSW6GA==;bodhI63AkVLNtD1T0QIOLA=="
 ---

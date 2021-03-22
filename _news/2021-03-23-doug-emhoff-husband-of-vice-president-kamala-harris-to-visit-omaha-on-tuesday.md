@@ -1,0 +1,65 @@
+---
+category: news
+title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
+excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
+publishedDateTime: 2021-03-22T17:08:00Z
+originalUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.html"
+webUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.html"
+ampWebUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.amp.html"
+type: article
+quality: 71
+heat: -1
+published: false
+
+provider:
+  name: Omaha.com
+  domain: omaha.com
+
+topics:
+  - Election
+  - Kamala Harris
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/ff/9fff39ec-8b26-11eb-9974-ebd1af91d058/5fa6d8b7cf982.image.jpg?crop=299%2C487%2C929%2C107"
+    width: 299
+    height: 487
+    isCached: true
+
+related:
+  - title: "Vice President Harris will travel to Jacksonville Monday for 'Help is Here' tour touting relief bill"
+    excerpt: "American Rescue Plan will bring about $17 billion to Florida, according to estimates Vice President Kamala Harris will travel to Jacksonville, Florida, on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an ..."
+    publishedDateTime: 2021-03-21T21:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/21/vice-president-kamala-harris-jacksonville-florida-visit/4792761001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4792761001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4792761001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PFRE/2aeae88e-c268-47e8-8a18-dcb9c85b20e8-kamala_harris.jpg?auto=webp&crop=4500,2532,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
+    excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
+    publishedDateTime: 2021-03-15T21:35:00Z
+    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
+    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 70
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+
+secured: "lfmB/SDoLKTF1hPFBPh2nW7RtfOzPtgxpgKgUVbVD+7Xg75g9HXIUs81N3t3i77rtXX+uFv4c9jMWxavF9twgILIMmT3uFKkt6qIEdjkGXrK9serr8/tunKPuDX23/KUmX/Tcx0gzp+RGySB8nPfKq2n8UjzdAbuW/6nRNJ8kpwgCn7mqLD4oGzGD9u7oFW/1fzkSkJIrTUQf0rQO1zLj0t9Brhqt6oTkesUPAleGjqzvy2Jbxy3uyoJKAFgyrNyFMlRdIKosxadRXwJ9Ozm2EMUDT1P+mTuyB9tgYT2NY1GaRVWTCkJ/oFxAlgcRh9PCqRBFTW3wLcM94No7Ig41F23bv50/24VvqK+XUCx+sE=;sdqVvSYJwRDucigSyF6mTQ=="
+---
+
