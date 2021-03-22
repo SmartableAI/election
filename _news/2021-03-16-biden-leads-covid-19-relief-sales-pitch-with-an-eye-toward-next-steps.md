@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-covid-pennsylv
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-covid-pennsylvania/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -170,6 +170,20 @@ related:
       - url: "https://static.politico.com/88/fe/817de5cf44d4ab032b9c198150fa/ap21075642381335-1.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Poor countries are fighting with drug companies over vaccines. Now Biden must pick a side."
+    excerpt: "Some lawmakers want the WTO to waive patent protections on vaccines, but drug companies say the move would cut into their profits."
+    publishedDateTime: 2021-03-22T00:09:00Z
+    webUrl: "https://www.politico.com/news/2021/03/21/coronavirus-vaccine-wto-477272"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 105
+    images:
+      - url: "https://static.politico.com/a5/c1/56a9e77d4538a1a5ff83b4c1e58a/19221-warren-sanders-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "k/WSAprI1pbg/X7I7YecJyMc/kS0UhJgB+aXZ+S4PXUrW9oz6uugWH3GemP1aX7GWeXK3VfG/i+dbXEnHMDh4+KBZu8f54tif7FIULMDHYchYLieqAFtXZPg1Jc6lUpGMU+6Za/qTtM3t6zqw6AqmAR9ldUpSt4BmAqU7fdnPCzu47ily+4275FHdKmu76gJVt1x94MYDq0FGEbBb6Q7Ypu9iTxjkt5BAXmlaC3JXm0NzKFD4/0VTZZJN9lR6TfzjBHYVgnvjvKdVipm2Jjvs77AniPv77owU7Zm44rFBclaDKs8n/3s7ZhiGypRQ4tAkDuqmcwOmgzveEW8gvB17rGNu+gefZ9NbnONLtan5ZA=;ClybB/OWSISFt83L1s8KMw=="

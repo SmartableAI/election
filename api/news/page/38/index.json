@@ -2,6 +2,119 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-01-20-sotomayor-mispronounces-kamala-harris-name-twitter-reacts.md",
+      "title": "Sotomayor mispronounces Kamala Harris' name – Twitter reacts",
+      "excerpt": "Supreme Court Justice Sonia Sotomayor on Wednesday botched the pronunciation of Kamala Harris’ name during her swearing-in as the nation’s next Vice President – and the Twittersphere was quick to pounce on the mistake.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yR9OCBPOPeo/sotomayor-mispronounces-kamala-harris-name",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yR9OCBPOPeo/sotomayor-mispronounces-kamala-harris-name",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sotomayor-mispronounces-kamala-harris-name.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sotomayor-mispronounces-kamala-harris-name.amp",
+      "publishedDateTime": "2021-01-20T11:17:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-pelosi-says-trump-could-be-accessory-to-murder-in-connection-with-capitol-riot.md",
+      "title": "Pelosi says Trump could be 'accessory to murder' in connection with Capitol riot",
+      "excerpt": "House Speaker Nancy Pelosi said former President Donald Trump could be considered an accessory to murder in connection with this month's deadly riot at the U.S. Capitol. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IafQ1UgbJc/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IafQ1UgbJc/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots.amp",
+      "publishedDateTime": "2021-01-20T11:11:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-donald-trump-grants-clemency-to-legendary-las-vegas-gambler-billy-walters.md",
       "title": "Donald Trump grants clemency to legendary Las Vegas gambler Billy Walters",
       "excerpt": "Famed sports gambler Billy Walters was among the 143 people to which outgoing President Donald Trump granted clemency in his final day in office.",
@@ -1238,114 +1351,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says.md",
-      "title": "Iran's nuclear 'breakout time' has shrunk to three-four months, Biden's top diplomat pick says",
-      "excerpt": "The time it would take Iran to make enough fissile material for a single nuclear weapon has fallen to three or four months from over a year under the 2015 Iran nuclear deal, President-elect Joe Biden's choice to be the top U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-state-iran/irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says-idUSKBN29O2HD?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-state-iran/irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says-idUSKBN29O2HD?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548353909&r=LYNXMPEH0I1I0&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-biden-dni-nominee-haines-says-aim-should-be-to-out-compete-china.md",
-      "title": "Biden DNI nominee Haines says aim should be to 'out-compete China'",
-      "excerpt": "President-elect Joe Biden's nominee for Director of National Intelligence Avril Haines said, if confirmed, she would focus on providing intelligence to support efforts to \"out-compete China,\" while committing to doing more training to educate Americans on the country's malign foreign influence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wE5mXGXtiuM/biden-director-national-intelligence-haines-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wE5mXGXtiuM/biden-director-national-intelligence-haines-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp",
-      "publishedDateTime": "2021-01-19T11:33:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump says GOP has 'pretty deep bench' if he doesn't seek reelection"
+    excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Biden: Back to the future on immigration, Afghanistan, Iran Juan Williams: Biden flips the script The Memo: Two months in ..."
+    publishedDateTime: 2021-03-22T13:48:00Z
+    webUrl: "https://thehill.com/homenews/campaign/544283-trump-says-gop-has-pretty-deep-bench-if-he-doesnt-seek-reelection"
+    ampWebUrl: "https://thehill.com/homenews/campaign/544283-trump-says-gop-has-pretty-deep-bench-if-he-doesnt-seek-reelection?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/544283-trump-says-gop-has-pretty-deep-bench-if-he-doesnt-seek-reelection?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_cpac_022821getty_trump.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Fauci: Trump should urge his followers to get vaccinated"
     excerpt: "Dr. Anthony Fauci says he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine Here’s every public figure who has ..."
     publishedDateTime: 2021-03-14T16:59:00Z
@@ -156,6 +172,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/27A4/production/_116384101_mediaitem116381016.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Trump looking to launch social media platform, adviser says"
+    excerpt: "\"I do think that we're going to see President Trump returning to social media, probably in about two or three months here, with his own platform,\" Trump adviser Jason Miller said."
+    publishedDateTime: 2021-03-22T10:58:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-social-media-platform-plans/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-social-media-platform-plans/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-social-media-platform-plans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/03/a3609d17-d800-4611-b52e-8958068303e6/thumbnail/1200x630/29af8fb43ed2f9bbdcf7f31d66b86712/gettyimages-624664040.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
     excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."

@@ -172,6 +172,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Poor countries are fighting with drug companies over vaccines. Now Biden must pick a side."
+    excerpt: "Some lawmakers want the WTO to waive patent protections on vaccines, but drug companies say the move would cut into their profits."
+    publishedDateTime: 2021-03-22T00:09:00Z
+    webUrl: "https://www.politico.com/news/2021/03/21/coronavirus-vaccine-wto-477272"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 105
+    images:
+      - url: "https://static.politico.com/a5/c1/56a9e77d4538a1a5ff83b4c1e58a/19221-warren-sanders-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "NIrzjkkDcNl5LM7hCxkWryGQrUgR0tVluXDSrFYMwkmwBd0OItYC7CGYAeepKIxfW85Ywf2g+LySMArXjMXnSTCCJVeN9SCZm1ID6NPzbF8QESuLfQMbca4f0s9xjCGZy53XopamIwISHC2iG6lltoIpkidHo6YNMoYTh2eQjbKVxr+X+pVukUlvgkZIM6W+/AUCHDMbVdW+ScuGYcyjbCmm97nxKCmRDjp7piblzQS75bW77GZl5gKglojXipF8v/gm+wsEyO16WoX+2uXNUp9ICBfp4LbCLw389cRh9cpK3z7A7Ks6dhwQDs35duE8ZAl6B0Q3npFrT1OuCf/4JrMZDlVda2D2U3YZxB0XwdI=;adXBfq4oSr736r+ywn26rQ=="
 ---

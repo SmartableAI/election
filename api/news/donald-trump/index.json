@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-22-trump-republicans-need-stronger-and-better-leadership-than-mcconnell.md",
+      "title": "Trump: Republicans need 'stronger' and 'better' leadership than McConnell",
+      "excerpt": "Former President Trump Donald Trump The Hill's Morning Report - Biden: Back to the future on immigration, Afghanistan, Iran Juan Williams: Biden flips the script The Memo: Two months in ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/state-watch/544281-trump-republicans-need-stronger-and-better-leadership-than-mcconnell",
+      "originalUrl": "https://thehill.com/homenews/state-watch/544281-trump-republicans-need-stronger-and-better-leadership-than-mcconnell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/544281-trump-republicans-need-stronger-and-better-leadership-than-mcconnell?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/544281-trump-republicans-need-stronger-and-better-leadership-than-mcconnell?amp",
+      "publishedDateTime": "2021-03-22T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-as-ivanka-trump-regroups-in-miami-speculation-bubbles-about-her-plans.md",
       "title": "As Ivanka Trump Regroups in Miami, Speculation Bubbles About Her Plans",
       "excerpt": "Rumors of Ivanka Trump's potential return to politics have swelled as the former White House adviser enjoys the Miami sunshine with her family.",
@@ -1494,58 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-trump-net-worth-dropped-by-700-million-during-presidency-report.md",
-      "title": "Trump Net Worth Dropped By $700 Million During Presidency: Report",
-      "excerpt": "Former President Donald Trump lost about a quarter of his overall wealth during the four years he served in the White House, according to the latest estimate from the Bloomberg Billionaire Index. When Trump took office in 2017, his net worth was estimated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
-      "originalUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1758105/donald-trump.jpg",
-          "width": 1024,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1",
-      "publishedDateTime": "2021-03-17T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-15-what-the-hell-is-wrong-with-them-biden-rips-republicans-for-refusing-to-don-masks-during-siege.md",
+      "title": "'What the hell is wrong with them?': Biden rips Republicans for refusing to don masks during siege",
+      "excerpt": "President-elect Joe Biden is taking aim at some Republican members of Congress who refused to wear masks while huddling in secure rooms last week during the storming of the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Toh_TUvjSTI/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Toh_TUvjSTI/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege.amp",
+      "publishedDateTime": "2021-01-15T15:16:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane.md",
       "title": "FBI agent in Trump-Russia's request for 'validation' of Steele reporting denied, left Crossfire Hurricane",
       "excerpt": "An agent involved in the FBI’s original Trump-Russia case left the Crossfire Hurricane team amid a “professional disagreement” with Bill Priestap, after the former assistant director of counterintelligence denied his request for an “enhanced validation review” of Christopher Steele’s reporting. ",
@@ -1605,62 +1661,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.amp",
       "publishedDateTime": "2021-01-11T13:46:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-pamela-anderson-appeals-trump-to-pardon-assange-and-stand-up-for-free-speech.md",
-      "title": "Pamela Anderson appeals Trump to pardon Assange and stand up for free speech",
-      "excerpt": "EXCLUSIVE: Supporters of WikiLeaks founder Julian Assange are making a final appeal to the outgoing President Trump to show his commitment to free speech by granting a full pardon to the jailed publisher.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-TTdbTwbtY/exclusive-pamela-anderson-trump-pardon-julian-assange",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-TTdbTwbtY/exclusive-pamela-anderson-trump-pardon-julian-assange",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/exclusive-pamela-anderson-trump-pardon-julian-assange.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-pamela-anderson-trump-pardon-julian-assange.amp",
-      "publishedDateTime": "2021-01-11T11:49:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

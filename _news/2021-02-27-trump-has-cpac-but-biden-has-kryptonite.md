@@ -1064,6 +1064,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Surge at the Border Challenges Biden as He Reverses Trump Policies"
+    excerpt: "Somehow, they didnt see it coming. Within weeks of Inauguration Day on Jan. 20, the Biden administration had reversed many of the"
+    publishedDateTime: 2021-03-22T12:59:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/22/surge_at_the_border_challenges_biden_as_he_reverses_trump_policies_145452.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/22/surge_at_the_border_challenges_biden_as_he_reverses_trump_policies_145452.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/22/surge_at_the_border_challenges_biden_as_he_reverses_trump_policies_145452.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 100
+    images:
+      - url: "https://assets.realclear.com/images/53/538397_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "iwxV3hRzJBGw8o6rHLWe2tXdsGR5OPwdcXLDJmZRxld+atLtgyb4/Xb5/McBpiT6/i6WmEqeeoJ0Xn68uK/2A5xC5AdlOc1KTxQVldCRVYHZCUH8iTV6NVxTw7N6C/vZHWq9gko7dpRODfXnanNmz0W9DwxUw2hm2rBmqdn7ndmLG6jvb1RMf5afYV8FLewaBNT0aiD1xRiJ4oYiDc2XJbP9kVwnbDp6Ft3BVh25kBaCH4OeLy/IXjpN88Tc4u+2ALL3BIXJdJu16FoP1JdFcg4v8xOw4Wu3i0zf42EQmYgqZzVAe1QXwDH8XS0FWLNrUzpcDaEP5gk8Zr44wZ9O8UhUudVnI4Ld+64YGWKGHMw=;5dhvRqIh7KC9Lp6hzyWj9A=="
 ---

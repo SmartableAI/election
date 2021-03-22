@@ -2,6 +2,118 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-23-hillary-clinton-co-writing-international-political-thriller-with-trump-overtones.md",
+      "title": "Hillary Clinton co-writing 'international political thriller' with Trump overtones",
+      "excerpt": "Clinton's novel features a female \"novice Secretary of State'' who seeks to \"unravel a deadly conspiracy.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wtCzpu7EEU/hillary-clinton-novel-state-of-terror-louise-penny",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wtCzpu7EEU/hillary-clinton-novel-state-of-terror-louise-penny",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/47223480-f1f2-47c4-8277-c23d6981805a/8cce2f2b-c200-47a0-a2bd-0763abfbcf6b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-novel-state-of-terror-louise-penny.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-novel-state-of-terror-louise-penny.amp",
+      "publishedDateTime": "2021-02-23T08:42:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-a-new-trump-loyalist-party-makes-room-for-the-proud-boys.md",
+      "title": "A new Trump loyalist 'party' makes room for the Proud Boys",
+      "excerpt": "CNN's Elle Reeve went to a Patriot Party event in Harrisburg, PA, but things weren't what they seemed.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ziyxbcU-ktE/proud-boys-and-patriot-party-orig-jm.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ziyxbcU-ktE/proud-boys-and-patriot-party-orig-jm.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210209152447-patriot-party-pa-10-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn",
+      "publishedDateTime": "2021-02-23T07:24:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-in-virginia-gubernatorial-race-amanda-chase-casts-herself-as-trump-in-heels.md",
       "title": "In Virginia gubernatorial race, Amanda Chase casts herself as 'Trump in heels'",
       "excerpt": "Republican Virginia State Sen. Amanda Chase is doing everything she can to present herself as the Donald Trump in a governor's race full of Liz Cheneys and Mitt Romneys.",
@@ -508,7 +620,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1490,
+      "heat": 1510,
       "tags": null,
       "images": [
         {
@@ -1258,111 +1370,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-trump-wants-us-to-make-it-wild-six-more-oath-keepers-associates-charged-in-capitol-riot-conspiracy-case.md",
-      "title": "Trump 'wants us to make it WILD': Six more Oath Keepers' associates charged in Capitol riot conspiracy case",
-      "excerpt": "Six people, including two husband-and-wife pairs, were added to a federal conspiracy case Friday for alleged coordinated efforts in the Capitol attack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/19/6-more-oath-keepers-associates-charged-capitol-riot-conspiracy-case/4512038001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/19/6-more-oath-keepers-associates-charged-capitol-riot-conspiracy-case/4512038001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/19/USAT/bede0245-a240-401f-a4ad-9fb1ba8ed9af-XXX__JC31911.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4512038001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4512038001",
-      "publishedDateTime": "2021-02-22T03:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-biden-to-mark-covid-death-milestone-with-candle-ceremony-at-white-house-live-updates.md",
-      "title": "Biden to mark Covid death milestone with candle ceremony at White House – live updates",
-      "excerpt": "President will address nation this evening on the American lives lost to the pandemic",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1747,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ecd26e64a62e2a874f9252d229d29e4dff42152c/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3043c626a971a82677c75ca62086185",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates",
-      "publishedDateTime": "2021-02-22T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
       ]
     }
   ],

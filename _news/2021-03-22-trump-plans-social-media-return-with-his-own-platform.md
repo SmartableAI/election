@@ -96,6 +96,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump looks to take down Raffensperger in Georgia"
+    excerpt: "The former president is expected to endorse Rep. Jody Hice, who supported Trump's efforts to overturn the 2020 election results, against the Georgia secretary of state."
+    publishedDateTime: 2021-03-22T03:19:00Z
+    webUrl: "https://www.politico.com/news/2021/03/21/trump-raffensberger-georgia-jody-hice-477424"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/21/trump-raffensberger-georgia-jody-hice-477424"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/trump-raffensberger-georgia-jody-hice-477424"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b5/71/a9c1e6e94f158387f7f935b5d1b7/ap21004094902869-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Fired by Trump White House, brother of impeachment witness Vindman now says Army set to promote him"
     excerpt: "The brothers were both Army officers serving on the National Security Council when they raised concerns about former President Donald Trump's phone call to Ukranian President Volodymyr Zelensky in July 2019. They told an NSC lawyer that Trump's phone call ..."
     publishedDateTime: 2021-03-16T12:43:00Z

@@ -1053,6 +1053,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Surge at the Border Challenges Biden as He Reverses Trump Policies"
+    excerpt: "Somehow, they didnt see it coming. Within weeks of Inauguration Day on Jan. 20, the Biden administration had reversed many of the"
+    publishedDateTime: 2021-03-22T12:59:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/22/surge_at_the_border_challenges_biden_as_he_reverses_trump_policies_145452.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/22/surge_at_the_border_challenges_biden_as_he_reverses_trump_policies_145452.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/22/surge_at_the_border_challenges_biden_as_he_reverses_trump_policies_145452.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 100
+    images:
+      - url: "https://assets.realclear.com/images/53/538397_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Trump Has CPAC, But Biden Has Kryptonite"
     excerpt: "Julian Zelizer writes that as former President Donald Trump gears up to make his first post-presidential appearance at CPAC, President Joe Biden has a unique opportunity to counter Trump's bluster -- by not reacting."
     publishedDateTime: 2021-02-27T13:43:00Z

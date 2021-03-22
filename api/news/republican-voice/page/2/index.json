@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-17-hunter-biden-film-being-produced-by-irish-filmmakers-not-hollywood.md",
+      "title": "Hunter Biden film being produced by Irish filmmakers — not Hollywood",
+      "excerpt": "A movie about Hunter Biden’s “wild life and dodgy business dealings” will be the new focus of the Irish filmmaking couple behind “Gosnell: The Trial of America’s Biggest Serial Killer,” a 2018 crowdfunded drama based on the real-life abortionist and convicted murderer Kermit Gosnell.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fCh7KwNeQy8/hunter-biden-movie-irish-filmmakers-hollywood",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fCh7KwNeQy8/hunter-biden-movie-irish-filmmakers-hollywood",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-poster.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-movie-irish-filmmakers-hollywood.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-movie-irish-filmmakers-hollywood.amp",
+      "publishedDateTime": "2021-03-17T03:22:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.md",
       "title": "Ohio GOP state lawmaker wants Trump’s name on state park; Dem blasts idea",
       "excerpt": "A Republican state lawmaker in Ohio says he plans to introduce a bill to rename a state park after former President Donald Trump – but at least one state Democrat quickly criticized the idea.",
@@ -577,7 +633,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 194,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1623,63 +1679,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-silence-on-cuomo-continues-for-kamala-harris-who-crusaded-against-brett-kavanaugh.md",
-      "title": "Silence on Cuomo continues for Kamala Harris, who crusaded against Brett Kavanaugh",
-      "excerpt": "Vice President Kamala Harris has not weighed in on the swelling sexual misconduct allegations against New York Gov. Andrew Cuomo. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5e96535-8049-4a95-9d9c-69ba9b304ef5/573d402d-aa19-4ae7-b06f-a22eb03424e7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp",
-      "publishedDateTime": "2021-03-11T12:18:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

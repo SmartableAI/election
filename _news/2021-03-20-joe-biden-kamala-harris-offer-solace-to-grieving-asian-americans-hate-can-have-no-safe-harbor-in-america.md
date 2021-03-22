@@ -8,7 +8,7 @@ webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-
 ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
 type: article
-quality: 121
+quality: 131
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
@@ -412,6 +413,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1758354/kamala-harris-paul-murray-guns.jpg"
         width: 2500
         height: 1668
+        isCached: true
+  - title: "Feminist activists are eager to build on Kamala Harris' ascent to vice president"
+    excerpt: "Kamala Harris may not be the president, but for those on the front lines of the battle to see a woman behind the Resolute desk, her ascendancy to the No.2 spot is an undeniable victory to build upon. \"That is a huge milestone to cross over,\" said Stephanie ..."
+    publishedDateTime: 2021-03-21T12:00:00Z
+    webUrl: "https://www.cnbc.com/2021/03/21/feminist-activists-are-eager-to-build-on-kamala-harris-ascent-to-vice-president.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/03/21/feminist-activists-are-eager-to-build-on-kamala-harris-ascent-to-vice-president.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/21/feminist-activists-are-eager-to-build-on-kamala-harris-ascent-to-vice-president.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106662471-1597341518338-kamm.jpg?v=1597341553"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Attacks on Asian Americans are up. What is the Biden administration doing about it?"
     excerpt: "WASHINGTON – The concerns President Joe Biden expressed Wednesday following the fatal shootings of Asian Americans in Georgia echoed the comments he's made since taking office, a tenure that began with an executive action condemning racism and ..."
@@ -1026,6 +1043,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Kamala Harris to visit vaccination site, Feeding Northeast Florida during Jacksonville stop"
+    excerpt: "Vice President Kamala Harris will make stops Monday afternoon in Jacksonville at a COVID-19 vaccination site and Feeding Northeast Florida as part of the administration's \"Help is Here\" tour promoting its $1.9 trillion federal relief legislation aimed ..."
+    publishedDateTime: 2021-03-22T11:57:00Z
+    webUrl: "https://www.jacksonville.com/story/news/nation-world/2021/03/22/vp-kamala-harris-visit-feeding-northeast-florida-jacksonville/4796087001/"
+    ampWebUrl: "https://amp.jacksonville.com/amp/4796087001"
+    cdnAmpWebUrl: "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/4796087001"
+    type: article
+    provider:
+      name: The Florida Times-Union
+      domain: jacksonville.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NFTU/b1805c12-0305-47e6-aef8-ac0789021d94-FLJAX_101920_9KamalaHarris.jpg?auto=webp&crop=3493,1965,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Kamala Harris to visit vaccination site, feeding Northeast Florida in Jacksonville Monday"
     excerpt: "JACKSONVILLE, Fla. — Vice President Kamala Harris will be visiting a vaccination site and Feeding Northeast Florida in Jacksonville on Monday. The trip is part of Vice President Harris and President Joe Biden's ongoing \"Help is Here\" tour, a cross ..."
     publishedDateTime: 2021-03-22T03:31:00Z
@@ -1085,16 +1118,16 @@ related:
         height: 433
         isCached: true
   - title: "VP Kamala Harris Meets with LAbor Leaders in the Ceremonial Office"
-    excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice President Harris met with Randi Weingarten from the American Federation of Teachers,"
+    excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice ..."
     publishedDateTime: 2021-03-18T16:06:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/61a20349bff893bc7a30cabeb1a3b1f7/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4eaf0fea4ea20a20920673e1ffbe7438/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/61a20349bff893bc7a30cabeb1a3b1f7/HARRIS-HISTORY-MONTH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4eaf0fea4ea20a20920673e1ffbe7438/HARRIS-HISTORY-MONTH.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1160,6 +1193,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "1cvAw0nibBsPevN+5iYsAv7eX6X18qTqo7dXhLGkEMG+3FvbCnh51I+Tuto4fjxs9iKMMPgn/RxJ6beqVBhiXmqFr9UOI4eVni5c8VhcUD4bVoDDMiywvv4mScMJILvXBqiZZto+EudcptKGkBFoYd1XZyy6TmIRexGn56KNtg1lKlXR9oHCoVFivQy+e68gK8hpRcZTqhVi+l//4sdj7ZDw9g0i/oD6QdOZCMxzjoPyNd6dOShnQ8uowAEgThP2fhd+HiKWX5Nr+eIePfxmM2GZzYr5WusCvezjpvB5ir3I3evH4gVrEx6kujoPlYsCR080xiJuWKaP2H8S/ctHGhIxBzYpFXpXeZgCZz8vNX0=;GSwlfEe2DMUzNrXA1GFpwQ=="
+secured: "1yb14QKWZcbmSn9NCCHE1qp4KGR5G76K8kbhIgQGG2dtV/Xy2Fed2y6sZ+06SHF8R7pt6g49o1In9Ic0aPOygdzcSPoRHgGkiIQ+5fGeFCLNl57lzMAovy3HS7WPyO7IKhTp58bIq+p9NYLs1S8jgcGWzoTHL8anlkSYsHZsVZUIDmuhKhgNl071mM9Oi52FfTXtWGO04OUyGVBueplH9wNZ1SJlGGwDZtzrSk2FB6Z/N7TUd26HDhNr0aImEeisFnh/iruhVoYWR/WOfGdcLD0xY4tFL1lgP2j9WKm9VTV+6aaGE4oi2UfT9aFYKbei8WtNI6FdKvW4LljHdj+nUr9ERxw3yzPOYXtu0ZSvENfRPVBwsvcXd6o1MMgPcKXcA75ne5bv+73gj6w2v2nnsDdkStb9K4w1Hgfgh+kBSS6FvG6GxRIgtD3uTT0Gg8LEJ+7w3j5CEMZM7IADUanFKoQHqaqxMcFO2feojn9o7OhH8bK5lAThwdaRMpukeHyeaD3Y9S/MOz+t/ze+HrUHjQ==;moDK6QnjDNGjFG3oxvqUAg=="
 ---
 

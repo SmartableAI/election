@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-anno
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
 type: article
 quality: 174
-heat: 314
+heat: 334
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/07/c1/69b4871745b3965c09fc92d63ffb/210321-cotton-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump looks to take down Raffensperger in Georgia"
+    excerpt: "The former president is expected to endorse Rep. Jody Hice, who supported Trump's efforts to overturn the 2020 election results, against the Georgia secretary of state."
+    publishedDateTime: 2021-03-22T03:19:00Z
+    webUrl: "https://www.politico.com/news/2021/03/21/trump-raffensberger-georgia-jody-hice-477424"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/21/trump-raffensberger-georgia-jody-hice-477424"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/trump-raffensberger-georgia-jody-hice-477424"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b5/71/a9c1e6e94f158387f7f935b5d1b7/ap21004094902869-1.jpg"
         width: 1160
         height: 773
         isCached: true

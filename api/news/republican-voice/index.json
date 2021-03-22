@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-22-mccarthy-hires-trumps-white-house-political-director-to-lead-operation.md",
+      "title": "McCarthy hires Trump’s White House political director to lead operation",
+      "excerpt": "House Minority Leader Kevin McCarthy hired one of former President Trump's top staffers to lead his political operation, a source familiar with the hire told Fox News. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mRPHZVrGMmw/mccarthy-hires-trumps-white-house-political-director",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mRPHZVrGMmw/mccarthy-hires-trumps-white-house-political-director",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-hires-trumps-white-house-political-director.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-hires-trumps-white-house-political-director.amp",
+      "publishedDateTime": "2021-03-22T05:43:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-trump-returning-to-social-media-with-his-own-platform-in-2-3-months-adviser.md",
       "title": "Trump returning to social media with 'his own platform' in 2-3 months: adviser",
       "excerpt": "Former President Donald Trump will be back on social media in the near future with his own service, according to one of his senior advisers.",
@@ -1581,62 +1637,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/border-crisis-worse-obama-arizona-sheriff-biden-immigration.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-worse-obama-arizona-sheriff-biden-immigration.amp",
       "publishedDateTime": "2021-03-17T05:50:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-hunter-biden-film-being-produced-by-irish-filmmakers-not-hollywood.md",
-      "title": "Hunter Biden film being produced by Irish filmmakers — not Hollywood",
-      "excerpt": "A movie about Hunter Biden’s “wild life and dodgy business dealings” will be the new focus of the Irish filmmaking couple behind “Gosnell: The Trial of America’s Biggest Serial Killer,” a 2018 crowdfunded drama based on the real-life abortionist and convicted murderer Kermit Gosnell.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fCh7KwNeQy8/hunter-biden-movie-irish-filmmakers-hollywood",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fCh7KwNeQy8/hunter-biden-movie-irish-filmmakers-hollywood",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-poster.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-movie-irish-filmmakers-hollywood.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-movie-irish-filmmakers-hollywood.amp",
-      "publishedDateTime": "2021-03-17T03:22:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

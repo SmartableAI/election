@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-03-jan-6-rally-organizer-planning-maga-sellout-tour-targeting-republicans-who-betrayed-trump.md",
+      "title": "Jan. 6 rally organizer planning 'MAGA Sellout' tour targeting Republicans who 'betrayed' Trump",
+      "excerpt": "Pro-Trump organizers are planning a cross-country recruiting effort to attract primary challengers targeting Republicans who they say \"betrayed\" former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
+      "originalUrl": "https://abcnews.go.com/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/trump-bus-tour-rt-jt-210201_1612224255123_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
+      "publishedDateTime": "2021-02-02T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-dems-trump-aimed-loaded-cannon-of-supporters-at-capitol.md",
       "title": "Dems: Trump aimed 'loaded cannon' of supporters at Capitol",
       "excerpt": "Donald Trump endangered the lives of all members of Congress when he aimed a mob of supporters “like a loaded cannon” at the U.S. Capitol, House Democrats said Tuesday in making their most detailed case yet for why the former president should be convicted and permanently barred from office.",
@@ -1506,63 +1558,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-vindictive-and-harsh-trump-impeachment-trial-wont-bode-well-for-democrats-historian-jay-winik.md",
-      "title": "'Vindictive' and 'harsh' Trump impeachment trial won't bode well for Democrats: Historian Jay Winik",
-      "excerpt": "The push by congressional Democrats to convict former President Donald Trump of impeachable offenses feels \"vindictive,\" and \"harsh,\" historian Jay Winik told \"Special Report\" Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster",
-      "originalUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp",
-      "publishedDateTime": "2021-01-27T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

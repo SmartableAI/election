@@ -112,6 +112,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
+    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
+    publishedDateTime: 2021-03-20T02:11:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 131
+    images:
+      - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden and Kamala Harris condemn attacks on Asian Americans – video"
     excerpt: "The US president and vice-president offered solace to Asian Americans as they visited Atlanta just days after a white gunman killed eight people, most of them Asian American women"
     publishedDateTime: 2021-03-20T10:20:00Z
@@ -366,22 +382,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
-    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
-    publishedDateTime: 2021-03-20T02:11:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 121
-    images:
-      - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Americans Have Saved Enough Amid Pandemic to Nearly Pay for Biden's Stimulus Plan"
     excerpt: "Oxford Economics estimated that U.S. households saved $1.8 trillion from March 2020 to January 2021—just shy of the $1.9 trillion price tag attached to Biden's relief package."
     publishedDateTime: 2021-03-15T21:34:00Z
@@ -413,6 +413,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1758354/kamala-harris-paul-murray-guns.jpg"
         width: 2500
         height: 1668
+        isCached: true
+  - title: "Feminist activists are eager to build on Kamala Harris' ascent to vice president"
+    excerpt: "Kamala Harris may not be the president, but for those on the front lines of the battle to see a woman behind the Resolute desk, her ascendancy to the No.2 spot is an undeniable victory to build upon. \"That is a huge milestone to cross over,\" said Stephanie ..."
+    publishedDateTime: 2021-03-21T12:00:00Z
+    webUrl: "https://www.cnbc.com/2021/03/21/feminist-activists-are-eager-to-build-on-kamala-harris-ascent-to-vice-president.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/03/21/feminist-activists-are-eager-to-build-on-kamala-harris-ascent-to-vice-president.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/21/feminist-activists-are-eager-to-build-on-kamala-harris-ascent-to-vice-president.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106662471-1597341518338-kamm.jpg?v=1597341553"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Attacks on Asian Americans are up. What is the Biden administration doing about it?"
     excerpt: "WASHINGTON – The concerns President Joe Biden expressed Wednesday following the fatal shootings of Asian Americans in Georgia echoed the comments he's made since taking office, a tenure that began with an executive action condemning racism and ..."
@@ -1027,6 +1043,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Kamala Harris to visit vaccination site, Feeding Northeast Florida during Jacksonville stop"
+    excerpt: "Vice President Kamala Harris will make stops Monday afternoon in Jacksonville at a COVID-19 vaccination site and Feeding Northeast Florida as part of the administration's \"Help is Here\" tour promoting its $1.9 trillion federal relief legislation aimed ..."
+    publishedDateTime: 2021-03-22T11:57:00Z
+    webUrl: "https://www.jacksonville.com/story/news/nation-world/2021/03/22/vp-kamala-harris-visit-feeding-northeast-florida-jacksonville/4796087001/"
+    ampWebUrl: "https://amp.jacksonville.com/amp/4796087001"
+    cdnAmpWebUrl: "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/4796087001"
+    type: article
+    provider:
+      name: The Florida Times-Union
+      domain: jacksonville.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NFTU/b1805c12-0305-47e6-aef8-ac0789021d94-FLJAX_101920_9KamalaHarris.jpg?auto=webp&crop=3493,1965,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Kamala Harris to visit vaccination site, feeding Northeast Florida in Jacksonville Monday"
     excerpt: "JACKSONVILLE, Fla. — Vice President Kamala Harris will be visiting a vaccination site and Feeding Northeast Florida in Jacksonville on Monday. The trip is part of Vice President Harris and President Joe Biden's ongoing \"Help is Here\" tour, a cross ..."
     publishedDateTime: 2021-03-22T03:31:00Z
@@ -1086,16 +1118,16 @@ related:
         height: 433
         isCached: true
   - title: "VP Kamala Harris Meets with LAbor Leaders in the Ceremonial Office"
-    excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice President Harris met with Randi Weingarten from the American Federation of Teachers,"
+    excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice ..."
     publishedDateTime: 2021-03-18T16:06:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/61a20349bff893bc7a30cabeb1a3b1f7/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4eaf0fea4ea20a20920673e1ffbe7438/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/61a20349bff893bc7a30cabeb1a3b1f7/HARRIS-HISTORY-MONTH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4eaf0fea4ea20a20920673e1ffbe7438/HARRIS-HISTORY-MONTH.jpg"
         width: 650
         height: 433
         isCached: true
