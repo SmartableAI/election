@@ -167,6 +167,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Harris Visits a COVID Vacination Center in Florida"
+    excerpt: "Member of the U.S. Navy prepare Pfizer COVID-19 vaccines as Vice President Kamala Harris visits a vaccination center in Jacksonville, Florida on Monday, March 22, 2021. Photo by Kevin Dietsch/UPI.."
+    publishedDateTime: 2021-03-22T19:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a2e66df14992b3e3f123d45b6e37a43f/Vice-President-Harris-Visits-a-COVID-Vacination-Center-in-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/a2e66df14992b3e3f123d45b6e37a43f/HARRIS-JACKSONVILLE.jpg"
+        width: 650
+        height: 420
+        isCached: true
 
 secured: "lpNG5jdHonspDi2oIKsOSLBQV94dGT/a2Q++ESMfXsPbc9hjT0SbhQZDI4PhZLMUgymanRKLa7AqgZQcZH5bJZIFzZJq49KilJlUnlbLdkYRbL7KEBI8WsRg+rFAwOYqaVV+I4SqgZaAvoIQ4uXBn+LeUAvKYgTHoX57F5KuHTpRngUsMdQUd3F+H7rfuL17cJ1q3XADBQXqryg3uidsrsMkZqekaFYHKl9+4vUN97StOVbnscFonRgRStKrDXRlnbcsM7yAnnifsWICPVu2x0/+isqK88wyY8FH6biBuZ+LrrqW5J82dAKCKbyU9I96nh8yxsYPJqtB4TBV5xTgCsDZLcM6MUz69+rT/TJ6zfdAuo8bXkJ3LsebNDUJCdhtu4SgIAn0Ik59+IopErACBhGlr43ZEbjI3yXQafuUZoiB7NgEEwHLSgrX+LKtV6iRlO9gWQ/wKcQ03hEv43BGxbB9ouNP0iVBp79AnxovAVXC5gGOdSY9xrrYN++Jm9y4AM1oDfD6+r3rP5HLXnm93w==;FSS+8NSOh6ntBkDp8eKKDA=="
 ---

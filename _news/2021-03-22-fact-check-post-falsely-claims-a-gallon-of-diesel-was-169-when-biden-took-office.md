@@ -1109,6 +1109,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Photos of migrant detention highlight Biden's border secrecy"
+    excerpt: "President Joe Biden's administration has tried for weeks to keep the public from seeing images like those that emerged Monday showing immigrant children in U.S. custody at the border sleeping on mats under foil blankets,"
+    publishedDateTime: 2021-03-22T19:45:00Z
+    webUrl: "https://www.businessinsider.com/photos-of-migrant-detention-highlight-bidens-border-secrecy-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/photos-of-migrant-detention-highlight-bidens-border-secrecy-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-of-migrant-detention-highlight-bidens-border-secrecy-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden puts St. Patrick's Day pride on display as he meets with Irish prime minister"
     excerpt: "Biden, Irish PM hold virtual meeting on St. Patrick's Day President Joe Biden's Irish pride certainly showed during his first St. Patrick's Day as president, as he held a traditional bilateral ..."
     publishedDateTime: 2021-03-17T20:20:00Z
@@ -1169,6 +1180,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact Check-Misleading meme features a digitally flipped image of Biden and a pixelated still grab"
+    excerpt: "Some users on social media are sharing a collage of photographs of U.S. President Joe Biden that points out apparent differences between the images: the color of his eyes and his writing hand. “Blue eyes vs brown eyes."
+    publishedDateTime: 2021-03-22T17:03:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-biden-misleadingmeme-idUSL1N2LK22A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LK22A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LK22A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 92
   - title: "Democratic frustration is boiling over as Biden administration staffing slogs along, and 2020 staffers tell Insider they feel 'left out in the cold'"
     excerpt: "But not everyone who wants a job on Team Biden — or thinks they deserve one — has landed a gig working for the new president. Some feel like they've been left in limbo. Several described President Joe Biden's hiring process as opaque. And even time ..."
     publishedDateTime: 2021-03-22T08:00:00Z

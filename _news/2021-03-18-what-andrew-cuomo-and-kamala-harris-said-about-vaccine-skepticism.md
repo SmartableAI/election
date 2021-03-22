@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/12/PDTN/bf269e26-7cb4-4442-9726-72b55f2654d6-US-NEWS-EMHOFF-3-AK.jpg?auto=webp&crop=942,530,x150,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Harris Visits a COVID Vacination Center in Florida"
+    excerpt: "Member of the U.S. Navy prepare Pfizer COVID-19 vaccines as Vice President Kamala Harris visits a vaccination center in Jacksonville, Florida on Monday, March 22, 2021. Photo by Kevin Dietsch/UPI.."
+    publishedDateTime: 2021-03-22T19:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a2e66df14992b3e3f123d45b6e37a43f/Vice-President-Harris-Visits-a-COVID-Vacination-Center-in-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/a2e66df14992b3e3f123d45b6e37a43f/HARRIS-JACKSONVILLE.jpg"
+        width: 650
+        height: 420
         isCached: true
   - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
     excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"

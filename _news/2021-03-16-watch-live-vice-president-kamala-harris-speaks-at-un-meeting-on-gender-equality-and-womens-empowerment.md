@@ -157,6 +157,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Harris Visits a COVID Vacination Center in Florida"
+    excerpt: "Member of the U.S. Navy prepare Pfizer COVID-19 vaccines as Vice President Kamala Harris visits a vaccination center in Jacksonville, Florida on Monday, March 22, 2021. Photo by Kevin Dietsch/UPI.."
+    publishedDateTime: 2021-03-22T19:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a2e66df14992b3e3f123d45b6e37a43f/Vice-President-Harris-Visits-a-COVID-Vacination-Center-in-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/a2e66df14992b3e3f123d45b6e37a43f/HARRIS-JACKSONVILLE.jpg"
+        width: 650
+        height: 420
+        isCached: true
   - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
     excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"
     publishedDateTime: 2021-03-17T15:50:00Z

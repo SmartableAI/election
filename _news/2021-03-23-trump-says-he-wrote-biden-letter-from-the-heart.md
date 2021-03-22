@@ -252,6 +252,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden admin ignored warning signs that border could spiral into crisis"
+    excerpt: "The Biden administration ignored warning signs about an impending crisis at the U.S. southern border."
+    publishedDateTime: 2021-03-22T18:02:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d7H_NZZ-VO8/biden-administration-warning-signs-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21080583251227-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
     excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
     publishedDateTime: 2021-03-09T23:20:10Z
@@ -660,6 +676,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "brN1BvAzRpgmMTttBkVpiURVrmleoW2ajMXw5VM6jWdMgjgI/Ez5WQTUmFjY1FZYxcqXSYn6cX2YTy2ngJcvha5VHdciGBaYb6PzhpWGVcUlvszYuV8B9qqnc/aIQgd5jcFotQNMJGefmEF8qnPEz44iBVQY48ZvvVbGfm5dr1c5tHSx7mrZbxRpUVWwBSG/OeQqV6rE8esRQ1jZctSZhHlggETNEq6NCZT7OXEX8skFZnZQm3WRGpJgifqe9c5T79yxguh3TUhe9xPrIXjiqOhQ7GqhKS5HHeEi1jU3P7ODTbbpaV49L+wgNrrRNQ8FQlMM8tybZxURoMncirCUZlpDJ5ncEQvU938ZC8kF8/w=;O0DL3bzP7cXlFGRXdumVRA=="
+secured: "9j3YZ1wFHfSTKh2Xi7Bz6EpkL2wPGaDb8L3RKozrXoNTxcFoCxrXVxyxbny8gF3yL1cW9+xPL0rjKORMdaBZrwEdmkhn72xNm0evYGK9zu7kbiHxTYqxMcwMP4x6LvIIxvSmvmgYTegpJhc8q4Bc9DL0i6vggxYy0kK4bZ+sTlfQIgf43LN0sX/+u8KevUG6pwSLlCDAnqsT3u3JWn2EmU9KFQ0GKPBce/OnYxG1ss/b/ATTq22ifcaSTKYaePMl7sgCI+huEBapGdFhaV32gCYaGJ9hqRk3LeNNy+u6hNl0Wmrcqbk0CfCH9O0SXfwTIhJBuNaG9oYkrXHrnZvPYEau893vUt5RshJYaihbmZ7ZEpeLJ6DSgWyp3R9Jgvh1X6inuzLDOnu7Gruib75AawhrZ+ychG9shgWzTrFsRLIlcka9RDi0RpBPtOPbLeXeF+9MDChxevmsnGRFAnqlGVrDjo5NQG0W/KR2yqij5k6Q1ZHT2bQV7pZeLsP6oASaocFZ3wKzm0MbHQnWHrKLDQ==;yMGbBLDrRk+9ktucw/Y2FA=="
 ---
 
