@@ -249,6 +249,15 @@ related:
         width: 1024
         height: 661
         isCached: true
+  - title: "Trump Ally to Take on Embattled Georgia Secretary of State"
+    excerpt: "A conservative Georgia congressman and acolyte of former President Donald Trump has announced his bid to unseat the Republican secretary of state who angered Trump and his allies for refusing to help overturn the November election results."
+    publishedDateTime: 2021-03-22T14:10:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-22/trump-ally-to-take-on-embattled-georgia-secretary-of-state"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "3MXWBiJlDtct075J2cNQ14WheRJqr8PdBbmWcQax/9GyBOaKwKLDUEW3G1YdCMcw3ISbv8DxUwrnhea0KUi4OqCNbJA2xwOVkocb6+R77zp6nLoJVjGo1Z0SwnozT+OM/JiqWQbMe2NvcoFVLvtWlNGf9CmV+8Qu2h6M1D8bPSgyddgTH2RwriJM2tsIbZpwh2Pwlo509xVMxpltSYVLz7g0lfbV0MfET8MLJ6M2QUmfI67ZvV+rz9sSxof6pSEOeAqptODSvtBFiGzYNlnJZB2sWT3Z/yc+0oqxbdDlwj24J1tA+GLRlxrEwTiQRzAGXTIgpvhtbPcop3xI1XPgiHITY7CHl6n+4guJUsQK96I=;WbZwawZ/fAoEmGH/ix38uA=="
 ---

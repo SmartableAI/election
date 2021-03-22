@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-so
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform"
 type: article
 quality: 122
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump's Social Media Platform Will 'Suck' Proud Boys Say in Message Shared by Gab"
+    excerpt: "Far-right social media account TheWesternChauvinist, which is linked to the Proud Boys hate group, has said Donald Trump's planned social media network \"is going to suck,\" and competing network Gab has shared the message. Jason Miller, an adviser and ..."
+    publishedDateTime: 2021-03-22T11:36:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1760852/donald-trump-speaking.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "'Everybody wants him': Trump to launch social media platform in coming months, aide says"
     excerpt: "Former President Donald Trump is planning to return to social media with his own social network, according to spokesman Jason Miller. \"I do think that we're going to see President Trump returning to social media, probably in about two or three months here ..."
     publishedDateTime: 2021-03-21T19:56:00Z

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden officials traveling to Mexico amid surge of unaccompanied minors "
+    excerpt: "Senior Biden administration officials are traveling to Mexico on Monday to discuss managing migration with government officials amid a surge of unaccompanied minors crossing the US-Mexico border.\n    \n"
+    publishedDateTime: 2021-03-22T15:45:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kJP_Pi6iiJ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-immigration-mexico-guatemala/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-immigration-mexico-guatemala/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210320104952-biden-border-transparency-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "US has assessed North Korea could be preparing to carry out first weapons test since Biden took office"
     excerpt: "US intelligence has assessed that North Korea could be preparing to carry out their first weapons test since President Joe Biden came into office, according to several US officials speaking to CNN on condition of anonymity.\n    \n"
     publishedDateTime: 2021-03-17T01:51:49Z

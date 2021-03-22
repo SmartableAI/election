@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-19-baltimore-prosecutor-marilyn-mosby-once-championed-by-vp-harris-now-target-of-federal-investigation.md",
+      "title": "Baltimore prosecutor Marilyn Mosby, once championed by VP Harris, now target of federal investigation",
+      "excerpt": "State's Attorney for Baltimore Marilyn Mosby, whose career was boosted by Vice President Kamala Harris, is now facing a federal investigation with a wide breadth of subpoenas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0_2R-nNr3M/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0_2R-nNr3M/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2016/05/24/694940094001_4909632080001_a376b9cf-2e77-4305-9624-7e4df3ceef33.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris.amp",
+      "publishedDateTime": "2021-03-19T15:08:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-trump-wax-figure-pulled-from-texas-display-after-visitors-attacked-it-reports.md",
       "title": "Trump wax figure pulled from Texas display after visitors attacked it – reports",
       "excerpt": "Statue of ex-president apparently had deep gouges inflicted by museum patrons who clawed and punched it, local report said Last modified on Fri 19 Mar 2021 18.07 EDT A wax figure of Donald Trump has been pulled from the display of a waxworks exhibit after ...",
@@ -1162,7 +1219,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1080,
+      "heat": 1100,
       "tags": null,
       "images": [
         {
@@ -1317,62 +1374,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-top-biden-officials-to-sit-down-with-chinese-counterparts-in-alaska.md",
-      "title": "Top Biden officials to sit down with Chinese counterparts in Alaska",
-      "excerpt": "Two of the Biden administration's top national security officials will sit down with their Chinese counterparts Thursday -- a key first meeting in the relationship that the US secretary of state has called \"the biggest geopolitical test of the 21st century.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/quv-ckIlqiA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/quv-ckIlqiA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210318005411-01-antony-blinken-0316-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-alaska-meetings/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-alaska-meetings/index.html",
-      "publishedDateTime": "2021-03-18T11:35:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

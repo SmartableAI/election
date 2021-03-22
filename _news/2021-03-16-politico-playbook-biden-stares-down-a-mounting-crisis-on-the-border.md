@@ -270,6 +270,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump urges Republicans to double-down on fake election fraud narrative"
+    excerpt: "Act on the news with POLITICO Pro. — Former President Donald Trump is urging Republicans to push his election fraud lie, which is showing to be a driving narrative of the party. — Democrats’ sweeping electoral reform bill — the For the People Act ..."
+    publishedDateTime: 2021-03-22T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-score/2021/03/22/trump-urges-republicans-to-double-down-on-fake-election-fraud-narrative-794145"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "9s9rynHe6SRaQ51LUmVePopCmzTd87wnqj8N5LeoEtoHnbqEaG/WAHtgmN7pMhxSGnteKgvcLH2uUjz0tfHZ3Adkh8P7jvr/wvo8G7g1HyxpMAiRs75nf8Gn20smURQyLTi67cR9ZuSVpGgpVcoEs3dxTi6MHN+dkE4jXoxIqg6IavACGeXFrl5DJRx7cj0RRpCGYW98XVoMKyX81hJ7KJM9P8LDpZV3KrCAV6cZT6XmK9xVox+zgpRQIt9Zi7D3kRcGlFYHVelopmPFLluNcrJT2s5ZkiI6yB9Ypf9HMw03qhNxDQ2S6fB63d3cHaUYpVO0UXd4WGra74ueDt6iiVX6gOpxTuIGPRYLj+RigUw=;6VutVhZGNrOflBrNI09teQ=="
 ---

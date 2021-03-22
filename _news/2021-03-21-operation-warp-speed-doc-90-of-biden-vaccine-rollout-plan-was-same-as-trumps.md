@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Former President Trump slams Biden for migrant surge: ‘They’re destroying our country’"
+    excerpt: "Former President Trump ripped President Biden and his administration over the migrant surge at the U.S. border during an exclusive interview on “The Faulkner Focus” on Monday, arguing that the Biden administration is “destroying our country.”"
+    publishedDateTime: 2021-03-22T15:30:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A3O-hpXO4rM/trump-slams-biden-border-crisis-migrant-surge-destroying-country"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-biden-border-crisis-migrant-surge-destroying-country.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-biden-border-crisis-migrant-surge-destroying-country.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'"
     excerpt: "President Biden said Sunday that he intends to travel to the southern border \"at some point,\" telling reporters that he is in no rush to visit because \"I know what's going in those facilities.\""
     publishedDateTime: 2021-03-21T22:32:02Z
@@ -460,6 +476,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/donald-trump-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says migrants will be ‘flowing in by the millions’ because of Biden"
+    excerpt: "Trump attributed the surge to Biden’s policies, including his termination last month of the “Remain in Mexico” policy that required Central Americans to await US asylum decisions"
+    publishedDateTime: 2021-03-22T15:48:00Z
+    webUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Migrant-Children-trump-biden.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump's Social Media Platform Will 'Suck' Proud Boys Say in Message Shared by Gab"
+    excerpt: "Far-right social media account TheWesternChauvinist, which is linked to the Proud Boys hate group, has said Donald Trump's planned social media network \"is going to suck,\" and competing network Gab has shared the message. Jason Miller, an adviser and ..."
+    publishedDateTime: 2021-03-22T11:36:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1760852/donald-trump-speaking.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Donald Trump Gearing Up For Social Media Return With Own Platform"
     excerpt: "After months of being banned from social media sites, he's decided to launch his own site in the next few months."
     publishedDateTime: 2021-03-21T20:51:00Z

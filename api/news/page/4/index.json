@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-17-biden-border-wall-freeze-unlawful-40-gop-senators-tell-gao-in-letter.md",
+      "title": "Biden border wall freeze unlawful, 40 GOP senators tell GAO in letter",
+      "excerpt": "A group of 40 GOP senators on Wednesday asked the Government Accountability Office to decide whether President Biden's decision to freeze more than $1 billion in congressionally approved border wall funding violates federal law.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5shomOtuZQ/biden-border-wall-freeze-unlawful-senators-gao",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5shomOtuZQ/biden-border-wall-freeze-unlawful-senators-gao",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021726310142-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp",
+      "publishedDateTime": "2021-03-17T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-may-not-be-tough-enough-to-stand-up-to-aoc-bernie-sanders-on-filibuster-tom-cotton.md",
       "title": "Biden 'may not be tough enough' to stand up to AOC, Bernie Sanders on filibuster: Tom Cotton",
       "excerpt": "On Wednesday, Sen. Tom Cotton R-Ark., warned against ending the filibuster and said that President Biden may not be tough enough to stand up against far-left Democrats like Alexandria Ocasio-Cortez and Bernie Sanders.",
@@ -693,62 +749,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-17-ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.md",
-      "title": "Ohio GOP state lawmaker wants Trump’s name on state park; Dem blasts idea",
-      "excerpt": "A Republican state lawmaker in Ohio says he plans to introduce a bill to rename a state park after former President Donald Trump – but at least one state Democrat quickly criticized the idea.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wJQzZU-u0g4/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wJQzZU-u0g4/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2164743d-ee61-424b-a072-1570ef79a357/1d24269b-4351-4317-b59f-df2cb1834ee6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp",
-      "publishedDateTime": "2021-03-17T02:20:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-17-biden-to-celebrate-st-patricks-day-virtually-with-irelands-prime-minister.md",
       "title": "Biden to celebrate St. Patrick's Day virtually with Ireland's prime minister",
       "excerpt": "President Joe Biden will host Taioseach Micheál Martin of Ireland for a virtual bilateral meeting on Wednesday to celebrate St. Patrick's Day, the White House says, in yet another traditional head of state visit changed by the pandemic.\n    \n",
@@ -925,7 +925,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
       "featuredContent": null,
       "highlight": null,
-      "heat": 420,
+      "heat": 440,
       "tags": null,
       "images": [
         {

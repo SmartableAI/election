@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump endorses challenger against Georgia elections chief"
+    excerpt: "Former President Donald Trump has endorsed a conservative Georgia congressman in his bid to unseat the Republican secretary of state who refused to help overturn the November election results"
+    publishedDateTime: 2021-03-22T15:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-embattled-georgia-secretary-state-76605744"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-embattled-georgia-secretary-state-76605744"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-embattled-georgia-secretary-state-76605744"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_55e7cc36fd4b4b70adf28d8bf8aaf444_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fauci: Trump should urge his followers to get vaccinated"
     excerpt: "Dr. Anthony Fauci says he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine Here’s every public figure who has ..."
     publishedDateTime: 2021-03-14T16:59:00Z

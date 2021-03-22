@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump endorses GOP primary rival to Georgia Republican secretary of state"
+    excerpt: "Former President Donald Trump endorsed GOP Rep. Jody Hice for Georgia Secretary of State on Monday, after attacking incumbent Republican Brad Raffensperger for overseeing his loss in the state last year.\n    \n"
+    publishedDateTime: 2021-03-22T14:19:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qs-0jG_LkTA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/trump-endorses-jody-hice-georgia-secretary-of-state-gop-primary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/trump-endorses-jody-hice-georgia-secretary-of-state-gop-primary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322101010-hice-trump-raffensperger-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Poll: Just 8 percent of Republicans support Trump's impeachment and removal"
     excerpt: "Fifty percent of Americans overall agree the president should be impeached and removed for inciting Capitol riot, a new NBC News poll finds."
     publishedDateTime: 2021-01-15T08:18:00Z

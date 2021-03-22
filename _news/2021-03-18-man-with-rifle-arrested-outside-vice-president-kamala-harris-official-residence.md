@@ -976,6 +976,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Kamala Harris travels to Florida Monday to promote $1.9T rescue plan"
+    excerpt: "Vice President Kamala Harris travels to Florida on Monday to promote how President Joe Biden's $1.9 trillion American Rescue Plan will help residents and businesses recover from COVID-19-related hardships."
+    publishedDateTime: 2021-03-22T14:57:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/22/florida-jacksonville-kamala-harris-visit/9921616418676/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/22/florida-jacksonville-kamala-harris-visit/9921616418676/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/22/florida-jacksonville-kamala-harris-visit/9921616418676/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9921616418676/2021/1/8c44b49b0a029b4c0c8e34c9c7a06847/v1.5/VP-Kamala-Harris-travels-to-Florida-Monday-to-promote-19T-rescue-plan.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Authorities arrest Texas man near residence of Vice President Kamala Harris, report says"
     excerpt: "On Wednesday, the U.S. Secret Service arrested Paul Murray, 31, of San Antonio near the residence of Vice President Kamala Harris, according to a report from CNBC. Police said they found a rifle and ammunition in Murray's car. He was stopped near the ..."
     publishedDateTime: 2021-03-18T00:58:00Z

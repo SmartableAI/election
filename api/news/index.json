@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-22-trump-backs-challenger-to-georgias-gop-secretary-of-state.md",
+      "title": "Trump backs challenger to Georgia's GOP secretary of state",
+      "excerpt": "Former President Donald Trump's endorsing a bid by Rep. Jody Hice to oust Georgia Secretary of State Brad Raffensperger in next year's Republican primary.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XNpZnLmdNdQ/trump-georgia-secretary-of-state-raffensperger-jody-hice",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XNpZnLmdNdQ/trump-georgia-secretary-of-state-raffensperger-jody-hice",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice.amp",
+      "publishedDateTime": "2021-03-22T08:26:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-trump-republicans-need-stronger-and-better-leadership-than-mcconnell.md",
       "title": "Trump: Republicans need 'stronger' and 'better' leadership than McConnell",
       "excerpt": "Former President Trump Donald Trump The Hill's Morning Report - Biden: Back to the future on immigration, Afghanistan, Iran Juan Williams: Biden flips the script The Memo: Two months in ...",
@@ -174,7 +230,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 490,
+      "heat": 510,
       "tags": null,
       "images": [
         {
@@ -438,7 +494,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -602,7 +658,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 890,
+      "heat": 930,
       "tags": null,
       "images": [
         {
@@ -1093,7 +1149,7 @@
       "originalUrl": "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1498,
+      "heat": 1558,
       "tags": null,
       "images": [
         {
@@ -1197,7 +1253,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1690,
+      "heat": 1710,
       "tags": null,
       "images": [
         {
@@ -1271,63 +1327,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp",
       "publishedDateTime": "2021-03-19T16:15:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-baltimore-prosecutor-marilyn-mosby-once-championed-by-vp-harris-now-target-of-federal-investigation.md",
-      "title": "Baltimore prosecutor Marilyn Mosby, once championed by VP Harris, now target of federal investigation",
-      "excerpt": "State's Attorney for Baltimore Marilyn Mosby, whose career was boosted by Vice President Kamala Harris, is now facing a federal investigation with a wide breadth of subpoenas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0_2R-nNr3M/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0_2R-nNr3M/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2016/05/24/694940094001_4909632080001_a376b9cf-2e77-4305-9624-7e4df3ceef33.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris.amp",
-      "publishedDateTime": "2021-03-19T15:08:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

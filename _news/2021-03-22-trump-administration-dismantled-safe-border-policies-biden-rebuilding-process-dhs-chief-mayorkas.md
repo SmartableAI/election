@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Former President Trump slams Biden for migrant surge: ‘They’re destroying our country’"
+    excerpt: "Former President Trump ripped President Biden and his administration over the migrant surge at the U.S. border during an exclusive interview on “The Faulkner Focus” on Monday, arguing that the Biden administration is “destroying our country.”"
+    publishedDateTime: 2021-03-22T15:30:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A3O-hpXO4rM/trump-slams-biden-border-crisis-migrant-surge-destroying-country"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-biden-border-crisis-migrant-surge-destroying-country.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-biden-border-crisis-migrant-surge-destroying-country.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'"
     excerpt: "President Biden said Sunday that he intends to travel to the southern border \"at some point,\" telling reporters that he is in no rush to visit because \"I know what's going in those facilities.\""
     publishedDateTime: 2021-03-21T22:32:02Z
@@ -480,6 +496,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says migrants will be ‘flowing in by the millions’ because of Biden"
+    excerpt: "Trump attributed the surge to Biden’s policies, including his termination last month of the “Remain in Mexico” policy that required Central Americans to await US asylum decisions"
+    publishedDateTime: 2021-03-22T15:48:00Z
+    webUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Migrant-Children-trump-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
     excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
     publishedDateTime: 2021-01-29T02:27:00Z
@@ -584,6 +616,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "cOb6+TLjsBTMtYCyNaaUqejs7MtaYyuufMVL0uCSyqXqWurqfHE7rGEnGUriBdOn0+E+vy1DQiFNgPgYGjvEjFFThIoUU0sD+3Upx5W+JsOsDXFsavmXSrKV4tCdAaRaxtmq7rUNTIGp6RRsBV7fQb7HTWfbWMW9QdTed104br3MFsu08k2LR9tbXltkJKI/vFlfTUSFcdoNxhy2o6sdiBRTL3Ocul2nSaOBL3F59wzTXaymPxCtnDg8QTpQ4wFdua/XtisNGam6su90IW+rrgWqNP896GblAERhcbA2frOKPUTK/VOhDTKP2I24LrlxQfx0uOR69axIDRH82KKFM0r9Q5pH4Inl/y+po52s9gQ=;eRY1xLkUEynbApwQNdbucw=="
+secured: "CXTO37MeQz2hs+IPUNb6DSe2eZXn4MnmvOkjX+SbJglMuMHUs2UHocFMR6toERKfJZOElVGbwqOtc/3d9ojMUdIMjuUWt6SqEO+OC+ZsvfNB2iLJGBojvWqjYuaqr5QepOZx+t0dUChKD1wPLnKZdSFvmWI2aigaAhl08OPgngquPKfpIVQw/ro76O8FdQ3gGI3C6WLHBhAE6ImHeDPSi+fhrZnKxjLURY1iJBT1r13vQjdNKEjDXLeaPOx3poguVX01fd7mMHxUmsJkaXWj0blZGduDzzMu0H/+kFUGgBR0BKCMaY29Iuhfe4L0fteMOdrlThvgclSrrejIpWjUA6t1KZ8ezYDY4b1ZQfOkqhVBzw+JHbcIU7DRI+H0IHJVB8CvKrTHHTYCGGiENcuoCRz7azfTesMhsBmJWQPAJa7vmrxlbeFDtof4iul0FzOrtsYAjROk+G4EUmVUJb0clLn6Cryl0AsZz2pdubjoXdwhLD9CZc3T9SO0WwXPGh8CnjFM/5hJS8uSYRJ+rtIV8w==;5OmZsg6hUwxvSjcli/Kqgg=="
 ---
 

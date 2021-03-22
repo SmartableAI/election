@@ -495,6 +495,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Border crisis: Biden now tells migrants 'Don't come' but had a different message in a 2019 debate"
+    excerpt: "President Biden, during a 2019 Democratic presidential primary debate, said that the United States is a country that tells people struggling under oppression or poor conditions that \"you should come,\" as he argued for a more open asylum policy. "
+    publishedDateTime: 2021-03-22T15:06:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/th21KEDqqOY/border-crisis-biden-you-should-come-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-biden-you-should-come-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-biden-you-should-come-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cuomo seizes on common ground with Biden, agrees sexual misconduct allegations should be investigated"
     excerpt: "Embattled New York Gov. Andrew Cuomo deflected questions Wednesday regarding his reaction to President Biden’s assertion that he should resign from office if an investigation confirms allegations that he sexually harassed several women, including former aides."
     publishedDateTime: 2021-03-17T21:10:17Z

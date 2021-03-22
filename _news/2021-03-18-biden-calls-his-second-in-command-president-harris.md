@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp"
 type: article
 quality: 200
-heat: 1080
+heat: 1100
 published: true
 
 provider:
@@ -495,6 +495,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b105bf2-41fd-43b2-b0e7-a1100cbc737c/d57ad943-de85-4d3b-8af4-9e0d08e50f89/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Border crisis: Biden now tells migrants 'Don't come' but had a different message in a 2019 debate"
+    excerpt: "President Biden, during a 2019 Democratic presidential primary debate, said that the United States is a country that tells people struggling under oppression or poor conditions that \"you should come,\" as he argued for a more open asylum policy. "
+    publishedDateTime: 2021-03-22T15:06:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/th21KEDqqOY/border-crisis-biden-you-should-come-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-biden-you-should-come-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-biden-you-should-come-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Cuomo seizes on common ground with Biden, agrees sexual misconduct allegations should be investigated"
     excerpt: "Embattled New York Gov. Andrew Cuomo deflected questions Wednesday regarding his reaction to President Biden’s assertion that he should resign from office if an investigation confirms allegations that he sexually harassed several women, including former aides."

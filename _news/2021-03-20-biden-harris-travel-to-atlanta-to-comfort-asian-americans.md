@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1690
+heat: 1710
 published: true
 
 provider:
@@ -964,6 +964,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/22/PFRE/2aeae88e-c268-47e8-8a18-dcb9c85b20e8-kamala_harris.jpg?auto=webp&crop=4500,2532,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VP Kamala Harris travels to Florida Monday to promote $1.9T rescue plan"
+    excerpt: "Vice President Kamala Harris travels to Florida on Monday to promote how President Joe Biden's $1.9 trillion American Rescue Plan will help residents and businesses recover from COVID-19-related hardships."
+    publishedDateTime: 2021-03-22T14:57:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/22/florida-jacksonville-kamala-harris-visit/9921616418676/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/22/florida-jacksonville-kamala-harris-visit/9921616418676/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/22/florida-jacksonville-kamala-harris-visit/9921616418676/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9921616418676/2021/1/8c44b49b0a029b4c0c8e34c9c7a06847/v1.5/VP-Kamala-Harris-travels-to-Florida-Monday-to-promote-19T-rescue-plan.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Man with rifle arrested outside Vice President Kamala Harris’ official residence"
     excerpt: "Washington, DC, police arrested a Texas man outside Vice President Kamala Harris’ official residence, the US Naval Observatory, in the nation’s capital on Wednesday and he’s now facing weapons and ammunition charges. A spokesperson for Washington’s ..."

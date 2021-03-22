@@ -976,6 +976,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Kamala Harris travels to Florida Monday to promote $1.9T rescue plan"
+    excerpt: "Vice President Kamala Harris travels to Florida on Monday to promote how President Joe Biden's $1.9 trillion American Rescue Plan will help residents and businesses recover from COVID-19-related hardships."
+    publishedDateTime: 2021-03-22T14:57:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/22/florida-jacksonville-kamala-harris-visit/9921616418676/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/22/florida-jacksonville-kamala-harris-visit/9921616418676/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/22/florida-jacksonville-kamala-harris-visit/9921616418676/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9921616418676/2021/1/8c44b49b0a029b4c0c8e34c9c7a06847/v1.5/VP-Kamala-Harris-travels-to-Florida-Monday-to-promote-19T-rescue-plan.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Man with rifle arrested outside Vice President Kamala Harris’ official residence"
     excerpt: "Washington, DC, police arrested a Texas man outside Vice President Kamala Harris’ official residence, the US Naval Observatory, in the nation’s capital on Wednesday and he’s now facing weapons and ammunition charges. A spokesperson for Washington’s ..."
     publishedDateTime: 2021-03-18T06:28:00Z

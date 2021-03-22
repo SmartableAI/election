@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-alaska-meetings/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319011003-02-blinken-china-meeting-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden officials traveling to Mexico amid surge of unaccompanied minors "
+    excerpt: "Senior Biden administration officials are traveling to Mexico on Monday to discuss managing migration with government officials amid a surge of unaccompanied minors crossing the US-Mexico border.\n    \n"
+    publishedDateTime: 2021-03-22T15:45:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kJP_Pi6iiJ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-immigration-mexico-guatemala/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-immigration-mexico-guatemala/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210320104952-biden-border-transparency-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "It's not Joe Biden's Senate anymore"
-excerpt: "WASHINGTON — All presidents come to town with hope for pushing through a bipartisan agenda, before running into the reality of a divided Washington, but some people believed Joe Biden’s experience in the Senate and his knowledge of its personalities ..."
-publishedDateTime: 2021-03-21T14:34:00Z
-originalUrl: "https://www.nbcnews.com/meet-the-press/it-s-not-joe-biden-s-senate-anymore-n1261686"
-webUrl: "https://www.nbcnews.com/meet-the-press/it-s-not-joe-biden-s-senate-anymore-n1261686"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261686"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261686"
+excerpt: "The last time Biden served in the Senate full-time was 13 years ago, back in 2008 before he became Barack Obama's Vice President. And there was a very different group of people in the Senate."
+publishedDateTime: 2021-03-21T02:39:00Z
+originalUrl: "https://www.nbcnews.com/meet-the-press/video/it-s-not-biden-s-senate-anymore-108884037704"
+webUrl: "https://www.nbcnews.com/meet-the-press/video/it-s-not-biden-s-senate-anymore-108884037704"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo108884037704"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo108884037704"
 type: article
 quality: 135
 heat: -1
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media4.s-nbcnews.com/i/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.png"
-    width: 1680
-    height: 840
+  - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/1616334696386_mtp_data_download_210321_1920x1080.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -1649,6 +1649,6 @@ related:
         height: 907
         isCached: true
 
-secured: "MNFvTgCkqfipxJjrdAwuFxeymo2ihgaAwTQ6Yq+Gk9jB8tOi67VvSj4dxE6LyGVbPPwrJjxlxR1ckGnrae4iu73VGTnMzdQnF2rreWSq3STAToVeNvzU47uR35frjFFKvWZHj9wW4bw7CQhKL8N6I3ug/Nuh5nbR8NulqrDl5yyh2icpx5vMsQgO7zhjZqnajtl3fPmU03/WLhY+WKnIgnMcKc0djHqYmd6IIqrl+9MoK0e5lNxJThP5beQI+gcUeimAsKXfYLmfdDXV+x8g9RxClfoyBG9Dc+p+iNqdPL4PqerrCgIMtqXtk1XApkcCCBeIUmo/2alfu61OqwmpUZS4u6oPhhjTJrZV3sdIOW4=;C4FK1facfO/mSKh0ZTjF7Q=="
+secured: "XMQQzHmw8mW3ycOAnHJ1a5vIBGqRPci7wRVWEbfbpq/7ii3elDGRxyqWQu/GO5YFoWlKQmvBUihkmrzt67lx3+xWb/hQDcvjR9vuOcKCEJli+fjM33/BGfeNrP9iv85cDJbHq+nmbhcJ5S10psh3vUX0x2lo8oYK4R4Kfh/e7vHoqG0gjJ7nIANOmJ1dQko2vkhsguCzeyvCFLC1mkoET7pQGmY26e1VR8V9zK28hmuM7BqoqQ3wYV6tIePaN73TGBLje0fLtka4tVGWt8VPHFq8rHvuv6WxVR1IzJTbwuQeacoPNGb8/bTB/g/wbqPj+X+pdhwgZqFfzlUoVioVCwxxkKRlFw22lHZDp+SQb3w=;4gOynFiklDBSYaVi5B51BA=="
 ---
 

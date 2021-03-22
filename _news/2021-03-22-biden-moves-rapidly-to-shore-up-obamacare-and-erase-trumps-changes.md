@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
 type: article
 quality: 190
-heat: 490
+heat: 510
 published: true
 
 provider:
@@ -254,6 +254,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/19/world/19biden-amlo-immigration-add1/19biden-amlo-immigration-add1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump urges Republicans to double-down on fake election fraud narrative"
+    excerpt: "Act on the news with POLITICO Pro. — Former President Donald Trump is urging Republicans to push his election fraud lie, which is showing to be a driving narrative of the party. — Democrats’ sweeping electoral reform bill — the For the People Act ..."
+    publishedDateTime: 2021-03-22T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-score/2021/03/22/trump-urges-republicans-to-double-down-on-fake-election-fraud-narrative-794145"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "POLITICO Playbook: Biden stares down a mounting crisis on the border"
     excerpt: "President JOE BIDEN is about to come under a mountain of pressure from both parties to fix the situation at the border — and address immigration overall. With a humanitarian crisis growing — read this CBS story for the latest — progressives are losing their patience over how long it’s taking Biden to undo Trump-era policies and implement a more humane system he campaigned on."

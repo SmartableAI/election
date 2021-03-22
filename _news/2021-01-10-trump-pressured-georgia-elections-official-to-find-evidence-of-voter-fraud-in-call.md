@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
 type: article
 quality: 134
-heat: 414
+heat: 434
 published: true
 
 provider:
@@ -249,6 +249,15 @@ related:
         width: 1024
         height: 661
         isCached: true
+  - title: "Trump Ally to Take on Embattled Georgia Secretary of State"
+    excerpt: "A conservative Georgia congressman and acolyte of former President Donald Trump has announced his bid to unseat the Republican secretary of state who angered Trump and his allies for refusing to help overturn the November election results."
+    publishedDateTime: 2021-03-22T14:10:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-22/trump-ally-to-take-on-embattled-georgia-secretary-of-state"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "8w0X3SUOXzVBvHJZBKPKUzcD0A6fYig4D+CIn5swECWj9yIiHqpc9Y42EAzIHhAQkaC4zvi9483TMruC1P5dZIxklkS7FhqXvul4hB675Kkrs1OicRitiwlpPNcFUMRPuBlantk6l7aEmOu9+gTLYAemHucdEz+TJfAl5elE3fTbFwIodqTiu1QS+XGJbOoWAn/efi6CSQFhjOVkDfQkkzlsrDZupvsfP+SN3OZ3uIZEQc3aLWfYkYB6UASfr82ROcNQTS+Qp8Nn54uBFkzP8+IyMO/L0HmS6cg0yRHvacsUhyL4kuSyV9CDGewurGUyNL1wbcBw+UfIOucTRAjjno09moXQjqMpOEzuM8iTqcw=;JMwu7dmCEWertRZ8/tnB0g=="
 ---
