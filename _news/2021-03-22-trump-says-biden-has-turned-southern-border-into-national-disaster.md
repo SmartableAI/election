@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Trump administration dismantled ‘safe’ border policies, Biden rebuilding process: DHS chief Mayorkas"
-excerpt: "President Biden's immigration policy is under fire as a flood of unaccompanied children arrive at the Southern border and get to stay in the U.S. ALEJANDRO MAYORKAS, HOMELAND SECURITY SECRETARY: Their families make the heart wrenching decision to send them on a journey across Mexico to provide them with a better,"
-publishedDateTime: 2021-03-21T18:40:00Z
-originalUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas"
-webUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas"
-ampWebUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
+title: "Trump says Biden has turned southern border into ‘national disaster’"
+excerpt: "Former President Donald Trump said Sunday that the Biden administration has turned the migrant crisis at the southern border into a full-fledged “national disaster.” In the statement released"
+publishedDateTime: 2021-03-21T23:35:00Z
+originalUrl: "https://nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/"
+webUrl: "https://nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/"
+ampWebUrl: "https://nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/amp/"
 type: article
-quality: 135
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/donald-trump-1.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -448,22 +444,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Trump says Biden has turned southern border into ‘national disaster’"
-    excerpt: "Former President Donald Trump said Sunday that the Biden administration has turned the migrant crisis at the southern border into a full-fledged “national disaster.” In the statement released"
-    publishedDateTime: 2021-03-21T23:35:00Z
-    webUrl: "https://nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/"
-    ampWebUrl: "https://nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/donald-trump-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
     excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
     publishedDateTime: 2021-01-29T02:27:00Z
@@ -528,6 +508,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump administration dismantled ‘safe’ border policies, Biden rebuilding process: DHS chief Mayorkas"
+    excerpt: "President Biden's immigration policy is under fire as a flood of unaccompanied children arrive at the Southern border and get to stay in the U.S. ALEJANDRO MAYORKAS, HOMELAND SECURITY SECRETARY: Their families make the heart wrenching decision to send them on a journey across Mexico to provide them with a better,"
+    publishedDateTime: 2021-03-21T18:40:00Z
+    webUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas"
+    ampWebUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Migrant says he came to US border because Biden was elected, would not have tried to cross under Trump"
     excerpt: "A South American migrant who recently crossed the U.S.-Mexico border said he did so \"basically\" because Joe Biden was elected president and would not have tried to cross under former President Donald Trump."
     publishedDateTime: 2021-03-21T17:34:00Z
@@ -559,6 +555,6 @@ related:
         height: 375
         isCached: true
 
-secured: "cOb6+TLjsBTMtYCyNaaUqejs7MtaYyuufMVL0uCSyqXqWurqfHE7rGEnGUriBdOn0+E+vy1DQiFNgPgYGjvEjFFThIoUU0sD+3Upx5W+JsOsDXFsavmXSrKV4tCdAaRaxtmq7rUNTIGp6RRsBV7fQb7HTWfbWMW9QdTed104br3MFsu08k2LR9tbXltkJKI/vFlfTUSFcdoNxhy2o6sdiBRTL3Ocul2nSaOBL3F59wzTXaymPxCtnDg8QTpQ4wFdua/XtisNGam6su90IW+rrgWqNP896GblAERhcbA2frOKPUTK/VOhDTKP2I24LrlxQfx0uOR69axIDRH82KKFM0r9Q5pH4Inl/y+po52s9gQ=;eRY1xLkUEynbApwQNdbucw=="
+secured: "8ZnLyQIpoAySW+Zqho86Tad2fw5QDUItb+atBrzR34TKIKLV62HY5oURzYwK8ZpFrVGCRAcjDGimB0yY8ug8OHUW/mU3/l3vAY/U6W32/0Dd6G7q5MbypAfFJaXCBm1KoHFnkR3q+rrBXtiEFGE0PClpbKdK0DhZqGdJUVaHINpKcplmbg6kZMmpmB1rz6FI0BciZY92zWTt4lCKBPhx8THV5UWSJF4XtBSp+m1XWj3+c0cqNcCzzT9CmAolhVrk3+x7TVvqwpmd1yvP2MFkDHtDfCC/+TqaIlAVLmL0IgHsRAdqv34lbk6nS9sxNoJsdGm9Ti3Wx2etZL9vBBlUCpdwLZXkNxE10ujw8vt7nc0=;5Os4RrP7Alur/BvgWSaA5Q=="
 ---
 

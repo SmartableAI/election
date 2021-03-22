@@ -90,6 +90,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'"
+    excerpt: "President Biden said Sunday that he intends to travel to the southern border \"at some point,\" telling reporters that he is in no rush to visit because \"I know what's going in those facilities.\""
+    publishedDateTime: 2021-03-21T22:32:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p6BXYHL7SK4/biden-borde-rsurge"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-borde-rsurge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-borde-rsurge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee18c3-9624-4a8c-9989-aaf5c43b13c5/156a5fbe-4114-4b4a-aca4-34af35a3257c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tom Homan slams Biden, Dems for blaming Trump for new border surge: 'They planned this crisis'"
     excerpt: "Former acting ICE director Tom Homan slammed the Biden administration for blaming Trump over the migrant surge at the border."
     publishedDateTime: 2021-03-15T12:35:06Z
@@ -426,6 +442,22 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Trump says Biden has turned southern border into ‘national disaster’"
+    excerpt: "Former President Donald Trump said Sunday that the Biden administration has turned the migrant crisis at the southern border into a full-fledged “national disaster.” In the statement released"
+    publishedDateTime: 2021-03-21T23:35:00Z
+    webUrl: "https://nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/"
+    ampWebUrl: "https://nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/donald-trump-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
     excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
     publishedDateTime: 2021-01-29T02:27:00Z
@@ -441,6 +473,22 @@ related:
       - url: "https://images.wsj.net/im-291886/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'"
+    excerpt: "Republicans have laid blame on Biden for the surge after he rolled back a number of Trump-era immigration restrictions he deemed inhumane, including ending the \"Remain-in-Mexico\" policy and reinstating \"catch-and-release.\" Former President Donald Trump ..."
+    publishedDateTime: 2021-03-21T23:29:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-borde-rsurge"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-borde-rsurge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-borde-rsurge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee18c3-9624-4a8c-9989-aaf5c43b13c5/156a5fbe-4114-4b4a-aca4-34af35a3257c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "CNN, MSNBC erupted over Trump's ramp walk -- but virtually ignore Biden's staircase stumble"
     excerpt: "After sounding the alarm over President Trump's use of a ramp at the U.S. Military Academy during the 2020 presidential election, both CNN and MSNBC on Friday virtually ignored President Biden's intense fall while climbing the stairs onto Air Force One."

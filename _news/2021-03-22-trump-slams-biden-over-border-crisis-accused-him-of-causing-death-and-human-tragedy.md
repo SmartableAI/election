@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump administration dismantled ‘safe’ border policies, Biden rebuilding process: DHS chief Mayorkas"
-excerpt: "President Biden's immigration policy is under fire as a flood of unaccompanied children arrive at the Southern border and get to stay in the U.S. ALEJANDRO MAYORKAS, HOMELAND SECURITY SECRETARY: Their families make the heart wrenching decision to send them on a journey across Mexico to provide them with a better,"
-publishedDateTime: 2021-03-21T18:40:00Z
-originalUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas"
-webUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas"
-ampWebUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
+title: "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'"
+excerpt: "Republicans have laid blame on Biden for the surge after he rolled back a number of Trump-era immigration restrictions he deemed inhumane, including ending the \"Remain-in-Mexico\" policy and reinstating \"catch-and-release.\" Former President Donald Trump ..."
+publishedDateTime: 2021-03-21T23:29:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-borde-rsurge"
+webUrl: "https://www.foxnews.com/politics/biden-borde-rsurge"
+ampWebUrl: "https://www.foxnews.com/politics/biden-borde-rsurge.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-borde-rsurge.amp"
 type: article
-quality: 135
+quality: 141
 heat: -1
 published: false
 
@@ -22,11 +22,11 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee18c3-9624-4a8c-9989-aaf5c43b13c5/156a5fbe-4114-4b4a-aca4-34af35a3257c/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -480,22 +480,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'"
-    excerpt: "Republicans have laid blame on Biden for the surge after he rolled back a number of Trump-era immigration restrictions he deemed inhumane, including ending the \"Remain-in-Mexico\" policy and reinstating \"catch-and-release.\" Former President Donald Trump ..."
-    publishedDateTime: 2021-03-21T23:29:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-borde-rsurge"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-borde-rsurge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-borde-rsurge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee18c3-9624-4a8c-9989-aaf5c43b13c5/156a5fbe-4114-4b4a-aca4-34af35a3257c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "CNN, MSNBC erupted over Trump's ramp walk -- but virtually ignore Biden's staircase stumble"
     excerpt: "After sounding the alarm over President Trump's use of a ramp at the U.S. Military Academy during the 2020 presidential election, both CNN and MSNBC on Friday virtually ignored President Biden's intense fall while climbing the stairs onto Air Force One."
     publishedDateTime: 2021-03-20T06:37:00Z
@@ -525,6 +509,22 @@ related:
     quality: 137
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57251046-2d50-49cc-89bb-faad0d5819f9/493c0740-d968-4c4e-8b16-bebbb2038260/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump administration dismantled ‘safe’ border policies, Biden rebuilding process: DHS chief Mayorkas"
+    excerpt: "President Biden's immigration policy is under fire as a flood of unaccompanied children arrive at the Southern border and get to stay in the U.S. ALEJANDRO MAYORKAS, HOMELAND SECURITY SECRETARY: Their families make the heart wrenching decision to send them on a journey across Mexico to provide them with a better,"
+    publishedDateTime: 2021-03-21T18:40:00Z
+    webUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas"
+    ampWebUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -559,6 +559,6 @@ related:
         height: 375
         isCached: true
 
-secured: "cOb6+TLjsBTMtYCyNaaUqejs7MtaYyuufMVL0uCSyqXqWurqfHE7rGEnGUriBdOn0+E+vy1DQiFNgPgYGjvEjFFThIoUU0sD+3Upx5W+JsOsDXFsavmXSrKV4tCdAaRaxtmq7rUNTIGp6RRsBV7fQb7HTWfbWMW9QdTed104br3MFsu08k2LR9tbXltkJKI/vFlfTUSFcdoNxhy2o6sdiBRTL3Ocul2nSaOBL3F59wzTXaymPxCtnDg8QTpQ4wFdua/XtisNGam6su90IW+rrgWqNP896GblAERhcbA2frOKPUTK/VOhDTKP2I24LrlxQfx0uOR69axIDRH82KKFM0r9Q5pH4Inl/y+po52s9gQ=;eRY1xLkUEynbApwQNdbucw=="
+secured: "qRo0QZEmSD8ErTTy68Kb2+moc3c5vC3SAlpctECVv2W4xXyY+XZX0Qyxdej/2+J+OA/1Cl6MYcU1tEG4XO9KbRPhQmJEW6j5zvEcwngEpwWvqSRebvLb0U5VMzDx1oylNJY0OfpGs7dmQbSs+cbFlyuqBuhvnfDtmqCFphU1csTDQPCGbd7odSqfsb9UGVC5UAcUqYoyjVS8osrVL2xvUG8c/bp7duz5xpp/XkDR/sWAlZDvOs04KUSYg2pRcus1cHMAD9akBazuLVTBmi/Wh4G0WD1Xt2Im+NcWjqG7jcV4g9XBU9nx1/2TMguAnRsGUPCq5EUN22vTrawlwQFGJmiu/DwtIDq5UKbwB1KOFV8=;oVlW6oJ6DjcVQzbDFEyv3Q=="
 ---
 

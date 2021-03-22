@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
-excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows, the government’s top infectious ..."
-publishedDateTime: 2021-03-14T12:43:00Z
-originalUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
-webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
-ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+title: "Republican governor of Arkansas worried about Trump followers’ refusal to get COVID vaccine"
+excerpt: "Arkansas Gov. Asa Hutchinson on Sunday blamed vaccine hesitancy among Trump supporters on 'a natural resistance to government and skepticism of it.'"
+publishedDateTime: 2021-03-21T19:42:00Z
+originalUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html"
+webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html"
+ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
 type: article
-quality: 111
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Daily News
+  domain: nydailynews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
+  - url: "https://www.nydailynews.com/resizer/5ltuigt-QXtsJ6tI5XgvglovJ2o=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JGPA63GMWFCQ3E2LH3EXNXC7K4.jpg"
     width: 1200
-    height: 675
+    height: 757
     isCached: true
 
 related:
@@ -287,6 +283,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
+    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows, the government’s top infectious ..."
+    publishedDateTime: 2021-03-14T12:43:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Anti-Asian hashtags soared after Donald Trump first tied COVID-19 to China on Twitter, study shows"
     excerpt: "The week after then-President Donald Trump first used the #chinesevirus hashtag, the number of people using the hashtag increased more than tenfold."
     publishedDateTime: 2021-03-18T20:41:00Z
@@ -470,22 +482,6 @@ related:
         width: 1024
         height: 663
         isCached: true
-  - title: "Republican governor of Arkansas worried about Trump followers’ refusal to get COVID vaccine"
-    excerpt: "Arkansas Gov. Asa Hutchinson on Sunday blamed vaccine hesitancy among Trump supporters on 'a natural resistance to government and skepticism of it.'"
-    publishedDateTime: 2021-03-21T19:42:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 65
-    images:
-      - url: "https://www.nydailynews.com/resizer/5ltuigt-QXtsJ6tI5XgvglovJ2o=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JGPA63GMWFCQ3E2LH3EXNXC7K4.jpg"
-        width: 1200
-        height: 757
-        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z
@@ -503,6 +499,6 @@ related:
         height: 675
         isCached: true
 
-secured: "kgF+9D5CN+NIVkUuB0vpcoOpzcc7UD/B4PeCZNmNNC+4wH29MPPV1rlY1MC1JQeQ/vNNgCSj3sYH3iZX+AjE3iFKRDKHuXh8UzR9dR6IozCCDqzjELZnEtuoiA6F69OaYgOXqOcci+hAJNHpp6+c6DgbtrzmsALqwmQV9rg9BXTfmWevxH9qvjts4H3fUwvrwxhMXLIrbFnOYG35bvfUdRKtYxu39gdikUAfXTec+DMWoqQwFWhD+OKOtFzwhNudnPu3gKznPxEq8Q9AGZ93INnmmPzVuozgYojobrjQ5K2Ol1xJ1ZCJiVRlqvBlimYwJgnkBr2Dp0JB+fyvsbLDb7xbOd7INfszJcTzS9eSuBI=;sRci9yBvLF3pmOK4uADjRw=="
+secured: "wJz75kttpnAJx9v6uErpUQDAvXfmtJErRQz3EZLSVE83+pzVlKBT6PV+uuHx0ODJ8rQkgbGjHIr2dI+8vmd7PY8EfFPA2lrzplGaYqHiTBiqALD9PGFMgs5qBw7/qAP0q2FifkR/ZxyPzxgmAv+miGNFUTAf/FH65nPSId9HdPKqYEEfFmJ73Wor7Zw2ftaS8IGSl3NkyGRr562Ik9aXzKXZwpX1IU6C6O/fcyeNNMe5nfYXxjLvOioz9tHQ2rmEYM1UMNACrLK5KVZmaIQOMP3MDYwdwGyVdiYw48r4coS173wF9yzMYatG1PGis667ytK0NC1A0hpbjDlT6Udem1eetVEFlWkG6Eg22X6oDGY=;67RwzAedUemotHoZU7+qDQ=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In this rural Trump country, covid vaccine is an easy sell — for now"
+    excerpt: "Support our journalism. Subscribe today. Yet there she was last week at a clinic at Mountain Empire Community College, in an Appalachian county where President Donald Trump won 80 percent of the vote in November, sweeping her long hair off to one side so ..."
+    publishedDateTime: 2021-03-21T23:06:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TM5WWZEHTEI6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Donald Trump's Mar-a-Lago Club Partially Closed Due to COVID-19 Outbreak"
     excerpt: "Former President Donald Trump's club, Mar-a-Lago, has been partially closed due to an outbreak of COVID-19. The golf club and resort is located in Palm Beach, Florida, and now serves as Trump's primary residence. A member of the club's staff tested ..."
     publishedDateTime: 2021-03-20T09:26:00Z
@@ -453,6 +469,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
         width: 1024
         height: 663
+        isCached: true
+  - title: "Republican governor of Arkansas worried about Trump followers’ refusal to get COVID vaccine"
+    excerpt: "Arkansas Gov. Asa Hutchinson on Sunday blamed vaccine hesitancy among Trump supporters on 'a natural resistance to government and skepticism of it.'"
+    publishedDateTime: 2021-03-21T19:42:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
+    images:
+      - url: "https://www.nydailynews.com/resizer/5ltuigt-QXtsJ6tI5XgvglovJ2o=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JGPA63GMWFCQ3E2LH3EXNXC7K4.jpg"
+        width: 1200
+        height: 757
         isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."

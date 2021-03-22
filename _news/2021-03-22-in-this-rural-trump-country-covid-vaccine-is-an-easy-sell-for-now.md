@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
-excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows, the government’s top infectious ..."
-publishedDateTime: 2021-03-14T12:43:00Z
-originalUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
-webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
-ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+title: "In this rural Trump country, covid vaccine is an easy sell — for now"
+excerpt: "Support our journalism. Subscribe today. Yet there she was last week at a clinic at Mountain Empire Community College, in an Appalachian county where President Donald Trump won 80 percent of the vote in November, sweeping her long hair off to one side so ..."
+publishedDateTime: 2021-03-21T23:06:00Z
+originalUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html"
+webUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html"
+ampWebUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
 type: article
-quality: 111
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
-    width: 1200
-    height: 675
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TM5WWZEHTEI6XPSKES4J6YLPFQ.jpg&w=1440"
+    width: 1440
+    height: 961
     isCached: true
 
 related:
@@ -110,22 +110,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/3dabdb6797ecd0eac172a64d1dbd3ecd46ef50d6/0_136_6000_3601/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70d7639d69892d667db99b5199d789bc"
         width: 600
         height: 360
-        isCached: true
-  - title: "In this rural Trump country, covid vaccine is an easy sell — for now"
-    excerpt: "Support our journalism. Subscribe today. Yet there she was last week at a clinic at Mountain Empire Community College, in an Appalachian county where President Donald Trump won 80 percent of the vote in November, sweeping her long hair off to one side so ..."
-    publishedDateTime: 2021-03-21T23:06:00Z
-    webUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TM5WWZEHTEI6XPSKES4J6YLPFQ.jpg&w=1440"
-        width: 1440
-        height: 961
         isCached: true
   - title: "Donald Trump's Mar-a-Lago Club Partially Closed Due to COVID-19 Outbreak"
     excerpt: "Former President Donald Trump's club, Mar-a-Lago, has been partially closed due to an outbreak of COVID-19. The golf club and resort is located in Palm Beach, Florida, and now serves as Trump's primary residence. A member of the club's staff tested ..."
@@ -284,6 +268,22 @@ related:
     quality: 115
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/11/PWES/c0bf7753-5950-49af-9862-248995c26ed7-AP21011645140435.jpg?auto=webp&crop=5498,3093,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
+    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows, the government’s top infectious ..."
+    publishedDateTime: 2021-03-14T12:43:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
         width: 1200
         height: 675
         isCached: true
@@ -503,6 +503,6 @@ related:
         height: 675
         isCached: true
 
-secured: "kgF+9D5CN+NIVkUuB0vpcoOpzcc7UD/B4PeCZNmNNC+4wH29MPPV1rlY1MC1JQeQ/vNNgCSj3sYH3iZX+AjE3iFKRDKHuXh8UzR9dR6IozCCDqzjELZnEtuoiA6F69OaYgOXqOcci+hAJNHpp6+c6DgbtrzmsALqwmQV9rg9BXTfmWevxH9qvjts4H3fUwvrwxhMXLIrbFnOYG35bvfUdRKtYxu39gdikUAfXTec+DMWoqQwFWhD+OKOtFzwhNudnPu3gKznPxEq8Q9AGZ93INnmmPzVuozgYojobrjQ5K2Ol1xJ1ZCJiVRlqvBlimYwJgnkBr2Dp0JB+fyvsbLDb7xbOd7INfszJcTzS9eSuBI=;sRci9yBvLF3pmOK4uADjRw=="
+secured: "45xqKV8N17cThVKEWMbmWtx0ZtdSXYc7fJ+H5+C5vUG+VaJW/HqTYWhed1mASWPEL6LPslO7Ra6OCgQtrPhOG6cLla62cT50Evu3eCq/EVdw+kwQCRJgvDeEBwfRKuci36vsPE75vSkkh6WTQiEiAdg061obpjrv1u30tzTNTpzGXUaZEF770VJtKN97Njbnq//soQSCyb3jbFLlWCafQ5M8iVQeP8CWYhI95fFeuSZFLex7CVVqHlgn8qC4O7ODKXuzjxf9963wF/QOyriV7mo7OA+ojkFkYusmS1T4kJ+c/3cLtN5M09fZepTLClZsDROBLh27vrqI4mFdFwpcK/xPDwwCCSkHe0hR7Ryct0Q=;vd6ITkRoAE6Kb1Dxy8WBiQ=="
 ---
 

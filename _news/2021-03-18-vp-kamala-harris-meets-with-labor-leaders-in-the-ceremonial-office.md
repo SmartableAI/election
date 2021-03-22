@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris Meets with LAbor Leaders in the Ceremonial Office"
 excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice ..."
 publishedDateTime: 2021-03-18T16:06:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/ed3b73c337d695d77cf510a1e7ac6dc9/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/ed3b73c337d695d77cf510a1e7ac6dc9/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/27f2a99397b681d75445fcc5fa361fa5/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/27f2a99397b681d75445fcc5fa361fa5/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/ed3b73c337d695d77cf510a1e7ac6dc9/HARRIS-HISTORY-MONTH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/27f2a99397b681d75445fcc5fa361fa5/HARRIS-HISTORY-MONTH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1124,6 +1124,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Ey/+H+HT9GyvdSPD/l2tD0E+BAtq8zUL5Rj/tk3qri+cjRcxNjQYm0ov/SUFJ9d/HkujO/PzojOI9sk74PX9rzDO5dXc+x/l+rw4fV5iIHLT5Af8N9+kj+bPZUOS4tP6lhOiYBpYk4F0er9j8JQIoUy9dF7rj8VDyIEsHATcjt86Pta5SWepji03AaS2jG4GMlUK1RPL0fktglLfJ3dhq7lt7LHin9Dgga04zdYZW6dAPPCbXZHo0d9sUcvIY2L86N2RU/qJqB2jaE7kLa1arDHdWzyM/Vggl8rW5vBA8NrHoGNF4RUONPYFPDzsBBSpjN1eFoIrxhHEgiSrmXlp8GIhcyeCFxTXv7KVJ4p7Ywo=;jr3PCzkYj+B2Fk42daTcyw=="
+secured: "/Lon/UzUv047UVwwL3J/arBO/4JJGDznynRF6aCP4bHegWH+6F6U1FCEL+Oqx4Ly7F/ksazn+XOQq92qOWWYIRlozqEyCRQqTE6tmfX9UdbJj9dqJnaCwJWki7t/Kp3WysTwrM6iJ2iTYYqu1SxvG1w6q0t1mlWMMvfeAy0yldPUC9hX+9WeTkyncWi5sx0spS7Hapqor3MMeTMNzzhmTYc9i4HpfAqLmV855Ly176teEg794/WgffskHi1uAz66bbc14TMWK25MF0kOpbGhuuEVQParNbWNF/jLCGq1Jxc4wTkLRR6MXywOK0/dNLpBHsFFHTTJmU1dqulaz5Nb7DroaTTHKpVT7nMZimqexaU=;AZc+2n2R7vnxOyRKPdKY9g=="
 ---
 
