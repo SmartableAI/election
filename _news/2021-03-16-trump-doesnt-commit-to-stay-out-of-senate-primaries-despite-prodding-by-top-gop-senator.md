@@ -31,21 +31,113 @@ images:
     isCached: true
 
 related:
-  - title: "Trump expected to meet with Sen. Rick Scott amid GOP divide over former President"
-    excerpt: "Former President Donald Trump is expected to meet with Republican Sen. Rick Scott this week, a source familiar with the meeting told CNN, at a time when the party is heatedly debating Trump's role in its future.\n    \n"
-    publishedDateTime: 2021-03-11T02:13:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40Zo2mlfAss/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/trump-rick-scott-nrsc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/trump-rick-scott-nrsc/index.html"
+  - title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
+    excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
+    publishedDateTime: 2021-03-18T11:33:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_u-4hM36qk0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310190838-trump-scott-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318071556-02-mo-brooks-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "McConnell quietly courts Senate primary candidates 'who can win' regardless of Trump ties "
+    excerpt: "Senate Minority Leader Mitch McConnell is quietly maneuvering to field a slate of GOP Senate candidates in critical battleground states, attempting to avoid a repeat of election cycles a decade ago when candidates emerged from primaries only to implode and deny his party the chance to take back the majority.\n"
+    publishedDateTime: 2021-03-12T23:46:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hHVw17Pt17o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/mitch-mcconnell-donald-trump-2022-senate-races/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/mitch-mcconnell-donald-trump-2022-senate-races/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Cotton calls for return of Trump border policies"
+    excerpt: "A repeated talking point by Mayorkas on Sunday was that the Trump administration, which took a hard line on border policy, was to blame because it \"dismantled the orderly, humane and efficient way\" of dealing with the migrant children. Mayorkas said the U ..."
+    publishedDateTime: 2021-03-21T14:35:00Z
+    webUrl: "https://www.politico.com/news/2021/03/21/cotton-us-border-wide-open-477379"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/21/cotton-us-border-wide-open-477379"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/cotton-us-border-wide-open-477379"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/07/c1/69b4871745b3965c09fc92d63ffb/210321-cotton-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump plans social media return with his own platform"
+    excerpt: "WASHINGTON — Former President Donald Trump, suspended from Twitter, Facebook and other social media sites after the Jan. 6 attack on the Capitol, plans to launch his own platform in two to three months, one of his senior advisers told Fox News on Sunday."
+    publishedDateTime: 2021-03-21T18:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-plans-social-media-return-his-own-platform-n1261694"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261694"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261694"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_29/3391138/200618-donald-trump-cellphone-smartphone-cell-ac-1059p_98bab316821b75cf38c81649899893b2.jpg"
+        width: 2500
+        height: 1560
+        isCached: true
+  - title: "Fired by Trump White House, brother of impeachment witness Vindman now says Army set to promote him"
+    excerpt: "The brothers were both Army officers serving on the National Security Council when they raised concerns about former President Donald Trump's phone call to Ukranian President Volodymyr Zelensky in July 2019. They told an NSC lawyer that Trump's phone call ..."
+    publishedDateTime: 2021-03-16T12:43:00Z
+    webUrl: "https://www.nbcnews.com/news/military/fired-trump-white-house-brother-impeachment-witness-vindman-now-says-n1261166"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261166"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261166"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 121
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_35/3407686/200826-yevgeny-vindman-jm-1531_81b99312784f6566b63cd89ba04236a9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Psaki: Trump Administration Rhetoric Contributed to Anti-Asian Threats"
+    excerpt: "new video loaded: Psaki: Trump Administration Rhetoric Contributed to Anti-Asian Threats transcript The White House press secretary, Jen Psaki, on Wednesday told reporters that rhetoric about the coronavirus used by former President Donald J. Trump’s ..."
+    publishedDateTime: 2021-03-17T22:10:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007660230/trump-asian-americans-georgia.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-biden/17atlanta-shooting-briefing-biden-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How to mess up a possible Trump endorsement in one easy step"
+    excerpt: "The Senate GOP primary in Alabama is a case study in the various ways to win over Trump — and how to alienate him too."
+    publishedDateTime: 2021-03-21T07:00:00Z
+    webUrl: "https://www.politico.com/news/2021/03/21/trump-endorsement-alabama-gop-477337"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/86/10/373c171346f29b84482197cc5b3b/210320-donald-trump-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "Rrv9URIEzRhrE4hBM3B9cD4GPRb2GmN4Tx8Z/9oXIfWVPm7zMgbm0aCvcQ840kF4xkECFsCt2bwsBF9WzBZge/WGY1RctyW679Wb/phTPe67e6fxhjYeEiwzWqLo3W41etHnprXPDr9sblFY0CEAhUwaiwmNQ3Hmw00RiaAAMV9y4SroDfhJsQP5Aob1B8td5qnFrL22Yu6dp+ExwKCKAD69eIOB44uDU/tDeG+Alg9LR6kgmWmW23O0BpHJIk5OxOgGEOVhuhgiT0IPjMGv397GQdQfPZyULJaCEzVqdKleLQgfWO5lKHyvbCEoHf+1rTgLmJ2Aj/ey7kNQ9unSpG+dJYcfmE8tgkGU+ckRmOs=;VEAkXwTz3CesTEEAcoaRMg=="

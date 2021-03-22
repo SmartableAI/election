@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meg
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1757651/meghan-markle.jpg"
         width: 1620
         height: 1136
+        isCached: true
+  - title: "Trump is planning to launch his own social-media platform in the next few months, aide Jason Miller says"
+    excerpt: "Miller during an appearance on Fox News said Trump would be \"returning to social media in two or three months\" with \"his own platform.\""
+    publishedDateTime: 2021-03-22T01:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-planning-to-launch-his-own-social-media-platform-soon-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/60576ea61fcb5700186ee980?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump is reportedly planning to launch his own social-media platform in the next few months, aide Jason Miller says"
     excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump is planning to launch his own social-media platform within the coming months, longtime Trump adviser Jason Miller said during a Sunday appearance on Fox News \"Media Buzz.\" The former president was barred ..."

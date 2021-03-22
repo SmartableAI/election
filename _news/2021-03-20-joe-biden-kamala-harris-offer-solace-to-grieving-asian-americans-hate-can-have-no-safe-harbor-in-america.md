@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
-excerpt: "ATLANTA — President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta on Friday, just days after a white gunman killed eight ..."
-publishedDateTime: 2021-03-20T03:11:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
+publishedDateTime: 2021-03-20T02:11:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
 type: article
-quality: 71
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+  - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
     width: 1200
     height: 800
     isCached: true
@@ -1081,16 +1085,16 @@ related:
         height: 433
         isCached: true
   - title: "VP Kamala Harris Meets with LAbor Leaders in the Ceremonial Office"
-    excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice ..."
+    excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice President Harris met with Randi Weingarten from the American Federation of Teachers,"
     publishedDateTime: 2021-03-18T16:06:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/27f2a99397b681d75445fcc5fa361fa5/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/61a20349bff893bc7a30cabeb1a3b1f7/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/27f2a99397b681d75445fcc5fa361fa5/HARRIS-HISTORY-MONTH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/61a20349bff893bc7a30cabeb1a3b1f7/HARRIS-HISTORY-MONTH.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1156,6 +1160,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "hQtrUF0NA5uVMr7RirEyUb/kqXXqf+LjeLRiB+tNrlOnek9iE0XBttkLaymvlK3DHmQDSmTi5k8uMx+tB1YaSK/30033QCqvh1VPUWdSWAaWNLtKExqOAnRNGltSK20mPxJ5FgrVu2bZqgoiTHGRqRQF7a/5rMmE9QmKtTQ4F4Xbf1jTK+Syy5iF0XfLoV+f5OA/fS2xh5bOx5YdAH56n0piz4FY2fkcbrvl3jg5VS5Ywde1FYRDKp+skYJ+QJ2wSXj3l4blmzb6L2BLwOrzPdzY+stSK47a5D9YEWln7DbgExww4fX9i45TONp+b4LzIIGzizg+ZN3B2JzARKWYTYNv8eN2PftBCxmip9OpCj3ptvhBdhYB1TVMJiEmv2IfuNCX8RF8fZ3grOv5VPeUB9LIxKAFqrQwBfSrcgvIdnAAHXvTKUx89YqdUfuPP29zUiGFRVZ5WsKwQs3OvzHOmYfyX7+rpRWsUf37OQZ0dTiupg2j4R65/jtXMRs73U2Lsf8E3gpZK7a/2bKLzaW/LQ==;Y72A6OB5vIVs0bOVP2wDXg=="
+secured: "1cvAw0nibBsPevN+5iYsAv7eX6X18qTqo7dXhLGkEMG+3FvbCnh51I+Tuto4fjxs9iKMMPgn/RxJ6beqVBhiXmqFr9UOI4eVni5c8VhcUD4bVoDDMiywvv4mScMJILvXBqiZZto+EudcptKGkBFoYd1XZyy6TmIRexGn56KNtg1lKlXR9oHCoVFivQy+e68gK8hpRcZTqhVi+l//4sdj7ZDw9g0i/oD6QdOZCMxzjoPyNd6dOShnQ8uowAEgThP2fhd+HiKWX5Nr+eIePfxmM2GZzYr5WusCvezjpvB5ir3I3evH4gVrEx6kujoPlYsCR080xiJuWKaP2H8S/ctHGhIxBzYpFXpXeZgCZz8vNX0=;GSwlfEe2DMUzNrXA1GFpwQ=="
 ---
 

@@ -32,19 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Glory days of Trump's gold-plated 757 seem far away as plane sits idle at a sleepy airport  "
-    excerpt: "Trump's personal Boeing 757 was always the crown jewel of his wealth -- the ultimate sign that he had made it. He's used it as a backdrop for sleek photo shoots, campaign rallies, VIP tours, for shots of him eating his Big Macs and KFC, plated, with a knife and fork. Trump loved to show it off -- the"
-    publishedDateTime: 2021-03-19T20:11:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BVwxmk_KKYg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/trump-757-repairs-gold-plated-glory-days/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/trump-757-repairs-gold-plated-glory-days/index.html"
+  - title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
+    excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
+    publishedDateTime: 2021-03-18T11:33:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_u-4hM36qk0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319145726-01a-screengrab-trump-757-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318071556-02-mo-brooks-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump doesn't commit to stay out of Senate primaries despite prodding by top GOP senator "
+    excerpt: "Florida Sen. Rick Scott, the chairman of the National Republican Senatorial Committee, urged former President Donald Trump to back the candidates who win Senate primaries next year rather than engage in intra-party fights that could harm the party's chances at taking back the majority in the midterm"
+    publishedDateTime: 2021-03-16T15:51:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cUU6MqhaS2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/rick-scott-trump-senate-primaries-2022/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/rick-scott-trump-senate-primaries-2022/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310190838-trump-scott-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell quietly courts Senate primary candidates 'who can win' regardless of Trump ties "
+    excerpt: "Senate Minority Leader Mitch McConnell is quietly maneuvering to field a slate of GOP Senate candidates in critical battleground states, attempting to avoid a repeat of election cycles a decade ago when candidates emerged from primaries only to implode and deny his party the chance to take back the majority.\n"
+    publishedDateTime: 2021-03-12T23:46:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hHVw17Pt17o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/mitch-mcconnell-donald-trump-2022-senate-races/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/mitch-mcconnell-donald-trump-2022-senate-races/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,21 +96,35 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Mary Trump has her next act — and believes her uncle’s guilty of sedition"
-    excerpt: "Donald Trump’s niece is writing a new book and joining the board of LGBTQ+ group promoting female candidates for office."
-    publishedDateTime: 2021-03-20T19:22:00Z
-    webUrl: "https://www.politico.com/news/2021/03/19/mary-trump-donald-lgbtq-477130"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/19/mary-trump-donald-lgbtq-477130"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/19/mary-trump-donald-lgbtq-477130"
+  - title: "Fired by Trump White House, brother of impeachment witness Vindman now says Army set to promote him"
+    excerpt: "The brothers were both Army officers serving on the National Security Council when they raised concerns about former President Donald Trump's phone call to Ukranian President Volodymyr Zelensky in July 2019. They told an NSC lawyer that Trump's phone call ..."
+    publishedDateTime: 2021-03-16T12:43:00Z
+    webUrl: "https://www.nbcnews.com/news/military/fired-trump-white-house-brother-impeachment-witness-vindman-now-says-n1261166"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261166"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261166"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 134
+      name: NBC News
+      domain: nbcnews.com
+    quality: 121
     images:
-      - url: "https://static.politico.com/8a/6f/f599a0ed490695cb6f5ec7b241d7/210318-marytrump-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_35/3407686/200826-yevgeny-vindman-jm-1531_81b99312784f6566b63cd89ba04236a9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Psaki: Trump Administration Rhetoric Contributed to Anti-Asian Threats"
+    excerpt: "new video loaded: Psaki: Trump Administration Rhetoric Contributed to Anti-Asian Threats transcript The White House press secretary, Jen Psaki, on Wednesday told reporters that rhetoric about the coronavirus used by former President Donald J. Trump’s ..."
+    publishedDateTime: 2021-03-17T22:10:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007660230/trump-asian-americans-georgia.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-biden/17atlanta-shooting-briefing-biden-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "How to mess up a possible Trump endorsement in one easy step"
     excerpt: "The Senate GOP primary in Alabama is a case study in the various ways to win over Trump — and how to alienate him too."

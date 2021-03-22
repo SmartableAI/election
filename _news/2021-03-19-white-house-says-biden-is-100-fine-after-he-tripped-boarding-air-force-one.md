@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden hit his first vaccination milestone today. Here's how the numbers break down."
+    excerpt: "Biden hit his first vaccination milestone today. Here's how the numbers break down. The country has counted 100 million Covid-19 vaccine doses administered 59 days into Biden’s first 100 days. On Friday,"
+    publishedDateTime: 2021-03-19T17:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-100-million-vaccinations-milestone-n1261583"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261583"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261583"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3458152/210319-covid-vaccination-se-1132a_4a3b765696e0a6dda791ab29c0e908ee.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
     excerpt: "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ..."
     publishedDateTime: 2021-03-19T17:41:00Z

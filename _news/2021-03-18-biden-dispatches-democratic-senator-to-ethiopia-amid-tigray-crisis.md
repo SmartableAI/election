@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 157
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311103227-08-blinken-diversity-state-dept-menendez-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden dispatches Democratic senator to Ethiopia amid Tigray crisis"
+    excerpt: "Washington (CNN)President Joe Biden is dispatching one of his top congressional allies to Ethiopia to meet with Prime Minister Abiy Ahmed amid the humanitarian crisis in that country's Tigray region. Sen. Chris Coons \"will convey President Biden's grave ..."
+    publishedDateTime: 2021-03-18T22:00:00Z
+    webUrl: "https://www.cnn.com/2021/03/18/politics/chris-coons-tigray/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225095126-sen-chris-coons-0222-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

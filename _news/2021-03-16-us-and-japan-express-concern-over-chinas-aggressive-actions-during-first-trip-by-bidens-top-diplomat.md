@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-tri
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html"
 type: article
 quality: 158
-heat: 178
+heat: 158
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Louisiana holds elections to fill congressional seat formerly held by Biden official and replace Republican who died of Covid before swearing-in"
-    excerpt: "The first congressional elections of the 2022 midterm cycle are set for Saturday, when Louisiana voters go to the polls to fill a pair of vacancies in the state's House delegation.\n    \n"
-    publishedDateTime: 2021-03-20T13:01:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eT3esQamOAg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/louisiana-congressional-special-elections/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/louisiana-congressional-special-elections/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 153
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319123052-louisiana-election-candidates-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "sJ85pec1Uckl3+J/VJR7dIFCyn9Xv8yCIdE/92wifpyaUfbk2V4/uzG7PA04DgEvnInoEkh+7R52aa7V6ta1BDfIaHgmm/duHxlT77OT86Cawf08m1Mm/2KMfm1yCgUGk53X/UTzUWfV2nrvAGx/CN4LcM2+971Ehjlz05rSHbg71IJfFHsSjzDmeIJNQaBARjwG3rndg7snbcFv4y8z9SMvnzOndcbBYa5cc4RqWP7yYehkugcPX/fWzZJIcihsRdTYym4xWnWfNPTTizqJ25Z75ShLVPuKbzPHp4Aarym5SQGCyFDGs7i1cjyuHGOYbJWfV5ZfNMT25tOZlp6Ur28FYdCpSPO8Anlk0ZDSOEs=;CU6xbA3xMnlTZ3VqHGoy2g=="
 ---

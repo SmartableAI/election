@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-le
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSN4VWD2E4I6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Donald Trump: Advisor says former President is planning a social media comeback with own platform"
+    excerpt: "According to his aides, former US president Donald Trump is planning on creating his own social media platform. It comes after he was banned from Twitter and Facebook following January's riots at the US Capitol in Washington."
+    publishedDateTime: 2021-03-22T11:10:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/56481132"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/56481132.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/56481132.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 62
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/B28C/production/_116380754_untitled-1.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Will Donald Trump Face Criminal Charges? Michael Cohen Continues Focus On Ex-President's Legal Problems"
     excerpt: "Trump's former lawyer called New York's inquiry \"a proctological exam of the highest order\" now that it has access to Trump's tax records."

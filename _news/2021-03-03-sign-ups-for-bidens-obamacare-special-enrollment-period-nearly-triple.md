@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enroll
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enrollment-period/index.html"
 type: article
 quality: 175
-heat: 315
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,117 +31,243 @@ images:
     isCached: true
 
 related:
-  - title: "Obama congratulates Biden on Senate passage of his Covid relief bill "
-    excerpt: "Former President Barack Obama on Saturday congratulated President Joe Biden on the successful passage of the Covid-19 relief bill through the Senate, the administration's top legislative priority as millions of Americans continue to struggle financially amid the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-03-06T21:12:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kBw4drea8MM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/obama-biden-covid-relief-package/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/obama-biden-covid-relief-package/index.html"
+  - title: "Biden moves rapidly to shore up Obamacare and erase Trump's changes"
+    excerpt: "President Joe Biden is wasting no time establishing his vision for the Affordable Care Act and reversing many Trump-era measures aimed at weakening it.\n    \n"
+    publishedDateTime: 2021-03-22T10:00:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d1ynPVLQVx4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216142504-20210216-obamacare-repair-bandaid-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's stimulus provides larger single-year tax breaks than Trump's or Reagan's cuts"
+    excerpt: "The multitude of tax breaks in the $1.9 trillion relief package signed this month by President Joe Biden will provide one of the biggest one-year tax cuts in modern history, a new analysis has found.\n    \n"
+    publishedDateTime: 2021-03-17T18:32:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YqeeLfBGBKI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/stimulus-temporary-tax-cut/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/stimulus-temporary-tax-cut/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126074106-stimulus-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US intelligence report says Russia attempted to interfere in 2020 election with goal of 'denigrating' Biden and helping Trump"
+    excerpt: "The Office of the Director of National Intelligence released its declassified report on foreign threats to 2020 US elections Tuesday, which concludes that foreign adversaries -- including Russia -- did attempt to interfere.\n    \n"
+    publishedDateTime: 2021-03-16T19:39:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rThfD0PTV_E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/us-election-intel-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/us-election-intel-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170626163907-russia-dnc-hacking-ron-2-00000808-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden plans to reopen Obamacare enrollment"
+    excerpt: "President Joe Biden is expected to reopen enrollment on the federal Affordable Care Act exchanges on Thursday as part of a series of executive actions related to health care, taking a step to help uninsured Americans that his predecessor rejected.\n    \n"
+    publishedDateTime: 2021-01-26T16:09:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N8_0eAuY_jw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-aca-obamacare-open-enrollment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-aca-obamacare-open-enrollment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306155705-file-barack-obama-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126135135-01-biden-0125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "A record Joe Biden shouldn't be proud of"
-    excerpt: "The White House announced Monday that President Joe Biden will deliver his first prime-time speech Thursday night to commemorate a year since the Covid-19 pandemic effectively shut down American society.\n    \n"
-    publishedDateTime: 2021-03-08T23:30:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lYkp4fTYEH4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/joe-biden-solo-press-conference-record/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/joe-biden-solo-press-conference-record/index.html"
+  - title: "Here's what Biden's Obamacare executive order means for you"
+    excerpt: "President Joe Biden has promised to make health care more affordable and available. His executive order Thursday takes one immediate step in that direction.\n    \n"
+    publishedDateTime: 2021-01-28T18:03:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tLaOcfYKnTo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302095327-biden-obrador-meeting-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128123907-aca-supporter-signs-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden visits DC hardware store to highlight Paycheck Protection Program"
-    excerpt: "President Joe Biden on Tuesday visited a hardware store in Washington, DC, to highlight the changes his administration has made to the Paycheck Protection Program to help the smallest of businesses amid the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-03-09T18:41:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0cl-sNht1l8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's signature won't appear on third stimulus check, White House says"
-    excerpt: "President Joe Biden's signature will not appear on the stimulus checks expected to be sent to Americans once the Covid stimulus plan is passed, White House press secretary Jen Psaki said Tuesday.\n    \n"
-    publishedDateTime: 2021-03-09T20:21:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q-B6LXnhdZc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/joe-biden-stimulus-payments-signature/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/joe-biden-stimulus-payments-signature/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200503164542-stimulus-check-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's border strategy faces crucial test amid dramatic surge of migrant children"
-    excerpt: "Aides who traveled to the southern border at the behest of President Joe Biden have described to him a troubling surge of migrant children the administration is now racing to house as the President's more humane approach to immigration faces a critical early test.\n    \n"
-    publishedDateTime: 2021-03-10T23:10:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CGV0RKm0zZ8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+  - title: "Biden administration prepares to expand phased entry of migrants forced to stay in Mexico under Trump-era policy"
+    excerpt: "The Biden administration is preparing to expand the phased entry of migrants who were forced to stay in Mexico under a Trump-era policy to two additional ports of entry, the Department of Homeland Security told CNN on Friday.\n    \n"
+    publishedDateTime: 2021-03-20T01:10:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5yEbaSNXQ30/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/migrants-phased-entry-remain-in-mexico-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/migrants-phased-entry-remain-in-mexico-biden-administration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154002-01-central-american-minors-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's special Obamacare enrollment period opens Monday. Here's what you need to know"
-    excerpt: "Uninsured Americans who want to buy Affordable Care Act coverage have another three months to do so, thanks to an executive order President Joe Biden signed last month.\n    \n"
-    publishedDateTime: 2021-02-15T11:02:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3Y_EqdxQ6E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html"
+  - title: "Speaking out against hate crimes, Biden tries to restore moral clarity to the presidency"
+    excerpt: "President Joe Biden and Vice President Kamala Harris moved to reassert control over America's bully pulpit Friday, decrying acts of violence against Asian Americans after a year in which former President Donald Trump inflamed racist attitudes by referring countless times to the coronavirus as \"Kung Flu\""
+    publishedDateTime: 2021-03-20T04:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgB6ALPRmew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's border strategy faces crucial test amid dramatic surge of migrant children"
-    excerpt: "Washington (CNN)Aides who traveled to the southern border at the behest of President Joe Biden have described to him a troubling surge of migrant children the administration is now racing to house as the President's more humane approach to immigration ..."
-    publishedDateTime: 2021-03-10T23:10:00Z
-    webUrl: "https://www.cnn.com/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+  - title: "Biden under pressure to tap fewer political ambassadors than Trump, Obama"
+    excerpt: "Donald Trump named more of his political allies to serve as ambassadors than any president in modern history. Now the pressure is on Joe Biden to reverse that trend — and set a new standard. Biden still plans to dole out ambassadorships to major campaign donors,"
+    publishedDateTime: 2021-03-16T00:55:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/biden-political-ambassadors-476050"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/biden-political-ambassadors-476050"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/biden-political-ambassadors-476050"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 149
+    images:
+      - url: "https://static.politico.com/58/29/ec2c93164ce1a866396b38fb43ee/20210315-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden's stimulus provides larger single-year tax breaks than Trump's or Reagan's cuts"
+    excerpt: "By contrast, the tax cuts signed by former President Donald Trump and by Reagan amounted to about 1% and 1.2% of one year of GDP, respectively. How much will your stimulus check be? Stimulus payments hitting some Americans' bank accounts Debt collectors ..."
+    publishedDateTime: 2021-03-17T18:32:00Z
+    webUrl: "https://www.cnn.com/2021/03/17/politics/stimulus-temporary-tax-cut/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/stimulus-temporary-tax-cut/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/stimulus-temporary-tax-cut/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 129
+    quality: 143
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126074106-stimulus-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Russia stoked Ukraine allegations, used Trump allies to undermine Biden, U.S. intel agencies say"
+    excerpt: "Russia tried again last year to help former President Donald Trump win the White House, the U.S. intelligence community said Tuesday in a long-awaited postmortem — adding that a \"primary\" tactic in that effort was the spreading of corruption allegations ..."
+    publishedDateTime: 2021-03-17T05:24:00Z
+    webUrl: "https://www.politico.com/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 137
+    images:
+      - url: "https://static.politico.com/fb/c3/d776387447ef8a78d7ede679465d/webp.net-resizeimage%20-%202021-02-09T235133.366.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Taiwan feared Biden would be softer than Trump on China. So far, it has been pleasantly surprised."
+    excerpt: "TAIPEI, Taiwan — When Donald Trump lost re-election in November, there was one place far from his \"Make America Great Again\" rallies that also felt the loss keenly: Taiwan. Many Taiwanese favored Trump because of his administration's hard-line stance ..."
+    publishedDateTime: 2021-03-18T10:13:00Z
+    webUrl: "https://www.nbcnews.com/news/world/taiwan-feared-biden-would-be-softer-trump-china-so-far-n1261274"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261274"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261274"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 136
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3457676/210317-taiwan-china-mc-1142_e8b46c21800e9bbd415e3a7dcef32a7d.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Joe Biden's pandemic timeline gamble"
+    excerpt: "May 1 and July 4 — on the calendar of every American. By the first deadline, he says he will force states to make every adult eligible for a Covid-19 vaccine. And if all goes well, sufficient citizens will be immunized to attend parties on Independence Day."
+    publishedDateTime: 2021-03-15T20:48:00Z
+    webUrl: "https://www.cnn.com/2021/03/15/world/meanwhile-in-america-march-16-intl-latam/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/world/meanwhile-in-america-march-16-intl-latam/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/world/meanwhile-in-america-march-16-intl-latam/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315091741-coronavirus-vaccine-nursing-home-us-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden Endorses Filibuster Rule Changes"
+    excerpt: "In his speech on Monday, Mr. Durbin argued that the burden should be shifted to opponents of a given bill to maintain a filibuster rather than on supporters to produce 60 votes to advance it, a view similar to the one expressed by Mr. Biden. Senator Joe ..."
+    publishedDateTime: 2021-03-16T23:05:00Z
+    webUrl: "https://www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/16/us/politics/16new-washington-briefing-filibuster-video/16new-washington-briefing-filibuster-video-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Urges Mexico to Do More to Stop Migration"
+    excerpt: "The Biden administration has been quietly pressing Mexico to ramp up its efforts to limit the flow of migrants, clinging to a Trump policy of relying on southern neighbors to enforce America’s immigration agenda."
+    publishedDateTime: 2021-03-18T15:44:00Z
+    webUrl: "https://www.nytimes.com/2021/03/18/world/americas/biden-mexico-migration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/18/world/americas/biden-mexico-migration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/world/americas/biden-mexico-migration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/19/world/19biden-amlo-immigration-add1/19biden-amlo-immigration-add1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "POLITICO Playbook: Biden stares down a mounting crisis on the border"
+    excerpt: "President JOE BIDEN is about to come under a mountain of pressure from both parties to fix the situation at the border — and address immigration overall. With a humanitarian crisis growing — read this CBS story for the latest — progressives are losing their patience over how long it’s taking Biden to undo Trump-era policies and implement a more humane system he campaigned on."
+    publishedDateTime: 2021-03-15T17:13:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/03/15/biden-stares-down-a-mounting-crisis-on-the-border-492106"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/4d/ea/f33989ee43c7bd082e3cb7276aea/210314-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "di5pQ2yWEiqpGG5BmmXFXQseoDcjEAx10Ifxk6cZdFKo3xQO1osCz2IRpQyjSCC2sOPofBrw4m8Xw6eGquZeIOI96SWMEcIna2fgE59mP/LbBhQXOcVeL6rJljxo6KFMkc4w/ErgFJ+0JeE3FboG4gKhCShwfq0TvbWIgg6b6daJ94eHEu1XU/7U4cpoKfLY9a+++slJZuzJB0wilOLNxxKm7LX+hye1TJg14muQUemRnw2oAHQe/B1zH7Cm3ntvZMlRkVjRNi4zBo50Scp+ZWW+jRVMbP/+ejxn6SZCism5aSEspaaA1LwQjbORE2RTpFjc8YWrD1SUBA1TJVS+AnRxNDbiHU91TLHCtUI+lcs=;OwsXgCenNFnJrBNuNI5Ilw=="

@@ -429,6 +429,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "On federal death row, inmates talk about Biden, executions"
+    excerpt: "Inmates on federal death row tell The Associated Press that a leading topic of conversation through air ducts they use to communicate is whether President Joe Biden will keep a campaign pledge to ..."
+    publishedDateTime: 2021-03-22T10:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/federal-death-row-inmates-talk-biden-executions-76601152"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/federal-death-row-inmates-talk-biden-executions-76601152"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/federal-death-row-inmates-talk-biden-executions-76601152"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6396b25b83d7412ea8b42c596745ece9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
     publishedDateTime: 2021-03-14T14:12:00Z
@@ -813,6 +829,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden and Congress want to fix US roads, bridges and airports, but competing forces could stall the plan"
+    excerpt: "With Congress' recent passage of the COVID-19 stimulus bill known as the American Rescue Plan, President Joe Biden met with Republican and Democratic lawmakers in recent weeks to discuss how to move forward on with an infrastructure plan. He's expected ..."
+    publishedDateTime: 2021-03-22T09:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/22/joe-bidens-plan-roads-bridges-airports-may-hit-snag-congress/4757270001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4757270001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4757270001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/19/USAT/62a78305-acb5-4bc1-9386-b14c314423e0-GTY_1300538337.jpg?auto=webp&crop=6123,3444,x0,y312&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
     excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."
     publishedDateTime: 2021-03-14T02:53:00Z
@@ -1049,6 +1081,6 @@ related:
         height: 224
         isCached: true
 
-secured: "DR1Xg9p3UkjArFUVRePgX4J6Pbi3SZVig+d50O31rvafRRgRrdMZTwHk7w8U5ZIjOh33YIrEi3quiT8cn2s21Jp3Czv6rEM/zXvzO3v+RAPafTW1vZ0CxYlYTAjJq3p3Cog5l1wl4XPKkFqwverbn4BR/C3oJZodqpT6jDa5iNOL98IFaZPtrCw2M3YBvz6qWkQ6MaZkto2dR8ac+yZMY9tQDcr7ZwBDMVhTEcBhMCcJ+VETqhyD05GwTfoqgc34sqWFixKi4jVoGw7XJqFFFVduMHi46bvYvOGyTK1WazanjnqXSwBIquhFBfEyoQDtnWUq5TNvDemdniAAR6Fu0SlbBRLdODs0a0eG8TJ04Ws=;m2OwMt5MRjvpdlpyUhunRw=="
+secured: "Rgh4DJFBW9gi6ywe0mrH9awJ0XI+VGVN1W2pyh1JMjChomVRIf/NBHWwOy0gyOjsMS6ep1GLFNwtbHlRi+dCSmHVar2VnOvNArTzq2q0xt2qth84I++8/W67SNqO2iHSxFrY4qUWqWWHMQUBOcT4PLJSQAjVeDJC02f3Ymb2lQTw1KU5p70cEseILL1az0IFz4CteigyUiZuQoGuJP2vCDzWBN6ZWidO3s/WK7wNQO7B3YFBbCxDz0FvOGtNv4/ZxDVckgaFduvMJRpOpsGahvAGRzV2mwTq9Zr1p/SgIbTD3veLGv6jLm89nt5tAz7utrMe+0msklRhiAQVwwudvggZGiggU1x4gvJL7cruFThcKaEUCClJJdj6n39QYy3MKkCoATnFvdJCOnGcV+IPrlY1wAJM+72th4fA9EkfSc9zOPX06vnte5WLlZy7MdjbHdbIawm4A8RGx+9CLiDXyAXBy9V3oAfkaPaahFs77AnuBmG4fw/mZU/8QYFoS+NI8CoPOoOL8Ii8ozQ+UqxMIQ==;+lXp7BfpGBC36MnouyJThQ=="
 ---
 

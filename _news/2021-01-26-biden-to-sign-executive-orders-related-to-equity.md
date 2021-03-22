@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 475
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's what Biden's Obamacare executive order means for you"
-    excerpt: "President Joe Biden has promised to make health care more affordable and available. His executive order Thursday takes one immediate step in that direction.\n    \n"
-    publishedDateTime: 2021-01-28T18:03:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tLaOcfYKnTo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128123907-aca-supporter-signs-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden wants millions of clean-energy related jobs. Can it happen? "
     excerpt: "Last week, President Joe Biden reaffirmed his commitment to addressing climate change by creating green energy jobs, building out a \"modern and sustainable infrastructure\" toward his continued goal of reaching a carbon-free energy sector in the US by 2035.\n    \n"
     publishedDateTime: 2021-02-01T20:16:34Z

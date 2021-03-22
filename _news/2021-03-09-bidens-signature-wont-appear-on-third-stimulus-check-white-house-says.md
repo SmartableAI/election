@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Sign-ups for Biden's Obamacare special enrollment period nearly triple"
-    excerpt: "More than 206,000 people signed up for Affordable Care Act policies on the federal exchange in the first two weeks of the special enrollment period ordered by President Joe Biden, federal data released Wednesday shows.\n    \n"
-    publishedDateTime: 2021-03-03T15:00:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L921FMj7zZM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enrollment-period/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enrollment-period/index.html"
+  - title: "Here's what a 'vote-a-rama' is (and what it means for Biden's stimulus)"
+    excerpt: "Senate Democrats' push to quickly pass President Joe Biden's Covid-19 relief package is about to meet a time-consuming and stamina-challenging speed bump known as a \"vote-a-rama.\"\n    \n"
+    publishedDateTime: 2021-03-04T20:40:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7sDNdSWi1ic/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301111918-01-us-capitol-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Obama congratulates Biden on Senate passage of his Covid relief bill "
-    excerpt: "Former President Barack Obama on Saturday congratulated President Joe Biden on the successful passage of the Covid-19 relief bill through the Senate, the administration's top legislative priority as millions of Americans continue to struggle financially amid the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-03-06T21:12:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kBw4drea8MM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/obama-biden-covid-relief-package/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/obama-biden-covid-relief-package/index.html"
+  - title: "Progressives irked by Biden's early deal-making to hold Dems together"
+    excerpt: "Sitting on an empty stage at the White House Wednesday evening, President Joe Biden stared into a camera and made an appeal to House Democrats who, after passing his massive Covid-19 relief package, are worried it is now being watered down.\n    \n"
+    publishedDateTime: 2021-03-04T21:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Agrv_NGBWB8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/biden-progressives-covid-19-relief-deal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/biden-progressives-covid-19-relief-deal/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306155705-file-barack-obama-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303124435-biden-0302-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -79,69 +79,53 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden visits DC hardware store to highlight Paycheck Protection Program"
-    excerpt: "President Joe Biden on Tuesday visited a hardware store in Washington, DC, to highlight the changes his administration has made to the Paycheck Protection Program to help the smallest of businesses amid the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-03-09T18:41:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0cl-sNht1l8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html"
+  - title: "With Covid relief and stimulus checks in sight, Biden asks for faith in US democracy"
+    excerpt: "Democrats muscled past unified Republican opposition, resolved their own last-minute identity crisis and are on the cusp of delivering a massive Covid relief bill that will put $1,400 checks in the pockets of millions of Americans, shore up unemployment for the millions still out of work and notch the"
+    publishedDateTime: 2021-03-07T05:05:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UZ3TVQpDej0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/biden-covid-relief-stimulus-checks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-covid-relief-stimulus-checks/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205527-01-joe-biden-0305-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's border strategy faces crucial test amid dramatic surge of migrant children"
-    excerpt: "Aides who traveled to the southern border at the behest of President Joe Biden have described to him a troubling surge of migrant children the administration is now racing to house as the President's more humane approach to immigration faces a critical early test.\n    \n"
-    publishedDateTime: 2021-03-10T23:10:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CGV0RKm0zZ8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+  - title: "Here's what a 'vote-a-rama' is (and what it means for Biden's stimulus)"
+    excerpt: "Senate Democrats' push to quickly pass President Joe Biden's Covid-19 relief package is about to meet a time-consuming and stamina-challenging speed bump known as a \"vote-a-rama.\""
+    publishedDateTime: 2021-03-04T20:40:00Z
+    webUrl: "https://www.cnn.com/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301111918-01-us-capitol-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's special Obamacare enrollment period opens Monday. Here's what you need to know"
-    excerpt: "Uninsured Americans who want to buy Affordable Care Act coverage have another three months to do so, thanks to an executive order President Joe Biden signed last month.\n    \n"
-    publishedDateTime: 2021-02-15T11:02:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3Y_EqdxQ6E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html"
+  - title: "After Stimulus, Biden to Tackle Another Politically Tricky Issue: Infrastructure"
+    excerpt: "Strengthening the country’s highways, bridges and broadband networks has broad popular support, but Washington remains bitterly divided on the details."
+    publishedDateTime: 2021-03-02T02:15:00Z
+    webUrl: "https://www.nytimes.com/2021/03/01/business/infrastructure-biden-stimulus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/01/business/infrastructure-biden-stimulus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/01/business/infrastructure-biden-stimulus.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's border strategy faces crucial test amid dramatic surge of migrant children"
-    excerpt: "Washington (CNN)Aides who traveled to the southern border at the behest of President Joe Biden have described to him a troubling surge of migrant children the administration is now racing to house as the President's more humane approach to immigration ..."
-    publishedDateTime: 2021-03-10T23:10:00Z
-    webUrl: "https://www.cnn.com/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 129
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/02/19/us/politics/00DC-INFRASTRUCTURE1/00DC-INFRASTRUCTURE1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "eKflQoz3z6Y0RClZMZogHMeSGwG9QLTJ6nnON8KyrQWGLs0ozwIBGICSXwlMs/4FZptlJts17lj9KF2JJf42G6iFg+wSLvpKmHCi4ZKNK05twc5w3C+BeJw0/R1DWeyxWOo6vDU1P4/QcM+dIg8EEQ3U00i4lTcQtitkecrYxkrYVOkOrMHX0W92R0BBASXT0oK1BEgvepGNQKOAi1I622nffvuZPjv4zgcqUf2UitlhN2K0aEghCPULRTNM5XyNgYa7Sb+lJKzG0jXOXZQXni8maGLxyIvmDgwIJ4KkWguPPzytFoVqYWYEmvxpcIiZULoE+QszMGulneNH54OFkwDBhKHRg6mTaA76NLP0AAI=;kchFW9uN7lI32NTgLswrbQ=="

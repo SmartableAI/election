@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
 type: article
 quality: 190
-heat: 870
+heat: 890
 published: true
 
 provider:
@@ -573,6 +573,15 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Interview With Donald Trump"
+    excerpt: "The mainstream media is broken. Groupthink, fake news, and distrust are just a few words to describe it. Too many journalists now bow to the pressure of political correctness instead of standing tall for the truth. That is why Americans don't know who to ..."
+    publishedDateTime: 2021-03-22T11:30:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/22/interview_with_donald_trump_538765.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "AcQBdXM2DiXaH7wGQ94P7U8xjvANE9HThwRKVxgj8GdNmkARNdqIwvcbRwhIGrFeGE7SCX9uoWpXOLUDtE6k0/rd+bauQkzIOZQzY/Vc4p5AC4NeS+3riLSew7wpP4WBq7I0+sOgEEfBfcsVWDxD0C/dwTa0ylXdahKuJjb+ie8LJiDbTwnpQkk+/Fnv0wVXcLevk0tPLuHBhl5wiML6l8n1V/OuL55OfYbtDf/SUasEyedAlzpIDJ/p9Lllg8om7mB4RqEcDfSrQiBrgdezLBeAqW7+OfuvnGtUJMnmRBDlg0ASTzycMYm9ons3ytuel1K0bNmVTquzXghTiPz6nmWgzERYfDZpa1M3uJZMY7U=;v3hxfsmOmSIutCRVkNHtrA=="
 ---

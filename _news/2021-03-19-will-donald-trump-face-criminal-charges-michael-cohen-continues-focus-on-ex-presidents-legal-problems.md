@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Donald Trump: Advisor says former President is planning a social media comeback with own platform"
+    excerpt: "According to his aides, former US president Donald Trump is planning on creating his own social media platform. It comes after he was banned from Twitter and Facebook following January's riots at the US Capitol in Washington."
+    publishedDateTime: 2021-03-22T11:10:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/56481132"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/56481132.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/56481132.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 62
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/B28C/production/_116380754_untitled-1.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "Dd05FuwWf24H9jxcagy3lixoUbdO89liqpl6Wh5H4soyswRPwDCo2/6b/MEX/gatIM+w/kBtr60EuDasMKaJXq5NYG/sZBMzVk+7G7Oh3XmMhb+ljaKz8pVI1vv8mYwmbCBfVUqDtD52IrvAXJLq6BeU34eXxG+d7zEQGOTSScQjU2sg4k1+QjiRvIzKjVUeLz9JeM8JKIJgbCob+NxSrLZUCN7Qzi/rpIe+Xzmx3NYFq0SSAu8lsJjlSBE5w0CT6Uz0TKElT4wZPiMnNhHFnNVIIIzJHuTaws6iEoxxNP3Hld+MPJ1LJcIufp2wTz4DJOVFCnn8l6FTVhL1Yd8PMgoD4pk0uDGEWpfyX47qvKmfmWx6kXtwppwnTKv7QIpLWTCmjlE0JvtpIzjZHa5EsD9pL7IPu0+RT7Qm+TaWWDW6O7VzHrFsRVctDwU1Abv/6U7EBHvj830yWjc4R4xIY1iAFpiNG25D0A1ilq7W2z6bTipO3iHQpUVP970n2cBooFekyf6njaCDaIx5+j356A==;Q+aoH8ZI/WPJLcz401eLSg=="
 ---

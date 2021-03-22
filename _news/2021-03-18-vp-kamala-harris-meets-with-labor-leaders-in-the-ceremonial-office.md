@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris Meets with LAbor Leaders in the Ceremonial Office"
-excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice ..."
+excerpt: "US Vice President Kamala Harris meets with labor leaders in the Vice President's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC, on March 18, 2021. To mark Women's History Month and passage of the American Rescue Plan Vice President Harris met with Randi Weingarten from the American Federation of Teachers,"
 publishedDateTime: 2021-03-18T16:06:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/27f2a99397b681d75445fcc5fa361fa5/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/27f2a99397b681d75445fcc5fa361fa5/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/61a20349bff893bc7a30cabeb1a3b1f7/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/61a20349bff893bc7a30cabeb1a3b1f7/VP-Kamala-Harris-Meets-with-LAbor-Leaders-in-the-Ceremonial-Office/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/27f2a99397b681d75445fcc5fa361fa5/HARRIS-HISTORY-MONTH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/61a20349bff893bc7a30cabeb1a3b1f7/HARRIS-HISTORY-MONTH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -374,6 +374,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/2e1ebb6a-c7fb-421e-bd5c-ffc0990f5a49/thumbnail/1200x630/db85c2794a36570ed26db7d1cc63b885/2021-03-18t162915z-272238798-rc2sdm9k6aaa-rtrmadp-3-crime-georgia-spa.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
+    excerpt: "President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and a reeling nation on Friday as they visited Atlanta."
+    publishedDateTime: 2021-03-20T02:11:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
+    images:
+      - url: "https://www.chicagotribune.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Americans Have Saved Enough Amid Pandemic to Nearly Pay for Biden's Stimulus Plan"
     excerpt: "Oxford Economics estimated that U.S. households saved $1.8 trillion from March 2020 to January 2021—just shy of the $1.9 trillion price tag attached to Biden's relief package."
@@ -942,22 +958,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden, Kamala Harris offer solace to grieving Asian Americans: ‘Hate can have no safe harbor in America’"
-    excerpt: "ATLANTA — President Joe Biden and Vice President Kamala Harris offered solace to Asian Americans and denounced the scourge of racism at times hidden “in plain sight” as they visited Atlanta on Friday, just days after a white gunman killed eight ..."
-    publishedDateTime: 2021-03-20T03:11:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-kamala-harris-atlanta-visit-20210319-eyg3mrzniba4zgakpyp6szadxe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 71
-    images:
-      - url: "https://www.baltimoresun.com/resizer/X__JHvwtAn4tXrvb1hO5u1-Tlmo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RV54PTS7IX4LCS3EWFLTALQ7CY.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Man with rifle arrested outside Vice President Kamala Harris’ official residence"
     excerpt: "Washington, DC, police arrested a Texas man outside Vice President Kamala Harris’ official residence, the US Naval Observatory, in the nation’s capital on Wednesday and he’s now facing weapons and ammunition charges. A spokesperson for Washington’s ..."
     publishedDateTime: 2021-03-18T06:28:00Z
@@ -1156,6 +1156,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "uIfNZvl0+lHmTU3/1+S1GdowfEfyXpQYaBDaH8eD6IouepkDSeTUrs+L/lcJNruwcmopdn9pHlwNA5oTNQDu9MegI+t4Koj+RfvTZYpYKmplKKRlTejvZ0yAc8h0aMaZT9J+Xa0l8tKW37UCRdJz2Pa4ztRlJm67KLk4hHHM2KiVNaXhb9Xkyu0NCKAuNWs3WIpx65QkifAQo6UB9OHL3PEIVyryMY4zjTLCpRX0aHPOtSa2hl2WC786JzfgJF5mU5SzpyQt7x1svT8DH6oxVJ8GbFxoZc+EnpECgN0tgPdM4M7EMFf4eu+BYzQf82DuD6fiByCSWvymiI9WGlDb3u/gHQTxWct0/PxgP0irzzTmVw/VAX2m/L1qdv1U3ocTFGDqnaw2Z8YcvUylr2LbjwgE7irylSn3yjvlpQrir2ALDGz7qNal/19u6DmLpvnpQAucwha2bJHMJ6emF/+UphFxViUr98KPXxcNO7r76RidT3SJ4Bjk8oMeJ/AHjfA0MAtTGSTDhvrAQnudpJ8/EQ==;42//PtKv1isTDKn5hra4Hg=="
+secured: "NW4tLaWwm7xNjwek07L1FK4mo05nuPtvviIubOPpIYaUiK0eUhOO3oRfBBCsjzHm8xG/Z0oZCd56w2Ae7X5mo7svoWrfwn8xY0P641PspkoUCpHNqBPKJKktPkm5+XC7Wr44lOlBi+VOUmzb/qGYaajVdeErKttRRspx/QSyoEAe8DvdASMK0/E7RLEHcxtUdy/qeR6oKOOf/MbwTeIrNy00LhWHtLKP/IGX+iMWS3SGmjy2QkYfzUDempWn0IS86SvYyf0v2BwPtVEYqvSwNzFTmZ8j65dlaaOHpTSzRtYHTfWAQVsQTcWn9plkyk/0WH1141LpBZrtZHXd/a4922I8UqzpyQV63hbfEG/Dwtw=;OPnQw5wPqzP/+jfcRvpEeg=="
 ---
 

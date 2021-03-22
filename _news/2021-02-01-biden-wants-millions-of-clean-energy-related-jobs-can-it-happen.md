@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Here's what Biden's Obamacare executive order means for you"
-    excerpt: "President Joe Biden has promised to make health care more affordable and available. His executive order Thursday takes one immediate step in that direction.\n    \n"
-    publishedDateTime: 2021-01-28T18:03:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tLaOcfYKnTo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128123907-aca-supporter-signs-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to sign executive order expanding voting access"
     excerpt: "President Joe Biden is expected to sign an executive order Sunday expanding voting access in what the White House calls \"an initial step in this Administration's efforts to protect the right to vote and ensure all eligible citizens can freely participate in the electoral process.\"\n    \n"
     publishedDateTime: 2021-03-07T13:37:35Z

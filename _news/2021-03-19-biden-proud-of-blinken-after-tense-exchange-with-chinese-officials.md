@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "US has assessed North Korea could be preparing to carry out first weapons test since Biden took office"
+    excerpt: "US intelligence has assessed that North Korea could be preparing to carry out their first weapons test since President Joe Biden came into office, according to several US officials speaking to CNN on condition of anonymity.\n    \n"
+    publishedDateTime: 2021-03-17T01:51:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9-jQKnGWyII/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180328132104-north-korea-flag-03-28-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
     excerpt: "The federal government currently has more than 14,000 migrant children in its custody, administration officials said on Thursday, even as they insist that what is happening on the southern border does not constitute a \"crisis.\"\n    \n"
     publishedDateTime: 2021-03-18T20:50:20Z
@@ -76,6 +92,22 @@ related:
     quality: 153
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316151003-102-border-crisis-0314-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US has assessed North Korea could be preparing to carry out first weapons test since Biden took office"
+    excerpt: "Washington (CNN)US intelligence has assessed that North Korea could be preparing to carry out their first weapons test since President Joe Biden came into office, according to several US officials speaking to CNN on condition of anonymity. The US officials ..."
+    publishedDateTime: 2021-03-16T16:38:00Z
+    webUrl: "https://www.cnn.com/2021/03/16/politics/us-north-korea-assessment/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 119
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180328132104-north-korea-flag-03-28-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

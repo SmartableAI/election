@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "US intelligence report says Russia attempted to interfere in 2020 election with goal of 'denigrating' Biden and helping Trump"
-    excerpt: "The Office of the Director of National Intelligence released its declassified report on foreign threats to 2020 US elections Tuesday, which concludes that foreign adversaries -- including Russia -- did attempt to interfere.\n    \n"
-    publishedDateTime: 2021-03-16T19:39:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rThfD0PTV_E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/us-election-intel-report/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/us-election-intel-report/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170626163907-russia-dnc-hacking-ron-2-00000808-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
     excerpt: "The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against Covid-19.\n    \n"
     publishedDateTime: 2021-03-15T22:43:02Z

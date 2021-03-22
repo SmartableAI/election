@@ -109,6 +109,20 @@ related:
         width: 1620
         height: 1136
         isCached: true
+  - title: "Trump is planning to launch his own social-media platform in the next few months, aide Jason Miller says"
+    excerpt: "Miller during an appearance on Fox News said Trump would be \"returning to social media in two or three months\" with \"his own platform.\""
+    publishedDateTime: 2021-03-22T01:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-planning-to-launch-his-own-social-media-platform-soon-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/60576ea61fcb5700186ee980?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "gfVOjype8w+idh/WAsAM3pUeFdMQ1Gs3Z6NgPYJDu9/B13tzRITGlBqdem3S6hOm0K8MFYJxqicmPRcr76acvxmVccng9X+uuXZkOgnvFzPmR/WW4Zn3Fnd1qQtBWWMq7vqnzD/G9hRPN5QbhvBID2Y2tITh3zEo+GHlh9q2c/JJaQHvEtaEE2VoQUNs/6SIzI8TpxWkuyGUurWpheIyIBJJK07a0Cd8iGFpANgnLwn1XqjOilfu+rzSSSjLmKvlJ12Gbfv1W33fF9Td+fs1fAb/ApUPQhKwRDiE9AwaoRydvfqU9iHjuwkbSPNdbJmndjKqhJ353wNatsLK3bIq0IEY2SLbuOAv/VOedwHqWsw=;DB8/+RwnYvV/S5slN+Qqrw=="
 ---

@@ -573,6 +573,15 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Interview With Donald Trump"
+    excerpt: "The mainstream media is broken. Groupthink, fake news, and distrust are just a few words to describe it. Too many journalists now bow to the pressure of political correctness instead of standing tall for the truth. That is why Americans don't know who to ..."
+    publishedDateTime: 2021-03-22T11:30:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/22/interview_with_donald_trump_538765.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "8MDvol15BcgcW8PqKr6EphKzZII7LMei+ZDg2vsHsu9p7x2AFGhzd++lVDeOcZbVgsTfrj/WBHSH5m8hk8n5VVMzCT7bur/RrJlxzz07gdvPVZiUbqyvtNdlN99qulR+ActHWkyRjQGh6lQv/2bFV8hBVl70Pc8Wf6yC+LSbzBDsfY/zLSlgWRK3vSugpzdVikuiSlKGmNvz58ep0qZWq2ciK60Rx/R4WIuUOAEAz1k5K/9nLo+8WYf9kskgX0+UrdA76WXbfikw2Ey1jpMiMJFzrWbeAsmOwSE/xXbupceGqOH8Zm9HOP1jzwp3TVXD9M95Sn0bhHbLt0uqEqy/1f+rzmyrGcEtauXSdQJdScI=;0LbZBPd26z+HrcNmW3V+0g=="
 ---

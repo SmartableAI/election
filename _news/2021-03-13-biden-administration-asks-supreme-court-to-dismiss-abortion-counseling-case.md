@@ -31,19 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden just can't quit Delaware -- even as president"
-    excerpt: "Bidding farewell to his adopted home state in January, Joe Biden -- then the President-elect -- grew emotional as he boarded his flight to Washington for the inauguration.\n    \n"
-    publishedDateTime: 2021-03-12T20:44:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h2Pk-WeICdk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
+  - title: "Obama congratulates Biden on Senate passage of his Covid relief bill "
+    excerpt: "Former President Barack Obama on Saturday congratulated President Joe Biden on the successful passage of the Covid-19 relief bill through the Senate, the administration's top legislative priority as millions of Americans continue to struggle financially amid the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-03-06T21:12:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kBw4drea8MM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/obama-biden-covid-relief-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/obama-biden-covid-relief-package/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302111433-biden-nov-7-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306155705-file-barack-obama-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden eyes big win that will send checks to millions of Americans"
+    excerpt: "Joe Biden is on the cusp of a presidency-defining first 100 days victory and tens of millions of Americans could soon get stimulus checks as the $1.9 trillion Covid-19 rescue bill heads back to the House for a final vote.\n    \n"
+    publishedDateTime: 2021-03-08T05:05:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SEHACHC7lVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-checks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-checks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210307094926-joe-biden-210306-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How Dr. Seuss explains Biden's big win on Covid bill"
+    excerpt: "The Republican Party's inability to ignite a grassroots backlash against the $1.9 trillion Democratic Covid relief bill moving toward final passage underscores the GOP's transformation into a coalition energized primarily by cultural and racial grievance -- and the opportunity that opens for President"
+    publishedDateTime: 2021-03-09T02:01:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aY5jactlh2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-covid-relief-bill-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-covid-relief-bill-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden and his Covid-relief bill prove popular in new poll  "
+    excerpt: "The economic relief bill moving rapidly through Congress is broadly popular, according to a new CNN Poll conducted by SSRS.\n    \n"
+    publishedDateTime: 2021-03-10T11:28:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pvrxpdVZafY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/cnn-poll-biden-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/cnn-poll-biden-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205527-01-joe-biden-0305-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to sign $1.9 trillion Covid-19 relief package into law"
+    excerpt: "President Joe Biden will sign his sweeping $1.9 trillion Covid-19 economic relief package into law on Thursday afternoon, the White House said. He had originally been expected to sign it on Friday.\n    \n"
+    publishedDateTime: 2021-03-11T18:25:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cIyJLRjTgpU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/biden-sign-covid-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/biden-sign-covid-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's pick to lead HHS heads toward confirmation"
+    excerpt: "Health and Human Services Secretary nominee Xavier Becerra picked up the support of two crucial votes on Thursday, all but ensuring his eventual Senate confirmation.\n    \n"
+    publishedDateTime: 2021-03-11T18:08:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LVUzm4Hlre4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/xavier-becerra-nomination-advance-hhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/xavier-becerra-nomination-advance-hhs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225141715-01-becerra-nomination-hearing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Transcript of Biden's prime-time address"
+    excerpt: "President Joe Biden addressed the nation in prime time on Thursday, where he directed states to open coronavirus vaccine eligibility to all adults no later than May 1 and said small gatherings may be possible again by the Fourth of July. Read his full remarks below:\n    \n"
+    publishedDateTime: 2021-03-12T02:24:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lY-HjEKm-7w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/transcript-biden-covid-prime-time-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/transcript-biden-covid-prime-time-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311201521-03-biden-address-0311-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -63,243 +159,238 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden is boxed in on immigration as migrant children crisis continues"
-    excerpt: "President Joe Biden is facing growing political tension, including from within his own party, over his administration's strategy on the US-Mexico border as officials race to address the number of children crossing the border alone.\n    \n"
-    publishedDateTime: 2021-03-15T19:50:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_CgkQfK9_2U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/biden-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/biden-immigration/index.html"
+  - title: "Biden scored a major legislative victory, but now comes the hard part "
+    excerpt: "After savoring the passage of his $1.9 trillion Covid-19 relief package in the Rose Garden last week, President Joe Biden begins the tough work of enacting what he called a \"transformational\" piece of legislation, while also trying to sell Americans on the progressive goals the bill embraced.\n    \n"
+    publishedDateTime: 2021-03-14T05:01:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E5zeOc4GSX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/14/politics/joe-biden-covid-stimulus-tour/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/14/politics/joe-biden-covid-stimulus-tour/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305225206-09-migrants-us-biden-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155403-05-white-house-covid-relief-event-0312-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Schumer keeps pressure on Biden to cancel $50,000 in student loan debt"
-    excerpt: "Senate Majority Leader Chuck Schumer is keeping the pressure on President Joe Biden to forgive $50,000 in federal student loan debt.\n    \n"
-    publishedDateTime: 2021-03-15T23:36:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/niwL0qwQhMk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/student-loan-debt-forgiveness-biden-schumer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/student-loan-debt-forgiveness-biden-schumer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306133945-chuck-schumer-press-conference-covid-relief-package-vote-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden leads Covid-19 relief sales pitch with an eye toward next steps"
-    excerpt: "President Joe Biden launches a sales effort Tuesday that he says is critical to convincing Americans that government can make their lives better.\n    \n"
-    publishedDateTime: 2021-03-16T13:33:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4-S39NRLr3k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-covid-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-covid-pennsylvania/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to hold first formal news conference on March 25"
-    excerpt: "President Joe Biden will hold his first formal news conference since taking office on March 25, White House press secretary Jen Psaki said Tuesday.\n    \n"
-    publishedDateTime: 2021-03-16T21:58:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zPUFknuK2Sk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/biden-first-news-conference/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/biden-first-news-conference/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden tells migrants not to come to US: 'Don't leave your town'"
-    excerpt: "President Joe Biden said on Tuesday that he currently has no plans to visit the southern border, even as his administration scrambles to respond to a surge of migrant children coming into the US.\n    \n"
-    publishedDateTime: 2021-03-17T00:41:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z4zbVQG23Tw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-migrant-children-border-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-migrant-children-border-immigration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210314200145-biden-03142021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden poised to tap former Sen. Bill Nelson to lead NASA"
-    excerpt: "President Joe Biden is poised to nominate former Democratic Sen. Bill Nelson of Florida to lead NASA, an official familiar with the decision said, elevating a longtime friend from the Senate and space aficionado as administrator of the agency.\n    \n"
-    publishedDateTime: 2021-03-18T19:13:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GdikrByGp8c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/bill-nelson-nasa-president-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/bill-nelson-nasa-president-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181118100615-02-bill-nelson-file-1118-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "CNN's Amara Walker gets emotional after Biden speech"
-    excerpt: "CNN's Amara Walker got emotional following President Joe Biden's remarks supporting the Asian American community in the wake of the Atlanta spa shootings.\n    \n"
-    publishedDateTime: 2021-03-19T23:06:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NJ3ORYuYc8/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/19/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/19/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319185524-amara-walker-biden-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden says he supports bringing back the Senate's talking filibuster rule"
-    excerpt: "President Joe Biden on Tuesday said he supports changing the Senate's filibuster rule by bringing back the talking filibuster, requiring a senator who wants to block legislation to hold the floor without taking a break.\n    \n"
-    publishedDateTime: 2021-03-17T01:50:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EABo_4-Caes/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/biden-supports-reforming-filibuster/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/biden-supports-reforming-filibuster/index.html"
+  - title: "Biden to mark one-year of Covid-19 shutdown in primetime address Thursday"
+    excerpt: "President Joe Biden will deliver his first primetime address this Thursday, commemorating the milestone of one year since the global pandemic coronavirus shut down much of the nation.\n    \n"
+    publishedDateTime: 2021-03-08T17:44:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XHJus_DzOfA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-primetime-address-covid-19/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-primetime-address-covid-19/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205230-01-joe-biden-0306-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Capitol Hill has picked Shalanda Young to lead OMB -- but Biden hasn't yet"
-    excerpt: "Congressional Democrats are pushing President Joe Biden to nominate Shalanda Young to lead the Office of Management and Budget after Neera Tanden withdrew her nomination amid opposition in the Senate.\n    \n"
-    publishedDateTime: 2021-03-05T22:14:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YqiqCQePBI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html"
+  - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
+    excerpt: "Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president.\n    \n"
+    publishedDateTime: 2021-03-11T18:37:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-9qsEXmlphI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/biden-republicans-culture-war-covid-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/biden-republicans-culture-war-covid-relief/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303081850-restricted-01-shalanda-young-0302-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden German Shepherd has aggressive incident and is sent back to Delaware"
-    excerpt: "The two German Shepherds belonging to President Joe Biden and first lady Jill Biden were returned to the Biden family home in Delaware last week after aggressive behavior at the White House involving Major Biden, two sources with knowledge tell CNN.\n    \n"
-    publishedDateTime: 2021-03-09T02:47:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i1ZUr17peEA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/president-joe-biden-white-house-dogs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/president-joe-biden-white-house-dogs/index.html"
+  - title: "Negotiator-in-chief Biden notches his first win but a bipartisan governing loss"
+    excerpt: "When President Joe Biden welcomed lawmakers into the Oval Office for his very first publicly scheduled meeting with members of Congress, he spoke exclusively with Republican senators -- an apparent effort to reach across the aisle to get their support for his $1.9 trillion coronavirus relief proposal."
+    publishedDateTime: 2021-03-11T00:15:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m2rGoBN_c3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/joe-biden-negotiator/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/joe-biden-negotiator/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109135250-07-biden-dogs-champ-and-major-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden speech on Covid-19 vaccination progress comes at a critical juncture"
-    excerpt: "President Joe Biden on Thursday will address the progress his administration has made to reach his goal of getting 100 million coronavirus vaccines into the arms of Americans within his first 100 days in office, a White House official tells CNN.\n    \n"
-    publishedDateTime: 2021-03-18T15:31:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DLzs5MXGkd4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/joe-biden-100-days-progress-coronavirus-vaccinations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/joe-biden-100-days-progress-coronavirus-vaccinations/index.html"
+  - title: "Analysis: Why Biden's next legislative push might be much harder than Covid relief"
+    excerpt: "President Joe Biden and fellow Democrats are racing to prove a counterintuitive lesson: with congressional majorities, sometimes less can be more.\n    \n"
+    publishedDateTime: 2021-03-07T14:01:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hAubWKgDRA0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317103228-01-biden-taxes-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210304180339-biden-roosevelt-room-0304-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says he has no immediate plans to visit US-Mexico border amid surge of migrant children"
-    excerpt: "President Joe Biden said on Tuesday that he currently has no plans to visit the southern border, even as his administration scrambles to respond to a surge of migrant children coming into the US.\n    \n"
-    publishedDateTime: 2021-03-16T19:02:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z4zbVQG23Tw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-migrant-children-border-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-migrant-children-border-immigration/index.html"
+  - title: "Biden's border strategy faces crucial test amid dramatic surge of migrant children"
+    excerpt: "Aides who traveled to the southern border at the behest of President Joe Biden have described to him a troubling surge of migrant children the administration is now racing to house as the President's more humane approach to immigration faces a critical early test.\n    \n"
+    publishedDateTime: 2021-03-10T23:10:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CGV0RKm0zZ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "DNC launches new ad campaign as Biden and Democrats seek to sell Covid bill to Americans"
+    excerpt: "The Democratic National Committee, in cooperation with the Biden White House, will kick off a sweeping effort to sell the newly signed Covid-19 relief package to a politically divided American people on Friday, releasing a new national ad bragging about the bill along with a detailed guide on how Democrats"
+    publishedDateTime: 2021-03-12T11:00:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1oLYnxQpt6I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/dnc-ads-biden-sell-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/dnc-ads-biden-sell-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311144138-02-biden-signs-relief-bill-0311-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to announce Merck will work with Johnson & Johnson to manufacture coronavirus vaccine"
+    excerpt: "President Joe Biden is expected to announce Tuesday that Merck & Co. will partner with Johnson & Johnson to help manufacture the company's coronavirus vaccine, administration officials familiar with the matter confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-03-02T14:16:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qnkKriE8GOI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/biden-merck-johnson--johnson-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/biden-merck-johnson--johnson-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193858-biden-meeting-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Democratic divides sharpen even as Biden's Covid-19 relief package moves forward "
+    excerpt: "The honeymoon is over for President Joe Biden and Senate Democrats, whose unified front has been thrown into doubt during the final stages of negotiations on the White House's $1.9 trillion Covid-19 relief bill.\n    \n"
+    publishedDateTime: 2021-03-06T11:16:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3e-NpW707BA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/democratic-divides-senate-biden-covid-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/democratic-divides-senate-biden-covid-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305210809-02-manchinn-0305-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'I need you:' Biden asks Americans to do their part to help country emerge from Covid crisis"
+    excerpt: "The light at the end of the tunnel may be the fireworks bursting in air on the Fourth of July.\n    \n"
+    publishedDateTime: 2021-03-12T07:26:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Jf3bhIScrAQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-primetime-speech-covid-vaccine-may/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-primetime-speech-covid-vaccine-may/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210314200145-biden-03142021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311201521-03-biden-address-0311-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'Frustration in our future': Democrats prepare for internal clashes that could slow Biden's agenda"
-    excerpt: "House and Senate Democrats are bracing for a clash over the next phase of President Joe Biden's agenda, preparing for a long slog and intense debate over competing priorities and legislative tactics after quickly coming together on the massive relief plan signed into law Thursday.\n    \n"
-    publishedDateTime: 2021-03-11T23:05:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
+  - title: "Top Biden advisers tell staff there's 'no room for complacency' as Covid relief bill nears completion"
+    excerpt: "The message to White House senior staff as President Joe Biden's cornerstone legislative proposal nears completion is simple, if blunt: there is \"absolutely no room for complacency.\"\n    \n"
+    publishedDateTime: 2021-03-07T13:02:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R3IbiOLRu-s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/biden-advisers-next-steps-after-covid-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-advisers-next-steps-after-covid-relief/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310152321-03-pelosi-schumer-relief-bill-presser-signing-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306203833-01-white-house-0306-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "US has assessed North Korea could be preparing to carry out first weapons test since Biden took office"
-    excerpt: "US intelligence has assessed that North Korea could be preparing to carry out their first weapons test since President Joe Biden came into office, according to several US officials speaking to CNN on condition of anonymity.\n    \n"
-    publishedDateTime: 2021-03-17T01:51:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9-jQKnGWyII/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html"
+  - title: "Senate leaders win over key Democratic holdout as party struggles to push through Biden's Covid relief plan"
+    excerpt: "The Senate is bracing for a series of politically tough amendment votes Friday that could stretch late into the night and into the early hours of Saturday, the last major hurdle senators face before voting on President Joe Biden's sweeping pandemic relief bill.\n    \n"
+    publishedDateTime: 2021-03-06T04:40:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DG0C4vk-u-I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/senate-covid-relief-vote-a-rama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/senate-covid-relief-vote-a-rama/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180328132104-north-korea-flag-03-28-2018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: There's a new surge of kids at the border, but the Biden administration won't call it a crisis"
-    excerpt: "Unaccompanied minors from Central America are again overwhelming the US immigration system as they cross the US-Mexico border.\n    \n"
-    publishedDateTime: 2021-03-10T21:25:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-XnAPlJfGA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/what-matters-march-10/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/what-matters-march-10/index.html"
+  - title: "Biden forges ahead with his pro-union agenda on several fronts"
+    excerpt: "President Joe Biden on Tuesday continued his string of pro-union actions since entering the White House by calling for the House to pass a bill to make it easier for employees to unionize.\n    \n"
+    publishedDateTime: 2021-03-10T02:29:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jqRW0zsANnc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/joe-biden-pro-act-union-record/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/joe-biden-pro-act-union-record/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 155
+  - title: "Biden Nominees Vow to Avoid Politicizing Justice Dept."
+    excerpt: "The president’s picks for the department’s No. 2 and 3 spots pledged to restore independence to law enforcement."
+    publishedDateTime: 2021-03-10T01:10:00Z
+    webUrl: "https://www.nytimes.com/2021/03/09/us/politics/lisa-monaco-vanita-gupta-confirmation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/09/us/politics/lisa-monaco-vanita-gupta-confirmation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/09/us/politics/lisa-monaco-vanita-gupta-confirmation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
+      - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09dc-justice-1/merlin_184801785_0070e6c2-88ce-416c-926e-2400ddf6eada-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Why these lifelong Republicans support Biden's relief bill"
+    excerpt: "A lifelong Republican who switched parties says shame on the GOP for not supporting President Joe Biden's $1.9 trillion Covid-19 relief plan. CNN's Vanessa Yurkevich reports the Republican-turned-Democrat isn't alone."
+    publishedDateTime: 2021-03-11T01:47:00Z
+    webUrl: "https://www.cnn.com/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222195207-capitol-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -319,265 +410,47 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden just can't quit Delaware -- even as president"
-    excerpt: "(CNN)Bidding farewell to his adopted home state in January, Joe Biden-- then the President-elect -- grew emotional as he boarded his flight to Washington for the inauguration. \"When I die,\" he said, wiping away tears, \"Delaware will be written on my heart ..."
-    publishedDateTime: 2021-03-12T20:44:00Z
-    webUrl: "https://www.cnn.com/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302111433-biden-nov-7-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden Goals Converge in Asia: Rebuilding Alliances and Countering China"
-    excerpt: "Stefani Reynolds for The New York Times By Lara Jakes, John Ismay and Steven Lee Myers WASHINGTON — Two ambitions lie at the center of President Biden’s foreign policy agenda: rebuilding ties with frustrated allies and assembling a united front on China."
-    publishedDateTime: 2021-03-15T04:18:00Z
-    webUrl: "https://www.nytimes.com/2021/03/15/world/asia/blinken-japan-south-korea.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/15/world/asia/blinken-japan-south-korea.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/15/world/asia/blinken-japan-south-korea.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/15/world/15us-china-1sub/15us-china-1sub-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Can Joe Biden Stay on the Sidelines of the Andrew Cuomo Saga?"
-    excerpt: "Should he become drawn into the turmoil surrounding Gov. Andrew M. Cuomo, President Biden could encourage him to resign or to not seek a fourth term in 2022.Credit...Amr Alfiky/The New York Times By Maggie Haberman and Shane Goldmacher So far, President ..."
-    publishedDateTime: 2021-03-15T23:29:00Z
-    webUrl: "https://www.nytimes.com/2021/03/15/us/politics/biden-cuomo-sex-harassment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/15/us/politics/biden-cuomo-sex-harassment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/15/us/politics/biden-cuomo-sex-harassment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/15/us/politics/15cuomo-biden1/15cuomo-biden1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden Urges Mexico to Do More to Stop Migration"
-    excerpt: "The Biden administration has been quietly pressing Mexico to ramp up its efforts to limit the flow of migrants, clinging to a Trump policy of relying on southern neighbors to enforce America’s immigration agenda."
-    publishedDateTime: 2021-03-18T15:44:00Z
-    webUrl: "https://www.nytimes.com/2021/03/18/world/americas/biden-mexico-migration.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/18/world/americas/biden-mexico-migration.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/world/americas/biden-mexico-migration.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/19/world/19biden-amlo-immigration-add1/19biden-amlo-immigration-add1-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden dispatches Democratic senator to Ethiopia amid Tigray crisis"
-    excerpt: "Washington (CNN)President Joe Biden is dispatching one of his top congressional allies to Ethiopia to meet with Prime Minister Abiy Ahmed amid the humanitarian crisis in that country's Tigray region. Sen. Chris Coons \"will convey President Biden's grave ..."
-    publishedDateTime: 2021-03-18T22:00:00Z
-    webUrl: "https://www.cnn.com/2021/03/18/politics/chris-coons-tigray/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225095126-sen-chris-coons-0222-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "With Biden Endorsement, Push to Weaken Filibuster Gains Traction"
-    excerpt: "Activists and lawmakers say momentum is on their side but warn of a prolonged fight as Republicans dig in and some Democrats remain unconvinced."
-    publishedDateTime: 2021-03-18T20:51:00Z
-    webUrl: "https://www.nytimes.com/2021/03/18/us/biden-filibuster-senate.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/18/us/biden-filibuster-senate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/us/biden-filibuster-senate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/18/us/politics/18dc-hulse-1/18dc-hulse-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden says he wants to see investigation outcome when asked if Cuomo should resign"
-    excerpt: "(CNN)President Joe Biden said Sunday he wants to see what comes of an investigation into allegations of sexual harassment against New York Gov. Andrew Cuomo when asked if the Democratic governor should resign. \"I think the investigation is underway and we ..."
-    publishedDateTime: 2021-03-14T20:45:00Z
-    webUrl: "https://www.cnn.com/2021/03/14/politics/joe-biden-andrew-cuomo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/14/politics/joe-biden-andrew-cuomo/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/14/politics/joe-biden-andrew-cuomo/index.html"
+  - title: "Biden's border strategy faces crucial test amid dramatic surge of migrant children"
+    excerpt: "Washington (CNN)Aides who traveled to the southern border at the behest of President Joe Biden have described to him a troubling surge of migrant children the administration is now racing to house as the President's more humane approach to immigration ..."
+    publishedDateTime: 2021-03-10T23:10:00Z
+    webUrl: "https://www.cnn.com/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 129
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311182531-01-joe-biden-0210-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden hit his first vaccination milestone today. Here's how the numbers break down."
-    excerpt: "Biden hit his first vaccination milestone today. Here's how the numbers break down. The country has counted 100 million Covid-19 vaccine doses administered 59 days into Biden’s first 100 days. On Friday,"
-    publishedDateTime: 2021-03-19T17:36:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-100-million-vaccinations-milestone-n1261583"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261583"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261583"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3458152/210319-covid-vaccination-se-1132a_4a3b765696e0a6dda791ab29c0e908ee.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Sheriff’s spokesman replaced on shootings case; Biden orders flags to be flown at half-staff"
-    excerpt: "The presidential proclamation comes amid an escalating controversy over local law enforcement’s comments about the shooting suspect’s possible motivation."
-    publishedDateTime: 2021-03-20T01:50:00Z
-    webUrl: "https://www.politico.com/news/2021/03/18/warnock-atlanta-killings-hate-476945"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/18/warnock-atlanta-killings-hate-476945"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/18/warnock-atlanta-killings-hate-476945"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 124
-    images:
-      - url: "https://static.politico.com/75/fb/a1a60ada40f2814fd3e2ff8969c9/ap21069630477955.png"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "US has assessed North Korea could be preparing to carry out first weapons test since Biden took office"
-    excerpt: "Washington (CNN)US intelligence has assessed that North Korea could be preparing to carry out their first weapons test since President Joe Biden came into office, according to several US officials speaking to CNN on condition of anonymity. The US officials ..."
-    publishedDateTime: 2021-03-16T16:38:00Z
-    webUrl: "https://www.cnn.com/2021/03/16/politics/us-north-korea-assessment/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html"
+  - title: "How one photographer shapes the way the world sees Joe Biden"
+    excerpt: "Adam Schultz is the new chief official White House photographer. He’s with the President for high-level meetings, but also for the quiet moments in between."
+    publishedDateTime: 2021-03-13T08:00:00Z
+    webUrl: "https://www.cnn.com/interactive/2021/03/politics/joe-biden-photographer-cnnphotos/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 119
+    quality: 115
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180328132104-north-korea-flag-03-28-2018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210313074901-01-joe-biden-photographer-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Presidential Speech Highlights: Biden Calls For U.S. to ‘Mark Our Independence From This Virus’ by 4th of July"
-    excerpt: "The president delivered his first prime-time White House address, hours after signing into law a $1.9 trillion stimulus package."
-    publishedDateTime: 2021-03-12T16:18:00Z
-    webUrl: "https://www.nytimes.com/live/2021/03/11/us/joe-biden-news"
-    ampWebUrl: "https://www.nytimes.com/live/2021/03/11/us/joe-biden-news.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/11/us/joe-biden-news.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/11/us/politics/11new-washington-briefing/11new-washington-briefing-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "POLITICO Playbook: Biden stares down a mounting crisis on the border"
-    excerpt: "President JOE BIDEN is about to come under a mountain of pressure from both parties to fix the situation at the border — and address immigration overall. With a humanitarian crisis growing — read this CBS story for the latest — progressives are losing their patience over how long it’s taking Biden to undo Trump-era policies and implement a more humane system he campaigned on."
-    publishedDateTime: 2021-03-15T17:13:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/03/15/biden-stares-down-a-mounting-crisis-on-the-border-492106"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/4d/ea/f33989ee43c7bd082e3cb7276aea/210314-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Kim Jong Un's sister warns Biden admin as Blinken visits Asia"
-    excerpt: "The comments came as Secretary of State Antony Blinken and Defense Secretary Lloyd Austin arrived in Asia for talks with Japan and South Korea."
-    publishedDateTime: 2021-03-16T19:12:00Z
-    webUrl: "https://www.nbcnews.com/news/world/kim-jong-un-s-sister-warns-biden-admin-blinken-visits-n1261183"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2021_11/3457067/210316-kim_yo_jong-mc-919_cd0a860ea683857ab88d1ba24b79b780.nbcnews-fp-1200-630.JPG"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden gets his chance on Afghanistan"
-    excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN wanted out of Afghanistan. In"
-    publishedDateTime: 2021-03-19T23:03:00Z
-    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/03/19/biden-gets-his-chance-on-afghanistan-492182"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "Same old Joe: Rebuffing staff who smoked pot fits Biden’s MO"
-    excerpt: "Anyone surprised that Joe Biden would scrutinize the weed-smoking habits of his White House staff hasn't paid attention to one of the more consistent policy threads of his decades-long career. He’s just not ready to embrace cannabis. Despite a shift in ..."
-    publishedDateTime: 2021-03-19T23:56:00Z
-    webUrl: "https://www.politico.com/news/2021/03/19/same-old-joe-rebuffing-staff-who-smoked-pot-fits-bidens-mo-477283"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/74/23/be836012497c9fdf3e614f9b6575/210318-joe-biden-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Why Biden Waited So Long to Throw the Press a Bone"
-    excerpt: "According to a fresh POLITICO/Morning Consult poll, 62 percent of registered voters give Joe their approval. Biden must be asking himself: Why break a sweat running when coasting is what got you to where you always wanted to go? With the possible exception ..."
-    publishedDateTime: 2021-03-19T22:26:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/03/19/why-biden-waited-so-long-to-throw-the-press-a-bone-477213"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/88/fe/817de5cf44d4ab032b9c198150fa/ap21075642381335-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
-    excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
-    publishedDateTime: 2021-03-18T20:50:00Z
-    webUrl: "https://www.cnn.com/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
+  - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
+    excerpt: "Washington (CNN)Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president. No Republicans on Capitol Hill supported the Biden-backed Covid stimulus package ..."
+    publishedDateTime: 2021-03-11T18:37:00Z
+    webUrl: "https://www.cnn.com/2021/03/11/politics/biden-republicans-culture-war-covid-relief/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 113
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316151003-102-border-crisis-0314-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
