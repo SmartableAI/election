@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden administration to pause deportations, curtail arrests"
-excerpt: "Acting Homeland Security chief orders immigration agencies to focus on national security, aggravated felons and recent border crossers"
-publishedDateTime: 2021-01-21T12:29:00Z
-originalUrl: "https://www.washingtonpost.com/immigration/biden-administration-to-pause-deportations-curtail-arrests/2021/01/21/73a0682c-5ba0-11eb-b8bd-ee36b1cd18bf_story.html"
-webUrl: "https://www.washingtonpost.com/immigration/biden-administration-to-pause-deportations-curtail-arrests/2021/01/21/73a0682c-5ba0-11eb-b8bd-ee36b1cd18bf_story.html"
-ampWebUrl: "https://www.washingtonpost.com/immigration/biden-administration-to-pause-deportations-curtail-arrests/2021/01/21/73a0682c-5ba0-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/biden-administration-to-pause-deportations-curtail-arrests/2021/01/21/73a0682c-5ba0-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+title: "Trump attacks Biden on border"
+excerpt: "Former President Trump Donald Trump Biden hampered by lack of confirmations Letlow wins Louisiana special House election to replace late husband Number of migrant children in US custody passed ..."
+publishedDateTime: 2021-03-21T23:44:00Z
+originalUrl: "https://thehill.com/homenews/administration/544250-trump-attacks-biden-on-border"
+webUrl: "https://thehill.com/homenews/administration/544250-trump-attacks-biden-on-border"
+ampWebUrl: "https://thehill.com/homenews/administration/544250-trump-attacks-biden-on-border?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/544250-trump-attacks-biden-on-border?amp"
 type: article
-quality: 125
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N3AQUUC3XEI6XOF55Y3LDTIYX4.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://thehill.com/sites/default/files/trumpdonald_bidenjoe_111920getty_split_big-picture.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -559,22 +559,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump attacks Biden on border"
-    excerpt: "Former President Trump Donald Trump Biden hampered by lack of confirmations Letlow wins Louisiana special House election to replace late husband Number of migrant children in US custody passed ..."
-    publishedDateTime: 2021-03-21T23:44:00Z
-    webUrl: "https://thehill.com/homenews/administration/544250-trump-attacks-biden-on-border"
-    ampWebUrl: "https://thehill.com/homenews/administration/544250-trump-attacks-biden-on-border?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/544250-trump-attacks-biden-on-border?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_bidenjoe_111920getty_split_big-picture.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
     excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"
     publishedDateTime: 2021-02-03T20:01:00Z
@@ -958,6 +942,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH7AKGTAL4I6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 956
+        isCached: true
+  - title: "Biden administration to pause deportations, curtail arrests"
+    excerpt: "Acting Homeland Security chief orders immigration agencies to focus on national security, aggravated felons and recent border crossers"
+    publishedDateTime: 2021-01-21T12:29:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/biden-administration-to-pause-deportations-curtail-arrests/2021/01/21/73a0682c-5ba0-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/biden-administration-to-pause-deportations-curtail-arrests/2021/01/21/73a0682c-5ba0-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/biden-administration-to-pause-deportations-curtail-arrests/2021/01/21/73a0682c-5ba0-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N3AQUUC3XEI6XOF55Y3LDTIYX4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "The three types of Republicans Donald Trump created"
     excerpt: "Donald Trump departed the White House on Wednesday and left a Republican Party turned upside down. Many Republicans tried not to let Trump change things, vowing never to vote for him or work in his administration — and to publicly shame those who did."
@@ -1908,6 +1908,6 @@ related:
         height: 649
         isCached: true
 
-secured: "urejlkYpS89zNe9cPN+9MvFBTDDxkK39zSIu3ZtY4iIb3IDB0Yv+xfm4djM3aJZSEV5vK4tESsuafc1bwNsffkPemawU7nZo0SSpRtOEQdisC96RsuSiHW5qj09bH/kKn2q9QeaDpXuDFAxAP5QfhZfnOHMH7MyPf/rahW4FNdPeA2CKBbtJSabxrHPhwCQaqzZz28UBZXgp0YynO1YQqJ91otR1q1+e2bRE714SJMHZ8qzsfSsRScOwlQqOwtU17INDgvB64J/BB0btetmxAcQ/s/sh8IZ0tyk4vo03dwe6bcqhroBTxPS3MOulkpCKB+dZ9CCfZih56l99XOFjFmWPFQljzIa/JueOVOzkx3M=;hP2lxFGNwPK1dyI16sO4vA=="
+secured: "jTgJExoQegbkuFBVjhwoHibsXWlslA/cDMno7ARQqbQRjRwUa6ZE0oiu6sZH4VkqqzdmYJHukHE/3V+0BWp6JyYj79KhDuJkc0xLupaqusy8/l3I/6SBzj56iIRu4oSeAtSPSsmskIewaJafY7tjhwDzRO8kiMgVgRTypeSkAMohPXdBidIf5THebeWv2MiZ/DCttwue60j5WeMUHrf24dkQkSkBaS/8Ln/OBOViHob+GcYLkawxpeTZGBh8VfcA/q+GxGlLOapz81tKwpm9cpPPK3Hh9suKxgtkQbp5qj/tS20I4Lkb0lb1qMrrWkOx3uH/W2ileUvpIocB2RBNednSctr4DBNaSo7AB7wIkvw=;vbGsCncK+G7l2AbUSrb0Kg=="
 ---
 

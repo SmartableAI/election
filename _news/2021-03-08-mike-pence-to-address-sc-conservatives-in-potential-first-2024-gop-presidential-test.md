@@ -60,20 +60,18 @@ related:
         height: 675
         isCached: true
   - title: "Pence to give speech in SC, his 1st since leaving office"
-    excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office"
-    publishedDateTime: 2021-03-08T10:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-give-speech-sc-1st-leaving-office-76317773"
+    excerpt: "COLUMBIA, S.C. (AP) — In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a conservative Christian nonprofit in the state that plays a crucial role in the ..."
+    publishedDateTime: 2021-03-08T10:00:00Z
+    webUrl: "https://apnews.com/bda56f16bc2655da95c75cf3ae71da37"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fb0471f6a80f4b2fad1e5fe5012788d9_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://storage.googleapis.com/afs-prod/media/fb0471f6a80f4b2fad1e5fe5012788d9/1698.jpeg"
+        width: 1698
+        height: 1132
         isCached: true
   - title: "Pence all-in on 'election integrity' push"
     excerpt: "Former Vice President Mike Pence on Wednesday said he shares the concerns of voters over the “significant voting irregularities and numerous instances of officials setting aside state election law” in the 2020 presidential election."

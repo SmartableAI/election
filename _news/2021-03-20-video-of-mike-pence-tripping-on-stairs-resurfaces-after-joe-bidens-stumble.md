@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1"
 type: article
 quality: 138
-heat: 1418
+heat: 1438
 published: true
 
 provider:
@@ -1019,6 +1019,20 @@ related:
       - url: "https://i.insider.com/5fd8cb95dc030c001aab6a0a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
+    excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One."
+    publishedDateTime: 2021-03-22T00:28:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56462824"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09b8lsv.jpg"
+        width: 400
+        height: 224
         isCached: true
 
 secured: "dHj9Rtz4j8dX6iqxkdDKPxtn6OeQtjr56c14um+45mrxzGWooS/+BCL3seT1fCBE6f2uX7SyGKUUKY1Ts4+aJwtLF8uzf62aY5/h8KfGctTDtVZJ+1MZyKBTv1GL6h5FZ80B0Wh7Oz99FrSkvkTih26QM3n0uuvAevrPCY87XCm+2zlcD295FKt61FtyHRY7VwaInnGu2bCnLWyblQv7+uNXxiYtQfrebARhn+uVEZChAifr5L1RnUhXW5S4Mho6ifRADCGBU+j+4JVwkFC0kOeclnL82S1toqS+Ibwt4OMzfEwXiEqz7iSNssX5PMsuAZbNdqoFRDyYHxLuMSXwIlI/C9m0zal5i36/Sq0Ju5/RrTbgWnp1WHxTQifwZP+K38vG6SVhrkNKdGTILJ/72fH43YgU4Hb6aethWmVjTGC9GSh1Q/9TmR/6U/DWo7sUul0fRsmCtppZspJgNL3tQH1usMYP/Hf/IOvznD37RQnfrVwg/Hat6mtusvhG/eQwozPyp4iw4qPNrgIz4Rt5LA==;pUQryT8ws1uwm/W9nirl0A=="

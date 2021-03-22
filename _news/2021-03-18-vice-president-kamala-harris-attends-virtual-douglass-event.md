@@ -597,6 +597,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Vice President Kamala Harris takes jab at husband on Twitter for picking NCAA Tournament No. 1 seeds"
+    excerpt: "Vice President Kamala Harris took a light jab at her husband, Doug Emhoff, on Thursday when he shared his brackets for the men's and women's NCAA tournaments on Twitter. Emhoff picked Gonzaga, the No. 1 overall seed in March Madness, to win the men's ..."
+    publishedDateTime: 2021-03-19T03:13:00Z
+    webUrl: "https://www.usatoday.com/story/sports/ncaab/tourney/2021/03/18/march-madness-kamala-harris-jabs-husband-twitter-bracket-picks/4759695001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4759695001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4759695001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden denounced the attacks on Asian Americans during the COVID-19 pandemic, calling them ‘un-American’"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden in his Thursday address to the nation denounced a surge in attacks on Asian Americans during the coronavirus pandemic. In the prime-time address marking the one-year anniversary of the COVID-19 outbreak being ..."
     publishedDateTime: 2021-03-12T13:01:00Z
@@ -1004,21 +1020,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vice President Kamala Harris takes jab at husband on Twitter for picking NCAA Tournament No. 1 seeds"
-    excerpt: "Doug Emhoff, the Second Gentleman, went with No. 1 seeds Gonzaga and Stanford to win the men's and women's NCAA Tournaments, respectively."
-    publishedDateTime: 2021-03-19T02:13:00Z
-    webUrl: "https://www.indystar.com/story/sports/ncaab/tourney/2021/03/18/march-madness-kamala-harris-jabs-husband-twitter-bracket-picks/4759695001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4759695001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4759695001"
+  - title: "Vice President Kamala Harris to visit vaccination site, feeding Northeast Florida in Jacksonville Monday"
+    excerpt: "JACKSONVILLE, Fla. — Vice President Kamala Harris will be visiting a vaccination site and Feeding Northeast Florida in Jacksonville on Monday. The trip is part of Vice President Harris and President Joe Biden's ongoing \"Help is Here\" tour, a cross ..."
+    publishedDateTime: 2021-03-22T03:31:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 60
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 58
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/16/USAT/27cc0182-0315-481e-9893-1fc7fed52721-AP_Harris.jpg?auto=webp&crop=5728,3222,x0,y291&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/5c9a6278-5ec2-4259-9802-1d5c6c900dd2/5c9a6278-5ec2-4259-9802-1d5c6c900dd2_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Vice President Kamala Harris Swears in EPA Administrator Regan"
     excerpt: "Michael Regan holds his hand up as he is sworn-in by United States Vice President Kamala Harris during a ceremonial swear-in as EPA Administrator in the Eisenhower Executive Office Building in Washington,"

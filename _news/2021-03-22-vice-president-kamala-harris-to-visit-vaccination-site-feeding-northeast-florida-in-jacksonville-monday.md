@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
-excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."
-publishedDateTime: 2021-03-16T20:47:00Z
-originalUrl: "https://www.chicagotribune.com/business/careers-finance/sns-hbcu-spotlight-kamala-harris-20210316-f7rg3d4gwfg47py5t5i7rtor4u-photogallery.html"
-webUrl: "https://www.chicagotribune.com/business/careers-finance/sns-hbcu-spotlight-kamala-harris-20210316-f7rg3d4gwfg47py5t5i7rtor4u-photogallery.html"
+title: "Vice President Kamala Harris to visit vaccination site, feeding Northeast Florida in Jacksonville Monday"
+excerpt: "JACKSONVILLE, Fla. — Vice President Kamala Harris will be visiting a vaccination site and Feeding Northeast Florida in Jacksonville on Monday. The trip is part of Vice President Harris and President Joe Biden's ongoing \"Help is Here\" tour, a cross ..."
+publishedDateTime: 2021-03-22T03:31:00Z
+originalUrl: "https://www.firstcoastnews.com/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
+webUrl: "https://www.firstcoastnews.com/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
+ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
+cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
 type: article
-quality: 101
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: First Coast News
+  domain: firstcoastnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/crQzkjNidk5NhtpkJam48A0ZW1Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJESQ7B73VCMJH3GOI3PJ6NCGA.jpg"
-    width: 1200
-    height: 800
+  - url: "https://media.firstcoastnews.com/assets/WTLV/images/5c9a6278-5ec2-4259-9802-1d5c6c900dd2/5c9a6278-5ec2-4259-9802-1d5c6c900dd2_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -776,6 +774,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
+    excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."
+    publishedDateTime: 2021-03-16T20:47:00Z
+    webUrl: "https://www.chicagotribune.com/business/careers-finance/sns-hbcu-spotlight-kamala-harris-20210316-f7rg3d4gwfg47py5t5i7rtor4u-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/crQzkjNidk5NhtpkJam48A0ZW1Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJESQ7B73VCMJH3GOI3PJ6NCGA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
     excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
     publishedDateTime: 2021-03-15T19:21:00Z
@@ -1010,22 +1022,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vice President Kamala Harris to visit vaccination site, feeding Northeast Florida in Jacksonville Monday"
-    excerpt: "JACKSONVILLE, Fla. — Vice President Kamala Harris will be visiting a vaccination site and Feeding Northeast Florida in Jacksonville on Monday. The trip is part of Vice President Harris and President Joe Biden's ongoing \"Help is Here\" tour, a cross ..."
-    publishedDateTime: 2021-03-22T03:31:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 58
-    images:
-      - url: "https://media.firstcoastnews.com/assets/WTLV/images/5c9a6278-5ec2-4259-9802-1d5c6c900dd2/5c9a6278-5ec2-4259-9802-1d5c6c900dd2_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
     excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-03-17T17:53:00Z
@@ -1144,6 +1140,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "ZmTeQFjgFm5UZMgKBp6ykfVoXL2ZYtTF3bGPpxdAxasoeFymy/UNiguJhiEp1WAZWWfmKOx5zYQat+nCdgQUdm+iL9lalZkwI09W10HH7qv3UPaBRe3xxs35TKEPuNQToLIOXV9no1VQirzZvRuSZ15yG+IXxTpg5AhxQ//b1wnSLNypul3Ke51zobji0vakVY5Scl8I4vFlT9xiNRDkUCtsnA45MWxhriVPMJc09NccIesKOT2zMZc4fZGkSiojex88Y73Fy7N00PKF2rBoqlKhQl23mA5QEHBH+soZJ32pgoJ3RIihjDURfkrXo8/gFYB/pKf1tLXycI+tXo9s6qmLMXkgJxTVjeo67l/TTimGBcbJq75swOk4fdtwZeAo3f0HGA+BJ5OiJd4bnPi2GPcqFxUvjD6cYFFnSc/2wY5TxPLJ6g4VYk+kcdD9zYeraN3F8Xl4D1R2wV1sYH6cvxDxkrjCzhCtWa+3Jaw5fDAvSwxR2wSbPdiwY0rirbLgMQvlQQZetmtEesfG7hDV4A==;2Yk0F4fqx4czSi6E3TxJww=="
+secured: "WQCl9BXLs5miVbWbLPZox56DY5TyGllDbLsMdQyOVZbm5YwrtDsHQ0d0Rz+HiNiuAP4KBsRaNm9x8ixfSc7CLGSpiyQWCqG/dHWA1JJgKA5jeNfN0dmrsegr832XKdIUq+P0tWkDmJbkDxITI9JE433i35tLpx3k/EnjW4Bq8s1AoWdiR9mTlFBscK/a9GpevF5FJqJydYqkCwq9qKXUQmTMOIHkS2gENWRo9zHzNbjVqkoEU8Uaz4+WnhXJBM5kJnmbjK0W5jISF1Q67Q8EftWKlKahk/ht9dKsSlxuEfrgKoSQ+ikcv7hk/samN1sSMpeEgsmEUwLh1UyUkgaoAh/4ZVkO7LFL/1Guv+cKEHo=;rdsMNvTkgwWoTSOkV1gX7Q=="
 ---
 

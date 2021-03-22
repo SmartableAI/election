@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 2590
+heat: 2610
 published: true
 
 provider:
@@ -543,6 +543,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/69fc9720384228f66f726d6adff67e74bae9785e/0_73_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=14e71b30cf3e3a63d2e80bb4002c7431"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump attacks Biden on border"
+    excerpt: "Former President Trump Donald Trump Biden hampered by lack of confirmations Letlow wins Louisiana special House election to replace late husband Number of migrant children in US custody passed ..."
+    publishedDateTime: 2021-03-21T23:44:00Z
+    webUrl: "https://thehill.com/homenews/administration/544250-trump-attacks-biden-on-border"
+    ampWebUrl: "https://thehill.com/homenews/administration/544250-trump-attacks-biden-on-border?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/544250-trump-attacks-biden-on-border?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_bidenjoe_111920getty_split_big-picture.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
     excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"

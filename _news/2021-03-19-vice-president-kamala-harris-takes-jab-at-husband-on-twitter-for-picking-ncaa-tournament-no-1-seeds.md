@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Vice President Kamala Harris takes jab at husband on Twitter for picking NCAA Tournament No. 1 seeds"
-excerpt: "Doug Emhoff, the Second Gentleman, went with No. 1 seeds Gonzaga and Stanford to win the men's and women's NCAA Tournaments, respectively."
-publishedDateTime: 2021-03-19T02:13:00Z
-originalUrl: "https://www.indystar.com/story/sports/ncaab/tourney/2021/03/18/march-madness-kamala-harris-jabs-husband-twitter-bracket-picks/4759695001/"
-webUrl: "https://www.indystar.com/story/sports/ncaab/tourney/2021/03/18/march-madness-kamala-harris-jabs-husband-twitter-bracket-picks/4759695001/"
-ampWebUrl: "https://amp.indystar.com/amp/4759695001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4759695001"
+excerpt: "Vice President Kamala Harris took a light jab at her husband, Doug Emhoff, on Thursday when he shared his brackets for the men's and women's NCAA tournaments on Twitter. Emhoff picked Gonzaga, the No. 1 overall seed in March Madness, to win the men's ..."
+publishedDateTime: 2021-03-19T03:13:00Z
+originalUrl: "https://www.usatoday.com/story/sports/ncaab/tourney/2021/03/18/march-madness-kamala-harris-jabs-husband-twitter-bracket-picks/4759695001/"
+webUrl: "https://www.usatoday.com/story/sports/ncaab/tourney/2021/03/18/march-madness-kamala-harris-jabs-husband-twitter-bracket-picks/4759695001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4759695001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4759695001"
 type: article
-quality: 60
+quality: 110
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -1006,6 +1010,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris to visit vaccination site, feeding Northeast Florida in Jacksonville Monday"
+    excerpt: "JACKSONVILLE, Fla. — Vice President Kamala Harris will be visiting a vaccination site and Feeding Northeast Florida in Jacksonville on Monday. The trip is part of Vice President Harris and President Joe Biden's ongoing \"Help is Here\" tour, a cross ..."
+    publishedDateTime: 2021-03-22T03:31:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/vice-president-kamala-harris-to-visit-feeding-northeast-florida-in-jacksonville-monday-local/77-f1e9cc0b-ffe0-4c59-a31b-56b058cb8754"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 58
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/5c9a6278-5ec2-4259-9802-1d5c6c900dd2/5c9a6278-5ec2-4259-9802-1d5c6c900dd2_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
     excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-03-17T17:53:00Z
@@ -1124,6 +1144,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "2EDXofPynn6oqSl6CgY+IeWRrgqro8AbkaVxzqoAonGau24hU+opZ4aa8Nlkd4b2a0rKhWN8PYlI16n6zsgo8gtTSozy+Alr1NyI9KQC1OtuF8Q5T3zM8LuwUjYS+QauBRWuQkdrvKFb6cvzjmppjJ5tgSXyxYROmQIRBgGYApWZHji1zO2qSt7D1M2s74vT31ctJN6F8sqTxZhlaOnlCS1qVmodmGjIAGRwYb0tJp0DzWLAK5+tzxbIpDr/ZDT8F7TqJbnL/yIYsBlNTkzfqAjChORPp8Cw1L6mh1qFWVqGNIhK/iytZeodhHTXEdDMX6kJiyUD0OjCpUVjkv8XXfEX5mQHn2WmbGdej5Nlr0kMUyxknynPJST/lGwCN+5XmFbcOWIdXkgmC7J7TlnbY9QA1qyVTskEQ4dRSilis3WPt4qtIrz2aRqbYeDQLrOgSL/GjfL8xU+c4lb8bx2KY2npcJ7u8HvmFqpXQOmyvRMQtJlMW6MC+WyuLmT8upUBthzhKD+qwasYztx9SZKV0w==;euIoLZoqEiljO7fQ/FtY0w=="
+secured: "5o2gioBZC9CXLULwcNuQZX8lK03dwKg8LHKd8OZEXwrziw4FsTT8ohU5MjNtgw7HClW4TzOgi6Byk7ceB+op6btbnNCfYxAMqRbtqwrLs8cr+BnL7Gk9P9fJGbhgIYFxIYmzl13E84jwBQhYQkztHKx78ceBqI7Yi2MLSPjUtXzz6R63Pe/0BKGbOUxFzZSDdTo/fH7f9obHhz39D2tVuBvk9ODJLgWRlX3drmxqVoXTUS7Hy2THYDX2nk7cfgWc9TvTmjnahANjCc5qmGlChbxDfPoOofvIroWJ7ZIfeuwk6yMY4K6KcApY/t/FtypD9awvKNz38OWs4TuAYYmApH/EC7hnpYN6wy3bA/9TLrU=;po2VMhpSmxv0aBIgXUYN9g=="
 ---
 

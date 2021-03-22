@@ -1020,6 +1020,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
+    excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One."
+    publishedDateTime: 2021-03-22T00:28:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56462824"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09b8lsv.jpg"
+        width: 400
+        height: 224
+        isCached: true
 
 secured: "BH1aMc9GFq9FtOLGFuir+i2GmynAOo+lJmw33iGlgv2VxNgtRbePKaPkMutFp5UDZ3VVP0a8P28Jru0YcAcBm7v4GC9uFgHAEEBXbOGCXizavO7JjnjldYuiDc9IViI3y7bgZRErzVTBE9WFlUfnPXUFlZ+1S9E0oK64vVekctegpOyhaWiOUtLjlDdNsKGKa77+ZqIQlliVub6lAQlG3RfAewJMtTayGh0HwBTCmajhRHMzYnUPCvpbGneehbUcg8kNsZgle9faDSypObyIVnA371nAgTv45HzC1/Ls04RD/6ECckc2yZjHMoEmwgsrNjBQoRSScoFcSbYmM+S5GvmgUbc9cALICnNQspJCJKZXDqZA++Bvz+z2KqPr/ZkIfGBigNyVM8jCCB9Die0jz6HTRhqkhDw1TUE30jyu2bhCne+u+EXhQZx7Kzq/pi1FSDrf/7V0eblQ6YQIV9p4/Z88G6aM1kDyt4UPouyjDMMVa/6a+yivRmDfqI0DLRvspqHzl0XZVCAMV7IjWAuvtQ==;NdETQgkyR1ZncS7rMEycMg=="
 ---

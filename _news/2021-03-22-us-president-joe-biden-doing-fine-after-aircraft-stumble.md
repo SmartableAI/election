@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Biden meets with UN Security Council members to talk climate"
-excerpt: "President Joe Biden has told the permanent representatives of the U.N. Security Council that the United States will join the international body’s Group of Friends on Climate and Society ..."
-publishedDateTime: 2021-03-19T01:44:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
+title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
+excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One."
+publishedDateTime: 2021-03-22T00:28:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56462824"
+webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56462824"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_cb93cfce0f6f4c5a8e4aed32c7515b59_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09b8lsv.jpg"
+    width: 400
+    height: 224
     isCached: true
 
 related:
@@ -334,6 +328,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden meets with UN Security Council members to talk climate"
+    excerpt: "President Joe Biden has told the permanent representatives of the U.N. Security Council that the United States will join the international body’s Group of Friends on Climate and Society ..."
+    publishedDateTime: 2021-03-19T01:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_cb93cfce0f6f4c5a8e4aed32c7515b59_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden nominates ex-Florida Sen. Bill Nelson to lead NASA"
     excerpt: "President Biden Joe Biden The Hill's Morning Report — Presented by Facebook — Biden delivers 100 million shots in 58 days, doses to neighbors Advocates demand transparency in Biden migrant ..."
@@ -1020,21 +1030,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
-    excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One."
-    publishedDateTime: 2021-03-22T00:28:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-56462824"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09b8lsv.jpg"
-        width: 400
-        height: 224
-        isCached: true
 
-secured: "rV2/XZtmgQq0BLOvruh/nPVu0WixczjXehgf5AqsA2N7a9CIAUB28dED2aMd6BDwr3a3nD/XE2un4x10AcpFhmv4NgI+Qj6nfXyNGvlsdm/LfkIJUTfqUFPCYOADdc1zhji2/3Sd8mugK9TXYnAbag67I6JBqhTZHz2XLW+ANKMbl2CYsNNWmQKxVAz4ylQxlu5f+H1VZr0EGPDqYUkmyFpYC3ibWZMFIOSdncGeYQTzAHXxyfio0K/IjdQB7mb0jItRWO1yos211HJVvS195c3ajKkApjATPn5oxdCKC2hi6hZJWiqU5q8+KbwzrsJOh5LpSQhjLTfS/vdxZTTPB1teiLMcUYIRKJWEikY+gok=;Ju0pohU710tj+89oElIU0A=="
+secured: "t75hZlfhGzBKb0W+ivNBdzWuIJaRuuF6Uq/cDbhylNfn6VjdaSDHh9NggnWefrzOOBIkw1Vh+fR2NYaRUJh7bH4bGTwiGwRp7U8BOD3sBiTYIEjJYXo6sPtdoIg13tOBLegaJCx4EGhX8ktGjibMoKLGL3rpgUPzSC9NvHmUj4N27GdKKWr8sE4FSuQlqqgWxAbvzHMrv9p4Z6Pv+9BTXhDCMGU8shIR3MJ5aRpMKIDBWA+YfIeRAjjaSCdJcawwU03aTc3LZDPKxJI8EAQ5RNzRIafCA9JwSKQeiere0G4gyvFejBGHcfuB/PGrN9bte7d7z6Q78TtCdEPqUSMzfk+LdkEswhVHVIHptBxPHgE=;j0pNgh38k6Pv2x/B6HbmEg=="
 ---
 
