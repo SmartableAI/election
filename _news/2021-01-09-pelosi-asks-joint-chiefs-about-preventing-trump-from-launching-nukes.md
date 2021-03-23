@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Washington in Final Convulsions of Trump Era"
+    excerpt: "As angry Trump supporters massed in the capital and a futile challenge to Joseph R. Biden Jr.’s victory unfolded in Congress, the president most likely succeeded in handing Washington to the Democrats."
+    publishedDateTime: 2021-01-06T19:20:00Z
+    webUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06dc-scene4-sub/merlin_182048145_00a88458-3487-4817-a342-ccf94566fb5b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "L0AvpY81pm12jrJca0IHMOn1FyS7QOxd5vfNLiIXFuLt06hvH1A0Bly+GXDvxA5Xv+J0UDh+dSfCRu3mbCnvOKY8em1R75QuK3Q67clY/9IWz1fja5lYKRo9NJqqhy2mwE7ErigsgYCFpe6SETBs9vR/Uxd9zUzzVKkDRar2uwyP4l2j9cFey/Q986bpHT6Mu3JaubvVj4BO9qBgI5v38Wldg1xMtEfy20aq1v3ks/61pJbvOJgQa+djq1FbsZjcuwNQELdcGXDYyULeYeYcf6l0M15Q2+EvV/LIZyldXfdHm3uNx/85OUljqaRi6M+ZwAv7zbMzBb4MRtZeebDJVkmmmz5iktbe8JaS2B27dqKyMZ2FXeg8gWyPzCeF2yd7cVykvX+ZaZVFbEai1BWAvzsTrufOmCTHEDylDeu7sSpjMlQfHhz8uZcALaakawiVllhH+5KR/kUITjhBMVWF9RTxHce7r6UmanVofTPpwXeHAqBQ4N51SYkhQZrNrwbSdNUiH85mGuyQYTlbf8WZrw==;rUOgq33QgMK1nT913Ltn2A=="
 ---

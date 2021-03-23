@@ -32,7 +32,7 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's army takes aim at 2022 touting his election lies"
+  - title: "Analysis: Trump's army takes aim at 2022 touting his election lies"
     excerpt: "Donald Trump has set the price of admission for Republicans in the midterm elections, and probably the next presidential race: an embrace of the big lie that he was cheated out of office by a historic voter fraud operation.\n    \n"
     publishedDateTime: 2021-03-23T05:01:32Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pT7bT-_GAWA/index.html"
@@ -61,6 +61,134 @@ related:
     quality: 184
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: A second Trump impeachment vs. the 25th Amendment"
+    excerpt: "Here's a list of consequential things that happened Thursday in relatively short succession:\n    \n"
+    publishedDateTime: 2021-01-08T02:49:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k6VDayDLqMs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107192246-trump-twitter-comments-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How Trump led Republicans to historic losses"
+    excerpt: "The Democratic wins in the Georgia Senate runoffs this week ensured President Donald Trump's place in electoral history. While much has been written about Trump's ability to pull off electoral victories in spite of conventional wisdom, the actual record shows something considerably different.\n    \n"
+    publishedDateTime: 2021-01-10T14:00:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5oLGBs4DnXQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/trump-losses-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/trump-losses-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107140852-01-donald-trump-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's second impeachment still won't remove him from office"
+    excerpt: "We're looking at a second impeachment of President Donald Trump. The process will be different this time, both for the lawmakers sitting in judgment of Trump and for the man himself. One thing we know: He'll stay in office and likely finish out his term, because it takes a Senate conviction to remove"
+    publishedDateTime: 2021-01-13T03:03:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OX-cMpNCg78/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/what-matters-january-12/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/what-matters-january-12/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112162206-07-trump-impeachment-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's bipartisan impeachment is historic"
+    excerpt: "The House voted on Wednesday to impeach President Donald Trump for a second time. This impeachment, unlike his first, was bipartisan. All told, 10 Republican representatives cast their vote to impeach Trump.\n    \n"
+    publishedDateTime: 2021-01-14T15:44:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rfevU8B8Lds/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/impeachment-bipartisan-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/impeachment-bipartisan-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114092825-02-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why Trump is still a problem for the GOP establishment"
+    excerpt: "Our first CNN/SSRS poll since the insurrection of the Capitol contains mostly bad news for Republican President Donald Trump.\n    \n"
+    publishedDateTime: 2021-01-17T18:12:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EYECSNDsmkU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-popular-problem-gop-establishment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-popular-problem-gop-establishment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113113700-02-trump-dc-rally-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump leaves America at its most divided since the Civil War"
+    excerpt: "Donald Trump ends his tumultuous presidency with the nation confronting the greatest strain to its fundamental cohesion since the Civil War.\n    \n"
+    publishedDateTime: 2021-01-19T12:38:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fgUaUt9Nhx4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-divided-america-civil-war/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-divided-america-civil-war/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118164424-trump-af1-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's many defenses, explained"
+    excerpt: "Former President Donald Trump's defense team used just a few of the 16 hours they were allotted to make their case for his acquittal on Friday, and encouraged senators to use the rest of the time on Covid relief.\n    \n"
+    publishedDateTime: 2021-02-13T13:00:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nb2hKta_2aY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/what-matters-february-12/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/what-matters-february-12/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212194709-senate-floor-0212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why most GOP senators are standing by Trump "
+    excerpt: "A lot of critics of former President Donald Trump want GOP senators to \"show some spine.\" They think the big reason they have stayed with Trump through impeachment is because they're scared of him.\n    \n"
+    publishedDateTime: 2021-02-13T22:34:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fmcp4i-YYQc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/gop-senators-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/gop-senators-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174740-106-trump-impeachment-centered-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Years of bad leadership from Trump, and now no leadership at all"
+    excerpt: "The more new video we see of the storming of the Capitol by Trump-inspired rioters, the more aggravating it becomes.\n    \n"
+    publishedDateTime: 2021-01-12T03:49:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QUqLq1kVeTk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/what-matters-january-11/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/what-matters-january-11/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111132316-01-national-guard-dc-0111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McCarthy tries to rewrite history by claiming that he didn't back Trump's efforts to overturn the election"
     excerpt: "House Minority Leader Kevin McCarthy tried to rewrite history on Thursday by claiming that he was not involved in former President Donald Trump's efforts to overturn the election in a heated exchange during a news briefing.\n    \n"
     publishedDateTime: 2021-03-18T22:45:31Z
@@ -157,6 +301,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310190838-trump-scott-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's army takes aim at 2022 touting his election lies"
+    excerpt: "Donald Trump has set the price of admission for Republicans in the midterm elections, and probably the next presidential race: an embrace of the big lie that he was cheated out of office by a historic voter fraud operation."
+    publishedDateTime: 2021-03-23T01:01:00Z
+    webUrl: "https://www.cnn.com/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322174656-01-trump-media-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -288,38 +448,6 @@ related:
         width: 2500
         height: 1560
         isCached: true
-  - title: "Trump Endorses a Loyalist, Jody Hice, for Georgia Secretary of State"
-    excerpt: "By supporting a challenger to Georgia’s current secretary of state, Brad Raffensperger, the former president signaled that he wants Republicans who opposed his election falsehoods to pay politically."
-    publishedDateTime: 2021-03-22T20:49:00Z
-    webUrl: "https://www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/22/us/politics/22trump-georgia/merlin_175037406_ecba1dd5-1d7e-43d4-99c1-22f4c13dc367-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Vindman twin set for promotion after bad evaluations from Trump appointees"
-    excerpt: "Army Lt. Col. Yevgeny Vindman is set to be promoted to full colonel, despite attempts by loyalists to former President Donald Trump to derail his career following his bit role in the president's first impeachment, according to two people familiar with the ..."
-    publishedDateTime: 2021-03-15T17:02:00Z
-    webUrl: "https://www.politico.com/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 133
-    images:
-      - url: "https://static.politico.com/c8/ba/b179bcff47c29f2790130692dfb8/20210315-yevgeny-vindman-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "House Democrats weigh ejecting GOP winner of contested Iowa race, dismissing comparisons to Trump's efforts to overturn election"
     excerpt: "brushing back attacks that they are seeking to subvert the will of voters just months after lambasting former President Donald Trump for trying to reverse his electoral defeat. While Democrats say what's happening in Iowa's 2nd Congressional District is ..."
     publishedDateTime: 2021-03-18T16:51:00Z
@@ -393,20 +521,6 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
-        isCached: true
-  - title: "Texas museum removes Trump wax figure after visitors kept attacking it"
-    excerpt: "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ..."
-    publishedDateTime: 2021-03-19T17:08:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/texas-museum-removes-trump-statue-after-visitors-kept-attacking-it-n1261546"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2021_11/3458115/210319-donald-trump-thumbs-up-ew-1028a_232a47b4c823a1ee6a2954da3fe2ba26.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "How to mess up a possible Trump endorsement in one easy step"
     excerpt: "The Senate GOP primary in Alabama is a case study in the various ways to win over Trump — and how to alienate him too."

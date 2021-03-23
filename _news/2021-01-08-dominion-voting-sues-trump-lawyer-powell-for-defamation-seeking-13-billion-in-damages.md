@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Democrats plan to vote Wednesday to impeach Trump"
+    excerpt: "House Democrats are barreling toward impeaching President Donald Trump for the second time over his role in inciting last week's riots at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-12T00:26:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6FAMb5i5e2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110181004-01-nancy-pelosi-announcement-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump bears some responsibility for Capitol riot, ex-DHS acting Secretary Chad Wolf says "
     excerpt: "Chad Wolf, who resigned as Homeland Security acting secretary two days ago, said Wednesday that President Donald Trump bears some responsibility for the events at the US Capitol last week.\n    \n"
     publishedDateTime: 2021-01-13T20:38:49Z

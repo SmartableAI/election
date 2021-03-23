@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's border 'cover-up' needs to be investigated by Congress, says former Trump DHS official"
+    excerpt: "Former Assistant DHS Secretary for Public Affairs under Trump, Alexei Woltornist, called on Congress Tuesday to investigate the Biden administration's border crisis 'cover-up.' "
+    publishedDateTime: 2021-03-23T13:11:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rI4ys78yicw/biden-border-cover-up-investigated-congress-trump-dhs-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-cover-up-investigated-congress-trump-dhs-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-cover-up-investigated-congress-trump-dhs-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a737b5f6-c3b1-44f9-ad3c-eaf38f3b8c2a/6499a067-3aad-4067-ab61-c8b877d137f8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Psaki acknowledges ‘big problem’ at border, blames Trump administration"
     excerpt: "White House press secretary Jen Psaki on Monday referred to the influx of migrants at the southern border as a “big problem” and blamed the Trump administration for an “unworkable system” -- following weeks of the Biden administration refusing to call it a “crisis.”"
     publishedDateTime: 2021-03-15T18:33:46Z
@@ -431,6 +447,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Formerly homeless veteran blasts Biden admin for spending money to house migrants in hotels"
+    excerpt: "Former homeless veteran David Hathcock blasted the Biden administration’s “heartbreaking decision” to award Immigration and Customs Enforcement (ICE) an $86.9 million contract for hotel rooms near the border for illegal families crossing into the United States, arguing on Tuesday that the current administration"
+    publishedDateTime: 2021-03-23T12:52:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mXrsf0Wkvm8/homeless-veteran-biden-illegal-immigrants-hotels"
+    ampWebUrl: "https://www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Tom Cotton channels 'Billy Madison,' slams Pelosi's irrational defense of Biden border policy"
     excerpt: "Sen. Tom Cotton, R-Ark., channeled the movie \"Billy Madison\" Monday on \"Fox & Friends\" as he hit back at House Speaker Nancy Pelosi, D-Calif., for claiming that the Biden administration inherited a broken immigration system from former President Trump. "
     publishedDateTime: 2021-03-15T12:51:43Z
@@ -462,6 +494,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077675294674.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden admin releases photos of crowded migrant processing center at border amid transparency criticism"
+    excerpt: "Customs and Border Protection (CBP) on Tuesday released photos of the temporary facilities being used to process migrant children who are found crossing the U.S. southern border. "
+    publishedDateTime: 2021-03-23T13:13:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c_WG_hAe_qs/biden-cbp-releases-photos-crowded-processing-center-minors-border-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cbp-releases-photos-crowded-processing-center-minors-border-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cbp-releases-photos-crowded-processing-center-minors-border-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
     excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."

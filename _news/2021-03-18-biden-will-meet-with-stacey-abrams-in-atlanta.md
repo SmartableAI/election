@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pressure builds on Biden to act on guns in wake of Colorado mass shooting"
+    excerpt: "President Joe Biden made no mention of gun control in the aftermath of last week's shootings in Atlanta -- including during remarks after visiting the city -- but he will face more pressure now to voice an opinion on the matter after another mass killing in Colorado.\n    \n"
+    publishedDateTime: 2021-03-23T13:42:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tN2f9kvQcaM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/biden-gun-control-colorado-atlanta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/biden-gun-control-colorado-atlanta/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322105445-02-joe-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris condemns 'tragic' Atlanta shooting and expresses solidarity with Asian American community"
     excerpt: "Vice President Kamala Harris addressed the recent lethal shootings at a series of spas in the Atlanta area, marking her most formal remarks about the ongoing issue of violence against the Asian American community.\n    \n"
     publishedDateTime: 2021-03-17T15:48:34Z

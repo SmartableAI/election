@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "CNN Poll: Republican Party favorability dips as most want party to move on from Trump"
-    excerpt: "The Republican Party will begin its time as the minority party in Washington unpopular with a public ready to move on from President Donald Trump, according to a new CNN Poll conducted by SSRS. The poll also finds that the most high-profile elected Republican who will remain in office after Trump leaves,"
-    publishedDateTime: 2021-01-17T13:29:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6sFuj_bgkZU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html"
+  - title: "How Doug Ducey, Arizona’s Republican Governor, Views His Party After Trump"
+    excerpt: "Mr. Ducey, who is facing censure by his state party on Saturday, says the divisions within the Republican Party are nothing new."
+    publishedDateTime: 2021-01-23T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/01/24/us/politics/24ducey-qanda-print1/23ducey-qanda-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "ThK9cSOxo9f5i43F/4RKcMuCpJq9SG3D4jQyUzsTkyJ1f9+0i7nA9S7VgEJwDc1tm8oxBcFDiYdO/95VCuj1o9g/19vjMs8Sf7vqeTkGxQ/v+DafnymQIF82nVwhpCV5UKeaMNcL7HF411w69yZGvzNpgMpZvEuRP6wlMB06BljBLvPFqE0+71uboETrJkIXhlL8LRrc7VF3AJCEi+PCHfsN2Zcb8aI+Iw9Pz/N2J1kIhlyY/Ty7nmDE2oVs1yoR5IGFb1/T9dGU1ft1pEU0CTmjHE/DZiC3rVEeLrNLFdKLkb1lrS3cC3P9bOiFIzYdy2Id62+MTCUgqIy9rHnVuZaDab/dv6ibTxxT8XvNeW8=;tzbYrsdKMAsOG+ROYj3rmA=="

@@ -48,6 +48,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump should not be prosecuted for Capitol riot incitement, former FBI Director James Comey says"
+    excerpt: "\"The country would be better off if we did not give him the platform that a prosecution would for the next three years,\" Comey told Sky News."
+    publishedDateTime: 2021-01-18T04:10:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/trump-should-not-be-prosecuted-capitol-riot-incitement-former-fbi-n1254535"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254535"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254535"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_44/3423609/201028-james-comey-al-0856_dd78874bf9563d902a336451af19486e.jpg"
+        width: 2500
+        height: 1672
+        isCached: true
   - title: "Trump tries to defend his pre-riot speech as ‘totally appropriate’"
     excerpt: "The president offered up his first public remarks since his supporters carried out a deadly siege on the Capitol last week."
     publishedDateTime: 2021-01-12T22:42:00Z

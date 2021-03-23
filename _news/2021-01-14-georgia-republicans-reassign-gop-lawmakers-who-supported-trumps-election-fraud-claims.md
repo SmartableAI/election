@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html"
 type: article
 quality: 182
-heat: 302
+heat: 282
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113171228-10-gop-impeachment-vote-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Why Trump is still a problem for the GOP establishment"
-    excerpt: "Our first CNN/SSRS poll since the insurrection of the Capitol contains mostly bad news for Republican President Donald Trump.\n    \n"
-    publishedDateTime: 2021-01-17T18:12:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EYECSNDsmkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-popular-problem-gop-establishment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-popular-problem-gop-establishment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113113700-02-trump-dc-rally-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

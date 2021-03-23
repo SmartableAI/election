@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: A second Trump impeachment vs. the 25th Amendment"
-    excerpt: "Here's a list of consequential things that happened Thursday in relatively short succession:\n    \n"
-    publishedDateTime: 2021-01-08T02:49:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k6VDayDLqMs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/index.html"
+  - title: "Lehigh University has rescinded Trump's honorary degree"
+    excerpt: "Lehigh University, a private college in Pennsylvania, has revoked the honorary degree it awarded President Donald Trump more than 30 years ago.\n    \n"
+    publishedDateTime: 2021-01-08T22:36:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JFq8Raeg0BQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-honorary-degree-rescinded-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-honorary-degree-rescinded-trnd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107192246-trump-twitter-comments-0107-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108161106-lehigh-university-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,51 +64,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: A historic number of Americans want Trump removed from office"
-    excerpt: "The potential removal of President Donald Trump from office starts out more popular than any other removal process of a president in recent American history. Removing Trump from office remains quite unpopular among Republicans, however.\n    \n"
-    publishedDateTime: 2021-01-10T20:39:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2_fQIK1wOdY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/poll-impeach-trump-historic-number/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/poll-impeach-trump-historic-number/index.html"
+  - title: "Twitter takes Trump's special power away as his isolation grows"
+    excerpt: "It took President Donald Trump years and tens of thousands of tweets to build up 88.7 million followers on Twitter. It took a single moment Friday to lose them forever.\n    \n"
+    publishedDateTime: 2021-01-09T11:06:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/au9g8rB9Pq8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-loses-twitter-special-power/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-loses-twitter-special-power/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump considering Giuliani and Dershowitz for impeachment defense team"
-    excerpt: "Staring down the barrel of a second impeachment, President Donald Trump is beginning to mull who would represent him in a Senate trial.\n    \n"
-    publishedDateTime: 2021-01-10T00:36:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1aqsh04rVXg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: No, impeachment itself would not ban Trump from a 2024 run"
-    excerpt: "A viral tweet claims that impeaching President Donald Trump for a second time would mean he would lose the ability to run for president in 2024.\n    \n"
-    publishedDateTime: 2021-01-11T17:48:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CoRftlpChYw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/fact-check-tweet-trump-impeachment-run-2024-secret-service/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/fact-check-tweet-trump-impeachment-run-2024-secret-service/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111103523-primera-trump-2-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108181055-trump-twitter-suspende-cuenta-mensajes-presidente-capitolio-red-social-cnn-perspectivas-mexico-violencia-protestas-00000814-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,70 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "House Democrats plan to vote Wednesday to impeach Trump"
-    excerpt: "House Democrats are barreling toward impeaching President Donald Trump for the second time over his role in inciting last week's riots at the US Capitol.\n    \n"
-    publishedDateTime: 2021-01-12T00:26:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6FAMb5i5e2Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110181004-01-nancy-pelosi-announcement-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "One day until Trump's second impeachment vote: What happens now"
-    excerpt: "The next few days are going to be long, but by the end of Wednesday, we expect that President Donald Trump will be impeached a second time.\n    \n"
-    publishedDateTime: 2021-01-12T13:38:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vUUdi4hAMmA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/impeachment-timeline-congress-state-of-play/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/impeachment-timeline-congress-state-of-play/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190119162803-trump-schumer-pelosi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Trump's second impeachment still won't remove him from office"
-    excerpt: "We're looking at a second impeachment of President Donald Trump. The process will be different this time, both for the lawmakers sitting in judgment of Trump and for the man himself. One thing we know: He'll stay in office and likely finish out his term, because it takes a Senate conviction to remove"
-    publishedDateTime: 2021-01-13T03:03:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OX-cMpNCg78/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/what-matters-january-12/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/what-matters-january-12/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112162206-07-trump-impeachment-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Liz Cheney, No. 3 House Republican, to vote to impeach Trump"
-    excerpt: "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol"
-    publishedDateTime: 2021-01-13T00:09:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump's been impeached again. What's next?"
     excerpt: "President Donald Trump is about to be impeached again -- the first leader in US history to be impeached twice by the House.\n    \n"
     publishedDateTime: 2021-01-13T22:33:50Z
@@ -208,131 +112,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Trump leaves America at its most divided since the Civil War"
-    excerpt: "Donald Trump ends his tumultuous presidency with the nation confronting the greatest strain to its fundamental cohesion since the Civil War.\n    \n"
-    publishedDateTime: 2021-01-19T12:38:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fgUaUt9Nhx4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-divided-america-civil-war/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-divided-america-civil-war/index.html"
+  - title: "Abortion drug ruling highlights Trump's wins on the Supreme Court 'shadow docket'"
+    excerpt: "The Supreme Court's action Tuesday limiting access to an abortion drug highlights its pattern of letting the Trump administration enforce highly charged priorities before legal challenges have been resolved.\n    \n"
+    publishedDateTime: 2021-01-13T16:56:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_ATOnc7tC0U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/supreme-court-abortion-trump-regulations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/supreme-court-abortion-trump-regulations/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118164424-trump-af1-0112-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111194054-supreme-court-210110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's impeachment defense takes shape"
-    excerpt: "Lawyers for former President Donald Trump filed a 14-page brief Tuesday that previews two main arguments we can expect to hear when the Senate impeachment trial kicks off next week:\n    \n"
-    publishedDateTime: 2021-02-03T13:47:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EqImWNyTRyE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/what-matters-february-2/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/what-matters-february-2/index.html"
+  - title: "Defiant Trump denounces violence but takes no responsibility for inciting deadly riot"
+    excerpt: "A defiant President Donald Trump insisted Tuesday his speech inciting the riot at the US Capitol was \"totally appropriate\" while at the same time calling for \"no violence\" in his first public remarks to reporters after the insurrection last week.\n    \n"
+    publishedDateTime: 2021-01-12T16:42:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfwAAazvnPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/donald-trump-riot-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/donald-trump-riot-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Trump's many defenses, explained"
-    excerpt: "Former President Donald Trump's defense team used just a few of the 16 hours they were allotted to make their case for his acquittal on Friday, and encouraged senators to use the rest of the time on Covid relief.\n    \n"
-    publishedDateTime: 2021-02-13T13:00:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nb2hKta_2aY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/what-matters-february-12/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/what-matters-february-12/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212194709-senate-floor-0212-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Why most GOP senators are standing by Trump "
-    excerpt: "A lot of critics of former President Donald Trump want GOP senators to \"show some spine.\" They think the big reason they have stayed with Trump through impeachment is because they're scared of him.\n    \n"
-    publishedDateTime: 2021-02-13T22:34:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fmcp4i-YYQc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/gop-senators-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/gop-senators-trump-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174740-106-trump-impeachment-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Trump's 'pro-law enforcement' image crumbles in his final days"
-    excerpt: "A President who has repeatedly touted himself as pro-law enforcement is now being accused of fueling a growing threat of extremists that has law enforcement officials across the nation on high alert.\n    \n"
-    publishedDateTime: 2021-01-16T16:32:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rFIAcLXkvj4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/trump-law-enforcement-image-final-days/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-law-enforcement-image-final-days/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113233706-donald-trump-0112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
-    excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
-    publishedDateTime: 2021-01-08T20:37:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zserCShr2rE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140605-01-inauguration-preparations-0107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Years of bad leadership from Trump, and now no leadership at all"
-    excerpt: "The more new video we see of the storming of the Capitol by Trump-inspired rioters, the more aggravating it becomes.\n    \n"
-    publishedDateTime: 2021-01-12T03:49:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QUqLq1kVeTk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/what-matters-january-11/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/what-matters-january-11/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111132316-01-national-guard-dc-0111-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump publicly acknowledges he won't serve a second term day after inciting mob"
-    excerpt: "President Donald Trump publicly acknowledged that he would leave office on January 20 Thursday, pledging an orderly transfer of power after Congress affirmed President-elect Joe Biden's Electoral College win.\n    \n"
-    publishedDateTime: 2021-01-08T01:53:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZRHa2q3UiUc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/trump-biden-us-capitol-electoral-college-insurrection/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-biden-us-capitol-electoral-college-insurrection/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142925-06-trump-rallies-0106-washington-dc-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112103246-03-trump-0112-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -351,118 +159,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626175124-liz-cheney-father-tweet-real-men-wear-face-masks-gangel-tsr-vpx-00001329-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "House Democrats consider mid-next week for possible vote on Trump's second impeachment"
-    excerpt: "House Democrats are furious at President Donald Trump and are quickly building momentum to move on impeachment of Trump in the next several days -- as soon as the middle of next week.\n    \n"
-    publishedDateTime: 2021-01-08T13:58:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HHBbgo-ntdQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/house-democrats-impeachment-plans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/house-democrats-impeachment-plans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200802213951-nancy-pelosi-0731-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The House can impeach Donald Trump, but it can't stop him from fundraising in the future"
-    excerpt: "House Democrats on Monday pushed ahead with their effort to have President Donald Trump impeached, convicted in the Senate and disqualified from ever holding federal office again over last week's siege on the US Capitol by a pro-Trump mob.\n    \n"
-    publishedDateTime: 2021-01-11T21:27:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6LqtPe7rb5g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/trump-impeachment-fundraising/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/trump-impeachment-fundraising/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111002752-donald-trump-0104-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump faces shameful prospect of second impeachment with Democrats set to move quickly this week"
-    excerpt: "Donald Trump is facing the shameful, imminent prospect of becoming the first president to be impeached twice as Democrats warn he poses an unacceptable danger to the world after inciting a mob assault on Congress.\n    \n"
-    publishedDateTime: 2021-01-11T06:27:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q6kWNI-JOKU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/donald-trump-democrats-impeachment-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/donald-trump-democrats-impeachment-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110170842-donald-trump-210106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP lawmaker 'strongly considering' impeachment: Trump is 'no longer qualified to hold that office'"
-    excerpt: "Michigan GOP Rep. Peter Meijer said Monday evening he is \"strongly considering\" voting to impeach President Donald Trump following last week's riot at the  US Capitol, assessing that the President is \"no longer qualified to hold that office.\"\n    \n"
-    publishedDateTime: 2021-01-12T02:19:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HOQyUxfQzg4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/peter-meijer-trump-impeachment-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/peter-meijer-trump-impeachment-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111195745-peter-meijer-oct-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "McConnell rebuffs Democrats' call for speedy impeachment trial, allowing Trump to serve out his final days"
-    excerpt: "Senate Majority Leader Mitch McConnell is rejecting Democratic calls to bring the Senate back immediately to convict President Donald Trump, a decision that is likely to allow the President to serve out his final days in office.\n    \n"
-    publishedDateTime: 2021-01-13T20:42:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HItt8SCd6mA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/mcconnell-democrats-impeachment-trial-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/mcconnell-democrats-impeachment-trial-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231165922-mcconnell-1230-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Live updates: House readies for quick action against Trump"
-    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
-    publishedDateTime: 2021-01-13T00:21:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 145
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Washington in Final Convulsions of Trump Era"
-    excerpt: "As angry Trump supporters massed in the capital and a futile challenge to Joseph R. Biden Jr.’s victory unfolded in Congress, the president most likely succeeded in handing Washington to the Democrats."
-    publishedDateTime: 2021-01-06T19:20:00Z
-    webUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06dc-scene4-sub/merlin_182048145_00a88458-3487-4817-a342-ccf94566fb5b-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Twitter Permanently Bans Trump, Capping Online Revolt"
     excerpt: "The president’s preferred megaphone cited “the risk of further incitement of violence.” It acted after Facebook, Snapchat, Twitch and other platforms placed limits on him."
@@ -496,149 +192,37 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "McConnell Privately Backs Impeachment as House Moves to Charge Trump"
-    excerpt: "The House was poised to formally call on Vice President Mike Pence to move to wrest power from the president, as Republican support built for impeaching him of inciting violence against the nation."
-    publishedDateTime: 2021-01-13T02:40:00Z
-    webUrl: "https://www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.amp.html"
+  - title: "Live updates: House begins effort to remove Trump"
+    excerpt: "Jim Clyburn, a member of House leadership, said Democrats could delay sending impeachment articles to the Senate until after Joe Biden's first 100 days."
+    publishedDateTime: 2021-01-11T14:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/live-updates-house-begins-effort-remove-trump-n1253700"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253700"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253700"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/12/us/politics/12dc-impeach1/12dc-impeach1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Wall Street Journal Editorial Urges Trump to Resign to Avoid Impeachment"
-    excerpt: "With the headline “Donald Trump’s Final Days,” The Journal excoriated the president for “an assault on the constitutional process of transferring power after an election.”"
-    publishedDateTime: 2021-01-08T02:07:00Z
-    webUrl: "https://www.nytimes.com/2021/01/07/business/wall-street-journal-trump-resign.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/07/business/wall-street-journal-trump-resign.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/business/wall-street-journal-trump-resign.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/08/business/08wsj-print1/merlin_182073078_f0249a97-49b3-4941-a29e-37f97e5f271f-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Democrats Ready Impeachment Charge Against Trump for Inciting Capitol Mob"
-    excerpt: "Speaker Nancy Pelosi threatened decisive action against the president for his role in the insurrection against Congress if he refused to resign."
-    publishedDateTime: 2021-01-09T02:14:00Z
-    webUrl: "https://www.nytimes.com/2021/01/08/us/politics/democrats-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/08/us/politics/democrats-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/08/us/politics/democrats-trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08dc-cong1/08dc-cong1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "After 2 Impeachments, Giuliani Vows to Continue His ‘Craziness’ for Trump"
-    excerpt: "White House officials are universally angry with Rudolph W. Giuliani and blame him for both of President Trump’s impeachments. But he remains one of few people still willing to join Mr. Trump in the foxhole."
-    publishedDateTime: 2021-01-15T01:05:00Z
-    webUrl: "https://www.nytimes.com/2021/01/14/us/politics/trump-giuliani.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/14/us/politics/trump-giuliani.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/14/us/politics/trump-giuliani.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/14/us/politics/14dc-rudy/14dc-rudy-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Live updates: House to vote on Trump impeachment, 25th amendment resolutions"
-    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
-    publishedDateTime: 2021-01-12T11:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
-    excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
-    publishedDateTime: 2021-01-08T14:19:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08transition-briefing-impeach-sub/08transition-briefing-impeach-sub-videoSixteenByNineJumbo1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Pelosi says House will move forward with Trump impeachment motion if he doesn't resign"
-    excerpt: "At least one Republican senator said he was open to impeachment proceedings, while Trump announced he won't attend Biden's inauguration."
-    publishedDateTime: 2021-01-08T23:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/rep-clark-says-house-democrats-looking-impeachment-vote-next-week-n1253447"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253447"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253447"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3440898/210108-nancy-pelosi-cs-647p_85bf9c7801ad9da60446e52661ee3ab0.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441188/200111-national-guard-capitol-mn-0950_15810f935e25791f2da9bbcbeecc65ae.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Lawmakers called back to DC to vote on Trump's impeachment, removal under 25th amendment"
-    excerpt: "The House will vote Tuesday night to encourage Trump's removal and Wednesday morning on impeachment, House leadership announced.."
-    publishedDateTime: 2021-01-11T20:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253693"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693"
+  - title: "McConnell remains undecided on convicting Trump in Senate trial"
+    excerpt: "McConnell said last week that the earliest the Senate could take up the articles would be Jan. 19, unless all 100 senators agree to come back early."
+    publishedDateTime: 2021-01-14T11:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/mcconnell-remains-undecided-convicting-trump-senate-trial-n1254168"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254168"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254168"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 126
+    quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438574/201229-mitch-mcconnell-jm-1456_9251998545a2096bbf31d2253f4de884.jpg"
         width: 2500
-        height: 1663
-        isCached: true
-  - title: "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot"
-    excerpt: "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice."
-    publishedDateTime: 2021-01-13T12:26:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253971"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 125
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg"
-        width: 2500
-        height: 1250
+        height: 1667
         isCached: true
   - title: "House Moves Forward With New Impeachment Charge Against Trump"
     excerpt: "House Democrats introduced an article of impeachment against President Trump for inciting a mob that attacked the Capitol last week. Republicans blocked a move to formally call on Vice President Mike Pence to strip him of power under the 25th Amendment."
@@ -654,20 +238,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "POLITICO Playbook PM: Donald Trump has no regrets"
-    excerpt: "Debbie Dingell (D-Mich.) plans to introduce legislation Tuesday to impose a $1,000 fine on members who refuse to wear masks while in the U.S. Capitol complex.” TRUMP HAS NO REGRETS … NYT: “Answering questions from reporters for the first time since the violence at the Capitol on Wednesday,"
-    publishedDateTime: 2021-01-12T18:11:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/12/donald-trump-has-no-regrets-491378"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/74/78/002243ea46a6b8741002cc5f8445/210112-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Live House Vote: The Second Impeachment of Donald J. Trump"
     excerpt: "See how each House member votes on the article of impeachment charging President Trump with inciting violence against the country."
     publishedDateTime: 2021-01-13T19:23:00Z
@@ -681,36 +251,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/13/us/trump-second-impeachment-vote-promo-1610558373191/trump-second-impeachment-vote-promo-1610558373191-facebookJumbo-v3.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump"
-    excerpt: "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,"
-    publishedDateTime: 2021-01-11T17:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253693"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 114
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
-  - title: "'Supremely self-absorbed': Isolated Trump unlikely to mount an aggressive impeachment defense"
-    excerpt: "He’s not doing much governing, aides said. Instead, Trump has surrounded himself with a handful of loyalists who were with him since the start."
-    publishedDateTime: 2021-01-12T11:29:00Z
-    webUrl: "https://www.politico.com/news/2021/01/11/isolated-self-absorbed-donald-trump-impeachment-defense-457983"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 104
-    images:
-      - url: "https://static.politico.com/80/45/8aa0f22648b5a9477863562e5ff1/gettyimages-1294907306-c.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "sM56jk20kpXBcbNz2VWjPyitsTw2kICHhNV2N5fID68otOgM3BdGTyP4B+ccZ4VRJItu0PULmqbTTp1oySAfrvWq9iNWwQv25t1nCyctdnQdRTjxH+6ryqVeNSgyB0khE88Ep9tm7YU7rD2KreZauzQ4bl6iCsvGHtmYeVsv9kuSAgGoT3OoP1lFHb/9FP3FZ5IFoihFQsf010ITBI5OQ0f8eVo9G523kRt0ckfkLN7FBV6CUn6e36PC1iM2EPndlklkCqwsetN9MjzCTTn3aCt1Bxq7MylNOB02aq1Fw5EEp2zWcd+3HytWoh8MRTXvF0GRb1PC+QwysiqkxGXblDe6qz17pDxgHm/TZWYCPy2dzAUIX0b84epO+wkdMfx9OXHG2Z6ljn9rfbMUv/hmkVaAtDW6nyc0rvS2SdiJV7bHsWMiyypfJT17XmPKLMIsSHMcWNPrF2SiCKzJYffynjSBPIoFIKIOhk+ynz9ShmU2yUtWfi8Gf7mSa9Bn2VWU6QrstzA4qQcR23G418Q34A==;7DrQKLVegnRIcBkqHLcQRQ=="

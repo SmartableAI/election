@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The case for Mitch McConnell to vote to convict Donald Trump"
-    excerpt: "On Wednesday afternoon, the House will impeach President Donald Trump for a second time. It is known. The only real drama will be to see how many House Republicans cross the aisle to vote with Democrats to impeach the President."
-    publishedDateTime: 2021-01-13T16:29:00Z
-    webUrl: "https://www.cnn.com/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215150551-mitch-mcconnell-1215-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "McConnell to propose allowing Trump two weeks to prepare impeachment defense"
     excerpt: "Senate Minority Leader Mitch McConnell is proposing to give former President Donald Trump two weeks to prepare his legal case for his impeachment trial, according to sources familiar with the matter."
     publishedDateTime: 2021-01-21T22:00:00Z

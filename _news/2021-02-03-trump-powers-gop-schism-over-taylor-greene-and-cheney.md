@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/republican-party-marjori
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/republican-party-marjorie-taylor-greene-liz-cheney/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 215
+published: true
 
 provider:
   name: CNN
@@ -31,54 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lindsey Graham defends Liz Cheney amid attacks from Trump allies"
-    excerpt: "Sen. Lindsey Graham, a South Carolina Republican, became the latest high-profile GOP elected official to defend Rep. Liz Cheney of Wyoming amid attacks from Donald Trump loyalists critical of her vote to impeach the former president last month.\n    \n"
-    publishedDateTime: 2021-02-02T16:53:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cT2MZaxyug4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/liz-cheney-republican-reaction-lindsey-graham/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/liz-cheney-republican-reaction-lindsey-graham/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112943-lindsey-graham-liz-cheney-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump's official response to impeachment includes obvious lies "
-    excerpt: "Former President Donald Trump continues to defend the ludicrous lie that led him down the road to a second impeachment -- even in his legal team's official response to that impeachment.\n    \n"
-    publishedDateTime: 2021-02-03T13:31:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HUOXUuqCZHU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeachment-response-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeachment-response-senate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113114115-03-trump-dc-rally-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Matt Gaetz to rally Trump faithful to boost MAGA backlash in Liz Cheney's backyard"
-    excerpt: "Republican Rep. Matt Gaetz of Florida will rally the Trump faithful in Wyoming on Thursday, hoping to bring a MAGA backlash to GOP Rep. Liz Cheney's backyard after she voted to impeach the former President for his role in inciting the riot at the Capitol.\n    \n"
-    publishedDateTime: 2021-01-28T11:01:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47nGUI3BJ_4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127181848-matt-gaetz-liz-cheney-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Liz Cheney gets boost from McConnell amid divisive intraparty battle over Trump's impeachment"
     excerpt: "Rep. Liz Cheney, under fire from former President Donald Trump and his staunchest defenders, is picking up support from some influential Republicans as her allies close ranks and resist the effort to oust her from the third-ranking spot in House GOP leadership.\n    \n"
     publishedDateTime: 2021-02-02T00:47:45Z
@@ -95,21 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Spurning Calls to Resign, Liz Cheney Says G.O.P. Must Move Past Trump"
-    excerpt: "Ms. Cheney, having fended off a challenge to her House leadership role, was defiant in defending her impeachment vote and called for Republicans to be “the party of truth.”"
-    publishedDateTime: 2021-02-07T18:17:00Z
-    webUrl: "https://www.nytimes.com/2021/02/07/us/politics/liz-cheney-republicans-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/07/us/politics/liz-cheney-republicans-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/07/us/politics/liz-cheney-republicans-trump.amp.html"
+  - title: "Greene admits 9/11 ‘happened,’ Dems seek Trump under oath"
+    excerpt: "JAMIE RASKIN (D-Md.), the lead House impeachment manager, sent a letter to former President DONALD TRUMP “requesting that he provide testimony under oath, either before or during the Senate impeachment trial,"
+    publishedDateTime: 2021-02-04T18:23:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/02/04/greene-admits-9-11-happened-dems-seek-trump-under-oath-491640"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/02/07/us/politics/07dc-cheney/07dc-cheney-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/b0/2f/26b3ac3a4fda823db3ce22fa28ce/210204-greene-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "NCwCqsnGJplVn/olUZynLyj0Ernj5Kso3HiKrpB1S8eH0+exll6pO2Njh8sJMq8brCghgnp88136zTqd2er2giMuZ4MFlQXVQFDFM9iKj8YWmQT7iZa3C7wGSKhxk7VAj77eNpV2+ZHPuj+iBeymRHhXhrNCFp9YUCiR11GkAyrqnIkhKiopVCvZCayR76yO3dqRopsuUfSNAWsPlY5LZXb6MXd6SlpoG6Sng3qbb6F/k8Eh9mMYqfIN+ArdDqmRM9n/eaQ5N4f2ypJo+OLPsW7+Xzp4l43VWE7g+0LgwMSHXZAA4HD9WepeuTyFltBXNCOOnVNtUnByKMtqiFeyPfl4iYq2C+LC46Pn8I9xPtA=;v4fxFiaUUWnlTAbANeMv3w=="

@@ -79,6 +79,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Endorses a Loyalist, Jody Hice, for Georgia Secretary of State"
+    excerpt: "By supporting a challenger to Georgia’s current secretary of state, Brad Raffensperger, the former president signaled that he wants Republicans who opposed his election falsehoods to pay politically."
+    publishedDateTime: 2021-03-22T20:49:00Z
+    webUrl: "https://www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/22/us/politics/22trump-georgia/merlin_175037406_ecba1dd5-1d7e-43d4-99c1-22f4c13dc367-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Ex-FBI lawyer spared prison for altering Trump-Russia probe email"
     excerpt: "The only person charged in the Justice Department's investigation into the origins of the probe President Donald Trump's 2016 campaign and its ties to Russia was spared prison time for altering an email used to support a surveillance application."
     publishedDateTime: 2021-01-29T17:42:00Z

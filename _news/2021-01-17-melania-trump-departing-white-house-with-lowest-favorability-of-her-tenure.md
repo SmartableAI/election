@@ -191,22 +191,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump approval remains stable in new NBC poll, with Republicans unmoved after Capitol violence"
-    excerpt: "Eighty-seven percent of Republicans approve of how Trump is doing his job in a new NBC News poll, but half of all voters say Trump is \"definitely worse than most\" presidents."
-    publishedDateTime: 2021-01-18T00:11:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/poll-trump-approval-remains-stable-republicans-unmoved-after-capitol-violence-n1254457"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254457"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254457"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 123
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442712/210117-donald-trump-jm-0942_e8286158fcd963929b360a5a731b99aa.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "7QMNRwyX1/YGx9uLEpU6KrCIuSgfsCC5V8wjx9Kk/CfKhHNYuBHwto5LpLQlwaLFYI5MZLzbZcC7MM4j7KYoMjpuBI+J97T2hT0UCBIrE9BANQvRYyZMm0Bflo+GitTMsOI7TZbUJLYPOGvdMWRc6muFBIQSkf1qqO0X/wwJHROTtGzOPtd5AugmJeexuQ5qAs9LHobf7ZzFYrDcCLyku9WNZcV0zIXsVfHY+EIlKb9RZ/cTThOl29bb3gcBqpC4kskh8oM5W0D0CFbXMnvPB7d4ga4Osmp/cnutq5XuYINDvh0OGsYiy2v2MTVb4SKrJKemHaxuRXnPMEhXzCkYuBD4V/rabWxcf+llthUUxTA=;Egqcn6tEdnSOrsIXHHdFzg=="
 ---

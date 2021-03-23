@@ -32,35 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "How Trump's most consequential policies have changed America"
-    excerpt: "Donald Trump's presidency has largely been defined by his disregard for political norms and his historic two impeachments.\n    \n"
-    publishedDateTime: 2021-01-17T14:12:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ujB9JyRx0kc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-legacy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-legacy/index.html"
+  - title: "Birx: I always considered quitting Trump's White House Covid task force"
+    excerpt: "Dr. Deborah Birx \"always\" considered quitting then-President Donald Trump's White House coronavirus task force and was troubled by colleagues' perceptions that she had become political, she said in an interview clip released Friday.\n    \n"
+    publishedDateTime: 2021-01-23T02:10:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115152914-01-trump-presidency-lead-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222145539-deborah-birx-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's legacy will take years to purge from the American psyche"
-    excerpt: "After four exhausting years of raging tweets, lies, \"fire and fury\" rants and orders for far-right extremists to \"stand back and stand by,\" it's almost over.\n    \n"
-    publishedDateTime: 2021-01-19T12:14:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EIuX4_QdrU4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/donald-trump-presidency/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/donald-trump-presidency/index.html"
+  - title: "Melania Trump hires staff and establishes post-White House office"
+    excerpt: "Former first lady Melania Trump is establishing a post-White House office in Palm Beach, Florida, according to two sources familiar with her plans.\n    \n"
+    publishedDateTime: 2021-01-27T16:02:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oiv6nsD-6mQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/melania-trump-post-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/melania-trump-post-white-house/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121224406-melania-trump-desplante-camilo-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,67 +80,161 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Two former Trump officials to be investigated for posting papers denying climate change"
-    excerpt: "The Commerce Department's Office of Inspector General said it will investigate how two former Trump officials posted dubious papers questioning man-made climate change using government logos but without the approval of the Trump administration.\n    \n"
-    publishedDateTime: 2021-01-24T00:21:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mrd_OGlmG_4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/david-legates-ryan-maue-trump-officials-climate-change-mazie-hirono/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/david-legates-ryan-maue-trump-officials-climate-change-mazie-hirono/index.html"
+  - title: "Trump adviser says former President not currently considering launching a third party "
+    excerpt: "Former President Donald Trump remains committed to reelecting Republicans and is not currently considering launching a third party, a senior Trump adviser said Sunday while noting that things could change.\n    \n"
+    publishedDateTime: 2021-01-25T00:27:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dC9fFTFNj-Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/trump-republican-party/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/trump-republican-party/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914175952-david-legates-todd-pkg-tsr-0914-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210123004326-04-donald-trump-0120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Trump-fueled riot shocked America. To some, it was a long time coming."
-    excerpt: "The attack on the Capitol wasn't a matter of \"if,\" to those who warned about violence under Trump. It was \"when.\""
-    publishedDateTime: 2021-01-17T07:05:00Z
-    webUrl: "https://www.nbcnews.com/news/nbcblk/trump-fueled-riot-shocked-america-some-it-was-long-time-n1254465"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254465"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254465"
+  - title: "Trump to lift Covid-19 related travel restrictions before he leaves office, White House official says"
+    excerpt: "President Donald Trump is expected to lift coronavirus-related travel restrictions starting on January 26, nearly a week after he leaves office, a White House official said Monday.\n    \n"
+    publishedDateTime: 2021-01-19T00:27:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1Olf9wbdXY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
+      name: CNN
+      domain: cnn.com
+    quality: 160
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3442444/210115-analysis-trump-capitol-riots-ew-212p_37ae77e10beb5b80705560d1256fe3da.jpg"
-        width: 2500
-        height: 1484
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "How Doug Ducey, Arizona’s Republican Governor, Views His Party After Trump"
-    excerpt: "Mr. Ducey, who is facing censure by his state party on Saturday, says the divisions within the Republican Party are nothing new."
-    publishedDateTime: 2021-01-23T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.amp.html"
+  - title: "White House to release state coronavirus reports previously kept out of public view in Trump administration"
+    excerpt: "The transition from the Trump to the Biden administration has brought significant changes to the US Covid-19 strategy, and with it, a new level of transparency.\n    \n"
+    publishedDateTime: 2021-01-30T00:10:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqPkmEWzfAE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/white-house-task-force-state-reports/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/white-house-task-force-state-reports/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190222184317-white-house-exterior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fauci says he worried Trump's disinfectant comment would make people 'start doing dangerous and foolish things'"
+    excerpt: "Dr. Anthony Fauci, the nation's leading infectious disease expert, said Monday evening he was extremely worried by former President Donald Trump's dangerous April suggestion that ingesting disinfectant could possibly be used to treat Covid-19.\n    \n"
+    publishedDateTime: 2021-01-26T02:33:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JWuGyzGOU0w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/fauci-trump-covid-19-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/fauci-trump-covid-19-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121171843-fauci-biden-administration-coronavirus-honesty-whpb-bts-lead-vpx-00000113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's Covid-19 condition was so concerning that doctors considered putting him on a ventilator, source confirms"
+    excerpt: "Former President Donald Trump's condition after testing positive for Covid-19 became so concerning last October that there was talk of putting him on a ventilator, according to what Trump told one person at the time.\n    \n"
+    publishedDateTime: 2021-02-11T22:54:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QJouhAqxc5s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/donald-trump-covid-19-ventilator/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/donald-trump-covid-19-ventilator/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003084500-07-trump-walter-reed-arrival-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fauci on What Working for Trump Was Really Like"
+    excerpt: "From denialism to death threats, Dr. Anthony S. Fauci describes a fraught year as an adviser to President Donald J. Trump on the Covid-19 pandemic."
+    publishedDateTime: 2021-01-24T19:18:00Z
+    webUrl: "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/24/health/fauci-trump-covid.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 133
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/24/us/politics/24ducey-qanda-print1/23ducey-qanda-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/24/us/24VIRUS-FAUCIQA2/24VIRUS-FAUCIQA2-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "America’s trade gap soared under Trump, final figures show"
-    excerpt: "The U.S. trade deficit over the four years of President Donald Trump’s presidency soared to its highest level since 2008, despite his tough tariff tactics intended to bring it down, a new Commerce Department report showed on Friday."
-    publishedDateTime: 2021-02-05T20:10:00Z
-    webUrl: "https://www.politico.com/news/2021/02/05/2020-trade-figures-trump-failure-deficit-466116"
+  - title: "The Trial of Donald Trump: The Sequel"
+    excerpt: "Readers criticize both Republicans and Democrats for increasing divisiveness and disagree about the best way to hold Mr. Trump accountable."
+    publishedDateTime: 2021-01-25T17:48:00Z
+    webUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/us/25-DC-IMPEACH-01-PRINT/merlin_182307399_f6bd267f-8e7f-4361-bf7e-31f0e440da09-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Job Seekers With Trump White House on Their Résumés Face a Cold Reality"
+    excerpt: "Working at the White House has traditionally been a ticket to a lucrative future. But that hasn’t been the case so far for Trump alumni."
+    publishedDateTime: 2021-01-29T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-FORMERS-1/merlin_182384682_4bb64c40-0d06-4baf-b8d6-124f5a65fe19-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
+    excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."
+    publishedDateTime: 2021-01-24T19:17:00Z
+    webUrl: "https://www.politico.com/news/2021/01/24/birx-trump-parallel-covid-data-461928"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/33/cc/65d94e5f4d17aa8a81812b4dabda/ap21012842754911-2.jpg"
-        width: 1159
+      - url: "https://static.politico.com/92/d3/8d87f9234321969aed4ab15a9ec4/210124-birx-ap-773.jpg"
+        width: 1160
         height: 773
+        isCached: true
+  - title: "House Delivers Article of Impeachment Against Trump"
+    excerpt: "For the second time in just over a year, the House delivered an article of impeachment to the Senate against former President Donald J. Trump, citing “incitement of insurrection.”"
+    publishedDateTime: 2021-01-26T02:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007570625/house-delivers-impeachment-senate-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "YtoVrKeVqCYvM18jQQLy1Gn6pRvpGSXeuWHn3tBlWo+TIa3tv+js0tosjPwabI5XkCtqo35qAEHoy7nLKj/ielE8krnG7v5GeEu6czWXWgmrx3A07W2VqFhVaKMXoGzYwH9yxZNrD9uh2S1l/RA0wkLTt7W+TI58EvJn4FJtuvqyDbZ5qaxGm7qW8Y6oq1CSNCEMIkLqAKbFRx87Kg5rShcPyUUIggc6/YaX7dH6uctZR8bCC3h2Z/7J4jsM/YXCSptnFCyqo2f4BzBfoZSNCkqv1T1mAeC7FS+EUZBxajPNcMThPeogA/hW4SUWuU5j2LqATYxCGOYBOu8+YEvLoHfFp5OPomlj9zmjwdvrV4XCUbI+m82F1sBnG7aCWQq8QE9Xh85YGSo4i6QRA+CQ0cktitRZQZm6TNp2MJ0iQnIlsX6QcTiEewkobyx0DzBRw527MPN5MpCCEEhM+DBjMENBqiEviRzuDSUoYee23UiTtWEBCsRozsbsBa1/ADKJJmQTqut/nD2Ae4xd4y1yvw==;wg2ud2UShdYQIvWVFei7Eg=="

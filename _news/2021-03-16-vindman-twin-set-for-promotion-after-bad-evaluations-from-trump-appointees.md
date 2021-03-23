@@ -32,358 +32,392 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's army takes aim at 2022 touting his election lies"
-    excerpt: "Donald Trump has set the price of admission for Republicans in the midterm elections, and probably the next presidential race: an embrace of the big lie that he was cheated out of office by a historic voter fraud operation.\n    \n"
-    publishedDateTime: 2021-03-23T05:01:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pT7bT-_GAWA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+  - title: "New York prosecutor investigating Trump announces he won't seek reelection"
+    excerpt: "The New York prosecutor leading the most significant criminal probe against Donald Trump and his business announced Friday he is not running for reelection, putting the spotlight on who will be elected to take over the investigation into the former president and his business.\n    \n"
+    publishedDateTime: 2021-03-12T11:46:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A4aojyeNTRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 190
+    quality: 188
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322174656-01-trump-media-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200221104852-cy-vance-0215-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Here's why Donald Trump thinks he deserves credit for the 2020 election"
-    excerpt: "Donald Trump lost the presidential race last November. And in January, Senate Republicans lost their majority -- thanks to Trump's relentless focus on the false notion that the election in Georgia (and elsewhere!) was stolen from him. Those twin losses, coupled with Republicans' failure to win back the"
-    publishedDateTime: 2021-03-17T20:26:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aAG_OxkAbHc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/trump-election-2020-covid-19-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/trump-election-2020-covid-19-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 184
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
-    excerpt: "The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against Covid-19.\n    \n"
-    publishedDateTime: 2021-03-15T22:43:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4hzpRhOEn7U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+  - title: "This GOP senator slammed Trumpism on his way out the door"
+    excerpt: "Missouri Republican Sen. Roy Blunt said something on Monday -- following his surprise retirement announcement -- that is worth paying attention to as we continue to monitor the control that former President Donald Trump continues to exert over his party.\n    \n"
+    publishedDateTime: 2021-03-09T23:33:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2JHbBm5ND4A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/roy-blunt-retire-slam-trumpism/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/roy-blunt-retire-slam-trumpism/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308105156-01-roy-blunt-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia prosecutor investigating Trump hires new evidence expert"
-    excerpt: "The Atlanta-area district attorney investigating former President Donald Trump, Fani Willis, is beefing up her office with a new evidence expert, according to a source familiar with the situation.\n    \n"
-    publishedDateTime: 2021-03-16T23:11:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Yvs6xr9qmM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/georgia-trump-investigation-evidence-expert-hired/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/georgia-trump-investigation-evidence-expert-hired/index.html"
+  - title: "Trump's time in White House could end up benefiting New York prosecutors  "
+    excerpt: "Former President Donald Trump's time in the White House helped shield him from investigations and some lawsuits but it might open him up to greater legal peril from New York prosecutors investigating his finances.\n    \n"
+    publishedDateTime: 2021-03-12T16:07:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z55_W7rIHMY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/trump-statute-of-limitations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/trump-statute-of-limitations/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316184757-mike-carlson-gbi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
-    excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
-    publishedDateTime: 2021-03-18T11:33:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_u-4hM36qk0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318071556-02-mo-brooks-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "McCarthy tries to rewrite history by claiming that he didn't back Trump's efforts to overturn the election"
-    excerpt: "House Minority Leader Kevin McCarthy tried to rewrite history on Thursday by claiming that he was not involved in former President Donald Trump's efforts to overturn the election in a heated exchange during a news briefing.\n    \n"
-    publishedDateTime: 2021-03-18T22:45:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G_K5_Ln71uw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/mccarthy-rewrite-history-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mccarthy-rewrite-history-2020-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318145819-kevin-mccarthy-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Brother of star witness in Trump's first impeachment set to be promoted by the Army"
-    excerpt: "Army Lt. Col. Yevgeny Vindman, whose brother Alex was a star witness in the House impeachment inquiry, is set to be promoted to colonel after overcoming alleged retaliation efforts by the Trump White House, a person familiar with the matter said.\n    \n"
-    publishedDateTime: 2021-03-16T01:47:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X6xB8dWG6bs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/yevgeny-vindman-to-be-promoted/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/yevgeny-vindman-to-be-promoted/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315212412-yevgeny-vindman-file-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump doesn't commit to stay out of Senate primaries despite prodding by top GOP senator "
-    excerpt: "Florida Sen. Rick Scott, the chairman of the National Republican Senatorial Committee, urged former President Donald Trump to back the candidates who win Senate primaries next year rather than engage in intra-party fights that could harm the party's chances at taking back the majority in the midterm"
-    publishedDateTime: 2021-03-16T15:51:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cUU6MqhaS2I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/rick-scott-trump-senate-primaries-2022/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/rick-scott-trump-senate-primaries-2022/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310190838-trump-scott-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Intelligence report contradicts claims by Trump and his team on China election interference"
-    excerpt: "Washington (CNN)The US intelligence report released Tuesday detailing foreign election interference in the 2020 election contradicts repeated statements from former President Donald Trump and senior members of his administration that China -- and not ..."
-    publishedDateTime: 2021-03-17T20:29:00Z
-    webUrl: "https://www.cnn.com/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 140
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "A Pro-Trump scam PAC returns with a vengeance"
-    excerpt: "President Donald Trump is out of office, but the scammers that used his name to raise money aren’t stopping. Over the past few weeks, POLITICO has received a number of robocalls from generically named political groups asking for cash in order to help in ..."
-    publishedDateTime: 2021-03-15T09:30:00Z
-    webUrl: "https://www.politico.com/news/2021/03/15/trump-scam-pac-robocalls-475917"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/trump-scam-pac-robocalls-475917"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/trump-scam-pac-robocalls-475917"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/01/68/675ec1ea48d8a38b552c157e9ae2/210314-trump-cpac-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
-    excerpt: "(CNN)The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against ..."
-    publishedDateTime: 2021-03-15T18:43:00Z
-    webUrl: "https://www.cnn.com/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "What's *really* at stake in Donald Trump's legal fights"
-    excerpt: "(CNN)Donald Trump isn't president anymore. So questions about whether he paid his taxes -- and how much he paid -- and how much he knew about the hush money paid during 2016 to two women alleging they had extramarital affairs with him, which he denies ..."
-    publishedDateTime: 2021-03-16T19:25:00Z
-    webUrl: "https://www.cnn.com/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
+    quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311184305-trump-white-house-jan-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump set to do at least 12 book interviews in the coming weeks"
-    excerpt: "Former President Donald Trump is scheduled to sit for a dozen interviews in the coming weeks. | AP Photo/Andrew Harnik Get ready for the Donald Trump book barrage. The former president is scheduled to sit for a dozen interviews in the coming weeks with authors examining his presidency,"
-    publishedDateTime: 2021-03-18T00:58:00Z
-    webUrl: "https://www.politico.com/news/2021/03/17/donald-trump-book-interviews-476864"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/17/donald-trump-book-interviews-476864"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/17/donald-trump-book-interviews-476864"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/98/e9/fd3f32c04cbba9f78ab0d9dff7b8/ap20257716753024.jpg"
-        width: 6000
-        height: 3998
-        isCached: true
-  - title: "After Being Scratched and Punched, Trump Wax Figure Is Removed"
-    excerpt: "Trump often complained that he felt battered and under assault, but that did not compare with the physical beating a wax statue of the former president recently endured at a Texas attraction. The figure of Mr."
-    publishedDateTime: 2021-03-20T13:39:00Z
-    webUrl: "https://www.nytimes.com/2021/03/20/us/trump-wax-museum.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/20/us/trump-wax-museum.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/20/us/trump-wax-museum.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/19/lens/19xp-waxfigure-photo/19xp-waxfigure-photo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Cotton calls for return of Trump border policies"
-    excerpt: "A repeated talking point by Mayorkas on Sunday was that the Trump administration, which took a hard line on border policy, was to blame because it \"dismantled the orderly, humane and efficient way\" of dealing with the migrant children. Mayorkas said the U ..."
-    publishedDateTime: 2021-03-21T14:35:00Z
-    webUrl: "https://www.politico.com/news/2021/03/21/cotton-us-border-wide-open-477379"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/21/cotton-us-border-wide-open-477379"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/cotton-us-border-wide-open-477379"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/07/c1/69b4871745b3965c09fc92d63ffb/210321-cotton-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump plans social media return with his own platform"
-    excerpt: "WASHINGTON — Former President Donald Trump, suspended from Twitter, Facebook and other social media sites after the Jan. 6 attack on the Capitol, plans to launch his own platform in two to three months, one of his senior advisers told Fox News on Sunday."
-    publishedDateTime: 2021-03-21T18:24:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-plans-social-media-return-his-own-platform-n1261694"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261694"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261694"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_29/3391138/200618-donald-trump-cellphone-smartphone-cell-ac-1059p_98bab316821b75cf38c81649899893b2.jpg"
-        width: 2500
-        height: 1560
-        isCached: true
-  - title: "Trump Endorses a Loyalist, Jody Hice, for Georgia Secretary of State"
-    excerpt: "By supporting a challenger to Georgia’s current secretary of state, Brad Raffensperger, the former president signaled that he wants Republicans who opposed his election falsehoods to pay politically."
-    publishedDateTime: 2021-03-22T20:49:00Z
-    webUrl: "https://www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/22/us/politics/22trump-georgia/merlin_175037406_ecba1dd5-1d7e-43d4-99c1-22f4c13dc367-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Mary Trump has her next act — and believes her uncle’s guilty of sedition"
-    excerpt: "Donald Trump’s niece is writing a new book and joining the board of LGBTQ+ group promoting female candidates for office."
-    publishedDateTime: 2021-03-20T19:22:00Z
-    webUrl: "https://www.politico.com/news/2021/03/19/mary-trump-donald-lgbtq-477130"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/19/mary-trump-donald-lgbtq-477130"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/19/mary-trump-donald-lgbtq-477130"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 134
-    images:
-      - url: "https://static.politico.com/8a/6f/f599a0ed490695cb6f5ec7b241d7/210318-marytrump-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "House Democrats weigh ejecting GOP winner of contested Iowa race, dismissing comparisons to Trump's efforts to overturn election"
-    excerpt: "brushing back attacks that they are seeking to subvert the will of voters just months after lambasting former President Donald Trump for trying to reverse his electoral defeat. While Democrats say what's happening in Iowa's 2nd Congressional District is ..."
-    publishedDateTime: 2021-03-18T16:51:00Z
-    webUrl: "https://www.cnn.com/2021/03/18/politics/iowa-2nd-district-rita-hart-marianette-miller-meeks-trump/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/iowa-2nd-district-rita-hart-marianette-miller-meeks-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/iowa-2nd-district-rita-hart-marianette-miller-meeks-trump/index.html"
+  - title: "Former Trump fixer Michael Cohen meets with New York DA for the eighth time"
+    excerpt: "Michael Cohen, former President Donald Trump's former fixer, is meeting for the eighth time with the Manhattan District Attorney's office on Friday, according to a person familiar with the matter.\n    \n"
+    publishedDateTime: 2021-03-19T19:13:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kwEh88bGMDI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 121
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317153143-rita-hart-mariannette-miller-meeks-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310210025-michael-cohen-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Russia tried to help Trump in 2020, Iran tried to hurt him and China stayed out of it, says new report"
-    excerpt: "WASHINGTON — Despite repeated assertions by senior Trump administration officials that China sought to hurt then-President Donald Trump in the 2020 election, a newly declassified intelligence assessment finds that China did not seek to influence the outcome."
-    publishedDateTime: 2021-03-16T19:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-say-russia-tried-help-trump-china-n1261234"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261234"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261234"
+  - title: "Trump wants top Republican fundraising organizations to stop using his likeness"
+    excerpt: "Lawyers for former President Donald Trump sent out cease-and-desist letters Friday to the Republican National Committee, the National Republican Congressional Committee, and the National Republican Senatorial Committee for using his name and likeness on fundraising emails and merchandise, a Trump adviser"
+    publishedDateTime: 2021-03-06T17:44:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/agww6XNhsQs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/trump-cease-desist-name-likeness-rnc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/trump-cease-desist-name-likeness-rnc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia district attorney investigating Trump hires lawyer with expertise in racketeering cases"
+    excerpt: "A lawyer with deep expertise in racketeering cases has been retained by the Atlanta-area district attorney's office investigating former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-03-07T00:47:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mkP1toe70iI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224952-fani-willis-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Whistleblowers say Trump ally made questionable hire days before resigning from Justice Department"
+    excerpt: "Two federal employees are calling for an investigation into the hiring of a senior Justice Department official who had been interviewed by a manager who resigned shortly after -- and just days before President Joe Biden's inauguration.\n    \n"
+    publishedDateTime: 2021-03-11T01:26:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XTao20qKlvM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/doj-whistleblowers-jeffrey-bossert-clark-hire/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/doj-whistleblowers-jeffrey-bossert-clark-hire/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914165552-daimler-emissions-cheating-presser-0914-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "NYC prosecutors' probe into Trump finances expands to include millions loaned for Chicago skyscraper"
+    excerpt: "The Manhattan district attorney's office subpoenaed documents from an investment company that loaned the Trump Organization millions of dollars for its Chicago skyscraper in a sign that the investigation into the former president's finances continues to expand, according to people familiar with the investigation.\n"
+    publishedDateTime: 2021-03-08T22:41:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2B8VyI_E7Zg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/trump-chicago-subpoena/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/trump-chicago-subpoena/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170424100116-trump-chicago-hotel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former daughter-in-law of Trump Org officer has talked to New York prosecutors about rent-free apartments"
+    excerpt: "The former daughter-in-law of a Trump Organization officer said she is cooperating with inquiries by New York investigators who are looking into former President Donald Trump and his business, and have asked her about apartments she and her ex-husband were allowed to live in rent-free.\n    \n"
+    publishedDateTime: 2021-03-20T03:02:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQ3KpKu1Y8Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/trump-vance-investigation-weisselberg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/trump-vance-investigation-weisselberg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319221118-01-trump-weisselberg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Wall Street Journal: Trump pressured Georgia investigator to find 'the right answer' in baseless fraud push"
+    excerpt: "In a phone call to the Georgia secretary of state's office in December, then-President Donald Trump urged a top investigator to find fraud in the 2020 presidential election, telling her that she would be \"praised\" for overturning results that were in favor of Joe Biden, according to newly reported audio"
+    publishedDateTime: 2021-03-11T01:53:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Af1WjFotT-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/donald-trump-georgia-phone-call/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/donald-trump-georgia-phone-call/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211185115-donald-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Plaskett reacts to Trump's call with elections investigator"
+    excerpt: "Del. Stacey Plaskett (D-USVI), one of the House impeachment managers in former President Donald Trump's second impeachment trial, says Trump's call with a Georgia elections investigator is further evidence to corroborate the claims Democrats made during his second impeachment trial."
+    publishedDateTime: 2021-03-11T15:47:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/11/stacey-plaskett-trump-georgia-intv-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/11/stacey-plaskett-trump-georgia-intv-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/11/stacey-plaskett-trump-georgia-intv-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211140413-04-del-stacey-plaskett-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House impeachment manager Eric Swalwell sues Trump and close allies over Capitol riot in second major insurrection lawsuit"
+    excerpt: "Former House impeachment manager Eric Swalwell has sued former President Donald Trump, his son Donald Trump Jr., Rudy Giuliani and Republican Rep. Mo Brooks in a second major lawsuit seeking to hold Trump and his allies accountable for inciting the insurrection at the US Capitol on January 6.\n    \n"
+    publishedDateTime: 2021-03-05T14:17:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ksWyQ9kp_SY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/trump-lawsuit-insurrection-eric-swalwell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/trump-lawsuit-insurrection-eric-swalwell/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190708122107-04-eric-swalwell-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "R.N.C. Won't Use Trump's Name to Raise Money Without His OK"
+    excerpt: "Lawyers for Mr. Trump had sent cease-and-desist letters to the Republican National Committee and other groups, warning them to stop relying on him in their fund-raising appeals."
+    publishedDateTime: 2021-03-09T16:40:00Z
+    webUrl: "https://www.nytimes.com/2021/03/09/us/trump-rnc.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/09/us/trump-rnc.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/09/us/trump-rnc.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09new-washington-briefing-trump-rnc/merlin_184403487_6b8cca1e-60bf-49e5-a8af-0ea53ab2e771-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Trump, Hungry for Power, Tries to Wrestle Away G.O.P. Fund-Raising"
+    excerpt: "Angry at his critics in the party and seeking to keep his options for raising money open, the former president is trying to take charge of the online fund-raising juggernaut he helped create."
+    publishedDateTime: 2021-03-09T23:14:00Z
+    webUrl: "https://www.nytimes.com/2021/03/09/us/politics/trump-republican-fundraising.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/09/us/politics/trump-republican-fundraising.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/09/us/politics/trump-republican-fundraising.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09trumpmoney1/09trumpmoney1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Why Donald Trump is fighting Republicans over his name"
+    excerpt: "While Donald Trump has long championed himself as a master real estate tycoon, talk to anyone familiar with how he built his fortune and they will tell you that the key to his success wasn't buying buildings."
+    publishedDateTime: 2021-03-09T22:18:00Z
+    webUrl: "https://www.cnn.com/2021/03/09/politics/donald-trump-name-rnc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/donald-trump-name-rnc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/donald-trump-name-rnc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302134454-04-trump-cpac-0228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "WSJ: New details surface from Trump call to Georgia investigator"
+    excerpt: "In a phone call to the Georgia Secretary of State's office in December, then-President Donald Trump urged a top investigator to find fraud in the 2020 presidential election, telling her that she would be \"praised\" for overturning results that were in favor ..."
+    publishedDateTime: 2021-03-11T00:15:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump as You’ve Never Seen Him Before"
+    excerpt: "By Steven Lee Myers There is no shortage of merchandise in China devoted to the former president of the United States, Donald J. Trump. There are commemorative coins, toilet brushes and cat toys; countless figurines, including updated versions of Mount ..."
+    publishedDateTime: 2021-03-12T08:10:00Z
+    webUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/12/world/12trump-buddha-1/12trump-buddha-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump's last defense secretary blames Trump for Capitol riot"
+    excerpt: "CNN's Andrew McCabe reacts to former acting Defense Secretary Chris Miller, who was in the office during the US Capitol riot, saying that he sees \"cause and effect\" between former President Donald Trump's speech and the insurrection on January 6th,"
+    publishedDateTime: 2021-03-12T18:54:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/12/chris-miller-trump-us-capitol-riot-andrew-mccabe-nr-vpx-sot.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/12/chris-miller-trump-us-capitol-riot-andrew-mccabe-nr-vpx-sot.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/12/chris-miller-trump-us-capitol-riot-andrew-mccabe-nr-vpx-sot.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312133111-chris-miller-file-november-13-2020-01-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "December Trump call to GA investigator found by officials in trash folder"
+    excerpt: "Officials in the Georgia Secretary of State's Office located a recently released recording of former President Donald Trump's call to a state investigator in a trash folder on her device, a state official familiar with the situation confirmed to CNN."
+    publishedDateTime: 2021-03-14T23:41:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former Trump fixer Michael Cohen meets with New York DA for the eighth time"
+    excerpt: "(CNN)Michael Cohen, former President Donald Trump's former fixer, is meeting for the eighth time with the Manhattan District Attorney's office on Friday, according to a person familiar with the matter. Prosecutors have increased the frequency of their ..."
+    publishedDateTime: 2021-03-19T19:13:00Z
+    webUrl: "https://www.cnn.com/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/michael-cohen-prosecutors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310210025-michael-cohen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Russian Interference in 2020 Included Influencing Trump Associates, Report Says"
+    excerpt: "Biden Jr., including intelligence operations to influence people close to former President Donald J. Trump, according to a declassified intelligence report released Tuesday. The report did not name those people but seemed to be a reference to the work of ..."
+    publishedDateTime: 2021-03-16T20:03:00Z
+    webUrl: "https://www.nytimes.com/2021/03/16/us/politics/election-interference-russia-2020-assessment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/16/us/politics/election-interference-russia-2020-assessment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/16/us/politics/election-interference-russia-2020-assessment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/16/us/politics/16dc-intel/16dc-intel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump set for summit with Putin after 12 Russians charged with hacking Democrats"
+    excerpt: "President Donald Trump is one day away from his high-stakes meeting with Russian President Vladimir Putin in Helsinki, Finland. The summit comes just days after the special counsel investigation brought charges against 12 Russian intelligence officers accused of hacking the emails of Hillary Clinton’s campaign and the Democratic party."
+    publishedDateTime: 2021-03-16T00:18:00Z
+    webUrl: "https://www.nbcnews.com/101/video/trump-set-for-summit-with-putin-after-12-russians-charged-with-hacking-democrats-1277305411936"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo43791941870"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo43791941870"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 119
+    quality: 130
     images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615920341633_n_tur_brk_dilanian_russia_210316_1920x1080.jpg"
+      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201807/tdy_sun_kellyo_trump_180715_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "An unlikely Trump turncoat shows the GOP way to resist his influence"
-    excerpt: "Jaime Herrera Beutler is not one to make waves on Capitol Hill. But during Donald Trump’s second impeachment trial, she almost created a tsunami. After she publicly revealed damaging details about Trump’s phone call with House Minority Leader Kevin ..."
-    publishedDateTime: 2021-03-15T13:57:00Z
-    webUrl: "https://www.politico.com/news/2021/03/15/jaime-herrera-beutler-profile-475932"
+  - title: "Trump's acting Defense Secretary says his January 6 speech incited Capitol rioters"
+    excerpt: "(CNN)Former acting Secretary of Defense Christopher Miller believes former President Donald Trump's speech on the morning of January 6 incited the rioters who stormed the US Capitol. \"The question is would anybody have marched on the Capitol and overrun ..."
+    publishedDateTime: 2021-03-11T22:02:00Z
+    webUrl: "https://www.cnn.com/2021/03/11/politics/miller-on-trump-january-6/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/miller-on-trump-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/miller-on-trump-january-6/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: CNN
+      domain: cnn.com
+    quality: 129
     images:
-      - url: "https://static.politico.com/44/7d/570675084c038e258a75ce3660b1/gettyimages-1134736564.jpg"
-        width: 5594
-        height: 3727
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109131036-christopher-miller-sept-17-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Dems pass on repealing Trump regulations — for now"
-    excerpt: "After taking full control of the government, Republicans and former President Donald Trump wielded a little-used law to roll back more than a dozen Obama-era regulations. But Democrats are taking a different approach. Democrats have yet to use the ..."
-    publishedDateTime: 2021-03-16T09:10:00Z
-    webUrl: "https://www.politico.com/news/2021/03/15/democrats-trump-regulations-476162"
+  - title: "Manhattan DA Cy Vance, whose office is investigating Trump, won't seek re-election"
+    excerpt: "WASHINGTON — Manhattan District Attorney Cy Vance, whose office is investigating former President Donald Trump and the Trump Organization, announced Friday that he won’t run for re-election and will leave office at the end of the year. The 66-year-old ..."
+    publishedDateTime: 2021-03-12T14:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/manhattan-da-cy-vance-whose-office-investigating-trump-won-t-n1260815"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
     images:
-      - url: "https://static.politico.com/f2/e4/32fcf83f46429404bcb7ceb4e4a4/gettyimages-1197853434-c.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_10/3456299/210312-cy_vance-mc-1139_366e7bd37acc868659d69c4d510e66d2.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The former Trump official advising House Republicans on immigration"
-    excerpt: "Chad Wolf, the former acting homeland security secretary, has been meeting with House Republicans, providing them with advice and counseling as it relates to immigration, your Huddle host has learned."
-    publishedDateTime: 2021-03-17T13:11:00Z
-    webUrl: "https://www.politico.com/newsletters/huddle/2021/03/17/the-former-trump-official-advising-house-gop-on-immigration-492143"
+  - title: "Trump country resists vaccines, frustrating officials"
+    excerpt: "Biden health officials will meet with Republican Ways and Means Committee staff as early as this week to discuss how to improve ways to track nursing home fatalities during the pandemic. Good Monday morning and welcome to PULSE,"
+    publishedDateTime: 2021-03-08T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/03/08/trump-country-resists-vaccines-frustrating-officials-793840"
     type: article
     provider:
       name: Politico
@@ -394,34 +428,29 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Texas museum removes Trump wax figure after visitors kept attacking it"
-    excerpt: "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ..."
-    publishedDateTime: 2021-03-19T17:08:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/texas-museum-removes-trump-statue-after-visitors-kept-attacking-it-n1261546"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2021_11/3458115/210319-donald-trump-thumbs-up-ew-1028a_232a47b4c823a1ee6a2954da3fe2ba26.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How to mess up a possible Trump endorsement in one easy step"
-    excerpt: "The Senate GOP primary in Alabama is a case study in the various ways to win over Trump — and how to alienate him too."
-    publishedDateTime: 2021-03-21T07:00:00Z
-    webUrl: "https://www.politico.com/news/2021/03/21/trump-endorsement-alabama-gop-477337"
+  - title: "Trump dives into battle for Senate"
+    excerpt: "Donald Trump sounds like he’s ready for a GOP civil war. But he’s also eager to play a leading role in Senate Republicans' battle for the majority. The former president is dialing up GOP senators to back their campaigns and talk strategy, weighing how ..."
+    publishedDateTime: 2021-03-12T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/03/12/trump-senate-gop-475423"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/86/10/373c171346f29b84482197cc5b3b/210320-donald-trump-getty-773.jpg"
+      - url: "https://static.politico.com/ee/48/91b116ee427d9fffb570fa005647/210311-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
+  - title: "New York prosecutor targeting Trump won't stand for reelection"
+    excerpt: "The move means the endgame of the Trump probe will almost certainly be overseen by a new DA elected in November."
+    publishedDateTime: 2021-03-12T12:37:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/03/12/ny-prosecutor-targeting-trump-wont-stand-for-reelection-1367947"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
 
 secured: "yLqfhzUcHbFzEQOAi86L9+9IAHVinB+/mlTA4cK1BYP7I35mAbPC2BCjwg8bc2XEkuF1rqPTfH0OxnFAPLExksHrTTwiYC7jTXhk9F63clzX6M8F48jWtPcFxkPQurG2an6lkIeX8lKzBfxU3k/VudCYpDSpLxE3QuITvAg56wVveqQ3iO2x9zF932Fp4i3OJUb33Pt0jT0pYghbwa/JXZDxUiheJLSMEV4NMHjkFUgXv8bvTFhQpn9Sef+MQ3Ew9IMUOLnLVdU3zUSEs/g10MsQAyG5ubIRKV/GamGow3azHUFe709Tcmrsf3jSEa8GQqhs9x7iiKHX+lnP9ZAZi/JwhltUaDGBA15yYnRtP+U9InMUnxxUhErYuu9ZxWCJqAp4p7b5sEDFlDuI4kGPTewVKGc9pnJrN6j/wYxKEfY/1iWURC++a9j34wsl7ckPChITEqsswcV7XYbw0s+2Jb4OC9pGGKm8KfuIn2O4oPdQkb9We2jDen66uASCBnJXnAoYAft23ze2w7V+fSGzQQ==;UozWn1cRlZUM1cF1ONkuJA=="
 ---

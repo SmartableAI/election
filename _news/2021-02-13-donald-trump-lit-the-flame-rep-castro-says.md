@@ -254,6 +254,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "America’s trade gap soared under Trump, final figures show"
+    excerpt: "The U.S. trade deficit over the four years of President Donald Trump’s presidency soared to its highest level since 2008, despite his tough tariff tactics intended to bring it down, a new Commerce Department report showed on Friday."
+    publishedDateTime: 2021-02-05T20:10:00Z
+    webUrl: "https://www.politico.com/news/2021/02/05/2020-trade-figures-trump-failure-deficit-466116"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/33/cc/65d94e5f4d17aa8a81812b4dabda/ap21012842754911-2.jpg"
+        width: 1159
+        height: 773
+        isCached: true
   - title: "POLITICO Playbook: Republicans can’t quit Trump"
     excerpt: "While the rest of the country wants less DONALD TRUMP, Republicans just can’t quit him. Our flash POLITICO/Morning Consult poll conducted in the days following the Senate trial shows that despite the impeachment managers’ gripping presentation and video laying out Trump’s role in the Jan."
     publishedDateTime: 2021-02-16T11:16:00Z

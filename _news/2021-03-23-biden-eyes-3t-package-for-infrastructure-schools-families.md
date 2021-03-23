@@ -543,6 +543,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden team searching for new ways to slow border surge"
+    excerpt: "The administration is dispatching officials to Mexico and Guatemala, sending sterner warnings not to come, and devising alternate pathways for legal entry. But it’s unclear if the flurry of activity will be enough."
+    publishedDateTime: 2021-03-23T03:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-team-searching-for-new-ways-to-slow-border-surge/2021/03/22/70e6e054-8b1e-11eb-a730-1b4ed9656258_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-team-searching-for-new-ways-to-slow-border-surge/2021/03/22/70e6e054-8b1e-11eb-a730-1b4ed9656258_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-searching-for-new-ways-to-slow-border-surge/2021/03/22/70e6e054-8b1e-11eb-a730-1b4ed9656258_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5KNHSELLUI6XJZQDNHNSZLCLA.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
   - title: "Border influx of migrants poses political threat to Biden"
     excerpt: "White house press secretary says there is no crisis at the border When President Joe Biden entered office, he listed what he called \"four historic crises:\" the coronavirus pandemic, the economy ..."
     publishedDateTime: 2021-03-23T09:05:00Z

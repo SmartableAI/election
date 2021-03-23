@@ -32,53 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign says the President has not yet chosen impeachment defense team"
-    excerpt: "President Donald Trump has not yet assembled a defense team for his upcoming Senate impeachment trial, a spokesperson for the President's campaign said Sunday.\n    \n"
-    publishedDateTime: 2021-01-17T14:11:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "‘A Total Failure’: The Proud Boys Now Mock Trump"
-    excerpt: "Members of the far-right group, who were among Donald Trump’s staunchest fans, are calling him “weak,” in a sign of fraying support."
-    publishedDateTime: 2021-01-20T19:25:00Z
-    webUrl: "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html"
+  - title: "Does Trump Face Legal Jeopardy for His Incendiary Speech Before the Riot?"
+    excerpt: "The president’s actions just before his supporters’ deadly rampage at the Capitol has created new risks for him."
+    publishedDateTime: 2021-01-11T22:07:00Z
+    webUrl: "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2021/01/20/business/20noproudboys1/20noproudboys1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/11/us/politics/11dc-legal-explainer/11dc-legal-explainer-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Presidential Transition Live Updates: House Says It Will Move Swiftly With Impeachment If Pence Won’t Act"
-    excerpt: "The House could vote as soon as Tuesday on charging President Trump with inciting a mob that attacked the Capitol. But top leaders want to avoid hamstringing the first days of Joseph R. Biden Jr.’s presidency with an all-consuming Senate trial."
-    publishedDateTime: 2021-01-10T19:52:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html"
+  - title: "‘He has an obligation to them’: Attorney for ‘QAnon shaman’ asks Trump to pardon rioters"
+    excerpt: "The lawyer for the “QAnon shaman” who was part of the deadly siege of the Capitol last week publicly petitioned President Donald Trump on Thursday to pardon his client. In an interview on CNN, attorney Albert Watkins said his client, Jacob Chansley ..."
+    publishedDateTime: 2021-01-17T03:23:00Z
+    webUrl: "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 118
+      name: Politico
+      domain: politico.com
+    quality: 126
     images:
-      - url: "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-promo-sub/10transition-briefing-promo-sub-videoSixteenByNineJumbo1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump tries to defend his pre-riot speech as ‘totally appropriate’"
+    excerpt: "The president offered up his first public remarks since his supporters carried out a deadly siege on the Capitol last week."
+    publishedDateTime: 2021-01-12T22:42:00Z
+    webUrl: "https://www.politico.com/news/2021/01/12/trump-defends-pre-riot-speech-458129"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5a/da/576fb21c438da4d867c43c2d770a/ap21012552931903.jpg"
+        width: 3874
+        height: 2581
         isCached: true
 
 secured: "gBWpont/93B0LPjH5cOPlmp/oRc6uMMnn3p593KitO7om5XJ0TonyMGtvGgw9dSyVQSzUwAWq1lW4JmCzEfCQ0cXOkr3BXd6ItuL1mw20KZ0+NRPGLXlvOO4Qm0YXX6yUP8aIQkAETAo+ebulxs21QzewL5imWr9ZuprS2OOxcjQNfxr+SIJ6DjUIMPkmphEaFcTgtCxWO0b7B/e5km1NKY24fBfgvEk8c2s8JfbNPd0d4JXIth/05HXE2VSfu2HSDEd9jk88fo++0CfeHHSAfPIbU5R2zpKM7K0IEZVFir482J78ZJCCs3mz6onsVfI6Aom+ufmokXLNDcLm3FAUhRrni3XCWgFlL70jSEzPRMnb/YfS1DJfVqp4a5bvdA+NDqxzPPy5ReBDG9m+O5p5iT0D9XKG8DVvYCsHzymdYtys1KVem2u7YmkPPwGAnxeDLaa1mmITNnayqOOHseFz4JmOFw51j0PGEabJucOhi5cElSEEEbzBY/mXxnS89hTL3300HlIMNBXUbIsBli93A==;b7PqLGn021SXuQllmNiLRQ=="

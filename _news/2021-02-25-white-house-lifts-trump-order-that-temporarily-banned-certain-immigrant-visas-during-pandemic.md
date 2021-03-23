@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "House Freedom Caucus members question Liz Cheney's leadership again after her latest Trump comments"
-    excerpt: "House Freedom Caucus members questioned GOP conference chairwoman Liz Cheney's leadership — again — at a news conference Thursday after the Wyoming Republican congresswoman's comments that she believes former President Donald Trump shouldn't play a role in the Republican Party.\n    \n"
-    publishedDateTime: 2021-02-25T17:21:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OM80qsrIyrQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/liz-cheney-house-freedom-caucus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/liz-cheney-house-freedom-caucus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "A Day Before He Speaks, Conservative Gathering Is Mostly About Trump"
     excerpt: "A pair of influential House Republicans used a conservative political gathering on Saturday to lavish praise on former President Donald J. Trump and, in ways subtle and direct, marginalize their G.O.P."
     publishedDateTime: 2021-02-28T00:38:00Z

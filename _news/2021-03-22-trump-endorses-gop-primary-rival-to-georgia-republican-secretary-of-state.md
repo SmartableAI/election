@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why Trump is still a problem for the GOP establishment"
-    excerpt: "Our first CNN/SSRS poll since the insurrection of the Capitol contains mostly bad news for Republican President Donald Trump.\n    \n"
-    publishedDateTime: 2021-01-17T18:12:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EYECSNDsmkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-popular-problem-gop-establishment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-popular-problem-gop-establishment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113113700-02-trump-dc-rally-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Georgia Officials Reveal Third Trump Call Seeking to Influence Election Results"
     excerpt: "In a December call, President Trump told a Georgia elections investigator that the official would be a “national hero” for finding evidence of fraud."
     publishedDateTime: 2021-01-09T20:23:00Z

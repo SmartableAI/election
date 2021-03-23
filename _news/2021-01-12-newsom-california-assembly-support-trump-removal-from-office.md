@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/states/california/story/2021/01/11/newsom
 webUrl: "https://www.politico.com/states/california/story/2021/01/11/newsom-california-assembly-support-trump-removal-from-office-1355062"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -28,6 +28,88 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Analysis: A historic number of Americans want Trump removed from office"
+    excerpt: "The potential removal of President Donald Trump from office starts out more popular than any other removal process of a president in recent American history. Removing Trump from office remains quite unpopular among Republicans, however.\n    \n"
+    publishedDateTime: 2021-01-10T20:39:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2_fQIK1wOdY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/poll-impeach-trump-historic-number/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/poll-impeach-trump-historic-number/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Trump's most consequential policies have changed America"
+    excerpt: "Donald Trump's presidency has largely been defined by his disregard for political norms and his historic two impeachments.\n    \n"
+    publishedDateTime: 2021-01-17T14:12:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ujB9JyRx0kc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115152914-01-trump-presidency-lead-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's 'pro-law enforcement' image crumbles in his final days"
+    excerpt: "A President who has repeatedly touted himself as pro-law enforcement is now being accused of fueling a growing threat of extremists that has law enforcement officials across the nation on high alert.\n    \n"
+    publishedDateTime: 2021-01-16T16:32:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rFIAcLXkvj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/trump-law-enforcement-image-final-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-law-enforcement-image-final-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113233706-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Trump-fueled riot shocked America. To some, it was a long time coming."
+    excerpt: "The attack on the Capitol wasn't a matter of \"if,\" to those who warned about violence under Trump. It was \"when.\""
+    publishedDateTime: 2021-01-17T07:05:00Z
+    webUrl: "https://www.nbcnews.com/news/nbcblk/trump-fueled-riot-shocked-america-some-it-was-long-time-n1254465"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254465"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254465"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3442444/210115-analysis-trump-capitol-riots-ew-212p_37ae77e10beb5b80705560d1256fe3da.jpg"
+        width: 2500
+        height: 1484
+        isCached: true
+  - title: "Trump approval remains stable in new NBC poll, with Republicans unmoved after Capitol violence"
+    excerpt: "Eighty-seven percent of Republicans approve of how Trump is doing his job in a new NBC News poll, but half of all voters say Trump is \"definitely worse than most\" presidents."
+    publishedDateTime: 2021-01-18T00:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/poll-trump-approval-remains-stable-republicans-unmoved-after-capitol-violence-n1254457"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254457"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254457"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442712/210117-donald-trump-jm-0942_e8286158fcd963929b360a5a731b99aa.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "0xOLBDW1D+QteKVX31NZtI7COX2y4L1I7txYMO7m1lvfv51nguULN9Vp3DzsnZRCoQmKf3jjDagbFISPuAWh1KDKgph1nmQcSY9rhEiyEdaEENE9iXHGzdU1IeOXmV67TxfeHDNJUxPz7QjtrOLn9L9VKvv7gWRg00yAhAFy9nT0okcbgC6t3yjCN7sdf0jBEHwD1DC1bJi6hnOFk/PZ0qlfTliyiP9Ev+TsC5m+rRBlnLvLJ9bn1xcHS/DCE4R6mr2Szs4VpHJ1B5k6UL4IMYI5KsEk0f/EmDKOIZiZAO98AuwJbqJpvZZaK4YfLdTMdSk7w+01yq7FmVJ7B9Ky1oS8U7gjUoIqxgaRVNouBZo=;3DwGOfOuhOeeloU8pPeTTQ=="
 ---

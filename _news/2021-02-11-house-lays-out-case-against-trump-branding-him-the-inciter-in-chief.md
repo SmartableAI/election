@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump's official response to impeachment includes obvious lies "
+    excerpt: "Former President Donald Trump continues to defend the ludicrous lie that led him down the road to a second impeachment -- even in his legal team's official response to that impeachment.\n    \n"
+    publishedDateTime: 2021-02-03T13:31:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HUOXUuqCZHU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeachment-response-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeachment-response-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113114115-03-trump-dc-rally-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump lawyer presses for former President's full-time Mar-a-Lago residency"
     excerpt: "Attorneys for former President Donald Trump were defending him not only on the floor of the Senate on Tuesday in his second impeachment trial, but also in Palm Beach, Florida, at a town council meeting.\n    \n"
     publishedDateTime: 2021-02-10T02:05:37Z
@@ -527,20 +543,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/11/us/politics/11dc-assess1/11dc-assess1-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Greene admits 9/11 ‘happened,’ Dems seek Trump under oath"
-    excerpt: "JAMIE RASKIN (D-Md.), the lead House impeachment manager, sent a letter to former President DONALD TRUMP “requesting that he provide testimony under oath, either before or during the Senate impeachment trial,"
-    publishedDateTime: 2021-02-04T18:23:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/02/04/greene-admits-9-11-happened-dems-seek-trump-under-oath-491640"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/b0/2f/26b3ac3a4fda823db3ce22fa28ce/210204-greene-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Trump's defense team prepares for a redo"
     excerpt: "Donald Trump’s defense team is waiting for another chance after their first presentation flopped, making public assurances that their arguments will be more organized. But they have some ground to cover after Republican senators described being “disgusted” upon seeing horrific new video footage on Wednesday."

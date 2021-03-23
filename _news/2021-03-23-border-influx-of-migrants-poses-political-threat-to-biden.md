@@ -559,6 +559,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden team searching for new ways to slow border surge"
+    excerpt: "The administration is dispatching officials to Mexico and Guatemala, sending sterner warnings not to come, and devising alternate pathways for legal entry. But it’s unclear if the flurry of activity will be enough."
+    publishedDateTime: 2021-03-23T03:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-team-searching-for-new-ways-to-slow-border-surge/2021/03/22/70e6e054-8b1e-11eb-a730-1b4ed9656258_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-team-searching-for-new-ways-to-slow-border-surge/2021/03/22/70e6e054-8b1e-11eb-a730-1b4ed9656258_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-searching-for-new-ways-to-slow-border-surge/2021/03/22/70e6e054-8b1e-11eb-a730-1b4ed9656258_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5KNHSELLUI6XJZQDNHNSZLCLA.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
   - title: "Photos of migrant detention highlight Biden's border secrecy"
     excerpt: "President Joe Biden’s administration has tried for weeks to keep the public from seeing images from the border like those released Monday WASHINGTON -- President Joe Biden's administration has ..."
     publishedDateTime: 2021-03-23T04:15:00Z
@@ -1333,6 +1349,6 @@ related:
         height: 224
         isCached: true
 
-secured: "rN1Ggo05TfxwWT5wj8q+C3Of7Hw4Lp8GF8R2jlKdbN1CQatXs+FlSIgA3oQPLTe91+73+ejebXTk06VSR79z+6vXF60lKfU2ffVshNElvxG1gYCz2ka60zeSULfAp6COYujY0iENIbrhlS+1PFOdQpKjSUHUPBSPM1kyeOwLCA5b8bFzoCYKoUtFKJH1pN7zSRXR5IwIF9VkkJ+C/ggy01RfxSqIS06G/33IskZbiUUjyjzJBqvfaeZquv+XlHaGX2iPI+lab5N7EMbCj9Jv/s4pLyuL0sWCm7f7OroaNRFJo2lOxP4wO3OeszLQ5y4kWl8sJSBhT3R6iNYuSkZ+3Y36sXXnJMtQEl/WEQrA3dw=;JvX/Lkfj4X7ne7k/47pzPg=="
+secured: "BrTm9hNP6kyVCyFjnSnp+HxSdi6fD9ydU+zGJfLseAQRmbOtQn7ig9UcGzBBDg0hM93ik8dETEvLEbMhp+Oznsg0PAL+7BWWvKkYbCKhmYfLlz5Ek6tKq18P1CggtE4N1oIJTxLGQXGt3JpOY5XOFOUc8rz0U/7Aq+/cXAOxj4hv1DAPNDRaTx1K9ZmAtrHJEcxvlknAcnXYvqkvMirXtz8a3WhVQboJDB27dGPYHX9ikU/cNdGjYYMnijaTL5xff54Ci5zIhPyZyloQ15rV9ky0ShiBiLzOupli44zKA3DuRXO/5a02qUzq1T8ycJVNQaZlJwk1wLBY8rLNuHbPMAnfZXhoWjnaoj0PFU/mhig4dWGfyhVimupxaDQUzjvQTQtoySeQHue5QwAxXqCOfvvSVZaUXrd/+vlkLVjWAXpUWn1fQ/PRSKLxCFmGvpNvW0mHyNySU+WiuMMPAWZlBtzsBplNUfowGOs4FggvIivylhHUMVYtO+semO7M5phzIzbNjIs2gAeE8CEuaAQpKQ==;t0KayjvphyPH8dVcb0aexw=="
 ---
 

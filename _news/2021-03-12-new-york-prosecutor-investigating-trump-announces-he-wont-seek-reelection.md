@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/index.html"
 type: article
 quality: 188
-heat: 708
+heat: 728
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Vindman twin set for promotion after bad evaluations from Trump appointees"
+    excerpt: "Army Lt. Col. Yevgeny Vindman is set to be promoted to full colonel, despite attempts by loyalists to former President Donald Trump to derail his career following his bit role in the president's first impeachment, according to two people familiar with the ..."
+    publishedDateTime: 2021-03-15T17:02:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/c8/ba/b179bcff47c29f2790130692dfb8/20210315-yevgeny-vindman-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Former Trump fixer Michael Cohen meets with New York DA for the eighth time"
     excerpt: "(CNN)Michael Cohen, former President Donald Trump's former fixer, is meeting for the eighth time with the Manhattan District Attorney's office on Friday, according to a person familiar with the matter. Prosecutors have increased the frequency of their ..."

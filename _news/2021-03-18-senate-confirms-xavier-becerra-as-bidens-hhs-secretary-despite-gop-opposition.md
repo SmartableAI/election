@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's border crisis: 6 things you need to know"
+    excerpt: "The Biden administration is facing calls for more transparency as the federal government diverts tens of millions of dollars to deal with an influx of migrants."
+    publishedDateTime: 2021-03-23T13:29:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C7fmosFLCU4/biden-border-crisis-what-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-what-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-what-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Migrant-wearing-Biden-shirt.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "McCarthy, GOP delegation visiting US-Mexico border Monday amid migration surge under Biden"
     excerpt: "House Minority Leader Kevin McCarthy and 12 other House Republicans are at the Southern border and will make comments from El Paso, Texas later Monday as the GOP continues to hammer President Biden over immigration. "
     publishedDateTime: 2021-03-15T14:57:22Z

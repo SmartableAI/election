@@ -176,7 +176,7 @@ related:
         isCached: true
   - title: "White House aides prep $3 trillion jobs package for Biden"
     excerpt: "White House advisers are expected to present a two-part, $3 trillion jobs and infrastructure proposal to President Joe Biden as soon as this week, according to two people familiar with the plan.\n    \n"
-    publishedDateTime: 2021-03-22T20:49:23Z
+    publishedDateTime: 2021-03-23T02:30:17Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wA_y2GO3M0M/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/white-house-jobs-spending-trillions/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/white-house-jobs-spending-trillions/index.html"
@@ -301,6 +301,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-biden/17atlanta-shooting-briefing-biden-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "White House aides prep $3 trillion jobs package for Biden"
+    excerpt: "White House advisers are expected to present a two-part, $3 trillion jobs and infrastructure proposal to President Joe Biden as soon as this week, according to two people familiar with the plan."
+    publishedDateTime: 2021-03-22T16:49:00Z
+    webUrl: "https://www.cnn.com/2021/03/22/politics/white-house-jobs-spending-trillions/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/white-house-jobs-spending-trillions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/white-house-jobs-spending-trillions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322105445-02-joe-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "VcpqtJDjud2faR7eT3H9bLRAoSzglIum2lxtGZmG1NXtKEyJjh6sf/B7vz/upeVdPIGtBR0GdNL/bGU5mAws5bjKYvvj+X+ovOX737LM55xrC8AxLYXW7/Bc/TLM8HI9pb0HAqctydi10La2tvgjImlhQMNwxMoQC6IQDrlMUKB0b0UXWYyvjxoqbyPQfvgeuuRiYy6r+jNqky5zYeQ7VTrIto62VgE13eUGRFDL5G0FCpMBXi0a4o8+poBOXVPXTESxoZmfXAYQznD3Lp5BhtsSPqIFiinBebfoeZl1L2Fz+mH/wcZ3Y+5+drTFPXn/x/BCWdjx1HMQDYnqBodJ1lx6aXq35du8RcT1z2JOUcc=;cQjBQYyYEUFhHsEEUuRsug=="

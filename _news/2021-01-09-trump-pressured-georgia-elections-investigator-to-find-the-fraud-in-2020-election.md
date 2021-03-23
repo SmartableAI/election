@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: How Trump led Republicans to historic losses"
-    excerpt: "The Democratic wins in the Georgia Senate runoffs this week ensured President Donald Trump's place in electoral history. While much has been written about Trump's ability to pull off electoral victories in spite of conventional wisdom, the actual record shows something considerably different.\n    \n"
-    publishedDateTime: 2021-01-10T14:00:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5oLGBs4DnXQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/10/politics/trump-losses-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/trump-losses-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107140852-01-donald-trump-0104-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "mnVYq2o3LXyOnaeaExvJyWR9xNl13lrPKKNW9pS/fCNN3Q5IYGRM9IKknc1jqRiIsnvdkkrxj5noxITrvo8/6ZWc0XWsD/1nnyP8JULq+FLpsXmuvx0mpAuny+o8hIANCMIzm+4HBc+cTMryyNEa6W5W+4Ychh4I96M2CZ5saPO2ge8N9E3nyi0AuvChHG0+Q6vyCj4+um57VT9xYfimoltFrVia0TJQuodpihI3Sw+f78erxQf5a1pT8Yx+45kVbmgzHKUvmHz7DSetGSXzY7xkUvPi3ZNtE4wjuOA38PGR0sOsBlpO5HdSdkEj700nG+fAUy4QMxBbZ68G5v16pM/RzPjGU5tCmWCp9NtPWX8=;gIa+k4wqlH+uYrR2NWYACQ=="
 ---

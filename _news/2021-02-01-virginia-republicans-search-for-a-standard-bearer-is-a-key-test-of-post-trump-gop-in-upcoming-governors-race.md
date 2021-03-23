@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's impeachment defense takes shape"
+    excerpt: "Lawyers for former President Donald Trump filed a 14-page brief Tuesday that previews two main arguments we can expect to hear when the Senate impeachment trial kicks off next week:\n    \n"
+    publishedDateTime: 2021-02-03T13:47:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EqImWNyTRyE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/what-matters-february-2/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/what-matters-february-2/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP base rewards Trump loyalists with campaign cash and media appearances"
     excerpt: "The Republicans who have remained aligned with former President Donald Trump have become lightning rods in Washington -- but are being rewarded with fundraising surges from Republican small-dollar donors and bookings on right-wing media outlets who could steer the party's future.\n    \n"
     publishedDateTime: 2021-02-04T20:38:28Z
@@ -108,22 +124,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Liz Cheney becomes latest House Republican to be censured by state party for her vote to impeach Trump "
-    excerpt: "The Wyoming State Republican Party voted Saturday to formally censure Rep. Liz Cheney, the No. 3 Republican in the House, for her vote to impeach former President Donald Trump in the latest example of a state GOP punishing lawmakers who have bucked the former President.\n    \n"
-    publishedDateTime: 2021-02-06T21:23:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bDjtx1bda0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/liz-cheney-wyoming-gop-censure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/liz-cheney-wyoming-gop-censure/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -270,22 +270,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_05/3447117/210202-anthony-gonzalez-main-an_c7fc91c1c1739ba61a9001d302fe47ed.jpg"
         width: 2500
         height: 1250
-        isCached: true
-  - title: "Cheney refuses to apologize for voting to impeach Trump during closed-door GOP meeting"
-    excerpt: "Rep. Liz Cheney was among the 10 House Republicans who voted in favor of the article of impeachment against Trump for inciting the Jan.6 insurrection at the Capitol."
-    publishedDateTime: 2021-02-04T00:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/cheney-refuses-apologize-voting-impeach-trump-during-closed-door-gop-n1256670"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256670"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256670"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447436/210203-liz-cheney-ac-609p_41d77b6887f9aa1a433b3d0127783cfe.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
     excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November."

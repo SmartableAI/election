@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-09-huawei-founder-says-hopes-biden-administration-will-have-open-policy.md",
+      "title": "Huawei founder says hopes Biden administration will have 'open policy'",
+      "excerpt": "Huawei Technologies' founder Ren Zhengfei said on Tuesday it would be \"extremely difficult\" for the United States to end the sanctions that have crippled its phone business, but that he hoped the new U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-huawei-tech-idUSKBN2A90AY",
+      "originalUrl": "https://www.reuters.com/article/us-usa-huawei-tech-idUSKBN2A90AY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550827940&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH18068",
+          "width": 801,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A90AY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90AY",
+      "publishedDateTime": "2021-02-09T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan.md",
       "title": "White House expects lawmakers' coronavirus aid \"mark up\" will track closely to Biden's plan",
       "excerpt": "The White House expects the House of Representatives to track closely to President Joe Biden's coronavirus relief plan as it marks up its latest round of legislation to blunt the effects of the COVID-19 pandemic,",
@@ -1521,58 +1573,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-biden-embraces-order-and-routine-in-his-first-week-how-will-that-fit-this-moment-of-crisis.md",
-      "title": "Biden embraces order and routine in his first week. How will that fit this moment of crisis?",
-      "excerpt": "Marco Rubio (R-Fla.) said Friday. Liberals say he is simply reacting to the moment. “The fact that Joe Biden has been seen as a moderate over many years can cloud the fact that here is a person ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-first-week/2021/01/27/b98f71d8-5cd2-11eb-8bcf-3877871c819d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-first-week/2021/01/27/b98f71d8-5cd2-11eb-8bcf-3877871c819d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3EIGNWC3MYI6XKCJN6KCHJ277U.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-first-week/2021/01/27/b98f71d8-5cd2-11eb-8bcf-3877871c819d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-first-week/2021/01/27/b98f71d8-5cd2-11eb-8bcf-3877871c819d_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-27T18:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     }

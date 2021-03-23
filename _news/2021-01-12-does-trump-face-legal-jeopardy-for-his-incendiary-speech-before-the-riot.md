@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.am
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html"
 type: article
 quality: 134
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump should not be prosecuted for Capitol riot incitement, former FBI Director James Comey says"
+    excerpt: "\"The country would be better off if we did not give him the platform that a prosecution would for the next three years,\" Comey told Sky News."
+    publishedDateTime: 2021-01-18T04:10:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/trump-should-not-be-prosecuted-capitol-riot-incitement-former-fbi-n1254535"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254535"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254535"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_44/3423609/201028-james-comey-al-0856_dd78874bf9563d902a336451af19486e.jpg"
+        width: 2500
+        height: 1672
         isCached: true
   - title: "Trump tries to defend his pre-riot speech as ‘totally appropriate’"
     excerpt: "The president offered up his first public remarks since his supporters carried out a deadly siege on the Capitol last week."
