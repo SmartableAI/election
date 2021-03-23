@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "The Biden administration missed its own deadline for working out what to do with Trump's half-finished border wall"
-    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden's administration has blown through a 60-day deadline by which it said it would figure out a plan for former President Donald Trump's border wall. Biden signed a proclamation on January 20, his first day in office ..."
-    publishedDateTime: 2021-03-22T17:26:00Z
-    webUrl: "https://www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/6058ca73106eb50019d04ec6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support"
     excerpt: "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs."
     publishedDateTime: 2021-03-10T20:03:00Z

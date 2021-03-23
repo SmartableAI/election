@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump endorses challenger against Georgia elections chief"
+    excerpt: "Former President Donald Trump has endorsed a conservative Georgia congressman in his bid to unseat the Republican secretary of state who refused to help overturn the November election results"
+    publishedDateTime: 2021-03-22T22:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-ally-to-take-on-embattled-georgia-secretary-of-state/2021/03/22/c25c2152-8b18-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-ally-to-take-on-embattled-georgia-secretary-of-state/2021/03/22/c25c2152-8b18-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-ally-to-take-on-embattled-georgia-secretary-of-state/2021/03/22/c25c2152-8b18-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Fauci: Trump should urge his followers to get vaccinated"
     excerpt: "Dr. Anthony Fauci says he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine Here’s every public figure who has ..."
     publishedDateTime: 2021-03-14T16:59:00Z

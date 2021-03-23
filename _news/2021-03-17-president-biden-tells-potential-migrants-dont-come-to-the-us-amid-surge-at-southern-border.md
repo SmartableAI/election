@@ -31,51 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden looks beyond border, dispatching officials to Mexico and Guatemala"
-    excerpt: "Facing criticism over a growing presence of migrant children at the U.S. southern border, President Biden on Monday dispatched a high-level team to Mexico and Central America to find what the administration is calling a “humane” solution to the ..."
-    publishedDateTime: 2021-03-22T18:25:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/fa5841d/2147483647/strip/true/crop/6720x4389+0+46/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F67%2Ffc%2Fdb8c9187455eb8704beb396f4a23%2Fla-photos-1staff-735197-na-mcallen-border-stories-10-cmc.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Texas' Greg Abbott Accuses Joe Biden of Enriching Cartels as 4,200 Border Kids Detained"
-    excerpt: "President Joe Biden's border policies are causing a surge in illegal immigration into the United States and \"enriching and empowering\" drug cartels in Mexico who profit from smuggling migrants, Texas Governor Greg Abbott warned on Sunday. His comments came ..."
-    publishedDateTime: 2021-03-15T11:25:00Z
-    webUrl: "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114"
-    ampWebUrl: "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1755831/greg-abbott-migrants.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden administration sanctions Chinese officials for 'genocide' against Uighurs days after diplomatic spat in Alaska"
-    excerpt: "as US and Chinese officials held the first face-to-face talks under President Joe Biden. In his opening remarks at the meeting, Blinken said the US intended to use the talks to discuss its concerns regarding human rights abuses in Xinjiang, among other issues."
-    publishedDateTime: 2021-03-22T17:49:00Z
-    webUrl: "https://www.businessinsider.com/us-sanctions-chinese-officials-for-genocide-against-uighurs-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/us-sanctions-chinese-officials-for-genocide-against-uighurs-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-sanctions-chinese-officials-for-genocide-against-uighurs-2021-3?amp"
+  - title: "The 'border-industrial complex' is bigger than Trump or Biden, and it thrives on crisis"
+    excerpt: "How Biden deals with the border remains to be seen, but he will be no less caught up in the border-industrial complex than Trump."
+    publishedDateTime: 2021-03-23T14:18:00Z
+    webUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 102
+    quality: 132
     images:
-      - url: "https://i.insider.com/6058d661106eb50019d04ef9?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5d9b7d95e94e863ec8152851?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Biden administration missed its own deadline for working out what to do with Trump's half-finished border wall"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden's administration has blown through a 60-day deadline by which it said it would figure out a plan for former President Donald Trump's border wall. Biden signed a proclamation on January 20, his first day in office ..."
+    publishedDateTime: 2021-03-22T17:26:00Z
+    webUrl: "https://www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/6058ca73106eb50019d04ec6?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -94,6 +78,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Department of Homeland Security chief defends U.S. handling of border crisis, blames Trump administration for surge"
+    excerpt: "In a lengthy statement, Homeland Security Secretary Alejandro Mayorkas revealed that the migration surge is heading towards a 20-year high — and partially blamed the former Trump administration for the tricky situation."
+    publishedDateTime: 2021-03-16T16:50:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 53
+    images:
+      - url: "https://www.nydailynews.com/resizer/OT8iCaWUuwg2Jezx-pa8tXH6XL0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A4X7LXFMHVGDXHY4UR6NHUX3TQ.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "xsk/fncZ3Egly9QP1Gb5xD+2X4NT3qzfg48QcC1/RE1mzVbaSrsD42QZyJxr96Lf2cKcOXMZoBHUqE7t12rvZzKgAfqYxJu6qKqeJql3uX3JvCuvU63PB4+n03txC0m1MTXBL/CbOmXskhOA/eGhHO6aUn6J38tYt96y1sSUnIPpy5o/qsOMMDpOUQBa3UIYdUJ4HS7yVEuF0iDLDEFCLkXsH5WSaS0QR/+9Ec69bZ7KxumQFhx0nyjpBFdUGr0mTwS0UZPDHZIHbdD+HrR7Q6EpN4hIBirfoDOGOsL/tvYjYcKzUrX4e67oXWdlGS8X+kwCcWk2c7d5C5Plkc/eBxgBIdf23EA65Pm5I9FCkXYl8eUWSf1XhSUhOPZbxyOWsMYPLegDjbO8LZQtxI8jbu+uaOxEd/byULglXGU4l3Z0CYKTtMwxlfwBoobfVBf1p9UYYqsZyTY0aK98y+QZLSxY8jaFPnQQDisDd3uqurrOpQDHRZ8HV4FgKAaeOFO5sKcA2Tky7OeA0Co9wljQfg==;ren/ZEccMHitqEzW6iOk/g=="

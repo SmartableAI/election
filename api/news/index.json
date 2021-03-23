@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-23-the-border-industrial-complex-is-bigger-than-trump-or-biden-and-it-thrives-on-crisis.md",
+      "title": "The 'border-industrial complex' is bigger than Trump or Biden, and it thrives on crisis",
+      "excerpt": "How Biden deals with the border remains to be seen, but he will be no less caught up in the border-industrial complex than Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3",
+      "originalUrl": "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5d9b7d95e94e863ec8152851?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp",
+      "publishedDateTime": "2021-03-23T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-live-updates-in-the-shadow-of-another-mass-shooting-biden-heads-to-ohio-on-stimulus-promotion-tour.md",
       "title": "Live Updates: In the Shadow of Another Mass Shooting, Biden Heads to Ohio on Stimulus Promotion Tour",
       "excerpt": "Young on Tuesday afternoon as deputy director of the Office of Management and Budget. Biden is expected to address the shooting in Boulder as he heads to Ohio. Signs of a partisan divide on guns re-emerged hours after the shooting. Shalanda Young is set to ...",
@@ -892,7 +944,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1311,58 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-as-ivanka-trump-regroups-in-miami-speculation-bubbles-about-her-plans.md",
-      "title": "As Ivanka Trump Regroups in Miami, Speculation Bubbles About Her Plans",
-      "excerpt": "Rumors of Ivanka Trump's potential return to politics have swelled as the former White House adviser enjoys the Miami sunshine with her family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ivanka-trump-regroups-miami-speculation-bubbles-about-her-plans-1577705",
-      "originalUrl": "https://www.newsweek.com/ivanka-trump-regroups-miami-speculation-bubbles-about-her-plans-1577705",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1760828/ivanka-trump-seen-miami.jpg",
-          "width": 3000,
-          "height": 2157,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ivanka-trump-regroups-miami-speculation-bubbles-about-her-plans-1577705?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ivanka-trump-regroups-miami-speculation-bubbles-about-her-plans-1577705?amp=1",
-      "publishedDateTime": "2021-03-22T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

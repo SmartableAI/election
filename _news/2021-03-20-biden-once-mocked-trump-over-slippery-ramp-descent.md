@@ -748,6 +748,22 @@ related:
         width: 936
         height: 702
         isCached: true
+  - title: "Biden Needs to Talk Tough on Immigration -- Fast"
+    excerpt: "Undocumented immigrants have been surging to the U.S. border, some wearing T-shirts with the Biden campaign logo and the words"
+    publishedDateTime: 2021-03-23T10:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/23/biden_needs_to_talk_tough_on_immigration_--_fast_145457.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/23/biden_needs_to_talk_tough_on_immigration_--_fast_145457.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/23/biden_needs_to_talk_tough_on_immigration_--_fast_145457.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/538437_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Trump: Mark My Words, Border \"Might Not Be Capable Of Stopping\" Migrants"
     excerpt: "Former President Donald Trump speaks to Newsmax TV's Greg Kelly about the \"gross incompetence\" at the southern border and warned that there will be an overwhelming number of migrants by the summer. In the interview,"
     publishedDateTime: 2021-03-23T00:05:00Z

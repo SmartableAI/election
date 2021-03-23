@@ -703,6 +703,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "For 2nd time in a week, a mass shooting overshadows Biden's COVID relief tour"
+    excerpt: "On Location: March 23, 2021 For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant ..."
+    publishedDateTime: 2021-03-23T15:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-m_hpMain_20210321-182421_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's make or break moment: president aims to build on success of relief bill"
     excerpt: "Kamala Harris, the vice-president, heaped praise on Joe Biden for signing a $1.9tn coronavirus relief bill, the biggest expansion of the American welfare state in decades. “Your empathy has become a trademark of your presidency and can be found on each ..."
     publishedDateTime: 2021-03-13T12:43:00Z

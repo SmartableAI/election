@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1"
 type: article
 quality: 138
-heat: 1858
+heat: 1878
 published: true
 
 provider:
@@ -686,6 +686,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6d1817d37ad9bb254eb2ad6188319b1d4911f2c0/0_130_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d5a01d73b50acf580cad2cf990c4d510"
         width: 600
         height: 360
+        isCached: true
+  - title: "For 2nd time in a week, a mass shooting overshadows Biden's COVID relief tour"
+    excerpt: "On Location: March 23, 2021 For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant ..."
+    publishedDateTime: 2021-03-23T15:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-m_hpMain_20210321-182421_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden's make or break moment: president aims to build on success of relief bill"
     excerpt: "Kamala Harris, the vice-president, heaped praise on Joe Biden for signing a $1.9tn coronavirus relief bill, the biggest expansion of the American welfare state in decades. “Your empathy has become a trademark of your presidency and can be found on each ..."

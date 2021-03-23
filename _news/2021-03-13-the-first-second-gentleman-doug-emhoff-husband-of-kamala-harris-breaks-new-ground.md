@@ -121,6 +121,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "'Women Making History': Lifetime special to feature Kamala Harris"
+    excerpt: "Vice President Kamala Harris, actress Andra Day and other women will appear during \"Women Making History,\" a new special airing March 30 on Lifetime."
+    publishedDateTime: 2021-03-23T15:06:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/23/Women-Making-History-Lifetime-Vice-President-Kamala-Harris-special/4081616510437/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/23/Women-Making-History-Lifetime-Vice-President-Kamala-Harris-special/4081616510437/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/23/Women-Making-History-Lifetime-Vice-President-Kamala-Harris-special/4081616510437/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4081616510437/2021/1/871d8aef2b03e16d8629aa8a3246c017/v1.5/Women-Making-History-Lifetime-special-to-feature-Kamala-Harris.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
     excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
     publishedDateTime: 2021-03-14T15:43:00Z

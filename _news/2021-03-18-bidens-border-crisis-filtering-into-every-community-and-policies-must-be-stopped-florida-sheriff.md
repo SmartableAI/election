@@ -511,6 +511,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House pulls Biden Interior nominee, backtracking on another appointment this month"
+    excerpt: "The White House on Monday evening withdrew the nomination of Elizabeth Klein to be the deputy secretary of the Interior Department, marking the second nominee President Biden has been forced to pull after opposition from Capitol Hill. "
+    publishedDateTime: 2021-03-23T14:43:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LU48NiW75Sc/white-house-pulls-biden-interior-nominee-elizabeth-klein"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-pulls-biden-interior-nominee-elizabeth-klein.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-pulls-biden-interior-nominee-elizabeth-klein.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
     excerpt: "President Joe Biden broke his silence on Governor Andrew Cuomo's mounting allegations of sexual misconduct on Sunday – but fell short of calling on the embattled New York Democrat to resign."
     publishedDateTime: 2021-03-14T23:28:09Z

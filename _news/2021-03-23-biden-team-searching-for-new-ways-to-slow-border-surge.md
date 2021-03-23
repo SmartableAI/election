@@ -687,6 +687,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "For 2nd time in a week, a mass shooting overshadows Biden's COVID relief tour"
+    excerpt: "On Location: March 23, 2021 For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant ..."
+    publishedDateTime: 2021-03-23T15:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-m_hpMain_20210321-182421_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's make or break moment: president aims to build on success of relief bill"
     excerpt: "Kamala Harris, the vice-president, heaped praise on Joe Biden for signing a $1.9tn coronavirus relief bill, the biggest expansion of the American welfare state in decades. “Your empathy has become a trademark of your presidency and can be found on each ..."
     publishedDateTime: 2021-03-13T12:43:00Z
@@ -1349,6 +1365,6 @@ related:
         height: 224
         isCached: true
 
-secured: "JbE5nc9duIrZxSwN6fiIppgIkZOIBXbN8TqN/ygFzev5jN0zP/5ebF1OIoN7Bd0/hwPR3JdWRwy0XlPZUr2tTmWXXdSqkzRWCsP58ba6btmIDcPjlamedRWJjdYgwAIpg5jII5o/92j7H37YuLSVij7bcR4cwN/Gj4FPExnUPWQFDpr3XIQuZjRqS5sZV0VzcnaKpbzn6eWtNEIUMn9Pej+t14TLevHuvau9GM7cw0paG0prYmuXYx7SXT8B2forEERiR1A8IUtCL7kikrQObDZWUYl/C/mnjFjd/CUYJa4gfCSkdQy8zB8mRinpilUYzolAetC+oohGmSOB9CHG/Ia+uh2m4zcw2ChRhgIrmzg=;g2+6Ji21QGb2wL5778ZTcA=="
+secured: "Te/6nVK5FWMUVT4JyJrGbJN+9Gn6ZCKdXjaELFDb6uouGsq8gRzQPhIQK2KavTURn/Ib5SI7xmRrhB5wCqZ/PljRo7y01YV9m5yEAT9+bhk6CWo4SD0Jvt850DuRwxiGA4WSiF1Sdqto0vvWBZcB71aZiVDN2M4XyZ5hdqp+oFAHWMkZrNVpd+S8xynhE/HRgGGVm0sjUQFa+w7hzIWwOi8IZ6SSE90iVEj23bmX9Qvx4jB+5V1tnIgEcBorsX0NDNvFbvcKYWQugzai5athukkeRpRSO+9j4fYTpSxuq8ceAi+INMVph2oNOs/WbO/R5v0+iA5TQGEJ70RUDvHH5ZCUmhdRDR5OonYKsZKsRouQBMv3/Jzlk8zWQdCzcztIyeK4N4HGPm3+yxkuYJiV3k5b18ZF6Y5++Ngu0vm725B7DlJueL68w1U56x4KLqEeenAcl1yP4ONlP9o0bN1KPM93ZiowyULboolMAZxeN1ieBzpaNPTBsnp2/CSQ0ABDGkWG26LlRsT++5pWtL23AA==;Ioy2TbCMN9WeRZV/gS6HDA=="
 ---
 

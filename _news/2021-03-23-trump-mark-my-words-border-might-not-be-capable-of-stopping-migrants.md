@@ -764,6 +764,22 @@ related:
         width: 936
         height: 702
         isCached: true
+  - title: "Biden Needs to Talk Tough on Immigration -- Fast"
+    excerpt: "Undocumented immigrants have been surging to the U.S. border, some wearing T-shirts with the Biden campaign logo and the words"
+    publishedDateTime: 2021-03-23T10:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/23/biden_needs_to_talk_tough_on_immigration_--_fast_145457.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/23/biden_needs_to_talk_tough_on_immigration_--_fast_145457.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/23/biden_needs_to_talk_tough_on_immigration_--_fast_145457.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/538437_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
     excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"
     publishedDateTime: 2021-03-20T15:28:00Z

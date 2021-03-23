@@ -1008,6 +1008,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Sources: Vice President Kamala Harris coming to New Haven Friday"
+    excerpt: "NEW HAVEN — Vice President Kamala Harris is expected to travel to New Haven Friday for a visit that will focus on how the administration’s coronavirus relief legislation helps children and child care providers, sources said Tuesday. U.S. Rep."
+    publishedDateTime: 2021-03-23T15:46:00Z
+    webUrl: "https://www.ctpost.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Vice President Kamala Harris visits Jacksonville COVID-19 vaccination site"
     excerpt: "The president, vice president, and first lady are traveling around the country visiting vaccine sites and community organizations."
     publishedDateTime: 2021-03-22T21:06:00Z

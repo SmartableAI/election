@@ -121,6 +121,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "'Women Making History': Lifetime special to feature Kamala Harris"
+    excerpt: "Vice President Kamala Harris, actress Andra Day and other women will appear during \"Women Making History,\" a new special airing March 30 on Lifetime."
+    publishedDateTime: 2021-03-23T15:06:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/23/Women-Making-History-Lifetime-Vice-President-Kamala-Harris-special/4081616510437/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/23/Women-Making-History-Lifetime-Vice-President-Kamala-Harris-special/4081616510437/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/23/Women-Making-History-Lifetime-Vice-President-Kamala-Harris-special/4081616510437/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4081616510437/2021/1/871d8aef2b03e16d8629aa8a3246c017/v1.5/Women-Making-History-Lifetime-special-to-feature-Kamala-Harris.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
     excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
     publishedDateTime: 2021-03-13T10:00:00Z

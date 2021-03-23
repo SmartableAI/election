@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp"
 type: article
 quality: 174
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
+    excerpt: "A growing number of Trump supporters and loyalists are jumping into competitive GOP Senate primaries."
+    publishedDateTime: 2021-03-23T15:46:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1lV4e8OElDk/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
+    ampWebUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump backs challenger to Georgia's GOP secretary of state"
     excerpt: "Former President Donald Trump's endorsing a bid by Rep. Jody Hice to oust Georgia Secretary of State Brad Raffensperger in next year's Republican primary."
     publishedDateTime: 2021-03-22T15:30:00Z

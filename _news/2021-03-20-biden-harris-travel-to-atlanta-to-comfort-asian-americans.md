@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1810
+heat: 1830
 published: true
 
 provider:
@@ -996,6 +996,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/9921616418676/2021/1/8c44b49b0a029b4c0c8e34c9c7a06847/v1.5/VP-Kamala-Harris-travels-to-Florida-Monday-to-promote-19T-rescue-plan.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Sources: Vice President Kamala Harris coming to New Haven Friday"
+    excerpt: "NEW HAVEN — Vice President Kamala Harris is expected to travel to New Haven Friday for a visit that will focus on how the administration’s coronavirus relief legislation helps children and child care providers, sources said Tuesday. U.S. Rep."
+    publishedDateTime: 2021-03-23T15:46:00Z
+    webUrl: "https://www.ctpost.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Watch Live: Vice President Kamala Harris arrives in Jacksonville"
     excerpt: "JACKSONVILLE, Fla — Vice President Kamala Harris will be in Jacksonville Monday afternoon. This is a part of a larger mission where President Joe Biden as well as First Lady Jill Biden have been touring the country as a part of the American Rescue Plan ..."

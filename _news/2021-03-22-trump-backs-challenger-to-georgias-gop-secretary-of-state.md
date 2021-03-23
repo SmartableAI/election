@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
+    excerpt: "A growing number of Trump supporters and loyalists are jumping into competitive GOP Senate primaries."
+    publishedDateTime: 2021-03-23T15:46:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1lV4e8OElDk/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
+    ampWebUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "As Trump teases a 2024 presidential run, potential GOP rivals start making early visits"
     excerpt: "Donald Trump might not be the only one with an eye on 2024. Former Secretary of State Mike Pompeo heads to Iowa next week to advocate on behalf of conservatives. The trip by Pompeo, the former congressman from Kansas who served as CIA director in the Trump ..."
     publishedDateTime: 2021-03-20T10:39:00Z

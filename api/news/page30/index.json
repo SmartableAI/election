@@ -2,6 +2,62 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-02-02-sen-kaine-sets-aside-trump-censure-resolution-theres-not-enough-support-on-either-side.md",
+      "title": "Sen. Kaine sets aside Trump censure resolution: 'There's not enough support on either side'",
+      "excerpt": "Sens. Tim Kaine and Susan Collins have set aside the bipartisan effort to censure former President Trump for his role in the Jan. 6 Capitol riot for lack of support from both Democrats and Republicans. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvY2CA5b2j4/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvY2CA5b2j4/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/COLLINS-KAINE-SPLIT.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
+      "publishedDateTime": "2021-02-02T11:48:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-graham-urges-acting-ag-to-refrain-from-interfering-in-durham-hunter-biden-probes-amid-garland-confirmation.md",
       "title": "Graham urges acting AG to 'refrain from interfering' in Durham, Hunter Biden probes amid Garland confirmation",
       "excerpt": "Sen. Lindsey Graham, the top Republican on the Senate Judiciary Committee, on Tuesday urged acting Attorney General Monty Wilkinson to \"refrain from interfering\" in Special Counsel John Durham’s investigation and the federal investigation into Hunter Biden’s \"tax affairs\" while the Senate works to confirm",
@@ -1282,62 +1338,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp",
       "publishedDateTime": "2021-02-01T09:49:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-kudlow-trump-was-consequential-brilliant-president-on-policy.md",
-      "title": "Kudlow: Trump was 'consequential, brilliant' president on policy",
-      "excerpt": "New Fox Business host Larry Kudlow said Monday that former President Donald Trump would go down as a \"brilliant, consequential\" president on policy terms and would have been better served to focus on his achievements instead of fighting the election result in the final weeks of his term.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/chzdNoThrso/kudlow-trump-consequential-brilliant-president-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/chzdNoThrso/kudlow-trump-consequential-brilliant-president-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9cd91a2-aabf-4b81-8154-6590a5d4d92c/7a32678c-9e11-4b3a-bb2d-b65a86c8fe20/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kudlow-trump-consequential-brilliant-president-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kudlow-trump-consequential-brilliant-president-policy.amp",
-      "publishedDateTime": "2021-02-01T09:12:02-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

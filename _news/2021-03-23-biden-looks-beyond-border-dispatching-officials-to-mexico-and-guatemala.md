@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-03-22/biden-officials-im
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true"
 type: article
 quality: 124
-heat: 204
+heat: 164
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "President Biden tells potential migrants: 'Don't come' to the US amid surge at southern border"
-    excerpt: "WASHINGTON — President Joe Biden sent a direct message to potential migrants hoping to enter the United States: \"Don't come.\" His message comes as the administration is dealing with a surge of unaccompanied minors at the U.S.-Mexico border and criticism ..."
-    publishedDateTime: 2021-03-17T01:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/16/president-joe-biden-migrants-border-surge-unaccompanied-minors/4726104001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4726104001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4726104001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/16de7515-7d64-427b-995f-372f068eca9f-AP21071052665404.jpg?auto=webp&crop=5999,3374,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden administration sanctions Chinese officials for 'genocide' against Uighurs days after diplomatic spat in Alaska"
     excerpt: "as US and Chinese officials held the first face-to-face talks under President Joe Biden. In his opening remarks at the meeting, Blinken said the US intended to use the talks to discuss its concerns regarding human rights abuses in Xinjiang, among other issues."
     publishedDateTime: 2021-03-22T17:49:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://i.insider.com/6058d661106eb50019d04ef9?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump Slams Biden's US-Mexico Border Control: 'A National Disaster'"
-    excerpt: "Donald Trump on Sunday slammed President Joe Biden over his response to the influx of migrants at the southern border, calling it a “national disaster.” In his fiery statement"
-    publishedDateTime: 2021-03-22T03:11:00Z
-    webUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612"
-    ampWebUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 90
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "2vnpEYq63oI+nojV0DPLdnbEBiLdPyFuxYY/Q2xyfXcjpEkJiz+BkRzJVZjtJppO5Zkm2kG7FF2K/hX4HwzcQa36ihg6AbycyZ1rdLqgGfcF0cFJERKkjezWGy1xc6pfPXsNcPlTlESSq7Aoigb90TVK/wU+d42QPEYUIw2n+uuEza7bXK8/FIYauT46oqaOjk5qA8x2h3OJ5mqJpoXlwz3bd8IknbwuB8H2/qr6go1PGD74Piw9PQtZsZfT/8LgJyqQO1bUi+FJ5zIBL0rj7q7pqsKcqwtfNYZwjLwQBN/UUeUa9e3kW2I/aVTNKzpZ6C5Isl5hroBhbVgG7fTaPtEgUJOVbOZkeDuLsCw+uRwM+JyNnAZ7Vbz+Y59j3cXNGuBh1SErI+iL2HvxA+Qx2paskYz815V6VsiHDWXd+o656jR223XZ1yVYgC1yC+nUoDO1X77o/y/1s7wqUiDQGx4JeyDap3kblud/cl6kzZ1PWxd2Hqt27YE0jXlSUJcgWwOxXUKg666yd7LqUWQP6w==;8/o69xImGM0WCz+GMJQa3g=="
