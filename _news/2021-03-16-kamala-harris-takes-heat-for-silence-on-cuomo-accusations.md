@@ -638,6 +638,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden admin ignored warning signs that border could spiral into crisis"
+    excerpt: "Then-candidate Joe Biden promised during the campaign to reverse a number of key immigration policies enacted under President Trump -- changes that border officials feared could fuel a surge at the southern border. Policies like the Migrant Protection ..."
+    publishedDateTime: 2021-03-22T18:05:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-administration-warning-signs-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21080583251227-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden comment mocking Trump's walking resurfaces after president stumbles, falls boarding Air Force One"
     excerpt: "President Biden, who tripped Friday while boarding Air Force One, drew scrutiny from conservatives who pointed out he once mocked former President Donald Trump’s slow walk down a ramp during a trip to West Point. Biden poked fun at Trump last September ..."
     publishedDateTime: 2021-03-19T20:02:00Z

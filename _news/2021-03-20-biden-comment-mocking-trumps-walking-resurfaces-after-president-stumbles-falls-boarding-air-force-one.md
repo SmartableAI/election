@@ -654,6 +654,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden admin ignored warning signs that border could spiral into crisis"
+    excerpt: "Then-candidate Joe Biden promised during the campaign to reverse a number of key immigration policies enacted under President Trump -- changes that border officials feared could fuel a surge at the southern border. Policies like the Migrant Protection ..."
+    publishedDateTime: 2021-03-22T18:05:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-administration-warning-signs-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21080583251227-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden is president 'in name only' based on admin's left-wing agenda: Hilton"
     excerpt: "But, more seriously from a substantive basis, you only have to look at the agenda that’s being pursued to see that Joe Biden is president in name only. He ran with a very clear centrist message. He said look I’m Joe Biden you know who I am. I’m not ..."
     publishedDateTime: 2021-03-19T18:14:00Z

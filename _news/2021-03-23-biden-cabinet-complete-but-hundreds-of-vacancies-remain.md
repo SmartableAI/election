@@ -527,6 +527,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden eyes $3T package for infrastructure, schools, families"
+    excerpt: "WASHINGTON — Fresh off passage of the COVID-19 relief bill, President Joe Biden is assembling the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-03-23T00:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-eyes-3t-package-for-infrastructure-schools-families/2021/03/22/e3c205f6-8b6c-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-eyes-3t-package-for-infrastructure-schools-families/2021/03/22/e3c205f6-8b6c-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-eyes-3t-package-for-infrastructure-schools-families/2021/03/22/e3c205f6-8b6c-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Photos of migrant detention highlight Biden's border secrecy"
     excerpt: "President Joe Biden’s administration has tried for weeks to keep the public from seeing images from the border like those released Monday WASHINGTON -- President Joe Biden's administration has ..."
     publishedDateTime: 2021-03-22T20:20:00Z
@@ -639,6 +655,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "California senators calling on Biden to set date for phasing out gasoline cars"
+    excerpt: "The two U.S. senators representing California are calling on President Biden Joe Biden AstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's ..."
+    publishedDateTime: 2021-03-22T11:32:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/california_auto_emissions_09032019_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Lawmakers press Biden administration to grant media access to border facilities"
     excerpt: "A growing chorus of lawmakers from both sides of the aisle have called on the Biden administration to allow reporters and journalists into facilities housing unaccompanied migrant children who have sought asylum at the U.S.-Mexico border. The appeal for ..."
     publishedDateTime: 2021-03-22T11:10:00Z
@@ -686,6 +718,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/83dc8517209df43523da0699fd49f4c8d136129d/11_0_3162_1899/master/3162.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=69d112a721bfbc4436ddb5664a68d070"
         width: 600
         height: 360
+        isCached: true
+  - title: "What's next for Biden? A $3 trillion package for infrastructure, schools, families"
+    excerpt: "President Joe Biden assembles the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs."
+    publishedDateTime: 2021-03-23T01:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/22/president-joe-biden-3-trillion-package-infrastructure-schools-families/6959566002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6959566002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6959566002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/40d5e14f-2757-465a-a169-3748694cc692-AP_Biden_9.jpg?auto=webp&crop=5322,2994,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Republican states in legal threat to Biden's $1.9tn Covid relief plan – live updates"
     excerpt: "Read more here: NBC News – Biden administration limits what Border Patrol can share with media about migrant surge at border Passing the $1.9tn Covid relief bill through Congress has been an early legislative triumph for Joe Biden’s presidency ..."

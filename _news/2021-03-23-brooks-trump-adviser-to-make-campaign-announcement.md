@@ -75,6 +75,22 @@ related:
         width: 3000
         height: 2031
         isCached: true
+  - title: "Firebrand Congressman Mo Brooks, a Trump ally, launches U.S. Senate run"
+    excerpt: "U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, announced on Monday he will run for U."
+    publishedDateTime: 2021-03-22T23:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks-idUSKBN2BE2X2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BE2X2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BE2X2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555822052&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M00X"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump ally Brooks due to announce whether he will run for U.S. Senate"
     excerpt: "WASHINGTON (Reuters) - U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, is expected to announce on Monday whether ..."
     publishedDateTime: 2021-03-22T19:37:00Z
@@ -138,6 +154,6 @@ related:
         height: 608
         isCached: true
 
-secured: "UUj9h6vlqSr3zU7njNGe4pPG4e2s6K3ytspG4x2dCQUV+DMY3bbcM8zuCzBxtAtp+qtke8kgTNXxOiubJnRkPxz+ui6vMuwaBtqUlBp2Mzp67SeFf3DbBJq5DEli2p/qPq4tBsjyb/Ox+QDrcM/PiVY625Xnu3wavrVUCLkNo6VafSrXrWGnTriF3SO6JPElt/P/RvQADYkOwn9z3u4l69WPRQsWVudCpeKxgQQXSKE+5P4Vc9y8LVfU6LQHBcf06MlGBr4QR2OnvMfEwZlNHICaRslWc4HZMYrZOL/qwlRe4jRw6pQhFpE8poQlGP56N2hYTHpeKhXVuWYrDqtoQXkb0d5ZvrRSwiybItx6nHs=;wip+eZK3umzSajzi3i8RZw=="
+secured: "kfveaQnAMBVEFe5It1TcTayopWfXEs0MOjRp7H48l3zeKzNfrIzh3WPJbvIkCoVCbx6pr8i9PdNqRY4EU/kmmu18ejiMaH73hacGtPmL9QG5uMMQ7VUQ0tWzQz0H77LgctPvxf3Uu8VT761GEOzvWnCZXclw0GIq4f7nrTP1/mqKvk+PqqKX7VqXyNpzPOIXHXxYyf/b/XxUe8CEhg15MC3GrBmX2AanLK8vvsWE+lB/qvu3iWjaXmgv+aof+K3j5QXC4mHVs6zafZJCysMD45WYGQwIcIFeJUe588p8puMJox4+HjdO2G9PlNBHLwX4JQoI+1bGSBfkPnam54OMoqtZYvyyJnWFQ+AhccBaVEP87p5IKjIcHp/WXPAh/URiXMpGoEmaKY7gaBqWZllAPJD1blnknj9nCjsVrVYEF/uqb2dAp6MaOwXt4c9j7kM8R91ZnuiIWLt/po5BrsB6p/AXINUpXcj68i8zyHHt0urUS+/xzqV5xpCgGp/rb2xBUekSlN7o2FDtchrNwUnKdQ==;T8eu2DE3cjDmaneRAdrJoQ=="
 ---
 

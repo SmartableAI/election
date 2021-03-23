@@ -2,6 +2,222 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-04-biden-hhs-pick-refused-request-to-bring-humanitarian-aid-to-cuba-on-infamous-1996-trip-report.md",
+      "title": "Biden HHS pick refused request to bring humanitarian aid to Cuba on infamous 1996 trip: report",
+      "excerpt": "President Biden’s HHS nominee reportedly refused a request to bring humanitarian aid to Cuba while meeting with Fidel Castro.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7E6Dyj1mjs/biden-hhs-xavier-becerra-cuba-fidel-castro",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7E6Dyj1mjs/biden-hhs-xavier-becerra-cuba-fidel-castro",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-hhs-xavier-becerra-cuba-fidel-castro.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-xavier-becerra-cuba-fidel-castro.amp",
+      "publishedDateTime": "2021-03-04T08:45:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-donald-trump-lists-oceanfront-palm-beach-mansion-for-49-million.md",
+      "title": "Donald Trump lists oceanfront Palm Beach mansion for $49 million",
+      "excerpt": "A company registered to Donald Trump and his family is selling their Palm Beach oceanfront abode for a whopping $49 million.  The estate sits right next door to Trump’s Mar-a-Lago club,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/",
+      "originalUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/mansion-.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/amp/",
+      "publishedDateTime": "2021-03-04T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-texas-border-resident-blasts-bidens-truly-shameful-immigration-policies-on-fox-friends.md",
+      "title": "Texas border resident blasts Biden's 'truly shameful' immigration policies on 'Fox & Friends'",
+      "excerpt": "Biden’s immigration policies are “truly shameful,” a Texas resident who lives near the border said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qaMVnLFaphM/texas-border-covid-buses-migrants-biden-shameful-immigration-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qaMVnLFaphM/texas-border-covid-buses-migrants-biden-shameful-immigration-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp",
+      "publishedDateTime": "2021-03-04T08:11:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-gop-maps-out-strategy-to-counter-bidens-immoral-radical-immigration-agenda.md",
+      "title": "GOP maps out strategy to counter Biden's 'immoral,' 'radical' immigration agenda",
+      "excerpt": "Republicans this week circulated a memo on their plan to counter what they describe as a \"radical\" and \"immoral\" immigration agenda from President Biden as the GOP looks to unite against the rolling-back of Trump-era border protections.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TIoRakNFDVU/gop-bidens-immoral-immigration-agenda",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TIoRakNFDVU/gop-bidens-immoral-immigration-agenda",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43c05678-89c2-4f31-97b6-7be17956aedf/4ed54759-c149-42db-9f63-cc018c87c204/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-bidens-immoral-immigration-agenda.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-bidens-immoral-immigration-agenda.amp",
+      "publishedDateTime": "2021-03-04T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-mike-pence-breaks-silence-in-op-ed-slamming-house-dems-voting-reform-bill.md",
       "title": "Mike Pence breaks silence in op-ed slamming House Dems’ voting reform bill",
       "excerpt": "Pence made his feelings known in an op-ed published Wednesday by The Daily Signal, a blog run by the conservative Heritage Foundation, where the former VP is a fellow.",
@@ -1136,222 +1352,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-hear-why-qanon-supporters-believe-trump-will-be-president-on-march-4th.md",
-      "title": "Hear why QAnon supporters believe Trump will be president on March 4th",
-      "excerpt": "Some believers of the QAnon conspiracy theory think that former President Trump will become president again on March 4th. CNN's Sara Sidner explains the origin of that belief.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IqMpCDXm_Rk/qanon-march-fourth-beliefs-trump-president-sidner-dnt-nr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IqMpCDXm_Rk/qanon-march-fourth-beliefs-trump-president-sidner-dnt-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205154816-qanon-file-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2021/03/03/qanon-march-fourth-beliefs-trump-president-sidner-dnt-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2021/03/03/qanon-march-fourth-beliefs-trump-president-sidner-dnt-nr-vpx.cnn",
-      "publishedDateTime": "2021-03-03T07:57:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks.md",
-      "title": "AP source: Biden, Senate Democrats agree to tighten income limits for receiving $1,400-per-person stimulus checks",
-      "excerpt": "Biden, Senate Democrats agree to tighten income limits for receiving $1,400-per-person stimulus checks. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-03T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-rep-crenshaw-slams-bidens-border-policy-prioritizing-illegal-immigrants-over-us-citizens.md",
-      "title": "Rep. Crenshaw slams Biden's border policy: 'Prioritizing illegal immigrants over US citizens’",
-      "excerpt": "Rep. Dan Crenshaw, R-Texas, says he believes the Biden administration’s immigration policies are \"prioritizing illegal immigrants over U.S. citizens.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1IwasZaMGy4/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1IwasZaMGy4/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20c1dab4-23d3-4f92-9b10-5cc6de6b6d12/3cafb7e6-7288-4d4c-a054-39509edb909a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp",
-      "publishedDateTime": "2021-03-03T07:26:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-pence-breaks-silence-to-criticize-2020-elections.md",
-      "title": "Pence breaks silence to criticize 2020 elections",
-      "excerpt": "Former Vice President Mike Pence on Wednesday criticized the 2020 elections in his his first extended written comments since leaving office in January.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections",
-      "originalUrl": "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pence_010621getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp",
-      "publishedDateTime": "2021-03-03T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

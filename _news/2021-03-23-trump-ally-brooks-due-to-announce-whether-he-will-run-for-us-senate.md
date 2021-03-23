@@ -79,6 +79,22 @@ related:
         width: 3000
         height: 2031
         isCached: true
+  - title: "Firebrand Congressman Mo Brooks, a Trump ally, launches U.S. Senate run"
+    excerpt: "U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, announced on Monday he will run for U."
+    publishedDateTime: 2021-03-22T23:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks-idUSKBN2BE2X2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BE2X2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BE2X2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555822052&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M00X"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Virginia Republican candidates for governor show grip Trump has on party"
     excerpt: "The first 2021 statewide election has Republicans relitigating the 2020 election through the topic of \"election integrity.\""
     publishedDateTime: 2021-03-16T11:47:00Z

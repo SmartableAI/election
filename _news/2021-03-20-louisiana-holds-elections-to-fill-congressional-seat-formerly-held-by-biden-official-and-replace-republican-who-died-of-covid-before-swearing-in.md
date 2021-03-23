@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden first president in decades to have first-pick Cabinet secretaries confirmed"
+    excerpt: "President Joe Biden is the first president in more than 30 years to have all of his original Cabinet secretary nominees confirmed to their posts.\n    \n"
+    publishedDateTime: 2021-03-23T00:34:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YQBb2fDHPag/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/joe-biden-cabinet-confirmed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/joe-biden-cabinet-confirmed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to announce Gene Sperling will oversee rollout of $1.9 trillion in Covid relief "
     excerpt: "President Joe Biden will announce Monday that Gene Sperling, a former top economic official in the last two Democratic presidential administrations, will serve as the point person in overseeing the implementation of the newly signed $1.9 trillion Covid relief law, according to two people briefed on the"
     publishedDateTime: 2021-03-15T11:18:13Z

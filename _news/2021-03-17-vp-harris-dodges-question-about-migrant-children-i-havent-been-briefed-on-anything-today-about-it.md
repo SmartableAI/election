@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'"
+    excerpt: "Vice President Kamala Harris laughed while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis. While taking questions from reporters outside of Air Force One, Harris was asked if ..."
+    publishedDateTime: 2021-03-22T22:48:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e88d0f84-283e-413a-b2d6-b3bea025b33e/d69dc25c-4233-41f0-8a90-a37da60d1669/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "UGo1URtjqP8loNzUhdGytD9Fx2zwA65NNhBneIg809xAuOIQi3h4RWt6zZDKzRCj5EYsv4pZQfvJWp+CbFZU0T3jz8yXaRZbZQ+5IZdDaNvH4WeVGGX6Ypo5/g0NvlJHVVRqA4uQylMWAGqsF0El05Yejhem+NbcYBfwwq6GagqXZriQ9r8L1UGHK9j7tC2tlo3YUVhdXAk78mLiKIUEwZiq9KRu+uO/a6Hgl+5riCO+LqiIIISxU49wfsTnyFWEl2v14ZGKB8SjzOiPOevG2F4wenQKVUPGUmlc8M7NvjPTiN514IS4A1dkO+vJZ1dXPF93BKoowzuu1PAsr6wwDlcEwoSDH7Dvin6VfWVB+Xo=;bQMF8uQ1BYPF6/Snq+X7oQ=="
 ---

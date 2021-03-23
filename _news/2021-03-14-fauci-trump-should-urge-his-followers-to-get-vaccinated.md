@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump continues to insist that Pence should have 'gone back' after the Capitol riots to overturn the 2020 election results"
+    excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump incorrectly claimed that former Vice President Mike Pence could have summarily rejected entire states' Electoral College votes at the January 6 joint session of Congress in a podcast interview with Fox ..."
+    publishedDateTime: 2021-03-22T15:41:00Z
+    webUrl: "https://www.businessinsider.com/trump-pence-should-have-gone-back-tried-to-overturn-election-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trump-pence-should-have-gone-back-tried-to-overturn-election-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pence-should-have-gone-back-tried-to-overturn-election-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5ff77e7c6d61c10019cce419?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Murphy: Immigration surge began under Trump"
     excerpt: "An ally of President Biden argued Sunday that U.S. policy was not the primary driving factor behind a surge of migrants at the U.S.-Mexico border, instead blaming longstanding conditions in Central America and the desperation of migrants."
     publishedDateTime: 2021-03-14T15:10:00Z

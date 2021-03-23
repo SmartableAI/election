@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-23-trump-coy-about-social-media-comeback-but-says-twitter-did-him-a-favor.md",
+      "title": "Trump coy about social media comeback but says Twitter did him ‘a favor’",
+      "excerpt": "Former President Donald Trump on Monday declined to confirm reports that he’s poised to make a social media comeback, but said that in the meantime, he’s enjoying emailed press",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/22/trump-coy-about-social-media-comeback-says-twitter-did-him-a-favor/",
+      "originalUrl": "https://nypost.com/2021/03/22/trump-coy-about-social-media-comeback-says-twitter-did-him-a-favor/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-returns-to-social-media-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/22/trump-coy-about-social-media-comeback-says-twitter-did-him-a-favor/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-coy-about-social-media-comeback-says-twitter-did-him-a-favor/amp/",
+      "publishedDateTime": "2021-03-22T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-meghan-mccain-apologizes-for-aiding-trumps-racist-covid-rhetoric-after-being-called-out-by-john-oliver.md",
+      "title": "Meghan McCain apologizes for aiding Trump's 'racist' COVID rhetoric after being called out by John Oliver",
+      "excerpt": "\"The View\" co-host Meghan McCain issued an apology on Monday after she was called out by \"Last Week Tonight\" host John Oliver for comments she made about rhetoric tying the coronavirus outbreak to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/meghan-mccain-apology-john-oliver",
+      "originalUrl": "https://www.foxnews.com/media/meghan-mccain-apology-john-oliver",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d899ce99-eeab-4a7d-b8b4-220bfade748e/d32c7129-2e9b-4316-a6eb-02854a32e2bd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/meghan-mccain-apology-john-oliver.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-apology-john-oliver.amp",
+      "publishedDateTime": "2021-03-22T18:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-biden-regularly-consults-with-barack-obama-on-a-range-of-issues-psaki-says.md",
+      "title": "Biden regularly consults with Barack Obama on a 'range of issues', Psaki says",
+      "excerpt": "White House Press Secretary Jen Psaki on Monday said that President Biden maintains “regular” communication with President Barack Obama on a number of issues.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eR2Tn34n8Gw/biden-white-house-communication-barack-obama",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eR2Tn34n8Gw/biden-white-house-communication-barack-obama",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03acda1a-8240-4be3-ba2c-f06b0db5e49d/7b11ea64-b085-4e5e-9260-066c41c33a79/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-communication-barack-obama.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-communication-barack-obama.amp",
+      "publishedDateTime": "2021-03-22T17:00:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-mo-brooks-spotlights-support-for-trump-as-he-launches-alabama-senate-bid.md",
       "title": "Mo Brooks spotlights support for Trump as he launches Alabama Senate bid",
       "excerpt": "Rep. Mo Brooks is showcasing his support for former President Trump as he jumps into the race to succeed retiring longtime Republican Sen. Richard Shelby of Alabama.",
@@ -58,6 +219,114 @@
       ]
     },
     {
+      "path": "_news/2021-03-23-senate-confirms-boston-mayor-marty-walsh-as-bidens-labor-secretary.md",
+      "title": "Senate confirms Boston mayor Marty Walsh as Biden's labor secretary",
+      "excerpt": "Cabinet nearly assembled but president still must make hundreds of other federal appointments",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/22/biden-administration-marty-walsh-labor-secretary-confirmed",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/22/biden-administration-marty-walsh-labor-secretary-confirmed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/180168353893e301a43319a19c74d87ef66431d8/0_121_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb6a3ae58d9b38392a968e28bde3f86c",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/22/biden-administration-marty-walsh-labor-secretary-confirmed",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/22/biden-administration-marty-walsh-labor-secretary-confirmed",
+      "publishedDateTime": "2021-03-22T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-former-capitol-riot-prosecutors-comments-on-trump-alarm-new-no-drama-justice-department.md",
+      "title": "Former Capitol riot prosecutor's comments on Trump alarm new no-drama Justice Department",
+      "excerpt": "Attorney General Merrick Garland is quietly ushering in a change in tone at the Justice Department, making few public comments and staying out of sight -- and unlike his predecessor -- eschewing commentary about ongoing investigations.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2KxHUlIhkYs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2KxHUlIhkYs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/22/politics/sherwin-garland-trump-capitol/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/sherwin-garland-trump-capitol/index.html",
+      "publishedDateTime": "2021-03-22T16:46:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-kamala-harris-laughs-after-reporter-asks-if-she-plans-to-visit-border-not-today.md",
       "title": "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'",
       "excerpt": "While taking questions from reporters outside of Air Force One, Harris was asked if she had \"plans to visit\" to the Southern border as the immigration crisis continues to develop.",
@@ -70,7 +339,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 199,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -397,7 +666,7 @@
       "originalUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -875,62 +1144,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-22-former-top-capitol-riot-prosecutor-says-maybe-the-president-is-culpable-when-asked-about-trump.md",
-      "title": "Former top Capitol riot prosecutor says 'maybe the President is culpable' when asked about Trump",
-      "excerpt": "Michael Sherwin, the former top Capitol riot prosecutor and acting DC US attorney, said that \"maybe\" former President Donald Trump \"is culpable\" for the January 6 insurrection and that investigators are still looking at everything, in an interview with CBS Sunday night.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8e2ZtvzG2l8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8e2ZtvzG2l8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210212142954-trump-january-6-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/21/politics/capitol-riot-prosecutor-michael-sherwin-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/21/politics/capitol-riot-prosecutor-michael-sherwin-donald-trump/index.html",
-      "publishedDateTime": "2021-03-21T18:01:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-22-vice-president-harris-will-travel-to-jacksonville-monday-for-help-is-here-tour-touting-relief-bill.md",
       "title": "Vice President Harris will travel to Jacksonville Monday for 'Help is Here' tour touting relief bill",
       "excerpt": "American Rescue Plan will bring about $17 billion to Florida, according to estimates Vice President Kamala Harris will travel to Jacksonville, Florida, on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an ...",
@@ -1136,226 +1349,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-trump-returning-to-social-media-with-his-own-platform-in-2-3-months-adviser.md",
-      "title": "Trump returning to social media with 'his own platform' in 2-3 months: adviser",
-      "excerpt": "Former President Donald Trump will be back on social media in the near future with his own service, according to one of his senior advisers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bY37miIFR0o/trump-social-media-platform-return-adviser",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bY37miIFR0o/trump-social-media-platform-return-adviser",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-social-media-platform-return-adviser.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-platform-return-adviser.amp",
-      "publishedDateTime": "2021-03-21T09:11:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-moncef-slaoui-trumps-vaccine-chief-very-concerned-about-gop-vaccine-hesitancy.md",
-      "title": "Moncef Slaoui, Trump's vaccine chief, \"very concerned\" about GOP vaccine hesitancy",
-      "excerpt": "the former scientific head of Operation Warp Speed during the Trump administration, said he's \"very concerned\" and perplexed by hesitancy among some Republicans to take COVID-19 vaccines, and encouraged former President Donald Trump and GOP leaders to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
-      "originalUrl": "https://www.cbsnews.com/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/21/ba6799a6-7b65-4da7-984d-2a4c936daaab/thumbnail/1200x630/ecff0ddb891220417838e9230d224413/moncef2.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
-      "publishedDateTime": "2021-03-21T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-mayorkas-blames-migrant-surge-on-trump-admin-not-biden-policies.md",
-      "title": "Mayorkas blames migrant surge on Trump admin, not Biden policies",
-      "excerpt": "Secretary of Homeland Security Alejandro Mayorkas has claimed that the number of people looking to enter the U.S. at the sourthern border could be the highest in 20 years, but in an interview with \"Fox News Sunday\" he claimed that this is because of the Trump administration's actions, not policy changes",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BIDIVzX8FQQ/mayorkas-blames-migrant-surge-trump-admin-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BIDIVzX8FQQ/mayorkas-blames-migrant-surge-trump-admin-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1030,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp",
-      "publishedDateTime": "2021-03-21T07:19:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-biden-response-to-border-crisis-isnt-incompetence-but-is-by-design-tom-homan-tells-mark-levin.md",
-      "title": "Biden response to border crisis 'isn't incompetence', but 'is by design', Tom Homan tells Mark Levin",
-      "excerpt": "President Biden \"sold out this country to the progressive left to win an election,\" former Immigration and Customs Enforcement Acting Director Tom Homan told \"Life, Liberty & Levin\" in an interview airing Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJr1aoXS4Kw/biden-border-crisis-response-not-incompetence-tom-homan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJr1aoXS4Kw/biden-border-crisis-response-not-incompetence-tom-homan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85ed63e1-7d08-4ba3-9089-3e3da4c162c2/e8c0aeec-b5ff-47b0-a5e1-9a7358da7637/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-response-not-incompetence-tom-homan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-response-not-incompetence-tom-homan.amp",
-      "publishedDateTime": "2021-03-21T04:30:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-22-former-capitol-riot-prosecutors-comments-on-trump-alarm-new-no-drama-justice-department.md",
+      "title": "Former Capitol riot prosecutor's comments on Trump alarm new no-drama Justice Department",
+      "excerpt": "Attorney General Merrick Garland is quietly ushering in a change in tone at the Justice Department, making few public comments and staying out of sight -- and unlike his predecessor -- eschewing commentary about ongoing investigations.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2KxHUlIhkYs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2KxHUlIhkYs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/22/politics/sherwin-garland-trump-capitol/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/sherwin-garland-trump-capitol/index.html",
+      "publishedDateTime": "2021-03-22T16:46:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-bidens-multitrillion-dollar-infrastructure-jam.md",
       "title": "Biden's multitrillion-dollar infrastructure jam",
       "excerpt": "WASHINGTON — President Joe Biden is signaling that his next big push in Congress will be for legislation implementing the transportation, infrastructure and green-energy elements of his \"Build Back Better\" campaign platform, with a reported potential ...",
@@ -145,62 +201,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html",
       "publishedDateTime": "2021-03-22T03:00:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-former-top-capitol-riot-prosecutor-says-maybe-the-president-is-culpable-when-asked-about-trump.md",
-      "title": "Former top Capitol riot prosecutor says 'maybe the President is culpable' when asked about Trump",
-      "excerpt": "Michael Sherwin, the former top Capitol riot prosecutor and acting DC US attorney, said that \"maybe\" former President Donald Trump \"is culpable\" for the January 6 insurrection and that investigators are still looking at everything, in an interview with CBS Sunday night.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8e2ZtvzG2l8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8e2ZtvzG2l8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210212142954-trump-january-6-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/21/politics/capitol-riot-prosecutor-michael-sherwin-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/21/politics/capitol-riot-prosecutor-michael-sherwin-donald-trump/index.html",
-      "publishedDateTime": "2021-03-21T18:01:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1199,7 +1199,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 254,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1423,7 +1423,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 395,
+      "heat": 415,
       "tags": null,
       "images": [
         {

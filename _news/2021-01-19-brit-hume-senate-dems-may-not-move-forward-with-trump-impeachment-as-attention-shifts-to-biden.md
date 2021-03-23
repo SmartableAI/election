@@ -832,6 +832,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ex-Trump HHS official running for House sues Biden admin for suspending Trump migrant ban"
+    excerpt: "Brian Harrison, former chief of staff of the Health and Human Services Department (HHS) during the Trump administration, filed a lawsuit on Monday against the Biden administration for their open border policies."
+    publishedDateTime: 2021-03-23T01:10:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dP3pYPBzkmQ/ex-trump-official-sues-biden-covid-migrants-order"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-trump-official-sues-biden-covid-migrants-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-official-sues-biden-covid-migrants-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a133f785-b961-40f3-98a4-45e2cab5e2b5/d5cd8a16-0a1d-4233-92ea-2c8bdbcd3b1a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump impeachment trial could hamper Biden congressional agenda in first days of presidency"
     excerpt: "President Trump's Senate impeachment trial could hamper President-elect Joe Biden's congressional agenda in the first days of his presidency if House Speaker Nancy Pelosi transmits the article to the upper chamber before the inauguration, Republicans warn as Biden himself acknowledges concerns over lawmakers"
     publishedDateTime: 2021-01-14T13:30:12Z

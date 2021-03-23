@@ -63,6 +63,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "GOP firebrand and Trump supporter Rep. Mo Brooks enters Alabama Senate race"
+    excerpt: "A conservative firebrand and staunch supporter of former President Donald Trump who came under fire for remarks preceding the attack on the U.S. Capitol has joined the Alabama GOP primary field to replace Sen."
+    publishedDateTime: 2021-03-23T00:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/gop-firebrand-trump-supporter-rep-mo-brooks-enters-alabama-senate-n1261783"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261783"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261783"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433234/201204-mo-brooks-ew-1007a_ec81ffa32885c503eda5df6b732a7b2b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Russia tried to help Trump in 2020, Iran tried to hurt him and China stayed out of it, says new report"
     excerpt: "WASHINGTON — Despite repeated assertions by senior Trump administration officials that China sought to hurt then-President Donald Trump in the 2020 election, a newly declassified intelligence assessment finds that China did not seek to influence the outcome."
     publishedDateTime: 2021-03-16T19:53:00Z

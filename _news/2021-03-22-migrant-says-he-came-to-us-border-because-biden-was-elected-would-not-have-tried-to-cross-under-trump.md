@@ -656,6 +656,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump calls DHS boss Mayorkas ‘incompetent’ over border crisis"
+    excerpt: "Former President Donald Trump on Monday said that Homeland Security Secretary Alejandro Mayorkas is “incompetent” in his management of the US-Mexico border crisis, warning the Biden ..."
+    publishedDateTime: 2021-03-23T01:48:00Z
+    webUrl: "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-says-mayorkas-incompetent-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-22T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
+    images:
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
+        isCached: true
   - title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
     excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"
     publishedDateTime: 2021-03-20T15:28:00Z

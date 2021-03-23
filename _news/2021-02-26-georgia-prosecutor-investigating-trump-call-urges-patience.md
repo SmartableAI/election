@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Donald Trump endorses rival to Georgia Republican elections official Brad Raffensperger"
+    excerpt: "WASHINGTON – Seeking revenge on Republicans who opposed his efforts to overturn his election loss, former President Donald Trump on Monday endorsed a GOP primary challenger to Georgia Secretary of State Brad Raffensperger. U.S. Rep. Jody Hice ..."
+    publishedDateTime: 2021-03-22T15:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/22/donald-trump-backs-rival-raffensperger-georgia-election-official/4796110001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4796110001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4796110001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/756047b6-adc0-42c8-adbe-2e758e3b90d3-Split.jpg?auto=webp&crop=799,449,x0,y17&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "U.S. Senate rejects Trump allies' objection to Pennsylvania presidential election results"
     excerpt: "The U.S. Senate on Thursday morning overwhelmingly rejected a move by allies of President Donald Trump to object to Pennsylvania's certification of its presidential election results that awarded Democrat Joe Biden the victory,"
     publishedDateTime: 2021-01-07T10:52:00Z

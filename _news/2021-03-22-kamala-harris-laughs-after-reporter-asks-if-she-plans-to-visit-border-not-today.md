@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
 type: article
 quality: 179
-heat: 199
+heat: 219
 published: true
 
 provider:
@@ -48,7 +48,23 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'"
+    excerpt: "Vice President Kamala Harris laughed while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis. While taking questions from reporters outside of Air Force One, Harris was asked if ..."
+    publishedDateTime: 2021-03-22T22:48:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e88d0f84-283e-413a-b2d6-b3bea025b33e/d69dc25c-4233-41f0-8a90-a37da60d1669/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "NbV1hpCrTem3y+yrMZvYXhg0qImO/38Pgphvw9mvrHMKF8Y22TUlfkbqYmK0ds+6oDsyMnWMjk+CiOZ4/iaaJdijAIrmYk4PtPd821aPltERXiPA7E+mDelRRi/15DEuM0xyrTtmKsBaKMOvupmmi/qBFYzwJuFhzDcb4ZYy/eQUjdi8ZP8CgM3IUtF4N72Jhyzx/hZckaOQm+o4Wbmf6ME3n8BpD9p/rK6s+bkGOXYWLaTQvihOWZwBhMMKDDjDKHFImMB6C27dgdl2cKO5iT9u8ipwrpB3B46oA7do5/KVyBYZREH0xKpKHgeUVQG3oZEI4CdugM4B8vXw/IfNI0w/clNJ9lUOk/DmDDEVxOo=;bmgemhHyDDjYE9InkrjMCQ=="
+secured: "SSwIEYByVhXjxYzhCxCaKJv0+Ttmeu4Le0SFhr9WKxUXdO8I4nI46QYuokeZP2ZozFGan4humtYZhry8DsWOKPQLg4K0uOu9WmK6ucSZRBdJrEvFpEFhpstee0O9Ig4153RxONy8wIDv53h4YxWmWXwbrLa1qrCYA2laQaeG5UtkLIsMWz/UHxocGoKithpwwLFotA85eNYBViThCridmJ6pYCgAVbygH6XClKgcXHROZkE1PqHFttkMwMIosY94t8yeAF/1bM2JJeWCiccOzCR63KEQXJv1tA3bC4XPYF8fe9tZuupeB/WOFn9qW8a79tOpeCU/2eIq72IaLZfVqmLxchRNPNksMmqlOXAa7Ms=;eHXIzjrxRVdDh3XFDXtO8g=="
 ---
 

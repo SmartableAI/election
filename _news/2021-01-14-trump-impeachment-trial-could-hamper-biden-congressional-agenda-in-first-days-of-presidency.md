@@ -831,6 +831,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ex-Trump HHS official running for House sues Biden admin for suspending Trump migrant ban"
+    excerpt: "Brian Harrison, former chief of staff of the Health and Human Services Department (HHS) during the Trump administration, filed a lawsuit on Monday against the Biden administration for their open border policies."
+    publishedDateTime: 2021-03-23T01:10:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dP3pYPBzkmQ/ex-trump-official-sues-biden-covid-migrants-order"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-trump-official-sues-biden-covid-migrants-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-official-sues-biden-covid-migrants-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a133f785-b961-40f3-98a4-45e2cab5e2b5/d5cd8a16-0a1d-4233-92ea-2c8bdbcd3b1a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to reverse Trump travel ban, halt wall, strengthen DACA in slew of immigration orders"
     excerpt: "President Biden on Wednesday will issue a slew of executive orders related to immigration, reversing some of the most controversial of former President Donald Trump’s immigration policies -- a sign of Biden’s early focus on immigration in his first days in office."
     publishedDateTime: 2021-01-20T18:18:40Z

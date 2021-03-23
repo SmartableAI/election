@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump continues to insist that Pence should have 'gone back' after the Capitol riots to overturn the 2020 election results"
+    excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump incorrectly claimed that former Vice President Mike Pence could have summarily rejected entire states' Electoral College votes at the January 6 joint session of Congress in a podcast interview with Fox ..."
+    publishedDateTime: 2021-03-22T15:41:00Z
+    webUrl: "https://www.businessinsider.com/trump-pence-should-have-gone-back-tried-to-overturn-election-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trump-pence-should-have-gone-back-tried-to-overturn-election-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pence-should-have-gone-back-tried-to-overturn-election-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5ff77e7c6d61c10019cce419?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fauci: Trump should urge his followers to get vaccinated"
     excerpt: "Dr. Anthony Fauci says he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine Here’s every public figure who has ..."
     publishedDateTime: 2021-03-14T16:59:00Z

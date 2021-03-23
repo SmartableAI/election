@@ -650,6 +650,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump calls DHS boss Mayorkas ‘incompetent’ over border crisis"
+    excerpt: "Former President Donald Trump on Monday said that Homeland Security Secretary Alejandro Mayorkas is “incompetent” in his management of the US-Mexico border crisis, warning the Biden ..."
+    publishedDateTime: 2021-03-23T01:48:00Z
+    webUrl: "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-says-mayorkas-incompetent-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Migrant says he came to US border because Biden was elected, would not have tried to cross under Trump"
     excerpt: "A South American migrant who recently crossed the U.S.-Mexico border said he did so \"basically\" because Joe Biden was elected president and would not have tried to cross under former President Donald Trump."
     publishedDateTime: 2021-03-21T17:34:00Z
@@ -665,6 +681,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-22T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
+    images:
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
         isCached: true
   - title: "Interview With Donald J. Trump"
     excerpt: "RealClearPolitics"
