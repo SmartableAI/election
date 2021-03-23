@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 445
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'It's absolutely tragic': Harris on Colorado mass shooting"
+    excerpt: "Harris on Colorado mass shooting. Posted . U.S. Vice President Kamala Harris on Tuesday called the Colorado mass shooting the day earlier that l"
+    publishedDateTime: 2021-03-23T17:45:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE5B6MZJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210323&i=OVE5B6MZJ&r=OVE5B6MZJ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Essential Politics: Kamala Harris takes a victory lap, with an eye on the 2022 midterms"
     excerpt: "Politicians politicking. But it’s early and Harris’ role in making the case for Democrats looks as if it’s going to be a big one, perhaps on par with Biden’s. Good morning, and welcome to Essential Politics: Kamala Harris road edition. Today ..."
@@ -125,6 +139,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "VP Kamala Harris fights COVID vaccine hesitancy in Florida | Charlotte Observer"
+    excerpt: "When the White House was deciding where in Florida Vice President Kamala Harris should travel this week, it looked at the numbers."
+    publishedDateTime: 2021-03-23T17:16:00Z
+    webUrl: "https://www.charlotteobserver.com/news/coronavirus/article250143109.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article250143109.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article250143109.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557042001/c5476fe7-824f-41e6-9c77-1f8312bd6dbe/main/1280x720/59s850ms/match/image.jpg?pubId=5502557045001"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
     excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
     publishedDateTime: 2021-03-14T15:43:00Z
@@ -172,6 +202,54 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/12/PDTN/bf269e26-7cb4-4442-9726-72b55f2654d6-US-NEWS-EMHOFF-3-AK.jpg?auto=webp&crop=942,530,x150,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "In Florida visit, Harris emerges with a leading role fighting COVID vaccine hesitancy"
+    excerpt: "When the White House was deciding where in Florida Vice President Kamala Harris should travel this week, it looked at the numbers."
+    publishedDateTime: 2021-03-23T17:15:00Z
+    webUrl: "https://www.miamiherald.com/news/coronavirus/article250143109.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/coronavirus/article250143109.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article250143109.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557042001/c5476fe7-824f-41e6-9c77-1f8312bd6dbe/main/1280x720/59s850ms/match/image.jpg?pubId=5502557045001"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Kamala Harris fights COVID vaccine hesitancy in Florida | Raleigh News & Observer"
+    excerpt: "When the White House was deciding where in Florida Vice President Kamala Harris should travel this week, it looked at the numbers."
+    publishedDateTime: 2021-03-23T17:15:00Z
+    webUrl: "https://www.newsobserver.com/news/coronavirus/article250143109.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/coronavirus/article250143109.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/coronavirus/article250143109.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557042001/c5476fe7-824f-41e6-9c77-1f8312bd6dbe/main/1280x720/59s850ms/match/image.jpg?pubId=5502557045001"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Harris emerges from Florida visit with a leading role fighting COVID vaccine hesitancy"
+    excerpt: "When the White House was deciding where in Florida Vice President Kamala Harris should travel this week, it looked at the numbers."
+    publishedDateTime: 2021-03-23T17:15:00Z
+    webUrl: "https://www.kansascity.com/news/coronavirus/article250143109.html"
+    ampWebUrl: "https://amp.kansascity.com/news/coronavirus/article250143109.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/coronavirus/article250143109.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 67
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557042001/c5476fe7-824f-41e6-9c77-1f8312bd6dbe/main/1280x720/59s850ms/match/image.jpg?pubId=5502557045001"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Vice President Harris Visits a COVID Vacination Center in Florida"
     excerpt: "Member of the U.S. Navy prepare Pfizer COVID-19 vaccines as Vice President Kamala Harris visits a vaccination center in Jacksonville, Florida on Monday, March 22, 2021. Photo by Kevin Dietsch/UPI.."

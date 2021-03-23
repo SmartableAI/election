@@ -1008,22 +1008,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Sources: Vice President Kamala Harris coming to New Haven Friday"
-    excerpt: "NEW HAVEN — Vice President Kamala Harris is expected to travel to New Haven Friday for a visit that will focus on how the administration’s coronavirus relief legislation helps children and child care providers, sources said Tuesday. U.S. Rep."
-    publishedDateTime: 2021-03-23T15:46:00Z
-    webUrl: "https://www.ctpost.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Watch Live: Vice President Kamala Harris arrives in Jacksonville"
     excerpt: "JACKSONVILLE, Fla — Vice President Kamala Harris will be in Jacksonville Monday afternoon. This is a part of a larger mission where President Joe Biden as well as First Lady Jill Biden have been touring the country as a part of the American Rescue Plan ..."
     publishedDateTime: 2021-03-22T17:54:00Z
@@ -1252,6 +1236,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Sources: Vice President Kamala Harris coming to New Haven Friday"
+    excerpt: "NEW HAVEN — Vice President Kamala Harris is expected to travel to New Haven Friday for a visit that will focus on how the administration’s coronavirus relief legislation helps children and child care providers, sources said Tuesday. U.S. Rep."
+    publishedDateTime: 2021-03-23T15:46:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
     publishedDateTime: 2021-03-18T13:09:00Z
@@ -1300,6 +1298,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "K4yiwn/cHK2Tz2m4oeAERNm4LrfovYESawq6VrWsLi5TUyuwhPl+hDZCyZjf3GpnSPY6duwwHFZ4lpwl7B7+SiIPZttftncKJA1x4ppFakM/y8ZToSbHyREQvMAVhX2YvZvbPSwr1SF7ObV66JbGQXG3XyPyYKMSeq96naPVoEUWVsGij+GIcYwHI9xlFPegEHWbWGoF/FlrVylYBy35MJkrbM5CSk7vra03EUNZTGdFF6GA00Df44SUygnKQTu7r1bQHiPAtzMlh7yy7uKJJoEiK8ZiGGsAqxliW7H6O3UqMI0mGcvRhDPFqUaJ1j0HNoyBKu84766bRFbBNlyZ88UlfdOE1HQqFGbAc7XwQ6wpjBzsU/uf2u9njCrELMsWoQ/10XBqU4OHCzPOU/g9diekmPdrYCaTYodFqTH2wqPG88kroP01lRnzJUDk21iGdNNCplSmo3igrsnKvfM0nJm/UfkGIFv3iI+BYQ/XCmKyuOgxllEWmUQmb0/yyggoyo7rm854EsumOFaaSSMMXA==;e2Qn5yLlr94rNxP8MQiYAg=="
+secured: "8P2YkRC1k5rJSx7h8ed2upNHxlN9NMscyTubIOpmQTKF73Ko5kWkp1VF2/UxkxrAizEhirsIdI5dnbzXg2uIHfgTmMSxfpIB7A73fHI3J/fdXwSsrMC4Vj0HGDPDHOFh/MdkTA4fwML+XdJ6PhoZ3bW0vbpchk+d/5koIx/+8/GJDT2afSEB9eu1tNPF2gSM9Z0ohjRAGO4fsmeW0KEn3lCrqot+UeuFU/awVIweE9QA+gsbZFJuEtJq3kSXp1Q456FaqU6Bylr03vLBdRV+w8oLdhOxPmPXcDzXhhCM7Mxf7++h5Nz9GpcpGkgaFsrKXdi6jP+CHGDuWRySwS1fO6+audeNmySCyiFE5G+e3gs=;iDJwWylTWF8EU1L1JLLNoQ=="
 ---
 

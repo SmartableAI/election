@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
 type: article
 quality: 190
-heat: 1190
+heat: 1210
 published: true
 
 provider:
@@ -734,6 +734,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Montage shows media double standard on border: 'Concentration camps' under Trump, 'complicated' under Biden"
+    excerpt: "The Media Research Center posted a video on Tuesday that highlighted the difference in how the media covered the Biden administration and former President Trump’s handling of issues on the southern border."
+    publishedDateTime: 2021-03-23T17:57:00Z
+    webUrl: "https://www.foxnews.com/media/montage-media-double-standard-border-concentration"
+    ampWebUrl: "https://www.foxnews.com/media/montage-media-double-standard-border-concentration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/montage-media-double-standard-border-concentration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
     excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."

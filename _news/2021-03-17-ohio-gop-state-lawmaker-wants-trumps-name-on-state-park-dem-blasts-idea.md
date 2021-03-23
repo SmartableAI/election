@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
-    excerpt: "A growing number of Trump supporters and loyalists are jumping into competitive GOP Senate primaries."
-    publishedDateTime: 2021-03-23T15:46:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1lV4e8OElDk/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
-    ampWebUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump backs challenger to Georgia's GOP secretary of state"
     excerpt: "Former President Donald Trump's endorsing a bid by Rep. Jody Hice to oust Georgia Secretary of State Brad Raffensperger in next year's Republican primary."
     publishedDateTime: 2021-03-22T15:30:00Z
@@ -78,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/tim-scott-iowa-invitation.png?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
+    excerpt: "Mo Brooks of Alabama showcased his support and loyalty for former President Donald Trump as he launched his Senate campaign. To hammer home the point, he was accompanied by Stephen Miller, a top adviser to Trump during his tenure in the White House and the architect of the administration's hard line on illegal immigration."
+    publishedDateTime: 2021-03-23T15:51:00Z
+    webUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
+    ampWebUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "Mt3Ohje85auuChcs3jixgpJDMMv3psuzdbnsEHWuPbhyJst3p0NWt7BTBybICsYnfebMps9CZ4SnXe6CYVInypRApBuQMnVj5xgNDvzdaqSJTsLGCDmPGa0U1ZDkec7s3LcjajldKSJm2LGaAcklnq6biwdOhqVu6Pa2P4QHDp8pTrIIacXrPjCh7tyLrnPMzaLXfDkAgWYYl8iKIPS0SqsyoBDUhdkn+Nl/TAlZBFWx7ef/Y91RYqr5GaC5a8mwf2je4hzC5ISJ+MfrouI12VwlJj6Jo2mV6IkIYAYW204gKJcbDjmcj32Z82yPluAORMJtEU0uaaQ66Qp74yTBvVAArdizhsrbfQgFvH3J9dk=;fiuMQ3pWRPHrkx1Mz3IJxQ=="

@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Washington Post reporter calls out Biden for lack of Asian-Americans in executive Cabinet positions"
+    excerpt: "Lisa Murkowski, R-Alaska, a tweet attacking her by Biden's budget director nominee Neera Tanden, accusing her of sabotaging the nomination. Tanden's nomination was eventually pulled after she lost the support of Sen. Joe Manchin, D-W.Va., and gained no ..."
+    publishedDateTime: 2021-03-23T13:12:00Z
+    webUrl: "https://www.foxnews.com/media/washington-post-reporter-biden-asian-americans-cabinet"
+    ampWebUrl: "https://www.foxnews.com/media/washington-post-reporter-biden-asian-americans-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-reporter-biden-asian-americans-cabinet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbab02ba-70d9-476a-99a4-f1a7d77d997d/13cbac25-028a-465c-955b-9efadab22769/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ZopLmrLqG1PG0TYyyRHcvP7tbp5ZeGzJY91kNzkpKueLuPCE/LFkM8aVEHD2nb9j2G3NyxeyH3lCdr4zp9vGMRwRUH5pqzicaqIDWTZsuB2GZlHiFLlsrwdvJ9Ykilg+OghvY1hMuU3zoKMShJOAKxYJ4xWOhggFcCYvg7G7Rs9i0xaH6MIfkD6W8lkeQL0d29a/Ud70DoQo9OlQFMql9Pv+OFlcalYKWYjEqbvSs9/Sw7lFAkZzEqFsP/dXGgxJihOVDKh5WwGZWBHymOcpG6KDzk4xJu+rmePS0SDImHJ0PFI/gJaUwag1EBfLtVQMfLa4e9iQRUOKxFZmUJVP2JLQLQ03r+RcVyzz9ZRJLWc=;kNlUbz4q2UakUJrAqlYugw=="
 ---

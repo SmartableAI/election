@@ -176,6 +176,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris’ niece takes heat for presuming Boulder shooter was white"
+    excerpt: "Vice President Kamala Harris’ niece is under fire for presuming the gunman in Monday’s Colorado mass shooting was white — because he was taken into custody alive. “The Atlanta shooting was ..."
+    publishedDateTime: 2021-03-23T19:50:00Z
+    webUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/"
+    ampWebUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/meena-harris-getty-006.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sen. Manchin slams Kamala Harris for pressuring senators to back COVID-19 bill"
     excerpt: "Democratic Sen. Joe Manchin slammed Vice President Kamala Harris ahead of her meeting with a group of Senate Republicans Monday on passing bipartisan COVID-19 relief."
     publishedDateTime: 2021-02-01T13:09:00Z

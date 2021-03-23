@@ -75,6 +75,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Vice President Kamala Harris will visit Connecticut Friday to promote coronavirus stimulus plan"
+    excerpt: "Vice President Kamala Harris will come to Connecticut this week to promote the administration’s $1.9 trillion “American Rescue Plan,” her office confirmed Tuesday. Harris will appear in New Haven on Friday with Reps. Rosa DeLauro and Jahana Hayes."
+    publishedDateTime: 2021-03-23T12:34:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 63
+    images:
+      - url: "https://www.courant.com/resizer/OydHhXMO9ouGr-SuRC0poanDxCQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MYFEJUWAFVAFDERI7YRFQRMB3E.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "5-year-old girl shows off Kamala Harris' project while during vice president's Jacksonville visit"
+    excerpt: "The girl made the sign as part of a school project during Black History Month. JACKSONVILLE, Fla. — As Vice President Kamala Harris toured the Gateway Mall COVID-19 vaccination site, 30 to 40 people stood outside to show their support for the vice president."
+    publishedDateTime: 2021-03-23T01:46:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 62
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/59b438eb-49f5-4014-aefe-12d22dc5b46f/59b438eb-49f5-4014-aefe-12d22dc5b46f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Vice President Harris departs Jacksonville, Florida"
     excerpt: "Vice President Kamala Harris boards Air Force Two as she departs Jacksonville, Florida on Monday, March 22, 2021. Vice President Harris toured a COVID-19 vaccination clinic and participated in a roundtable discussion on food insecurity."
     publishedDateTime: 2021-03-22T23:28:00Z

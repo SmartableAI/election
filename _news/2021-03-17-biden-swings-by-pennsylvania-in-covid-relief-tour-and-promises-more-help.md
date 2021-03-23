@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvan
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden forced to confront 2nd mass shooting in a week amid COVID relief tour"
+    excerpt: "For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant tone in the wake of tragedy. Biden is set to visit Columbus,"
+    publishedDateTime: 2021-03-23T19:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-ap-jef-210323_1616522339491_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Republicans struggle to drown out Biden's 'Help is Here' pandemic relief tour"
     excerpt: "PHILADELPHIA (Reuters) - Thomas McGarrigle, Republican Party chairman in Pennsylvania’s Delaware County, is certain that President Joe Biden’s $1.9 trillion coronavirus relief package is bloated with Democratic goodies and benefits Americans who have ..."
     publishedDateTime: 2021-03-16T16:20:00Z

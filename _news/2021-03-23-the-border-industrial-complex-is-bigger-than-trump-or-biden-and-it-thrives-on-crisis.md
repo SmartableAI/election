@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-tha
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
 type: article
 quality: 132
-heat: 212
+heat: 252
 published: true
 
 provider:
@@ -31,6 +31,34 @@ images:
     isCached: true
 
 related:
+  - title: "How Obamacare Survived Trump and What Biden Is Doing Now"
+    excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
+    publishedDateTime: 2021-03-23T17:35:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-is-doing-now/2021/03/23/c540ac8c-8bfc-11eb-a33e-da28941cb9ac_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 952
+        isCached: true
+  - title: "How Obamacare Survived Trump and What Biden Might Do Next"
+    excerpt: "By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump. Joe Biden’s arrival in the White House could blunt any impact of the latest danger -- a case now before the Supreme Court -- and give Obamacare ..."
+    publishedDateTime: 2021-03-23T17:24:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do-next/2021/03/23/c540ac8c-8bfc-11eb-a33e-da28941cb9ac_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 952
+        isCached: true
   - title: "The Biden administration missed its own deadline for working out what to do with Trump's half-finished border wall"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden's administration has blown through a 60-day deadline by which it said it would figure out a plan for former President Donald Trump's border wall. Biden signed a proclamation on January 20, his first day in office ..."
     publishedDateTime: 2021-03-22T17:26:00Z
@@ -96,6 +124,6 @@ related:
         height: 800
         isCached: true
 
-secured: "PjQKXnRtzuVkMFit1Xf6fK2WQcc8AA1aVfOTil1uS0h6FWzrix/qgFl2mjHPJQHRzFIMURpD1IhCfQ5d0vVym0ZTtCsGmyma4su9Ps/3NaJ4vCwGwYo8i+3VRXvIuIfyJerncojwKO5tSKgHPCh12/XFGzoAhUkDx55D7DKfnxcrih6m9Rva1s96RVNe55yNRAezFdTswT5yeqh+Jx0CgJ/AAgwrZd8SmR9v2EDemBeAlCxwyyNPsNw9mRWEyCBtxvpW5y2ybZbQMwzb96k6fcDSVth/0g7DfWA8Ekgw1AUp+zz4J6XGOov7rG4wrfogrAl5G08y3U59u/Xm//nVpMXINZy1RB/fYS07AVge7/Y=;MRQDfGH96TUMe2jjx6xTYw=="
+secured: "R8T5lH8B8oIEgAbwIndD1TKYpkt1UQ4UY75BdTrgVRr29AAQNvhn1WYCan/A3EQJdrsyZoypzdUNZFWuCzXeD4XpaE891UnkuPuZkDwDOQ+pfZd1HbfA/C/V8To4hre2ZtKORKkqP8T3OpyjFWlPNuH9h/bS2GWNLbtFsXJp7L7sjIHaSEw/HHQI7pZQ2W2xa/5z7CXTnNQKpI60vS5494Hl0xt9vOequ1v+pr+YOOK4pys8pej2tDO0d2xd9WQMDI+GYpGYZnHRJ4CTVSQxN/hxBQjajgiusCR3l9nL7+xvNWHrQoxyzBG4S3TKujeIfFC7fZOTUzkDVRJ7ZpLYerptX2lgRT/uJn4IXuuswJ+Enh//RKShffl3hJc4t7DiTC100TMmkGVECDrW8l7+zC2faiaeA3bkkHNjWJibr2QQNDotj8H710v7pTiR8S5KU+MpimYd3Ii+LFQG4GIh74OLIwq+9EonYWusya/5RMyc/q1RfV+Lu3wAPoUWtrQ81Vj6E20neAKkujxmsdO3Zw==;e/bmrE7U4g3tK2qutkCvkw=="
 ---
 

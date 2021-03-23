@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Social Network Users Won't Feel 'Fact Checkers Are Going to Be All Over Them': Lara Trump"
+    excerpt: "A spokesperson for the former president said this week the new social media platform likely will roll out within the next few months."
+    publishedDateTime: 2021-03-23T17:42:00Z
+    webUrl: "https://www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190"
+    ampWebUrl: "https://www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1762633/lara-trump-social-networking-platform.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Donald Trump Serious About Launching Own Social Media Platform, Lara Trump Says"
     excerpt: "Lara Trump said her father-in-law, Donald Trump, wants to launch a social media platform that will give its users the freedom to say whatever they want."
     publishedDateTime: 2021-03-23T02:02:00Z

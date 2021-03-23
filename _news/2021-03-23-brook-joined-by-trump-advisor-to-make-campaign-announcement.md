@@ -171,6 +171,22 @@ related:
         width: 1200
         height: 844
         isCached: true
+  - title: "Who is Stephen Miller? Controversial ex-Trump advisor joins Mo Brooks to announce Alabama Senate run"
+    excerpt: "Stephen Miller, who endorsed Brooks’ Senate run, has become a lightning rod for controversy, especially when it comes to U.S. policies regarding immigration. Miller previously served as communications director for then-Alabama Senator Jeff Sessions and later moved to the White House where he became a special advisor to former."
+    publishedDateTime: 2021-03-23T01:37:00Z
+    webUrl: "https://www.al.com/news/2021/03/who-is-stephen-miller-controversial-ex-trump-advisor-joins-mo-brooks-to-announce-alabama-senate-run.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/who-is-stephen-miller-controversial-ex-trump-advisor-joins-mo-brooks-to-announce-alabama-senate-run.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/who-is-stephen-miller-controversial-ex-trump-advisor-joins-mo-brooks-to-announce-alabama-senate-run.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 60
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/D344SQYT25CE7NQB4MNV4AIRZM.jpg"
+        width: 5256
+        height: 3504
+        isCached: true
 
 secured: "G5zrRHWobDU2LTi6SV3Au2wGWCGC5wKTIhaSKgA4LqUI6TmHp5XTGaVIreOah97U7H8g5ugMCB5xG6D0NISeccWOp3c4Y0dbcEheXlF7H5tN7KxrKlkn8mII/FH8uETV2RHuWFNNw0n1U/QYZELkQjDxzcwdBSA4UTvizvgF5fUvipeus1eNy3s5Lv7b3XvLR0zlEAeZgiR7+zsRJujCod27gp2zcqB1lUmdYH3ZPX6GdLWDu+ZPLKL2UJhyaaWHZVKugbWFyBL7rdh0KzlnEAKbs4SbVmVeJ/yUAisHQFeSQKapPl63NS74+uFHn6REbWeo5LlSBhWeE7l8PIeeIAqwxwwYHv2pHpGKMpIwYS0=;SFz8OfcXbLvyujSUb8CT4w=="
 ---

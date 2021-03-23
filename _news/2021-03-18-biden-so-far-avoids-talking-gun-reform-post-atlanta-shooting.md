@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta-shooting/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://static.politico.com/75/fb/a1a60ada40f2814fd3e2ff8969c9/ap21069630477955.png"
         width: 1160
         height: 773
+        isCached: true
+  - title: "President Biden calls on Congress to tighten gun laws in wake of Colorado shooting that killed 10"
+    excerpt: "\"As president I’m going to use all the resources at my disposal to keep people safe,\" the president said on Tuesday."
+    publishedDateTime: 2021-03-23T17:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/unfathomable-pain-democrats-demand-action-gun-control-after-back-back-n1261797"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261797"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261797"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202103/1616521162154_n_mtpd_clip_memo2_210323_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "qBfh3+uOSnFYUs5YsXAKdGgmYXH7hOayTbl/NV5fgv7bG/t9zPL6zc4AV/TsFh/E8l/qj+XntFdjR2vZ0xSMwkefNFtCL2HYPhlp5LlQGJz3v1toQ8j6ZwEWsAhX3SfOpE+ahRRkqXT3wfBUY9yg3O2sdSatB49IwpaQpt6btz+doAnmFtbu7KJzMdDRjDeW31q2X77XZMNT576doj46JPyKF2ahaA46DU5cyFu56Bz4FMHtwSZYdhRyrHrpuSWH1E1dUwweHmfuLToF5bzJ5vF8AfjSe9KsmKaViX6o8x2qqGkDMVboZQTQP6cCLDR/xsrY+PEdpZIMZbt6fPFtGg01rXdpHbtALPp23MSn6MI=;qHmq7hM4JjogL6jjBv62LQ=="

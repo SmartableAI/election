@@ -3,27 +3,25 @@ category: news
 title: "Sources: Vice President Kamala Harris coming to New Haven Friday"
 excerpt: "NEW HAVEN — Vice President Kamala Harris is expected to travel to New Haven Friday for a visit that will focus on how the administration’s coronavirus relief legislation helps children and child care providers, sources said Tuesday. U.S. Rep."
 publishedDateTime: 2021-03-23T15:46:00Z
-originalUrl: "https://www.ctpost.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
-webUrl: "https://www.ctpost.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
-ampWebUrl: "https://www.ctpost.com/news/amp/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
-cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+originalUrl: "https://www.stamfordadvocate.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/13/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -1300,6 +1298,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "C3LxkzCw/mAmOkAbj8br5UM4mKVTcyI0wEs/VTR8XFJ7wSy1qLVgX5pnRncbYJbJ2sfUmSUJ1vjqJwd/cIYQu+rbEhJba6eISAdebITETswxptntxDAB458QGkirMz4B8HwTm/9Pb+2zqWER0x3bXfR2MWzJd3KPhbhhWxT0s4NAmxtuCXm/XTRGXY//dKwKuPMePQHSA8PBBBDXjh5C3Sg1HsjqjeyDhE8NGxV1cXutzUjsPmdfxQmkv99yovuC9kHUvE7of0mZS/H5zc9+1CnW3huoKDtNTaSHdW7vwi6LcOExGDJyQE21Rqf0ycBUOtahwGZNFahpxY8qxZDHAy5Iiwg6bcubqu6d/GRVW6Y=;UOCL6EBMIa1uqmbOFLfLGw=="
+secured: "A/s+GxHaMcdfbKGGG3qECGEQumE3Rt+qVTLwBOU5LlVsnqziJFFYoSCJPnTb9aKDkPNxYBCa2GMjQfEN1wb2ofhDN9mxm4QK1/73tXY4HF++aWkt3UnzgKVMU7qKny1CF42Xgz47x38odjIdr1AlI0+seoxy7/NQKC8GfW+PeqISydZjD0uZKAVABObBI2dUJMHejZo3eoOKQJ146PSDxLg3aD3oUCY5jszHJVES63+H8iaeAvU169EtAIhS8OgfafPeQjLi5lMCIlmeHFAoUnkjwksLBkQdoCYv02HwArufirp9sLLkd901deA3yiBXfbcAyUHZ8vIhdJqVJ9W5SeB/KSvXIE9IjQXJnbXN6USaBi7q5CC9qegsTS+XCEr4Lf+eoWttHYVUASkbaViEk/kpw4mF54m8+XMbfePqk5Dpy/VEWTW6eeK/1rnix4qU5HUh78MnOLsiNANsZeTxET4TXVvhppkeVHO0H+Fc3+9cPkdGwJhC6HSqDB7se0GFOOU6cDU+qpa57QmNWGp+Rg==;N7iKpiD8QhhWsgikpzPxDA=="
 ---
 

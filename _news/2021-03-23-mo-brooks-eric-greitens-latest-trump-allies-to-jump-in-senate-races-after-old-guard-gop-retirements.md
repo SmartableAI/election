@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
-excerpt: "A growing number of Trump supporters and loyalists are jumping into competitive GOP Senate primaries."
-publishedDateTime: 2021-03-23T15:46:15Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1lV4e8OElDk/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1lV4e8OElDk/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
+excerpt: "Mo Brooks of Alabama showcased his support and loyalty for former President Donald Trump as he launched his Senate campaign. To hammer home the point, he was accompanied by Stephen Miller, a top adviser to Trump during his tenure in the White House and the architect of the administration's hard line on illegal immigration."
+publishedDateTime: 2021-03-23T15:51:00Z
+originalUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
+webUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
 ampWebUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
 type: article
-quality: 160
+quality: 120
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -80,6 +81,6 @@ related:
         height: 320
         isCached: true
 
-secured: "hofrookBpfv6Tu/IaNR326HKJQAe4iqPvdKAmfRefYdJ2FC5hSFHoSSoXEy2VJmg4DxzJSG3yY374FGAhDSeRtcb8CdB6Png/+aPU8hJFIMdfwA5F0wH/FzG78sQe8CiVfpOGHG5ZjylRRrM0yZYYzI7+CafYvfW6B8WmO+V5+dbsoz5FQ1iPhd6Sn2wTWBWshE/NzFbjg+MubqJP0ONr55j+E65nKBOE6N0rxHlUVoaGe9pNwVRc+dYf9t1eLUf0TMZLjgmpfNjHYyWgVR57dJXy+qBvEO4KN8P3htO0bjKUZR/ged23SqdqQbHFX7x1g0gznEqA4+IT68xc0yu7zG1C9j8+wGo7QWczHnQ17o=;25ABWY4SoFLdAjA96fvcjw=="
+secured: "Zyip/S/KMeXv6fFHAJN22aCo4/+C90NOU108GNND3f88dQUH7C75dzYGfmMCcKgCdAGvjvGmld4lsQMHgDIt8ehyFF7KAL0oM+pdQ6orqOA3OD5oWmnwwpk8oGtzsoYIhsIIs4NZshHEqyPTY8UqiTQ7hjhlDEm+YoDSeZl/JcNYIBd9kufb7bdN84BBeEw6Ouf9JJ6PY5tWPbeJsYQuUGNPtcN7Q8QuLjPwkgm+yystLqKYNnrnZq32CVvFGM21BPECJCzviev5XUOi+lKipNHkxwiht3B8bbg3SMRKBzDpklm0bwXbMsXcL/xjUk54m6NmLCfAz2dVqutek+HLL5R/KUzQZn+6MnsG/w2k/So=;Ww7SL0Yczl69cLpX1fUgLw=="
 ---
 

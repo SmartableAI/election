@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/manchin-vanita-gupta-west-virginia-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-vanita-gupta-west-virginia-conservatives.amp"
 type: article
 quality: 164
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden targets assault weapons, but handguns used more often in mass shootings"
+    excerpt: "According to Statistica, “handguns are involved in about 78% of mass shootings” in the United States between 1985 and 2021, making them the most common weapon used in these tragedies."
+    publishedDateTime: 2021-03-23T19:51:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghnAI3YWleg/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907a1e05-e26f-45ee-9a49-4573dc795e75/e77cfc3a-e762-4658-80ba-692cd101567a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "UHrOSlDpH7PDH6voG2KB2AuM6TGafhY4x4rmfqKfHnhiZXFTcJ5vGHslmKvVfuFO7eqrkM0xh1Jh2/38q+Fpocm49I0LSnJxbvTb66hz/Gpy3fTcBH1/v+z649KDdGO54NZJVPaGBlSklK4oMuBjmPzowA/I80eSEh4ZzDJH6yTTQ40M3CbpxpdNDWstEkL8BGeCw+OjAkpCQLAz2HEPaQtRrab31DX42Yk3bvUfz6BbKLr662MmsGP5quFKVLz3kIP9oaZfSckzrc0FuR+GW4/GsYS5kExK5Ogty80VbBg4VUGFY6tAC6tDOdiswVdzNYwlUlCOlr+Af4noU/NOSmdFkfmhpxRldJBnCmzmkK0=;lAiIdQUtqzGIHBKm7fgarA=="
 ---

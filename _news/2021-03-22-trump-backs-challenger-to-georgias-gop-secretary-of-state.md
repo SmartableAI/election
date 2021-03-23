@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
-    excerpt: "A growing number of Trump supporters and loyalists are jumping into competitive GOP Senate primaries."
-    publishedDateTime: 2021-03-23T15:46:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1lV4e8OElDk/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
-    ampWebUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "As Trump teases a 2024 presidential run, potential GOP rivals start making early visits"
     excerpt: "Donald Trump might not be the only one with an eye on 2024. Former Secretary of State Mike Pompeo heads to Iowa next week to advocate on behalf of conservatives. The trip by Pompeo, the former congressman from Kansas who served as CIA director in the Trump ..."
     publishedDateTime: 2021-03-20T10:39:00Z
@@ -79,6 +63,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/tim-scott-iowa-invitation.png?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
+    excerpt: "Mo Brooks of Alabama showcased his support and loyalty for former President Donald Trump as he launched his Senate campaign. To hammer home the point, he was accompanied by Stephen Miller, a top adviser to Trump during his tenure in the White House and the architect of the administration's hard line on illegal immigration."
+    publishedDateTime: 2021-03-23T15:51:00Z
+    webUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
+    ampWebUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "xhPiRfV8+tOe6KhwZ8jmohhUqk+Rx8ttIxxMqocNBuyrgg8x149wzV5SAEGJ0ZaDzzXQIc/aL0jck2HJ3Ndk9JJ3Q2tRlXkK09xaMH0gIt0f4rMCnWWKnyTXGlnAaHzuLM3hpVWoDh0+Vb5GjWhb16HNtA7qZdch+/sfyOW5LiBQp/faTyuvnQVOacWubQSxUUSuAimvYcLvfhKk6GS1hnvmHgXj3byZtrZ6Znx9oxn5SFddlHXgLnivIDT4bzPHFeZ/naCP9gs31JU3iaNir0osNbGPUrhtL+GDCqzvtcCRO2nAP5d9rj6/3VhgZM8gTaXAa1hHp1qqN9T+Di1OvjDEm+/hPUcB8NhUDvu08aTUNtlb1y+7MndRqd2N6nl1IpjiKjNTvljpkIIf7jiNWTeV6e+PDl+5TkQRLnk4WgmBaGb8GQUuRmWiB58YmjWJOMho/ncNn6nUSHnSm7GsNQwQ1+N3PKK8EZtN3PKAeNGB/xiHI2f1WpDGKfAm8SwYTKTJGVtlc862pckaJV0nAw==;iYz2PiB/zCzhjsvbjz9J8g=="

@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Joe Biden's legislative priorities: Gun control and five other issues fight to move forward in Congress"
-excerpt: "In the opening months of Joe Biden's presidency, Congress' job was crystal clear: Pass a relief bill and get it signed into law."
-publishedDateTime: 2021-03-23T15:40:00Z
-originalUrl: "https://www.cnn.com/2021/03/23/politics/joe-biden-legislative-priority-list/index.html"
-webUrl: "https://www.cnn.com/2021/03/23/politics/joe-biden-legislative-priority-list/index.html"
+excerpt: "In the opening months of Joe Biden's presidency, Congress' job was crystal clear: Pass a relief bill and get it signed into law.\n    \n"
+publishedDateTime: 2021-03-23T15:40:13Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FjdFmpsFaOA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FjdFmpsFaOA/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html"
 type: article
-quality: 119
-heat: -1
-published: false
+quality: 159
+heat: 179
+published: true
 
 provider:
   name: CNN
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
@@ -49,6 +48,6 @@ related:
         height: 619
         isCached: true
 
-secured: "vmMPrHYxegJr/r1Dr5zuB/wqiy8ySU2acAu/QvGaD//x3wal57Q1KnEjB78/D0Qwy5NWKdxsg/YavuaWVGuhDuHyBQigJMiPywlnb33xXcdfjm3NuuqaCRyBsTGOsCwZ24ynWYWAOn6H4AzESndpAyQGaau+SIRbiftJyLWD66yjG8W6dsM9MBL5GlXGSTcm6xGdh3MDxS/KSJStYsNQavUOoPUx1RafNBcHRAy4n1HNn48CHaYueH2ugWEyMCwZUP0IcFLAvq5dWJh372udyToLPu02ZjTNVmrZnhE2KuK3mWZeCQ/mGB6EdDtaVWBLSKctyXs92onzo7drycONXXvjfOghkLs9Zsn/pcGjaW4=;nTBrXThkAmk1Wm8neQ7NtA=="
+secured: "HkNNJTgSx8+o1YLF8Aco7GotfsrRoH65d7GnTZBD09Lw4FXoOLuMjS0DYZMwaVPTog/PAvsZnxB9ncgO0ISBVo1bE7gEFq5QM+RQyZ8nR6kZ09yyWQg6n3vKUWg/bU9qd5w/JE7eYOG8FvnBEj+W86EyrRDScyuCVZ0NbooZVmJmJVf/E6DmrXSx5YPTb+eoAsIILs/ugXreSgWp085HBQqraayaRqxeJkOCB1isKH13kStqSQC97I5nHpXsabi7P6fsPD96OXJWPcfokoKB3PyP1Lv25lo/1cNpvj/bHKdJdmBDmGjVPCdO6OaCvCqqh/iJYyxJKt/Y1pWrvL/wUvzWLBB0+Fet6hb+oXza6Kg=;GSKCvjTnMdIxJikRzYNbzQ=="
 ---
 

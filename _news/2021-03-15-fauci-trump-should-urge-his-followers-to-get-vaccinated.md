@@ -91,6 +91,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Pro-Trump lawyer says ‘no reasonable person’ would believe her election lies"
+    excerpt: "Lawyers for Sidney Powell argued conspiracies she laid out constituted legally protected first amendment speech Last modified on Tue 23 Mar 2021 11.53 EDT A key member of the legal team that sought to steal the 2020 election for Donald Trump is defending ..."
+    publishedDateTime: 2021-03-23T15:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/ba243d6a0d5afdcfd63af6c7a56d2486a5429d93/0_179_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c1367dc23eb00baf4090d0ec38f0b468"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump continues to insist that Pence should have 'gone back' after the Capitol riots to overturn the 2020 election results"
     excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump incorrectly claimed that former Vice President Mike Pence could have summarily rejected entire states' Electoral College votes at the January 6 joint session of Congress in a podcast interview with Fox ..."
     publishedDateTime: 2021-03-22T15:41:00Z
@@ -312,6 +328,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/b4e/c84/38c846a2c58da07fbaf6e4e88f4bca691a-trump.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Bernie Sanders Questions Twitter’s Ban on Donald Trump"
+    excerpt: "Twitter’s decision to ban Donald Trump from using its platform has generated surprisingly little debate among liberals. Of course, as a private company, Twitter can exclude users for almost any ..."
+    publishedDateTime: 2021-03-23T17:31:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/bernie-sanders-twitter-ban-donald-trump.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/bernie-sanders-twitter-ban-donald-trump.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/bernie-sanders-twitter-ban-donald-trump.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/499/f05/d97b09d582d53d66f42f1a63457faf6670-bernie-sanders.rsquare.w1200.jpg"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "KSkbjps3+Bi/YN8k0M40Q6FpZpCp+gTvoyJrTpzNFOpUhwfwIGH7sTmGiR85qNKmThgFji1HAuzc4qF3xl7talC2UZgWyxiM6/HQVTXpWIX4LeqkDwWxg+tBT5xgB0ButxRLDbsznioWuwHsZTgQITo8mr/sTDIj0dbKieW27iqcF249FiEE0ZJVkQBD8hIQGJUAzo9pQ18nxhKGJVZMVQz/yYqL5oK4gvcMSd7I/ttlo0g063+5CmPMXOEuSWB8HICXLfihvBPBfJq3qs3gVyWKtvMFHrxvyKFGtLgSMXzR4ctlZe0OpgPQT/UCFNz5dbpJy7lfQqnyKSTk25bsLUdt6TYtUBoD2U0WsTVUBma2++kgQAgCGjYMFOfQTK8R5MigVUUoHpM3gY2QO5vhBXYGMYH/URwCmVvPsZ9GqCyuvNAV6DR0InnofFVuovKZC81GUAvy+tpw+rgoteRg9ue7Pf3FRVEIXUtVsI2se7cQKJHGrMQY2641yzHh9R6kElgF6lCUBc0aqcJVa8Axdg==;WBaEsFysPdQeTd89xjhaQA=="

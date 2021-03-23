@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrato
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Assessing Biden's Start: Poll Finds Support for Activist Government"
+    excerpt: "On March 11, 2021, Joe Biden signed into law a measure that was his top priority even before he took office: a $1.9 trillion spending bill to ease the year-long financial upheaval caused by the coronavirus pandemic. “This historic legislation is about ..."
+    publishedDateTime: 2021-03-23T10:35:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/23/assessing_bidens_start_poll_finds_support_for_activist_government.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533649_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "f/5qOom6E8jFY7ACrIw6PPV5tDqQkcIwxi0z+mhi8iJWaqesK7ca0NxtND1hdQioC5lMZtSEHiV0E8SdTJhTwEImtKNX1q8zgaD+DwpXk6ZLPgUG4zNtgUoFZ4LDYSqelWMVNTC79zH1aEpFARXD+gine3i7L5Q1vIM1V+KIRltpAsgCFQums/tySqlrz2v1mwxGzWbGRUrl1BqGfLVIgqp3r6BJGvRc9lXn/XBEOneM/xuxLKapSmcYSRTnSn4WrSMtGGxIc+B7Aw/ZLRFyS489v7jxCOXercE92xKiE130bFOuFxy0Kg8VLv6lgzhoN3l5yzA1Mx7gmxMR0EpSY9IcRCyhGyJ9pbn4Usak0lY=;fsAuWj8zktq+eYSAH/uOXA=="

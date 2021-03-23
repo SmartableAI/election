@@ -448,6 +448,22 @@ related:
         width: 2500
         height: 1560
         isCached: true
+  - title: "Why Trump Would Make the Most Boring Social Media Site Ever"
+    excerpt: "Jack Shafer is Politico’s senior media writer. To Donald Trump’s previous failures as airline owner, football team operator, steak entrepreneur, magazine publisher, university proprietor, casino owner, mortgage lender, vodka merchant and all the rest ..."
+    publishedDateTime: 2021-03-22T23:02:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/03/22/why-trump-would-make-the-most-boring-social-media-site-ever-477513"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/03/22/why-trump-would-make-the-most-boring-social-media-site-ever-477513"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/03/22/why-trump-would-make-the-most-boring-social-media-site-ever-477513"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/30/3f/d202d0484a63b5aa8ecb4a7f67f7/ap21059815349740-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "House Democrats weigh ejecting GOP winner of contested Iowa race, dismissing comparisons to Trump's efforts to overturn election"
     excerpt: "brushing back attacks that they are seeking to subvert the will of voters just months after lambasting former President Donald Trump for trying to reverse his electoral defeat. While Democrats say what's happening in Iowa's 2nd Congressional District is ..."
     publishedDateTime: 2021-03-18T16:51:00Z

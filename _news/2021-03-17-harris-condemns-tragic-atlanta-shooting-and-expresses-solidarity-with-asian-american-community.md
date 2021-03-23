@@ -208,6 +208,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "President Biden calls on Congress to tighten gun laws in wake of Colorado shooting that killed 10"
+    excerpt: "\"As president I’m going to use all the resources at my disposal to keep people safe,\" the president said on Tuesday."
+    publishedDateTime: 2021-03-23T17:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/unfathomable-pain-democrats-demand-action-gun-control-after-back-back-n1261797"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261797"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261797"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202103/1616521162154_n_mtpd_clip_memo2_210323_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "H7bwtJS7DJO3IBpIEx5mj3HIz5UMuJXh10cANKp4c8/gz0cSJqxNuYlSgICBcRhxHM6I6y2Ouw1/KoeTXmvz04pQ99gCXrpD9d92vkBsz8eCx7gKFoLhvoHkxMXV0/qEw1cResONdyoipY5Me1Y242Bd54nswku+xFo4hdTxGTsNO3QHwf7ryGQO5JJ9fYINoCYylOrFcw8IuDy1+PQxU26kC2UtaBmLkY27f6EyE+nL9ttISaVF6zf19F1q1pb1QMkimOpm9s+IFCoM1+xJUxe/CjrcmSLH49PYPVaLYJT6suFByl4yWhWlXk/jKZLtSq4e8AJTgvbbYi3Zj+F4lgXku+X92ycRhMeV0XZ5M7M=;LBd1exYh3VC72uohRN9J4w=="
 ---

@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris is 'laughing, Mayorkas is 'lying,' and Biden is 'lost' on border crisis: Patrick"
+    excerpt: "Texas Lieutenant Governor Dan Patrick said Tuesday that while Kamala Harris is laughing about the border crisis, President Biden is simply \"lost\" on the issue. "
+    publishedDateTime: 2021-03-23T19:15:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IOkdtNgeeqw/kamala-harris-laughing-mayorkas-lying-biden-lost-border-crisis-dan-patrick"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughing-mayorkas-lying-biden-lost-border-crisis-dan-patrick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughing-mayorkas-lying-biden-lost-border-crisis-dan-patrick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37ff676f-e992-46f9-a7db-9d15a7e08c1e/11d83e0b-a4b5-43d8-8cea-c3434e0a696b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden, Harris to hit battleground states to sell COVID package that passed without any GOP support"
     excerpt: "Twenty-two congressional Democratic leaders and Vice President Kamala Harris will join the president to celebrate the passage of the massive measure, but no Republicans will be present. That’s because no House or Senate Republicans crossed the aisle to vote in favor of the bill."
     publishedDateTime: 2021-03-12T17:28:02Z
@@ -126,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/AP20038674193000.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Kamala Harris' laughing answer to border question sparks backlash"
+    excerpt: "Vice President Kamala Harris laughed when asked Monday if she planned to visit the southern border amid an influx of migrants."
+    publishedDateTime: 2021-03-23T16:38:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQySHMqW0RI/kamala-harris-laughing-border-question-backlash-cornyn"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughing-border-question-backlash-cornyn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughing-border-question-backlash-cornyn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b785acf-217d-466f-9b67-e348685cf2da/fa1a4da6-3164-4de2-bf29-daf1144c2aa8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden, Harris refuse to call for Cuomo to resign as governor's support collapses in New York, nationwide"
     excerpt: "President Biden and Vice President Kamala Harris are not calling for New York Gov. Andrew Cuomo to resign even as a growing number of New York and national Democrats say it's time for the scandal-ridden governor to step down."
@@ -335,6 +367,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden considering executive action on gun control, Psaki says"
+    excerpt: "President Biden is considering executive action on gun control in the wake of two mass shootings in less than a week, White House press secretary Jen Psaki said Tuesday. "
+    publishedDateTime: 2021-03-23T18:56:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A82KhI-PFYA/biden-considering-executive-action-gun-control-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-considering-executive-action-gun-control-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considering-executive-action-gun-control-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d7d952a-5cd8-4608-a111-4b7bc7acb870/4c03d80b-71bd-4671-932d-9ddc07a45aec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden silent on whether Cuomo should resign after avalanche of Dem calls"
     excerpt: "President Biden isn't weighing in on whether New York Gov. Andrew Cuomo should resign even as top New York congressional Democrats say it's time for him to go, according to White House press secretary Jen Psaki."
     publishedDateTime: 2021-03-12T18:29:13Z
@@ -415,6 +463,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cornyn responds to Kamala Harris on 'Fox & Friends': Border situation is 'no laughing matter'"
+    excerpt: "The Biden administration needs to learn about the issues happening at the border, said Sen. John Cornyn, R-Texas, reacting to Vice President Kamala Harris laughing while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis."
+    publishedDateTime: 2021-03-23T16:43:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oUEqKt0_WKA/cornyn-kamala-harris-border-no-laughing-matter"
+    ampWebUrl: "https://www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden is president 'in name only' based on admin's left-wing agenda: Hilton"
     excerpt: "Fox News host Steve Hilton asserted Friday that Joe Biden is not in charge of the White House and the president 'in name only.'"
     publishedDateTime: 2021-03-19T18:09:49Z
@@ -494,6 +558,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden calls on Senate to pass gun control measures 'immediately' after Boulder shooting"
+    excerpt: "President Biden on Tuesday implored the Senate to pass new gun control measures in the wake of a mass shooting that left 10 dead in Boulder, Colorado, this week."
+    publishedDateTime: 2021-03-23T17:20:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8_0XnSGWRzI/biden-senate-gun-control-measures-boulder-mass-shooting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-senate-gun-control-measures-boulder-mass-shooting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-gun-control-measures-boulder-mass-shooting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/joe-biden-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "White House pulls Biden Interior nominee, backtracking on another appointment this month"
     excerpt: "The White House on Monday evening withdrew the nomination of Elizabeth Klein to be the deputy secretary of the Interior Department, marking the second nominee President Biden has been forced to pull after opposition from Capitol Hill. "
@@ -590,6 +670,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "VP Harris appears to blame Trump administration for border crisis"
+    excerpt: "Vice President Harris appeared to place blame on the Trump administration over the crisis at the southern border, after laughing off a question on if she intended to visit the region."
+    publishedDateTime: 2021-03-23T15:16:00Z
+    webUrl: "https://nypost.com/2021/03/23/kamala-harris-appears-to-blame-trump-admin-for-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/03/23/kamala-harris-appears-to-blame-trump-admin-for-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/kamala-harris-appears-to-blame-trump-admin-for-border-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 160
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-border-07-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Texas members of Congress demand lawsuit against Biden for border 'crisis'"
     excerpt: "EXCLUSIVE: Texas GOP congressional members are calling on Attorney General Ken Paxton to file another lawsuit against the Biden Administration in an effort to block undocumented immigrants with coronavirus from entering the United States. "
@@ -796,6 +892,20 @@ related:
       - url: "https://assets.realclear.com/images/53/538196.jpg"
         width: 850
         height: 636
+        isCached: true
+  - title: "Migrant With Three Children: We \"Basically\" Crossed The Border Because Joe Biden Was Elected President"
+    excerpt: "This father, who asked that we not show his face, traveled to Mexico from Brazil with his wife and three young kids before crossing the border. RADDATZ TO MIGRANT: Would you have tried to do this when Donald Trump was president?"
+    publishedDateTime: 2021-03-23T14:16:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/23/migrant_with_three_children_we_basically_crossed_the_border_because_joe_biden_is_president.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 49
+    images:
+      - url: "https://assets.realclear.com/images/53/538518.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "87+WrAG7DJ5E8Ry+fI0ID/Yhi0phHozhrticfGDhuO1wukrBSGFmL8onJBdiTy6UynQwVkbyGeC8N48ScG9UqaLcSJEOcI0LeSuSPQHoXIsasgcmMV9YsNWfo124ktcydhZItvKQn0Exh+ig0DU8wVdDT9vJ4M9YdHl7nYDt4WROP1jcA97c/n8Gtc8J7HY2CWu+GmBE60TmdO+Wem2CN9Me3XjXfD+X3fDKYM+p09Qc57BNutU39IClW55ZNDN2ovSDgutJeTJfneMNUlRWfdL2+Rc3dSSb6ykI5HX2i91hpRzrImkJNXoe82e5L59c9etHAetEZq010STxnZr0rnKXWom5tn2faaIUKTXFd5g=;GdEjYg9GeBTxGsdWFNew+Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 type: article
 quality: 190
-heat: 830
+heat: 850
 published: true
 
 provider:
@@ -430,6 +430,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_29/3391138/200618-donald-trump-cellphone-smartphone-cell-ac-1059p_98bab316821b75cf38c81649899893b2.jpg"
         width: 2500
         height: 1560
+        isCached: true
+  - title: "Why Trump Would Make the Most Boring Social Media Site Ever"
+    excerpt: "Jack Shafer is Politico’s senior media writer. To Donald Trump’s previous failures as airline owner, football team operator, steak entrepreneur, magazine publisher, university proprietor, casino owner, mortgage lender, vodka merchant and all the rest ..."
+    publishedDateTime: 2021-03-22T23:02:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/03/22/why-trump-would-make-the-most-boring-social-media-site-ever-477513"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/03/22/why-trump-would-make-the-most-boring-social-media-site-ever-477513"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/03/22/why-trump-would-make-the-most-boring-social-media-site-ever-477513"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/30/3f/d202d0484a63b5aa8ecb4a7f67f7/ap21059815349740-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Mary Trump has her next act — and believes her uncle’s guilty of sedition"
     excerpt: "Donald Trump’s niece is writing a new book and joining the board of LGBTQ+ group promoting female candidates for office."

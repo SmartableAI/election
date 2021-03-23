@@ -748,6 +748,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Montage shows media double standard on border: 'Concentration camps' under Trump, 'complicated' under Biden"
+    excerpt: "The Media Research Center posted a video on Tuesday that highlighted the difference in how the media covered the Biden administration and former President Trump’s handling of issues on the southern border."
+    publishedDateTime: 2021-03-23T17:57:00Z
+    webUrl: "https://www.foxnews.com/media/montage-media-double-standard-border-concentration"
+    ampWebUrl: "https://www.foxnews.com/media/montage-media-double-standard-border-concentration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/montage-media-double-standard-border-concentration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
     excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
     publishedDateTime: 2021-03-22T00:00:00Z

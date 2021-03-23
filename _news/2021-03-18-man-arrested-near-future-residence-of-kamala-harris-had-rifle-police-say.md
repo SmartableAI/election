@@ -1002,22 +1002,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Sources: Vice President Kamala Harris coming to New Haven Friday"
-    excerpt: "NEW HAVEN — Vice President Kamala Harris is expected to travel to New Haven Friday for a visit that will focus on how the administration’s coronavirus relief legislation helps children and child care providers, sources said Tuesday. U.S. Rep."
-    publishedDateTime: 2021-03-23T15:46:00Z
-    webUrl: "https://www.ctpost.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Watch Live: Vice President Kamala Harris arrives in Jacksonville"
     excerpt: "JACKSONVILLE, Fla — Vice President Kamala Harris will be in Jacksonville Monday afternoon. This is a part of a larger mission where President Joe Biden as well as First Lady Jill Biden have been touring the country as a part of the American Rescue Plan ..."
     publishedDateTime: 2021-03-22T17:54:00Z
@@ -1261,6 +1245,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/702d761fa742deefe0c289a31a83d610/HARRIS-TAI.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Sources: Vice President Kamala Harris coming to New Haven Friday"
+    excerpt: "NEW HAVEN — Vice President Kamala Harris is expected to travel to New Haven Friday for a visit that will focus on how the administration’s coronavirus relief legislation helps children and child care providers, sources said Tuesday. U.S. Rep."
+    publishedDateTime: 2021-03-23T15:46:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/13/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."

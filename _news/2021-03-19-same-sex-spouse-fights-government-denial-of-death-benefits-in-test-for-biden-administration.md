@@ -575,6 +575,22 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Biden to nominate 3 federal prosecutors for New York offices"
+    excerpt: "WASHINGTON — President Joe Biden intends to nominate three prosecutors to run the U.S. attorney’s offices in New York, including the first Black man to run the Southern District of New York. Biden will nominate Damian Williams as the U.S. attorney in ..."
+    publishedDateTime: 2021-03-23T16:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-nominate-3-federal-prosecutors-for-new-york-offices/2021/03/23/71d7832c-8bf7-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-nominate-3-federal-prosecutors-for-new-york-offices/2021/03/23/71d7832c-8bf7-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-nominate-3-federal-prosecutors-for-new-york-offices/2021/03/23/71d7832c-8bf7-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Border influx of migrants poses political threat to Biden"
     excerpt: "White house press secretary says there is no crisis at the border When President Joe Biden entered office, he listed what he called \"four historic crises:\" the coronavirus pandemic, the economy ..."
     publishedDateTime: 2021-03-23T09:05:00Z
@@ -622,6 +638,38 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden calls for tighter gun control measures after Colorado shooting"
+    excerpt: "U.S. President Joe Biden on Tuesday called for a ban on assault weapons and tighter gun control measures as he stepped into the familiar role of grief counselor for a traumatized nation after a mass shooting left 10 people dead in Colorado."
+    publishedDateTime: 2021-03-23T17:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-obamacare-idUSKBN2BF168"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF168"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF168"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555921380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M0MY"
+        width: 677
+        height: 545
+        isCached: true
+  - title: "Biden says 'we have to act' after Colorado mass shooting"
+    excerpt: "Democrats say they are pushing toward a vote on expanded gun control measures as the nation reels from its second mass shooting in a week"
+    publishedDateTime: 2021-03-23T18:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/schumer-vows-vote-background-checks-latest-shooting-76632103"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/schumer-vows-vote-background-checks-latest-shooting-76632103"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/schumer-vows-vote-background-checks-latest-shooting-76632103"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8fc435347e9140f7bdf56077259afb7d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
@@ -767,6 +815,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
+    excerpt: "President also urges Senate to pass bills that would close loopholes in background checks system – get all the latest news"
+    publishedDateTime: 2021-03-23T17:56:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a20b68f0842edbee7c5a9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden says he supports reforming Senate filibuster in ABC News exclusive interview"
     excerpt: "President Joe Biden said he supports reforming the Senate filibuster in an ABC News exclusive interview Tuesday."
     publishedDateTime: 2021-03-17T00:27:00Z
@@ -863,6 +927,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
+    excerpt: "White House says president will deliver brief remarks on hooting this afternoon, before leaving for a trip to Ohio"
+    publishedDateTime: 2021-03-23T14:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-6059fcc08f087d1707c11a88"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
+    excerpt: "White House says president will deliver brief remarks on shooting this afternoon, before leaving for a trip to Ohio – get all the latest news"
+    publishedDateTime: 2021-03-23T17:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a1b4e8f08e6550a16ff4b"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Several U.S. states sue Biden administration for revoking permit for Keystone XL pipeline"
     excerpt: "Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday."
     publishedDateTime: 2021-03-18T09:10:00Z
@@ -894,6 +990,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZYRJAT6AII6XM6RTZNKHVJCBQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Joe Biden Demanded The Senate Act On Gun Control After 10 People Were Killed In Colorado"
+    excerpt: "The president called on Congress to close background check loopholes and ban assault weapons after shootings in Boulder, Colorado, and Atlanta."
+    publishedDateTime: 2021-03-23T17:40:00Z
+    webUrl: "https://www.buzzfeednews.com/article/mattberman/boulder-shooting-joe-biden-gun-control-congress"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/mattberman/boulder-shooting-joe-biden-gun-control-congress"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/mattberman/boulder-shooting-joe-biden-gun-control-congress"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 116
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-03/22/20/campaign_images/260b3070742b/now-this-is-weird-but-we-can-guess-your-eye-color-2-8505-1616446033-32_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
   - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
     excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"
@@ -1254,6 +1366,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "'We have to act': Biden calls on Congress to move fast on background checks, assault weapon ban after Boulder shooting"
+    excerpt: "I don't need to wait another minute, let alone an hour, to take common sense steps that will save the lives in the future,' the president said."
+    publishedDateTime: 2021-03-23T17:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/23/mass-shooting-biden-calls-congress-pass-background-check-bills/6965613002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6965613002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6965613002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/22/USAT/7f4ecad5-9e83-445c-9a21-554f6bf7529f-AFP_AFP_96D7DN.jpg?auto=webp&crop=3803,2140,x0,y212&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden puts St. Patrick's Day pride on display as he meets with Irish prime minister"
     excerpt: "Biden, Irish PM hold virtual meeting on St. Patrick's Day President Joe Biden's Irish pride certainly showed during his first St. Patrick's Day as president, as he held a traditional bilateral ..."
     publishedDateTime: 2021-03-17T20:20:00Z
@@ -1349,6 +1477,22 @@ related:
       - url: "https://i.insider.com/6053ad91f75f09001814eb90?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Biden is assembling a $3 trillion package of investments on infrastructure and domestic needs"
+    excerpt: "Fresh off passage of the COVID-19 relief bill, President Joe Biden is assembling the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs."
+    publishedDateTime: 2021-03-22T20:28:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-biden-3-trillion-package-domestic-needs-20210323-2orqbdbt7zatnfphv5rix2d6fy-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-biden-3-trillion-package-domestic-needs-20210323-2orqbdbt7zatnfphv5rix2d6fy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-biden-3-trillion-package-domestic-needs-20210323-2orqbdbt7zatnfphv5rix2d6fy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 59
+    images:
+      - url: "https://www.dailypress.com/resizer/zf-aUb8cBDPudIvdDLWCjOQuwLY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SZ2LLTNSE34CWSRKDCJZZ6TX64.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "US President Joe Biden ‘doing fine’ after aircraft stumble"
     excerpt: "A White House spokeswoman told reporters President Joe Biden is \"doing 100% fine\" after he stumbled while boarding Air Force One."

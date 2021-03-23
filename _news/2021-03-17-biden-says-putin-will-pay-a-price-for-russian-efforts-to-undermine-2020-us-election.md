@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html"
 type: article
 quality: 183
-heat: 543
+heat: 563
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315162658-biden-0315-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden will cancel $1 billion in student debt for defrauded borrowers"
+    excerpt: "The Biden administration has reversed a controversial Trump-era policy that will lead to the cancellation of roughly $1 billion in student debt for borrowers who were defrauded by their colleges.\n    \n"
+    publishedDateTime: 2021-03-23T17:58:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m7GHylWkfMY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/student-loan-forgiveness-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/student-loan-forgiveness-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303113702-01-miguel-cardona-0203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -172,6 +172,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris’ niece takes heat for presuming Boulder shooter was white"
+    excerpt: "Vice President Kamala Harris’ niece is under fire for presuming the gunman in Monday’s Colorado mass shooting was white — because he was taken into custody alive. “The Atlanta shooting was ..."
+    publishedDateTime: 2021-03-23T19:50:00Z
+    webUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/"
+    ampWebUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/meena-harris-getty-006.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Indians burn images of Kamala Harris' niece after she backs farm protests"
     excerpt: "Vice President Kamala Harris’ niece defended her support for Indian farmers locked in a standoff with the government after pro-Parliament supporters burned photos of her on the streets of New Delhi Thursday."
     publishedDateTime: 2021-02-05T02:54:00Z
