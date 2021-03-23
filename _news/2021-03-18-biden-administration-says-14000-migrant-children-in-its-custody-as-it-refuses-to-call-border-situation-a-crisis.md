@@ -127,6 +127,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Behind the Byline: POLITICO White House Reporters on the First 100 Days of the Biden Administration"
+    excerpt: "We caught up with our dynamic White House team to find out what it has been like covering the first 100 days of the Biden administration so far and what they will be paying attention to over the next four years."
+    publishedDateTime: 2021-03-22T13:55:00Z
+    webUrl: "https://www.politico.com/blogs/inside-politico/2021/03/22/behind-the-byline-politico-white-house-reporters-on-the-first-100-days-of-the-biden-administration-1527290"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 101
+    images:
+      - url: "https://static.politico.com/d8/f5/c6c59abd49178b2da9db74debaaf/behind-the-byline-first-100-days-final.png"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "BF2ZFaR+ntkLxVkQ2OxfP9PUanG7GEeV+NnLF30cUlkvAsIvFqeEvsSWCjKMpQvl46+9pCnUyo3rj3drvnafeWm8VPMGxZcCVm616LG+exD/QfP0ET+ZcZ2CBjIIvpnaIZTM5VP2ROyzADX9Ko+6lVL+TdN0PrBbiMzvIm+32F55LExbZqUlTKoczV7aYj8wrl4J9yTX1cSw7jLz1Yzllg+tv0LuaLR5vt6oqMTIoJIeYE0ufeQc2CQPHts6rToICsrz/+G+c7NpcBbUS0Tw7kUjrTki2YLJPDGsJwW+C/kXQp0W83oXo61vDYfuEWs367Zf9sGH/w9VYgQSYe/2ZVUJXNaIAj2mWh59ZPe1+k4=;m3rohcfkZFwkcXmZ2rE4KA=="
 ---

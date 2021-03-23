@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration continues to deny journalists access to border facilities"
+    excerpt: "The Biden administration has so far denied journalists access to border facilities amid a surge of unaccompanied minors crossing the US-Mexico border, which has raised questions about its commitments to increased transparency.\n    \n"
+    publishedDateTime: 2021-03-22T21:32:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Eg3mVTSueS0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-administration-press-access-border-facilities/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-administration-press-access-border-facilities/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210320104952-biden-border-transparency-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to announce Gene Sperling will oversee rollout of $1.9 trillion in Covid relief "
     excerpt: "President Joe Biden will announce Monday that Gene Sperling, a former top economic official in the last two Democratic presidential administrations, will serve as the point person in overseeing the implementation of the newly signed $1.9 trillion Covid relief law, according to two people briefed on the"
     publishedDateTime: 2021-03-15T11:18:13Z

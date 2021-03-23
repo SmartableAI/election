@@ -265,6 +265,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Vice President Kamala Harris will travel to Jacksonville on Monday"
+    excerpt: "American Rescue Plan will bring about $17 billion to Florida, according to estimates Vice President Kamala Harris will travel to Jacksonville on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an administration ..."
+    publishedDateTime: 2021-03-19T22:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/vice-president-kamala-harris-jacksonville-florida-visit/4759495001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4759495001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4759495001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PFRE/2aeae88e-c268-47e8-8a18-dcb9c85b20e8-kamala_harris.jpg?auto=webp&crop=4500,2532,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
     excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
     publishedDateTime: 2021-01-20T16:50:00Z
@@ -928,22 +944,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Vice President Kamala Harris will travel to Jacksonville on Monday"
-    excerpt: "Vice President Kamala Harris will travel to Jacksonville to tout the administration's $1.9 trillion coronavirus stimulus plan."
-    publishedDateTime: 2021-03-19T22:17:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/19/vice-president-kamala-harris-jacksonville-florida-visit/4759495001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4759495001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4759495001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PFRE/2aeae88e-c268-47e8-8a18-dcb9c85b20e8-kamala_harris.jpg?auto=webp&crop=4500,2532,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "VP Kamala Harris travels to Florida Monday to promote $1.9T rescue plan"
     excerpt: "Vice President Kamala Harris travels to Florida on Monday to promote how President Joe Biden's $1.9 trillion American Rescue Plan will help residents and businesses recover from COVID-19-related hardships."
     publishedDateTime: 2021-03-22T14:57:00Z
@@ -1023,6 +1023,22 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2021/03/hypatia-h_6fdac63cea83d40e08df55323e323ef8-h_b82685b849db8905ad29787cfe85cd51-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Black lawmakers fight hairstyle discrimination, prod Kamala Harris to join cause"
+    excerpt: "Four Black Democratic congresswomen want discrimination against people based on their style of hair to be considered racial discrimination — and they are seeking support from Vice President Kamala Harris."
+    publishedDateTime: 2021-03-22T22:31:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/22/black-lawmakers-fight-hairstyle-discrimination-pro/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/22/black-lawmakers-fight-hairstyle-discrimination-pro/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/22/black-lawmakers-fight-hairstyle-discrimination-pro/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 70
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2019/07/15/trump_democrats_31419_c0-118-2720-1704_s1200x700.jpg?0c267069145e844e3569bf4d0f5f6fa869747b21"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Authorities arrest Texas man near residence of Vice President Kamala Harris, report says"
     excerpt: "On Wednesday, the U.S. Secret Service arrested Paul Murray, 31, of San Antonio near the residence of Vice President Kamala Harris, according to a report from CNBC. Police said they found a rifle and ammunition in Murray's car. He was stopped near the ..."

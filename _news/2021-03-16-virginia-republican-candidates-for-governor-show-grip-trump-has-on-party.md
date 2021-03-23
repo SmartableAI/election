@@ -80,9 +80,9 @@ related:
         height: 2031
         isCached: true
   - title: "Trump ally Brooks due to announce whether he will run for U.S. Senate"
-    excerpt: "U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, is expected to announce on Monday whether will run for the U."
+    excerpt: "WASHINGTON (Reuters) - U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, is expected to announce on Monday whether ..."
     publishedDateTime: 2021-03-22T19:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks/trump-ally-brooks-due-to-announce-whether-he-will-run-for-u-s-senate-idUSKBN2BE2X2"
+    webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks-idUSKBN2BE2X2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BE2X2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BE2X2"
     type: article
@@ -124,6 +124,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-18-2021/t_d3ee9fc30cbc4c7ab0dc1fd590e6c9f7_name_20210317_GOP_TWEETS_V4.png&w=1080"
         width: 1080
         height: 608
+        isCached: true
+  - title: "Brooks, Trump adviser to make campaign announcement"
+    excerpt: "Mo Brooks, a far-right, firebrand Republican and staunch supporter of President Donald Trump, has scheduled a Monday night campaign rally during which he is widely expected to enter the race to replace departing Sen."
+    publishedDateTime: 2021-03-22T22:18:00Z
+    webUrl: "https://www.chron.com/news/article/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "6p+znBeKeuLacaPNSE18VjSxmCJ4ffecrf3WiExT5L2eDvJF75ZMp0e8tN4wqpV2TdFCFMZID330Yf7kbEv07KIh33jLXyXA8LOZ+7qteZpzPjHFMvRhgUHSO19L22NPQ41ekEG7yGciVyK8Idftcv7gfASBO1HpW5zlOkVi0vvgquJTVpP3CMZsZRvQm4gbqtwqGENR85O0pjaHwDVu6b/fbMWWJFzOK7twjRYzSahTt6x0wWsXp/LPh5LAtEDpJ3kVY5WIRXGbMxl149lMEm+W045odfdGqApekrfJHmx5m19+sx1f63A8qL/Rq1E2NrGiT1bM0evK1ImiLwE1hyYRnebAHOPJAY66REr0AUXJ+7EHEXX6nQ34FO5kSArjpCH1lq3CG/veZjfkXfIurKjnpzVnOXcOF/LYiPUFT7zgEFSYB5pnqt/cJzVFmXh3R6LbOoYiHHUk71v6BOzDi+UaErtbTLgwf2OangaU5oZHnwpIwOBbx+4KZnTNg9JIGIQOqstpp+6YNhUws5iY1A==;uZbSgUrWqOCpCE4EBNNoxA=="

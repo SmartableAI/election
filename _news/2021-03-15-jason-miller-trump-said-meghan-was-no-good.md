@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meg
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -154,6 +154,22 @@ related:
       - url: "https://i.insider.com/60576ea61fcb5700186ee980?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Meghan McCain retracts defense of Donald Trump calling COVID ‘the China Virus’"
+    excerpt: "The View” host Meghan McCain is apologizing for her defense of former president Donald Trump’s referring to COVID-19 as “The China Virus.” Her reversal follows a condemnation from HBO’s John Oliver on his Sunday night program “Last Week Tonight” — and a spate of violence against Asian-Americans."
+    publishedDateTime: 2021-03-22T23:24:00Z
+    webUrl: "https://www.nydailynews.com/snyde/ny-maghan-mccain-donald-trump-john-oliver-sorry-china-virus-20210322-nrxuq6afhbemnbigg7j2rd2dt4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/snyde/ny-maghan-mccain-donald-trump-john-oliver-sorry-china-virus-20210322-nrxuq6afhbemnbigg7j2rd2dt4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-maghan-mccain-donald-trump-john-oliver-sorry-china-virus-20210322-nrxuq6afhbemnbigg7j2rd2dt4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 71
+    images:
+      - url: "https://www.nydailynews.com/resizer/HnGnNeig_1aBlg1kRTTojsTXih0=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/YUEECXX7ENAGJKFCRUWTQKRKPA.jpg"
+        width: 1200
+        height: 844
         isCached: true
 
 secured: "l7nWmf+To2IeMg9qOzfKK//K5GDcLmTbec1e7Teg+PlmBVW5waOSsMW0p4yZUCsMyIke9ADs97t1p1Qz1h9+Tt68IzEP2RcDqLyYAEHTdmgAHUuxmD7KgOr4Mns/FNtie8N7shtQ60OEvky3gi0T5G+zIWvcsdONRDD4lH4sZdMQU2nzt35H/nKNpxoaPaOtBQMUeLd58HNS+6hM8PNMdXCN9c0aoMeGMYyVsY7QMKcvvyKSBgmfpv5j2XDp9HJUHhhEUS+nysyfBpPPlKb2E/zjR3oCN875ySSdUMdIleutPus732SLbpWU/tWhTJGJ2pJc5XF1+W2mddN3FzhxKJRbrUm5g80hfidt49pFWuvX0IAk/P/D4Mbs032o6FE33H2+ajXF7B8AtGmfG4apQLtL170qyo/BxRId6908ZqV8pctuKGTPkqeBKhNRkfh9s6M5l6SC5uPu3Mb7/niySG/Nidwrc5bWxlOKaGGO75KptAgNv3ByABzwOr1Lhvqex1LNygcH9RG1NbRq8EHFQQ==;vNYQHVyvrKd0BJ1ZroHNow=="

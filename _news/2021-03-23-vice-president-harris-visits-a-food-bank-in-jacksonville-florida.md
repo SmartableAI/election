@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live coverage: Vice President Kamala Harris visits Jacksonville"
+    excerpt: "Live coverage of Vice President Kamala Harris's \"Help is Here\" tour in Jacksonville at COVID-19 vaccination site and Feeding Northeast Florida."
+    publishedDateTime: 2021-03-22T21:54:00Z
+    webUrl: "https://www.jacksonville.com/story/news/nation-world/2021/03/22/live-coverage-vice-president-kamala-harris-jacksonville/4797724001/"
+    ampWebUrl: "https://amp.jacksonville.com/amp/4797724001"
+    cdnAmpWebUrl: "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/4797724001"
+    type: article
+    provider:
+      name: The Florida Times-Union
+      domain: jacksonville.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/22/NFTU/0944aaf1-23ab-4398-ada4-e64751062ea2-image0_1.jpeg?auto=webp&crop=1491,838,x26,y193&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
     excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
     publishedDateTime: 2021-03-22T17:08:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Vice President Harris departs Jacksonville, Florida"
+    excerpt: "Vice President Kamala Harris boards Air Force Two as she departs Jacksonville, Florida on Monday, March 22, 2021. Vice President Harris toured a COVID-19 vaccination clinic and participated in a roundtable discussion on food insecurity."
+    publishedDateTime: 2021-03-22T23:28:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a83a0a6d8749285b24cb6e433eae6004/Vice-President-Harris-departs-Jacksonville-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/a83a0a6d8749285b24cb6e433eae6004/HARRIS-JACKSONVILLE.jpg"
+        width: 650
+        height: 494
         isCached: true
 
 secured: "2NX0U1NnaEE/4WfdNee3PlpfBOX8+o/P34dhxdZfqFzgfpxDFYAn02cABdO9VYGFEkbSVnpCuZy3+5t1KbVrf0P2SwdJKdj33lJHoV9s+S9sO0NzwR/bz/ds0Wl6sTmnrzwgUG9Wz/36/GM6PVMBra7DIuSFhSUKs48rmr1yfqKTw7YjJJCI1/v/7bjOBQ19XDqg9q1Kl4Yk9+r0DyZTR+DAXytBM2YQuGqYBNwtPc7Nbwrp0kH5L6tLUeRSnW9H1hcXTW6Sw8KAYjlWpASUEkuiAAoy7XmMKW9kUG7TiXHd2pTp9Z8nEMpwlRY9kMKzRJC5ctIMI92Mhc0HLqYkMuHPMykR6SiUm2hK0fny7Gk=;6+K5Ag5TJHfVwKcJuTCdeg=="

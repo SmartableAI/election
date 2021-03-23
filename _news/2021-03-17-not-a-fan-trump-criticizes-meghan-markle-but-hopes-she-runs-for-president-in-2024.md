@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Meghan McCain retracts defense of Donald Trump calling COVID ‘the China Virus’"
+    excerpt: "The View” host Meghan McCain is apologizing for her defense of former president Donald Trump’s referring to COVID-19 as “The China Virus.” Her reversal follows a condemnation from HBO’s John Oliver on his Sunday night program “Last Week Tonight” — and a spate of violence against Asian-Americans."
+    publishedDateTime: 2021-03-22T23:24:00Z
+    webUrl: "https://www.nydailynews.com/snyde/ny-maghan-mccain-donald-trump-john-oliver-sorry-china-virus-20210322-nrxuq6afhbemnbigg7j2rd2dt4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/snyde/ny-maghan-mccain-donald-trump-john-oliver-sorry-china-virus-20210322-nrxuq6afhbemnbigg7j2rd2dt4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-maghan-mccain-donald-trump-john-oliver-sorry-china-virus-20210322-nrxuq6afhbemnbigg7j2rd2dt4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 71
+    images:
+      - url: "https://www.nydailynews.com/resizer/HnGnNeig_1aBlg1kRTTojsTXih0=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/YUEECXX7ENAGJKFCRUWTQKRKPA.jpg"
+        width: 1200
+        height: 844
+        isCached: true
 
 secured: "4s2xyXFIjaQudwx+IclNOyR+ltLYHDw06p7S5uuSJhn1Z5iF27zddY5ck1JYaMasbmodo3EtbVpfdV7dwDMnBBNr/QTKIzwDNuEK8laXfY3ODmmFgyHzEcRXvBZ3PPsjQjbdWBbpefGFgoliURhOF7rrBs1y5wmZ09WGvWVlb049lmSJ47zS7crUyMJ2ZubsO1jrePUubqSau4ffCt6fyS50oFj/0CKwwdoDCXjS7JEwzbxXk9gipBMZlK540pnt7ntWQO+i13RBsEoyEeQDZbm8PktJHN1gcpIuSSN9EF9kfyOPpku9ldixErk6MNTtMT62hGcKzvGyOt7n8RkQRkWbAC3K7WPADpuJyVE37hFZNbzJg+yttsu+AR/AVNgrIjYexc80B3+mlAY61YnJuSK53af2/8KmydupRiuuzCLIUWqDTCGfmAuzyLpGbVOb8yJF8Fgl/u55L1cYY8taV2mMKXQ46yd1CHIxs9AxUmrvrYTckmoMDZ0uEH0avHgnF29uGE8Q0yDOmUFs+sItmA==;3ys4IDnTjnKtluMx3z9cXA=="
 ---

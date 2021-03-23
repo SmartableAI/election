@@ -284,6 +284,22 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden's moves on Obamacare attract new signups -- and a second look from red states"
+    excerpt: "(CNN)President Joe Biden is wasting no time establishing his vision for the Affordable Care Act and reversing many Trump-era measures aimed at weakening it. In his first two months in office, Biden has taken several steps to bolster the landmark health ..."
+    publishedDateTime: 2021-03-22T18:52:00Z
+    webUrl: "https://www.cnn.com/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216142504-20210216-obamacare-repair-bandaid-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "9s9rynHe6SRaQ51LUmVePopCmzTd87wnqj8N5LeoEtoHnbqEaG/WAHtgmN7pMhxSGnteKgvcLH2uUjz0tfHZ3Adkh8P7jvr/wvo8G7g1HyxpMAiRs75nf8Gn20smURQyLTi67cR9ZuSVpGgpVcoEs3dxTi6MHN+dkE4jXoxIqg6IavACGeXFrl5DJRx7cj0RRpCGYW98XVoMKyX81hJ7KJM9P8LDpZV3KrCAV6cZT6XmK9xVox+zgpRQIt9Zi7D3kRcGlFYHVelopmPFLluNcrJT2s5ZkiI6yB9Ypf9HMw03qhNxDQ2S6fB63d3cHaUYpVO0UXd4WGra74ueDt6iiVX6gOpxTuIGPRYLj+RigUw=;6VutVhZGNrOflBrNI09teQ=="
 ---

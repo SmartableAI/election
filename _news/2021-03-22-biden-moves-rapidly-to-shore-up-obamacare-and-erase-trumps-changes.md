@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
 type: article
 quality: 190
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Biden's moves on Obamacare attract new signups -- and a second look from red states"
+    excerpt: "(CNN)President Joe Biden is wasting no time establishing his vision for the Affordable Care Act and reversing many Trump-era measures aimed at weakening it. In his first two months in office, Biden has taken several steps to bolster the landmark health ..."
+    publishedDateTime: 2021-03-22T18:52:00Z
+    webUrl: "https://www.cnn.com/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216142504-20210216-obamacare-repair-bandaid-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "POLITICO Playbook: Biden stares down a mounting crisis on the border"
     excerpt: "President JOE BIDEN is about to come under a mountain of pressure from both parties to fix the situation at the border — and address immigration overall. With a humanitarian crisis growing — read this CBS story for the latest — progressives are losing their patience over how long it’s taking Biden to undo Trump-era policies and implement a more humane system he campaigned on."

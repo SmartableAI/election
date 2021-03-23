@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Meghan McCain retracts defense of Donald Trump calling COVID ‘the China Virus’"
+    excerpt: "The View” host Meghan McCain is apologizing for her defense of former president Donald Trump’s referring to COVID-19 as “The China Virus.” Her reversal follows a condemnation from HBO’s John Oliver on his Sunday night program “Last Week Tonight” — and a spate of violence against Asian-Americans."
+    publishedDateTime: 2021-03-22T23:24:00Z
+    webUrl: "https://www.nydailynews.com/snyde/ny-maghan-mccain-donald-trump-john-oliver-sorry-china-virus-20210322-nrxuq6afhbemnbigg7j2rd2dt4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/snyde/ny-maghan-mccain-donald-trump-john-oliver-sorry-china-virus-20210322-nrxuq6afhbemnbigg7j2rd2dt4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-maghan-mccain-donald-trump-john-oliver-sorry-china-virus-20210322-nrxuq6afhbemnbigg7j2rd2dt4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 71
+    images:
+      - url: "https://www.nydailynews.com/resizer/HnGnNeig_1aBlg1kRTTojsTXih0=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/YUEECXX7ENAGJKFCRUWTQKRKPA.jpg"
+        width: 1200
+        height: 844
+        isCached: true
 
 secured: "2Rdmc6c3JK5VETRYW4cLVezYcmPQNHJWWmcjj4comiSBXcXdAgT40TaYk8YR+6ytx7JwefwDdQqSN9SPuhLteTTGCrqFUNJ2Cqz74N1EXjpXgXbSB5kX76nyjaX4qfb6zell6oQcUykI6aMcnWLntFDfvm4yGAcHNAGYs1ATnHmgpg8ACHSKEtBtZmL/KrVKB27nz23JbXihvgiVNXw0xDw8FJn4jTEwlWICKKeD1vhtTnPOqDaj01fHiTiMndO09yQesEsEipOSKqxV5r3kga50zqryQHRszg6XifKQpShsyQSCdnyo9xXNoLD2WWdR3uR13LqySN33Zts7IAQP6V56V8mPmyh+BL0KN6alVms=;vacgMFIMngJRFzgyGWLiVA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-conversation-chin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-conversation-china.amp"
 type: article
 quality: 174
-heat: 334
+heat: 314
 published: true
 
 provider:
@@ -108,22 +108,6 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden’s inauguration priest under investigation by university after unspecified allegations"
-    excerpt: "The Rev. Kevin O'Brien, the president of Santa Clara University and the priest who delivered the Roman Catholic Mass for President Biden on the morning of his inauguration, is on leave from his job at the university after unspecified allegations against him. "
-    publishedDateTime: 2021-03-19T15:33:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-LbUv83gido/bidens-inauguration-priest-investigation-santa-clara-university"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

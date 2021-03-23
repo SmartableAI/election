@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Vice President Kamala Harris will travel to Jacksonville on Monday"
-excerpt: "Vice President Kamala Harris will travel to Jacksonville to tout the administration's $1.9 trillion coronavirus stimulus plan."
+excerpt: "American Rescue Plan will bring about $17 billion to Florida, according to estimates Vice President Kamala Harris will travel to Jacksonville on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an administration ..."
 publishedDateTime: 2021-03-19T22:17:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/19/vice-president-kamala-harris-jacksonville-florida-visit/4759495001/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/03/19/vice-president-kamala-harris-jacksonville-florida-visit/4759495001/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/4759495001"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4759495001"
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/vice-president-kamala-harris-jacksonville-florida-visit/4759495001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/03/19/vice-president-kamala-harris-jacksonville-florida-visit/4759495001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4759495001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4759495001"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -1024,6 +1028,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Black lawmakers fight hairstyle discrimination, prod Kamala Harris to join cause"
+    excerpt: "Four Black Democratic congresswomen want discrimination against people based on their style of hair to be considered racial discrimination — and they are seeking support from Vice President Kamala Harris."
+    publishedDateTime: 2021-03-22T22:31:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/22/black-lawmakers-fight-hairstyle-discrimination-pro/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/22/black-lawmakers-fight-hairstyle-discrimination-pro/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/22/black-lawmakers-fight-hairstyle-discrimination-pro/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 70
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2019/07/15/trump_democrats_31419_c0-118-2720-1704_s1200x700.jpg?0c267069145e844e3569bf4d0f5f6fa869747b21"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Authorities arrest Texas man near residence of Vice President Kamala Harris, report says"
     excerpt: "On Wednesday, the U.S. Secret Service arrested Paul Murray, 31, of San Antonio near the residence of Vice President Kamala Harris, according to a report from CNBC. Police said they found a rifle and ammunition in Murray's car. He was stopped near the ..."
     publishedDateTime: 2021-03-18T00:58:00Z
@@ -1236,6 +1256,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "slqd+LZSro/UdOhxv6vpNwoJwh43raCJW/LM8P62541bou4x3YcD1g5KkK28yQPXqGBQJAdVmJ3tLDorIbeQdwjmFGRCcGOUBchqU99HmLTPtDkL+og2QFL+HeiKijjJ5iHsipZNutsI4XL9xQGrBLHfG2dDFzE5cOdRl2/+/0k6wIsP5uqK5LL48Tw5lcbaP3JXgUODjMinWEpmfjiqhkFgXx+R34s+mxH+JJKBLCwN9u+D8TMEcyGS4jNZ+PrFEfQqRaMN9rrjR5rqcAK6ZH/bPVUP3UwXe9MI93e0Shj2N2LFQCtCOjtYebo1XIbTdNz9bXYPT+Aphl+dxIWfCYYqZOAcNZfp4OmG/YqGuzZNfo44r9RUqeotXJkmMDrF00/v6GtBt9mkgU+XTMFBYih1vy9eRRIDnIXiB9m23z3a92j1TRotBXTk4FpQhvVcs+7uPoekI/jpC80ctz3mnblrdsrvgBt2wYcIrT76wmNbg9Vp+6VQpRtCyreIDc+EEj3oahYYk5kQE9rUeZgMfw==;K/xUq46ggq5OZr8fspzWuQ=="
+secured: "zUi0f93OkiokcsRSvsWLWV+Phv/QRuoibSuRW9hOpfS4vWNblWAvWxLF3845avI1pGfn0SJWUoEKxFOLOHjY5l7V8x8HFRC8ibeM9P7OG76emfrPW3osRowxJz29JM2xxQ7rR/LFSMgKAy3NxqCcikuN4EZi44qZnrXpgY/PCywxeyYJPppUuRkM/R0sgRrwokkfXR83b0k10of+aIap4pZwh66zoCyRQeMxJi2cQhE6/UExgCyMoJENv1AUfrMYdDdIhPpkyBDUMUsSDiqlGyXs6O8OTDG7Jx6XIFJnHZx8Qn7WQCoYLtqXmm61VKRyViNZb7pkJuKLgTG207dxBxXoIpqs/c9Xbavp4NEtu7c=;jayDCkW+nTnE0D5xu8luBg=="
 ---
 
