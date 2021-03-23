@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' campaign trail gun rhetoric meets Biden's reality"
+    excerpt: "Presidential candidate Kamala Harris campaigned aggressively on gun control reform -- making the case that if Congress couldn't act to make changes, the president could.\n    \n"
+    publishedDateTime: 2021-03-23T20:52:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NUijMiL4x20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Harris to visit Georgia, a battleground that paved way for agenda "
     excerpt: "Democratic voters in Georgia may have helped deliver Joe Biden's long quest to win the White House, but they take even prouder ownership of their critical role in cementing an early chapter of his legacy through the passage of the American Rescue Plan.\n    \n"
     publishedDateTime: 2021-03-19T00:37:03Z
@@ -81,67 +97,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Get ready for a raft of Biden court nominees"
-    excerpt: "The Biden administration has pledged a laser-like focus on the judiciary in the coming months, vowing to not only prioritize nominations but also cast a wide net in its search for potential appointees.\n    \n"
-    publishedDateTime: 2021-03-11T10:01:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84mfnKgulJg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/courts-biden-nominees/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/courts-biden-nominees/index.html"
+  - title: "Southwest border crisis leaves Biden vulnerable on all sides"
+    excerpt: "The White House may be loath to call the situation on the Southwestern border, which hundreds of migrant children are crossing alone, a crisis. But it's fast becoming a political emergency for the new President.\n    \n"
+    publishedDateTime: 2021-03-16T10:45:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jxxANoSNWxc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-immigration-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-immigration-border/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310155759-03-biden-jj-merck-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308160143-children-border-patrol-210225-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "This is the Biden way to get things done"
-    excerpt: "There's a story President Joe Biden likes to tell about himself.\n    \n"
-    publishedDateTime: 2021-03-11T14:10:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5m--FVyBtuI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/president-biden-way-covid-relief-bill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/president-biden-way-covid-relief-bill/index.html"
+  - title: "North Korea conducts first weapons test of Biden's presidency "
+    excerpt: "North Korea carried out a weapons test last weekend, launching two projectiles, according to three US officials. The move was widely expected as Kim Jong Un sends a message to the Biden administration about the country's importance in the region.\n    \n"
+    publishedDateTime: 2021-03-23T21:48:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nI_MPH77030/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/north-korea-weapons-test-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/north-korea-weapons-test-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310223431-joe-biden-0308-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Here's how Biden wants to raise taxes on the wealthy and corporations"
-    excerpt: "Now that he's signed the Democrats' $1.9 trillion Covid relief package, President Joe Biden is turning to the next items on his legislative agenda -- and laying the groundwork for raising taxes on wealthier Americans to pay for them.\n    \n"
-    publishedDateTime: 2021-03-18T12:07:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/80JLnw3hNdw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/biden-tax-plan-explainer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-tax-plan-explainer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317103228-01-biden-taxes-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Senate set to confirm Deb Haaland as Biden's Interior secretary in historic vote "
-    excerpt: "The Senate is slated to vote on Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary.\n    \n"
-    publishedDateTime: 2021-03-15T10:05:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iXRGveVPo_c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224140455-01-haaland-confirmation-hearing-0224-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210313182809-biden-north-korea-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -161,19 +145,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How the border problem caught the Biden team off guard, and how they've scrambled to fix it "
-    excerpt: "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n"
-    publishedDateTime: 2021-03-21T00:41:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+  - title: "Speaking out against hate crimes, Biden tries to restore moral clarity to the presidency"
+    excerpt: "President Joe Biden and Vice President Kamala Harris moved to reassert control over America's bully pulpit Friday, decrying acts of violence against Asian Americans after a year in which former President Donald Trump inflamed racist attitudes by referring countless times to the coronavirus as \"Kung Flu\""
+    publishedDateTime: 2021-03-20T04:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgB6ALPRmew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -192,6 +176,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing/19atlanta-shooting-briefing-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Joe Biden's legislative priorities: Gun control and five other issues fight to move forward in Congress"
+    excerpt: "In the opening months of Joe Biden's presidency, Congress' job was crystal clear: Pass a relief bill and get it signed into law.\n    \n"
+    publishedDateTime: 2021-03-23T15:40:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FjdFmpsFaOA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta."
     excerpt: "The president has ordered that American flags be flown at half-staff to honor the victims of the Atlanta spa shootings."
@@ -225,21 +225,37 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote"
-    excerpt: "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ..."
-    publishedDateTime: 2021-03-15T18:50:00Z
-    webUrl: "https://www.cnn.com/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+  - title: "Inside Kamala Harris' historic first days"
+    excerpt: "(CNN)In the hours after her historic inauguration, Kamala Harris beamed into televisions across the country, delivering her first speech as vice president just steps beyond the sitting relic of ..."
+    publishedDateTime: 2021-01-24T11:31:00Z
+    webUrl: "https://edition.cnn.com/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 133
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224140455-01-haaland-confirmation-hearing-0224-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120130215-harris-emhoff-lincoln-memorial-0120-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden Endorses Filibuster Rule Changes"
+    excerpt: "In his speech on Monday, Mr. Durbin argued that the burden should be shifted to opponents of a given bill to maintain a filibuster rather than on supporters to produce 60 votes to advance it, a view similar to the one expressed by Mr. Biden. Senator Joe ..."
+    publishedDateTime: 2021-03-16T23:05:00Z
+    webUrl: "https://www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/16/us/politics/16new-washington-briefing-filibuster-video/16new-washington-briefing-filibuster-video-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "‘Kamala Harris says the Atlanta attacks have ‘frightened and shocked and outraged all people.’"
     excerpt: "Vice President Kamala Harris, the first woman and the first Asian-American to hold the office, expressed condolences for the families of the victims during a meeting with Irish officials on Wednesday. “This speaks to a larger issue which is the issue of ..."
@@ -256,6 +272,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-kamala/17atlanta-shooting-briefing-kamala-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Same old Joe: Rebuffing staff who smoked pot fits Biden’s MO"
+    excerpt: "Anyone surprised that Joe Biden would scrutinize the weed-smoking habits of his White House staff hasn't paid attention to one of the more consistent policy threads of his decades-long career. He’s just not ready to embrace cannabis. Despite a shift in ..."
+    publishedDateTime: 2021-03-19T23:56:00Z
+    webUrl: "https://www.politico.com/news/2021/03/19/same-old-joe-rebuffing-staff-who-smoked-pot-fits-bidens-mo-477283"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/74/23/be836012497c9fdf3e614f9b6575/210318-joe-biden-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Man arrested outside Vice President Kamala Harris' official residence and had rifle and ammunition in car"
     excerpt: "(CNN)Washington, DC, police arrested a Texas man outside Vice President Kamala Harris' official residence, the US Naval Observatory, in the nation's capital on Wednesday and he's now facing weapons and ammunition charges. A spokesperson for Washington's ..."

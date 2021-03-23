@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote"
+    excerpt: "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ..."
+    publishedDateTime: 2021-03-15T18:50:00Z
+    webUrl: "https://www.cnn.com/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224140455-01-haaland-confirmation-hearing-0224-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Behind the Byline: POLITICO White House Reporters on the First 100 Days of the Biden Administration"
     excerpt: "We caught up with our dynamic White House team to find out what it has been like covering the first 100 days of the Biden administration so far and what they will be paying attention to over the next four years."
     publishedDateTime: 2021-03-22T13:55:00Z

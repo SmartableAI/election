@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101198917708"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101198917708"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' marriage could challenge a racial taboo"
+    excerpt: "Many Black women shun White romantic partners for a variety of reasons. Vice President Kamala Harris' marriage to Doug Emhoff could help change that."
+    publishedDateTime: 2021-02-15T14:19:00Z
+    webUrl: "https://www.cnn.com/2021/02/15/us/kamala-harris-interracial-marriage-blake/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/us/kamala-harris-interracial-marriage-blake/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/us/kamala-harris-interracial-marriage-blake/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209105807-03-harris-emhoff-relationship-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris: Who She Is and What She Stands For"
     excerpt: "Ms. Harris, Joe Biden’s running mate and the first woman of color on a major party ticket, has said she can “prosecute the case” against President Trump. Joe Biden selected Kamala Harris as ..."
     publishedDateTime: 2021-02-18T06:02:00Z

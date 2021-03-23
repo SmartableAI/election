@@ -190,20 +190,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Same old Joe: Rebuffing staff who smoked pot fits Biden’s MO"
-    excerpt: "Anyone surprised that Joe Biden would scrutinize the weed-smoking habits of his White House staff hasn't paid attention to one of the more consistent policy threads of his decades-long career. He’s just not ready to embrace cannabis. Despite a shift in ..."
-    publishedDateTime: 2021-03-19T23:56:00Z
-    webUrl: "https://www.politico.com/news/2021/03/19/same-old-joe-rebuffing-staff-who-smoked-pot-fits-bidens-mo-477283"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/74/23/be836012497c9fdf3e614f9b6575/210318-joe-biden-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Why Biden Waited So Long to Throw the Press a Bone"
     excerpt: "According to a fresh POLITICO/Morning Consult poll, 62 percent of registered voters give Joe their approval. Biden must be asking himself: Why break a sweat running when coasting is what got you to where you always wanted to go? With the possible exception ..."
     publishedDateTime: 2021-03-19T22:26:00Z

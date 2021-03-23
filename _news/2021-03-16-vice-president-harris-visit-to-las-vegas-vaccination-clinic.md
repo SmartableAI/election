@@ -337,6 +337,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Boulder, Atlanta Shootings Put Joe Biden's Gun Control Plan Back on Agenda"
+    excerpt: "President Joe Biden has outlined his desire for reform of firearm legislation and two recent mass shootings in the U.S. have now pulled attention back to the issue of gun violence across the nation. A shooting in Boulder, Colorado, on Monday left ten ..."
+    publishedDateTime: 2021-03-23T11:26:00Z
+    webUrl: "https://www.newsweek.com/boulder-atlanta-shootings-gun-control-joe-biden-agenda-1578011"
+    ampWebUrl: "https://www.newsweek.com/boulder-atlanta-shootings-gun-control-joe-biden-agenda-1578011?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/boulder-atlanta-shootings-gun-control-joe-biden-agenda-1578011?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1762333/joe-biden-speaks-east-room.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Armed Man Arrested for Carrying Shotgun, Ammunition Near Kamala Harris' House"
     excerpt: "Members of the Secret Service detained an armed suspect near the home of Vice President Kamala Harris on Wednesday."
     publishedDateTime: 2021-03-17T22:20:00Z
@@ -1255,6 +1271,20 @@ related:
     quality: 55
     images:
       - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Vice President Kamala Harris coming to New Haven Friday"
+    excerpt: "Vice President Kamala Harris will travel to New Haven Friday on her first visit to the state as vice president, the White House announced Tuesday. Part of the administraion’s “Help is Here” campaign, Harris’ visit is expected to focus on how the ..."
+    publishedDateTime: 2021-03-23T19:54:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/21/rawImage.jpg"
         width: 2048
         height: 1365
         isCached: true

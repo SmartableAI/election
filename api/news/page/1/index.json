@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-23-kamala-harris-campaign-trail-gun-rhetoric-meets-bidens-reality.md",
+      "title": "Kamala Harris' campaign trail gun rhetoric meets Biden's reality",
+      "excerpt": "Presidential candidate Kamala Harris campaigned aggressively on gun control reform -- making the case that if Congress couldn't act to make changes, the president could.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NUijMiL4x20/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NUijMiL4x20/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 540,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html",
+      "publishedDateTime": "2021-03-23T13:52:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-biden-targets-assault-weapons-but-handguns-used-more-often-in-mass-shootings.md",
       "title": "Biden targets assault weapons, but handguns used more often in mass shootings",
       "excerpt": "According to Statistica, “handguns are involved in about 78% of mass shootings” in the United States between 1985 and 2021, making them the most common weapon used in these tragedies.",
@@ -162,42 +219,29 @@
       ]
     },
     {
-      "path": "_news/2021-03-23-joe-bidens-legislative-priorities-gun-control-and-five-other-issues-fight-to-move-forward-in-congress.md",
-      "title": "Joe Biden's legislative priorities: Gun control and five other issues fight to move forward in Congress",
-      "excerpt": "In the opening months of Joe Biden's presidency, Congress' job was crystal clear: Pass a relief bill and get it signed into law.\n    \n",
+      "path": "_news/2021-03-24-fired-yale-doc-says-her-tweet-diagnosing-trump-dershowitz-as-psychotic-was-free-speech.md",
+      "title": "Fired Yale doc says her tweet diagnosing Trump, Dershowitz as psychotic was free speech",
+      "excerpt": "who defended former President Donald Trump at his first impeachment trial. Bandy Lee, in a complaint filed in Connecticut federal court on Monday, accused Yale of breach of contract and wrongful termination, and said her tweet claiming Dershowitz had ...",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FjdFmpsFaOA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FjdFmpsFaOA/index.html",
+      "webUrl": "https://www.reuters.com/article/employment-yale-idUSL1N2LL2BR",
+      "originalUrl": "https://www.reuters.com/article/employment-yale-idUSL1N2LL2BR",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 179,
+      "highlight": null,
+      "heat": 97,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html",
-      "publishedDateTime": "2021-03-23T08:40:13-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LL2BR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LL2BR",
+      "publishedDateTime": "2021-03-23T11:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -214,7 +258,7 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -267,63 +311,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-live-updates-in-the-shadow-of-another-mass-shooting-biden-heads-to-ohio-on-stimulus-promotion-tour.md",
-      "title": "Live Updates: In the Shadow of Another Mass Shooting, Biden Heads to Ohio on Stimulus Promotion Tour",
-      "excerpt": "Young on Tuesday afternoon as deputy director of the Office of Management and Budget. Biden is expected to address the shooting in Boulder as he heads to Ohio. Signs of a partisan divide on guns re-emerged hours after the shooting. Shalanda Young is set to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/03/23/us/biden-news-today",
-      "originalUrl": "https://www.nytimes.com/live/2021/03/23/us/biden-news-today",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/23/multimedia/23washington-briefing-biden/23washington-briefing-biden-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html",
-      "publishedDateTime": "2021-03-23T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -396,7 +383,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 850,
+      "heat": 870,
       "tags": null,
       "images": [
         {
@@ -1316,7 +1303,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 169,
       "tags": null,
       "images": [
         {

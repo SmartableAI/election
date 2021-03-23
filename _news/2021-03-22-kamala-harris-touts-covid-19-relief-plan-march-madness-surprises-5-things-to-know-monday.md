@@ -345,6 +345,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Boulder, Atlanta Shootings Put Joe Biden's Gun Control Plan Back on Agenda"
+    excerpt: "President Joe Biden has outlined his desire for reform of firearm legislation and two recent mass shootings in the U.S. have now pulled attention back to the issue of gun violence across the nation. A shooting in Boulder, Colorado, on Monday left ten ..."
+    publishedDateTime: 2021-03-23T11:26:00Z
+    webUrl: "https://www.newsweek.com/boulder-atlanta-shootings-gun-control-joe-biden-agenda-1578011"
+    ampWebUrl: "https://www.newsweek.com/boulder-atlanta-shootings-gun-control-joe-biden-agenda-1578011?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/boulder-atlanta-shootings-gun-control-joe-biden-agenda-1578011?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1762333/joe-biden-speaks-east-room.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Armed Man Arrested for Carrying Shotgun, Ammunition Near Kamala Harris' House"
     excerpt: "Members of the Secret Service detained an armed suspect near the home of Vice President Kamala Harris on Wednesday."
     publishedDateTime: 2021-03-17T22:20:00Z
@@ -1250,6 +1266,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Vice President Kamala Harris coming to New Haven Friday"
+    excerpt: "Vice President Kamala Harris will travel to New Haven Friday on her first visit to the state as vice president, the White House announced Tuesday. Part of the administraion’s “Help is Here” campaign, Harris’ visit is expected to focus on how the ..."
+    publishedDateTime: 2021-03-23T19:54:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/21/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
     publishedDateTime: 2021-03-18T13:09:00Z
@@ -1298,6 +1328,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "8P2YkRC1k5rJSx7h8ed2upNHxlN9NMscyTubIOpmQTKF73Ko5kWkp1VF2/UxkxrAizEhirsIdI5dnbzXg2uIHfgTmMSxfpIB7A73fHI3J/fdXwSsrMC4Vj0HGDPDHOFh/MdkTA4fwML+XdJ6PhoZ3bW0vbpchk+d/5koIx/+8/GJDT2afSEB9eu1tNPF2gSM9Z0ohjRAGO4fsmeW0KEn3lCrqot+UeuFU/awVIweE9QA+gsbZFJuEtJq3kSXp1Q456FaqU6Bylr03vLBdRV+w8oLdhOxPmPXcDzXhhCM7Mxf7++h5Nz9GpcpGkgaFsrKXdi6jP+CHGDuWRySwS1fO6+audeNmySCyiFE5G+e3gs=;iDJwWylTWF8EU1L1JLLNoQ=="
+secured: "5me/+b8fwEb6J+WVNrrq0msTWrhFU1m/cxJOW8IEtaX4mFVE1ykGpbDCY2YyXGUzASesVlwAEdrVENhSCssP8o+0iOBH7W9lG6jNUvJWiW9mSYyncYjC2Xfjwp2OakoZnXo27yiprE7+V4gr78XFWEgzISmyg2S4q5R7GKZ85pBE6tzRKq7qMoZotyhBQvcjNtKjxoBynYECXrnNCAQ28WYYL2MVoy+3HemOMY5XC9X3awnrz8QP4k+6fm5YOjzoClsqpWrS9QtAlzOVhWviJ0v6sRisAoBilchk2sbbWv3HLwiz+aPwhR+hklz4v6I94mCPIP7zQ11wQHwFtMK7Z+Xi938i5lYyZQeKPrD3FomyTjztJL4IUJJiFc3tIJlmkEn3gBj1k7YtY8gkQo/wQxMP5HvU2cbh3msF9jE/iRuvjC4sO/DpacuNJPYsM54khv90rAO/jLsuYZllB/3vDa1ED14vyxpnoBrDU3U1n5mQz3FYNKk3r2Mpu4bfmNgcOha7GZPM42qPSIpTr8RQeA==;VXgy1mX45xyA/4rEbicexw=="
 ---
 

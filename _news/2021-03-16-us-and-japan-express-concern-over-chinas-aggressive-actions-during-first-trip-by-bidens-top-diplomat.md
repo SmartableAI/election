@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-tri
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html"
 type: article
 quality: 158
-heat: -1
-published: false
+heat: 158
+published: true
 
 provider:
   name: CNN
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Joe Biden's legislative priorities: Gun control and five other issues fight to move forward in Congress"
-    excerpt: "In the opening months of Joe Biden's presidency, Congress' job was crystal clear: Pass a relief bill and get it signed into law.\n    \n"
-    publishedDateTime: 2021-03-23T15:40:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FjdFmpsFaOA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "sJ85pec1Uckl3+J/VJR7dIFCyn9Xv8yCIdE/92wifpyaUfbk2V4/uzG7PA04DgEvnInoEkh+7R52aa7V6ta1BDfIaHgmm/duHxlT77OT86Cawf08m1Mm/2KMfm1yCgUGk53X/UTzUWfV2nrvAGx/CN4LcM2+971Ehjlz05rSHbg71IJfFHsSjzDmeIJNQaBARjwG3rndg7snbcFv4y8z9SMvnzOndcbBYa5cc4RqWP7yYehkugcPX/fWzZJIcihsRdTYym4xWnWfNPTTizqJ25Z75ShLVPuKbzPHp4Aarym5SQGCyFDGs7i1cjyuHGOYbJWfV5ZfNMT25tOZlp6Ur28FYdCpSPO8Anlk0ZDSOEs=;CU6xbA3xMnlTZ3VqHGoy2g=="
 ---

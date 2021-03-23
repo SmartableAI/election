@@ -151,6 +151,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Kamala Harris calls Colorado shooting 'tragic'"
+    excerpt: "Vice President Kamala Harris on Tuesday described the deadly shooting Monday at a Colorado grocery store as “tragic.” “It’s tragic,” Ms. Harris said at an unrelated event. “Ten people going about their day, living their lives, not bothering ..."
+    publishedDateTime: 2021-03-23T18:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/23/kamala-harris-calls-colorado-shooting-tragic/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/23/kamala-harris-calls-colorado-shooting-tragic/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/23/kamala-harris-calls-colorado-shooting-tragic/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/23/aptopix_supermarket_shooting_23438_c0-125-3000-1875_s1200x700.jpg?5df86175492ddcdc04d9d2b6261257b2d49617ee"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
     excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
     publishedDateTime: 2021-03-14T15:43:00Z
@@ -276,6 +292,6 @@ related:
         height: 433
         isCached: true
 
-secured: "ZxLh0gqXRTgHIjmHgy2+odNsIhRHQ3qEh0dyVVbveuO1AdRJy2u43/OeKFR7axVmsE0ZqMirkoP8dvCPRxN49uzxbN+WCZLSHKKRtqmsY8ruEcTJVE4hL1jrDL3bauwIWWugODhcpayWTKFTgirdFXqstPHlBLGan2LtHTEQBCey+ZyHqCZwrQydE8GbQXZUxP9eSQqU92Ds0S0dcGRm+4mXp3tTmaI9mKKGzUIBVknH0y/1eTDvXllBLCqHVveWTjABVPziB1JtVr1O74zMlw/T8M1J6F7/sKKbfUY94RkUC9/dscwH7nGRz3aPLbqt5Ok3WaRQsNo0coer2jZvbSoLtu6psRoK7sIGB3CTH4Y=;mSXf8z/zZEwKOWYtB+M2wg=="
+secured: "0Oy5N16bX/kM/qGzVmWMSxNOQvPRXm0WNWFn/spehw9t7iOKH6MebCZGdvuYWMNweVr4wNQbkwJzIiO/mFxRdPifPmATDRnDmcMHwF3olqZNwSZxmi3tbeygTDzmKv2UsHrAOUgGuh8mFPOf8PoAhIOpjPn8TnUJaXINRNp1yeN8RqdsUDRyhCIxhLTipP/OE2xZsuj+VfH07a4kX6VeomDbeCHVicZOpO+9tEeor4J3EvCUXKWK11ERI/toNAsvMMW7KQi+womHPFazqx/T4jYXoTi4xxhpbHaruo5Ek1BRM0GIeNINHh2zJ5FTDj6PwPeyd1NhG2HJFpibiRqYsezEZcFpaK2Lhjt138TSmkdTw9c67WVuNkGI53LtdicCXh+S5NVy0vUxf/00FX8k2d5ZMzyxCr+9hHOTyldLtZbohMSPyLEF28nqZCrU6d80CoxpQSr71xNRrptoAMSdWwSj/8Hzp3O1nEfsnVt2LYzCglt6M+Ep+gAAva4bPNs/3C7zxSy3skzQRKCweLZu/A==;u5WQYfMn66QghCRQWPQEjA=="
 ---
 

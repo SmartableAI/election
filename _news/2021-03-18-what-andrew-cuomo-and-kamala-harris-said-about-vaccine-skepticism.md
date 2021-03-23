@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -138,6 +138,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/4081616510437/2021/1/871d8aef2b03e16d8629aa8a3246c017/v1.5/Women-Making-History-Lifetime-special-to-feature-Kamala-Harris.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Kamala Harris calls Colorado shooting 'tragic'"
+    excerpt: "Vice President Kamala Harris on Tuesday described the deadly shooting Monday at a Colorado grocery store as “tragic.” “It’s tragic,” Ms. Harris said at an unrelated event. “Ten people going about their day, living their lives, not bothering ..."
+    publishedDateTime: 2021-03-23T18:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/23/kamala-harris-calls-colorado-shooting-tragic/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/23/kamala-harris-calls-colorado-shooting-tragic/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/23/kamala-harris-calls-colorado-shooting-tragic/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/23/aptopix_supermarket_shooting_23438_c0-125-3000-1875_s1200x700.jpg?5df86175492ddcdc04d9d2b6261257b2d49617ee"
+        width: 1200
+        height: 700
         isCached: true
   - title: "VP Kamala Harris fights COVID vaccine hesitancy in Florida | Charlotte Observer"
     excerpt: "When the White House was deciding where in Florida Vice President Kamala Harris should travel this week, it looked at the numbers."

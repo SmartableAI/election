@@ -464,6 +464,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump Hotels are dropped by the high-end travel group Virtuoso."
+    excerpt: "The network’s list of hotel partners is vetted and evaluated every year and reads like a who’s who of aspirational travel. “As of March 8, 2021, Trump Hotels are no longer part of the Virtuoso network,"
+    publishedDateTime: 2021-03-23T20:24:00Z
+    webUrl: "https://www.nytimes.com/2021/03/23/business/trump-hotels-virtuoso.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/23/business/trump-hotels-virtuoso.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/23/business/trump-hotels-virtuoso.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/23/business/23economy-briefing-trumphotel/23economy-briefing-trumphotel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "House Democrats weigh ejecting GOP winner of contested Iowa race, dismissing comparisons to Trump's efforts to overturn election"
     excerpt: "brushing back attacks that they are seeking to subvert the will of voters just months after lambasting former President Donald Trump for trying to reverse his electoral defeat. While Democrats say what's happening in Iowa's 2nd Congressional District is ..."
     publishedDateTime: 2021-03-18T16:51:00Z

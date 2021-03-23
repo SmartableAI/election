@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote"
+    excerpt: "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ..."
+    publishedDateTime: 2021-03-15T18:50:00Z
+    webUrl: "https://www.cnn.com/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224140455-01-haaland-confirmation-hearing-0224-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "US has assessed North Korea could be preparing to carry out first weapons test since Biden took office"
     excerpt: "Washington (CNN)US intelligence has assessed that North Korea could be preparing to carry out their first weapons test since President Joe Biden came into office, according to several US officials speaking to CNN on condition of anonymity. The US officials ..."
     publishedDateTime: 2021-03-16T16:38:00Z

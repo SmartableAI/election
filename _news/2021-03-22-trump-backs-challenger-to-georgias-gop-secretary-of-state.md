@@ -48,6 +48,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
+    excerpt: "Sen. Lindsey Graham, R-S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
+    publishedDateTime: 2021-03-23T20:13:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8AnsHGyNlMk/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
+    excerpt: "S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
+    publishedDateTime: 2021-03-23T20:15:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "As Trump teases a 2024 presidential run, potential GOP rivals start making early visits"
     excerpt: "Donald Trump might not be the only one with an eye on 2024. Former Secretary of State Mike Pompeo heads to Iowa next week to advocate on behalf of conservatives. The trip by Pompeo, the former congressman from Kansas who served as CIA director in the Trump ..."
     publishedDateTime: 2021-03-20T10:39:00Z

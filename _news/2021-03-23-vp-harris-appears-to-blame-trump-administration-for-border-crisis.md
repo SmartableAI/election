@@ -205,6 +205,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Harris repeatedly fails to salute military on Air Force Two, breaking with precedent"
+    excerpt: "Vice President Kamala Harris is facing criticism for appearing to break with precedent and failing to salute the honor guard when boarding Air Force Two."
+    publishedDateTime: 2021-03-23T19:59:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J3-Wl5814-g/vp-kamala-harris-salute-air-force-two-military"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-salute-air-force-two-military.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-salute-air-force-two-military.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/biden-salute.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden set to address nation on anniversary of COVID-19 pandemic"
     excerpt: "President Biden is set to deliver his first primetime address to the nation since taking office Thursday night, to mark one year since the World Health Organization designated the novel coronavirus a pandemic and shutdowns started across the country."
     publishedDateTime: 2021-03-11T12:17:14Z
@@ -460,22 +476,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-press.gif"
         width: 600
         height: 337
-        isCached: true
-  - title: "Cornyn responds to Kamala Harris on 'Fox & Friends': Border situation is 'no laughing matter'"
-    excerpt: "The Biden administration needs to learn about the issues happening at the border, said Sen. John Cornyn, R-Texas, reacting to Vice President Kamala Harris laughing while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis."
-    publishedDateTime: 2021-03-23T16:43:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oUEqKt0_WKA/cornyn-kamala-harris-border-no-laughing-matter"
-    ampWebUrl: "https://www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Sen. Cornyn says Biden administration is 'in denial' over the border crisis"
     excerpt: "Biden admin can't build enough housing for 'sea of humanity' crossing the border, Republican tells 'Your World'"
@@ -875,6 +875,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cornyn responds to Kamala Harris on 'Fox & Friends': Border situation is 'no laughing matter'"
+    excerpt: "The Biden administration needs to learn about the issues happening at the border, said Sen. John Cornyn, R-Texas, reacting to Vice President Kamala Harris laughing while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis."
+    publishedDateTime: 2021-03-23T16:47:00Z
+    webUrl: "https://www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter"
+    ampWebUrl: "https://www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b785acf-217d-466f-9b67-e348685cf2da/fa1a4da6-3164-4de2-bf29-daf1144c2aa8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Biden Calls Vice President Kamala Harris \"President Harris\""
     excerpt: "Biden, on Thursday, said, \"Now when President Harris and I took a virtual tour of a vaccination center in Arizona not long ago, one of the nurses on that, on that tour injecting people, giving vaccinations,"
     publishedDateTime: 2021-03-18T00:00:00Z
@@ -906,6 +922,6 @@ related:
         height: 562
         isCached: true
 
-secured: "5NC711/1/AGtLMPnHBVYMonFwRZVLLfVbcseK6rULj9TWWK9MZpdibtj//uPwi5rzVbCP+i1qy9WlcULGzLTIfztVKzMTy5sbk2fnmhg3jnFgQeK3tLZ56Zt/OfqpY+ZXKCCBntMKnjmZ+1UH9ayS8TKejxkDG87K4Q58CBGLdigSQaGjTaXiMSNzGI+FrTXS8wBrSpnfaNHtjqlg191SFewi45IXIn8GJB+fRv8cj3CpuTJ7jTz6wxzPUgfwvbao9EefwJPQxM2o9IBnamd+vwCNNSBpfhW6CeTuCZldbY2Zj7HhTIfsVT311Ihw/ihKYw6cadLvXTChXMhvIHqjochSJEU2nYw7XWcl1csDJk=;gxFBaMhrmSgXTQCx0wrvXA=="
+secured: "VrmyF2T1l9a5DlntH6BwjsbSl66Cg1S4bFGDyEwBZ11ze6PjkIbcQP2++ypDWncXTwlk6tkJ4Ixml/yLh45EMxLNKfZK7bRJm0KDhb2uVSy57mEHbAuoCn5omo3MZIXJomdmRoYflWJzOT2PAZCnkYgZgOOuUOZQ6uW4dQyRURvYSfaHlRPUwdWEm9S/P5Ycp6LYRDVOnXjv3vMlLkIbrsdV/ZI08b/6Ub+mwTNd2dV9yM0tEtmUjooosJlj6aJ1XgBB81QbF5Jnhe4wQKfjb9dpISh7wc27zPZkK0pdYYOt5jp+w/639aWbNIcRj1bmnYMtcPcep6cI03Mh/DJ5TAioc0zmjK/QDq3mbQHs6in3+sB0+r7BoMH9Ye+rTnna9v7Q5m5t9dwf2rcSxOdaS+p1q4+yKym6+Xv+SHYJNStLbntL2EB6l3M85wzAMwBJ4YwTOA8bj03br/NZERXfluc20hR7nlzWTKuSGwASxXwiQGs3T82rW+m7xLrX4ZDIRC7uQnAx09kw5pbjH8PRYg==;bC9yy8mbbONvNNCOR8hlNw=="
 ---
 

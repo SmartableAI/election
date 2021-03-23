@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-23-joe-bidens-legislative-priorities-gun-control-and-five-other-issues-fight-to-move-forward-in-congress.md",
-      "title": "Joe Biden's legislative priorities: Gun control and five other issues fight to move forward in Congress",
-      "excerpt": "In the opening months of Joe Biden's presidency, Congress' job was crystal clear: Pass a relief bill and get it signed into law.\n    \n",
+      "path": "_news/2021-03-23-kamala-harris-campaign-trail-gun-rhetoric-meets-bidens-reality.md",
+      "title": "Kamala Harris' campaign trail gun rhetoric meets Biden's reality",
+      "excerpt": "Presidential candidate Kamala Harris campaigned aggressively on gun control reform -- making the case that if Congress couldn't act to make changes, the president could.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FjdFmpsFaOA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FjdFmpsFaOA/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NUijMiL4x20/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NUijMiL4x20/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 179,
+      "heat": 540,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html",
-      "publishedDateTime": "2021-03-23T08:40:13-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html",
+      "publishedDateTime": "2021-03-23T13:52:05-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -54,64 +54,8 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-live-updates-in-the-shadow-of-another-mass-shooting-biden-heads-to-ohio-on-stimulus-promotion-tour.md",
-      "title": "Live Updates: In the Shadow of Another Mass Shooting, Biden Heads to Ohio on Stimulus Promotion Tour",
-      "excerpt": "Young on Tuesday afternoon as deputy director of the Office of Management and Budget. Biden is expected to address the shooting in Boulder as he heads to Ohio. Signs of a partisan divide on guns re-emerged hours after the shooting. Shalanda Young is set to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/03/23/us/biden-news-today",
-      "originalUrl": "https://www.nytimes.com/live/2021/03/23/us/biden-news-today",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/23/multimedia/23washington-briefing-biden/23washington-briefing-biden-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html",
-      "publishedDateTime": "2021-03-23T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
+        "Democratic Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -184,7 +128,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 850,
+      "heat": 870,
       "tags": null,
       "images": [
         {
@@ -410,7 +354,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 550,
+      "heat": 530,
       "tags": null,
       "images": [
         {
@@ -511,25 +455,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-21-democrats-push-biden-to-take-on-pharma-to-boost-global-vaccine-supplies.md",
-      "title": "Democrats push Biden to take on Pharma to boost global vaccine supplies",
-      "excerpt": "President Joe Biden is facing growing pressure from Democrats to ensure that billions of people in poor countries have access to Covid-19 vaccines as the United States steps up its production and distribution of the shots. Biden has taken some first steps ...",
+      "path": "_news/2021-03-21-how-the-border-problem-caught-the-biden-team-off-guard-and-how-theyve-scrambled-to-fix-it.md",
+      "title": "How the border problem caught the Biden team off guard, and how they've scrambled to fix it ",
+      "excerpt": "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/21/coronavirus-vaccine-wto-477272",
-      "originalUrl": "https://www.politico.com/news/2021/03/21/coronavirus-vaccine-wto-477272",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 115,
+      "heat": 204,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/a5/c1/56a9e77d4538a1a5ff83b4c1e58a/19221-warren-sanders-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -537,16 +481,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T00:00:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html",
+      "publishedDateTime": "2021-03-20T17:41:58-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -563,7 +507,6 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -851,63 +794,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-19-biden-and-harris-to-visit-georgia-a-battleground-that-paved-way-for-agenda.md",
-      "title": "Biden and Harris to visit Georgia, a battleground that paved way for agenda ",
-      "excerpt": "Democratic voters in Georgia may have helped deliver Joe Biden's long quest to win the White House, but they take even prouder ownership of their critical role in cementing an early chapter of his legacy through the passage of the American Rescue Plan.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gkl_48Ay00c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gkl_48Ay00c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 497,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312150321-04-white-house-covid-relief-event-0312-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/georgia-biden-harris-visit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/georgia-biden-harris-visit/index.html",
-      "publishedDateTime": "2021-03-18T17:37:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-03-18-biden-administration-considering-6-month-extension-for-us-troops-in-afghanistan.md",
       "title": "Biden administration considering 6-month extension for US troops in Afghanistan",
       "excerpt": "The Biden administration is considering a six-month extension for American troops in Afghanistan, just weeks before the May 1 deadline that the Trump administration had negotiated with the Taliban to withdraw all US forces from the country, according to a defense official.\n    \n",
@@ -920,7 +806,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 351,
+      "heat": 371,
       "tags": null,
       "images": [
         {
@@ -1088,7 +974,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1593,7 +1479,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 415,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1690,6 +1576,119 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-us-and-japan-express-concern-over-chinas-aggressive-actions-during-first-trip-by-bidens-top-diplomat.md",
+      "title": "US and Japan express concern over China's 'aggressive actions' during first trip by Biden's top diplomat",
+      "excerpt": "US Secretary of State Antony Blinken criticized China's threats to regional stability during bilateral talks in Tokyo on Tuesday, warning that the United States and Japan would push back if necessary.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210316034657-antony-blinken-lloyd-austin-us-japan-0316-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
+      "publishedDateTime": "2021-03-16T04:54:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-biden-shots-in-arms-and-money-in-pockets.md",
+      "title": "Biden: ‘Shots in Arms and Money in Pockets’",
+      "excerpt": "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/video/us/politics/100000007655482/biden-coronavirus-checks-vaccinations.html",
+      "originalUrl": "https://www.nytimes.com/video/us/politics/100000007655482/biden-coronavirus-checks-vaccinations.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/15/us/politics/15new-washington-briefing-monday-morning-lead/15new-washington-briefing-monday-morning-lead-facebookJumbo.jpg?video-overlay",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     }

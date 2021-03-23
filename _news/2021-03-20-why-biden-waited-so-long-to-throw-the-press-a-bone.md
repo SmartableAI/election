@@ -190,20 +190,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Same old Joe: Rebuffing staff who smoked pot fits Biden’s MO"
-    excerpt: "Anyone surprised that Joe Biden would scrutinize the weed-smoking habits of his White House staff hasn't paid attention to one of the more consistent policy threads of his decades-long career. He’s just not ready to embrace cannabis. Despite a shift in ..."
-    publishedDateTime: 2021-03-19T23:56:00Z
-    webUrl: "https://www.politico.com/news/2021/03/19/same-old-joe-rebuffing-staff-who-smoked-pot-fits-bidens-mo-477283"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/74/23/be836012497c9fdf3e614f9b6575/210318-joe-biden-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Poor countries are fighting with drug companies over vaccines. Now Biden must pick a side."
     excerpt: "Some lawmakers want the WTO to waive patent protections on vaccines, but drug companies say the move would cut into their profits."
     publishedDateTime: 2021-03-22T00:09:00Z

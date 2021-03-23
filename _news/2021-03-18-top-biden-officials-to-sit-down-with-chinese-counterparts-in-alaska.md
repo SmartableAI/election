@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-alaska-meetings/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 153
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316151003-102-border-crisis-0314-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote"
+    excerpt: "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ..."
+    publishedDateTime: 2021-03-15T18:50:00Z
+    webUrl: "https://www.cnn.com/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224140455-01-haaland-confirmation-hearing-0224-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Southwest border crisis leaves Biden vulnerable on all sides"
-    excerpt: "The White House may be loath to call the situation on the Southwestern border, which hundreds of migrant children are crossing alone, a crisis. But it's fast becoming a political emergency for the new President.\n    \n"
-    publishedDateTime: 2021-03-16T10:45:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jxxANoSNWxc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-immigration-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-immigration-border/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308160143-children-border-patrol-210225-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden tells migrants not to come to US: 'Don't leave your town'"
     excerpt: "President Joe Biden said on Tuesday that he currently has no plans to visit the southern border, even as his administration scrambles to respond to a surge of migrant children coming into the US.\n    \n"
     publishedDateTime: 2021-03-17T00:41:24Z
@@ -173,6 +157,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170222175840-state-department-building-sign-photo-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate set to confirm Deb Haaland as Biden's Interior secretary in historic vote "
+    excerpt: "The Senate is slated to vote on Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary.\n    \n"
+    publishedDateTime: 2021-03-15T10:05:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iXRGveVPo_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224140455-01-haaland-confirmation-hearing-0224-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

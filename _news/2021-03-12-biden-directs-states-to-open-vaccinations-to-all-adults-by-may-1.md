@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Get ready for a raft of Biden court nominees"
+    excerpt: "The Biden administration has pledged a laser-like focus on the judiciary in the coming months, vowing to not only prioritize nominations but also cast a wide net in its search for potential appointees.\n    \n"
+    publishedDateTime: 2021-03-11T10:01:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84mfnKgulJg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/courts-biden-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/courts-biden-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310155759-03-biden-jj-merck-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How to watch Biden's first prime-time presidential address"
     excerpt: "President Joe Biden is expected to deliver his first prime-time address from the White House on Thursday night to commemorate the anniversary of the Covid-19 shutdown.\n    \n"
     publishedDateTime: 2021-03-11T12:00:59Z
@@ -76,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310155553-02-biden-jj-merck-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "This is the Biden way to get things done"
+    excerpt: "There's a story President Joe Biden likes to tell about himself.\n    \n"
+    publishedDateTime: 2021-03-11T14:10:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5m--FVyBtuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/president-biden-way-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/president-biden-way-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310223431-joe-biden-0308-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

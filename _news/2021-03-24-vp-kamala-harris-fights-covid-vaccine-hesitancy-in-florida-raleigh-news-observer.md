@@ -151,6 +151,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Kamala Harris calls Colorado shooting 'tragic'"
+    excerpt: "Vice President Kamala Harris on Tuesday described the deadly shooting Monday at a Colorado grocery store as “tragic.” “It’s tragic,” Ms. Harris said at an unrelated event. “Ten people going about their day, living their lives, not bothering ..."
+    publishedDateTime: 2021-03-23T18:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/23/kamala-harris-calls-colorado-shooting-tragic/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/23/kamala-harris-calls-colorado-shooting-tragic/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/23/kamala-harris-calls-colorado-shooting-tragic/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/23/aptopix_supermarket_shooting_23438_c0-125-3000-1875_s1200x700.jpg?5df86175492ddcdc04d9d2b6261257b2d49617ee"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "VP Kamala Harris fights COVID vaccine hesitancy in Florida | Charlotte Observer"
     excerpt: "When the White House was deciding where in Florida Vice President Kamala Harris should travel this week, it looked at the numbers."
     publishedDateTime: 2021-03-23T17:16:00Z
@@ -276,6 +292,6 @@ related:
         height: 433
         isCached: true
 
-secured: "U3cX83SEUMyBTWj+oaIDhSKTbKczy6vL9Ds68/06FwU7r8KXpjTL5F5UEyr2kaI0ov0UjYgwHClunpMaLTa/JQzqepkBXd5MeuhifxHDwOO7KS4eTnmDlUiHlEBcQv4KQGB9GR1/YD3o3E5FqzZNS8LyWViUtbLGbb6CFczxK5ozzykvihFVYzc6rYGOQuuF+ueHiOap8DSxixcqrDZShCcscltd0oY4MDwbC5qOM+mI6WNsZ2rCgaX/v5HZy3q7py19/tqpe+VNsm8pKO55M2gOXyerjY2ENK+t3VCcXTSMMqrVh+YkYaDkcSzFwBYLxDP9TJ0LKUUtYTBX8f4rcudh6hBn72+9PgZp8PIkJYE=;EPaEgebhJZ4kKqXPudAlXQ=="
+secured: "0kTBnyE6pVVtrPyZ/KdJkRXnyNhleOnQM2PtPV9qBLUBc722B5JsCOy3FskRb1SsZnM2K5PnjABnd0au/Z+VpST9wHSa9vdgMjzJYWDvudhnHLwzIDoaVAd/e1dVvYe8/HuJPqc4zWPseoqJwAFhyCnxJCb6b3hUe//74OchGhTsbNx19dP+wC54WZPb+esgltmIdcFA/8H3eiEL9GvZndi+Vh4wM6Qxdnz4dNtkUyFPcM2pb6FSrSEiGnVE6t/3yAHeeUKbyoFZj3XHV+8GNFbZgL26XgY7ZJDTB+Txk213ymJl8xmYc2eMWXoW5xMMM2sNnHyKAD05nC+luIMtDaUgC0Mi3Pj8MjLd/iqs7agLkli8N2lZ2cwyf/HLVV3YoiCPG9QlVoKMZtU3NLTpRRYtYuY5VEn9/J0JExT4nCwkIBXgqEOVcqcg//7709JPVhTLkGyrc++r+i/Zuj29AIafzG4mlCMB4+eETNBGrNcQaDQyBqj5JlrkWSpp4mOpwTnyuD5tuJ5D9p/h8i5k6w==;UguOUVTQVJvt4TVQZF5zbw=="
 ---
 

@@ -655,21 +655,21 @@ related:
         width: 677
         height: 545
         isCached: true
-  - title: "Biden says 'we have to act' after Colorado mass shooting"
-    excerpt: "Democrats say they are pushing toward a vote on expanded gun control measures as the nation reels from its second mass shooting in a week"
-    publishedDateTime: 2021-03-23T18:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/schumer-vows-vote-background-checks-latest-shooting-76632103"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/schumer-vows-vote-background-checks-latest-shooting-76632103"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/schumer-vows-vote-background-checks-latest-shooting-76632103"
+  - title: "Biden says ‘we have to act’ after Colorado mass shooting"
+    excerpt: "Democrats say they are pushing toward a vote on expanded gun control measures as the nation reels from it its second mass shooting in a week"
+    publishedDateTime: 2021-03-23T18:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8fc435347e9140f7bdf56077259afb7d_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
@@ -817,8 +817,8 @@ related:
         isCached: true
   - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
     excerpt: "President also urges Senate to pass bills that would close loopholes in background checks system – get all the latest news"
-    publishedDateTime: 2021-03-23T17:56:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a20b68f0842edbee7c5a9"
+    publishedDateTime: 2021-03-23T20:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
     type: article
@@ -1366,6 +1366,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Duckworth threatens Biden nominees over lack of diversity"
+    excerpt: "Sen. Tammy Duckworth says the lack of Asian American or Pacific Islander representation in President Joe Biden’s cabinet is “not acceptable” and is threatening to withhold her vote on key nominations"
+    publishedDateTime: 2021-03-23T21:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/duckworth-threatens-biden-nominees-lack-diversity-76638632"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_78025e49ed0645fa8108c5c8df7508c3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'We have to act': Biden calls on Congress to move fast on background checks, assault weapon ban after Boulder shooting"
     excerpt: "I don't need to wait another minute, let alone an hour, to take common sense steps that will save the lives in the future,' the president said."
     publishedDateTime: 2021-03-23T17:24:00Z

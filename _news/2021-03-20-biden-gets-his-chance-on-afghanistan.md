@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration announces extension of Affordable Care Act special enrollment by three months"
+    excerpt: "The Centers for Medicare & Medicaid Services is extending the Affordable Care Act special enrollment period by three months to August 15, the Biden administration announced Tuesday.\n    \n"
+    publishedDateTime: 2021-03-23T21:20:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/328sPJXVXVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/affordable-care-act-enrollment-august/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/affordable-care-act-enrollment-august/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212175810-obamacare-sign-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden running out of time to make decision on future of US mission in Afghanistan as situation worsens"
     excerpt: "With 50 days until the United States is supposed to complete a total withdrawal of troops and personnel from Afghanistan -- a move that a Pentagon report stated could be devastating to \"the survival of the Afghan state as we know it\" -- the Biden administration is running out of time to decide on a way"
     publishedDateTime: 2021-03-12T11:51:24Z

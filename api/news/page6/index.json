@@ -2,62 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-03-16-gop-targets-biden-border-crisis-in-new-ad-campaign-aimed-at-battleground-districts.md",
-      "title": "GOP targets \"Biden border crisis\" in new ad campaign aimed at battleground districts",
-      "excerpt": "Republicans are ramping up their attacks on Democrats over the ongoing crisis at the Southern border, including a new ad campaign accusing President Joe Biden of opening the border instead of focusing on opening schools and businesses.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312143856-02-border-migrant-crisis-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
-      "publishedDateTime": "2021-03-16T09:46:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-16-scarborough-faults-biden-for-permissive-border-message.md",
       "title": "Scarborough faults Biden for 'permissive' border message",
       "excerpt": "MORE faulted the Biden administration at then end of his \"Morning Joe\" program on Tuesday for a \"permissive\" border message that was leading to a surge of immigrants. Scarborough said he agreed ...",
@@ -122,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 415,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -277,6 +221,62 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-us-and-japan-express-concern-over-chinas-aggressive-actions-during-first-trip-by-bidens-top-diplomat.md",
+      "title": "US and Japan express concern over China's 'aggressive actions' during first trip by Biden's top diplomat",
+      "excerpt": "US Secretary of State Antony Blinken criticized China's threats to regional stability during bilateral talks in Tokyo on Tuesday, warning that the United States and Japan would push back if necessary.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210316034657-antony-blinken-lloyd-austin-us-japan-0316-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
+      "publishedDateTime": "2021-03-16T04:54:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {

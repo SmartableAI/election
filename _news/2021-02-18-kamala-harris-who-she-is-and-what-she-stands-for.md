@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' marriage could challenge a racial taboo"
+    excerpt: "Many Black women shun White romantic partners for a variety of reasons. Vice President Kamala Harris' marriage to Doug Emhoff could help change that."
+    publishedDateTime: 2021-02-15T14:19:00Z
+    webUrl: "https://www.cnn.com/2021/02/15/us/kamala-harris-interracial-marriage-blake/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/us/kamala-harris-interracial-marriage-blake/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/us/kamala-harris-interracial-marriage-blake/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209105807-03-harris-emhoff-relationship-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "VP Kamala Harris on battle to reopen schools amid pandemic"
     excerpt: "Vice President Kamala Harris speaks with Savannah Guthrie about the CDC’s guidance for reopening schools and stresses that teachers should be given priority for receiving the Covid-19 vaccine."
     publishedDateTime: 2021-02-18T00:50:00Z

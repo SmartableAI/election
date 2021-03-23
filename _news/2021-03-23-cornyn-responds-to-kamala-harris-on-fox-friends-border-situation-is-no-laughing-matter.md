@@ -2,13 +2,13 @@
 category: news
 title: "Cornyn responds to Kamala Harris on 'Fox & Friends': Border situation is 'no laughing matter'"
 excerpt: "The Biden administration needs to learn about the issues happening at the border, said Sen. John Cornyn, R-Texas, reacting to Vice President Kamala Harris laughing while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis."
-publishedDateTime: 2021-03-23T16:43:14Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oUEqKt0_WKA/cornyn-kamala-harris-border-no-laughing-matter"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oUEqKt0_WKA/cornyn-kamala-harris-border-no-laughing-matter"
+publishedDateTime: 2021-03-23T16:47:00Z
+originalUrl: "https://www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter"
+webUrl: "https://www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter"
 ampWebUrl: "https://www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cornyn-kamala-harris-border-no-laughing-matter.amp"
 type: article
-quality: 174
+quality: 124
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b785acf-217d-466f-9b67-e348685cf2da/fa1a4da6-3164-4de2-bf29-daf1144c2aa8/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -207,6 +207,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46201ea5-06b8-4224-aecd-58d01dd3df89/c52f7acd-e909-4d31-9921-c077241afbed/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "VP Harris repeatedly fails to salute military on Air Force Two, breaking with precedent"
+    excerpt: "Vice President Kamala Harris is facing criticism for appearing to break with precedent and failing to salute the honor guard when boarding Air Force Two."
+    publishedDateTime: 2021-03-23T19:59:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J3-Wl5814-g/vp-kamala-harris-salute-air-force-two-military"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-salute-air-force-two-military.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-salute-air-force-two-military.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/biden-salute.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden set to address nation on anniversary of COVID-19 pandemic"
     excerpt: "President Biden is set to deliver his first primetime address to the nation since taking office Thursday night, to mark one year since the World Health Organization designated the novel coronavirus a pandemic and shutdowns started across the country."
@@ -909,6 +925,6 @@ related:
         height: 562
         isCached: true
 
-secured: "Z0nP55fE+Y3s3AtSip5UNL+xjEy5KLkCmnrIi1+4JGyrJ5u0u36h1TUirpeoIfQYdxsKb1zZN8Y2XXYVfXicrFFWOldKFeB0GXt1KdQ5sWAk/xa2j/n+oU9Atg12rvpR76ls5SvTgs8Wxh+12N0/6Nli7U+fn5TEZBgXtsc1SNQHz94D5pzfH/VCLvvaWxCVQINfonbGzjZQaYVP6NFm2i36utPT1xefSvu5Cw+2AGtEIswNX0A9flAn0MruZIEsZjTFqYXsiejG3SjkM8mYdDYOdWrQO6lzTbLALjMx5ig8Tkwjvi7HjwxUji2+Jsf4wVm3oneQ/cortFLyHX5ZB4RIdYd9DeYjEx7pNSwYDPs=;C6CintCtOqScI3bpxQXjnA=="
+secured: "DeoLH9wEctLp/mUo/qdiVXjEcOTmx32JZOaHOspPMvkPMagM2zPjEB76djoNsO0yLqqHKQWiFE3QxozflqXxQ+K6QgZnZycE3C4LQZFNZrJhZoeffpXz0+KT1wE+jZrDnBu3P2U18LqENGhPYtpjLAq8jKtBLGCcXpGvut/k0F8QTV41BVwo2OzCwOQDAWiWH+wneWcHKYGMtEGqKP6KJcENnZrrbA9EZQdw7MhM3D9H4c0gxa1T7UQHn8XA6wA8GhNFsDojLf6cTB+ScSdTLxF3KOWdmLDTPseEkcaBA45+GuaGxvz7TN6BHExwvVjNV6CTL8gR0+JX4Zx3V4fnXOkm7pNa4Ut7cmm6X1ycaig=;Z5Wy0XoxPeIy1jcLcSIvRQ=="
 ---
 

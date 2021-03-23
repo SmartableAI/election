@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrato
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
 type: article
 quality: 174
-heat: 214
+heat: 254
 published: true
 
 provider:
@@ -44,6 +44,38 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Karl Rove: Biden's proposed tax increase would kill more than half a million US jobs"
+    excerpt: "President Biden's proposed tax hike will cost America more than 540,000 jobs if enacted, Fox News contributor Karl Rove told \"The Story\" Tuesday. "
+    publishedDateTime: 2021-03-23T21:24:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wt4DR7NdaHM/karl-rove-biden-tax-increase-kill-half-a-million-jobs"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-biden-tax-increase-kill-half-a-million-jobs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-biden-tax-increase-kill-half-a-million-jobs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd65cdd1-8886-445c-8d72-9bf796997813/dfbc9ace-b856-43c1-8de4-31b78f8cc37b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kayleigh McEnany blasts Biden administration for 'unprecedented' lack of media access to border"
+    excerpt: "Former White House press secretary Kayleigh McEnany slammed the Biden administration Tuesday for what she described as an \"unprecedented\" lack of media access to the border."
+    publishedDateTime: 2021-03-23T21:38:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany"
+    ampWebUrl: "https://www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

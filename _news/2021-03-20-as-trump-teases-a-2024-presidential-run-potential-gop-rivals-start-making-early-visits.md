@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
+    excerpt: "Sen. Lindsey Graham, R-S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
+    publishedDateTime: 2021-03-23T20:13:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8AnsHGyNlMk/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump backs challenger to Georgia's GOP secretary of state"
     excerpt: "Former President Donald Trump's endorsing a bid by Rep. Jody Hice to oust Georgia Secretary of State Brad Raffensperger in next year's Republican primary."
     publishedDateTime: 2021-03-22T15:30:00Z
@@ -63,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Getty-Jody-Hice.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
+    excerpt: "S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
+    publishedDateTime: 2021-03-23T20:15:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
     excerpt: "Mo Brooks of Alabama showcased his support and loyalty for former President Donald Trump as he launched his Senate campaign. To hammer home the point, he was accompanied by Stephen Miller, a top adviser to Trump during his tenure in the White House and the architect of the administration's hard line on illegal immigration."

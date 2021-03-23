@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 type: article
 quality: 190
-heat: 850
+heat: 870
 published: true
 
 provider:
@@ -446,6 +446,22 @@ related:
       - url: "https://static.politico.com/30/3f/d202d0484a63b5aa8ecb4a7f67f7/ap21059815349740-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump Hotels are dropped by the high-end travel group Virtuoso."
+    excerpt: "The network’s list of hotel partners is vetted and evaluated every year and reads like a who’s who of aspirational travel. “As of March 8, 2021, Trump Hotels are no longer part of the Virtuoso network,"
+    publishedDateTime: 2021-03-23T20:24:00Z
+    webUrl: "https://www.nytimes.com/2021/03/23/business/trump-hotels-virtuoso.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/23/business/trump-hotels-virtuoso.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/23/business/trump-hotels-virtuoso.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/23/business/23economy-briefing-trumphotel/23economy-briefing-trumphotel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Mary Trump has her next act — and believes her uncle’s guilty of sedition"
     excerpt: "Donald Trump’s niece is writing a new book and joining the board of LGBTQ+ group promoting female candidates for office."

@@ -339,7 +339,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 550,
+      "heat": 530,
       "tags": null,
       "images": [
         {
@@ -868,63 +868,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-21-democrats-push-biden-to-take-on-pharma-to-boost-global-vaccine-supplies.md",
-      "title": "Democrats push Biden to take on Pharma to boost global vaccine supplies",
-      "excerpt": "President Joe Biden is facing growing pressure from Democrats to ensure that billions of people in poor countries have access to Covid-19 vaccines as the United States steps up its production and distribution of the shots. Biden has taken some first steps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/21/coronavirus-vaccine-wto-477272",
-      "originalUrl": "https://www.politico.com/news/2021/03/21/coronavirus-vaccine-wto-477272",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/a5/c1/56a9e77d4538a1a5ff83b4c1e58a/19221-warren-sanders-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-21-a-similar-challenge-how-joe-biden-echoes-kennedys-on-us-foreign-policy.md",
       "title": "'A similar challenge': how Joe Biden echoes Kennedys on US foreign policy",
       "excerpt": "Joe Biden speaks in the Oval Office on St Patrick’s Day, in front of a bust of Robert F Kennedy. Photograph: Andrew Harnik/AP The president does not just share Irish roots with John, Robert and Ted Kennedy – he also wants to lead America in the world ...",
@@ -974,6 +917,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-how-the-border-problem-caught-the-biden-team-off-guard-and-how-theyve-scrambled-to-fix-it.md",
+      "title": "How the border problem caught the Biden team off guard, and how they've scrambled to fix it ",
+      "excerpt": "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html",
+      "publishedDateTime": "2021-03-20T17:41:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -1202,7 +1201,7 @@
       "originalUrl": "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2058,
+      "heat": 2078,
       "tags": null,
       "images": [
         {
@@ -1306,7 +1305,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1830,
+      "heat": 1870,
       "tags": null,
       "images": [
         {

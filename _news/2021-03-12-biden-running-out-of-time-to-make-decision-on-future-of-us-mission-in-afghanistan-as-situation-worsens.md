@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration announces extension of Affordable Care Act special enrollment by three months"
+    excerpt: "The Centers for Medicare & Medicaid Services is extending the Affordable Care Act special enrollment period by three months to August 15, the Biden administration announced Tuesday.\n    \n"
+    publishedDateTime: 2021-03-23T21:20:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/328sPJXVXVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/affordable-care-act-enrollment-august/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/affordable-care-act-enrollment-august/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212175810-obamacare-sign-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Says Withdrawing U.S. Forces From Afghanistan by May Deadline Is ‘Tough’"
     excerpt: "President Biden said it would be “tough” to meet a May 1 deadline to withdraw all remaining U.S. troops from Afghanistan, publicly indicating for the first time that he could extend the American troop presence there."
     publishedDateTime: 2021-03-17T16:41:00Z

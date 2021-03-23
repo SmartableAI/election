@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Rick Scott Asked Trump to Not Get Involved in 2022 Races Until Candidates Win Primaries"
+    excerpt: "U.S. Senator Rick Scott, a Florida Republican who heads the GOP's Senate fundraising arm, wants former President Donald Trump's help in the 2022 election, but he's asking him to hold off a bit. \"I think he wants to win, so I think he's going to work with ..."
+    publishedDateTime: 2021-03-23T21:42:00Z
+    webUrl: "https://www.newsweek.com/rick-scott-asked-trump-not-get-involved-2022-races-until-candidates-win-primaries-1578266"
+    ampWebUrl: "https://www.newsweek.com/rick-scott-asked-trump-not-get-involved-2022-races-until-candidates-win-primaries-1578266?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rick-scott-asked-trump-not-get-involved-2022-races-until-candidates-win-primaries-1578266?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1762709/trump-scott.jpg"
+        width: 2500
+        height: 1904
+        isCached: true
 
 secured: "2oDanC1GPKSojziOqclkQm08HA9aGqace2dH5MlCZp72AOqtmcl9OMVjqxKECLjWhHxEsd9gl065t38FaF3DMWzPoYfUHreFDtAG8V1ZYbNv4JvYfB+WjSOdWwIa37Tcgkl+vEAhGNQBq7OkA6dgEEVZ7mBqy+aQilG5T/dtUG0ja2bPZ94d8Idas0fKRifqXUEf9eKKXCmro6RaTTukBzYCiJFSf2bqAc8q0N8RcyXEKyWqvYjYyC3KZBydlwgEeR8Jv7LLUOiHW0Vn+JS36/omsDpCDEdXw0oRimSNyWRd/dq0vxdFgM01xogPUDmgnA0vkulvlT+2ToaXKRlmTVUu6StVh+GjcEdg5kT37Eo=;57zMVfrSHJuSmzWyBN2ciw=="
 ---
