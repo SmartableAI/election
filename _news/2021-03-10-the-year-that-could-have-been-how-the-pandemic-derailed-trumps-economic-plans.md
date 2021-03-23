@@ -80,22 +80,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "After Being Scratched and Punched, Trump Wax Figure Is Removed"
-    excerpt: "Trump often complained that he felt battered and under assault, but that did not compare with the physical beating a wax statue of the former president recently endured at a Texas attraction. The figure of Mr."
-    publishedDateTime: 2021-03-20T13:39:00Z
-    webUrl: "https://www.nytimes.com/2021/03/20/us/trump-wax-museum.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/20/us/trump-wax-museum.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/20/us/trump-wax-museum.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/19/lens/19xp-waxfigure-photo/19xp-waxfigure-photo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "mvT5u8sw4H6kRoXYHzqP4rtF8NyZYzvRDyfdqWRhv70+joA5182aIq8rIFHGWmsJjvZPx0Wp6zesAU4kQTEXx1cFmi90VoEb6sb0SpW24Zq5g8vEHhVho1TP+uJi2WzDpUaSM7TPXx71d7v+8roZnJ2kxgzkE8q0SA2oKYsIhSqba7APu7LHDNG6Lkl5FVPkx0zOXHOrtv1POctEkbqHwBpAZYlOOwGtS8H5YCiMvTFnrong5MCYdHIZUAQG0UcqXE4gQccv+V9jxU97fiOvptdVTFmOQtooLthUDXQ4k8fFl19ts1v/q8WcfFiDOTRp2nF4JrMvtDjfEUzhdQqAHL8kEcnu5uNTuJA9qbknaQuuQ1OO93OhsPPwzBeKonhlWihCp/II2936ziaLV7P1UX6WNx9EbSKr5rlfnjX1VVVxkOf85lBNTcm/1ny1fqtNUXVTceMjo4BnQP/oB1hntdfdqwpqrUMtXaV2WKyRuzfBfHFi3i6yhCxBnlBqKBzR0p1yB29VR5Y4+n4gF52KEw==;RpOB3B/1so/HerJIk7/wIg=="
 ---

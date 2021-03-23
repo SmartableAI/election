@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/trump-russia-elections/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/trump-russia-elections/index.html"
 type: article
 quality: 174
-heat: 274
+heat: 234
 published: true
 
 provider:
@@ -78,36 +78,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433234/201204-mo-brooks-ew-1007a_ec81ffa32885c503eda5df6b732a7b2b.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Russia tried to help Trump in 2020, Iran tried to hurt him and China stayed out of it, says new report"
-    excerpt: "WASHINGTON — Despite repeated assertions by senior Trump administration officials that China sought to hurt then-President Donald Trump in the 2020 election, a newly declassified intelligence assessment finds that China did not seek to influence the outcome."
-    publishedDateTime: 2021-03-16T19:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-say-russia-tried-help-trump-china-n1261234"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261234"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261234"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 119
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615920341633_n_tur_brk_dilanian_russia_210316_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "An unlikely Trump turncoat shows the GOP way to resist his influence"
-    excerpt: "Jaime Herrera Beutler is not one to make waves on Capitol Hill. But during Donald Trump’s second impeachment trial, she almost created a tsunami. After she publicly revealed damaging details about Trump’s phone call with House Minority Leader Kevin ..."
-    publishedDateTime: 2021-03-15T13:57:00Z
-    webUrl: "https://www.politico.com/news/2021/03/15/jaime-herrera-beutler-profile-475932"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/44/7d/570675084c038e258a75ce3660b1/gettyimages-1134736564.jpg"
-        width: 5594
-        height: 3727
         isCached: true
 
 secured: "rMP3J7RQPNpEZ9zT5hJVx7OMSduTWbladrDDa5WVg2Rey/u0tMm5j2TIZDxNFKw6HKePG5irOvnuPpzZo4/UiOid72q3cpg5c8lb73wmycc//MMVDRnlBo8Vyl7IjWQ0qCfxtuiEtd863u+aag0TmS42IcrwFmkNtCBkuIzyDgztbihv3SzrQ1L98xoldViGOxocUYSBP8rMyzuKClEtXVf8kaIRZ0OGw8lcjDQRVbuNF5/wxWalXvJzCthKLiHQ8tT/tBvMKwsgde/Y2sFGoZ3uBoWEB0BJ7bUgIiD3EpjPriyZVj6azVL9YpFmOUuOPSrMQn7lcHMV7C5pF1bzZFSdmqNoDcgfV2PBjd1Ue/0=;GUvAtPjoDovFH+03puVBVA=="

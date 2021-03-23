@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'A cop on the beat again': Biden looks to reassert consumer watchdog agency sidelined by Trump"
+    excerpt: "Biden's administration has pinpointed the Consumer Financial Protection Bureau as a tool to help deliver on promises to address systemic racial inequality."
+    publishedDateTime: 2021-03-23T11:44:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/cop-beat-again-biden-looks-reassert-consumer-watchdog-agency-sidelined-n1261586"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261586"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261586"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 138
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_11/3457760/210318-joe-biden-se-1109a_c7b3ae24507d54a9e505d08a8cc92327.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Taiwan feared Biden would be softer than Trump on China. So far, it has been pleasantly surprised."
     excerpt: "TAIPEI, Taiwan — When Donald Trump lost re-election in November, there was one place far from his \"Make America Great Again\" rallies that also felt the loss keenly: Taiwan. Many Taiwanese favored Trump because of his administration's hard-line stance ..."
     publishedDateTime: 2021-03-18T10:13:00Z

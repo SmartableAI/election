@@ -559,6 +559,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Border influx of migrants poses political threat to Biden"
+    excerpt: "White house press secretary says there is no crisis at the border When President Joe Biden entered office, he listed what he called \"four historic crises:\" the coronavirus pandemic, the economy ..."
+    publishedDateTime: 2021-03-23T09:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/mexico-us-border-rtr-jc-210309_1615335310890_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Photos of migrant detention highlight Biden's border secrecy"
     excerpt: "President Joe Biden’s administration has tried for weeks to keep the public from seeing images from the border like those released Monday WASHINGTON -- President Joe Biden's administration has ..."
     publishedDateTime: 2021-03-23T04:15:00Z
@@ -574,6 +590,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_608066da989f4206981d096442817184_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Rivals seeking to gain as Biden mulls approach to Syrian war"
+    excerpt: "The Biden administration is mulling over America’s role in Syria’s ongoing conflict as the U.S. tries to break away from Middle East wars"
+    publishedDateTime: 2021-03-23T10:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/rivals-seeking-to-gain-as-biden-mulls-approach-to-syrian-war/2021/03/23/df44b0d0-8b91-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/rivals-seeking-to-gain-as-biden-mulls-approach-to-syrian-war/2021/03/23/df44b0d0-8b91-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rivals-seeking-to-gain-as-biden-mulls-approach-to-syrian-war/2021/03/23/df44b0d0-8b91-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."

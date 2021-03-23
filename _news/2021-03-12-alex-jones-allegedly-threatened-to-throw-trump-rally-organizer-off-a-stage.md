@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/alex-jones-police-invest
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/alex-jones-police-investigation-invs/index.html"
 type: article
 quality: 173
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "What's *really* at stake in Donald Trump's legal fights"
-    excerpt: "(CNN)Donald Trump isn't president anymore. So questions about whether he paid his taxes -- and how much he paid -- and how much he knew about the hush money paid during 2016 to two women alleging they had extramarital affairs with him, which he denies ..."
-    publishedDateTime: 2021-03-16T19:25:00Z
-    webUrl: "https://www.cnn.com/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311184305-trump-white-house-jan-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

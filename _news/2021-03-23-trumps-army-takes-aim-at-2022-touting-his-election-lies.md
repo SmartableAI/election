@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Trump's army takes aim at 2022 touting his election lies"
-excerpt: "Donald Trump has set the price of admission for Republicans in the midterm elections, and probably the next presidential race: an embrace of the big lie that he was cheated out of office by a historic voter fraud operation."
-publishedDateTime: 2021-03-23T01:01:00Z
-originalUrl: "https://www.cnn.com/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
-webUrl: "https://www.cnn.com/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+excerpt: "Donald Trump has set the price of admission for Republicans in the midterm elections, and probably the next presidential race: an embrace of the big lie that he was cheated out of office by a historic voter fraud operation.\n    \n"
+publishedDateTime: 2021-03-23T05:01:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pT7bT-_GAWA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pT7bT-_GAWA/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 type: article
-quality: 150
-heat: -1
-published: false
+quality: 190
+heat: 690
+published: true
 
 provider:
   name: CNN
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
@@ -32,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "The Point: Here's why Donald Trump thinks he deserves credit for the 2020 election"
+    excerpt: "Donald Trump lost the presidential race last November. And in January, Senate Republicans lost their majority -- thanks to Trump's relentless focus on the false notion that the election in Georgia (and elsewhere!) was stolen from him. Those twin losses, coupled with Republicans' failure to win back the"
+    publishedDateTime: 2021-03-17T20:26:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aAG_OxkAbHc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/trump-election-2020-covid-19-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/trump-election-2020-covid-19-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
+    excerpt: "The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against Covid-19.\n    \n"
+    publishedDateTime: 2021-03-15T22:43:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4hzpRhOEn7U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia prosecutor investigating Trump hires new evidence expert"
+    excerpt: "The Atlanta-area district attorney investigating former President Donald Trump, Fani Willis, is beefing up her office with a new evidence expert, according to a source familiar with the situation.\n    \n"
+    publishedDateTime: 2021-03-16T23:11:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Yvs6xr9qmM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/georgia-trump-investigation-evidence-expert-hired/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/georgia-trump-investigation-evidence-expert-hired/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316184757-mike-carlson-gbi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
     excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
     publishedDateTime: 2021-03-18T11:33:43Z
@@ -45,6 +92,38 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318071556-02-mo-brooks-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McCarthy tries to rewrite history by claiming that he didn't back Trump's efforts to overturn the election"
+    excerpt: "House Minority Leader Kevin McCarthy tried to rewrite history on Thursday by claiming that he was not involved in former President Donald Trump's efforts to overturn the election in a heated exchange during a news briefing.\n    \n"
+    publishedDateTime: 2021-03-18T22:45:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G_K5_Ln71uw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/mccarthy-rewrite-history-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mccarthy-rewrite-history-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318145819-kevin-mccarthy-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Brother of star witness in Trump's first impeachment set to be promoted by the Army"
+    excerpt: "Army Lt. Col. Yevgeny Vindman, whose brother Alex was a star witness in the House impeachment inquiry, is set to be promoted to colonel after overcoming alleged retaliation efforts by the Trump White House, a person familiar with the matter said.\n    \n"
+    publishedDateTime: 2021-03-16T01:47:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X6xB8dWG6bs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/yevgeny-vindman-to-be-promoted/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/yevgeny-vindman-to-be-promoted/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315212412-yevgeny-vindman-file-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,21 +143,101 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell quietly courts Senate primary candidates 'who can win' regardless of Trump ties "
-    excerpt: "Senate Minority Leader Mitch McConnell is quietly maneuvering to field a slate of GOP Senate candidates in critical battleground states, attempting to avoid a repeat of election cycles a decade ago when candidates emerged from primaries only to implode and deny his party the chance to take back the majority.\n"
-    publishedDateTime: 2021-03-12T23:46:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hHVw17Pt17o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/mitch-mcconnell-donald-trump-2022-senate-races/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/mitch-mcconnell-donald-trump-2022-senate-races/index.html"
+  - title: "Intelligence report contradicts claims by Trump and his team on China election interference"
+    excerpt: "Washington (CNN)The US intelligence report released Tuesday detailing foreign election interference in the 2020 election contradicts repeated statements from former President Donald Trump and senior members of his administration that China -- and not ..."
+    publishedDateTime: 2021-03-17T20:29:00Z
+    webUrl: "https://www.cnn.com/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/us-intel-report-trump-china-election-interference-claims/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 140
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "A Pro-Trump scam PAC returns with a vengeance"
+    excerpt: "President Donald Trump is out of office, but the scammers that used his name to raise money aren’t stopping. Over the past few weeks, POLITICO has received a number of robocalls from generically named political groups asking for cash in order to help in ..."
+    publishedDateTime: 2021-03-15T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/trump-scam-pac-robocalls-475917"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/trump-scam-pac-robocalls-475917"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/trump-scam-pac-robocalls-475917"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/01/68/675ec1ea48d8a38b552c157e9ae2/210314-trump-cpac-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
+    excerpt: "(CNN)The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against ..."
+    publishedDateTime: 2021-03-15T18:43:00Z
+    webUrl: "https://www.cnn.com/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What's *really* at stake in Donald Trump's legal fights"
+    excerpt: "(CNN)Donald Trump isn't president anymore. So questions about whether he paid his taxes -- and how much he paid -- and how much he knew about the hush money paid during 2016 to two women alleging they had extramarital affairs with him, which he denies ..."
+    publishedDateTime: 2021-03-16T19:25:00Z
+    webUrl: "https://www.cnn.com/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311184305-trump-white-house-jan-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump set to do at least 12 book interviews in the coming weeks"
+    excerpt: "Former President Donald Trump is scheduled to sit for a dozen interviews in the coming weeks. | AP Photo/Andrew Harnik Get ready for the Donald Trump book barrage. The former president is scheduled to sit for a dozen interviews in the coming weeks with authors examining his presidency,"
+    publishedDateTime: 2021-03-18T00:58:00Z
+    webUrl: "https://www.politico.com/news/2021/03/17/donald-trump-book-interviews-476864"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/17/donald-trump-book-interviews-476864"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/17/donald-trump-book-interviews-476864"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/98/e9/fd3f32c04cbba9f78ab0d9dff7b8/ap20257716753024.jpg"
+        width: 6000
+        height: 3998
+        isCached: true
+  - title: "After Being Scratched and Punched, Trump Wax Figure Is Removed"
+    excerpt: "Trump often complained that he felt battered and under assault, but that did not compare with the physical beating a wax statue of the former president recently endured at a Texas attraction. The figure of Mr."
+    publishedDateTime: 2021-03-20T13:39:00Z
+    webUrl: "https://www.nytimes.com/2021/03/20/us/trump-wax-museum.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/20/us/trump-wax-museum.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/20/us/trump-wax-museum.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/19/lens/19xp-waxfigure-photo/19xp-waxfigure-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Cotton calls for return of Trump border policies"
     excerpt: "A repeated talking point by Mayorkas on Sunday was that the Trump administration, which took a hard line on border policy, was to blame because it \"dismantled the orderly, humane and efficient way\" of dealing with the migrant children. Mayorkas said the U ..."
@@ -93,22 +252,6 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/07/c1/69b4871745b3965c09fc92d63ffb/210321-cotton-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump looks to take down Raffensperger in Georgia"
-    excerpt: "The former president is expected to endorse Rep. Jody Hice, who supported Trump's efforts to overturn the 2020 election results, against the Georgia secretary of state."
-    publishedDateTime: 2021-03-22T03:19:00Z
-    webUrl: "https://www.politico.com/news/2021/03/21/trump-raffensberger-georgia-jody-hice-477424"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/21/trump-raffensberger-georgia-jody-hice-477424"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/trump-raffensberger-georgia-jody-hice-477424"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/b5/71/a9c1e6e94f158387f7f935b5d1b7/ap21004094902869-1.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -128,35 +271,141 @@ related:
         width: 2500
         height: 1560
         isCached: true
-  - title: "Fired by Trump White House, brother of impeachment witness Vindman now says Army set to promote him"
-    excerpt: "The brothers were both Army officers serving on the National Security Council when they raised concerns about former President Donald Trump's phone call to Ukranian President Volodymyr Zelensky in July 2019. They told an NSC lawyer that Trump's phone call ..."
-    publishedDateTime: 2021-03-16T12:43:00Z
-    webUrl: "https://www.nbcnews.com/news/military/fired-trump-white-house-brother-impeachment-witness-vindman-now-says-n1261166"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261166"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261166"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 121
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_35/3407686/200826-yevgeny-vindman-jm-1531_81b99312784f6566b63cd89ba04236a9.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Psaki: Trump Administration Rhetoric Contributed to Anti-Asian Threats"
-    excerpt: "new video loaded: Psaki: Trump Administration Rhetoric Contributed to Anti-Asian Threats transcript The White House press secretary, Jen Psaki, on Wednesday told reporters that rhetoric about the coronavirus used by former President Donald J. Trump’s ..."
-    publishedDateTime: 2021-03-17T22:10:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007660230/trump-asian-americans-georgia.html"
+  - title: "Trump Endorses a Loyalist, Jody Hice, for Georgia Secretary of State"
+    excerpt: "By supporting a challenger to Georgia’s current secretary of state, Brad Raffensperger, the former president signaled that he wants Republicans who opposed his election falsehoods to pay politically."
+    publishedDateTime: 2021-03-22T20:49:00Z
+    webUrl: "https://www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/22/us/politics/jody-hice-raffensperger-trump-georgia.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-biden/17atlanta-shooting-briefing-biden-facebookJumbo.jpg?video-overlay"
+      - url: "https://static01.nyt.com/images/2021/03/22/us/politics/22trump-georgia/merlin_175037406_ecba1dd5-1d7e-43d4-99c1-22f4c13dc367-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Mary Trump has her next act — and believes her uncle’s guilty of sedition"
+    excerpt: "Donald Trump’s niece is writing a new book and joining the board of LGBTQ+ group promoting female candidates for office."
+    publishedDateTime: 2021-03-20T19:22:00Z
+    webUrl: "https://www.politico.com/news/2021/03/19/mary-trump-donald-lgbtq-477130"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/19/mary-trump-donald-lgbtq-477130"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/19/mary-trump-donald-lgbtq-477130"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/8a/6f/f599a0ed490695cb6f5ec7b241d7/210318-marytrump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Vindman twin set for promotion after bad evaluations from Trump appointees"
+    excerpt: "Army Lt. Col. Yevgeny Vindman is set to be promoted to full colonel, despite attempts by loyalists to former President Donald Trump to derail his career following his bit role in the president's first impeachment, according to two people familiar with the ..."
+    publishedDateTime: 2021-03-15T17:02:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/c8/ba/b179bcff47c29f2790130692dfb8/20210315-yevgeny-vindman-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "House Democrats weigh ejecting GOP winner of contested Iowa race, dismissing comparisons to Trump's efforts to overturn election"
+    excerpt: "brushing back attacks that they are seeking to subvert the will of voters just months after lambasting former President Donald Trump for trying to reverse his electoral defeat. While Democrats say what's happening in Iowa's 2nd Congressional District is ..."
+    publishedDateTime: 2021-03-18T16:51:00Z
+    webUrl: "https://www.cnn.com/2021/03/18/politics/iowa-2nd-district-rita-hart-marianette-miller-meeks-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/iowa-2nd-district-rita-hart-marianette-miller-meeks-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/iowa-2nd-district-rita-hart-marianette-miller-meeks-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 121
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317153143-rita-hart-mariannette-miller-meeks-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Russia tried to help Trump in 2020, Iran tried to hurt him and China stayed out of it, says new report"
+    excerpt: "WASHINGTON — Despite repeated assertions by senior Trump administration officials that China sought to hurt then-President Donald Trump in the 2020 election, a newly declassified intelligence assessment finds that China did not seek to influence the outcome."
+    publishedDateTime: 2021-03-16T19:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-say-russia-tried-help-trump-china-n1261234"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261234"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261234"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 119
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615920341633_n_tur_brk_dilanian_russia_210316_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "An unlikely Trump turncoat shows the GOP way to resist his influence"
+    excerpt: "Jaime Herrera Beutler is not one to make waves on Capitol Hill. But during Donald Trump’s second impeachment trial, she almost created a tsunami. After she publicly revealed damaging details about Trump’s phone call with House Minority Leader Kevin ..."
+    publishedDateTime: 2021-03-15T13:57:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/jaime-herrera-beutler-profile-475932"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/44/7d/570675084c038e258a75ce3660b1/gettyimages-1134736564.jpg"
+        width: 5594
+        height: 3727
+        isCached: true
+  - title: "Dems pass on repealing Trump regulations — for now"
+    excerpt: "After taking full control of the government, Republicans and former President Donald Trump wielded a little-used law to roll back more than a dozen Obama-era regulations. But Democrats are taking a different approach. Democrats have yet to use the ..."
+    publishedDateTime: 2021-03-16T09:10:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/democrats-trump-regulations-476162"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f2/e4/32fcf83f46429404bcb7ceb4e4a4/gettyimages-1197853434-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The former Trump official advising House Republicans on immigration"
+    excerpt: "Chad Wolf, the former acting homeland security secretary, has been meeting with House Republicans, providing them with advice and counseling as it relates to immigration, your Huddle host has learned."
+    publishedDateTime: 2021-03-17T13:11:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/03/17/the-former-trump-official-advising-house-gop-on-immigration-492143"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Texas museum removes Trump wax figure after visitors kept attacking it"
+    excerpt: "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ..."
+    publishedDateTime: 2021-03-19T17:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/texas-museum-removes-trump-statue-after-visitors-kept-attacking-it-n1261546"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_11/3458115/210319-donald-trump-thumbs-up-ew-1028a_232a47b4c823a1ee6a2954da3fe2ba26.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How to mess up a possible Trump endorsement in one easy step"
     excerpt: "The Senate GOP primary in Alabama is a case study in the various ways to win over Trump — and how to alienate him too."
@@ -173,6 +422,6 @@ related:
         height: 773
         isCached: true
 
-secured: "wTlpEw1pKIaDbZoz/HIpeQW5koIOuBCRFKzfuCPWMLdjtqVVn4JT14pD90dB4zCRSdq/EzQrMBSt9OQBi1mJPcDpL5zGoW++z088HDu2sUfl5+9XVjIrfkqtvZ+vygbqzm4DkDja0Y+QmP585+/IRszlNFCKkY+s3coRWdHfCQKSroXoA7eaLQ1v+gjzPPOpWjfN8zs1qVuxr8/RsJltq1vrM4Lxv1KGRID0pjmcQbyHGgNq+bENh5fKxJzmPArndJM1Cehva6kcBx94tP0q3plviL0+HU2tcIKaAelwNyZ+QNO/djP1LzZ4rjfWqNgKwlqkeFmeC9n25QZWqpXyBpxTuaUzBL8j2/ju0Hgm/llfuvfx7R0XSy0ZXwTEpD2XoruVy+vo2ft2ecsO2lAdqkP3l9HdMfsxJ+2TM9hreAbs2D33Fbsn2XF76ieLsOf0Dbfgw4O5wlMh0VnYMA5vPLiZp1Ay1aI6/YAtUnXdfSF9ycBLaOzYRZ5n1iRkt7i935rVG+KnpMRaSlw0T/EJSA==;JB7kMu3P2/0bCWQmSYxbfA=="
+secured: "STpUcSlBjOT/VtMTKtKG/fob/yF3/pdbcFWh/xgUGo6F5zWWD1Epz3duIjR9G0P62McKNQ0rFUUpNDxxSZDDSv4g/yQjbqSBYmXgCqHb8RDutsBG6e0wWbNkP5r01pWxpmzpyRBE2iLhzJeXTCCnoNzK4vPRnz8sx5pKA6k25+EG8Shb4IULfOhk2E+eN4QjSOX3dpcS5xkbKw98Ha6zzXB7A/+8c0+2B/ucAN0FZwrHjeU2jCMDBEyGXSltaCTLRwzItzQ10f2Fc00XdJ1U2uHBornlG5hVQH9lgUnj/7d44BUrMPuCefZBwzdIqt+8uQn546m9YnK7DIFadUuBHWDB8BbxWunf2gc15m6sLBE=;2zyXsb9c1o1oyqBZK4wcFQ=="
 ---
 

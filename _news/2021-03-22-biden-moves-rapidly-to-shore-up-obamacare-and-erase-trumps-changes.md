@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
 type: article
 quality: 190
-heat: 530
+heat: 550
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126074106-stimulus-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "'A cop on the beat again': Biden looks to reassert consumer watchdog agency sidelined by Trump"
+    excerpt: "Biden's administration has pinpointed the Consumer Financial Protection Bureau as a tool to help deliver on promises to address systemic racial inequality."
+    publishedDateTime: 2021-03-23T11:44:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/cop-beat-again-biden-looks-reassert-consumer-watchdog-agency-sidelined-n1261586"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261586"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261586"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 138
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_11/3457760/210318-joe-biden-se-1109a_c7b3ae24507d54a9e505d08a8cc92327.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Russia stoked Ukraine allegations, used Trump allies to undermine Biden, U.S. intel agencies say"
     excerpt: "Russia tried again last year to help former President Donald Trump win the White House, the U.S. intelligence community said Tuesday in a long-awaited postmortem — adding that a \"primary\" tactic in that effort was the spreading of corruption allegations ..."

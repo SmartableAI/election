@@ -477,6 +477,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Video of Kamala Harris Laughing at Border Crisis Question Fuels Republican Outrage"
+    excerpt: "Vice President Kamala Harris is under fire from opponents on the right after laughing while taking questions from reporters about what Republicans are terming a \"crisis\" at the southern border. Harris spoke with journalists outside Air Force One in Florida ..."
+    publishedDateTime: 2021-03-23T10:24:00Z
+    webUrl: "https://www.newsweek.com/video-kamala-harris-laughing-border-crisis-question-fuels-republican-outrage-1578014"
+    ampWebUrl: "https://www.newsweek.com/video-kamala-harris-laughing-border-crisis-question-fuels-republican-outrage-1578014?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-kamala-harris-laughing-border-crisis-question-fuels-republican-outrage-1578014?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1762335/kamala-harris-joe-biden-cdc.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris Tells Asian American Community 'We Stand With You' After Georgia Shootings"
     excerpt: "Vice President Kamala Harris expressed solidarity with the Asian American community after multiple shootings in Georgia on Tuesday left eight people dead, including six Asian women. Harris, the first South Asian, Black and female vice president ..."
     publishedDateTime: 2021-03-17T17:04:00Z

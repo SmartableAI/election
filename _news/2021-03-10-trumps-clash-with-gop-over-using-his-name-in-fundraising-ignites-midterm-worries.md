@@ -79,36 +79,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Russia tried to help Trump in 2020, Iran tried to hurt him and China stayed out of it, says new report"
-    excerpt: "WASHINGTON — Despite repeated assertions by senior Trump administration officials that China sought to hurt then-President Donald Trump in the 2020 election, a newly declassified intelligence assessment finds that China did not seek to influence the outcome."
-    publishedDateTime: 2021-03-16T19:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-say-russia-tried-help-trump-china-n1261234"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261234"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261234"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 119
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615920341633_n_tur_brk_dilanian_russia_210316_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "An unlikely Trump turncoat shows the GOP way to resist his influence"
-    excerpt: "Jaime Herrera Beutler is not one to make waves on Capitol Hill. But during Donald Trump’s second impeachment trial, she almost created a tsunami. After she publicly revealed damaging details about Trump’s phone call with House Minority Leader Kevin ..."
-    publishedDateTime: 2021-03-15T13:57:00Z
-    webUrl: "https://www.politico.com/news/2021/03/15/jaime-herrera-beutler-profile-475932"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/44/7d/570675084c038e258a75ce3660b1/gettyimages-1134736564.jpg"
-        width: 5594
-        height: 3727
-        isCached: true
 
 secured: "M/Hh9DQaw21Dxgign20lpT8FPWAgTqDozU5fIaVsJR+dYHtQARsq/Zu5Zg5yRIzyl+9N3upbnm3WP2hD4l4n/P/ply4jWrDBrUkTV/RI4GJJ/mYuociPg1UvSTUqC6HPIZ02Ru3EX+nlBZoULifPhgGro7AoHxtlX1O9cmmcy2mCMjPqnJf15bQJx5B6hphfvn/D/XhgbYWP/nA7cW6sC/1bcknbQUHJ7zLFpJeHRURyRhlg2LJhW3b6weSrDc1VOzVnoTzFWEHlhlxvqjxUX8UiZyFGdAM8LbzcDsOPJhRgPwcuqM82ZCt2GJru8Ky6Ku74Z7AIhX9A3GQLPqvAjbD9+6j2oS04LaiE/G0h2as=;CUgIROe4dmCccmE6ZF/VxA=="
 ---
