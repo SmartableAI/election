@@ -476,6 +476,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump says he ‘expected’ Biden fall, believes Harris may replace him as president"
+    excerpt: "Former President Donald Trump on Monday said that he expected President Biden’s fall on the steps of Air Force One — and that he also believes Biden’s mental state may be diminished to"
+    publishedDateTime: 2021-03-23T01:17:00Z
+    webUrl: "https://nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/"
+    ampWebUrl: "https://nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 170
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-expected-bidens-fall-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden hits 50 day milestone of going without a formal news conference as president"
     excerpt: "President Biden has been in office for 50 days, but has yet to schedule a formal press conference."
     publishedDateTime: 2021-03-11T12:46:12Z

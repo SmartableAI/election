@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
-excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
-publishedDateTime: 2021-03-18T11:33:43Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_u-4hM36qk0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_u-4hM36qk0/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
+title: "Trump's army takes aim at 2022 touting his election lies"
+excerpt: "Donald Trump has set the price of admission for Republicans in the midterm elections, and probably the next presidential race: an embrace of the big lie that he was cheated out of office by a historic voter fraud operation."
+publishedDateTime: 2021-03-23T01:01:00Z
+originalUrl: "https://www.cnn.com/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+webUrl: "https://www.cnn.com/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 type: article
-quality: 174
-heat: 354
-published: true
+quality: 150
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -22,15 +22,32 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318071556-02-mo-brooks-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322174656-01-trump-media-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
+    excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
+    publishedDateTime: 2021-03-18T11:33:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_u-4hM36qk0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318071556-02-mo-brooks-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump doesn't commit to stay out of Senate primaries despite prodding by top GOP senator "
     excerpt: "Florida Sen. Rick Scott, the chairman of the National Republican Senatorial Committee, urged former President Donald Trump to back the candidates who win Senate primaries next year rather than engage in intra-party fights that could harm the party's chances at taking back the majority in the midterm"
     publishedDateTime: 2021-03-16T15:51:33Z
@@ -60,22 +77,6 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's army takes aim at 2022 touting his election lies"
-    excerpt: "Donald Trump has set the price of admission for Republicans in the midterm elections, and probably the next presidential race: an embrace of the big lie that he was cheated out of office by a historic voter fraud operation."
-    publishedDateTime: 2021-03-23T01:01:00Z
-    webUrl: "https://www.cnn.com/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 150
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322174656-01-trump-media-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -172,6 +173,6 @@ related:
         height: 773
         isCached: true
 
-secured: "qhBppnkWahCQlNkqx+ylGVdpYnPpqUGNp2uqVKj5mbVgQjtbfO7xWE9dOmEdwisNVwPDqY6Z/pH28uRyrg3M0K1Vp1YtRP7FW661Pznubtu88H+ZhkRftNRLaJEijlHqOmvKkgKwZ/qEYtB3NmxZxYLVfaPdmYKR71vYIjusKdlBnmUvI/qgL3jbJ0BuArpwoqP2dydWSp2kD4TTr6lEQ24gatgBVfoAyTZfTy4SzSKf1PQ/KaAkoeG2ja3Pxb3TXNi7NUqvKMXZd3cerxx9zZ54i3GaRBGn7guM3e9fR2QY/yL0A4+hoOQfOXfRQ0c4VITZVYZzvT6DXDHDMKSNfIqtnZHf5cd7aihTjn5wLvc=;KtdutI55/55ZkgDLrYLiTw=="
+secured: "+09KqfGBT5A34wL2stoMlXaahe2QrkA9uuAvgnWMp7WKyeGjM/d4Q73eY2bUv9pX72ojMPBxtVT3vCsU+2VNbEhKJ2sN8+46Tos9irLHKPU5wugI3avToG2ckq7Si/sf7+//8615uhXI1RGzInKyoQ20DRoyxmsP44jKePQuT5XYKzADiFnYDJZfNtVAPowvvKMgRW1RD4qa+7+k0L3JMkJAsv2mSgkDrIFNNuiq/dS/3EpqJGFOT0+ZB6CHOEQoDPz0eip1xNIyAGzojZ9OKqjD5k5tOTdoN3E+s317+EOJSH97QGenQ/mTwH0d6xp9tmAODAGcj/Qg+xax5hxIOJ7eLLWBzMHRDdSgHW3ZBFk=;DpKynsSbG/XC7WzvXGlGdA=="
 ---
 

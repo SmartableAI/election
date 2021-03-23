@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's army takes aim at 2022 touting his election lies"
+    excerpt: "Donald Trump has set the price of admission for Republicans in the midterm elections, and probably the next presidential race: an embrace of the big lie that he was cheated out of office by a historic voter fraud operation."
+    publishedDateTime: 2021-03-23T01:01:00Z
+    webUrl: "https://www.cnn.com/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322174656-01-trump-media-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump looks to take down Raffensperger in Georgia"
     excerpt: "The former president is expected to endorse Rep. Jody Hice, who supported Trump's efforts to overturn the 2020 election results, against the Georgia secretary of state."
     publishedDateTime: 2021-03-22T03:19:00Z

@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 949
         isCached: true
+  - title: "Trump's Prediction About His Presidency Comes True: 'Their Ratings Are Going Down'"
+    excerpt: "Former President Donald Trump’s prediction about his presidency and news ratings come true just two months after he left the White House. During his tenure as the president, Trump made several prophecies and predictions,"
+    publishedDateTime: 2021-03-23T03:32:00Z
+    webUrl: "https://ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276"
+    ampWebUrl: "https://www.ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "kop8Hvdziyv6s52bGturE7LQzqyf2osQ+eAlzs7Vx0LcnMYrg690p9ymFOeyA8+fzTtvNHVI1CcujZnlRGZJwXamJCfM0H/HNyHv7bK47ZXy6UNdhNbKNeilpVnF9lFRTOTU2v/yGCb3zJMo5tLDxG7wDuBS0DsY4ezRPi0u4AahjgS0WxvTNc2RfQLgRZK3Sk9+OS8igzYyxa8HEMm7Qr9OiCFwnmPyUoR1wJKfnSvhcpcYfDgqHol5H4kTo6tLQg0WapD/F9sKjcqymfiwfBcw9ty5qaTZ3kYUiFEE45uEJCJMrmOlC1JuCepXHVOZ8Nipl+Bz3KT1uIEPDsnIV6+3l3VsdjVEx7r8Z+ijjKcTRYGrU4wT3C0eBU3+MPxc2mIUJHSfXu4cakwYNNssmKvgFp/e04jvrcXmV09IKHeq5vfQSRSyFFBe9i4lYbv/IrVaEl4YWWFjZzQliFFpq53Ru2CO0VdXKdmvrDzURO5r5dY17nzUC/zVNz1meteJIOpyEPYcs8uPmssKJcRt4Q==;XnCZVQM60nWmNOJP/GLwag=="
 ---

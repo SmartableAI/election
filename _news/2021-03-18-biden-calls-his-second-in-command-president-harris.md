@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp"
 type: article
 quality: 200
-heat: 1120
+heat: 1140
 published: true
 
 provider:
@@ -463,6 +463,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump says he ‘expected’ Biden fall, believes Harris may replace him as president"
+    excerpt: "Former President Donald Trump on Monday said that he expected President Biden’s fall on the steps of Air Force One — and that he also believes Biden’s mental state may be diminished to"
+    publishedDateTime: 2021-03-23T01:17:00Z
+    webUrl: "https://nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/"
+    ampWebUrl: "https://nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 170
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-expected-bidens-fall-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden hits 50 day milestone of going without a formal news conference as president"
     excerpt: "President Biden has been in office for 50 days, but has yet to schedule a formal press conference."

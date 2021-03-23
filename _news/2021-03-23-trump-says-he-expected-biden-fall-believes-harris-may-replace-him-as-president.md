@@ -1,33 +1,31 @@
 ---
 category: news
-title: "Biden comment mocking Trump's walking resurfaces after president stumbles, falls boarding Air Force One"
-excerpt: "President Biden, who tripped Friday while boarding Air Force One, drew criticism from conservatives who pointed out he once mocked former President Donald Trump’s slow walk down a ramp during a trip to West Point."
-publishedDateTime: 2021-03-19T19:58:20Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNq8LT2JSas/biden-comment-mocking-trump-walking-president-stumbles-air-force-one"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNq8LT2JSas/biden-comment-mocking-trump-walking-president-stumbles-air-force-one"
-ampWebUrl: "https://www.foxnews.com/politics/biden-comment-mocking-trump-walking-president-stumbles-air-force-one.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-comment-mocking-trump-walking-president-stumbles-air-force-one.amp"
+title: "Trump says he ‘expected’ Biden fall, believes Harris may replace him as president"
+excerpt: "Former President Donald Trump on Monday said that he expected President Biden’s fall on the steps of Air Force One — and that he also believes Biden’s mental state may be diminished to"
+publishedDateTime: 2021-03-23T01:17:00Z
+originalUrl: "https://nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/"
+webUrl: "https://nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/"
+ampWebUrl: "https://nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/amp/"
 type: article
-quality: 174
+quality: 170
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-expected-bidens-fall-index.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -383,6 +381,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden comment mocking Trump's walking resurfaces after president stumbles, falls boarding Air Force One"
+    excerpt: "President Biden, who tripped Friday while boarding Air Force One, drew criticism from conservatives who pointed out he once mocked former President Donald Trump’s slow walk down a ramp during a trip to West Point."
+    publishedDateTime: 2021-03-19T19:58:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNq8LT2JSas/biden-comment-mocking-trump-walking-president-stumbles-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-comment-mocking-trump-walking-president-stumbles-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-comment-mocking-trump-walking-president-stumbles-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Biden, after 60 days in office, has yet to hold news conference"
     excerpt: "If President Biden makes good on a recent White House promise that he'll field questions from a roomful of reporters for the first time this coming Thursday, he will be doing so on his 65th day since taking office."
     publishedDateTime: 2021-03-21T06:18:13Z
@@ -462,22 +476,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump says he ‘expected’ Biden fall, believes Harris may replace him as president"
-    excerpt: "Former President Donald Trump on Monday said that he expected President Biden’s fall on the steps of Air Force One — and that he also believes Biden’s mental state may be diminished to"
-    publishedDateTime: 2021-03-23T01:17:00Z
-    webUrl: "https://nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/"
-    ampWebUrl: "https://nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-says-he-expected-biden-fall-believes-harris-may-replace-him/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 170
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-expected-bidens-fall-index.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Biden hits 50 day milestone of going without a formal news conference as president"
     excerpt: "President Biden has been in office for 50 days, but has yet to schedule a formal press conference."
@@ -782,6 +780,6 @@ related:
         height: 636
         isCached: true
 
-secured: "sosO52MSnCxvSUGN5BY8yfo1C1QmWIvFQybPDaYrGLKrH/eAf9vJmwLtzv6nkkcuLznff4/9BQfbGwgKek72LbplSpVnOrJ+EZ4SBcca7xQ+s/+a9HYsT8MDa1Oi8ubPVWE39/64mr71MGV4mGxdRyocc5fgpiaK+DjFMxyJf3zwjlBvfKeuvlb4l2kOSuTAeJbmLLyfZXJ99KM1+bIcaRxphzT4KhGPpZS9ea2RvyuZovSf38drRC/sjF2Iyk+nZA81nUzDnRB8+XTmOFRSIUXxvfwqzIT8RoyqW2L+b1jtUiKoSacDSe8Tpu+8KH/nZ/gITWRy0ygZ9IfC43WRYY7ckCHTgZ8OBgKOWP2JTkw=;guuMW0Qz/bXYOHEx6JXJEA=="
+secured: "q2AZi0RS78QIMHUwcAS9AwClH/7Msgz28TBqKB4bUXG2bbb3T/48X6EQX+8TMkr2MFduyDGdWfuzJSHhk9BRgSJ1h9O3cGuf4bLobaM4PgP2w+b6LZPJIdmTnGE0ng2u18rUx5+GWEaZhHPDQsLmoDbwbddnVf32njEqNpPAL2RO0XAFDHT0m9NzsMAWJ2a3espvJc+Spl0+3wMrefGEWcJ/FW4dDOTG+Ph64kimdZz7Lod9RywrLQSK2jwKf96rGtT6EtrLgeE12BaWgVEELxpdrhnyrpaqlx+jTmW6frKX30weZpJoRpztc71F6y1Lmn7RI7kNP5dPrBPIcM8urDp+WmAHJVBdOOe8GemTupg=;Vb8pdYjbsrWI337wokc3/g=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump's net worth dropped by $700 million during presidency: report"
-excerpt: "Former President Trump’s net worth dropped by approximately $700 million during his presidency, according to an analysis from"
-publishedDateTime: 2021-03-17T19:39:00Z
-originalUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency"
-webUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency"
-ampWebUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency?amp"
+title: "Trump's Prediction About His Presidency Comes True: 'Their Ratings Are Going Down'"
+excerpt: "Former President Donald Trump’s prediction about his presidency and news ratings come true just two months after he left the White House. During his tenure as the president, Trump made several prophecies and predictions,"
+publishedDateTime: 2021-03-23T03:32:00Z
+originalUrl: "https://ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276"
+webUrl: "https://ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276"
+ampWebUrl: "https://www.ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276?amp=1"
 type: article
-quality: 125
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
-    width: 980
-    height: 551
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1758105/donald-trump.jpg"
         width: 1024
         height: 690
+        isCached: true
+  - title: "Trump's net worth dropped by $700 million during presidency: report"
+    excerpt: "Former President Trump’s net worth dropped by approximately $700 million during his presidency, according to an analysis from"
+    publishedDateTime: 2021-03-17T19:39:00Z
+    webUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency"
+    ampWebUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
     excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
@@ -111,23 +127,7 @@ related:
         width: 1200
         height: 949
         isCached: true
-  - title: "Trump's Prediction About His Presidency Comes True: 'Their Ratings Are Going Down'"
-    excerpt: "Former President Donald Trump’s prediction about his presidency and news ratings come true just two months after he left the White House. During his tenure as the president, Trump made several prophecies and predictions,"
-    publishedDateTime: 2021-03-23T03:32:00Z
-    webUrl: "https://ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276"
-    ampWebUrl: "https://www.ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 69
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
-secured: "V4LuN83MoFgvg6yjT/X+WP9cVq1udV9NEnyhvcBki56g97IRwoa5qzrKPs/MgOndsdDw/1yII166Wta/nJ9/ZIOlIPx983kp/vqHg4cvRixipM51ek8FwqE+rOJM2faMe7fR14QCHcTiusFPpg/MzrcCs19kWsJg5bepiShRzPfEh3h2cr7RQtDb+kKXDY1ucodAqsh0klYifrYoY2w/ITmYCFkYG7b/TxgXVt0j7xJtj3skMD8Xu8nxYymEELKQUaqGFi4tJGzpWULInobG17noilP5IRnZ6HdGj/ngJ9eMc90v5X3jvkkrntykgqyY/jZcXTGr/vao4Y45NlWUtP6Ip3OqyVijw9traEsunrg=;nOx6aXrlPwc5B7dvBqKOwQ=="
+secured: "51o0eW+Bb9zArvpegmmKoZQRSohGSf93S5hL6oZlCmL8koNu8BfMaDCHcj4rY1LN0/L7PcP2friOrFDHNL41EkpGw16B39HCJtgWQcfo2M9XnVKVKhhM93HNv4Zg03JeaS0HUNOxVREP8GAhi+Tlx6FWiyzTUB9uhoL4JPMi4G926OEWuBrMrh8lAe/C0DpEGcrvkYLsJbwdLoK06ubJeexs/YDjbzGjOzICsPfs1pk9OheHeA2D00m2M/LE2rMMs4afkE2CKexRow97mC1y0IFWpS6ZQUdrlGVNUPtE/on8lwTK87iJH6354cvQNw5f7N8SSwgnxoIZJJ+YYY9Jvwos0QSKs2scn5Xf0PtWeEQ=;c+dFe3J0OYY+cj1b2n+WwQ=="
 ---
 
