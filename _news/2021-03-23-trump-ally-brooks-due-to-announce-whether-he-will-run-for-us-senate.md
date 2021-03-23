@@ -3,8 +3,8 @@ category: news
 title: "Trump ally Brooks due to announce whether he will run for U.S. Senate"
 excerpt: "WASHINGTON (Reuters) - U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, is expected to announce on Monday whether ..."
 publishedDateTime: 2021-03-22T19:37:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks-idUSKBN2BE2X2"
-webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks-idUSKBN2BE2X2"
+originalUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks/trump-ally-brooks-due-to-announce-whether-he-will-run-for-u-s-senate-idUSKBN2BE2X2"
+webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks/trump-ally-brooks-due-to-announce-whether-he-will-run-for-u-s-senate-idUSKBN2BE2X2"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BE2X2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BE2X2"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210322&t=2&i=1555799190&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2L1SP"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555822052&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M00X"
     width: 817
     height: 545
     isCached: true
@@ -158,6 +158,6 @@ related:
         height: 336
         isCached: true
 
-secured: "ci21UKM6+hJfwRV627xirh1Z3abCx75SIigVmp2UVxQOOQ4IkRSgOKk1aWBFWzDReUtj8IQkYqC9XpT7p866FBPS7a5imcRzGJShPnDzUo/YffzZERRJrps+iwalLEg1smr+OnZqJxM17db7d0Fucuof+N9+1HueIegvP3xwKFJkLWHx8LtRMCnaW5ZPrZuS+7EoYY4n4CkMpZzIYIHttohh0AMrqlSmLgLcet3/2WdEdhMR28Q8GE5MW6s3JjGbzh2iv0YUrBiaPoMzKFgyku2Oxb6UlspOI+X5dkwXcOwJgT1NGLgfMh++tcyj6cdYVZ5fuyF7UvlIi8GXYWLRcaDUkmYekI+2RF2Xdu9IvX4=;5pWKmRoBEZrv9eXdJh2wDA=="
+secured: "aEIOdHElkgItrVo3NSrk8leRC9aBb5HVUTZlphoNpt2Y06j9bj3VRP6DTvMXXe5QIx93r7QrIgS/PuA93xSVpBFMCTGP8hPN080YJw7albNv5U/DF2qcuYbia2mIboh04OupW8haq4BRtI3tbKSkdM48jtBat5ybqM6lC06iivOIPqlOiaPzO/8FPWZ6a80ZWSDUxboUbvjYbfLBtzzS7OKFhEPHqLG0LKLf5DgwoHOskS/lpX/Sg92kJcG5xalZ/5W7FnaQx54hfmS0SBAEGwQmLmDcA6OVpdT4aqLxhQ4EoXNyuWjQIrpL30N/I2GEC4+oM8v9Til3RjsfImBjnj/ygdva6Sck9VIURfwsFfQ=;gJ+f3Uxnxcl7wdo5RBYjOg=="
 ---
 

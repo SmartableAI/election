@@ -620,6 +620,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump: Biden press conference will be nothing but 'softballs,' media 'protects him totally'"
+    excerpt: "Former President Donald Trump said Monday there was no transparency with the press from successor Joe Biden, although he added Biden didn't need to hold press conferences because the media \"protects him totally."
+    publishedDateTime: 2021-03-22T16:30:00Z
+    webUrl: "https://www.foxnews.com/media/trump-biden-press-conference-softballs-harris-faulkner"
+    ampWebUrl: "https://www.foxnews.com/media/trump-biden-press-conference-softballs-harris-faulkner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-biden-press-conference-softballs-harris-faulkner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93eac511-4237-41ae-8fa7-f9f0dd56550b/e2673f4f-fc75-4ca3-9ade-d21448bb5c21/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Flashback: Biden fall conjures up memories of media hysteria when Trump walked slowly down a ramp"
     excerpt: "President Biden fell three times when attempting to board Air Force One on Friday, conjuring up memories of the mainstream media hyperventilating over former President Trump cautiously walking down a ramp last year."
     publishedDateTime: 2021-03-19T19:00:00Z
@@ -684,6 +700,22 @@ related:
         width: 936
         height: 702
         isCached: true
+  - title: "Trump: Mark My Words, Border \"Might Not Be Capable Of Stopping\" Migrants"
+    excerpt: "Former President Donald Trump speaks to Newsmax TV's Greg Kelly about the \"gross incompetence\" at the southern border and warned that there will be an overwhelming number of migrants by the summer. In the interview,"
+    publishedDateTime: 2021-03-23T00:05:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/trump_mark_my_words_border_might_not_be_capable_of_stopping_migrants.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/trump_mark_my_words_border_might_not_be_capable_of_stopping_migrants.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/trump_mark_my_words_border_might_not_be_capable_of_stopping_migrants.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/53/532146.jpg"
+        width: 990
+        height: 742
+        isCached: true
   - title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
     excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"
     publishedDateTime: 2021-03-20T15:28:00Z
@@ -722,6 +754,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "QITFT8K3o1/xZvrNNIX89dvtWpVA5/9uab0ka+9zDYMrMvMgPKvzMwK3kYYMwX2zYI7is7qf9/JHZ3FvKRGN5+mFyxuTs8xVKS0cNABi1PXwerP7HlWWz/LZBU5Z2Dd7XAY7lQ920sruT7Ii2oRMDsLBsMqJoux9frEPmOXKdxMmdLpJ85+289L99eqIw/c47N4ugmQo2NyQmm9aNPC9nMlmHPA6qSnlem08/d9pHnqngWXB97xa8j9ugHSRlYVea8+4BuX4y2NKHzEl2NPoyflYzNUb4qGeUVLlijYTAT3xgxkgNGKU3fwI8qBCfRxVR8q2zEVy7u7HkgMygHhmzJ25LgQiJhWOXJahQViqB+g=;Fcz99UkJZiPHnCrO0nGCCQ=="
+secured: "fYfy090IEbgdFxpFMLLG68rY+CJ/bMgcEW7RKzM0smUjkf3BC2RFOY1rc0lqslxVJf+myp9/+UzUSZbKObaUB70srIIzd9t+SIZYWOXlhnPMvRXvDsesw5ZPGupbT3RGMNgOJZvwVSpd0b/AqdEZj2eo8evaPb0Fd/KjhCA7K5PnsRvGtGUa8cKuXHgzWsMfXdItwkXTCSpDDFqMg5DvXhIQNVwFiu2wntCgrKz2UDsIPu8JFcprnCs0eYXAfjKmtz3+3slKwGFNtByfL976J4+d/8/wxK4XmwvsQmEDRfitpW8fDRvxqQqwqy6AI3KNiLPLLUcVUx6kaU/FD4M5FQTVVb19jMIEDlhhHYhhAN2M+Uj3vX6UXF3pswW9n+hwxlyeNX2Hp8xHZpiQtdJDmikoz2Z0Uft//UkZvZuiVv1M7gUhimQEvfuJPm9qvHgys2CmsGxNnWckMFzEYkbdWfyHfkWh6Hxeskk+4tQ3gQ3ssmE4n7c4qb1wuKgdV9PunfffYYiUs9Yv+jtDPVVQHg==;SNhV7mCHr0hIICSv2X7GDQ=="
 ---
 

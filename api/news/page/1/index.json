@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-23-kayleigh-mcenany-biden-must-be-asked-hard-questions-on-border-at-first-press-conference.md",
+      "title": "Kayleigh McEnany: Biden must be asked ‘hard questions’ on border at first press conference",
+      "excerpt": "President Biden is set to hold his first formal press conference on Thursday, and former White House press secretary Kayleigh McEnany told \"Hannity\" that it’s imperative that he be pressed on the situation at the southern border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kExKYqvgtj8/kayleigh-mcenany-biden-hard-questions-first-press-conference",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kExKYqvgtj8/kayleigh-mcenany-biden-hard-questions-first-press-conference",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kayleigh-mcenany-biden-hard-questions-first-press-conference.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-hard-questions-first-press-conference.amp",
+      "publishedDateTime": "2021-03-22T19:46:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-trump-coy-about-social-media-comeback-but-says-twitter-did-him-a-favor.md",
       "title": "Trump coy about social media comeback but says Twitter did him ‘a favor’",
       "excerpt": "Former President Donald Trump on Monday declined to confirm reports that he’s poised to make a social media comeback, but said that in the meantime, he’s enjoying emailed press",
@@ -658,6 +714,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-23-biden-looks-beyond-border-dispatching-officials-to-mexico-and-guatemala.md",
+      "title": "Biden looks beyond border, dispatching officials to Mexico and Guatemala",
+      "excerpt": "Facing criticism over a growing presence of migrant children at the U.S. southern border, President Biden on Monday dispatched a high-level team to Mexico and Central America to find what the administration is calling a “humane” solution to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/fa5841d/2147483647/strip/true/crop/6720x4389+0+46/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F67%2Ffc%2Fdb8c9187455eb8704beb396f4a23%2Fla-photos-1staff-735197-na-mcallen-border-stories-10-cmc.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true",
+      "publishedDateTime": "2021-03-22T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-house-republicans-who-backed-trump-impeachment-warn-dems-on-iowa-election-challenge.md",
       "title": "House Republicans who backed Trump impeachment warn Dems on Iowa election challenge",
       "excerpt": "A group of nine House Republicans that voted to impeach former President Trump has signed a letter to Speaker Nancy Pelosi (D-Calif.) warning her against pursuing an investigation into the Iowa electi",
@@ -1228,110 +1336,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns.md",
-      "title": "Morning mail: NSW floods worsen, Australia exports 'negative climate policy', Trump returns",
-      "excerpt": "After reviewing policies and procedures, Buckingham Palace has acknowledged that “more needs to be done”. Recently Donald Trump has released short, combative statements that many observers have likened to his tweets of old. Photograph: John Raoux/AP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2021/mar/22/morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns",
-      "originalUrl": "https://www.theguardian.com/australia-news/2021/mar/22/morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/72ddb0c4f51fe31a576cf63feefd1cd1050b93a3/0_80_1200_720/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b992d7764eb421318decccd865b4b8bc",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-trump-will-use-his-own-platform-to-return-to-social-media-after-twitter-ban.md",
-      "title": "Trump will use 'his own platform’ to return to social media after Twitter ban",
-      "excerpt": "Last modified on Sun 21 Mar 2021 13.28 EDT Donald Trump will soon use “his own platform” to return to social media, an adviser said on Sunday, months after the former president was banned from Twitter for inciting the US Capitol riot. 'His new business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b8820e18168688651182ed377b8200453cd4ec97/0_67_3662_2198/master/3662.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddc69c23776ae3fcd0e41fb42a07b4da",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
-      "publishedDateTime": "2021-03-21T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

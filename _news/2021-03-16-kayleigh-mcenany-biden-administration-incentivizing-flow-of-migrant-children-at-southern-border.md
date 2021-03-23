@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administrati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
 type: article
 quality: 161
-heat: 181
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kayleigh McEnany: Biden must be asked ‘hard questions’ on border at first press conference"
+    excerpt: "President Biden is set to hold his first formal press conference on Thursday, and former White House press secretary Kayleigh McEnany told \"Hannity\" that it’s imperative that he be pressed on the situation at the southern border."
+    publishedDateTime: 2021-03-23T02:46:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kExKYqvgtj8/kayleigh-mcenany-biden-hard-questions-first-press-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-hard-questions-first-press-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-hard-questions-first-press-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "'Confounding' for Biden administration to announce press conference nine days in advance: McEnany"
     excerpt: "The Biden administration announcing the date that the president will hold his first formal press conference nine days ahead of time is a \"confounding strategy,\" Fox News contributor and former White House press secretary Kayleigh McEnany told \"Outnumbered\" Wednesday."
     publishedDateTime: 2021-03-17T20:39:46Z

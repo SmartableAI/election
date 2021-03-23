@@ -77,6 +77,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From The Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-23T00:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
+        isCached: true
 
 secured: "azK8tFiGiHZwB7FVITUdQ/iidm4SwYM1m0s37r7ROy9gf1Oh0dZRKWXZL+q3agJEkxgbq+hQE5SL0J3jlNMJdTVkjPTxAgXtjl9m1Ka0bFE8jOfMox3P0494IlxbkdCDAf6sjeOVXqf0IMDHBsGoeF7pHQJPyMAUggXBlEltVCX+h+s942jeR3suEsev4SUFWmKe23ky9YaAAa1ye/fw36cqsFEgKLx+ag784z/4WHb6ps1j0ddahIwDHNXmnCBMCCjffQBjUeVwCLbR0rGfJw7yQ3G0hEqR+npziZcWmgpOgl5894tw5AOHVHwXnH3rSvfGb3MMIBETvkJG4lLKfrm0CagvT7xvjWwC8IccnN0=;3y8XIfG+3WdxsUaT2ZRu0A=="
 ---

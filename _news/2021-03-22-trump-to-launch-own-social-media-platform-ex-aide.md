@@ -93,6 +93,22 @@ related:
         width: 1024
         height: 700
         isCached: true
+  - title: "Donald Trump Serious About Launching Own Social Media Platform, Lara Trump Says"
+    excerpt: "Lara Trump said her father-in-law, Donald Trump, wants to launch a social media platform that will give its users the freedom to say whatever they want."
+    publishedDateTime: 2021-03-23T02:02:00Z
+    webUrl: "https://ibtimes.com/donald-trump-serious-about-launching-own-social-media-platform-lara-trump-says-3167216"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-serious-about-launching-own-social-media-platform-lara-trump-says-3167216?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-serious-about-launching-own-social-media-platform-lara-trump-says-3167216?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/21/donald-trump-appears-to-be-planning-a-return.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "U4rLDRB9k1yBvzktPHuCM4afnN87JPfXtLRPlMgu1QihgvfvVnGUCjb+a/vTXV7EMuv3k3BWxyxPsLJOEIKRdLwoNpxJSOylQHwk3F9VtDws3iUI4R8kgVVYUGL+/Sj9oUk50E4LpAhE9sB7wpSVsLbuHbl/B6WnVrglFuxEVZ7faLOdk8Nre2qjCPEhXZW8JOtvYFjGdQt5j2Wbs6RX+CMZZXlqLSlXsJMI4Iur7Hycrw5BR8ZN6rAegQwyhCANDImQjTozJJvRDZoIV/5Ev04U+6vHrIUojfyBLUIOuNSa2f2/PyLxKuCMqSWSEQu3Cc1u9FbKANHbX8Z0CcB21owjgafhP26krk+YG3Na+wzSDr+BBVVB0OeOcD+VpWPEYLe+dz/aHMlfsAgnma2XBfHfJe/NeVsaHEcmwY20Jom5lc0WJUX9D22Xeepd43SDCqF3wnXYTHMC0YPUDvl7vkIp5tqbb8hkTJY1EJhKFY+x7yfXp69YFXdM0K0d6AVI2Ta/MzL/9GnqTnQF21ItIg==;FNhttKsjzC78SsSib3HSxg=="
 ---

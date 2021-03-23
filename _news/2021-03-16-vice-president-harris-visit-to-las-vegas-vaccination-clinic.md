@@ -840,6 +840,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "White House elevates VP with 'Biden-Harris Administration' directive"
+    excerpt: "According to a report at Outspoken, “a top White House communications team member” has sent an email directing that official usage at all federal agencies include  D. Harris. “Please be sure to reference the current administration as the ‘Biden-Harris Administration’ in official public communications,"
+    publishedDateTime: 2021-03-23T03:55:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/22/biden-harris-administration-directive-elevates-vp-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/22/biden-harris-administration-directive-elevates-vp-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/22/biden-harris-administration-directive-elevates-vp-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/08/Biden_42426.jpg-0df9a_c0-0-4505-2627_s1200x700.jpg?60cf3437de24de7bd09c076a5d6e0c6e1b5a6328"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "American billionaires could fund two-thirds of Biden's COVID-19 relief package just using profits generated during the pandemic, a report shows"
     excerpt: "DOW S&P 500 NASDAQ 100 American billionaires have earned so much money during the pandemic that they could fund two-thirds of President Joe Biden's COVID-19 relief package using profits generated in the last year, a report shows. The combined fortune of ..."
     publishedDateTime: 2021-03-13T11:01:00Z

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-22-morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns.md",
+      "title": "Morning mail: NSW floods worsen, Australia exports 'negative climate policy', Trump returns",
+      "excerpt": "After reviewing policies and procedures, Buckingham Palace has acknowledged that “more needs to be done”. Recently Donald Trump has released short, combative statements that many observers have likened to his tweets of old. Photograph: John Raoux/AP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2021/mar/22/morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns",
+      "originalUrl": "https://www.theguardian.com/australia-news/2021/mar/22/morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/72ddb0c4f51fe31a576cf63feefd1cd1050b93a3/0_80_1200_720/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b992d7764eb421318decccd865b4b8bc",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-21T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-trump-will-use-his-own-platform-to-return-to-social-media-after-twitter-ban.md",
+      "title": "Trump will use 'his own platform’ to return to social media after Twitter ban",
+      "excerpt": "Last modified on Sun 21 Mar 2021 13.28 EDT Donald Trump will soon use “his own platform” to return to social media, an adviser said on Sunday, months after the former president was banned from Twitter for inciting the US Capitol riot. 'His new business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b8820e18168688651182ed377b8200453cd4ec97/0_67_3662_2198/master/3662.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddc69c23776ae3fcd0e41fb42a07b4da",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
+      "publishedDateTime": "2021-03-21T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-trump-returning-to-social-media-with-his-own-platform-in-2-3-months-adviser.md",
       "title": "Trump returning to social media with 'his own platform' in 2-3 months: adviser",
       "excerpt": "Former President Donald Trump will be back on social media in the near future with his own service, according to one of his senior advisers.",
@@ -122,7 +226,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1070,
+      "heat": 1110,
       "tags": null,
       "images": [
         {
@@ -717,7 +821,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1770,
+      "heat": 1790,
       "tags": null,
       "images": [
         {
@@ -774,7 +878,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 241,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -1250,110 +1354,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-biden-to-meet-putin-when-the-time-is-right-white-house.md",
-      "title": "Biden to meet Putin 'when the time is right': White House",
-      "excerpt": "U.S. President Joe Biden, who said earlier this week he thought Vladimir Putin was a killer, will meet with the Russian leader \"when the time is right,\" the White House said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-russia-usa-biden-idUSKBN2BB20O",
-      "originalUrl": "https://www.reuters.com/article/us-russia-usa-biden-idUSKBN2BB20O",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555509691&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I143",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BB20O",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB20O",
-      "publishedDateTime": "2021-03-19T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-mary-trump-scoffs-at-idea-ex-presidents-children-will-run-for-office-they-have-no-skills.md",
-      "title": "Mary Trump Scoffs at Idea Ex-President's Children Will Run for Office: 'They Have No Skills'",
-      "excerpt": "Mary Trump, the niece of Donald Trump and a ferocious critic of her family, scoffed at the idea that the former president's children could become elected officials and said that \"they have no skills.\" Asked if they should run for office,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
-      "originalUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1759070/trump-family.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1",
-      "publishedDateTime": "2021-03-19T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

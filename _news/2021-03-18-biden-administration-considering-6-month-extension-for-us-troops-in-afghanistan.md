@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/afghanistan-troop-extens
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/afghanistan-troop-extension/index.html"
 type: article
 quality: 171
-heat: 331
+heat: 351
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312072040-01-astrazeneca-covid-19-vaccine-italy-0308-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration not confident Johnson & Johnson will meet 20 million goal by end of month"
+    excerpt: "Officials in President Joe Biden's administration are not confident that Johnson & Johnson will meet its self-imposed deadline to deliver 20 million coronavirus vaccines by the end of March, despite optimistic statements from the company.\n    \n"
+    publishedDateTime: 2021-03-23T01:52:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NIi7skwaHek/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-19-vaccine-supply-delays/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-19-vaccine-supply-delays/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306211510-02-johnson-and-johnson-covid-19-vaccine-colorado-0306-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

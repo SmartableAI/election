@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 700
         isCached: true
+  - title: "Donald Trump Serious About Launching Own Social Media Platform, Lara Trump Says"
+    excerpt: "Lara Trump said her father-in-law, Donald Trump, wants to launch a social media platform that will give its users the freedom to say whatever they want."
+    publishedDateTime: 2021-03-23T02:02:00Z
+    webUrl: "https://ibtimes.com/donald-trump-serious-about-launching-own-social-media-platform-lara-trump-says-3167216"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-serious-about-launching-own-social-media-platform-lara-trump-says-3167216?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-serious-about-launching-own-social-media-platform-lara-trump-says-3167216?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/21/donald-trump-appears-to-be-planning-a-return.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump To Launch Own Social Media Platform: Ex-aide"
     excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
     publishedDateTime: 2021-03-21T19:35:00Z

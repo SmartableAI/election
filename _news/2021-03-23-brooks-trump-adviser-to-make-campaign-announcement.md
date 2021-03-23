@@ -94,7 +94,7 @@ related:
   - title: "Trump ally Brooks due to announce whether he will run for U.S. Senate"
     excerpt: "WASHINGTON (Reuters) - U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, is expected to announce on Monday whether ..."
     publishedDateTime: 2021-03-22T19:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks-idUSKBN2BE2X2"
+    webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks/trump-ally-brooks-due-to-announce-whether-he-will-run-for-u-s-senate-idUSKBN2BE2X2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BE2X2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BE2X2"
     type: article
@@ -103,7 +103,7 @@ related:
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210322&t=2&i=1555799190&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2L1SP"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555822052&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M00X"
         width: 817
         height: 545
         isCached: true

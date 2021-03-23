@@ -620,6 +620,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump: Biden press conference will be nothing but 'softballs,' media 'protects him totally'"
+    excerpt: "Former President Donald Trump said Monday there was no transparency with the press from successor Joe Biden, although he added Biden didn't need to hold press conferences because the media \"protects him totally."
+    publishedDateTime: 2021-03-22T16:30:00Z
+    webUrl: "https://www.foxnews.com/media/trump-biden-press-conference-softballs-harris-faulkner"
+    ampWebUrl: "https://www.foxnews.com/media/trump-biden-press-conference-softballs-harris-faulkner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-biden-press-conference-softballs-harris-faulkner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93eac511-4237-41ae-8fa7-f9f0dd56550b/e2673f4f-fc75-4ca3-9ade-d21448bb5c21/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Flashback: Biden fall conjures up memories of media hysteria when Trump walked slowly down a ramp"
     excerpt: "President Biden fell three times when attempting to board Air Force One on Friday, conjuring up memories of the mainstream media hyperventilating over former President Trump cautiously walking down a ramp last year."
     publishedDateTime: 2021-03-19T19:00:00Z
@@ -683,6 +699,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump: Mark My Words, Border \"Might Not Be Capable Of Stopping\" Migrants"
+    excerpt: "Former President Donald Trump speaks to Newsmax TV's Greg Kelly about the \"gross incompetence\" at the southern border and warned that there will be an overwhelming number of migrants by the summer. In the interview,"
+    publishedDateTime: 2021-03-23T00:05:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/trump_mark_my_words_border_might_not_be_capable_of_stopping_migrants.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/trump_mark_my_words_border_might_not_be_capable_of_stopping_migrants.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/trump_mark_my_words_border_might_not_be_capable_of_stopping_migrants.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/53/532146.jpg"
+        width: 990
+        height: 742
         isCached: true
   - title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
     excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"

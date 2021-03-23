@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-18-trumps-mar-a-lago-stays-busy-as-republican-candidates-make-fundraising-pilgrimages.md",
+      "title": "Trump's Mar-a-Lago stays busy as Republican candidates make fundraising pilgrimages",
+      "excerpt": "Former Trump White House aide Max Miller is the latest Republican candidate to flock to former President Trump's Mar-a-Lago resort to court influential donors and rainmakers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
+      "publishedDateTime": "2021-03-18T03:27:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-navarro-top-biden-admin-officials-compromised-by-china-urges-president-to-stand-strong-against-beijing.md",
       "title": "Navarro: Top Biden admin officials 'compromised' by China, urges president to 'stand strong' against Beijing",
       "excerpt": "More than 20 top officials in the Biden administration are \"\"compromised in some way ... by the Chinese Communist Party,\" former White House trade adviser Peter Navarro told \"Fox News Primetime\" Wednesday.",
@@ -518,7 +574,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -559,62 +615,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-kayleigh-mcenany-biden-administration-incentivizing-flow-of-migrant-children-at-southern-border.md",
-      "title": "Kayleigh McEnany: Biden administration 'incentivizing' flow of migrant children at southern border",
-      "excerpt": "Former White House press secretary and Fox News Analyst Kayleigh McEnany reacts to the growing influx of migrant children at the southern border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdtHfZOHqhY/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdtHfZOHqhY/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp",
-      "publishedDateTime": "2021-03-16T15:52:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },

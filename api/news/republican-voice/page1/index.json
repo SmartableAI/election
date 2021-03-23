@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-23-kayleigh-mcenany-biden-must-be-asked-hard-questions-on-border-at-first-press-conference.md",
+      "title": "Kayleigh McEnany: Biden must be asked ‘hard questions’ on border at first press conference",
+      "excerpt": "President Biden is set to hold his first formal press conference on Thursday, and former White House press secretary Kayleigh McEnany told \"Hannity\" that it’s imperative that he be pressed on the situation at the southern border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kExKYqvgtj8/kayleigh-mcenany-biden-hard-questions-first-press-conference",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kExKYqvgtj8/kayleigh-mcenany-biden-hard-questions-first-press-conference",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kayleigh-mcenany-biden-hard-questions-first-press-conference.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-hard-questions-first-press-conference.amp",
+      "publishedDateTime": "2021-03-22T19:46:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-trump-coy-about-social-media-comeback-but-says-twitter-did-him-a-favor.md",
       "title": "Trump coy about social media comeback but says Twitter did him ‘a favor’",
       "excerpt": "Former President Donald Trump on Monday declined to confirm reports that he’s poised to make a social media comeback, but said that in the meantime, he’s enjoying emailed press",
@@ -569,7 +625,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1070,
+      "heat": 1110,
       "tags": null,
       "images": [
         {
@@ -737,7 +793,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 241,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -1597,62 +1653,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-trumps-mar-a-lago-stays-busy-as-republican-candidates-make-fundraising-pilgrimages.md",
-      "title": "Trump's Mar-a-Lago stays busy as Republican candidates make fundraising pilgrimages",
-      "excerpt": "Former Trump White House aide Max Miller is the latest Republican candidate to flock to former President Trump's Mar-a-Lago resort to court influential donors and rainmakers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
-      "publishedDateTime": "2021-03-18T03:27:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

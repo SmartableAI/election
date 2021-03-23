@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-19-biden-to-meet-putin-when-the-time-is-right-white-house.md",
+      "title": "Biden to meet Putin 'when the time is right': White House",
+      "excerpt": "U.S. President Joe Biden, who said earlier this week he thought Vladimir Putin was a killer, will meet with the Russian leader \"when the time is right,\" the White House said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-russia-usa-biden-idUSKBN2BB20O",
+      "originalUrl": "https://www.reuters.com/article/us-russia-usa-biden-idUSKBN2BB20O",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555509691&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I143",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BB20O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB20O",
+      "publishedDateTime": "2021-03-19T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-mary-trump-scoffs-at-idea-ex-presidents-children-will-run-for-office-they-have-no-skills.md",
+      "title": "Mary Trump Scoffs at Idea Ex-President's Children Will Run for Office: 'They Have No Skills'",
+      "excerpt": "Mary Trump, the niece of Donald Trump and a ferocious critic of her family, scoffed at the idea that the former president's children could become elected officials and said that \"they have no skills.\" Asked if they should run for office,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
+      "originalUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1759070/trump-family.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1",
+      "publishedDateTime": "2021-03-19T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-kevin-mccarthy-on-fox-friends-biden-border-crisis-now-becoming-human-tragedy.md",
       "title": "Kevin McCarthy on 'Fox & Friends': Biden border crisis now becoming 'human tragedy'",
       "excerpt": "The issues on the border go beyond a crisis to a \"human tragedy,\" House Minority Leader Kevin McCarthy, R-Calif., said on Friday, reacting to the Biden administration denying media access to migrant facilities.",
@@ -457,7 +561,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 331,
+      "heat": 351,
       "tags": null,
       "images": [
         {
@@ -1259,110 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-cnn-viewership-plummeted-after-trump-left-office.md",
-      "title": "CNN viewership plummeted after Trump left office",
-      "excerpt": "CNN’s viewership has tanked since former President Trump left office — with new data showing the liberal network lost nearly half of its prime-time audience in a key demographic since",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/",
-      "originalUrl": "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cnn-90.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/amp/",
-      "publishedDateTime": "2021-03-18T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-controversial-house-republican-talks-to-trump-ahead-of-likely-senate-bid.md",
-      "title": "Controversial House Republican talks to Trump ahead of likely Senate bid ",
-      "excerpt": "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_u-4hM36qk0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_u-4hM36qk0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 334,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210318071556-02-mo-brooks-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/mo-brooks-january-6-announcement-senate-alabama/index.html",
-      "publishedDateTime": "2021-03-18T04:33:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-15-biden-immigration-policy-clearly-separating-these-families-at-border-sen-rick-scott.md",
+      "title": "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott",
+      "excerpt": "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp",
+      "publishedDateTime": "2021-03-15T14:32:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-trumps-cfos-ex-daughter-in-law-is-cooperating-with-prosecutors-and-refuses-to-be-silenced-her-lawyer-says.md",
       "title": "Trump's CFO's ex-daughter-in-law is cooperating with prosecutors and 'refuses to be silenced,' her lawyer says",
       "excerpt": "Allen Weisselberg holds the keys to Donald Trump's personal finances, as well as his company's financial details.",
@@ -320,58 +376,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-texas-greg-abbott-accuses-joe-biden-of-enriching-cartels-as-4200-border-kids-detained.md",
-      "title": "Texas' Greg Abbott Accuses Joe Biden of Enriching Cartels as 4,200 Border Kids Detained",
-      "excerpt": "President Joe Biden's border policies are causing a surge in illegal immigration into the United States and \"enriching and empowering\" drug cartels in Mexico who profit from smuggling migrants, Texas Governor Greg Abbott warned on Sunday. His comments came ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114",
-      "originalUrl": "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1755831/greg-abbott-migrants.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/abbott-accuses-biden-enriching-cartels-4-2k-border-kids-detained-1576114?amp=1",
-      "publishedDateTime": "2021-03-15T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
