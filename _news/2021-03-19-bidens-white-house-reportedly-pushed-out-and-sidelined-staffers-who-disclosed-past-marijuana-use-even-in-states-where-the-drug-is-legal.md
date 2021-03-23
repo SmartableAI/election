@@ -527,9 +527,9 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden Cabinet complete but hundreds of vacancies remain"
-    excerpt: "President Joe Biden’s Cabinet is nearly complete with the expected confirmation of Labor Secretary Marty Walsh on Monday"
-    publishedDateTime: 2021-03-22T21:21:00Z
+  - title: "Biden Cabinet near complete but hundreds of jobs still open"
+    excerpt: "President Joe Biden’s Cabinet is nearly complete with the confirmation of Labor Secretary Marty Walsh on Monday"
+    publishedDateTime: 2021-03-22T22:22:00Z
     webUrl: "https://www.washingtonpost.com/world/national-security/biden-cabinet-complete-but-hundreds-of-vacancies-remain/2021/03/22/8d627d7a-8b54-11eb-a33e-da28941cb9ac_story.html"
     ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-cabinet-complete-but-hundreds-of-vacancies-remain/2021/03/22/8d627d7a-8b54-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-cabinet-complete-but-hundreds-of-vacancies-remain/2021/03/22/8d627d7a-8b54-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
@@ -1194,6 +1194,17 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 105
+  - title: "Biden Cabinet complete but hundreds of vacancies remain"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — President Joe Biden’s Cabinet is nearly complete with the expected confirmation of Labor Secretary Marty Walsh on Monday."
+    publishedDateTime: 2021-03-22T21:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-cabinet-complete-but-hundreds-of-vacancies-remain-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-cabinet-complete-but-hundreds-of-vacancies-remain-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-cabinet-complete-but-hundreds-of-vacancies-remain-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
   - title: "Biden puts St. Patrick's Day pride on display as he meets with Irish prime minister"
     excerpt: "Biden, Irish PM hold virtual meeting on St. Patrick's Day President Joe Biden's Irish pride certainly showed during his first St. Patrick's Day as president, as he held a traditional bilateral ..."

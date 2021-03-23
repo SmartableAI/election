@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 4850
+heat: 4870
 published: true
 
 provider:
@@ -1725,6 +1725,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/sandersbernie_020221gn6_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "News ratings, traffic plummet post-Trump"
+    excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Biden: Back to the future on immigration, Afghanistan, Iran Juan Williams: Biden flips the script The Memo: Two months in ..."
+    publishedDateTime: 2021-03-22T22:32:00Z
+    webUrl: "https://thehill.com/homenews/media/544410-news-ratings-traffic-plummet-post-trump"
+    ampWebUrl: "https://thehill.com/homenews/media/544410-news-ratings-traffic-plummet-post-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/544410-news-ratings-traffic-plummet-post-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
         width: 980
         height: 551
         isCached: true

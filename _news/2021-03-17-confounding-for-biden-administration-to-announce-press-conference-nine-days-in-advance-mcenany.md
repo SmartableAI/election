@@ -61,6 +61,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki Won't Say If Biden Was Treated By Doctor After Air Force One Fall: \"He's Good\""
+    excerpt: "White House press secretary Jen Psaki would not confirm nor deny if President Joe Biden sought medical attention after falling while walking up the stairs to Air Force One on Friday. QUESTION Thanks, Jen. First off, before I get to my other questions ..."
+    publishedDateTime: 2021-03-23T00:05:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/psaki_wont_say_if_biden_was_treated_by_doctor_after_air_force_one_fall_hes_good.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
+    images:
+      - url: "https://assets.realclear.com/images/53/538474.jpg"
+        width: 974
+        height: 730
+        isCached: true
 
 secured: "sZ45KDYvhuQqBEgvJ2VEf0ELXako5NPiLStaYLaYqUKi+CvhwsdApbOJ0oM07Wd44wm89PYfxPGlEU2aTHimL+KuwiiEmsp7EzeHJopT5JzZfyec5h6FIDF8CkxMcEGroxJ+mS3xt0akH8xcI9XjPv8MotaBOMZkjCvf+KKK3bjIqjN3VmHCDq+iha75EbrK++CdAgx0WuvXojdQ3QJ89Zo6odfButKXxJwHhsuA+emY2yK5ycaWmdAiwno7g1ChTeL95A94CUDWln/z5so8AosUKYcV9O03y22HDvsFA8VaRhMZMcHePg+BtoGmVHvjTOQ6kyIXW2x/6UlameBcSQCBlRl1piPAfqUPGy2WADg=;nA1/gRYVIqyz3xU5Eq/92w=="
 ---

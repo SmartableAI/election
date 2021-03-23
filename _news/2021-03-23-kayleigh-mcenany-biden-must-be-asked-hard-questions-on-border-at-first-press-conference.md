@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-hard-questio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-hard-questions-first-press-conference.amp"
 type: article
 quality: 165
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Psaki Won't Say If Biden Was Treated By Doctor After Air Force One Fall: \"He's Good\""
+    excerpt: "White House press secretary Jen Psaki would not confirm nor deny if President Joe Biden sought medical attention after falling while walking up the stairs to Air Force One on Friday. QUESTION Thanks, Jen. First off, before I get to my other questions ..."
+    publishedDateTime: 2021-03-23T00:05:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/psaki_wont_say_if_biden_was_treated_by_doctor_after_air_force_one_fall_hes_good.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
+    images:
+      - url: "https://assets.realclear.com/images/53/538474.jpg"
+        width: 974
+        height: 730
         isCached: true
 
 secured: "o0hobf5TtR6a8CsVY5OnsczIjVrX8HUUFm8G+DgHrzI88SkGij7MLaJNHJMLETSqh8ffUGdvVehsWfpPbOxAw1KEZCA82h+vBQz7pqPuypT+sAg7j5WtJJOz5N9bma9XS+j+PecrkJj6MWwy8Gfmo6VEhhj47lSQELUfsfiztAKbFAqRjkuTmDAZ98J/w5C63iqT0Y1Ze2Ss2gzmUoEhyGj8qqq4LRH2xw3OqkIquOu1WT3tRg3jH6ueVoJEA/Vjo0FIuNoYDXAO4ZyV2LGxGc8FLABe5ED60Am85iou3vNdTWP1koPugyajIpgU/gCaQJmkaxJos8QahEj8JYXnD9z/8VOBqBxJoD5zOTVo4TM=;Zz+tLcYjdFk71s7bZ1uekQ=="

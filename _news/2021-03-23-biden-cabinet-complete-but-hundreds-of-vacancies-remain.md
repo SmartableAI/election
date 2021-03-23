@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden Cabinet complete but hundreds of vacancies remain"
-excerpt: "President Joe Biden’s Cabinet is nearly complete with the expected confirmation of Labor Secretary Marty Walsh on Monday"
-publishedDateTime: 2021-03-22T21:21:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/biden-cabinet-complete-but-hundreds-of-vacancies-remain/2021/03/22/8d627d7a-8b54-11eb-a33e-da28941cb9ac_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/biden-cabinet-complete-but-hundreds-of-vacancies-remain/2021/03/22/8d627d7a-8b54-11eb-a33e-da28941cb9ac_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-cabinet-complete-but-hundreds-of-vacancies-remain/2021/03/22/8d627d7a-8b54-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-cabinet-complete-but-hundreds-of-vacancies-remain/2021/03/22/8d627d7a-8b54-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — President Joe Biden’s Cabinet is nearly complete with the expected confirmation of Labor Secretary Marty Walsh on Monday."
+publishedDateTime: 2021-03-22T21:20:00Z
+originalUrl: "https://www.businessinsider.com/biden-cabinet-complete-but-hundreds-of-vacancies-remain-2021-3"
+webUrl: "https://www.businessinsider.com/biden-cabinet-complete-but-hundreds-of-vacancies-remain-2021-3"
+ampWebUrl: "https://www.businessinsider.com/biden-cabinet-complete-but-hundreds-of-vacancies-remain-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-cabinet-complete-but-hundreds-of-vacancies-remain-2021-3?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Video of Mike Pence Tripping on Stairs Resurfaces After Joe Biden's Stumble"
@@ -526,6 +520,22 @@ related:
       - url: "https://s.abcnews.com/images/WNT/210318_wn_bruce_645_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden Cabinet near complete but hundreds of jobs still open"
+    excerpt: "President Joe Biden’s Cabinet is nearly complete with the confirmation of Labor Secretary Marty Walsh on Monday"
+    publishedDateTime: 2021-03-22T22:22:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-cabinet-complete-but-hundreds-of-vacancies-remain/2021/03/22/8d627d7a-8b54-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-cabinet-complete-but-hundreds-of-vacancies-remain/2021/03/22/8d627d7a-8b54-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-cabinet-complete-but-hundreds-of-vacancies-remain/2021/03/22/8d627d7a-8b54-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden eyes $3T package for infrastructure, schools, families"
     excerpt: "Fresh off passage of COVID-19 relief, President Joe Biden is eyeing the next big White House priority — a sweeping $3 trillion package of investments on infrastructure and domestic needs"
@@ -1290,6 +1300,6 @@ related:
         height: 224
         isCached: true
 
-secured: "RXez0bOmtNkiHMYgFOj3BzbMG0PdTaeJFPptra8lkwJ1sCeaIG9akmm0ZwSMH6JrAXYy28waZVUTu6q5vixCAsr7mSH1Aqtl8coQ7ZLDE515vgDOfY/ln2zkoBv+A+xv+jqNE20fcdY5vGqk16mQL+qPiGwW8zn9b0be2tfgO0f2el6swUfR1Vvdr3caR9+m3SeDt6Hag5QnRY2Jwi3B1pkRVwhFASixLJQ0RoSwIhpOi9OKy8F298gD4LAO2LWxPhg7NIAktWU/Q3J++oqbsxNwaEHbk/VaUQnXCbrpqSb5QE3ErP+66TbipxWMa6pd7gn+CPw7+E3I75X95qMtbAgFGXeGvNk1cFuJrJrLe30=;cLFjegSBpsrPME2lnNgf3Q=="
+secured: "YApJ6RWypg7nh3eX1CSMLww2j+GyfBZxyN6jOpo5DUzw0Qh0A8ebTauTRdALhrbuS4obWg+9fXFIDpK+a76DqZRkJbIwTKgIrAJo7Y+RdqMSnMEMSiwvAsazf6KdislHh8zKpPPPDUDCzwWa3jfDsWWJ6XofFSiOaBk0n/zZtCa4e51wTgrkz4B5yNu4QeK3bP8cDkbDf4zlssS8/lv4ZzL7n2s3eHiV+CDvnxxn2K6ZcYS1Node+FWgy7SV+g+DQ4PihL4VUMk/4dx+zHeFASBtYCJblewE/q5jPXFj1wpJfY6ahmGnKuYL/HiSTYRswFqF06wvHTjiwoJGf9jV8RfZrG0Om9BZsGLxqPOD6Pw=;dGXFgbpHpYbj6YieZ+n/nQ=="
 ---
 

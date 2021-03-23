@@ -1735,6 +1735,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "News ratings, traffic plummet post-Trump"
+    excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Biden: Back to the future on immigration, Afghanistan, Iran Juan Williams: Biden flips the script The Memo: Two months in ..."
+    publishedDateTime: 2021-03-22T22:32:00Z
+    webUrl: "https://thehill.com/homenews/media/544410-news-ratings-traffic-plummet-post-trump"
+    ampWebUrl: "https://thehill.com/homenews/media/544410-news-ratings-traffic-plummet-post-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/544410-news-ratings-traffic-plummet-post-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "UPDATE 1-U.S. DOJ to ask Trump-appointed prosecutors to resign -official"
     excerpt: "The U.S. Department of Justice on Tuesday is expected to ask most federal prosecutors appointed by former President Donald Trump to submit their resignations, a Justice Department official said."
     publishedDateTime: 2021-02-09T20:26:00Z
