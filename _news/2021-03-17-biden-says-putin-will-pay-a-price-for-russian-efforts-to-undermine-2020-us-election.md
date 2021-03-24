@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html"
 type: article
 quality: 183
-heat: 563
+heat: 583
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 158
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914023143-01-yoshihide-suga-0912-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Two Asian American Democrats vow to oppose Biden nominees over lack of diversity after 'insulting' White House comments"
+    excerpt: "Sen. Tammy Duckworth of Illinois is threatening  vote against any of President Joe Biden's nominees who aren't minorities over her fury that the Cabinet lacks Asian Americans, adding she found it \"incredibly insulting\" that a top White House official had pointed to Vice President Kamala Harris' South"
+    publishedDateTime: 2021-03-23T23:36:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111654-11-biden-admin-possibilities-duckworth-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

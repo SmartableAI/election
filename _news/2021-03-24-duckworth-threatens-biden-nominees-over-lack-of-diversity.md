@@ -685,6 +685,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "'My heart goes out,' Biden says on Colorado shooting, pushing gun control"
+    excerpt: "Renewed push for gun control For the second time in just a week, President Joe Biden has been forced to address a mass shooting around travel scheduled to promote his COVID relief plan ..."
+    publishedDateTime: 2021-03-23T22:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-ap-jef-210323_1616522339491_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Ohio attorney general sues Biden administration over $1.9 trillion stimulus"
     excerpt: "Ohio Attorney General Dave Yost sued the Biden administration Wednesday over its $1.9 trillion coronavirus relief package, alleging the federal government sought to impose “unconstitutional” limits on states’ ability to access some of the aid."
     publishedDateTime: 2021-03-17T23:39:00Z
@@ -815,8 +831,8 @@ related:
         isCached: true
   - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
     excerpt: "President also urges Senate to pass bills that would close loopholes in background checks system – get all the latest news"
-    publishedDateTime: 2021-03-23T20:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    publishedDateTime: 2021-03-23T23:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a5b6d8f0842edbee7c8e7"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
     type: article
@@ -1523,6 +1539,6 @@ related:
         height: 224
         isCached: true
 
-secured: "OwNCR1m7370aboLFr3xu6NuREUNv8+5Kncpk2QUY3M5DMAIUO2T5i5zLKc4+6Ae8GV3iiYOuMPSrSId9yZMrl7wp7adGG0lUY74tNy2WCQaH37sksMLj00/bkBAEtSNGUhD7SlulNn6VWoPZ8hnbP37RLpC5zHz+86qIx7f9wij9WQ/yQCv0qCKQdiYySwY5MAfrhxhRdLVdF5J3dJWeuOAIcEXilNjxmRxAldiOMvBOLnY5oyfTa7MPu6gyMsqyPzS67J2ExrC8lRNPA7LsuF69i5Da9W+jN41/cmeyPZOd0euG0tsNzzuHOLQZnT8I0GZGOR2d+B0p3jqB4ckUfgKWlZOc8ZjiD2j2baRs55g=;XXG/W5C/cubc18lasm9tOg=="
+secured: "XQNjSalicikKet7OYNmfbQMOkYfiLI7QTCrNy/I0Aq7Dr2v2wJ2rn1qxBgJwwuAOYvu2Jq4eqtEUSrLpDNxzVa+DN6/+R873jTKeHs/xmbmHK58xPSIUkIiDtTGoue5WBgjKl21liI6iLDU5tVvxuhyKHduoEtQFCtTVHLcdC8fZI27rFa2GCvIp26p2qbvIEGc9Z/RIVeuCzGMWJCz4ez0iHtccH2tuVWJddAJRRKzDup+MnaHA5w15tLS4eEcfSyd7pmp7qqyfo9+RhBxii/ulrIzOFjyLlUplJCf5hA6hRpoJxZXGz56zEGCF4wT35STJjAEsjfEoTbyp9xipmajxi3j2F4ye3qgZyLhiERutj4ukUmeqz78UKKej4MgCe6RgsFs6/KYyvrL9nLnUK8q+KYHn2ugG0XOslnJ8dvjSWYkv4KPX331glQZk09MXze7tL+msBWB08Y95f1VZ02mIKi3Pm6IaNkqXZvBPK8fRjFCmA3NzG8AYgg8neLYLo6R6M3p9q39Zx57Qv4/Xdg==;EZIdzD42S/arHb6LOp8pLg=="
 ---
 

@@ -31,20 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "'We have to act’ on gun control: Biden reacts to Colorado"
-    excerpt: "Biden reacts to Colorado. Posted . U.S. President Joe Biden on Tuesday called for a ban on assault weapons and tighter gun control meas"
-    publishedDateTime: 2021-03-23T19:06:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE5B70F3"
+  - title: "Biden's disciplined agenda rollout tested by the unexpected"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
+    publishedDateTime: 2021-03-23T22:40:00Z
+    webUrl: "https://www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210323&i=OVE5B70F3&r=OVE5B70F3&t=2"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "Esdhbyxang/fuBT6K9KiY1HXNjZbCbYwSwic18m6liIMnvdGXKu1EsrLXmvKi+5AA4NLvIgRuXB6QHvSWWY++HjHwpbTLKWAenbu00d8VBhsi3N5xDlg17/xnpP4gzSeH3xfO1RoDxGl7dJtyQmK3hXNhBhoGAqF5EaLneS3jCkLzHq+UqnN4wMhoQ3G91YVqiX/Jkb09LFpjnRcg2wPpV/NJBWWspuhjfeAbSLoFM5JxWAiGz1+DcYFpkJzarwCO2qnEVo7NSJP/rbyA0NMlZQLJ/YeaCtk4H85oTBwo0uQJqmxaevG/qz5iYyqiiLizUxapR9Ix77eTvW51ywsI8/SJal805251AkIytU3deI=;f0vC2+dDuyGdCXf/JlgBNQ=="
 ---

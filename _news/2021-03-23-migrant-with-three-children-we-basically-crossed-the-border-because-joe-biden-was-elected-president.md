@@ -634,6 +634,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration opens second child migrant facility in Carrizo Springs amid escalating crisis"
+    excerpt: "The Biden administration announced Tuesday that it is opening a second facility to process child migrants in Carrizo Springs, Texas -- the latest move by the administration to cope with a surge in migrant numbers at the border."
+    publishedDateTime: 2021-03-23T23:06:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rUtie2YWCOs/biden-second-child-migrant-facility-carrizo-springs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-second-child-migrant-facility-carrizo-springs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-second-child-migrant-facility-carrizo-springs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cec13057-b354-405e-a570-9b924606f3bc/e5751ea9-9a66-48a8-bb50-7a456d7a11a0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cuomo seizes on common ground with Biden, agrees sexual misconduct allegations should be investigated"
     excerpt: "Embattled New York Gov. Andrew Cuomo deflected questions Wednesday regarding his reaction to President Biden’s assertion that he should resign from office if an investigation confirms allegations that he sexually harassed several women, including former aides."
     publishedDateTime: 2021-03-17T21:10:17Z

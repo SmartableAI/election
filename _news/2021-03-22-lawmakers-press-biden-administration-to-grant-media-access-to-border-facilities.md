@@ -687,6 +687,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "'My heart goes out,' Biden says on Colorado shooting, pushing gun control"
+    excerpt: "Renewed push for gun control For the second time in just a week, President Joe Biden has been forced to address a mass shooting around travel scheduled to promote his COVID relief plan ..."
+    publishedDateTime: 2021-03-23T22:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-ap-jef-210323_1616522339491_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Ohio attorney general sues Biden administration over $1.9 trillion stimulus"
     excerpt: "Ohio Attorney General Dave Yost sued the Biden administration Wednesday over its $1.9 trillion coronavirus relief package, alleging the federal government sought to impose “unconstitutional” limits on states’ ability to access some of the aid."
     publishedDateTime: 2021-03-17T23:39:00Z
@@ -801,8 +817,8 @@ related:
         isCached: true
   - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
     excerpt: "President also urges Senate to pass bills that would close loopholes in background checks system – get all the latest news"
-    publishedDateTime: 2021-03-23T20:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    publishedDateTime: 2021-03-23T23:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a5b6d8f0842edbee7c8e7"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
     type: article

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convent
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "White House pulls Biden Interior nominee after Murkowski opposition, backtracking on second nominee this month"
+    excerpt: "Biden's presidential transition organization announced Klein ... Neither did representatives for Sen. Joe Manchin, D-W.Va., a Democrat from an energy state who also reluctantly supported Haaland. Democrats theoretically could still have confirmed Klein ..."
+    publishedDateTime: 2021-03-23T23:07:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-pulls-biden-interior-nominee-elizabeth-klein"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-pulls-biden-interior-nominee-elizabeth-klein.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-pulls-biden-interior-nominee-elizabeth-klein.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/biden-happy-thumb.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "SYwsgIGNnrjbQCLgoRud3HRYI5774YHKKjqgVSmQWITNo6TMscu08HeftzUCjMWknEIHsqYXUemWp1ulgvlt6/nIbWpZr8TA/7i4RfvgzoiuYvk6qGJdBUEXnru36KyK1fhWvHwykvcg1m7YKJjIIGwgyL09tIj1eAZXgAxkzpSMWOkUEQamjX/r+cDRlmBn1mIHk5x+VQegmGtc7K38B3KHPjDwgSUC83lwWXmxzbwmtXMoboU7MXFNI3+2BCJJO0VAsWVyg7m2Eg+LMb6+/R/IzU5Cn36zmYvZeGP/SAnDPtN0I5uCkCCv0PdPkZrInIQ9X/cdnws28ZyrjT0jFi6RG8LIpigHKqPf0iZjWgs=;ANy6/NavalC3fsABGaUq8Q=="

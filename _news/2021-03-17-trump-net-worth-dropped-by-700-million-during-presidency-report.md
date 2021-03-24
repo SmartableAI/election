@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump hotels dropped as preferred partner by luxury travel agency"
+    excerpt: "The luxury travel agency Virtuoso will no longer list Trump Organization properties on its website, a spokesperson for the company said. A Virtuoso spokeswoman confirmed in a statement reported ..."
+    publishedDateTime: 2021-03-23T22:59:00Z
+    webUrl: "https://thehill.com/business-a-lobbying/544604-luxury-travel-agency-drops-trump-hotels-as-preferred-partner"
+    ampWebUrl: "https://thehill.com/business-a-lobbying/544604-luxury-travel-agency-drops-trump-hotels-as-preferred-partner?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/business-a-lobbying/544604-luxury-travel-agency-drops-trump-hotels-as-preferred-partner?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumphotel618289268.png"
         width: 980
         height: 551
         isCached: true

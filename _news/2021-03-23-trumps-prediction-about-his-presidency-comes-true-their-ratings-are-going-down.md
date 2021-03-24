@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump hotels dropped as preferred partner by luxury travel agency"
+    excerpt: "The luxury travel agency Virtuoso will no longer list Trump Organization properties on its website, a spokesperson for the company said. A Virtuoso spokeswoman confirmed in a statement reported ..."
+    publishedDateTime: 2021-03-23T22:59:00Z
+    webUrl: "https://thehill.com/business-a-lobbying/544604-luxury-travel-agency-drops-trump-hotels-as-preferred-partner"
+    ampWebUrl: "https://thehill.com/business-a-lobbying/544604-luxury-travel-agency-drops-trump-hotels-as-preferred-partner?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/business-a-lobbying/544604-luxury-travel-agency-drops-trump-hotels-as-preferred-partner?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumphotel618289268.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
     excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
     publishedDateTime: 2021-03-12T02:41:00Z

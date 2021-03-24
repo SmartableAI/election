@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idOVE5B70F3"
 webUrl: "https://www.reuters.com/video/watch/idOVE5B70F3"
 type: article
 quality: 105
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     height: 540
     isCached: true
 
-related:
-  - title: "What could be in Biden's massive infrastructure bill, from free community college to upgraded roads and bridges"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
-    publishedDateTime: 2021-03-23T18:23:00Z
-    webUrl: "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/604940ed9942cf001865db46?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
-secured: "Snj6jqH1uyOJdaEJTCWFs0PQbC7xQ1nNOph4tw5cEnZ2dCFgOfHWzpIUgzgLYEhS2IcZN47sCTEh39tB+33wdILg2/6hdTUlCevJsE2HrAct0wNCUqDd4lgCwvYAP6cK/y5osjw9nrhvcd+Ypi+4yawFGAHsIC+TmI3oXZJrCL//m0oQgUy2eMiAXM2iHJougfnbymn4VK1mhValFEtMtk/rACYc0ryNMAdSA0p75gg1CRXe+yXTegZPHLj2wopxFPq/oEXSH6D50CjL5bgusEwrROqSMNAl02weonO869l61TZ1TiNvmiTZgDSCwfq2jTMgrt6K1Y0Gz4vtP/Yqh0lejRoRt70eb5FjHtR2tlQ=;wd70eG4zysOgyGQhZFspTQ=="
+secured: "bI1rmBbM4BaH/MtQyH1KlIT/LOLnFunpjJtK5r+0qF0yd7kP9GWRQqYmi0S++0vR+TaowRnln/DL5ZzRi7l3PbpLM8SDxqtwbRD1PUpMr7hyxiJvxgODvcLAuPKwSKy71NkPnj7AlOMoiX0MPRxErwJ4goR9pid8HZ2rSldA4cX91xRMH/da7svU/LFNtPscEMy/YoPXIjWsdnfMc/ucDn8xmEcTtiIFGUcIrMBd8BG8yXpSGoVQ+YS7HwVbhurZXEtoIxt8XuBiLJCGQ9KyXe3P+XmmF6wn/gNMAlPsMZsESvy0mTmurgstrGvETctxZo9wp3Dw5xG755+c/dxG0WU9WkFYPq0X214AV7/uzaM=;EmHfRqUEfLwFyqb6EyILMw=="
 ---
 

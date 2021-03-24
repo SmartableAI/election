@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Two Asian American Democrats vow to oppose Biden nominees over lack of diversity after 'insulting' White House comments"
+    excerpt: "Sen. Tammy Duckworth of Illinois is threatening  vote against any of President Joe Biden's nominees who aren't minorities over her fury that the Cabinet lacks Asian Americans, adding she found it \"incredibly insulting\" that a top White House official had pointed to Vice President Kamala Harris' South"
+    publishedDateTime: 2021-03-23T23:36:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111654-11-biden-admin-possibilities-duckworth-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top Senate Democrat sees little chance of passing Biden plan for pathway to citizenship for millions of undocumented immigrants"
     excerpt: "Senate Judiciary Chairman Dick Durbin, the chamber's second ranking Democrat, said Monday that he doesn't believe there's enough support in this Congress to pass a full-blown immigration bill with a pathway to citizenship for the 11 million undocumented immigrants, a key pillar of President Joe Biden's"
     publishedDateTime: 2021-03-15T23:34:07Z

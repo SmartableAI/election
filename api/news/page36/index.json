@@ -2,6 +2,58 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-01-25-dr-anthony-fauci-on-what-working-for-donald-trump-was-really-like.md",
+      "title": "Dr. Anthony Fauci on what working for Donald Trump was really like",
+      "excerpt": "As the coronavirus ravaged the country, Dr. Anthony Fauci’s calm counsel and commitment to hard facts endeared him to millions of Americans. But he also became a villain to millions of others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
+      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/uczaXLLkERAWDUmrCOo2M4q-54c=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LYGYJEE7PY4UWVJH55TXZUU2M.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-24T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-mypillow-guy-among-the-trump-acolytes-looking-to-pick-up-where-he-left-off.md",
       "title": "MyPillow Guy among the Trump acolytes looking to pick up where he left off",
       "excerpt": "MINNEAPOLIS — When Mike Lindell, better known to TV viewers as the MyPillow Guy, went to the White House last week to try to persuade then-President Donald Trump to keep pushing bogus theories ...",
@@ -1288,62 +1340,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ari-fleischer-big-government-is-back-under-biden.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-big-government-is-back-under-biden.amp",
       "publishedDateTime": "2021-01-22T14:40:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-reince-priebus-tough-time-for-the-republican-party-but-bidens-actions-easy-to-unite-against.md",
-      "title": "Reince Priebus: 'Tough time for the Republican Party’ but Biden's actions easy to unite against",
-      "excerpt": "Former White House Chief of Staff Reince Priebus told \"America’s Newsroom\" Friday that it’s a \"tough time for the Republican Party\" since President Biden was sworn in, but Biden's actions may make it easier for the party to unite. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fkBdiX7FRw/reince-priebus-tough-time-republican-party",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fkBdiX7FRw/reince-priebus-tough-time-republican-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
-      "publishedDateTime": "2021-01-22T14:20:28-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

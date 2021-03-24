@@ -2,9 +2,9 @@
 category: news
 title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
 excerpt: "President also urges Senate to pass bills that would close loopholes in background checks system – get all the latest news"
-publishedDateTime: 2021-03-23T20:31:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+publishedDateTime: 2021-03-23T23:20:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a5b6d8f0842edbee7c8e7"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a5b6d8f0842edbee7c8e7"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
 type: article
@@ -686,6 +686,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/cf74fac66dcf5b171bb7741a4b82d816f593dc7b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36ae313660f3c7e19be3dc6dcea610a7"
         width: 600
         height: 360
+        isCached: true
+  - title: "'My heart goes out,' Biden says on Colorado shooting, pushing gun control"
+    excerpt: "Renewed push for gun control For the second time in just a week, President Joe Biden has been forced to address a mass shooting around travel scheduled to promote his COVID relief plan ..."
+    publishedDateTime: 2021-03-23T22:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-ap-jef-210323_1616522339491_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Ohio attorney general sues Biden administration over $1.9 trillion stimulus"
     excerpt: "Ohio Attorney General Dave Yost sued the Biden administration Wednesday over its $1.9 trillion coronavirus relief package, alleging the federal government sought to impose “unconstitutional” limits on states’ ability to access some of the aid."
@@ -1523,6 +1539,6 @@ related:
         height: 224
         isCached: true
 
-secured: "oC0u7cw7RI6Z132AQrtWSmdada5TbZo1MtzJnwTXh+zsRa44NVB+9CaEQXER9t2Y8x/97YaUemLPUjAPzthSKx1atSBHp7VUf1nibRHAg+GezMbHuPMrSy2NtaEPXQ4ubHfGNpOX/+9Q2JYm0gjb7mZGwJIVQA5N/E5liapcEzNvaOVTsI32vy8uA5abMiNlU8FhEM09goynphQYaGPNRDfoEGxSzaQAUfYrElPz4l6ENpX570a9n1vjYb4I+2JeJyyo53zhN+kpygVsughfu7/oYvKuKStejxKB82aiAT2Ry/7Ph7WHRxe52hV9kj7rgp2pJ/1owPJmeYn7HnqdeWPr6OskDiBtlX8eyxbwKHQ=;achTy9OkzQWQA0kT9JKBfw=="
+secured: "i6jN4HcdsFgYNv+n/NuY286WkrwSftr/L7oKunvXArW/KtpiBKkxXfAkXC9hS6Oknss/SzyaQYqg+rIrtIQagqGI7h16pXqFJKePUW6K/8UMQo18QeK8D9kWWNvf/yfeKGPvdosHIPSnImhMbh+JTwggMPxvixNTYQ6L9Ry7yTidStQla1lLpcBMoMWG4bXqrUG94q08wPl1ptwiAiNq5kKXkmKP93Fixptc9pPlfJaytEd4VTTyFN5a7Pq5EcrwCPhp7ctZjCzDvgTEhOkOabyTFYY7cwwOYgA0LyidI1Tpu7C+BIHhYu6rLkq/OoVFlqoB2HC+6lUz2ejKB+o+H7MsIoY18uaOLeYNBMM82rc=;eKLqcUZ0vf85wW+bHKNjqg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-wall-freeze-unlawful-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
     quality: 157
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a94a9aa-c92b-4669-b50d-958d74be7fa0/64d54400-2a84-464f-b2df-17b212474f47/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House GOP lawmakers join Senate call for GAO opinion on Biden’s border wall freeze"
+    excerpt: "EXCLUSIVE: A group of more than 60 Republican House lawmakers and four GOP senators on Tuesday added their names to a Senate push to ask the Government Accountability Office to give its opinion on whether President Biden’s move to suspend border wall construction was in violation of federal law."
+    publishedDateTime: 2021-03-23T22:36:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tRT-9uhKqVs/house-gop-senate-gao-opinion-bidens-border-wall"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b98b5ab-a71e-49aa-bb9b-da97aea33b9d/3b4ec3f8-5397-45a4-8373-602e228d3dc7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

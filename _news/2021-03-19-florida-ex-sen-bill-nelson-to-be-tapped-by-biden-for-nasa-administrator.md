@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrato
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
 type: article
 quality: 174
-heat: 254
+heat: 274
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd65cdd1-8886-445c-8d72-9bf796997813/dfbc9ace-b856-43c1-8de4-31b78f8cc37b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Senate Democrat furious with Biden administration over lack of Asian American representation"
+    excerpt: "Sen. Tammy Duckworth says she’s done voting for any of President Biden’s nominees that aren’t diverse until his administration “figures out” a solution to the lack of Asian American or Pacific Islander (AAPI) representation at the cabinet level."
+    publishedDateTime: 2021-03-23T22:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G8ZSv6PT-nY/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Kayleigh McEnany blasts Biden administration for 'unprecedented' lack of media access to border"
     excerpt: "Former White House press secretary Kayleigh McEnany slammed the Biden administration Tuesday for what she described as an \"unprecedented\" lack of media access to the border."

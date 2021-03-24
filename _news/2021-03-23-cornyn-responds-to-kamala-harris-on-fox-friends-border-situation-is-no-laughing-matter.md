@@ -640,6 +640,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration opens second child migrant facility in Carrizo Springs amid escalating crisis"
+    excerpt: "The Biden administration announced Tuesday that it is opening a second facility to process child migrants in Carrizo Springs, Texas -- the latest move by the administration to cope with a surge in migrant numbers at the border."
+    publishedDateTime: 2021-03-23T23:06:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rUtie2YWCOs/biden-second-child-migrant-facility-carrizo-springs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-second-child-migrant-facility-carrizo-springs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-second-child-migrant-facility-carrizo-springs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cec13057-b354-405e-a570-9b924606f3bc/e5751ea9-9a66-48a8-bb50-7a456d7a11a0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cuomo seizes on common ground with Biden, agrees sexual misconduct allegations should be investigated"
     excerpt: "Embattled New York Gov. Andrew Cuomo deflected questions Wednesday regarding his reaction to President Biden’s assertion that he should resign from office if an investigation confirms allegations that he sexually harassed several women, including former aides."
     publishedDateTime: 2021-03-17T21:10:17Z
@@ -925,6 +941,6 @@ related:
         height: 562
         isCached: true
 
-secured: "DeoLH9wEctLp/mUo/qdiVXjEcOTmx32JZOaHOspPMvkPMagM2zPjEB76djoNsO0yLqqHKQWiFE3QxozflqXxQ+K6QgZnZycE3C4LQZFNZrJhZoeffpXz0+KT1wE+jZrDnBu3P2U18LqENGhPYtpjLAq8jKtBLGCcXpGvut/k0F8QTV41BVwo2OzCwOQDAWiWH+wneWcHKYGMtEGqKP6KJcENnZrrbA9EZQdw7MhM3D9H4c0gxa1T7UQHn8XA6wA8GhNFsDojLf6cTB+ScSdTLxF3KOWdmLDTPseEkcaBA45+GuaGxvz7TN6BHExwvVjNV6CTL8gR0+JX4Zx3V4fnXOkm7pNa4Ut7cmm6X1ycaig=;Z5Wy0XoxPeIy1jcLcSIvRQ=="
+secured: "ZRizCi3RHY/4T4PDtHAUIBOUXYkZVwgmWX2270rNiqUysljE0MRtAB9oln+mOIKfDjDLxpQmCn3/GctI+RQA2FM5u+6dMdXIAEH7nSAnQAxOVQMitpiZi6WQtIyQBwfWPAMVnI0l+iYLsbjpw2VChTx9ENmY6Lj8kH4Kwl3m0bSB+NG8GydAISws0ky2k8zjVRbWxnRdic28yCsKG0NcNljKHThKw7OBMNWilu1YNDRjJ5R1Ma2KHxC+1JY2yYq7ITqR11YZPd28FpnsSvJy9AggOiAOtMsqJvRsUo4lWDssdtX5trggE56QVQojJXAdZjOiYXcVndyxGUT/P2QwR+h0BZjPLEdRI1qltAWdbnci0E/Ietd8Qr8gNxfv3aeUkX7JI4i1BG7i4pbwY/q7CXsrSElxgMa+Bj91NT3jop69OC29AtA6CM5L2ngX06vYotfMsgLXUXmqyebb+vto1OTXjHFEoTVw1mP964l+PZ+4Jk2kQFJIGGDSL81DAmsiOYSD3PSCtTjpbHIYsNqKqQ==;kJZNcbfVLqRTf4lwqdSAvw=="
 ---
 

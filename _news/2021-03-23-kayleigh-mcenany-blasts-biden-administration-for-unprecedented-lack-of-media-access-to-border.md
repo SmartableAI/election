@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate Democrat furious with Biden administration over lack of Asian American representation"
+    excerpt: "Sen. Tammy Duckworth says she’s done voting for any of President Biden’s nominees that aren’t diverse until his administration “figures out” a solution to the lack of Asian American or Pacific Islander (AAPI) representation at the cabinet level."
+    publishedDateTime: 2021-03-23T22:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G8ZSv6PT-nY/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Assessing Biden's Start: Poll Finds Support for Activist Government"
     excerpt: "On March 11, 2021, Joe Biden signed into law a measure that was his top priority even before he took office: a $1.9 trillion spending bill to ease the year-long financial upheaval caused by the coronavirus pandemic. “This historic legislation is about ..."
     publishedDateTime: 2021-03-23T10:35:00Z
