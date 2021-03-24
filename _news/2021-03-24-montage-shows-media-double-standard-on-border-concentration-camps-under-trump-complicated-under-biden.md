@@ -768,6 +768,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Media shifts rhetoric on migrant facilities, from Trump's 'concentration camps' to Biden's border 'problem'"
+    excerpt: "The mainstream media has struck a vastly different tone in recent months when it comes to covering the ongoing migrant crisis at the southern border."
+    publishedDateTime: 2021-03-24T01:54:00Z
+    webUrl: "https://www.foxnews.com/media/media-shifts-rhetoric-on-migrant-facilities-biden-trump-concentration-camps"
+    ampWebUrl: "https://www.foxnews.com/media/media-shifts-rhetoric-on-migrant-facilities-biden-trump-concentration-camps.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-shifts-rhetoric-on-migrant-facilities-biden-trump-concentration-camps.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f86ab4ae-de0d-45c7-82f8-69ce5352f9f4/cf7b71fa-403f-440b-a861-f76a71e0df0f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
     excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
     publishedDateTime: 2021-03-22T00:00:00Z

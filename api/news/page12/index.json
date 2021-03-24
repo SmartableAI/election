@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-05-where-are-ivanka-trump-and-jared-kushner-donald-angry-at-son-in-law-report.md",
+      "title": "Where Are Ivanka Trump And Jared Kushner? Donald Angry At Son-In-Law: Report",
+      "excerpt": "There may be contention brewing between former President Donald Trump and Jared Kushner after his son-in-law was not seen at the Conservative Political Action Conference last week. Jared Kushner, husband of Trump’s daughter Ivanka,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/where-are-ivanka-trump-jared-kushner-donald-angry-son-law-report-3156764",
+      "originalUrl": "https://www.ibtimes.com/where-are-ivanka-trump-jared-kushner-donald-angry-son-law-report-3156764",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/12/jared-kushner-stands-next-to-his-father-in.jpg",
+          "width": 1024,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/where-are-ivanka-trump-jared-kushner-donald-angry-son-law-report-3156764?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/where-are-ivanka-trump-jared-kushner-donald-angry-son-law-report-3156764?amp=1",
+      "publishedDateTime": "2021-03-04T19:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-biden-considering-range-of-individuals-for-budget-chief-as-top-democrats-tout-shalanda-young.md",
+      "title": "Biden considering \"range of individuals\" for budget chief, as top Democrats tout Shalanda Young",
+      "excerpt": "Democratic leaders have pushed for Tanden's proposed deputy, Shalanda Young, to be considered for the top job.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/biden-omb-shalanda-young/",
+      "originalUrl": "https://www.cbsnews.com/news/biden-omb-shalanda-young/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/6e1af44e-c45c-4aa2-962f-3c81c8197c8a/thumbnail/1200x630/405cc78bccbeb9053a5a3eeb409bd8df/shalanda-young.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-omb-shalanda-young/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-omb-shalanda-young/",
+      "publishedDateTime": "2021-03-04T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-biden-told-union-leaders-im-all-for-natural-gas-report.md",
       "title": "Biden told union leaders ‘I’m all for natural gas’: report",
       "excerpt": "President Biden personally promised union leaders his support for natural gas, United Association General Mark McManus said. ",
@@ -1245,119 +1349,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-fact-check-pence-echoes-trumps-big-lie-in-dishonest-op-ed-on-election-rules.md",
-      "title": "Fact check: Pence echoes Trump's Big Lie in dishonest op-ed on election rules",
-      "excerpt": "In an opinion article published on Wednesday, former Vice President Mike Pence did something he used to do in office: echo a lie from former President Donald Trump in a slightly more sophisticated way.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfcK-1gqPKY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfcK-1gqPKY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 632,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210101151233-mike-pence-louie-gohmert-ignore-certify-election-results-dantonio-nr-vpx-00033124-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html",
-      "publishedDateTime": "2021-03-03T16:00:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-house-republican-trump-has-a-responsibility-to-tell-his-supporters-to-stand-down-after-new-threat.md",
-      "title": "House Republican: 'Trump has a responsibility' to tell his supporters 'to stand down' after new threat",
-      "excerpt": "The top Republican on the House Foreign Affairs Committee said Wednesday that Donald Trump has a duty to call off his supporters in light of a potential threat against the US Capitol on Thursday -- less than two months after the January 6 Capitol insurrection incited by the former President.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OfpfSj8lZw0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OfpfSj8lZw0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303174622-rep-michael-mccaul-the-lead-0303-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/03/politics/march-4-capitol-threat-michael-mccaul-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/march-4-capitol-threat-michael-mccaul-cnntv/index.html",
-      "publishedDateTime": "2021-03-03T15:22:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -272,6 +272,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden wants quick action on gun violence, even as he moves slowly"
+    excerpt: "President Joe Biden said on Tuesday that he doesn't want to “wait another minute” to combat the country’s gun violence epidemic. But 63 days into his presidency, Biden hasn’t issued any unilateral gun control actions, despite a campaign pledge to ..."
+    publishedDateTime: 2021-03-24T00:27:00Z
+    webUrl: "https://www.politico.com/news/2021/03/23/biden-quick-action-gun-violence-477717"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/23/biden-quick-action-gun-violence-477717"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/23/biden-quick-action-gun-violence-477717"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/77/ab/f22165254afe8b2366370843bae2/3-23-21-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Same old Joe: Rebuffing staff who smoked pot fits Biden’s MO"
     excerpt: "Anyone surprised that Joe Biden would scrutinize the weed-smoking habits of his White House staff hasn't paid attention to one of the more consistent policy threads of his decades-long career. He’s just not ready to embrace cannabis. Despite a shift in ..."
     publishedDateTime: 2021-03-19T23:56:00Z

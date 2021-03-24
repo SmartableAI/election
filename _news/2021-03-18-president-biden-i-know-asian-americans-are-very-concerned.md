@@ -350,6 +350,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Duckworth vows to oppose Biden nominees over lack of Asian American representation"
+    excerpt: "Long-simmering Democratic tensions over a lack of Asian American representation in President Joe Biden’s administration boiled over Tuesday when Sen. Tammy Duckworth vowed to block future Biden picks without a White House plan to tap more nominees of ..."
+    publishedDateTime: 2021-03-23T20:36:00Z
+    webUrl: "https://www.politico.com/news/2021/03/23/tammy-duckworth-biden-cabinet-477676"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/46/ce/bcbc53b043b1810f17317c0ee04b/200904-tammy-duckworth-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "pwtdNkQFB2542YGcN0cliHeyJ83BpUBt4neX1iViKwPNTkZMWlSRpc8vjcbtmU4y94kpDuG2x1+Jh7koo6SVVEdq/geFci2OjfA6EmPQCoTh2BOmHX06l94hmQ58rozKI3xq+rIXab/TAhTsEPmJxBRe4z+k32et8aypEbJmxLeZtjR86L4b6u4Cq2gZfa4oTY2F0mnxWFvmaut84Ytx1dwP/pckMVJU8S8f2t10WhlM/aXcT225aDea6BnTHp+c17sr/UqbSX+v85aTE504Vb4nGuAmu3vM3JnM86cGz8N6nKRT28i7Txj2pc1WB2g/dKAcRXL6EQrwxb+DWM20wC2v6XbTAghvXLAy7kDc+80=;L/E7kYIVqFv2wubyuX8W8g=="
 ---

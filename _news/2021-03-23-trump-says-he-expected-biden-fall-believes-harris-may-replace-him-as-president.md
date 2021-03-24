@@ -669,6 +669,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Graham blasts 'Biden administration s---show' at border, demands president, VP 'get off your a--'"
+    excerpt: "A fuming Sen. Lindsey Graham, R-S.C., railed against President Joe Biden and his administration's role in the crisis at the southern border Tuesday, suggesting the White House is gaslighting the public into believing the U.S.-Mexico frontier is secure."
+    publishedDateTime: 2021-03-24T02:41:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CAxeRlkZg18/lindsey-graham-tells-biden-harris-get-off-your-rear"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-tells-biden-harris-get-off-your-rear.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-tells-biden-harris-get-off-your-rear.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5de2e5d-c6a3-47a3-bb68-71774de99df8/96ad1f74-b907-44e3-905f-485ddba86e5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration opens second child migrant facility in Carrizo Springs amid escalating crisis"
     excerpt: "The Biden administration announced Tuesday that it is opening a second facility to process child migrants in Carrizo Springs, Texas -- the latest move by the administration to cope with a surge in migrant numbers at the border."
     publishedDateTime: 2021-03-23T23:06:01Z

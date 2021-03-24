@@ -687,6 +687,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Graham blasts 'Biden administration s---show' at border, demands president, VP 'get off your a--'"
+    excerpt: "A fuming Sen. Lindsey Graham, R-S.C., railed against President Joe Biden and his administration's role in the crisis at the southern border Tuesday, suggesting the White House is gaslighting the public into believing the U.S.-Mexico frontier is secure."
+    publishedDateTime: 2021-03-24T02:41:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CAxeRlkZg18/lindsey-graham-tells-biden-harris-get-off-your-rear"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-tells-biden-harris-get-off-your-rear.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-tells-biden-harris-get-off-your-rear.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5de2e5d-c6a3-47a3-bb68-71774de99df8/96ad1f74-b907-44e3-905f-485ddba86e5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cuomo seizes on common ground with Biden, agrees sexual misconduct allegations should be investigated"
     excerpt: "Embattled New York Gov. Andrew Cuomo deflected questions Wednesday regarding his reaction to President Biden’s assertion that he should resign from office if an investigation confirms allegations that he sexually harassed several women, including former aides."
     publishedDateTime: 2021-03-17T21:10:17Z

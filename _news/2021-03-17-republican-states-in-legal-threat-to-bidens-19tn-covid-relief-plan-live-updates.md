@@ -863,6 +863,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden considers executive actions on guns, calls on Congress to pass weapons ban"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden urged Congress to swiftly pass gun control laws and may take action on his own to stop mass violence, the White House said on Tuesday, a day after the second deadly mass shooting in a week. The Democrat ..."
+    publishedDateTime: 2021-03-24T03:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BF2DK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2DK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2DK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555920375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1AU"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Joe Biden touts $1.9tn Covid rescue package on anniversary of Affordable Care Act"
+    excerpt: "Administration also extended the enrollment period for registering for subsidized health insurance coverage until 15 August"
+    publishedDateTime: 2021-03-24T01:44:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/23/joe-biden-covid-rescue-package-affordable-care-act"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/23/joe-biden-covid-rescue-package-affordable-care-act"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/23/joe-biden-covid-rescue-package-affordable-care-act"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/70b1d30c7d4e08e1536e088791196abca180fb54/0_203_4218_2531/master/4218.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaac89c77e6afa761a7a58caf53c2493"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden says he supports reforming Senate filibuster in ABC News exclusive interview"
     excerpt: "President Joe Biden said he supports reforming the Senate filibuster in an ABC News exclusive interview Tuesday."
     publishedDateTime: 2021-03-17T00:27:00Z

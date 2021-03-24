@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-contro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html"
 type: article
 quality: 200
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -255,6 +255,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/16/us/politics/16new-washington-briefing-filibuster-video/16new-washington-briefing-filibuster-video-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden wants quick action on gun violence, even as he moves slowly"
+    excerpt: "President Joe Biden said on Tuesday that he doesn't want to “wait another minute” to combat the country’s gun violence epidemic. But 63 days into his presidency, Biden hasn’t issued any unilateral gun control actions, despite a campaign pledge to ..."
+    publishedDateTime: 2021-03-24T00:27:00Z
+    webUrl: "https://www.politico.com/news/2021/03/23/biden-quick-action-gun-violence-477717"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/23/biden-quick-action-gun-violence-477717"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/23/biden-quick-action-gun-violence-477717"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/77/ab/f22165254afe8b2366370843bae2/3-23-21-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "‘Kamala Harris says the Atlanta attacks have ‘frightened and shocked and outraged all people.’"
     excerpt: "Vice President Kamala Harris, the first woman and the first Asian-American to hold the office, expressed condolences for the families of the victims during a meeting with Irish officials on Wednesday. “This speaks to a larger issue which is the issue of ..."

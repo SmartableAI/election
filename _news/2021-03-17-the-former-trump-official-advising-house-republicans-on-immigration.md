@@ -462,6 +462,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Key Trump ally draws renewed scrutiny from prosecutors"
+    excerpt: "Roger Stone, an ally to former President Donald Trump, has appeared in several court filings related to the riot that took place at the US Capitol Building on January 6. CNN's Jessica Schneider reports."
+    publishedDateTime: 2021-03-24T02:14:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/24/roger-stone-capitol-riot-court-filings-pkg-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/24/roger-stone-capitol-riot-court-filings-pkg-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/24/roger-stone-capitol-riot-court-filings-pkg-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319193750-01-roger-stone-oath-keepers-court-filings-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Hotels are dropped by the high-end travel group Virtuoso."
     excerpt: "The network’s list of hotel partners is vetted and evaluated every year and reads like a who’s who of aspirational travel. “As of March 8, 2021, Trump Hotels are no longer part of the Virtuoso network,"
     publishedDateTime: 2021-03-23T20:24:00Z

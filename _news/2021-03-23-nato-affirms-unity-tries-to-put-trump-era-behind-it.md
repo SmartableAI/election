@@ -1,30 +1,26 @@
 ---
 category: news
-title: "NATO affirms unity, tries to put Trump era behind it"
-excerpt: "It has only been activated once by NATO, after the 9/11 attacks on New York and Washington. Former U.S. President Donald Trump often criticized NATO partners for failing to pay their defense dues, claiming falsely that they owed the alliance or the United ..."
-publishedDateTime: 2021-03-23T16:24:00Z
-originalUrl: "https://www.chron.com/news/article/NATO-affirms-unity-as-minsters-put-Trump-era-16046844.php"
-webUrl: "https://www.chron.com/news/article/NATO-affirms-unity-as-minsters-put-Trump-era-16046844.php"
-ampWebUrl: "https://www.chron.com/news/amp/NATO-affirms-unity-as-minsters-put-Trump-era-16046844.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NATO-affirms-unity-as-minsters-put-Trump-era-16046844.php"
+title: "NATO Affirms Unity, Tries to Put Trump Era Behind It"
+excerpt: "NATO foreign ministers are committing to defend each other against outside attack and say that ties between North America and Europe are strong."
+publishedDateTime: 2021-03-23T16:22:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-03-23/nato-affirms-unity-as-minsters-put-trump-era-behind-them"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-03-23/nato-affirms-unity-as-minsters-put-trump-era-behind-them"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Trump to be interviewed by Fox's Bartiromo"
@@ -58,6 +54,6 @@ related:
         height: 525
         isCached: true
 
-secured: "BMLW+hQ+tDfP1SLWbwTW1P22VjmG4BwY7fzFgBE6tMJ+2OmA2iAskik7lCQzwYyB8J99Le2pnz9vNbOUNk0QRdP1YaHxdLA1tYUJNRVFCj7Km90JRXcQKJI0R+xdFJ4ywZW1kmxlkn2EAUf95EsJBR8mcFNygNMPeZnz2Hp22BBjtn7kPMQKHwpNWOIC0HEwmCzLTYhIQPuE1tQ05WT1SrG0XSKr/1yaX/ng8a4oM/dfAHv5/yv4pj1sIVyG2GZNI/lYbthhpnfKxaIgLozoyA6oQNj6Xah7IYjj2FIZzlC6Zp0ZeyzyI8EIsXrYRgNa2aCmweoSFG8ZWOx5Cweovs57+bhqVnuS1GpuC/2fUI4=;VpconPBvbDn4a0JxLxUJPQ=="
+secured: "KSdKV990EmiuqwrtjuwIaBwT6W2lZTUcXTT+TJeCIqSccieHoA02cfDOJlOldHjdpux/WxFcwWBKKci3/76/xV6C2CRO/MnA0bYbuNHEAD1eyJ8hs7Rs5jiSegnCiMKhmlO2NAfNsLqcz23dIZ2V6YsDQFUFpDYytYPJJMxU79Ihc5jz0vM74WeUzU1lfdveBzOLBM3vSw9CbiUAk++elYZHdbab/9AcgVLWy7+lBlRSUaXAEqaa9J8/5kps4zAe1bP3R3vAnxToQgOdxVjN7+r8vfvyw9BTJlf64U9oqN2cXd+QDbd2FBc4a1GnWI0zVtHDLTn5mSgb/FsDLGzx2aeduXVO1nZqrp7vBnJTUGL8y/Ge8go20TXvQrP2a7nLcR7ch35DEFEZda5JMhDzMx2iyS2hplQ51VmoHtvxXoAAa+bqKH4MPOE0q4rypPMouGo0rViYHdrSJv6JP3H365Lh+LvtzV4B6blA2mgq454Aeoc4HC/713SSZdo3MpH1swkVuFpeobfFhquR0wbIZA==;Itpdjblf2i04rEhIYL07GA=="
 ---
 

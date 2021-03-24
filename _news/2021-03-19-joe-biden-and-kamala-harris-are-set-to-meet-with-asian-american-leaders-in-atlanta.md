@@ -257,6 +257,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden wants quick action on gun violence, even as he moves slowly"
+    excerpt: "President Joe Biden said on Tuesday that he doesn't want to “wait another minute” to combat the country’s gun violence epidemic. But 63 days into his presidency, Biden hasn’t issued any unilateral gun control actions, despite a campaign pledge to ..."
+    publishedDateTime: 2021-03-24T00:27:00Z
+    webUrl: "https://www.politico.com/news/2021/03/23/biden-quick-action-gun-violence-477717"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/23/biden-quick-action-gun-violence-477717"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/23/biden-quick-action-gun-violence-477717"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/77/ab/f22165254afe8b2366370843bae2/3-23-21-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘Kamala Harris says the Atlanta attacks have ‘frightened and shocked and outraged all people.’"
     excerpt: "Vice President Kamala Harris, the first woman and the first Asian-American to hold the office, expressed condolences for the families of the victims during a meeting with Irish officials on Wednesday. “This speaks to a larger issue which is the issue of ..."
     publishedDateTime: 2021-03-17T09:40:00Z

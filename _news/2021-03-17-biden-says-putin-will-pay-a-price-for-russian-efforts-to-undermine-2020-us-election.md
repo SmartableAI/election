@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html"
 type: article
 quality: 183
-heat: 583
+heat: 603
 published: true
 
 provider:
@@ -348,6 +348,20 @@ related:
       - url: "https://media2.s-nbcnews.com/j/newscms/2021_11/3457719/210318-vladimir-putin-mc-1252_3af4488ea8587f5f1a042e5983bceebd.nbcnews-fp-1200-630.JPG"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Duckworth vows to oppose Biden nominees over lack of Asian American representation"
+    excerpt: "Long-simmering Democratic tensions over a lack of Asian American representation in President Joe Biden’s administration boiled over Tuesday when Sen. Tammy Duckworth vowed to block future Biden picks without a White House plan to tap more nominees of ..."
+    publishedDateTime: 2021-03-23T20:36:00Z
+    webUrl: "https://www.politico.com/news/2021/03/23/tammy-duckworth-biden-cabinet-477676"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/46/ce/bcbc53b043b1810f17317c0ee04b/200904-tammy-duckworth-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "3mQvG07pAT0+6MFpESHST19rzNj+Ew/gTzljW1xkFzw6ej3XsCtcqsOl1krTOBghWGb58+pPx2q5nmGkFQABKPW5BybLWIBf5ETct5aVkwiI9l+dOT1hnxdvc6Js4WMB1Gu/KSE87D2qFIBF361M76Jjjf0HttHqyQic6HN/5kC8FztX7QH0rka7fbhS1bKWpjeCiiK1Q5tTaSdTXiP1n7tValjRzcFtgnLaQB1SfcjiIv/TVE0dIkh5xITsSYotpIufjXGThmW5DhzM001jfUVSvHzQW0mVw8vQWPE2eTY3sR8OoAml+VbRYwVtcnkKiXVN36at400mQflnEBqVoOcAcIWymJNJbSFwGOZApSE=;JfPcsXMk0O/cAW64k+NdAg=="

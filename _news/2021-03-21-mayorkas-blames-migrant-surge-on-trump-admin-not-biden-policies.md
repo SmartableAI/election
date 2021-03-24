@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
 type: article
 quality: 190
-heat: 1230
+heat: 1250
 published: true
 
 provider:
@@ -748,6 +748,22 @@ related:
     quality: 134
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Media shifts rhetoric on migrant facilities, from Trump's 'concentration camps' to Biden's border 'problem'"
+    excerpt: "The mainstream media has struck a vastly different tone in recent months when it comes to covering the ongoing migrant crisis at the southern border."
+    publishedDateTime: 2021-03-24T01:54:00Z
+    webUrl: "https://www.foxnews.com/media/media-shifts-rhetoric-on-migrant-facilities-biden-trump-concentration-camps"
+    ampWebUrl: "https://www.foxnews.com/media/media-shifts-rhetoric-on-migrant-facilities-biden-trump-concentration-camps.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-shifts-rhetoric-on-migrant-facilities-biden-trump-concentration-camps.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f86ab4ae-de0d-45c7-82f8-69ce5352f9f4/cf7b71fa-403f-440b-a861-f76a71e0df0f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
