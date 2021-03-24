@@ -2,6 +2,171 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-23-senate-confirms-boston-mayor-marty-walsh-as-bidens-labor-secretary.md",
+      "title": "Senate confirms Boston mayor Marty Walsh as Biden's labor secretary",
+      "excerpt": "Cabinet nearly assembled but president still must make hundreds of other federal appointments",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/22/biden-administration-marty-walsh-labor-secretary-confirmed",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/22/biden-administration-marty-walsh-labor-secretary-confirmed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/180168353893e301a43319a19c74d87ef66431d8/0_121_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb6a3ae58d9b38392a968e28bde3f86c",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/22/biden-administration-marty-walsh-labor-secretary-confirmed",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/22/biden-administration-marty-walsh-labor-secretary-confirmed",
+      "publishedDateTime": "2021-03-22T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-former-capitol-riot-prosecutors-comments-on-trump-alarm-new-no-drama-justice-department.md",
+      "title": "Former Capitol riot prosecutor's comments on Trump alarm new no-drama Justice Department",
+      "excerpt": "Attorney General Merrick Garland is quietly ushering in a change in tone at the Justice Department, making few public comments and staying out of sight -- and unlike his predecessor -- eschewing commentary about ongoing investigations.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2KxHUlIhkYs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2KxHUlIhkYs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/22/politics/sherwin-garland-trump-capitol/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/sherwin-garland-trump-capitol/index.html",
+      "publishedDateTime": "2021-03-22T16:46:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-kamala-harris-laughs-after-reporter-asks-if-she-plans-to-visit-border-not-today.md",
+      "title": "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'",
+      "excerpt": "While taking questions from reporters outside of Air Force One, Harris was asked if she had \"plans to visit\" to the Southern border as the immigration crisis continues to develop.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BK4ZqAuxMGM/kamala-harris-laughs-border-visit-reporter-question",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BK4ZqAuxMGM/kamala-harris-laughs-border-visit-reporter-question",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e88d0f84-283e-413a-b2d6-b3bea025b33e/d69dc25c-4233-41f0-8a90-a37da60d1669/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp",
+      "publishedDateTime": "2021-03-22T15:44:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-msnbcs-brian-williams-touts-ad-from-disgraced-lincoln-project-linking-trump-to-atlanta-spa-shootings.md",
       "title": "MSNBC's Brian Williams touts ad from disgraced Lincoln Project linking Trump to Atlanta spa shootings",
       "excerpt": "MSNBC anchor Brian Williams touted a new ad released by the disgraced Lincoln Project last week that tried to tie former President Donald Trump's rhetoric about the coronavirus to the March 16 Atlanta spa shootings.",
@@ -1179,175 +1344,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-mayorkas-blames-migrant-surge-on-trump-admin-not-biden-policies.md",
-      "title": "Mayorkas blames migrant surge on Trump admin, not Biden policies",
-      "excerpt": "Secretary of Homeland Security Alejandro Mayorkas has claimed that the number of people looking to enter the U.S. at the sourthern border could be the highest in 20 years, but in an interview with \"Fox News Sunday\" he claimed that this is because of the Trump administration's actions, not policy changes",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BIDIVzX8FQQ/mayorkas-blames-migrant-surge-trump-admin-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BIDIVzX8FQQ/mayorkas-blames-migrant-surge-trump-admin-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp",
-      "publishedDateTime": "2021-03-21T07:19:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-biden-response-to-border-crisis-isnt-incompetence-but-is-by-design-tom-homan-tells-mark-levin.md",
-      "title": "Biden response to border crisis 'isn't incompetence', but 'is by design', Tom Homan tells Mark Levin",
-      "excerpt": "President Biden \"sold out this country to the progressive left to win an election,\" former Immigration and Customs Enforcement Acting Director Tom Homan told \"Life, Liberty & Levin\" in an interview airing Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJr1aoXS4Kw/biden-border-crisis-response-not-incompetence-tom-homan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJr1aoXS4Kw/biden-border-crisis-response-not-incompetence-tom-homan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85ed63e1-7d08-4ba3-9089-3e3da4c162c2/e8c0aeec-b5ff-47b0-a5e1-9a7358da7637/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-response-not-incompetence-tom-homan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-response-not-incompetence-tom-homan.amp",
-      "publishedDateTime": "2021-03-21T04:30:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-biden-dhs-chief-says-border-is-closed-but-us-wont-expel-children.md",
-      "title": "Biden DHS chief says 'border is closed' but U.S. won't expel children",
-      "excerpt": "In brief comments Sunday, President Joe Biden said he would visit the border \"at some point,\" adding that \"a lot more\" can be done to ensure migrants don't travel to the border. \"We’re in the process of doing it now, including making sure that we ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "originalUrl": "https://www.politico.com/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/00/1e/27b010b6460faf698bb791ed8d3c/210321-mayorkas-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "publishedDateTime": "2021-03-21T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-childr
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1"
 type: article
 quality: 114
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 3000
     height: 2000
     isCached: true
-
-related:
-  - title: "Fact Check-Post falsely claims price of oil was $25 a barrel when Trump left office"
-    excerpt: "Recent social media posts have claimed that oil was only $25 a barrel when former President Donald Trump left office and more than doubled in the first months of President Joe Biden’s administration."
-    publishedDateTime: 2021-03-18T12:33:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-oil-prices-idUSL1N2LG1F2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LG1F2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LG1F2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
 
 secured: "VJtvn4Qgysp25pM5Y5OfJEJwF7YWifGFIVnNyL3Z3kQzMdO7KofHUXzYOYck3kP/Ko3yHkIyLUUJk3TmSAgo4Rcj4GiwdQKlBOYBbeRLOAE3tf4egRxp7WDvqB6UHOucKcnyvfmHT8AlLpv3KjZ5sWA3PlTEm2VpausDfeoaOCTHLrSAGcjhxL4oAKe8orxVC8ohh1RDG/ZU/2zqUUA8nckZ7Z2nDAL0R46+E0yigmOi1JMDU4tnieC3bdsFq/utqJov8wGSNmvMbjH7rVemPQWZGB/6zNjfT7eq57dNPbTfNSHOfj3+tY2CvyyFn5oH7L8y2w8Q/bph9NXvdQzOAIKbNvGTPcyVG/9DhZkB/Eg=;q5vmcLoFbOXA3AUTuwZ4LA=="
 ---

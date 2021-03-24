@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-24-biden-to-nominate-3-prosecutors-to-head-us-attorneys-offices-in-new-york.md",
+      "title": "Biden to nominate 3 prosecutors to head U.S. attorneys' offices in New York",
+      "excerpt": "WASHINGTON — President Joe Biden is expected to nominate three prosecutors to run the U.S. attorney’s offices in New York state, including the first Black man to run the Southern District of New York in Manhattan and the first Black woman to head the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/justice-department/biden-nominate-3-prosecutors-head-u-s-attorneys-offices-new-n1261910",
+      "originalUrl": "https://www.nbcnews.com/politics/justice-department/biden-nominate-3-prosecutors-head-u-s-attorneys-offices-new-n1261910",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_11/3457472/210317-joe-biden-jm-1131_c6a0aaa7e4d36bbffbf1bbec303e76e7.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261910",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261910",
+      "publishedDateTime": "2021-03-24T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-will-joe-biden-forgive-student-loans-senator-says-canceling-1b-just-the-beginning.md",
+      "title": "Will Joe Biden Forgive Student Loans? Senator Says Canceling $1B 'Just the Beginning'",
+      "excerpt": "The Biden administration last week announced that thousands of students defrauded by for-profit schools will see their full federal loans erased. This is a reverse of a Trump-era policy which only gave partial relief, The Associated Press reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308",
+      "originalUrl": "https://www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1762749/joe-biden-gives-remarks-columbus-ohio.jpg",
+          "width": 2579,
+          "height": 1716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308?amp=1",
+      "publishedDateTime": "2021-03-24T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-biden-north-korea-missile-tests-no-new-wrinkle.md",
       "title": "Biden: North Korea missile tests 'no new wrinkle'",
       "excerpt": "US President Joe Biden is shrugging off short-range missile tests conducted by North Korea over the weekend. Returning to the White House Tuesday evening after a trip to Ohio, Biden told reporters, \"there's no new wrinkle in what they did.",
@@ -588,7 +697,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1870,
+      "heat": 1910,
       "tags": null,
       "images": [
         {
@@ -1448,110 +1557,6 @@
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B32VX",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B32VX",
       "publishedDateTime": "2021-03-11T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-bidens-party-line-approach-in-congress-has-worked-so-far-but-sen-joe-manchin-wants-bipartisanship.md",
-      "title": "Biden’s party-line approach in Congress has worked so far. But Sen. Joe Manchin wants bipartisanship.",
-      "excerpt": "Manchin has reiterated that he believes the 60-vote requirement is what makes the Senate a unique legislative body across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
-      "originalUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I37U2VEB7YI6XLBXIOB7O4E2XY.jpg&w=1440",
-          "width": 1440,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-11T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-bidens-19-trillion-coronavirus-aid-bill-gets-enough-votes-to-pass-house.md",
-      "title": "Biden's $1.9 trillion coronavirus aid bill gets enough votes to pass House",
-      "excerpt": "WASHINGTON, March 10 (Reuters) - President Joe Biden’s $1.9 trillion COVID-19 relief bill secured enough votes in the U.S. House of Representatives to pass on Wednesday. The Senate has already approved the legislation. The next step will be the White ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554436201&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291I2",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B22IG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22IG",
-      "publishedDateTime": "2021-03-10T10:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

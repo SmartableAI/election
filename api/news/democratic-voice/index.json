@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-24-biden-to-nominate-3-prosecutors-to-head-us-attorneys-offices-in-new-york.md",
+      "title": "Biden to nominate 3 prosecutors to head U.S. attorneys' offices in New York",
+      "excerpt": "WASHINGTON — President Joe Biden is expected to nominate three prosecutors to run the U.S. attorney’s offices in New York state, including the first Black man to run the Southern District of New York in Manhattan and the first Black woman to head the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/justice-department/biden-nominate-3-prosecutors-head-u-s-attorneys-offices-new-n1261910",
+      "originalUrl": "https://www.nbcnews.com/politics/justice-department/biden-nominate-3-prosecutors-head-u-s-attorneys-offices-new-n1261910",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_11/3457472/210317-joe-biden-jm-1131_c6a0aaa7e4d36bbffbf1bbec303e76e7.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261910",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261910",
+      "publishedDateTime": "2021-03-24T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-duckworth-backs-off-threat-to-oppose-biden-nominees-over-lack-of-diversity-after-white-house-agrees-to-add-senior-aapi-adviser.md",
       "title": "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser",
       "excerpt": "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n",
@@ -183,7 +240,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 890,
+      "heat": 910,
       "tags": null,
       "images": [
         {
@@ -1631,62 +1688,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-us-and-japan-express-concern-over-chinas-aggressive-actions-during-first-trip-by-bidens-top-diplomat.md",
-      "title": "US and Japan express concern over China's 'aggressive actions' during first trip by Biden's top diplomat",
-      "excerpt": "US Secretary of State Antony Blinken criticized China's threats to regional stability during bilateral talks in Tokyo on Tuesday, warning that the United States and Japan would push back if necessary.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210316034657-antony-blinken-lloyd-austin-us-japan-0316-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
-      "publishedDateTime": "2021-03-16T04:54:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

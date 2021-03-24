@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-24-donald-trumps-team-sought-stake-in-gab-but-was-rejected-ceo-andrew-torba-claims.md",
+      "title": "Donald Trump's Team Sought Stake in Gab But Was Rejected, CEO Andrew Torba Claims",
+      "excerpt": "The CEO of social media site Gab has claimed he rejected a proposal in January to have former president Donald Trump on the platform. Andrew Torba, who founded the service in 2016, said that representatives of the former president's senior adviser and son ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323",
+      "originalUrl": "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1762774/donald-trump-cpac.jpg",
+          "width": 3000,
+          "height": 2147,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323?amp=1",
+      "publishedDateTime": "2021-03-24T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-trump-kept-his-promise-donated-all-his-16m-salary-to-federal-agencies.md",
       "title": "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies",
       "excerpt": "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,",
@@ -1414,7 +1466,7 @@
       "originalUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1512,58 +1564,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-a-direct-response-how-trumps-2020-loss-is-dictating-the-future-of-elections-in-battleground-states.md",
-      "title": "'A direct response': How Trump's 2020 loss is dictating the future of elections in battleground states",
-      "excerpt": "As GOP state lawmakers wage what critics are calling the most sweeping voter suppression campaign since the Jim Crow era, two notable swing states have been spared.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
-      "originalUrl": "https://abcnews.go.com/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/ballot-drop-box-philadelphia-gty-jt-210318_1616097903196_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
-      "publishedDateTime": "2021-03-19T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-19-a-direct-response-how-trumps-2020-loss-is-dictating-the-future-of-elections-in-battleground-states.md",
+      "title": "'A direct response': How Trump's 2020 loss is dictating the future of elections in battleground states",
+      "excerpt": "As GOP state lawmakers wage what critics are calling the most sweeping voter suppression campaign since the Jim Crow era, two notable swing states have been spared.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "originalUrl": "https://abcnews.go.com/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/ballot-drop-box-philadelphia-gty-jt-210318_1616097903196_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "publishedDateTime": "2021-03-19T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter.md",
       "title": "Study shows Trump's \"Chinese virus\" tweet sparked increased use of anti-Asian hashtags on Twitter",
       "excerpt": "A tweet by then-President Trump using the phrase \"Chinese virus\" sparked an increase in the use of anti-Asian hashtags on Twitter, according to a University of California, San Francisco study published on Wednesday. Researchers examined nearly 700,000 ...",
@@ -787,7 +839,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
       "featuredContent": null,
       "highlight": null,
-      "heat": 540,
+      "heat": 560,
       "tags": null,
       "images": [
         {
@@ -1519,63 +1571,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters.md",
-      "title": "Fauci: 'It makes absolutely no sense' for vaccine hesitancy among Trump voters",
-      "excerpt": "WATCH: Dr. Fauci tells #MTP that \"it makes absolutely no sense\" for vaccine-hesitancy among Trump voters. Fauci: \"What is the problem here? This is a vaccine that is going to be life saving for millions of people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters-106516549714",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters-106516549714",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615735913603_mtp_clip_faucivaxhesitance_210314_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo106516549714",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo106516549714",
-      "publishedDateTime": "2021-03-14T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

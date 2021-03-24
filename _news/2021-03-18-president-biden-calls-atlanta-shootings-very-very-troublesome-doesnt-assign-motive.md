@@ -854,6 +854,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice President Kamala Harris on push for gun reform following recent mass shootings"
+    excerpt: "Vice President Kamala Harris joined \"CBS This Morning\" for an exclusive interview to discuss the White House's push for stricter gun control regulations following the recent mass shootings in Georgia and Colorado."
+    publishedDateTime: 2021-03-24T13:05:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-on-push-for-gun-reform-following-recent-mass-shootings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/24/0c2deb90-7d3c-442a-a72d-5c3435e161e1/thumbnail/1200x630/a9889f09affd2f14467145fcf1f1c9d3/cbsn-fusion-vice-president-kamala-harris-on-push-for-gun-reform-following-recent-mass-shootings-thumbnail-676004-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
     excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
     publishedDateTime: 2021-03-15T19:21:00Z
@@ -865,6 +879,20 @@ related:
     quality: 96
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/15/bd97d734-d062-464a-8747-7ef801963fed/thumbnail/1200x630/8283c876473a7508645e3fb40183592b/cbsn-fusion-biden-touts-shots-in-arms-and-money-in-pockets-thats-important-thumbnail-668817-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris on situation at southern border, attacks on Asian Americans"
+    excerpt: "Vice President Kamala Harris joined \"CBS This Morning\" in an exclusive interview to discuss the influx of unaccompanied minors crossing into the U.S. and what the Biden administration is doing to curb migration at the border."
+    publishedDateTime: 2021-03-24T13:13:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-on-situation-at-southern-border-attacks-on-asian-americans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/24/dc1bc1bc-8c3d-434f-b858-a49d4f751c8c/thumbnail/1200x630/e656cf1aea4468e518e0332b471c5e43/cbsn-fusion-vice-president-kamala-harris-on-situation-at-southern-border-attacks-on-asian-americans-thumbnail-676011-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

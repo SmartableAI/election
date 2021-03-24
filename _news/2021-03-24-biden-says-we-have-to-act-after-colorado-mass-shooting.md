@@ -671,6 +671,22 @@ related:
         width: 737
         height: 545
         isCached: true
+  - title: "Senators back off vow to withhold support of Biden nominees"
+    excerpt: "Two Democratic senators have backed off their vow to withhold support for President Joe Biden’s nominees for administration posts until the White House better promotes diversity"
+    publishedDateTime: 2021-03-24T12:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senators-say-they-wont-back-nominees-who-arent-diverse/2021/03/23/7875c480-8c35-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senators-say-they-wont-back-nominees-who-arent-diverse/2021/03/23/7875c480-8c35-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senators-say-they-wont-back-nominees-who-arent-diverse/2021/03/23/7875c480-8c35-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The Hill's Morning Report - Biden leans heavily into gun control"
     excerpt: "President Biden Joe Biden Good luck, Dan Bongino! The Hill's Morning Report - Biden's next act: Massive infrastructure plan with tax hikes Conservative group says polling shows Dems' voting rights ..."
     publishedDateTime: 2021-03-24T10:29:00Z

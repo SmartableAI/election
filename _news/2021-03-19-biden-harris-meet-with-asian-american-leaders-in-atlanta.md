@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden aides', Harris' gun control calls have included seizing 'assault weapons'"
+    excerpt: "Vice President Harris and multiple top aides to President Biden previously said they support mandatory gun buybacks, which would force Americans to surrender certain types of firearms in exchange for monetary compensation. "
+    publishedDateTime: 2021-03-24T13:06:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TvXGxGe70l0/biden-harris-gun-control-assault-weapons"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-gun-control-assault-weapons.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-gun-control-assault-weapons.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 196
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cuomo accuser Lindsey Boylan slams Biden, Harris over silence on sexual harassment scandal"
     excerpt: "Lindsey Boylan, the first woman to accuse New York Gov. Andrew Cuomo of sexual harassment in a widening scandal, slammed President Biden and Vice President Kamala Harris in a now-deleted tweet for staying silent on the allegations."
     publishedDateTime: 2021-03-13T02:27:38Z

@@ -583,6 +583,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Blue-state Republicans slump without Trump as foil"
+    excerpt: "Wildly unpopular in Massachusetts, Trump served as a foil for Baker, who was able to establish his own political independence — and win over Democratic constituents — by frequently criticizing his fellow Republican."
+    publishedDateTime: 2021-03-24T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/03/24/trump-gop-governors-baker-hogan-scott-477718"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/90/28/dc37a4bf440280e0018b24a7f594/ap21081507045758-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "v3kNnQiyI0tiFTJeib7NDzLuFL7Z54MQBJIJ+WkrRXQHjA0cipN4sU03uEc83oFcVbV/+5MbI3cxhd8qKdO/x2RYRgTpQ1Aq4xnMr4y4MJ+wJb9iNv6z3my+nvAl90MNHNLA3btsfXOL3cpRn7WNGbSy9U6dRK/iG3UhrKL9YZoNb9v12xVZ8kQhmRCEXwWO7fc9tBwHnrXLuwx2o1qj8dXDp9pMEYSu+KVk61N7BGayR8G+Dhe7LUDH4Qj6PJGunUyPSM8jJf+QGohlaIGvn9vfdbk+toyikh2OjzYEkSz6hVU2XPWg77qBnT+jjucexMYE1Y7gG6AV7PtgmTmFwrzgsfStyKNXrJ7qyb4fqB4=;OEHcbMgbXRmdxT9qIRMzjA=="
 ---

@@ -685,6 +685,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Senators back off vow to withhold support of Biden nominees"
+    excerpt: "Two Democratic senators have backed off their vow to withhold support for President Joe Biden’s nominees for administration posts until the White House better promotes diversity"
+    publishedDateTime: 2021-03-24T12:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senators-say-they-wont-back-nominees-who-arent-diverse/2021/03/23/7875c480-8c35-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senators-say-they-wont-back-nominees-who-arent-diverse/2021/03/23/7875c480-8c35-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senators-say-they-wont-back-nominees-who-arent-diverse/2021/03/23/7875c480-8c35-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The Hill's Morning Report - Biden leans heavily into gun control"
     excerpt: "President Biden Joe Biden Good luck, Dan Bongino! The Hill's Morning Report - Biden's next act: Massive infrastructure plan with tax hikes Conservative group says polling shows Dems' voting rights ..."
     publishedDateTime: 2021-03-24T10:29:00Z
@@ -1679,6 +1695,6 @@ related:
         height: 224
         isCached: true
 
-secured: "uM65++i8v1mVQ/Z/P9zZF6B6E+Dvc0sKX6pSj8WWi1dia66aF0renvisxUPxcIlyoiDCSOQXDfk5Y2CxZkn0KTd0DrvZIB9VZ3q5vGmZL6mFDUfhDx7H02EYpwrcUEU9i+0wVfiq0gUiDLQOeys/Zs8KJPTQ2X175TIXvtWQSzplBfD0YZLVfecaMr2OJGCT88+fpC9sBcP0TLzczpUACwge/rWjvmB0bUPfcrOMQtAL9Bxjdcj8DhWxpyWJhbrVIEQW2K1yFQ3s1EfVcX/RkkRnfe4gcTWEJ9Bs+1El72bfCPnkneXKSGVSauzLxkE4tl3EAAGHjr7opri4LdOFaNEmZ+0lOVeCTdal7cApnLU=;r740HGaqYopsA2U0OlmmCg=="
+secured: "7GVyVXeXWCBjz2xNr+Af0ASfvEvGa4WraxepkwitfIcbRwVhNqdG3DFUYNHd50esAZ7pnB1PPnM3KGyHOmosdP7QkeNFDjcJ3InznO/SWUXnh9bvcOSVDkp5OGnfFXxD9eiZFT5MUVwjGM4TrbeXy8y1XDRhF43HjB8dKNCP2Tj+MZmlqvdp2jLdPVwySHEMPla52pBZvClR7waKPR3te1EHXmWTOUZ8JGauPHD3NyxgJvPB9gtUS/H+tBCHaSAf5nUt3Zh/A5cK+zDH6HROrO7FAGhe+gJPgyS4O8fsUPIqqP9uCUPMLf5IZ2U4vPCntah4P2Qi5XfK7+sveiDeSciXxaPSLtWk/5V2gmSjS2vLKJGVdLubqFuRPV1dSMIwtMRNzccEEbu2Kl8OBvW7wKyhdNOW2Dzf78jZfU9rG0L8T/kgcYeYKuTzzvTMQtdoUNGcbYtO/vuC0hGCII7WKfP0BRtB/KN8BCkKTogN9AiZVt+GovpxFSGG/YgZntIxT+3+8UMj4S9hHa/FZGBDRA==;hlyC63AlTc23Trz3Ffasww=="
 ---
 

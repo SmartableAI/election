@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-11-bidens-party-line-approach-in-congress-has-worked-so-far-but-sen-joe-manchin-wants-bipartisanship.md",
+      "title": "Biden’s party-line approach in Congress has worked so far. But Sen. Joe Manchin wants bipartisanship.",
+      "excerpt": "Manchin has reiterated that he believes the 60-vote requirement is what makes the Senate a unique legislative body across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
+      "originalUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I37U2VEB7YI6XLBXIOB7O4E2XY.jpg&w=1440",
+          "width": 1440,
+          "height": 979,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-11T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-bidens-19-trillion-coronavirus-aid-bill-gets-enough-votes-to-pass-house.md",
+      "title": "Biden's $1.9 trillion coronavirus aid bill gets enough votes to pass House",
+      "excerpt": "WASHINGTON, March 10 (Reuters) - President Joe Biden’s $1.9 trillion COVID-19 relief bill secured enough votes in the U.S. House of Representatives to pass on Wednesday. The Senate has already approved the legislation. The next step will be the White ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554436201&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291I2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B22IG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22IG",
+      "publishedDateTime": "2021-03-10T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-polls-find-most-americans-support-bidens-covid-19-stimulus-package.md",
       "title": "Polls find most Americans support Biden's COVID-19 stimulus package",
       "excerpt": "President Joe Biden is also enjoying a positive approval rating as the package heads to his desk. A FiveThirtyEight aggregate of polls finds Biden's approval rating sits at 53.4% approving and 38.8% disapproving. Specifically, on his response to the ...",
@@ -1472,110 +1576,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-biden-to-visit-storm-ravaged-texas-friday.md",
-      "title": "Biden to visit storm-ravaged Texas Friday",
-      "excerpt": "President Joe Biden will visit Texas on Friday as the state begins its recovery from a devastating winter storm that caused serious damage to homes and businesses across the state and left many withou",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 665,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-23T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-fact-check-posts-falsely-claim-biden-gave-china-control-of-us-power-grid.md",
-      "title": "Fact check: Posts falsely claim Biden gave China control of U.S. power grid",
-      "excerpt": "No executive order signed by President Joe Biden gave China control of the U.S. power grid, and his order isn't linked to the Texas power outages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4523427001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4523427001",
-      "publishedDateTime": "2021-02-22T18:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

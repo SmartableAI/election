@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden aides', Harris' gun control calls have included seizing 'assault weapons'"
+    excerpt: "Vice President Harris and multiple top aides to President Biden previously said they support mandatory gun buybacks, which would force Americans to surrender certain types of firearms in exchange for monetary compensation. "
+    publishedDateTime: 2021-03-24T13:06:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TvXGxGe70l0/biden-harris-gun-control-assault-weapons"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-gun-control-assault-weapons.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-gun-control-assault-weapons.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 196
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Gaetz: Everyone in DC knows that when Harris shakes Biden's hand 'she's checking his pulse'"
     excerpt: "Rep. Matt Gaetz, R-Fla., mocked President Biden on \"Hannity\" Thursday after the 78-year-old commander-in-chief referred to his vice president as \"President Harris\" during remarks discussing the progress made on coronavirus vaccinations in the U.S."
     publishedDateTime: 2021-03-19T03:21:59Z

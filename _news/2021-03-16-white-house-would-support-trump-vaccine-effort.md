@@ -253,6 +253,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump hotels have been dropped by a major luxury travel agency network"
+    excerpt: "Virtuoso, a global network of luxury travel agencies, no longer considers Trump Hotels a preferred partner. The Texas-based company, which includes 20,000 luxury travel advisers, said the change was effective March 8;"
+    publishedDateTime: 2021-03-23T15:57:00Z
+    webUrl: "https://www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/"
+    ampWebUrl: "https://www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PA7RD6YSUVEANOQNJPG5CDXCPM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
     excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."
     publishedDateTime: 2021-03-11T21:27:00Z

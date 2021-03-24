@@ -687,6 +687,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Senators back off vow to withhold support of Biden nominees"
+    excerpt: "Two Democratic senators have backed off their vow to withhold support for President Joe Biden’s nominees for administration posts until the White House better promotes diversity"
+    publishedDateTime: 2021-03-24T12:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senators-say-they-wont-back-nominees-who-arent-diverse/2021/03/23/7875c480-8c35-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senators-say-they-wont-back-nominees-who-arent-diverse/2021/03/23/7875c480-8c35-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senators-say-they-wont-back-nominees-who-arent-diverse/2021/03/23/7875c480-8c35-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "U.S. senators want Biden to speed sanctions over Nord Stream 2 pipeline"
     excerpt: "Two senior U.S. Senate Democrats urged President Joe Biden's administration on Tuesday to make a full diplomatic push to stop the Nord Stream 2 natural gas pipeline from Russia to Europe, increasing pressure on the issue from members of his party."
     publishedDateTime: 2021-03-23T21:53:00Z
@@ -1679,6 +1695,6 @@ related:
         height: 224
         isCached: true
 
-secured: "nlgKjTkOIpHWL11zv3UnMp9RU/wQmghS1S88lg36dUXbcHu681Sm9PbUhLy6Fr/Erm78EM+GEjzDRFbPZ/T6B4Fo9nvciEL2WM/LjaDjWtgiHnKxLm5pAEGQd8xDUGex5Di+/DnraIIM5Gw+pPCpH3ZX3Smfn5UwYgNSv3S0gxJNDR67kFH2WHGjr9VTpD5sDaCsfkPIcmv6Fa9736xbyDQxnnKRqE3Hzb2y2F9OfPvRZHh8Y5TxD6VXU0IkBrZjYA3JF5YKlhV/MfTxyFBThs4tSJ9dZfJdywdHgvwmddAfr0VBb8Smr13siI1EhDR03q5BJ2sjqE+zk6f1F6mdtYvpXRDvJJAN6Sz0s4o0m2M=;FPVgN9w7Ed3OkbIYA0yW/g=="
+secured: "VzE4Wf1JTQ1ozNmEYaExdHGMXeTOph8yMIlgniWsTx6WdqzkN0mP9zn6N5NEjfoLJ2RnrQD8vb9i1iDX16Mf0x/JU4RF0kQAYlcQIBF7E2a52kCimkeB1s0mi1AskCVUc3Qa1urWqYAfxh5oUbklIRbTR/CY7+aIe4RdU4UQ9JdqhsO3d2IZp91oHboQZsdpgqIafWeA0fjLub0AUFLwrL8ltTyhpc5jKy7N/YUKy32IPBH3LMlO9qtwFYUUy3lbpdDXqRCsJpEm8f3PhjyuX5PTS4qkzwS7LYnSEhDYOQ1Wkoo7oaOOaisb3UuLQhLTaxHmnSj4SDVHMRIP3mOjpPMuzT7//WZTAUeLDrbDnlmiUqYIGhwVTxqBH0G5XIfbx6DoJarA4tRA5lQOuKBk5BAp2GOiYtAVCiSuNhbWyPdWUnZ3n3r40gx2Av8t+RxOnCth0vzcQhuXi/Xsk2A8oGkno6JrW4T0VlP3xFyRWvuMx5wr6NuY/ut2F4IRprl2lF1/oYB8NjRLd6ZzpICxVQ==;7xgnb/tkp2wGuaEWvQnEDQ=="
 ---
 

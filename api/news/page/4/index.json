@@ -2,6 +2,167 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-19-ex-wife-of-trump-org-executive-has-spoken-to-investigators-multiple-times.md",
+      "title": "Ex-wife of Trump Org executive has spoken to investigators 'multiple times'",
+      "excerpt": "Jennifer Weisselberg said it appears investigators have been seeking information about her former father-in-law, Allen Weisselberg, the company’s CFO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/ex-wife-trump-org-executive-has-spoken-investigators-multiple-times-n1261459",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/ex-wife-trump-org-executive-has-spoken-investigators-multiple-times-n1261459",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_11/3457725/jennifer_weisselberg_in_nbc_shoot_1ef0ed08c49c730c7165a4ebc83b86f8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261459",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261459",
+      "publishedDateTime": "2021-03-19T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-a-direct-response-how-trumps-2020-loss-is-dictating-the-future-of-elections-in-battleground-states.md",
+      "title": "'A direct response': How Trump's 2020 loss is dictating the future of elections in battleground states",
+      "excerpt": "As GOP state lawmakers wage what critics are calling the most sweeping voter suppression campaign since the Jim Crow era, two notable swing states have been spared.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "originalUrl": "https://abcnews.go.com/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/ballot-drop-box-philadelphia-gty-jt-210318_1616097903196_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/direct-response-trumps-2020-loss-dictating-future-elections/story?id=76538811",
+      "publishedDateTime": "2021-03-19T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter.md",
+      "title": "Study shows Trump's \"Chinese virus\" tweet sparked increased use of anti-Asian hashtags on Twitter",
+      "excerpt": "A tweet by then-President Trump using the phrase \"Chinese virus\" sparked an increase in the use of anti-Asian hashtags on Twitter, according to a University of California, San Francisco study published on Wednesday. Researchers examined nearly 700,000 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
+      "originalUrl": "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/16/dda11331-c7e4-496d-b559-bc92ae2645e3/thumbnail/1200x630/b560b80e1fded362511a619970848848/cbsn-fusion-twitter-purges-accounts-associated-with-qanon-thumbnail-669403-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
+      "publishedDateTime": "2021-03-19T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.md",
       "title": "Texas wax museum moves Trump statue because visitors kept hitting it: report",
       "excerpt": "The owner of Louis Tussaud’s Waxworks in San Antonio said the museum removed a statue of former President Trump because too many visitors punched and scratched the figure, a report said.",
@@ -351,7 +512,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1440,
+      "heat": 1460,
       "tags": null,
       "images": [
         {
@@ -1165,166 +1326,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/peter-navarro-biden-officials-compromised-china.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/peter-navarro-biden-officials-compromised-china.amp",
       "publishedDateTime": "2021-03-17T17:52:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions-limits-on-polluting-industries.md",
-      "title": "EPA asks court to toss Trump rule that could prevent emissions limits on polluting industries",
-      "excerpt": "The Environmental Protection Agency (EPA) on Wednesday asked a court to throw out a Trump administration rule that could prevent setting greenhouse gas limits on multiple pollu",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions",
-      "originalUrl": "https://thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/epaenvironmentalprotectionagency2_021820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions?amp",
-      "publishedDateTime": "2021-03-17T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-no-question-trump-worsened-anti-asian-sentiment-wh.md",
-      "title": "'No question' Trump worsened anti-Asian sentiment: WH",
-      "excerpt": "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf",
-      "originalUrl": "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210317&i=OVE4H8HR3&r=OVE4H8HR3&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-sen-capito-blasts-biden-for-very-weak-message-telling-migrants-dont-come-over-to-us.md",
-      "title": "Sen. Capito blasts Biden for 'very weak' message telling migrants 'don't come over' to US",
-      "excerpt": "President Biden \"sounded very weak\" when telling would-be migrants not to come to the United States during an interview with ABC News, Sen. Shelley Moore Capito, R-W.Va., told \"America Reports\" Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMV7Y5j9dbE/capito-biden-very-weak-message-migrants-dont-come",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMV7Y5j9dbE/capito-biden-very-weak-message-migrants-dont-come",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp",
-      "publishedDateTime": "2021-03-17T14:27:45-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

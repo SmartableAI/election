@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-14-fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters.md",
+      "title": "Fauci: 'It makes absolutely no sense' for vaccine hesitancy among Trump voters",
+      "excerpt": "WATCH: Dr. Fauci tells #MTP that \"it makes absolutely no sense\" for vaccine-hesitancy among Trump voters. Fauci: \"What is the problem here? This is a vaccine that is going to be life saving for millions of people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters-106516549714",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters-106516549714",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615735913603_mtp_clip_faucivaxhesitance_210314_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo106516549714",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo106516549714",
+      "publishedDateTime": "2021-03-14T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-ny-sheriff-violated-hatch-act-by-flying-pro-trump-flag-on-summer-boat-parade-us-agency.md",
       "title": "NY sheriff violated Hatch Act by flying pro-Trump flag on summer boat parade: US agency",
       "excerpt": "An upstate New York sheriff received a warning from federal investigators for violating the Hatch Act by flying a \"Making America Great\" flag during a pro-Trump boat parade last summer. Oswego County Sheriff Don Hilton received a warning letter from the U ...",
@@ -1522,58 +1579,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-white-house-fires-trump-eeoc-official-after-she-refuses-to-step-down.md",
-      "title": "White House fires Trump EEOC official after she refuses to step down",
-      "excerpt": "The move is part of a push to oust controversial Trump appointees who were seen by some Democrats as hostile to the mission of the agencies they served.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
-      "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UB5BBTT574I6XDC6GLSHWQVVDM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp",
-      "publishedDateTime": "2021-03-06T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

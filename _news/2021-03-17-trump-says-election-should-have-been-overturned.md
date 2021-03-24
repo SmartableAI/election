@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/543544-trump-says-electi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp"
 type: article
 quality: 140
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/03/a3609d17-d800-4611-b52e-8958068303e6/thumbnail/1200x630/29af8fb43ed2f9bbdcf7f31d66b86712/gettyimages-624664040.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump hotels have been dropped by a major luxury travel agency network"
+    excerpt: "Virtuoso, a global network of luxury travel agencies, no longer considers Trump Hotels a preferred partner. The Texas-based company, which includes 20,000 luxury travel advisers, said the change was effective March 8;"
+    publishedDateTime: 2021-03-23T15:57:00Z
+    webUrl: "https://www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/"
+    ampWebUrl: "https://www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PA7RD6YSUVEANOQNJPG5CDXCPM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "White House would 'support' Trump vaccine effort"
     excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"

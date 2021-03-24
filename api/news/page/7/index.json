@@ -2,6 +2,170 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-15-police-chief-art-acevedo-outspoken-against-trump-leaves-houston-for-miami.md",
+      "title": "Police Chief Art Acevedo, Outspoken Against Trump, Leaves Houston For Miami",
+      "excerpt": "Acevedo has defied both a governor and a president, but he has walked arm-in-arm with protestors. Now he will lead the Miami police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078",
+      "originalUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1755724/police-chief-art-acevedo.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078?amp=1",
+      "publishedDateTime": "2021-03-14T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-biden-says-cuomo-investigation-is-underway-and-we-should-see-what-it-brings-us.md",
+      "title": "Biden says Cuomo investigation is 'underway and we should see what it brings us'",
+      "excerpt": "President Joe Biden said Sunday he wants to see what comes of an investigation into allegations of sexual harassment against New York Gov. Andrew Cuomo when asked if the Democratic governor should resign.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_i6Eudk9ZDU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_i6Eudk9ZDU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311182531-01-joe-biden-0210-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/14/politics/joe-biden-andrew-cuomo/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/14/politics/joe-biden-andrew-cuomo/index.html",
+      "publishedDateTime": "2021-03-14T19:04:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-trump-said-meghan-markle-is-no-good-following-bombshell-oprah-interview.md",
+      "title": "Trump said Meghan Markle is ‘no good’ following bombshell Oprah interview",
+      "excerpt": "Former President Donald Trump thought Meghan Markle was “no good” following her bombshell interview with Oprah Winfrey last week but felt publicly saying so would cause the sort of backlash experienced by British TV host Piers Morgan after he openly criticized the Duchess of Sussex, according to a former",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4_jrxN5hpQY/trump-meghan-markle-no-good-following-bombshell-oprah-interview",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4_jrxN5hpQY/trump-meghan-markle-no-good-following-bombshell-oprah-interview",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Trump-Markle.png?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-meghan-markle-no-good-following-bombshell-oprah-interview.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-meghan-markle-no-good-following-bombshell-oprah-interview.amp",
+      "publishedDateTime": "2021-03-14T15:21:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system.md",
       "title": "Pelosi blames Donald Trump for ‘humanitarian challenge’ at border, inheritance of ‘broken system’",
       "excerpt": "House Speaker Nancy Pelosi points fingers at former President Donald Trump for the current situation at the border on ABC News' \"This Week.\"",
@@ -1191,174 +1355,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-dem-new-mexico-gov-grisham-concerned-with-bidens-energy-agenda-doesnt-make-any-sense.md",
-      "title": "Dem New Mexico Gov. Grisham concerned with Biden's energy agenda: 'Doesn't make any sense'",
-      "excerpt": "New Mexico Democratic Gov. Michelle Lujan Grisham said during Wednesday's event that President Biden's moratorium pausing oil and gas leasing on federal lands \"hurts New Mexico.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQunnf9DxHE/new-mexico-grisham-biden-oil-moratorium",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQunnf9DxHE/new-mexico-grisham-biden-oil-moratorium",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/new-mexico-grisham-biden-oil-moratorium.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-mexico-grisham-biden-oil-moratorium.amp",
-      "publishedDateTime": "2021-03-12T14:37:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-cuomo-invokes-his-daily-fight-with-trump-as-democrats-call-for-him-to-resign.md",
-      "title": "Cuomo invokes his daily ‘fight’ with Trump as Democrats call for him to resign",
-      "excerpt": "New York Gov. Andrew Cuomo defended his ability to govern despite the controversy surrounding him, saying that he has handled multiple issues -- like feuding with former President Trump -- simultaneously.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F5Knj6xoRcY/cuomo-fight-trump-daily-resign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F5Knj6xoRcY/cuomo-fight-trump-daily-resign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d000a34-5ccc-46aa-8af4-9f28c864e571/35df76f6-3d51-490b-9688-2a831c83b17b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-fight-trump-daily-resign.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-fight-trump-daily-resign.amp",
-      "publishedDateTime": "2021-03-12T12:02:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-psaki-pressed-on-bidens-fourth-of-july-goal-cautions-its-not-a-return-to-total-normalcy.md",
-      "title": "Psaki pressed on Biden's Fourth of July goal, cautions it's not a 'return to total normalcy'",
-      "excerpt": "White House press secretary Jen Psaki said President Biden’s aspiration for Americans to have fourth of July celebrations is not calling for a “mass event” or “return to total normalcy.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/THMNIKEBip0/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/THMNIKEBip0/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp",
-      "publishedDateTime": "2021-03-12T11:21:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
