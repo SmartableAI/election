@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – as it happened"
-excerpt: "President also urges Senate to pass bills that would close loopholes in background checks system"
+excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh, Joan E Greve and Martin Belam Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget proposal in the coming ..."
 publishedDateTime: 2021-03-24T00:16:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a53438f08ca309c20649e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a53438f08ca309c20649e"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a3ad78f08e6550a17010e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a3ad78f08e6550a17010e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
 type: article
@@ -848,9 +848,9 @@ related:
         height: 630
         isCached: true
   - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
-    excerpt: "President also urges Senate to pass bills that would close loopholes in background checks system – get all the latest news"
-    publishedDateTime: 2021-03-23T23:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a5b6d8f0842edbee7c8e7"
+    excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget ..."
+    publishedDateTime: 2021-03-24T00:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a49908f08ca309c206435"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
     type: article
@@ -1446,6 +1446,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden urges Congress to pass gun control laws..."
+    excerpt: "Watch \"President Biden urges Congress to pass gun control laws following shootings in Boulder, Colorado and Atlanta, Georgia \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-24T00:05:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210324004914-president-biden-urges-congress-to-pass-gun-control-laws-following-shootings-in-boulder-colorado-and-atlanta-georgia/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/24/story_09570767_1616547244.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Duckworth threatens Biden nominees over lack of diversity"
     excerpt: "Sen. Tammy Duckworth says the lack of Asian American or Pacific Islander representation in President Joe Biden’s cabinet is “not acceptable” and is threatening to withhold her vote on key nominations"
     publishedDateTime: 2021-03-23T21:04:00Z
@@ -1603,6 +1617,6 @@ related:
         height: 224
         isCached: true
 
-secured: "AUWuIdWuZf4Zk+B7Q0iJ25665FqQ3sCmja1oVeOBJ/JRzfx98gYHC+YPVydTZkU3U5FmpfSIaj+F4eI2wqJIF3jv/QRmlCi2dsEy7T/e6k0sTp7EjSAINA8Fe0yXhoFdGFnrXURDWbsdC9LBcuhJ1G025EPUVutv9kg1VT8LCp5LFmTyFE5zoGiD/RtVE9il4RbKdvz/8lO1eQ7aVfOODvTYE069w/DTi+0RtIr+AyP3qz8ummAkMpUhmKVan92YSXVr8oj08+UN/SUrHKZGxJ3DdlCNL9mK86YnQ6xG8JboXlqJ7/9T9W2QDyPLOrRlElytn7EEPUyXW4IXwdt0KB1xwjvnt4qH6PLmd65Xmd4=;aDFDBax/nP3McZNprnCb+A=="
+secured: "9d5DsbpTaqr38Wc8EG1po0qtN8j2AhfI7+TjSYCgyT3E8hI9KyLVNUrvMAGrhamUB2oVg27ctwTGc3aUBnwDcVh0z5BrekQJS1tjjILTfo7Shga/XTnUsMjloWXoXQWz/dp/GhX+0OBY6wPOHdb9vtR76Il+Rbu+SEbBKIBKuky06f0ZzczsYsjmeCdz6Ww05lCMMlpAnibJPv0SjJGdNfoh1i6+hvYNiOWJydddANI7yszN5zNDgWJzt/otiN66N86ALaSkK3MAYpQl60Xw2Bb+0Ihuws02SvQI89FpcZ2SewD5lqIj3sgz/L3+yzGDV4stbN4YuhgqpGHzfP1PWiLgN52TCbmaP3pG/MI2dOY=;dLkbplI2gKs4a7LVkc3N8A=="
 ---
 

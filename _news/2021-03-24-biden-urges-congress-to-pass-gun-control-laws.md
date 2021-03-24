@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden eyes $3T package for infrastructure, schools, families"
-excerpt: "Fresh off passage of COVID-19 relief, President Joe Biden is eyeing the next big White House priority — a sweeping $3 trillion package of investments on infrastructure and domestic needs"
-publishedDateTime: 2021-03-23T04:14:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153"
+title: "Biden urges Congress to pass gun control laws..."
+excerpt: "Watch \"President Biden urges Congress to pass gun control laws following shootings in Boulder, Colorado and Atlanta, Georgia \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+publishedDateTime: 2021-03-24T00:05:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210324004914-president-biden-urges-congress-to-pass-gun-control-laws-following-shootings-in-boulder-colorado-and-atlanta-georgia/"
+webUrl: "https://www.cbsnews.com/live/video/20210324004914-president-biden-urges-congress-to-pass-gun-control-laws-following-shootings-in-boulder-colorado-and-atlanta-georgia/"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_cafc315039ed4d92b9ad1b8b8df846ca_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/03/24/story_09570767_1616547244.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -542,6 +540,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden eyes $3T package for infrastructure, schools, families"
+    excerpt: "Fresh off passage of COVID-19 relief, President Joe Biden is eyeing the next big White House priority — a sweeping $3 trillion package of investments on infrastructure and domestic needs"
+    publishedDateTime: 2021-03-23T04:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cafc315039ed4d92b9ad1b8b8df846ca_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden team searching for new ways to slow border surge"
     excerpt: "The administration is dispatching officials to Mexico and Guatemala, sending sterner warnings not to come, and devising alternate pathways for legal entry. But it’s unclear if the flurry of activity will be enough."
@@ -1446,20 +1460,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Biden urges Congress to pass gun control laws..."
-    excerpt: "Watch \"President Biden urges Congress to pass gun control laws following shootings in Boulder, Colorado and Atlanta, Georgia \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-03-24T00:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210324004914-president-biden-urges-congress-to-pass-gun-control-laws-following-shootings-in-boulder-colorado-and-atlanta-georgia/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/24/story_09570767_1616547244.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Duckworth threatens Biden nominees over lack of diversity"
     excerpt: "Sen. Tammy Duckworth says the lack of Asian American or Pacific Islander representation in President Joe Biden’s cabinet is “not acceptable” and is threatening to withhold her vote on key nominations"
     publishedDateTime: 2021-03-23T21:04:00Z
@@ -1617,6 +1617,6 @@ related:
         height: 224
         isCached: true
 
-secured: "pKdi2DoDcrFBUbadB0HE8Dn99hK1oz1MqbcY00hV+5ILfIAHNepn18VYjrDQlie3qV3qFFimLml7ncizwvQha+zgWY3GK/y2SxtyQPeOL5v6fq+H93oEJN7jczfF9YNQnqmvXeMdfMiCn1rTOye1H7HPEwfpcTs1f8mmIxq6/915vfiu1ZJNQDgbGnD2WPLgKc+1SNDgvw/q4h9Pn4IBHbMaj0hYb1u3kec1mXKagREcy3c3cpin2R1SVCu37PYWT/GCr3T97ESrrq8oX+qHZIdzxkSRJ73znH5KasfAAjB1n6UVhwrcgPUSPhNi6yHNcg10we8arXqBstKFY9HJ6WQyFsLofZ+AZ81R+Fp6kwxwhgTtmEBSOoTZT/2PFuL+cwyG+HsqQdf3hC/3rqzygh1UcBhW+68BK5NxCPFV50h73MpI8Cnz6WMNxM5THNg2ejJtqiBvL5CmwRGnX1S/g4wi4VfUY60J1DLKFAyCO6+z2LKMWu+unSGzoIHpdTZZM53xaMy7DbhLPGcLVw6Ovg==;MhD7BajAWcJkxgfSp3gxjw=="
+secured: "yuNPH5KnsZ/ylOS5mUnq0WrPxjHAKS9O6ysCY5BOepJZxaheg/0BnQWavLRX+FpZxNkN9C1O94uywHVb7A45OpPbuGoBxhJdYFaNfT1myrugF6NMWFKtklrgznxt9Zv8T19mfNjlOG3l5RAF0/YeAOUCil+GO9+qKZAEx9NX/G5n0AesS09DjwE34fNW570vzNr4EVB/m3hEBfA+A2hw+35PI4LLIw3LH9l6K7WrIbJoYRHrpbhoxAUZjioG6Y+vAXx9jY02WgZCEY7kc/v7h4n1NYQSvHcT//erEpHmiOStVp7QQzDwc14Ma8RSdm4PcFv/nWHJHPLmYMBM/AuNZnhOfFVS2d/5jySEEtmUjxA=;Acuh1IGlkYcDWySzJjLeHg=="
 ---
 
