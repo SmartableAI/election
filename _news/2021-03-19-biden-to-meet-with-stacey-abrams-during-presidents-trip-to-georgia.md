@@ -991,9 +991,9 @@ related:
         height: 636
         isCached: true
   - title: "Migrant With Three Children: We \"Basically\" Crossed The Border Because Joe Biden Was Elected President"
-    excerpt: "This father, who asked that we not show his face, traveled to Mexico from Brazil with his wife and three young kids before crossing the border. RADDATZ TO MIGRANT: Would you have tried to do this when Donald Trump was president?"
+    excerpt: "MIGRANT: Definitely not. RADDATZ: So did you come here because Joe Biden was elected president? MIGRANT: Basically, basically, the main thing was the violence in my country. And the second thing I think was Joe Biden. First, he’s not illegal; he’s ..."
     publishedDateTime: 2021-03-23T14:16:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/23/migrant_with_three_children_we_basically_crossed_the_border_because_joe_biden_is_president.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/23/migrant_with_three_children_we_basically_crossed_the_border_because_joe_biden_is_president.html#!"
     type: article
     provider:
       name: RealClearPolitics

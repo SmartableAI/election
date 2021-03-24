@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
-excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
-publishedDateTime: 2021-03-14T14:12:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/mar/14/biden-fema-migrant-children-surge-mexico-border"
-webUrl: "https://www.theguardian.com/us-news/2021/mar/14/biden-fema-migrant-children-surge-mexico-border"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/biden-fema-migrant-children-surge-mexico-border"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/biden-fema-migrant-children-surge-mexico-border"
+title: "U.S. senators want Biden to speed sanctions over Nord Stream 2 pipeline"
+excerpt: "Two senior U.S. Senate Democrats urged President Joe Biden's administration on Tuesday to make a full diplomatic push to stop the Nord Stream 2 natural gas pipeline from Russia to Europe, increasing pressure on the issue from members of his party."
+publishedDateTime: 2021-03-23T21:53:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-nord-stream-2-senate-idUKKBN2BF2JI"
+webUrl: "https://www.reuters.com/article/us-usa-nord-stream-2-senate-idUKKBN2BF2JI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BF2JI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BF2JI"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/cf74fac66dcf5b171bb7741a4b82d816f593dc7b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36ae313660f3c7e19be3dc6dcea610a7"
-    width: 600
-    height: 360
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555933167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1DU"
+    width: 806
+    height: 545
     isCached: true
 
 related:
@@ -687,21 +687,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "U.S. senators want Biden to speed sanctions over Nord Stream 2 pipeline"
-    excerpt: "Two senior U.S. Senate Democrats urged President Joe Biden's administration on Tuesday to make a full diplomatic push to stop the Nord Stream 2 natural gas pipeline from Russia to Europe, increasing pressure on the issue from members of his party."
-    publishedDateTime: 2021-03-23T21:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-nord-stream-2-senate-idUKKBN2BF2JI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BF2JI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BF2JI"
+  - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
+    excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
+    publishedDateTime: 2021-03-14T14:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/14/biden-fema-migrant-children-surge-mexico-border"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/biden-fema-migrant-children-surge-mexico-border"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/biden-fema-migrant-children-surge-mexico-border"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555933167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1DU"
-        width: 806
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/cf74fac66dcf5b171bb7741a4b82d816f593dc7b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36ae313660f3c7e19be3dc6dcea610a7"
+        width: 600
+        height: 360
         isCached: true
   - title: "'My heart goes out,' Biden says on Colorado shooting, pushing gun control"
     excerpt: "Biden comments on Boulder mass shooting For the second time in just a week, President Joe Biden has been forced to address a mass shooting around travel scheduled to promote his COVID relief plan ..."
@@ -1633,6 +1633,6 @@ related:
         height: 224
         isCached: true
 
-secured: "sjfbinaeLjGFPBVV4Dr0KWggaF4riZHsNgR9RJN4nVC34EC9OSZ4UDzyADlNf1jkWlpjc7EDmchwPxDyWeDRvvqI48MKuJfsFwStymJAKb8Cily7et8u+OJTdvhxcvIF0QJjqFdQlflRMFQhQAKqDRzwlkBuaW9XV57l+Cgkpll9i+tsbXjF0vrKyxapcaSQcpJtneZpxYv0NqjfulaIaHNsLstlpZHzyD0hGh0XR8WhvH1RqfXB61dwvZQaDNDUAalsTRwWBcr5N79VQxX0uqZcKHgxxWA/DS2gZGUsvsB5xSDz7+ylCtj81Xz/ThOw9GdXPwAGB1vgzcavn9ECYUbm9PEgXKM13orw+XTNs01QL3wfh5D41reTGgX82I4PNvRl/7ePhKBe9NM5oRyBxD1o4wEoJ62212gc8I+SpVaQhiddmbvVzhdrq5CMVh7xijcNWkmgXEYrUPR1XxD+YofvGzv9cVGbCvY/uUd09Wxa4KrFJwfmAM+b9hBXt/Gmud2aCE42cO0pzHk5Q/h5+w==;+++ny+AzCV672M4yObZygQ=="
+secured: "pKf0eEksiKdxnpGywSZtwalv+n3TOumu1SuahRkdBVGrib05kVvjpiN+rhKV0W03tu3URjQdNLJkV0N2d227gabsHmnccri4unci3SG/fOsSRPngD8Ylcnh9MoK3Vv5q5aLh3KUCqt+cnQ7iKEgNNs6YI+BDHH4+3kNNhRgBW6FRPMdZhG2snouPGQgTr82pFqIIiZDjNKZHxkmKuBhE6jLimsODz7p4pLHvUXvP73KanvnyaOxVKyqrzxQlh98ZaejAkCtXkPRrVEz5Sb6baCqyovEjTGB/ln6ys+bbePUCNNZ61E7BZlaIdCY9Z43+Y8pXey/Nj4QwiHR55vdoWhHeOd5iNHhkX61VzrSxdEw=;dSPn/rNEMd+rSEHFWBaIVg=="
 ---
 

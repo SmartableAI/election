@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Migrant With Three Children: We \"Basically\" Crossed The Border Because Joe Biden Was Elected President"
-excerpt: "This father, who asked that we not show his face, traveled to Mexico from Brazil with his wife and three young kids before crossing the border. RADDATZ TO MIGRANT: Would you have tried to do this when Donald Trump was president?"
+excerpt: "MIGRANT: Definitely not. RADDATZ: So did you come here because Joe Biden was elected president? MIGRANT: Basically, basically, the main thing was the violence in my country. And the second thing I think was Joe Biden. First, he’s not illegal; he’s ..."
 publishedDateTime: 2021-03-23T14:16:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/03/23/migrant_with_three_children_we_basically_crossed_the_border_because_joe_biden_is_president.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/03/23/migrant_with_three_children_we_basically_crossed_the_border_because_joe_biden_is_president.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/03/23/migrant_with_three_children_we_basically_crossed_the_border_because_joe_biden_is_president.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/03/23/migrant_with_three_children_we_basically_crossed_the_border_because_joe_biden_is_president.html#!"
 type: article
 quality: 49
 heat: -1
@@ -1001,6 +1001,6 @@ related:
         height: 636
         isCached: true
 
-secured: "Ln39V3v49uPl1iTsr5qgox2PX/Md7XtZ357Ao9bdeAuYZGcYQvw7gfGOAxsgu0oRKWizgC8CL+9Yq9aWXLseCzgtpcVblJUEOVSXPK/Agoq0FKzS5qkaNdiAGEmFGSTcE47X912/Oaqqy4iYIKFeKFbxj/ipbx9BZzpTPat8u12wMqhS1xQlEqTlUx7e4nfOLag7q66MJVCfdz30MzaPdM22S+eGZq6gTUzoZH63EBjgdDVIvcborhfosIsNrAbhvPRDVKLGVp9vTZFA8KFf3OF+CoIHoJnvCoEOGMRzuBEZA5ZX5O7QDtua0AmN2jalhMl93imTqmppAaBmbT/aDN0RNy9vh4cq088okcbhbwc=;e+U4HILGt3F0JbomVnf49g=="
+secured: "Xf3tLHrQJc0ZVTnmfGGd5CeiDoOv6UDAtEGaqz60tNAgXmWqDqQTrIDl6OjT6Db+m07LXmyfZzsTZSROhYkDOgskFCqsWar44YFLrmWDQIOkw55KIVKnw6SKpuXkbgNYApIKaZL9oOnv3fk+D3pfK9dxu51bJ6K5KstwVWGiE2JS0r0Yqfn4INPZM/7N+h2Qrnk2iL5paIy12G1rbcFUVQ4LHRC9k86YiKaqu3C6EvZjJNMBEa2gJDhs7TSwwTLjOWEUPDIAM+8PojNsV6QVL6oOVG2zVh0r0Td2RvflPayJmFmJ3PQWg7TLKoaSA+jpBsrxgAVkwM7csp25DciCpUVxKGB5ddcVbQuBfIFOpyQ=;fj/Xmghd+ZmNguLddKcY0g=="
 ---
 

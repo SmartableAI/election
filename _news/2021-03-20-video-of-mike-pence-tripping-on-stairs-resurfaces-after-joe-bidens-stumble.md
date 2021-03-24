@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1"
 type: article
 quality: 138
-heat: 2198
+heat: 2218
 published: true
 
 provider:
@@ -670,6 +670,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "U.S. senators want Biden to speed sanctions over Nord Stream 2 pipeline"
+    excerpt: "Two senior U.S. Senate Democrats urged President Joe Biden's administration on Tuesday to make a full diplomatic push to stop the Nord Stream 2 natural gas pipeline from Russia to Europe, increasing pressure on the issue from members of his party."
+    publishedDateTime: 2021-03-23T21:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-nord-stream-2-senate-idUKKBN2BF2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BF2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BF2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555933167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1DU"
+        width: 806
+        height: 545
         isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."

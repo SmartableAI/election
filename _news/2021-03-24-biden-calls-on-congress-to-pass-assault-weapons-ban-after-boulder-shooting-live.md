@@ -687,6 +687,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "U.S. senators want Biden to speed sanctions over Nord Stream 2 pipeline"
+    excerpt: "Two senior U.S. Senate Democrats urged President Joe Biden's administration on Tuesday to make a full diplomatic push to stop the Nord Stream 2 natural gas pipeline from Russia to Europe, increasing pressure on the issue from members of his party."
+    publishedDateTime: 2021-03-23T21:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-nord-stream-2-senate-idUKKBN2BF2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BF2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BF2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555933167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1DU"
+        width: 806
+        height: 545
+        isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
     publishedDateTime: 2021-03-14T14:12:00Z
@@ -1617,6 +1633,6 @@ related:
         height: 224
         isCached: true
 
-secured: "FR39pjSD8kjvEsNVthMBaObEbhdrw9tiCcqPiZG/ek8hiYXQ6/9H8G3JW9koXAlbSk7m5F6XyVuhPQYrkFiwfFRZRfjxG1/lISLFxhhEVIfoMLxCmsYDVgryfu5xwV0wgDbs7GJCh+wk6Wl9G1E/AoKLC6CVpCSqG9clus194ouZTHMQTrRzyXN0dnJ1ZK2gJKCOE2O9om9ltsUB3BGYfqIRyedXvG1EcBsZEccJtJp3CmgAQwbGjNuI/was4Rh+xt0XFPcFriltmcQu/DnlGVv5kqzzD2/GO+mHLoykuvfeBLmqfZiwRciZ4M+4VaWI29/L+JZPuQfRnFT2TeMfowXLHH8sLF1PsIdfuBaniz0=;9fannI7fhH83FXjuFa3cvA=="
+secured: "CHGEuTrZymcfCn6aW9hp1YhlstwNtD2k4KejNK2Z89tz+Rq6Tp7nCKkALr4v07As0ncMbYWwyT7ycO+6b/AkvQUv3d8YMJYAvdUJauUSJptbYfSOO8ua8yEc7mNzceLS8xQJESbP0RtqoP9ZTrS+HB4T0qP6FvigyTEGz6yGgGLVL7nqjRaL4PKiZHpMbCHPPzwNhGJv6RlPOFZX2K2sFLV0RhCijUc2GKi/pgeQm1jyuLdDco1hWwraohZd7GtRfBsXH4x+H3WOvHw2ImyL4WwNJjApiJe7J68A3wYMgB9bkeqA8UtxzCyVA0l6YxOgSuL/u/LMqESQQkUURMM89wsHnvMI3JjUS0W/T8a/ZIOoyJv1cHjy1gXD50dS35CiosFby002uw/lwy9nswkgUrCVMZsITmI//sJ2RzUH0GrNIFmxv79s/z8o86ZufjN11/dKSF2ixGk5jyGVeeot7Vzv8vr+ULEP1/Ta66WEYLnsN0jgyG3tQgzDSspuA+ysADNfYn+WAUHe6R4lZH3+Gg==;gs/W6q4rwVVMhK4iEPadbA=="
 ---
 
