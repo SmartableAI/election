@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "President Biden tells potential migrants: 'Don't come' to the US amid surge at southern border"
+    excerpt: "WASHINGTON — President Joe Biden sent a direct message to potential migrants hoping to enter the United States: \"Don't come.\" His message comes as the administration is dealing with a surge of unaccompanied minors at the U.S.-Mexico border and criticism ..."
+    publishedDateTime: 2021-03-17T01:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/16/president-joe-biden-migrants-border-surge-unaccompanied-minors/4726104001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4726104001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4726104001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/16de7515-7d64-427b-995f-372f068eca9f-AP21071052665404.jpg?auto=webp&crop=5999,3374,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "C9miXorykpB7hDTQd/oZPeqsRnfns4qCkRTGg9FEydZMtLnBjtEUMgQycoaKRa2ZkVDNlrHShvARlhRD97mplLxsvcbTITHWoZY/znBlTbAy2oteI9uY4oKNjFd6uHUEBRY9+80563A7nYRjD43rMcPbVfLILKl2sewXTib4KfRhAIzXXj3FZuvNkbcLC2seSy+V0Dd6J7ZiU3xkztW46ulraMTBBinQbmqcoDfbNBKEIw4FgZKkUq3yJJDzKJ/GDpOdR5mv+FHIh/Z2ze2eC6XaCwjfKryDLFUM6yi4VkoxQzB6NawsmpmV3GeB/rD4tduOcC4Ru9Pxbd0X7VsTp5zNUAxUmaqCx7EGuS8cUVQ=;h+czovBc2n8km+H6hpyR7g=="
 ---

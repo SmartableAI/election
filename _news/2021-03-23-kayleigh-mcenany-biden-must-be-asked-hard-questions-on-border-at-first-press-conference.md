@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-hard-questio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-hard-questions-first-press-conference.amp"
 type: article
 quality: 165
-heat: 225
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kayleigh McEnany: Biden administration 'incentivizing' flow of migrant children at southern border"
-    excerpt: "Former White House press secretary and Fox News Analyst Kayleigh McEnany reacts to the growing influx of migrant children at the southern border."
-    publishedDateTime: 2021-03-16T22:52:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdtHfZOHqhY/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
+  - title: "Biden Thursday press conference slated for 1:15 pm Eastern in the East Room"
+    excerpt: "President Biden will hold his first news conference as commander-in-chief Thursday at 1:15 p.m. EST in the East Room."
+    publishedDateTime: 2021-03-24T20:27:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvZgD5yaY3c/biden-press-conference-slated-for-115-p-m-in-the-east-room"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548baca2-6495-4342-be7b-a3d92deb8ed5/a5205ecc-af6d-40ac-a48a-0bec1c62ae40/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "'Confounding' for Biden administration to announce press conference nine days in advance: McEnany"
     excerpt: "The Biden administration announcing the date that the president will hold his first formal press conference nine days ahead of time is a \"confounding strategy,\" Fox News contributor and former White House press secretary Kayleigh McEnany told \"Outnumbered\" Wednesday."
@@ -60,20 +60,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Psaki Won't Say If Biden Was Treated By Doctor After Air Force One Fall: \"He's Good\""
-    excerpt: "White House press secretary Jen Psaki would not confirm nor deny if President Joe Biden sought medical attention after falling while walking up the stairs to Air Force One on Friday. QUESTION Thanks, Jen. First off, before I get to my other questions ..."
-    publishedDateTime: 2021-03-23T00:05:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/psaki_wont_say_if_biden_was_treated_by_doctor_after_air_force_one_fall_hes_good.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 58
-    images:
-      - url: "https://assets.realclear.com/images/53/538474.jpg"
-        width: 974
-        height: 730
         isCached: true
 
 secured: "o0hobf5TtR6a8CsVY5OnsczIjVrX8HUUFm8G+DgHrzI88SkGij7MLaJNHJMLETSqh8ffUGdvVehsWfpPbOxAw1KEZCA82h+vBQz7pqPuypT+sAg7j5WtJJOz5N9bma9XS+j+PecrkJj6MWwy8Gfmo6VEhhj47lSQELUfsfiztAKbFAqRjkuTmDAZ98J/w5C63iqT0Y1Ze2Ss2gzmUoEhyGj8qqq4LRH2xw3OqkIquOu1WT3tRg3jH6ueVoJEA/Vjo0FIuNoYDXAO4ZyV2LGxGc8FLABe5ED60Am85iou3vNdTWP1koPugyajIpgU/gCaQJmkaxJos8QahEj8JYXnD9z/8VOBqBxJoD5zOTVo4TM=;Zz+tLcYjdFk71s7bZ1uekQ=="

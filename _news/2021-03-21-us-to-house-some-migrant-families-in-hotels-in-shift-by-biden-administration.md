@@ -751,6 +751,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "How to watch Biden's first presidential press conference"
+    excerpt: "President Biden will be giving his first press conference as president on Thursday, March 25, at 1:15 p.m. ET. While Mr. Biden has periodically taken questions from reporters, he has not yet had a full press conference since taking office. Mr. Biden has ..."
+    publishedDateTime: 2021-03-24T21:04:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-press-conference-watch-time-stream-online/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-press-conference-watch-time-stream-online/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-press-conference-watch-time-stream-online/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/12/bebfa015-ce83-4515-a36f-06b328fe51e2/thumbnail/1200x630/ae01a20871c7a4df6b5df10f4ba4e17a/gettyimages-1306591618.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
     publishedDateTime: 2021-03-14T14:12:00Z
@@ -863,6 +879,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
+    excerpt: "(Reuters) - Fourteen U.S. states including Louisiana and Wyoming filed lawsuits on Wednesday against President Joe Biden’s administration, challenging his pause on new oil and gas leasing on federal lands and waters. The legal actions, which seek to ..."
+    publishedDateTime: 2021-03-24T19:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idUSKBN2BG2KG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG2KG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG2KG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556088085&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1MS"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Biden's make or break moment: president aims to build on success of relief bill"
     excerpt: "Kamala Harris, the vice-president, heaped praise on Joe Biden for signing a $1.9tn coronavirus relief bill, the biggest expansion of the American welfare state in decades. “Your empathy has become a trademark of your presidency and can be found on each ..."
     publishedDateTime: 2021-03-13T12:43:00Z
@@ -910,6 +942,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/21/861f7d14-1978-413d-a6c2-e75ec337d782/thumbnail/1200x630/670aa52f137106acf3c9391f085cde80/gettyimages-1307462641.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden offers aid, condolences to Boulder as city mourns: Shooting live updates"
+    excerpt: "A Colorado man faces a court appearance Thursday on charges of first-degree murder in Monday's shooting spree that left 10 people dead."
+    publishedDateTime: 2021-03-24T20:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/03/24/boulder-shooting-updates-suspect-faces-court-hearing-city-mourns/6978809002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6978809002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6978809002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/24/USAT/3ca0e8b3-6095-4374-ba93-1864f3e12ba9-boulderstrongpic.jpg?auto=webp&crop=5344,3006,x0,y272&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
     excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget ..."
@@ -1054,6 +1102,22 @@ related:
       - url: "https://i.insider.com/60560d061fcb5700186ee8e0?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden's rescue pet returns to White House after more training for life as a first dog"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden’s rescue pet Major is back in Washington after an incident at the White House prompted a round of training to help acclimate him to life as a first dog. “Champ and Major are here at the White House ..."
+    publishedDateTime: 2021-03-24T18:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-dog/bidens-rescue-pet-returns-to-white-house-after-more-training-for-life-as-a-first-dog-idUSKBN2BG2XH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG2XH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG2XH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556086245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1SV"
+        width: 816
+        height: 545
         isCached: true
   - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
     excerpt: "White House says president will deliver brief remarks on hooting this afternoon, before leaving for a trip to Ohio"

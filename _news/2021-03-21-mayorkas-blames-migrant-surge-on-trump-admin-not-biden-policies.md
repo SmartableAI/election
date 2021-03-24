@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
 type: article
 quality: 190
-heat: 1290
+heat: 1310
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee18c3-9624-4a8c-9989-aaf5c43b13c5/156a5fbe-4114-4b4a-aca4-34af35a3257c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Marsha Blackburn calls to restore Trump immigration protocol: Biden has ‘broken the border’"
+    excerpt: "The Biden administration \"has broken the border,\" Sen. Marsha Blackburn, R-Tenn., said on Wednesday after witnessing cartels exploiting the ongoing migrant surge."
+    publishedDateTime: 2021-03-24T20:12:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CJ2aTK5B-Qg/blackburn-trump-protocol-biden-broken-border"
+    ampWebUrl: "https://www.foxnews.com/politics/blackburn-trump-protocol-biden-broken-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-trump-protocol-biden-broken-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Tom Homan slams Biden, Dems for blaming Trump for new border surge: 'They planned this crisis'"
     excerpt: "Former acting ICE director Tom Homan slammed the Biden administration for blaming Trump over the migrant surge at the border."

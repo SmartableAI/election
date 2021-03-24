@@ -958,6 +958,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris to Head Administration Effort to Stanch Migrant Surge"
+    excerpt: "President Biden has asked the vice president to work with Mexico, El Salvador, Guatemala and Honduras to lead diplomatic efforts to stem the surge of migrants at the southern border."
+    publishedDateTime: 2021-03-24T20:21:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-316022/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden is president 'in name only' based on admin's left-wing agenda: Hilton"
     excerpt: "But, more seriously from a substantive basis, you only have to look at the agenda that’s being pursued to see that Joe Biden is president in name only. He ran with a very clear centrist message. He said look I’m Joe Biden you know who I am. I’m not ..."
     publishedDateTime: 2021-03-19T18:14:00Z

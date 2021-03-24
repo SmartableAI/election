@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces $81 billion for schools as part of Covid-19 relief law"
+    excerpt: "President Joe Biden announced the release of $81 billion in funding from the Covid-19 relief law for school reopening Wednesday, part of the administration's efforts toward getting the majority of schools opened in his first 100 days in office and addressing inequity caused by the pandemic.\n    \n"
+    publishedDateTime: 2021-03-24T19:49:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pdzDYKqaV_s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-education-funding-covid-schools/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-education-funding-covid-schools/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303113702-01-miguel-cardona-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats to unveil $3,000 child benefit as part of Biden relief package"
     excerpt: "House Democratic leaders will unveil legislation Monday that would give millions of families at least $3,000 per child, advancing a key provision in President Joe Biden's $1.9 trillion Covid-19 relief package.\n    \n"
     publishedDateTime: 2021-02-07T19:35:56Z

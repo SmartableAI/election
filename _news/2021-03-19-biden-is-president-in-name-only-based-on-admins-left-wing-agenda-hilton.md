@@ -941,6 +941,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris to Head Administration Effort to Stanch Migrant Surge"
+    excerpt: "President Biden has asked the vice president to work with Mexico, El Salvador, Guatemala and Honduras to lead diplomatic efforts to stem the surge of migrants at the southern border."
+    publishedDateTime: 2021-03-24T20:21:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-316022/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden comment mocking Trump's walking resurfaces after president stumbles, falls boarding Air Force One"
     excerpt: "President Biden, who tripped Friday while boarding Air Force One, drew scrutiny from conservatives who pointed out he once mocked former President Donald Trump’s slow walk down a ramp during a trip to West Point. Biden poked fun at Trump last September ..."
     publishedDateTime: 2021-03-19T20:02:00Z

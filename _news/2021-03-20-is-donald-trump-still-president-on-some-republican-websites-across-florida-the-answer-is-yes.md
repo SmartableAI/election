@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1904
         isCached: true
+  - title: "Ron DeSantis and Mike Pence Lead Latest Poll for 2024 Republican Presidential Candidate"
+    excerpt: "Florida Governor Ron DeSantis and former Vice President Mike Pence hold commanding leads over other prominent Republicans in a new poll of potential party nominees for the 2024 presidential election. DeSantis was the top choice, with 17 percent of ..."
+    publishedDateTime: 2021-03-24T21:24:00Z
+    webUrl: "https://www.newsweek.com/ron-desantis-mike-pence-lead-latest-poll-2024-republican-presidential-candidate-1578569"
+    ampWebUrl: "https://www.newsweek.com/ron-desantis-mike-pence-lead-latest-poll-2024-republican-presidential-candidate-1578569?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-mike-pence-lead-latest-poll-2024-republican-presidential-candidate-1578569?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1763110/ron-desantis-mike-pence-2024-republican-election.jpg"
+        width: 3000
+        height: 2207
+        isCached: true
 
 secured: "2oDanC1GPKSojziOqclkQm08HA9aGqace2dH5MlCZp72AOqtmcl9OMVjqxKECLjWhHxEsd9gl065t38FaF3DMWzPoYfUHreFDtAG8V1ZYbNv4JvYfB+WjSOdWwIa37Tcgkl+vEAhGNQBq7OkA6dgEEVZ7mBqy+aQilG5T/dtUG0ja2bPZ94d8Idas0fKRifqXUEf9eKKXCmro6RaTTukBzYCiJFSf2bqAc8q0N8RcyXEKyWqvYjYyC3KZBydlwgEeR8Jv7LLUOiHW0Vn+JS36/omsDpCDEdXw0oRimSNyWRd/dq0vxdFgM01xogPUDmgnA0vkulvlT+2ToaXKRlmTVUu6StVh+GjcEdg5kT37Eo=;57zMVfrSHJuSmzWyBN2ciw=="
 ---

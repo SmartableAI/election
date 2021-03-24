@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden Thursday press conference slated for 1:15 pm Eastern in the East Room"
+    excerpt: "President Biden will hold his first news conference as commander-in-chief Thursday at 1:15 p.m. EST in the East Room."
+    publishedDateTime: 2021-03-24T20:27:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvZgD5yaY3c/biden-press-conference-slated-for-115-p-m-in-the-east-room"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548baca2-6495-4342-be7b-a3d92deb8ed5/a5205ecc-af6d-40ac-a48a-0bec1c62ae40/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kayleigh McEnany: Biden must be asked ‘hard questions’ on border at first press conference"
     excerpt: "President Biden is set to hold his first formal press conference on Thursday, and former White House press secretary Kayleigh McEnany told \"Hannity\" that it’s imperative that he be pressed on the situation at the southern border."
     publishedDateTime: 2021-03-23T02:46:07Z
@@ -44,36 +60,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Kayleigh McEnany: Biden administration 'incentivizing' flow of migrant children at southern border"
-    excerpt: "Former White House press secretary and Fox News Analyst Kayleigh McEnany reacts to the growing influx of migrant children at the southern border."
-    publishedDateTime: 2021-03-16T22:52:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdtHfZOHqhY/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki Won't Say If Biden Was Treated By Doctor After Air Force One Fall: \"He's Good\""
-    excerpt: "White House press secretary Jen Psaki would not confirm nor deny if President Joe Biden sought medical attention after falling while walking up the stairs to Air Force One on Friday. QUESTION Thanks, Jen. First off, before I get to my other questions ..."
-    publishedDateTime: 2021-03-23T00:05:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/psaki_wont_say_if_biden_was_treated_by_doctor_after_air_force_one_fall_hes_good.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 58
-    images:
-      - url: "https://assets.realclear.com/images/53/538474.jpg"
-        width: 974
-        height: 730
         isCached: true
 
 secured: "sZ45KDYvhuQqBEgvJ2VEf0ELXako5NPiLStaYLaYqUKi+CvhwsdApbOJ0oM07Wd44wm89PYfxPGlEU2aTHimL+KuwiiEmsp7EzeHJopT5JzZfyec5h6FIDF8CkxMcEGroxJ+mS3xt0akH8xcI9XjPv8MotaBOMZkjCvf+KKK3bjIqjN3VmHCDq+iha75EbrK++CdAgx0WuvXojdQ3QJ89Zo6odfButKXxJwHhsuA+emY2yK5ycaWmdAiwno7g1ChTeL95A94CUDWln/z5so8AosUKYcV9O03y22HDvsFA8VaRhMZMcHePg+BtoGmVHvjTOQ6kyIXW2x/6UlameBcSQCBlRl1piPAfqUPGy2WADg=;nA1/gRYVIqyz3xU5Eq/92w=="

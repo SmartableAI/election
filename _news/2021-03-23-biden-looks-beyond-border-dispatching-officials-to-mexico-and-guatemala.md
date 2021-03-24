@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-03-22/biden-officials-im
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true"
 type: article
 quality: 124
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1755831/greg-abbott-migrants.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "President Biden tells potential migrants: 'Don't come' to the US amid surge at southern border"
+    excerpt: "WASHINGTON — President Joe Biden sent a direct message to potential migrants hoping to enter the United States: \"Don't come.\" His message comes as the administration is dealing with a surge of unaccompanied minors at the U.S.-Mexico border and criticism ..."
+    publishedDateTime: 2021-03-17T01:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/16/president-joe-biden-migrants-border-surge-unaccompanied-minors/4726104001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4726104001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4726104001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/16de7515-7d64-427b-995f-372f068eca9f-AP21071052665404.jpg?auto=webp&crop=5999,3374,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden administration sanctions Chinese officials for 'genocide' against Uighurs days after diplomatic spat in Alaska"
     excerpt: "as US and Chinese officials held the first face-to-face talks under President Joe Biden. In his opening remarks at the meeting, Blinken said the US intended to use the talks to discuss its concerns regarding human rights abuses in Xinjiang, among other issues."

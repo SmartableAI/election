@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lindsey Graham Calls Out AOC for Conflicting Border Reactions Under Trump, Biden"
+    excerpt: "GOP Senator Lindsey Graham of South Carolina asked, \"Where are you?\" to Democratic Rep. Alexandria Ocasio-Cortez of New York, calling her out for not visiting the Southwest border, where he said conditions are \"worse\" for migrants than those under former President Donald Trump."
+    publishedDateTime: 2021-03-24T21:40:00Z
+    webUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547"
+    ampWebUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1763089/migrants.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "The 'border-industrial complex' is bigger than Trump or Biden, and it thrives on crisis"
     excerpt: "How Biden deals with the border remains to be seen, but he will be no less caught up in the border-industrial complex than Trump."
     publishedDateTime: 2021-03-23T14:18:00Z
@@ -75,21 +91,19 @@ related:
         width: 1440
         height: 952
         isCached: true
-  - title: "President Biden tells potential migrants: 'Don't come' to the US amid surge at southern border"
-    excerpt: "WASHINGTON — President Joe Biden sent a direct message to potential migrants hoping to enter the United States: \"Don't come.\" His message comes as the administration is dealing with a surge of unaccompanied minors at the U.S.-Mexico border and criticism ..."
-    publishedDateTime: 2021-03-17T01:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/16/president-joe-biden-migrants-border-surge-unaccompanied-minors/4726104001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4726104001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4726104001"
+  - title: "After years of Trump tweets, Republicans are suddenly outraged by mean tweets"
+    excerpt: "After spending years defending President Donald Trump’s at times racist and conspiratorial tweets, Senate Republicans are now criticizing Biden administration nominees for their tweets."
+    publishedDateTime: 2021-03-18T20:33:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/after-years-of-trump-tweets-republicans-are-suddenly-outraged-by-mean-tweets/2021/03/18/207bdfd4-ff5e-4772-8281-cfe9ec54ccb3_video.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/16de7515-7d64-427b-995f-372f068eca9f-AP21071052665404.jpg?auto=webp&crop=5999,3374,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-18-2021/t_d3ee9fc30cbc4c7ab0dc1fd590e6c9f7_name_20210317_GOP_TWEETS_V4.png&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Trump Slams Biden's US-Mexico Border Control: 'A National Disaster'"
     excerpt: "Donald Trump on Sunday slammed President Joe Biden over his response to the influx of migrants at the southern border, calling it a “national disaster.” In his fiery statement"
@@ -106,22 +120,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Department of Homeland Security chief defends U.S. handling of border crisis, blames Trump administration for surge"
-    excerpt: "In a lengthy statement, Homeland Security Secretary Alejandro Mayorkas revealed that the migration surge is heading towards a 20-year high — and partially blamed the former Trump administration for the tricky situation."
-    publishedDateTime: 2021-03-16T16:50:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 53
-    images:
-      - url: "https://www.nydailynews.com/resizer/OT8iCaWUuwg2Jezx-pa8tXH6XL0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A4X7LXFMHVGDXHY4UR6NHUX3TQ.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "j15/92Hph2dhtNJxwFUpcb3Hhs52ci5M61bm4Tsbl/g6cK1PJ/d6jj3VOthIr8RpKWVylG3anIzPa16OScjqoUHW3CiLdk0Ul+fZ2xYQR+/gAl+JbGAzkEjA35wqeSnzr1I24xQMcSiEdxY55UhxL6mvmH7MsWMyL5XHah6UL99R8gQiG8lytWrcJeILuuR6Gqch8u99abH2+7ek/G3xikNDM8XSygG5yaBEGBFjtgYRkwqjQ0K9vV/ZAmiufsA0gN3d5N40QMYbLNvm+IP7VYO3ncTJkpMu9vmQHCEtqYuiFFJx+v30hF6C7VajBM4Cpi+YZaUQSEMXda2VIe/7ZDuEaQ3AjFYSwBM6P4KSumM=;LoUykKyra4MCBBGc/5Xw9g=="

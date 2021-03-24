@@ -3717,6 +3717,20 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 50
+  - title: "Vice President Kamala Harris participates in an Equal Pay Roundtable in Washington"
+    excerpt: "Vice President Kamala Harris participates in a roundtable discussion on Equal Pay Day with women leaders of advocacy organizations, in the Eisenhower Executive Office Building at the White House complex in Washington, DC, March 24, 2001. Photo by Michael ..."
+    publishedDateTime: 2021-03-24T20:41:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5555c1aefcacf21a4b71fb57b9eb6fb4/Vice-President-Kamala-Harris-participates-in-an-Equal-Pay-Roundtable-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 49
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/5555c1aefcacf21a4b71fb57b9eb6fb4/HARRIS-EQUAL-PAY.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Donald Trump bids farewell to Washington, hints of a comeback: ‘So just a goodbye. We love you.’"
     excerpt: "So just a goodbye. We love you,” Trump told supporters at Joint Base Andrews in Maryland where he walked across a red carpet and boarded Air Force One to head to Florida. “We will be back in some form."
     publishedDateTime: 2021-01-20T18:04:00Z

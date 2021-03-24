@@ -2,13 +2,13 @@
 category: news
 title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
 excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-publishedDateTime: 2021-03-24T18:27:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b909a8f08b6e4f17c9ee2"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b909a8f08b6e4f17c9ee2"
+publishedDateTime: 2021-03-24T20:32:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bad808f08b6e4f17ca087"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bad808f08b6e4f17ca087"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 type: article
-quality: 137
+quality: 127
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
@@ -63,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_bd69e0bbb92d45cb83dc1f050b912276_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden taps Harris to lead on immigration amid border crisis"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden leans heavily into gun control Justice Dept. faces risks, rewards with riot sedition charges Dems plan to squeeze GOP over filibuster ..."
+    publishedDateTime: 2021-03-24T18:25:00Z
+    webUrl: "https://thehill.com/homenews/administration/544741-biden-taps-harris-to-lead-on-immigration-amid-border-crisis"
+    ampWebUrl: "https://thehill.com/homenews/administration/544741-biden-taps-harris-to-lead-on-immigration-amid-border-crisis?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/544741-biden-taps-harris-to-lead-on-immigration-amid-border-crisis?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 150
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_020521getty_harris.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden, Harris highlight role of Black service members in first Pentagon visit"
     excerpt: "President Biden and Vice President Harris paid tribute to the contributions of Black service members, acknowledging the barriers they have faced in uniform, on Wednesday during their first official visit to the Pentagon."
@@ -702,19 +717,19 @@ related:
         isCached: true
   - title: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
     excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
-    publishedDateTime: 2021-03-24T18:23:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-taps-vice-president-kamala-harris-lead-white-76658413"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-taps-vice-president-kamala-harris-lead-white-76658413"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-taps-vice-president-kamala-harris-lead-white-76658413"
+    publishedDateTime: 2021-03-24T18:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-taps-vice-president-kamala-harris-to-lead-white-house-effort-to-tackle-migration-challenges-at-us-mexico-border/2021/03/24/4498feea-8cce-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-taps-vice-president-kamala-harris-to-lead-white-house-effort-to-tackle-migration-challenges-at-us-mexico-border/2021/03/24/4498feea-8cce-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-taps-vice-president-kamala-harris-to-lead-white-house-effort-to-tackle-migration-challenges-at-us-mexico-border/2021/03/24/4498feea-8cce-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 117
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "New Biden rules for ICE point to fewer arrests and deportations, and a more restrained agency"
     excerpt: "The latest interim guidelines signal that people convicted of drunken driving, minor drug offenses, tax crimes will not be priorities for deportation."
@@ -2035,6 +2050,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "F54TcODXhetf8G7XHiqdd1CyTlaBfA4ebE8hglmgyrKSLqxm/ka0GS23eRkAI0Gdb3ycxLx6xvx+eplxMMB6W8wUWJaDHAOdfY8G1YroxA2MaW+frWX98sjioeiE6LFq0wj9FvPGtVTh+Jwpq3lrFp6bOJ6g/HjASYxWEt6Llzez5WIsKMvr7N6gl+NzZ4hEujRxF3O2q+L5o02253jkhgYw0G27awVMDZpHhc12v6mVw/jrb9Yo5Z1oCl3V03gxPZlJArakxvwFdqYb2TOnwV6/XnwwgUUgrELYkWjimetumKk2vqO5VI4kQT3Ii2flLMUNfY2F5yjLvCcsU3lKC5Kt8aqGPB+5bR2ZDbJPvOE=;SZ85j3Nuq0QiRDXg/RLO2A=="
+secured: "DrRTK0Lvn0ETGt0Ib/cVfhyXlEkq80JBxHDJiV4ob+tTvYczh7A1iwGgizjHBe+BoI4VPE6tQz5Ccy2oz9XhVuyyycP/IUqv6Wum5iqzOB6Wz6A9p9u6083G5OFoikCFVTnY5Nmrcs7+SkNXhuhQpl76tA/FNf4yUuuA0kl7RadqnmavZ7SDXSBZos0WUsDngCpr6g5FNEo85LdtuYCf59Owgcy6pHgN8owjfh92vmMkVEBooY0iTBlERCt6kdxOmW9WqNnPhzIfbE8tq6uAfVZyA24HjwCoKu6FryNHhZMIMlr6s+NUfVNDxQ93NPJrh/PnTb4J5JRsIXl/bwui6xx5fn9tX61vdWg6/dk54HQ=;46X/bYxfJbQ5uhJYW2A8ag=="
 ---
 

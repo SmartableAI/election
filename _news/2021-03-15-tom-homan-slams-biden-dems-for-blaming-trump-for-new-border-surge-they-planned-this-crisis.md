@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Marsha Blackburn calls to restore Trump immigration protocol: Biden has ‘broken the border’"
+    excerpt: "The Biden administration \"has broken the border,\" Sen. Marsha Blackburn, R-Tenn., said on Wednesday after witnessing cartels exploiting the ongoing migrant surge."
+    publishedDateTime: 2021-03-24T20:12:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CJ2aTK5B-Qg/blackburn-trump-protocol-biden-broken-border"
+    ampWebUrl: "https://www.foxnews.com/politics/blackburn-trump-protocol-biden-broken-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-trump-protocol-biden-broken-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's border 'cover-up' needs to be investigated by Congress, says former Trump DHS official"
     excerpt: "Former Assistant DHS Secretary for Public Affairs under Trump, Alexei Woltornist, called on Congress Tuesday to investigate the Biden administration's border crisis 'cover-up.' "
     publishedDateTime: 2021-03-23T13:11:41Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-didnt-include-pence-in-his-lis
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp"
 type: article
 quality: 129
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1762709/trump-scott.jpg"
         width: 2500
         height: 1904
+        isCached: true
+  - title: "Ron DeSantis and Mike Pence Lead Latest Poll for 2024 Republican Presidential Candidate"
+    excerpt: "Florida Governor Ron DeSantis and former Vice President Mike Pence hold commanding leads over other prominent Republicans in a new poll of potential party nominees for the 2024 presidential election. DeSantis was the top choice, with 17 percent of ..."
+    publishedDateTime: 2021-03-24T21:24:00Z
+    webUrl: "https://www.newsweek.com/ron-desantis-mike-pence-lead-latest-poll-2024-republican-presidential-candidate-1578569"
+    ampWebUrl: "https://www.newsweek.com/ron-desantis-mike-pence-lead-latest-poll-2024-republican-presidential-candidate-1578569?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-mike-pence-lead-latest-poll-2024-republican-presidential-candidate-1578569?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1763110/ron-desantis-mike-pence-2024-republican-election.jpg"
+        width: 3000
+        height: 2207
         isCached: true
   - title: "Is Donald Trump still president? On some Republican websites across Florida, the answer is yes"
     excerpt: "Some of the largest counties in Florida — such as Miami-Dade and Hillsborough — display Donald Trump on their local GOP websites as president."

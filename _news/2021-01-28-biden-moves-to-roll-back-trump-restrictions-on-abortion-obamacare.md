@@ -302,6 +302,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden has left Trump's China tariffs in place. Here's why"
+    excerpt: "Former President Donald Trump started a controversial trade war with China three years ago, putting tariffs on roughly $350 billion of Chinese-made goods -- and despite the change in administration, those duties remain in place.\n    \n"
+    publishedDateTime: 2021-03-24T19:44:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4ykh_G5pHn0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/china-tariffs-biden-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/china-tariffs-biden-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114035142-china-wins-trade-war-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z

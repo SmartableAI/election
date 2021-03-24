@@ -569,6 +569,22 @@ related:
         width: 808
         height: 545
         isCached: true
+  - title: "What Kamala Harris Has Said About Immigration Before Leading White House Border Response"
+    excerpt: "Vice President Kamala Harris has been tasked with leading the White House's response to the situation at the U.S.-Mexico border. But Harris has spoken extensively on the issue of immigration in the past, well before her appointment on Wednesday. Upon being ..."
+    publishedDateTime: 2021-03-24T21:15:00Z
+    webUrl: "https://www.newsweek.com/what-kamala-harris-has-said-about-immigration-before-leading-white-house-border-response-1578550"
+    ampWebUrl: "https://www.newsweek.com/what-kamala-harris-has-said-about-immigration-before-leading-white-house-border-response-1578550?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-kamala-harris-has-said-about-immigration-before-leading-white-house-border-response-1578550?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1763088/kamala-harris.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "'Outraged' Biden urges Congress to pass hate crimes bill in wake of Atlanta attacks – live"
     excerpt: "Covid-19 Hate Crimes Act would ‘expedite the government’s response to the rise of hate crimes exacerbated during the pandemic’ – follow the latest"
     publishedDateTime: 2021-03-19T16:28:00Z
@@ -895,6 +911,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/aba4d3de-19f3-4987-8f1c-bdec86ccb1c7-VPC_BIDEN_ON_ATLANTA_SHOOTINGS_DESK.00_01_55_05.Still003.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Vice President Kamala Harris will lead response to migrant issue as numbers rise at border"
+    excerpt: "The vice president's responsibilities will involve diplomatic relations with El Salvador, Guatemala and Honduras to address root causes of migration."
+    publishedDateTime: 2021-03-24T21:21:00Z
+    webUrl: "https://www.latimes.com/politics/vk0mqiuieqm-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 95
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/df2c527/2147483647/strip/true/crop/5364x2816+0+380/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd3%2F2a%2F29231a5444e08168dc9da28dc00b%2Fbiden-55912.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "White House elevates VP with 'Biden-Harris Administration' directive"
     excerpt: "According to a report at Outspoken, “a top White House communications team member” has sent an email directing that official usage at all federal agencies include  D. Harris. “Please be sure to reference the current administration as the ‘Biden-Harris Administration’ in official public communications,"

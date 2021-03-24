@@ -3715,6 +3715,20 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 50
+  - title: "Vice President Kamala Harris participates in an Equal Pay Roundtable in Washington"
+    excerpt: "Vice President Kamala Harris participates in a roundtable discussion on Equal Pay Day with women leaders of advocacy organizations, in the Eisenhower Executive Office Building at the White House complex in Washington, DC, March 24, 2001. Photo by Michael ..."
+    publishedDateTime: 2021-03-24T20:41:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5555c1aefcacf21a4b71fb57b9eb6fb4/Vice-President-Kamala-Harris-participates-in-an-Equal-Pay-Roundtable-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 49
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/5555c1aefcacf21a4b71fb57b9eb6fb4/HARRIS-EQUAL-PAY.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
     excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
     publishedDateTime: 2021-01-16T05:24:00Z

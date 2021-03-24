@@ -139,20 +139,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "After years of Trump tweets, Republicans are suddenly outraged by mean tweets"
-    excerpt: "After spending years defending President Donald Trump’s at times racist and conspiratorial tweets, Senate Republicans are now criticizing Biden administration nominees for their tweets."
-    publishedDateTime: 2021-03-18T20:33:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/after-years-of-trump-tweets-republicans-are-suddenly-outraged-by-mean-tweets/2021/03/18/207bdfd4-ff5e-4772-8281-cfe9ec54ccb3_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-18-2021/t_d3ee9fc30cbc4c7ab0dc1fd590e6c9f7_name_20210317_GOP_TWEETS_V4.png&w=1080"
-        width: 1080
-        height: 608
-        isCached: true
 
 secured: "kfveaQnAMBVEFe5It1TcTayopWfXEs0MOjRp7H48l3zeKzNfrIzh3WPJbvIkCoVCbx6pr8i9PdNqRY4EU/kmmu18ejiMaH73hacGtPmL9QG5uMMQ7VUQ0tWzQz0H77LgctPvxf3Uu8VT761GEOzvWnCZXclw0GIq4f7nrTP1/mqKvk+PqqKX7VqXyNpzPOIXHXxYyf/b/XxUe8CEhg15MC3GrBmX2AanLK8vvsWE+lB/qvu3iWjaXmgv+aof+K3j5QXC4mHVs6zafZJCysMD45WYGQwIcIFeJUe588p8puMJox4+HjdO2G9PlNBHLwX4JQoI+1bGSBfkPnam54OMoqtZYvyyJnWFQ+AhccBaVEP87p5IKjIcHp/WXPAh/URiXMpGoEmaKY7gaBqWZllAPJD1blnknj9nCjsVrVYEF/uqb2dAp6MaOwXt4c9j7kM8R91ZnuiIWLt/po5BrsB6p/AXINUpXcj68i8zyHHt0urUS+/xzqV5xpCgGp/rb2xBUekSlN7o2FDtchrNwUnKdQ==;T8eu2DE3cjDmaneRAdrJoQ=="
 ---
