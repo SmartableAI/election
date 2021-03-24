@@ -47,6 +47,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "New Trump super PAC filing coming as early as April, Lewandowski says"
+    excerpt: "One of former President Trump’s top political advisers says that paperwork could be filed as early as next month to set up a new Trump super PAC."
+    publishedDateTime: 2021-03-24T19:23:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkU1ZpP5Pu0/new-trump-super-pac-filing-corey-lewandowski"
+    ampWebUrl: "https://www.foxnews.com/politics/new-trump-super-pac-filing-corey-lewandowski.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-trump-super-pac-filing-corey-lewandowski.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "New Trump super PAC filing coming as early as April, Lewandowski says"
+    excerpt: "One of former President Trump’s top political advisers says that paperwork could be filed as early as next month to set up a new Trump super PAC."
+    publishedDateTime: 2021-03-24T19:26:00Z
+    webUrl: "https://www.foxnews.com/politics/new-trump-super-pac-filing-corey-lewandowski"
+    ampWebUrl: "https://www.foxnews.com/politics/new-trump-super-pac-filing-corey-lewandowski.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-trump-super-pac-filing-corey-lewandowski.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Donald-Trump-CPAC-Speech-Florida-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Freedom Caucus members urge Cheney to step down from GOP leadership role after latest anti-Trump comment"
     excerpt: "The chair of the conservative House Freedom Caucus is urging Rep. Liz Cheney to step down from her position as the number three House Republican in leadership over her latest critical comments of former President ."
     publishedDateTime: 2021-02-25T17:58:00Z

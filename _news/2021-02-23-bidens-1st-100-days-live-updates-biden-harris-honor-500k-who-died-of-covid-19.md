@@ -96,6 +96,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Kamala Harris Defers to Senate on Gun Reform as Biden Weighs Executive Action"
+    excerpt: "When it comes to the White House's gun reform agenda, Vice President Kamala Harris and President Joe Biden are sending mixed messages. While Biden discussed potentially taking executive action on gun control on Tuesday, Harris continued to urge the Senate ..."
+    publishedDateTime: 2021-03-24T14:40:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-defers-senate-gun-reform-biden-weighs-executive-action-1578403"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-defers-senate-gun-reform-biden-weighs-executive-action-1578403?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-defers-senate-gun-reform-biden-weighs-executive-action-1578403?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 147
+    images:
+      - url: "https://d.newsweek.com/en/full/1762904/kamala-harris.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Biden and Harris to meet Republican senators to push for Covid aid package – live updates"
     excerpt: "lawmakers have offered across the aisle agreement on a much-reduced economic package"
     publishedDateTime: 2021-02-01T10:22:00Z
@@ -143,6 +159,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/12/0d890f31-8e12-47e3-89ce-c125947e6966/thumbnail/1200x630/4ae3b44351e04a3cb321f49351078a3f/gettyimages-1303744901.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
+    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+    publishedDateTime: 2021-03-24T18:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b909a8f08b6e4f17c9ee2"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
         isCached: true
   - title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
     excerpt: "White House event will commemorate halfway point of Biden’s campaign promise of 100m vaccine doses in first 100 days"
@@ -668,6 +700,22 @@ related:
         width: 3000
         height: 2357
         isCached: true
+  - title: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
+    excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
+    publishedDateTime: 2021-03-24T18:23:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-taps-vice-president-kamala-harris-lead-white-76658413"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-taps-vice-president-kamala-harris-lead-white-76658413"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-taps-vice-president-kamala-harris-lead-white-76658413"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "New Biden rules for ICE point to fewer arrests and deportations, and a more restrained agency"
     excerpt: "The latest interim guidelines signal that people convicted of drunken driving, minor drug offenses, tax crimes will not be priorities for deportation."
     publishedDateTime: 2021-02-07T21:26:00Z
@@ -683,6 +731,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UD522YTIAMI6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Vice President Kamala Harris says she and Biden will visit border amid migrant crisis, calls on U.S. to fight anti-Asian hate"
+    excerpt: "Vice President Kamala Harris said she and President Joe Biden will at \"some point\" visit the southern border as the U.S. remains on track to open at least six emergency facilities to house migrant children streaming into the country."
+    publishedDateTime: 2021-03-24T17:32:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-migrant-crisis-gun-violence-asian-american-hate-crimes/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-migrant-crisis-gun-violence-asian-american-hate-crimes/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-migrant-crisis-gun-violence-asian-american-hate-crimes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/24/dc1bc1bc-8c3d-434f-b858-a49d4f751c8c/thumbnail/1200x630/e656cf1aea4468e518e0332b471c5e43/cbsn-fusion-vice-president-kamala-harris-on-situation-at-southern-border-attacks-on-asian-americans-thumbnail-676011-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Lawmakers, Biden pay tribute to Capitol Police officer Brian Sicknick, who was killed in Capitol riot"
     excerpt: "Calif., praised the officer as a \"hero\" for his efforts Jan. 6 to stop a pro-Trump mob that stormed the Capitol."
@@ -932,6 +996,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden taps VP Kamala Harris to lead response to border challenges"
+    excerpt: "Biden is hoping to show Americans he’s taking the border situation seriously after facing stiff criticism from Republicans"
+    publishedDateTime: 2021-03-24T19:30:00Z
+    webUrl: "https://www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html"
+    ampWebUrl: "https://www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WIP2F6G2ZVDSFEIG66XUJY6GYM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
     excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
     publishedDateTime: 2021-02-07T00:34:00Z
@@ -1025,6 +1105,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/9911615562440/2021/1/7cccacabea8cc1917514f338c4d47b86/v1.5/Watch-live-Biden-Harris-speak-about-victory-of-19T-COVID-19-rescue-plan.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Biden Taps Kamala Harris to Lead White House Border Crisis Mitigation Effort"
+    excerpt: "(Adrees Latif/Reuters) President Joe Biden on Wednesday appointed Vice President Kamala Harris to lead the White House’s efforts to combat the worsening crisis at the U.S.-Mexico border where governmental resources have been stretched thin by a surge of ..."
+    publishedDateTime: 2021-03-24T18:43:00Z
+    webUrl: "https://www.nationalreview.com/news/biden-taps-kamala-harris-to-lead-white-house-border-crisis-mitigation-effort/"
+    ampWebUrl: "https://www.nationalreview.com/news/biden-taps-kamala-harris-to-lead-white-house-border-crisis-mitigation-effort/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/biden-taps-kamala-harris-to-lead-white-house-border-crisis-mitigation-effort/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 87
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/migrants-unaccompanied-children-la-joya-texas.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."

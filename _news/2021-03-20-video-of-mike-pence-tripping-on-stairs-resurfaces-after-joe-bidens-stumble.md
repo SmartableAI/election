@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1"
 type: article
 quality: 138
-heat: 2338
+heat: 2358
 published: true
 
 provider:
@@ -1086,6 +1086,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden offers aid, condolences to Boulder as city mourns: Boulder shooting live updates"
+    excerpt: "A Colorado man faces a first court appearance Thursday on first-degree murder charges in Monday's deadly shooting spree that left 10 people dead."
+    publishedDateTime: 2021-03-24T18:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/03/24/boulder-shooting-updates-suspect-faces-court-hearing-city-mourns/6978809002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6978809002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6978809002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/24/USAT/3ca0e8b3-6095-4374-ba93-1864f3e12ba9-boulderstrongpic.jpg?auto=webp&crop=5344,3006,x0,y272&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Several U.S. states sue Biden administration for revoking permit for Keystone XL pipeline"
     excerpt: "Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday."

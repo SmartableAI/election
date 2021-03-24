@@ -90,6 +90,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden appoints VP Harris as point person to address migrant surge at southern border"
+    excerpt: "President Biden said Thursday that he has appointed Vice President Kamala Harris to lead his administration’s efforts to address a record surge in migrants, including unaccompanied minors, that has strained capacity at immigration facilities at the southern border in recent weeks."
+    publishedDateTime: 2021-03-24T19:47:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4ePNUcQVwLM/biden-appoints-vp-harris-point-person-address-migrant-surge-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-appoints-vp-harris-point-person-address-migrant-surge-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-appoints-vp-harris-point-person-address-migrant-surge-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 193
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/795dc737-b1c2-46a7-a833-80bc04f0d8b1/b7365531-e3e7-403e-b1ed-2ebfb455bd6c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cuomo accuser Lindsey Boylan slams Biden, Harris over silence on sexual harassment scandal"
     excerpt: "Lindsey Boylan, the first woman to accuse New York Gov. Andrew Cuomo of sexual harassment in a widening scandal, slammed President Biden and Vice President Kamala Harris in a now-deleted tweet for staying silent on the allegations."
     publishedDateTime: 2021-03-13T02:27:38Z
@@ -1095,6 +1111,22 @@ related:
       - url: "https://assets.realclear.com/images/53/538196.jpg"
         width: 850
         height: 636
+        isCached: true
+  - title: "Biden: I Told Kamala Harris She'd Be The Last Person In The Room, \"That Means She Gets Every Assignment\""
+    excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U."
+    publishedDateTime: 2021-03-24T19:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 83
+    images:
+      - url: "https://assets.realclear.com/images/53/538652.jpg"
+        width: 5459
+        height: 3558
         isCached: true
 
 secured: "Xf3tLHrQJc0ZVTnmfGGd5CeiDoOv6UDAtEGaqz60tNAgXmWqDqQTrIDl6OjT6Db+m07LXmyfZzsTZSROhYkDOgskFCqsWar44YFLrmWDQIOkw55KIVKnw6SKpuXkbgNYApIKaZL9oOnv3fk+D3pfK9dxu51bJ6K5KstwVWGiE2JS0r0Yqfn4INPZM/7N+h2Qrnk2iL5paIy12G1rbcFUVQ4LHRC9k86YiKaqu3C6EvZjJNMBEa2gJDhs7TSwwTLjOWEUPDIAM+8PojNsV6QVL6oOVG2zVh0r0Td2RvflPayJmFmJ3PQWg7TLKoaSA+jpBsrxgAVkwM7csp25DciCpUVxKGB5ddcVbQuBfIFOpyQ=;fj/Xmghd+ZmNguLddKcY0g=="

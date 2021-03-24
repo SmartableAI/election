@@ -1210,6 +1210,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
+    excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
+    publishedDateTime: 2021-03-24T18:26:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 63
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
     excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-03-17T17:53:00Z

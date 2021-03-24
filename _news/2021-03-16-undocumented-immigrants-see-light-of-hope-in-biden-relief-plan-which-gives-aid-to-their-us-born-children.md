@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden in touch with Boulder, Colorado mayor after shootings: White House"
+    excerpt: "U.S. President Joe Biden spoke with the mayor of Boulder, Colorado earlier on Wednesday in the wake of a deadly shooting there, White House press secretary Jen Psaki said, noting any travel to the region would be done in consultation with local officials."
+    publishedDateTime: 2021-03-24T16:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-colorado-shooting-idUSKBN2BG2TM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG2TM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG2TM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556073888&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1QT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Police unions and civil-rights groups are rarely on the same page. They both see an ally in this Biden Justice Department nominee."
     excerpt: "Associate Attorney General nominee Vanita Gupta is seen as a potential bridge between progressives and the White House as it pushes for bolder criminal justice reform policies."
     publishedDateTime: 2021-03-16T02:16:00Z

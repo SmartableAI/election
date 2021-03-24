@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-conversation-chin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-conversation-china.amp"
 type: article
 quality: 174
-heat: 314
+heat: 334
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden’s dogs are back at the White House after biting someone, Psaki says"
+    excerpt: "First dogs Champ and Major have returned to the White House after they were sent away to Delaware following a biting incident, White House press secretary Jen Psaki said Wednesday. "
+    publishedDateTime: 2021-03-24T18:35:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/beJeUdUr2fY/bidens-dogs-back-white-house-after-biting-incident"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-dogs-back-white-house-after-biting-incident.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-dogs-back-white-house-after-biting-incident.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/PsakiMONDAY.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden, no stranger to inappropriate touching accusations, gives Cuomo pass"
     excerpt: "President Biden refused to join the chorus of fellow Democrats calling for New York Gov. Andrew Cuomo to resign, as Cuomo faces multiple scandals, including allegations of improper touching."
     publishedDateTime: 2021-03-15T15:09:54Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1910
+heat: 1930
 published: true
 
 provider:
@@ -1198,6 +1198,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/NFTU/b1805c12-0305-47e6-aef8-ac0789021d94-FLJAX_101920_9KamalaHarris.jpg?auto=webp&crop=3493,1965,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
+    excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
+    publishedDateTime: 2021-03-24T18:26:00Z
+    webUrl: "https://www.chron.com/news/article/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 63
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Vice President Kamala Harris to visit vaccination site, feeding Northeast Florida in Jacksonville Monday"
     excerpt: "JACKSONVILLE, Fla. — Vice President Kamala Harris will be visiting a vaccination site and Feeding Northeast Florida in Jacksonville on Monday. The trip is part of Vice President Harris and President Joe Biden's ongoing \"Help is Here\" tour, a cross ..."

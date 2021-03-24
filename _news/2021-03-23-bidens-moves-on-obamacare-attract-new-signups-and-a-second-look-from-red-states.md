@@ -286,6 +286,22 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "'Sitting on their hands': Biden transition officials say Trump officials delayed action on child migrant surge"
+    excerpt: "Trump officials didn't increase capacity for child migrants despite warnings, Biden transition officials say. \"They were sitting on their hands,\" one said."
+    publishedDateTime: 2021-03-24T18:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/sitting-their-hands-biden-transition-officials-say-trump-officials-delayed-n1261934"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261934"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261934"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459260/210324-carrizo-springs-texas-ew-1239p_2b4f73c6fec59b7edcc4aca536e25d89.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "POLITICO Playbook: Biden stares down a mounting crisis on the border"
     excerpt: "President JOE BIDEN is about to come under a mountain of pressure from both parties to fix the situation at the border — and address immigration overall. With a humanitarian crisis growing — read this CBS story for the latest — progressives are losing their patience over how long it’s taking Biden to undo Trump-era policies and implement a more humane system he campaigned on."
     publishedDateTime: 2021-03-15T17:13:00Z

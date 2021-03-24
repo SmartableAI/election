@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-contro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html"
 type: article
 quality: 200
-heat: 580
+heat: 620
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 197
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312150321-04-white-house-covid-relief-event-0312-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden assigning Harris to lead diplomatic efforts in Central America to address immigration"
+    excerpt: "President Joe Biden is tasking Vice President Kamala Harris with overseeing efforts with Central American countries to stem the flow of migrants to the US southern border, senior administration officials said on Wednesday, the first major issue Biden has assigned directly to his No. 2.\n    \n"
+    publishedDateTime: 2021-03-24T19:27:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jE-kw1aS9Mo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/kamala-harris-immigration-central-america/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/kamala-harris-immigration-central-america/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319183425-harris-emoroy-0319-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -223,6 +239,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing-biden-harris1/merlin_185269029_cd765145-7a66-4257-8304-4dc030273010-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden assigning Harris to lead diplomatic efforts in Central America to address immigration"
+    excerpt: "President Joe Biden is tasking Vice President Kamala Harris with overseeing efforts with Central American countries to stem the flow of migrants to the US southern border, senior administration officials said on Wednesday, the first major issue Biden has ..."
+    publishedDateTime: 2021-03-24T18:27:00Z
+    webUrl: "https://www.cnn.com/2021/03/24/politics/kamala-harris-immigration-central-america/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/kamala-harris-immigration-central-america/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/kamala-harris-immigration-central-america/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319183425-harris-emoroy-0319-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Harris, Biden announce nominations of two women to be 4-star combatant commanders"
     excerpt: "President Joe Biden and Kamala Harris announced the nominations of Gen. Jacqueline D. Van Ovost of the Air Force and Lt. Gen. Laura J. Richardson of the Army to be four-star combatants. Once confirmed by the Senate the women will become the second and third in U."

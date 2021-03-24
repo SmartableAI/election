@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 665
+heat: 685
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/991a3bf3c58ddcf8119fd59c981d4115167e26ee/0_52_3000_1799/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=812dc92f6ce154b3a04bb6604a4f11fd"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden to meet with immigration advisers as delegation visits Texas facility"
+    excerpt: "U.S. President Joe Biden will meet with immigration advisers and top Cabinet officials on Wednesday while dispatching White House officials to a Texas resettlement facility as pressure mounts over a recent jump in migrant arrivals at the U."
+    publishedDateTime: 2021-03-24T16:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-white-house-idUSKBN2BG1Y6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG1Y6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG1Y6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556039214&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N17X"
+        width: 873
+        height: 545
         isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – as it happened"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"

@@ -270,6 +270,22 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "'Sitting on their hands': Biden transition officials say Trump officials delayed action on child migrant surge"
+    excerpt: "Trump officials didn't increase capacity for child migrants despite warnings, Biden transition officials say. \"They were sitting on their hands,\" one said."
+    publishedDateTime: 2021-03-24T18:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/sitting-their-hands-biden-transition-officials-say-trump-officials-delayed-n1261934"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261934"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261934"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459260/210324-carrizo-springs-texas-ew-1239p_2b4f73c6fec59b7edcc4aca536e25d89.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Biden's moves on Obamacare attract new signups -- and a second look from red states"
     excerpt: "(CNN)President Joe Biden is wasting no time establishing his vision for the Affordable Care Act and reversing many Trump-era measures aimed at weakening it. In his first two months in office, Biden has taken several steps to bolster the landmark health ..."
     publishedDateTime: 2021-03-22T18:52:00Z

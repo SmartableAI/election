@@ -543,6 +543,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Key Biden aides, including one with ties to dark money, not required to disclose personal finances"
+    excerpt: "Three top aides to President Biden's COVID-19 response are exempt from the personal financial disclosure requirements that other members of his administration must file. "
+    publishedDateTime: 2021-03-24T18:47:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EFwgqFugTfQ/biden-white-house-financial-disclosure-dunn-dark-money"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-financial-disclosure-dunn-dark-money.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-financial-disclosure-dunn-dark-money.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
     excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
     publishedDateTime: 2021-03-17T10:33:40Z

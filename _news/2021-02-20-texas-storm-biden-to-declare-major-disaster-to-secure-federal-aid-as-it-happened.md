@@ -207,6 +207,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to meet with immigration advisers as delegation visits Texas facility"
+    excerpt: "U.S. President Joe Biden will meet with immigration advisers and top Cabinet officials on Wednesday while dispatching White House officials to a Texas resettlement facility as pressure mounts over a recent jump in migrant arrivals at the U."
+    publishedDateTime: 2021-03-24T16:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-white-house-idUSKBN2BG1Y6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG1Y6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG1Y6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556039214&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N17X"
+        width: 873
+        height: 545
+        isCached: true
   - title: "Federal judge in Texas blocks Biden's 100-day deportation pause in nationwide order"
     excerpt: "Granting a nationwide injunction sought by Texas, a federal judge has blocked the Biden administration's plans to pause deportations for 100 days."
     publishedDateTime: 2021-02-24T17:14:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 type: article
 quality: 190
-heat: 930
+heat: 970
 published: true
 
 provider:
@@ -462,6 +462,38 @@ related:
       - url: "https://static.politico.com/30/3f/d202d0484a63b5aa8ecb4a7f67f7/ap21059815349740-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Don’t expect a @realDonaldTrump comeback"
+    excerpt: "Despite what many people are calling “heavy demand,” @realDonaldTrump will not be returning — like a dog — to his once Favorite part of The Big, Beautiful internet. Donald Trump may be entertaining a potential reemergence on social media,"
+    publishedDateTime: 2021-03-24T08:31:00Z
+    webUrl: "https://www.politico.com/news/2021/03/24/trump-twitter-return-477729"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/24/trump-twitter-return-477729"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/24/trump-twitter-return-477729"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/24/f7/078e461448aaaaf00a5af6895781/gettyimages-1272635840.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "E.P.A. to Review Attacks on Science Under Trump"
+    excerpt: "The agency said it would carry out an accounting of political interference in science, an usually public act that Biden administration officials said was needed to restore trust in the agency’s decisions."
+    publishedDateTime: 2021-03-24T15:58:00Z
+    webUrl: "https://www.nytimes.com/2021/03/24/climate/trump-science-epa.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/24/climate/trump-science-epa.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/24/climate/trump-science-epa.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/24/climate/24CLI-EPA1/24CLI-EPA1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Key Trump ally draws renewed scrutiny from prosecutors"
     excerpt: "Roger Stone, an ally to former President Donald Trump, has appeared in several court filings related to the riot that took place at the US Capitol Building on January 6. CNN's Jessica Schneider reports."

@@ -544,6 +544,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Key Biden aides, including one with ties to dark money, not required to disclose personal finances"
+    excerpt: "Three top aides to President Biden's COVID-19 response are exempt from the personal financial disclosure requirements that other members of his administration must file. "
+    publishedDateTime: 2021-03-24T18:47:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EFwgqFugTfQ/biden-white-house-financial-disclosure-dunn-dark-money"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-financial-disclosure-dunn-dark-money.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-financial-disclosure-dunn-dark-money.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden admin releases photos of crowded migrant processing center at border amid transparency criticism"
     excerpt: "Customs and Border Protection (CBP) on Tuesday released photos of the temporary facilities being used to process migrant children who are found crossing the U.S. southern border. "
     publishedDateTime: 2021-03-23T13:13:45Z
