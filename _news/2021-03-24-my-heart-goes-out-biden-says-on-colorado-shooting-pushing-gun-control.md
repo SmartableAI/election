@@ -735,6 +735,22 @@ related:
         width: 806
         height: 545
         isCached: true
+  - title: "Biden readies for 1st news conference, White House tradition"
+    excerpt: "I hope that doesn’t prove to be a disturbing influence.” It was the first presidential news conference captured for broadcast by television. In the scratchy black and white of 1955 TV sets, Americans saw those trademark Ike grins and heard him beef about being asked a “loaded question."
+    publishedDateTime: 2021-03-24T17:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-disturbing-influence-of-presidential-news-conferences/2021/03/24/311bc8a6-8c57-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-disturbing-influence-of-presidential-news-conferences/2021/03/24/311bc8a6-8c57-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-disturbing-influence-of-presidential-news-conferences/2021/03/24/311bc8a6-8c57-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
     publishedDateTime: 2021-03-14T14:12:00Z
@@ -1538,6 +1554,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
+    excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."
+    publishedDateTime: 2021-03-24T16:46:00Z
+    webUrl: "https://www.businessinsider.com/fourteen-us-states-sue-biden-administration-over-oil-and-gas-leasing-pause-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/fourteen-us-states-sue-biden-administration-over-oil-and-gas-leasing-pause-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fourteen-us-states-sue-biden-administration-over-oil-and-gas-leasing-pause-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
   - title: "'We have to act': Biden calls on Congress to move fast on background checks, assault weapon ban after Boulder shooting"
     excerpt: "I don't need to wait another minute, let alone an hour, to take common sense steps that will save the lives in the future,' the president said."
     publishedDateTime: 2021-03-23T17:24:00Z
@@ -1695,6 +1722,6 @@ related:
         height: 224
         isCached: true
 
-secured: "TqYpC5WWuQWST4y2j31wZu1cvmYe6r6JSvnYx762WzGcYjSsOPfphHgrPAaDCkIIp/PmdTJWvhhyGGCg8I5CiJnwjQGAw0Rap2NuZjb9DdcKlniErjbS9hD+AWZnQCaQadjqBWA1b26Jc5qMn+gWlWArov4yLSniSK2lPdHghDJCA1BO52mCZIfWAoJ8eDQjeF6dXWqsWW0zUWyMNHy8JrXDcilNPuqv5zffRylPEOAUCPaALqbBFh426RWfo0UIBz/vp314c7qDA4bKVfKdMySOboEruvB0xA9aE5ps2UaRg5L7eB/fvPxzruDjnhw7N9+pzGmNYx1eKDJAGGV4dlxhn1Od8vUH7V+blK4WV7U=;ThiBxSys6QnYYZix2mQVPg=="
+secured: "VqUlmxbt2ufOaBrVt27L6clW+k6IypVsFbeeTdKkwq0/QUmzfzA9ixRcJVI3xKdo1LxkrBsugpKwmNfcaFifA/tHN0h1FgtQE3TZS0sNaA6d9wZYLrlhT6KwsJQEuojuD8Q3PqEO7kGwO432Q9+UuYpd8cQU5gbNedhRBTUSlKKcM4IvbM6AsFA8z6jETNRoDLeJMqyDCoV+5okyB2KpHXmaGnD6ro2b8ogCd8WFSq7KoKArl/IE7X8YHfYsiUAs5+AAQzch09v9Qe/xjiRgOPyzT9NWrOS6wQXkSAzkELF1x4W4fp2dDIaplnyvVfZ6FmO2Px8llNQvl7hDvhqeW/949t74QVPYZ62+ZD8hPcVdIwE9Peb3ZzxShDtqqCQY+lpUQO0oglsIaZacKm5Ouvv9ocrfSpZb42bGjog+gaAeJg1/pNhC0uwi6bCW1Q8/oW9cTmBDe7k6U7/WGnkWQTHdLTleDKBT2Jt1+wX4hej4rCz2n88Y4NSxGG/QKflQw2ER3rcMZ0LOKiHV3upTNQ==;npiXfkwhPMdPGyhmsT+iNg=="
 ---
 

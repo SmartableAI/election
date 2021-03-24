@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-25-capitol-police-chief-warns-militia-groups-want-to-blow-up-the-capitol-when-biden-addresses-congress.md",
+      "title": "Capitol police chief warns militia groups want to 'blow up the Capitol' when Biden addresses Congress",
+      "excerpt": "House lawmakers angrily grilled acting US Capitol Police Chief Yogananda Pittman and acting House Sergeant at Arms Timothy Blodgett on Thursday over the security failures that occurred on January 6, repeatedly pressing both officials on the lack of communication by law enforcement leaders as their officers",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VPkErQjkmcM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VPkErQjkmcM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/25/politics/us-capitol-attack-house-hearing-pittman-blodgett/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/us-capitol-attack-house-hearing-pittman-blodgett/index.html",
+      "publishedDateTime": "2021-02-25T11:15:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-harris-addresses-vaccine-hesitancy-in-dc-pharmacy-visit.md",
       "title": "Harris addresses vaccine hesitancy in DC pharmacy visit",
       "excerpt": "Vice President Kamala Harris on Thursday visited a local pharmacy in Washington, DC, to highlight the Biden administration's retail pharmacy vaccination program and combat vaccine hesitancy.\n    \n",
@@ -1608,62 +1664,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html",
       "publishedDateTime": "2021-02-17T13:44:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-new-york-times-trump-pentagon-officials-delayed-promotions-of-female-generals-due-to-fear-over-trumps-reaction.md",
-      "title": "New York Times: Trump Pentagon officials delayed promotions of female generals due to fear over Trump's reaction",
-      "excerpt": "Promotions of two female generals were delayed by Pentagon officials until after the 2020 presidential election out of fear of \"turmoil\" from President Donald Trump's White House, The New York Times reported Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210217123321-us-army-gen-laura-richardson-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
-      "publishedDateTime": "2021-02-17T12:20:32-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

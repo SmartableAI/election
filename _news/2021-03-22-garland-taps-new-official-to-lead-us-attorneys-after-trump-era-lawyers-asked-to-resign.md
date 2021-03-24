@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Meghan McCain: The left will have to 'reconcile' whether identity politics trumps job qualifications"
+    excerpt: "'The View' co-host Meghan McCain said Wednesday the 'progressive left' will have to 'reconcile' the question over whether race, gender, and identity politics take precedent over job qualifications."
+    publishedDateTime: 2021-03-24T17:46:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pAysyz0IGv8/mccain-left-democrats-identity-politics-qualifications"
+    ampWebUrl: "https://www.foxnews.com/politics/mccain-left-democrats-identity-politics-qualifications.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccain-left-democrats-identity-politics-qualifications.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1423e728-8cc7-4e8e-8dbc-8ec58b90322d/93b24161-47b1-4ccd-aedd-a09363399bb7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "CNN was skeptical of coronavirus vaccines prior to 2020 election when it would have helped Trump"
     excerpt: "And so, no, I would not trust his word. I would trust the word of public health experts and scientists, but not Donald Trump,\" Harris said. Bash responded, \"Let's just say there is a vaccine that is approved and even distributed before the election."
     publishedDateTime: 2021-03-22T18:50:00Z

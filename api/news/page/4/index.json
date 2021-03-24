@@ -2,6 +2,114 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-19-mary-trump-scoffs-at-idea-ex-presidents-children-will-run-for-office-they-have-no-skills.md",
+      "title": "Mary Trump Scoffs at Idea Ex-President's Children Will Run for Office: 'They Have No Skills'",
+      "excerpt": "Mary Trump, the niece of Donald Trump and a ferocious critic of her family, scoffed at the idea that the former president's children could become elected officials and said that \"they have no skills.\" Asked if they should run for office,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
+      "originalUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1759070/trump-family.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1",
+      "publishedDateTime": "2021-03-19T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-kevin-mccarthy-on-fox-friends-biden-border-crisis-now-becoming-human-tragedy.md",
+      "title": "Kevin McCarthy on 'Fox & Friends': Biden border crisis now becoming 'human tragedy'",
+      "excerpt": "The issues on the border go beyond a crisis to a \"human tragedy,\" House Minority Leader Kevin McCarthy, R-Calif., said on Friday, reacting to the Biden administration denying media access to migrant facilities.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
+      "publishedDateTime": "2021-03-19T07:29:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-florida-ex-sen-bill-nelson-to-be-tapped-by-biden-for-nasa-administrator.md",
       "title": "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator",
       "excerpt": "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News.",
@@ -568,7 +676,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1500,
+      "heat": 1540,
       "tags": null,
       "images": [
         {
@@ -1229,110 +1337,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-twitter-refuses-to-remove-melania-trumps-nude-photo-shared-by-cardi-b-report.md",
-      "title": "Twitter Refuses To Remove Melania Trump's Nude Photo Shared By Cardi B: Report",
-      "excerpt": "Twitter said Melania Trump's nude photo does not violate its rules The microblogging site has a non-consensual nudity policy Twitter users agreed that the picture should not be deleted Cardi B posted a nude photo of former first lady Melania Trump ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/twitter-refuses-remove-melania-trumps-nude-photo-shared-cardi-b-report-3164324",
-      "originalUrl": "https://www.ibtimes.com/twitter-refuses-remove-melania-trumps-nude-photo-shared-cardi-b-report-3164324",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/twitter-refuses-remove-melania-trumps-nude-photo-shared-cardi-b-report-3164324?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-refuses-remove-melania-trumps-nude-photo-shared-cardi-b-report-3164324?amp=1",
-      "publishedDateTime": "2021-03-17T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-donald-trump-jr-calls-john-kerry-liberal-hypocrite-for-maskless-photo-on-flight.md",
-      "title": "Donald Trump Jr. Calls John Kerry 'Liberal Hypocrite' for Maskless Photo on Flight",
-      "excerpt": "If I dropped my mask to one ear on a flight, it was momentary,\" U.S. climate envoy John Kerry said in response to criticism of a photo appearing to show him not wearing his face mask on an American Airlines flight Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-calls-john-kerry-liberal-hypocrite-maskless-photo-flight-1577000",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-calls-john-kerry-liberal-hypocrite-maskless-photo-flight-1577000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1758379/john-kerry-donald-trump-jr-masks-covid-19.jpg",
-          "width": 2500,
-          "height": 1714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-calls-john-kerry-liberal-hypocrite-maskless-photo-flight-1577000?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-calls-john-kerry-liberal-hypocrite-maskless-photo-flight-1577000?amp=1",
-      "publishedDateTime": "2021-03-17T20:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

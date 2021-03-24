@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tom Homan: Biden created border crisis with rush to 'undo everything' Trump did on border security"
+    excerpt: "Thomas Homan, the former acting director of Immigration and Customs Enforcement (ICE), weighed in on the “crisis” at the southern border amid a surge of migrants on Wednesday, blaming the situation on the “hurry” to undo “everything Trump.”"
+    publishedDateTime: 2021-03-24T17:35:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UFsy8mu-5AY/biden-rushed-undo-trump-policies-crisis-tom-homan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rushed-undo-trump-policies-crisis-tom-homan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rushed-undo-trump-policies-crisis-tom-homan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Chad Wolf warns migrants won't listen to Biden's 'don't come' plea"
     excerpt: "Former Acting DHS Secretary Chad Wolf warned on Wednesday that the surge of migrants to the southern border won't stop as long as those making the journey \"see other individuals\" being allowed to stay in the U.S."
     publishedDateTime: 2021-03-17T13:31:44Z

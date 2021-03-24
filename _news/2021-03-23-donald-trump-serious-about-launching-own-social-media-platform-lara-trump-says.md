@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 700
         isCached: true
+  - title: "Bernie Sanders Uncomfortable With Trump's Ban On Twitter: 'It's An Issue'"
+    excerpt: "Sanders opens up about his beliefs and opinions on the first amendment and the permanent ban of former President Trump on social media platforms."
+    publishedDateTime: 2021-03-24T17:07:00Z
+    webUrl: "https://www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442"
+    ampWebUrl: "https://www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/09/senator-bernie-sanders-has-voiced-strong-support-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump To Launch Own Social Media Platform: Ex-aide"
     excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
     publishedDateTime: 2021-03-21T19:35:00Z

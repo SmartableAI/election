@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
 type: article
 quality: 190
-heat: 1250
+heat: 1270
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a737b5f6-c3b1-44f9-ad3c-eaf38f3b8c2a/6499a067-3aad-4067-ab61-c8b877d137f8/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tom Homan: Biden created border crisis with rush to 'undo everything' Trump did on border security"
+    excerpt: "Thomas Homan, the former acting director of Immigration and Customs Enforcement (ICE), weighed in on the “crisis” at the southern border amid a surge of migrants on Wednesday, blaming the situation on the “hurry” to undo “everything Trump.”"
+    publishedDateTime: 2021-03-24T17:35:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UFsy8mu-5AY/biden-rushed-undo-trump-policies-crisis-tom-homan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rushed-undo-trump-policies-crisis-tom-homan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rushed-undo-trump-policies-crisis-tom-homan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Psaki acknowledges ‘big problem’ at border, blames Trump administration"
     excerpt: "White House press secretary Jen Psaki on Monday referred to the influx of migrants at the southern border as a “big problem” and blamed the Trump administration for an “unworkable system” -- following weeks of the Biden administration refusing to call it a “crisis.”"

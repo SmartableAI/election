@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Meghan McCain: The left will have to 'reconcile' whether identity politics trumps job qualifications"
+    excerpt: "'The View' co-host Meghan McCain said Wednesday the 'progressive left' will have to 'reconcile' the question over whether race, gender, and identity politics take precedent over job qualifications."
+    publishedDateTime: 2021-03-24T17:46:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pAysyz0IGv8/mccain-left-democrats-identity-politics-qualifications"
+    ampWebUrl: "https://www.foxnews.com/politics/mccain-left-democrats-identity-politics-qualifications.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccain-left-democrats-identity-politics-qualifications.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1423e728-8cc7-4e8e-8dbc-8ec58b90322d/93b24161-47b1-4ccd-aedd-a09363399bb7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says he hopes Meghan Markle runs for president, could return him to White House"
     excerpt: "Former President Donald Trump on Tuesday said that a he is “not a fan” of Meghan Markle but that he hopes she launches her rumored 2024 presidential run. Trump was asked in a Fox News ..."
     publishedDateTime: 2021-03-17T01:30:00Z

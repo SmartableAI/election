@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-12-psaki-pressed-on-bidens-fourth-of-july-goal-cautions-its-not-a-return-to-total-normalcy.md",
+      "title": "Psaki pressed on Biden's Fourth of July goal, cautions it's not a 'return to total normalcy'",
+      "excerpt": "White House press secretary Jen Psaki said President Biden’s aspiration for Americans to have fourth of July celebrations is not calling for a “mass event” or “return to total normalcy.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/THMNIKEBip0/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/THMNIKEBip0/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp",
+      "publishedDateTime": "2021-03-12T11:21:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-manhattan-district-attorney-cy-vance-who-sought-trumps-tax-returns-to-retire.md",
       "title": "Manhattan District Attorney Cy Vance, who sought Trump's tax returns, to retire",
       "excerpt": "Manhattan District Attorney Cyrus Vance Jr., a longtime foe of former President Donald Trump, will not run for re-election.",
@@ -1590,62 +1646,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
       "publishedDateTime": "2021-03-09T06:19:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-cotton-on-biden-border-crisis-this-was-altogether-predictable-and-was-predicted-last-year.md",
-      "title": "Cotton on 'Biden border crisis': 'This was altogether predictable' and was 'predicted' last year",
-      "excerpt": "Sen. Tom Cotton R-Ark. blasted the Biden Administration Monday for their role in the current crisis at the U.S.-Mexico border, calling their policy \"recruit and release\" as opposed to \"catch and release.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cDwNpbSXLeM/cotton-biden-border-crisis-altogether-predictable",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cDwNpbSXLeM/cotton-biden-border-crisis-altogether-predictable",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2d65ea6-4669-4750-9f90-a270d335b120/5b2cc511-1777-4f6c-a7a2-c9d0afbbe7e4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cotton-biden-border-crisis-altogether-predictable.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-biden-border-crisis-altogether-predictable.amp",
-      "publishedDateTime": "2021-03-08T21:38:45-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

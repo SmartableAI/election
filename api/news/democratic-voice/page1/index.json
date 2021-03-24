@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-24-moncef-slaoui-trump-vaccine-chief-fired-from-board-over-sexual-harassment-allegations.md",
+      "title": "Moncef Slaoui, Trump vaccine chief, fired from board over sexual harassment allegations",
+      "excerpt": "WASHINGTON — The man who led former President Donald Trump’s effort to produce Covid-19 vaccines, Moncef Slaoui, has been fired from a bioelectronics company’s board of directors over sexual harassment allegations. Slaoui, who was in charge of Trump ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/moncef-slaoui-ex-trump-vaccine-chief-fired-board-over-sexual-n1261914",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/moncef-slaoui-ex-trump-vaccine-chief-fired-board-over-sexual-n1261914",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_12/3459180/210324-moncef-slaoui-jm-0934_dda6551a87edc9aa2311df3b313f08ce.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261914",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261914",
+      "publishedDateTime": "2021-03-24T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-bernie-sanders-doesnt-feel-comfortable-about-twitters-permanent-ban-against-trump-despite-him-being-a-pathological-liar.md",
       "title": "Bernie Sanders doesn't 'feel comfortable' about Twitter's permanent ban against Trump despite him being a 'pathological liar'",
       "excerpt": "Independent Sen. Bernie Sanders denounced former President Donald Trump in strong terms in an interview released Tuesday but said Twitter's permanent suspension of the former Republican president doesn't sit right with him.\n    \n",
@@ -127,7 +184,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1608,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
       "publishedDateTime": "2021-03-16T09:46:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-biden-leads-covid-19-relief-sales-pitch-with-an-eye-toward-next-steps.md",
-      "title": "Biden leads Covid-19 relief sales pitch with an eye toward next steps",
-      "excerpt": "President Joe Biden launches a sales effort Tuesday that he says is critical to convincing Americans that government can make their lives better.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4-S39NRLr3k/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4-S39NRLr3k/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-covid-pennsylvania/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-covid-pennsylvania/index.html",
-      "publishedDateTime": "2021-03-16T06:33:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

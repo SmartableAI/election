@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Bernie Sanders Uncomfortable With Trump's Ban On Twitter: 'It's An Issue'"
+    excerpt: "Sanders opens up about his beliefs and opinions on the first amendment and the permanent ban of former President Trump on social media platforms."
+    publishedDateTime: 2021-03-24T17:07:00Z
+    webUrl: "https://www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442"
+    ampWebUrl: "https://www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/09/senator-bernie-sanders-has-voiced-strong-support-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Donald Trump Serious About Launching Own Social Media Platform, Lara Trump Says"
     excerpt: "Lara Trump said her father-in-law, Donald Trump, wants to launch a social media platform that will give its users the freedom to say whatever they want."
     publishedDateTime: 2021-03-23T02:02:00Z

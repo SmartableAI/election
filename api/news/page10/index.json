@@ -2,6 +2,106 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-10-biden-dogs-are-in-delaware-while-jill-biden-travels-after-major-caused-a-minor-injury.md",
+      "title": "Biden dogs are in Delaware while Jill Biden travels after Major caused a 'minor injury'",
+      "excerpt": "The statements came Tuesday after CNN reported Monday that President Joe Biden and first lady Jill Biden's two German shepherds returned to their family home in Delaware last week following \"aggressive behavior at the White House\" involving Major.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/05/USAT/8953951b-8480-4aa9-bd02-06c6ebe10ae8-VPC_JILL_BIDEN_PSA_PUPPY_BOWL_DESK_THUMB.00_00_20_18.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4640961001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4640961001",
+      "publishedDateTime": "2021-03-10T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-trump-says-country-is-being-destroyed-at-border-amid-migrant-surge.md",
+      "title": "Trump says country is being ‘destroyed’ at border amid migrant surge",
+      "excerpt": "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/",
+      "originalUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/",
+      "publishedDateTime": "2021-03-09T22:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-pence-to-headline-event-in-south-carolina-in-april.md",
       "title": "Pence to headline event in South Carolina in April",
       "excerpt": "Former Vice President Mike Pence is set to headline a major event next month for a conservative Christian organization in South Carolina, an appearance likely to stoke speculation about his own presidential ambitions. A Pence spokesman confirms the former ...",
@@ -1277,120 +1377,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-pence-will-make-his-first-speech-since-leaving-office.md",
-      "title": "Pence will make his first speech since leaving office.",
-      "excerpt": "The former vice president left Washington on the outs with former President Donald J. Trump, and his speech next month will be scrutinized for hints of his political future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/08/us/politics/08new-was-pence-sub/08new-was-pence-sub-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
-      "publishedDateTime": "2021-03-08T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-pence-to-deliver-first-post-vp-speech-in-south-carolina-as-he-eyes-political-future.md",
-      "title": "Pence to deliver first post-VP speech in South Carolina as he eyes political future",
-      "excerpt": "Former Vice President Mike Pence will head to South Carolina next month to deliver his first public address since the end of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
-      "publishedDateTime": "2021-03-08T07:07:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

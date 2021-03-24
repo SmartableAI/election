@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-no
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
 type: article
 quality: 147
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Duckworth, Hirono change course on Biden nominees after assurances on AAPI representation"
+    excerpt: "Sen. Tammy Duckworth, D-Ill., reversed course on vowing to object to President Joe Biden's nominees because of a lack of Asian American and Pacific Islander representation Tuesday evening after a spokesperson from her office said she had received ..."
+    publishedDateTime: 2021-03-24T15:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261865"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261865"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459014/210323-tammy-duckworth-jm-1637_366fa55d715e08f098a8783e0973abeb.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "5AY57eWpH1PVgc+eyEvVQ/HeNj9HENmResT9qdJpmwkA2xCcpjHhJ8VPt5kt7ySeoYb7UrM6RZ0YwrW6BGg6C0ghMUxbOU8BXze6DBsa5RO8r9sC8Io0f2eAvHiYpDhHzXewkec4duuMso1sNrkThGJWCaV67H7BtnI9c094ZTrWym7GBv/XdGhPfVYnyyR+Ln6tlBxm5QsL6DgXivdhJ9df1SXlea9Aq1xkUeQBiqNLhahqWu9jYsqvwMhITGL8GpSSKJyOvUxANbpspPi8UoS+Vw5aOQpJdna61hjo7axSSN5ZDcfdWb4qQroPUOcOK42r0V2FQ6t+wWF4QMxAIyR+ZKIL6Nk/atXf2oTaTlo=;Sq1FJqh90as1pFB83LXCYA=="
 ---

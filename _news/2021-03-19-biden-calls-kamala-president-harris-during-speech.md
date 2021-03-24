@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration 'frustrated' by border crisis, Kamala Harris says"
+    excerpt: "Vice President Kamala Harris said she was \"frustrated\" about the situation at the U.S. southern border."
+    publishedDateTime: 2021-03-24T17:20:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfBysDPx3PQ/kamala-harris-biden-administration-frustrated-border-crisis-problem"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-administration-frustrated-border-crisis-problem.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-administration-frustrated-border-crisis-problem.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/HarrisTHUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden aides', Harris' gun control calls have included seizing 'assault weapons'"
     excerpt: "Vice President Harris and multiple top aides to President Biden previously said they support mandatory gun buybacks, which would force Americans to surrender certain types of firearms in exchange for monetary compensation. "
     publishedDateTime: 2021-03-24T13:06:05Z
@@ -825,6 +841,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/van-duyne.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris says Biden admin 'frustrated' by border crisis"
+    excerpt: "Vice President Kamala Harris said she was \"frustrated\" about the situation at the U.S. southern border as the number of migrant families and unaccompanied minors encountered by border agents grows. Harris said the administration had not had enough time to fix the situation in an interview with \"CBS This Morning\" on Wednesday."
+    publishedDateTime: 2021-03-24T17:22:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-biden-administration-frustrated-border-crisis-problem"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-administration-frustrated-border-crisis-problem.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-administration-frustrated-border-crisis-problem.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/HarrisTHUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Kamala Harris ignores question on Cuomo’s sexual misconduct scandal"
     excerpt: "Vice President Kamala Harris refused to comment on Gov. Andrew Cuomo’s mounting sexual misconduct scandal — despite previously swiftly condemning former Democratic Sen. Al Franken when"

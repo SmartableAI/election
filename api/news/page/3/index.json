@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-21-trump-will-use-his-own-platform-to-return-to-social-media-after-twitter-ban.md",
+      "title": "Trump will use 'his own platform’ to return to social media after Twitter ban",
+      "excerpt": "Last modified on Sun 21 Mar 2021 13.28 EDT Donald Trump will soon use “his own platform” to return to social media, an adviser said on Sunday, months after the former president was banned from Twitter for inciting the US Capitol riot. 'His new business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b8820e18168688651182ed377b8200453cd4ec97/0_67_3662_2198/master/3662.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddc69c23776ae3fcd0e41fb42a07b4da",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
+      "publishedDateTime": "2021-03-21T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-trump-returning-to-social-media-with-his-own-platform-in-2-3-months-adviser.md",
+      "title": "Trump returning to social media with 'his own platform' in 2-3 months: adviser",
+      "excerpt": "Former President Donald Trump will be back on social media in the near future with his own service, according to one of his senior advisers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bY37miIFR0o/trump-social-media-platform-return-adviser",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bY37miIFR0o/trump-social-media-platform-return-adviser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-social-media-platform-return-adviser.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-platform-return-adviser.amp",
+      "publishedDateTime": "2021-03-21T09:11:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-moncef-slaoui-trumps-vaccine-chief-very-concerned-about-gop-vaccine-hesitancy.md",
       "title": "Moncef Slaoui, Trump's vaccine chief, \"very concerned\" about GOP vaccine hesitancy",
       "excerpt": "the former scientific head of Operation Warp Speed during the Trump administration, said he's \"very concerned\" and perplexed by hesitancy among some Republicans to take COVID-19 vaccines, and encouraged former President Donald Trump and GOP leaders to ...",
@@ -66,7 +174,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1250,
+      "heat": 1270,
       "tags": null,
       "images": [
         {
@@ -556,7 +664,7 @@
       "originalUrl": "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2298,
+      "heat": 2338,
       "tags": null,
       "images": [
         {
@@ -1245,114 +1353,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-mary-trump-scoffs-at-idea-ex-presidents-children-will-run-for-office-they-have-no-skills.md",
-      "title": "Mary Trump Scoffs at Idea Ex-President's Children Will Run for Office: 'They Have No Skills'",
-      "excerpt": "Mary Trump, the niece of Donald Trump and a ferocious critic of her family, scoffed at the idea that the former president's children could become elected officials and said that \"they have no skills.\" Asked if they should run for office,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
-      "originalUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1759070/trump-family.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-scoffs-idea-ex-presidents-children-will-run-office-they-have-no-skills-1577409?amp=1",
-      "publishedDateTime": "2021-03-19T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-kevin-mccarthy-on-fox-friends-biden-border-crisis-now-becoming-human-tragedy.md",
-      "title": "Kevin McCarthy on 'Fox & Friends': Biden border crisis now becoming 'human tragedy'",
-      "excerpt": "The issues on the border go beyond a crisis to a \"human tragedy,\" House Minority Leader Kevin McCarthy, R-Calif., said on Friday, reacting to the Biden administration denying media access to migrant facilities.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
-      "publishedDateTime": "2021-03-19T07:29:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

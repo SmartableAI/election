@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-17-new-york-times-trump-pentagon-officials-delayed-promotions-of-female-generals-due-to-fear-over-trumps-reaction.md",
+      "title": "New York Times: Trump Pentagon officials delayed promotions of female generals due to fear over Trump's reaction",
+      "excerpt": "Promotions of two female generals were delayed by Pentagon officials until after the 2020 presidential election out of fear of \"turmoil\" from President Donald Trump's White House, The New York Times reported Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210217123321-us-army-gen-laura-richardson-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
+      "publishedDateTime": "2021-02-17T12:20:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-i-will-not-make-that-happen-biden-declines-democrats-call-to-cancel-50k-in-student-debt.md",
       "title": "'I will not make that happen': Biden declines Democrats' call to cancel $50K in student debt",
       "excerpt": "WASHINGTON — President Joe Biden said Tuesday that he would not eliminate $50,000 in student debt, shooting down a proposal that prominent Democrats introduced this month, but that he is open to ...",
@@ -1636,63 +1692,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-politico-playbook-pm-will-the-cbo-help-or-hurt-joe-biden.md",
-      "title": "POLITICO Playbook PM: Will the CBO help or hurt Joe Biden?",
-      "excerpt": "Gary Palmer … Lynda Blanchard THE POWER OF THE CBO — BARACK OBAMA grew so frustrated with the impact of Congressional Budget Office analyses of his health care plan in 2009 that he once banned his senior staffers from mentioning the CBO in meetings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/08/will-the-cbo-help-or-hurt-joe-biden-491680",
-      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/08/will-the-cbo-help-or-hurt-joe-biden-491680",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c4/d0/e419049d41c5b8e097e3d0f4bfc9/gettyimages-1301023935.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

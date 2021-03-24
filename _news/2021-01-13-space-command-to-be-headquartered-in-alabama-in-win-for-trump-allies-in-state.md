@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Missouri Senate race sees second Trump supporter, AG Eric Schmitt, jump in"
+    excerpt: "Showcasing his support for former President Trump and taking aim at President Biden, Missouri GOP Attorney General Eric Schmitt on Wednesday announced his candidacy in the 2022 race to succeed retiring Republican Sen. Roy Blunt."
+    publishedDateTime: 2021-03-24T16:23:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W4E6aAAUlLY/missouri-senate-race-ag-eric-schmitt"
+    ampWebUrl: "https://www.foxnews.com/politics/missouri-senate-race-ag-eric-schmitt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-senate-race-ag-eric-schmitt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump’s ambassador to Slovenia launches Senate bid in Alabama"
     excerpt: "Republican Lynda Blanchard is the first candidate to jump into the race to succeed longtime GOP Sen. Richard Shelby of Alabama."
     publishedDateTime: 2021-02-18T18:03:04Z
