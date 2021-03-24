@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's dogs are back at the White House "
+    excerpt: "Both of the President and first lady's dogs, Major and Champ, have returned to the White House after spending some time in Delaware following a biting incident involving Major, according to Jill Biden's press secretary Michael LaRosa.\n    \n"
+    publishedDateTime: 2021-03-24T11:57:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XX6sCUa5pIk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-dogs-back-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-dogs-back-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125093912-03-biden-dogs-white-house-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Man arrested outside Vice President Kamala Harris' official residence and had rifle and ammunition in car"
     excerpt: "Washington, DC, police arrested a Texas man outside Vice President Kamala Harris' official residence, the US Naval Observatory, in the nation's capital on Wednesday and he's now facing weapons and ammunition charges.\n    \n"
     publishedDateTime: 2021-03-17T22:43:53Z

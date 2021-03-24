@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americ
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americans/index.html"
 type: article
 quality: 173
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jennifer Garner to promote American Rescue Plan with Jill Biden in Alabama on Friday"
+    excerpt: "Actress Jennifer Garner will join first lady Jill Biden on Friday for a trip to Alabama as part of the Biden administration's \"Help is Here\" tour, promoting the American Rescue Plan.\n    \n"
+    publishedDateTime: 2021-03-24T02:21:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gobLk2-WCxs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/jennifer-garner-jill-biden-alabama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/jennifer-garner-jill-biden-alabama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323221903-jill-biden-jennifer-garner-split-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'I need every American to do their part,' says Biden, targeting the end of the pandemic"
     excerpt: "Fiction newsletter. Sign up here to receive the need-to-know headlines every weekday. (CNN)US President Joe Biden has pinned America's hopes of a return to normality on two key dates: May 1, by when he wants all adults to be eligible to get vaccines ..."
     publishedDateTime: 2021-03-12T12:30:00Z

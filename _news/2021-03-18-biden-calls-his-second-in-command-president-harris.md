@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp"
 type: article
 quality: 200
-heat: 1420
+heat: 1440
 published: true
 
 provider:
@@ -875,6 +875,22 @@ related:
     quality: 133
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b44d8898-b1c8-4c5b-a72d-83ccef285fcc/013259a8-9f4a-4146-8a94-070367bf7f9d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Boulder mass shooting victims identified, Biden calls for gun ban"
+    excerpt: "Authorities on Tuesday identified the 10 victims of the mass shooting at a grocery store in Boulder, as President Biden is expected to give remarks on the tragedy this afternoon."
+    publishedDateTime: 2021-03-24T01:06:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-boulder-mass-shooting-march-23-suspect-victims-biden"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-boulder-mass-shooting-march-23-suspect-victims-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-boulder-mass-shooting-march-23-suspect-victims-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65a7e990-79ff-4281-80b1-7ce6c372671f/10d0ce3c-eee5-4bec-aed9-7ea06f6bab64/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

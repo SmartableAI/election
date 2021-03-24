@@ -683,6 +683,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Hill's Morning Report - Biden leans heavily into gun control"
+    excerpt: "President Biden Joe Biden Good luck, Dan Bongino! The Hill's Morning Report - Biden's next act: Massive infrastructure plan with tax hikes Conservative group says polling shows Dems' voting rights ..."
+    publishedDateTime: 2021-03-24T10:29:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/544638-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/544638-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/544638-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-open_032421getty.jpg"
+        width: 580
+        height: 386
+        isCached: true
   - title: "U.S. senators want Biden to speed sanctions over Nord Stream 2 pipeline"
     excerpt: "Two senior U.S. Senate Democrats urged President Joe Biden's administration on Tuesday to make a full diplomatic push to stop the Nord Stream 2 natural gas pipeline from Russia to Europe, increasing pressure on the issue from members of his party."
     publishedDateTime: 2021-03-23T21:53:00Z
@@ -810,6 +826,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/joe-biden-m_hpMain_20210321-182421_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden family dogs Major and Champ are back at the White House after incident"
+    excerpt: "Michael LaRosa, first lady Jill Biden's spokesman, confirmed to USA TODAY in an email Wednesday that the dogs are \"at the White House,\" a week after President Joe Biden told \"Good Morning America,\" his pets would arrive back in Washington. The White ..."
+    publishedDateTime: 2021-03-24T10:36:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/03/24/biden-dogs-major-champ-back-white-house-after-incident/6978719002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6978719002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6978719002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/8953951b-8480-4aa9-bd02-06c6ebe10ae8-VPC_JILL_BIDEN_PSA_PUPPY_BOWL_DESK_THUMB.00_00_20_18.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden's make or break moment: president aims to build on success of relief bill"
     excerpt: "Kamala Harris, the vice-president, heaped praise on Joe Biden for signing a $1.9tn coronavirus relief bill, the biggest expansion of the American welfare state in decades. “Your empathy has become a trademark of your presidency and can be found on each ..."
@@ -1477,14 +1509,14 @@ related:
   - title: "Biden urges Congress to pass gun control laws..."
     excerpt: "Watch \"President Biden urges Congress to pass gun control laws following shootings in Boulder, Colorado and Atlanta, Georgia \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-03-24T00:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210324004914-president-biden-urges-congress-to-pass-gun-control-laws-following-shootings-in-boulder-colorado-and-atlanta-georgia/"
+    webUrl: "https://www.cbsnews.com/live/video/20210324104403-president-biden-urges-congress-to-pass-gun-control-laws-following-shootings-in-boulder-colorado-and-atlanta-georgia/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/24/story_09570767_1616547244.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/24/story_09575002_1616582884.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1558,6 +1590,20 @@ related:
       - url: "https://i.insider.com/605738f3cad7d300183f835d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "'It will save lives': Joe Biden calls for gun reform after Colorado shooting – video"
+    excerpt: "The US president called on lawmakers to toughen the country's gun laws, close the loopholes in the background checks system and ban assault weapon and high-capacity magazines"
+    publishedDateTime: 2021-03-24T09:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/24/save-lives-joe-biden-gun-reform-colorado-shooting-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/6648efc24e7ea2efc2448703ea317343faa277ef/0_267_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f13ff06d77b1f7c26485e062e6eecfa5"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Essential Politics: A Senate showdown builds as Biden takes a stand on filibusters and taxes"
     excerpt: "President Biden's comments on the filibuster and taxes as well as House votes on immigration all build toward a Senate showdown later this year."

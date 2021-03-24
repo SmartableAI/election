@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's heartfelt plea for gun control adds to daunting policy wish list"
+    excerpt: "Joe Biden's call for an assault weapons ban and a wave of other gun control measures adds a daunting new policy challenge to a progressive agenda that is already shaping up as the most ambitious by a Democratic president for decades.\n    \n"
+    publishedDateTime: 2021-03-24T10:20:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mLhYRiQWRjw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/joe-biden-gun-control-boulder-colorado-atlanta-shootings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/joe-biden-gun-control-boulder-colorado-atlanta-shootings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130042-02-biden-boulder-shooting-remarkes-0323-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden orders flags to be flown at half-staff in honor of Atlanta shooting victims"
     excerpt: "President Joe Biden has ordered the American flags at the White House and on other federal ground be flown at half-staff as \"a mark of respect for the victims of the senseless acts of violence\" in Atlanta this week.\n    \n"
     publishedDateTime: 2021-03-18T17:30:59Z

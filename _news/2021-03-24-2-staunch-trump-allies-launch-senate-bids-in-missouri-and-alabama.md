@@ -2,11 +2,11 @@
 category: news
 title: "2 staunch Trump allies launch Senate bids in Missouri and Alabama"
 excerpt: "Former Missouri Governor Eric Greitens and Alabama Representative Mo Brooks formally announced their Senate bids on Monday."
-publishedDateTime: 2021-03-23T19:06:00Z
-originalUrl: "https://www.cbsnews.com/news/eric-greitens-mo-brooks-senate-races-missouri-alabama/"
-webUrl: "https://www.cbsnews.com/news/eric-greitens-mo-brooks-senate-races-missouri-alabama/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/eric-greitens-mo-brooks-senate-races-missouri-alabama/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-greitens-mo-brooks-senate-races-missouri-alabama/"
+publishedDateTime: 2021-03-24T11:17:00Z
+originalUrl: "https://www.cbsnews.com/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/"
+webUrl: "https://www.cbsnews.com/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/"
 type: article
 quality: 125
 heat: 125
@@ -30,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "T9+bmWHK43KtqFQCnAUVFUoK7s25gZdR+Efu5FlJjrDwXudSbJ+7COFkkQV8ME/HuygwB2vbX+zVcGD6tRRugVudAxj8LDgD6UNawC9cCo+7SpVw4Bbg1iFcpRbiMePF3jHHCv4rWtTfWrcHq9W9ZypkymtOkt2grGwz1Ff57ql92szIrWuBsCcIgovFCPrktMhr739FZB+jfFMiuXWKt0F4jyGx5dpxfwLhd1uGxK8sefSTIG8Ff0ixAhSWFWv7hHvvdN05RCIaCdmw0Q2nAk+EZMPMBicpe/eRLWu3AHy6Cn56Q3ZSTkyV8U2UqoNpl11LZ9qwavJq77ivMWWvQsj9aVx20f+NsTMJqti7t35fwLttJ46vGprZqizSPEblpvIj+2cXzwBLH9DEgL1V5vqWpkDUhFOwZMmDCqL+Lre2cPsBIuMpfhDvQGCMQWTA2lOdGX322IqYYzj3AkMeKfe4m/4lm+fHvJsYoJV/7fRTjNGxPjyenwDyg+bBRnMkEJt1/kGBI9ZKaLR7GuuARQ==;jWemOpiKru3jE/UThqnmbQ=="
+secured: "wh5/l2jmhy48bevqAbd3hhx/zRCFfebBhxGtuMlv3q3tIExLiDN6ylH/wo2SfX53WFoe19pSoqJYnGVfelGjYfsWTxT0i6ePrKjWeHE5le7Ubl30mEcQeDr0OKsMpYpBrF5aKpbeKP7wq0r8wrxLofcAShwpFZbHbDUoPuusg/6fCjjl0T/8jJ7cITkguKPSdPDsN1pwFKpWR2g5HuMV6b3PURbOw5oLwP6eRqWH7AlC1KYJlkXeJOeLei3YMrX1SbXsvyGrVL99fLNJ4RcBNyD2rxNs7Hw1ZskuBsRawBRSJ+aVBwLOzSkk+vcqTmzef2stqCBGrRQ4L9xmdhHDL/kTSGJC5i84HRhjyyUmKRw=;X3g1jBnHUpHp0Ez+FS37Fw=="
 ---
 

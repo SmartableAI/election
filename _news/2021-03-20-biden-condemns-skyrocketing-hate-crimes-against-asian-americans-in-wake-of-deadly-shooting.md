@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's heartfelt plea for gun control adds to daunting policy wish list"
+    excerpt: "Joe Biden's call for an assault weapons ban and a wave of other gun control measures adds a daunting new policy challenge to a progressive agenda that is already shaping up as the most ambitious by a Democratic president for decades.\n    \n"
+    publishedDateTime: 2021-03-24T10:20:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mLhYRiQWRjw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/joe-biden-gun-control-boulder-colorado-atlanta-shootings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/joe-biden-gun-control-boulder-colorado-atlanta-shootings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130042-02-biden-boulder-shooting-remarkes-0323-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris condemns 'tragic' Atlanta shooting and expresses solidarity with Asian American community"
     excerpt: "Vice President Kamala Harris addressed the recent lethal shootings at a series of spas in the Atlanta area, marking her most formal remarks about the ongoing issue of violence against the Asian American community.\n    \n"
     publishedDateTime: 2021-03-17T15:48:34Z
