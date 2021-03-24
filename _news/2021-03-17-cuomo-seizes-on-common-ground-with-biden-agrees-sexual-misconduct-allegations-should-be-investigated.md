@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "VP Harris to speak at summit with ties to disgraced former Women's March leader"
+    excerpt: "Vice President Kamala Harris is scheduled to speak at a summit with ties to Tamika Mallory, who stepped down from The Women's March in 2019."
+    publishedDateTime: 2021-03-24T01:20:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cOfEZTedZnk/kamala-harris-tamika-mallory-black-womens-roundtable"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-tamika-mallory-black-womens-roundtable.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-tamika-mallory-black-womens-roundtable.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/GettyImages-1229432684.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Man arrested outside VP Harris' residence with rifle and ammunition, DC police say"
     excerpt: "Washington D.C. police arrested a man outside of Vice President Kamala Harris’ residence on Wednesday after authorities found a rifle and ammunition in his car."
     publishedDateTime: 2021-03-17T21:44:38Z
@@ -479,6 +495,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Mexico's president says Biden immigration policies prompting border surge"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador asserted suggested that the Biden administration’s immigration policies have contributed to a surge of migrants that has overwhelmed facilities at the southern border in recent weeks."
+    publishedDateTime: 2021-03-24T00:35:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G7xhM1u1NNk/mexicos-president-biden-immigration-policies-prompting-border-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/mexicos-president-biden-immigration-policies-prompting-border-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexicos-president-biden-immigration-policies-prompting-border-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/GettyImages-1231781757.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Sen. Cornyn says Biden administration is 'in denial' over the border crisis"
     excerpt: "Biden admin can't build enough housing for 'sea of humanity' crossing the border, Republican tells 'Your World'"
     publishedDateTime: 2021-03-18T22:58:46Z
@@ -606,6 +638,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "As Biden calls for gun ban, Manchin says he doesn't support background check legislation"
+    excerpt: "President Biden's calls for the Senate to pass aggressive background check bills and a ban on assault weapons face an uphill battle with a key Democrat already voicing disapproval."
+    publishedDateTime: 2021-03-24T00:27:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LOLiddIlEaw/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation"
+    ampWebUrl: "https://www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/JOE-MANCHIN-CROPPED.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
     excerpt: "President Joe Biden broke his silence on Governor Andrew Cuomo's mounting allegations of sexual misconduct on Sunday – but fell short of calling on the embattled New York Democrat to resign."

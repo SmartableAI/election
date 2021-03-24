@@ -655,6 +655,22 @@ related:
         width: 677
         height: 545
         isCached: true
+  - title: "Biden says 100 million relief checks to be distributed by Wednesday"
+    excerpt: "The Biden administration will have distributed 100 million relief checks by Wednesday as part of a $1.9 trillion coronavirus stimulus package, President Joe Biden said on Tuesday."
+    publishedDateTime: 2021-03-24T01:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2ZZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2ZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555951880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1N6"
+        width: 737
+        height: 545
+        isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
     publishedDateTime: 2021-03-14T14:12:00Z
@@ -672,11 +688,11 @@ related:
         height: 360
         isCached: true
   - title: "'My heart goes out,' Biden says on Colorado shooting, pushing gun control"
-    excerpt: "Renewed push for gun control For the second time in just a week, President Joe Biden has been forced to address a mass shooting around travel scheduled to promote his COVID relief plan ..."
+    excerpt: "Biden comments on Boulder mass shooting For the second time in just a week, President Joe Biden has been forced to address a mass shooting around travel scheduled to promote his COVID relief plan ..."
     publishedDateTime: 2021-03-23T22:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+    webUrl: "https://abcnews.go.com/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
     type: article
     provider:
       name: ABCNews

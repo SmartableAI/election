@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "‘Small’ crowd, including Trump supporters, greets Biden in Ohio: Report"
+    excerpt: "President Biden arrived to speak in Columbus, Ohio on Tuesday where a “small” crowd of supporters and protesters awaited his arrival, according to a local report.‘Small’ crowd of supporters, protesters greet Biden in Ohio: Report"
+    publishedDateTime: 2021-03-24T01:47:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Poub1EAaMVM/small-crowd-supporters-protesters-biden-ohio"
+    ampWebUrl: "https://www.foxnews.com/politics/small-crowd-supporters-protesters-biden-ohio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/small-crowd-supporters-protesters-biden-ohio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7c6cbd3-e71e-4b05-90e4-e76b256c377c/bc6920e9-8bcb-4f47-b5e5-cf4d146b3c0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Operation Warp Speed Doc: 90% of Biden vaccine rollout plan was same as Trump's"
     excerpt: "Slaoui pointed to the manufacturing, supply and distribution of the vaccine as being essentially the same as what Trump planned to do."
     publishedDateTime: 2021-03-21T16:17:10Z

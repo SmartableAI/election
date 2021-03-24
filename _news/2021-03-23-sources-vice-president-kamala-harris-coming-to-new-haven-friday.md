@@ -3,23 +3,23 @@ category: news
 title: "Sources: Vice President Kamala Harris coming to New Haven Friday"
 excerpt: "NEW HAVEN — Vice President Kamala Harris is expected to travel to New Haven Friday for a visit that will focus on how the administration’s coronavirus relief legislation helps children and child care providers, sources said Tuesday. U.S. Rep."
 publishedDateTime: 2021-03-23T15:46:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+originalUrl: "https://www.nhregister.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+webUrl: "https://www.nhregister.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/13/rawImage.jpg"
+  - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/23/rawImage.jpg"
     width: 2048
     height: 1365
     isCached: true
@@ -1328,6 +1328,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "A/s+GxHaMcdfbKGGG3qECGEQumE3Rt+qVTLwBOU5LlVsnqziJFFYoSCJPnTb9aKDkPNxYBCa2GMjQfEN1wb2ofhDN9mxm4QK1/73tXY4HF++aWkt3UnzgKVMU7qKny1CF42Xgz47x38odjIdr1AlI0+seoxy7/NQKC8GfW+PeqISydZjD0uZKAVABObBI2dUJMHejZo3eoOKQJ146PSDxLg3aD3oUCY5jszHJVES63+H8iaeAvU169EtAIhS8OgfafPeQjLi5lMCIlmeHFAoUnkjwksLBkQdoCYv02HwArufirp9sLLkd901deA3yiBXfbcAyUHZ8vIhdJqVJ9W5SeB/KSvXIE9IjQXJnbXN6USaBi7q5CC9qegsTS+XCEr4Lf+eoWttHYVUASkbaViEk/kpw4mF54m8+XMbfePqk5Dpy/VEWTW6eeK/1rnix4qU5HUh78MnOLsiNANsZeTxET4TXVvhppkeVHO0H+Fc3+9cPkdGwJhC6HSqDB7se0GFOOU6cDU+qpa57QmNWGp+Rg==;N7iKpiD8QhhWsgikpzPxDA=="
+secured: "qer2+EFO55wuWhZFoYK9cHfo5Yr/RErUFYO9EAkVoF3jb+rDPkgyTmL7FVaeFrW0GBQzfFv5xvXqu+9ohSkOY61F7LTAzcKLRT6wi1Wszc94+cQLoCa46JumlvO7ePGcy0lhAx1yUtHmbcYeVDKa11OOSIPsOg1IjXG+oULeNKIQNw7sslOJzcRIQrNH1o6Ms6Y3ZN4Z4XpqvdHPbN74OPni+7j4n2CMM6hr5n4/8OktnYYYlPm9SlMgRyopg5U0L+mLGO33bic1/c6BYsIvZ2KwXlPzwacXsZLyD87Sm7x/26cJfjJNBrr6QtbYSuss5kUonBWevqPY4sIsoGtiNcos9xuGBqV9KT8m2kODfYY=;IoIm7P+vyJ2GCGpENwozBQ=="
 ---
 

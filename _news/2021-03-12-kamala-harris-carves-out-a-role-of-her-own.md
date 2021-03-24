@@ -1267,14 +1267,14 @@ related:
   - title: "Sources: Vice President Kamala Harris coming to New Haven Friday"
     excerpt: "NEW HAVEN — Vice President Kamala Harris is expected to travel to New Haven Friday for a visit that will focus on how the administration’s coronavirus relief legislation helps children and child care providers, sources said Tuesday. U.S. Rep."
     publishedDateTime: 2021-03-23T15:46:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+    webUrl: "https://www.nhregister.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: New Haven Register
+      domain: nhregister.com
     quality: 55
     images:
-      - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/13/rawImage.jpg"
+      - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/23/rawImage.jpg"
         width: 2048
         height: 1365
         isCached: true

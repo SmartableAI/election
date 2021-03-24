@@ -1,12 +1,12 @@
 ---
 category: news
 title: "'My heart goes out,' Biden says on Colorado shooting, pushing gun control"
-excerpt: "Renewed push for gun control For the second time in just a week, President Joe Biden has been forced to address a mass shooting around travel scheduled to promote his COVID relief plan ..."
+excerpt: "Biden comments on Boulder mass shooting For the second time in just a week, President Joe Biden has been forced to address a mass shooting around travel scheduled to promote his COVID relief plan ..."
 publishedDateTime: 2021-03-23T22:08:00Z
-originalUrl: "https://abcnews.go.com/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
-webUrl: "https://abcnews.go.com/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/heart-biden-colorado-shooting-pushing-gun-control/story?id=76628730"
+originalUrl: "https://abcnews.go.com/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+webUrl: "https://abcnews.go.com/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
 type: article
 quality: 124
 heat: -1
@@ -653,6 +653,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555921380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M0MY"
         width: 677
+        height: 545
+        isCached: true
+  - title: "Biden says 100 million relief checks to be distributed by Wednesday"
+    excerpt: "The Biden administration will have distributed 100 million relief checks by Wednesday as part of a $1.9 trillion coronavirus stimulus package, President Joe Biden said on Tuesday."
+    publishedDateTime: 2021-03-24T01:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2ZZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2ZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555951880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1N6"
+        width: 737
         height: 545
         isCached: true
   - title: "Biden says ‘we have to act’ after Colorado mass shooting"
@@ -1539,6 +1555,6 @@ related:
         height: 224
         isCached: true
 
-secured: "WJGSLYGkQs0p262Rlz+P2Q1DmmLWZNuEv7q9DlSmbiaypRnSqEP4OfJ+CdaXijBqMH6NwR+jNvr4O98TArmfyTovAsFKmvW6XVDFbqNZIKX9mbDETm0p+30OSZGI+MNVj95QV65nmpWJ8v1SsUJC84VbhP5D2HFbJuRgm6JqsQj3LvwcheyOdB92BOLMgLf7QXNgAkC+0TAwrr1nof4Syc0iyPeX1d1mF1dy07IyuXbj9RYfdVHLSfLrmfCKTARlnGekUeQryHmpIjTK2d+BLszEcwoaXVhJ0gMR5KpNahRmigmHJ65PnLvRaQHox0Cbzed24MPe13/1Vh0MOIPF8tfx8zR6ZR70eIEMcTX5ulw=;Y+bDqt7UXxTTDbw6E7/keQ=="
+secured: "TqYpC5WWuQWST4y2j31wZu1cvmYe6r6JSvnYx762WzGcYjSsOPfphHgrPAaDCkIIp/PmdTJWvhhyGGCg8I5CiJnwjQGAw0Rap2NuZjb9DdcKlniErjbS9hD+AWZnQCaQadjqBWA1b26Jc5qMn+gWlWArov4yLSniSK2lPdHghDJCA1BO52mCZIfWAoJ8eDQjeF6dXWqsWW0zUWyMNHy8JrXDcilNPuqv5zffRylPEOAUCPaALqbBFh426RWfo0UIBz/vp314c7qDA4bKVfKdMySOboEruvB0xA9aE5ps2UaRg5L7eB/fvPxzruDjnhw7N9+pzGmNYx1eKDJAGGV4dlxhn1Od8vUH7V+blK4WV7U=;ThiBxSys6QnYYZix2mQVPg=="
 ---
 

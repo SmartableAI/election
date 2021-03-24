@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "‘Small’ crowd, including Trump supporters, greets Biden in Ohio: Report"
+    excerpt: "President Biden arrived to speak in Columbus, Ohio on Tuesday where a “small” crowd of supporters and protesters awaited his arrival, according to a local report.‘Small’ crowd of supporters, protesters greet Biden in Ohio: Report"
+    publishedDateTime: 2021-03-24T01:47:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Poub1EAaMVM/small-crowd-supporters-protesters-biden-ohio"
+    ampWebUrl: "https://www.foxnews.com/politics/small-crowd-supporters-protesters-biden-ohio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/small-crowd-supporters-protesters-biden-ohio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7c6cbd3-e71e-4b05-90e4-e76b256c377c/bc6920e9-8bcb-4f47-b5e5-cf4d146b3c0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden offers veiled criticism of Trump in visit to CDC, says 'science is back'"
     excerpt: "President Biden visited the Centers for Disease Control and Prevention in Georgia on Friday, touting health officials for having “changed things” in a way to “make everyone healthier\" amid the coronavirus pandemic. "
     publishedDateTime: 2021-03-19T19:49:54Z

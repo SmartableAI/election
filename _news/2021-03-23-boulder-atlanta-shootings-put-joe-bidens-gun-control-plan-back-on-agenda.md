@@ -1259,14 +1259,14 @@ related:
   - title: "Sources: Vice President Kamala Harris coming to New Haven Friday"
     excerpt: "NEW HAVEN — Vice President Kamala Harris is expected to travel to New Haven Friday for a visit that will focus on how the administration’s coronavirus relief legislation helps children and child care providers, sources said Tuesday. U.S. Rep."
     publishedDateTime: 2021-03-23T15:46:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
+    webUrl: "https://www.nhregister.com/news/article/Sources-Vice-President-Kamala-Harris-coming-to-16046707.php"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: New Haven Register
+      domain: nhregister.com
     quality: 55
     images:
-      - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/13/rawImage.jpg"
+      - url: "https://s.hdnux.com/photos/01/17/20/21/20776005/23/rawImage.jpg"
         width: 2048
         height: 1365
         isCached: true
@@ -1332,6 +1332,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "qOEAF0jPPkREVfF9oHKVAG+QUpK1ROpMdStvENjx+O6k1tjuCIJvbrCCPdh/H2ueqs/Qxv4FDr4bkFwztDCsU8dzNV2R05g67TMyM2M+5yyROw29VDxBwPbmE+ulqGtQhZrIfBJ2QZ8+4QKmCu1WTBd32NpkPjFVZ8VbNtVOoqIIJQCsdMBM9igK2qi9K0M2QT35LdUoHZ+wSyjghVsx2BN4PERHYbIBwgbNByWqjtH7oimBx4jW0iNYbp/SFXQS7FQKRsD/XrMRLE7WW7B5ye3GUEFl1JOrJVlHD//wl3j6W+jZ6yw+bOvfgBm3hwn+sIn8DKsN4Y7sbnSw0BDyo+oJPxw3LA+ocdjlm1f2mWc=;pFODUi0KKNoAgOkBVkUNYw=="
+secured: "/ic69sW8DeN5aGKrpkZPBOQEh6L3TbCt1/ehFSBZW8q886FdJCGgBeDlX+INThBTfIOyv6wDR64ZE18koym6yMZO3GuAPbWjD1gHMWjj5RyWsSkiKtaYn2yECk8w3g22/s3b4rL7N6j7X4Fz4J4/ojVPh2MmvbjqON0kJNHHk0mw81DjcmK+GKg9Hqmg82pQ0wToCCbQt6ENn4r8xHULSHdI9KqBUE3byqIE60LMf+wapcNfPhkHwpvx8iyDqUwcLa0hjtDfaAI4t5AHIQ578mEbyB82KSSWSN2VqFu8cdSJQO41Rum5V0naLQ5LVyNI5x5SZdyvWL7Tzvk9HbHj71VsgDZxv4xMX3+4JpQo/Gf8GNZao3lrdHLtH3tgvqrPkJngmUhQi3J2fJ2sn3g8PTZhO+Cd2YdyhCP13/IkqHnPttciGGOJ/oPEWlbBk+pmIYvh/aAiNUgX6/bJbIwPQRyFrBNOfz1K+jeb0dk0Gf6VQ1Joc2BLcsbtR32ChsPqbTd4SWSnyygXonn4YQq3Cg==;Z7/JFyVV/c5OHNX7MYvmTg=="
 ---
 
