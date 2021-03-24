@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "VP Kamala Harris admits there is a ‘huge problem’ on southern border"
+    excerpt: "Vice President Harris admitted Wednesday that the border is facing “a huge problem,” keeping in step with the White House’s repeated refusal to call the out of control surge of"
+    publishedDateTime: 2021-03-24T15:04:00Z
+    webUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/"
+    ampWebUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "1wxLRcTZIyuxCqbbN3obgb68JvfDg4gBBEdcn9V1hHGaAP4GwbKipChvl0GAXdQgk9yeWEOMPJdXZi5PSzvQydugYnmI1OIykt+h7N5TaZpx3k3gfm+RP//Ff/n5DAxRUQvIcVBcIjokyA64qPNDalUzyVIn9rE5iQrRN3BIyJD1Ilj+VpeL4kEw9MRamr5svzO2JFJ/OH0btoWau4QNL3KtoNyH/y2bapIxxtAF1IjpLCMYiYxk3RPfh5JvaaRHKcCLbk5qzcbDh2xXV6h8+IMx6Uw8qBF7Rsl5I9dCHpQpQlMt8z0b/a/bSev0r61MfsdmGLBMx09c0mBiS6/m7t9xco0xe4T3O2fT5kmtfcA=;GVa3dcJD/bXWtL9Mu7GHTg=="
 ---

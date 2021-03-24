@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-19-florida-ex-sen-bill-nelson-to-be-tapped-by-biden-for-nasa-administrator.md",
+      "title": "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator",
+      "excerpt": "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp",
+      "publishedDateTime": "2021-03-19T05:51:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-ex-wife-of-trump-org-executive-has-spoken-to-investigators-multiple-times.md",
       "title": "Ex-wife of Trump Org executive has spoken to investigators 'multiple times'",
       "excerpt": "Jennifer Weisselberg said it appears investigators have been seeking information about her former father-in-law, Allen Weisselberg, the company’s CFO.",
@@ -344,7 +400,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 230,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -512,7 +568,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1460,
+      "heat": 1500,
       "tags": null,
       "images": [
         {
@@ -625,7 +681,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1294,62 +1350,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-navarro-top-biden-admin-officials-compromised-by-china-urges-president-to-stand-strong-against-beijing.md",
-      "title": "Navarro: Top Biden admin officials 'compromised' by China, urges president to 'stand strong' against Beijing",
-      "excerpt": "More than 20 top officials in the Biden administration are \"\"compromised in some way ... by the Chinese Communist Party,\" former White House trade adviser Peter Navarro told \"Fox News Primetime\" Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mpCOiwPL30w/peter-navarro-biden-officials-compromised-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mpCOiwPL30w/peter-navarro-biden-officials-compromised-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/peter-navarro-biden-officials-compromised-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/peter-navarro-biden-officials-compromised-china.amp",
-      "publishedDateTime": "2021-03-17T17:52:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

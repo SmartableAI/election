@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-tru
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/"
 type: article
 quality: 119
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Trump vaccine leader Moncef Slaoui accused of sexual misconduct, removed from medical company board"
+    excerpt: "GlaxoSmithKline's chief executive officer said in an email to the company’s employees that Slaoui’s name would be removed from its research and development facility in Rockville, Md."
+    publishedDateTime: 2021-03-24T14:43:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/03/24/slaoui-glaxosmithkline-sexual-harassement/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/03/24/slaoui-glaxosmithkline-sexual-harassement/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/24/slaoui-glaxosmithkline-sexual-harassement/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M6LFMPEW4II6VB5DELJSII2WGY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "RXrgKTTAZcGuuhWjHvHTSBd7Due32GXCj3QFZ9uA1bA6OfAqaf6Wy44yHAUSiDpJEoaM50yrTixvOe2kLro+lfAFcDSqaUD+mhYQrQcKRYb1O8OgHoi73rs3mmFxWDronN1REPUKlu1LU59oTKLP+VYAk8UnIfh4y/U+VBrQbPqReMtiskxCFYyS70a9R4+pog8T0uAepnXPLSx2F+upS3g97wbFawvmdS7H/D34KPN7MH4nG6Q34OIBcBpHlBbU4H8lOyEJ5Rm07YndEdIZNwYrM1rgNcRrm8fPvYzcgqSUe6y6qd3avlxaxI6pUFVtJOBfCUcvUX3ytgE/LPn3b2CR5d+o5MzbS+Vw0wpKWD+1Vd2Vlk//3wXxOkVqguCKuaGfa2IFiVssFe3bTzE6dcE/ZkL/K/+Ky0qkDIgIUP0/TBRkLqvNQHvn4ozYhiELZOfP4WF1THUy245AvEhxsYeLeLJTCZtNYB5X/fTKoqa9NkPzkKlOzU88SprNY+0TgCSkxUWIVYTXQBvHGmjGHQ==;wYx3H0XrHsp8XzFscDKZ4A=="
 ---

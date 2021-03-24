@@ -91,6 +91,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris, Bill Clinton to hold discussion on women empowerment, sparking #MeToo concerns"
+    excerpt: "Vice President Kamala Harris will join former President Bill Clinton for a discussion about “empowering women and girls” Friday, the Clinton Foundation announced."
+    publishedDateTime: 2021-03-24T15:15:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 64
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/24/Harris_95658.jpg-862a7_c0-146-3501-2188_s1200x700.jpg?48b26a44ee0afff558bd6bd8148cd126de8be506"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "5-year-old girl shows off Kamala Harris' project while during vice president's Jacksonville visit"
     excerpt: "The girl made the sign as part of a school project during Black History Month. JACKSONVILLE, Fla. — As Vice President Kamala Harris toured the Gateway Mall COVID-19 vaccination site, 30 to 40 people stood outside to show their support for the vice president."
     publishedDateTime: 2021-03-23T01:46:00Z

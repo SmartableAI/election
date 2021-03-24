@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-21-moncef-slaoui-trumps-vaccine-chief-very-concerned-about-gop-vaccine-hesitancy.md",
+      "title": "Moncef Slaoui, Trump's vaccine chief, \"very concerned\" about GOP vaccine hesitancy",
+      "excerpt": "the former scientific head of Operation Warp Speed during the Trump administration, said he's \"very concerned\" and perplexed by hesitancy among some Republicans to take COVID-19 vaccines, and encouraged former President Donald Trump and GOP leaders to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "originalUrl": "https://www.cbsnews.com/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/21/ba6799a6-7b65-4da7-984d-2a4c936daaab/thumbnail/1200x630/ecff0ddb891220417838e9230d224413/moncef2.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "publishedDateTime": "2021-03-21T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-mayorkas-blames-migrant-surge-on-trump-admin-not-biden-policies.md",
       "title": "Mayorkas blames migrant surge on Trump admin, not Biden policies",
       "excerpt": "Secretary of Homeland Security Alejandro Mayorkas has claimed that the number of people looking to enter the U.S. at the sourthern border could be the highest in 20 years, but in an interview with \"Fox News Sunday\" he claimed that this is because of the Trump administration's actions, not policy changes",
@@ -1277,62 +1329,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
       "publishedDateTime": "2021-03-19T07:29:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-florida-ex-sen-bill-nelson-to-be-tapped-by-biden-for-nasa-administrator.md",
-      "title": "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator",
-      "excerpt": "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp",
-      "publishedDateTime": "2021-03-19T05:51:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

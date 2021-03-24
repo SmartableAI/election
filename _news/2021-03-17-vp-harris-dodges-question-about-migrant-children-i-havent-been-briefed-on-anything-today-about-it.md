@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Kamala Harris admits there is a ‘huge problem’ on southern border"
+    excerpt: "Vice President Harris admitted Wednesday that the border is facing “a huge problem,” keeping in step with the White House’s repeated refusal to call the out of control surge of"
+    publishedDateTime: 2021-03-24T15:04:00Z
+    webUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/"
+    ampWebUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'"
     excerpt: "Vice President Kamala Harris laughed while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis. While taking questions from reporters outside of Air Force One, Harris was asked if ..."
     publishedDateTime: 2021-03-22T22:48:00Z

@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-24-biden-transition-received-donations-from-george-soros-hollywood-celebrities.md",
+      "title": "Biden transition received donations from George Soros, Hollywood celebrities",
+      "excerpt": "President Biden’s transition team raised more than $20 million, including contributions from renowned business moguls and staples in the Hollywood celebrity circuit.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/je7Ge0ePhFI/biden-transition-donors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/je7Ge0ePhFI/biden-transition-donors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T16:14:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-biden-and-trudeau-stress-us-canadian-bonds-in-virtual-meeting.md",
       "title": "Biden and Trudeau stress US-Canadian bonds in virtual meeting",
       "excerpt": "When President Joe Biden welcomes his Canadian counterpart to the White House on Tuesday to \"reinvigorate\" a cross-border relationship strained under his predecessor, he will do so by addressing a large television monitor.\n    \n",
@@ -1322,62 +1378,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-garland-says-doj-would-advance-bidens-pro-gun-control-policies.md",
-      "title": "Garland says DOJ would ‘advance’ Biden’s pro-gun control policies",
-      "excerpt": "Merrick Garland, President Biden’s nominee for attorney general, signaled Monday that the Justice Department under his leadership would “advance” the policies of the Biden administration on gun control.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSSyOROK0w/garland-doj-would-advance-bidens-gun-control-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSSyOROK0w/garland-doj-would-advance-bidens-gun-control-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c25e528-ef62-414a-9729-19aefc9f27dd/26fcebe6-799e-46dd-a7b3-498d2337ea25/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/garland-doj-would-advance-bidens-gun-control-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-doj-would-advance-bidens-gun-control-policies.amp",
-      "publishedDateTime": "2021-02-22T09:59:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

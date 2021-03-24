@@ -91,6 +91,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris, Bill Clinton to hold discussion on women empowerment, sparking #MeToo concerns"
+    excerpt: "Vice President Kamala Harris will join former President Bill Clinton for a discussion about “empowering women and girls” Friday, the Clinton Foundation announced."
+    publishedDateTime: 2021-03-24T15:15:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 64
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/24/Harris_95658.jpg-862a7_c0-146-3501-2188_s1200x700.jpg?48b26a44ee0afff558bd6bd8148cd126de8be506"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Vice President Kamala Harris will visit Connecticut Friday to promote coronavirus stimulus plan"
     excerpt: "Vice President Kamala Harris will come to Connecticut this week to promote the administration’s $1.9 trillion “American Rescue Plan,” her office confirmed Tuesday. Harris will appear in New Haven on Friday with Reps. Rosa DeLauro and Jahana Hayes."
     publishedDateTime: 2021-03-23T12:34:00Z

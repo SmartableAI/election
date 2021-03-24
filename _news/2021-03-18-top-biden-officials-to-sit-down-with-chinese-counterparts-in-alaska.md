@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-alaska-meetings/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210320104952-biden-border-transparency-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Regular Joes: Biden and Manchin, whose old relationship faces new test"
+    excerpt: "When President Barack Obama was in office and the White House needed to reach Sen. Joe Manchin, one person was always tasked with making the call: then-Vice President Joe Biden.\n    \n"
+    publishedDateTime: 2021-03-24T14:45:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pT2foDpWbFg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/joe-manchin-joe-biden-democrat-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/joe-manchin-joe-biden-democrat-agenda/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324100556-manchin-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-12-alex-jones-allegedly-threatened-to-throw-trump-rally-organizer-off-a-stage.md",
+      "title": "Alex Jones allegedly threatened to throw Trump rally organizer off a stage",
+      "excerpt": "Police in Washington, DC, are investigating an allegation that conspiracy theorist Alex Jones threatened to push a pro-Trump political organizer off of an event stage in December, according to people familiar with the incident.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jMozUEzlxs8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jMozUEzlxs8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312163200-alex-jones-200418-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/12/politics/alex-jones-police-investigation-invs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/alex-jones-police-investigation-invs/index.html",
+      "publishedDateTime": "2021-03-12T15:01:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-dem-new-mexico-gov-grisham-concerned-with-bidens-energy-agenda-doesnt-make-any-sense.md",
       "title": "Dem New Mexico Gov. Grisham concerned with Biden's energy agenda: 'Doesn't make any sense'",
       "excerpt": "New Mexico Democratic Gov. Michelle Lujan Grisham said during Wednesday's event that President Biden's moratorium pausing oil and gas leasing on federal lands \"hurts New Mexico.\"",
@@ -1281,62 +1337,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response.amp",
       "publishedDateTime": "2021-03-11T12:13:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-mcconnell-trashes-bidens-covid-relief-package-as-multitrillion-dollar-trojan-horse.md",
-      "title": "McConnell trashes Biden's COVID relief package as 'multitrillion-dollar Trojan horse'",
-      "excerpt": "Senate Republican leader Mitch McConnell is lambasting President Biden's $1.9 trillion COVID relief package that Democrats passed through Congress along party-line votes as \"a multitrillion-dollar Trojan horse.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2t84hFapu0k/mcconnell-biden-covid-relief-package",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2t84hFapu0k/mcconnell-biden-covid-relief-package",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp",
-      "publishedDateTime": "2021-03-11T10:52:25-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

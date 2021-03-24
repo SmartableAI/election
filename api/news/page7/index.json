@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-15-jason-miller-trump-said-meghan-was-no-good.md",
+      "title": "Jason Miller: Trump said Meghan was 'no good'",
+      "excerpt": "Jason Miller, who served as a senior adviser to former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good",
+      "originalUrl": "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp",
+      "publishedDateTime": "2021-03-15T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-police-chief-art-acevedo-outspoken-against-trump-leaves-houston-for-miami.md",
       "title": "Police Chief Art Acevedo, Outspoken Against Trump, Leaves Houston For Miami",
       "excerpt": "Acevedo has defied both a governor and a president, but he has walked arm-in-arm with protestors. Now he will lead the Miami police.",
@@ -1299,62 +1351,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-alex-jones-allegedly-threatened-to-throw-trump-rally-organizer-off-a-stage.md",
-      "title": "Alex Jones allegedly threatened to throw Trump rally organizer off a stage",
-      "excerpt": "Police in Washington, DC, are investigating an allegation that conspiracy theorist Alex Jones threatened to push a pro-Trump political organizer off of an event stage in December, according to people familiar with the incident.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jMozUEzlxs8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jMozUEzlxs8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312163200-alex-jones-200418-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/12/politics/alex-jones-police-investigation-invs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/alex-jones-police-investigation-invs/index.html",
-      "publishedDateTime": "2021-03-12T15:01:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Arizona mayor tells 'Fox & Friends' why Biden border crisis forced town to declare state of emergency"
+    excerpt: "Gila Bend, Arizona mayor, Chris Riggs, said Wednesday that he has declared a state of emergency in response to the Biden administration's border crisis. "
+    publishedDateTime: 2021-03-24T14:18:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ieLVK4EtYZU/arizona-mayor-state-of-emergency-biden-border-crisis-friends"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-mayor-state-of-emergency-biden-border-crisis-friends.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-mayor-state-of-emergency-biden-border-crisis-friends.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1759293-480f-4704-8fac-36a08c7f069f/ca059292-ab7a-47b0-91ac-560bdc1ab506/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "2eGpiqtgYBZOv6+6UWq63wrarSOpNe2xRPmy0SLkV/PgcfKc9Qlc8F3i3zvrUeRRzipkXexEUZGHgY33dYIgE6ELCq8mttf9rFwbnddfEZPKOVq95xqMAb+nK6kPqpwCDQ9C1pNQJw9yVsv+OaBv1pyYklk1q2Rbl15lsBxsMNngmpfrqFS/DXJd17ZL5j+B9LbUwmLi9iFyUoQ9gZ+ToaS8hCV7arwXCSJfoSrq0+qiHMxLPpFQvYep17ShLX60aK0B1CnvtIlE9n6t1EhqhBmd4CKlwSTbTLkUsZlBsrvIE+z02U4EmScGm0u/RJb0GQu73pK8ZuWetXIm8D3dBM9nP8TxJEbhB0NIzR/yHHw=;2sMbgaSoPgTZqO1FTRWeCA=="
 ---

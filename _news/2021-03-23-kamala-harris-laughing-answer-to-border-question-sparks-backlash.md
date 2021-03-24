@@ -160,6 +160,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Harris defends Biden Cabinet after criticism over lack of Asian Americans: 'Still more work to be done'"
+    excerpt: "Vice President Kamala Harris is highligting the historic diversity of President Biden's Cabinet but acknowledges that there's \"still more work to be done.\""
+    publishedDateTime: 2021-03-24T15:03:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2-EPIQ2Ioh0/harris-defends-biden-cabinet-criticism-lack-of-asian-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-defends-biden-cabinet-criticism-lack-of-asian-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-defends-biden-cabinet-criticism-lack-of-asian-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden, Harris refuse to call for Cuomo to resign as governor's support collapses in New York, nationwide"
     excerpt: "President Biden and Vice President Kamala Harris are not calling for New York Gov. Andrew Cuomo to resign even as a growing number of New York and national Democrats say it's time for the scandal-ridden governor to step down."
     publishedDateTime: 2021-03-15T11:33:14Z
@@ -173,6 +189,22 @@ related:
     quality: 183
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House officials to visit Texas border facility, as Biden, Harris take heat for not yet making trip"
+    excerpt: "White House officials are joining a congressional delegation on Wednesday to visit a migrant facility on the U.S. southern border, as President Biden and Vice President Harris come under heightened scrutiny for not yet making the trip as the administration handles a surge of migrants crossing into the"
+    publishedDateTime: 2021-03-24T15:29:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mhhFr0KrlE/white-house-officials-border-facility-visit-biden-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-officials-border-facility-visit-biden-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-officials-border-facility-visit-biden-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

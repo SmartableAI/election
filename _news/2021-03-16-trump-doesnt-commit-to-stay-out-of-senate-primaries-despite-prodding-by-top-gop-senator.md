@@ -303,6 +303,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Capitol riot suspects ramped up donations to Trump after his election defeat"
+    excerpt: "After President Donald Trump lost his re-election campaign, he immediately began asking his supporters for money, a plea that he insisted was necessary to bankroll his fight built on the false claim that the election was stolen through rampant fraud."
+    publishedDateTime: 2021-03-24T14:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/capitol-riot-suspects-ramped-donations-trump-after-his-election-defeat-n1261431"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261431"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261431"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3441346/210111-trump-capitol-protest-ew-547p_ad98824b86dc473d7e104a9689015034.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Intelligence report contradicts claims by Trump and his team on China election interference"
     excerpt: "Washington (CNN)The US intelligence report released Tuesday detailing foreign election interference in the 2020 election contradicts repeated statements from former President Donald Trump and senior members of his administration that China -- and not ..."
     publishedDateTime: 2021-03-17T20:29:00Z
