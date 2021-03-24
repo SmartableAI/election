@@ -2,6 +2,157 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-12-vice-president-kamala-harris-to-deliver-special-remarks-during-nickelodeons-kids-choice-awards-2021.md",
+      "title": "Vice President Kamala Harris to Deliver Special Remarks During Nickelodeon’s Kids’ Choice Awards 2021",
+      "excerpt": "Vice President Kamala Harris will deliver special remarks during the Nickelodeon’s Kids Choice Awards 2021 on Saturday, March 13, at 7:30 p.m. (ET/PT). The Vice President, who will be introduced by actress Jennifer Garner, is set to appear as part of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/entertainment-award-shows-justin-bieber-north-america-daryl-dragon-8cd9fe50082e4475903537ec4f2506fa",
+      "originalUrl": "https://apnews.com/press-release/business-wire/entertainment-award-shows-justin-bieber-north-america-daryl-dragon-8cd9fe50082e4475903537ec4f2506fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-chris-miller-defense-secretary-on-jan-6-sees-cause-and-effect-between-trumps-words-and-capitol-riot.md",
+      "title": "Chris Miller, defense secretary on Jan. 6, sees 'cause and effect' between Trump's words and Capitol riot",
+      "excerpt": "The top official in charge of the Pentagon and America's defenses when rioters stormed the U.S. Capitol on Jan. 6 said he believes there was direct \"cause-and-effect\" between then-President Donald Trump's words and the actions of the insurrectionist mob.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/12/chris-miller-pentagon-chief-trump-caused-capitol-riot/4661721001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/12/chris-miller-pentagon-chief-trump-caused-capitol-riot/4661721001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/12/USAT/599b80bb-094c-4e05-8b72-0c00e23a4fbf-GettyImages-1285497255.jpg?auto=webp&crop=5980,3364,x0,y123&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4661721001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4661721001",
+      "publishedDateTime": "2021-03-12T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-manhattan-district-attorney-cy-vance-who-sought-trumps-tax-returns-to-retire.md",
+      "title": "Manhattan District Attorney Cy Vance, who sought Trump's tax returns, to retire",
+      "excerpt": "Manhattan District Attorney Cyrus Vance Jr., a longtime foe of former President Donald Trump, will not run for re-election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/DAVance1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
+      "publishedDateTime": "2021-03-12T05:17:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-cyrus-vance-prosecutor-investigating-trump-wont-seek-reelection.md",
       "title": "Cyrus Vance, prosecutor investigating Trump, won't seek reelection",
       "excerpt": "Vance's most high-profile current case is a wide-ranging criminal investigation of former President Donald Trump. The investigation initially targeted alleged hush-money payments made during the 2016 campaign to adult film star Stormy Daniels by Mr. Trump ...",
@@ -1206,166 +1357,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-trump-takes-credit-for-china-virus-vaccine-i-hope-everyone-remembers.md",
-      "title": "Trump takes credit for 'china virus' vaccine: 'I hope everyone remembers!'",
-      "excerpt": "Former President Trump touted his administration's efforts obtaining a COVID-19 vaccine, arguing that without him, Americans wouldn't receive a vaccine for years.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ksY3yrEySWo/trump-takes-credit-vaccine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ksY3yrEySWo/trump-takes-credit-vaccine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6114d9a-f847-43c3-a7ad-38b44749138c/da7bcf3d-f970-4418-948f-6904dfa22813/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-takes-credit-vaccine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-takes-credit-vaccine.amp",
-      "publishedDateTime": "2021-03-10T17:04:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-manchin-on-his-veto-power-over-biden-agenda-its-not-a-good-place-to-be.md",
-      "title": "Manchin on his veto power over Biden agenda: 'It's not a good place to be'",
-      "excerpt": "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bjE6jWbXzE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bjE6jWbXzE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html",
-      "publishedDateTime": "2021-03-10T16:49:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-gillibrand-quick-to-call-out-franken-kavanaugh-clinton-trump-but-not-cuomo.md",
-      "title": "Gillibrand quick to call out Franken, Kavanaugh, Clinton, Trump — but not Cuomo",
-      "excerpt": "Sen. Kirsten Gillibrand — who led the charge resulting in former Minnesota Sen. Al Franken’s resignation over sexual misconduct claims — still says it’s not the time to call for",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
-      "originalUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/Kristen-GillibrandArticle.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
-      "publishedDateTime": "2021-03-10T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

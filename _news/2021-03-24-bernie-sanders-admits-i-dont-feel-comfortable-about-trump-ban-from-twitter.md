@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump coy about social media comeback but says Twitter did him ‘a favor’"
-    excerpt: "Former President Donald Trump on Monday declined to confirm reports that he’s poised to make a social media comeback, but said that in the meantime, he’s enjoying emailed press"
-    publishedDateTime: 2021-03-23T01:30:00Z
-    webUrl: "https://nypost.com/2021/03/22/trump-coy-about-social-media-comeback-says-twitter-did-him-a-favor/"
-    ampWebUrl: "https://nypost.com/2021/03/22/trump-coy-about-social-media-comeback-says-twitter-did-him-a-favor/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-coy-about-social-media-comeback-says-twitter-did-him-a-favor/amp/"
+  - title: "Bernie Sanders not ‘comfortable’ with Trump Twitter ban"
+    excerpt: "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political"
+    publishedDateTime: 2021-03-24T01:38:00Z
+    webUrl: "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/"
+    ampWebUrl: "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-returns-to-social-media-index.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/sanders-on-trump-twitter-ban-882.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

@@ -1167,6 +1167,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – as it happened"
+    excerpt: "President also urges Senate to pass bills that would close loopholes in background checks system"
+    publishedDateTime: 2021-03-24T00:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a53438f08ca309c20649e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden says U.S. will meet goal of administering 100 million shots in his first 100 days on Friday"
     excerpt: "Biden: U.S. will reach vaccine goal weeks ear... 05:23 President Biden announced Thursday that the U.S. will reach his goal of 100 million shots in his first 100 days on Friday, 58 days into his administration. \"That's weeks ahead of schedule,\" Mr. Biden ..."
     publishedDateTime: 2021-03-19T01:08:00Z

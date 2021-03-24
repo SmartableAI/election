@@ -135,6 +135,20 @@ related:
         width: 650
         height: 432
         isCached: true
+  - title: "WATCH: Vice President Kamala Harris Under Fire For Failing to Salute Honor Guard Before Boarding Air Force Two"
+    excerpt: "Vice President Kamala Harris is facing criticism for appearing to break with precedent and failing to salute the honor guard when boarding Air Force Two. Video reviewed by Fox News showed that her predecessors,"
+    publishedDateTime: 2021-03-24T04:00:00Z
+    webUrl: "https://spacecoastdaily.com/2021/03/watch-vice-president-kamala-harris-under-fire-for-failing-to-salute-honor-guard-before-boarding-air-force-two/"
+    type: article
+    provider:
+      name: Space Coast Daily
+      domain: spacecoastdaily.com
+    quality: 35
+    images:
+      - url: "https://spacecoastdaily.com/wp-content/uploads/2021/03/Kamala-Harris-Failure-to-Salute-Honor-Guard.jpg"
+        width: 600
+        height: 331
+        isCached: true
 
 secured: "zgWQ6WR1U7sUjYErHcy4XZSOFL7RoFRbTiKRMh6gAXLyHOhcojll3XXNwp38EHVWytx3QI5quSLKrV1RaPsdNzjmQhc2pCL7EZsWtN967ON/9lRk3FDbYZu+E2f+syC27lsB+lOTd97/IyvrTI3SCcNaZ+aIHUySY+B7Lp4gP0PaBFDHYTu/BYBDVdot0E0Y1HjT+sHFSaBAz+bj0WbRzsye96Mt7/fP0fuASdzoT+STrnke41rg3trdN1if6g42NU4Z43k1+xHEhqFje/iScj2ZU3W9laT3UFftRMwN68dN85gNWZEQG2BtAwLGY6u5QFIL+BxEEZkjsi8il9Zd/2dzZomlNChmuBNj+hXUXDiaJHY6yw3iZ5gWdlTo83xcOG3N1tNfX//x6IO4mohBaCCp13IfnR/QjtfQd5q6lu1p2ZX48M5GtNwdjEppdjPPYd4xvQXP0RxWz7HZaqppmwjjlWt+hxzzQaGrByJnrtTcVyalN08EvxUD/hnJ+octnCu0SUCkyU+Gg5KC/Ctz2w==;UKJ/aHN6j7bxX0XVRSZKmQ=="
 ---

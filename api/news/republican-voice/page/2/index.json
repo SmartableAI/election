@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-18-army-wont-restore-medals-to-mathew-golsteyn-who-was-pardoned-by-trump.md",
+      "title": "Army won’t restore medals to Mathew Golsteyn, who was pardoned by Trump",
+      "excerpt": "The US Army has reportedly denied a request to return medals of valor to a retired major accused of murder in Afghanistan who was pardoned by former President Donald Trump. Retired Maj. Mathew",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/",
+      "originalUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/Vigilante-Green-Beret.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/amp/",
+      "publishedDateTime": "2021-03-18T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-texas-congressman-ex-sheriff-rips-no-borders-biden-for-continuing-to-deny-crisis.md",
+      "title": "Texas congressman, ex-sheriff rips 'no-borders Biden' for continuing to deny crisis",
+      "excerpt": "The Biden administration continues to ignore the crisis at the border while the migrant surge worsens, Rep. Troy Nehls told \"Fox & Friends.\"'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIAhOXancSs/texas-congressman-nehls-no-borders-biden-deny-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIAhOXancSs/texas-congressman-nehls-no-borders-biden-deny-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp",
+      "publishedDateTime": "2021-03-18T06:45:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-biden-pandering-to-coastal-elite-friends-with-keystone-pipeline-shutdown-montana-ag.md",
       "title": "Biden 'pandering to coastal elite friends' with Keystone pipeline shutdown: Montana AG",
       "excerpt": "Montana Attorney General Austin Knudsen said Thursday that President Biden's shutdown of the Keystone pipeline is really just \"pandering to his coastal elite friends.\"",
@@ -1532,118 +1636,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp",
       "publishedDateTime": "2021-03-12T11:21:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-manhattan-district-attorney-cy-vance-who-sought-trumps-tax-returns-to-retire.md",
-      "title": "Manhattan District Attorney Cy Vance, who sought Trump's tax returns, to retire",
-      "excerpt": "Manhattan District Attorney Cyrus Vance Jr., a longtime foe of former President Donald Trump, will not run for re-election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/DAVance1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
-      "publishedDateTime": "2021-03-12T05:17:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-biden-and-leaders-of-japan-australia-india-to-unveil-plans-to-boost-coronavirus-vaccine-production.md",
-      "title": "Biden and leaders of Japan, Australia, India to unveil plans to boost coronavirus vaccine production",
-      "excerpt": "President Biden and other leaders of nations in the \"Quad\" alliance will unveil an agreement to ramp up production of coronavirus vaccines in Southeast Asia in a first-of-its-kind virtual meeting Friday, according to senior administration officials with knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3aWQAGGEbE/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3aWQAGGEbE/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7acab5e-b008-41de-bc5f-595cc76dc02e/e95ab723-09b5-472b-9196-51d50716a162/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit.amp",
-      "publishedDateTime": "2021-03-12T02:03:02-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

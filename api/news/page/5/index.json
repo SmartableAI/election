@@ -2,6 +2,171 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-18-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the-greats.md",
+      "title": "Juan Williams is wrong — Trump will be remembered as one of the greats",
+      "excerpt": "I look forward to a day when Americans can look past their hatred and admit that Donald Trump was the most effective, impactful, and forward-thinking president we’ve ever had.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the",
+      "originalUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpgettyimages-1304602669.jpg",
+          "width": 980,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the?amp",
+      "publishedDateTime": "2021-03-17T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-russia-recalls-us-ambassador-after-biden-calls-putin-a-killer.md",
+      "title": "Russia recalls US ambassador after Biden calls Putin a 'killer'",
+      "excerpt": "Russia recalled its ambassador to the United States on Wednesday after President Biden said he agreed that Russian President Vladimir Putin was a “killer” and threatened further sanctions during a televised interview, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UnOodRKIaHc/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UnOodRKIaHc/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39041886-9779-4d90-b746-af3b50921d47/222f1f6b-7e21-46cc-ad7c-95efdbee56f8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling.amp",
+      "publishedDateTime": "2021-03-17T12:29:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions.md",
+      "title": "Texas governor: Biden must answer for ‘enticing unaccompanied minors into inhumane conditions’",
+      "excerpt": "Texas Gov. Greg Abbott called out President Joe Biden’s border policies. The governor said, “reckless” policies are causing a surge in border crossing and the president must answer for “enticing unaccompanied minors into inhumane conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
+      "originalUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/abbott-00_01_00_23-Still001.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo108709957557",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo108709957557",
+      "publishedDateTime": "2021-03-17T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-omarosa-manigault-newman-cant-force-trump-to-testify-in-lawsuit-judge-rules.md",
       "title": "Omarosa Manigault Newman can't force Trump to testify in lawsuit, judge rules",
       "excerpt": "Former Trump White House aide Omarosa Manigault Newman won't be allowed to get testimony from former President Donald Trump, former Trump chief of staff John Kelly or a member of the White House counsel's office in a lawsuit she faces related to her exit from the government, a federal judge in Washington",
@@ -1179,166 +1344,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-trump-to-be-interviewed-by-foxs-bartiromo.md",
-      "title": "Trump to be interviewed by Fox's Bartiromo",
-      "excerpt": "Former President Trump will appear on “Fox News Primetime” with host Maria Bartiromo on Wednesday night at 7 p.m., the former president’s office announced in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
-      "originalUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpcpac2_030121getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
-      "publishedDateTime": "2021-03-16T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-biden-tells-americans-to-keep-wearing-masks-until-everyone-is-in-fact-vaccinated.md",
-      "title": "Biden tells Americans to keep wearing masks 'until everyone is, in fact, vaccinated'",
-      "excerpt": "President Biden wants Americans to wear face masks to prevent the spread of coronavirus \"until everyone is, in fact, vaccinated.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NKcn9wCnYtU/biden-americans-coronavirus-mask-all-vaccinated",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NKcn9wCnYtU/biden-americans-coronavirus-mask-all-vaccinated",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21074656169869.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp",
-      "publishedDateTime": "2021-03-16T13:42:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and-whitmer.md",
-      "title": "Michigan AG charges man with making death threats against Biden, Pelosi and Whitmer",
-      "excerpt": "Michigan Attorney General Dana Nessel (D) charged a 21-year-old man with making death threats against President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Split screen ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and",
-      "originalUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_pelosinancy_whitmergretchen.png",
-          "width": 980,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
-      "publishedDateTime": "2021-03-16T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

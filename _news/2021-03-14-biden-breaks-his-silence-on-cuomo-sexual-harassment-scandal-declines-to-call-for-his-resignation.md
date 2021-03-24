@@ -639,22 +639,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "As Biden calls for gun ban, Manchin says he doesn't support background check legislation"
-    excerpt: "President Biden's calls for the Senate to pass aggressive background check bills and a ban on assault weapons face an uphill battle with a key Democrat already voicing disapproval."
-    publishedDateTime: 2021-03-24T00:27:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LOLiddIlEaw/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation"
-    ampWebUrl: "https://www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/JOE-MANCHIN-CROPPED.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Border crisis: Biden now tells migrants 'Don't come' but had a different message in a 2019 debate"
     excerpt: "President Biden, during a 2019 Democratic presidential primary debate, said that the United States is a country that tells people struggling under oppression or poor conditions that \"you should come,\" as he argued for a more open asylum policy. "
     publishedDateTime: 2021-03-22T15:06:48Z
@@ -956,6 +940,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46201ea5-06b8-4224-aecd-58d01dd3df89/c52f7acd-e909-4d31-9921-c077241afbed/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "As Biden calls for gun ban, Manchin says he doesn't support background check legislation"
+    excerpt: "President Biden's calls for the Senate to pass aggressive background check bills and a ban on assault weapons face an uphill battle with a key Democrat already voicing disapproval. Sen. Joe Manchin, a moderate Democrat from West Virginia, said Tuesday he ..."
+    publishedDateTime: 2021-03-24T00:28:00Z
+    webUrl: "https://www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation"
+    ampWebUrl: "https://www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/JOE-MANCHIN-CROPPED.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Cornyn responds to Kamala Harris on 'Fox & Friends': Border situation is 'no laughing matter'"
     excerpt: "The Biden administration needs to learn about the issues happening at the border, said Sen. John Cornyn, R-Texas, reacting to Vice President Kamala Harris laughing while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis."

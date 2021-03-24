@@ -1,14 +1,14 @@
 ---
 category: news
 title: "As Biden calls for gun ban, Manchin says he doesn't support background check legislation"
-excerpt: "President Biden's calls for the Senate to pass aggressive background check bills and a ban on assault weapons face an uphill battle with a key Democrat already voicing disapproval."
-publishedDateTime: 2021-03-24T00:27:36Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LOLiddIlEaw/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LOLiddIlEaw/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation"
+excerpt: "President Biden's calls for the Senate to pass aggressive background check bills and a ban on assault weapons face an uphill battle with a key Democrat already voicing disapproval. Sen. Joe Manchin, a moderate Democrat from West Virginia, said Tuesday he ..."
+publishedDateTime: 2021-03-24T00:28:00Z
+originalUrl: "https://www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation"
+webUrl: "https://www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation"
 ampWebUrl: "https://www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/as-biden-calls-for-gun-ban-manchin-says-he-doesnt-support-background-check-legislation.amp"
 type: article
-quality: 166
+quality: 126
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -1004,6 +1005,6 @@ related:
         height: 562
         isCached: true
 
-secured: "IxIIY1zO+F0IuwbS2eO98w05lgYIFSOZ3iBpCWOt81ynjD4JwKnL8MyyqHW52IDsKB16yy5l8VZrousOs7RGVxNv44w9J9kDRJqYkY2FCB8Eq7Rcw6aj56bAH+VHDkq3jzLuJivumRrBtfe89LqT5nrEYUBz3hSlG+CGlbRekfYjdCMWPZ9AeltYgKx040qrW754keGUFKHtA923/bp4l97Gnvsbb7Rs9x+nYzSmt45iSqGkkskEAU0IkwPkRr9eI0ewQgcG5cBhTPO0HZD3xcMxsu2EFKc+BU8ZVmeBDt+7OmI7I/mHGBpPposMyJlKh4oHeVgIKxbn9nheetmK/PjQarmH4a139Qch7fuffDI=;vo0P+2b2DEJJ3ceFBdtZbw=="
+secured: "Pak2wiyXKQX43lfmEYcAIpyXviqYmnUvpjHr2VU3y2ZEIHN4J28+faR6rlrcsGGJxUXV3wVGhBC2LcyfUrT38FPvFnPl1TMtt+rDsY0lrWWhcYykWmaMuR2KdVjQ704c92GEprBxZ1aSezAjFNViBNppF1+oEwtdmy9C0WkGJ23CXNSNUO+1qUHQuvAjxTUZwYXhspFC3uOTGarAjQxY/Kk0qwFoOplZTWr0p/4wJKcRSabGh2YJoQ7s0LeB/sbzfcnpRCFdFNIIji+lCYiavbhdaXO1OVWpeX4SF7D0aHgG65c+YEsIs307NIIyLas9Fk0uzgCopRjmiDfeLBTBeVcGu2PXJtcVclB4+Vb73Lw=;Gn1R4NAVLEhIaDafvc9Pfw=="
 ---
 
