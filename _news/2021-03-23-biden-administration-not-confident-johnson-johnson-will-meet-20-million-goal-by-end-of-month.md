@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-19-vaccine-supply-delays/index.html"
 type: article
 quality: 163
-heat: -1
-published: false
+heat: 283
+published: true
 
 provider:
   name: CNN
@@ -31,86 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration considering 6-month extension for US troops in Afghanistan"
-    excerpt: "The Biden administration is considering a six-month extension for American troops in Afghanistan, just weeks before the May 1 deadline that the Trump administration had negotiated with the Taliban to withdraw all US forces from the country, according to a defense official.\n    \n"
-    publishedDateTime: 2021-03-18T23:46:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8Xhh6MkTVM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/afghanistan-troop-extension/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/afghanistan-troop-extension/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210155622-01-biden-pentagon-0210-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration started outreach to North Korea last month, but country is unresponsive"
-    excerpt: "The Biden administration launched a behind-the-scenes push last month to reach out to North Korea through multiple channels, a senior administration official has told CNN, but thus far Pyongyang has been unresponsive.\n    \n"
-    publishedDateTime: 2021-03-14T01:27:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tj-DkT-8t5c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/13/politics/north-korea-biden-administration-outreach/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/13/politics/north-korea-biden-administration-outreach/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210313182809-biden-north-korea-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden on US meeting looming Afghanistan withdrawal deadline: 'Could happen, but it is tough'"
-    excerpt: "President Joe Biden said he is still making a decision on withdrawing all US troops from Afghanistan ahead of a May 1 deadline set by former President Donald Trump, saying it \"could happen, but it is tough.\"\n    \n"
-    publishedDateTime: 2021-03-17T16:26:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5sx3b6FoPt8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-afghanistan-withdrawal-deadline/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-afghanistan-withdrawal-deadline/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315162658-biden-0315-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration is considering sending some AstraZeneca vaccine doses to Canada and Mexico"
-    excerpt: "The Biden administration is considering sending some AstraZeneca Covid-19 vaccine doses stockpiled and waiting for official usage approval in the US over the border to Mexico and Canada, according to a senior administration official.\n    \n"
-    publishedDateTime: 2021-03-18T00:06:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7unDv7tAU4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/us-astrazeneca-mexico-canada/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/us-astrazeneca-mexico-canada/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312072040-01-astrazeneca-covid-19-vaccine-italy-0308-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'Frustration in our future': Democrats prepare for internal clashes that could slow Biden's agenda"
-    excerpt: "House and Senate Democrats are bracing for a clash over the next phase of President Joe Biden's agenda, preparing for a long slog and intense debate over competing priorities and legislative tactics after quickly coming together on the massive relief plan signed into law Thursday.\n    \n"
-    publishedDateTime: 2021-03-11T23:05:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310152321-03-pelosi-schumer-relief-bill-presser-signing-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration announces extension of Affordable Care Act special enrollment by three months"
     excerpt: "The Centers for Medicare & Medicaid Services is extending the Affordable Care Act special enrollment period by three months to August 15, the Biden administration announced Tuesday.\n    \n"
     publishedDateTime: 2021-03-23T21:20:29Z
@@ -127,67 +47,81 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden running out of time to make decision on future of US mission in Afghanistan as situation worsens"
-    excerpt: "With 50 days until the United States is supposed to complete a total withdrawal of troops and personnel from Afghanistan -- a move that a Pentagon report stated could be devastating to \"the survival of the Afghan state as we know it\" -- the Biden administration is running out of time to decide on a way"
-    publishedDateTime: 2021-03-12T11:51:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qzepI1jOyXg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/biden-afghanistan-time-running-out/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/biden-afghanistan-time-running-out/index.html"
+  - title: "Biden's multitrillion-dollar infrastructure jam"
+    excerpt: "WASHINGTON — President Joe Biden is signaling that his next big push in Congress will be for legislation implementing the transportation, infrastructure and green-energy elements of his \"Build Back Better\" campaign platform, with a reported potential ..."
+    publishedDateTime: 2021-03-22T20:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-multi-trillion-dollar-infrastructure-jam-n1261613"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261613"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261613"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190709162539-07-afghanistan-analysis-file-us-troops-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3458698/210322-joe-biden-jm-1425_7abadd79f5ccc05ffd45fa790b666e5f.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Biden Says Withdrawing U.S. Forces From Afghanistan by May Deadline Is ‘Tough’"
-    excerpt: "President Biden said it would be “tough” to meet a May 1 deadline to withdraw all remaining U.S. troops from Afghanistan, publicly indicating for the first time that he could extend the American troop presence there."
-    publishedDateTime: 2021-03-17T16:41:00Z
-    webUrl: "https://www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.amp.html"
+  - title: "Biden's all quiet on the southern border. That might not last."
+    excerpt: "WASHINGTON — President Joe Biden's response to an influx of migrants at the U.S.-Mexico border has been muted so far. But a tightening political squeeze may force him to act more aggressively soon. Biden's Republican critics say that he's failing to ..."
+    publishedDateTime: 2021-03-24T08:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-all-quiet-southern-border-might-not-last-n1261857"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261857"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261857"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459016/210323-joe-biden-podium-ac-446p_0740f7e5d27241f32d4e6a030a00a6cd.jpg"
+        width: 2500
+        height: 1517
+        isCached: true
+  - title: "Duckworth, Hirono change course on Biden nominees after assurances on AAPI representation"
+    excerpt: "Sen. Tammy Duckworth, D-Ill., reversed course on vowing to object to President Joe Biden's nominees because of a lack of Asian American and Pacific Islander representation Tuesday evening after a spokesperson from her office said she had received ..."
+    publishedDateTime: 2021-03-24T15:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261865"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261865"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459014/210323-tammy-duckworth-jm-1637_366fa55d715e08f098a8783e0973abeb.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden: ‘Shots in Arms and Money in Pockets’"
+    excerpt: "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans."
+    publishedDateTime: 2021-03-15T19:27:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007655482/biden-coronavirus-checks-vaccinations.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 131
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/03/17/us/politics/17dc-usafghan/17dc-usafghan-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/03/15/us/politics/15new-washington-briefing-monday-morning-lead/15new-washington-briefing-monday-morning-lead-facebookJumbo.jpg?video-overlay"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
-  - title: "Biden gets his chance on Afghanistan"
-    excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN wanted out of Afghanistan. In"
-    publishedDateTime: 2021-03-19T23:03:00Z
-    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/03/19/biden-gets-his-chance-on-afghanistan-492182"
+  - title: "Democrats push Biden to take on Pharma to boost global vaccine supplies"
+    excerpt: "President Joe Biden is facing growing pressure from Democrats to ensure that billions of people in poor countries have access to Covid-19 vaccines as the United States steps up its production and distribution of the shots. Biden has taken some first steps ..."
+    publishedDateTime: 2021-03-21T07:00:00Z
+    webUrl: "https://www.politico.com/news/2021/03/21/coronavirus-vaccine-wto-477272"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
-    excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
-    publishedDateTime: 2021-03-18T20:50:00Z
-    webUrl: "https://www.cnn.com/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 113
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316151003-102-border-crisis-0314-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/a5/c1/56a9e77d4538a1a5ff83b4c1e58a/19221-warren-sanders-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "fJY1GWZ9F8XHWYI5mcenwrwYFAsy05RiNOYS09VcppiL9ugOMNfOjr8V6pm6+bF0x4tqQquZo3I6q0xXbtpfeROEfRd7CerMkJ1zvlRdixffaE0C573lTkl0QdfeTVZZf/W1Mef6I//fEzGVqDBKWaKd0ZuGslUBp6g8qCEYmPQTZCRczwmQrWdqRcV8aL0jVlRbHbvfdT9uPLCJVtAZl0kkXlArqF9kX80Jm0x7qstXSvhhXy4zn18UG2Adw1lE04P4iw1Bsc4KTu2EFkZClfDa7zQOSC2p5aj3PQlkB4uM6rRY2A8RWgl8Cdbqc+b30RLrIf05/lx61pqea7ivadq1YLuZnuw3aj301BjRlcU=;oy6cXLnSgV3FYKLzEtkrAA=="

@@ -2,13 +2,13 @@
 category: news
 title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
 excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-publishedDateTime: 2021-03-24T22:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb9e58f08b6e4f17ca11b"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb9e58f08b6e4f17ca11b"
+publishedDateTime: 2021-03-24T23:08:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb94f8f08b6e4f17ca114"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb94f8f08b6e4f17ca114"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 type: article
-quality: 127
+quality: 137
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
@@ -238,6 +239,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550766715&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171A6"
         width: 818
         height: 545
+        isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
+    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+    publishedDateTime: 2021-03-24T23:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b232b8f08e6550a170af4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 132
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
         isCached: true
   - title: "Kamala Harris slowly starts to carve out role beyond 'making sure Joe Biden is a success'"
     excerpt: "Vice President Kamala Harris has said her signature issue would be \"making sure Joe Biden is a success,\" but a friend noted \"nothing about Kamala Harris is number two.\""
@@ -2050,6 +2067,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "USJrD2/L4eNwmQGJc/lg6gUuHGGnyHB/arm4uTy+lNMQoc1c0OrteO7b3Fs8ukN+BAkinG4JY7IQ0QUy3bd5YJT9t/nvX8K+uz5CH570HoyUKdCaF2beQ6wxg1heJ6eIezoYmDV3tuE+aJD8FXg/BA4ry1aD/FIdN78+C/IVLPRIdNc2jdULP7hzsOAZrrNxEyRLVtx/NhgnLwB3/WRFcU6NMTAG9M7XMK8DitH2nKSVG1aXVbo2gRGINF6++y6fxPoq3Ofl1Rj/5oYSJUKP/PrR4kiOS63G5N6Z9bhSmZsyRNPp8q8TKufWEwX1g5UdtIOavYBAambAAWm28U/pquorIUj4UjOkmIhAWjMo7A8=;zLrUpOGydghvHzwEyhnNBw=="
+secured: "ZzXqb2FHZ6jy3Ehp2dhwnDBaSQdKjORSkcrDyRgLsOQTr8QxngGiUNWQhMNCLSF2o+zg9tL8sV3Jr1THCxrzSDSLfiNnVIMmvRn8hlNjZtu/EQOXrT2MUVxG/9ldNQvro7qYg5V2gLXStucTcVw/DH8QKK6mRjmePNIBHGVPaEofaIlgiucEHDU9tAir0r9tMqvUF4xTLY8QCmj2Dgs84tmyaonj42VB66Z+FbMx9A+fzNR54SqiBdGBN2THeo/F2i/XSguHwlUsZrZk3WKCKYiCx3/Q1Asr18kif/XEriPPAcRjbmC/WjTVC1RJcy41MWzz468Wb/77yaII5VGkqmWkt1QvEFpS0jJR3WLvdlY=;f01bzFBZ9RTmjGCsm3SaSQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
 type: article
 quality: 164
-heat: 224
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,51 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's all quiet on the southern border. That might not last."
-    excerpt: "WASHINGTON — President Joe Biden's response to an influx of migrants at the U.S.-Mexico border has been muted so far. But a tightening political squeeze may force him to act more aggressively soon. Biden's Republican critics say that he's failing to ..."
-    publishedDateTime: 2021-03-24T08:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-all-quiet-southern-border-might-not-last-n1261857"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261857"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261857"
+  - title: "Three-ring binders and 14-point font: How Biden preps for a news conference"
+    excerpt: "One day before holding his first formal news conference, President Joe Biden seemed to write the whole thing off.\n    \n"
+    publishedDateTime: 2021-03-25T00:00:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/We1Vxbrzd0E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-press-conference-preparation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-press-conference-preparation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
+    excerpt: "President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said.\n    \n"
+    publishedDateTime: 2021-03-19T17:41:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YJxRRTs2Rw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration considering 6-month extension for US troops in Afghanistan"
+    excerpt: "The Biden administration is considering a six-month extension for American troops in Afghanistan, just weeks before the May 1 deadline that the Trump administration had negotiated with the Taliban to withdraw all US forces from the country, according to a defense official.\n    \n"
+    publishedDateTime: 2021-03-18T23:46:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8Xhh6MkTVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/afghanistan-troop-extension/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/afghanistan-troop-extension/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210155622-01-biden-pentagon-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lawmakers ask Biden to issue waiver to make Covid-19 vaccination mandatory for members of military"
+    excerpt: "A group of Democratic lawmakers sent a letter to President Joe Biden requesting that he issue a \"waiver of informed consent\" to make getting vaccinated against Covid-19 mandatory for all US military service members.\n    \n"
+    publishedDateTime: 2021-03-24T21:30:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rRSX5PzvRLg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/congress-letter-military-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/congress-letter-military-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322185510-covid-vaccine-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden hit his first vaccination milestone today. Here's how the numbers break down."
+    excerpt: "Biden hit his first vaccination milestone today. Here's how the numbers break down. The country has counted 100 million Covid-19 vaccine doses administered 59 days into Biden’s first 100 days. On Friday,"
+    publishedDateTime: 2021-03-19T17:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-100-million-vaccinations-milestone-n1261583"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261583"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261583"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 129
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459016/210323-joe-biden-podium-ac-446p_0740f7e5d27241f32d4e6a030a00a6cd.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3458152/210319-covid-vaccination-se-1132a_4a3b765696e0a6dda791ab29c0e908ee.jpg"
         width: 2500
-        height: 1517
-        isCached: true
-  - title: "Live Updates: In the Shadow of Another Mass Shooting, Biden Heads to Ohio on Stimulus Promotion Tour"
-    excerpt: "Young on Tuesday afternoon as deputy director of the Office of Management and Budget. Biden is expected to address the shooting in Boulder as he heads to Ohio. Signs of a partisan divide on guns re-emerged hours after the shooting. Shalanda Young is set to ..."
-    publishedDateTime: 2021-03-23T09:08:00Z
-    webUrl: "https://www.nytimes.com/live/2021/03/23/us/biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 120
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/23/multimedia/23washington-briefing-biden/23washington-briefing-biden-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Democrats push Biden to take on Pharma to boost global vaccine supplies"
-    excerpt: "President Joe Biden is facing growing pressure from Democrats to ensure that billions of people in poor countries have access to Covid-19 vaccines as the United States steps up its production and distribution of the shots. Biden has taken some first steps ..."
-    publishedDateTime: 2021-03-21T07:00:00Z
-    webUrl: "https://www.politico.com/news/2021/03/21/coronavirus-vaccine-wto-477272"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/a5/c1/56a9e77d4538a1a5ff83b4c1e58a/19221-warren-sanders-ap-773.jpg"
-        width: 1160
-        height: 773
+        height: 1667
         isCached: true
 
 secured: "oEfXtgNlkJbfLiuhzuwIg8TfHJBktYJczdeN7AgPh/br1y51eUmLguPLdPfq1CCwXz9AS5hUdsf/lMpjCoT9RrQjaueZmv4YVIiLwBuIdKkXNSZSagJ1DSrM5fz1N2SndKr0qG54emmMSkwIoiBWABte6VAwzZDLEiDZlMIEDc+J+5QmMtjfSfUlXy95fCzn82Pq0z5EUOyNB1SqE+69jKF21Rpiwmp8kBorLb6BvTMyY2wgZNiy3dAA5WjvLWU907UD5APGRnHbEmm9O7AnJOpUrDXCd9pT45EaiLPEbjJLZGg7cnbbiaANKNiraSFe+YzOqQFEyV8V3bsOBh8f6Xho8aKbSsSZp12BAZdNnj0=;2Nv9tqFfBpw5rEubsGED4w=="

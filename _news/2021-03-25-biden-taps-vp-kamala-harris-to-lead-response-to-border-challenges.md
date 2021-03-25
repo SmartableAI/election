@@ -187,6 +187,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
+    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+    publishedDateTime: 2021-03-24T23:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb94f8f08b6e4f17ca114"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
     excerpt: "White House event will commemorate halfway point of Biden’s campaign promise of 100m vaccine doses in first 100 days"
     publishedDateTime: 2021-02-25T14:42:00Z
@@ -234,6 +250,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550766715&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171A6"
         width: 818
         height: 545
+        isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
+    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+    publishedDateTime: 2021-03-24T23:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b232b8f08e6550a170af4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 132
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
         isCached: true
   - title: "Kamala Harris slowly starts to carve out role beyond 'making sure Joe Biden is a success'"
     excerpt: "Vice President Kamala Harris has said her signature issue would be \"making sure Joe Biden is a success,\" but a friend noted \"nothing about Kamala Harris is number two.\""
@@ -298,22 +330,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P33I77D6XII6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
-    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-    publishedDateTime: 2021-03-24T22:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb9e58f08b6e4f17ca11b"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 127
-    images:
-      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
-        width: 600
-        height: 360
         isCached: true
   - title: "U.S. private prison revenue under pressure from new Biden rules"
     excerpt: "CoreCivic and the GEO Group, two of the largest U.S. private prison companies, could lose as much as a quarter of their revenue, about $1 billion a year between them, under new limits on the sector from President Joe Biden."
@@ -2046,6 +2062,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "sZoYSBye/0qcA2gA25cozRKT4IphwKWi5oi8DOTMRp5LVJps2Hn/9AJi3NC7u2dmIpJATaGbUu6Vdp5BuxXR08Ata9gWj3339WA8I52rh1/sp8SGndziDeDQtZ/66+g3eI01tG9ldbmwFD1XN1tVm7T7MmgPp6gvytRuP2v12sAmP8xXgVgqogE9+ewQhJAyFDtwt/cGzyEMMuXUKjNJW9RRn+O0lxKffnQOCkIkvfLxictuvLuMpvmYpy+RIOXxaP3TfY8Y7bvlzFMlK0WvsHj+ASZYxVod3pB75/5YhGkuEG8tkzn9IHCn0rNepYxBGtaP7RfgzMniT66OF+kTw+i75RpefSm/n4Dv6ctp6Ck=;ZnToIrZPaY2p49jNIuXKJg=="
+secured: "t1rED2PoepyyHycTF13x/0xQ+4jAREbbDuB66nYJDsMY+AmdWS5cFVqPkSCke4rjNGQSqVSrqkxs7zcHE2n9vYow8tvxiB6vY4k+DakTHfpa1yiz4gi2DI1LD1SMQPKQstmADZMm2N2HgulFRpPBiYwd87ND3v0PX7oPVPL2ftUrPHo5FHNP/dmIg9TLZhdg6ILzJeVsGpvdUDsukGxRqNaNFpVu8tAPns6Ywyt//3jql/HBvUx7VXFt1YpUUN1U3edJzgxFQFSVKa2wTUFuNXYyRX1MfeJV1LMlx7G9jyHjm+UnOwDUDbDJn9b+tk/iCE45ShGakPIqkN4b6/mNucRQLXvkxbgVnv7C9+UtoquWEZBeGVRIkQX+xXbEW+DWag1tc64MZKS+szw4s/cEDJQjB57ZADIDbgXMR7L2VN76pOnuwkBshHDnmF40lEU/cQ1HDdhtSc9gLlN56ruRrJRViUjccWxAeyplML3OOJV0+iODh6vj4NV4HM05gQPLifgNAhRPRnWPl7p67KlCVA==;+feB8c9Dndawj1PBmt3QtA=="
 ---
 

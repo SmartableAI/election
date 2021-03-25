@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
+    excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
+    publishedDateTime: 2021-03-18T20:50:00Z
+    webUrl: "https://www.cnn.com/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 113
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316151003-102-border-crisis-0314-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "VXXt2zNgMAsgBt3NlFC4phXRrC/LlrLpBTb3JWB40Irb4gCorcjT6hLUJ6OWU+GV+Kt0nrnB/RJ5WEK4X4udPf6QxZjlOiaJJ6h2hOouckJpqDG1neQS1sVqDTxbA0fjGqQHtJuKtnrzgbTtwvEmbJx/yuhoN61q5eAlGkV3hZUTI01VLWcFfYQ3PlrXsQIXM2SE+M7gE1KQjhYXSTNC9uuRP299d5bJd8vMHFrYuNgbnc7Dn7L0hkhx4UjohrgVnt9OW4ZvGKdzAltDZLsygeqrw5cYV2Ttjt1GC0ng0GKMj5q/mnyndQAthX8M5f/b8T+oorOIDBUUOT/nOVr8zflApr6i11TrKxa640i3U7M=;YwRW/eb/YF6jvDf+P1oASA=="
 ---

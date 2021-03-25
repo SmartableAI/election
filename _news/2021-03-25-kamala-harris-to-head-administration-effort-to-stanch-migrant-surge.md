@@ -2,9 +2,9 @@
 category: news
 title: "Kamala Harris to Head Administration Effort to Stanch Migrant Surge"
 excerpt: "President Biden has asked the vice president to work with Mexico, El Salvador, Guatemala and Honduras to lead diplomatic efforts to stem the surge of migrants at the southern border."
-publishedDateTime: 2021-03-24T20:21:00Z
-originalUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
-webUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
+publishedDateTime: 2021-03-25T00:51:00Z
+originalUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
 type: article
@@ -736,6 +736,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Graham predicts GOP will 'come roaring back' due to Biden's 'radical' immigration policies"
+    excerpt: "A fired-up Sen. Lindsey Graham, R-S.C., railed against President Biden's decision to tap Vice President Kamala Harris to oversee the administration's response to the border crisis in an appearance on \"Fox News Primetime\" Wednesday."
+    publishedDateTime: 2021-03-25T00:46:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MEkAWPhjdE8/lindsey-graham-gop-come-roaring-back-biden-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-gop-come-roaring-back-biden-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-gop-come-roaring-back-biden-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
     excerpt: "President Joe Biden broke his silence on Governor Andrew Cuomo's mounting allegations of sexual misconduct on Sunday – but fell short of calling on the embattled New York Democrat to resign."
     publishedDateTime: 2021-03-14T23:28:09Z
@@ -1181,6 +1197,6 @@ related:
         height: 562
         isCached: true
 
-secured: "8bHBtXItV0DhLdNTE3o/Ud1EcI4bkUv2oRsFkxX+UbfFAUss4ZXIEx+gd2tWMgn3l26dBIWPevzL2ATFM/DDvU96hf2Qyl/dYbMdx92i5mhtcb3SmMrT4iirrmXYPVfOx79lbrTtg/swflv0jppVMnS1qCrb67Jz1CAxWibqSJ8Lgsai1gd6JQDogASPiI6SqFXhl1zX0wFyPK+JxK130DqSGcZ3rr1CffhNVnIaURUnBz+TRRKvNloHxMCTgNZrcUlKCf8mNV2HQcSLcHuGI+TB/EHajEOHcXU44L6MWTedA3Y0cj+WymmoWlc+0bFVsxzcOnozYYFncvU9e7KB6+YfY1OsUsf/X+fnnW9Vsqo2FB3It5IlgN6+NyA2Kd7wlLn3qhobZMi9U7kMY384x1FmOFNmkCWWzQmuEsBHcsIKSAD4Uc4ySZXo1trsKW9utv2aRTEsvKGR6pZjBTO2EjCK+zkT0MlAjZ/jRNVAsyqk2QvZklNaT5Xho2Iy4nqge5K8CC57cK5UwRyxsEtW8Q==;mrnZZMXRrUf4y3KCcb2zeA=="
+secured: "QsyDSyjViL6m86PYXikG1+VLOJ+/fNTCS8IHwZUAF89ecJSXr5OGkDhOV9eDZjdfivVjyAsc2FywyZoy1mGBeyatCkc0Q2+d1/KNcJrGDI8VpPQ/u8EvKCCk97X4YCjWTeHcua/SD6DVqc383/V7L3+/ZOTv9iBGr1EFwKkHOQUDL3OMPQwzgUA2AeIy7FKYn4N3VekRqh7anhvmuogRZjDy7g2MNpTBFc1I7YzASr2DfCku815r+AdVz5m5N4yX82aFLI8UhftA6kRhDWaMITkntN1LOel9H4aSkIQkR5rn9J3ZUMk4nMTaesGlLZoGHMXhH0DOcgJHcyTz4heyy4AiAmGSLOJ82bWU6DIyHMQ=;GhT0OUBxPC/z6lB4c5gx6A=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats demand answers on why Biden hasn't officially allowed more refugees into the US"
+    excerpt: "Democrats are pushing the administration to explain why President Joe Biden has not signed paperwork raising the cap on the number of refugees allowed in the United States, which has put hundreds in limbo even as the Biden administration had promised to reverse former President Donald Trump's policies.\n"
+    publishedDateTime: 2021-03-24T22:46:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PyJCiuosKsc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/democrats-biden-refugee-response/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/democrats-biden-refugee-response/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181025152648-01-ben-cardin-file-1025-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senior Biden administration officials to meet with Chinese counterparts next week in Alaska"
     excerpt: "Two top Biden administration officials will meet with their Chinese counterparts next week in what will be the first meeting of officials from both countries since President Joe Biden took office in January.\n    \n"
     publishedDateTime: 2021-03-10T18:07:19Z

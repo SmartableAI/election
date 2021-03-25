@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/jersey-district-pays-325k-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "In Senate race, combative Brooks leans into Trump ties"
+    excerpt: "He ran for Alabama’s other Senate seat in 2017 but came in third in the primary when he faced attack ads accusing him of being disloyal to Trump. Brooks said he is now better known to voters. “This time I have an established reputation that people can discern that,"
+    publishedDateTime: 2021-03-25T01:43:00Z
+    webUrl: "https://www.chron.com/news/article/In-Senate-race-combative-Brooks-leans-into-Trump-16051290.php"
+    ampWebUrl: "https://www.chron.com/news/amp/In-Senate-race-combative-Brooks-leans-into-Trump-16051290.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Senate-race-combative-Brooks-leans-into-Trump-16051290.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/17/64/20774183/11/375x250.jpg"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "jMm9d+YMBpjHwydzkBr+6rWG0PGzXAkwVaay9dEzWuxUnVn0aUcjAsbZTfh+iPvp1eYz41fHezMzxEhAMeJ9TayU8m9m1g3dWy9aBvf2hS41yzjRQWdYF47PT+WeSE4XBgx/gc1aHe7SuwhCUieWamz36e0CxIqlOJdRU0a5lmaCTpGnMp/Jg1axskZzyryxf2Y2MIrIXSVDh5myzhgh/Fyfvta9d2sYQxV9tm6WBc7WW1EznUQ0/AC4iTMzlZqhwg33h35sux45c2SlelwYwEXen6/xwMSyLOCoDg+ANBSsaAgTBfZ8IRngrj51kRarxUvEazj3fy/CLgB3DKUXq0r9jZEmO/L6l//YoceL4B0=;k66jAKRmuyVTSlAYrJ0sEg=="

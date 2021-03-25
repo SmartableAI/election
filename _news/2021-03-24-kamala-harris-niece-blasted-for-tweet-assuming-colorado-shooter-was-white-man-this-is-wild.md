@@ -736,6 +736,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Graham predicts GOP will 'come roaring back' due to Biden's 'radical' immigration policies"
+    excerpt: "A fired-up Sen. Lindsey Graham, R-S.C., railed against President Biden's decision to tap Vice President Kamala Harris to oversee the administration's response to the border crisis in an appearance on \"Fox News Primetime\" Wednesday."
+    publishedDateTime: 2021-03-25T00:46:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MEkAWPhjdE8/lindsey-graham-gop-come-roaring-back-biden-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-gop-come-roaring-back-biden-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-gop-come-roaring-back-biden-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
     excerpt: "President Joe Biden broke his silence on Governor Andrew Cuomo's mounting allegations of sexual misconduct on Sunday – but fell short of calling on the embattled New York Democrat to resign."
     publishedDateTime: 2021-03-14T23:28:09Z
@@ -976,8 +992,8 @@ related:
         isCached: true
   - title: "Kamala Harris to Head Administration Effort to Stanch Migrant Surge"
     excerpt: "President Biden has asked the vice president to work with Mexico, El Salvador, Guatemala and Honduras to lead diplomatic efforts to stem the surge of migrants at the southern border."
-    publishedDateTime: 2021-03-24T20:21:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
+    publishedDateTime: 2021-03-25T00:51:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
     type: article
@@ -1181,6 +1197,6 @@ related:
         height: 562
         isCached: true
 
-secured: "a2sWjfofGAnYPeOCUGemBvV5gBlMcG6nUnJ+3gE2Puw0yai779kSaOzWicZLI4bjpxA/6CpnmTLW8oHdD/+SH7FhB4TEaL2pzOEa5AxidqwSkij+Lai6o3ouz4DFSDl/EzuwVNBw7lDt9cKcYbL8jYt9a3DQBDmEVxttTgiJZLgIsmdkIHFrtCcNJYwXd1wNO7OQDXmZmWN8ZT/JFoKhdvLHpaB2lgXxn5c5m3Rx8P6ZAtnq7iylKzsTnHkWR9ygLdduh3c6SV3dvBzPVN8MrtO4aCg2bSoBrFidvlOuVaWzBHws6DSNd2CEu3+VmtY5Gd93wpWZlFA1WkFpRWNO9SU/YRcyEeRY1PUO/ittQRs=;kemTmZJi664OZnWA2tk7Qw=="
+secured: "Tau3GjsGf/+LAbaOgMMgnO47SqYIHzY5cNrcndj9I3z5YjymFmXGD4mHM6HZWstpNHlYRcYiUek7pkJmlGvnigKC7BrM3Nv5u9ZpYtNzuK7l81OP+37pYwt1AJVdC0+qtSqLb4H6tmPKS+aBC/FcGtCcFWFnwTRtCQSewKJ9vWk0nkmwXCXhj2EuB8xR0R3j5RORRI8+RJFuZrRRVhegrVQY9fjFesWbJN8Bl+hv0BmjWBKJu6p/ToHrnaE76A6luYE3wFJ1PueTESuULSQnAmUJoMdmsEh8jQLLWSnssImGvSWZ58oXXpNlaErdse2p39yWtjM9cbfFGH9J2q8dup8mjUAtQwKl2kWKHsvUGEFsPSdXdcfLJs/QJCgqUa6d7MsRzoE40O2NyZ8mVGUZg9tXJXiZmC75i3oTmCVhB6BBsxK8wtd5OBEf/Ri0abV9NKWnyRQQKkq1NtWb4n3/6wEacJoWA29DGHS0CzcmDm9g04iDiuna83QSvIZgfvjz1KlWUgPXHJQC3uhXNjCYvg==;K6M/wmUovVH145VaypzDpA=="
 ---
 

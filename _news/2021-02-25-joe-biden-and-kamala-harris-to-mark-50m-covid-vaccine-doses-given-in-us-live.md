@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
+    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+    publishedDateTime: 2021-03-24T23:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb94f8f08b6e4f17ca114"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Kamala Harris sidesteps question of her role to take Biden's message on the road"
     excerpt: "Aides and allies say it is too early to define the vice-president’s portfolio but she is unlikely to be confined to just one subject area"
     publishedDateTime: 2021-03-21T08:02:00Z
@@ -222,6 +238,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550766715&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171A6"
         width: 818
         height: 545
+        isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
+    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+    publishedDateTime: 2021-03-24T23:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b232b8f08e6550a170af4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 132
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
         isCached: true
   - title: "Kamala Harris slowly starts to carve out role beyond 'making sure Joe Biden is a success'"
     excerpt: "Vice President Kamala Harris has said her signature issue would be \"making sure Joe Biden is a success,\" but a friend noted \"nothing about Kamala Harris is number two.\""
@@ -286,22 +318,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P33I77D6XII6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
-    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-    publishedDateTime: 2021-03-24T22:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb9e58f08b6e4f17ca11b"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 127
-    images:
-      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
-        width: 600
-        height: 360
         isCached: true
   - title: "U.S. private prison revenue under pressure from new Biden rules"
     excerpt: "CoreCivic and the GEO Group, two of the largest U.S. private prison companies, could lose as much as a quarter of their revenue, about $1 billion a year between them, under new limits on the sector from President Joe Biden."

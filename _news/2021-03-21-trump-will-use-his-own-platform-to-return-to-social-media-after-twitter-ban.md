@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-so
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform"
 type: article
 quality: 122
-heat: 262
+heat: 282
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bernie Sanders against Donald Trump Twitter ban: 'Tomorrow it could be somebody else'"
+    excerpt: "It’s Twitter’s turn to feel the bern. Sen. Bernie Sanders is not a fan of Donald Trump, but that doesn’t mean he thinks the former president should have been banned from the social media platform after the deadly Capitol siege. “Look, you have a ..."
+    publishedDateTime: 2021-03-24T21:12:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/03/24/twitter-sanders-trump-ban-censorship-capitol-riots/6987757002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6987757002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6987757002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/06/USAT/30617d1d-f2bd-4d56-8edf-9bb23a12437d-bernie_sanders.jpg?auto=webp&crop=3725,2096,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump's Social Media Platform Will 'Suck' Proud Boys Say in Message Shared by Gab"
     excerpt: "Far-right social media account TheWesternChauvinist, which is linked to the Proud Boys hate group, has said Donald Trump's planned social media network \"is going to suck,\" and competing network Gab has shared the message. Jason Miller, an adviser and ..."
     publishedDateTime: 2021-03-22T11:36:00Z
