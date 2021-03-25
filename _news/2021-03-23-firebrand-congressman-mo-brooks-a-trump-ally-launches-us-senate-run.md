@@ -143,6 +143,15 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Endorses Shafer for Reelection to Georgia GOP Chair"
+    excerpt: "Former President Donald Trump has endorsed David Shafer for another term as the chair of the Georgia state Republican Party."
+    publishedDateTime: 2021-03-24T22:28:00Z
+    webUrl: "https://www.usnews.com/news/best-states/georgia/articles/2021-03-24/trump-endorses-shafer-for-reelection-to-georgia-gop-chair"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
 
 secured: "hSzAQg+1yMXEIDIUvC/gc7QWsMlIKKHrl2eUt//aX7zqSaK72jKvAvtG7ncBKGn2XTBhz7MR/yLNEvI0N3WNVv2jc0KfkKCKcu/upqLPHAk+Ht8C/VBPFYhDF44O0a6EgsadGFnvU4ChPRgMtezdwX2SMsNVwzSahTmo1Kh3Ugyek+i18yvXU95c71ZHZryrAx2AokjOL5LF/9XH7MLuEfWNj6Vx6Ba6rgy3+fsXiW/WVFGW9w8BbzosMi+Jxig6juGB6IVd+ymkfV2toKiydeU6HeXYU6WFEWBxlJXvYtmigENfV1OF+4HzX0aXxeKWCZrP3EWsU3/lXBpS6BpqZaNZMYLLM2mua5jxg7ellQ0=;O0uIJf7QbsqfM3VsHCXTSQ=="
 ---

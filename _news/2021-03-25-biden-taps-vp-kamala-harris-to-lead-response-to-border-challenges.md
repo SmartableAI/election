@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Biden taps VP Kamala Harris to lead response to border challenges"
-excerpt: "Biden is hoping to show Americans he’s taking the border situation seriously after facing stiff criticism from Republicans"
-publishedDateTime: 2021-03-24T19:30:00Z
-originalUrl: "https://www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html"
-webUrl: "https://www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html"
-ampWebUrl: "https://www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
-cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
+excerpt: "WASHINGTON (AP) — President Joe Biden has tapped Vice President Kamala Harris to lead the White House effort to tackle the migration challenge at the U.S. southern border. Biden made the announcement as he and Harris met at the White House on Wednesday ..."
+publishedDateTime: 2021-03-24T23:20:00Z
+originalUrl: "https://www.al.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html"
+webUrl: "https://www.al.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html"
+ampWebUrl: "https://www.al.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Cleveland.com
-  domain: cleveland.com
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
@@ -301,8 +301,8 @@ related:
         isCached: true
   - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
     excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-    publishedDateTime: 2021-03-24T20:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bad808f08b6e4f17ca087"
+    publishedDateTime: 2021-03-24T22:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb9e58f08b6e4f17ca11b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
     type: article
@@ -2046,6 +2046,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "gO70pueUvRb1tCeahR28VftQYXjlp7xRcZDFHOjX5/k8rswapvgPTCHnEs3XrsVydfICfLzWZCjq0gxyKqxsbxmxePnmXeBswUwrVYIUUwOiPVlvJoGaQ+J7RFu4YWNw1suvsx5Sf5SL3jxrpF3Ie8PkPOst61/Ro9X3XWIgB1+z44UzpCBKXslqq9okHzH/MWYBpqdrKZcFVxNQx684GWsDEJrulJyyU9PuQsAv4paYSzLTQ0jbFuM6ob39hmJWh5JK0oYtCGZ4Z1oW/uTvwnvXfn4xsLtvLITG61NfOMoUc5RLHSXRT4l/ZZxDNqTT5xH9sZt3Jr7VpiT+OSfAJImPUyCwqraMsdoq8sKTnEjnAxuoCJ19QiTFOI54uyir4dVwRkho8IcpY9f6kF0svTQyFoxUPfikta6QbBHaJzkIcjDHCTcKSTcrWGYV5WkQbZ5IT2Pu21OKg2Eh0kSgB+W5G29UMNU+DyGJLYQ/zb8Eq/oxhG2qDLxJGn7pMGAjbl+2EKufweq4StkAurGJUA==;pxdOu7KH2ZnxJmphnaUseQ=="
+secured: "sZoYSBye/0qcA2gA25cozRKT4IphwKWi5oi8DOTMRp5LVJps2Hn/9AJi3NC7u2dmIpJATaGbUu6Vdp5BuxXR08Ata9gWj3339WA8I52rh1/sp8SGndziDeDQtZ/66+g3eI01tG9ldbmwFD1XN1tVm7T7MmgPp6gvytRuP2v12sAmP8xXgVgqogE9+ewQhJAyFDtwt/cGzyEMMuXUKjNJW9RRn+O0lxKffnQOCkIkvfLxictuvLuMpvmYpy+RIOXxaP3TfY8Y7bvlzFMlK0WvsHj+ASZYxVod3pB75/5YhGkuEG8tkzn9IHCn0rNepYxBGtaP7RfgzMniT66OF+kTw+i75RpefSm/n4Dv6ctp6Ck=;ZnToIrZPaY2p49jNIuXKJg=="
 ---
 

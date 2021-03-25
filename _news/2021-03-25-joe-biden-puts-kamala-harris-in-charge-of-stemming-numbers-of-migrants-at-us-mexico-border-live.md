@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
 excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-publishedDateTime: 2021-03-24T20:32:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bad808f08b6e4f17ca087"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bad808f08b6e4f17ca087"
+publishedDateTime: 2021-03-24T22:19:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb9e58f08b6e4f17ca11b"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb9e58f08b6e4f17ca11b"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 type: article
@@ -1012,15 +1012,15 @@ related:
         height: 682
         isCached: true
   - title: "Biden taps VP Kamala Harris to lead response to border challenges"
-    excerpt: "Biden is hoping to show Americans he’s taking the border situation seriously after facing stiff criticism from Republicans"
-    publishedDateTime: 2021-03-24T19:30:00Z
-    webUrl: "https://www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html"
-    ampWebUrl: "https://www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
+    excerpt: "WASHINGTON (AP) — President Joe Biden has tapped Vice President Kamala Harris to lead the White House effort to tackle the migration challenge at the U.S. southern border. Biden made the announcement as he and Harris met at the White House on Wednesday ..."
+    publishedDateTime: 2021-03-24T23:20:00Z
+    webUrl: "https://www.al.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
+      name: al.com
+      domain: al.com
     quality: 90
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WIP2F6G2ZVDSFEIG66XUJY6GYM.jpg"
@@ -2050,6 +2050,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "DrRTK0Lvn0ETGt0Ib/cVfhyXlEkq80JBxHDJiV4ob+tTvYczh7A1iwGgizjHBe+BoI4VPE6tQz5Ccy2oz9XhVuyyycP/IUqv6Wum5iqzOB6Wz6A9p9u6083G5OFoikCFVTnY5Nmrcs7+SkNXhuhQpl76tA/FNf4yUuuA0kl7RadqnmavZ7SDXSBZos0WUsDngCpr6g5FNEo85LdtuYCf59Owgcy6pHgN8owjfh92vmMkVEBooY0iTBlERCt6kdxOmW9WqNnPhzIfbE8tq6uAfVZyA24HjwCoKu6FryNHhZMIMlr6s+NUfVNDxQ93NPJrh/PnTb4J5JRsIXl/bwui6xx5fn9tX61vdWg6/dk54HQ=;46X/bYxfJbQ5uhJYW2A8ag=="
+secured: "USJrD2/L4eNwmQGJc/lg6gUuHGGnyHB/arm4uTy+lNMQoc1c0OrteO7b3Fs8ukN+BAkinG4JY7IQ0QUy3bd5YJT9t/nvX8K+uz5CH570HoyUKdCaF2beQ6wxg1heJ6eIezoYmDV3tuE+aJD8FXg/BA4ry1aD/FIdN78+C/IVLPRIdNc2jdULP7hzsOAZrrNxEyRLVtx/NhgnLwB3/WRFcU6NMTAG9M7XMK8DitH2nKSVG1aXVbo2gRGINF6++y6fxPoq3Ofl1Rj/5oYSJUKP/PrR4kiOS63G5N6Z9bhSmZsyRNPp8q8TKufWEwX1g5UdtIOavYBAambAAWm28U/pquorIUj4UjOkmIhAWjMo7A8=;zLrUpOGydghvHzwEyhnNBw=="
 ---
 

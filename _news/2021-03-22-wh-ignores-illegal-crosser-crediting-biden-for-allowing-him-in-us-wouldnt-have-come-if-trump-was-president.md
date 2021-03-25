@@ -623,6 +623,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Harris, now overseeing border crisis, called to decriminalize crossings, compared ICE to KKK"
+    excerpt: "Vice President Kamala Harris, whom President Biden tapped to lead the administration's response to the border crisis, once indicated she was in favor of decriminalizing illegal border crossings and sparked backlash in 2018 when she compared ICE to the KKK"
+    publishedDateTime: 2021-03-24T22:37:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ff6QQ5jLak/kamala-harris-immigration-border-decriminalize-ice-kkk"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immigration-border-decriminalize-ice-kkk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immigration-border-decriminalize-ice-kkk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a2a38a7-b5cd-4ecc-972a-065a9248aeb9/60fce207-de8f-439c-ae03-97cf73414228/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's words on migrant children without beds, soap could come back to haunt him"
     excerpt: "In 2019, then-candidate Biden went after then-President Donald Trump online over the conditions at detention centers holding migrant children as the Trump administration argued in defense of the facilities in federal court."
     publishedDateTime: 2021-03-16T20:15:11Z
@@ -1100,6 +1116,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b785acf-217d-466f-9b67-e348685cf2da/fa1a4da6-3164-4de2-bf29-daf1144c2aa8/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris' niece blasted for tweet assuming Colorado shooter was White man: 'This is WILD'"
+    excerpt: "Vice President Kamala Harris's niece said Tuesday she assumed the suspected mass shooter in Colorado was a White man in part because he was taken into custody alive, leading to accusations she engaged in racial profiling."
+    publishedDateTime: 2021-03-23T18:12:00Z
+    webUrl: "https://www.foxnews.com/media/boulder-colorado-shooter-meena-harris-kamala-niece-tweet"
+    ampWebUrl: "https://www.foxnews.com/media/boulder-colorado-shooter-meena-harris-kamala-niece-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/boulder-colorado-shooter-meena-harris-kamala-niece-tweet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meena-Harris.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "President Biden Calls Vice President Kamala Harris \"President Harris\""
     excerpt: "Biden, on Thursday, said, \"Now when President Harris and I took a virtual tour of a vaccination center in Arizona not long ago, one of the nurses on that, on that tour injecting people, giving vaccinations,"

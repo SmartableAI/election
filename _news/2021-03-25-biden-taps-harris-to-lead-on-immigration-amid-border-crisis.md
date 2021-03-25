@@ -290,8 +290,8 @@ related:
         isCached: true
   - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
     excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-    publishedDateTime: 2021-03-24T20:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bad808f08b6e4f17ca087"
+    publishedDateTime: 2021-03-24T22:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb9e58f08b6e4f17ca11b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
     type: article
@@ -1013,15 +1013,15 @@ related:
         height: 682
         isCached: true
   - title: "Biden taps VP Kamala Harris to lead response to border challenges"
-    excerpt: "Biden is hoping to show Americans he’s taking the border situation seriously after facing stiff criticism from Republicans"
-    publishedDateTime: 2021-03-24T19:30:00Z
-    webUrl: "https://www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html"
-    ampWebUrl: "https://www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
+    excerpt: "WASHINGTON (AP) — President Joe Biden has tapped Vice President Kamala Harris to lead the White House effort to tackle the migration challenge at the U.S. southern border. Biden made the announcement as he and Harris met at the White House on Wednesday ..."
+    publishedDateTime: 2021-03-24T23:20:00Z
+    webUrl: "https://www.al.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/biden-taps-vp-kamala-harris-to-lead-response-to-border-challenges.html?outputType=amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
+      name: al.com
+      domain: al.com
     quality: 90
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WIP2F6G2ZVDSFEIG66XUJY6GYM.jpg"
@@ -2051,6 +2051,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "Bf8V4IEGAd6AxnagDqn4LsVaqfs9yZA9jK4XOSJyt/46A9Ku3OP5friYZlnATLAaC1wfqv3+BxuI91bZBNUfmdJ9QjgWJRExlzEYzmewI8TLW3m2wLwxAhYZ7aUOigw7xZpIgFfGpLSmi6BnxP/B2SCMxmu7WzhOkOnPClb/XNTtG++m3Gh6j/FDz/bNqATBGELKv1m6iMIYFCHbpTdl7UMwO+ZAvO/m/YV0/uzm1/u449PF/UkjokdCWWNVPEdrtOljB7XiKOlC7WRDTJ0UO216tlgAMlgJOfJ17R7Xc5KLSdV+r0mrT6J8OBUYr0qBLpR1HK+dDcpzacPCeSzzSgcycWxBAUFB40BE4cDomjg=;V6ARzuY+APNYgMoo3y0hxg=="
+secured: "VFdeRGiDz4j+ktYTznKyeEKO6pNIdnP8hxa1HwWWBJHzRueDkJu46t2rvhMtcBdWsxTbt+05FNglBWKe7BA4JOTgTuVUxSdyZ0QuxwRu/1dpl9OgMjRFIFLdHyfXt6IGWcsD5lvo9IDqckt3KQDrZ5Kzafk/v7VxgF41TmLS+jQhCbbGSGAbMpq8eS6HaxpilJUtN9qIh7BRe5ENjOF1RwhI7JmANzExiGVFG0Dq8yP/Bw7WsEXuQWbu6jj3cP44E43vpAv6gUvPfqioE0krY6o7YpuP+nZ5pFuCoL6ozkNMCUn11pAtbmxL0KN7y/vfAJqbkjESrqwpjVRX/VAUpbcMxx8wqdCo1gCAW8vB1i1sBkj0c+Ti9VVM8wqKoq6nkGWIPxgi+RXpzdD/32oi843Pd0ZF2R/j2q70FxcW0Azs0qWaLx5RaAOWEr+IVdyoGaq5/IgoWKIyuOMgPkhwjqUbBXaAXYsk+D0EuQXk8mPiDqCkthj/bs+QxINhQUlvk3+Ch+WFP3GjqaVhQx/ZMA==;GTaWo2QQ1AmyQbrJfZX/Nw=="
 ---
 

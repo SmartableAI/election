@@ -207,22 +207,6 @@ related:
         width: 806
         height: 545
         isCached: true
-  - title: "White House says Netanyahu call will be Biden's first to region"
-    excerpt: "White House press secretary Jen Psaki said Tuesday that President Biden will speak with Israeli Prime Minister Benjamin Netanyahu “soon” and that the phone call would be the new president’s first to a leader in the Middle East ."
-    publishedDateTime: 2021-02-16T18:39:00Z
-    webUrl: "https://thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region"
-    ampWebUrl: "https://thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/539018-white-house-says-netanyahu-call-will-be-bidens-first-to-region?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/netanyahubenjamin_05252020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden describes new life in the White House as being in a 'gilded cage'"
     excerpt: "President Joe Biden, after one month of living in perhaps the most exclusive residence in the country, says staying in the White House is like being in a \"gilded cage.\" He discussed details of his new daily life inside the White House during a CNN town hall in Milwaukee,"
     publishedDateTime: 2021-02-18T00:51:00Z

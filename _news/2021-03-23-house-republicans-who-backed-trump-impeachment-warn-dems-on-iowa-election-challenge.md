@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/house/544341-house-republicans-who-supp
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp"
 type: article
 quality: 134
-heat: 274
+heat: 294
 published: true
 
 provider:
@@ -143,6 +143,15 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Endorses Shafer for Reelection to Georgia GOP Chair"
+    excerpt: "Former President Donald Trump has endorsed David Shafer for another term as the chair of the Georgia state Republican Party."
+    publishedDateTime: 2021-03-24T22:28:00Z
+    webUrl: "https://www.usnews.com/news/best-states/georgia/articles/2021-03-24/trump-endorses-shafer-for-reelection-to-georgia-gop-chair"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
 
 secured: "S9aPYkiU2cGme7h+x8UzKAuVVR08izpCOaC7wbuqo3uIH5PmDGt72uCll8vN0TeEnnL9wp8Vzd6xTLWYB0nXpCL9BZqM+wnwGH2No9oJ7NrVdpR4+ljSxGOc+AQUy2EfEnsm9bvi2HjVydYWeX2M1YNjtO+EzW6yqSj++/w8VdY5jjXOwgYwsniUw0V5JcGe0ioRobgelTo0wtylUdZiwgvz1SEc9jGPhH86cV8jvD3GjH8hBEsSVGfE3MXljrjdiyWDrFUeTOT6DjkGNsAPEJsZOcWEEZr3rFbhByQ4wjl9vQO4VlIPUzPPkLf6HffIY35CbPjv8OxP09eNqNeeNrRlkHj0dGf3g9TyLAVCqOc=;yOnprzM65t0uJT77i448OA=="
 ---
