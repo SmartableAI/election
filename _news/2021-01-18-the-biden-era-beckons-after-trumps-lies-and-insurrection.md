@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3990
+heat: 4010
 published: true
 
 provider:
@@ -2925,6 +2925,20 @@ related:
     excerpt: "The White House today announced that the U.S. will do more to help vaccinate the rest of the world — the latest reversal from the Trump era. But it won’t be everything global health advocates wanted."
     publishedDateTime: 2021-02-19T01:00:00Z
     webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/02/18/biden-mostly-breaks-with-trump-in-vaccinating-the-world-491803"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Trump let OANN in the White House. Now it's Biden's problem."
+    excerpt: "DONALD TRUMP is no longer in the White House, but his favorite cable news network, One America News Network, is still broadcasting from there — doing live shots from Pebble Beach, the North Lawn area that is considered precious real estate by the major TV networks."
+    publishedDateTime: 2021-03-24T22:13:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/03/24/bidens-oann-conundrum-492230"
     type: article
     provider:
       name: Politico

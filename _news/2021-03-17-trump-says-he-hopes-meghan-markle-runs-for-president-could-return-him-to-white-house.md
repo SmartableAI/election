@@ -92,6 +92,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Tech CEOs to Face Questions on Online Disinformation, Trump Ban"
+    excerpt: "The chief executives or Alphabet, Facebook and Twitter are set to appear before a House panel on Thursday."
+    publishedDateTime: 2021-03-25T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-315864/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Ex7QnDTCuKI9b6/pHSgNR17TxIuWf+2uIi8yVrV3I0LJPMVnA/qABJL+aP9g4GjLnI+N1yn+zWeRATF6DnchoXkgJX4b8zXM/CgJuTfjETzsI1UUiqp1O2H94QY3m68FOiKQqaB8MBs8Qp3gaadEm7sez9RG0JOaPUUYXhxgg+iFSxB6RHhpxLWO9oeR5OAAnSMjZQtPZ/h6cNKHg2wOQpp1vlcgrUHTmGcO3AKfQ1PiFMgHCaYxAi2FvIVoXQ/0caXHqPxTcsqADd3B5q0V8CfqM8xMf+nVXgtt4GJD5SVQzpfnmyx/oZljDhIrpnYxmAJs6IMiHD7IhxzwtaF8LkS7G6uNyxIZBrDEC1p1MsD0wEYSS55J4kMJ54iLCxN/ShSLeZaPevNloPianw5RJu0FLBbfzCyLn7oBT7bxgBea8KbPybj7qHkUdiovykAQj+8s+QzZemBOxBhXaJlG0EY3tsyfFwzXaeiwNNaD2wdsMzTq+TF3HlO0fdzSmP21fzH49nd9F4GeLyZHqSW6GA==;bodhI63AkVLNtD1T0QIOLA=="
 ---

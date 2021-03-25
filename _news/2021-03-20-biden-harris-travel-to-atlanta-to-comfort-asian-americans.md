@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1990
+heat: 2030
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 147
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555506176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I0ZH"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden names Harris to lead efforts with Mexico, Central America, to stem migrant flow"
+    excerpt: "President Joe Biden on Wednesday named Vice President Kamala Harris to lead U.S. efforts with Mexico and Central America's Northern Triangle countries to try to stem the flow of migration to the United States."
+    publishedDateTime: 2021-03-24T23:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-biden-harris-idUSKBN2BG2X6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG2X6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG2X6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 143
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556090171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1T7"
         width: 817
         height: 545
         isCached: true
@@ -1086,6 +1102,22 @@ related:
       - url: "https://media.firstcoastnews.com/assets/WTLV/images/d4ecd02d-aa9e-4950-a015-6d20f1c680bf/d4ecd02d-aa9e-4950-a015-6d20f1c680bf_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
+    excerpt: "Gov. Doug Ducey on Wednesday called Vice President Kamala Harris \"the worst possible choice\" to lead efforts to curb migration at the southern border, saying President Joe Biden had \"completely trivialized the issue by putting someone in charge who flat ..."
+    publishedDateTime: 2021-03-25T02:14:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6990780002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6990780002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/25/PPHX/d90f771d-aa1a-4b9b-ab6a-f1d603f9cbae-pjimage_5.jpg?auto=webp&crop=1749,984,x0,y175&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Kamala Harris visits Jacksonville COVID-19 vaccination site"
     excerpt: "The president, vice president, and first lady are traveling around the country visiting vaccine sites and community organizations."

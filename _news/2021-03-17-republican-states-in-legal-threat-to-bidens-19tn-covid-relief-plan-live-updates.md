@@ -1071,6 +1071,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden administration allows access to border facility -- but not ones over capacity"
+    excerpt: "Biden holds the first formal, solo news conference of his presidency Thursday. Biden administration allows camera inside border facility The Biden administration on Wednesday -- for the first time ..."
+    publishedDateTime: 2021-03-24T23:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/carizzo-springs-1-abc-er-210324_1616623526394_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Jill Biden hits the road as a key messenger on the White House’s stimulus victory lap"
     excerpt: "This was the first lady’s second stop at a reopened school this week as part of the White House’s travel and public relations frenzy to promote President Biden’s $1.9 trillion stimulus package. She was there to talk about $1,"
     publishedDateTime: 2021-03-20T10:04:00Z
@@ -1649,6 +1665,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_78025e49ed0645fa8108c5c8df7508c3_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden, Rapinoe push for gender pay equity"
+    excerpt: "U.S. President Joe Biden hosted U.S. women's national soccer team star Megan Rapinoe and teammate Margaret Purce at the White House on Wednesday as part of his push to secure better pay for American women, who earn 82 cents on average for every dollar ..."
+    publishedDateTime: 2021-03-24T23:24:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-rapinoe-push-for-gender-pay-equity-idOVE5G6TWF?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210324&i=OVE5G6TWF&r=OVE5G6TWF&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."

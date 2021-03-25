@@ -2937,6 +2937,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Trump let OANN in the White House. Now it's Biden's problem."
+    excerpt: "DONALD TRUMP is no longer in the White House, but his favorite cable news network, One America News Network, is still broadcasting from there — doing live shots from Pebble Beach, the North Lawn area that is considered precious real estate by the major TV networks."
+    publishedDateTime: 2021-03-24T22:13:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/03/24/bidens-oann-conundrum-492230"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "New Jersey Playbook Q&A: Phil Murphy on Joe Biden, the pandemic and Trump"
     excerpt: "New Jersey Playbook writer Matt Friedman spoke to Murphy briefly over the phone about his relationship with the new administration, former President Donald Trump and how vaccine distribution is going in New Jersey."
     publishedDateTime: 2021-01-21T12:01:00Z
