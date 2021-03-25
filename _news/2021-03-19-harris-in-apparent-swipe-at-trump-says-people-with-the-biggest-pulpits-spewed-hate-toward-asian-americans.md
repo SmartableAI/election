@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
 type: article
 quality: 181
-heat: 261
+heat: 241
 published: true
 
 provider:
@@ -77,22 +77,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/atlanta-massage-parlor-shootings.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From The Trump Administration"
-    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
-    publishedDateTime: 2021-03-23T00:22:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 84
-    images:
-      - url: "https://assets.realclear.com/images/53/538477.jpg"
-        width: 936
-        height: 702
         isCached: true
 
 secured: "8KyBhj4a7+GmjnfSNZiE1xv+JKHVtYGU2kCc3XObRD4DUrSH7JHmuPUZZhGnxOUU2+p4P8OLheSqu7mCbI1g7o/8i2b/3jpnrCI/c2Wdb3L3DLyhLf8JWUhEg5uGerUlsfahHHduE4LBPI7Z9NnfvB8zs/HcEGecrYiuETm0iUVB41SHhXH0hhMAbuY2iTVjplO2mPvdh8gWB41psyikReSb3Y30uUWUmvFFRe2WlQpAuOGh7hSP70ldyPhp55cc7e93ddy60/agbwK84Duxw3k3i3KTcrs4oHPorEwWQE7Cxc5S6lWAN+fbwjEhFE66PMIExkdwMxnkmY9kEVPXQKZvOHeGdtwGQ0ceA5plMfk=;QXdwiSDrEF/QD+NI/MbsXg=="

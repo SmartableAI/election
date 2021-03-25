@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp"
 type: article
 quality: 200
-heat: 1660
+heat: 1680
 published: true
 
 provider:
@@ -189,6 +189,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b785acf-217d-466f-9b67-e348685cf2da/fa1a4da6-3164-4de2-bf29-daf1144c2aa8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gingrich: 'Very clever' of Biden to pass 'peaceful invasion' to Harris before first press conference"
+    excerpt: "The United States is experiencing a \"peaceful invasion\" at its southern border, former House Speaker Newt Gingrich told \"The Ingraham Angle\" Wednesday."
+    publishedDateTime: 2021-03-25T05:07:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5hqtAvk3A/gingrich-biden-harris-border-crisis-peaceful-invasion"
+    ampWebUrl: "https://www.foxnews.com/politics/gingrich-biden-harris-border-crisis-peaceful-invasion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-biden-harris-border-crisis-peaceful-invasion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/172983f0-0b65-49e5-9ebe-b4c98e9cb5d3/953bcc95-3db0-4b11-a03f-281c25aa692a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1169,7 +1185,7 @@ related:
   - title: "Biden: I Told Kamala Harris She'd Be The Last Person In The Room, \"That Means She Gets Every Assignment\""
     excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U."
     publishedDateTime: 2021-03-24T19:35:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.amp.html"
     type: article

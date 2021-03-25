@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gingrich: 'Very clever' of Biden to pass 'peaceful invasion' to Harris before first press conference"
+    excerpt: "The United States is experiencing a \"peaceful invasion\" at its southern border, former House Speaker Newt Gingrich told \"The Ingraham Angle\" Wednesday."
+    publishedDateTime: 2021-03-25T05:07:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5hqtAvk3A/gingrich-biden-harris-border-crisis-peaceful-invasion"
+    ampWebUrl: "https://www.foxnews.com/politics/gingrich-biden-harris-border-crisis-peaceful-invasion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-biden-harris-border-crisis-peaceful-invasion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/172983f0-0b65-49e5-9ebe-b4c98e9cb5d3/953bcc95-3db0-4b11-a03f-281c25aa692a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Harris defends Biden Cabinet after criticism over lack of Asian Americans: 'Still more work to be done'"
     excerpt: "Vice President Kamala Harris is highligting the historic diversity of President Biden's Cabinet but acknowledges that there's \"still more work to be done.\""
     publishedDateTime: 2021-03-24T15:03:03Z
@@ -1169,7 +1185,7 @@ related:
   - title: "Biden: I Told Kamala Harris She'd Be The Last Person In The Room, \"That Means She Gets Every Assignment\""
     excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U."
     publishedDateTime: 2021-03-24T19:35:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.amp.html"
     type: article
@@ -1197,6 +1213,6 @@ related:
         height: 562
         isCached: true
 
-secured: "1CMMef2P7GCvohM8Sjv04Mz88a5dIb7tQ+oiV9biyujdtUugD3yK1QP3r6gCbY3SlAY+KsPjiAYPC37nQhgFYlcZpb5DMa9mR3gtx13hgBkOhtq1kNEagqIZ45BanmfGQBIDXDmGxMywaPDAaFghP2lATXKquC70BzRCweaLsFzU+M7gEZ3xeu1q1iEeOxoYUZbxGp3yzl2DtlzG5feOY3ZxLQptWD0mcFSP2ylHFsLggUHXWu9n888C/WhOYRmw+8qofe/VFSJGO+BXXrbUpL9RB6jfWAZ3O1jg1lgOsNN+EWUcmJkRShDpV/u9vgIKT4Q60sD1BP1j3cO5q3YSg2AfjkCr8INimx9b1k6MDww=;PjuLwqVC1VCrejFLHDm+Qg=="
+secured: "gyJoK+06NXCuiDK/C89MPAL6ZPTX5lDFn6D6lpmryH+NF35A3an6IrZ/O+CNhxNUDFvQubjO4xhukHZQKKb+lNqOPB4FaKuj8hhFabyg7EOJ2ZMhEBA7fV6YGr5KgwrBOqUhYN18XCI0gsgLsyqCRz4jOX2YwisDSe2bAjE8nCB3np1KfaQ7u/wmsp6ueySGO2CDvLv8VcWiuLBJ3LJdlFjx0nolDwFnjI9o3uvhSn3QVjGHkDsRS8nRRWg9n5ULEom84S/xkUj/IgXGf7PsGL5P3pTk/dbjnIvwc5WNi6dawehBzJLjLRpSo/4XbNJ3Oef+bv+CljnTJksWPo0q/ZssLkfX+Horvt9/jBjDZoaqjrYyfEp+Mo8r92owR+jhja3l0rNS3AERJmGHFHdwMWAtOriG4TexU8PDIAirMMe0yGfaEBzN4rKog8zS2EZpV0Sx16im1PkcmcMRxMi6mieUoi5OhbmxXpoL/dbGgfLTXDT+SFLxXgukIpTtBKI03JSs+awbVfoL/g0aJLHrMA==;XvKjcmY4N9txhX58r3Zz4A=="
 ---
 

@@ -28,67 +28,99 @@ images:
     isCached: true
 
 related:
-  - title: "Harris, in apparent swipe at Trump, says people ‘with the biggest pulpits’ spewed hate toward Asian Americans"
-    excerpt: "Vice President Kamala Harris, speaking in Atlanta in the wake of this week's mass shooting, said that people in power had been \"scapegoating Asian Americans,” an apparent reference to Donald Trump. "
-    publishedDateTime: 2021-03-19T23:15:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBqiYYYoQfk/harris-trump-people-pulpits-spewed-hate-asian-americans"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
+  - title: "Arizona’s Ducey calls Harris the ‘worst possible choice’ to fix border"
+    excerpt: "Gov. Doug Ducey, the Arizona Republican, didn’t mince words Wednesday shortly after he learned that President Biden was tapping Vice President Harris to oversee the effort to resolve the crisis at the U.S.-Mexico border."
+    publishedDateTime: 2021-03-25T05:36:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI3ATHYXEHo/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border"
+    ampWebUrl: "https://www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 181
+    quality: 185
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21008722501552.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris supports change to filibuster in Senate to limit minority party power"
+    excerpt: "Vice President Kamala Harris supports changing the filibuster practice in the Senate in order to limit the ability of the minority party to easily block legislation, her office confirmed to Fox News Wednesday. "
+    publishedDateTime: 2021-03-17T14:54:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScI6CQMge0E/kamala-harris-filibuster-senate-limit-minority-party-power"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'"
+    excerpt: "While taking questions from reporters outside of Air Force One, Harris was asked if she had \"plans to visit\" to the Southern border as the immigration crisis continues to develop."
+    publishedDateTime: 2021-03-22T22:44:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BK4ZqAuxMGM/kamala-harris-laughs-border-visit-reporter-question"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e88d0f84-283e-413a-b2d6-b3bea025b33e/d69dc25c-4233-41f0-8a90-a37da60d1669/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Jr: Andrew Cuomo the 'biggest predator in American politics today'"
-    excerpt: "Trump Organization executive vice president Donald Trump Jr. slammed New York Democratic Gov. Andrew Cuomo in the wake of a seventh accusation of sexual misconduct."
-    publishedDateTime: 2021-03-16T00:39:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvqkoDKLX_M/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today.amp"
+  - title: "VP Kamala Harris admits there is a ‘huge problem’ on southern border"
+    excerpt: "Vice President Harris admitted Wednesday that the border is facing “a huge problem,” keeping in step with the White House’s repeated refusal to call the out of control surge of"
+    publishedDateTime: 2021-03-24T15:04:00Z
+    webUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/"
+    ampWebUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'"
+    excerpt: "Vice President Kamala Harris laughed while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis. While taking questions from reporters outside of Air Force One, Harris was asked if ..."
+    publishedDateTime: 2021-03-22T22:48:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 129
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e51c902-2e32-430c-b7b3-56b5b1fe6650/16179807-06e0-4a45-9149-cf035b800f32/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e88d0f84-283e-413a-b2d6-b3bea025b33e/d69dc25c-4233-41f0-8a90-a37da60d1669/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Harris, in apparent swipe at Trump, says people ‘with the biggest pulpits’ spewed hate toward Asian Americans"
-    excerpt: "Vice President Kamala Harris, speaking in Atlanta in the wake of this week's mass shooting, said that people in power had been \"scapegoating Asian Americans,” an apparent reference to Donald Trump."
-    publishedDateTime: 2021-03-19T23:21:00Z
-    webUrl: "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp"
+  - title: "Kamala Harris: \"Stop Pushing The False Choice That Gun Control Means We're Coming After All Your Guns\""
+    excerpt: "Vice President Kamala Harris said Wednesday on “CBS This Morning” that “it is time for Congress to act” on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws."
+    publishedDateTime: 2021-03-24T18:13:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 49
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21008722501552.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Atlanta killings spark a raw debate about Asian-Americans, Trump and rhetoric"
-    excerpt: "The horrific shootings in Atlanta have plunged the country into an acute awareness, and difficult debate, over hatred aimed at Asian-Americans. And, as with every mass killing or terror attack, political finger-pointing has immediately been woven into that very raw discussion."
-    publishedDateTime: 2021-03-19T07:03:00Z
-    webUrl: "https://www.foxnews.com/media/atlanta-killings-spark-a-raw-debate-about-asian-americans-trump-and-rhetoric"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 112
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/atlanta-massage-parlor-shootings.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/53/538650.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "+93+wwR8TwY7Wt/MzZ50a1xY47qXqs66plRN+HWlY+GeRaGBVKgRrSlYV2WFuUjEEDj5J45XfIz7xjdR4PW8kkdNOtJPqAIex1ZDlQViCJqjO8/ZqfISppzYQc6C/yksILBkc3QlFHtgwo74okKfmne6d7sFNlSuzKeAIM3XpEJ2d7JGs9875ukUhsafWDqLV8rXX0o/26dOpwvnkheP5HuSVPQQz+51sCg+gwWPsEdFC9OzS9AmwUNizpGcBU4lelCl8RmTJdZgGlM1KxMp2SiyB8+cOc0YbOit3JNwVoJinvTh50QJCdf/ARwOsU1wzuQg2f9zgfdXK26AJg6OpGece7cHdohs8Qzm9ZvrSbweHPtDVNvgs4YNzLWuTqm6MWhXt85+uD6NXPtFUYlcMb5xxPLKcSD4ur7W4VLhjMXz7S28yQjn7c4uh3KLoL7rXBtGDqOA5HuNx6w2qQIr2gzX4EqkZcRynCb2TBkKXgStmOXPxjpT4iZzYbmlCvzmI7/pd2sxsbnGxLeuxF+wLw==;fuQ52H8jObanH7605sPsFA=="

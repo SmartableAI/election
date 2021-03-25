@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Arizona’s Ducey calls Harris the ‘worst possible choice’ to fix border"
+    excerpt: "Gov. Doug Ducey, the Arizona Republican, didn’t mince words Wednesday shortly after he learned that President Biden was tapping Vice President Harris to oversee the effort to resolve the crisis at the U.S.-Mexico border."
+    publishedDateTime: 2021-03-25T05:36:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI3ATHYXEHo/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border"
+    ampWebUrl: "https://www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris supports change to filibuster in Senate to limit minority party power"
+    excerpt: "Vice President Kamala Harris supports changing the filibuster practice in the Senate in order to limit the ability of the minority party to easily block legislation, her office confirmed to Fox News Wednesday. "
+    publishedDateTime: 2021-03-17T14:54:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScI6CQMge0E/kamala-harris-filibuster-senate-limit-minority-party-power"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'"
     excerpt: "While taking questions from reporters outside of Air Force One, Harris was asked if she had \"plans to visit\" to the Southern border as the immigration crisis continues to develop."
     publishedDateTime: 2021-03-22T22:44:44Z
@@ -48,22 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "VP Harris dodges question about migrant children: 'I haven't been briefed on anything today about it'"
-    excerpt: "Harris' response comes as the Biden administration has refused to call the perilous border situation a crisis."
-    publishedDateTime: 2021-03-17T00:54:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sowtBx8Ipek/vp-kamala-harris-migrant-children-border"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075827674492.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "VP Kamala Harris admits there is a ‘huge problem’ on southern border"
     excerpt: "Vice President Harris admitted Wednesday that the border is facing “a huge problem,” keeping in step with the White House’s repeated refusal to call the out of control surge of"
     publishedDateTime: 2021-03-24T15:04:00Z
@@ -79,6 +95,36 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From The Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-23T00:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
+        isCached: true
+  - title: "Kamala Harris: \"Stop Pushing The False Choice That Gun Control Means We're Coming After All Your Guns\""
+    excerpt: "Vice President Kamala Harris said Wednesday on “CBS This Morning” that “it is time for Congress to act” on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws."
+    publishedDateTime: 2021-03-24T18:13:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 49
+    images:
+      - url: "https://assets.realclear.com/images/53/538650.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "1wxLRcTZIyuxCqbbN3obgb68JvfDg4gBBEdcn9V1hHGaAP4GwbKipChvl0GAXdQgk9yeWEOMPJdXZi5PSzvQydugYnmI1OIykt+h7N5TaZpx3k3gfm+RP//Ff/n5DAxRUQvIcVBcIjokyA64qPNDalUzyVIn9rE5iQrRN3BIyJD1Ilj+VpeL4kEw9MRamr5svzO2JFJ/OH0btoWau4QNL3KtoNyH/y2bapIxxtAF1IjpLCMYiYxk3RPfh5JvaaRHKcCLbk5qzcbDh2xXV6h8+IMx6Uw8qBF7Rsl5I9dCHpQpQlMt8z0b/a/bSev0r61MfsdmGLBMx09c0mBiS6/m7t9xco0xe4T3O2fT5kmtfcA=;GVa3dcJD/bXWtL9Mu7GHTg=="

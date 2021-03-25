@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gingrich: 'Very clever' of Biden to pass 'peaceful invasion' to Harris before first press conference"
+    excerpt: "The United States is experiencing a \"peaceful invasion\" at its southern border, former House Speaker Newt Gingrich told \"The Ingraham Angle\" Wednesday."
+    publishedDateTime: 2021-03-25T05:07:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5hqtAvk3A/gingrich-biden-harris-border-crisis-peaceful-invasion"
+    ampWebUrl: "https://www.foxnews.com/politics/gingrich-biden-harris-border-crisis-peaceful-invasion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-biden-harris-border-crisis-peaceful-invasion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/172983f0-0b65-49e5-9ebe-b4c98e9cb5d3/953bcc95-3db0-4b11-a03f-281c25aa692a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden, Harris refuse to call for Cuomo to resign as governor's support collapses in New York, nationwide"
     excerpt: "President Biden and Vice President Kamala Harris are not calling for New York Gov. Andrew Cuomo to resign even as a growing number of New York and national Democrats say it's time for the scandal-ridden governor to step down."
     publishedDateTime: 2021-03-15T11:33:14Z
@@ -1169,7 +1185,7 @@ related:
   - title: "Biden: I Told Kamala Harris She'd Be The Last Person In The Room, \"That Means She Gets Every Assignment\""
     excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U."
     publishedDateTime: 2021-03-24T19:35:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.amp.html"
     type: article
