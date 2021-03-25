@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump eyeing partnership with new app for social media network: report"
+    excerpt: "Former President Donald Trump is reportedly mulling a partnership with existing app vendors to develop his own social media network. One of the vendors under consideration by Trump is a relatively"
+    publishedDateTime: 2021-03-25T00:30:00Z
+    webUrl: "https://nypost.com/2021/03/24/trump-eyeing-partnership-with-app-for-social-media-network-report/"
+    ampWebUrl: "https://nypost.com/2021/03/24/trump-eyeing-partnership-with-app-for-social-media-network-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/24/trump-eyeing-partnership-with-app-for-social-media-network-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-social-network-rumors-939.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "President Trump returning to social media in 2-3 months with own platform: top adviser"
     excerpt: "Jason Miller said that the former president will be back in two to three months, and will launch a new platform that he claimed would “completely redefine the game” and attract"
     publishedDateTime: 2021-03-21T16:58:00Z

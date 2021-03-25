@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris to Head Administration Effort to Stanch Migrant Surge"
 excerpt: "President Biden has asked the vice president to work with Mexico, El Salvador, Guatemala and Honduras to lead diplomatic efforts to stem the surge of migrants at the southern border."
 publishedDateTime: 2021-03-25T00:51:00Z
-originalUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
+webUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
 ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
 type: article
@@ -1197,6 +1197,6 @@ related:
         height: 562
         isCached: true
 
-secured: "QsyDSyjViL6m86PYXikG1+VLOJ+/fNTCS8IHwZUAF89ecJSXr5OGkDhOV9eDZjdfivVjyAsc2FywyZoy1mGBeyatCkc0Q2+d1/KNcJrGDI8VpPQ/u8EvKCCk97X4YCjWTeHcua/SD6DVqc383/V7L3+/ZOTv9iBGr1EFwKkHOQUDL3OMPQwzgUA2AeIy7FKYn4N3VekRqh7anhvmuogRZjDy7g2MNpTBFc1I7YzASr2DfCku815r+AdVz5m5N4yX82aFLI8UhftA6kRhDWaMITkntN1LOel9H4aSkIQkR5rn9J3ZUMk4nMTaesGlLZoGHMXhH0DOcgJHcyTz4heyy4AiAmGSLOJ82bWU6DIyHMQ=;GhT0OUBxPC/z6lB4c5gx6A=="
+secured: "1CMMef2P7GCvohM8Sjv04Mz88a5dIb7tQ+oiV9biyujdtUugD3yK1QP3r6gCbY3SlAY+KsPjiAYPC37nQhgFYlcZpb5DMa9mR3gtx13hgBkOhtq1kNEagqIZ45BanmfGQBIDXDmGxMywaPDAaFghP2lATXKquC70BzRCweaLsFzU+M7gEZ3xeu1q1iEeOxoYUZbxGp3yzl2DtlzG5feOY3ZxLQptWD0mcFSP2ylHFsLggUHXWu9n888C/WhOYRmw+8qofe/VFSJGO+BXXrbUpL9RB6jfWAZ3O1jg1lgOsNN+EWUcmJkRShDpV/u9vgIKT4Q60sD1BP1j3cO5q3YSg2AfjkCr8INimx9b1k6MDww=;PjuLwqVC1VCrejFLHDm+Qg=="
 ---
 

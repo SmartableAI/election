@@ -240,22 +240,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
-    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-    publishedDateTime: 2021-03-24T23:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b232b8f08e6550a170af4"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 132
-    images:
-      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Kamala Harris slowly starts to carve out role beyond 'making sure Joe Biden is a success'"
     excerpt: "Vice President Kamala Harris has said her signature issue would be \"making sure Joe Biden is a success,\" but a friend noted \"nothing about Kamala Harris is number two.\""
     publishedDateTime: 2021-02-17T23:44:00Z
@@ -655,6 +639,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/d7f0482/2147483647/strip/true/crop/4307x2813+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcc%2Fd5%2Fc4b4d1a94187b12a011a9623b5b0%2Felection-2020-joe-biden-74848.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
+    excerpt: "Besides Becerra, vice president Kamala Harris was state attorney general before she was elected to the US Senate. I'm so excited that Governor @GavinNewsom has nominated my good friend @RobBontaCA to be CA's next AG. Rob is a fighter for justice & will ..."
+    publishedDateTime: 2021-03-24T23:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bd10a8f08b6e4f17ca21e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
         isCached: true
   - title: "President Joe Biden in call with China's Xi Jinping raises human rights, trade"
     excerpt: "Joe Biden held his first call as president with China's Xi Jinping, pressing him on trade and Beijing's crackdown on democracy activists in Hong Kong."
@@ -2067,6 +2067,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "ZzXqb2FHZ6jy3Ehp2dhwnDBaSQdKjORSkcrDyRgLsOQTr8QxngGiUNWQhMNCLSF2o+zg9tL8sV3Jr1THCxrzSDSLfiNnVIMmvRn8hlNjZtu/EQOXrT2MUVxG/9ldNQvro7qYg5V2gLXStucTcVw/DH8QKK6mRjmePNIBHGVPaEofaIlgiucEHDU9tAir0r9tMqvUF4xTLY8QCmj2Dgs84tmyaonj42VB66Z+FbMx9A+fzNR54SqiBdGBN2THeo/F2i/XSguHwlUsZrZk3WKCKYiCx3/Q1Asr18kif/XEriPPAcRjbmC/WjTVC1RJcy41MWzz468Wb/77yaII5VGkqmWkt1QvEFpS0jJR3WLvdlY=;f01bzFBZ9RTmjGCsm3SaSQ=="
+secured: "cr+NX/l+yUsOmqiDw3K4jp88mtXZPyMc9LLqxVyUXZOpW0ktm3uD+UELUJL9w/4V5pAbO373kTGNppjjSS94GSWNq0m/re2UUWuQu+tY5WsfHNKrsjOU7vh7cZ7iykkGz4TxbgTA6dlddlkufvKa9PDyjrz4utgXCG/nrU5Nkfad+xgFuHVa6rUG928s+D8eodOxL2nYSOjDVltEtYxOweHekKfR/zJrQMdsHtVZyFl8V8YF3i4MyO4aZJKOAEhnu1GTbPCzYAlgKm0z+V3ZyC31HsH/6Vau1OIIIEHh41n1Vvi+tsEJ45IOg5392pieq62+AbtbMnQyNOJN718ljYIaJEzCdR6PJSgn9BFCKoGXzG4NTqgBO++f8M1aZuyOB+JxpHNkNpIenuHMPE0nYcF1c+N9bRFz4i1Z2GBo3zSJisMpfRc5y3s1W7lFZyRhrLPza2/VTh+lN1/ZTGrfJrq1VpnGI9GT7L2LClKdXEJ/wPUv194/cyO4UBKhqMEz9RCkaV9ovbo6iklbxufqag==;/taolKjy+YwByD09DY317A=="
 ---
 

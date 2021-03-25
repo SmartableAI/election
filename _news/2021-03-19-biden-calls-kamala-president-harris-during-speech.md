@@ -973,7 +973,7 @@ related:
   - title: "Kamala Harris to Head Administration Effort to Stanch Migrant Surge"
     excerpt: "President Biden has asked the vice president to work with Mexico, El Salvador, Guatemala and Honduras to lead diplomatic efforts to stem the surge of migrants at the southern border."
     publishedDateTime: 2021-03-25T00:51:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284?mod=newsviewer_click"
+    webUrl: "https://www.wsj.com/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
     ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-head-administration-effort-to-stanch-migrant-surge-11616617284"
     type: article

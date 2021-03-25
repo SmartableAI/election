@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
-excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+excerpt: "Besides Becerra, vice president Kamala Harris was state attorney general before she was elected to the US Senate. I'm so excited that Governor @GavinNewsom has nominated my good friend @RobBontaCA to be CA's next AG. Rob is a fighter for justice & will ..."
 publishedDateTime: 2021-03-24T23:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b232b8f08e6550a170af4"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b232b8f08e6550a170af4"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bd10a8f08b6e4f17ca21e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bd10a8f08b6e4f17ca21e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 type: article
-quality: 132
+quality: 122
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
@@ -2067,6 +2066,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "K+bdpb618XaTg004O/FV+0zdRZCHEj6WEN/I605uXgaQHNbsGcjA3VZCdwkcgoBqqvc5yxpswvBrt/DQgEDA8REn9VpYkrKr2zE7xwX35HrvlisxDjPgQ63pG2A0vITSQb7jgAmfuPz9/o22iiFLOCQKn2KqIeX7JnYZEg94V3PcegsGi1d2tdFQaBrgJObq4X+gswSm5xiH22CdFyEPweiXptsTXnBEncmC4SFL0Kpejb/c24uRjvnoMNO9NcMK1o+Emg8pfcg8cjMjDKezSejf50F+epJE/V7QZ5aY4WUrEHyJ4PwMGu23GaIPE019GP/o7dBJdBa0qDoTZHZdcdby89Yt+cwJPsp4bSDygBE=;o2pqaxsyqHNjtSfh7n++IA=="
+secured: "VVwF1uFdcxQ+5uVMTIOdTQfNp5BKY4S1lNdHl+g1p89eGldYgvV9ISIgvoTrXIs2r41Rne2vOfRC8xd7M7BDlAxzT7zsh2rpSNxD6iEda+dVsIy0WVBfCnxW8UcQWk+iNm8Uk3UunGJtBH/k+RSU2CjhC/Pn2Sxe5gEJoDgS8Ec2jEvIkMH44gtDlWpjnbcnbNfbjIrVwyr299j82pyfsLCT5E8ayJos/P69vgwaGHx82fkLdXddBwfdsA7FqhujDZCIrfbw5D2NFoi32U3z5nTpJDsTAHEtytOC1pwsZM3kJKN+PYJCFjFIVOxqFU3yGelBc390KHj5rDcXvgw3/XhCRhdpFkLozYR123EF7Hs=;KoXMiVcHBHDrQBCug+t3rw=="
 ---
 

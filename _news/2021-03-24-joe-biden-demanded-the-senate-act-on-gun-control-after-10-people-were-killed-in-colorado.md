@@ -1215,6 +1215,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden wants to explore keeping U.S. counter-terrorism troops in Afghanistan: top lawmaker"
+    excerpt: "House of Representatives Armed Services Committee Chairman Adam Smith’s comments provided new details of U.S. President Joe Biden’s conduct of the Afghanistan peace process that he inherited from the Trump administration. The State Department referred ..."
+    publishedDateTime: 2021-03-24T21:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-lawmaker/biden-wants-to-explore-keeping-u-s-counter-terrorism-troops-in-afghanistan-top-lawmaker-idUSKBN2BG3E1?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG3E1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG3E1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556102487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N228"
+        width: 784
+        height: 545
+        isCached: true
   - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
     excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"
     publishedDateTime: 2021-03-14T00:35:00Z

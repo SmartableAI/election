@@ -1178,6 +1178,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Vice President Kamala Harris to lead White House efforts to stem migration at the border"
+    excerpt: "Vice President Kamala Harris will work on establishing a partnership with Mexico and the northern triangle of Honduras, Guatemala and El Salvador."
+    publishedDateTime: 2021-03-24T21:42:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/03/24/kamala-harris-lead-biden-admin-stemming-migration-border/6984000002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6984000002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6984000002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/24/USAT/916b6cbc-bebc-4475-b510-4890de28baa7-GTY_1308935420.jpg?auto=webp&crop=5105,2872,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris touts COVID-19 relief plan, March Madness surprises: 5 things to know Monday"
     excerpt: "Vice President Kamala Harris will travel to Jacksonville on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an administration source. It will be her first visit since crisscrossing Florida last fall during the ..."
     publishedDateTime: 2021-03-22T07:20:00Z
