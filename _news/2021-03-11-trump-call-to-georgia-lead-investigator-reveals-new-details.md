@@ -32,133 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump endorses incumbent Georgia GOP head for reelection"
-    excerpt: "President Trump waded into the race to head Georgia’s GOP to endorse incumbent David Shafer on Wednesday. "
-    publishedDateTime: 2021-03-24T21:25:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hUc8MOjSlk/trump-endorses-incumbent-georgia-gop-head-for-reelection"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-incumbent-georgia-gop-head-for-reelection.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-incumbent-georgia-gop-head-for-reelection.amp"
+  - title: "Trump calls on former NFL player Herschel Walker to run for Senate in Georgia"
+    excerpt: "Former President Trump surpassed his usual endorsements Wednesday, this time instead calling on former NFL player Herschel Walker to run for Senate in Georgia. "
+    publishedDateTime: 2021-03-10T23:23:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ahryDbgJr0/trump-former-nfl-player-herschel-walker-senate-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
+    quality: 172
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20334644546013-e1606925054815.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a3b9981-65cb-4390-b809-4794e0a3be2d/2d52dade-2ecc-4f24-a1ff-c184491dcef7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Ohio GOP state lawmaker wants Trump’s name on state park; Dem blasts idea"
-    excerpt: "A Republican state lawmaker in Ohio says he plans to introduce a bill to rename a state park after former President Donald Trump – but at least one state Democrat quickly criticized the idea."
-    publishedDateTime: 2021-03-17T09:20:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wJQzZU-u0g4/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea"
-    ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp"
+  - title: "Washington Post runs correction admitting it ‘misquoted’ Trump in Georgia election story"
+    excerpt: "The Washington Post admitted in a correction that it had “misquoted” former President Donald Trump telling Georgia’s top elections investigator “to find the fraud,”"
+    publishedDateTime: 2021-03-15T21:05:00Z
+    webUrl: "https://nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/"
+    ampWebUrl: "https://nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
+      name: New York Post
+      domain: nypost.com
+    quality: 141
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2164743d-ee61-424b-a072-1570ef79a357/1d24269b-4351-4317-b59f-df2cb1834ee6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-georgia-wapo-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
-    excerpt: "Sen. Lindsey Graham, R-S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
-    publishedDateTime: 2021-03-23T20:13:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8AnsHGyNlMk/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+  - title: "Donald Trump urges Herschel Walker to enter Georgia Senate race"
+    excerpt: "Former President Donald Trump on Wednesday urged retired pro-football running back Herschel Walker to run for the U.S. Senate next year in Georgia. Walker, 59, was born in the Peach State and"
+    publishedDateTime: 2021-03-11T00:06:00Z
+    webUrl: "https://nypost.com/2021/03/10/donald-trump-urges-herschel-walker-to-enter-georgia-senate-race/"
+    ampWebUrl: "https://nypost.com/2021/03/10/donald-trump-urges-herschel-walker-to-enter-georgia-senate-race/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/donald-trump-urges-herschel-walker-to-enter-georgia-senate-race/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump backs challenger to Georgia's GOP secretary of state"
-    excerpt: "Former President Donald Trump's endorsing a bid by Rep. Jody Hice to oust Georgia Secretary of State Brad Raffensperger in next year's Republican primary."
-    publishedDateTime: 2021-03-22T15:30:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
+      name: New York Post
+      domain: nypost.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Getty-Jody-Hice.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Herschel-Walker-Donald-Trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
-    excerpt: "S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
-    publishedDateTime: 2021-03-23T20:15:00Z
-    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+  - title: "Greg Gutfeld blasts WaPo's 'deep-fake news' after massive retraction in Trump-Georgia reporting"
+    excerpt: "Greg Gutfeld slammed the mainstream media in the wake of a massive correction by The Washington Post, which read in part that, contrary to the paper's original reporting, former President Donald Trump did not tell Georgia state elections investigator Frances Watson to 'find the fraud."
+    publishedDateTime: 2021-03-16T23:07:00Z
+    webUrl: "https://www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting"
+    ampWebUrl: "https://www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 131
+    quality: 123
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/328f1d5b-d529-4e88-8490-e0379d34c001/5028207a-bf2a-4a39-b87f-df5df24e887e/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "As Trump teases a 2024 presidential run, potential GOP rivals start making early visits"
-    excerpt: "Donald Trump might not be the only one with an eye on 2024. Former Secretary of State Mike Pompeo heads to Iowa next week to advocate on behalf of conservatives. The trip by Pompeo, the former congressman from Kansas who served as CIA director in the Trump ..."
-    publishedDateTime: 2021-03-20T10:39:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 127
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/tim-scott-iowa-invitation.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "CNN's Brian Stelter skips Washington Post's major correction to Trump-Georgia story on media show"
-    excerpt: "CNN's left-wing media guru Brian Stelter has become reliable in skipping some of the biggest media stories on his Sunday media-centric program."
-    publishedDateTime: 2021-03-23T02:38:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-brian-stelter-washington-post-correction-reliable-sources"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-brian-stelter-washington-post-correction-reliable-sources.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-brian-stelter-washington-post-correction-reliable-sources.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 122
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a818897d-13f6-42b2-8628-b7ae5b68a37c/3306de8a-02ed-48eb-abab-f3195c83826e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
-    excerpt: "Mo Brooks of Alabama showcased his support and loyalty for former President Donald Trump as he launched his Senate campaign. To hammer home the point, he was accompanied by Stephen Miller, a top adviser to Trump during his tenure in the White House and the architect of the administration's hard line on illegal immigration."
-    publishedDateTime: 2021-03-23T15:51:00Z
-    webUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
-    ampWebUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 120
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "XP/7F4GO/Jjw/xW9dCOEF/ra+odp1SBwB9/Zb0DgBc52365AZvkmAQb4cEPNXAXAbGLy0EQWTiP6/eHEFsqon2oz7HRa7CaK87h9rnnUFvSV0KOl6N7VMTqx4cs61D9RhOKloOVc4H5WzeeexvBz8B0NEaNw93aK/9Wnkp8Xa3H+YsxJ5rvDs1H4e2qJ2XBkj9rfscHs9GnwPQI+0vXmRHjcPxGh+gBMAUnfXgoV1/BrJsnNoydXqqDUd7zYDau4iFG7mDe4O7ZBe5/XFnBHNcjoQaxNw199UDq2EGyFRDIQ1uKKg4RcbsqbLFl5GKc9d7XTgTNAhhMnwNowc2DCyMVpl3MgDceXQfnUI5V99JxjC95k/h7qzl2oQdqWpF8d0u+NJrhSl7d33JKrv7zqjE3uO2egZDVqo8Ii5V2AFmYYGF7R1R4di4Jru4k9MecAM/slh1wX3f5qWvSmazDdE2zhfj9ryJswTGNPsxrdIbtbvMeKEzzzF+JBzqy5tEbSDkFudZEDMrYofHBATwD0IQ==;3gd+ExDCXGDsyHq4EN0Dpw=="

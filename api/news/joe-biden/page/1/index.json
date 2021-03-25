@@ -54,25 +54,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-25-bidens-closest-senate-ally-emerges-as-a-shadow-secretary-of-state.md",
-      "title": "Biden's closest Senate ally emerges as a shadow secretary of state",
-      "excerpt": "The moment was a metaphor of sorts for Coons’ current role for President Joe Biden. The Delaware Democrat’s close friendship with Biden has already made Coons an unofficial White House envoy in the Senate, but he is now expanding his reach overseas ...",
+      "path": "_news/2021-03-24-biden-to-nominate-3-prosecutors-to-head-us-attorneys-offices-in-new-york.md",
+      "title": "Biden to nominate 3 prosecutors to head U.S. attorneys' offices in New York",
+      "excerpt": "WASHINGTON — President Joe Biden is expected to nominate three prosecutors to run the U.S. attorney’s offices in New York state, including the first Black man to run the Southern District of New York in Manhattan and the first Black woman to head the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "originalUrl": "https://www.politico.com/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
+      "webUrl": "https://www.nbcnews.com/politics/justice-department/biden-nominate-3-prosecutors-head-u-s-attorneys-offices-new-n1261910",
+      "originalUrl": "https://www.nbcnews.com/politics/justice-department/biden-nominate-3-prosecutors-head-u-s-attorneys-offices-new-n1261910",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 133,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/97/d4/0ad3da964751bdbeee429cb15725/210324-chris-coons-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_11/3457472/210317-joe-biden-jm-1131_c6a0aaa7e4d36bbffbf1bbec303e76e7.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -80,16 +80,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "publishedDateTime": "2021-03-24T13:49:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261910",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261910",
+      "publishedDateTime": "2021-03-24T06:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -575,63 +575,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-21-biden-dhs-chief-says-border-is-closed-but-us-wont-expel-children.md",
-      "title": "Biden DHS chief says 'border is closed' but U.S. won't expel children",
-      "excerpt": "In brief comments Sunday, President Joe Biden said he would visit the border \"at some point,\" adding that \"a lot more\" can be done to ensure migrants don't travel to the border. \"We’re in the process of doing it now, including making sure that we ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "originalUrl": "https://www.politico.com/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/00/1e/27b010b6460faf698bb791ed8d3c/210321-mayorkas-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "publishedDateTime": "2021-03-21T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-21-a-similar-challenge-how-joe-biden-echoes-kennedys-on-us-foreign-policy.md",
       "title": "'A similar challenge': how Joe Biden echoes Kennedys on US foreign policy",
       "excerpt": "Joe Biden speaks in the Oval Office on St Patrick’s Day, in front of a bust of Robert F Kennedy. Photograph: Andrew Harnik/AP The president does not just share Irish roots with John, Robert and Ted Kennedy – he also wants to lead America in the world ...",
@@ -681,63 +624,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-biden-rescinded-the-muslim-ban-but-many-families-remain-stuck-in-the-backlog.md",
-      "title": "Biden rescinded the 'Muslim ban.' But many families remain stuck in the backlog",
-      "excerpt": "HOUSTON — When President Joe Biden rescinded former President Donald Trump’s ban on immigrant visas from many Muslim-majority countries on his very first day in office, those eagerly waiting the change were elated. “I was so happy, so happy,” said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/biden-rescinded-muslim-ban-many-families-remain-stuck-backlog-n1261631",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/biden-rescinded-muslim-ban-many-families-remain-stuck-backlog-n1261631",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_11/3458280/210319-safieh-mohammadi-with-daughter-se-516p_69b5e08856caa843c3d960b518e6cbed.jpg",
-          "width": 3024,
-          "height": 2016,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261631",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261631",
-      "publishedDateTime": "2021-03-20T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -843,63 +729,6 @@
         "Election",
         "Joe Biden",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-white-house-says-biden-is-100-fine-after-he-tripped-boarding-air-force-one.md",
-      "title": "White House says Biden is '100% fine' after he tripped boarding Air Force One",
-      "excerpt": "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/03/19/politics/biden-air-force-one-trip/index.html",
-      "originalUrl": "https://www.cnn.com/2021/03/19/politics/biden-air-force-one-trip/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1564,6 +1393,162 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-the-latest-biden-says-we-all-lost-something-to-pandemic.md",
+      "title": "The Latest: Biden says ‘we all lost something’ to pandemic",
+      "excerpt": "President Joe Biden is delivering a somber but optimistic message on the one-year anniversary of the coronavirus pandemic",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-11T17:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-biden-is-deeply-concerned-highly-engaged-on-ethiopia-white-house.md",
+      "title": "Biden is deeply concerned, highly engaged on Ethiopia: White House",
+      "excerpt": "U.S. President Joe Biden is deeply concerned and highly engaged on the humanitarian situation in Ethiopia, White House press secretary Jen Psaki told reporters on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554584892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A1PP",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B32VX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B32VX",
+      "publishedDateTime": "2021-03-11T17:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-bidens-party-line-approach-in-congress-has-worked-so-far-but-sen-joe-manchin-wants-bipartisanship.md",
+      "title": "Biden’s party-line approach in Congress has worked so far. But Sen. Joe Manchin wants bipartisanship.",
+      "excerpt": "Manchin has reiterated that he believes the 60-vote requirement is what makes the Senate a unique legislative body across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
+      "originalUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I37U2VEB7YI6XLBXIOB7O4E2XY.jpg&w=1440",
+          "width": 1440,
+          "height": 979,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-11T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,162 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-17-biden-tough-to-withdraw-from-afghanistan-by-may.md",
+      "title": "Biden: 'Tough' to withdraw from Afghanistan by May",
+      "excerpt": "Withdrawing all U.S. troops from Afghanistan by May 1 as called for in a deal between the United States and the Taliban would be \"tough,\" President Biden Joe Biden Biden and Congress must take bold action to prevent violent extremism The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border crisis MORE said in an interview aired Wednesday,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may",
+      "originalUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe2_31121_gettyimages.png",
+          "width": 826,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may?amp",
+      "publishedDateTime": "2021-03-17T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-trump-net-worth-dropped-by-700-million-during-presidency-report.md",
+      "title": "Trump Net Worth Dropped By $700 Million During Presidency: Report",
+      "excerpt": "Former President Donald Trump lost about a quarter of his overall wealth during the four years he served in the White House, according to the latest estimate from the Bloomberg Billionaire Index. When Trump took office in 2017, his net worth was estimated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
+      "originalUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1758105/donald-trump.jpg",
+          "width": 1024,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1",
+      "publishedDateTime": "2021-03-17T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-biden-brands-putin-a-killer-and-says-he-will-pay-for-russian-election-interference-live.md",
+      "title": "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live",
+      "excerpt": "Joe Biden told immigrants making the difficult journey to the US-Mexico border “don’t come over” as the administration attempts to respond to an increase of unaccompanied children seeking asylum. In a wide-ranging interview with ABC News’ George ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates",
+      "publishedDateTime": "2021-03-17T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-reiterates-pledge-to-raise-taxes-on-americans-making-400000-or-more.md",
       "title": "Biden reiterates pledge to raise taxes on Americans making $400,000 or more",
       "excerpt": "President Joe Biden again reiterated he intends to raise taxes for the most wealthy Americans in an ABC News interview aired Wednesday, saying \"anybody making more than $400,000 a year will see a small to significant tax increase.\" He also pledged that individual Americans who make less than $400,000",
@@ -58,6 +214,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-17-chad-wolf-warns-migrants-wont-listen-to-bidens-dont-come-plea.md",
+      "title": "Chad Wolf warns migrants won't listen to Biden's 'don't come' plea",
+      "excerpt": "Former Acting DHS Secretary Chad Wolf warned on Wednesday that the surge of migrants to the southern border won't stop as long as those making the journey \"see other individuals\" being allowed to stay in the U.S.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb9ZgLr97Ho/joe-biden-dont-come-migrants-border-chad-wolf",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb9ZgLr97Ho/joe-biden-dont-come-migrants-border-chad-wolf",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp",
+      "publishedDateTime": "2021-03-17T06:31:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-arizona-sheriff-says-biden-border-crisis-worse-than-obama-years-like-the-wild-west.md",
       "title": "Arizona sheriff says Biden border crisis worse than Obama years: 'Like the Wild West'",
       "excerpt": "An Arizona sheriff said Wednesday that the current border crisis is worse than the Obama years, as DHS indicates that the migrant surge at the U.S.-Mexico border is expected to hit a 20-year high.",
@@ -70,7 +282,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 188,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -167,6 +379,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-sen-bill-hagerty-warns-biden-of-increasing-aggression-from-iran-says-regime-testing-us-resolve.md",
+      "title": "Sen. Bill Hagerty warns Biden of 'increasing aggression' from Iran, says regime testing US resolve",
+      "excerpt": "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden expressing concern about \"increasing aggression\" from the Iranian regime -- just as the Biden administration has eased off a sanctions push and is moving to reverse the prior administration’s \"maximum pressure\" strategy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/APGrl_hZuzw/sen-bill-hagerty-biden-increasing-aggression-iran",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/APGrl_hZuzw/sen-bill-hagerty-biden-increasing-aggression-iran",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T05:00:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -438,6 +706,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-17-ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.md",
+      "title": "Ohio GOP state lawmaker wants Trump’s name on state park; Dem blasts idea",
+      "excerpt": "A Republican state lawmaker in Ohio says he plans to introduce a bill to rename a state park after former President Donald Trump – but at least one state Democrat quickly criticized the idea.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wJQzZU-u0g4/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wJQzZU-u0g4/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2164743d-ee61-424b-a072-1570ef79a357/1d24269b-4351-4317-b59f-df2cb1834ee6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp",
+      "publishedDateTime": "2021-03-17T02:20:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-to-celebrate-st-patricks-day-virtually-with-irelands-prime-minister.md",
       "title": "Biden to celebrate St. Patrick's Day virtually with Ireland's prime minister",
       "excerpt": "President Joe Biden will host Taioseach Micheál Martin of Ireland for a virtual bilateral meeting on Wednesday to celebrate St. Patrick's Day, the White House says, in yet another traditional head of state visit changed by the pandemic.\n    \n",
@@ -506,7 +830,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -658,6 +982,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-17-biden-says-cuomo-should-resign-if-the-investigation-confirms-accusers-claims.md",
+      "title": "Biden says Cuomo should resign if the investigation confirms accusers' claims",
+      "excerpt": "President Biden said Democratic New York Gov. Andrew Cuomo should resign if investigations support the claims made by his accusers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6caaaa06-f983-4f4a-89aa-5a4899682cb2/ff5a3dc7-5d0e-49bc-a55c-89cca417a19e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp",
+      "publishedDateTime": "2021-03-16T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-vp-harris-dodges-question-about-migrant-children-i-havent-been-briefed-on-anything-today-about-it.md",
       "title": "VP Harris dodges question about migrant children: 'I haven't been briefed on anything today about it'",
       "excerpt": "Harris' response comes as the Biden administration has refused to call the perilous border situation a crisis.",
@@ -779,7 +1159,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -820,62 +1200,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-kayleigh-mcenany-biden-administration-incentivizing-flow-of-migrant-children-at-southern-border.md",
-      "title": "Kayleigh McEnany: Biden administration 'incentivizing' flow of migrant children at southern border",
-      "excerpt": "Former White House press secretary and Fox News Analyst Kayleigh McEnany reacts to the growing influx of migrant children at the southern border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdtHfZOHqhY/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdtHfZOHqhY/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp",
-      "publishedDateTime": "2021-03-16T15:52:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -996,7 +1320,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 208,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1037,322 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and-whitmer.md",
-      "title": "Michigan AG charges man with making death threats against Biden, Pelosi and Whitmer",
-      "excerpt": "Michigan Attorney General Dana Nessel (D) charged a 21-year-old man with making death threats against President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Split screen ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and",
-      "originalUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_pelosinancy_whitmergretchen.png",
-          "width": 980,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
-      "publishedDateTime": "2021-03-16T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-republicans-are-recycling-trumps-fear-mongering-about-terrorists-entering-the-us-through-mexico.md",
-      "title": "Republicans are recycling Trump's fear-mongering about terrorists entering the US through Mexico",
-      "excerpt": "DOW S&P 500 NASDAQ 100 As record numbers of unaccompanied minors turn up at southern border, congressional Republicans are echoing dubious claims from former President Donald Trump about terrorists attempting to cross into the US from Mexico. House ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
-      "originalUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/605113400347cb00184b61e4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
-      "publishedDateTime": "2021-03-16T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable.md",
-      "title": "Birx: Trump's disinfectant injection moment was 'extraordinarily uncomfortable'",
-      "excerpt": "Deborah Birx, the former White House coronavirus response coordinator, said on Monday that former President Trump’s suggestion to treat COVID-19 by injecting disinfectant and using ultraviolet rays wa",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable",
-      "originalUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_birxdeborah_03242020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable?amp",
-      "publishedDateTime": "2021-03-16T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-kamala-harris-tells-un-democracy-depends-on-empowerment-of-women-live.md",
-      "title": "Kamala Harris tells UN: 'Democracy depends on empowerment of women' – live",
-      "excerpt": "Vice-President gives pointed address to the UN on gender equality and women’s rights Joanna Walters (now) and Martin Belam (earlier) Martin Pengelly Meghan Markle’s comments about the royal family in her bombshell interview with Oprah Winfrey ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050b3a78f08b617ed42799b",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050b3a78f08b617ed42799b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0d5527ef8965a1f7abaaf21c99ddb64feb58858a/0_100_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d66423618d9e5709bb8cc359a6d6bb32",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates",
-      "publishedDateTime": "2021-03-16T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-gop-targets-biden-border-crisis-in-new-ad-campaign-aimed-at-battleground-districts.md",
-      "title": "GOP targets \"Biden border crisis\" in new ad campaign aimed at battleground districts",
-      "excerpt": "Republicans are ramping up their attacks on Democrats over the ongoing crisis at the Southern border, including a new ad campaign accusing President Joe Biden of opening the border instead of focusing on opening schools and businesses.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312143856-02-border-migrant-crisis-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
-      "publishedDateTime": "2021-03-16T09:46:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-scarborough-faults-biden-for-permissive-border-message.md",
-      "title": "Scarborough faults Biden for 'permissive' border message",
-      "excerpt": "MORE faulted the Biden administration at then end of his \"Morning Joe\" program on Tuesday for a \"permissive\" border message that was leading to a surge of immigrants. Scarborough said he agreed ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at",
-      "originalUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/scarboroughjoe_011821screenshot.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp",
-      "publishedDateTime": "2021-03-16T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

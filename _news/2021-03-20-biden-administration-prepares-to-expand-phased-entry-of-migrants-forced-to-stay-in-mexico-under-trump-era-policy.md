@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he agrees with Obama that filibuster is 'a relic of the Jim Crow era'"
+    excerpt: "Joe Biden told CNN's Kaitlan Collins on Thursday at the first formal news conference of his presidency that he agreed with former President Barack Obama that the filibuster \"was a relic of the Jim Crow era\" but added that his immediate focus was on addressing the abuse of the rule first.\n    \n"
+    publishedDateTime: 2021-03-25T18:56:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EJ9foi6-l1k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/filibuster-biden-obama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/filibuster-biden-obama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325143535-joe-biden-march-25-2021-03-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden under pressure to tap fewer political ambassadors than Trump, Obama"
     excerpt: "Donald Trump named more of his political allies to serve as ambassadors than any president in modern history. Now the pressure is on Joe Biden to reverse that trend — and set a new standard. Biden still plans to dole out ambassadorships to major campaign donors,"
     publishedDateTime: 2021-03-16T00:55:00Z

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'"
+    excerpt: "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. "
+    publishedDateTime: 2021-03-18T17:26:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas congressman, ex-sheriff rips 'no-borders Biden' for continuing to deny crisis"
     excerpt: "The Biden administration continues to ignore the crisis at the border while the migrant surge worsens, Rep. Troy Nehls told \"Fox & Friends.\"'"
     publishedDateTime: 2021-03-18T13:45:11Z
@@ -47,65 +63,33 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "AOC endorses controversial Democrat who compared voting for Biden to eating 's***'"
-    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., endorsed controversial Democrat Nina Turner running for a vacant Ohio congressional seat who compared voting for President Joe Biden to eating feces. "
-    publishedDateTime: 2021-03-22T20:35:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp"
+  - title: "Biden celebrates St. Patrick's Day with Irish PM, delivers address to Irish Americans"
+    excerpt: "President Biden celebrated St. Patrick’s Day virtually with Irish Prime Minister Micheál Martin Thursday and reiterated the U.S.’ ‘deep, deep affection’ for Ireland. "
+    publishedDateTime: 2021-03-17T23:47:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmNB-bXH5jo/biden-irish-pm"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-irish-pm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-irish-pm.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0e9a35a-cdd7-493d-b0e0-8535c57de3fb/071070e4-ce62-44fe-9a99-32dadfc7bf59/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Texas Democrat knocks Biden delegation over border visit: 'They didn’t talk to anybody'"
-    excerpt: "Rep. Henry Cuellar, D-Texas, criticized the Biden administration’s handling of the border crisis on Friday, telling \"Your World\" a delegation from the White House neglected to talk to anybody when they visited the region this week."
-    publishedDateTime: 2021-03-12T23:48:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekRjwQIiDAo/henry-cuellar-knocks-biden-delegation-border-trip"
-    ampWebUrl: "https://www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp"
+  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
+    excerpt: "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\""
+    publishedDateTime: 2021-03-15T21:32:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Texas congressman, ex-sheriff: Biden admin 'almost aiding and abetting' human trafficking"
-    excerpt: "The Biden administration is nearly “aiding and abetting in human trafficking” due to what is occurring at the southern border, Texas sheriff turned congressman Troy Nehls said on Thursday."
-    publishedDateTime: 2021-03-11T14:22:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ij7Ut9Dm8M/biden-border-crisis-human-trafficking-texas-nehls"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-human-trafficking-texas-nehls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-trafficking-texas-nehls.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden administration 'importing' coronavirus into Texas by not securing border: Gov. Abbott"
-    excerpt: "Texas Gov. Greg Abbott, R., told \"America's Newsroom\" Friday that the Biden administration is effectively importing coronavirus into the United States by not adequately securing the southern border."
-    publishedDateTime: 2021-03-19T14:32:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CZOpF_xlbQ/biden-importing-coronavirus-securing-border-abbott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
@@ -127,19 +111,65 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "As Biden keeps troops in Syria, ex-Texas trooper says 'it's time' for military to stop Mexican cartel crisis"
-    excerpt: "Jaeson Jones, a former captain in the Texas Department of Public Safety's counter-terror division, said Wednesday 'it's time' for the federal government to focus more on the escalating cartel violence, and the rapidly intensifying smuggling operations they oversee."
-    publishedDateTime: 2021-03-18T03:21:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t1UbZDFi8G4/as-biden-keeps-troops-in-syria-ex-texas-trooper-says-its-time-for-military-to-stop-mexican-cartel-crisi"
-    ampWebUrl: "https://www.foxnews.com/politics/as-biden-keeps-troops-in-syria-ex-texas-trooper-says-its-time-for-military-to-stop-mexican-cartel-crisi.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/as-biden-keeps-troops-in-syria-ex-texas-trooper-says-its-time-for-military-to-stop-mexican-cartel-crisi.amp"
+  - title: "Biden's 'open border' policies enriching drug cartels as migrant crisis escalates: Gov. Abbott"
+    excerpt: "President Biden’s “open border policies” are not only inviting more illegal immigration to the U.S. but also enriching and empowering drug cartels in Mexico who profit from smuggling migrants across the border, Texas Gov. Greg Abbott said Sunday."
+    publishedDateTime: 2021-03-14T17:38:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbAxoxVDSqo/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/639b258b-7c57-46fc-a06a-c4d33faf3680/5bbf9a3c-5136-4879-baf3-1f4ed111d3e1/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/550f6423-a32c-452f-bdfd-b560fe6553e7/7ba82ed6-7af9-448b-8ff7-aa6485e70ef4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Arizona governor hits Biden for poor communication on border: ‘He’s got a big microphone’ and should use it"
+    excerpt: "Arizona Gov. Doug Ducey told ABC News’ \"This Week\" that the president should be more communicative to prevent worsening the crisis at the border."
+    publishedDateTime: 2021-03-21T20:07:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkuUb-GnBOg/arizona-governor-drags-biden-for-poor-communication-at-border-hes-got-a-big-microphone-and-should-use-it"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-governor-drags-biden-for-poor-communication-at-border-hes-got-a-big-microphone-and-should-use-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-governor-drags-biden-for-poor-communication-at-border-hes-got-a-big-microphone-and-should-use-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/48d5462d-00b3-4005-99b4-497dbde05f0c/9fd5a85e-a24f-4b21-9fe7-faa49ef12b3b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Republicans urge Biden to allow media access to border ops amid 'out of control' crisis"
+    excerpt: "EXCLUSIVE: More than 20 House Republicans on Thursday wrote to President Biden urging his administration to stop blocking media access to border facilities amid what they described as an \"out of control\" crisis at the border."
+    publishedDateTime: 2021-03-25T19:09:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mcy1UJGJGtk/house-republicans-biden-media-access-border-facilities"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/795dc737-b1c2-46a7-a833-80bc04f0d8b1/b7365531-e3e7-403e-b1ed-2ebfb455bd6c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'"
+    excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border."
+    publishedDateTime: 2021-03-14T07:26:00Z
+    webUrl: "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy"
+    ampWebUrl: "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/114a33b8-ebad-4e1c-8c89-c639c966c2a7/82772f54-2d9d-440a-8640-896b0a23a31d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

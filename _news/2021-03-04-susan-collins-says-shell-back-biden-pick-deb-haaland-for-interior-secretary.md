@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden says he has no plans to travel to the southern border"
-    excerpt: "President Biden said Tuesday he does not have any plans to travel to the southern border \"at the moment,\" amid a migrant surge in migrants and overwhelmed facilities. "
-    publishedDateTime: 2021-03-16T18:29:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DIFlsdjZmWk/biden-travel-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-travel-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-travel-southern-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden has struggled with names of Cabinet members, lawmakers and other politicians"
     excerpt: "President Biden seems to have a spotty memory when it comes to names and details. "
     publishedDateTime: 2021-03-09T18:49:24Z

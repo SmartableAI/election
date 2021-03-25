@@ -2,23 +2,23 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-03-14-floridas-ron-desantis-slams-bidens-disastrous-border-policy-trump-had-it-right.md",
-      "title": "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'",
-      "excerpt": "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border.",
+      "path": "_news/2021-03-14-pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system.md",
+      "title": "Pelosi blames Donald Trump for ‘humanitarian challenge’ at border, inheritance of ‘broken system’",
+      "excerpt": "House Speaker Nancy Pelosi points fingers at former President Donald Trump for the current situation at the border on ABC News' \"This Week.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy",
-      "originalUrl": "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E_cHIboLc_Y/pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E_cHIboLc_Y/pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 143,
+      "heat": 182,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/114a33b8-ebad-4e1c-8c89-c639c966c2a7/82772f54-2d9d-440a-8640-896b0a23a31d/1280x720/match/image.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0aa8298d-286e-4223-940c-79aa5850d627/e55e808f-3039-4df5-978a-48237bd336f3/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -28,9 +28,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp",
-      "publishedDateTime": "2021-03-13T23:26:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system.amp",
+      "publishedDateTime": "2021-03-14T13:47:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-ny-sheriff-violated-hatch-act-by-flying-pro-trump-flag-on-summer-boat-parade-us-agency.md",
+      "title": "NY sheriff violated Hatch Act by flying pro-Trump flag on summer boat parade: US agency",
+      "excerpt": "An upstate New York sheriff received a warning from federal investigators for violating the Hatch Act by flying a \"Making America Great\" flag during a pro-Trump boat parade last summer. Oswego County Sheriff Don Hilton received a warning letter from the U ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade",
+      "originalUrl": "https://www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade.amp",
+      "publishedDateTime": "2021-03-14T07:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -55,6 +111,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-levin-biden-white-house-using-huge-propaganda-effort-to-push-tyrannical-agenda-claim-vaccine-credit.md",
+      "title": "Levin: Biden White House using 'huge propaganda effort' to push 'tyrannical agenda,' claim vaccine credit",
+      "excerpt": "The Biden administration is in \"a mad rush\" to institute a \"radical, tyrannical agenda\" as quickly as possible with minimal scrutiny, \"Life, Liberty & Levin\" host Mark Levin argued Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjcavFYC0Tc/mark-levin-biden-white-house-propaganda-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjcavFYC0Tc/mark-levin-biden-white-house-propaganda-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3c5b849-d650-48b2-9a7c-0c5540d5eccc/b4f75905-f0b6-4447-9b85-b378fba51502/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mark-levin-biden-white-house-propaganda-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-levin-biden-white-house-propaganda-campaign.amp",
+      "publishedDateTime": "2021-03-14T04:30:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     },
@@ -164,25 +276,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-12-dem-new-mexico-gov-grisham-concerned-with-bidens-energy-agenda-doesnt-make-any-sense.md",
-      "title": "Dem New Mexico Gov. Grisham concerned with Biden's energy agenda: 'Doesn't make any sense'",
-      "excerpt": "New Mexico Democratic Gov. Michelle Lujan Grisham said during Wednesday's event that President Biden's moratorium pausing oil and gas leasing on federal lands \"hurts New Mexico.\"",
+      "path": "_news/2021-03-12-texas-democrat-knocks-biden-delegation-over-border-visit-they-didnt-talk-to-anybody.md",
+      "title": "Texas Democrat knocks Biden delegation over border visit: 'They didn’t talk to anybody'",
+      "excerpt": "Rep. Henry Cuellar, D-Texas, criticized the Biden administration’s handling of the border crisis on Friday, telling \"Your World\" a delegation from the White House neglected to talk to anybody when they visited the region this week.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQunnf9DxHE/new-mexico-grisham-biden-oil-moratorium",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQunnf9DxHE/new-mexico-grisham-biden-oil-moratorium",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekRjwQIiDAo/henry-cuellar-knocks-biden-delegation-border-trip",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekRjwQIiDAo/henry-cuellar-knocks-biden-delegation-border-trip",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 165,
+      "heat": 187,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -190,9 +302,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/new-mexico-grisham-biden-oil-moratorium.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-mexico-grisham-biden-oil-moratorium.amp",
-      "publishedDateTime": "2021-03-12T14:37:21-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp",
+      "publishedDateTime": "2021-03-12T15:48:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -332,6 +444,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-12-biden-coronavirus-bill-waste-of-money-payoff-to-pelosis-political-friends-mccarthy.md",
+      "title": "Biden coronavirus bill 'waste of money, payoff to Pelosi's political friends': McCarthy",
+      "excerpt": "The massive $1.9 trillion coronavirus relief bill is a \"waste of money\" and a \"payoff\" to House Speaker Nancy Pelosi's \"political friends,\" Rep. Kevin McCarthy, R-Calif., said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwhwKRuOVzE/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwhwKRuOVzE/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends.amp",
+      "publishedDateTime": "2021-03-12T08:53:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-manhattan-district-attorney-cy-vance-who-sought-trumps-tax-returns-to-retire.md",
       "title": "Manhattan District Attorney Cy Vance, who sought Trump's tax returns, to retire",
       "excerpt": "Manhattan District Attorney Cyrus Vance Jr., a longtime foe of former President Donald Trump, will not run for re-election.",
@@ -361,62 +529,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
       "publishedDateTime": "2021-03-12T05:17:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-biden-and-leaders-of-japan-australia-india-to-unveil-plans-to-boost-coronavirus-vaccine-production.md",
-      "title": "Biden and leaders of Japan, Australia, India to unveil plans to boost coronavirus vaccine production",
-      "excerpt": "President Biden and other leaders of nations in the \"Quad\" alliance will unveil an agreement to ramp up production of coronavirus vaccines in Southeast Asia in a first-of-its-kind virtual meeting Friday, according to senior administration officials with knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3aWQAGGEbE/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3aWQAGGEbE/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7acab5e-b008-41de-bc5f-595cc76dc02e/e95ab723-09b5-472b-9196-51d50716a162/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit.amp",
-      "publishedDateTime": "2021-03-12T02:03:02-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -699,62 +811,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax.amp",
       "publishedDateTime": "2021-03-11T15:50:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-bidens-inhumane-message-puts-migrants-in-hands-of-smugglers-traffickers-chad-wolf.md",
-      "title": "Biden’s ‘inhumane’ message puts migrants in hands of smugglers, traffickers: Chad Wolf",
-      "excerpt": "President Biden’s \"inhumane\" border policies are encouraging migrants to put themselves in the \"hands of smugglers and traffickers,\" former Acting DHS Secretary Chad Wolf told \"America Reports\" Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7Mu2FW-fEnE/bidens-migrants-smugglers-traffickers-chad-wolf",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7Mu2FW-fEnE/bidens-migrants-smugglers-traffickers-chad-wolf",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-migrants-smugglers-traffickers-chad-wolf.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-migrants-smugglers-traffickers-chad-wolf.amp",
-      "publishedDateTime": "2021-03-11T14:25:29-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1123,7 +1179,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 232,
+      "heat": 252,
       "tags": null,
       "images": [
         {
@@ -1179,7 +1235,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1347,7 +1403,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1403,7 +1459,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 187,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -1604,63 +1660,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-former-vp-pence-narrates-the-age-of-rush-a-look-at-the-man-behind-the-golden-microphone.md",
-      "title": "Former VP Pence narrates 'The Age of Rush', a look at the man behind the golden microphone",
-      "excerpt": "How did Rush Limbaugh, a shy college dropout, become the most powerful radio talk show host of all time? A new FOX Nation special, \"The Age of Rush\" examines the late conservative icon's life and legacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/age-of-rush-mike-pence-fox-nation",
-      "originalUrl": "https://www.foxnews.com/media/age-of-rush-mike-pence-fox-nation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7de868b9-f13f-46e9-b925-00a0931cee67/cf3c51c9-4438-4f96-83a7-82ff737b32a1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/age-of-rush-mike-pence-fox-nation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/age-of-rush-mike-pence-fox-nation.amp",
-      "publishedDateTime": "2021-03-09T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Republican Voice"
       ]
     }

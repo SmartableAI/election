@@ -80,22 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tech CEOs to Face Questions on Online Disinformation, Trump Ban"
-    excerpt: "The chief executives or Alphabet, Facebook and Twitter are set to appear before a House panel on Thursday."
-    publishedDateTime: 2021-03-25T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-315864/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump says he hopes Meghan Markle runs for president, could return him to White House"
     excerpt: "Former President Donald Trump on Tuesday said that a he is “not a fan” of Meghan Markle but that he hopes she launches her rumored 2024 presidential run. Trump was asked in a Fox News ..."
     publishedDateTime: 2021-03-17T01:30:00Z

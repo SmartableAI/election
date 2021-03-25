@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-16-psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.md",
+      "title": "Psaki: Gun control a 'priority,' Biden 'not afraid of standing up' to the NRA",
+      "excerpt": "White House press secretary Jen Psaki on Tuesday said gun control is a \"priority\" for President Biden – and said he is \"not afraid of standing up\" to the National Rifle Association.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KNMXNPtCCYA/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KNMXNPtCCYA/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.amp",
+      "publishedDateTime": "2021-02-16T10:27:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-rep-bennie-thompson-files-civil-lawsuit-against-trump-for-jan-6-riot-we-must-hold-him-accountable.md",
       "title": "Rep. Bennie Thompson files civil lawsuit against Trump for Jan. 6 riot: 'We must hold him accountable'",
       "excerpt": "Rep. Bennie Thompson, D-Miss., on Tuesday filed a civil lawsuit against former President Trump, accusing him of inciting the deadly Jan. 6 Capitol riot and conspiring with attorney Rudy Giuliani and extremist groups to stop Congress from certifying President Biden's Electoral College win.",
@@ -1620,62 +1676,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-del-plaskett-says-jan-6-rally-didnt-have-permit-to-march-to-the-capitol-until-trump-stepped-in.md",
-      "title": "Del. Plaskett says Jan. 6 rally didn't have permit to march to the Capitol until Trump stepped in",
-      "excerpt": "Del. Stacey Plaskett, D-Virgin Islands, claimed Wednesday that the “Save America” rally did not have a permit to march to the Capitol on Jan. 6 until President Trump stepped in. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3cLU5t4xw2Y/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3cLU5t4xw2Y/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Stacey-Plaskett-Impeachment-Manager-AP.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp",
-      "publishedDateTime": "2021-02-10T13:54:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

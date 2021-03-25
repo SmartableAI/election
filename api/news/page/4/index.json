@@ -2,6 +2,272 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-20-trump-boosts-julia-letlow-ahead-of-louisiana-special-election.md",
+      "title": "Trump boosts Julia Letlow ahead of Louisiana special election",
+      "excerpt": "Former President Trump Donald Trump Illinois House passes resolution condemning state rep. for 'standing with insurrectionists' Florida Democrats call for election redo after former state senator ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/544146-trump-boosts-julia-letlow-ahead-of-louisiana-special-election",
+      "originalUrl": "https://thehill.com/homenews/campaign/544146-trump-boosts-julia-letlow-ahead-of-louisiana-special-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_letlowjulia_youtubegetty.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/544146-trump-boosts-julia-letlow-ahead-of-louisiana-special-election?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/544146-trump-boosts-julia-letlow-ahead-of-louisiana-special-election?amp",
+      "publishedDateTime": "2021-03-20T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-video-of-mike-pence-tripping-on-stairs-resurfaces-after-joe-bidens-stumble.md",
+      "title": "Video of Mike Pence Tripping on Stairs Resurfaces After Joe Biden's Stumble",
+      "excerpt": "President Joe Biden stumbled as he boarded Air Force One, in an echo of a similar incident experience by the former Vice President.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566",
+      "originalUrl": "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2558,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1760141/us-vice-president-mike-pence.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1",
+      "publishedDateTime": "2021-03-20T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-biden-celebrates-meeting-100m-vaccine-dose-goal-weeks-early-pizzeria-owner-in-jail-for-violating-virus-rules-live-covid-19-updates.md",
+      "title": "Biden celebrates meeting 100M vaccine dose goal weeks early; pizzeria owner in jail for violating virus rules: Live COVID-19 updates",
+      "excerpt": "Vaccine supply continues to increase, but U.S. cases are plateauing as more contagious variants spread. Latest COVID-19 news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2021/03/20/covid-updates-march-madness-during-pandemic-cdc-student-guidelines/4768684001/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2021/03/20/covid-updates-march-madness-during-pandemic-cdc-student-guidelines/4768684001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/15/USAT/851345d5-de6c-4a98-9500-56714c7c44f3-AP_Virus_Outbreak_California_Vaccine.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4768684001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4768684001",
+      "publishedDateTime": "2021-03-20T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-biden-harris-travel-to-atlanta-to-comfort-asian-americans.md",
+      "title": "Biden, Harris travel to Atlanta to comfort Asian Americans",
+      "excerpt": "President Joe Biden and Vice President Kamala Harris are offering solace to Asian Americans and a reeling nation as they visit Atlanta just days after a white gunman killed eight people, most of them",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2030,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-19T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-harris-in-apparent-swipe-at-trump-says-people-with-the-biggest-pulpits-spewed-hate-toward-asian-americans.md",
+      "title": "Harris, in apparent swipe at Trump, says people ‘with the biggest pulpits’ spewed hate toward Asian Americans",
+      "excerpt": "Vice President Kamala Harris, speaking in Atlanta in the wake of this week's mass shooting, said that people in power had been \"scapegoating Asian Americans,” an apparent reference to Donald Trump. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBqiYYYoQfk/harris-trump-people-pulpits-spewed-hate-asian-americans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBqiYYYoQfk/harris-trump-people-pulpits-spewed-hate-asian-americans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21008722501552.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp",
+      "publishedDateTime": "2021-03-19T16:15:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-baltimore-prosecutor-marilyn-mosby-once-championed-by-vp-harris-now-target-of-federal-investigation.md",
       "title": "Baltimore prosecutor Marilyn Mosby, once championed by VP Harris, now target of federal investigation",
       "excerpt": "State's Attorney for Baltimore Marilyn Mosby, whose career was boosted by Vice President Kamala Harris, is now facing a federal investigation with a wide breadth of subpoenas.",
@@ -167,167 +433,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-19-biden-white-house-says-its-ready-to-have-frank-conversation-with-china.md",
-      "title": "Biden White House says it's ready to have 'frank conversation' with China",
-      "excerpt": "The White House said the Biden administration is ready to have a \"frank conversation\" with China and is negotiating from a position of \"strength,\" as officials hold tense bilateral talks with Beijing. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OqQlpkMLDU/biden-white-house-conversation-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OqQlpkMLDU/biden-white-house-conversation-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-conversation-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-conversation-china.amp",
-      "publishedDateTime": "2021-03-19T10:58:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-white-house-says-biden-is-100-fine-after-he-tripped-boarding-air-force-one.md",
-      "title": "White House says Biden is '100% fine' after he tripped boarding Air Force One",
-      "excerpt": "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/03/19/politics/biden-air-force-one-trip/index.html",
-      "originalUrl": "https://www.cnn.com/2021/03/19/politics/biden-air-force-one-trip/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-trump-wax-figure-museum-always-had-trouble-with-presidential-section.md",
-      "title": "Trump wax figure museum ‘always had trouble with presidential section’",
-      "excerpt": "Presidential wax figures need a Secret Service detail of their own. Replicas of the last three commanders in chief have been subject to constant vandalism at a San Antonio museum. “When it’s a",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
-      "originalUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-wax-01.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
-      "publishedDateTime": "2021-03-19T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-20-see-the-list-of-florida-gop-websites-that-still-show-trump-as-president.md",
       "title": "See the list of Florida GOP websites that still show Trump as president",
       "excerpt": "Donald Trump lost the 2020 election, but some Florida GOP sites continue to show him as the winner and the current president of the United States.",
@@ -437,6 +542,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-19-biden-stumbles-multiple-times-falls-as-he-scales-air-force-one-stairs.md",
+      "title": "Biden stumbles multiple times, falls as he scales Air Force One stairs",
+      "excerpt": "President Biden stumbled twice and fell as he scaled the stairs to Air Force One on Friday at Joint Base Andrews. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
+      "publishedDateTime": "2021-03-19T09:12:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-biden-to-meet-putin-when-the-time-is-right-white-house.md",
       "title": "Biden to meet Putin 'when the time is right': White House",
       "excerpt": "U.S. President Joe Biden, who said earlier this week he thought Vladimir Putin was a killer, will meet with the Russian leader \"when the time is right,\" the White House said on Friday.",
@@ -541,23 +702,23 @@
       ]
     },
     {
-      "path": "_news/2021-03-19-kevin-mccarthy-on-fox-friends-biden-border-crisis-now-becoming-human-tragedy.md",
-      "title": "Kevin McCarthy on 'Fox & Friends': Biden border crisis now becoming 'human tragedy'",
-      "excerpt": "The issues on the border go beyond a crisis to a \"human tragedy,\" House Minority Leader Kevin McCarthy, R-Calif., said on Friday, reacting to the Biden administration denying media access to migrant facilities.",
+      "path": "_news/2021-03-19-biden-administration-importing-coronavirus-into-texas-by-not-securing-border-gov-abbott.md",
+      "title": "Biden administration 'importing' coronavirus into Texas by not securing border: Gov. Abbott",
+      "excerpt": "Texas Gov. Greg Abbott, R., told \"America's Newsroom\" Friday that the Biden administration is effectively importing coronavirus into the United States by not adequately securing the southern border.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CZOpF_xlbQ/biden-importing-coronavirus-securing-border-abbott",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CZOpF_xlbQ/biden-importing-coronavirus-securing-border-abbott",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -567,65 +728,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
-      "publishedDateTime": "2021-03-19T07:29:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-florida-ex-sen-bill-nelson-to-be-tapped-by-biden-for-nasa-administrator.md",
-      "title": "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator",
-      "excerpt": "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp",
-      "publishedDateTime": "2021-03-19T05:51:10-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp",
+      "publishedDateTime": "2021-03-19T07:32:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -927,62 +1032,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-biden-touts-fight-against-climate-crisis-while-refusing-to-call-border-crisis.md",
-      "title": "Biden touts fight against 'climate crisis' while refusing to call border ‘crisis’",
-      "excerpt": "In a tweet posted Thursday, the president lauded the swearing-in of his new Environmental Protection Agency (EPA) Administrator Michael Regan and boasted how his new environment czar will fight the “climate crisis.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/irtKcFvbPew/biden-immigration-border-crisis-climate-change-psaki",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/irtKcFvbPew/biden-immigration-border-crisis-climate-change-psaki",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be1041b4-3a45-4c0b-9d72-beeadf4278d4/9e2ca884-53d9-4f03-9f67-f970b6b2dd69/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-border-crisis-climate-change-psaki.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-border-crisis-climate-change-psaki.amp",
-      "publishedDateTime": "2021-03-18T16:14:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-18-giroir-accuses-biden-of-playing-fast-and-loose-with-covid-science-taking-credit-for-operation-warp-speed.md",
       "title": "Giroir accuses Biden of playing 'fast and loose' with COVID science, taking credit for Operation Warp Speed",
       "excerpt": "President Biden is somehow able to \"stand up and completely rewrite history and go fast and loose with the science and the data,\" former HHS Assistant Secretary Brett Giroir told \"The Story\" Thursday.",
@@ -1107,7 +1156,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1760,
+      "heat": 1800,
       "tags": null,
       "images": [
         {
@@ -1264,21 +1313,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-mitch-mcconnell-swipes-at-kamala-harris-senate-role-if-filibuster-ends-in-wsj-op-ed.md",
-      "title": "Mitch McConnell Swipes at Kamala Harris' Senate Role If Filibuster Ends in WSJ Op-Ed",
-      "excerpt": "Senate Minority Leader Mitch McConnell of Kentucky took a jab at Vice President Kamala Harris's role in the Senate if the filibuster were to end, in an op-ed published in the Wall Street Journal on Wednesday. In the op-ed, titled \"The Scorched Earth Senate ...",
+      "path": "_news/2021-03-18-rick-scott-blasts-biden-immigration-policies-americans-dont-want-open-borders.md",
+      "title": "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'",
+      "excerpt": "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. ",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105",
-      "originalUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 350,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1758570/senate-minority-leader-mitch-mcconnell-r-ky-talks.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1286,16 +1339,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1",
-      "publishedDateTime": "2021-03-18T09:19:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp",
+      "publishedDateTime": "2021-03-18T10:26:11-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1312,59 +1365,7 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-what-andrew-cuomo-and-kamala-harris-said-about-vaccine-skepticism.md",
-      "title": "What Andrew Cuomo and Kamala Harris said about vaccine skepticism",
-      "excerpt": "Both indicated that they didn’t fully trust the Trump administration to oversee the process, as many Republicans point out now. But their comments are worth a close look.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 485,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37AHSJTXWAI6XAIVTLK6TQBBC4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp",
-      "publishedDateTime": "2021-03-18T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
+        "Republican Voice"
       ]
     }
   ],

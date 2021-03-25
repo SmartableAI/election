@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/trump-washington-post-correction-georg
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-washington-post-correction-georgia.amp"
 type: article
 quality: 131
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-6.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "CNN's Brian Stelter skips Washington Post's major correction to Trump-Georgia story on media show"
+    excerpt: "CNN's left-wing media guru Brian Stelter has become reliable in skipping some of the biggest media stories on his Sunday media-centric program."
+    publishedDateTime: 2021-03-23T02:38:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-brian-stelter-washington-post-correction-reliable-sources"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-brian-stelter-washington-post-correction-reliable-sources.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-brian-stelter-washington-post-correction-reliable-sources.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a818897d-13f6-42b2-8628-b7ae5b68a37c/3306de8a-02ed-48eb-abab-f3195c83826e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "mzlE6kvqNBy/a5b6K8OaGQoG5tOPXxRMYLf36e9UYbZmvoRi8LrvQbCANm8Y7NIwbVjxsxdLlz07IVnXUD/borJokRdZa+qBGmvk2UwyB8/ofEbC1QSTqe+5/LIHdITRnhbmM+Y+qtoLbkMlrcG2a4zLgAL7gfnGU/9Z+R6u0snNmzPtJLimxPZ+IdOECbvGvV1Y3uwWkqQ0xG7prjQWFKizmQLbt53s/5ymgixQOl+uWGjkVqAHW4ifQ58bDE0Dg9g9i+DEQHvP3ERujzVIx1B4phyjE91hdvP9onKfChzrpMcT7j3snVWrHj8R2NWb4ZxRa7t2UdiiYoSCp6oMKl9Zr4PKhPSrm5qXz8bpRS8=;YrcBUcJVLS8rt7pYmtyS4w=="

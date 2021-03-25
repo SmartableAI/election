@@ -48,17 +48,33 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden’s inauguration priest under investigation by university after unspecified allegations"
-    excerpt: "The Rev. Kevin O'Brien, the president of Santa Clara University and the priest who delivered the Roman Catholic Mass for President Biden on the morning of his inauguration, is on leave from his job at the university after unspecified allegations against him. "
-    publishedDateTime: 2021-03-19T15:33:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-LbUv83gido/bidens-inauguration-priest-investigation-santa-clara-university"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
+  - title: "Texas Gov. Abbott demands Biden admin give access to migrant children for trafficking investigation"
+    excerpt: "Texas Gov. Greg Abbott is demanding that the Biden administration allow the state to interview unaccompanied migrant children in federal facilities."
+    publishedDateTime: 2021-03-17T19:57:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNFOJ5W7nqo/texas-border-migrant-children-greg-abbott-biden-trafficking"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075718186443.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden admin releases photos of crowded migrant processing center at border amid transparency criticism"
+    excerpt: "Customs and Border Protection (CBP) on Tuesday released photos of the temporary facilities being used to process migrant children who are found crossing the U.S. southern border. "
+    publishedDateTime: 2021-03-23T13:13:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c_WG_hAe_qs/biden-cbp-releases-photos-crowded-processing-center-minors-border-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cbp-releases-photos-crowded-processing-center-minors-border-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cbp-releases-photos-crowded-processing-center-minors-border-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340

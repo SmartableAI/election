@@ -31,101 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "White House partners with social media influencers to pitch Biden policies"
-    excerpt: "The White House is partnering with social media influences to pitch President Biden's policies and proposals, including the American Rescue Plan, pioneering what officials are calling a \"digital media tour\" amid the coronavirus pandemic."
-    publishedDateTime: 2021-03-08T16:51:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lJmh6DwrM_o/white-house-social-media-influencers-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
+  - title: "Biden DHS secretary promises US will not expel unaccompanied minors"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas vowed that the United States will not expel unaccompanied minors who cross the U.S. southern border."
+    publishedDateTime: 2021-03-18T16:13:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House blames wind for Biden stumbles boarding Air Force One"
+    excerpt: "Windy conditions were a factor in President Biden’s stumble while boarding Air Force One at Joint Base Andrews on Friday, according to the White House."
+    publishedDateTime: 2021-03-19T20:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gS_5wk0ahgk/white-house-blames-wind-biden-stumble-boarding-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-blames-wind-biden-stumble-boarding-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-blames-wind-biden-stumble-boarding-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator"
+    excerpt: "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News."
+    publishedDateTime: 2021-03-19T12:51:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator"
+    ampWebUrl: "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden push for face mask standard in workplace misses self-imposed deadline"
+    excerpt: "President Biden planned to issue a temporary face mask standard in workplaces by his 55th day in office, but his administration missed that deadline as discussions continue on the potential new federal standard for private businesses. "
+    publishedDateTime: 2021-03-16T12:09:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QNhHL9qtHJ4/biden-face-mask-workplace-misses-self-imposed-deadline"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden admin 'letting everyone in' with catch-and-release policies: Rep. Biggs"
-    excerpt: "On Tuesday, Rep. Andy Biggs R-Ariz., claimed that the Biden administration is \"basically letting everybody in\" at the border and said that they are \"encouraging\" more people to come as immigration continues to surge in the United States."
-    publishedDateTime: 2021-03-09T19:40:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hmj13dvFOi8/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
+  - title: "Biden targets assault weapons, but handguns used more often in mass shootings"
+    excerpt: "According to Statistica, “handguns are involved in about 78% of mass shootings” in the United States between 1985 and 2021, making them the most common weapon used in these tragedies."
+    publishedDateTime: 2021-03-23T19:51:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghnAI3YWleg/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9e41ac5-58cd-4c8d-8149-9a801492bc51/51f9b07e-f976-4081-b4a5-c67a36353512/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907a1e05-e26f-45ee-9a49-4573dc795e75/e77cfc3a-e762-4658-80ba-692cd101567a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden probe 'active and ongoing' without White House interference: sources"
-    excerpt: "The federal investigation into Hunter Biden’s “tax affairs” is “active and ongoing,” two sources familiar with the status of the probe told Fox News."
-    publishedDateTime: 2021-03-03T13:43:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBi-2viDn9I/hunter-biden-probe-active-ongoing"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
-    excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
-    publishedDateTime: 2021-03-08T17:50:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U1SHnNmKhqM/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included"
-    ampWebUrl: "https://www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ronna McDaniel: Biden seems more concerned with opening borders than opening schools"
-    excerpt: "The media needs to start probing President Biden the same way they would former President Trump, Republican National Committee Chairwoman Ronna McDaniel said on Friday, reacting to the commander-in-chief facing growing criticism for not holding a formal press conference in the six weeks since taking"
-    publishedDateTime: 2021-03-05T18:08:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e9skWQUfYq0/ronna-mcdaniel-media-biden-open-borders-schools"
-    ampWebUrl: "https://www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
+  - title: "Karl Rove: Biden's proposed tax increase would kill more than half a million US jobs"
+    excerpt: "President Biden's proposed tax hike will cost America more than 540,000 jobs if enacted, Fox News contributor Karl Rove told \"The Story\" Tuesday. "
+    publishedDateTime: 2021-03-23T21:24:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wt4DR7NdaHM/karl-rove-biden-tax-increase-kill-half-a-million-jobs"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-biden-tax-increase-kill-half-a-million-jobs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-biden-tax-increase-kill-half-a-million-jobs.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd65cdd1-8886-445c-8d72-9bf796997813/dfbc9ace-b856-43c1-8de4-31b78f8cc37b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Katie Pavlich: Time for Biden to 'take some questions from the press corps about his policies'"
-    excerpt: "President Biden is not fulfilling his promise of transparency to the American people after going his first seven weeks in office without holding a formal press conference, \"Outnumbered\" panelist Katie Pavlich said Tuesday."
-    publishedDateTime: 2021-03-09T21:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pQMcmJ-6hGU/katie-pavlich-joe-biden-press-conference"
-    ampWebUrl: "https://www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
+  - title: "DHS chief Mayorkas to visit southern border as Biden admin under pressure on immigration"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas will visit the southern border Friday with Sen. Rob Portman as the Biden administration is facing intense scrutiny over the worsening situation on the border. "
+    publishedDateTime: 2021-03-19T13:06:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmJVcurxE/dhs-chief-mayorkas-visit-southern-border-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/dhs-chief-mayorkas-visit-southern-border-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-chief-mayorkas-visit-southern-border-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Key Biden aides, including one with ties to dark money, not required to disclose personal finances"
+    excerpt: "Three top aides to President Biden's COVID-19 response are exempt from the personal financial disclosure requirements that other members of his administration must file. "
+    publishedDateTime: 2021-03-24T18:47:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EFwgqFugTfQ/biden-white-house-financial-disclosure-dunn-dark-money"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-financial-disclosure-dunn-dark-money.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-financial-disclosure-dunn-dark-money.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Assessing Biden's Start: Poll Finds Support for Activist Government"
+    excerpt: "On March 11, 2021, Joe Biden signed into law a measure that was his top priority even before he took office: a $1.9 trillion spending bill to ease the year-long financial upheaval caused by the coronavirus pandemic. “This historic legislation is about ..."
+    publishedDateTime: 2021-03-23T10:35:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/23/assessing_bidens_start_poll_finds_support_for_activist_government.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533649_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "/F46F2NPD6CETXH05dFkttRyDEfYwUTTKmK7ZDiLrYN1v4sYH0CEwX15y7l1NgyFaYRTJ9sbySVUeDsAPbkdh/a4zj38pwkfQdF8xZLdwEFNe2uUv+hwZ/vX2DlySeCAZ3czNdumIaws+5HfWNOeZN6/NDOZzar6KYQIIKOAvxofRdR6zFHJBo6DyTHCS0NPnnSF802ajorH7evVJN2Oj8DXwr/zvJfPsmE7C+H8GDngKnNaIZpTzTWqz/WVS8KtyrD8E9vvFJKj8Or/OUAme5NrJqPHEhqdot50Vq0AzoBgnA8C4vADpyFBwUQ/BGBQvWpyY6uakfHiL7ZG9+n3A7fjNBkKOOF17Ct6AOa9SWI=;reZiH87iCvh+YRs16zMwMg=="

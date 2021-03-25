@@ -544,6 +544,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter Biden gun incident at market in 2018 led to police investigation"
+    excerpt: "Police responded to a 2018 incident in which a gun owned by Hunter Biden, the son of President Biden, was thrown in a trash can outside of a market in Delaware, sources tell Fox News. "
+    publishedDateTime: 2021-03-25T19:16:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6DlEvZHYwd4/hunter-biden-police-report-2018-gun-incident"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-police-report-2018-gun-incident.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-police-report-2018-gun-incident.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "LIVE UPDATES: Biden's first press conference as president"
     excerpt: "Biden hasn't held a formal press conference since taking office 65 days ago"
     publishedDateTime: 2021-03-25T14:27:57Z
@@ -799,6 +815,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/joe-biden-AP.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Biden says filibuster is being abused, threatens to back changes if legislation stalls"
+    excerpt: "President Biden opened the door Thursday to reforming the filibuster to pass voting rights legislation and more if partisan gridlock prevents the Senate from moving on key legislation that he says is elemental to the functioning of democracy."
+    publishedDateTime: 2021-03-25T18:37:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqzyY-WiqgE/biden-filibuster-being-abused-threatens-back-changes-legislation-stalls"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-filibuster-being-abused-threatens-back-changes-legislation-stalls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-filibuster-being-abused-threatens-back-changes-legislation-stalls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d64711-219c-4729-8a30-f657bcc1ea5d/da2660b9-2079-429f-bd18-376cc9d2d5d4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "White House pulls Biden Interior nominee, backtracking on another appointment this month"
     excerpt: "The White House on Monday evening withdrew the nomination of Elizabeth Klein to be the deputy secretary of the Interior Department, marking the second nominee President Biden has been forced to pull after opposition from Capitol Hill. "

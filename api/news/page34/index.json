@@ -2,6 +2,114 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-01-29-fauci-says-bidens-push-to-reopen-schools-in-100-days-may-not-happen.md",
+      "title": "Fauci says Biden's push to reopen schools in 100 days 'may not happen'",
+      "excerpt": "Dr. Anthony Fauci, the nation's leading infectious disease expert, cautioned Thursday that President Joe Biden's push to reopen most schools within 100 days \"may not happen\" as the US continues to grapple with high Covid-19 transmission.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dXJvEDuyIMg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dXJvEDuyIMg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121183810-03-white-house-covid-presser-0121-fauci-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/28/politics/fauci-biden-schools-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/fauci-biden-schools-coronavirus/index.html",
+      "publishedDateTime": "2021-01-28T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-palm-beach-considers-options-as-trump-remains-at-mar-a-lago.md",
+      "title": "Palm Beach considers options as Trump remains at Mar-a-Lago",
+      "excerpt": "The Town of Palm Beach, Florida, is considering its legal options as former President Donald Trump is still living at his Mar-a-Lago club, a possible violation of a 1993 agreement",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-28T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-barrasso-says-biden-climate-orders-are-a-de-facto-fracking-ban.md",
       "title": "Barrasso says Biden climate orders are a 'de facto fracking ban'",
       "excerpt": "Some fracking advocates believe Biden’s new executive orders aimed at curbing oil and gas drilling effectively break his promise not to ban fracking.",
@@ -1223,118 +1331,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/republicans-push-back-on-bidens-new-energy-policies-warn-of-job-losses.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-push-back-on-bidens-new-energy-policies-warn-of-job-losses.amp",
       "publishedDateTime": "2021-01-27T14:00:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-biden-un-pick-promises-to-counter-chinas-authoritarian-agenda-and-regrets-2019-speech.md",
-      "title": "BIden UN pick promises to counter China's 'authoritarian agenda' and regrets 2019 speech",
-      "excerpt": "Linda Thomas-Greenfield, President Biden’s pick to be ambassador to the United Nations, pledged Wednesday to stand up to China’s \"authoritarian agenda\" at the U.N., -- as she was grilled by lawmakers about a 2019 speech she made praising Beijing’s approach in Africa.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQ6gcNRqD4g/biden-un-pick-chinas-agenda-2019-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQ6gcNRqD4g/biden-un-pick-chinas-agenda-2019-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21027610672208.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-un-pick-chinas-agenda-2019-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-un-pick-chinas-agenda-2019-speech.amp",
-      "publishedDateTime": "2021-01-27T12:52:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-biden-commerce-nominees-huawei-answer-shows-admin-rushing-to-embrace-chinese-communist-party-cruz-says.md",
-      "title": "Biden commerce nominee's Huawei answer shows admin 'rushing to embrace' Chinese Communist Party, Cruz says",
-      "excerpt": "Sen. Ted Cruz, R-Texas, said he is \"dismayed\" by a Biden nominee's refusal to commit to blacklisting Chinese telecommunications company Huawei as former President Donald Trump had done out of concern that the company was a security threat.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u-YowgIyeVg/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u-YowgIyeVg/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Ted-Cruz-Gina-Raimondo-Commerce-Secretary-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz.amp",
-      "publishedDateTime": "2021-01-27T11:42:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

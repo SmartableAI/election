@@ -2,6 +2,166 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-24-duckworth-backs-off-threat-to-oppose-biden-nominees-over-lack-of-diversity-after-white-house-agrees-to-add-senior-aapi-adviser.md",
+      "title": "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser",
+      "excerpt": "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110111654-11-biden-admin-possibilities-duckworth-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html",
+      "publishedDateTime": "2021-03-23T20:56:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-trumps-wealthiest-cabinet-member-made-225m-in-outside-income-report.md",
+      "title": "Trump's Wealthiest Cabinet Member Made $225M In 'Outside Income': Report",
+      "excerpt": "Betsy DeVos made at least $225 million in outside income as Trump's education secretary She earned $75 million from Alticor, Amway's parent company She also owned stakes in Neurocore, a brain performance company targeting children Former Secretary of Education Betsy DeVos earned nine figures in outside income during her tenure as a Cabinet member in the Trump administration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
+      "originalUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/27/betsy-devos-special-olympics.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
+      "publishedDateTime": "2021-03-23T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-biden-north-korea-missile-tests-no-new-wrinkle.md",
+      "title": "Biden: North Korea missile tests 'no new wrinkle'",
+      "excerpt": "US President Joe Biden is shrugging off short-range missile tests conducted by North Korea over the weekend. Returning to the White House Tuesday evening after a trip to Ohio, Biden told reporters, \"there's no new wrinkle in what they did.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/03/24/biden-north-korea-missile-tests-no-new-wrinkle/6976087002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/03/24/biden-north-korea-missile-tests-no-new-wrinkle/6976087002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/f626a6e0-bb31-4516-999a-a00cd6e13644_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-bernie-sanders-not-comfortable-with-trump-twitter-ban.md",
       "title": "Bernie Sanders not ‘comfortable’ with Trump Twitter ban",
       "excerpt": "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political",
@@ -257,6 +417,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-23-kayleigh-mcenany-blasts-biden-administration-for-unprecedented-lack-of-media-access-to-border.md",
+      "title": "Kayleigh McEnany blasts Biden administration for 'unprecedented' lack of media access to border",
+      "excerpt": "Former White House press secretary Kayleigh McEnany slammed the Biden administration Tuesday for what she described as an \"unprecedented\" lack of media access to the border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp",
+      "publishedDateTime": "2021-03-23T14:38:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-kamala-harris-campaign-trail-gun-rhetoric-meets-bidens-reality.md",
       "title": "Kamala Harris' campaign trail gun rhetoric meets Biden's reality",
       "excerpt": "Presidential candidate Kamala Harris campaigned aggressively on gun control reform -- making the case that if Congress couldn't act to make changes, the president could.\n    \n",
@@ -311,62 +527,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-biden-targets-assault-weapons-but-handguns-used-more-often-in-mass-shootings.md",
-      "title": "Biden targets assault weapons, but handguns used more often in mass shootings",
-      "excerpt": "According to Statistica, “handguns are involved in about 78% of mass shootings” in the United States between 1985 and 2021, making them the most common weapon used in these tragedies.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghnAI3YWleg/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghnAI3YWleg/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907a1e05-e26f-45ee-9a49-4573dc795e75/e77cfc3a-e762-4658-80ba-692cd101567a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp",
-      "publishedDateTime": "2021-03-23T12:51:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -538,7 +698,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 283,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -579,6 +739,54 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-trump-calls-dhs-boss-mayorkas-incompetent-over-border-crisis.md",
+      "title": "Trump calls DHS boss Mayorkas ‘incompetent’ over border crisis",
+      "excerpt": "Former President Donald Trump on Monday said that Homeland Security Secretary Alejandro Mayorkas is “incompetent” in his management of the US-Mexico border crisis, warning the Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/",
+      "originalUrl": "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-says-mayorkas-incompetent-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/",
+      "publishedDateTime": "2021-03-22T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -699,7 +907,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -976,7 +1184,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1072,21 +1280,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-23-trump-predicted-news-ratings-would-tank-if-im-not-there-he-wasnt-wrong.md",
-      "title": "Trump predicted news ratings would ‘tank if I’m not there.’ He wasn’t wrong.",
-      "excerpt": "Newspapers, television, all forms of media will tank if I’m not there,” he augured in 2017, “because without me, their ratings are going down the tubes.” Barely two months into the post-Trump era, news outlets are indeed losing much of the audience and readership they gained during his chaotic presidency.",
+      "path": "_news/2021-03-22-aoc-endorses-controversial-democrat-who-compared-voting-for-biden-to-eating-s.md",
+      "title": "AOC endorses controversial Democrat who compared voting for Biden to eating 's***'",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., endorsed controversial Democrat Nina Turner running for a vacant Ohio congressional seat who compared voting for President Joe Biden to eating feces. ",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 229,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3HBE7SU54I6XLGFSLJIDGQ4ZM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0e9a35a-cdd7-493d-b0e0-8535c57de3fb/071070e4-ce62-44fe-9a99-32dadfc7bf59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1094,16 +1306,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-22T12:39:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp",
+      "publishedDateTime": "2021-03-22T13:35:39-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1120,216 +1332,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-biden-looks-beyond-border-dispatching-officials-to-mexico-and-guatemala.md",
-      "title": "Biden looks beyond border, dispatching officials to Mexico and Guatemala",
-      "excerpt": "Facing criticism over a growing presence of migrant children at the U.S. southern border, President Biden on Monday dispatched a high-level team to Mexico and Central America to find what the administration is calling a “humane” solution to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala",
-      "originalUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/fa5841d/2147483647/strip/true/crop/6720x4389+0+46/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F67%2Ffc%2Fdb8c9187455eb8704beb396f4a23%2Fla-photos-1staff-735197-na-mcallen-border-stories-10-cmc.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true",
-      "publishedDateTime": "2021-03-22T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-house-republicans-who-backed-trump-impeachment-warn-dems-on-iowa-election-challenge.md",
-      "title": "House Republicans who backed Trump impeachment warn Dems on Iowa election challenge",
-      "excerpt": "A group of nine House Republicans that voted to impeach former President Trump has signed a letter to Speaker Nancy Pelosi (D-Calif.) warning her against pursuing an investigation into the Iowa electi",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa",
-      "originalUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/miller-meeksmarianette_hartrita_031921gn-courtesy-rita-hart-camp_iowa.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp",
-      "publishedDateTime": "2021-03-22T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-trump-backs-gop-congressmans-bid-against-georgia-secretary-of-state-brad-raffensperger.md",
-      "title": "Trump backs GOP congressman's bid against Georgia Secretary of State Brad Raffensperger",
-      "excerpt": "Former President Donald Trump on Monday backed a Georgia's congressman's primary challenge against embattled Secretary of State Brad Raffensperger.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/hice-cpac-gty-ps-210322_1616428630849_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "publishedDateTime": "2021-03-22T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-trump-didnt-include-mike-pence-in-his-list-of-very-good-republicans-and-possible-2024-presidential-candidates.md",
-      "title": "Trump didn't include Mike Pence in his list of 'very good' Republicans and possible 2024 presidential candidates",
-      "excerpt": "During the interview, Trump also repeated his false claims that Pence could have rejected certain states' Electoral College votes during the Jan. 6 joint session of Congress. \"It's too bad Mike Pence didn't go back, because you would have had a much ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
-      "originalUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6058bad6138e680019ad92eb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp",
-      "publishedDateTime": "2021-03-22T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
+        "Republican Voice"
       ]
     }
   ],

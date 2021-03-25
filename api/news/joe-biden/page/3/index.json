@@ -2,167 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-02-25-biden-cia-nominee-burns-to-focus-on-authoritarian-adversary-china.md",
-      "title": "Biden CIA nominee Burns to focus on 'authoritarian adversary' China",
-      "excerpt": "President Joe Biden's nominee to be director of the CIA, William Burns, told a Senate committee on Wednesday that he saw competition with China - and countering its \"adversarial, predatory\" leadership - as the key to U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552770877&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N13F",
-          "width": 717,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AO19B",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO19B",
-      "publishedDateTime": "2021-02-24T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-watch-live-biden-holds-roundtable-with-black-essential-workers.md",
-      "title": "Watch live: Biden holds roundtable with Black essential workers",
-      "excerpt": "President Joe Biden holds a roundtable with Black essential workers with Domestic Policy Advisor Susan Rice. Feb. 23, 2021. Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-roundtable-with-black-essential-workers-101463621519",
-      "originalUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-roundtable-with-black-essential-workers-101463621519",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/lv_ny1_biden_roundtable_210223.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101463621519",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101463621519",
-      "publishedDateTime": "2021-02-23T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-biden-to-visit-storm-ravaged-texas-friday.md",
-      "title": "Biden to visit storm-ravaged Texas Friday",
-      "excerpt": "President Joe Biden will visit Texas on Friday as the state begins its recovery from a devastating winter storm that caused serious damage to homes and businesses across the state and left many withou",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 685,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-23T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-02-23-fact-check-posts-falsely-claim-biden-gave-china-control-of-us-power-grid.md",
       "title": "Fact check: Posts falsely claim Biden gave China control of U.S. power grid",
       "excerpt": "No executive order signed by President Joe Biden gave China control of the U.S. power grid, and his order isn't linked to the Texas power outages.",
@@ -1574,6 +1413,167 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-saudi-rights-activist-loujain-al-hathlouls-family-thanks-biden-for-helping-get-her-out-of-prison.md",
+      "title": "Saudi rights activist Loujain al-Hathloul's family thanks Biden for helping get her out of prison",
+      "excerpt": "But the sister of Loujain al-Hathloul says she's not really free, and that there's \"an atmosphere of fear\" under Saudi Crown Prince Mohammed bin Salman.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "originalUrl": "https://www.cbsnews.com/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/11/ffcc6b6d-f0d3-4979-afe5-466bdbd4c114/thumbnail/1200x630g8/6fde590f829c294286940a82d1c86c7e/loujain-al-hathloul-released.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/saudi-arabia-womens-rights-activist-loujain-al-hathloul-family-thanks-biden/",
+      "publishedDateTime": "2021-02-11T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-loujain-al-hathloul-saudi-activists-family-thanks-biden-after-release-from-jail.md",
+      "title": "Loujain al-Hathloul: Saudi activist's family thanks Biden after release from jail",
+      "excerpt": "The women's rights activist's incarceration had led to growing international pressure and further scrutiny of Saudi Arabia's human rights record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/loujain-al-hathloul-saudi-activist-s-family-thanks-biden-after-n1257446",
+      "originalUrl": "https://www.nbcnews.com/news/world/loujain-al-hathloul-saudi-activist-s-family-thanks-biden-after-n1257446",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_06/3449354/210211-loujain-al-hathlou-al-0853_5469535b6fde1d6348486b15c860fe9b.jpg",
+          "width": 1024,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257446",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257446",
+      "publishedDateTime": "2021-02-11T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-biden-budget-nominee-absolutely-backs-us-minimum-wage-hike.md",
+      "title": "Biden budget nominee 'absolutely' backs U.S. minimum wage hike",
+      "excerpt": "Neera Tanden, Democratic President Joe Biden's nominee to head the U.S. Office of Management and Budget, told U.S. senators on Wednesday she would support raising the federal minimum wage, without giving a target for a higher rate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-omb-wages-idUSKBN2AA24G",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-omb-wages-idUSKBN2AA24G",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1551081094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH191RR",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AA24G",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AA24G",
+      "publishedDateTime": "2021-02-10T13:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

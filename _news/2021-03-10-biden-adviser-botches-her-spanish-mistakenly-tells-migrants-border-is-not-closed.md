@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-advisor-botches-her-spanish-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp"
 type: article
 quality: 169
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Abbott accuses Biden admin of 'not being transparent' about health of unaccompanied minors at border"
-    excerpt: "Texas Gov. Greg Abbott demanded Wednesday that the Biden administration allow state and local authorities access to unaccompanied migrant children in federal facilities to monitor COVID transmission and investigate human trafficking concerns."
-    publishedDateTime: 2021-03-18T02:58:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BOQ5eOt6qdU/abbott-white-house-not-transparent-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/abbott-white-house-not-transparent-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/abbott-white-house-not-transparent-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c222aa09-78a3-4aff-a892-43de8c45cd9f/f15a1bdd-971f-4397-9bfd-7362b323a1cd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "uSa11bKF9TN0ru5JRvHtSIvdMg9iKdZRIWtCNfw3vXBAevDofWudCAqCyjc4NgeYwhiIpMRTD9pPi9tUZwfysGwxG5ZopkPUNFxYL6YDvOopwFtZ2cyUfXtRF5L02xOXrHsICscR6JqvYHOK3JBEFPss+6Bd1QJKUdRSWDdFy17m2qKPbGEGgEDXEsMCnE2noIKRvolwSHB8FZxtReSWHkAwwDEC/1lm0QcCIOM12XWp+iEHiJ0Y5RtXOoXPKpXD9+Sw5vWy9wwsbgiocIYtltzhYIcX5+S2WwEdWV+PJjMirnIeDmTBW/Gb2FoX24TwEXzHF901Lo8QoCYVHig3vKsnKLtaFFioMNqjcv1Dspk=;bPo4wak15goH+nSogxsdKQ=="
 ---

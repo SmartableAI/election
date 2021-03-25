@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Call to Georgia Lead Investigator Reveals New Details"
+    excerpt: "Photo: Associated Press/Brynn Anderson/STAR MAX (Video from 1/3/21) ATLANTA—Then-President Donald Trump urged the chief investigator of the Georgia Secretary of State’s office to look for fraud during an audit of mail-in ballots in a suburban Atlanta ..."
+    publishedDateTime: 2021-03-11T15:08:00Z
+    webUrl: "https://www.wsj.com/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-309890/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "RGlZ9ZvP7lPOp8Sj1HxbeXlukChPJpuLqUMENjcb+3kUfA/qnOVpj5ZWeckSTSzKWCxQpvDTssBQQu5HL/X6MUp3ictlDjszZ68/wP2zWCvC6u11mhX+lCtJf45u0JL6OzJkJ+Bc5dHbL6RpPbjAAtk6ckHsKgBxGVud77ScuiIt5dRgYtQOsux8LQ0PJgKjKkMPUyzNJ+EZZbH/6+mu1m30pWqxCZ/s4kImIu53OiJHO9JEIZta4Np65I1pwjoeUGvmOHGDtPVyt+AIWnZEbTWUYOATyQv9uwFF6GdWPSnevUsit+UIggc7xY1m8V1haSZGtEXvzicW2kyoVOSc3ZPOX0FJS09dYZYWQDH1v/k=;w98fhlMdtK9BM451/PIuog=="
 ---

@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-25-biden-says-gop-state-voting-legislation-makes-makes-jim-crow-look-like-jim-eagle.md",
+      "title": "Biden says GOP state voting legislation makes 'makes Jim Crow look like Jim Eagle'",
+      "excerpt": "President Biden said Republicans’ state voting legislation \"makes Jim Crow look like Jim Eagle\" during his first formal press conference on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgYpejoL8dI/biden-gop-state-voting-legislation-jim-crow-jim-eagle",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgYpejoL8dI/biden-gop-state-voting-legislation-jim-crow-jim-eagle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-gop-state-voting-legislation-jim-crow-jim-eagle.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gop-state-voting-legislation-jim-crow-jim-eagle.amp",
+      "publishedDateTime": "2021-03-25T11:55:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-biden-says-its-his-expectation-to-run-for-reelection-in-2024-makes-trump-quip.md",
+      "title": "Biden says it's his 'expectation' to run for reelection in 2024, makes Trump quip",
+      "excerpt": "President Biden says it's his \"expectation\" that he'll run for reelection in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 820,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp",
+      "publishedDateTime": "2021-03-25T11:41:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-biden-doj-nominee-vanita-guptas-committee-vote-ends-in-tie-after-heated-senate-meeting.md",
       "title": "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting",
       "excerpt": "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice.",
@@ -126,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -200,118 +312,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp",
       "publishedDateTime": "2021-03-24T14:34:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-trump-endorses-incumbent-georgia-gop-head-for-reelection.md",
-      "title": "Trump endorses incumbent Georgia GOP head for reelection",
-      "excerpt": "President Trump waded into the race to head Georgia’s GOP to endorse incumbent David Shafer on Wednesday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hUc8MOjSlk/trump-endorses-incumbent-georgia-gop-head-for-reelection",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hUc8MOjSlk/trump-endorses-incumbent-georgia-gop-head-for-reelection",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20334644546013-e1606925054815.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-incumbent-georgia-gop-head-for-reelection.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-incumbent-georgia-gop-head-for-reelection.amp",
-      "publishedDateTime": "2021-03-24T14:25:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-mcenany-questions-whether-biden-is-decision-maker-or-abdicating-responsibility-on-border-crisis.md",
-      "title": "McEnany questions whether Biden is 'decision-maker' or 'abdicating responsibility' on border crisis",
-      "excerpt": "Former White House press secretary Kayleigh McEnany slammed the Biden administration on \"The Story\" Wednesday over its management of the southern border crisis, saying they have failed to make good on their \"transparency promise.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPJJGmh3e88/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPJJGmh3e88/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8253857f-4b01-47f7-80ce-5ef872abead0/8f71d700-0198-4b34-a857-db543ac49bb4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp",
-      "publishedDateTime": "2021-03-24T13:53:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -452,62 +452,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation.md",
-      "title": "Duckworth backtracks after saying she’s done voting for Biden picks over lack of AAPI representation",
-      "excerpt": "Sen. Tammy Duckworth’s office said in a statement late Tuesday that the Illinois Democrat will “not stand in the way” of President Biden’s nominees after strongly criticizing the administration for its lack of Asian American or Pacific Islander (AAPI) representation on Cabinet-level posts.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QV9VlJne-KA/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QV9VlJne-KA/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation.amp",
-      "publishedDateTime": "2021-03-23T21:15:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-24-bernie-sanders-not-comfortable-with-trump-twitter-ban.md",
       "title": "Bernie Sanders not ‘comfortable’ with Trump Twitter ban",
       "excerpt": "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political",
@@ -612,25 +556,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-23-biden-targets-assault-weapons-but-handguns-used-more-often-in-mass-shootings.md",
-      "title": "Biden targets assault weapons, but handguns used more often in mass shootings",
-      "excerpt": "According to Statistica, “handguns are involved in about 78% of mass shootings” in the United States between 1985 and 2021, making them the most common weapon used in these tragedies.",
+      "path": "_news/2021-03-23-kayleigh-mcenany-blasts-biden-administration-for-unprecedented-lack-of-media-access-to-border.md",
+      "title": "Kayleigh McEnany blasts Biden administration for 'unprecedented' lack of media access to border",
+      "excerpt": "Former White House press secretary Kayleigh McEnany slammed the Biden administration Tuesday for what she described as an \"unprecedented\" lack of media access to the border.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghnAI3YWleg/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghnAI3YWleg/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 212,
+      "heat": 203,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907a1e05-e26f-45ee-9a49-4573dc795e75/e77cfc3a-e762-4658-80ba-692cd101567a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -638,9 +582,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp",
-      "publishedDateTime": "2021-03-23T12:51:18-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp",
+      "publishedDateTime": "2021-03-23T14:38:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -664,6 +608,54 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-trump-calls-dhs-boss-mayorkas-incompetent-over-border-crisis.md",
+      "title": "Trump calls DHS boss Mayorkas ‘incompetent’ over border crisis",
+      "excerpt": "Former President Donald Trump on Monday said that Homeland Security Secretary Alejandro Mayorkas is “incompetent” in his management of the US-Mexico border crisis, warning the Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/",
+      "originalUrl": "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-says-mayorkas-incompetent-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/",
+      "publishedDateTime": "2021-03-22T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -785,7 +777,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -954,7 +946,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -971,6 +963,118 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp",
       "publishedDateTime": "2021-03-22T15:06:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-aoc-endorses-controversial-democrat-who-compared-voting-for-biden-to-eating-s.md",
+      "title": "AOC endorses controversial Democrat who compared voting for Biden to eating 's***'",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., endorsed controversial Democrat Nina Turner running for a vacant Ohio congressional seat who compared voting for President Joe Biden to eating feces. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0e9a35a-cdd7-493d-b0e0-8535c57de3fb/071070e4-ce62-44fe-9a99-32dadfc7bf59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp",
+      "publishedDateTime": "2021-03-22T13:35:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-biden-admin-sanctions-chinese-government-officials-over-uyghur-human-rights-abuses.md",
+      "title": "Biden admin sanctions Chinese government officials over Uyghur human rights abuses",
+      "excerpt": "The Biden administration on Monday sanctioned Chinese government officials over \"serious human rights abuse\" against ethnic minorities in the Xinjiang Uyghur Autonomous Region, and warned that China will continue to face consequences should the \"atrocities\" continue.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp",
+      "publishedDateTime": "2021-03-22T12:06:36-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1066,7 +1170,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1083,6 +1187,118 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-hires-trumps-white-house-political-director.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-hires-trumps-white-house-political-director.amp",
       "publishedDateTime": "2021-03-22T05:43:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.md",
+      "title": "Democratic border-town mayor: Biden admin handling of crisis ‘a slap in the face’",
+      "excerpt": "The Democratic mayor of a southern border town says he’s incensed over the Biden administration’s handling of the immigration crisis in his backyard — and he’s \"pleading\" with Washington to do more to stem the stream of migrants pouring into his small city. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a30dfc5-144a-4b76-96c1-f6baf817c817/92e81741-299a-4f50-9d6c-b1338e279cb2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp",
+      "publishedDateTime": "2021-03-21T17:31:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-trump-slams-biden-over-border-crisis-accused-him-of-causing-death-and-human-tragedy.md",
+      "title": "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'",
+      "excerpt": "President Biden said Sunday that he intends to travel to the southern border \"at some point,\" telling reporters that he is in no rush to visit because \"I know what's going in those facilities.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p6BXYHL7SK4/biden-borde-rsurge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p6BXYHL7SK4/biden-borde-rsurge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 521,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee18c3-9624-4a8c-9989-aaf5c43b13c5/156a5fbe-4114-4b4a-aca4-34af35a3257c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-borde-rsurge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-borde-rsurge.amp",
+      "publishedDateTime": "2021-03-21T15:32:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1139,62 +1355,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-social-media-platform-return-adviser.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-platform-return-adviser.amp",
       "publishedDateTime": "2021-03-21T09:11:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-mayorkas-blames-migrant-surge-on-trump-admin-not-biden-policies.md",
-      "title": "Mayorkas blames migrant surge on Trump admin, not Biden policies",
-      "excerpt": "Secretary of Homeland Security Alejandro Mayorkas has claimed that the number of people looking to enter the U.S. at the sourthern border could be the highest in 20 years, but in an interview with \"Fox News Sunday\" he claimed that this is because of the Trump administration's actions, not policy changes",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BIDIVzX8FQQ/mayorkas-blames-migrant-surge-trump-admin-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BIDIVzX8FQQ/mayorkas-blames-migrant-surge-trump-admin-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1330,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp",
-      "publishedDateTime": "2021-03-21T07:19:47-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1448,23 +1608,23 @@
       ]
     },
     {
-      "path": "_news/2021-03-19-biden-white-house-says-its-ready-to-have-frank-conversation-with-china.md",
-      "title": "Biden White House says it's ready to have 'frank conversation' with China",
-      "excerpt": "The White House said the Biden administration is ready to have a \"frank conversation\" with China and is negotiating from a position of \"strength,\" as officials hold tense bilateral talks with Beijing. ",
+      "path": "_news/2021-03-19-biden-stumbles-multiple-times-falls-as-he-scales-air-force-one-stairs.md",
+      "title": "Biden stumbles multiple times, falls as he scales Air Force One stairs",
+      "excerpt": "President Biden stumbled twice and fell as he scaled the stairs to Air Force One on Friday at Joint Base Andrews. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OqQlpkMLDU/biden-white-house-conversation-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OqQlpkMLDU/biden-white-house-conversation-china",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 314,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -1474,169 +1634,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-conversation-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-conversation-china.amp",
-      "publishedDateTime": "2021-03-19T10:58:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-trump-wax-figure-museum-always-had-trouble-with-presidential-section.md",
-      "title": "Trump wax figure museum ‘always had trouble with presidential section’",
-      "excerpt": "Presidential wax figures need a Secret Service detail of their own. Replicas of the last three commanders in chief have been subject to constant vandalism at a San Antonio museum. “When it’s a",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
-      "originalUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-wax-01.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
-      "publishedDateTime": "2021-03-19T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-kevin-mccarthy-on-fox-friends-biden-border-crisis-now-becoming-human-tragedy.md",
-      "title": "Kevin McCarthy on 'Fox & Friends': Biden border crisis now becoming 'human tragedy'",
-      "excerpt": "The issues on the border go beyond a crisis to a \"human tragedy,\" House Minority Leader Kevin McCarthy, R-Calif., said on Friday, reacting to the Biden administration denying media access to migrant facilities.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp",
-      "publishedDateTime": "2021-03-19T07:29:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-florida-ex-sen-bill-nelson-to-be-tapped-by-biden-for-nasa-administrator.md",
-      "title": "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator",
-      "excerpt": "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp",
-      "publishedDateTime": "2021-03-19T05:51:10-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
+      "publishedDateTime": "2021-03-19T09:12:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

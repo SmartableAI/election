@@ -31,113 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden White House says it's ready to have 'frank conversation' with China"
-    excerpt: "The White House said the Biden administration is ready to have a \"frank conversation\" with China and is negotiating from a position of \"strength,\" as officials hold tense bilateral talks with Beijing. "
-    publishedDateTime: 2021-03-19T17:58:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OqQlpkMLDU/biden-white-house-conversation-china"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-conversation-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-conversation-china.amp"
+  - title: "Biden coronavirus bill 'waste of money, payoff to Pelosi's political friends': McCarthy"
+    excerpt: "The massive $1.9 trillion coronavirus relief bill is a \"waste of money\" and a \"payoff\" to House Speaker Nancy Pelosi's \"political friends,\" Rep. Kevin McCarthy, R-Calif., said on Friday."
+    publishedDateTime: 2021-03-12T16:53:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwhwKRuOVzE/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-coronavirus-bill-waste-money-payoff-pelosis-friends.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden, no stranger to inappropriate touching accusations, gives Cuomo pass"
-    excerpt: "President Biden refused to join the chorus of fellow Democrats calling for New York Gov. Andrew Cuomo to resign, as Cuomo faces multiple scandals, including allegations of improper touching."
-    publishedDateTime: 2021-03-15T15:09:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fIN5Q2skAIo/biden-inappropriate-touching-accusations-cuomo"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
+  - title: "Biden and leaders of Japan, Australia, India to unveil plans to boost coronavirus vaccine production"
+    excerpt: "President Biden and other leaders of nations in the \"Quad\" alliance will unveil an agreement to ramp up production of coronavirus vaccines in Southeast Asia in a first-of-its-kind virtual meeting Friday, according to senior administration officials with knowledge of the matter."
+    publishedDateTime: 2021-03-12T10:03:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3aWQAGGEbE/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-quad-alliance-leaders-unveil-plans-boost-covid-19-vaccine-production-summit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden says Cuomo should resign if the investigation confirms accusers' claims"
-    excerpt: "President Biden said Democratic New York Gov. Andrew Cuomo should resign if investigations support the claims made by his accusers."
-    publishedDateTime: 2021-03-17T01:05:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6caaaa06-f983-4f4a-89aa-5a4899682cb2/ff5a3dc7-5d0e-49bc-a55c-89cca417a19e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "5 Biden White House staffers have lost jobs over past marijuana use, says Psaki"
-    excerpt: "Five staffers have lost their jobs during the Biden administration at the White House due to past marijuana use, press secretary Jen Psaki acknowledged Friday."
-    publishedDateTime: 2021-03-19T16:39:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqydXvRRzsw/staffers-lose-white-house-jobs-biden-marijuana-use"
-    ampWebUrl: "https://www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "The word the Biden administration won't use when it comes to the border? 'Crisis'"
-    excerpt: "The Biden administration is facing what it admits is an \"overwhelming\" number of migrants at the southern border, while scrambling to construct new facilities to hold child migrants -- but it is doggedly refusing to describe the situation as a \"crisis.\""
-    publishedDateTime: 2021-03-12T14:53:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8EtxD3tVPc/biden-administration-wont-use-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58b5303f-1cc5-4819-ac7f-0ff6be8a874d/5d3b5642-d252-4d6f-a4f0-c41cadfb9fc0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden admin sanctions Chinese government officials over Uyghur human rights abuses"
-    excerpt: "The Biden administration on Monday sanctioned Chinese government officials over \"serious human rights abuse\" against ethnic minorities in the Xinjiang Uyghur Autonomous Region, and warned that China will continue to face consequences should the \"atrocities\" continue."
-    publishedDateTime: 2021-03-22T19:06:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. Bill Hagerty warns Biden of 'increasing aggression' from Iran, says regime testing US resolve"
-    excerpt: "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden expressing concern about \"increasing aggression\" from the Iranian regime -- just as the Biden administration has eased off a sanctions push and is moving to reverse the prior administration’s \"maximum pressure\" strategy."
-    publishedDateTime: 2021-03-17T12:00:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/APGrl_hZuzw/sen-bill-hagerty-biden-increasing-aggression-iran"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7acab5e-b008-41de-bc5f-595cc76dc02e/e95ab723-09b5-472b-9196-51d50716a162/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

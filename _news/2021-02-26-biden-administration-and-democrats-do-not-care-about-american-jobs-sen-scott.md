@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/minimum-wage-hike-biden-democrats-j
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senate Democrat furious with Biden administration over lack of Asian American representation"
+    excerpt: "Sen. Tammy Duckworth says she’s done voting for any of President Biden’s nominees that aren’t diverse until his administration “figures out” a solution to the lack of Asian American or Pacific Islander (AAPI) representation at the cabinet level."
+    publishedDateTime: 2021-03-23T22:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G8ZSv6PT-nY/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden erases Dr. Seuss from 'Read Across America' proclamation as progressives seek to cancel beloved author"
     excerpt: "President Biden appears to have erased Dr. Seuss from Read Across America Day."
     publishedDateTime: 2021-03-01T23:27:54Z

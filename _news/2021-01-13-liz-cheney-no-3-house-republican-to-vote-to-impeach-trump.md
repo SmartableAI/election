@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Wyoming Senate kills bill backed by Donald Trump Jr. in attempt to defeat Liz Cheney "
+    excerpt: "A Wyoming Senate bill to create election runoffs failed on Wednesday, despite Donald Trump Jr.'s campaign to pass it in an attempt to defeat Republican Rep. Liz Cheney in 2022. The vote was 14-15 with one lawmaker excused.\n    \n"
+    publishedDateTime: 2021-03-25T17:35:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5-zuhfR94A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/wyoming-bill-donald-trump-jr-liz-cheney/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/wyoming-bill-donald-trump-jr-liz-cheney/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325115819-donald-trump-jr-liz-cheney-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

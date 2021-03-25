@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/border-access-media-biden-administr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
 type: article
 quality: 163
-heat: -1
-published: false
+heat: 203
+published: true
 
 provider:
   name: Fox News
@@ -31,83 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator"
-    excerpt: "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News."
-    publishedDateTime: 2021-03-19T12:51:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
+  - title: "Kayleigh McEnany: Biden administration 'incentivizing' flow of migrant children at southern border"
+    excerpt: "Former White House press secretary and Fox News Analyst Kayleigh McEnany reacts to the growing influx of migrant children at the southern border."
+    publishedDateTime: 2021-03-16T22:52:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdtHfZOHqhY/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden push for face mask standard in workplace misses self-imposed deadline"
-    excerpt: "President Biden planned to issue a temporary face mask standard in workplaces by his 55th day in office, but his administration missed that deadline as discussions continue on the potential new federal standard for private businesses. "
-    publishedDateTime: 2021-03-16T12:09:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QNhHL9qtHJ4/biden-face-mask-workplace-misses-self-imposed-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
+  - title: "McEnany questions whether Biden is 'decision-maker' or 'abdicating responsibility' on border crisis"
+    excerpt: "Former White House press secretary Kayleigh McEnany slammed the Biden administration on \"The Story\" Wednesday over its management of the southern border crisis, saying they have failed to make good on their \"transparency promise.\""
+    publishedDateTime: 2021-03-24T20:53:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPJJGmh3e88/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Karl Rove: Biden's proposed tax increase would kill more than half a million US jobs"
-    excerpt: "President Biden's proposed tax hike will cost America more than 540,000 jobs if enacted, Fox News contributor Karl Rove told \"The Story\" Tuesday. "
-    publishedDateTime: 2021-03-23T21:24:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wt4DR7NdaHM/karl-rove-biden-tax-increase-kill-half-a-million-jobs"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-biden-tax-increase-kill-half-a-million-jobs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-biden-tax-increase-kill-half-a-million-jobs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd65cdd1-8886-445c-8d72-9bf796997813/dfbc9ace-b856-43c1-8de4-31b78f8cc37b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8253857f-4b01-47f7-80ce-5ef872abead0/8f71d700-0198-4b34-a857-db543ac49bb4/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Senate Democrat furious with Biden administration over lack of Asian American representation"
-    excerpt: "Sen. Tammy Duckworth says she’s done voting for any of President Biden’s nominees that aren’t diverse until his administration “figures out” a solution to the lack of Asian American or Pacific Islander (AAPI) representation at the cabinet level."
-    publishedDateTime: 2021-03-23T22:28:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G8ZSv6PT-nY/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Assessing Biden's Start: Poll Finds Support for Activist Government"
-    excerpt: "On March 11, 2021, Joe Biden signed into law a measure that was his top priority even before he took office: a $1.9 trillion spending bill to ease the year-long financial upheaval caused by the coronavirus pandemic. “This historic legislation is about ..."
-    publishedDateTime: 2021-03-23T10:35:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/23/assessing_bidens_start_poll_finds_support_for_activist_government.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/533649_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "0HK9XcLxlCcOhOMl8LUVLSMAn4IcJ8pzyp2kkAJikP8gNXEcnsVk7Su4fZFL1qDKw9hhOJw6e87Dg1pXIdFhBbslAIVU/Ko6pggyOUYn42Oo8efcEsl4p3FX6oPfd0wGj1k7FEB/QgbPb5qgky6fPVKEC0QTG/VAsVGuIcgDjVEbSH1IFMwFuYb/OFgtoQ55GVF70136teorHEZU0zf+HM2eKZg9a5YqVO+s51xB1cr5gYHbgIE+dZLa6NxkNJP1wuurFkc+slhUo36Pkdq1VaxBK4FOc67jGySw1HwY2Qgpv8kAlVBzCsIRDVfqClLLiC8HKo2jNw1C8f6qiOO3jYQzjrCk+gOD5v215BCewRM=;tVq9m1hSH9GFnMyiCAidRw=="

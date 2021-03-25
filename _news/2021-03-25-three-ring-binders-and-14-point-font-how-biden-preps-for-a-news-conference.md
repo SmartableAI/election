@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-press-conference-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-press-conference-preparation/index.html"
 type: article
 quality: 173
-heat: 333
+heat: 313
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration considering 6-month extension for US troops in Afghanistan"
-    excerpt: "The Biden administration is considering a six-month extension for American troops in Afghanistan, just weeks before the May 1 deadline that the Trump administration had negotiated with the Taliban to withdraw all US forces from the country, according to a defense official.\n    \n"
-    publishedDateTime: 2021-03-18T23:46:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8Xhh6MkTVM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/afghanistan-troop-extension/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/afghanistan-troop-extension/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210155622-01-biden-pentagon-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

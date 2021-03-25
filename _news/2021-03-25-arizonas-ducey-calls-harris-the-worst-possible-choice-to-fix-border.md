@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/arizonas-ducey-calls-harris-the-wor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp"
 type: article
 quality: 185
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e88d0f84-283e-413a-b2d6-b3bea025b33e/d69dc25c-4233-41f0-8a90-a37da60d1669/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-22T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
+    images:
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
         isCached: true
   - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From The Trump Administration"
     excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."

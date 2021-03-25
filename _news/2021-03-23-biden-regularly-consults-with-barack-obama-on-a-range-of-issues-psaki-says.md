@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-communication-bar
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-communication-barack-obama.amp"
 type: article
 quality: 172
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "5 Biden White House staffers have lost jobs over past marijuana use, says Psaki"
+    excerpt: "Five staffers have lost their jobs during the Biden administration at the White House due to past marijuana use, press secretary Jen Psaki acknowledged Friday."
+    publishedDateTime: 2021-03-19T16:39:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqydXvRRzsw/staffers-lose-white-house-jobs-biden-marijuana-use"
+    ampWebUrl: "https://www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "PKkHumm18clDKKGDx4iidXuxW759zhGvKT/I/rkreH+iFPZeCOgkwoA3o4phol39yR8sj0cNO+Ql66UBDLD5S/XXSi3iTahi70ib3gR9bBaU7SikYSfVNi+D8Kbb4YOx6v8VUXw1ZA3wDigPHuvfDXnSKWOPSTiUP5ygph/Ln3C/Vh9R0lqPWSJm8QKV6BJyt1ghXQ8XYPvyTUqXeP9wVYW4fP3o0uvA/hNps3Ux2Wglwapw1MSclJLDxEOIzOhSknGi0W1DKLtAIkVTIiUUp38VTl8uY9JtDzL36aJlGhA8ZFkDNeMRV07AyjQ6mweYqoEwgtDGDCHknxn3/OfwkPsFxIBe7a7crkJF5CCtHv0=;oNkR7lTjlOHlVONF0cn+Ow=="
 ---

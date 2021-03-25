@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
 type: article
 quality: 188
-heat: 548
+heat: 588
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 188
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a281bae0-0916-4e61-8337-c46dc3757485/4ef8c046-554e-4d9b-8102-1a19dd4519d3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden signs three immigration orders in latest move to reverse key Trump policies"
+    excerpt: "President Biden on Tuesday signed three executive orders on immigration, including one to create a task force to reunify migrants separated under the Trump administration"
+    publishedDateTime: 2021-02-02T22:54:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gL56p1TaQF4/biden-signs-immigration-orders-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-immigration-orders-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-immigration-orders-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6423eb4b-2774-420f-84fe-d9dfac3316b6/5db3f176-689a-4bd2-99ce-1b4d762459d8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -236,6 +252,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-295125/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
+    excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
+    publishedDateTime: 2021-01-29T02:27:00Z
+    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-291886/social"
         width: 1280
         height: 640
         isCached: true

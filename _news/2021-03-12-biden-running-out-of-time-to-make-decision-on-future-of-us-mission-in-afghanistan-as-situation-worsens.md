@@ -63,20 +63,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Biden gets his chance on Afghanistan"
-    excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN wanted out of Afghanistan. In"
-    publishedDateTime: 2021-03-19T23:03:00Z
-    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/03/19/biden-gets-his-chance-on-afghanistan-492182"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
 secured: "Juq0s7xtxbszfQWharVtClqGB9oEk6iuDAmnaZ4SsFTSy8sYL7Ts0VkSkbVmLXOY7Fx9oZf+RPISvGWN8ZZQIR6Rm+rBFNmEnmvs2Li7G0zw1OIaK/tBJ6hmye9r9QuGEAFHd+BG2DPBpHPB86AY5ZRyvBrh3HOsXvGMHEcU3f2qgO1bmj2OUxYJGeOCaBv4ePHMS0KM+XlS8K7zMOZeza4K9e3OGr/m+J+L3ekwnO5ql2wK/TS+4KgdFZCXcE0E4osD46Eh2TOMYqmSDeDU8M4bVRdzMnrZE2ZkAB4kU0veipK1gmbJ2cBev81cBc4VcPoLPHeXDurW8afxLi5ll073iQapbFpbeS0S/jpWL74=;jH8DYsqc77sgORmr1WRY5w=="
 ---

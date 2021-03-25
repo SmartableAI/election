@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-afghanistan-wi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-afghanistan-withdrawal-deadline/index.html"
 type: article
 quality: 164
-heat: 224
+heat: 204
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/17/us/politics/17dc-usafghan/17dc-usafghan-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Biden gets his chance on Afghanistan"
-    excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN wanted out of Afghanistan. In"
-    publishedDateTime: 2021-03-19T23:03:00Z
-    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/03/19/biden-gets-his-chance-on-afghanistan-492182"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "992/CKa9uuQBKhswhiNmKk56U1c5U+K/7IcYeezIkRIxh3s5oZG0xttCVRm57ch2cUov1Lcl28suob1Jd1PVr/JMj312ldklQ0qUh8tIa1B7wXTqeScM2VyW4j685Q21hhVeuxBkjFXaeWfIY3hYwHZ5jpP08N5vUggrUsATLTHDa6XwVRsGLOH3e4tHoidxITR8rYo65XXypkgbegqBh/ZFN3mwPXRCobCNgjctlG1wChslaaskp6asQJplCYhaZRCoY0LDq2m1pf/whZioOJGXJGDz1A6j4flDTwlremTmOBY201oqfmp9OmdWLugduMlAMk3SE9m0sjydBONzU7+eTmtrqRakU0SghP6Ik38=;2I1P9MdIsCB/oaIDbRSvnA=="

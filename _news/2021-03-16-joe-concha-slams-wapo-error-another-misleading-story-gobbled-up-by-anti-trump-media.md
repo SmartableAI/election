@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "CNN's Brian Stelter skips Washington Post's major correction to Trump-Georgia story on media show"
+    excerpt: "CNN's left-wing media guru Brian Stelter has become reliable in skipping some of the biggest media stories on his Sunday media-centric program."
+    publishedDateTime: 2021-03-23T02:38:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-brian-stelter-washington-post-correction-reliable-sources"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-brian-stelter-washington-post-correction-reliable-sources.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-brian-stelter-washington-post-correction-reliable-sources.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a818897d-13f6-42b2-8628-b7ae5b68a37c/3306de8a-02ed-48eb-abab-f3195c83826e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "P8A/7AEU/sIwneF04jH1Sgidf0OW/Y9fKHrk5UQsXoQ5vYRtpzWZnxPq2tGz9A10JyldZN+aHTzmDA+urz1rbLK14xX9sx5UTYkExWWtpIfghqlDrVr5E6WpgUPUCaYFEIlrQgTVwLJ9m2YQ/C+dgCK/GQG39UxXP44kZJwPxlOiBq7j7anKkBWF49SjLqG99tNYffNy4RNCjojP0FeJAwGZLifHWvdUHfJ6JEkMFuMhzhJdq6SAPdM8B6X59m0JNcRfqFwrwPKfI/TPRp2IaFc52RRkh1kzjI4Wklfio9wU+yYrViTM9j/LqPEPFj6DdB2CmIA1pCF7g97DgDRplR55/k/z7ZntNbaRM528mXc=;VQvYmu1Y+MNpPXibcUGgOg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/APGrl_hZuzw/sen-bi
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/APGrl_hZuzw/sen-bill-hagerty-biden-increasing-aggression-iran"
 type: article
 quality: 141
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: Fox News
@@ -27,120 +27,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Biden White House says it's ready to have 'frank conversation' with China"
-    excerpt: "The White House said the Biden administration is ready to have a \"frank conversation\" with China and is negotiating from a position of \"strength,\" as officials hold tense bilateral talks with Beijing. "
-    publishedDateTime: 2021-03-19T17:58:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OqQlpkMLDU/biden-white-house-conversation-china"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-conversation-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-conversation-china.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden, no stranger to inappropriate touching accusations, gives Cuomo pass"
-    excerpt: "President Biden refused to join the chorus of fellow Democrats calling for New York Gov. Andrew Cuomo to resign, as Cuomo faces multiple scandals, including allegations of improper touching."
-    publishedDateTime: 2021-03-15T15:09:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fIN5Q2skAIo/biden-inappropriate-touching-accusations-cuomo"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden says Cuomo should resign if the investigation confirms accusers' claims"
-    excerpt: "President Biden said Democratic New York Gov. Andrew Cuomo should resign if investigations support the claims made by his accusers."
-    publishedDateTime: 2021-03-17T01:05:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6caaaa06-f983-4f4a-89aa-5a4899682cb2/ff5a3dc7-5d0e-49bc-a55c-89cca417a19e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "5 Biden White House staffers have lost jobs over past marijuana use, says Psaki"
-    excerpt: "Five staffers have lost their jobs during the Biden administration at the White House due to past marijuana use, press secretary Jen Psaki acknowledged Friday."
-    publishedDateTime: 2021-03-19T16:39:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqydXvRRzsw/staffers-lose-white-house-jobs-biden-marijuana-use"
-    ampWebUrl: "https://www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/staffers-lose-white-house-jobs-biden-marijuana-use.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "The word the Biden administration won't use when it comes to the border? 'Crisis'"
-    excerpt: "The Biden administration is facing what it admits is an \"overwhelming\" number of migrants at the southern border, while scrambling to construct new facilities to hold child migrants -- but it is doggedly refusing to describe the situation as a \"crisis.\""
-    publishedDateTime: 2021-03-12T14:53:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8EtxD3tVPc/biden-administration-wont-use-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58b5303f-1cc5-4819-ac7f-0ff6be8a874d/5d3b5642-d252-4d6f-a4f0-c41cadfb9fc0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden admin sanctions Chinese government officials over Uyghur human rights abuses"
-    excerpt: "The Biden administration on Monday sanctioned Chinese government officials over \"serious human rights abuse\" against ethnic minorities in the Xinjiang Uyghur Autonomous Region, and warned that China will continue to face consequences should the \"atrocities\" continue."
-    publishedDateTime: 2021-03-22T19:06:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McCarthy says he hasn’t heard back from White House about request for meeting with Biden on border crisis"
-    excerpt: "House Minority Leader Kevin McCarthy pressed President Biden—again—for a meeting to discuss a bipartisan way to address the situation at the U.S. Southern Border, maintaining that “securing our border should not be a partisan issue.”"
-    publishedDateTime: 2021-03-18T18:41:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZP-R41i2leQ/mccarthy-presses-biden-meeting-situation-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-presses-biden-meeting-situation-southern-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "HGWA/7VuFfXsb+gXf+k3BfHc4kXqM8b5Gbb0rSVHaqfl6FFQ4V6bWzqUrrWdgYNbc3BsaH9WRS4Nomd9Msw9fKus3sWLIT2HwUVMxW4Wx43K72q5JGoG2yuemhHO4TrQA9Mzwqb5qqhNvaNKAcKEZE6nMmR8sHtSc5Y0FiSd4EWriIW5massuCsEfEs2e7PijXks4N12/Qb0c1FK/vdH7ZYH+sINOAPNFVKOhQcrtSPjiGgzqfDBBdQd05pNhhbvMoL2sVpDNUgy8+U4dWuydLVAdLI9OI/oOSX8llqTTcZQ/kKfdT/ADC1GJSN7HFcmieuRNegHz2LjnfA9gyi5GGQM2PyQwl0shY1gOMJi1z0=;23k+Ljjgr2WCHoA68MUTAQ=="
 ---

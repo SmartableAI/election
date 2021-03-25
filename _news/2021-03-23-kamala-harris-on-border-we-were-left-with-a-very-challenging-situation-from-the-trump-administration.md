@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-22T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
+    images:
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
+        isCached: true
   - title: "Kamala Harris: \"Stop Pushing The False Choice That Gun Control Means We're Coming After All Your Guns\""
     excerpt: "Vice President Kamala Harris said Wednesday on “CBS This Morning” that “it is time for Congress to act” on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws."
     publishedDateTime: 2021-03-24T18:13:00Z

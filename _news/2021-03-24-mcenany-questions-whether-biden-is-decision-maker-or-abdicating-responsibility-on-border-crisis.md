@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/mcenany-questions-if-biden-is-decis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp"
 type: article
 quality: 161
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Kayleigh McEnany blasts Biden administration for 'unprecedented' lack of media access to border"
+    excerpt: "Former White House press secretary Kayleigh McEnany slammed the Biden administration Tuesday for what she described as an \"unprecedented\" lack of media access to the border."
+    publishedDateTime: 2021-03-23T21:38:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany"
+    ampWebUrl: "https://www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kayleigh McEnany: Biden administration 'incentivizing' flow of migrant children at southern border"
+    excerpt: "Former White House press secretary and Fox News Analyst Kayleigh McEnany reacts to the growing influx of migrant children at the southern border."
+    publishedDateTime: 2021-03-16T22:52:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdtHfZOHqhY/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "35Eyi96PgHBvFEWFsLDIYYNX+3YbphbzRsLE9oMNmyNN+HYSwUhp4Xp4o5NlaArWaMlwIkABJa26R+0akUNUZk+9L1P9KJZKj4FCVfFpFcS7/o+0H4AS8iVXnonrAb5m2Ywy9tZcer2lOHi1SVTnEIY0ekc8l9wKY95OxSC0e8pwrBsxVyKmDXRt74Nj0YhIYrE7b53mG+X199lxocPpgbbbz+Mp1epo6VHXQR1eHq34OvWvSF0WtI2UOLEYEv4mYjTvEXu45kS+9+JYKOyOZ8erWYlTSAFdIcqbcBqZE2ITxmDicMs8K1/998Ru9GLYJds0uZGStbfxgKtXjgYZVVLU49M6IIUN0wpRXAblBQg=;R+RV6R8b1lBJPpb7W6oRzg=="
 ---

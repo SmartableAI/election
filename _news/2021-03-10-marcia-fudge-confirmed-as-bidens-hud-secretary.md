@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-se
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp"
 type: article
 quality: 175
-heat: 375
+heat: 355
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says he has no plans to travel to the southern border"
-    excerpt: "President Biden said Tuesday he does not have any plans to travel to the southern border \"at the moment,\" amid a migrant surge in migrants and overwhelmed facilities. "
-    publishedDateTime: 2021-03-16T18:29:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DIFlsdjZmWk/biden-travel-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-travel-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-travel-southern-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Susan Collins says she’ll back Biden pick Deb Haaland for Interior secretary"
     excerpt: "U.S. Sen. Susan Collins, R-Maine, said Wednesday that she will vote to confirm U.S. Rep. Deb Haaland of New Mexico to become secretary of the interior."
     publishedDateTime: 2021-03-04T05:32:53Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp"
 type: article
 quality: 172
-heat: 212
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "Biden signs law expanding COVID-19 vaccinations for veterans, their spouses and caregivers"
-    excerpt: "President Biden signed into law Wednesday, a measure that would expand the Department of Veterans Affairs' ability to provide the coronavirus vaccine for millions of Americans."
-    publishedDateTime: 2021-03-24T21:05:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QW0HYLp99wA/biden-signs-law-expanding-covid-19-vaccinations-for-veterans-their-spouses-and-caregivers"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-law-expanding-covid-19-vaccinations-for-veterans-their-spouses-and-caregivers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-law-expanding-covid-19-vaccinations-for-veterans-their-spouses-and-caregivers.amp"
+  - title: "Biden DHS secretary promises US will not expel unaccompanied minors"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas vowed that the United States will not expel unaccompanied minors who cross the U.S. southern border."
+    publishedDateTime: 2021-03-18T16:13:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House blames wind for Biden stumbles boarding Air Force One"
+    excerpt: "Windy conditions were a factor in President Biden’s stumble while boarding Air Force One at Joint Base Andrews on Friday, according to the White House."
+    publishedDateTime: 2021-03-19T20:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gS_5wk0ahgk/white-house-blames-wind-biden-stumble-boarding-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-blames-wind-biden-stumble-boarding-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-blames-wind-biden-stumble-boarding-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/526979e7-8bd6-4160-ba6f-613687e143d1/9b7f94b4-3af9-4f28-9679-b9ee61c503c3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator"
+    excerpt: "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News."
+    publishedDateTime: 2021-03-19T12:51:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator"
+    ampWebUrl: "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden push for face mask standard in workplace misses self-imposed deadline"
+    excerpt: "President Biden planned to issue a temporary face mask standard in workplaces by his 55th day in office, but his administration missed that deadline as discussions continue on the potential new federal standard for private businesses. "
+    publishedDateTime: 2021-03-16T12:09:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QNhHL9qtHJ4/biden-face-mask-workplace-misses-self-imposed-deadline"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Karl Rove: Biden's proposed tax increase would kill more than half a million US jobs"
+    excerpt: "President Biden's proposed tax hike will cost America more than 540,000 jobs if enacted, Fox News contributor Karl Rove told \"The Story\" Tuesday. "
+    publishedDateTime: 2021-03-23T21:24:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wt4DR7NdaHM/karl-rove-biden-tax-increase-kill-half-a-million-jobs"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-biden-tax-increase-kill-half-a-million-jobs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-biden-tax-increase-kill-half-a-million-jobs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd65cdd1-8886-445c-8d72-9bf796997813/dfbc9ace-b856-43c1-8de4-31b78f8cc37b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DHS chief Mayorkas to visit southern border as Biden admin under pressure on immigration"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas will visit the southern border Friday with Sen. Rob Portman as the Biden administration is facing intense scrutiny over the worsening situation on the border. "
+    publishedDateTime: 2021-03-19T13:06:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmJVcurxE/dhs-chief-mayorkas-visit-southern-border-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/dhs-chief-mayorkas-visit-southern-border-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-chief-mayorkas-visit-southern-border-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Jill Biden discusses school reopening in classroom with just 2 in-person learning students"
+    excerpt: "First lady Jill Biden visited a New Jersey elementary school classroom on Monday where just two students were learning in-person and 17 were learning virtually."
+    publishedDateTime: 2021-03-15T21:36:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WME4ULJP3O0/jill-biden-school-reopening-two-students-in-person"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-school-reopening-two-students-in-person.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-school-reopening-two-students-in-person.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28a5b8a0-0106-4568-b113-06ec9d3d7f96/a36165bf-9d2d-4f1f-ad18-bd48814f2c11/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ac61cc6-e8e7-460a-9dec-b7c0635ab3b7/6f6901c8-5c94-4f36-b53b-f8a212d69acf/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Manchin target of ad in West Virginia pressuring him to block controversial Biden DOJ nominee"
-    excerpt: "The Judicial Crisis Network (JCN) is launching a campaign aiming to scuttle the nomination of Vanita Gupta to be the associate attorney general for civil rights by targeting moderate Democratic Sen. Joe Manchin in his home state of West Virginia. "
-    publishedDateTime: 2021-03-16T19:02:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4sOSR23hplE/manchin-vanita-gupta-west-virginia-conservatives"
-    ampWebUrl: "https://www.foxnews.com/politics/manchin-vanita-gupta-west-virginia-conservatives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-vanita-gupta-west-virginia-conservatives.amp"
+  - title: "Key Biden aides, including one with ties to dark money, not required to disclose personal finances"
+    excerpt: "Three top aides to President Biden's COVID-19 response are exempt from the personal financial disclosure requirements that other members of his administration must file. "
+    publishedDateTime: 2021-03-24T18:47:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EFwgqFugTfQ/biden-white-house-financial-disclosure-dunn-dark-money"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-financial-disclosure-dunn-dark-money.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-financial-disclosure-dunn-dark-money.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Assessing Biden's Start: Poll Finds Support for Activist Government"
+    excerpt: "On March 11, 2021, Joe Biden signed into law a measure that was his top priority even before he took office: a $1.9 trillion spending bill to ease the year-long financial upheaval caused by the coronavirus pandemic. “This historic legislation is about ..."
+    publishedDateTime: 2021-03-23T10:35:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/23/assessing_bidens_start_poll_finds_support_for_activist_government.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533649_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "aQY76TbLmEQ3NP6BMfQciE6P/67rMWNxCYLxozPp1pQPd8FETeGuysrxz8ayV5DOEryaOGTUege3Mny4NE5kRkpN7AhD82fisFPGk1YvOZHAEPJsjs1olsJUgs+MKDdbXUQqAcOQ2vAtOh6kl6LUFpOYfnIvhGbbbzQaBeJF+LJbbiCl6fn38WiMkBrmzA6tzU2KeiC8cSglMKrQZuimbckPDyA1xDSCgfkHm4TwapcfK0FS+lmB/fYvK93gaDiv74NBYt58GvBXrF4RnI0mdhCFXrM2tIV08x+BzVMZ7+uoP+J0VcndjwYhxFADASOsF0vXR/mRLBtAt7KZipJ2qX9WD5b8lsRHgFNL/nbBrlg=;WOWo0Es1bRtLs9F2+Ttd6A=="

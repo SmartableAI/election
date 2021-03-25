@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-wall-freeze-unlawful-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden's border crisis: 6 things you need to know"
-    excerpt: "The Biden administration is facing calls for more transparency as the federal government diverts tens of millions of dollars to deal with an influx of migrants."
-    publishedDateTime: 2021-03-23T13:29:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C7fmosFLCU4/biden-border-crisis-what-to-know"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-what-to-know.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-what-to-know.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Migrant-wearing-Biden-shirt.jpeg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Senate confirms Xavier Becerra as Biden's HHS secretary despite GOP opposition"
     excerpt: "The Senate on Thursday voted to confirm Xavier Becerra as President Biden’s Health and Human Services secretary, delivering the nascent administration another Cabinet member despite nearly unanimous opposition from Republican lawmakers."
     publishedDateTime: 2021-03-18T16:49:05Z
@@ -94,6 +78,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Texas mayor refutes Biden administration claim that border is closed and secure"
+    excerpt: "Laredo, Texas Mayor Pete Saenz refuted Homeland Security Secretary Alejandro Mayorkas' and President Biden's claim that the U.S.-Mexico border was closed and secure in an interview Monday."
+    publishedDateTime: 2021-03-22T16:29:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ypn3PC8FWGM/texas-mayor-biden-border-closed-secure-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden admin can't keep up with border surge of migrant children, CBP official warns"
+    excerpt: "The number of migrant children in federal custody has passed 4,000, one source told Fox News."
+    publishedDateTime: 2021-03-16T21:51:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1tsjcCcU_k/migrant-children-border-dhs-families-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21071661472869.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "McCarthy, GOP delegation visiting US-Mexico border Monday amid migration surge under Biden"
     excerpt: "House Minority Leader Kevin McCarthy and 12 other House Republicans are at the Southern border and will make comments from El Paso, Texas later Monday as the GOP continues to hammer President Biden over immigration. "
@@ -143,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden admin allowed majority of migrant families who surrendered at border to enter US despite health order"
+    excerpt: "In February, U.S. Customs and Border Protection (CPB) allowed the majority of the migrant families it encountered on the U.S. southwestern border to stay in the country pending a decision on whether they will be allowed to stay permanently. "
+    publishedDateTime: 2021-03-18T17:21:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-p3906S9zsY/biden-border-crisis-migrants-health-order"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas Republicans rip Biden after Border Patrol captures convicted sex predators illegally crossing border"
     excerpt: "U.S. Customs and Border Patrol (CBP) announced on Wednesday the apprehension of multiple convicted \"sexual predators\" that were caught trying to illegally enter America through the southern border"
     publishedDateTime: 2021-03-18T20:07:38Z
@@ -170,20 +202,6 @@ related:
     quality: 149
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b98b5ab-a71e-49aa-bb9b-da97aea33b9d/3b4ec3f8-5397-45a4-8373-602e228d3dc7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Republicans renew call for border crisis hearing amid Biden's 'open-borders rallying cry'"
-    excerpt: "EXCLUSIVE: Republicans are renewing calls for Democrats to hold a hearing on the growing crisis at the southern border -- while warning that the Biden administration has been sounding an “open-borders rally cry.”"
-    publishedDateTime: 2021-03-15T16:09:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwduK8UUyqE/republicans-renew-call-border-crisis-hearing"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe9eafdf-a54e-4b6d-b45e-420094e73a89/7cc93579-97ff-4493-8721-9ea5284ab154/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

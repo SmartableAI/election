@@ -514,6 +514,54 @@
       ]
     },
     {
+      "path": "_news/2021-03-23-trump-calls-dhs-boss-mayorkas-incompetent-over-border-crisis.md",
+      "title": "Trump calls DHS boss Mayorkas ‘incompetent’ over border crisis",
+      "excerpt": "Former President Donald Trump on Monday said that Homeland Security Secretary Alejandro Mayorkas is “incompetent” in his management of the US-Mexico border crisis, warning the Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/",
+      "originalUrl": "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-says-mayorkas-incompetent-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/",
+      "publishedDateTime": "2021-03-22T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-trump-coy-about-social-media-comeback-but-says-twitter-did-him-a-favor.md",
       "title": "Trump coy about social media comeback but says Twitter did him ‘a favor’",
       "excerpt": "Former President Donald Trump on Monday declined to confirm reports that he’s poised to make a social media comeback, but said that in the meantime, he’s enjoying emailed press",
@@ -1459,54 +1507,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-trump-wax-figure-museum-always-had-trouble-with-presidential-section.md",
-      "title": "Trump wax figure museum ‘always had trouble with presidential section’",
-      "excerpt": "Presidential wax figures need a Secret Service detail of their own. Replicas of the last three commanders in chief have been subject to constant vandalism at a San Antonio museum. “When it’s a",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
-      "originalUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-wax-01.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/",
-      "publishedDateTime": "2021-03-19T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {

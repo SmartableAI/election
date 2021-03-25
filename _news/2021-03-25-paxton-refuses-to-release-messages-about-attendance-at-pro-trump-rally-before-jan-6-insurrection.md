@@ -2,9 +2,9 @@
 category: news
 title: "Paxton refuses to release messages about attendance at pro-Trump rally before Jan. 6 insurrection"
 excerpt: "The Texas attorney general's office is attempting to withhold all messages Ken Paxton sent or received while in Washington for the pro-Donald Trump rally that devolved into a riot at the U.S. Capitol."
-publishedDateTime: 2021-03-25T13:38:00Z
-originalUrl: "https://www.chron.com/neighborhood/news/houston-texas/article/Ken-Paxton-Trump-rally-messages-16051966.php"
-webUrl: "https://www.chron.com/neighborhood/news/houston-texas/article/Ken-Paxton-Trump-rally-messages-16051966.php"
+publishedDateTime: 2021-03-25T14:51:00Z
+originalUrl: "https://www.chron.com/politics/article/texas-ken-paxton-trump-insurrection-16051966.php"
+webUrl: "https://www.chron.com/politics/article/texas-ken-paxton-trump-insurrection-16051966.php"
 ampWebUrl: "https://www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 336
     isCached: true
 
-secured: "39rzL21l8rTD7RxInLRmVtv9NklG0psvPPr/b9qbTxxgPxBQtnAp9MhPAoClADheAvqk2YpKdrwT1zBrcyYCNwc8LMctVo96BrkTzkwFfCPMZcexVYm0OCEeeAWcNLb8C3eeYU+Y4QrOCq00fHGrf63Z8BCNTBv8C9o9brbDoWDQgebUfJ4T1Kve7ORD6KA9gr8AD5Y5CU6AP6O4oMi+CZ35QmuTgpvB8oiMSdhudemxTupt04C+zTLfKYM9slrMg2KvxHaYWyaej4sIBkY7InjXCeAjzk6ZQkRvVSRuylhDtr+psVuJg45aUaBNybxICVwMM/s1kly273ng617N91JRagV1Pq2betUB4k6Tt9pX9lJYsumzjrL8HVar7OoyUj+hEmP/i8NJv2isQJPfIW8YLn6Q4vLwB+du0E8EsZJPhRSvQeJz4cGBW76KJYXEBg1NQ+823rlk45+0GkRktsSKu3B4qnbrxvUlXkIDHWLGxrabDRQUcExSMK9RKhIl7Q35g71SEJsivdOXmOVHtg==;jmW+k7eJFvjADFldv2FvGQ=="
+secured: "mGgVo0lnN2hzbC6TuGkBmG8PoA3C5Et8CQOGBuOBNm0tmlnYpEVHQI4yCCsWAA0lX+ZIOJTqdZd9hVB4HpDtbx0PTy6rF+b1pf7fc9HXswYXtwdW1KLluhNQbS000ajSvtj89vLoNLlTiu7H2WT3tQLHQdCVB12oTAUQCnsZs2vgCajkFIVRsXvpIvmnFhkTbWhQrksBgPCU3u+JOMmDRJD/JZMtV/a0mR/EIgQoEJrq8pQ968LLK5FFCpDJpdBti4jiQavMdqev2aujM3wQPnAy8La2m378XBxTmq3+zqPWJhQvF+yrkoz3sa1mXQo8H/Br5H5Qwz7JGVKFa3es4WMmZ13W7q9J4yl5rWpdSHQ=;S21FFfYdJoxGrBhuDotQTQ=="
 ---
 

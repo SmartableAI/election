@@ -2,6 +2,342 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-25-biden-warns-north-korea-of-responses-if-they-continue-to-test-ballistic-missiles.md",
+      "title": "Biden warns North Korea of 'responses' if they continue to test ballistic missiles",
+      "excerpt": "President Joe Biden warned that there would be \"responses\" if North Korea continues to fire ballistic missiles following the hermit kingdom's second launch in less than a week.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4rDx2lKKbg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4rDx2lKKbg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325134844-09-biden-presser-0325-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/north-korea-joe-biden-warning/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/north-korea-joe-biden-warning/index.html",
+      "publishedDateTime": "2021-03-25T12:38:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-biden-calls-state-gop-voting-restrictions-efforts-sick-and-un-american.md",
+      "title": "Biden calls state GOP voting restrictions efforts 'sick' and 'un-American'",
+      "excerpt": "President Joe Biden said he will \"do everything\" in his power to halt efforts to restrict voting rights, saying during Thursday's news conference at the White House that the efforts underway in state legislatures are \"un-American.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/goR0IogzKII/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/goR0IogzKII/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325134844-09-biden-presser-0325-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/voting-rights-biden-republicans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/voting-rights-biden-republicans/index.html",
+      "publishedDateTime": "2021-03-25T12:35:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-biden-says-gop-state-voting-legislation-makes-makes-jim-crow-look-like-jim-eagle.md",
+      "title": "Biden says GOP state voting legislation makes 'makes Jim Crow look like Jim Eagle'",
+      "excerpt": "President Biden said Republicans’ state voting legislation \"makes Jim Crow look like Jim Eagle\" during his first formal press conference on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgYpejoL8dI/biden-gop-state-voting-legislation-jim-crow-jim-eagle",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgYpejoL8dI/biden-gop-state-voting-legislation-jim-crow-jim-eagle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-gop-state-voting-legislation-jim-crow-jim-eagle.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gop-state-voting-legislation-jim-crow-jim-eagle.amp",
+      "publishedDateTime": "2021-03-25T11:55:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-biden-says-access-will-be-provided-to-border-facilities-but-doesnt-give-timeline.md",
+      "title": "Biden says access will be provided to border facilities, but doesn't give timeline",
+      "excerpt": "President Joe Biden said plans are underway to provide journalists access to border facilities, but didn't provide a timeline on when that would happen.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OAa7V_iI38M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OAa7V_iI38M/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210324172937-01-hhs-children-facility-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/biden-says-access-will-be-provided-to-border-facilities-but-doesnt-give-timeline/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-says-access-will-be-provided-to-border-facilities-but-doesnt-give-timeline/index.html",
+      "publishedDateTime": "2021-03-25T11:48:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-biden-says-he-cant-picture-us-troops-being-in-afghanistan-next-year.md",
+      "title": "Biden says he 'can't picture' US troops being in Afghanistan next year",
+      "excerpt": "President Joe Biden said he \"can't picture\" US troops being in Afghanistan next year.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MEdkK3g2TPU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MEdkK3g2TPU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325134844-10-biden-presser-0325-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html",
+      "publishedDateTime": "2021-03-25T11:44:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-biden-says-its-his-expectation-to-run-for-reelection-in-2024-makes-trump-quip.md",
+      "title": "Biden says it's his 'expectation' to run for reelection in 2024, makes Trump quip",
+      "excerpt": "President Biden says it's his \"expectation\" that he'll run for reelection in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 820,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp",
+      "publishedDateTime": "2021-03-25T11:41:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-biden-doj-nominee-vanita-guptas-committee-vote-ends-in-tie-after-heated-senate-meeting.md",
       "title": "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting",
       "excerpt": "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice.",
@@ -178,7 +514,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -287,7 +623,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 333,
+      "heat": 313,
       "tags": null,
       "images": [
         {
@@ -488,175 +824,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-trump-endorses-incumbent-georgia-gop-head-for-reelection.md",
-      "title": "Trump endorses incumbent Georgia GOP head for reelection",
-      "excerpt": "President Trump waded into the race to head Georgia’s GOP to endorse incumbent David Shafer on Wednesday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hUc8MOjSlk/trump-endorses-incumbent-georgia-gop-head-for-reelection",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hUc8MOjSlk/trump-endorses-incumbent-georgia-gop-head-for-reelection",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20334644546013-e1606925054815.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-incumbent-georgia-gop-head-for-reelection.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-incumbent-georgia-gop-head-for-reelection.amp",
-      "publishedDateTime": "2021-03-24T14:25:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-mcenany-questions-whether-biden-is-decision-maker-or-abdicating-responsibility-on-border-crisis.md",
-      "title": "McEnany questions whether Biden is 'decision-maker' or 'abdicating responsibility' on border crisis",
-      "excerpt": "Former White House press secretary Kayleigh McEnany slammed the Biden administration on \"The Story\" Wednesday over its management of the southern border crisis, saying they have failed to make good on their \"transparency promise.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPJJGmh3e88/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPJJGmh3e88/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8253857f-4b01-47f7-80ce-5ef872abead0/8f71d700-0198-4b34-a857-db543ac49bb4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp",
-      "publishedDateTime": "2021-03-24T13:53:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-bidens-closest-senate-ally-emerges-as-a-shadow-secretary-of-state.md",
-      "title": "Biden's closest Senate ally emerges as a shadow secretary of state",
-      "excerpt": "The moment was a metaphor of sorts for Coons’ current role for President Joe Biden. The Delaware Democrat’s close friendship with Biden has already made Coons an unofficial White House envoy in the Senate, but he is now expanding his reach overseas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "originalUrl": "https://www.politico.com/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/97/d4/0ad3da964751bdbeee429cb15725/210324-chris-coons-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "publishedDateTime": "2021-03-24T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -882,6 +1049,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-biden-to-nominate-3-prosecutors-to-head-us-attorneys-offices-in-new-york.md",
+      "title": "Biden to nominate 3 prosecutors to head U.S. attorneys' offices in New York",
+      "excerpt": "WASHINGTON — President Joe Biden is expected to nominate three prosecutors to run the U.S. attorney’s offices in New York state, including the first Black man to run the Southern District of New York in Manhattan and the first Black woman to head the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/justice-department/biden-nominate-3-prosecutors-head-u-s-attorneys-offices-new-n1261910",
+      "originalUrl": "https://www.nbcnews.com/politics/justice-department/biden-nominate-3-prosecutors-head-u-s-attorneys-offices-new-n1261910",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_11/3457472/210317-joe-biden-jm-1131_c6a0aaa7e4d36bbffbf1bbec303e76e7.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261910",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261910",
+      "publishedDateTime": "2021-03-24T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -1126,222 +1350,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation.md",
-      "title": "Duckworth backtracks after saying she’s done voting for Biden picks over lack of AAPI representation",
-      "excerpt": "Sen. Tammy Duckworth’s office said in a statement late Tuesday that the Illinois Democrat will “not stand in the way” of President Biden’s nominees after strongly criticizing the administration for its lack of Asian American or Pacific Islander (AAPI) representation on Cabinet-level posts.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QV9VlJne-KA/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QV9VlJne-KA/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation.amp",
-      "publishedDateTime": "2021-03-23T21:15:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-duckworth-backs-off-threat-to-oppose-biden-nominees-over-lack-of-diversity-after-white-house-agrees-to-add-senior-aapi-adviser.md",
-      "title": "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser",
-      "excerpt": "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110111654-11-biden-admin-possibilities-duckworth-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html",
-      "publishedDateTime": "2021-03-23T20:56:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-trumps-wealthiest-cabinet-member-made-225m-in-outside-income-report.md",
-      "title": "Trump's Wealthiest Cabinet Member Made $225M In 'Outside Income': Report",
-      "excerpt": "Betsy DeVos made at least $225 million in outside income as Trump's education secretary She earned $75 million from Alticor, Amway's parent company She also owned stakes in Neurocore, a brain performance company targeting children Former Secretary of Education Betsy DeVos earned nine figures in outside income during her tenure as a Cabinet member in the Trump administration,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
-      "originalUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/27/betsy-devos-special-olympics.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
-      "publishedDateTime": "2021-03-23T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-biden-north-korea-missile-tests-no-new-wrinkle.md",
-      "title": "Biden: North Korea missile tests 'no new wrinkle'",
-      "excerpt": "US President Joe Biden is shrugging off short-range missile tests conducted by North Korea over the weekend. Returning to the White House Tuesday evening after a trip to Ohio, Biden told reporters, \"there's no new wrinkle in what they did.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/03/24/biden-north-korea-missile-tests-no-new-wrinkle/6976087002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/03/24/biden-north-korea-missile-tests-no-new-wrinkle/6976087002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/f626a6e0-bb31-4516-999a-a00cd6e13644_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317103228-01-biden-taxes-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says he agrees with Obama that filibuster is 'a relic of the Jim Crow era'"
+    excerpt: "Joe Biden told CNN's Kaitlan Collins on Thursday at the first formal news conference of his presidency that he agreed with former President Barack Obama that the filibuster \"was a relic of the Jim Crow era\" but added that his immediate focus was on addressing the abuse of the rule first.\n    \n"
+    publishedDateTime: 2021-03-25T18:56:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EJ9foi6-l1k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/filibuster-biden-obama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/filibuster-biden-obama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325143535-joe-biden-march-25-2021-03-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true

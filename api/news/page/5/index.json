@@ -2,6 +2,166 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-18-mitch-mcconnell-swipes-at-kamala-harris-senate-role-if-filibuster-ends-in-wsj-op-ed.md",
+      "title": "Mitch McConnell Swipes at Kamala Harris' Senate Role If Filibuster Ends in WSJ Op-Ed",
+      "excerpt": "Senate Minority Leader Mitch McConnell of Kentucky took a jab at Vice President Kamala Harris's role in the Senate if the filibuster were to end, in an op-ed published in the Wall Street Journal on Wednesday. In the op-ed, titled \"The Scorched Earth Senate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105",
+      "originalUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1758570/senate-minority-leader-mitch-mcconnell-r-ky-talks.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1",
+      "publishedDateTime": "2021-03-18T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.md",
+      "title": "Biden DHS secretary promises US will not expel unaccompanied minors",
+      "excerpt": "Homeland Security Secretary Alejandro Mayorkas vowed that the United States will not expel unaccompanied minors who cross the U.S. southern border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNhcx68SmRA/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-promises-us-will-not-expel-unaccompanied-minors.amp",
+      "publishedDateTime": "2021-03-18T09:13:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-what-andrew-cuomo-and-kamala-harris-said-about-vaccine-skepticism.md",
+      "title": "What Andrew Cuomo and Kamala Harris said about vaccine skepticism",
+      "excerpt": "Both indicated that they didn’t fully trust the Trump administration to oversee the process, as many Republicans point out now. But their comments are worth a close look.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37AHSJTXWAI6XAIVTLK6TQBBC4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp",
+      "publishedDateTime": "2021-03-18T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-new-jersey-district-pays-325k-in-trump-yearbook-censorship.md",
       "title": "New Jersey district pays $325K in Trump yearbook censorship",
       "excerpt": "A New Jersey school district is paying $325,000 to a former New Jersey teacher who claimed she was forced to edit a Donald Trump T-shirt worn by a student in a yearbook photo New Trump recording ...",
@@ -154,25 +314,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-texas-congressman-ex-sheriff-rips-no-borders-biden-for-continuing-to-deny-crisis.md",
-      "title": "Texas congressman, ex-sheriff rips 'no-borders Biden' for continuing to deny crisis",
-      "excerpt": "The Biden administration continues to ignore the crisis at the border while the migrant surge worsens, Rep. Troy Nehls told \"Fox & Friends.\"'",
+      "path": "_news/2021-03-18-biden-defense-secretary-warns-us-forces-ready-to-fight-tonight-after-north-korea-warning.md",
+      "title": "Biden defense secretary warns US forces ready to 'fight tonight' after North Korea warning",
+      "excerpt": "Defense Secretary Lloyd Austin on Thursday warned North Korea that U.S. forces are ready to \"fight tonight\" after the dictatorship condemned military drills taking place in South Korea.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIAhOXancSs/texas-congressman-nehls-no-borders-biden-deny-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIAhOXancSs/texas-congressman-nehls-no-borders-biden-deny-crisis",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 309,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0e0cad0-33bc-446b-9db5-16102b405c1a/af3c1e50-36bb-43f0-9294-7cb7dcad73ef/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -180,9 +340,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp",
-      "publishedDateTime": "2021-03-18T06:45:11-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp",
+      "publishedDateTime": "2021-03-18T06:32:45-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -526,6 +686,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-18-as-biden-keeps-troops-in-syria-ex-texas-trooper-says-its-time-for-military-to-stop-mexican-cartel-crisis.md",
+      "title": "As Biden keeps troops in Syria, ex-Texas trooper says 'it's time' for military to stop Mexican cartel crisis",
+      "excerpt": "Jaeson Jones, a former captain in the Texas Department of Public Safety's counter-terror division, said Wednesday 'it's time' for the federal government to focus more on the escalating cartel violence, and the rapidly intensifying smuggling operations they oversee.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t1UbZDFi8G4/as-biden-keeps-troops-in-syria-ex-texas-trooper-says-its-time-for-military-to-stop-mexican-cartel-crisi",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t1UbZDFi8G4/as-biden-keeps-troops-in-syria-ex-texas-trooper-says-its-time-for-military-to-stop-mexican-cartel-crisi",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/639b258b-7c57-46fc-a06a-c4d33faf3680/5bbf9a3c-5136-4879-baf3-1f4ed111d3e1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/as-biden-keeps-troops-in-syria-ex-texas-trooper-says-its-time-for-military-to-stop-mexican-cartel-crisi.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/as-biden-keeps-troops-in-syria-ex-texas-trooper-says-its-time-for-military-to-stop-mexican-cartel-crisi.amp",
+      "publishedDateTime": "2021-03-17T20:21:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-navarro-top-biden-admin-officials-compromised-by-china-urges-president-to-stand-strong-against-beijing.md",
       "title": "Navarro: Top Biden admin officials 'compromised' by China, urges president to 'stand strong' against Beijing",
       "excerpt": "More than 20 top officials in the Biden administration are \"\"compromised in some way ... by the Chinese Communist Party,\" former White House trade adviser Peter Navarro told \"Fox News Primetime\" Wednesday.",
@@ -683,62 +899,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-sen-capito-blasts-biden-for-very-weak-message-telling-migrants-dont-come-over-to-us.md",
-      "title": "Sen. Capito blasts Biden for 'very weak' message telling migrants 'don't come over' to US",
-      "excerpt": "President Biden \"sounded very weak\" when telling would-be migrants not to come to the United States during an interview with ABC News, Sen. Shelley Moore Capito, R-W.Va., told \"America Reports\" Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMV7Y5j9dbE/capito-biden-very-weak-message-migrants-dont-come",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMV7Y5j9dbE/capito-biden-very-weak-message-migrants-dont-come",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-very-weak-message-migrants-dont-come.amp",
-      "publishedDateTime": "2021-03-17T14:27:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1027,7 +1187,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 224,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1083,7 +1243,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1180,162 +1340,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-tough-to-withdraw-from-afghanistan-by-may.md",
-      "title": "Biden: 'Tough' to withdraw from Afghanistan by May",
-      "excerpt": "Withdrawing all U.S. troops from Afghanistan by May 1 as called for in a deal between the United States and the Taliban would be \"tough,\" President Biden Joe Biden Biden and Congress must take bold action to prevent violent extremism The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border crisis MORE said in an interview aired Wednesday,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may",
-      "originalUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe2_31121_gettyimages.png",
-          "width": 826,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may?amp",
-      "publishedDateTime": "2021-03-17T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-trump-net-worth-dropped-by-700-million-during-presidency-report.md",
-      "title": "Trump Net Worth Dropped By $700 Million During Presidency: Report",
-      "excerpt": "Former President Donald Trump lost about a quarter of his overall wealth during the four years he served in the White House, according to the latest estimate from the Bloomberg Billionaire Index. When Trump took office in 2017, his net worth was estimated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
-      "originalUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1758105/donald-trump.jpg",
-          "width": 1024,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1",
-      "publishedDateTime": "2021-03-17T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-brands-putin-a-killer-and-says-he-will-pay-for-russian-election-interference-live.md",
-      "title": "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live",
-      "excerpt": "Joe Biden told immigrants making the difficult journey to the US-Mexico border “don’t come over” as the administration attempts to respond to an increase of unaccompanied children seeking asylum. In a wide-ranging interview with ABC News’ George ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 310,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates",
-      "publishedDateTime": "2021-03-17T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

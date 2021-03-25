@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administrati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
 type: article
 quality: 161
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Kayleigh McEnany blasts Biden administration for 'unprecedented' lack of media access to border"
+    excerpt: "Former White House press secretary Kayleigh McEnany slammed the Biden administration Tuesday for what she described as an \"unprecedented\" lack of media access to the border."
+    publishedDateTime: 2021-03-23T21:38:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany"
+    ampWebUrl: "https://www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McEnany questions whether Biden is 'decision-maker' or 'abdicating responsibility' on border crisis"
+    excerpt: "Former White House press secretary Kayleigh McEnany slammed the Biden administration on \"The Story\" Wednesday over its management of the southern border crisis, saying they have failed to make good on their \"transparency promise.\""
+    publishedDateTime: 2021-03-24T20:53:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPJJGmh3e88/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8253857f-4b01-47f7-80ce-5ef872abead0/8f71d700-0198-4b34-a857-db543ac49bb4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "g/pYz/VyDqw5qDRYav/yihpM2k3+b29qysGyXJf1pv6L8D4BlrhvJ2tE5Vj3QQgZpBZ0a4b5Jnw9S2WFIQnlP2pUeuOCuJLQu0/E4Am4D4khvaAf0ZfzOPWWa1oudZ1uKPNF4RHwzq/43ybrUSqbCaPiDRB2s7poMj4H9PWD/L8f8zmIrlyS+pVHxbCq+HSM4fi4dQM8H5Az3sRq0X4Ygr2CCmJ1nUo2hV7qbUpo1ziWdjGMhvkFPMDdydDzJPqY380Q8xrk5kgzLByQ+RoVQQ8kv+PA5k+nsiWsMrxtIXSGMwl9BEmye9/eaEuNxuPJZpiYlZi0Z3Xgy5Mj7y7qFyUCVHN8wChPL6p1XmQrfxM=;GJhM+i9HqipLuPrF+NHc2Q=="
 ---

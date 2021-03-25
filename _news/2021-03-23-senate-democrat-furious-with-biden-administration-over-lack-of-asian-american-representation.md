@@ -31,83 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Florida ex-Sen. Bill Nelson to be tapped by Biden for NASA administrator"
-    excerpt: "President Biden is expected to tap former Democratic Sen. Bill Nelson to lead NASA -- a move that could come as early as Friday, multiple current and former NASA officials told Fox News."
-    publishedDateTime: 2021-03-19T12:51:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D4vzYD4Cc0w/bill-nelson-biden-nasa-administrator"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp"
+  - title: "Biden administration and Democrats 'do not care' about American jobs: Sen. Scott"
+    excerpt: "Sen. Rick Scott R-Fla. said Friday that the Biden administration and Democrats \"don't care about jobs\" and that the attempted inclusion of a $15 minimum wage in the latest coronavirus stimulus bill is just \"payback\" to liberal Democrats. "
+    publishedDateTime: 2021-02-26T13:49:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZkTrFGm5qc/minimum-wage-hike-biden-democrats-jobs-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden push for face mask standard in workplace misses self-imposed deadline"
-    excerpt: "President Biden planned to issue a temporary face mask standard in workplaces by his 55th day in office, but his administration missed that deadline as discussions continue on the potential new federal standard for private businesses. "
-    publishedDateTime: 2021-03-16T12:09:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QNhHL9qtHJ4/biden-face-mask-workplace-misses-self-imposed-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Karl Rove: Biden's proposed tax increase would kill more than half a million US jobs"
-    excerpt: "President Biden's proposed tax hike will cost America more than 540,000 jobs if enacted, Fox News contributor Karl Rove told \"The Story\" Tuesday. "
-    publishedDateTime: 2021-03-23T21:24:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wt4DR7NdaHM/karl-rove-biden-tax-increase-kill-half-a-million-jobs"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-biden-tax-increase-kill-half-a-million-jobs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-biden-tax-increase-kill-half-a-million-jobs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd65cdd1-8886-445c-8d72-9bf796997813/dfbc9ace-b856-43c1-8de4-31b78f8cc37b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1d9959d-2022-46fc-865c-355a8970d8a6/0494ea3a-053d-4d59-b663-2a432ef7a084/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kayleigh McEnany blasts Biden administration for 'unprecedented' lack of media access to border"
-    excerpt: "Former White House press secretary Kayleigh McEnany slammed the Biden administration Tuesday for what she described as an \"unprecedented\" lack of media access to the border."
-    publishedDateTime: 2021-03-23T21:38:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany"
-    ampWebUrl: "https://www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
+  - title: "Biden erases Dr. Seuss from 'Read Across America' proclamation as progressives seek to cancel beloved author"
+    excerpt: "President Biden appears to have erased Dr. Seuss from Read Across America Day."
+    publishedDateTime: 2021-03-01T23:27:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6unV8cqv3OQ/biden-erases-dr-seuss-read-across-america-proclamation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-erases-dr-seuss-read-across-america-proclamation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-erases-dr-seuss-read-across-america-proclamation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 156
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Assessing Biden's Start: Poll Finds Support for Activist Government"
-    excerpt: "On March 11, 2021, Joe Biden signed into law a measure that was his top priority even before he took office: a $1.9 trillion spending bill to ease the year-long financial upheaval caused by the coronavirus pandemic. “This historic legislation is about ..."
-    publishedDateTime: 2021-03-23T10:35:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/23/assessing_bidens_start_poll_finds_support_for_activist_government.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/533649_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e52474ef-0dd1-426d-9941-16c16e97c6ce/aa0ba86f-4bb1-48db-a4f6-3e9aaf9f50e0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "LoFPm0dKistf2tMCm2Or5s5ob4dDzAIRlqolOpzXQwqJOvdg2zwnjxrWpRPI23v+c/gVphVjgUbS3K6gimmMN6A58odXPu9wpnbILSq2BsIVNAayEn+wQFUHi/zgQLR2Z18XKNHutvlpNDMSALHPesYUmkM4EUzGwGPeQlc5ouhuMMl27wnYxgzY4Pj1geMO8CpPps3Xc8pEJ+QzjpnkpDolNiT9Ojg8hjq0NChLKfjZNqLKfc3845GgrA1vXl6FpuQ5LBhzIuYw7pDktVXffTE/+obewxN1/Pr+ItN9/ILmSfQVEXnlAHzHm4PfXn+E/Q/Upw4oF2nGOh1Ma9QJjny06AfRVLmMJwmo1h+rCec=;/5dTw1S73dgrShOkLbjDcw=="

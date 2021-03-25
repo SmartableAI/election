@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden targets assault weapons, but handguns used more often in mass shootings"
-    excerpt: "According to Statistica, “handguns are involved in about 78% of mass shootings” in the United States between 1985 and 2021, making them the most common weapon used in these tragedies."
-    publishedDateTime: 2021-03-23T19:51:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ghnAI3YWleg/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-assault-weapons-ban-fbi-data-handguns-mass-shootings.amp"
+  - title: "AOC endorses controversial Democrat who compared voting for Biden to eating 's***'"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., endorsed controversial Democrat Nina Turner running for a vacant Ohio congressional seat who compared voting for President Joe Biden to eating feces. "
+    publishedDateTime: 2021-03-22T20:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907a1e05-e26f-45ee-9a49-4573dc795e75/e77cfc3a-e762-4658-80ba-692cd101567a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0e9a35a-cdd7-493d-b0e0-8535c57de3fb/071070e4-ce62-44fe-9a99-32dadfc7bf59/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28a5b8a0-0106-4568-b113-06ec9d3d7f96/a36165bf-9d2d-4f1f-ad18-bd48814f2c11/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Duckworth backtracks after saying she’s done voting for Biden picks over lack of AAPI representation"
+    excerpt: "Sen. Tammy Duckworth’s office said in a statement late Tuesday that the Illinois Democrat will “not stand in the way” of President Biden’s nominees after strongly criticizing the administration for its lack of Asian American or Pacific Islander (AAPI) representation on Cabinet-level posts."
+    publishedDateTime: 2021-03-24T04:15:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QV9VlJne-KA/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation"
+    ampWebUrl: "https://www.foxnews.com/politics/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/duckworth-backtracks-after-saying-shes-done-voting-for-biden-picks-over-lack-of-aapi-representation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "UHrOSlDpH7PDH6voG2KB2AuM6TGafhY4x4rmfqKfHnhiZXFTcJ5vGHslmKvVfuFO7eqrkM0xh1Jh2/38q+Fpocm49I0LSnJxbvTb66hz/Gpy3fTcBH1/v+z649KDdGO54NZJVPaGBlSklK4oMuBjmPzowA/I80eSEh4ZzDJH6yTTQ40M3CbpxpdNDWstEkL8BGeCw+OjAkpCQLAz2HEPaQtRrab31DX42Yk3bvUfz6BbKLr662MmsGP5quFKVLz3kIP9oaZfSckzrc0FuR+GW4/GsYS5kExK5Ogty80VbBg4VUGFY6tAC6tDOdiswVdzNYwlUlCOlr+Af4noU/NOSmdFkfmhpxRldJBnCmzmkK0=;lAiIdQUtqzGIHBKm7fgarA=="
