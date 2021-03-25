@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democratic divisions on Biden's agenda broader than just Manchin "
+    excerpt: "The push by liberal Democrats to enact President Joe Biden's sweeping agenda is running into problems beyond just Sen. Joe Manchin: A handful of Democrats are not falling in line and could limit the scope of the party's ambitions on an array of critical issues.\n    \n"
+    publishedDateTime: 2021-03-25T17:49:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q9esjUSR4D0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/democratic-senate-divisions-filibuster-manchin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/democratic-senate-divisions-filibuster-manchin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325113339-tester-manchin-hassan-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden dispatches Democratic senator to Ethiopia amid Tigray crisis"
     excerpt: "Washington (CNN)President Joe Biden is dispatching one of his top congressional allies to Ethiopia to meet with Prime Minister Abiy Ahmed amid the humanitarian crisis in that country's Tigray region. Sen. Chris Coons \"will convey President Biden's grave ..."
     publishedDateTime: 2021-03-18T22:00:00Z

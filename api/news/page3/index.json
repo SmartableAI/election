@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-22-sinema-cornyn-urge-biden-to-use-full-authorities-at-border.md",
+      "title": "Sinema, Cornyn urge Biden to use 'full authorities' at border",
+      "excerpt": "are teaming up to urge President Biden Joe Biden AstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's Morning Report - Biden: Back to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/544323-sinema-cornyn-urge-biden-to-use-full-authorities-at-border",
+      "originalUrl": "https://thehill.com/homenews/senate/544323-sinema-cornyn-urge-biden-to-use-full-authorities-at-border",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/sinemakyrsten_020420gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/544323-sinema-cornyn-urge-biden-to-use-full-authorities-at-border?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/544323-sinema-cornyn-urge-biden-to-use-full-authorities-at-border?amp",
+      "publishedDateTime": "2021-03-22T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-biden-world-praises-clinton-adviser-who-reportedly-ignored-weinstein-warning-dismissed-tara-reades-claims.md",
       "title": "Biden world praises Clinton adviser who reportedly ignored Weinstein warning, dismissed Tara Reade's claims",
       "excerpt": "Biden world sang the praises of Democratic strategist Adrienne Elrod on Sunday after a glowing profile on her work with Biden's team.",
@@ -1271,63 +1323,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp",
       "publishedDateTime": "2021-03-19T16:15:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-baltimore-prosecutor-marilyn-mosby-once-championed-by-vp-harris-now-target-of-federal-investigation.md",
-      "title": "Baltimore prosecutor Marilyn Mosby, once championed by VP Harris, now target of federal investigation",
-      "excerpt": "State's Attorney for Baltimore Marilyn Mosby, whose career was boosted by Vice President Kamala Harris, is now facing a federal investigation with a wide breadth of subpoenas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0_2R-nNr3M/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0_2R-nNr3M/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2016/05/24/694940094001_4909632080001_a376b9cf-2e77-4305-9624-7e4df3ceef33.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris.amp",
-      "publishedDateTime": "2021-03-19T15:08:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

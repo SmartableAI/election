@@ -1,29 +1,33 @@
 ---
 category: news
 title: "In Senate race, combative Brooks leans into Trump ties"
-excerpt: "He ran for Alabama’s other Senate seat in 2017 but came in third in the primary when he faced attack ads accusing him of being disloyal to Trump. Brooks said he is now better known to voters. “This time I have an established reputation that people can discern that,"
-publishedDateTime: 2021-03-25T01:43:00Z
-originalUrl: "https://www.chron.com/news/article/In-Senate-race-combative-Brooks-leans-into-Trump-16051290.php"
-webUrl: "https://www.chron.com/news/article/In-Senate-race-combative-Brooks-leans-into-Trump-16051290.php"
-ampWebUrl: "https://www.chron.com/news/amp/In-Senate-race-combative-Brooks-leans-into-Trump-16051290.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Senate-race-combative-Brooks-leans-into-Trump-16051290.php"
+excerpt: "U.S. Rep. Mo Brooks, who came under fire for remarks he made preceding the attack on the U.S. Capitol, says he is better known to voters than when he ran for Senate and lost four years ago"
+publishedDateTime: 2021-03-25T03:26:00Z
+originalUrl: "https://www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html"
+webUrl: "https://www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.hdnux.com/photos/01/17/17/64/20774183/11/375x250.jpg"
-    width: 333
-    height: 250
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -60,6 +64,6 @@ related:
         height: 308
         isCached: true
 
-secured: "savHfuSm4OBa94UnEoutKi9seYm0/T2yBo/e5siWFcxrocbOXreW+R7aEzqhILSSlQtwSM1BzxCYnfkR6kN1wtukcZyIhn4W4mwTE6VFv6Dfvu0Do0fCTktj+8NBw6FLxVe5tQvanCUeF+UhTKFTQ+co63vYkgLkeo1c2wJ5SRVO1SnYpq4hF+Z9eiomdiSn9ya111zuBthtmcVr6XWf6PbbPqZ0U+FDiu+9O9R6GnQ7rZ+tfklJm4K/qNYn6B9yqmr0QSxqv/mNtvrMnW3DHgBkowaYNULXBwtFh+l56V6V6pSUkdmlo8lPkA/R9el+SM+ZuaZHioyBym3fPPSiKfUVe5zpNCyJa2UsOCZ+zAt5U2/UzJopuXiKkefDDcQHYcRfGrYtbCR2ahk9JpZjW4HyL2IKilhwxMb6DOVRCGAs/pU72EnZ2LKa+m0xjbS9gpWVzBCL08FhY6qE3WC82f6OhTLC6Mof0gggmop0EaVzx0gKkEQhCanmmhOV6rCT72W+aJ5EQeXlvhrvlz7GHA==;Z7O+qInvokQgDs5tIG+nYQ=="
+secured: "wrk0T5UcYaFNQ6+TqmhBzXPPWVimvr6yIQqIrxTU+p1a3DxU4q1fhz5CD50iVP31GsYVPkOjDc4D3t+RXo6on0SOlUHXutLOR5tyQBkbYXqtqlpO2jAs4VjEVmI0dSjHHkbHZpaZ90tY29amibKzsuWPBMHQhRg7/rH22Ml8lqog3fCwpC+fnORyMs0QyJ5RrJ1zznlyOeo9VfHgPxeGZO4cP62FPbiF1HKpJ0lzARt7Ca3We6l3ItsEbWeftGdTFc3s4L5cCrV9qA82kvJ65hJVT/45hNaBQDGOB2J7m8bTLJGHZMoZEYw52gbTSWD/bvWNYhRiv+wqryM3RD7+9ry2N0+T5gkvdYiNEQ2iuWs=;vmt0keGZ/cRN6I4mTEGrMg=="
 ---
 

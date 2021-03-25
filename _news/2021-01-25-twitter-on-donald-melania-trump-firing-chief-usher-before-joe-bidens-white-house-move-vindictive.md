@@ -1766,6 +1766,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pentagon To House Migrant Children at Two Military Bases As Biden Blames Border Crisis On Trump"
+    excerpt: "Biden also took the opportunity to blame the Trump administration for the crisis. \"So this new surge we’re dealing with now started with the last administration, but it’s our responsibility to deal with it humanely and to — and to stop what’s ..."
+    publishedDateTime: 2021-03-25T12:03:00Z
+    webUrl: "https://www.ibtimes.com/pentagon-house-migrant-children-two-military-bases-biden-blames-border-crisis-trump-3169078"
+    ampWebUrl: "https://www.ibtimes.com/pentagon-house-migrant-children-two-military-bases-biden-blames-border-crisis-trump-3169078?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-house-migrant-children-two-military-bases-biden-blames-border-crisis-trump-3169078?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 78
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/the-us-mexico-border-at-sunland-park-new.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Why Has Donald Trump Clammed Up?"
     excerpt: "For five-plus years, Donald Trump dominated American news and — much more than most previous presidents — American life. But since being kicked off his favorite social network (and out of the White House),"
     publishedDateTime: 2021-02-03T20:14:00Z

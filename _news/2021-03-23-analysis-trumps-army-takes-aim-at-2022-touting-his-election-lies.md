@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 type: article
 quality: 190
-heat: 970
+heat: 990
 published: true
 
 provider:
@@ -524,6 +524,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/03/23/business/23economy-briefing-trumphotel/23economy-briefing-trumphotel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "8 Candidates Compete for a Job That May Involve Prosecuting Trump"
+    excerpt: "Who will be the next Manhattan district attorney? The race is dominated by low-profile progressives who could reshape law enforcement in New York City."
+    publishedDateTime: 2021-03-25T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/03/25/nyregion/manhattan-district-attorney-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/25/nyregion/manhattan-district-attorney-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/25/nyregion/manhattan-district-attorney-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/18/nyregion/00ny-da-race1/00ny-da-race1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

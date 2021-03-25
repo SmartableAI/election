@@ -544,6 +544,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "8 Candidates Compete for a Job That May Involve Prosecuting Trump"
+    excerpt: "Who will be the next Manhattan district attorney? The race is dominated by low-profile progressives who could reshape law enforcement in New York City."
+    publishedDateTime: 2021-03-25T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/03/25/nyregion/manhattan-district-attorney-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/25/nyregion/manhattan-district-attorney-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/25/nyregion/manhattan-district-attorney-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/18/nyregion/00ny-da-race1/00ny-da-race1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "House Democrats weigh ejecting GOP winner of contested Iowa race, dismissing comparisons to Trump's efforts to overturn election"
     excerpt: "brushing back attacks that they are seeking to subvert the will of voters just months after lambasting former President Donald Trump for trying to reverse his electoral defeat. While Democrats say what's happening in Iowa's 2nd Congressional District is ..."
     publishedDateTime: 2021-03-18T16:51:00Z

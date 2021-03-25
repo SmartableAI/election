@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-18-new-jersey-district-pays-325k-in-trump-yearbook-censorship.md",
+      "title": "New Jersey district pays $325K in Trump yearbook censorship",
+      "excerpt": "A New Jersey school district is paying $325,000 to a former New Jersey teacher who claimed she was forced to edit a Donald Trump T-shirt worn by a student in a yearbook photo New Trump recording ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/WireAP_a2483d633d1349c5a864fc3b7d2d0090_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
+      "publishedDateTime": "2021-03-18T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-power-up-trumps-legal-exposure-multiplies-in-new-york-and-washington.md",
       "title": "Power Up: Trump's legal exposure multiplies in New York and Washington",
       "excerpt": "This is the Power Up newsletter – thanks for waking up with us. FIRST IN POWER UP, TRUMP'S LEGAL EXPOSURE: Former president Donald Trump's tax records are being sifted through; those closest to him have been subpoenaed;",
@@ -1284,62 +1336,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-reiterates-pledge-to-raise-taxes-on-americans-making-400000-or-more.md",
-      "title": "Biden reiterates pledge to raise taxes on Americans making $400,000 or more",
-      "excerpt": "President Joe Biden again reiterated he intends to raise taxes for the most wealthy Americans in an ABC News interview aired Wednesday, saying \"anybody making more than $400,000 a year will see a small to significant tax increase.\" He also pledged that individual Americans who make less than $400,000",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U8NW5W2Rw5o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U8NW5W2Rw5o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americans/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americans/index.html",
-      "publishedDateTime": "2021-03-17T06:39:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

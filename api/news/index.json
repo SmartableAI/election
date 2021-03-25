@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-25-biden-doj-nominee-vanita-guptas-committee-vote-ends-in-tie-after-heated-senate-meeting.md",
+      "title": "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting",
+      "excerpt": "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBRj34gvkN0/vanita-gupta-tie-senate-committee-doj",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBRj34gvkN0/vanita-gupta-tie-senate-committee-doj",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp",
+      "publishedDateTime": "2021-03-25T10:03:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-gun-reform-laws-eluded-biden-in-2013-could-this-showdown-with-the-nra-be-different.md",
+      "title": "Gun reform laws eluded Biden in 2013. Could this showdown with the NRA be different?",
+      "excerpt": "Standing in the Rose Garden directly behind Obama and Barden was the man entrusted with driving gun reform on to the statute books: Joe Biden. After the slaying of the school kids, Obama had given Biden the job of coming up with a plan for substantial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c13b4fd277e71bfaf44b73baae812ab891f77e82/0_116_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0c601ba2b364dcb041c08fe9627dd43a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
+      "publishedDateTime": "2021-03-25T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions.md",
       "title": "Biden’s claim that 'dogs may help cure cancer' draws Twitter reactions",
       "excerpt": "President Biden is known to be a lover of dogs – but did he recently give canines more credit than they deserve?",
@@ -1251,110 +1359,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-bernie-sanders-not-comfortable-with-trump-twitter-ban.md",
-      "title": "Bernie Sanders not ‘comfortable’ with Trump Twitter ban",
-      "excerpt": "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/",
-      "originalUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/sanders-on-trump-twitter-ban-882.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/",
-      "publishedDateTime": "2021-03-23T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-gop-colorado-rep-boebert-accuses-biden-of-politicizing-boulder-shooting.md",
-      "title": "GOP Colorado Rep. Boebert accuses Biden of 'politicizing' Boulder shooting",
-      "excerpt": "Rep. Lauren Boebert, R-Colo., accused President Biden on Tuesday of “politicizing” the mass shooting at a Boulder, Colorado grocery store that left 10 people dead after he called for a nationwide ban on assault weapons.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iey3Q1m3slk/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iey3Q1m3slk/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6211072-992a-4ecc-8a90-aec4ee25b5ba/70143626-86b7-45ff-aef5-2783f9b0a8ee/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting.amp",
-      "publishedDateTime": "2021-03-23T17:33:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

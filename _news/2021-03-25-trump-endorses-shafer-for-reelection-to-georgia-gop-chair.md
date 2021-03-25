@@ -135,6 +135,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wyoming election changes pushed by Donald Trump Jr. fail"
+    excerpt: "Trump Jr. called for Cheney’s defeat after she voted to impeach President Donald Trump over the storming of the U.S. Capitol by a mob of his supporters. A primary runoff for Cheney could have consolidated Republican opposition to her re-election."
+    publishedDateTime: 2021-03-25T17:08:00Z
+    webUrl: "https://www.chron.com/news/article/Wyoming-election-changes-pushed-by-Donald-Trump-16052945.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wyoming-election-changes-pushed-by-Donald-Trump-16052945.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-election-changes-pushed-by-Donald-Trump-16052945.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Brooks, Trump adviser to make campaign announcement"
     excerpt: "Mo Brooks, a far-right, firebrand Republican and staunch supporter of President Donald Trump, has scheduled a Monday night campaign rally during which he is widely expected to enter the race to replace departing Sen."
     publishedDateTime: 2021-03-22T22:18:00Z

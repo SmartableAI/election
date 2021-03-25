@@ -1,0 +1,101 @@
+---
+category: news
+title: "Democratic divisions on Biden's agenda broader than just Manchin "
+excerpt: "The push by liberal Democrats to enact President Joe Biden's sweeping agenda is running into problems beyond just Sen. Joe Manchin: A handful of Democrats are not falling in line and could limit the scope of the party's ambitions on an array of critical issues.\n    \n"
+publishedDateTime: 2021-03-25T17:49:59Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q9esjUSR4D0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q9esjUSR4D0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/democratic-senate-divisions-filibuster-manchin/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/democratic-senate-divisions-filibuster-manchin/index.html"
+type: article
+quality: 175
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325113339-tester-manchin-hassan-split-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Biden dispatches Democratic senator to Ethiopia amid Tigray crisis"
+    excerpt: "President Joe Biden is dispatching one of his top congressional allies to Ethiopia to meet with Prime Minister Abiy Ahmed amid the humanitarian crisis in that country's Tigray region.\n    \n"
+    publishedDateTime: 2021-03-18T22:00:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bLqnfmgmz8k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225095126-sen-chris-coons-0222-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Border crisis stymies Congress as GOP bashes Biden and Democrats spar internally over immigration strategy"
+    excerpt: "The migrant crisis roiling the United States has made the complicated politics in Congress over immigration even dicier, with Democrats at sharp odds over how to proceed and Republicans pushing for far stricter measures than the White House would likely accept.\n    \n"
+    publishedDateTime: 2021-03-16T22:51:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i-ohJ42ioO8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/immigration-politics-congress-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/immigration-politics-congress-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311103227-08-blinken-diversity-state-dept-menendez-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden dispatches Democratic senator to Ethiopia amid Tigray crisis"
+    excerpt: "Washington (CNN)President Joe Biden is dispatching one of his top congressional allies to Ethiopia to meet with Prime Minister Abiy Ahmed amid the humanitarian crisis in that country's Tigray region. Sen. Chris Coons \"will convey President Biden's grave ..."
+    publishedDateTime: 2021-03-18T22:00:00Z
+    webUrl: "https://www.cnn.com/2021/03/18/politics/chris-coons-tigray/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225095126-sen-chris-coons-0222-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Top Senate Democrat sees little chance of passing Biden plan for pathway to citizenship for millions of undocumented immigrants"
+    excerpt: "a key pillar of President Joe Biden's immigration plan. \"I don't see a means for reaching that,\" Durbin, the Senate majority whip, told CNN when asked about the pathway to citizenship. \"I want it. I think we are much more likely to deal with discreet ..."
+    publishedDateTime: 2021-03-15T21:58:00Z
+    webUrl: "https://www.cnn.com/2021/03/15/politics/dick-durbin-immigration-pathway/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/dick-durbin-immigration-pathway/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/dick-durbin-immigration-pathway/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 107
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014113326-06-barrett-hearing-1014-durbin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "VPTiDwlMyM8jJbfoyLuBZIjRNPgtqJ0I8lzTTPgqNBvJ9xwjBWa3OrI2ZYuU9sZrQqvhcX7G+9EoJBAxzkJZEjAM6ZX50YdOl8J+km8UzlzeJEZboUBKfoJtQujQtMrGaBNfVib2irAVXZOzcRwcVRNAhQ8e/ipR3eBBVwrppus/zWWMApS+B5DkUWQefUNV7qOg3mW7xZXBuGgtTo93LCiFpXxBqgkjuI7lKs9XRMB4kSgHd3QiCxdQevxnq1p3AI4dmA7VDpVmnMnZhFDyd7yIVZTys5jzGq4Dsrfvy4Wg5BDrfYwLWH+7FJlNexM+5wZKnykUpkkp8GU7+16gzlXDjIlg3C+JdNog92ZW9tg=;fKqnJNC1FB1/Blxv9kUI+A=="
+---
+

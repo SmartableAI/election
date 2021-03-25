@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democratic divisions on Biden's agenda broader than just Manchin "
+    excerpt: "The push by liberal Democrats to enact President Joe Biden's sweeping agenda is running into problems beyond just Sen. Joe Manchin: A handful of Democrats are not falling in line and could limit the scope of the party's ambitions on an array of critical issues.\n    \n"
+    publishedDateTime: 2021-03-25T17:49:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q9esjUSR4D0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/democratic-senate-divisions-filibuster-manchin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/democratic-senate-divisions-filibuster-manchin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325113339-tester-manchin-hassan-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Border crisis stymies Congress as GOP bashes Biden and Democrats spar internally over immigration strategy"
     excerpt: "The migrant crisis roiling the United States has made the complicated politics in Congress over immigration even dicier, with Democrats at sharp odds over how to proceed and Republicans pushing for far stricter measures than the White House would likely accept.\n    \n"
     publishedDateTime: 2021-03-16T22:51:09Z

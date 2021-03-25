@@ -48,20 +48,20 @@ related:
         height: 308
         isCached: true
   - title: "In Senate race, combative Brooks leans into Trump ties"
-    excerpt: "He ran for Alabama’s other Senate seat in 2017 but came in third in the primary when he faced attack ads accusing him of being disloyal to Trump. Brooks said he is now better known to voters. “This time I have an established reputation that people can discern that,"
-    publishedDateTime: 2021-03-25T01:43:00Z
-    webUrl: "https://www.chron.com/news/article/In-Senate-race-combative-Brooks-leans-into-Trump-16051290.php"
-    ampWebUrl: "https://www.chron.com/news/amp/In-Senate-race-combative-Brooks-leans-into-Trump-16051290.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Senate-race-combative-Brooks-leans-into-Trump-16051290.php"
+    excerpt: "U.S. Rep. Mo Brooks, who came under fire for remarks he made preceding the attack on the U.S. Capitol, says he is better known to voters than when he ran for Senate and lost four years ago"
+    publishedDateTime: 2021-03-25T03:26:00Z
+    webUrl: "https://www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s.hdnux.com/photos/01/17/17/64/20774183/11/375x250.jpg"
-        width: 333
-        height: 250
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "jMm9d+YMBpjHwydzkBr+6rWG0PGzXAkwVaay9dEzWuxUnVn0aUcjAsbZTfh+iPvp1eYz41fHezMzxEhAMeJ9TayU8m9m1g3dWy9aBvf2hS41yzjRQWdYF47PT+WeSE4XBgx/gc1aHe7SuwhCUieWamz36e0CxIqlOJdRU0a5lmaCTpGnMp/Jg1axskZzyryxf2Y2MIrIXSVDh5myzhgh/Fyfvta9d2sYQxV9tm6WBc7WW1EznUQ0/AC4iTMzlZqhwg33h35sux45c2SlelwYwEXen6/xwMSyLOCoDg+ANBSsaAgTBfZ8IRngrj51kRarxUvEazj3fy/CLgB3DKUXq0r9jZEmO/L6l//YoceL4B0=;k66jAKRmuyVTSlAYrJ0sEg=="

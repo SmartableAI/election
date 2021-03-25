@@ -3,8 +3,8 @@ category: news
 title: "Trump Critics Who Called Vaccine Timetable Reckless Now Say It's Reckless NOT to Take the Vaccine"
 excerpt: "Dr. Anthony Fauci wants former President Donald Trump to tell his supporters to take the COVID-19 vaccine. It is true that a March 2021 NPR/PBS"
 publishedDateTime: 2021-03-25T10:25:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.amp.html"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 720
         isCached: true
 
-secured: "LfqjtfP0yQyfSPylzFqQCMKQEDdU4TTxTi1Z+LIZEguTZFj8CR5z3n2n5v1nP/M/kOMIFeVSgoWROpJrNeCnelSRg8xE8rGAVJCLg3P6+y6EK5njTf3RKn7LaqFNBx27GaFbdD6HNzioMyKWfkXsTRdJTO1rvTFP9sIZnc5lDyzvRbWx+qjCYg41XtbupcVA0eTYBPr+n7FKCyf/pHno2OD7RKJ75QJ7zqzsUOCPMGtU35aBWORSXdYXp8D3OsqQrlMeIJ6gvDfxtVOS4xCJdKUs9HEfI07LLpP9kcTYhLoSI9QtifRzc3Dr+n9JGl+xgYB2/1+3Y1nvOo2ohp0yT3rBCvhOF+i5DPPndGn9AWqpY7xUJvp3XD10a6fRzvJ4VDhGhz00beEHBMoZ2IOls20vM7ArE7pt0pSubI5x/Qh6uW0mUd3nBsYchJOI+haigb/a2AxKNUNJ94foltRS7FDTGV4XR6TBdwlMjxt2jwSAZBUduAq/dEtq43IB4DDgeaDu2uEutuIL8+MspvpmNA==;2C6R465UFp9Jn+wdCFn22w=="
+secured: "p5WblqkxbdrDhRsUd5rf9aCPU18/X1hJybb1aHEpGq9E6R1rXzMaRt2IcCKhslMnjFsnfwP1ZySUz3naMzlBaFQ+xQ1xbI8+vf2OlVmjOTUADw7ohu0tVcDYH/7ddWxqj6KG9XDgIvG+rttqsvyLktb32qP439Zf/7qTmAtti15Wyl3EpAooIzxzRVK7jdUggUT04GJi3adNIHFFH4XL5UCdjKlJDPev2sZL7V2yUBsXfQnm/0XfApu2ukpuo6C1cv0qvJ2xddoCzbStfBYpLuax4ojz/vrGPQk/8buOKnB6boiPZcw2xRRFNd9KLEAmFjYGfe3gj5hDqH8UunBEXvZbObkAOU4MEFCoYXCEBkg=;aLmFd3CZD4XZUnMC5t8QWw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-14-rep-jaime-herrera-beutler-would-have-testified-under-oath-if-subpoenaed-at-trump-impeachment-trial-spokesman-says.md",
+      "title": "Rep. Jaime Herrera Beutler would have 'testified under oath' if subpoenaed at Trump impeachment trial, spokesman says",
+      "excerpt": "\"She’s already offered all the information she has, and she would have testified under oath,\" Rep. Jaime Herrera Beutler's office said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/13/USAT/dba8a0f4-281d-44ed-bc91-f2660c2a5b4b-AP_Trump_Impeachment_Herrera_Beutler.jpg?auto=webp&crop=5930,3336,x0,y301&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4477859001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4477859001",
+      "publishedDateTime": "2021-02-14T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-biden-says-democracy-must-always-be-defended-after-trumps-acquittal-in-second-impeachment-trial.md",
       "title": "Biden says 'democracy must always be defended' after Trump's acquittal in second impeachment trial ",
       "excerpt": "President Joe Biden weighed in late Saturday night on former President Donald Trump's acquittal in his second impeachment trial, saying that democracy is \"fragile\" and \"must always be defended.\"\n    \n",
@@ -1317,62 +1369,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-biden-says-almost-everybody-could-have-covid-19-vaccines-by-the-end-of-summer.md",
-      "title": "Biden says 'almost everybody' could have COVID-19 vaccines by 'the end of summer'",
-      "excerpt": "President Biden said Friday that it is his hope that by “the end of summer almost everybody” will have received a COVID-19 vaccine.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/twM_smKjuJI/biden-almost-everybody-covid-19-vaccine-summer",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/twM_smKjuJI/biden-almost-everybody-covid-19-vaccine-summer",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-almost-everybody-covid-19-vaccine-summer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-almost-everybody-covid-19-vaccine-summer.amp",
-      "publishedDateTime": "2021-02-12T07:17:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
