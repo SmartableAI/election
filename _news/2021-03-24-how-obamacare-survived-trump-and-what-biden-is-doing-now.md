@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Exclusive: Biden wants to keep Trump policy that boosted armed drone exports - sources"
+    excerpt: "The Biden administration wants to keep a controversial Trump policy that jump-started sales of armed drones to countries whose human rights records are under scrutiny in the United States and elsewhere,"
+    publishedDateTime: 2021-03-25T14:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-drones/exclusive-biden-wants-to-keep-trump-policy-that-boosted-armed-drone-exports-sources-idUSKBN2BH1CA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BH1CA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BH1CA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210325&t=2&i=1556160112&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2O0QC"
+        width: 968
+        height: 545
+        isCached: true
   - title: "How Obamacare Survived Trump and What Biden Might Do Next"
     excerpt: "By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump. Joe Biden’s arrival in the White House could blunt any impact of the latest danger -- a case now before the Supreme Court -- and give Obamacare ..."
     publishedDateTime: 2021-03-23T17:24:00Z

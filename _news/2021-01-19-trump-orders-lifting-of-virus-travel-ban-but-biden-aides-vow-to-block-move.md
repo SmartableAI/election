@@ -2110,6 +2110,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden's EPA to review manipulation of science under Trump"
+    excerpt: "reports or data that suffered from political interference under former President Donald Trump. “When politics drives science rather than science informing policy, we are more likely to make policy choices that sacrifice the health of the most vulnerable ..."
+    publishedDateTime: 2021-03-24T23:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/biden-s-epa-review-manipulation-science-under-trump-n1262005"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262005"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262005"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_12/3303741/200410-freeway-los-angeles-mn-0930_74f29d2beb16ea1a64a395f0a70dd111.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
   - title: "DC attorney general says Trump could possibly be charged by city prosecutors with misdemeanor for role in Capitol insurrection"
     excerpt: "District of Columbia Attorney General Karl Racine warned Sunday that President Donald Trump could possibly be charged by city prosecutors with \"a misdemeanor, a six-month-in-jail maximum,\" amid fallout from the deadly insurrection at the US Capitol earlier this month.\n    \n"
     publishedDateTime: 2021-01-17T19:23:02Z

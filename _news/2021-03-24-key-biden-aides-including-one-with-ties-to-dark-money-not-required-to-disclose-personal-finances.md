@@ -511,6 +511,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ron Johnson: Biden admin seems 'deaf, dumb and blind' to border crisis, dangers to migrants"
+    excerpt: "The Biden administration is \"deaf, dumb, and blind\" to the dangers posed on the migrants as they attempt to cross the southern border, Sen. Ron Johnson, R-Wis., told \"Fox & Friends\" on Thursday, addressing the crisis that prompted GOP lawmakers to visit the border."
+    publishedDateTime: 2021-03-25T15:01:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M7Ml25ArZkc/biden-border-crisis-dangers-to-migrants-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-dangers-to-migrants-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-dangers-to-migrants-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Tom Cotton channels 'Billy Madison,' slams Pelosi's irrational defense of Biden border policy"
     excerpt: "Sen. Tom Cotton, R-Ark., channeled the movie \"Billy Madison\" Monday on \"Fox & Friends\" as he hit back at House Speaker Nancy Pelosi, D-Calif., for claiming that the Biden administration inherited a broken immigration system from former President Trump. "
     publishedDateTime: 2021-03-15T12:51:43Z

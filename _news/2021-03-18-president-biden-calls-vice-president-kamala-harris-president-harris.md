@@ -316,6 +316,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ted Cruz: Kamala Harris has left herself 'only one option' to handle border 'mess'"
+    excerpt: "Sen. Ted Cruz, R-Texas, slammed the Biden administration’s handling of the border crisis and said Thursday on “America’s Newsroom” that the migrant surge is the “biggest political mess” that the president has."
+    publishedDateTime: 2021-03-25T15:21:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fcfh4oYnWTo/ted-cruz-border-crisis-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-border-crisis-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-border-crisis-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "WH axes staffers over past pot use even though Kamala Harris has admitted she smoked it"
     excerpt: "Vice President Kamala Harris has publicly admitted to smoking weed in college as the White House revealed that a handful of staffers were let go over past use."
     publishedDateTime: 2021-03-19T23:28:30Z
@@ -521,6 +537,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d7d952a-5cd8-4608-a111-4b7bc7acb870/4c03d80b-71bd-4671-932d-9ddc07a45aec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden's first press conference as president"
+    excerpt: "Biden hasn't held a formal press conference since taking office 65 days ago"
+    publishedDateTime: 2021-03-25T14:27:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t5ocmosTbh0/live-updates-biden-first-press-conference-march-25"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-first-press-conference-march-25.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-first-press-conference-march-25.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84c4af36-5bab-470f-aa2d-c34ad42e006d/f8e7efe0-1b32-480c-841a-656c978439ca/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
