@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Homan blasts Kamala Harris as 'worst' possible choice to lead Biden border crisis response"
+    excerpt: "On Thursday, former Acting ICE Director, Tom Homan, slammed Vice President Kamala Harris as the 'worst pick' to lead the response to the current border crisis under the Biden administration. "
+    publishedDateTime: 2021-03-25T12:37:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_SPRmBrzq8g/kamala-harris-biden-border-crisis-tom-homan"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-border-crisis-tom-homan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-border-crisis-tom-homan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc3c390a-f076-4146-8f71-b5e15e324758/ef05b522-6490-4fbb-8596-69cc98af3ea1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris is 'laughing, Mayorkas is 'lying,' and Biden is 'lost' on border crisis: Patrick"
     excerpt: "Texas Lieutenant Governor Dan Patrick said Tuesday that while Kamala Harris is laughing about the border crisis, President Biden is simply \"lost\" on the issue. "
     publishedDateTime: 2021-03-23T19:15:03Z

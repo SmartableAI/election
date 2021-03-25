@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Homan blasts Kamala Harris as 'worst' possible choice to lead Biden border crisis response"
+    excerpt: "On Thursday, former Acting ICE Director, Tom Homan, slammed Vice President Kamala Harris as the 'worst pick' to lead the response to the current border crisis under the Biden administration. "
+    publishedDateTime: 2021-03-25T12:37:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_SPRmBrzq8g/kamala-harris-biden-border-crisis-tom-homan"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-border-crisis-tom-homan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-border-crisis-tom-homan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc3c390a-f076-4146-8f71-b5e15e324758/ef05b522-6490-4fbb-8596-69cc98af3ea1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden, Harris to hit battleground states to sell COVID package that passed without any GOP support"
     excerpt: "Twenty-two congressional Democratic leaders and Vice President Kamala Harris will join the president to celebrate the passage of the massive measure, but no Republicans will be present. That’s because no House or Senate Republicans crossed the aisle to vote in favor of the bill."
     publishedDateTime: 2021-03-12T17:28:02Z

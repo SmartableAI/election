@@ -1,31 +1,34 @@
 ---
 category: news
-title: "VP Harris appears to blame Trump administration for border crisis"
-excerpt: "Vice President Harris appeared to place blame on the Trump administration over the crisis at the southern border, after laughing off a question on if she intended to visit the region."
-publishedDateTime: 2021-03-23T15:16:00Z
-originalUrl: "https://nypost.com/2021/03/23/kamala-harris-appears-to-blame-trump-admin-for-border-crisis/"
-webUrl: "https://nypost.com/2021/03/23/kamala-harris-appears-to-blame-trump-admin-for-border-crisis/"
-ampWebUrl: "https://nypost.com/2021/03/23/kamala-harris-appears-to-blame-trump-admin-for-border-crisis/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/kamala-harris-appears-to-blame-trump-admin-for-border-crisis/amp/"
+title: "Homan blasts Kamala Harris as 'worst' possible choice to lead Biden border crisis response"
+excerpt: "On Thursday, former Acting ICE Director, Tom Homan, slammed Vice President Kamala Harris as the 'worst pick' to lead the response to the current border crisis under the Biden administration. "
+publishedDateTime: 2021-03-25T12:37:47Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_SPRmBrzq8g/kamala-harris-biden-border-crisis-tom-homan"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_SPRmBrzq8g/kamala-harris-biden-border-crisis-tom-homan"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-border-crisis-tom-homan.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-border-crisis-tom-homan.amp"
 type: article
-quality: 160
+quality: 190
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
   - Kamala Harris
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-border-07-1.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc3c390a-f076-4146-8f71-b5e15e324758/ef05b522-6490-4fbb-8596-69cc98af3ea1/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -140,22 +143,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Homan blasts Kamala Harris as 'worst' possible choice to lead Biden border crisis response"
-    excerpt: "On Thursday, former Acting ICE Director, Tom Homan, slammed Vice President Kamala Harris as the 'worst pick' to lead the response to the current border crisis under the Biden administration. "
-    publishedDateTime: 2021-03-25T12:37:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_SPRmBrzq8g/kamala-harris-biden-border-crisis-tom-homan"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-biden-border-crisis-tom-homan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-border-crisis-tom-homan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc3c390a-f076-4146-8f71-b5e15e324758/ef05b522-6490-4fbb-8596-69cc98af3ea1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Kamala Harris is 'laughing, Mayorkas is 'lying,' and Biden is 'lost' on border crisis: Patrick"
     excerpt: "Texas Lieutenant Governor Dan Patrick said Tuesday that while Kamala Harris is laughing about the border crisis, President Biden is simply \"lost\" on the issue. "
@@ -909,6 +896,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "VP Harris appears to blame Trump administration for border crisis"
+    excerpt: "Vice President Harris appeared to place blame on the Trump administration over the crisis at the southern border, after laughing off a question on if she intended to visit the region."
+    publishedDateTime: 2021-03-23T15:16:00Z
+    webUrl: "https://nypost.com/2021/03/23/kamala-harris-appears-to-blame-trump-admin-for-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/03/23/kamala-harris-appears-to-blame-trump-admin-for-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/kamala-harris-appears-to-blame-trump-admin-for-border-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 160
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-border-07-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Texas members of Congress demand lawsuit against Biden for border 'crisis'"
     excerpt: "EXCLUSIVE: Texas GOP congressional members are calling on Attorney General Ken Paxton to file another lawsuit against the Biden Administration in an effort to block undocumented immigrants with coronavirus from entering the United States. "
     publishedDateTime: 2021-03-15T22:19:30Z
@@ -1242,6 +1245,6 @@ related:
         height: 562
         isCached: true
 
-secured: "VrmyF2T1l9a5DlntH6BwjsbSl66Cg1S4bFGDyEwBZ11ze6PjkIbcQP2++ypDWncXTwlk6tkJ4Ixml/yLh45EMxLNKfZK7bRJm0KDhb2uVSy57mEHbAuoCn5omo3MZIXJomdmRoYflWJzOT2PAZCnkYgZgOOuUOZQ6uW4dQyRURvYSfaHlRPUwdWEm9S/P5Ycp6LYRDVOnXjv3vMlLkIbrsdV/ZI08b/6Ub+mwTNd2dV9yM0tEtmUjooosJlj6aJ1XgBB81QbF5Jnhe4wQKfjb9dpISh7wc27zPZkK0pdYYOt5jp+w/639aWbNIcRj1bmnYMtcPcep6cI03Mh/DJ5TAioc0zmjK/QDq3mbQHs6in3+sB0+r7BoMH9Ye+rTnna9v7Q5m5t9dwf2rcSxOdaS+p1q4+yKym6+Xv+SHYJNStLbntL2EB6l3M85wzAMwBJ4YwTOA8bj03br/NZERXfluc20hR7nlzWTKuSGwASxXwiQGs3T82rW+m7xLrX4ZDIRC7uQnAx09kw5pbjH8PRYg==;bC9yy8mbbONvNNCOR8hlNw=="
+secured: "Ealripir29kU2n4yLqV/OMzhzLI7+MV1wncCX01UPRR1Ai4x/8wsAwpghbXYnFUeI5d+CExOmVE9X3DCFQ7LGDb/MaqXZ4vqhWfu14U0mkuStj5ogLcKzpDjPIExhFxZvPG6vufo2V0UAUBqWNUAZmpy5CqssxAepQy0BY1t4WlFiciQ6ez6WzDoOV8IMkx4ZrQ3MnR2c+OOpgosmUybEnOIrh3rrVh4a27z+FUNsNF+XvKlS3xoJPWG0optGeygYMQJuhY5RKJdAVSTx3Qn4pmEXZ4tb2N6eoE4G5flCAIcX610u/W4bfBgR0HQcaTMljPqQlJw2HIb1pTwr3c27yKZmrmHIyaoDVYl6WcbnwQ=;lVSAZy97qJ+m6cxOE7+hmA=="
 ---
 

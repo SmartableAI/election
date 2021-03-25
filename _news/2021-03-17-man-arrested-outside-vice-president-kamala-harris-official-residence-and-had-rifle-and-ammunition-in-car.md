@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What to watch for at Biden's first presidential news conference "
+    excerpt: "President Joe Biden is holding his first formal news conference on Thursday and will likely face scrutiny over his administration's response to the Covid-19 pandemic, the growing number of unaccompanied migrant children crossing the border and gun control, among many other pressing issues.\n    \n"
+    publishedDateTime: 2021-03-25T12:04:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wdzx-W_P-8w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/president-biden-news-conference-today/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/president-biden-news-conference-today/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Speaking out against hate crimes, Biden tries to restore moral clarity to the presidency"
     excerpt: "President Joe Biden and Vice President Kamala Harris moved to reassert control over America's bully pulpit Friday, decrying acts of violence against Asian Americans after a year in which former President Donald Trump inflamed racist attitudes by referring countless times to the coronavirus as \"Kung Flu\""
     publishedDateTime: 2021-03-20T04:00:29Z

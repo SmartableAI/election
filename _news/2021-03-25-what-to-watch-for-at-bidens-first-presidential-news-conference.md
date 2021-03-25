@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Speaking out against hate crimes, Biden tries to restore moral clarity to the presidency"
-excerpt: "President Joe Biden and Vice President Kamala Harris moved to reassert control over America's bully pulpit Friday, decrying acts of violence against Asian Americans after a year in which former President Donald Trump inflamed racist attitudes by referring countless times to the coronavirus as \"Kung Flu\""
-publishedDateTime: 2021-03-20T04:00:29Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgB6ALPRmew/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgB6ALPRmew/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
+title: "What to watch for at Biden's first presidential news conference "
+excerpt: "President Joe Biden is holding his first formal news conference on Thursday and will likely face scrutiny over his administration's response to the Covid-19 pandemic, the growing number of unaccompanied migrant children crossing the border and gun control, among many other pressing issues.\n    \n"
+publishedDateTime: 2021-03-25T12:04:14Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wdzx-W_P-8w/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wdzx-W_P-8w/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/president-biden-news-conference-today/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/president-biden-news-conference-today/index.html"
 type: article
-quality: 166
+quality: 175
 heat: -1
 published: false
 
@@ -159,22 +159,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "What to watch for at Biden's first presidential news conference "
-    excerpt: "President Joe Biden is holding his first formal news conference on Thursday and will likely face scrutiny over his administration's response to the Covid-19 pandemic, the growing number of unaccompanied migrant children crossing the border and gun control, among many other pressing issues.\n    \n"
-    publishedDateTime: 2021-03-25T12:04:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wdzx-W_P-8w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/president-biden-news-conference-today/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/president-biden-news-conference-today/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Man arrested outside Vice President Kamala Harris' official residence and had rifle and ammunition in car"
     excerpt: "Washington, DC, police arrested a Texas man outside Vice President Kamala Harris' official residence, the US Naval Observatory, in the nation's capital on Wednesday and he's now facing weapons and ammunition charges.\n    \n"
     publishedDateTime: 2021-03-17T22:43:53Z
@@ -188,6 +172,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317184044-01-naval-observatory-vice-president-residence-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Speaking out against hate crimes, Biden tries to restore moral clarity to the presidency"
+    excerpt: "President Joe Biden and Vice President Kamala Harris moved to reassert control over America's bully pulpit Friday, decrying acts of violence against Asian Americans after a year in which former President Donald Trump inflamed racist attitudes by referring countless times to the coronavirus as \"Kung Flu\""
+    publishedDateTime: 2021-03-20T04:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgB6ALPRmew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -380,6 +380,6 @@ related:
         height: 619
         isCached: true
 
-secured: "V8LoWmDdipZkadvXP4Hau9ysJskTDR321HaPqgIjE99ntI4GqqNrScIAP1j4CR1UL3ByMRs90fRuC4qzn0gOThB3EGOyScX41Qbyxfana0Xsssf1E2lh45Yw+HuQHpHXPylysHOGtMamFHljDrhLqoGZ2juhgG8uxq+fbf9ykNdrmZ51021gsCf6ztLtEEoXjWupXL00Dnr8qQhu1j+WFbsKCBzqGdjt3+7HSCY1EJ9UCKo2Fb3SCd72N+o/vT86OOrNwcxQrbvjLOeBQCkmN+hqZi3isFg45kUJdtMaF+HNB35wuyN4qvgxMqhClZLeynGnQxgaCICnhMjrOjq829YHgQZmBw9kCbCeYB+tn08=;T9pyCqjFvvo9aRQtA/ONMQ=="
+secured: "RQbmga3fC0fikaY6+nSAcDt0IToIh/PM6nFgAUDK/DmgTS3LhSj+EOIFXFuxZxQ9UwsQMqDgD2nVTXTDtgNOr75ixJLiBzbJB3QatGRPuNagEbrtPo4/xnauhYevTBIvd6SOpOzQKzn7VafizJ3gsGCjLOZBFwrtIpumegV+n9hQp0jVozv5Jn7mHoahJYZe2JZ1wywr7fbvQr5o146NzhCiIzt7+WofGU+Rk2qeHyvqPBHC3Osn1NYmzlgEc5MnSMSURq9rR049UqMp2deBU/2ctjYUUmubDLpXwQUUKg86F6pDk4TIeiFuSBKfsradtV0OeAdRHNeUYJ1eFpqsbq9BF9MWC2GKRlCJgbq0uOM=;96lrw7LmaaUarUxQIQxTeg=="
 ---
 

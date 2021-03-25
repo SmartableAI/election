@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Vice President-elect Harris will be sworn in by Justice Sonia Sotomayor"
-excerpt: "The swearing-in of Vice President-elect Kamala Harris Wednesday, will acknowledge historical milestones as the first Latina Supreme Court justice oversees the ceremony."
-publishedDateTime: 2021-01-16T22:04:53Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHr0DE--AsY/vice-president-elect-harris-sworn-sonia-sotomayor"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHr0DE--AsY/vice-president-elect-harris-sworn-sonia-sotomayor"
-ampWebUrl: "https://www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+title: "President Biden Asked VP Harris To Take The \"Lead\" On Migrant Crisis"
+excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U.S.-Mexico ..."
+publishedDateTime: 2021-03-25T13:21:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.html"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.amp.html"
 type: article
-quality: 185
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/53/538651.jpg"
+    width: 5781
+    height: 3854
     isCached: true
 
 related:
@@ -93,6 +89,22 @@ related:
     quality: 191
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President-elect Harris will be sworn in by Justice Sonia Sotomayor"
+    excerpt: "The swearing-in of Vice President-elect Kamala Harris Wednesday, will acknowledge historical milestones as the first Latina Supreme Court justice oversees the ceremony."
+    publishedDateTime: 2021-01-16T22:04:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHr0DE--AsY/vice-president-elect-harris-sworn-sonia-sotomayor"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -432,22 +444,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "President Biden Asked VP Harris To Take The \"Lead\" On Migrant Crisis"
-    excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U.S.-Mexico ..."
-    publishedDateTime: 2021-03-25T13:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 100
-    images:
-      - url: "https://assets.realclear.com/images/53/538651.jpg"
-        width: 5781
-        height: 3854
-        isCached: true
   - title: "She Did It: Kamala Harris Makes History"
     excerpt: "When I interviewed Vice President–elect Kamala Harris last year at the Essence Festival, she had plenty of wisdom to share about the challenges a Black woman faces when pursuing national office. “Some might think that breaking barriers means you start off on one side of the barrier,"
     publishedDateTime: 2021-01-21T00:00:00Z
@@ -463,6 +459,6 @@ related:
         height: 500
         isCached: true
 
-secured: "rO9PpUoChdwsq1XZ5anErPECQ4c4VZ7a0JTcXQEuW/aWQz3mLM2teSU5NQmOBYCuH1GoFU4S76I0YiGq10cogR0BXSk1/EegGryx3GNwIGuQj2mrbQjoivIcLSkOvPqDfgxcnrUz+ivL0HCV6/ULO4Ni+gzLtvsURBDRvh+s4J8D7M3DSBkERpYX52R9KzfkdDZjVK9INqSzIl+snlRUFYN/FCV2jX1WvLEixvv26SzC0i1+gCIM9wRMqB9FaFllV/aP5V3XOwr3zU+HsshJpi1/KZfJ7CT+50T0ycyh3p23LczfIFM7AlTwh5cwJ37z8PBxzh+Xm/Y5HJHZmiBW4exnOQjR2xcU1Q9s4GEdZ+E=;yeOZNevQHhHfxS/fF+AxUw=="
+secured: "oYwBzPFkSGa+5wx5s6SdJcovz7+7/SmrIaW8o2j9RBzLxRUIbVt5ZmE/rf1sNWiOpPD7Q6ocl6eNkpOSFviCAfwPtRd/VSI5Ox6trH6XcwQkFdyXfWuB2wc0FcESvjILMe1YrtW2JjUaXbdLY5vWsR9T6YTGiJEgPWvk+7FVWELFlCZsfVjGeTlu7CUh+PCaedQ4UfRFGqf6bW728rYTs2XxRTYq1gAFpenYvQw8NjPoCx37rpMVb/IXtjpEncVfc3nQLu1dKLGqe0RQ0aOmr7ge2CuNuQU2n0RNI173UshdYNEvvY8MZ9zrIwD+UFn4EfV8U4ox5a1F8FpTJdhgiVhPCsU/QQpfVI+hMR4Tx4c=;jEpuM1MHpdBlHd7h+fTH8Q=="
 ---
 
