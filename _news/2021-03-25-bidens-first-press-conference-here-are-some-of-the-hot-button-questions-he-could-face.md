@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Fox News' Peter Doocy had 'binder full of questions' for Biden if called on at news conference"
+    excerpt: "President Biden took questions from 10 reporters at the first press conference of his term, but Fox News White House correspondent Peter Doocy was not one of them."
+    publishedDateTime: 2021-03-25T20:54:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-7WptPIggyo/fox-news-peter-doocy-binder-questions-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-peter-doocy-binder-questions-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-peter-doocy-binder-questions-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52a1dce6-5033-43b8-ad2a-9f9e3dc43659/f47905d4-9499-481a-993b-f9c4a79acb7b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'Confounding' for Biden administration to announce press conference nine days in advance: McEnany"
     excerpt: "The Biden administration announcing the date that the president will hold his first formal press conference nine days ahead of time is a \"confounding strategy,\" Fox News contributor and former White House press secretary Kayleigh McEnany told \"Outnumbered\" Wednesday."
     publishedDateTime: 2021-03-17T20:39:46Z

@@ -301,6 +301,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Ted Cruz: The border crisis is a 'direct result' of Joe Biden's political decisions"
+    excerpt: "Texas, joined 'The Story' to discuss his upcoming trip to the southern border, saying the migrant crisis is a 'direct result' of Joe Biden's political decisions. Sen. Ted Cruz: It is a humanitarian crisis,"
+    publishedDateTime: 2021-03-24T21:48:00Z
+    webUrl: "https://www.foxnews.com/media/sen-ted-cruz-the-border-crisis-is-a-direct-result-of-joe-bidens-political-decisions"
+    ampWebUrl: "https://www.foxnews.com/media/sen-ted-cruz-the-border-crisis-is-a-direct-result-of-joe-bidens-political-decisions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sen-ted-cruz-the-border-crisis-is-a-direct-result-of-joe-bidens-political-decisions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d2afbe3-aaad-4991-b986-36a4e20c70e9/36c6a800-7607-4080-a2ec-92ad60787d40/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "bXtBFJGLO9Vb9kJmfJmNztJ1AGbbo4YwGSnk2qJvP4z1gXzN8nyY0jXD8VHzfRcp2aNuNBs3EaU9n2vCJFeNazETVPPBqVm5l6FZW5NCL8QEMLSsjo+U2MR/71F8pDpzENp2pJ7ok8WWH7Vlcdo+4zquPwCcEnbXAH9oC4bcJL3HR0kc+2eSyKmpRxl72oibdTnmVFD2Qr7st9wf/EFYaYn4bnm4AZNcMXAhk2GZsMEdiCWzd9tgBo9U2VvneoxFZNcg6ockqyek1YosyInfQEPDoQ7EmL+G5K3kYSWXOgnUDiMzxG03mjvKftmm1zlgdTs9bfqIBjgvqwgAWC5NSXijvAQBri2ToioEk8v+WKA=;FFEv40Jn7ycWuKi/AF4cDA=="
 ---

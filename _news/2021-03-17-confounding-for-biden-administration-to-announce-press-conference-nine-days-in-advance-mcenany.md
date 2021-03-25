@@ -77,6 +77,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Fox News' Peter Doocy had 'binder full of questions' for Biden if called on at news conference"
+    excerpt: "President Biden took questions from 10 reporters at the first press conference of his term, but Fox News White House correspondent Peter Doocy was not one of them."
+    publishedDateTime: 2021-03-25T20:54:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-7WptPIggyo/fox-news-peter-doocy-binder-questions-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-peter-doocy-binder-questions-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-peter-doocy-binder-questions-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52a1dce6-5033-43b8-ad2a-9f9e3dc43659/f47905d4-9499-481a-993b-f9c4a79acb7b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "sZ45KDYvhuQqBEgvJ2VEf0ELXako5NPiLStaYLaYqUKi+CvhwsdApbOJ0oM07Wd44wm89PYfxPGlEU2aTHimL+KuwiiEmsp7EzeHJopT5JzZfyec5h6FIDF8CkxMcEGroxJ+mS3xt0akH8xcI9XjPv8MotaBOMZkjCvf+KKK3bjIqjN3VmHCDq+iha75EbrK++CdAgx0WuvXojdQ3QJ89Zo6odfButKXxJwHhsuA+emY2yK5ycaWmdAiwno7g1ChTeL95A94CUDWln/z5so8AosUKYcV9O03y22HDvsFA8VaRhMZMcHePg+BtoGmVHvjTOQ6kyIXW2x/6UlameBcSQCBlRl1piPAfqUPGy2WADg=;nA1/gRYVIqyz3xU5Eq/92w=="
 ---

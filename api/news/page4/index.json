@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-20-donald-trump-jr-says-military-politicized-knocks-stunt-against-marjorie-taylor-greene.md",
+      "title": "Donald Trump Jr. Says Military 'Politicized,' Knocks Stunt Against Marjorie Taylor Greene",
+      "excerpt": "\"It's been politicized like we've never seen before,\" he said in a video released Friday. \"They're literally attacking American civilians.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-jr-marjorie-taylor-greene-guam-national-guard-cookies-politicized-military-1577580",
+      "originalUrl": "https://www.newsweek.com/donald-trump-jr-marjorie-taylor-greene-guam-national-guard-cookies-politicized-military-1577580",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1760160/donald-trump-jr-cpac-military.jpg",
+          "width": 3000,
+          "height": 2105,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-marjorie-taylor-greene-guam-national-guard-cookies-politicized-military-1577580?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-marjorie-taylor-greene-guam-national-guard-cookies-politicized-military-1577580?amp=1",
+      "publishedDateTime": "2021-03-20T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-trump-boosts-julia-letlow-ahead-of-louisiana-special-election.md",
       "title": "Trump boosts Julia Letlow ahead of Louisiana special election",
       "excerpt": "Former President Trump Donald Trump Illinois House passes resolution condemning state rep. for 'standing with insurrectionists' Florida Democrats call for election redo after former state senator ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2558,
+      "heat": 2598,
       "tags": null,
       "images": [
         {
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2030,
+      "heat": 2050,
       "tags": null,
       "images": [
         {
@@ -1156,7 +1208,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1800,
+      "heat": 1860,
       "tags": null,
       "images": [
         {
@@ -1310,62 +1362,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-rick-scott-blasts-biden-immigration-policies-americans-dont-want-open-borders.md",
-      "title": "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'",
-      "excerpt": "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp",
-      "publishedDateTime": "2021-03-18T10:26:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

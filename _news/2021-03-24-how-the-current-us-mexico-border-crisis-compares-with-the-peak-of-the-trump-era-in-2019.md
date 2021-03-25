@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/border-crisis-2021-2019-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/border-crisis-2021-2019-trump-biden-explainer/index.html"
 type: article
 quality: 167
-heat: 207
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Brings Back Family Separation—This Time in Mexico"
-    excerpt: "U.S. agents no longer tear apart parents and children, but families are having to make painful decisions—just on the other side of the border."
-    publishedDateTime: 2021-03-23T07:19:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/03/20/border-family-separation-mexico-biden-477309"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/03/20/border-family-separation-mexico-biden-477309"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/03/20/border-family-separation-mexico-biden-477309"
+  - title: "US to resume diplomatic ties with Palestinians that were cut under Trump"
+    excerpt: "The US will resume diplomatic ties with Palestinians that were cut under the Trump administration, the US ambassador to the United Nations, Linda Thomas-Greenfield, told the Security Council Thursday.\n    \n"
+    publishedDateTime: 2021-03-25T20:07:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DZvE_ovFllw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/us-palestinians-diplomatic-ties-two-states/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/us-palestinians-diplomatic-ties-two-states/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 174
     images:
-      - url: "https://static.politico.com/bb/91/9f851a124fa9916f91a2888d4e5d/mag-gettyimages-1231325998.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319143652-linda-thomas-greenfield-0301-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Puerto Rico gets over $900M in education funds previously restricted by Trump admin"
     excerpt: "tries to build a new relationship with President Joe Biden's administration — and is hopeful that funding delays that were common under former President Donald Trump's administration will dissipate. In 2019, the Trump administration imposed restrictions ..."

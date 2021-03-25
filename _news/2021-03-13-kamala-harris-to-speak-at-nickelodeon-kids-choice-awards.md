@@ -1002,6 +1002,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden Is Unmatched as America’s Grief Counselor"
+    excerpt: "It was a few days before Christmas 2019 and Joe Biden was lingering after a campaign stop in Ottumwa, Iowa. He had been a consistent fourth-place contender in recent weeks’ polls in the lead-off ..."
+    publishedDateTime: 2021-03-24T17:24:00Z
+    webUrl: "https://time.com/5949712/joe-biden-america-grief-counselor/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Vice President Kamala Harris to visit Las Vegas on Monday"
     excerpt: "Details have emerged about Vice President Kamala Harris’ visit to Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress."
     publishedDateTime: 2021-03-15T04:21:00Z

@@ -1604,6 +1604,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Joe Biden’s reefer madness"
+    excerpt: "Joe Biden is nearly an octogenarian — four years older than Clinton. He’s responsible for the sentencing laws that incarcerated many small time drug offenders. He’s never supported legalization and only recently came out for decriminalization."
+    publishedDateTime: 2021-03-24T23:59:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/24/joe-bidens-reefer-madness-492228"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden eyeing ways to prevent impeachment from derailing Senate confirmations"
     excerpt: "A Trump trial in the early days of the new administration would throw a wrench into the battle to confirm nominees."
     publishedDateTime: 2021-01-11T21:46:00Z

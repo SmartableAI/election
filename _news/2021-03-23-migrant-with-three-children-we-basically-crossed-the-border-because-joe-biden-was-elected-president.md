@@ -538,6 +538,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden raises eyebrows with quip he came to Senate 120 years ago"
+    excerpt: "In the president’s first press conference after 64 days in office, Biden was asked about his stance on changing the filibuster."
+    publishedDateTime: 2021-03-25T21:01:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WDlaknJcsKg/biden-press-conference-senate-120-years-filibuster"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-conference-senate-120-years-filibuster.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-senate-120-years-filibuster.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd742417-0277-4ffa-bd4d-9af9bfdb3da2/9d6078a7-a336-465e-a188-c328ab15256f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden gun incident at market in 2018 led to police investigation"
     excerpt: "Police responded to a 2018 incident in which a gun owned by Hunter Biden, the son of President Biden, was thrown in a trash can outside of a market in Delaware, sources tell Fox News. "
     publishedDateTime: 2021-03-25T19:16:16Z
@@ -793,6 +809,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "The six most interesting moments from Joe Biden’s first presidential news conference"
+    excerpt: "President Biden delivered his first highly-anticipated news conference as commander-in-chief on Thursday, amid a backdrop of a border crisis, two mass shootings a pandemic and other political drama. "
+    publishedDateTime: 2021-03-25T20:11:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QlL4XvnLkcA/6-most-interesting-moments-joe-bidens-first-presidential-news-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/6-most-interesting-moments-joe-bidens-first-presidential-news-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/6-most-interesting-moments-joe-bidens-first-presidential-news-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52a1dce6-5033-43b8-ad2a-9f9e3dc43659/f47905d4-9499-481a-993b-f9c4a79acb7b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden calls on Senate to pass gun control measures 'immediately' after Boulder shooting"
     excerpt: "President Biden on Tuesday implored the Senate to pass new gun control measures in the wake of a mass shooting that left 10 dead in Boulder, Colorado, this week."
@@ -1096,6 +1128,15 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's first press conference as president"
+    excerpt: "President Biden made his first press conference on Thursday from the White House, facing questions on immigration, gun control and COVID-19."
+    publishedDateTime: 2021-03-25T20:32:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wtWPWpqzwo/bidens-first-press-conference-president"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
   - title: "Kamala Harris to Head Administration Effort to Stanch Migrant Surge"
     excerpt: "President Biden has asked the vice president to work with Mexico, El Salvador, Guatemala and Honduras to lead diplomatic efforts to stem the surge of migrants at the southern border."
     publishedDateTime: 2021-03-25T00:51:00Z

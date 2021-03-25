@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2030
+heat: 2050
 published: true
 
 provider:
@@ -991,6 +991,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden Is Unmatched as America’s Grief Counselor"
+    excerpt: "It was a few days before Christmas 2019 and Joe Biden was lingering after a campaign stop in Ottumwa, Iowa. He had been a consistent fourth-place contender in recent weeks’ polls in the lead-off ..."
+    publishedDateTime: 2021-03-24T17:24:00Z
+    webUrl: "https://time.com/5949712/joe-biden-america-grief-counselor/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Kamala Harris to speak at Nickelodeon Kids' Choice Awards"
     excerpt: "March 12 (UPI) --Vice President Kamala Harris will speak at the 2021 Nickelodeon Kids' Choice Awards. Nickelodeon confirmed in a press release Friday that Harris, 56, will deliver special remarks during the awards show Saturday. Advertisement Harris will ..."
     publishedDateTime: 2021-03-12T16:40:00Z

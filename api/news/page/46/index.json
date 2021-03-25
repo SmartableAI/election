@@ -2,6 +2,63 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-01-12-trump-pence-meet-for-1st-time-since-capitol-riot.md",
+      "title": "Trump, Pence meet for 1st time since Capitol riot",
+      "excerpt": "President Trump lashed out at Mike Pence last week after the vice president said he lacked authority under the Constitution to overturn election results on the president’s behalf.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vCuI3hh8dDQ/trump-pence-meet-for-first-time-since-capitol-riot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vCuI3hh8dDQ/trump-pence-meet-for-first-time-since-capitol-riot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/676700e9-2160-4bb3-a8ea-16fc47cd468a/849f19f1-aae0-4ebc-bd24-78bdb1acd69c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pence-meet-for-first-time-since-capitol-riot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pence-meet-for-first-time-since-capitol-riot.amp",
+      "publishedDateTime": "2021-01-11T16:58:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-manchin-calls-second-trump-impeachment-bid-ill-advised-let-the-judicial-system-do-its-job.md",
       "title": "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'",
       "excerpt": "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. ",
@@ -1299,49 +1356,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-explainer-can-social-media-companies-really-kick-off-donald-trump-yes.md",
-      "title": "Explainer: Can social media companies really kick off Donald Trump? Yes",
-      "excerpt": "Conservatives are crying foul over the suspension of Donald Trump from social media, but the 1st Amendment doesn't apply to private platforms",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/tech/2021/01/10/explainer-social-media-companies-ban-trump/6617801002/",
-      "originalUrl": "https://www.detroitnews.com/story/tech/2021/01/10/explainer-social-media-companies-ban-trump/6617801002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/10/PDTN/a7c8b4d1-1eae-4861-aebb-e20a957f6eb0-AP21009043612110.jpg?auto=webp&crop=2037,1146,x1349,y1095&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/6617801002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6617801002",
-      "publishedDateTime": "2021-01-10T14:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

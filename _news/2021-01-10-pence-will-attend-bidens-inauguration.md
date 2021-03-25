@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2260
+heat: 2280
 published: true
 
 provider:
@@ -1589,6 +1589,20 @@ related:
       - url: "https://static.politico.com/0d/09/043dca8a403aa9956dd0210ab404/gettyimages-1231087536.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Joe Biden’s reefer madness"
+    excerpt: "Joe Biden is nearly an octogenarian — four years older than Clinton. He’s responsible for the sentencing laws that incarcerated many small time drug offenders. He’s never supported legalization and only recently came out for decriminalization."
+    publishedDateTime: 2021-03-24T23:59:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/24/joe-bidens-reefer-madness-492228"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "‘They should be flat beaten’: Biden blasts Cruz, Hawley after Capitol attack"
     excerpt: "President-elect Joe Biden said on Friday that Sens. Ted Cruz and Josh Hawley should be \"flat beaten\" in their next elections for their roles in contesting the 2020 election results. Biden made the remarks following calls from members of Congress for Cruz and Hawley to resign after rioters heeding President Donald Trump's call to contest the election results raided the Capitol."
