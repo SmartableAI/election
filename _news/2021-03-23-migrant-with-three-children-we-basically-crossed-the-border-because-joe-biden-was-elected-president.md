@@ -650,6 +650,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cruz calls out Harris on border crisis, surely ‘admin will allow media to film the empty cages’"
+    excerpt: "Sen. Ted Cruz on Wednesday requested that Vice President Kamala Harris and the Biden administration grant media access to U.S. Customs and Border Protection facilities at the Texas border. "
+    publishedDateTime: 2021-03-25T06:18:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GK_94O0XEbM/ted-cruz-calls-on-harris-to-allow-filming-of-cbp-facilities-at-texas-border"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-calls-on-harris-to-allow-filming-of-cbp-facilities-at-texas-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-calls-on-harris-to-allow-filming-of-cbp-facilities-at-texas-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/processing-facilities15.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "WH ignores illegal crosser crediting Biden for allowing him in US, wouldn't have come if Trump was president"
     excerpt: "Secretary of Homeland Security Alejandro Mayorkas told \"Fox News Sunday\" that the influx of migrants crossing the border is due to the Trump administration's actions, not policy changes that took place in the early days of President Biden's administration."
     publishedDateTime: 2021-03-22T01:37:57Z

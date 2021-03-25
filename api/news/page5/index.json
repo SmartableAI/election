@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-18-power-up-trumps-legal-exposure-multiplies-in-new-york-and-washington.md",
+      "title": "Power Up: Trump's legal exposure multiplies in New York and Washington",
+      "excerpt": "This is the Power Up newsletter – thanks for waking up with us. FIRST IN POWER UP, TRUMP'S LEGAL EXPOSURE: Former president Donald Trump's tax records are being sifted through; those closest to him have been subpoenaed;",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7SF3QQEHNEI6XAV44WBBHSVDRY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp",
+      "publishedDateTime": "2021-03-18T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-army-wont-restore-medals-to-mathew-golsteyn-who-was-pardoned-by-trump.md",
       "title": "Army won’t restore medals to Mathew Golsteyn, who was pardoned by Trump",
       "excerpt": "The US Army has reportedly denied a request to return medals of valor to a retired major accused of murder in Afghanistan who was pardoned by former President Donald Trump. Retired Maj. Mathew",
@@ -1288,62 +1340,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-arizona-sheriff-says-biden-border-crisis-worse-than-obama-years-like-the-wild-west.md",
-      "title": "Arizona sheriff says Biden border crisis worse than Obama years: 'Like the Wild West'",
-      "excerpt": "An Arizona sheriff said Wednesday that the current border crisis is worse than the Obama years, as DHS indicates that the migrant surge at the U.S.-Mexico border is expected to hit a 20-year high.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZjPlxbXcClI/border-crisis-worse-obama-arizona-sheriff-biden-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZjPlxbXcClI/border-crisis-worse-obama-arizona-sheriff-biden-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/351be049-60a5-44b0-908b-b3f6e133f59a/3ebae1b6-1e4e-4510-b280-561e7c72e25d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/border-crisis-worse-obama-arizona-sheriff-biden-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-worse-obama-arizona-sheriff-biden-immigration.amp",
-      "publishedDateTime": "2021-03-17T05:50:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

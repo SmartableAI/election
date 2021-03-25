@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
 excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-publishedDateTime: 2021-03-24T22:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb9e58f08b6e4f17ca11b"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bb9e58f08b6e4f17ca11b"
+publishedDateTime: 2021-03-24T18:27:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b8a958f08b6e4f17c9e74"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b8a958f08b6e4f17c9e74"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 type: article
@@ -241,8 +241,8 @@ related:
         isCached: true
   - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
     excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-    publishedDateTime: 2021-03-24T23:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b232b8f08e6550a170af4"
+    publishedDateTime: 2021-03-25T06:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b33aa8f08fe2b74447778"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
     type: article
@@ -1042,6 +1042,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WIP2F6G2ZVDSFEIG66XUJY6GYM.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Kamala Harris tapped by Biden to lead border migration effort"
+    excerpt: "Vice President Kamala Harris will take the lead for the Biden administration on border and migration issues, the president said Wednesday, giving her a high-profile role on a controversial issue. It’s the first clear assignment for Harris since taking her job alongside President Biden,"
+    publishedDateTime: 2021-03-25T06:56:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/President-Biden-taps-Kamala-Harris-to-lead-border-16050795.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/President-Biden-taps-Kamala-Harris-to-lead-border-16050795.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/President-Biden-taps-Kamala-Harris-to-lead-border-16050795.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/21/61/20782205/7/rawImage.jpg"
+        width: 1600
+        height: 1067
         isCached: true
   - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
     excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
@@ -2066,6 +2082,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "3wulFovJEJHJM8qsnlRbzYql3+HWQzcifkfa7VMGi2HwsadvzJRcKC4FBw9DUzEqTi/yZl4VE0sZtfZGy2KX67COKh+yty52oTrn/Xrlo57vyrcZF5LEMAtEc/u2Phlxh3FBI/LFfvX6hS3R9mr32ls4OB0eIs/nb1UQWJTKbjrTWNz7UnhrP6zceIdWZcV1e5flvmzs/cp1cFOVGSYRHcqi1MKF9RTawr7dL0NkqnIK4NmJ8e4ErnMLpcbX9sq0ymfSKFTKsLfu0pgmflSCgxK9n2HeSdEt23/w1NWMjFz/gs84jD0Z1K6rMPXHSXtuV00IBnPYzmRN/PIG/RcsvXEHHcPuOpOoW7Vx+veiIvA=;2P6MoYy1UQU92qCOYkIy8Q=="
+secured: "y6gfjVTk1lSzzMe7erfNuW1LsnRbuy5BkPv8Ml6GX5vV2czhinbVuRMdVtEIuWM4jrpLn3GsyR46MlDJHd+g8iFKfbZ/7y1omC2F2jl4CIBfLgnIF3DakAWbfA4FE2MO7W4mVVYOaqm4CPubwz7+J48nhkzGgeSgOlamw63JxXd11XoCTI4saofUAXaOR2TF1Vfov1gC6IOTm2MX5M5CT1+kyJphM0XL6jcC2in3xNTFFk9k85A6bEov6Yqrj4g+oBJSqQA5nzjSGENu+UYcMR2IfVdwhCtHBXdGmvZ9qPvEvZ+PvSJuM3aCFF9GY1h7cD8JZjfXvQ7hLb28ZyBDIp+/wPgCMF6uDlJC6jZtZoU=;N7x1UHIj+NS1YKk2eAdCPQ=="
 ---
 

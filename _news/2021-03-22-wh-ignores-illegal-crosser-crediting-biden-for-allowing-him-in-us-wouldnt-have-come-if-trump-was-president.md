@@ -655,6 +655,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cruz calls out Harris on border crisis, surely ‘admin will allow media to film the empty cages’"
+    excerpt: "Sen. Ted Cruz on Wednesday requested that Vice President Kamala Harris and the Biden administration grant media access to U.S. Customs and Border Protection facilities at the Texas border. "
+    publishedDateTime: 2021-03-25T06:18:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GK_94O0XEbM/ted-cruz-calls-on-harris-to-allow-filming-of-cbp-facilities-at-texas-border"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-calls-on-harris-to-allow-filming-of-cbp-facilities-at-texas-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-calls-on-harris-to-allow-filming-of-cbp-facilities-at-texas-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/processing-facilities15.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden's words on migrant children without beds, soap could come back to haunt him"
     excerpt: "In 2019, then-candidate Biden went after then-President Donald Trump online over the conditions at detention centers holding migrant children as the Trump administration argued in defense of the facilities in federal court."
     publishedDateTime: 2021-03-16T20:15:11Z

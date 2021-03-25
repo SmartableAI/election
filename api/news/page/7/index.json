@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-16-fired-by-trump-white-house-brother-of-impeachment-witness-vindman-now-says-army-set-to-promote-him.md",
+      "title": "Fired by Trump White House, brother of impeachment witness Vindman now says Army set to promote him",
+      "excerpt": "The brothers were both Army officers serving on the National Security Council when they raised concerns about former President Donald Trump's phone call to Ukranian President Volodymyr Zelensky in July 2019. They told an NSC lawyer that Trump's phone call ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/military/fired-trump-white-house-brother-impeachment-witness-vindman-now-says-n1261166",
+      "originalUrl": "https://www.nbcnews.com/news/military/fired-trump-white-house-brother-impeachment-witness-vindman-now-says-n1261166",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_35/3407686/200826-yevgeny-vindman-jm-1531_81b99312784f6566b63cd89ba04236a9.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261166",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261166",
+      "publishedDateTime": "2021-03-16T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-donald-trump-jr-calls-the-talk-hiatus-over-piers-morgan-debate-insane-defends-sharon-osbourne.md",
       "title": "Donald Trump Jr. calls 'The Talk' hiatus over Piers Morgan debate 'insane,' defends Sharon Osbourne",
       "excerpt": "Donald Trump Jr. spoke out in defense of Sharon Osbourne and Piers Morgan after 'The Talk' announced its hiatus.",
@@ -1311,58 +1368,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-chaos-under-heaven-review-trump-as-raging-bull-in-a-china-policy-shop.md",
-      "title": "Chaos Under Heaven review: Trump as raging bull in a China policy shop",
-      "excerpt": "Before Covid upended everything, the US president upended relations with Beijing – without interest or ability to build anew",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/168f33036b5291f725aa69009a9fb865b046f7dd/0_19_3038_1823/master/3038.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=324f482f84ea1622e8e74215d12a035a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
-      "publishedDateTime": "2021-03-13T21:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-25-bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions.md",
+      "title": "Biden’s claim that 'dogs may help cure cancer' draws Twitter reactions",
+      "excerpt": "President Biden is known to be a lover of dogs – but did he recently give canines more credit than they deserve?",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SV2FOANuGTk/bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SV2FOANuGTk/bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21082725419565.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions.amp",
+      "publishedDateTime": "2021-03-24T23:53:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.md",
       "title": "Arizona’s Ducey calls Harris the ‘worst possible choice’ to fix border",
       "excerpt": "Gov. Doug Ducey, the Arizona Republican, didn’t mince words Wednesday shortly after he learned that President Biden was tapping Vice President Harris to oversee the effort to resolve the crisis at the U.S.-Mexico border.",
@@ -1404,7 +1460,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 334,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -1581,62 +1637,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-nelson-biden-nasa-administrator.amp",
       "publishedDateTime": "2021-03-19T05:51:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.md",
-      "title": "Texas wax museum moves Trump statue because visitors kept hitting it: report",
-      "excerpt": "The owner of Louis Tussaud’s Waxworks in San Antonio said the museum removed a statue of former President Trump because too many visitors punched and scratched the figure, a report said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5LHYLgaC0U/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5LHYLgaC0U/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.amp",
-      "publishedDateTime": "2021-03-18T23:44:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-22-biden-world-praises-clinton-adviser-who-reportedly-ignored-weinstein-warning-dismissed-tara-reades-claims.md",
+      "title": "Biden world praises Clinton adviser who reportedly ignored Weinstein warning, dismissed Tara Reade's claims",
+      "excerpt": "Biden world sang the praises of Democratic strategist Adrienne Elrod on Sunday after a glowing profile on her work with Biden's team.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/adqyTBPuOyE/biden-clinton-adrienne-elrod-weinstein-tara-reade",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/adqyTBPuOyE/biden-clinton-adrienne-elrod-weinstein-tara-reade",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Image-from-iOS-10.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-clinton-adrienne-elrod-weinstein-tara-reade.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-adrienne-elrod-weinstein-tara-reade.amp",
+      "publishedDateTime": "2021-03-22T08:58:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-trump-endorses-challenger-to-ga-secretary-of-state-raffensperger.md",
       "title": "Trump endorses challenger to Ga. Secretary of State Raffensperger",
       "excerpt": "Former President Donald Trump on Monday endorsed a primary challenger to Georgia's Republican secretary of state, Brad Raffensperger, who refused Trump's demands to \"find\" enough votes to overturn the state's presidential election results. \"Wow ...",
@@ -1297,58 +1353,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-trump-wax-figure-pulled-from-texas-display-after-visitors-attacked-it-reports.md",
-      "title": "Trump wax figure pulled from Texas display after visitors attacked it – reports",
-      "excerpt": "Statue of ex-president apparently had deep gouges inflicted by museum patrons who clawed and punched it, local report said Last modified on Fri 19 Mar 2021 18.07 EDT A wax figure of Donald Trump has been pulled from the display of a waxworks exhibit after ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/19/donald-trump-wax-figure-texas-attacked-reports?via=webuproar",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/19/donald-trump-wax-figure-texas-attacked-reports?via=webuproar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3c44ad1d66fd10a9521a9b31b0c1fd107f9f07f3/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=24b3fc0e6ed73e1f6aaa6531ef7f1665",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/19/donald-trump-wax-figure-texas-attacked-reports",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/19/donald-trump-wax-figure-texas-attacked-reports",
-      "publishedDateTime": "2021-03-19T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
