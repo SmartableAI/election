@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s first press conference: Here are some of the hot-button questions he could face"
+    excerpt: "President Biden later Thursday will face reporters in a press briefing for the first time as president after weeks of media outlets clamoring to get a chance to grill him in the White House briefing room. "
+    publishedDateTime: 2021-03-25T11:53:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XY29iap5894/biden-questions-first-press-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-questions-first-press-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-first-press-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "'Confounding' for Biden administration to announce press conference nine days in advance: McEnany"
     excerpt: "The Biden administration announcing the date that the president will hold his first formal press conference nine days ahead of time is a \"confounding strategy,\" Fox News contributor and former White House press secretary Kayleigh McEnany told \"Outnumbered\" Wednesday."
     publishedDateTime: 2021-03-17T20:39:46Z

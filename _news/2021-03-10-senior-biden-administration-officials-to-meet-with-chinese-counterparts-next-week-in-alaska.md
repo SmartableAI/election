@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration prepares to activate 2 military sites in Texas for migrant children"
+    excerpt: "The Biden administration is setting up two more emergency intake sites that combined will provide more than 5,000 beds to accommodate migrant children crossing the US-Mexico border alone.\n    \n"
+    publishedDateTime: 2021-03-25T10:04:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TDisWJk9424/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/migrant-children-military-sites-texas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/migrant-children-military-sites-texas/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324174318-02-hhs-children-facility-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "US has assessed North Korea could be preparing to carry out first weapons test since Biden took office"
     excerpt: "US intelligence has assessed that North Korea could be preparing to carry out their first weapons test since President Joe Biden came into office, according to several US officials speaking to CNN on condition of anonymity.\n    \n"
     publishedDateTime: 2021-03-17T01:51:49Z
@@ -142,6 +158,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316151003-102-border-crisis-0314-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "North Korea Fires 2 Ballistic Missiles in Challenge to Biden"
+    excerpt: "Prime Minister Yoshihide Suga of Japan said the test “threatens the peace and security of Japan and the region, and is a violation of United Nations resolutions.”"
+    publishedDateTime: 2021-03-25T05:27:00Z
+    webUrl: "https://www.nytimes.com/2021/03/25/world/asia/north-korea-ballistic-missiles.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/25/world/asia/north-korea-ballistic-missiles.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/25/world/asia/north-korea-ballistic-missiles.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/24/world/24nkorea-1/24nkorea-1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote"
     excerpt: "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ..."

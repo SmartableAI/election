@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "10 Things in Politics: Kamala Harris' first big test as VP"
+    excerpt: "Send your tips and suggestions to bgriffiths@insider.com or tweet me @BrentGriffiths. Here's what you need to know: Kamala Harris will run point on the politically fraught issue of immigration. Here's how young and healthy people are getting vaccinated early."
+    publishedDateTime: 2021-03-25T09:55:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-kamala-harris-immigration-border-crisis"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-kamala-harris-immigration-border-crisis?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-kamala-harris-immigration-border-crisis?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/605c34990d155e0019ef69ef?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Watch Live: Vice President Kamala Harris speaks at U.N. meeting on gender equality and women's empowerment"
     excerpt: "Vice President Kamala Harris is delivering a statement Tuesday on behalf of the United States during a session of the United Nations' Commission on the Status of Women. The theme of this year's session, the 65th, is women's \"full and effective ..."
     publishedDateTime: 2021-03-16T13:44:00Z

@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "10 Things in Politics: Kamala Harris' first big test as VP"
+    excerpt: "Send your tips and suggestions to bgriffiths@insider.com or tweet me @BrentGriffiths. Here's what you need to know: Kamala Harris will run point on the politically fraught issue of immigration. Here's how young and healthy people are getting vaccinated early."
+    publishedDateTime: 2021-03-25T09:55:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-kamala-harris-immigration-border-crisis"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-kamala-harris-immigration-border-crisis?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-kamala-harris-immigration-border-crisis?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/605c34990d155e0019ef69ef?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Jeanine Pirro Blasts Kamala Harris for Being Silent on Cuomo Accusations: 'Fraud,' 'Phony'"
     excerpt: "\"Some supporter of women, huh? A woman paraded around as a champion of women, quick to believe all women unless it doesn't work to her political advantage,\" the Fox News host said in comments about the vice president."
     publishedDateTime: 2021-03-14T14:55:00Z

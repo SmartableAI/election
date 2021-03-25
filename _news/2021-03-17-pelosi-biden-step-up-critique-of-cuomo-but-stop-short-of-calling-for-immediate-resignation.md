@@ -896,11 +896,11 @@ related:
         height: 675
         isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
-    excerpt: "(Reuters) - Fourteen U.S. states including Louisiana and Wyoming filed lawsuits on Wednesday against President Joe Biden’s administration, challenging his pause on new oil and gas leasing on federal lands and waters. The legal actions, which seek to ..."
-    publishedDateTime: 2021-03-24T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idUSKBN2BG2KG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG2KG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG2KG"
+    excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed lawsuits on Wednesday against President Joe Biden's administration, challenging his pause on new oil and gas leasing on federal lands and waters."
+    publishedDateTime: 2021-03-24T20:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BG2KG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BG2KG"
     type: article
     provider:
       name: Reuters
@@ -1087,6 +1087,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "North Korea Missiles Seriously Concern U.S. Allies, But Joe Biden Downplays Threat"
+    excerpt: "Pyongyang has conducted two weapons tests in a week amid speculation North Korea is trying to apply pressure on the White House."
+    publishedDateTime: 2021-03-25T11:02:00Z
+    webUrl: "https://www.newsweek.com/us-allies-japan-south-korea-concerned-north-korea-weapons-tests-joe-biden-unperturbed-1578647"
+    ampWebUrl: "https://www.newsweek.com/us-allies-japan-south-korea-concerned-north-korea-weapons-tests-joe-biden-unperturbed-1578647?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-allies-japan-south-korea-concerned-north-korea-weapons-tests-joe-biden-unperturbed-1578647?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1763357/tvs-show-north-korean-missile-launches-seoul.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Republican states in legal threat to Biden's $1.9tn Covid relief plan – live updates"
     excerpt: "Read more here: NBC News – Biden administration limits what Border Patrol can share with media about migrant surge at border Passing the $1.9tn Covid relief bill through Congress has been an early legislative triumph for Joe Biden’s presidency ..."
     publishedDateTime: 2021-03-17T10:25:00Z
@@ -1150,6 +1166,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556086245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1SV"
         width: 816
         height: 545
+        isCached: true
+  - title: "President Joe Biden is holding first press conference. Here's what he may get asked."
+    excerpt: "WASHINGTON — President Joe Biden is set to hold his first solo press conference from the White House on Thursday, his 64th day since taking office. The president has taken questions from and interacted with reporters on other occasions, but his first ..."
+    publishedDateTime: 2021-03-25T09:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/25/what-expect-president-joe-biden-first-press-conference/6971426002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6971426002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6971426002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/2d04e259-a24c-4ad4-b9a3-7641e846ba84-AP21071052767891.jpg?auto=webp&crop=5999,3374,x0,y150&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
     excerpt: "White House says president will deliver brief remarks on hooting this afternoon, before leaving for a trip to Ohio"
@@ -1372,6 +1404,22 @@ related:
     quality: 115
     images:
       - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to host first press conference under pressure on immigration and guns – US politics live"
+    excerpt: "But Joe Biden still hasn’t had a formal news conference since his inauguration on 20 January. The stretch is the longest a new president has gone without meeting the press in the past 100 years, dating back to when Calvin Coolidge, a man known as ..."
+    publishedDateTime: 2021-03-25T10:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates?page=with:block-605c37b78f08a9515e8370b5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d267c42fe0ca5906d541d0f55a58fc671e63bfa/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9bc03ce464544f0e6f608fe824ad872"
         width: 600
         height: 360
         isCached: true
