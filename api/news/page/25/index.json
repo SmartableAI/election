@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-02-13-florida-democrat-says-biden-vaccine-distribution-plan-hurts-states-with-high-senior-populations.md",
+      "title": "Florida Democrat says Biden vaccine distribution plan hurts states with high senior populations",
+      "excerpt": "Florida Democratic Rep. Stephanie Murphy urged President Biden to adjust his plan for distributing vaccines nationwide after finding \"obvious flaws\" that could prove detrimental to states with higher rates of seniors.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOKyv0sPg0A/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOKyv0sPg0A/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/daed92be-3252-43fa-b9e8-da5603edde14/87911f60-2d64-4b3d-9640-48c901ad4264/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp",
+      "publishedDateTime": "2021-02-12T19:08:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-biden-administration-says-it-intends-to-close-guantanamo-prison.md",
       "title": "Biden administration says it intends to close Guantanamo prison",
       "excerpt": "The Biden administration intends to close the Guantánamo Bay detention facility, which houses approximately 40 prisoners, by the end of their term.\n    \n",
@@ -1305,63 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-day-three-democrats-try-to-make-the-trump-link-clearer.md",
-      "title": "Day Three: Democrats try to make the Trump link clearer",
-      "excerpt": "And Speaker Nancy Pelosi says she will award the Congressional Gold Medal to Capitol Police and other law enforcement who defended the Capitol on Jan. 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/11/day-three-democrats-try-to-make-the-trump-link-clearer-491726",
-      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/11/day-three-democrats-try-to-make-the-trump-link-clearer-491726",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/a9/3c/81523a5e4fb583824a567513d7f6/210211-degette-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/543731-epa-asks-court-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/543731-epa-asks-court-to-toss-trump-rule-that-could-prevent-emissions?amp"
 type: article
 quality: 114
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "EU countries suspend AstraZeneca vaccine as US considers authorization; CDC review hints at Trump administration meddling: COVID-19 updates"
+    excerpt: "The CDC failed to live up to standards during Trump administration, according to agency review. U.S. death toll tops 535K. Latest COVID-19 updates."
+    publishedDateTime: 2021-03-16T00:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/03/15/covid-vaccines-restrictions-schools-spring-break/4693789001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4693789001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4693789001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/13/PIND/eb0f2bdd-b5bf-4042-8d4d-7349cf8977d8-scd1.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "A controversial Trump-era policy is saving companies millions by letting them ditch their health plans and send workers to buy their own coverage"
     excerpt: "One big employer expects to save $7.2 million by sending workers to buy their own health insurance with \"health reimbursement arrangements.\""
     publishedDateTime: 2021-03-17T14:24:00Z

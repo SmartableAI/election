@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
-excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+excerpt: "Republicans have been sharply critical of Biden’s immigration policies, and it will likely be very difficult to get any border-related legislation through the evenly divided Senate. Joe Biden described Kamala Harris as “the most qualified person” to ..."
 publishedDateTime: 2021-03-24T18:27:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b909a8f08b6e4f17c9ee2"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b909a8f08b6e4f17c9ee2"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b85038f08a9515e8368e3"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b85038f08a9515e8368e3"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 type: article
-quality: 127
+quality: 137
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Kamala Harris
 
 images:
@@ -142,6 +143,22 @@ related:
       - url: "https://s.abcnews.com/images/US/covid-milestone-03-gty-jc-2102222_1614035170471_hpMain_16x9_1600.jpg"
         width: 1600
         height: 899
+        isCached: true
+  - title: "UPDATE 1-Biden names Harris to lead efforts with Mexico to stem flow of immigrants"
+    excerpt: "President Joe Biden on Wednesday named Vice President Kamala Harris to lead U.S. efforts with Mexico and Central America's Northern Triangle countries to try to stem the flow of immigration to the United States."
+    publishedDateTime: 2021-03-24T17:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-biden-harris/update-1-biden-names-harris-to-lead-efforts-with-mexico-to-stem-flow-of-immigrants-idUSL1N2LM2L5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG2X6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG2X6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 144
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556090171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1T7"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden and Harris to meet Republican senators to push for Covid aid package – live updates"
     excerpt: "lawmakers have offered across the aisle agreement on a much-reduced economic package"
@@ -2082,6 +2099,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "qnZwnQ1pHh3/CjwaVdnjSIRws03RM4DOlHUFwbtL8jKHszXF1lZniAN0yeYOXgpSDFRlXunSfyVspaLQIDdL7l1VXuMHq4VTRSkRZ/fFgcR3HCCgf2bYcdZyANmX8ySR6RR5IXj4u14npFSQ5YdPbIBQK7GxG33M+LYVrsjZ9mWlgJJiBtqHhNNzp9xC519fhlAspB6ex4VfW3REFHYUR1Ppr7iJGjP9EbvMxN2CcOywYuG4Seic101KQ6DI07RbBWZ5ShQO4gm72JzNE04jclyjydR1eqmLyEoDMNl+b0x+FzW+1n2KJqXWTCVFoECYxmu0c0Nk7cprvJRO0y/DJrn9IZS+oaDbi2QVhJjsal0=;NaAQ+XxpRq93GwsJzxP5Sg=="
+secured: "XLzhjzWoZHsUi0q8WJJkRSlsiotDpi4YV434slXqOR7hA53/bFp1Lqh7LjptZ7MSaw1KqzdaGxHKK0BxvFlupMsj3ncvdn+t+wvxwY5/ZwO5d/N6qEqkPBF389yYf21VYFcAJzkBScy84F4tBLEh6fXc4FYsaZAwBCHbs+nxYiG+s49Pi1SSpsisIuDUa6PzG74KJTC87xJVyePTNZ6ThA6ghSXEcYZMzktogJvau/LeBg/KpnoWLS+pVONMq7ugh644Uu9CSluDt4T6uzsYPrXQyytEWSOJzqr/OWasavPW76JCrmzMINJjU0JKQ2J5fwU5pdJe+3EgPImRZtMOGhzwFxNeWgwmaYYmuND3fL4=;7OgtbqKycbQ9PUoGMaAvDg=="
 ---
 

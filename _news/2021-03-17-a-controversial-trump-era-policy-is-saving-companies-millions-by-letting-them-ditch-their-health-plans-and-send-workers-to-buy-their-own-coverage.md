@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "EU countries suspend AstraZeneca vaccine as US considers authorization; CDC review hints at Trump administration meddling: COVID-19 updates"
+    excerpt: "The CDC failed to live up to standards during Trump administration, according to agency review. U.S. death toll tops 535K. Latest COVID-19 updates."
+    publishedDateTime: 2021-03-16T00:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/03/15/covid-vaccines-restrictions-schools-spring-break/4693789001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4693789001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4693789001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/13/PIND/eb0f2bdd-b5bf-4042-8d4d-7349cf8977d8-scd1.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "AQOCeXsFVgJFJhZXEfQE9G837stNjb8T8+koEa44hwVz/IIr5p2dJziYZMeNDHTK6kN6zjJOFJ2ByqcDySQQspoeq7wlc0whw3lp0D88eRIUrOFTbjVsHwOuNX9F1v5XrmEvXCB7pp7JFFqAn0omlK/nfvLtdpW1nPKDKdkH8sG/xD196QJ7NH7/HGQNmT9nxuQosYE6A0S1K04KVVux0SCHUl0jvSFuNdZC5+L2Soj5yCpf0nnb8QbFdrkudRjxOCx2xtuM0WRTCPuE37KRgSrFzJutH0Veg8450N7MA5FOMRZNrv7vvjPaIQMrpf5TIxnhKOwl39gz2NFkvxgWvwLVRKQcao1g1nVUTkuZ2pU=;8Rh5pXCKG94842WkQb+Lkg=="
 ---

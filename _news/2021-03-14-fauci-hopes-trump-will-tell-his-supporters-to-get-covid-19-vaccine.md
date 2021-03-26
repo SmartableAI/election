@@ -25,6 +25,22 @@ topics:
   - Donald Trump
 
 related:
+  - title: "Former Mike Pence Adviser Says Donald Trump 'Didn't Care' About COVID-Stricken Cruise Ship"
+    excerpt: "A former adviser to Vice President Mike Pence has said Donald Trump didn't care about people suffering from COVID-19 on board a cruise ship near the start of the pandemic. Olivia Troye, a national security adviser who was on the White House coronavirus ..."
+    publishedDateTime: 2021-03-11T08:20:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-adviser-says-donald-trump-did-not-care-about-covid-cruise-ship-1575308"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-adviser-says-donald-trump-did-not-care-about-covid-cruise-ship-1575308?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-adviser-says-donald-trump-did-not-care-about-covid-cruise-ship-1575308?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1753218/former-president-donald-trump-new-york.jpg"
+        width: 2978
+        height: 1820
+        isCached: true
   - title: "Fauci hopes Trump will push his supporters to get COVID-19 vaccine"
     excerpt: "WASHINGTON (Reuters) - Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be ..."
     publishedDateTime: 2021-03-14T15:54:00Z
@@ -73,86 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 outbreak partially shuts down Trump's Mar-A-Lago"
-    excerpt: "COVID outbreak partially closes Trump's Mar-a... 00:18 Former President Trump's Mar-A-Lago club has been partially shut down because of a COVID-19 outbreak, a receptionist confirmed to CBS News. The extent of the outbreak at the club, where Mr. Trump has ..."
-    publishedDateTime: 2021-03-20T03:49:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/20/b21cbfdc-1834-4ce0-8487-0d051d781d15/thumbnail/1200x630/75efd186fc82f99aeb2092c5fe59fe8c/gettyimages-1301449867.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump's Mar-a-Lago resort partially closed by Covid-19 outbreak"
-    excerpt: "Receptionist says Florida club where Trump moved after leaving White House is closed until further notice"
-    publishedDateTime: 2021-03-19T17:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/3dabdb6797ecd0eac172a64d1dbd3ecd46ef50d6/0_136_6000_3601/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70d7639d69892d667db99b5199d789bc"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "In this rural Trump country, covid vaccine is an easy sell — for now"
-    excerpt: "Support our journalism. Subscribe today. Yet there she was last week at a clinic at Mountain Empire Community College, in an Appalachian county where President Donald Trump won 80 percent of the vote in November, sweeping her long hair off to one side so ..."
-    publishedDateTime: 2021-03-21T23:06:00Z
-    webUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TM5WWZEHTEI6XPSKES4J6YLPFQ.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "Governor races to test COVID-19 response, Trump influence"
-    excerpt: "Just one Democratic governor, Kansas’s Laura Kelly, faces reelection in a state former President Trump Donald Trump Good luck, Dan Bongino! The Hill's Morning Report - Biden's next act ..."
-    publishedDateTime: 2021-03-23T19:17:00Z
-    webUrl: "https://thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence"
-    ampWebUrl: "https://thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/sununuchris_cuomoandrew_bakercharlie_032321getty_split_gov.jpeg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Donald Trump's Mar-a-Lago Club Partially Closed Due to COVID-19 Outbreak"
-    excerpt: "Former President Donald Trump's club, Mar-a-Lago, has been partially closed due to an outbreak of COVID-19. The golf club and resort is located in Palm Beach, Florida, and now serves as Trump's primary residence. A member of the club's staff tested ..."
-    publishedDateTime: 2021-03-20T09:26:00Z
-    webUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559"
-    ampWebUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1760135/president-trump-travels-mar-lago.jpg"
-        width: 3998
-        height: 2665
-        isCached: true
   - title: "Trump Voters Hesitant About COVID Vaccine Won't Be Swayed by Former President"
     excerpt: "When trying to convince former President Donald Trump's supporters to get vaccinated against COVID-19, officials should look to hammering home facts about those who have been vaccinated and not rely on the former president's persuasion, a recent focus ..."
     publishedDateTime: 2021-03-15T17:45:00Z
@@ -168,22 +104,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1756434/donald-trump-vaccine-hesitancy.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Trump urges supporters get vaccinated after Fauci, experts call on him to do so"
-    excerpt: "Former President Donald Trump encouraged his supporters to get vaccinated after a poll showed nearly half would not get the vaccine when it became available."
-    publishedDateTime: 2021-03-17T15:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-urges-supporters-vaccinated-fauci-experts-call/story?id=76509348"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-urges-supporters-vaccinated-fauci-experts-call/story?id=76509348"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-urges-supporters-vaccinated-fauci-experts-call/story?id=76509348"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 121
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-cpac-rt-ps-210317_1615989428814_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "‘We want to be educated, not indoctrinated,’ say Trump voters wary of covid shots"
     excerpt: "Tout the number of people who got the vaccines in trials. And don’t show pro-vaccine ads with politicians — not even ones with Donald Trump. That’s what a focus group of vaccine-hesitant Trump voters insisted to politicians and pollsters this weekend ..."
@@ -217,54 +137,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "QAnon Thinks Donald Trump's Vaccine Remarks Are Fake, Just a Very Good Imitation"
-    excerpt: "QAnon followers are once again pulling in all directions as they struggle to explain why Donald Trump would urge people to get COVID-19 vaccinations, which are highly-detested among Q-conspiracists. The former president, who is a savior-like figure in the ..."
-    publishedDateTime: 2021-03-18T11:55:00Z
-    webUrl: "https://www.newsweek.com/qanon-thinks-donald-trumps-vaccine-remarks-fake-good-impression-1577046"
-    ampWebUrl: "https://www.newsweek.com/qanon-thinks-donald-trumps-vaccine-remarks-fake-good-impression-1577046?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-thinks-donald-trumps-vaccine-remarks-fake-good-impression-1577046?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1758454/q.jpg"
-        width: 3165
-        height: 2110
-        isCached: true
-  - title: "COVID-19 outbreak at Trump's Mar-a-Lago club leads to partial closure, per report"
-    excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump's Palm Beach club has partially closed following a COVID-19 outbreak, the Associated Press reported Friday. A Mar-a-Lago club member reportedly received a phone call about the closure Friday and a ..."
-    publishedDateTime: 2021-03-19T21:56:00Z
-    webUrl: "https://www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/60551b69cad7d300183f82a9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York"
-    excerpt: "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\""
-    publishedDateTime: 2021-03-08T22:33:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1751781/donald-trump-suv.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Fauci: it's 'disturbing' that Trump voters say they won't get vaccinated for COVID-19"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
     publishedDateTime: 2021-03-14T15:03:00Z
@@ -297,22 +169,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
-    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows, the government’s top infectious ..."
-    publishedDateTime: 2021-03-14T12:43:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 111
-    images:
-      - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Anti-Asian hashtags soared after Donald Trump first tied COVID-19 to China on Twitter, study shows"
     excerpt: "The week after then-President Donald Trump first used the #chinesevirus hashtag, the number of people using the hashtag increased more than tenfold."
     publishedDateTime: 2021-03-18T20:41:00Z
@@ -326,38 +182,6 @@ related:
     quality: 111
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/18/USAT/d540efd8-e28e-41e2-a68c-a13e422d19d8-Stop_Asian_Hate_Vigils_14.JPG?auto=webp&crop=4253,2392,x0,y42&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Touts 'Safe' COVID Vaccine After Pressure from Psaki, Assures Supporters 'We Have Our Freedoms'"
-    excerpt: "After pressure from the White House, former President Donald Trump on Tuesday advised all Americans to get the coronavirus vaccine, saying that it is \"safe\" and \"something that works.\" Trump called into Fox News this evening to discuss the success of his administration's Operation Warp Speed,"
-    publishedDateTime: 2021-03-17T01:04:00Z
-    webUrl: "https://www.newsweek.com/trump-touts-safe-covid-vaccine-after-pressure-psaki-assures-supporters-we-have-our-freedoms-1576667"
-    ampWebUrl: "https://www.newsweek.com/trump-touts-safe-covid-vaccine-after-pressure-psaki-assures-supporters-we-have-our-freedoms-1576667?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-touts-safe-covid-vaccine-after-pressure-psaki-assures-supporters-we-have-our-freedoms-1576667?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 110
-    images:
-      - url: "https://d.newsweek.com/en/full/1757626/trump.jpg"
-        width: 2978
-        height: 1820
-        isCached: true
-  - title: "'It's a great vaccine': Donald Trump recommends supporters get COVID-19 vaccine as polls show hesitancy"
-    excerpt: "WASHINGTON – Former President Donald Trump said Tuesday he would urge his supporters to get the COVID-19 vaccine, but acknowledged that some of them may refuse in the name of \"freedom.\" \"I would recommend it, and I would recommend it to a lot of people ..."
-    publishedDateTime: 2021-03-17T01:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/16/its-great-vaccine-donald-trump-asks-backers-get-covid-vaccine/4726016001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4726016001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4726016001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/05/USAT/919ad265-fb75-49fb-97ce-5eaeddec5787-Donald_Trump_at_CPAC_AP_pic.jpg?auto=webp&crop=3661,2060,x0,y186&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -377,47 +201,17 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump's Mar-a-Lago partially closed after COVID outbreak"
-    excerpt: "Top News Trump's Mar-a-Lago partially closed after COVID outbreak Posted Parts of Donald Trump’s Florida golf resort Mar-a-Lago have been temporarily closed because of a coronavirus outbreak, according to two sources familiar with the matter."
-    publishedDateTime: 2021-03-20T20:28:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE4W707Z"
+  - title: "Trump pushes Americans to get COVID-19 vaccine"
+    excerpt: "Reuters Now Trump pushes Americans to get COVID-19 vaccine Posted In an interview with Fox News, former President Donald Trump on Tuesday night pushed Americans to get vaccinated against the coronavirus, even those who might not want to."
+    publishedDateTime: 2021-03-17T18:24:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPRoI?now=true"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210320&i=OVE4W707Z&r=OVE4W707Z&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
-    excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
-    publishedDateTime: 2021-03-14T19:08:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2021/mar/15/morning-mail-women-march4justice-covid-free-streak-ends-silent-echo-of-trump-hotel"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 98
-    images:
-      - url: "https://i.guim.co.uk/img/media/f4f20a7661ff59a053aa5dd825fc1f75f80afc29/0_302_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3079d7acb36c2746d9ccdbdc47a46f79"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "EU countries suspend AstraZeneca vaccine as US considers authorization; CDC review hints at Trump administration meddling: COVID-19 updates"
-    excerpt: "The CDC failed to live up to standards during Trump administration, according to agency review. U.S. death toll tops 535K. Latest COVID-19 updates."
-    publishedDateTime: 2021-03-16T00:36:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2021/03/15/covid-vaccines-restrictions-schools-spring-break/4693789001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4693789001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4693789001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 91
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/13/PIND/eb0f2bdd-b5bf-4042-8d4d-7349cf8977d8-scd1.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg&width=1200"
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60523a8ce4b0653eea184b1c-1616001676528?location=LANDSCAPE"
         width: 1200
         height: 675
         isCached: true
@@ -452,70 +246,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/J2UQFSQVDVAS5IWR7TCCZ4HRPA.jpg"
         width: 3395
         height: 2264
-        isCached: true
-  - title: "Trump urges supporters to get COVID vaccine, but tells them he also respects ‘freedom’"
-    excerpt: "The ex-president urged Americans late Tuesday to get vaccinated before saying he also “agrees” with their “freedom” to not do it, leaving his supporters with a distinctly mixed message. “I would recommend it and I would recommend it to a lot of people that don’t want to get it and a lot of those people voted for me,"
-    publishedDateTime: 2021-03-17T01:21:00Z
-    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html"
-    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 67
-    images:
-      - url: "https://www.nydailynews.com/resizer/7TYSeLx83ZNph4_GAy8P_6__Ya0=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KBNWWBFMRFBS3D3XMPEQ4VYQBY.jpg"
-        width: 1200
-        height: 835
-        isCached: true
-  - title: "Trump Is Losing Money: Net Worth Down $700 Million As COVID-19, Riot Batter His Wealth"
-    excerpt: "Donald Trump's days as president are over, and his return to the business world is greeted with a dwindling net worth and the falling income of his businesses amid the pandemic."
-    publishedDateTime: 2021-03-19T10:23:00Z
-    webUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350"
-    ampWebUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
-        width: 1024
-        height: 663
-        isCached: true
-  - title: "Republican governor of Arkansas worried about Trump followers’ refusal to get COVID vaccine"
-    excerpt: "Arkansas Gov. Asa Hutchinson on Sunday blamed vaccine hesitancy among Trump supporters on 'a natural resistance to government and skepticism of it.'"
-    publishedDateTime: 2021-03-21T19:42:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 65
-    images:
-      - url: "https://www.nydailynews.com/resizer/5ltuigt-QXtsJ6tI5XgvglovJ2o=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JGPA63GMWFCQ3E2LH3EXNXC7K4.jpg"
-        width: 1200
-        height: 757
-        isCached: true
-  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
-    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
-    publishedDateTime: 2021-03-14T18:42:00Z
-    webUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 61
-    images:
-      - url: "https://www.nydailynews.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "3jOiIS9TCdIZ16hOPo9BXf7gd9evKB747mmwt7XW1mGrm1Z2AB5iD1JHHqfc19jhMRxHD7u3taQf+ZO/pqLr0U1y/3bQ7ef7AO/SWtYr3j9p9JFWWhS0Athsv+O8uTMuLXj/eykzt5t2pkLerDfKRz/7/kN3IiRdtLXjWD7tehag6XbUzr/b5f1tXr1yY91GqG5Syjt+R3zKBXz1YlfDrYEsKB6YyGcGb1g1Tm/yWrCUBoEIvz6KSzEm54htRB3O3Kb4mxpeaBnXNcuIV8w7x3HGIbJ78xmlKUYv6V2DLeWcbqV1rpcH7FOOgKdSh+yVeuEpxeFpr1thOLKmIf+p043y9tLV+Rx7B6iYShoMEJk=;I3eabO2W0p8HUTtY+GdSCw=="

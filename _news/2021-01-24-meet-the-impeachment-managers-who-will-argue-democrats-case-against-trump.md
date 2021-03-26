@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In this rural Trump country, covid vaccine is an easy sell — for now"
+    excerpt: "Support our journalism. Subscribe today. Yet there she was last week at a clinic at Mountain Empire Community College, in an Appalachian county where President Donald Trump won 80 percent of the vote in November, sweeping her long hair off to one side so ..."
+    publishedDateTime: 2021-03-21T23:06:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-trump-country-coronavirus-vaccine/2021/03/21/c153bd98-872a-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TM5WWZEHTEI6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Sheriff who flew Trump flag on patrol boat violated ban on partisan political activity, officials say"
     excerpt: "with the banner depicting President Donald Trump’s face superimposed over an American flag. Hilton, a Republican, acknowledged that an attendee gave deputies the flag and he approved its exhibition, drawing criticism from residents and other officials ..."
     publishedDateTime: 2021-03-15T02:27:00Z

@@ -1442,6 +1442,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Vice President Kamala Harris embraces role of representing American women"
+    excerpt: "Vice President Kamala Harris shares concern for how the COVID-19 pandemic has impacted women and the importance of addressing that disparity."
+    publishedDateTime: 2021-03-26T08:02:00Z
+    webUrl: "https://www.freep.com/videos/news/politics/2021/03/26/vice-president-kamala-harris-strong-message-american-women-covid-pandemic/7007704002/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 54
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/26/USAT/04a33651-a5ac-4150-bde8-f4a23cea8aa2-c8d1dd0c-cac8-42a7-8ab3-d6aede2b96fe_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
     excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
     publishedDateTime: 2021-03-24T19:43:00Z

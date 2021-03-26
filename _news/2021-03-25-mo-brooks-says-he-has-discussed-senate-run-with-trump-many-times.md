@@ -75,6 +75,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'It's a great vaccine': Donald Trump recommends supporters get COVID-19 vaccine as polls show hesitancy"
+    excerpt: "WASHINGTON – Former President Donald Trump said Tuesday he would urge his supporters to get the COVID-19 vaccine, but acknowledged that some of them may refuse in the name of \"freedom.\" \"I would recommend it, and I would recommend it to a lot of people ..."
+    publishedDateTime: 2021-03-17T01:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/16/its-great-vaccine-donald-trump-asks-backers-get-covid-vaccine/4726016001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4726016001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4726016001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/05/USAT/919ad265-fb75-49fb-97ce-5eaeddec5787-Donald_Trump_at_CPAC_AP_pic.jpg?auto=webp&crop=3661,2060,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0wxAqi/dG4mpFpyWwCCMJjv+mL5QCLH6QlIj7z0NJnN4Empgm7BRpffd8VL4NEI+7dqpXlfwrA77phpeFCvDA2rYE4QYqqH5+MI84oiqDA3krv0ZlLLj1t3QnhkcXjjME08FbyYxaIbdDo57ebJeF7km38K7fpgNqw8IThAp/0J/ZIZyXWKKl54uKh9J1KeYmwHjabxUQiX9YEYuW7gzNtOumKIDbb+WZDjW+KVdbgc3T/SKmxvgVeueKOveB0BrZGdzKeGAaWYZBG2CUqiaO1CukQ7qPPAcG9pLP7Gi5ELOP2Sgp6xhNOsJPEihl8NZv2lGuvF9AqCwVS6oRtNQC6y5xO9libII2XHQlbKu6h78GFAe4UFTD8McBNKiIpHR0pgawPiwlRONPwWTANydTFN8eupH5ufkWAsMcPPTpWaYKDwjnaH6Js4rdmmkD6sbO7F5bZVrrsVyeqrreMFuBchHOgvTrXt5VmFKwBaBI5uhBL4lx0XNoD200pUADJisn7SCotXKs3tZZz66kXR1JA==;uoYSHO1875A91zGA3XO3+w=="
 ---

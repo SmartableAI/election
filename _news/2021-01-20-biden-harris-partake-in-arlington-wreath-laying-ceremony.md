@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-layin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
 type: article
 quality: 200
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -436,6 +436,22 @@ related:
     excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U.S.-Mexico ..."
     publishedDateTime: 2021-03-25T13:21:00Z
     webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 100
+    images:
+      - url: "https://assets.realclear.com/images/53/538651.jpg"
+        width: 5781
+        height: 3854
+        isCached: true
+  - title: "President Biden Asked VP Harris To Take The \"Lead\" On Migrant Crisis"
+    excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U."
+    publishedDateTime: 2021-03-26T09:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.amp.html"
     type: article

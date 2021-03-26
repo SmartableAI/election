@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-04-rep-waltz-hits-back-at-biden-keeping-schools-closed-is-neanderthal-thinking.md",
+      "title": "Rep. Waltz hits back at Biden: Keeping schools closed is 'Neanderthal thinking'",
+      "excerpt": "Rep. Michael Waltz, R-Fla., pushed back on President Biden for calling out red states for lifting mask mandates.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UpQFz1a8sKU/biden-neanderthal-thinking-schools-closed-masks-waltz",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UpQFz1a8sKU/biden-neanderthal-thinking-schools-closed-masks-waltz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 331,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbfea3cb-0931-4be8-87d5-88bf60102a68/2339f089-d6fc-4338-9f43-5613ef08b741/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp",
+      "publishedDateTime": "2021-03-04T05:18:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-once-omnipresent-kushner-now-mia-from-trumps-political-pack.md",
       "title": "Once omnipresent Kushner now MIA from Trump's political pack",
       "excerpt": "As Donald Trump plotted his Conservative Political Action Conference appearance last week, and a broader, more-robust plan to return to politics as an omnipresent disruptor, one person was conspicuously absent from the confab.\n    \n",
@@ -1305,58 +1361,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-mike-pence-calls-proposed-election-reform-bill-reckless-and-anti-democratic-in-op-ed.md",
-      "title": "Mike Pence Calls Proposed Election Reform Bill 'Reckless' and 'Anti-Democratic' in Op-Ed",
-      "excerpt": "The former vice president said H.R. 1, also known as For the People Act, was \"a brazen attempt to nationalize elections in blatant disregard of the U.S. Constitution.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-calls-proposed-election-reform-bill-reckless-anti-democratic-op-ed-1573460",
-      "originalUrl": "https://www.newsweek.com/mike-pence-calls-proposed-election-reform-bill-reckless-anti-democratic-op-ed-1573460",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1747132/mike-pence-election-reform-oped.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-calls-proposed-election-reform-bill-reckless-anti-democratic-op-ed-1573460?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-calls-proposed-election-reform-bill-reckless-anti-democratic-op-ed-1573460?amp=1",
-      "publishedDateTime": "2021-03-03T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

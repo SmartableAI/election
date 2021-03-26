@@ -127,6 +127,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Is Losing Money: Net Worth Down $700 Million As COVID-19, Riot Batter His Wealth"
+    excerpt: "Donald Trump's days as president are over, and his return to the business world is greeted with a dwindling net worth and the falling income of his businesses amid the pandemic."
+    publishedDateTime: 2021-03-19T10:23:00Z
+    webUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350"
+    ampWebUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
+        width: 1024
+        height: 663
+        isCached: true
 
 secured: "kop8Hvdziyv6s52bGturE7LQzqyf2osQ+eAlzs7Vx0LcnMYrg690p9ymFOeyA8+fzTtvNHVI1CcujZnlRGZJwXamJCfM0H/HNyHv7bK47ZXy6UNdhNbKNeilpVnF9lFRTOTU2v/yGCb3zJMo5tLDxG7wDuBS0DsY4ezRPi0u4AahjgS0WxvTNc2RfQLgRZK3Sk9+OS8igzYyxa8HEMm7Qr9OiCFwnmPyUoR1wJKfnSvhcpcYfDgqHol5H4kTo6tLQg0WapD/F9sKjcqymfiwfBcw9ty5qaTZ3kYUiFEE45uEJCJMrmOlC1JuCepXHVOZ8Nipl+Bz3KT1uIEPDsnIV6+3l3VsdjVEx7r8Z+ijjKcTRYGrU4wT3C0eBU3+MPxc2mIUJHSfXu4cakwYNNssmKvgFp/e04jvrcXmV09IKHeq5vfQSRSyFFBe9i4lYbv/IrVaEl4YWWFjZzQliFFpq53Ru2CO0VdXKdmvrDzURO5r5dY17nzUC/zVNz1meteJIOpyEPYcs8uPmssKJcRt4Q==;XnCZVQM60nWmNOJP/GLwag=="
 ---

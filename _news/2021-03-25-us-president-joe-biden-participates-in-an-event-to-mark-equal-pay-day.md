@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-excerpt: "US President Joe Biden listens as First Lady Dr. Jill Biden delivers remarks during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24, 2021. Equal Pay Day marks the extra time it takes an average woman ..."
-publishedDateTime: 2021-03-24T22:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/bc48709c5dd4d5dbb4025d3cf60277b8/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/bc48709c5dd4d5dbb4025d3cf60277b8/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
+publishedDateTime: 2021-03-24T22:20:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/bc48709c5dd4d5dbb4025d3cf60277b8/BIDEN-EQUAL-PAY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/cbfc54451802f17b8b0273b5fef9d4c1/BIDEN-EQUAL-PAY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -892,9 +892,9 @@ related:
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed lawsuits on Wednesday against President Joe Biden's administration, challenging his pause on new oil and gas leasing on federal lands and waters."
     publishedDateTime: 2021-03-24T20:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BG2KG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BG2KG"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idUSKBN2BG2KG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG2KG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG2KG"
     type: article
     provider:
       name: Reuters
@@ -1920,6 +1920,6 @@ related:
         height: 433
         isCached: true
 
-secured: "6kmJAKS/y93nRvalh5X5Yb82im740eZhbQyl2r2JNC8NalohSbp/zRi8yIImB41NfXph2cY1jYY5A4st8Zg8p3UxYsYEexUqSC8H+7jTTFmtbNpCo9SKpPqyrj7/5x88q8MDJ0mooqFcGvAIM2zGGjnnaOawPHRYOlXCXgmUNW7l6Ag5IrV/+k4k7odSddcvzrXSuqdSJwnHyLXjW5ssTyoX7cUeKgLmjewkvd6WbxvmDEY96EfQ0aAVrIXMi1Jm6oIXCCbzGULBced38F3Rrd22PJdwaR9WUDBfCH1Yd3vHOKnpuBlmYbOw3QySP5qiMvpwvIudPUJPu91NuS5GzvSSbHfUTUovtsrfh9iqL54=;xzJwHrWDLveZodbV9wfQ5w=="
+secured: "ltNZQ08lcHFDjXjmWiPlFjqUn/TVXoeC+iuvSR2LViUCKGYNJg3XFckt7O6OFqbpZXftSnp+4pcZw9FjgabgHKz3+jxoMVSioxB1484OoqbuSMJ/TCdmK26tLE8FDMCM9LrTlfw1LQZ3oIeSW/q7Wt0gZMhi/ogl/+g3Yj49XmTg00ag+CcMAoLLtRnA5KqzDQfPd46XSppeZziaFO6z4TLbg6uqaHj/GlvXB8EsVdw3gVVVJ1ExgHC21kXL7jojwsSR09xwqqOVogmzO7xqcE/TF+v1XLRQ8PjKpyMYxGgKgcOKl43AUZTQmXVLoyg/+KDNgIMhg0tAhk5maSrWPe9vy5fYqhrZtWzqU83ugE0=;Hg+sghk+Y11AOs+c0m+mJQ=="
 ---
 

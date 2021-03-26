@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump Is Losing Money: Net Worth Down $700 Million As COVID-19, Riot Batter His Wealth"
+    excerpt: "Donald Trump's days as president are over, and his return to the business world is greeted with a dwindling net worth and the falling income of his businesses amid the pandemic."
+    publishedDateTime: 2021-03-19T10:23:00Z
+    webUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350"
+    ampWebUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
+        width: 1024
+        height: 663
         isCached: true
 
 secured: "uN50YMND0q9z9LWAxP5N8yCYTNutITm1EBq8LiQzrzN46PIr1AGPaELp63LTxYCn+19NtArTmSmxvS5FKYSwCJxO8GXPfVGEoglyMiX4VnTwvZcix8B6mxkm6R/FEia+M7dHZxCH3+oxiQIPYXuDB4lMyOkTJP4JU4Lln7yndS5qS8seGkq9f3ExlqLSRF9gJQ8ik0p0iBPKCeBCnx5fLEiWa9NIJ24nA6IKAAAONOyqd5Wy54Y0vjJFPJi4h5ZEGJL1oMzRd+wlHPOJrhR+sUoD7UR1kppYkIodxtHhIPxxHGVvvHibtVeiflJs88AQanaBeKMV8OXR8GyfWVvTTTW6KLuMrpqy8OuE8cJ+nu2Wuiskk19leTEE6v/7ZWlStxSMoBx4CcwV7IOGE2yC6SqCmS59ITruiaifSuCvBJzljQaCRarrWJUxj2vjnYBi9rxWVEbVkvwBXSiPhQcFpueCzDOD2MMcVppAJqymStnIaCLdlvDFvc3QP8y5Ua07WNOS70+56Sj5dGgqDmyxTA==;6P4/nXU/gw8jPUzwQgRS/Q=="

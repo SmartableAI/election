@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6936053002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002"
 type: article
 quality: 125
-heat: 705
+heat: 685
 published: true
 
 provider:
@@ -442,20 +442,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/ab387543-2f21-412d-a360-e1217b78d450-a9951c60-0a2b-4258-8681-1301da9ed212_thumbnail.png?quality=10"
         width: 852
         height: 480
-        isCached: true
-  - title: "Trump pushes Americans to get COVID-19 vaccine"
-    excerpt: "Reuters Now Trump pushes Americans to get COVID-19 vaccine Posted In an interview with Fox News, former President Donald Trump on Tuesday night pushed Americans to get vaccinated against the coronavirus, even those who might not want to."
-    publishedDateTime: 2021-03-17T18:24:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPRoI?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/60523a8ce4b0653eea184b1c-1616001676528?location=LANDSCAPE"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden's relief bill isn't getting bipartisan support like previous stimulus bills. What do Republicans dislike so much?"
     excerpt: "Republican Senators have described President Joe Biden's COVID-19 stimulus plan as a \"clunker,\" \"bad politics\" and “wildly expensive.\" The legislation, dubbedthe"

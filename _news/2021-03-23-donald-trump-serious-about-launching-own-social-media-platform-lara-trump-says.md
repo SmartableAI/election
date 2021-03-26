@@ -31,131 +31,177 @@ images:
     isCached: true
 
 related:
-  - title: "Trump will use 'his own platform’ to return to social media after Twitter ban"
-    excerpt: "Last modified on Sun 21 Mar 2021 13.28 EDT Donald Trump will soon use “his own platform” to return to social media, an adviser said on Sunday, months after the former president was banned from Twitter for inciting the US Capitol riot. 'His new business ..."
-    publishedDateTime: 2021-03-21T16:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform"
+  - title: "COVID-19 outbreak partially shuts down Trump's Mar-A-Lago"
+    excerpt: "COVID outbreak partially closes Trump's Mar-a... 00:18 Former President Trump's Mar-A-Lago club has been partially shut down because of a COVID-19 outbreak, a receptionist confirmed to CBS News. The extent of the outbreak at the club, where Mr. Trump has ..."
+    publishedDateTime: 2021-03-20T03:49:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/20/b21cbfdc-1834-4ce0-8487-0d051d781d15/thumbnail/1200x630/75efd186fc82f99aeb2092c5fe59fe8c/gettyimages-1301449867.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Donald Trump's Mar-a-Lago resort partially closed by Covid-19 outbreak"
+    excerpt: "Receptionist says Florida club where Trump moved after leaving White House is closed until further notice"
+    publishedDateTime: 2021-03-19T17:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 122
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/b8820e18168688651182ed377b8200453cd4ec97/0_67_3662_2198/master/3662.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddc69c23776ae3fcd0e41fb42a07b4da"
+      - url: "https://i.guim.co.uk/img/media/3dabdb6797ecd0eac172a64d1dbd3ecd46ef50d6/0_136_6000_3601/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70d7639d69892d667db99b5199d789bc"
         width: 600
         height: 360
         isCached: true
-  - title: "Bernie Sanders against Donald Trump Twitter ban: 'Tomorrow it could be somebody else'"
-    excerpt: "It’s Twitter’s turn to feel the bern. Sen. Bernie Sanders is not a fan of Donald Trump, but that doesn’t mean he thinks the former president should have been banned from the social media platform after the deadly Capitol siege. “Look, you have a ..."
-    publishedDateTime: 2021-03-24T21:12:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2021/03/24/twitter-sanders-trump-ban-censorship-capitol-riots/6987757002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6987757002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6987757002"
+  - title: "Governor races to test COVID-19 response, Trump influence"
+    excerpt: "Just one Democratic governor, Kansas’s Laura Kelly, faces reelection in a state former President Trump Donald Trump Good luck, Dan Bongino! The Hill's Morning Report - Biden's next act ..."
+    publishedDateTime: 2021-03-23T19:17:00Z
+    webUrl: "https://thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence"
+    ampWebUrl: "https://thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/06/USAT/30617d1d-f2bd-4d56-8edf-9bb23a12437d-bernie_sanders.jpg?auto=webp&crop=3725,2096,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/sununuchris_cuomoandrew_bakercharlie_032321getty_split_gov.jpeg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Donald Trump's Social Media Platform Will 'Suck' Proud Boys Say in Message Shared by Gab"
-    excerpt: "Far-right social media account TheWesternChauvinist, which is linked to the Proud Boys hate group, has said Donald Trump's planned social media network \"is going to suck,\" and competing network Gab has shared the message. Jason Miller, an adviser and ..."
-    publishedDateTime: 2021-03-22T11:36:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719?amp=1"
+  - title: "Donald Trump's Mar-a-Lago Club Partially Closed Due to COVID-19 Outbreak"
+    excerpt: "Former President Donald Trump's club, Mar-a-Lago, has been partially closed due to an outbreak of COVID-19. The golf club and resort is located in Palm Beach, Florida, and now serves as Trump's primary residence. A member of the club's staff tested ..."
+    publishedDateTime: 2021-03-20T09:26:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 116
+    quality: 124
     images:
-      - url: "https://d.newsweek.com/en/full/1760852/donald-trump-speaking.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://d.newsweek.com/en/full/1760135/president-trump-travels-mar-lago.jpg"
+        width: 3998
+        height: 2665
         isCached: true
-  - title: "'Everybody wants him': Trump to launch social media platform in coming months, aide says"
-    excerpt: "Former President Donald Trump is planning to return to social media with his own social network, according to spokesman Jason Miller. \"I do think that we're going to see President Trump returning to social media, probably in about two or three months here ..."
-    publishedDateTime: 2021-03-21T19:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/21/trump-launch-social-media-platform-coming-months-aide-says/4791721001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4791721001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4791721001"
+  - title: "COVID-19 outbreak at Trump's Mar-a-Lago club leads to partial closure, per report"
+    excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump's Palm Beach club has partially closed following a COVID-19 outbreak, the Associated Press reported Friday. A Mar-a-Lago club member reportedly received a phone call about the closure Friday and a ..."
+    publishedDateTime: 2021-03-19T21:56:00Z
+    webUrl: "https://www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/3b00c057-9a08-4f94-97fd-87a281d4baf3-AP_Trump-Social_Media_Bans.jpg?auto=webp&crop=4089,2301,x0,y208&format=pjpg&width=1200"
+      - url: "https://i.insider.com/60551b69cad7d300183f82a9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
+    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows, the government’s top infectious ..."
+    publishedDateTime: 2021-03-14T12:43:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Social Network Users Won't Feel 'Fact Checkers Are Going to Be All Over Them': Lara Trump"
-    excerpt: "A spokesperson for the former president said this week the new social media platform likely will roll out within the next few months."
-    publishedDateTime: 2021-03-23T17:42:00Z
-    webUrl: "https://www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190"
-    ampWebUrl: "https://www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190?amp=1"
+  - title: "Trump's Mar-a-Lago partially closed after COVID outbreak"
+    excerpt: "Top News Trump's Mar-a-Lago partially closed after COVID outbreak Posted Parts of Donald Trump’s Florida golf resort Mar-a-Lago have been temporarily closed because of a coronavirus outbreak, according to two sources familiar with the matter."
+    publishedDateTime: 2021-03-20T20:28:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE4W707Z"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 113
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://d.newsweek.com/en/full/1762633/lara-trump-social-networking-platform.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static.reuters.com/resources/r/?d=20210320&i=OVE4W707Z&r=OVE4W707Z&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Donald Trump Gearing Up For Social Media Return With Own Platform"
-    excerpt: "After months of being banned from social media sites, he's decided to launch his own site in the next few months."
-    publishedDateTime: 2021-03-21T20:51:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484?amp=1"
+  - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
+    excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
+    publishedDateTime: 2021-03-14T19:08:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2021/mar/15/morning-mail-women-march4justice-covid-free-streak-ends-silent-echo-of-trump-hotel"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/20/donald-trump-seen-in-this-october-5-file.jpg"
-        width: 1024
-        height: 700
+      - url: "https://i.guim.co.uk/img/media/f4f20a7661ff59a053aa5dd825fc1f75f80afc29/0_302_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3079d7acb36c2746d9ccdbdc47a46f79"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Bernie Sanders Uncomfortable With Trump's Ban On Twitter: 'It's An Issue'"
-    excerpt: "Sanders opens up about his beliefs and opinions on the first amendment and the permanent ban of former President Trump on social media platforms."
-    publishedDateTime: 2021-03-24T17:07:00Z
-    webUrl: "https://www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442"
-    ampWebUrl: "https://www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442?amp=1"
+  - title: "Trump urges supporters to get COVID vaccine, but tells them he also respects ‘freedom’"
+    excerpt: "The ex-president urged Americans late Tuesday to get vaccinated before saying he also “agrees” with their “freedom” to not do it, leaving his supporters with a distinctly mixed message. “I would recommend it and I would recommend it to a lot of people that don’t want to get it and a lot of those people voted for me,"
+    publishedDateTime: 2021-03-17T01:21:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 67
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/09/senator-bernie-sanders-has-voiced-strong-support-for.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.nydailynews.com/resizer/7TYSeLx83ZNph4_GAy8P_6__Ya0=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KBNWWBFMRFBS3D3XMPEQ4VYQBY.jpg"
+        width: 1200
+        height: 835
         isCached: true
-  - title: "Trump To Launch Own Social Media Platform: Ex-aide"
-    excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
-    publishedDateTime: 2021-03-21T19:35:00Z
-    webUrl: "https://www.ibtimes.com/trump-launch-own-social-media-platform-ex-aide-3166480"
+  - title: "Republican governor of Arkansas worried about Trump followers’ refusal to get COVID vaccine"
+    excerpt: "Arkansas Gov. Asa Hutchinson on Sunday blamed vaccine hesitancy among Trump supporters on 'a natural resistance to government and skepticism of it.'"
+    publishedDateTime: 2021-03-21T19:42:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/21/donald-trump-appears-to-be-planning-a-return.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.nydailynews.com/resizer/5ltuigt-QXtsJ6tI5XgvglovJ2o=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JGPA63GMWFCQ3E2LH3EXNXC7K4.jpg"
+        width: 1200
+        height: 757
+        isCached: true
+  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
+    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
+    publishedDateTime: 2021-03-14T18:42:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 61
+    images:
+      - url: "https://www.nydailynews.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Ai2I/uTlkuvNJ06nzKOTXQ6sZlUrdOM5a1/yzJlMLC9WgkG7/V+sgI5qaoKzwg0GzAUG47Wryb20XGTSKMoRJlYqlVV49yHxfIIMW4Pr7Tm5vGo4jKVXCih7RoFfMSBR3MQJEctpCGP6Q6y9gyMbJHymo9VEbHPki7/lYn9UaOTLZMKxwpX9CU/wT2Wv+DU7pjrZ36XK5nkWDBKpOYqfrMxoTcKlwpIU/QmikYXliaBF4onNI3qPv5NwdzBxstHqRUv857wDKtQuEzTxGQGrSN1ymTI3Vr2hkVGeoYjnS1XkqooOrbX4G4BtYHS8Eg1qLzaSNoWAxAmwUMsmhglMLAUpyq1LlLi5eZLEesr1Wxyexh+IYzwkcx03Z1c4aEORw03ne5ZGZLSl5Wy2qdZrWckIjcwTo7ypjUTEOPHSU5haMxWLlaAGyvSJ4WPcGCRDzqPYzC3/duWilOzAvNvbugOExfjK4y65aUoH1RFkdCJGzt3cpwSosB5MqSICJfmpMY2Oe8wp/OGoJV9aBEu0tQ==;p246mkRonCSmwZJ5I8eGWA=="

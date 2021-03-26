@@ -459,20 +459,6 @@ related:
         width: 852
         height: 480
         isCached: true
-  - title: "Trump pushes Americans to get COVID-19 vaccine"
-    excerpt: "Reuters Now Trump pushes Americans to get COVID-19 vaccine Posted In an interview with Fox News, former President Donald Trump on Tuesday night pushed Americans to get vaccinated against the coronavirus, even those who might not want to."
-    publishedDateTime: 2021-03-17T18:24:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPRoI?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/60523a8ce4b0653eea184b1c-1616001676528?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "'Dinner table' politics: Why Joe Biden ditched bipartisan dealmaking to pass his COVID-19 relief bill"
     excerpt: "President Biden's decision to go it alone on his COVID-19 relief plan could sink any promise of bipartisanship for his next big-ticket proposals."
     publishedDateTime: 2021-03-07T17:15:00Z

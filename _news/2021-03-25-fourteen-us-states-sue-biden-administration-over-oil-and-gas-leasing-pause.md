@@ -3,10 +3,10 @@ category: news
 title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
 excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed lawsuits on Wednesday against President Joe Biden's administration, challenging his pause on new oil and gas leasing on federal lands and waters."
 publishedDateTime: 2021-03-24T20:42:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
-webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BG2KG"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BG2KG"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idUSKBN2BG2KG"
+webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idUSKBN2BG2KG"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG2KG"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG2KG"
 type: article
 quality: 122
 heat: -1
@@ -1910,20 +1910,20 @@ related:
         height: 433
         isCached: true
   - title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-    excerpt: "US President Joe Biden listens as First Lady Dr. Jill Biden delivers remarks during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24, 2021. Equal Pay Day marks the extra time it takes an average woman ..."
-    publishedDateTime: 2021-03-24T22:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bc48709c5dd4d5dbb4025d3cf60277b8/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+    excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
+    publishedDateTime: 2021-03-24T22:20:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/bc48709c5dd4d5dbb4025d3cf60277b8/BIDEN-EQUAL-PAY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/cbfc54451802f17b8b0273b5fef9d4c1/BIDEN-EQUAL-PAY.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "0mk7NldZu8+qBl+IBUEanPQNXarZ2C/S9HND3psSNogaTflGdxcqZXssak3sm70nR+GijNL/SAJJTdvDGuAJLrugrxlt7pNPODEbmU4tuM/7WelffKJFs+pvcFgBdTZNliSsIp0z9mQJzz42CeLz8W7k4qQJyNNX5zbe8P1dOgGRr6OWV04MeXOGtxXer4TphPhNNY5h+VVPMohBGTeSlVJkFziuAjt/Whyb9QS3k9CljBRuNiB9CnWzsoqwLexE5OUWiaGQT7PyceFstCqK6e+fdIOZTqwjzJ9qx5Ppqj0T4ii/rlYNbDf5b72LNOty8YBSaSMHcsMfG5rqwCRtYixmvV5YYmixochNgV9pu37ho+Zo6cqm/vhAz+/6sI5upid1x5pCNw7kItnW7Vn5XpUWG/Gze1LQhsvDQALJt1tH7tmIjMRSeFgYe1VLhrfRn6o9lbUJPpKmlyqO23AMfC+OSzHTJfsCtUwHIyRdWUy8OsWNIjtA1327nryy9G8o8Njhf6ZuU2q1QRy+Efm+/w==;VqWo/lo1bUIPmbfIjcjppA=="
+secured: "GiPEKKPVVKPVaPKdadasQK8XoywyrCTzhek2GmkGnikme3CmV6bN78bHPMDZ45okS+1kBUnVfDt9fZVgo8GhHbZA83ZdU2LBJXTkH0XWJWDgoPGDTSlEZBThErxdELqpJcsjSNULUt0D8HJvra4DjjJksRs0g82iVbj37GWenCoiFViLT1Q+RaUchOweU8GZQfaHo4wx8R+uV5IpBjAZTVFTlThvN9hxLuCS5rBfHVWaibghnGO9Jk+AdzVcDtxYCEY6eP5rH3cg1X/36nfoSTsdW7zHjGO/QuzIQOMJP9r+K+QjQo0ClhwGfrQuDQrQskDaTDp0MtggKw+MgzECNvaTD2VbYeFWU5dCWwvtSCI=;6qtk32hqtQWCryglnDUkSA=="
 ---
 

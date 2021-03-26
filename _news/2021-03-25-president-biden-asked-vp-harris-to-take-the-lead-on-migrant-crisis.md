@@ -444,6 +444,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "President Biden Asked VP Harris To Take The \"Lead\" On Migrant Crisis"
+    excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U."
+    publishedDateTime: 2021-03-26T09:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/24/biden_has_asked_kamala_harris_to_lead_on_border_crisis.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 100
+    images:
+      - url: "https://assets.realclear.com/images/53/538651.jpg"
+        width: 5781
+        height: 3854
+        isCached: true
   - title: "She Did It: Kamala Harris Makes History"
     excerpt: "When I interviewed Vice President–elect Kamala Harris last year at the Essence Festival, she had plenty of wisdom to share about the challenges a Black woman faces when pursuing national office. “Some might think that breaking barriers means you start off on one side of the barrier,"
     publishedDateTime: 2021-01-21T00:00:00Z
