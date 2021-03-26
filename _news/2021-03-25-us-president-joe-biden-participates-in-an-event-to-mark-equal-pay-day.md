@@ -3,8 +3,8 @@ category: news
 title: "US President Joe Biden participates in an event to mark Equal Pay Day"
 excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
 publishedDateTime: 2021-03-24T22:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/e38cf4e5635427c9b30714299d4985f9/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/e38cf4e5635427c9b30714299d4985f9/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/e38cf4e5635427c9b30714299d4985f9/BIDEN-EQUAL-PAY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/cbfc54451802f17b8b0273b5fef9d4c1/BIDEN-EQUAL-PAY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1920,6 +1920,6 @@ related:
         height: 433
         isCached: true
 
-secured: "pFWWh1stkXrwmZqjofd1ZbHhDl7i7BCEMMAmG6yO1tT96VLAZxXQn9/ByLdcXPVFY8lYYMZERRVTn3tUB/CEjZVqAlEIfe5sbd46PWqOcKkz1EpepGsCA2/zMJf8VTEjsMVwVYRPoeXBRuXyLcLJmze50YVirz4NzAO65xFnjF3WFzoO2/cfA5pctuTnu0/g09yJZeTNfasqQtXA3Q/f1rVT52PjJhkdiBOQ80n7o8TIBPnzHzCzULMSlENo4JUc40bd8Y0ixvbGJs0XTUCyjzKGqX1MlqfRKIOr8tmLoWUgFY1QdaJYcd8ZiY0E7N9VuntNcF0mMwckrkGKtKmllfr7jqL7schls7R2BhH/iPg=;qbAGuBlnDFHapI6fXb+xbw=="
+secured: "WoyIoL1tGJ2BN1b41GwC2tg6z0oVLQqpPDWUabRrsGQD25j+kgQJsVotgDP1Kk5smSHT/QANuKtXcY+Xmuwv0LPttVwIuktaOlnrZX7TJ1KeHYV2iVwiCHbVZc8G5XQwMWC/ZJOuS8JI31Pdp+5TnRghy/nQNjuMEFp4V7XgzkQeULRRWvmvnaSKF5w/xzZRPU8Cjs9MpfFr4TKrGD+kj0h0J63n7inqCc23rS2nK98SF3gH86kBz0658/9RJuEeYV6j6PYRndsWEV0egV3AM9GrRM/GY4m80Y9xmkr16UxRoQpwpsCwPthHAKNvRRE9avqTQ0M1hJ/tJXR16Q6GlWehGuJI6iQJQbpOi6vqcKk=;2TN1IfRKZkvOLDlKYjkNMQ=="
 ---
 

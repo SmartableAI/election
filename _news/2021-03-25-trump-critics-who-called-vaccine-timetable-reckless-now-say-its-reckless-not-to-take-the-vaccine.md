@@ -28,37 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "Bernie Sanders not ‘comfortable’ with Trump Twitter ban"
-    excerpt: "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political"
-    publishedDateTime: 2021-03-24T01:38:00Z
-    webUrl: "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/"
-    ampWebUrl: "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/sanders-on-trump-twitter-ban-882.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Bernie Sanders admits 'I don't feel comfortable about' Trump ban from Twitter"
-    excerpt: "Vt., and former President Donald Trump rarely see eye to eye on anything, but it appears the two have found common ground when it comes to Trump's ban from Twitter."
-    publishedDateTime: 2021-03-24T00:07:00Z
-    webUrl: "https://www.foxnews.com/media/trump-twitter-ban-bernie-sanders-not-comfortable"
-    ampWebUrl: "https://www.foxnews.com/media/trump-twitter-ban-bernie-sanders-not-comfortable.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-twitter-ban-bernie-sanders-not-comfortable.amp"
+  - title: "Yale psychiatrist says she was fired for calling Trump and supporters mentally ill"
+    excerpt: "A high-profile psychiatrist says she was fired by Yale University after repeatedly calling then-President Trump and his supporters mentally ill — and is now suing the college for unlawful termination."
+    publishedDateTime: 2021-03-25T23:16:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ssa94xvLqgI/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill"
+    ampWebUrl: "https://www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f951585d-1e2c-4820-b736-c3d5188c7fff/9c37fc46-b54b-4522-a271-887cac9b5adf/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b7693d9-a98e-450f-b0e5-2ca8da7bbbbb/ad0ab322-d7ad-46ba-9f0c-337c6a6ae7d1/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Liberal media need to wait for facts before blaming Atlanta shootings on Trump and racism, critics say"
+    excerpt: "While authorities continue to investigate the Atlanta shootings, media watchdogs feel pundits and journalists should wait for the facts before casting racism as the motive."
+    publishedDateTime: 2021-03-18T19:48:00Z
+    webUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say"
+    ampWebUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "qeY93zdGwHFdDXUhLYqmqb7OYVXMb+u8e86X0oAHwRZQZhN/b7fQgNHEXGj2sd6vCmgNaFBp0qEAQCMCRF3q/qJnU53Xc7PUhsjGw+3/XJpbz2bkRnajBxxkaLZff79Qx53Ua8AJua5bXz4XELJTMUc8iplHjMzMgMHV7ApynU8dymAmTwuqTIEvD9iJw3BGb2pe3LMWKZvKv4Y9QXE3/BVnEKPavYYQTjxgSxhQwyyRfQBPOAY5kXiuBEFU5LFW2QO9/JTl9CgICNU2jBnzb8uGwoYeId0lxSwEBoOJMSjgU22oK1vn++Ogn3p/Kxi4+RtTHwamRwKn9+SMRXvABBVc0gtpbVSQbNf+psKFKQNv6P8DriNcpBw15szCM8SSdLu+QvIct1wl6aANlJS271eL4EJ5s2CpZd37uPAKnuSqhh8s1ViPFDS49nh3Gp1G4b3rP2OYMzbQ+W8mUA8uJMCuLeOrjVuGEJiN2l7E8QyfQEr4/frs/piGO3P6+q85UTpzG37BZaTUAFObjLcljA==;428fdSc1yJQFmsnltrr2GA=="

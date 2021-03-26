@@ -48,9 +48,9 @@ related:
         height: 600
         isCached: true
   - title: "Exclusive: Biden wants to keep Trump policy that boosted armed drone exports - sources"
-    excerpt: "The Biden administration wants to keep a controversial Trump policy that jump-started sales of armed drones to countries whose human rights records are under scrutiny in the United States and elsewhere,"
+    excerpt: "WASHINGTON (Reuters) - The Biden administration wants to keep a controversial Trump policy that jump-started sales of armed drones to countries whose human rights records are under scrutiny in the United States and elsewhere, according to sources familiar ..."
     publishedDateTime: 2021-03-25T14:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-drones/exclusive-biden-wants-to-keep-trump-policy-that-boosted-armed-drone-exports-sources-idUSKBN2BH1CA"
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2BH1CA?edition-redirect=in"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BH1CA"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BH1CA"
     type: article

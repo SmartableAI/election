@@ -2,29 +2,23 @@
 category: news
 title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
 excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
-publishedDateTime: 2021-03-24T18:26:00Z
-originalUrl: "https://www.chron.com/news/article/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
-webUrl: "https://www.chron.com/news/article/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
-ampWebUrl: "https://www.chron.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+publishedDateTime: 2021-03-24T19:43:00Z
+originalUrl: "https://www.sfchronicle.com/news/article/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+webUrl: "https://www.sfchronicle.com/news/article/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+ampWebUrl: "https://www.sfchronicle.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
 type: article
-quality: 63
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Biden, Harris travel to Atlanta to comfort Asian Americans"
@@ -1124,15 +1118,15 @@ related:
         height: 641
         isCached: true
   - title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
-    excerpt: "Gov. Doug Ducey on Wednesday called Vice President Kamala Harris \"the worst possible choice\" to lead efforts to curb migration at the southern border, saying President Joe Biden had \"completely trivialized the issue by putting someone in charge who flat ..."
-    publishedDateTime: 2021-03-25T02:14:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6990780002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6990780002"
+    excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
+    publishedDateTime: 2021-03-25T15:35:00Z
+    webUrl: "https://www.freep.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+    ampWebUrl: "https://amp.freep.com/amp/6990780002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6990780002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/25/PPHX/d90f771d-aa1a-4b9b-ab6a-f1d603f9cbae-pjimage_5.jpg?auto=webp&crop=1749,984,x0,y175&format=pjpg&width=1200"
@@ -1459,6 +1453,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "rCz6RR+qRzly7lELWPnRJ3KHKzAfUwbaqixpdFMyRH/XjyS5m7F2lIlpVmWXQnq7A+peItEXGjbqvElMYMtVWbq0+27yC5b3YIa7zY+8zUk4mf8Fhp+fGU8LryN7oM5bpoyiSOasOtmmZhX0ucrOR+MHxhpZQkQkbI2LMG76G/N1+/KfCxEAA3F2vg+OIhsqu57zkiSIWbRnNnxOTHJTS7vpdKc01KAEI2uDX0BUZMYoBuYsH317B1agYQ03wbdudPazdZpeIeKVtpTBigg1AxokfMqt3jrBnPPRgg+8q1xvzV3vPkSmfrWyo4aNNqDkUvNFiQG2Uz8YKCaCQtEJV9WMAbmkE0nL0gykB513Ccg=;dFftkW+jc4jGoIeRJ9xzEQ=="
+secured: "lunkbgj6nMCJ8nFGUVANklu3T3xywhFwaZOWyQFKalBa8WTSpwETPXzh5zZvi8j9EHdrcy/hc67z+2uG8Nj74YSM+9qzoXzOCxvJ+5Urx0apD3nKuWFl1GlI0me/c/4jj3IS/oz9FrjCSKHGTCJUrWiOyO1OtHlZHsRuAjth+pMnoUUzefPVtTwtjVrvhXgTBNyFVQtqBzzf12UkUGAN3HV4gD32Odeq6dNnI6llB9eBSVnfFWtrp7K3FZ1rg6BM2axh+INamu+frEWcC4K8d7KkRuQXLQt7gUXAAv1hgANLan6MEtbLnq9X7y5YheDRIrMbNKGjEG4pUK/cU1EaZwbvS4OZss8SrPfNeNZTbso=;5O5jYA2f+p9ClCTJOOXmcg=="
 ---
 

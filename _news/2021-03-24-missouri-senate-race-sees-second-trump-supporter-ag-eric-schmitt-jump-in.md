@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump quizzed four Ohio GOP Senate prospects at fundraiser: Report"
+    excerpt: "Former President Donald Trump spoke Wednesday night with four GOP candidates running to fill retiring Ohio Sen. Rob Portman’s seat in an intense meeting that one onlooker likened to the “Hunger Games,” according to a report."
+    publishedDateTime: 2021-03-25T23:29:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C28XxG-7i7w/trump-met-four-ohio-gop-senate-candidates-fundraiser-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-met-four-ohio-gop-senate-candidates-fundraiser-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-met-four-ohio-gop-senate-candidates-fundraiser-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03acda1a-8240-4be3-ba2c-f06b0db5e49d/7b11ea64-b085-4e5e-9260-066c41c33a79/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Mo Brooks spotlights support for Trump as he launches Alabama Senate bid"
     excerpt: "Rep. Mo Brooks is showcasing his support for former President Trump as he jumps into the race to succeed retiring longtime Republican Sen. Richard Shelby of Alabama."
     publishedDateTime: 2021-03-22T23:51:31Z
@@ -47,51 +63,69 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Space Command to be headquartered in Alabama, in 'win' for Trump allies in state"
-    excerpt: "The U.S. Space Command will be headquartered in Huntsville, Ala., it was announced Wednesday, in what sources say is a \"major win\" for allies of President Trump after an intense lobbying battle between six finalists."
-    publishedDateTime: 2021-01-13T21:11:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UWG3tZDiEWQ/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies"
-    ampWebUrl: "https://www.foxnews.com/politics/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies.amp"
+  - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
+    excerpt: "Sen. Lindsey Graham, R-S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
+    publishedDateTime: 2021-03-23T20:13:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8AnsHGyNlMk/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump’s ambassador to Slovenia launches Senate bid in Alabama"
-    excerpt: "Republican Lynda Blanchard is the first candidate to jump into the race to succeed longtime GOP Sen. Richard Shelby of Alabama."
-    publishedDateTime: 2021-02-18T18:03:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1K6gBR9X_1Q/trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama"
+  - title: "Trump backs challenger to Georgia's GOP secretary of state"
+    excerpt: "Former President Donald Trump's endorsing a bid by Rep. Jody Hice to oust Georgia Secretary of State Brad Raffensperger in next year's Republican primary."
+    publishedDateTime: 2021-03-22T15:30:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/alabama.png"
-        width: 2237
-        height: 1152
-        isCached: true
-  - title: "China Plans to Ask U.S. to Roll Back Trump Policies in Alaska Meeting"
-    excerpt: "Photo: Adam Chapman for The Wall Street Journal Beijing plans to press Washington to reverse many of the policies targeting China introduced during the Trump presidency in the first face-to-face meeting of senior U.S. and China officials since President ..."
-    publishedDateTime: 2021-03-17T21:34:00Z
-    webUrl: "https://www.wsj.com/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995"
-    ampWebUrl: "https://www.wsj.com/amp/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-312834/social"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Getty-Jody-Hice.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
+    excerpt: "S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
+    publishedDateTime: 2021-03-23T20:15:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
         width: 1280
-        height: 640
+        height: 720
+        isCached: true
+  - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
+    excerpt: "Mo Brooks of Alabama showcased his support and loyalty for former President Donald Trump as he launched his Senate campaign. To hammer home the point, he was accompanied by Stephen Miller, a top adviser to Trump during his tenure in the White House and the architect of the administration's hard line on illegal immigration."
+    publishedDateTime: 2021-03-23T15:51:00Z
+    webUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
+    ampWebUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "PpQUvShUlqhn9/FiZ9A/7T8KjoadO8H67qE0y61YjcHbGYtCmJV8VET9ihE2PQ/vYe/XlpoBQoW0UB6v7cKSWJmrqMrMM8PoBIkonZvqwxRkObsPCW1jGlda5F/cTbGimJZX2jzZjsKR3EfgHzioWPEIpvYoo8AmeR9xKYuz/q6D4uZBAPnvfTtGwZlhdAryUtXITaQ86upqBdqjZjIAPTCSunr7ZFLdb64nmjFHAE4oGIupWd8f1tB6xUTzVlVswqMNRO3jI/OpZwUHWlTiZ5j81gCiuY1L5DyPBMOg/3e2VVZvNWDqbswlTc2T0bFYv6KyqutcTI7xEFAq4fsiJrw8qcvHh2jRzKffrni9zjk=;kW6ELcUyvPgSZt8cY7BFDg=="

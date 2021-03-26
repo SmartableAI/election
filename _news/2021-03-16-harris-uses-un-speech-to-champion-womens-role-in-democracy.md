@@ -144,6 +144,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Biden's first news conference as president "
+    excerpt: "President Joe Biden held the first formal news conference of his presidency on Thursday, taking questions in the East Room of the White House on immigration, foreign policy, the Senate filibuster, his political future and other subjects.\n    \n"
+    publishedDateTime: 2021-03-25T22:53:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SkItTyAEkio/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/fact-check-biden-first-press-conference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/fact-check-biden-first-press-conference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325173626-biden-news-conference-ghtits-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Key takeaways from Biden's first White House news conference"
+    excerpt: "Convening his first formal news conference Thursday, President Joe Biden stepped into a swirl of issues that have bubbled up at the two-month mark of his presidency, which has been almost exclusively focused until now on confronting the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-03-25T20:08:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrYZrXTQh70/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/joe-biden-news-conference-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/joe-biden-news-conference-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325134038-07-biden-presser-0325-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What to watch for at Biden's first presidential news conference "
     excerpt: "President Joe Biden is holding his first formal news conference on Thursday and will likely face scrutiny over his administration's response to the Covid-19 pandemic, the growing number of unaccompanied migrant children crossing the border and gun control, among many other pressing issues.\n    \n"
     publishedDateTime: 2021-03-25T12:04:14Z

@@ -1122,15 +1122,15 @@ related:
         height: 641
         isCached: true
   - title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
-    excerpt: "Gov. Doug Ducey on Wednesday called Vice President Kamala Harris \"the worst possible choice\" to lead efforts to curb migration at the southern border, saying President Joe Biden had \"completely trivialized the issue by putting someone in charge who flat ..."
-    publishedDateTime: 2021-03-25T02:14:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6990780002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6990780002"
+    excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
+    publishedDateTime: 2021-03-25T15:35:00Z
+    webUrl: "https://www.freep.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+    ampWebUrl: "https://amp.freep.com/amp/6990780002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6990780002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/25/PPHX/d90f771d-aa1a-4b9b-ab6a-f1d603f9cbae-pjimage_5.jpg?auto=webp&crop=1749,984,x0,y175&format=pjpg&width=1200"
@@ -1281,22 +1281,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
-    excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
-    publishedDateTime: 2021-03-24T18:26:00Z
-    webUrl: "https://www.chron.com/news/article/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 63
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Vice President Kamala Harris to visit vaccination site, feeding Northeast Florida in Jacksonville Monday"
     excerpt: "JACKSONVILLE, Fla. — Vice President Kamala Harris will be visiting a vaccination site and Feeding Northeast Florida in Jacksonville on Monday. The trip is part of Vice President Harris and President Joe Biden's ongoing \"Help is Here\" tour, a cross ..."
     publishedDateTime: 2021-03-22T03:31:00Z
@@ -1422,6 +1406,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
+    excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
+    publishedDateTime: 2021-03-24T19:43:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 43
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
     publishedDateTime: 2021-03-12T11:13:00Z

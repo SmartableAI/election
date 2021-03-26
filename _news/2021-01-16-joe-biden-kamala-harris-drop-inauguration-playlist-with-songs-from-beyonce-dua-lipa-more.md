@@ -3712,14 +3712,14 @@ related:
   - title: "Vice President Kamala Harris participates in an Equal Pay Roundtable in Washington"
     excerpt: "Vice President Kamala Harris participates in a roundtable discussion on Equal Pay Day with women leaders of advocacy organizations, in the Eisenhower Executive Office Building at the White House complex in Washington, DC, March 24, 2001. Photo by Michael ..."
     publishedDateTime: 2021-03-24T20:41:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/71a162fe7c8946d4cc9f9576db915d24/Vice-President-Kamala-Harris-participates-in-an-Equal-Pay-Roundtable-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/00e06057d962be78f80e8d725cf62c7b/Vice-President-Kamala-Harris-participates-in-an-Equal-Pay-Roundtable-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 49
     images:
-      - url: "https://cdnph.upi.com/pv/upi/71a162fe7c8946d4cc9f9576db915d24/HARRIS-EQUAL-PAY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/00e06057d962be78f80e8d725cf62c7b/HARRIS-EQUAL-PAY.jpg"
         width: 650
         height: 433
         isCached: true

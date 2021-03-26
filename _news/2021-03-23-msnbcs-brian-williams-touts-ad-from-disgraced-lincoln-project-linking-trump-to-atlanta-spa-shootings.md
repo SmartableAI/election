@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-tr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp"
 type: article
 quality: 120
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Liberal media need to wait for facts before blaming Atlanta shootings on Trump and racism, critics say"
-    excerpt: "While authorities continue to investigate the Atlanta shootings, media watchdogs feel pundits and journalists should wait for the facts before casting racism as the motive."
-    publishedDateTime: 2021-03-18T19:48:00Z
-    webUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say"
-    ampWebUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "FF1YiTOEwKi6Mw36r7sGziHE61cSdMM8ic2XtImFy0E6HJKVzL0kx+AhGEEngMBNFmdTWO45Ex5myPQzt1gJBKNSMehOb1bKxteV7OeqrLvrU9fE+LDBtE4aX9YgprsTmJjSTe5Mw/tjV4MrQ//UNI6moOuc/eB2++5Pzimkbf/CofN20BT9fBfyXr02IpfXCqN7HxKLwdzSRNNlG7NJIjxMqQ10ZMnJbu9y4Z9LfI8W3d3PZmpn2aGPgPtW2/sdpHU2R6hwVXsRSaRAgraTJKol8s/DX6me6euK8PEPWC9lhglyQ9rgUkUIXu/pC441IYMSBFJ2hz51jmjV6W78OYgqLrUHh2KflUOL4wYs2YA=;xND81Lqiej8wwrQ/dTbejw=="
 ---

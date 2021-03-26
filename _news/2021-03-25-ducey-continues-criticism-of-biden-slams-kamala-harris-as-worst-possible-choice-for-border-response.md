@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
-excerpt: "Gov. Doug Ducey on Wednesday called Vice President Kamala Harris \"the worst possible choice\" to lead efforts to curb migration at the southern border, saying President Joe Biden had \"completely trivialized the issue by putting someone in charge who flat ..."
-publishedDateTime: 2021-03-25T02:14:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-ampWebUrl: "https://amp.azcentral.com/amp/6990780002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6990780002"
+excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
+publishedDateTime: 2021-03-25T15:35:00Z
+originalUrl: "https://www.freep.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+webUrl: "https://www.freep.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+ampWebUrl: "https://amp.freep.com/amp/6990780002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6990780002"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -1281,22 +1281,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
-    excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
-    publishedDateTime: 2021-03-24T18:26:00Z
-    webUrl: "https://www.chron.com/news/article/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 63
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Vice President Kamala Harris to visit vaccination site, feeding Northeast Florida in Jacksonville Monday"
     excerpt: "JACKSONVILLE, Fla. — Vice President Kamala Harris will be visiting a vaccination site and Feeding Northeast Florida in Jacksonville on Monday. The trip is part of Vice President Harris and President Joe Biden's ongoing \"Help is Here\" tour, a cross ..."
     publishedDateTime: 2021-03-22T03:31:00Z
@@ -1422,6 +1406,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
+    excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
+    publishedDateTime: 2021-03-24T19:43:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Alert-Biden-taps-Vice-President-Kamala-Harris-to-16050180.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 43
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
     publishedDateTime: 2021-03-12T11:13:00Z
@@ -1459,6 +1454,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "u0nDZcD0UokTYDBRbEkMvUnDfin0Px8JJfpksjkrTswtFJmgkhXcWL+kZGH7NzudJHDTNyGDf+/1hPKsN55wrgzYIVhwXpzSaC8Pb55/w3uvaqjlXRtebMA31Pt9Wy+lKV9PBWX2EL521/8OfNhFPyZ5sJchLtdxGgI6BLeA0gKY/qjBGtM7FPNt/FeIm94NCxyKyDWzj3KZ/YL1nT2mgawU1wCxJFMntqOoADd5WUwzxgw/F8Mb3zxE/rPjc2ZJ0t39nCxpWUV9rO0ixxjwoskTAXpeVbCPUnzZdCFwMcRkgeVO2fc9TMNr5u6t1p2TcMSrw7n1lHf9SO78az8cYkpBtV9e6Rgv6jCtH3v2tCck7UVYdL9bCJCCMJ3twksSS1zIrZD+sWI0YsTg4rXUySWz0U6jHe/Tjc3l1/wd7fzhUhoA+TV7acw2Lbnju3RX5ccOq8FxG5pnqz205n40lVFzmCPq5a35yHRiJlwmcLuLTccBVyXBqH/Ldp/dGMRHHaUDboUtXl7Pduykh0Mpvg==;qawX6Y2zkIL6rTieMl4g3A=="
+secured: "xnUswHtbMk9o59Lw6g2ZhSD6bhV5tyScQIHuoGCCI6tBVqiICk7wCvYjGgFy2MHkJgUHF8TrKb1iyDBo/S41PjjFuUPlJkXW8tq3hZ8MsOOceCQ3VIOyrktDKiEeXWYcH4GciZG/C5igfoKvVN1h9ZlT1l9LNRiowhHhMM6a4dLxPDssLI7ZGu3jZg/wY1kI/uCWm9ZntWIs79wpoDn2BiDGQjaMQAjft0CVZUnqMzLw+al4+CDCZRkra2rCbsxiZJEGwkiNccBCEDQJ+ljonwqNxUFktUDa4Dgs3SNQhJ4nlliU+MDKaBq+GgjZMyUUQ3Al/QMekK9YO93FiCsfDYhgOllAgz19yoRg9Lc5/YY=;54Ze14vFhYS9pW6L0m40FA=="
 ---
 

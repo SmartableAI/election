@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris participates in an Equal Pay Roundtable in Washington"
 excerpt: "Vice President Kamala Harris participates in a roundtable discussion on Equal Pay Day with women leaders of advocacy organizations, in the Eisenhower Executive Office Building at the White House complex in Washington, DC, March 24, 2001. Photo by Michael ..."
 publishedDateTime: 2021-03-24T20:41:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/71a162fe7c8946d4cc9f9576db915d24/Vice-President-Kamala-Harris-participates-in-an-Equal-Pay-Roundtable-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/71a162fe7c8946d4cc9f9576db915d24/Vice-President-Kamala-Harris-participates-in-an-Equal-Pay-Roundtable-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/00e06057d962be78f80e8d725cf62c7b/Vice-President-Kamala-Harris-participates-in-an-Equal-Pay-Roundtable-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/00e06057d962be78f80e8d725cf62c7b/Vice-President-Kamala-Harris-participates-in-an-Equal-Pay-Roundtable-in-Washington/"
 type: article
 quality: 49
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/71a162fe7c8946d4cc9f9576db915d24/HARRIS-EQUAL-PAY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/00e06057d962be78f80e8d725cf62c7b/HARRIS-EQUAL-PAY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -3809,6 +3809,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "uZzXoJyO08fDqNK4rPpv4kkiffiOZIu3YQiLeBf66HobHGRtg58PYCbWiJ0OmtluayNaITvb2H6wHON/k+XeBRkEcBoaFzd7dinBcDcwsPtgYk6ZbdkPoma8EOGfBLc49NRFUv9VFagdCv/D7CBTZ1jSO9AyaGuCKy5o32Nx3LF9lUUuJ2DFjBp7TT4GcrV4nbYTtBOTDEys+pPAF1lDdZLM/addbG2ZZkTQtb+MOKGu8q2cFrnZ+Mj6VApr4TaOecp0Ph3jD0eGIRl4lRiqK8u0tgoZQfRJxNnYlDDmRjPFLIJOoq6U6oCrZyQNbiGmm0L8htA52NF9O54eSu958pNnWBMxwI4MdmlmHl7c1TaYlB07GwUkVDPAOEou2Hye0hlkefZXM3dDOR9WANfQSPiJ3rXyyVeO7R3g8uo3TrOSppsP4w+z699ZdUjSKDL07sG+NQQ0d/su3QcYQ9b9lP6JuxuMhpvLN0wWYzsGWCFDpaqNa5B3V6KIForhu3ZgjmuaAWcwLakJnCJYCBlYkA==;F3laKsC3NwT/OBIpyQG4/w=="
+secured: "86XVhsASqymTUWHLlspchqEhosty+V8PrMDhwjN1nsjzeHj3QKppLjeTw/quO8GeEwTaxVxEjaGufMc9FnEMqXhYtMn8YxjCkacqn+Ej5BJddwPxFLEZgdabW6Egxt3z9TxofzgYvx+/9j7VCnl5keZTfIbVLVVTQsHHEqZ4Gvo/H1n28K04GiM00VnyuPbJn8HaLH82ebWuXLhdwDeXH1Dy92aEU7bOVnecG7ffX/SjERinUO47pDd0u6zz4Iw5rEN1B5tN4gPGb32QVy5LSDCky6PxWnelDIwY+UHRPeI3U3l/bTme6OVDeAIOvxLTVznROCnUXe/ZW4Y96qD9TYZSAcAgjnd71RWP7PAUauE=;XiB+PMEhju+Y1qyBpNSYMg=="
 ---
 

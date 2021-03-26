@@ -159,6 +159,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Biden's first news conference as president "
+    excerpt: "President Joe Biden held the first formal news conference of his presidency on Thursday, taking questions in the East Room of the White House on immigration, foreign policy, the Senate filibuster, his political future and other subjects.\n    \n"
+    publishedDateTime: 2021-03-25T22:53:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SkItTyAEkio/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/fact-check-biden-first-press-conference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/fact-check-biden-first-press-conference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325173626-biden-news-conference-ghtits-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Key takeaways from Biden's first White House news conference"
+    excerpt: "Convening his first formal news conference Thursday, President Joe Biden stepped into a swirl of issues that have bubbled up at the two-month mark of his presidency, which has been almost exclusively focused until now on confronting the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-03-25T20:08:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrYZrXTQh70/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/joe-biden-news-conference-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/joe-biden-news-conference-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325134038-07-biden-presser-0325-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Man arrested outside Vice President Kamala Harris' official residence and had rifle and ammunition in car"
     excerpt: "Washington, DC, police arrested a Texas man outside Vice President Kamala Harris' official residence, the US Naval Observatory, in the nation's capital on Wednesday and he's now facing weapons and ammunition charges.\n    \n"
     publishedDateTime: 2021-03-17T22:43:53Z

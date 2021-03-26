@@ -32,21 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Ohio GOP state lawmaker wants Trump’s name on state park; Dem blasts idea"
-    excerpt: "A Republican state lawmaker in Ohio says he plans to introduce a bill to rename a state park after former President Donald Trump – but at least one state Democrat quickly criticized the idea."
-    publishedDateTime: 2021-03-17T09:20:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wJQzZU-u0g4/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea"
-    ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp"
+  - title: "Trump quizzed four Ohio GOP Senate prospects at fundraiser: Report"
+    excerpt: "Former President Donald Trump spoke Wednesday night with four GOP candidates running to fill retiring Ohio Sen. Rob Portman’s seat in an intense meeting that one onlooker likened to the “Hunger Games,” according to a report."
+    publishedDateTime: 2021-03-25T23:29:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C28XxG-7i7w/trump-met-four-ohio-gop-senate-candidates-fundraiser-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-met-four-ohio-gop-senate-candidates-fundraiser-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-met-four-ohio-gop-senate-candidates-fundraiser-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03acda1a-8240-4be3-ba2c-f06b0db5e49d/7b11ea64-b085-4e5e-9260-066c41c33a79/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mo Brooks spotlights support for Trump as he launches Alabama Senate bid"
+    excerpt: "Rep. Mo Brooks is showcasing his support for former President Trump as he jumps into the race to succeed retiring longtime Republican Sen. Richard Shelby of Alabama."
+    publishedDateTime: 2021-03-22T23:51:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Uq_Nux5LF4/brooks-spotlights-support-for-trump-in-launching-senate-bid-in-alabama"
+    ampWebUrl: "https://www.foxnews.com/politics/brooks-spotlights-support-for-trump-in-launching-senate-bid-in-alabama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brooks-spotlights-support-for-trump-in-launching-senate-bid-in-alabama.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2164743d-ee61-424b-a072-1570ef79a357/1d24269b-4351-4317-b59f-df2cb1834ee6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Missouri Senate race sees second Trump supporter, AG Eric Schmitt, jump in"
+    excerpt: "Showcasing his support for former President Trump and taking aim at President Biden, Missouri GOP Attorney General Eric Schmitt on Wednesday announced his candidacy in the 2022 race to succeed retiring Republican Sen. Roy Blunt."
+    publishedDateTime: 2021-03-24T16:23:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W4E6aAAUlLY/missouri-senate-race-ag-eric-schmitt"
+    ampWebUrl: "https://www.foxnews.com/politics/missouri-senate-race-ag-eric-schmitt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-senate-race-ag-eric-schmitt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
     excerpt: "Sen. Lindsey Graham, R-S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
@@ -95,22 +127,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "As Trump teases a 2024 presidential run, potential GOP rivals start making early visits"
-    excerpt: "Donald Trump might not be the only one with an eye on 2024. Former Secretary of State Mike Pompeo heads to Iowa next week to advocate on behalf of conservatives. The trip by Pompeo, the former congressman from Kansas who served as CIA director in the Trump ..."
-    publishedDateTime: 2021-03-20T10:39:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-teases-2024-presidential-run-potential-gop-rivals.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 127
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/tim-scott-iowa-invitation.png?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "Zyip/S/KMeXv6fFHAJN22aCo4/+C90NOU108GNND3f88dQUH7C75dzYGfmMCcKgCdAGvjvGmld4lsQMHgDIt8ehyFF7KAL0oM+pdQ6orqOA3OD5oWmnwwpk8oGtzsoYIhsIIs4NZshHEqyPTY8UqiTQ7hjhlDEm+YoDSeZl/JcNYIBd9kufb7bdN84BBeEw6Ouf9JJ6PY5tWPbeJsYQuUGNPtcN7Q8QuLjPwkgm+yystLqKYNnrnZq32CVvFGM21BPECJCzviev5XUOi+lKipNHkxwiht3B8bbg3SMRKBzDpklm0bwXbMsXcL/xjUk54m6NmLCfAz2dVqutek+HLL5R/KUzQZn+6MnsG/w2k/So=;Ww7SL0Yczl69cLpX1fUgLw=="

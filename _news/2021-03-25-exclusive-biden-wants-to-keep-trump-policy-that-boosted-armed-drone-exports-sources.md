@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Exclusive: Biden wants to keep Trump policy that boosted armed drone exports - sources"
-excerpt: "The Biden administration wants to keep a controversial Trump policy that jump-started sales of armed drones to countries whose human rights records are under scrutiny in the United States and elsewhere,"
+excerpt: "WASHINGTON (Reuters) - The Biden administration wants to keep a controversial Trump policy that jump-started sales of armed drones to countries whose human rights records are under scrutiny in the United States and elsewhere, according to sources familiar ..."
 publishedDateTime: 2021-03-25T14:13:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-drones/exclusive-biden-wants-to-keep-trump-policy-that-boosted-armed-drone-exports-sources-idUSKBN2BH1CA"
-webUrl: "https://www.reuters.com/article/us-usa-biden-drones/exclusive-biden-wants-to-keep-trump-policy-that-boosted-armed-drone-exports-sources-idUSKBN2BH1CA"
+originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2BH1CA?edition-redirect=in"
+webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2BH1CA?edition-redirect=in"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BH1CA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BH1CA"
 type: article
@@ -138,6 +138,6 @@ related:
         height: 682
         isCached: true
 
-secured: "u2IehCzyUYpp9FTE7UB2trGcijh+K+a8/cDxFcoH7s0bVKiLN3LktnRpjmSH5fGXy7puSAgMzHIKVmTR+m9Sf0GxXypPXqN3NzuIhuBZRRoG703dbOKQZd7Bfa4aaQEi6f0U8IHkA3srrrS6lskg2P+RGFjPf3vfwRvKlpqaa/nwaO6t2jusudFVfbGqrh+S1EObcKMrdriDC9o3cjMczjOcHrMFjSGQTPMvHgCeI5Sc5tlbsjtEyOAMibbHFWfCj54CXhTdm6xgZlqSzlWg8dCePNQzmcbNozEfyF/eXR9gGPCsGr7eupIQ5HEB/GBBs8X79l2R3di9xI/Rbys0EhnLTodJGQ0PXD68NzknOxQ=;zcDE8Tnj8uVDct1YUdg1hQ=="
+secured: "4gnCI5BS/FRRhR+hSNygKRs5g/Gse8m0ipJ9fMvgvUTH72i3dewKPTqdTjp83Y0Dz46Sbd0SBgO8H29ChLbYoy1TvhaUNJtIxm4MUYHkJTJW2X9yFV0xfeURTu4fR7eJHFNKSdFdrWYymE6VGDDIO318Ree1N5e3pEwRN6uIYgahGzgkwOpv2Fn/45+UuChpaB4UuY1W8BxW3KAjy4+EcXk1Ajk0BWmqBNiAPQR65s6Kocxa3zsdL/Fcb33fxwyKBQaNb1+PGuy5Pdy3MBPfztS0SnVk27hxychOcMuBgNcDG9G36T3OhinYyOpYLKvi2D8zAxfMXsbsImt2Jnf1+FHWxLo7SKXQYDsOOzF3zsM=;dQx7shoaHUp6p9ew8nWXAA=="
 ---
 
