@@ -7,8 +7,8 @@ originalUrl: "https://www.nbcnews.com/politics/politics-news/texas-museum-remove
 webUrl: "https://www.nbcnews.com/politics/politics-news/texas-museum-removes-trump-statue-after-visitors-kept-attacking-it-n1261546"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -28,6 +28,40 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "DHS dissolves independent advisory council, ousting Trump-era officials"
+    excerpt: "Department of Homeland Security Secretary Alejandro Mayorkas on Friday dissolved the Homeland Security Advisory Council, according to a letter obtained by CNN, ousting a board of independent advisers that included Trump-era officials and setting up a plan to reconfigure the council.\n    \n"
+    publishedDateTime: 2021-03-26T21:24:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ynEP8Ps1OU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301130049-02-mayorkas-wh-briefing-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the current US-Mexico border crisis compares with the peak of the Trump era in 2019"
+    excerpt: "President Joe Biden is not the first US president to face a growing number of migrants at the US-Mexico border -- and he won't be the last. Fluctuations in migration flows are common, regardless of which party is in power, as was evident in 2019 during the border crisis under then-President Donald Trump.\n"
+    publishedDateTime: 2021-03-24T00:10:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cOpSznPF17E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/border-crisis-2021-2019-trump-biden-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/border-crisis-2021-2019-trump-biden-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130008-05-border-facility-donna-texas-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "cJE0OWpiss2ySdHINeMSHOdkHMKntvcT0rzK3q6cPik2560VCDyzBeoDAwHZSQxS4hDuUzzv/iw+9i/D5iZRiTucrHQd1VoMQA/W8B1LDdIRMYPDRx1zPtNDqYVjtHLgHJZ/9kgGoc5nvZzUtltQqR5NDbYfNPvhtVceXF31HBU0WhuUKFZa02ENkZCU4wcUrM4G/8OD2o5VBO7qYb3kTwZdWD7EhficS7IuUVQQc+PIljjroaCDiS+Ca2gv4qthoVIwYpgPYM4BH6uyZEsNGdhbLIjNcFXiVI/iOlzBnQcfqWpdg+XtC8Xblif6W67Q6XXHyIUG/Ei7BvMyrSSvKS7mP6xfkojuMXrDDeJQFvWWreb/h5oj34yVdCDJ9PhgXrdGQRbDhz9yaXKKBP1DPrKhErsG/a2rHTh5Z4hMXv/Fg/W+1gIAESWn8iN9kICTXMfBK1vyz139sTI8WPJwf+TD5SPqXi7XQUi287Ul1RMkWMdOAa6f45GcU7tEdDEwW9Io4t80p8GP6Hxw57Q+Vw==;+AwSyyb7KzWAHVUV/xjnyg=="
 ---

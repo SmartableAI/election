@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-03-15-jason-miller-trump-said-meghan-was-no-good.md",
-      "title": "Jason Miller: Trump said Meghan was 'no good'",
-      "excerpt": "Jason Miller, who served as a senior adviser to former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good",
-      "originalUrl": "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543182-jason-miller-trump-said-meghan-was-no-good?amp",
-      "publishedDateTime": "2021-03-15T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-15-police-chief-art-acevedo-outspoken-against-trump-leaves-houston-for-miami.md",
       "title": "Police Chief Art Acevedo, Outspoken Against Trump, Leaves Houston For Miami",
       "excerpt": "Acevedo has defied both a governor and a president, but he has walked arm-in-arm with protestors. Now he will lead the Miami police.",
@@ -1568,6 +1516,63 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball.md",
+      "title": "MAKING THE MOST OF $13.5B — LAUF's PRO-TRUMP HIRE FOR IL-16 — STILL NO FANS FOR BASEBALL",
+      "excerpt": "The state Senate is returning to Springfield for session on Tuesday. — Biden rides a ‘Keep It Simple, Stupid’ strategy to early success: “Biden kept Democrats from splintering and barreled ahead without Republican support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/03/08/making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball-492030",
+      "originalUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/03/08/making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball-492030",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

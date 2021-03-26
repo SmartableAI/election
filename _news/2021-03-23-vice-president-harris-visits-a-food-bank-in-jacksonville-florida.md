@@ -151,6 +151,20 @@ related:
         width: 650
         height: 494
         isCached: true
+  - title: "What's for lunch, Vice President Kamala Harris? Sally's Apizza"
+    excerpt: "NEW HAVEN — What does Vice President Kamala Harris eat for lunch when she comes to New Haven? Sally’s Apizza — or at least that’s what she and/or her entourage ate Friday. Not Pepe’s. Not Modern. Not Zuppardi’s, Ernie’s, Roseland, Abate or Bar."
+    publishedDateTime: 2021-03-26T20:18:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/What-s-for-lunch-Vice-President-Kamala-Harris-16056443.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/30/20792890/5/rawImage.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Vice President Kamala Harris’ visit to New Haven will highlight child tax credit long championed by U.S. Rep. Rosa DeLauro"
     excerpt: "Kamala Harris’ visit to New Haven Friday is part of the Biden administration’s “Help is Here’' tour. The trip has already taken her to Las Vegas and Jacksonville, Fla. Biden, First Lady Jill Biden and Second Gentleman Doug Emhoff are also traveling to promote the stimulus package."
     publishedDateTime: 2021-03-26T10:00:00Z

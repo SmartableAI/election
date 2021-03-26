@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-11-biden-took-away-tools-border-patrol-needs-to-keep-americans-safe-stephen-miller.md",
+      "title": "Biden took away 'tools' Border Patrol needs to keep Americans safe: Stephen Miller",
+      "excerpt": "Former White House advisor Stephen Miller on Wednesday warned that the Biden administration is causing a “self-inflicted” public health crisis at the US-Mexico Border after new policies have allowed potentially COVID-positive migrants into the American population.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJmpV2c8EWc/biden-border-patrol-stephen-miller-illegal-immigration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJmpV2c8EWc/biden-border-patrol-stephen-miller-illegal-immigration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcec3f7e-bf95-42c6-b8db-83449de800b1/2df88edc-1ed4-4a71-a456-6b170859e738/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-patrol-stephen-miller-illegal-immigration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-patrol-stephen-miller-illegal-immigration.amp",
+      "publishedDateTime": "2021-02-11T06:49:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-bidens-keystone-pipeline-cancellation-was-political-reward-for-left-wing-supporters-georgia-ag.md",
       "title": "Biden's Keystone pipeline cancellation was 'political reward' for left-wing supporters: Georgia AG",
       "excerpt": "Georgia Attorney General Chris Carr argued on “Fox & Friends” on Thursday that President Biden's move to cancel the Keystone XL oil pipeline project was a “political reward for those that supported the Biden-Harris administration.”",
@@ -1619,62 +1675,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-meadows-biden-administration-policies-prioritize-america-last.md",
-      "title": "Meadows: Biden administration policies prioritize 'America last'",
-      "excerpt": "President Biden’s record number of executive orders aren’t focused on putting America and the people first, former White House chief of staff Mark Meadows told \"Sunday Morning Futures.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTRURJ54Qr8/meadows-biden-administration-policies-america-last",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTRURJ54Qr8/meadows-biden-administration-policies-america-last",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/meadows-biden-administration-policies-america-last.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-biden-administration-policies-america-last.amp",
-      "publishedDateTime": "2021-02-07T10:56:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

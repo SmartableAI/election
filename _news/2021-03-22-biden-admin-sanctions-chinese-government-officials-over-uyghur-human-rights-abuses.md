@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
+    excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
+    publishedDateTime: 2021-03-26T20:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tVVjsXfLdE/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
     excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
     publishedDateTime: 2021-03-08T17:50:47Z

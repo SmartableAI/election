@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How the current US-Mexico border crisis compares with the peak of the Trump era in 2019"
-    excerpt: "President Joe Biden is not the first US president to face a growing number of migrants at the US-Mexico border -- and he won't be the last. Fluctuations in migration flows are common, regardless of which party is in power, as was evident in 2019 during the border crisis under then-President Donald Trump.\n"
-    publishedDateTime: 2021-03-24T00:10:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cOpSznPF17E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/border-crisis-2021-2019-trump-biden-explainer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/border-crisis-2021-2019-trump-biden-explainer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130008-05-border-facility-donna-texas-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "4RqelrVll1SwL0wf9C/PCGu8DxDJDzHIlF92VlTIShMcPlP4pbZDVnmAoX2a9pNY+541BJYu3ft8bMjJ8nncxLRffgYNboWkwTsqVZfR9qytlOpTbvkpDYOTeAkyeOx8SSFW10ncSYQcm2hoULG8Kczhss44Ig6bVj0J90CI38DXB2zjlY38YTjWIW6x+nviderqoMvA+goLcqJbwOEpPeeGOCcbU7Kn5EUZy3U6hvOD2oQz1IvIe3h0dsjgUmN941IoAMqm6oeo/zkMzvIyk9iTFS3+hUlvSj/8VCntPb66JfUSo+7RTe/nQszJmdwwUKEOWJQVejmZrl5DL1diNEPoFtXs2+aM8p0gHFhCmxnVnOoGXX0zMNSyU8GOM/FFm8Oki4XgaKvfSsgvvr//W5ElJIkrxGItQMmWhR7FUobKfBCd7AG19KQTuF6K9wvivMoOPBhmA3jpr134slwCbCGmC2TGcx52pVReAh6euMMAKMIgMZtoFT2kpcjNEQ9W83/JSV7wC04zlBMI0tAH/g==;zdRfT7t6NJWefnD1GpoFbw=="
 ---

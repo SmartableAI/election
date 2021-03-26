@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden uses press conference as a chance to point fingers at Trump"
+    excerpt: "President Joe Biden is making no qualms about former President Donald Trump's policies being the root cause of issues that his administration is now scrambling to address.\n    \n"
+    publishedDateTime: 2021-03-26T19:15:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PO1A7KPNLyk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/joe-biden-blaming-donald-trump-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/joe-biden-blaming-donald-trump-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says Trump should no longer receive classified intelligence briefings"
     excerpt: "President Joe Biden doesn't believe former President Donald Trump should receive classified intelligence briefings, as is tradition for past presidents, citing Trump's \"erratic behavior unrelated to the insurrection.\"\n    \n"
     publishedDateTime: 2021-02-06T00:30:41Z

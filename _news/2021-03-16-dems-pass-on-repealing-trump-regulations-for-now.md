@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Trump's election fraud lie turned into law in Georgia"
+    excerpt: "This is how lies turn into laws that make it harder for people to vote.\n    \n"
+    publishedDateTime: 2021-03-26T19:04:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bRE2SMNQqJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/trump-election-fraud-lie-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/trump-election-fraud-lie-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315113019-georgia-voting-rights-billboard-campaign-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Here's why Donald Trump thinks he deserves credit for the 2020 election"
     excerpt: "Donald Trump lost the presidential race last November. And in January, Senate Republicans lost their majority -- thanks to Trump's relentless focus on the false notion that the election in Georgia (and elsewhere!) was stolen from him. Those twin losses, coupled with Republicans' failure to win back the"
     publishedDateTime: 2021-03-17T20:26:22Z

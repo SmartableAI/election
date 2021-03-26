@@ -31,37 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "US to resume diplomatic ties with Palestinians that were cut under Trump"
-    excerpt: "The US will resume diplomatic ties with Palestinians that were cut under the Trump administration, the US ambassador to the United Nations, Linda Thomas-Greenfield, told the Security Council Thursday.\n    \n"
-    publishedDateTime: 2021-03-25T20:07:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DZvE_ovFllw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/us-palestinians-diplomatic-ties-two-states/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/us-palestinians-diplomatic-ties-two-states/index.html"
+  - title: "DHS dissolves independent advisory council, ousting Trump-era officials"
+    excerpt: "Department of Homeland Security Secretary Alejandro Mayorkas on Friday dissolved the Homeland Security Advisory Council, according to a letter obtained by CNN, ousting a board of independent advisers that included Trump-era officials and setting up a plan to reconfigure the council.\n    \n"
+    publishedDateTime: 2021-03-26T21:24:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ynEP8Ps1OU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319143652-linda-thomas-greenfield-0301-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301130049-02-mayorkas-wh-briefing-0301-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Puerto Rico gets over $900M in education funds previously restricted by Trump admin"
-    excerpt: "tries to build a new relationship with President Joe Biden's administration — and is hopeful that funding delays that were common under former President Donald Trump's administration will dissipate. In 2019, the Trump administration imposed restrictions ..."
-    publishedDateTime: 2021-03-23T17:46:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/puerto-rico-gets-900m-education-funds-previously-restricted-trump-admi-rcna405"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna405"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna405"
+  - title: "Texas museum removes Trump wax figure after visitors kept attacking it"
+    excerpt: "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ..."
+    publishedDateTime: 2021-03-19T17:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/texas-museum-removes-trump-statue-after-visitors-kept-attacking-it-n1261546"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 129
+    quality: 115
     images:
-      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-03/624/210323-puerto-rico-students-mb-1519-27c59b_d8b9d64ab9427c996ff81132fd3d802e2d17d11f.jpg"
-        width: 5303
-        height: 3535
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_11/3458115/210319-donald-trump-thumbs-up-ew-1028a_232a47b4c823a1ee6a2954da3fe2ba26.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dfVJTi7JrH2PblxhoM5sAh6N/E+MleWmzlNahg5uBsuxZ7+vwEh2Nx9wvipGug8gQZRGCjSgqDpre9+rFv9fKbZEZ+/kjc+ekAly+nEcfkxXlymdyqEctprNNuLp2LMXqxs3UUDQTBkZTaWTngvVGqqo7hGxAncFMojq6fD/sG1YPPcvXZr0g5E31YpcjzhvW56B4TBfx0mtPlcPInGlCTDGSbnELI3P6mRwrZemKDicrI/EHxlck1nklR1XDQR4BAoUEOip8vTd9FOjGGPLHrNSWX1ekxBomNVKPcUMuOqm3inlGYabL235f0pfgzmer2YMfrPkikSkTI1oMdv4ws7U+LSkDKD6D+FIyJmlYzM=;oO4C5N0EFOS46yKUejFRtg=="

@@ -167,6 +167,20 @@ related:
         width: 650
         height: 432
         isCached: true
+  - title: "What's for lunch, Vice President Kamala Harris? Sally's Apizza"
+    excerpt: "NEW HAVEN — What does Vice President Kamala Harris eat for lunch when she comes to New Haven? Sally’s Apizza — or at least that’s what she and/or her entourage ate Friday. Not Pepe’s. Not Modern. Not Zuppardi’s, Ernie’s, Roseland, Abate or Bar."
+    publishedDateTime: 2021-03-26T20:18:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/What-s-for-lunch-Vice-President-Kamala-Harris-16056443.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/30/20792890/5/rawImage.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "WATCH: Vice President Kamala Harris Under Fire For Failing to Salute Honor Guard Before Boarding Air Force Two"
     excerpt: "Vice President Kamala Harris is facing criticism for appearing to break with precedent and failing to salute the honor guard when boarding Air Force Two. Video reviewed by Fox News showed that her predecessors,"
     publishedDateTime: 2021-03-24T04:00:00Z
