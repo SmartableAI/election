@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Mike Lee: Biden's handling of migrant surge during pandemic 'absolutely defies reason and logic'"
+    excerpt: "Sen. Mike Lee, R-Utah, said Friday that the Biden administration's immigration policy regarding COVID-positive migrants 'absolutely defies reason and logic.'"
+    publishedDateTime: 2021-03-26T13:42:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eVdR4d6IWoc/biden-border-crisis-covid-migrants-mike-lee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-covid-migrants-mike-lee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-covid-migrants-mike-lee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7358c99-18f0-4305-84f6-bcd084125526/ddf94192-1092-447f-af70-61e7d5bdba5b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "0VrFFLtfw+8L4aU7lBG92sBA8JA0lfovZzj0l8owaIwwEeRhlPZBv3FrXfDofYM6K3mN6/PuBU/bk9fuS3xUxYRgCwOWWNnghuDFMBZPq2QKv3y7ngFQVAohz1OXidUG5hxH5DGgOWqdpLwxUKQLFuKmlxGbiLlvzS3+A8dBUEbL+uEMz/M1Pft9B1WowIvDO2M1HOgxl4IYQK70KQs0zD9d5gjNwW5CEyCo/w4Rhn6q3xnYaedOfOGVtVp3kDqIG1bKQecP2CA9FLziYTHd0jeVcGF59WUL9xZGwYkK3UcKfi92IhrKdO+HJ8GBVMj2RAArxTxOp5H2nah9KtgiBnupsIHg7ryt2yISCJ+E3B0=;C+tPEgcpVcN5/HoGQ0wgQQ=="
 ---

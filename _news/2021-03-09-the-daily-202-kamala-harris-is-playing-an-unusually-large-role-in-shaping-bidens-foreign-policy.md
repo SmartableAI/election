@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
+    excerpt: "Republicans have been sharply critical of Biden’s immigration policies, and it will likely be very difficult to get any border-related legislation through the evenly divided Senate. Joe Biden described Kamala Harris as “the most qualified person” to ..."
+    publishedDateTime: 2021-03-24T18:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b85038f08a9515e8368e3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
     excerpt: "White House event will commemorate halfway point of Biden’s campaign promise of 100m vaccine doses in first 100 days"
     publishedDateTime: 2021-02-25T14:42:00Z
@@ -255,22 +271,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
-    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-    publishedDateTime: 2021-03-25T06:16:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b33aa8f08fe2b74447778"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 132
-    images:
-      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Kamala Harris slowly starts to carve out role beyond 'making sure Joe Biden is a success'"
     excerpt: "Vice President Kamala Harris has said her signature issue would be \"making sure Joe Biden is a success,\" but a friend noted \"nothing about Kamala Harris is number two.\""
     publishedDateTime: 2021-02-17T23:44:00Z
@@ -286,6 +286,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/kamala-gty-er-210216_1613518240506_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden taps Harris to deal with border challenges"
+    excerpt: "President Joe Biden has tapped Vice President Kamala Harris to lead the White House effort to tackle the migration challenge at the U.S. southern border. “Needless to say, the work will not be easy,” Harris said,"
+    publishedDateTime: 2021-03-24T19:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/24/biden-taps-harris-deal-border-challenges/6987533002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/71d93616-3730-49f4-91d2-363fb0daafd9_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Black, Latino Groups See Ally In Kamala Harris As Biden Administration Navigates First 100 Days"
     excerpt: "Harris has leaned into being the first woman and first woman of color in the role to connect with groups that will be key to the administration's success as the recovery unfolds."
@@ -318,22 +332,6 @@ related:
       - url: "https://s.abcnews.com/images/GMA/teacher-kindergartners-biden-harris-ht-MAIN-np-210126_1611709736925_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
-    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-    publishedDateTime: 2021-03-24T18:27:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b909a8f08b6e4f17c9ee2"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 127
-    images:
-      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
-        width: 600
-        height: 360
         isCached: true
   - title: "U.S. private prison revenue under pressure from new Biden rules"
     excerpt: "CoreCivic and the GEO Group, two of the largest U.S. private prison companies, could lose as much as a quarter of their revenue, about $1 billion a year between them, under new limits on the sector from President Joe Biden."
@@ -670,6 +668,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/d7f0482/2147483647/strip/true/crop/4307x2813+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcc%2Fd5%2Fc4b4d1a94187b12a011a9623b5b0%2Felection-2020-joe-biden-74848.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
+    excerpt: "Besides Becerra, vice president Kamala Harris was state attorney general before she was elected to the US Senate. I'm so excited that Governor @GavinNewsom has nominated my good friend @RobBontaCA to be CA's next AG. Rob is a fighter for justice & will ..."
+    publishedDateTime: 2021-03-24T23:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bd10a8f08b6e4f17ca21e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
         isCached: true
   - title: "President Joe Biden in call with China's Xi Jinping raises human rights, trade"
     excerpt: "Joe Biden held his first call as president with China's Xi Jinping, pressing him on trade and Beijing's crackdown on democracy activists in Hong Kong."

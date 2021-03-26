@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
 type: article
 quality: 200
-heat: 860
+heat: 880
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a737b5f6-c3b1-44f9-ad3c-eaf38f3b8c2a/6499a067-3aad-4067-ab61-c8b877d137f8/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden 'torched his message of unity' in press conference remark about Trump and 2024: Pollster"
+    excerpt: "Pollster Lee Carter explains why the president got a failing grade from Republicans and Independents when discussing the 2024 election."
+    publishedDateTime: 2021-03-26T13:27:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gf-0k3u-YXM/biden-press-conference-trump-2024-torched-message-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-conference-trump-2024-torched-message-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-trump-2024-torched-message-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden White House says it's ready to have 'frank conversation' with China"
     excerpt: "The White House said the Biden administration is ready to have a \"frank conversation\" with China and is negotiating from a position of \"strength,\" as officials hold tense bilateral talks with Beijing. "

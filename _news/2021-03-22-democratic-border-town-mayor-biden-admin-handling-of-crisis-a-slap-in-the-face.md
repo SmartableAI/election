@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/democratic-border-town-mayor-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
 type: article
 quality: 170
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Mike Lee: Biden's handling of migrant surge during pandemic 'absolutely defies reason and logic'"
+    excerpt: "Sen. Mike Lee, R-Utah, said Friday that the Biden administration's immigration policy regarding COVID-positive migrants 'absolutely defies reason and logic.'"
+    publishedDateTime: 2021-03-26T13:42:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eVdR4d6IWoc/biden-border-crisis-covid-migrants-mike-lee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-covid-migrants-mike-lee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-covid-migrants-mike-lee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7358c99-18f0-4305-84f6-bcd084125526/ddf94192-1092-447f-af70-61e7d5bdba5b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Arizona mayor tells 'Fox & Friends' why Biden border crisis forced town to declare state of emergency"
     excerpt: "Gila Bend, Arizona mayor, Chris Riggs, said Wednesday that he has declared a state of emergency in response to the Biden administration's border crisis. "

@@ -318,6 +318,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump lies about Capitol riot by claiming his supporters were 'hugging and kissing' cops"
+    excerpt: "Former President Donald Trump on Thursday attempted to whitewash the history of the January 6 Capitol riot by pushing the false suggestion that his supporters were \"hugging and kissing\" police officers and posed \"zero threat\" despite widespread violence, injuries to law enforcement officers and five"
+    publishedDateTime: 2021-03-26T13:51:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GJDzRqe5WYQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/donald-trump-january-6-rioters-arrests/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/donald-trump-january-6-rioters-arrests/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319215641-donald-trump-022821-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's army takes aim at 2022 touting his election lies"
     excerpt: "Donald Trump has set the price of admission for Republicans in the midterm elections, and probably the next presidential race: an embrace of the big lie that he was cheated out of office by a historic voter fraud operation."
     publishedDateTime: 2021-03-23T01:01:00Z

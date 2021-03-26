@@ -1910,20 +1910,20 @@ related:
         height: 433
         isCached: true
   - title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-    excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
-    publishedDateTime: 2021-03-24T22:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+    excerpt: "US President Joe Biden listens as First Lady Dr. Jill Biden delivers remarks during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24, 2021. Equal Pay Day marks the extra time it takes an average woman ..."
+    publishedDateTime: 2021-03-24T22:21:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bc48709c5dd4d5dbb4025d3cf60277b8/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/cbfc54451802f17b8b0273b5fef9d4c1/BIDEN-EQUAL-PAY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/bc48709c5dd4d5dbb4025d3cf60277b8/BIDEN-EQUAL-PAY.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "jgNQ/K7P6LrFEVxeLv4CLqUd/QJS3mgDCjf4XtSfbrOtmMg3hecIkKr7zFgHIiMk1ZQ/cjI+1/5Ss3L3bj+1TlevIYXtbb807Dd2fqTxyfHyCZjaiquUwvelEVSyLKqixP2agzsHPBkXj4105pU/0/AuFJq7wlvu2r7p14QklXuUBZGbx1VNyySzqRJ8vHp6STyBsGvvV/GR1gB50ywt2N9/32pu0IC0bamadpXnNP+7L3+NbZunA1etcZwCwGjhRT8y2olHixomxssw4lfGibLlM3Ya9tOTozFq0iGC6J2NfZJHzfVKoukjENu76f5NZcLKak/6KaOgLDqBIjFbZYnDDEWP4YTJ5Yuco+mFn6s=;cBL1G10AnbOI9Uim3iryAA=="
+secured: "110Ja/eHKtTQxvrW/XgaMCGbZejzFv7EQBgFGxa0oMj8KQjZUMIlXS8gwKrmtlQcuxwp+vcMKeNbR8fwTeAqF5Lkksl1FfveJbxxye66pU4ij33qMWQ99zKGXLaKekiHR3hSXlteS/8qJqA0uhiu8W5jzQ5XypYNkfSVC7d5MAZnM0TmHmpfy1oooFC1vueGYNNTiHWlTKkTIC1EaWamWFrbA2mag/p80uAwfg87+ZFW3K4C1OjNrChhrvLZ/fQ2YQJg6Pfp99jCbZvJU1E13VTWskSiq0eMZ3qQI36GKpFwHFI/p01BR7i2yOdl15NpRReAkbnFuPyLrz85hfi1+xGDgpe425AVwfjcR3zpebPWKCBNJQfPzQHdzUe/OBy4Av9aQn/YQHgMjmcR2y2XAH0VBjrsofd0o8WDmp5Cs8NM2h5CFbXJBqx2bxAjbSy67dufAIFKS+BH+dSL9zqNiR+GzcKINSTHlQw+ZIL0aFh3fIdAkfZLeRD9DGAf4JEtdxJvdDGGWjhZO2HDC9ys4Q==;CGFD9S4oqRhqTLOQjAXhRQ=="
 ---
 
