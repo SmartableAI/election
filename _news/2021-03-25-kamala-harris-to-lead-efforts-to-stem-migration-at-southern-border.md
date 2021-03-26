@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Kamala Harris Tells Asian American Community 'We Stand With You' After Georgia Shootings"
-excerpt: "Vice President Kamala Harris expressed solidarity with the Asian American community after multiple shootings in Georgia on Tuesday left eight people dead, including six Asian women. Harris, the first South Asian, Black and female vice president ..."
-publishedDateTime: 2021-03-17T17:04:00Z
-originalUrl: "https://www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881"
-webUrl: "https://www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881"
-ampWebUrl: "https://www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881?amp=1"
+title: "Kamala Harris to lead efforts to stem migration at southern border"
+excerpt: "Vice President Kamala Harris has been put in charge of the Biden administration's effort to stem the migrant surge at the southern border. Janet Shamlian reports."
+publishedDateTime: 2021-03-24T22:55:00Z
+originalUrl: "https://www.cbsnews.com/video/kamala-harris-to-lead-efforts-to-stem-migration-at-southern-border/"
+webUrl: "https://www.cbsnews.com/video/kamala-harris-to-lead-efforts-to-stem-migration-at-southern-border/"
 type: article
-quality: 116
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://d.newsweek.com/en/full/1758158/harris-speaks-atlanta-shootings.jpg"
-    width: 2500
-    height: 1675
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/24/52d7f8d1-93f4-4772-a0cc-2c55c754e7a7/thumbnail/1200x630/21c95b2c7ef98d17a4d12396bc3bdf99/0324-en-shamlian-676677-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -541,6 +539,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris Tells Asian American Community 'We Stand With You' After Georgia Shootings"
+    excerpt: "Vice President Kamala Harris expressed solidarity with the Asian American community after multiple shootings in Georgia on Tuesday left eight people dead, including six Asian women. Harris, the first South Asian, Black and female vice president ..."
+    publishedDateTime: 2021-03-17T17:04:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-tells-asian-american-community-we-stand-you-after-georgia-shootings-1576881?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1758158/harris-speaks-atlanta-shootings.jpg"
+        width: 2500
+        height: 1675
+        isCached: true
   - title: "'Very troubling': Joe Biden and Kamala Harris on Atlanta spa shootings – video"
     excerpt: "Harris said the Atlanta massage parlor shootings were ‘tragic’ and spoke to the larger issue of violence in American society"
     publishedDateTime: 2021-03-17T17:37:00Z
@@ -804,20 +818,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08776f89-5741-489a-bc95-2abf1b2bb016_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Kamala Harris to lead efforts to stem migration at southern border"
-    excerpt: "Vice President Kamala Harris has been put in charge of the Biden administration's effort to stem the migrant surge at the southern border. Janet Shamlian reports."
-    publishedDateTime: 2021-03-24T22:55:00Z
-    webUrl: "https://www.cbsnews.com/video/kamala-harris-to-lead-efforts-to-stem-migration-at-southern-border/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/24/52d7f8d1-93f4-4772-a0cc-2c55c754e7a7/thumbnail/1200x630/21c95b2c7ef98d17a4d12396bc3bdf99/0324-en-shamlian-676677-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
     excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
@@ -1486,6 +1486,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "LZarcspgBmrxX/2oi5gKXXJTugs2fCRdicEirEhNdDhM3jF7CISxEVsdZLIhk6AyUzCLXJ/NEWaAYBXv6sEkyHiwCbpkgjgk6y9qqOjkBXEoLGgQhY7pCrxAWrlfPbXgvq5+NvmIdLfVdSH5mJadJCfQvp1EpoZBa/hCbJ2+d6kx47+mEwg2BquHLXGaivYSSiFK4xKOJxwvj731mxpH86ic/IZqu96Zpu1MmU9L0Nx6Wbj6hCE0sKBPTBOPnFfzjFRN1BCsVhBPQCRJHtjc+SHjVkVBZjW/0UfYzhZ5JmICOwUo3VrW19Ft8FhDlXnkUfNqeWg0IbY1D+yHO+RUlhpUtaUo1eDqd6Rgf3T35u9pj8X7nU42uC/MXSnpTlMaXdl4QYENwTwDdN+lrkBmMdzY65aiO59QsS0xWOrHRM1tgo2uYeDzyPp/hD0Lb/xkTlptwSeaBde+8Tw/j37FLv1DAzpdHcs6/nqpZ03dcHJQicAbmaNrjAR/RF8JORyrK4Jp+WUWb2j3OpMm+zMu0w==;UvEw+zAjwUD5jekxd6E/yA=="
+secured: "nMDSqF+SYk8gAoaUE3GRzCC1F+yXyJnU0Vuv7h2V2Uv8s/ZV/6RDGV+Hz/ZnB8vEZCVBlUSKtodQXRMfpCdP+atQJ29ii7E+FphfDp2+uVZ0z92/6o+/6+zwTFZYMbnlk/vUV5Kvx6HTnWd3blSP7YvT1d9ctHlbG1gpi420dsl2ewLa/5tNheOV+kYq4M6I0W4tq6NauC34wlr3d2LAMv/dVVYVkzeEYC3gScNS9nXlu/z0ywKuucbyYOqGEozkfooemPlNTwIGa6kgMRZat0aLRKrgN55Zi3a0zU7T8FN1dGyUiTCShaZ/V5BDNk+LqVLUtLep+mEeZqolUNhoZEG3zpHYZcxnXsFyvjTaMBs=;4wQa+ZwnJ6KiST07lgKV4w=="
 ---
 

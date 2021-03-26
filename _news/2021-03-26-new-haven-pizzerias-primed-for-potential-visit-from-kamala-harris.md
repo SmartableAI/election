@@ -815,6 +815,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris to lead efforts to stem migration at southern border"
+    excerpt: "Vice President Kamala Harris has been put in charge of the Biden administration's effort to stem the migrant surge at the southern border. Janet Shamlian reports."
+    publishedDateTime: 2021-03-24T22:55:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-to-lead-efforts-to-stem-migration-at-southern-border/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/24/52d7f8d1-93f4-4772-a0cc-2c55c754e7a7/thumbnail/1200x630/21c95b2c7ef98d17a4d12396bc3bdf99/0324-en-shamlian-676677-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
     excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
     publishedDateTime: 2021-03-17T14:05:00Z
@@ -1122,15 +1136,15 @@ related:
         height: 641
         isCached: true
   - title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
-    excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
+    excerpt: "Gov. Doug Ducey on Wednesday called Vice President Kamala Harris \"the worst possible choice\" to lead efforts to curb migration at the southern border, saying President Joe Biden had \"completely trivialized the issue by putting someone in charge who flat ..."
     publishedDateTime: 2021-03-25T15:35:00Z
-    webUrl: "https://www.freep.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-    ampWebUrl: "https://amp.freep.com/amp/6990780002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6990780002"
+    webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6990780002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6990780002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/25/PPHX/d90f771d-aa1a-4b9b-ab6a-f1d603f9cbae-pjimage_5.jpg?auto=webp&crop=1749,984,x0,y175&format=pjpg&width=1200"

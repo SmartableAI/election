@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
-excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
+excerpt: "Gov. Doug Ducey on Wednesday called Vice President Kamala Harris \"the worst possible choice\" to lead efforts to curb migration at the southern border, saying President Joe Biden had \"completely trivialized the issue by putting someone in charge who flat ..."
 publishedDateTime: 2021-03-25T15:35:00Z
-originalUrl: "https://www.freep.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-webUrl: "https://www.freep.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-ampWebUrl: "https://amp.freep.com/amp/6990780002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6990780002"
+originalUrl: "https://www.indystar.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+ampWebUrl: "https://amp.indystar.com/amp/6990780002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6990780002"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -817,6 +817,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris to lead efforts to stem migration at southern border"
+    excerpt: "Vice President Kamala Harris has been put in charge of the Biden administration's effort to stem the migrant surge at the southern border. Janet Shamlian reports."
+    publishedDateTime: 2021-03-24T22:55:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-to-lead-efforts-to-stem-migration-at-southern-border/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/24/52d7f8d1-93f4-4772-a0cc-2c55c754e7a7/thumbnail/1200x630/21c95b2c7ef98d17a4d12396bc3bdf99/0324-en-shamlian-676677-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
     excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
     publishedDateTime: 2021-03-17T14:05:00Z
@@ -1468,6 +1482,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "R+tnLXa/KNITIQGMeDB8WWwlkq3GrpOwY/8sMzKcKb0YJV3udDLftJU6Nh+cagJ4BaPuE3AN2MpFHeiZzt2YQEfkV04kdP99CtzWuQzApD0h2x9ghoUTCffiEpF+6/ylTQz5LNWolJDORX9DBPUJsuNoN4I7sfFPtbriLfZZx3WRIAO0yL0dUpGdTUE0I30ndcLh40J2WgB5H/azngBEIVRoTIVPSBh6KQj5wEaZDGLaRXEK5dSUCG5W8yRyA2/c/5Iq+QIL2KVPA6lxBwVq+fTGEPzZyU8+9gWtPoOSRO5C5ujnEVnDFdkyB3VGXSbb+zSzxqloOpeB+aS8BH1+79w8J4K4nPzYsv1uyQzjxRH12ALQf6YKluLctQVm815yil2TcxggopVOy3aC122VC7HjaJnNkZ08wbimA0E1TxSuozixDZqQ2e/F8Ya5tSwnF5FK/Hu9k/V7+9bApgIfvvdWZBo4vMRkdhZY5lNRr5xIosV+IJsdzVqzXkZ6Nd8n3a2uNxhO0btY83nViURD3g==;Wqp/DE4SqX0yFig3DzTMeQ=="
+secured: "p6wGqjS/VCHxUZM/wGlKP5g4bLL+nI+mTQM3gyuHh/BwipaeshkiNbg3z8bxDTH7r3TCTfAUR6ry6DDcCFQI94epVDJMSk8WZ6zn4tQfYvLu+nrgwAtd7omuZGUy3v4ifcLqnhjRiiDjth8GxWv6tjIZ9oNQ6TwVpmJGSyEYabZqCiVnVgNb+u2QJayvMaBTpxzMuxWnIy8y8Px+7XiuxPD53nt/L08QRdaytAS7K2fKSn/S+l5zyzkia39n4YZsSFeO4BYFtHSn2hIb+udEwY5fdW0iabQijHgSyWuih76XzXoM4r/czfHeThHNeCklwZGJS7/epAgdH3eod/nocbwTSAa/0U9yQwnoqZ4wUqw=;vX3IA+ODbPluJ2imScLT6g=="
 ---
 

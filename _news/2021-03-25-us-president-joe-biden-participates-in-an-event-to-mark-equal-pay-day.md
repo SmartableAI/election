@@ -3,8 +3,8 @@ category: news
 title: "US President Joe Biden participates in an event to mark Equal Pay Day"
 excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
 publishedDateTime: 2021-03-24T22:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/cbfc54451802f17b8b0273b5fef9d4c1/BIDEN-EQUAL-PAY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1920,6 +1920,6 @@ related:
         height: 433
         isCached: true
 
-secured: "MAjbyjkYxaGvz8Sic56gLfdkJrtMlzaxF3mxHuOEW1PY/MFcXRQx4aBwSx950nALMgTmSQ+zPEFENBFLDWR5meH/Q4PYGnSM+Q4AZuHlokBJ5WBIcsfstRYqqIEB7kbawFDePh1WYcUfFgvf3BCQQGuM0bNMlDjqNKwleF1XSPy49CCsZp9HcqQQJW6gArRw03tEEZ/M4lEVgT9Ftv+uosfqviQpkBizcA2zbs6G5dGlhgemoWyjnzBUqRSnNtT/g0B6EAWJU9svfC6hHowOv8eS7x4WP/mZnXCLeSMVq9H6n9IFZYJEoWsHNHPefI8l25J/hs2CM1+t0vHW73JA7u42vvO6SqGz+HTjauMi1KU=;ybQ1LIfEQ8M5Vf/9JoCUkg=="
+secured: "Nw6ztGooUEmTtZDzbRQ8PUAA/fInDk/JTWDdTAfk/QbZP7Zdrluc1zMGM5S7zNoVRn4PexKpC5JuGqCmxnhNiUOdVsMQGtO608UPXvdHPgLbUWxJ7WWc2E1HUwcZaiYRgflJ4bcVDKO1sQmrQi9jHLJkC+EzN9oqpJ0B9ZlagXmCrvr+BsoUew/P79vtvARZZX2TKO44VQ+OtlJ0KQu6Ezp2khSaV+PIXeuCuGOr3SSVjNpWJRCyqZggaLA81gXAH0VpDTzercKeWxTqM4lKZH6Yn2NtU5ytj2MnApQukN03nJgg5Bd+tQYMAwlMr2Rbx5PhSvjOjNCVJisxsPa9kBO5OBqpApeXHuSQfcaF+ng=;DkCqpCpgtvcqe6JYJ/J0Ug=="
 ---
 

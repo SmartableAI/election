@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slum
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump defends Capitol rioters, says there was 'zero threat'"
+    excerpt: "Trump complained to Fox News Channel’s Laura Ingraham that law enforcement was “persecuting” the Capitol rioters, while “nothing happens” to left-wing protesters. Trump did acknowledge that those who stormed the Capitol “went in and they shouldn’t have done it."
+    publishedDateTime: 2021-03-26T03:51:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-defends-Capitol-rioters-says-there-was-16054587.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-defends-Capitol-rioters-says-there-was-16054587.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-defends-Capitol-rioters-says-there-was-16054587.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "News Media Seeing 'Post-Trump Slump' As Passions Cool"
     excerpt: "The so-called \"Trump bump\" which boosted viewers and subscriptions at outlets such as CNN and the New York Times now appears to have turned into a slump following the departure of Donald Trump from the presidency. At CNN -- which was at loggerheads with ..."
     publishedDateTime: 2021-03-24T01:15:00Z

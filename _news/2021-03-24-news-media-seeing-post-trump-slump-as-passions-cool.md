@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump defends Capitol rioters, says there was 'zero threat'"
+    excerpt: "Trump complained to Fox News Channel’s Laura Ingraham that law enforcement was “persecuting” the Capitol rioters, while “nothing happens” to left-wing protesters. Trump did acknowledge that those who stormed the Capitol “went in and they shouldn’t have done it."
+    publishedDateTime: 2021-03-26T03:51:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-defends-Capitol-rioters-says-there-was-16054587.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-defends-Capitol-rioters-says-there-was-16054587.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-defends-Capitol-rioters-says-there-was-16054587.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "gzpf/7HL+f8syJP0k0+WjeawQkEZq+EAJhcQ4gFZlL6ziErD7aNqAbiTpZR0eFGBdkpWomiXAgQO+em7JgsCXCmsxTwzZENNPHM9ODbMwwYBBSQX7hFAxDaFT8WSyCqfIJBV/3iqEnKWeNkmzyHZrRmBBqfq06j9opgBTKIYHKjyeW5z1IEJED4tgtwuOpaIk2tZLRSm9bfMwrfv2IBiVOFFnoreprS0MWIDUp95xY0V5eSG+oP/milUdht0Iy2TenNyEzVByDwhX77bcvR2LR5vufeLGTojf1oCQ+b5UUjHgcc7OZWwkLyLPXWMUnaBmUcxkMSB7nxwC69uSy/d0r5mHqwRYu5jjYcsPKXmYoXkG3hl85xZel4DMVegYyend+LEqj0T1UovBJNlDKzfCgMIwAX5cgToAB1+AST4Agq/pSJE8sAqOUs6NGnQ144SYplVRxb2paHRfhl3COEMgvjPXB9G/RAWsM57dBWBR55H4KpzCLtkjQb0OBCWdrw89yl6F6YCjqtj+Dt3v5US7Q==;blJK5p+/BwgBMBXsi7I6rA=="
 ---
