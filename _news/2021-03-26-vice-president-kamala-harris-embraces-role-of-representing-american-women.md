@@ -1448,6 +1448,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "'Help is on the way': Kamala Harris visit to New Haven sends clear message, lawmakers say"
+    excerpt: "I’m fired up to welcome my former colleague in the Senate and friend Vice President Kamala Harris to Connecticut today,” Murphy said in a statement. “Earlier this month, Congress passed the American Rescue Plan — one of the most significant pieces of legislation in a generation — to crush this pandemic,"
+    publishedDateTime: 2021-03-26T14:15:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Help-is-on-the-way-Kamala-Harris-visit-to-16055292.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 46
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/23/66/20790691/3/rawImage.jpg"
+        width: 2048
+        height: 1449
+        isCached: true
   - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
     excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
     publishedDateTime: 2021-03-24T19:43:00Z

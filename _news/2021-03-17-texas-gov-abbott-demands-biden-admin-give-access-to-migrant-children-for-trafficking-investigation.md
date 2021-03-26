@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House appears to scrub Biden gaffe from transcript after calling Afghan president wrong name"
+    excerpt: "The White House quietly corrected a gaffe President Biden made during his Thursday press conference in which he appeared to mix up the names of Afghanistan President Ashraf Ghani and the controversial former head of Pakistan's military. "
+    publishedDateTime: 2021-03-26T15:11:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aryCehvT4Nk/white-house-biden-gaffe-transcript-afghan-president"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-gaffe-transcript-afghan-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-gaffe-transcript-afghan-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden admin releases photos of crowded migrant processing center at border amid transparency criticism"
     excerpt: "Customs and Border Protection (CBP) on Tuesday released photos of the temporary facilities being used to process migrant children who are found crossing the U.S. southern border. "
     publishedDateTime: 2021-03-23T13:13:45Z

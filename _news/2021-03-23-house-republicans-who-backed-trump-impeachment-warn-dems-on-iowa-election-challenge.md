@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/house/544341-house-republicans-who-supp
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp"
 type: article
 quality: 134
-heat: 314
+heat: 334
 published: true
 
 provider:
@@ -149,6 +149,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
     ampWebUrl: "https://www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "GOP 2024 contenders enter Iowa, wary of Trump's long shadow"
+    excerpt: "Their first step is finding out whether activists there have gotten over the last one. Former President Donald Trump remains a hulking presence in Iowa, where he won twice by healthy margins. He's hinted he'll run again, and his false claims that the last ..."
+    publishedDateTime: 2021-03-26T04:28:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
     type: article
     provider:
       name: Houston Chronicle

@@ -167,6 +167,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "GOP 2024 contenders enter Iowa, wary of Trump's long shadow"
+    excerpt: "Their first step is finding out whether activists there have gotten over the last one. Former President Donald Trump remains a hulking presence in Iowa, where he won twice by healthy margins. He's hinted he'll run again, and his false claims that the last ..."
+    publishedDateTime: 2021-03-26T04:28:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "oSNTblATtQ7Bo0GJos+i1BnrdfwI96iP0SmvCM9ZKFHpuRv8R54W5A14H6oK3fXPnDI9567qbrBfzmps5u0csfvz1vwv2DotBJQqnvZo8VYMYrr2D321fBG8DxlJovFf+hF3a+Bhtiuyi3FMXsO1KvwvuV/G4GCvWFVsUuXrds6b+zSvPRBTjatXUAJSp1IYXsy0ACC2/Cl0ugEmq9Ij2Eqq+ELjHaowKAC164UaS1H2zFeZAgPvuJ8pfAEU1RLeLXlm+WXCpSnAobxPWOdh1krhc7Gx4NIMPfC80MpkhHgbXhPWVGzCzl+X8w/YGK4DLLsgSs92DPMl9BqpLEQ+gOLcQmqi9qggiK5KW7e4JMTkqVGCREV5xLnV2GAD1ilALKHikfgJExAOMjmpO0wgdv7LwKy1bYP7PTeA384M37LcuqBDZ3M9x5qNiKj5QioFBVDf7F9flXnklmFq7KYL1YurRI3Z+18MNjKJLgjX58R4ElZO0sEIJE/h9EyIE9Tj2PiG/XmF21BPpxZOg9kJOg==;agkdHkY30oFnkrhy35wOkQ=="
 ---

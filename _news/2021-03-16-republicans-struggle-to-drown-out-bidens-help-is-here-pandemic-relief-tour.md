@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden forced to confront 2nd mass shooting in a week amid COVID relief tour"
-    excerpt: "For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant tone in the wake of tragedy. Biden is set to visit Columbus,"
-    publishedDateTime: 2021-03-23T19:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-ap-jef-210323_1616522339491_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "V9u44P4mvAdwchu3/YJkf0Oq/P6LBEZlY9e3BbTGAECU0s+iztgHmAABBLTkYQhjH9Cvsf9KN74oT0MqJUewj+AzB0qIFtDEwak7xHsduvcdEgffl7WpMBWi0vb6+nDOr9fv/RlFSVtwTAQsQIcQqJEFCyHKpYCXUyhJR0O6NGU5h3hVSHxwqOAQ0dwkzt+7wvi91pI+3n3tpT5RUL0wreU/bxZ0BFDqDcaZVUA/VuXMzARS23Mw3gTkdhr2qYNsGV8gi+xTGwlsevO2BMsPqihOZ2wbWQ2exQiVMCBAsT7N2DqDw3axgrqrCQevWHmBcBa5aT0rU+XIK57TyN7pNUmFuWz6mNLDsM3hbCuzsaE=;WqRG2+C70VoGevxe0eDy2w=="
 ---

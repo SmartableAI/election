@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2110
+heat: 2130
 published: true
 
 provider:
@@ -1452,6 +1452,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/26/USAT/04a33651-a5ac-4150-bde8-f4a23cea8aa2-c8d1dd0c-cac8-42a7-8ab3-d6aede2b96fe_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "'Help is on the way': Kamala Harris visit to New Haven sends clear message, lawmakers say"
+    excerpt: "I’m fired up to welcome my former colleague in the Senate and friend Vice President Kamala Harris to Connecticut today,” Murphy said in a statement. “Earlier this month, Congress passed the American Rescue Plan — one of the most significant pieces of legislation in a generation — to crush this pandemic,"
+    publishedDateTime: 2021-03-26T14:15:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Help-is-on-the-way-Kamala-Harris-visit-to-16055292.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 46
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/23/66/20790691/3/rawImage.jpg"
+        width: 2048
+        height: 1449
         isCached: true
   - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
     excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."

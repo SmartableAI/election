@@ -1458,6 +1458,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "'Help is on the way': Kamala Harris visit to New Haven sends clear message, lawmakers say"
+    excerpt: "I’m fired up to welcome my former colleague in the Senate and friend Vice President Kamala Harris to Connecticut today,” Murphy said in a statement. “Earlier this month, Congress passed the American Rescue Plan — one of the most significant pieces of legislation in a generation — to crush this pandemic,"
+    publishedDateTime: 2021-03-26T14:15:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Help-is-on-the-way-Kamala-Harris-visit-to-16055292.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 46
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/23/66/20790691/3/rawImage.jpg"
+        width: 2048
+        height: 1449
+        isCached: true
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
     publishedDateTime: 2021-03-12T11:13:00Z

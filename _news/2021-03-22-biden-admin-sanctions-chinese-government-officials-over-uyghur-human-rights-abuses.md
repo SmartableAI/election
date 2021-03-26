@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-sanctions-chinese-government-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
 type: article
 quality: 169
-heat: 169
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,88 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden nominates Sen. Joe Manchin's wife to federal commission"
+    excerpt: "President Biden has picked the wife of an extremely influential U.S. senator for a federal commission post, the White House announced Friday. "
+    publishedDateTime: 2021-03-26T15:09:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0n5jaLnRznQ/biden-nominates-joe-manchins-wife-federal-commission"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Gayle-Conelly-Manchin-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
+    excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
+    publishedDateTime: 2021-03-08T17:50:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U1SHnNmKhqM/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democratic border-town mayor: Biden admin handling of crisis ‘a slap in the face’"
+    excerpt: "The Democratic mayor of a southern border town says he’s incensed over the Biden administration’s handling of the immigration crisis in his backyard — and he’s \"pleading\" with Washington to do more to stem the stream of migrants pouring into his small city. "
+    publishedDateTime: 2021-03-22T00:31:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a30dfc5-144a-4b76-96c1-f6baf817c817/92e81741-299a-4f50-9d6c-b1338e279cb2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting"
+    excerpt: "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice."
+    publishedDateTime: 2021-03-25T17:03:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBRj34gvkN0/vanita-gupta-tie-senate-committee-doj"
+    ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden HHS nominee Rachel Levine becomes first openly transgender federal official confirmed by US Senate"
+    excerpt: "Dr. Rachel Levine, Pennsylvania's former top health official, earned confirmation Wednesday in the Senate to become the new assistant secretary at the Department of Health and Human Services (HHS)."
+    publishedDateTime: 2021-03-24T21:34:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/09ybM-BKHB4/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rachel-Levine-Biden-assistant-health-secretary-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "ZKWIaQpV5EpTa56nJ6mKQoBYgK8gqGzQrPXKkDS+SSeAz7qFnzu7ZQBWRv2N9UICGxtV0L2dNAEm9kb63YXE1D8WKuyIfOEG+pEeLjgh51orHYe/sPo5bsNSqyCrYLvkL/Rk4dgT1tTs5eoEASeuQ67WCpIMeIEmjMvB4rCco3TGMgWBk9pCQILjYZ/bnzJUE6EFDohMrVwTmvN0fxOw7koCLweksmUQdSBMAB02grPWhn6qeaBCqrlBDPR97ErhSgbouqUlmJFO4TRiD3t6BTH6w9sqT9ea4N07BUpvBjIloGom5oZIOZYK76fu8HzK5XuhPydVN+hHV4+ucB5n77vt+mHj020nJHjyqLTPWlM=;Eu6pzDcWQCk2WfYe/8fZEQ=="
 ---

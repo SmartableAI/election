@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "McEnany questions whether Biden is 'decision-maker' or 'abdicating responsibility' on border crisis"
-    excerpt: "Former White House press secretary Kayleigh McEnany slammed the Biden administration on \"The Story\" Wednesday over its management of the southern border crisis, saying they have failed to make good on their \"transparency promise.\""
-    publishedDateTime: 2021-03-24T20:53:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPJJGmh3e88/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8253857f-4b01-47f7-80ce-5ef872abead0/8f71d700-0198-4b34-a857-db543ac49bb4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "bcnYiis0DSdK6Vs5iXGXbwDPQ8Zxy49/NqZhsWGVnAybFbRjpZyMxY+a08bTlA7QsThN/+pBFfSapF8C0JPLP7l0TkW1ZWh2sr6NRXvDkyE0IvpoRcaOCvsQfcxlxtS3aGreILOYLa+qFi4LMz1uwlaLFTwNtL5YhxSVYhAr6OgtNHkYJ/x/bbKoTlaEU3QCGHeWSxowAGuIy9a9fw72dwXlutTU2uCD9YWGBwsp3CDVhy8YDU7eBYasv9q4fWBlypO1DCQOKxM4DRESm9KKBKUgKwqc1RG0p1oJszybK4RQOzSb83NU+ADndma7uwdGqYpkBpiMpEzXr8Lt89uyZs9eIRJbcE2ErxMqK+U+Azg=;8wItL+4WPtBt6M718wh3jA=="
 ---

@@ -31,101 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "White House partners with social media influencers to pitch Biden policies"
-    excerpt: "The White House is partnering with social media influences to pitch President Biden's policies and proposals, including the American Rescue Plan, pioneering what officials are calling a \"digital media tour\" amid the coronavirus pandemic."
-    publishedDateTime: 2021-03-08T16:51:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lJmh6DwrM_o/white-house-social-media-influencers-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
+  - title: "Biden nominates Sen. Joe Manchin's wife to federal commission"
+    excerpt: "President Biden has picked the wife of an extremely influential U.S. senator for a federal commission post, the White House announced Friday. "
+    publishedDateTime: 2021-03-26T15:09:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0n5jaLnRznQ/biden-nominates-joe-manchins-wife-federal-commission"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Gayle-Conelly-Manchin-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden, no stranger to inappropriate touching accusations, gives Cuomo pass"
-    excerpt: "President Biden refused to join the chorus of fellow Democrats calling for New York Gov. Andrew Cuomo to resign, as Cuomo faces multiple scandals, including allegations of improper touching."
-    publishedDateTime: 2021-03-15T15:09:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fIN5Q2skAIo/biden-inappropriate-touching-accusations-cuomo"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden admin 'letting everyone in' with catch-and-release policies: Rep. Biggs"
-    excerpt: "On Tuesday, Rep. Andy Biggs R-Ariz., claimed that the Biden administration is \"basically letting everybody in\" at the border and said that they are \"encouraging\" more people to come as immigration continues to surge in the United States."
-    publishedDateTime: 2021-03-09T19:40:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hmj13dvFOi8/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9e41ac5-58cd-4c8d-8149-9a801492bc51/51f9b07e-f976-4081-b4a5-c67a36353512/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hunter Biden probe 'active and ongoing' without White House interference: sources"
-    excerpt: "The federal investigation into Hunter Biden’s “tax affairs” is “active and ongoing,” two sources familiar with the status of the probe told Fox News."
-    publishedDateTime: 2021-03-03T13:43:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBi-2viDn9I/hunter-biden-probe-active-ongoing"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp"
+  - title: "Democratic border-town mayor: Biden admin handling of crisis ‘a slap in the face’"
+    excerpt: "The Democratic mayor of a southern border town says he’s incensed over the Biden administration’s handling of the immigration crisis in his backyard — and he’s \"pleading\" with Washington to do more to stem the stream of migrants pouring into his small city. "
+    publishedDateTime: 2021-03-22T00:31:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a30dfc5-144a-4b76-96c1-f6baf817c817/92e81741-299a-4f50-9d6c-b1338e279cb2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden admin sanctions Chinese government officials over Uyghur human rights abuses"
+    excerpt: "The Biden administration on Monday sanctioned Chinese government officials over \"serious human rights abuse\" against ethnic minorities in the Xinjiang Uyghur Autonomous Region, and warned that China will continue to face consequences should the \"atrocities\" continue."
+    publishedDateTime: 2021-03-22T19:06:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Ronna McDaniel: Biden seems more concerned with opening borders than opening schools"
-    excerpt: "The media needs to start probing President Biden the same way they would former President Trump, Republican National Committee Chairwoman Ronna McDaniel said on Friday, reacting to the commander-in-chief facing growing criticism for not holding a formal press conference in the six weeks since taking"
-    publishedDateTime: 2021-03-05T18:08:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e9skWQUfYq0/ronna-mcdaniel-media-biden-open-borders-schools"
-    ampWebUrl: "https://www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
+  - title: "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting"
+    excerpt: "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice."
+    publishedDateTime: 2021-03-25T17:03:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBRj34gvkN0/vanita-gupta-tie-senate-committee-doj"
+    ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Katie Pavlich: Time for Biden to 'take some questions from the press corps about his policies'"
-    excerpt: "President Biden is not fulfilling his promise of transparency to the American people after going his first seven weeks in office without holding a formal press conference, \"Outnumbered\" panelist Katie Pavlich said Tuesday."
-    publishedDateTime: 2021-03-09T21:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pQMcmJ-6hGU/katie-pavlich-joe-biden-press-conference"
-    ampWebUrl: "https://www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
+  - title: "Biden HHS nominee Rachel Levine becomes first openly transgender federal official confirmed by US Senate"
+    excerpt: "Dr. Rachel Levine, Pennsylvania's former top health official, earned confirmation Wednesday in the Senate to become the new assistant secretary at the Department of Health and Human Services (HHS)."
+    publishedDateTime: 2021-03-24T21:34:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/09ybM-BKHB4/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rachel-Levine-Biden-assistant-health-secretary-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "dKQ/xCGdCq2dy2RLjRSvFkfP4GEUVqaPyC5xOKOJN8gcP9ZEpx1T2CUjRwc2iZ+LwPs6mVDXxc2i6keFamkl9g+hhzHBRwySoRmCqLcXK9NGei8OQaCRA39qyhZFiKrVErwU9mXJiP6L8iRLvSW6U0merZ+WVoJEtuDJ4tMv3PDwhRTXcAJTvq3wAj+AeiuUtJqoXOqvd4AhMb7BmOLwIBDsoLArbv6N5mwGDvwZDG40q+2uvJA7MKIhoj/AkvsFkJnjCF1xtL3GiEs75+mzd2XFYxHuazDMHc5zMmD5Vm9pRIX6r+NjAS1wB+ThsQd/sMOMgUpakPntK3NkH19RPUoPapWvARFtZm2Nx7dyI6c=;7iD7HkQiGB/HNF3atcTplQ=="

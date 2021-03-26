@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-gop-state-voting-legislation-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gop-state-voting-legislation-jim-crow-jim-eagle.amp"
 type: article
 quality: 169
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Rep. Byron Donalds rips Biden for invoking Jim Crow in filibuster debate: 'Irresponsibly injecting race'"
+    excerpt: "EXCLUSIVE: Republican Rep. Byron Donalds slammed President Biden on Friday for invoking Jim Crow during his first formal press conference, saying he is \"irresponsibly injecting race\" into the conversation."
+    publishedDateTime: 2021-03-26T15:10:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRAb51L5T_U/byron-donalds-biden-jim-crow-filibuster"
+    ampWebUrl: "https://www.foxnews.com/politics/byron-donalds-biden-jim-crow-filibuster.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/byron-donalds-biden-jim-crow-filibuster.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "d51ef4B1fu3hDIBY9KPVpqMTNWFzlTBpJskhszy4Cl/Q234goVFiJ3gRDNIdlY/AhucU6XJ8UR62cicAeL+HHbZXztz7ytKX4y5TGVYb8m2e1smrbNq2hTs9dVmgBPkzc0DzrsOEhLPQ0okLHc/Jo0SVw9Z5J6fmC2XmX6rIUt7UOYgffpp9jWzr8HpXC72aZIC8IoEgblMp2sW+lAEAzwPK8ouGDhbIrFejWu54fNq3tmVIJuXCgR/MYTEDzSp42GnAd0WCBJyuRwSQbmfUGuYSbiMqg74QUAATPibZ8Q9EOqYoRMQcisz1Ls5gdvs4rI1Oq42K2McN8RRFzU1KyyUYknYMp7ll711yzADuM6E=;2H9K5wgGtM1v+yj2tf82rw=="
 ---

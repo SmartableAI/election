@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kayleigh McEnany blasts Biden administration for 'unprecedented' lack of media access to border"
-    excerpt: "Former White House press secretary Kayleigh McEnany slammed the Biden administration Tuesday for what she described as an \"unprecedented\" lack of media access to the border."
-    publishedDateTime: 2021-03-23T21:38:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany"
-    ampWebUrl: "https://www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
+  - title: "Ron Johnson: Biden admin seems 'deaf, dumb and blind' to border crisis, dangers to migrants"
+    excerpt: "The Biden administration is \"deaf, dumb, and blind\" to the dangers posed on the migrants as they attempt to cross the southern border, Sen. Ron Johnson, R-Wis., told \"Fox & Friends\" on Thursday, addressing the crisis that prompted GOP lawmakers to visit the border."
+    publishedDateTime: 2021-03-25T15:01:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M7Ml25ArZkc/biden-border-crisis-dangers-to-migrants-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-dangers-to-migrants-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-dangers-to-migrants-ron-johnson.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Kayleigh McEnany: Biden administration 'incentivizing' flow of migrant children at southern border"
-    excerpt: "Former White House press secretary and Fox News Analyst Kayleigh McEnany reacts to the growing influx of migrant children at the southern border."
-    publishedDateTime: 2021-03-16T22:52:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdtHfZOHqhY/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
+    quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Ari Fleischer rips Biden over border access comments: Like a 'co-conspirator hiding evidence' from police"
-    excerpt: "President Biden made stunning comments defending the administration's purported transparency when it comes to access to federal border facilities says former White House Press Secretary Ari Fleischer on 'The Story'"
-    publishedDateTime: 2021-03-25T20:44:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3eSENFVnUc/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police"
-    ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd742417-0277-4ffa-bd4d-9af9bfdb3da2/9d6078a7-a336-465e-a188-c328ab15256f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "35Eyi96PgHBvFEWFsLDIYYNX+3YbphbzRsLE9oMNmyNN+HYSwUhp4Xp4o5NlaArWaMlwIkABJa26R+0akUNUZk+9L1P9KJZKj4FCVfFpFcS7/o+0H4AS8iVXnonrAb5m2Ywy9tZcer2lOHi1SVTnEIY0ekc8l9wKY95OxSC0e8pwrBsxVyKmDXRt74Nj0YhIYrE7b53mG+X199lxocPpgbbbz+Mp1epo6VHXQR1eHq34OvWvSF0WtI2UOLEYEv4mYjTvEXu45kS+9+JYKOyOZ8erWYlTSAFdIcqbcBqZE2ITxmDicMs8K1/998Ru9GLYJds0uZGStbfxgKtXjgYZVVLU49M6IIUN0wpRXAblBQg=;R+RV6R8b1lBJPpb7W6oRzg=="

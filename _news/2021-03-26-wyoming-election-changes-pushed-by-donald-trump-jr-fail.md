@@ -155,6 +155,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "GOP 2024 contenders enter Iowa, wary of Trump's long shadow"
+    excerpt: "Their first step is finding out whether activists there have gotten over the last one. Former President Donald Trump remains a hulking presence in Iowa, where he won twice by healthy margins. He's hinted he'll run again, and his false claims that the last ..."
+    publishedDateTime: 2021-03-26T04:28:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump Endorses Shafer for Reelection to Georgia GOP Chair"
     excerpt: "Former President Donald Trump has endorsed David Shafer for another term as the chair of the Georgia state Republican Party."
     publishedDateTime: 2021-03-24T22:28:00Z

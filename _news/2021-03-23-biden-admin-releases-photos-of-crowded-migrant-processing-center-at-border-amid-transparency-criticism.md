@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "White House appears to scrub Biden gaffe from transcript after calling Afghan president wrong name"
+    excerpt: "The White House quietly corrected a gaffe President Biden made during his Thursday press conference in which he appeared to mix up the names of Afghanistan President Ashraf Ghani and the controversial former head of Pakistan's military. "
+    publishedDateTime: 2021-03-26T15:11:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aryCehvT4Nk/white-house-biden-gaffe-transcript-afghan-president"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-gaffe-transcript-afghan-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-gaffe-transcript-afghan-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House pulls Biden Interior nominee after Murkowski opposition, backtracking on second nominee this month"
     excerpt: "Biden's presidential transition organization announced Klein ... Neither did representatives for Sen. Joe Manchin, D-W.Va., a Democrat from an energy state who also reluctantly supported Haaland. Democrats theoretically could still have confirmed Klein ..."
     publishedDateTime: 2021-03-23T23:07:00Z

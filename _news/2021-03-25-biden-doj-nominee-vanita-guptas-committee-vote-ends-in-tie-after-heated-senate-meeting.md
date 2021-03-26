@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-tie-senate-committee-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
 type: article
 quality: 167
-heat: 207
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Senate Republicans demand second hearing for Biden DOJ pick Gupta after 'misleading' comments’"
-    excerpt: "Republicans on the Senate Judiciary Committee have called for President Biden’s pick for associate attorney general, Vanita Gupta, to return for a second round of hearings to answer for \"misleading statements.\""
-    publishedDateTime: 2021-03-23T23:17:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gt82kthzyoM/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.amp"
+  - title: "Biden nominates Sen. Joe Manchin's wife to federal commission"
+    excerpt: "President Biden has picked the wife of an extremely influential U.S. senator for a federal commission post, the White House announced Friday. "
+    publishedDateTime: 2021-03-26T15:09:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0n5jaLnRznQ/biden-nominates-joe-manchins-wife-federal-commission"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f951585d-1e2c-4820-b736-c3d5188c7fff/9c37fc46-b54b-4522-a271-887cac9b5adf/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Gayle-Conelly-Manchin-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
+    excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
+    publishedDateTime: 2021-03-08T17:50:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U1SHnNmKhqM/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Vanita Gupta could be Biden's 'most dangerous' DOJ pick, GOP senator argues, while Dem leader decries 'smears'"
-    excerpt: "The Senate Judiciary Committee met Wednesday to discuss President Biden's nominations of Lisa Monaco to be the next deputy attorney general and Vanita Gupta as associate attorney general."
-    publishedDateTime: 2021-03-18T15:57:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yy9Q6YK9c_A/vanita-gupta-biden-doj-pick-john-cornyn"
-    ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-biden-doj-pick-john-cornyn.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-biden-doj-pick-john-cornyn.amp"
+  - title: "Democratic border-town mayor: Biden admin handling of crisis ‘a slap in the face’"
+    excerpt: "The Democratic mayor of a southern border town says he’s incensed over the Biden administration’s handling of the immigration crisis in his backyard — and he’s \"pleading\" with Washington to do more to stem the stream of migrants pouring into his small city. "
+    publishedDateTime: 2021-03-22T00:31:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a30dfc5-144a-4b76-96c1-f6baf817c817/92e81741-299a-4f50-9d6c-b1338e279cb2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden admin sanctions Chinese government officials over Uyghur human rights abuses"
+    excerpt: "The Biden administration on Monday sanctioned Chinese government officials over \"serious human rights abuse\" against ethnic minorities in the Xinjiang Uyghur Autonomous Region, and warned that China will continue to face consequences should the \"atrocities\" continue."
+    publishedDateTime: 2021-03-22T19:06:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden HHS nominee Rachel Levine becomes first openly transgender federal official confirmed by US Senate"
+    excerpt: "Dr. Rachel Levine, Pennsylvania's former top health official, earned confirmation Wednesday in the Senate to become the new assistant secretary at the Department of Health and Human Services (HHS)."
+    publishedDateTime: 2021-03-24T21:34:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/09ybM-BKHB4/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rachel-Levine-Biden-assistant-health-secretary-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "pUiLhQeh/jch5Jf2I6T7oDVFBxz6Zo2CZ0TTGng9CC83K4ubR5VzXDabgwBE0bHWefPxqSfH2g9h/LUF8sEEl+frsKkUVadsz8qrLrV7WzkQmZsOuifo0i4vf9YJebLobOZXfSRpmKFBpzwgDGDeDm0lr+R2YtrE9qFG11g4bcuCnOXOjLd7HIr0eHP9rRKweFuIh1+bpOB24zZBynLbgFS1fo/lIjPp66lu9qU3Twhyi205T926jyAKFW4RGtIZqo6qIM+V6Ts7a3HyYGqWq8WhsHUfnddvr8IFAziyWfpIoOLrLNhQF5cTl/ae8VF82IE13sfoF2pVWMPM+cIM7sW8lHBKBZXpbWp4GphhiPM=;JPtAbuSz8cRyUpUG7VKItQ=="

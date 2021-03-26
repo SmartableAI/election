@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Biden's disciplined agenda rollout tested by the unexpected"
-excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
-publishedDateTime: 2021-03-23T22:40:00Z
-originalUrl: "https://www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3"
-webUrl: "https://www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3"
-ampWebUrl: "https://www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3?amp"
+excerpt: "In less than a week, two mass shootings have overshadowed President Joe Biden’s “Help is Here” tour, during which he planned to herald the ways his administration is helping Americans ..."
+publishedDateTime: 2021-03-23T23:27:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840"
+webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840"
 type: article
-quality: 105
-heat: 125
+quality: 125
+heat: 145
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,24 +24,30 @@ topics:
   - Election
   - Joe Biden
 
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_8345d3a617554d8dbfe98309391d7205_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
 related:
-  - title: "What could be in Biden's massive infrastructure bill, from free community college to upgraded roads and bridges"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
-    publishedDateTime: 2021-03-23T18:23:00Z
-    webUrl: "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp"
+  - title: "Biden forced to confront 2nd mass shooting in a week amid COVID relief tour"
+    excerpt: "For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant tone in the wake of tragedy. Biden is set to visit Columbus,"
+    publishedDateTime: 2021-03-23T19:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
     images:
-      - url: "https://i.insider.com/604940ed9942cf001865db46?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-ap-jef-210323_1616522339491_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
-secured: "sZEdw/MBWqsuzwaWWdMly9zgHT61wEfQgmAqZBoZCF2oouo0Y1KTh3JlFZgxS/yYPS+ML0NCAy5k1hkKZWDiG7ZnUOfhKW+EdGj6YkfRPY2zUUNwRMiYYdVjPBKSpwqzhczYFyKx9vL+vlZk+q/F5prj67KqYn4p4Y7YzrPetrjqrgVQw5XTy/mMajQVip68ppbthxW5/DQeMC6zDvZgyCYa/a5cA0G0HLKb0XYgcPRcHt33hNr0ZXIrBc38Y6kQzJkwJwCGvkg+zDtys92lu5kQ+tTqNUweEuhLud6PHvK8tX2577k3wGykMjS0/82+KlDsuxfxxtrZYrOXzdTDsGX2n2gQaKkSwUQHXNNSiIY=;TAwsMRrR6nZ8NYeq/e3Maw=="
+secured: "MzMXudEocxzEh2+KzzSmxShfDHBPH1x6ZiAcn3l2DN2quD6eop64Ps0QOV7n0zlWujSArZkqmy2cBNfTvaUdE7tXhBqu4pPymZBZwcPLvc08Eu4NT4RdHDoGPbG0+dsHoKtq5ZdU6UDl5PsdOsUGgRGYRkh07+ZqVF5WEiUiEw9oZrWZS0YaSjdvyLDC7TZGO+QVSmaR2ER7kXWa+OFJBDDr7sjgG9d+QrL7t1LE4CfK+jBhncu31mrqrkVeisDwroD8ONJaayDICzysylwSORM8JAxjlw7HDb0bidEl46DZtJGA39qoTQWt2QTo5ago95Kh6U0AvPU7PPaJoVvKLjx6rsciX2EEZCpbmhn5u28=;cbyJlRYA31V2BA3yv2ON6A=="
 ---
 

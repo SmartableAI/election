@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
-excerpt: "Republicans have been sharply critical of Biden’s immigration policies, and it will likely be very difficult to get any border-related legislation through the evenly divided Senate. Joe Biden described Kamala Harris as “the most qualified person” to ..."
+excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
 publishedDateTime: 2021-03-24T18:27:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b85038f08a9515e8368e3"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b85038f08a9515e8368e3"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b909a8f08b6e4f17c9ee2"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b909a8f08b6e4f17c9ee2"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 type: article
-quality: 137
+quality: 127
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
@@ -255,6 +254,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550766715&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171A6"
         width: 818
         height: 545
+        isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
+    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+    publishedDateTime: 2021-03-25T06:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b33aa8f08fe2b74447778"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 132
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
         isCached: true
   - title: "Kamala Harris slowly starts to carve out role beyond 'making sure Joe Biden is a success'"
     excerpt: "Vice President Kamala Harris has said her signature issue would be \"making sure Joe Biden is a success,\" but a friend noted \"nothing about Kamala Harris is number two.\""
@@ -669,22 +684,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/d7f0482/2147483647/strip/true/crop/4307x2813+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcc%2Fd5%2Fc4b4d1a94187b12a011a9623b5b0%2Felection-2020-joe-biden-74848.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
-    excerpt: "Besides Becerra, vice president Kamala Harris was state attorney general before she was elected to the US Senate. I'm so excited that Governor @GavinNewsom has nominated my good friend @RobBontaCA to be CA's next AG. Rob is a fighter for justice & will ..."
-    publishedDateTime: 2021-03-24T23:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bd10a8f08b6e4f17ca21e"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
-        width: 600
-        height: 360
         isCached: true
   - title: "President Joe Biden in call with China's Xi Jinping raises human rights, trade"
     excerpt: "Joe Biden held his first call as president with China's Xi Jinping, pressing him on trade and Beijing's crackdown on democracy activists in Hong Kong."
@@ -1982,6 +1981,20 @@ related:
         width: 1140
         height: 712
         isCached: true
+  - title: "Vice President Kamala Harris to visit New Haven today"
+    excerpt: "The vice president’s plane will arrive at Tweed New Haven Airport in the early afternoon and she is scheduled to visit the Boys & Girls Club of New Haven, along with Secretary of Education Miguel Cardona,"
+    publishedDateTime: 2021-03-26T15:02:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-to-visit-New-Haven-16055501.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/23/72/20790972/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Vice President Kamala Harris will stay here until official home is ready"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
     publishedDateTime: 2021-01-28T17:35:00Z
@@ -2113,6 +2126,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "y8O0zYlgcHymaNZcwphwYduEwyQ+x4SOMLvZDOpmq30pM6NjJhwZzS3U2QJ8fRG/HW/9rPKPylpOX6kThB/hsMDflvSbua+5nK5QKVbMPZWYVoQpxZo/xy4LbGm6rmnctoY//GnO2EvDPCcUn70idHd1ib3E/ts/unZeISE+zPKyzoJH7jdg4nDsUcrTUgpdklk/EsW+OVkTUBqq7IaQcPhXo/1O+P+lfWFPjz+8iqYu51FOiGi4wpERbJ+S5FfwK3jWBnFVb+iQy+M8IAC2/OK351XtuyHNT4brgyXDbO9dsVr24NhgQYuQAFmvxqUSZhb1ayQRgPHYjGeY9czOZ/L8Ob2lvBvIxiLobiIl0Yk=;ipK6P7TNn2H7IOtkyotnMw=="
+secured: "pXiKoBXxcxub6pTUokG2DoxRlzXa1TTvZqpQnhJYz2UMKGsataCTBjnVu4NYkWGS22Oj/3+utzQhZPkcO4y6pWKFDo2jFG47pb1XfYqers332c2rstJaszEGhS9QPqAYD70aGym+0efktHsvlYBsevi621wdOJgw/ZMJzoUz3otwIrdPEO6LeRtB3HdHAhJ+eshHYyasc9zqbxQhpGFQ13ePyU7+BglRHMrnwMqL4b7EUPpXcJfxUG7hiZJfM4FRU4dDYt+yrsbBTUNyUY0VdmeUXd6diR02HvNUl2wyYFNqZalB7b60GbZFtPdFKLJuNSU3djqREHVcTDP7hMBWxU5UGYKRVUT1ZkJz4DNvHzs=;qztT1Tmwd5erZThDYY3vHA=="
 ---
 

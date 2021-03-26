@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris: \"Stop Pushing The False Choice That Gun Control Means We're Coming After All Your Guns\""
 excerpt: "Vice President Kamala Harris said Wednesday on “CBS This Morning” that “it is time for Congress to act” on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws."
 publishedDateTime: 2021-03-24T18:13:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html#!"
 type: article
 quality: 49
 heat: -1
@@ -148,6 +148,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "QVjdqz3nd2FMD/ShqTJr/zd11Qxge8X8YnaUW7kkPk0bKrD0xuaF9s8xjrriFOYb05+rbh6mk39OcRdUxtjErOPZZBKPZgx6bT52J0ZbdxQiZXkt3grW+icPgcmz47BErig5Jtes6nF1tU88aoaOEGA3vDReqpZBB0aB/lOqQAUG3tiPjJm0zr/orABQHf2CKi43W9gowpFjwHsn/imDXtNYyvWG7ijicf5YgJnyuvTkpQyt8TvX4oHwG8HzPv3x/8rit/D99eqKMrb8Ua4np75A34e/ebysMZNnyOwBgJ2Ky2LDc6rNA9ob35LqR9Mt8dazUNli63kqonvTCasGTkijcthpdR0KJEWTNVWQcTCq5OgOwSXOAufbB0O0Zw2KVE4X/ApAbPuN9AFUsZFGUjfinsRv+tZFtw9c2Vpw14igeW8r53fy35F74jLEdoEGqYIxvDHFjQ3tLquRaTi++qYPyO9r2qLqjvvicKXSJY77uy5qhi45i7r2VGtCRDhR2a98ZVjnF/NUooRuFBxwwg==;pjQMBCBHSYXFMpGT8h+Eeg=="
+secured: "Swj1DXnJo/VDyr6bE3oeClLkVtD4Vg3AG3X7EbHv+xJZ6G2cSskN0JLyJoGt4xjD9QO9WBdruDv0NNd8JBjLNHkSQGBDH9RjnCE27IRD4gp9BWg718qIwZvIp5H/AYADKBnT0zHNm3OLFzROYc0TZuEjJGbJoQQ48in0QQgUI6kmnswN+pBlgZWiVdp5KXrhwqTRN8EZ1s457c9tYWBOCv8Zta39ZDZ8mXSDBpbLA6UWYXhGJPSAB3cc7uFWg8pXyoFOaNI5GwnRzASheFzx3Cm9jaZJCi5UFZPVSwlOc7y4HFTll5m/RpFAmWTxBpATyE/vAoIjlRm41a/kwLp20kXUpsb3ms3XthVPBrAJXG8=;9C5uAYuo/u+9S5Ff4Zn43A=="
 ---
 

@@ -210,6 +210,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-24-bidens-disciplined-agenda-rollout-tested-by-the-unexpected.md",
+      "title": "Biden's disciplined agenda rollout tested by the unexpected",
+      "excerpt": "In less than a week, two mass shootings have overshadowed President Joe Biden’s “Help is Here” tour, during which he planned to herald the ways his administration is helping Americans ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_8345d3a617554d8dbfe98309391d7205_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
+      "publishedDateTime": "2021-03-23T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-biden-says-we-have-to-act-on-gun-control-and-calls-on-senate-to-close-background-check-loophole.md",
       "title": "Biden says \"we have to act\" on gun control and calls on Senate to close background check loophole",
       "excerpt": "Before Biden advocated for the Senate to act on the two House-passed bills that would close loopholes in the background checks system, centrist Democrat Senator Joe Manchin of West Virginia told reporters that he opposes the measures. \"I mean, I come from ...",
@@ -262,22 +314,31 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-bidens-disciplined-agenda-rollout-tested-by-the-unexpected.md",
-      "title": "Biden's disciplined agenda rollout tested by the unexpected",
+      "path": "_news/2021-03-24-what-could-be-in-bidens-massive-infrastructure-bill-from-free-community-college-to-upgraded-roads-and-bridges.md",
+      "title": "What could be in Biden's massive infrastructure bill, from free community college to upgraded roads and bridges",
       "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3",
-      "originalUrl": "https://www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3",
+      "webUrl": "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3",
+      "originalUrl": "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/604940ed9942cf001865db46?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-disciplined-agenda-rollout-tested-by-the-unexpected-2021-3?amp",
-      "publishedDateTime": "2021-03-23T15:40:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp",
+      "publishedDateTime": "2021-03-23T11:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -801,7 +862,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2110,
+      "heat": 2130,
       "tags": null,
       "images": [
         {
@@ -1223,7 +1284,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1507,58 +1568,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-the-latest-biden-says-we-all-lost-something-to-pandemic.md",
-      "title": "The Latest: Biden says ‘we all lost something’ to pandemic",
-      "excerpt": "President Joe Biden is delivering a somber but optimistic message on the one-year anniversary of the coronavirus pandemic",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-11T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
