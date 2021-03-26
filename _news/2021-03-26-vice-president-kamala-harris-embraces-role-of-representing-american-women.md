@@ -1437,6 +1437,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Crowds turn out to greet VP Kamala Harris in New Haven"
+    excerpt: "NEW HAVEN — Vice President Kamala Harris arrived at Tweed New Haven Regional Airport aboard Air Force 2 just after 2:20 p.m. Friday. Before she arrived, at least 100 people were lined up by the fence along Burr Street near the airport. About an hour-and- ..."
+    publishedDateTime: 2021-03-26T18:56:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/17/20792269/3/rawImage.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
     publishedDateTime: 2021-03-18T13:09:00Z
@@ -1448,10 +1462,26 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Vice President Kamala Harris arrives in Connecticut to highlight federal stimulus plan; will visit child care center"
+    excerpt: "Vice President Kamala Harris arrived in Connecticut Friday afternoon for another stop on a tour to highlight the recently passed American Rescue Plan that will funnel billions of dollars into the state to help recovery from the coronavirus pandemic."
+    publishedDateTime: 2021-03-26T18:50:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 52
+    images:
+      - url: "https://www.courant.com/resizer/mL4q-cH5T3MIoQiDSeVKUfe0ZR4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PHMMVB552NCZ7GPJFV7BOFYMVU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'Help is on the way': Kamala Harris visit to New Haven sends clear message, lawmakers say"
     excerpt: "I’m fired up to welcome my former colleague in the Senate and friend Vice President Kamala Harris to Connecticut today,” Murphy said in a statement. “Earlier this month, Congress passed the American Rescue Plan — one of the most significant pieces of legislation in a generation — to crush this pandemic,"
     publishedDateTime: 2021-03-26T14:15:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Help-is-on-the-way-Kamala-Harris-visit-to-16055292.php?src=sthpdesecp"
+    webUrl: "https://www.stamfordadvocate.com/news/article/Help-is-on-the-way-Kamala-Harris-visit-to-16055292.php"
     type: article
     provider:
       name: StamfordAdvocate

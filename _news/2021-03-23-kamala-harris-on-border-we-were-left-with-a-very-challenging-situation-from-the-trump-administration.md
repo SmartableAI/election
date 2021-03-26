@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Nikki Haley hits Kamala Harris over past comparison of ICE to KKK"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Friday took aim at Vice President Kamala Harris, saying that she can’t be trusted to deal with the border crisis, citing a 2018 comparison the then-senator made between Immigration and Customs Enforcement (ICE) and the Ku Klux Klan."
+    publishedDateTime: 2021-03-26T18:26:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AG9duI3EtEw/nikki-haley-kamala-harris-compare-ice-kkk"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-compare-ice-kkk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-compare-ice-kkk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e70f7eab-30f9-4370-8a08-1d5f7866da5e/21b78449-660b-402c-920f-5e3981c084f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris supports change to filibuster in Senate to limit minority party power"
     excerpt: "Vice President Kamala Harris supports changing the filibuster practice in the Senate in order to limit the ability of the minority party to easily block legislation, her office confirmed to Fox News Wednesday. "
     publishedDateTime: 2021-03-17T14:54:42Z

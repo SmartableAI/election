@@ -96,6 +96,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP senators seek Hunter Biden gun incident information from law enforcement"
+    excerpt: "Two Republican senators on Thursday sent a letter to multiple law enforcement agencies inquiring about their alleged involvement in a 2018 incident when a gun belonging to Hunter Biden, the son of President Biden, temporarily went missing."
+    publishedDateTime: 2021-03-26T19:06:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSyMEz_clLA/gop-senators-seek-hunter-biden-gun-incident-information-from-law-enforcement"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
+        width: 4896
+        height: 2754
+        isCached: true
 
 secured: "DjNl1e92DE5H52JSA4A8w5AZDEE0aWjZsj3Gauu467H2Ih83QaXiUqnp68UF8FiEpugnDuirQjpD6YEe8wQdZPqY+OiYjKafG0ciG8YncMaNbbrH8sJmQhBx8NlcOPq61WzjI61DtFhx/abNxOi64YjamPW+HA1ita4OLZGMhS0ckvkqL7TjT1aQE6NjrDTkTQVxOGXhsJ8jCzS6Nn2VPr0yZ3LjibzW0OnlnjG3gyKOLyUPm3GxbgG1NxKjwSKcEzrlO4EV6BIqfoh/InzUe/vv9GtJBi43fa92TZdriCB3VhjOUSpnv83Rn7WMii+ymwFfeHsYDJ+uScdoxAgAO9xjypSCDcfjtqL62WdLGohuVq0mpqkickj7XjyvpQcf8QS2aZBg8a4o+2OHplvq8wY5ahQ4tlEDkUD1YF53doIR2bstesTduHZaFYDDutTo0/UauIfx1Z8pCZ820sOCcwuZlzQbYdmalHcWBYUO22boFtPtQiGlijqO8RbHQKpeZo4vno5iDOzL7DBbgfE7cw==;jo7xhq1ZHf8WLEJut0nzGA=="
 ---

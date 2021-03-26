@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-repu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e42456f-6849-4ff8-b571-9b1c530d7f39/bd6a06fa-1b7c-43aa-bc82-e8b7aff8a0b5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Swalwell's Trump lawsuit won't distract from Chinese spy scandal, Republicans say"
+    excerpt: "House Intelligence Committee member Rep. Brad Wenstrup, R-Ohio, ripped into Swalwell in a statement to Fox News, saying that the California Democrat’s lawsuit “comes across as politically vindictive” against Trump."
+    publishedDateTime: 2021-03-26T18:19:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6LUkF5fEG_o/swalwell-trump-lawsuit-chinese-spy-scandal"
+    ampWebUrl: "https://www.foxnews.com/politics/swalwell-trump-lawsuit-chinese-spy-scandal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-trump-lawsuit-chinese-spy-scandal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d0d0f6f-c245-4a57-938a-0ab9829fdd01/c3420777-fbb8-4401-9bd1-e5114088eaee/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

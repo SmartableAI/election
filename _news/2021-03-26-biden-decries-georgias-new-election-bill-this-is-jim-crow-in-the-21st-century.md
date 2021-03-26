@@ -1,0 +1,35 @@
+---
+category: news
+title: "Biden decries Georgia’s new election bill: ‘This is Jim Crow in the 21st Century’"
+excerpt: "President Biden blasted Georgia’s newly-passed voting legislation as an “un-American law to deny people the right to vote.” "
+publishedDateTime: 2021-03-26T19:24:14Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a_mgxCyVz8g/biden-georgia-election-bill"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a_mgxCyVz8g/biden-georgia-election-bill"
+ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-bill.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-bill.amp"
+type: article
+quality: 185
+heat: 185
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20302627306817-e1603909536701.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "vzm7uLhm8mRxY0wN2n3QsnULDeZvCjqwCjCofuPuLbd1Juevnb4eOuh2apj88a18iTZTqC1OQYjUMO2tVMV2lhbvoWIT1rR3zusrN3fpCP1UA3MI+jr+BwXFZlIbnDWXihYon7Lr/tOMwTWv2/2FreZwsN6/zWxk1EghDMovA1qpXlYcpK+CJlwKaZjYR8HqJIvEs+LufZWteXdRRvF1sJ4nQ1rAtVE4ApXxRklF0lk8fgnbM1XLAIsEJE+vHFL0oqTGkBCvdE9ofIYNfKu4bAvXLdJfkVWiIpWbGnCGyhuYJfKDvthQ4at2BIz8rsEp2uU7yWaO5yksSbleJ/svQiB/KXBFxY06cvQF9gIyTJ8=;uZ/6bu7pnnaDVqV+oAt7ig=="
+---
+

@@ -79,6 +79,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP senators seek Hunter Biden gun incident information from law enforcement"
+    excerpt: "Two Republican senators on Thursday sent a letter to multiple law enforcement agencies inquiring about their alleged involvement in a 2018 incident when a gun belonging to Hunter Biden, the son of President Biden, temporarily went missing."
+    publishedDateTime: 2021-03-26T19:06:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSyMEz_clLA/gop-senators-seek-hunter-biden-gun-incident-information-from-law-enforcement"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
+        width: 4896
+        height: 2754
+        isCached: true
   - title: "White House pulls Biden Interior nominee after Murkowski opposition, backtracking on second nominee this month"
     excerpt: "Biden's presidential transition organization announced Klein ... Neither did representatives for Sen. Joe Manchin, D-W.Va., a Democrat from an energy state who also reluctantly supported Haaland. Democrats theoretically could still have confirmed Klein ..."
     publishedDateTime: 2021-03-23T23:07:00Z

@@ -3,8 +3,8 @@ category: news
 title: "'Help is on the way': Kamala Harris visit to New Haven sends clear message, lawmakers say"
 excerpt: "I’m fired up to welcome my former colleague in the Senate and friend Vice President Kamala Harris to Connecticut today,” Murphy said in a statement. “Earlier this month, Congress passed the American Rescue Plan — one of the most significant pieces of legislation in a generation — to crush this pandemic,"
 publishedDateTime: 2021-03-26T14:15:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Help-is-on-the-way-Kamala-Harris-visit-to-16055292.php?src=sthpdesecp"
-webUrl: "https://www.stamfordadvocate.com/news/article/Help-is-on-the-way-Kamala-Harris-visit-to-16055292.php?src=sthpdesecp"
+originalUrl: "https://www.stamfordadvocate.com/news/article/Help-is-on-the-way-Kamala-Harris-visit-to-16055292.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/Help-is-on-the-way-Kamala-Harris-visit-to-16055292.php"
 type: article
 quality: 46
 heat: -1
@@ -1437,6 +1437,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Crowds turn out to greet VP Kamala Harris in New Haven"
+    excerpt: "NEW HAVEN — Vice President Kamala Harris arrived at Tweed New Haven Regional Airport aboard Air Force 2 just after 2:20 p.m. Friday. Before she arrived, at least 100 people were lined up by the fence along Burr Street near the airport. About an hour-and- ..."
+    publishedDateTime: 2021-03-26T18:56:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/17/20792269/3/rawImage.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
     publishedDateTime: 2021-03-18T13:09:00Z
@@ -1461,6 +1475,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/26/USAT/04a33651-a5ac-4150-bde8-f4a23cea8aa2-c8d1dd0c-cac8-42a7-8ab3-d6aede2b96fe_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "Vice President Kamala Harris arrives in Connecticut to highlight federal stimulus plan; will visit child care center"
+    excerpt: "Vice President Kamala Harris arrived in Connecticut Friday afternoon for another stop on a tour to highlight the recently passed American Rescue Plan that will funnel billions of dollars into the state to help recovery from the coronavirus pandemic."
+    publishedDateTime: 2021-03-26T18:50:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 52
+    images:
+      - url: "https://www.courant.com/resizer/mL4q-cH5T3MIoQiDSeVKUfe0ZR4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PHMMVB552NCZ7GPJFV7BOFYMVU.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
     excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
@@ -1510,6 +1540,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "ZPwFL9hQM4QrxWtrAc9pHboerse1VHD3NIt/6WLWbhZFMdAhEuiMC2V8gEwXeuMmFcmYu3K3xgfQPlMda9ZZdWEiEK3vSVaXf1Wrr7oSd+pzPYq7upVwvRY5cYSGVAYjWPR3nIT5s49X2U+6fzCTuy44UpuHZoNYKYvU98vp8StwKW2IqfjH8s1dQFkDTjEriuMAmGvg6jxog3Y+ccyZJsMR/HqPjaTxuqKec3lrZGvHQ/k8HNMTAxzu/VxIuOAC9nABvk2dElSlEYt1Z+4d7+na3pUjqKQXLKEGc+2H8xm4Q0HGKqfpZKyLJDqsUEWgf5XkB7pfE+8IDD9qeE6hx3tLJt9s2xMYiIxzyA7NG3aWlUjw/vlehGvRgLFAKNOrVg/4WWzFL/SxEibNnn9I2saE3qxYpCU+yzGV8eDh45YdadelYK0vbXMPxN7hNpdmftaQvdHwG8sHZGA1g/rKRJdW1Fp75oH+Ax9JJ/78zx1heqnslY3OjswFuzeweR3ZFvDTKhp+TnSaZrKw7qbSuA==;91L4EjL5ZwwO56QQTFFAgw=="
+secured: "WXm1iA74KQ/XeEk93/A0GPixcyE8KtvDioH9tHQwN7YuJefGaILpZhnKl4kDT3zqB/2IW/dznrzZZfoRmRf/C6WDUDiQ86q1WBMFs56PLyEqbIs3Buz0amg3F1tdkxEoHMM8koDMcwjb3Xiw3GU5O7wpE1usaaSAwgjsytexDnnW1FWVaEEicprDXt+AcrjSaeRS5++T+w44lj1hBaxwN8CJYXQP4njBEHL2NBB5GSxSEcrpjnHZ5vxMzjw/1KMsY9/7t1H+ipnNASRS7JdDz4pzOVhAi2FUM9pSGSj+Kx1G4yKTOYyeu9iUBWWJcogJ8t1YKiw0x5LB+0sWHxqgPSyg62JHSgjolpYCOReYozo=;SeXCeBbquWCT3HBW71tS+A=="
 ---
 
