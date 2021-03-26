@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
 type: article
 quality: 200
-heat: 820
+heat: 840
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 183
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Stephen Miller slams Biden for 'detestable lie' and 'smear' about Trump border policy"
+    excerpt: "Former Trump senior adviser Stephen Miller ripped President Biden’s \"detestable lie\" that his predecessor let migrant children starve to death, telling \"Fox News Primetime\" Thursday it was a \"smear against patriotic border agents.\""
+    publishedDateTime: 2021-03-26T00:32:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HPWbKUuhVO0/stephen-miller-biden-destable-lie-smear-trump-border-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-biden-destable-lie-smear-trump-border-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-biden-destable-lie-smear-trump-border-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

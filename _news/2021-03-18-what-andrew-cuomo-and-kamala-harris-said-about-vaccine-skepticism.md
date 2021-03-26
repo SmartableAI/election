@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/what-andrew-cuomo-kamala-harris-said-about-vaccine-skepticism/?outputType=amp"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -296,6 +296,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/a2e66df14992b3e3f123d45b6e37a43f/HARRIS-JACKSONVILLE.jpg"
         width: 650
         height: 420
+        isCached: true
+  - title: "Kamala Harris and Douglas Emhoff in the Virtual Passover Celebration"
+    excerpt: "U.S. Vice President Kamala Harris and second gentleman Douglas Emhoff participate in the virtual Passover celebration in South Court Auditorium at the White House on Thirsday, March 25, 2021 in Washington,"
+    publishedDateTime: 2021-03-26T01:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/95b6fb52a85df23a6d1ae5f774e05a70/Kamala-Harris-and-Douglas-Emhoff-in-the-Virtual-Passover-Celebration/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/95b6fb52a85df23a6d1ae5f774e05a70/PASSOVER-HARRIS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
     excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"

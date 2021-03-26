@@ -430,6 +430,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Speed read Biden's news conference"
+    excerpt: "President Joe Biden opened his first presidential news conference Thursday with a new promise to get 200 million Covid vaccine shots in American arms by the end of April -- and then spent the rest of the hour defending his administration's immigration policy and teasing openness to ending the Senate"
+    publishedDateTime: 2021-03-25T21:51:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D2zhHsJtM_g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/speed-read-biden-press-conference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/speed-read-biden-press-conference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325160346-biden-press-conference-0325-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to outline plan to administer Covid-19 vaccines to Americans Friday "
     excerpt: "President-elect Joe Biden will outline his plan to administer Covid-19 vaccines to the US population on Friday at an event in Wilmington, Delaware, according to his transition team.\n    \n"
     publishedDateTime: 2021-01-15T15:30:18Z

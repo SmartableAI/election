@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jill Biden cancels trip to Alabama with Jennifer Garner in wake of deadly tornadoes"
+    excerpt: "A scheduled trip to Alabama by first lady Jill Biden on Friday was canceled Thursday evening after deadly tornadoes swept through the state.\n    \n"
+    publishedDateTime: 2021-03-26T01:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iR-qI2pEIFM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/jill-biden-jennifer-garner-cancel-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/jill-biden-jennifer-garner-cancel-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303151336-04-jill-biden-school-visit-0303-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration prepares to activate 2 military sites in Texas for migrant children"
     excerpt: "The Biden administration is setting up two more emergency intake sites that combined will provide more than 5,000 beds to accommodate migrant children crossing the US-Mexico border alone.\n    \n"
     publishedDateTime: 2021-03-25T10:04:40Z

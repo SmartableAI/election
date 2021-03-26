@@ -1395,6 +1395,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "New Haven pizzerias primed for potential visit from Kamala Harris"
+    excerpt: "And with Vice President of the United States Kamala Harris poised to visit the Elm City on Friday, one more chance for New Haven’s apizza to generate headlines may be on deck — should the vice president have time for a stop at one of the area’s famed pizzerias."
+    publishedDateTime: 2021-03-25T20:42:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/New-Haven-pizzerias-primed-for-potential-visit-16053507.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/22/11/20783743/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
     publishedDateTime: 2021-03-18T13:09:00Z
@@ -1454,6 +1468,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "xnUswHtbMk9o59Lw6g2ZhSD6bhV5tyScQIHuoGCCI6tBVqiICk7wCvYjGgFy2MHkJgUHF8TrKb1iyDBo/S41PjjFuUPlJkXW8tq3hZ8MsOOceCQ3VIOyrktDKiEeXWYcH4GciZG/C5igfoKvVN1h9ZlT1l9LNRiowhHhMM6a4dLxPDssLI7ZGu3jZg/wY1kI/uCWm9ZntWIs79wpoDn2BiDGQjaMQAjft0CVZUnqMzLw+al4+CDCZRkra2rCbsxiZJEGwkiNccBCEDQJ+ljonwqNxUFktUDa4Dgs3SNQhJ4nlliU+MDKaBq+GgjZMyUUQ3Al/QMekK9YO93FiCsfDYhgOllAgz19yoRg9Lc5/YY=;54Ze14vFhYS9pW6L0m40FA=="
+secured: "R+tnLXa/KNITIQGMeDB8WWwlkq3GrpOwY/8sMzKcKb0YJV3udDLftJU6Nh+cagJ4BaPuE3AN2MpFHeiZzt2YQEfkV04kdP99CtzWuQzApD0h2x9ghoUTCffiEpF+6/ylTQz5LNWolJDORX9DBPUJsuNoN4I7sfFPtbriLfZZx3WRIAO0yL0dUpGdTUE0I30ndcLh40J2WgB5H/azngBEIVRoTIVPSBh6KQj5wEaZDGLaRXEK5dSUCG5W8yRyA2/c/5Iq+QIL2KVPA6lxBwVq+fTGEPzZyU8+9gWtPoOSRO5C5ujnEVnDFdkyB3VGXSbb+zSzxqloOpeB+aS8BH1+79w8J4K4nPzYsv1uyQzjxRH12ALQf6YKluLctQVm815yil2TcxggopVOy3aC122VC7HjaJnNkZ08wbimA0E1TxSuozixDZqQ2e/F8Ya5tSwnF5FK/Hu9k/V7+9bApgIfvvdWZBo4vMRkdhZY5lNRr5xIosV+IJsdzVqzXkZ6Nd8n3a2uNxhO0btY83nViURD3g==;Wqp/DE4SqX0yFig3DzTMeQ=="
 ---
 

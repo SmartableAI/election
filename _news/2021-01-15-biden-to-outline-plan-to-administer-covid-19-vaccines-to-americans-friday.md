@@ -431,6 +431,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Speed read Biden's news conference"
+    excerpt: "President Joe Biden opened his first presidential news conference Thursday with a new promise to get 200 million Covid vaccine shots in American arms by the end of April -- and then spent the rest of the hour defending his administration's immigration policy and teasing openness to ending the Senate"
+    publishedDateTime: 2021-03-25T21:51:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D2zhHsJtM_g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/speed-read-biden-press-conference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/speed-read-biden-press-conference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325160346-biden-press-conference-0325-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "20,000 National Guard troops expected in Washington for Biden's inauguration"
     excerpt: "The US Secret Service on Wednesday officially took charge of security for President-elect Joe Biden's inauguration as authorities warn of new threats across the country and unfold a massive security presence in Washington, DC, after last week's violence at the US Capitol.\n    \n"
     publishedDateTime: 2021-01-13T18:29:27Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
-publishedDateTime: 2021-03-24T22:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+excerpt: "US President Joe Biden, with Margaret Purce (L), Megan Rapinoe (C) and other members of the U.S. Soccer Women's National Team, signs a proclamation during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March ..."
+publishedDateTime: 2021-03-24T22:21:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9504e7104d3872c538409fed03b08e9c/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9504e7104d3872c538409fed03b08e9c/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/cbfc54451802f17b8b0273b5fef9d4c1/BIDEN-EQUAL-PAY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/9504e7104d3872c538409fed03b08e9c/BIDEN-EQUAL-PAY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1908,18 +1908,18 @@ related:
   - title: "President Joe Biden holds a meeting on Immigration at the White House"
     excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T19:54:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c142dab529c5750592029505b13ee941/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/c142dab529c5750592029505b13ee941/BIDEN-IMMIGRATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/d732d0189c73d74d5643bc1832501b67/BIDEN-IMMIGRATION.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "WoyIoL1tGJ2BN1b41GwC2tg6z0oVLQqpPDWUabRrsGQD25j+kgQJsVotgDP1Kk5smSHT/QANuKtXcY+Xmuwv0LPttVwIuktaOlnrZX7TJ1KeHYV2iVwiCHbVZc8G5XQwMWC/ZJOuS8JI31Pdp+5TnRghy/nQNjuMEFp4V7XgzkQeULRRWvmvnaSKF5w/xzZRPU8Cjs9MpfFr4TKrGD+kj0h0J63n7inqCc23rS2nK98SF3gH86kBz0658/9RJuEeYV6j6PYRndsWEV0egV3AM9GrRM/GY4m80Y9xmkr16UxRoQpwpsCwPthHAKNvRRE9avqTQ0M1hJ/tJXR16Q6GlWehGuJI6iQJQbpOi6vqcKk=;2TN1IfRKZkvOLDlKYjkNMQ=="
+secured: "syDIXSAUkntqFMkE61uYEojnuSXCMuwRU5WEXn5//FAfwlb0LGi32sfON/lECqEXgzhhicdSab8LxrJx/ru+gzl7kevRny2T6H3SU06RiV3VG5M1pn/OOFRudEohinD2lTLz1ahIwYSne/U7SfLlbUrEJZ/OnbUs5CDJaHzy1EkAYZzuH0/gBLyLZh1STWep9g+1HT88Ea+OqCNZYdyYLNJAlBl5SA8RedZ+9QASlNdkG6ikaZdgyeAH7pdva+fOm8Lxk6Qfo7zCukbuD6a9OD4Ctnzhx1DRepPvYe902yRRMqJnqg1NRQxFK/0YsffDaRQMeXKKbrEJ92htHQ1z9M+PR/X6NMoFg84m1q3IdM8=;9T47TCKyPDjSX3VTndu2yA=="
 ---
 

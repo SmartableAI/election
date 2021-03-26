@@ -1862,6 +1862,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump To Biden, A Contrast In Styles In Debut Press Conferences"
+    excerpt: "Sporting a red tie, Donald Trump -- combative, goading, sometimes angry and insulting. Wearing a blue tie with stripes, Joe Biden -- calm, amiable, sometimes stumbling and hesitant. From February 16, 2017 to March 25, 2021: two debut press conferences at ..."
+    publishedDateTime: 2021-03-26T00:08:00Z
+    webUrl: "https://www.ibtimes.com/trump-biden-contrast-styles-debut-press-conferences-3169360"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-joe-biden-at-the-first-news.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "In Pentagon Debut, Biden Promises Break From Trump-Era Politicization of Military"
     excerpt: "President Joe Biden promised he would never politicize the U.S. military as he made his first visit to the Pentagon as commander-in-chief on Wednesday, seeking to draw a contrast with the Trump-era in a far-reaching speech that emphasized diversity in the armed forces."
     publishedDateTime: 2021-02-10T22:49:00Z

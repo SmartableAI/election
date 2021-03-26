@@ -1405,6 +1405,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "New Haven pizzerias primed for potential visit from Kamala Harris"
+    excerpt: "And with Vice President of the United States Kamala Harris poised to visit the Elm City on Friday, one more chance for New Haven’s apizza to generate headlines may be on deck — should the vice president have time for a stop at one of the area’s famed pizzerias."
+    publishedDateTime: 2021-03-25T20:42:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/New-Haven-pizzerias-primed-for-potential-visit-16053507.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/22/11/20783743/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Alert: Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
     excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border."
     publishedDateTime: 2021-03-24T19:43:00Z

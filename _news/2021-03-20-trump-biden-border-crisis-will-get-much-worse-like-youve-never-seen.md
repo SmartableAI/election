@@ -154,6 +154,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Stephen Miller slams Biden for 'detestable lie' and 'smear' about Trump border policy"
+    excerpt: "Former Trump senior adviser Stephen Miller ripped President Biden’s \"detestable lie\" that his predecessor let migrant children starve to death, telling \"Fox News Primetime\" Thursday it was a \"smear against patriotic border agents.\""
+    publishedDateTime: 2021-03-26T00:32:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HPWbKUuhVO0/stephen-miller-biden-destable-lie-smear-trump-border-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-biden-destable-lie-smear-trump-border-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-biden-destable-lie-smear-trump-border-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Former President Trump slams Biden for migrant surge: ‘They’re destroying our country’"
     excerpt: "Former President Trump ripped President Biden and his administration over the migrant surge at the U.S. border during an exclusive interview on “The Faulkner Focus” on Monday, arguing that the Biden administration is “destroying our country.”"
     publishedDateTime: 2021-03-22T15:30:30Z

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jill Biden cancels trip to Alabama with Jennifer Garner in wake of deadly tornadoes"
+    excerpt: "A scheduled trip to Alabama by first lady Jill Biden on Friday was canceled Thursday evening after deadly tornadoes swept through the state.\n    \n"
+    publishedDateTime: 2021-03-26T01:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iR-qI2pEIFM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/jill-biden-jennifer-garner-cancel-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/jill-biden-jennifer-garner-cancel-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303151336-04-jill-biden-school-visit-0303-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats demand answers on why Biden hasn't officially allowed more refugees into the US"
     excerpt: "Democrats are pushing the administration to explain why President Joe Biden has not signed paperwork raising the cap on the number of refugees allowed in the United States, which has put hundreds in limbo even as the Biden administration had promised to reverse former President Donald Trump's policies.\n"
     publishedDateTime: 2021-03-24T22:46:44Z

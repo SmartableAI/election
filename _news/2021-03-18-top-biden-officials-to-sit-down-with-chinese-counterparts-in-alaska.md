@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/blinken-sullivan-china-alaska-meetings/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324100556-manchin-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Jill Biden cancels trip to Alabama with Jennifer Garner in wake of deadly tornadoes"
+    excerpt: "A scheduled trip to Alabama by first lady Jill Biden on Friday was canceled Thursday evening after deadly tornadoes swept through the state.\n    \n"
+    publishedDateTime: 2021-03-26T01:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iR-qI2pEIFM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/jill-biden-jennifer-garner-cancel-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/jill-biden-jennifer-garner-cancel-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303151336-04-jill-biden-school-visit-0303-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -307,6 +307,20 @@ related:
         width: 650
         height: 420
         isCached: true
+  - title: "Kamala Harris and Douglas Emhoff in the Virtual Passover Celebration"
+    excerpt: "U.S. Vice President Kamala Harris and second gentleman Douglas Emhoff participate in the virtual Passover celebration in South Court Auditorium at the White House on Thirsday, March 25, 2021 in Washington,"
+    publishedDateTime: 2021-03-26T01:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/95b6fb52a85df23a6d1ae5f774e05a70/Kamala-Harris-and-Douglas-Emhoff-in-the-Virtual-Passover-Celebration/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/95b6fb52a85df23a6d1ae5f774e05a70/PASSOVER-HARRIS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "lpNG5jdHonspDi2oIKsOSLBQV94dGT/a2Q++ESMfXsPbc9hjT0SbhQZDI4PhZLMUgymanRKLa7AqgZQcZH5bJZIFzZJq49KilJlUnlbLdkYRbL7KEBI8WsRg+rFAwOYqaVV+I4SqgZaAvoIQ4uXBn+LeUAvKYgTHoX57F5KuHTpRngUsMdQUd3F+H7rfuL17cJ1q3XADBQXqryg3uidsrsMkZqekaFYHKl9+4vUN97StOVbnscFonRgRStKrDXRlnbcsM7yAnnifsWICPVu2x0/+isqK88wyY8FH6biBuZ+LrrqW5J82dAKCKbyU9I96nh8yxsYPJqtB4TBV5xTgCsDZLcM6MUz69+rT/TJ6zfdAuo8bXkJ3LsebNDUJCdhtu4SgIAn0Ik59+IopErACBhGlr43ZEbjI3yXQafuUZoiB7NgEEwHLSgrX+LKtV6iRlO9gWQ/wKcQ03hEv43BGxbB9ouNP0iVBp79AnxovAVXC5gGOdSY9xrrYN++Jm9y4AM1oDfD6+r3rP5HLXnm93w==;FSS+8NSOh6ntBkDp8eKKDA=="
 ---

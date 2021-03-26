@@ -1862,6 +1862,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump To Biden, A Contrast In Styles In Debut Press Conferences"
+    excerpt: "Sporting a red tie, Donald Trump -- combative, goading, sometimes angry and insulting. Wearing a blue tie with stripes, Joe Biden -- calm, amiable, sometimes stumbling and hesitant. From February 16, 2017 to March 25, 2021: two debut press conferences at ..."
+    publishedDateTime: 2021-03-26T00:08:00Z
+    webUrl: "https://www.ibtimes.com/trump-biden-contrast-styles-debut-press-conferences-3169360"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-joe-biden-at-the-first-news.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump Makes Last-ditch Bid To Block Biden Win As Congress Goes Democratic"
     excerpt: "Donald Trump on Wednesday launched a furious last-minute bid on the streets of Washington to reverse his election defeat, as Joe Biden was set to be certified president with an added triumph of his Democratic Party on track to win full control of Congress."
     publishedDateTime: 2021-01-06T18:26:00Z

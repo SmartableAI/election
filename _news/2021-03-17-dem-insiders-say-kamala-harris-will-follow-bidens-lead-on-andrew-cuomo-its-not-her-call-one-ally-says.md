@@ -1399,6 +1399,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "New Haven pizzerias primed for potential visit from Kamala Harris"
+    excerpt: "And with Vice President of the United States Kamala Harris poised to visit the Elm City on Friday, one more chance for New Haven’s apizza to generate headlines may be on deck — should the vice president have time for a stop at one of the area’s famed pizzerias."
+    publishedDateTime: 2021-03-25T20:42:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/New-Haven-pizzerias-primed-for-potential-visit-16053507.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/22/11/20783743/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
     publishedDateTime: 2021-03-18T13:09:00Z
