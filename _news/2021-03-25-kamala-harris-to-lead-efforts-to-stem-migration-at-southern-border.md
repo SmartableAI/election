@@ -1126,15 +1126,15 @@ related:
         height: 641
         isCached: true
   - title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
-    excerpt: "Gov. Doug Ducey on Wednesday called Vice President Kamala Harris \"the worst possible choice\" to lead efforts to curb migration at the southern border, saying President Joe Biden had \"completely trivialized the issue by putting someone in charge who flat ..."
+    excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
     publishedDateTime: 2021-03-25T15:35:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6990780002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6990780002"
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6990780002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6990780002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/25/PPHX/d90f771d-aa1a-4b9b-ab6a-f1d603f9cbae-pjimage_5.jpg?auto=webp&crop=1749,984,x0,y175&format=pjpg&width=1200"
@@ -1486,6 +1486,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "nMDSqF+SYk8gAoaUE3GRzCC1F+yXyJnU0Vuv7h2V2Uv8s/ZV/6RDGV+Hz/ZnB8vEZCVBlUSKtodQXRMfpCdP+atQJ29ii7E+FphfDp2+uVZ0z92/6o+/6+zwTFZYMbnlk/vUV5Kvx6HTnWd3blSP7YvT1d9ctHlbG1gpi420dsl2ewLa/5tNheOV+kYq4M6I0W4tq6NauC34wlr3d2LAMv/dVVYVkzeEYC3gScNS9nXlu/z0ywKuucbyYOqGEozkfooemPlNTwIGa6kgMRZat0aLRKrgN55Zi3a0zU7T8FN1dGyUiTCShaZ/V5BDNk+LqVLUtLep+mEeZqolUNhoZEG3zpHYZcxnXsFyvjTaMBs=;4wQa+ZwnJ6KiST07lgKV4w=="
+secured: "DGIXMv5TMlxQ9uC0XqhyX/nB/CHoAez2HfMj4fzyDMyfQN3gONHry6Le0mFdqYmxpqmx7x/K93jH3/acRJL6UA3snYiG4d+m/z1X9cw095w1PIzw45B5WA8UDcxcNWwXsJjnIcayO4tzenA5IywevMU1cUx6ZQ6F3QDAPI/xkFNofZ68lyCROXQ1GkuDqOkjhJp/+dSOi0iX/mmvLRgUxg0SHDohimucCvQDk2dH3AwSU0m8rPpDSmoAYvDqR33m1+8s+H6s2QjOCveA0bc5v3aW7WCIfrIpEoECXLv73NPOyBjNld8wMvbR7kozUV+jWtbGPZ0yA026rdRzFkve0MZNL6e4uTFO4OGf7cpl+I+O9+kihciCC5YKGbv+BM1Qf2OzKDTYZ86zYTWkUbh03oJMgY17Usg/FfL90b8Akz4+ze/hst09gO3dk0FI8QzEjx4LOfGd+tdOB6vYDDOFc8LnpWC2AbEBfM3lTKutzjZZ3yLL71eEYhLiVl27T6TyCCKEtos38LhZCQJLxQ+ELQ==;3zFKbk2hLcaR3WVv3yy6IA=="
 ---
 

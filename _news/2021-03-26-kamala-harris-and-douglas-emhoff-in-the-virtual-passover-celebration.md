@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris and Douglas Emhoff in the Virtual Passover Celebration"
 excerpt: "U.S. Vice President Kamala Harris and second gentleman Douglas Emhoff participate in the virtual Passover celebration in South Court Auditorium at the White House on Thirsday, March 25, 2021 in Washington,"
 publishedDateTime: 2021-03-26T01:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/95b6fb52a85df23a6d1ae5f774e05a70/Kamala-Harris-and-Douglas-Emhoff-in-the-Virtual-Passover-Celebration/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/95b6fb52a85df23a6d1ae5f774e05a70/Kamala-Harris-and-Douglas-Emhoff-in-the-Virtual-Passover-Celebration/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9f4a05102bcc7dab1c651ba98f881471/Kamala-Harris-and-Douglas-Emhoff-in-the-Virtual-Passover-Celebration/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9f4a05102bcc7dab1c651ba98f881471/Kamala-Harris-and-Douglas-Emhoff-in-the-Virtual-Passover-Celebration/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/95b6fb52a85df23a6d1ae5f774e05a70/PASSOVER-HARRIS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/9f4a05102bcc7dab1c651ba98f881471/PASSOVER-HARRIS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -322,6 +322,6 @@ related:
         height: 433
         isCached: true
 
-secured: "nr9010JbkXZaP8ik9I7m/rUF/jDCtraZjBZUhWEIIL8xT7gO1i6dduxwiEnjldFueQZyeqdD9Jskq4oz4iXVXG/Pw9Lp/Q6kGOzIle8gaMLVBlG7pm44AX3LxGgYyhHWvMv/PYveLUiqyw4FDvTY1ROndy8giVBXc1vdHcPbOsc6MObewXJUPp96TU3EZIJYVl6wmWmC7wAefw62i7+WkSMOFe1E745uE8WqqABfAYliADTebcWIKotZY0ZKTUa905Q1E3+BSGMNhGjFgyAVGmZRm4h1fmUWN3xQ5jXu5LXqhQQ7biYhu62Jb77F/Uh9E7bLGe5i4aWmiTd0U3L133bgrcH7pu5sbi0WMGwI2UJ601TRJ7z8NWV3yUQMpjyLn5W2DQIY6WD3HnWVzZiPqIeAKcxlxCICQGCOlEHtcreLkYqVwR41ZMQ9Kz3JgLdFyjUouwlHVNHInTf8sbAnYcUfmSCbUV0lGQIfbpc1ZXDuw2NA36dTHEFamewnWGJITOSDEZ5KqRyT9Kb/Cf/tyA==;FHB+AaiZjcx3NMC14Zu0iw=="
+secured: "EzneXiCb+hNwWR0qCDLAOBvyl97vgLj6FIkvbyQDkrcucfXc61WkdgPBArlnjlvtXf3WG3wESJ+OcMt3noDFguFiI5lUkItkjzKgGXBKpZB1tqFo1+1KBcl8pV0zJ1d4nVF2WCfywfALCO2h+jQpOuiL83V8kaU6V8FVuWLa2geRQZq21orzAjXmxHNwagpmZbrs4O+MU2yC5E/wVNdYzoYvd69Hu4p8tvD76FuKrjKA2Me4As6N4xNIdCZSC8gLKyQ7OfZdKsDMG58ylesCcoZj6TRfZgLAMA+PnJoEhH0UqotVQRjalvOhXJ1LvH8Bl4HlwXPnfS6FEmVQCv0jz5OJvHepxelDuScDqsBV/EU=;5Qkd5CxMGG3g96zm/Tt5lw=="
 ---
 

@@ -1134,15 +1134,15 @@ related:
         height: 641
         isCached: true
   - title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
-    excerpt: "Gov. Doug Ducey on Wednesday called Vice President Kamala Harris \"the worst possible choice\" to lead efforts to curb migration at the southern border, saying President Joe Biden had \"completely trivialized the issue by putting someone in charge who flat ..."
+    excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
     publishedDateTime: 2021-03-25T15:35:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6990780002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6990780002"
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6990780002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6990780002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/25/PPHX/d90f771d-aa1a-4b9b-ab6a-f1d603f9cbae-pjimage_5.jpg?auto=webp&crop=1749,984,x0,y175&format=pjpg&width=1200"

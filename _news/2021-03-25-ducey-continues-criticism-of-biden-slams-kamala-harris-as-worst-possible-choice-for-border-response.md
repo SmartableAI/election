@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
-excerpt: "Gov. Doug Ducey on Wednesday called Vice President Kamala Harris \"the worst possible choice\" to lead efforts to curb migration at the southern border, saying President Joe Biden had \"completely trivialized the issue by putting someone in charge who flat ..."
+excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
 publishedDateTime: 2021-03-25T15:35:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-ampWebUrl: "https://amp.indystar.com/amp/6990780002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6990780002"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/6990780002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6990780002"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -1482,6 +1482,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "p6wGqjS/VCHxUZM/wGlKP5g4bLL+nI+mTQM3gyuHh/BwipaeshkiNbg3z8bxDTH7r3TCTfAUR6ry6DDcCFQI94epVDJMSk8WZ6zn4tQfYvLu+nrgwAtd7omuZGUy3v4ifcLqnhjRiiDjth8GxWv6tjIZ9oNQ6TwVpmJGSyEYabZqCiVnVgNb+u2QJayvMaBTpxzMuxWnIy8y8Px+7XiuxPD53nt/L08QRdaytAS7K2fKSn/S+l5zyzkia39n4YZsSFeO4BYFtHSn2hIb+udEwY5fdW0iabQijHgSyWuih76XzXoM4r/czfHeThHNeCklwZGJS7/epAgdH3eod/nocbwTSAa/0U9yQwnoqZ4wUqw=;vX3IA+ODbPluJ2imScLT6g=="
+secured: "UMXF7T5TZD6h2amMXFbGC+7kDAx7hVy3QDhzyDvZGuyCLxV58d8DTgquDjxvLtVCAUtP9vg5cfDpNthcIbHLeP8E7YQ4fKSstX+KdIZPxapCEsDFCIp3tncsvOAQ6py4dUA+oAZv6ArC8UQ5GWbgyoZre2BqEaodp6lXnHzxguxGeAjW0/qQ7dDYBMQOYmzceHrI5vsHV6yO5v/rQ04G7brsD1l+SmCQ5+9oZNiRiuZHckQVk9ksdAaLQjRTqkFBDhLj8jsCWph3on8HudSXHmjnN+grUcneJkt+xALmCOFhUsKeOmkZU1AhiENjNhQqtXePeRyGnbYGSw8zJTPm618wQbGZj/nC9rMj8csUojo=;1vDvY+UIFFtsrU1yLp9tqw=="
 ---
 

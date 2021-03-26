@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
-excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
-publishedDateTime: 2021-03-25T06:16:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b33aa8f08fe2b74447778"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b33aa8f08fe2b74447778"
+excerpt: "Besides Becerra, vice president Kamala Harris was state attorney general before she was elected to the US Senate. I'm so excited that Governor @GavinNewsom has nominated my good friend @RobBontaCA to be CA's next AG. Rob is a fighter for justice & will ..."
+publishedDateTime: 2021-03-24T23:40:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bd10a8f08b6e4f17ca21e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bd10a8f08b6e4f17ca21e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 type: article
-quality: 132
+quality: 122
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
@@ -307,7 +306,7 @@ related:
   - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
     excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
     publishedDateTime: 2021-03-24T18:27:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b8a958f08b6e4f17c9e74"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b909a8f08b6e4f17c9ee2"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
     type: article
@@ -2083,6 +2082,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "TxXiTaskslWXg9x8N1F2n6IYK4fmVpDUSd03TkaAW7/mpWhHJxeoeI64Wk2BEQq+xAFFWetigVzNRAkXajCYl9U3Tv3XmxB9Po3kEpOsF4EfG+BlTugUWDbc+Mv7AjRhYBU+gAsHodfts1x7MvfDF74PBixiytt9yD+qPCSSRlPj1SoqggQo6YxzJh/0YmbV1cdrD17NRZFXApPHs+iYlk1+xZ81i/BL6GWQpilj6313FszLAzmCYUOODPaE6H9+HThSXqxq7UEXczPYyQ8RtSLBkSzxX8E9dijeRTILkgpGmsHHz784Qjfdo/qUijVhex4iYKbdOl+zb7emJEYfi2AEodruZulMxbss1g1+LnEEmu4Eh8p6LClS28u8i6D4JOCqd/z4MTjl79Nz91EbHwjfOgvIqxdkmZFhRyjWW7QD93TZzePuAWefvfp0V/hi+YO2PXW3ek/gguySc9NMVWYG9E9RhoTsdtCq+7LJmHYPQgTCPzeoQnteIXyBOqVlZG/O28jiFud992kHEzbjRQ==;nZjsiGFwEnh3bTUpHi1SlQ=="
+secured: "e0K/RDKCD2vUxUacSk+zN9gPLALC4PQHiaKjghkeEtw1B9YeHBMk1p1ovx/68c4hZ2e/CaTey1CFQ8aofS3kEJP/iI7aWzH0zLCXrBmtb6E3QvuzU4JiL0CxMgI95Shd0CTePCkXTeMH2xsG5dbLUTH9ZexJ+Su4b+R5O4ewnJmpFKvHYQfw3lqqkXuSnd8EL88sVzAfcXF2wh5o+PYMneVfhpQ4bEpVXRoDc+iOG8gNo9G2kGyqtzObx+tsotp3vvkw126gBM5PwJhKUSH594srkO337NZV0as2taCtw7iIvNX+97uzoYLpsi1MB5avnoRqySLdv2V9lC5JjewU7+E43tZ4u+oSBqwXVxgcTcE=;pt9MqP4ejtblbZtIAkxv2g=="
 ---
 
