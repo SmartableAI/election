@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americ
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americans/index.html"
 type: article
 quality: 173
-heat: 253
+heat: 233
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden reaches out to some Republicans on Capitol Hill -- but not party leaders"
-    excerpt: "Senate GOP Leader Mitch McConnell says he's spoken with President Joe Biden just once since he took office.\n    \n"
-    publishedDateTime: 2021-03-24T23:11:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OF05IFTv9rI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-republican-relationships/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-republican-relationships/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Jennifer Garner to promote American Rescue Plan with Jill Biden in Alabama on Friday"
     excerpt: "Actress Jennifer Garner will join first lady Jill Biden on Friday for a trip to Alabama as part of the Biden administration's \"Help is Here\" tour, promoting the American Rescue Plan.\n    \n"
     publishedDateTime: 2021-03-24T02:21:46Z

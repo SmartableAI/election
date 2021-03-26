@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia's new law suppressing the vote is a victory for Trump"
+    excerpt: "Former President Donald Trump's campaign of lies about a stolen election just delivered a huge victory with a new Georgia law that could suppress the votes of many of the citizens who helped eject him from the White House.\n    \n"
+    publishedDateTime: 2021-03-26T10:20:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8YZJm9Nim9I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/georgia-voter-suppression-law-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/georgia-voter-suppression-law-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325171434-georgia-voting-rights-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
     excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
     publishedDateTime: 2021-03-18T11:33:43Z

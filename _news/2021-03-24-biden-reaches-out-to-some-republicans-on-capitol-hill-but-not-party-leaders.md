@@ -31,67 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "Biden reiterates pledge to raise taxes on Americans making $400,000 or more"
-    excerpt: "President Joe Biden again reiterated he intends to raise taxes for the most wealthy Americans in an ABC News interview aired Wednesday, saying \"anybody making more than $400,000 a year will see a small to significant tax increase.\" He also pledged that individual Americans who make less than $400,000"
-    publishedDateTime: 2021-03-17T13:39:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U8NW5W2Rw5o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americans/index.html"
+  - title: "Schiff aide moves to White House as Biden rounds out press team "
+    excerpt: "The White House is rounding out its press operation, adding a veteran Capitol Hill aide as President Joe Biden prepares to launch his next major agenda push.\n    \n"
+    publishedDateTime: 2021-03-26T10:03:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xANsBiIK0Tk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325200615-emilie-simons-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Jennifer Garner to promote American Rescue Plan with Jill Biden in Alabama on Friday"
-    excerpt: "Actress Jennifer Garner will join first lady Jill Biden on Friday for a trip to Alabama as part of the Biden administration's \"Help is Here\" tour, promoting the American Rescue Plan.\n    \n"
-    publishedDateTime: 2021-03-24T02:21:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gobLk2-WCxs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/jennifer-garner-jill-biden-alabama/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/jennifer-garner-jill-biden-alabama/index.html"
+  - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
+    excerpt: "President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said.\n    \n"
+    publishedDateTime: 2021-03-19T17:41:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YJxRRTs2Rw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323221903-jill-biden-jennifer-garner-split-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'I need every American to do their part,' says Biden, targeting the end of the pandemic"
-    excerpt: "Fiction newsletter. Sign up here to receive the need-to-know headlines every weekday. (CNN)US President Joe Biden has pinned America's hopes of a return to normality on two key dates: May 1, by when he wants all adults to be eligible to get vaccines ..."
-    publishedDateTime: 2021-03-12T12:30:00Z
-    webUrl: "https://www.cnn.com/2021/03/12/world/coronavirus-newsletter-03-12-21-int/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/world/coronavirus-newsletter-03-12-21-int/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/world/coronavirus-newsletter-03-12-21-int/index.html"
+  - title: "'It's a matter of timing': Biden lays out expansive theory of his own presidency"
+    excerpt: "Joe Biden offered his most expansive explanation yet of his own presidency on Thursday, presenting himself, at least for now, as a problem solver operating above the bitter divides of Washington politics.\n    \n"
+    publishedDateTime: 2021-03-26T10:05:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CEoGEe08BRY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/joe-biden-first-news-conference-filibuster-timeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/joe-biden-first-news-conference-filibuster-timeline/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 127
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200130165125-corona-virus-cdc-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says hate crimes against Asian Americans are 'un-American' and that they 'must stop'"
-    excerpt: "President Joe Biden condemned the violence Asian Americans have endured throughout the coronavirus pandemic in his first national prime-time address Thursday night. Biden, whose speech marked one year after the World Health Organization declared Covid-19 a ..."
-    publishedDateTime: 2021-03-12T01:50:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/biden-calls-hate-crimes-against-asian-americans-wrong-it-s-n1260753"
+  - title: "How the border problem caught the Biden team off guard, and how they've scrambled to fix it "
+    excerpt: "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n"
+    publishedDateTime: 2021-03-21T00:41:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress looks to Biden as an ally as it tries to finally rewrite authority for the war on terror"
+    excerpt: "There's a new movement afoot to finally curb the President's 9/11 war powers, and the Republicans and Democrats pushing it have hope in a key ally: the President himself.\n    \n"
+    publishedDateTime: 2021-03-25T10:08:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gv09_HJRAIM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/congress-war-on-terror-aumf/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/congress-war-on-terror-aumf/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser"
+    excerpt: "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n"
+    publishedDateTime: 2021-03-24T03:56:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111654-11-biden-admin-possibilities-duckworth-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's all quiet on the southern border. That might not last."
+    excerpt: "WASHINGTON — President Joe Biden's response to an influx of migrants at the U.S.-Mexico border has been muted so far. But a tightening political squeeze may force him to act more aggressively soon. Biden's Republican critics say that he's failing to ..."
+    publishedDateTime: 2021-03-24T08:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-all-quiet-southern-border-might-not-last-n1261857"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261857"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261857"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 105
+    quality: 135
     images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2021_10/3456230/210311-joe-biden-ac-817p_26acd33d4f21c4f3decb26f5fc43e1d9.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459016/210323-joe-biden-podium-ac-446p_0740f7e5d27241f32d4e6a030a00a6cd.jpg"
+        width: 2500
+        height: 1517
+        isCached: true
+  - title: "Biden's closest Senate ally emerges as a shadow secretary of state"
+    excerpt: "The moment was a metaphor of sorts for Coons’ current role for President Joe Biden. The Delaware Democrat’s close friendship with Biden has already made Coons an unofficial White House envoy in the Senate, but he is now expanding his reach overseas ..."
+    publishedDateTime: 2021-03-24T20:49:00Z
+    webUrl: "https://www.politico.com/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/97/d4/0ad3da964751bdbeee429cb15725/210324-chris-coons-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
+    excerpt: "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ..."
+    publishedDateTime: 2021-03-19T17:41:00Z
+    webUrl: "https://www.cnn.com/2021/03/19/politics/biden-air-force-one-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 112
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "P9U5LY9G+KPCUD2H8rKj/JwG8vQS4YHs0BH5aIdevid/fFjDlEkIxSlYEPB/zZLQWCawwNE9KXOSWVytmcF7ZXIHCv8hELR1cFPkTqgDrnaWyUDBz0wM5FSJtR3xFjG2Xrh7EVEyyf5cmC+kO2amrb9WvljFfpoS/OvB8ouL4GhTZuzOdAphahft30vQnm0uFJOiY5eYwEAWmHsOhrc/RPZvtXcLaW/SeogHtDsERPDmicRR6SmuSsfT5FT7za4ZT8GaYdBnAS4lF2y88AruEN6s7quc9thISmYQkEHkP/gC5jHi9YBOlv9MV1Q0PwDzgnmErlFxeAek5frrPL25uif8blE98f/BCp2azg5pNvo=;1erVG5AcRjCKYW/aaUxrcw=="

@@ -151,6 +151,22 @@ related:
         width: 650
         height: 432
         isCached: true
+  - title: "Vice President Kamala Harris’ visit to New Haven will highlight child tax credit long championed by U.S. Rep. Rosa DeLauro"
+    excerpt: "Kamala Harris’ visit to New Haven Friday is part of the Biden administration’s “Help is Here’' tour. The trip has already taken her to Las Vegas and Jacksonville, Fla. Biden, First Lady Jill Biden and Second Gentleman Doug Emhoff are also traveling to promote the stimulus package."
+    publishedDateTime: 2021-03-26T10:00:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 49
+    images:
+      - url: "https://www.courant.com/resizer/Uq4A22_jaA7xoDm6J7BcU6sBO8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2675KIP57DE3RCW6GDNDKRK3XQ.aspx"
+        width: 1200
+        height: 782
+        isCached: true
   - title: "WATCH: Vice President Kamala Harris Under Fire For Failing to Salute Honor Guard Before Boarding Air Force Two"
     excerpt: "Vice President Kamala Harris is facing criticism for appearing to break with precedent and failing to salute the honor guard when boarding Air Force Two. Video reviewed by Fox News showed that her predecessors,"
     publishedDateTime: 2021-03-24T04:00:00Z

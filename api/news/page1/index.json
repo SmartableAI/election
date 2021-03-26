@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-26-schiff-aide-moves-to-white-house-as-biden-rounds-out-press-team.md",
+      "title": "Schiff aide moves to White House as Biden rounds out press team ",
+      "excerpt": "The White House is rounding out its press operation, adding a veteran Capitol Hill aide as President Joe Biden prepares to launch his next major agenda push.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xANsBiIK0Tk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xANsBiIK0Tk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325200615-emilie-simons-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html",
+      "publishedDateTime": "2021-03-26T03:03:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-biden-says-us-faces-battle-to-prove-democracy-works.md",
       "title": "Biden says US faces battle to 'prove democracy works' ",
       "excerpt": "President Joe Biden cast challenges to the US from China, Russia and global shifts in stark terms Thursday, describing \"a battle between the utility of democracies in the 21st century and autocracies.\"\n    \n",
@@ -290,7 +346,7 @@
       "originalUrl": "https://www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -781,7 +837,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -890,7 +946,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 313,
+      "heat": 253,
       "tags": null,
       "images": [
         {
@@ -1091,63 +1147,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-bidens-closest-senate-ally-emerges-as-a-shadow-secretary-of-state.md",
-      "title": "Biden's closest Senate ally emerges as a shadow secretary of state",
-      "excerpt": "The moment was a metaphor of sorts for Coons’ current role for President Joe Biden. The Delaware Democrat’s close friendship with Biden has already made Coons an unofficial White House envoy in the Senate, but he is now expanding his reach overseas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "originalUrl": "https://www.politico.com/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/97/d4/0ad3da964751bdbeee429cb15725/210324-chris-coons-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789",
-      "publishedDateTime": "2021-03-24T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {

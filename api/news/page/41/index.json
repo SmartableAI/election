@@ -2,92 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2021-01-20-explainer-election-claims-and-why-its-clear-biden-won.md",
-      "title": "EXPLAINER: Election claims, and why it's clear Biden won",
-      "excerpt": "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1",
-      "originalUrl": "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp",
-      "publishedDateTime": "2021-01-19T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-report-ex-detroit-mayor-kwame-kilpatrick-on-donald-trumps-pardon-list.md",
-      "title": "Report: Ex-Detroit Mayor Kwame Kilpatrick on Donald Trump's pardon list",
-      "excerpt": "Kwame Kilpatrick may get out of prison 20 years early thanks to Donald Trump, who included the ex-mayor on his pardon list, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2021/01/20/kwame-kilpatrick-pardoned-donald-trump-detroit-mayor/4217253001/",
-      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2021/01/20/kwame-kilpatrick-pardoned-donald-trump-detroit-mayor/4217253001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/27/PDTF/0308a838-1ad7-4aea-8dfb-a98c9475b901-mayor_032408_kg.jpg?auto=webp&crop=3103,1746,x0,y159&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/4217253001",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4217253001",
-      "publishedDateTime": "2021-01-19T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-graham-calls-on-mcconnell-to-unequivocally-denounce-second-trump-impeachment-effort.md",
       "title": "Graham calls on McConnell to 'unequivocally' denounce second Trump impeachment effort",
       "excerpt": "Sen. Lindsey Graham, R-S.C., is fighting efforts to convict President Trump in the Senate after he was impeached for a second time by the House of Representatives, and Senate Majority Leader Mitch McConnell, R-Ky., should do the same, Graham told Fox News’ \"Hannity\" Tuesday.",
@@ -1289,6 +1203,101 @@
       "ampWebUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1",
       "publishedDateTime": "2021-01-18T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-pence-tried-to-contact-capitol-officer-eugene-goodman-to-thank-him.md",
+      "title": "Pence tried to contact Capitol officer Eugene Goodman to thank him",
+      "excerpt": "The cop hailed as a hero for leading a crowd of insurrectionists away from the Senate floor and potentially saving... View Article",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
+      "originalUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2021/01/PenceGoodman-scaled.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
+      "publishedDateTime": "2021-01-18T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-democrats-hail-jamie-raskin-for-leading-donald-trump-impeachment-after-loss-of-son-tommy.md",
+      "title": "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy",
+      "excerpt": "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336",
+      "originalUrl": "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1",
+      "publishedDateTime": "2021-01-18T04:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

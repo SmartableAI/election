@@ -165,6 +165,22 @@ related:
         width: 650
         height: 432
         isCached: true
+  - title: "Vice President Kamala Harris’ visit to New Haven will highlight child tax credit long championed by U.S. Rep. Rosa DeLauro"
+    excerpt: "Kamala Harris’ visit to New Haven Friday is part of the Biden administration’s “Help is Here’' tour. The trip has already taken her to Las Vegas and Jacksonville, Fla. Biden, First Lady Jill Biden and Second Gentleman Doug Emhoff are also traveling to promote the stimulus package."
+    publishedDateTime: 2021-03-26T10:00:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 49
+    images:
+      - url: "https://www.courant.com/resizer/Uq4A22_jaA7xoDm6J7BcU6sBO8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2675KIP57DE3RCW6GDNDKRK3XQ.aspx"
+        width: 1200
+        height: 782
+        isCached: true
 
 secured: "VPjy2BfhWHTXfmLGJtrP2nYi7JZ+njUXBwdxDpD77wGliBDK87HVtG66H0yxc77EzAj02U1Qkm9EkdyPno2RjQgLL6VeohG552Gur/hN7h0TUk5LEvsluDXJiclXCPEqyYHwCrSO18sqsKcIpPZKX1ydLptIwpqeAL7fx5Zr2tvdLqlsCxT27VHTxm2vrdsq/T7+7uL4tt4LhngH6lDf7j4nH2cRDfJD7hdK2JCsnOFao43RPHTzyT6rNAj47Z6F5r7WDpBkACGZky7+TOO5juVOv9GUkjMWCuDHI9I9GxCuUbGNtN5UAt9jC3YZ6lBDbgqTJFZQhZ5Rjlit595PjZdBFs/NiLcjkYbNvrV1RS/VWOK4N4i8n1FjMXMCRlFoutqolpyE9UEWm2BgPsyPlKry90w4U6tqiGmLfjBWYOfuAJbyJKRyxnpr86Babm+Rq+/fvrlkrf2utAZ4yTUkQWFY7QKhq6Smb+ME8eLU3pOWzfmlF5qHbqmGwliJM8v7ezABDwoZ8stvr/Cb65mn8A==;0EM5xfbAaZ1qIIEPSlyTQg=="
 ---

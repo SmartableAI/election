@@ -32,83 +32,147 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration not confident Johnson & Johnson will meet 20 million goal by end of month"
-    excerpt: "Officials in President Joe Biden's administration are not confident that Johnson & Johnson will meet its self-imposed deadline to deliver 20 million coronavirus vaccines by the end of March, despite optimistic statements from the company.\n    \n"
-    publishedDateTime: 2021-03-23T01:52:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NIi7skwaHek/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-19-vaccine-supply-delays/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-19-vaccine-supply-delays/index.html"
+  - title: "Schiff aide moves to White House as Biden rounds out press team "
+    excerpt: "The White House is rounding out its press operation, adding a veteran Capitol Hill aide as President Joe Biden prepares to launch his next major agenda push.\n    \n"
+    publishedDateTime: 2021-03-26T10:03:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xANsBiIK0Tk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306211510-02-johnson-and-johnson-covid-19-vaccine-colorado-0306-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325200615-emilie-simons-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration announces extension of Affordable Care Act special enrollment by three months"
-    excerpt: "The Centers for Medicare & Medicaid Services is extending the Affordable Care Act special enrollment period by three months to August 15, the Biden administration announced Tuesday.\n    \n"
-    publishedDateTime: 2021-03-23T21:20:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/328sPJXVXVk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/affordable-care-act-enrollment-august/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/affordable-care-act-enrollment-august/index.html"
+  - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
+    excerpt: "President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said.\n    \n"
+    publishedDateTime: 2021-03-19T17:41:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YJxRRTs2Rw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212175810-obamacare-sign-file-2015-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's multitrillion-dollar infrastructure jam"
-    excerpt: "WASHINGTON — President Joe Biden is signaling that his next big push in Congress will be for legislation implementing the transportation, infrastructure and green-energy elements of his \"Build Back Better\" campaign platform, with a reported potential ..."
-    publishedDateTime: 2021-03-22T20:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-multi-trillion-dollar-infrastructure-jam-n1261613"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261613"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261613"
+  - title: "Biden reaches out to some Republicans on Capitol Hill -- but not party leaders"
+    excerpt: "Senate GOP Leader Mitch McConnell says he's spoken with President Joe Biden just once since he took office.\n    \n"
+    publishedDateTime: 2021-03-24T23:11:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OF05IFTv9rI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-republican-relationships/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-republican-relationships/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'It's a matter of timing': Biden lays out expansive theory of his own presidency"
+    excerpt: "Joe Biden offered his most expansive explanation yet of his own presidency on Thursday, presenting himself, at least for now, as a problem solver operating above the bitter divides of Washington politics.\n    \n"
+    publishedDateTime: 2021-03-26T10:05:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CEoGEe08BRY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/joe-biden-first-news-conference-filibuster-timeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/joe-biden-first-news-conference-filibuster-timeline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the border problem caught the Biden team off guard, and how they've scrambled to fix it "
+    excerpt: "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n"
+    publishedDateTime: 2021-03-21T00:41:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress looks to Biden as an ally as it tries to finally rewrite authority for the war on terror"
+    excerpt: "There's a new movement afoot to finally curb the President's 9/11 war powers, and the Republicans and Democrats pushing it have hope in a key ally: the President himself.\n    \n"
+    publishedDateTime: 2021-03-25T10:08:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gv09_HJRAIM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/congress-war-on-terror-aumf/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/congress-war-on-terror-aumf/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser"
+    excerpt: "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n"
+    publishedDateTime: 2021-03-24T03:56:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111654-11-biden-admin-possibilities-duckworth-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's closest Senate ally emerges as a shadow secretary of state"
+    excerpt: "The moment was a metaphor of sorts for Coons’ current role for President Joe Biden. The Delaware Democrat’s close friendship with Biden has already made Coons an unofficial White House envoy in the Senate, but he is now expanding his reach overseas ..."
+    publishedDateTime: 2021-03-24T20:49:00Z
+    webUrl: "https://www.politico.com/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3458698/210322-joe-biden-jm-1425_7abadd79f5ccc05ffd45fa790b666e5f.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static.politico.com/97/d4/0ad3da964751bdbeee429cb15725/210324-chris-coons-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Duckworth, Hirono change course on Biden nominees after assurances on AAPI representation"
-    excerpt: "Sen. Tammy Duckworth, D-Ill., reversed course on vowing to object to President Joe Biden's nominees because of a lack of Asian American and Pacific Islander representation Tuesday evening after a spokesperson from her office said she had received ..."
-    publishedDateTime: 2021-03-24T15:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261865"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261865"
+  - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
+    excerpt: "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ..."
+    publishedDateTime: 2021-03-19T17:41:00Z
+    webUrl: "https://www.cnn.com/2021/03/19/politics/biden-air-force-one-trip/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
+      name: CNN
+      domain: cnn.com
+    quality: 112
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459014/210323-tammy-duckworth-jm-1637_366fa55d715e08f098a8783e0973abeb.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden: ‘Shots in Arms and Money in Pockets’"
-    excerpt: "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans."
-    publishedDateTime: 2021-03-15T19:27:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007655482/biden-coronavirus-checks-vaccinations.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/15/us/politics/15new-washington-briefing-monday-morning-lead/15new-washington-briefing-monday-morning-lead-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "OSnxzqfb2V4WUGgDRdjT0W1GIFYNK+p/X+neioVYLGjPM2PkKHSvcb0twKVvXVRrGWImSXCr2F8gSHOTAS7IBE7lhSCMWbkb7y8+RoiCGC5In6EWBtpnAYZi6xqrfipOmOYjDXs/BAfCGXiIuw0IQcPOzKgEQGZwH2M1kSh/F5Yzk9rIKlxHBVIZB0dy/MESb1WXDY0IdNP8bkAymljNPd8PGqVd782OXHf+xwDCHRfLHjxSn2MLptOr+ac31+AJGlI/ZLx/P0KPnmg4JUkMnbaPcN82+w5+cWfrDt9dzcjOMCP4awO9VCjSpHKZ8rUsJ2CVDAyX/dzVw48G1Z2OcVG9c6oaslO34aLQdbFkgKA=;BrH0Sp6JKuR5Z9yaVX+z/A=="

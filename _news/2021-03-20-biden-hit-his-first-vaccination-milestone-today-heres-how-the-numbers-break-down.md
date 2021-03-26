@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
-    excerpt: "President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said.\n    \n"
-    publishedDateTime: 2021-03-19T17:41:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YJxRRTs2Rw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to highlight gains and face tough scrutiny in first formal news conference"
     excerpt: "President Joe Biden's first two months in power went remarkably smoothly considering he took office amid a once-in-a-century pandemic, a consequent economic crisis and his predecessor's refusal to recognize his victory. But in his first formal news conference Thursday, he'll face scrutiny on gun control"
     publishedDateTime: 2021-03-25T05:54:51Z
@@ -77,38 +61,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130042-02-biden-boulder-shooting-remarkes-0323-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How the border problem caught the Biden team off guard, and how they've scrambled to fix it "
-    excerpt: "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n"
-    publishedDateTime: 2021-03-21T00:41:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Congress looks to Biden as an ally as it tries to finally rewrite authority for the war on terror"
-    excerpt: "There's a new movement afoot to finally curb the President's 9/11 war powers, and the Republicans and Democrats pushing it have hope in a key ally: the President himself.\n    \n"
-    publishedDateTime: 2021-03-25T10:08:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gv09_HJRAIM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/congress-war-on-terror-aumf/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/congress-war-on-terror-aumf/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

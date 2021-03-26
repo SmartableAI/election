@@ -3,10 +3,10 @@ category: news
 title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
 excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed lawsuits on Wednesday against President Joe Biden's administration, challenging his pause on new oil and gas leasing on federal lands and waters."
 publishedDateTime: 2021-03-24T20:42:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idUSKBN2BG2KG"
-webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idUSKBN2BG2KG"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG2KG"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG2KG"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
+webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BG2KG"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BG2KG"
 type: article
 quality: 122
 heat: -1
@@ -1924,6 +1924,6 @@ related:
         height: 433
         isCached: true
 
-secured: "GiPEKKPVVKPVaPKdadasQK8XoywyrCTzhek2GmkGnikme3CmV6bN78bHPMDZ45okS+1kBUnVfDt9fZVgo8GhHbZA83ZdU2LBJXTkH0XWJWDgoPGDTSlEZBThErxdELqpJcsjSNULUt0D8HJvra4DjjJksRs0g82iVbj37GWenCoiFViLT1Q+RaUchOweU8GZQfaHo4wx8R+uV5IpBjAZTVFTlThvN9hxLuCS5rBfHVWaibghnGO9Jk+AdzVcDtxYCEY6eP5rH3cg1X/36nfoSTsdW7zHjGO/QuzIQOMJP9r+K+QjQo0ClhwGfrQuDQrQskDaTDp0MtggKw+MgzECNvaTD2VbYeFWU5dCWwvtSCI=;6qtk32hqtQWCryglnDUkSA=="
+secured: "jgNQ/K7P6LrFEVxeLv4CLqUd/QJS3mgDCjf4XtSfbrOtmMg3hecIkKr7zFgHIiMk1ZQ/cjI+1/5Ss3L3bj+1TlevIYXtbb807Dd2fqTxyfHyCZjaiquUwvelEVSyLKqixP2agzsHPBkXj4105pU/0/AuFJq7wlvu2r7p14QklXuUBZGbx1VNyySzqRJ8vHp6STyBsGvvV/GR1gB50ywt2N9/32pu0IC0bamadpXnNP+7L3+NbZunA1etcZwCwGjhRT8y2olHixomxssw4lfGibLlM3Ya9tOTozFq0iGC6J2NfZJHzfVKoukjENu76f5NZcLKak/6KaOgLDqBIjFbZYnDDEWP4YTJ5Yuco+mFn6s=;cBL1G10AnbOI9Uim3iryAA=="
 ---
 

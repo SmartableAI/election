@@ -210,62 +210,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-duckworth-backs-off-threat-to-oppose-biden-nominees-over-lack-of-diversity-after-white-house-agrees-to-add-senior-aapi-adviser.md",
-      "title": "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser",
-      "excerpt": "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201110111654-11-biden-admin-possibilities-duckworth-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html",
-      "publishedDateTime": "2021-03-23T20:56:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-24-trumps-wealthiest-cabinet-member-made-225m-in-outside-income-report.md",
       "title": "Trump's Wealthiest Cabinet Member Made $225M In 'Outside Income': Report",
       "excerpt": "Betsy DeVos made at least $225 million in outside income as Trump's education secretary She earned $75 million from Alticor, Amway's parent company She also owned stakes in Neurocore, a brain performance company targeting children Former Secretary of Education Betsy DeVos earned nine figures in outside income during her tenure as a Cabinet member in the Trump administration,",
@@ -851,7 +795,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 990,
+      "heat": 1010,
       "tags": null,
       "images": [
         {
@@ -907,7 +851,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 263,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -1321,6 +1265,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.md",
+      "title": "Biden HHS to turn San Diego Convention Center into migrant shelter",
+      "excerpt": "The Biden Administration is turning the San Diego Convention Center into a temporary shelter to support unaccompanied children seeking asylum in the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/65SRXFq8Ly0/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/65SRXFq8Ly0/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp",
+      "publishedDateTime": "2021-03-22T15:06:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

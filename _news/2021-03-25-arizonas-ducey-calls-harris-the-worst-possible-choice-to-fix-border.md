@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/arizonas-ducey-calls-harris-the-wor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp"
 type: article
 quality: 185
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -142,6 +142,15 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Kamala Harris Has a Message for American Women"
+    excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
+    publishedDateTime: 2021-03-26T11:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "DQin/BpwEVFJoJLExli4TR7gXIlGjFVamP6krhL6vxOv6jMC7n2dHkcR0Ji93dLRkxc9Z2OvCN0Mj7uCFJskDDMzjO/DqaYi3Nsbj3BlKqPoLAYrz5kJrA6F/inQN3KEmzis8ZTneiADGjbR3Z/Kbnu8qUKuYU1qOZ5JDftLXv+X10Zsi/ltMMViuxpBBUAEbx71im9tUQlOqVJE6XoD9rhDgTgj1PkpOs/I56VObqk7+CHg5UM7w4K6wg6m1sBUz/yvE5CrJgSUlk/a9VMemqYEw7vO+8OKAvnOh3uDWzsmR5QVNW3NHuDHa4cR1zbrsGgM5O6cI87RyW2LA4WiyEysMXN6MBYPe3eon2BZFGQ=;KfPt0sWVrMxtYcZicBS0vw=="
 ---

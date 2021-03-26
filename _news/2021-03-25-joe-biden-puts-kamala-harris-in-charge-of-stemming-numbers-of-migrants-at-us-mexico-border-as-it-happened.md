@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – as it happened"
-excerpt: "Besides Becerra, vice president Kamala Harris was state attorney general before she was elected to the US Senate. I'm so excited that Governor @GavinNewsom has nominated my good friend @RobBontaCA to be CA's next AG. Rob is a fighter for justice & will ..."
-publishedDateTime: 2021-03-24T23:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bd10a8f08b6e4f17ca21e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605bd10a8f08b6e4f17ca21e"
+excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+publishedDateTime: 2021-03-25T06:16:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b33aa8f08fe2b74447778"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b33aa8f08fe2b74447778"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 type: article
-quality: 122
+quality: 132
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Kamala Harris
 
 images:
@@ -207,22 +208,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
-    excerpt: "Republicans have been sharply critical of Biden’s immigration policies, and it will likely be very difficult to get any border-related legislation through the evenly divided Senate. Joe Biden described Kamala Harris as “the most qualified person” to ..."
-    publishedDateTime: 2021-03-24T18:27:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b85038f08a9515e8368e3"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 137
-    images:
-      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
     excerpt: "White House event will commemorate halfway point of Biden’s campaign promise of 100m vaccine doses in first 100 days"
     publishedDateTime: 2021-02-25T14:42:00Z
@@ -334,6 +319,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P33I77D6XII6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Joe Biden puts Kamala Harris in charge of stemming numbers of migrants at US-Mexico border – live"
+    excerpt: "Vice-president to work on long-term strategy to stem flow of migration from Central America and prevent border crises – follow all the day’s politics news"
+    publishedDateTime: 2021-03-24T18:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates?page=with:block-605b909a8f08b6e4f17c9ee2"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
+        width: 600
+        height: 360
         isCached: true
   - title: "U.S. private prison revenue under pressure from new Biden rules"
     excerpt: "CoreCivic and the GEO Group, two of the largest U.S. private prison companies, could lose as much as a quarter of their revenue, about $1 billion a year between them, under new limits on the sector from President Joe Biden."
@@ -2098,6 +2099,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "ONgxz0gXLucoYLZWMvw09qdAOBUvbjkt5GFv3Uy9i8uSK8xgBAILZStXYsltzXQlo5Pe56pljEqsRht76US+KtSuiY8DMhQ6zzSEhUo4HmRxhubsxG50EZHhM8qnunqR+BCLJqihy1KwyIiLkGfIXu93hS27yA5izccUYiBycApRKbNJFWNdTNY+Z72OyyBp82K3gdjHecRLf6sxZv49BgDtjpQXw8CluLDRfK6RYjtmVewB0awQPSR0gxQ3Uybn2pMUWEjLp3jhfKqtr6lRyZMCK+iFNVKe3/LHZT2mHDauPWDTKST0qNtBbJGfBFH5kRhdYgZeMMQw6V1tu2U5v4Z6HNpZirFRhDTteAZwUGbxOZ9t6/0jAGtKFtqznIMhLPA6sTHHc/bY70/JQXR4LXlBkVMqoViJAyYRb0WSyk8h+C9fR5LsxgbryaKNBIItsWLusLkh2Mzsk5hVYFbkXgOKO6nV+omXhnLwbfvIniHRfby8dR9hNR5hEtkKhlwVEsyEhsmUf+ib1RaU+5T+hg==;L+FvW0DSTPlH5vPTvYHV/Q=="
+secured: "iAKXho10oT+bu7+2wS91lnma7baDN7i76DYQepaf9JF4sg4Fzba7iFeGWvvtxPOZg/sMW9+cBa3bxGGYK3XGPBq5TpLyf/WJlUgEcu3+TaMT7Qr5z3KpJLqQEG1bZIrv1Qy5+0NACLGOU0oU6DaGdnyvvhbwsaKS/3j6BUynlFLA7i7dtu1JcADmKNT030HXnLKq3vXu0mqj74zTcmsosrthy2chu6YbHInYFCGHNQYfRE2lzj3FNXvemIhOuF0blXQGAVJcm8c7IzvAFhLOhVOPRHMUg7/C2azsYdRmCkdcRwecsgyOf9WFgUifgsSpiSA2NWtu/CCM/YcgKJmtSCBH7WvhoM7dw/yo1e96DyE=;lJT7i5apOL3Xpkes5QHw1Q=="
 ---
 

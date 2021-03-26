@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 type: article
 quality: 190
-heat: 990
+heat: 1010
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316184757-mike-carlson-gbi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia's new law suppressing the vote is a victory for Trump"
+    excerpt: "Former President Donald Trump's campaign of lies about a stolen election just delivered a huge victory with a new Georgia law that could suppress the votes of many of the citizens who helped eject him from the White House.\n    \n"
+    publishedDateTime: 2021-03-26T10:20:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8YZJm9Nim9I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/georgia-voter-suppression-law-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/georgia-voter-suppression-law-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325171434-georgia-voting-rights-0301-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

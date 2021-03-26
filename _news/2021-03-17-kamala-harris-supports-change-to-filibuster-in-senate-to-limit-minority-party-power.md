@@ -142,6 +142,15 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Kamala Harris Has a Message for American Women"
+    excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
+    publishedDateTime: 2021-03-26T11:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "ldV2cWHeQU5x8ubKJhLujXmHifZgJmGNmOk0wl9sN7vuJD3lMenVAWFs7LBuzJb0cLvI1kDQM/ltz7FPDHMeBlLpV1MY4Dtw1iQn4AQRBgcYSLwWXpBkD2CF8NYEXwmNUiz3vrA/X+Ks/I1Q2XFA5nRbMpjkX/727O0+oEgyBA7PYd/TRP1z5aL7R/57+1Vp7uJsRX33sfys/5W74u7+38LovJagNS1mXmzB1ylzvoOgDB5qGxWcKhQM16PtSBYVaoBaU7tfhWa1YGIRoJBUS4cZ2zWUkmN/aUBetO2O0cpld79ryKmGIRzPzFwPPncYQGpfGulBcjPBVv7vhSbsOYGZsdXCJ2DCIhPyD+3uFBI=;J3wd2HchLMOapKGfiWIyfg=="
 ---
