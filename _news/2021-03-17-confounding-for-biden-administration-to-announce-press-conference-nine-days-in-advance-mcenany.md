@@ -45,6 +45,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Bewildering' to see Biden read answers from script at press conference: Fleischer"
+    excerpt: "After President Biden's first press conference since his inauguration, former White House press secretary Ari Fleischer told \"The Faulkner Focus\" on Friday that the commander in chief reading off of a script  to answer reporter's questions is \"not healthy.\""
+    publishedDateTime: 2021-03-26T17:00:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eziv2UDyrHQ/biden-scripted-answers-press-conference-fleischer"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-scripted-answers-press-conference-fleischer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-scripted-answers-press-conference-fleischer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden’s first press conference: Here are some of the hot-button questions he could face"
     excerpt: "President Biden later Thursday will face reporters in a press briefing for the first time as president after weeks of media outlets clamoring to get a chance to grill him in the White House briefing room. "
     publishedDateTime: 2021-03-25T11:53:59Z

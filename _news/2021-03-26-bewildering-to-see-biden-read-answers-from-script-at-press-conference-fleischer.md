@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Fox News' Peter Doocy had 'binder full of questions' for Biden if called on at news conference"
-excerpt: "President Biden took questions from 10 reporters at the first press conference of his term, but Fox News White House correspondent Peter Doocy was not one of them."
-publishedDateTime: 2021-03-25T20:54:14Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-7WptPIggyo/fox-news-peter-doocy-binder-questions-biden"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-7WptPIggyo/fox-news-peter-doocy-binder-questions-biden"
-ampWebUrl: "https://www.foxnews.com/politics/fox-news-peter-doocy-binder-questions-biden.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-peter-doocy-binder-questions-biden.amp"
+title: "'Bewildering' to see Biden read answers from script at press conference: Fleischer"
+excerpt: "After President Biden's first press conference since his inauguration, former White House press secretary Ari Fleischer told \"The Faulkner Focus\" on Friday that the commander in chief reading off of a script  to answer reporter's questions is \"not healthy.\""
+publishedDateTime: 2021-03-26T17:00:55Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eziv2UDyrHQ/biden-scripted-answers-press-conference-fleischer"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eziv2UDyrHQ/biden-scripted-answers-press-conference-fleischer"
+ampWebUrl: "https://www.foxnews.com/politics/biden-scripted-answers-press-conference-fleischer.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-scripted-answers-press-conference-fleischer.amp"
 type: article
-quality: 163
+quality: 169
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52a1dce6-5033-43b8-ad2a-9f9e3dc43659/f47905d4-9499-481a-993b-f9c4a79acb7b/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548baca2-6495-4342-be7b-a3d92deb8ed5/a5205ecc-af6d-40ac-a48a-0bec1c62ae40/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "'Bewildering' to see Biden read answers from script at press conference: Fleischer"
-    excerpt: "After President Biden's first press conference since his inauguration, former White House press secretary Ari Fleischer told \"The Faulkner Focus\" on Friday that the commander in chief reading off of a script  to answer reporter's questions is \"not healthy.\""
-    publishedDateTime: 2021-03-26T17:00:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eziv2UDyrHQ/biden-scripted-answers-press-conference-fleischer"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-scripted-answers-press-conference-fleischer.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-scripted-answers-press-conference-fleischer.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden’s first press conference: Here are some of the hot-button questions he could face"
     excerpt: "President Biden later Thursday will face reporters in a press briefing for the first time as president after weeks of media outlets clamoring to get a chance to grill him in the White House briefing room. "
@@ -95,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Fox News' Peter Doocy had 'binder full of questions' for Biden if called on at news conference"
+    excerpt: "President Biden took questions from 10 reporters at the first press conference of his term, but Fox News White House correspondent Peter Doocy was not one of them."
+    publishedDateTime: 2021-03-25T20:54:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-7WptPIggyo/fox-news-peter-doocy-binder-questions-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-peter-doocy-binder-questions-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-peter-doocy-binder-questions-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52a1dce6-5033-43b8-ad2a-9f9e3dc43659/f47905d4-9499-481a-993b-f9c4a79acb7b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'Confounding' for Biden administration to announce press conference nine days in advance: McEnany"
     excerpt: "The Biden administration announcing the date that the president will hold his first formal press conference nine days ahead of time is a \"confounding strategy,\" Fox News contributor and former White House press secretary Kayleigh McEnany told \"Outnumbered\" Wednesday."
     publishedDateTime: 2021-03-17T20:39:46Z
@@ -110,6 +110,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fkENCQ2mSt1XZwpQx5/Dn4AM1Pv2b6f5BhPHHlaorUD/AmyZODp0DsIN4CekGMK50wiWvF3OEaDd8+60bVqHt1BkE0yG6Gi+Gr/ycLBilL4a/N2x6heAvKNPnVYXIwqSnKCYuRDJ8iA2hOJQmO0BGxIa+zjLTTJiiP6yTjnFWXOQ20T9Xh1RJ+TGdL+uHJdqlaIC44e58ZVAIpZSYu5f8WV5qHy/QePyhvVk8Fzwsf5z4oVUCaAJXhBfM648ERaHUGpXSbRcZlRX1D0RYIwDV49bSdmB/33i9PROx+ARmz2EdUZPJieAgC+gjsJFgNGP7wUEDNEbeeMvGzbVN9LZX7/RsDvWYm41Z4rjkrZwmkY=;FmajjT3tnDq0xQsCrQ/sZg=="
+secured: "sC+wVjun44e/f7tvoOW9FAH8M0dHhkpYIUyVwV0opTmAn2BhC0JetjunNFEW6u00teS4QoB5zq6ULGT2mNPSd2nWnOP40sWqOU2zNNePpGw77e8hKT5+fRgnPZQErlTaGeNtZ2/1XHqCCvcpHRuh+bIikm1GfmESZqSq2IYOFFBzCiu77MbrME8N6lrDMnm6jl6KDF76kyqR6w1A/+fvAGbgSQVr9s9ZIpZsivp6gl8uIQ5xCNLeBQ3nS9jB7I1p76BWO0vZUPY0B5jSeSQGZadBnqzu6GtVI0jCs+OCNjr9wkXq8m6Zqt3l9KUyw6ZXY/Kja7YrXatw6wPtx/4HB7N+xV+jS/UJbftSxSjYWpU=;9FZKeP1V1cUoy7XKLC2DDw=="
 ---
 
