@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp"
 type: article
 quality: 200
-heat: 1860
+heat: 1880
 published: true
 
 provider:
@@ -575,6 +575,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84c4af36-5bab-470f-aa2d-c34ad42e006d/f8e7efe0-1b32-480c-841a-656c978439ca/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Photos show Biden 'cheat sheets' during first formal press conference"
+    excerpt: "President Biden referenced “cheat sheets” detailing key policy points and the identities of attending journalists when he conducted the first formal press conference of his presidency on Thursday."
+    publishedDateTime: 2021-03-26T02:02:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YO4moG5vPJI/photos-biden-cheat-sheets-first-formal-press-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/photos-biden-cheat-sheets-first-formal-press-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/photos-biden-cheat-sheets-first-formal-press-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Cheat-Sheet-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden silent on whether Cuomo should resign after avalanche of Dem calls"
     excerpt: "President Biden isn't weighing in on whether New York Gov. Andrew Cuomo should resign even as top New York congressional Democrats say it's time for him to go, according to White House press secretary Jen Psaki."

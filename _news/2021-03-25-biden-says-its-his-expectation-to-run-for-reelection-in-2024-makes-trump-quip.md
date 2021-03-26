@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
 type: article
 quality: 200
-heat: 840
+heat: 860
 published: true
 
 provider:
@@ -540,6 +540,20 @@ related:
       - url: "https://assets.realclear.com/images/50/509974.jpg"
         width: 500
         height: 375
+        isCached: true
+  - title: "Hemingway: Media \"Utterly Deranged\" With Trump, Gave Biden \"The Most Gentle Questions\""
+    excerpt: "Hemingway lamented the media that set the standard with \"utterly deranged\" questions for former President Donald Trump have shown the opposite standard for Biden with reporters like Yamish Aalcindor calling Biden a \"moral\" and \"decent\" man at the press ..."
+    publishedDateTime: 2021-03-25T20:21:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/25/hemingway_media_utterly_deranged_with_trump_gave_biden_the_most_gentle_questions.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 72
+    images:
+      - url: "https://assets.realclear.com/images/51/514557.jpg"
+        width: 1098
+        height: 822
         isCached: true
 
 secured: "r5z2gzIpqXmoNQRxdkkUtsnuEq65liA5t3IuPcgKmj96PqNtHN6nJGkcThTepDqeW3jxAbDBknhDK1LLvCDX8fyQ+wMJp4snA+NeBdd84DVsmqFfY7cCs65asj8cukI/JNBRM5JToTdPdlcJI/4yMfZ7Xr9f/SC7Jd4VvJZ0V2kBiyXWgVyv/o+zSKQ0q4Vufa6lZwRzYwNfUDpBTtPbA/5rR7qfeiW8q+y6daPOK83U2J8GdcmjfcNagqqPP3qplRnIUuG0O5eKOqiH/1PiXFwNv6aMslC2zE23IJCA1qH/jhG1ftIRQJt8Xl3DOCEYCNOnlEskHVBj67yFsLuLUdFe+Cz1wAcKhyrXnx1yzKM=;6mucGLWM2+1qTnrOwgAKaA=="

@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden holds a meeting on Immigration at the White House"
 excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
 publishedDateTime: 2021-03-24T19:54:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c142dab529c5750592029505b13ee941/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c142dab529c5750592029505b13ee941/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/d732d0189c73d74d5643bc1832501b67/BIDEN-IMMIGRATION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c142dab529c5750592029505b13ee941/BIDEN-IMMIGRATION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1906,20 +1906,20 @@ related:
         height: 224
         isCached: true
   - title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-    excerpt: "US President Joe Biden, with Margaret Purce (L), Megan Rapinoe (C) and other members of the U.S. Soccer Women's National Team, signs a proclamation during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March ..."
-    publishedDateTime: 2021-03-24T22:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9504e7104d3872c538409fed03b08e9c/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+    excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
+    publishedDateTime: 2021-03-24T22:20:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9504e7104d3872c538409fed03b08e9c/BIDEN-EQUAL-PAY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "k4cVz8JlDQRDohRpgWwenrkx7KZS6ZdREn1A4NOQpp0HIkbS1rxrS0bxQ8eDYv4/IYHbc/QJ7YGDc/ncFju1wLUXjBNjkc9qa8FLajQtemnadCNaULBBWSw+WOOUgU0PCxbwDI4giPfTyAiXxsgNYu87edlbUE2vDXhGgV2gVxla71fNMvx1gYViACtIhaFcbbLxFTaE8RhgnJS9AoT70bPdm4eBcbHBRx2/Jl/mZfdMcxkei8Wzgyez6OmbOvSKHWMEAxWPrado1a7CQpneZ2HsaFJL4+IYD7pHQ0kx0ehqnh8Wqo4X6jahcdul8tgya3ntfGX9Upe5dOSAHBilQgdVEMot7VymxHNcgH3pkoE=;OuNxVnvkxn9XIOezpJSHkQ=="
+secured: "2c4CVPezTOIR1OQhTs+6X+Bd64VIxe15rYypCQiHNh9mWmdEjD52fn5NWU9se1gk0u9hFcILsaYWHA6C+NHvVZcKr/tqwFtDShD+9K+f8nIMXm79TYqeuK2QQyvhepqJXXrroiBSba47ypcndDA1wvrEaNTsJObqyjnS45zOQKOJzXPcPGEptd+NjHJhsPrCVrFzNTC2bPCLOg+jOtp4Fgqu/Vv9klSiZrYELiA7m9s3qPNfPeN7roAxys5ODWko/uKJ/4yOeddZH6P2FmhvchLsZ30PlzOJBw4GOpnCXPGwgkHz9wC8T9fSTtzCIc1AIdW/659SAj4mNxg2qzdXBYekR6l365zxSbyJ3PcpeTc=;jCGf5yaOXPZnBK4u9faVng=="
 ---
 

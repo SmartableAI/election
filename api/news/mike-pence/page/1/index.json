@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-26-former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.md",
+      "title": "Former VP Mike Pence to speak at Faulkner University’s annual benefit",
+      "excerpt": "Faulkner University announced Wednesday morning that former Vice President Mike Pence will headline its annual benefit dinner Oct. 7 in Montgomery. Pence served under former President Donald Trump, and also previously served as governor of Indiana and a member of the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html",
+      "originalUrl": "https://www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CKGXRUQ4VJBL3O3CZ5ROSCNMGI.jpeg",
+          "width": 3242,
+          "height": 2554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html?outputType=amp",
+      "publishedDateTime": "2021-03-25T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-trump-didnt-include-mike-pence-in-his-list-of-very-good-republicans-and-possible-2024-presidential-candidates.md",
       "title": "Trump didn't include Mike Pence in his list of 'very good' Republicans and possible 2024 presidential candidates",
       "excerpt": "During the interview, Trump also repeated his false claims that Pence could have rejected certain states' Electoral College votes during the Jan. 6 joint session of Congress. \"It's too bad Mike Pence didn't go back, because you would have had a much ...",
@@ -1529,49 +1572,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-ucla-student-charged-in-capitol-riot-allegedly-sat-in-mike-pences-chair.md",
-      "title": "UCLA Student Charged in Capitol Riot; Allegedly Sat in Mike Pence's Chair",
-      "excerpt": "A UCLA student from Costa Mesa who founded a campus political organization is facing federal charges of participating in the insurrection at the U.S. Capitol on Jan. 6, officials said Wednesday. Christian Secor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/ucla-student-costa-mesa-charged-in-capitol-riot/2896395/",
-      "originalUrl": "https://www.nbcnewyork.com/news/national-international/ucla-student-costa-mesa-charged-in-capitol-riot/2896395/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2021/02/usdoj-secor-capitol-riot.jpg?fit=962%2C541",
-          "width": 962,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/ucla-student-costa-mesa-charged-in-capitol-riot/2896395/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/ucla-student-costa-mesa-charged-in-capitol-riot/2896395/?amp",
-      "publishedDateTime": "2021-02-17T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

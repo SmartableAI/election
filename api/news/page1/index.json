@@ -282,6 +282,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-26-former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.md",
+      "title": "Former VP Mike Pence to speak at Faulkner University’s annual benefit",
+      "excerpt": "Faulkner University announced Wednesday morning that former Vice President Mike Pence will headline its annual benefit dinner Oct. 7 in Montgomery. Pence served under former President Donald Trump, and also previously served as governor of Indiana and a member of the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html",
+      "originalUrl": "https://www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CKGXRUQ4VJBL3O3CZ5ROSCNMGI.jpeg",
+          "width": 3242,
+          "height": 2554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html?outputType=amp",
+      "publishedDateTime": "2021-03-25T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-biden-warns-north-korea-of-responses-if-they-continue-to-test-ballistic-missiles.md",
       "title": "Biden warns North Korea of 'responses' if they continue to test ballistic missiles",
       "excerpt": "President Joe Biden warned that there would be \"responses\" if North Korea continues to fire ballistic missiles following the hermit kingdom's second launch in less than a week.\n    \n",
@@ -518,7 +561,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 840,
+      "heat": 860,
       "tags": null,
       "images": [
         {
@@ -1331,58 +1374,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-2-staunch-trump-allies-launch-senate-bids-in-missouri-and-alabama.md",
-      "title": "2 staunch Trump allies launch Senate bids in Missouri and Alabama",
-      "excerpt": "Former Missouri Governor Eric Greitens and Alabama Representative Mo Brooks formally announced their Senate bids on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
-      "originalUrl": "https://www.cbsnews.com/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/05/18/a74c26f5-446d-4e94-8638-a163d6f1a792/thumbnail/1200x630/e254686711c839dae283ca52575bf7bb/ap-18137642798547.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
-      "publishedDateTime": "2021-03-24T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

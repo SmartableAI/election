@@ -541,6 +541,20 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Hemingway: Media \"Utterly Deranged\" With Trump, Gave Biden \"The Most Gentle Questions\""
+    excerpt: "Hemingway lamented the media that set the standard with \"utterly deranged\" questions for former President Donald Trump have shown the opposite standard for Biden with reporters like Yamish Aalcindor calling Biden a \"moral\" and \"decent\" man at the press ..."
+    publishedDateTime: 2021-03-25T20:21:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/25/hemingway_media_utterly_deranged_with_trump_gave_biden_the_most_gentle_questions.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 72
+    images:
+      - url: "https://assets.realclear.com/images/51/514557.jpg"
+        width: 1098
+        height: 822
+        isCached: true
 
 secured: "ByGG+BiJGm1C+kl0vLfllHyS+pfdJewEEFEqrKqgMZUG1Zw+6d3RlRSgkN4Roch8HCFlOEB6WUyLGWv5T879ws1X/gOz506hsABL/tPFQZDAdSl3l7sruz9wpRUZC+1KIqEKml7okbKAIXCMr4mPRr4wOB4cK7COOq3qgyO1/GaFk8S8j8yf9vMQ60emo5KqSjBBEnOQK6YXo+hmP3tCaceSca1rZkCOBP2/cRQmSBk1Y+jX2pLu/LjgrqFrGTtduMVm7XqyA6h6lvUs/rqSw6uIUTK6Z+VQa09lBEc+Glt+79/DYAv5P7yFhqf6iVKW5UIUIc0uoeyKlbHzHL3vJtvBvUCr7Q0YeO6L6g+xXmo=;PVPNKLvaCya9v/H73KPVyw=="
 ---

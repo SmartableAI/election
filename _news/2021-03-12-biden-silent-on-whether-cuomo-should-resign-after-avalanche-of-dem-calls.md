@@ -591,6 +591,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Photos show Biden 'cheat sheets' during first formal press conference"
+    excerpt: "President Biden referenced “cheat sheets” detailing key policy points and the identities of attending journalists when he conducted the first formal press conference of his presidency on Thursday."
+    publishedDateTime: 2021-03-26T02:02:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YO4moG5vPJI/photos-biden-cheat-sheets-first-formal-press-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/photos-biden-cheat-sheets-first-formal-press-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/photos-biden-cheat-sheets-first-formal-press-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Cheat-Sheet-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden border officials say he's wrong not to acknowledge migrant 'crisis'"
     excerpt: "Border officials working under the Biden administration tell Fox News that the president and his surrogates are wrong not to call the border situation a crisis."
     publishedDateTime: 2021-03-17T23:19:23Z
