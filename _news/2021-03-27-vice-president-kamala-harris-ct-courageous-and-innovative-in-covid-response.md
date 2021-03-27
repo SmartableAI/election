@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris: CT 'courageous and innovative' in COVID response"
-excerpt: "Landing in Connecticut Friday for the first time, Vice President Kamala Harris hailed the state for being “courageous and innovative” in helping children during a pandemic that has underscored the need to fight poverty and boost education."
-publishedDateTime: 2021-03-27T00:12:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-to-visit-New-Haven-16055501.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-to-visit-New-Haven-16055501.php"
+excerpt: "Landing in Connecticut Friday for the first time, Vice President Kamala Harris hailed the state for being “courageous and innovative” in helping children during a pandemic that has underscored the need to fight poverty and boost education. The visit ..."
+publishedDateTime: 2021-03-27T00:21:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-to-visit-New-Haven-16055501.php?src=sthpdesecp"
+webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-to-visit-New-Haven-16055501.php?src=sthpdesecp"
 type: article
 quality: 51
 heat: 51
@@ -24,6 +24,6 @@ images:
     height: 1365
     isCached: true
 
-secured: "vzqTzmplCzeyPBDeh61pdjnNWA836nUmztqmLCa5NpVHr4lNGH6/8vCT+pf43GO8R0JRqgYpE3yxkhHJwZMxDyozob9LtlCF0uHpVWq/a6BP+icXDEnW1HSfl750fY11WO4C4J3GNBKjYsbxr/loxt0RntRthuQyEcPvTRBMyHg7HO990eAQ+p9gkmvdBBElhLmTJPUDfIjr6RXxflZv5ryDaJLCSS6m9fCU9qG+QTXanJXCkMSpFRciTyLECMbV1aB+6+9ee1bZNGHzoeDqK805ocBESVU0AwEf7gf2hn/QYQMsLl+1B2gcOIpC/D6P76zl2v3FDE2O/7TBU7CO/P/GmP5ZOPZVK67/Qi+rsjrEC5pnChoGBW7iCyMg00fFfqaQlOkHzF4/T+7DnIbnLLOyKOcy0NVS+GVdWFc+nwELmEZxS/pqCZk6t0slxnD4gy1cse3lMsWU2i2ZnlGzKkGeIR0lmP/0HFU7K7LPbibVt/unD/Pp419AHtXD2OfVT1ifcdR0xwe9B867Q6JfJA==;zM5DyAB6MSssl9xxnykJpQ=="
+secured: "J4gMjMLi9+47ezUgTG9SNL/MFe26EDNdLHLUQRocgtMEvhONfmrQo5NLbvn8YNyfbc/GeaziCtSVnJxXBCGTMHXorv4BMUB9hjMuy7xV+tT0Q0EEOWPu3AKQBRtRhEpoy6Si8vgFVYX9KGP0ruOhVJ9mx9r66dBzHC5505Dnw4Kwn+NDi2dmylsz7VEHR+7uigHqMTehm8uk7JHiaaWYBmTy3/PWDPoSQI6HzcugeIamAuj4FApI4XuSUFhunUdNyNKLt6/FoR3XkC9xXXhZOtbhwrLIuyk2AzNPv6nWqGeHHJmeEFAGuzs6nO4sblF3Q+x08AkILl/AkAhwESngJb1lqo8M9loACFCrCxarJWw=;Lx0zi5QB/+21hsUzA0jQ+w=="
 ---
 
