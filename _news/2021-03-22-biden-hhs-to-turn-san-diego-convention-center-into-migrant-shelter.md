@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convent
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hunter Biden photographed with president after new reporting on 2018 gun incident"
+    excerpt: "Just after Hunter Biden came under renewed scrutiny for a strange 2018 incident involving a gun owned by the president’s son, Hunter and President Biden were photographed together outside of Air Force One. "
+    publishedDateTime: 2021-03-26T22:07:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8r4BM2AgQQ4/hunter-biden-photographed-joe"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-photographed-joe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-photographed-joe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230697183.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas Gov. Abbott demands Biden admin give access to migrant children for trafficking investigation"
     excerpt: "Texas Gov. Greg Abbott is demanding that the Biden administration allow the state to interview unaccompanied migrant children in federal facilities."
     publishedDateTime: 2021-03-17T19:57:09Z

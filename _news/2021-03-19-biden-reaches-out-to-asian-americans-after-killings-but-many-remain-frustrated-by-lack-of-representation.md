@@ -1507,6 +1507,20 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 43
+  - title: "CT lawmakers celebrate Kamala Harris visit, saying 'help is here' in the the American Rescue Plan"
+    excerpt: "NEW HAVEN — “Help is here,” U.S. Rep. Rosa DeLauro said Friday. That help was not, specifically, Vice President Kamala Harris, who would then arrive in the city following DeLauro’s remarks. But she would herald it, as officials gathered to tout the ..."
+    publishedDateTime: 2021-03-26T23:13:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Help-is-on-the-way-Kamala-Harris-visit-to-16055292.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 42
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/23/66/20790691/9/rawImage.jpg"
+        width: 2048
+        height: 1449
+        isCached: true
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
     publishedDateTime: 2021-03-12T11:13:00Z

@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Vice President Harris is “not doing the border,” senior adviser says"
+    excerpt: "President Biden has tasked Vice President Harris with addressing the root causes of mass migration from Central America – but she will not be handling southern border policy in general, a top aide said."
+    publishedDateTime: 2021-03-26T22:52:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LlbePye8Cpc/vp-harris-senior-advisor-says-vp-is-not-doing-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris supports change to filibuster in Senate to limit minority party power"
     excerpt: "Vice President Kamala Harris supports changing the filibuster practice in the Senate in order to limit the ability of the minority party to easily block legislation, her office confirmed to Fox News Wednesday. "
     publishedDateTime: 2021-03-17T14:54:42Z

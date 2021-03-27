@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden press conference raises questions about fitness for office: Ronny Jackson"
+    excerpt: "Texas Republican Rep. Ronny Jackson, a former White House physician, believes that President Biden's press conference performance raises questions about his fitness for office. "
+    publishedDateTime: 2021-03-26T22:08:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOVYmyLkFW0/biden-press-conference-mental-fitness-ronny-jackson"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-conference-mental-fitness-ronny-jackson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-mental-fitness-ronny-jackson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38753efa-14c6-4134-9a11-59cbe8d89c91/722f07b4-1910-4454-bf9b-630ac5881107/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s first press conference: Here are some of the hot-button questions he could face"
     excerpt: "President Biden later Thursday will face reporters in a press briefing for the first time as president after weeks of media outlets clamoring to get a chance to grill him in the White House briefing room. "
     publishedDateTime: 2021-03-25T11:53:59Z

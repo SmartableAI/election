@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-press-conference-slated-for-1
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp"
 type: article
 quality: 173
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden press conference raises questions about fitness for office: Ronny Jackson"
+    excerpt: "Texas Republican Rep. Ronny Jackson, a former White House physician, believes that President Biden's press conference performance raises questions about his fitness for office. "
+    publishedDateTime: 2021-03-26T22:08:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOVYmyLkFW0/biden-press-conference-mental-fitness-ronny-jackson"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-conference-mental-fitness-ronny-jackson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-mental-fitness-ronny-jackson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38753efa-14c6-4134-9a11-59cbe8d89c91/722f07b4-1910-4454-bf9b-630ac5881107/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'Bewildering' to see Biden read answers from script at press conference: Fleischer"
     excerpt: "After President Biden's first press conference since his inauguration, former White House press secretary Ari Fleischer told \"The Faulkner Focus\" on Friday that the commander in chief reading off of a script  to answer reporter's questions is \"not healthy.\""
     publishedDateTime: 2021-03-26T17:00:55Z

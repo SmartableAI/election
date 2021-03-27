@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/arizonas-ducey-calls-harris-the-wor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp"
 type: article
 quality: 185
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e70f7eab-30f9-4370-8a08-1d5f7866da5e/21b78449-660b-402c-920f-5e3981c084f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Harris is “not doing the border,” senior adviser says"
+    excerpt: "President Biden has tasked Vice President Harris with addressing the root causes of mass migration from Central America – but she will not be handling southern border policy in general, a top aide said."
+    publishedDateTime: 2021-03-26T22:52:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LlbePye8Cpc/vp-harris-senior-advisor-says-vp-is-not-doing-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
