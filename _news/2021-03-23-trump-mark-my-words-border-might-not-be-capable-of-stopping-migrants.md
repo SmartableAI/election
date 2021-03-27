@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls DHS boss Mayorkas ‘incompetent’ over border crisis"
-    excerpt: "Former President Donald Trump on Monday said that Homeland Security Secretary Alejandro Mayorkas is “incompetent” in his management of the US-Mexico border crisis, warning the Biden ..."
-    publishedDateTime: 2021-03-23T01:48:00Z
-    webUrl: "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/"
-    ampWebUrl: "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/"
+  - title: "MSNBC's Brian Williams touts ad from disgraced Lincoln Project linking Trump to Atlanta spa shootings"
+    excerpt: "MSNBC anchor Brian Williams touted a new ad released by the disgraced Lincoln Project last week that tried to tie former President Donald Trump's rhetoric about the coronavirus to the March 16 Atlanta spa shootings."
+    publishedDateTime: 2021-03-22T22:27:00Z
+    webUrl: "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings"
+    ampWebUrl: "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-says-mayorkas-incompetent-index.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "SIw55Uo7jur4kKwlGFarM8Lao7U+ABpzG53k+bo8DaJZv8982gQuT3PwJoWIravHbLvCHnQGnwwXQDzllKm34EpnRTg6OxcD4vMuSQNLkU7fnpFbqb8SYfUgwpNEveOflRb6zcShfyXPD73knCkRYvLWITowkZZ4ns5KJdHRHR2+4iTpCk/yYyFy379Dtr9rLt9IocskntbPpAW7tQv+KuWQe/l9cA+pL7lREEepSsJcKPwgIlv/3ctdCc05WFvoN2F33RNTfoQsNaNGOytPnKTx6WnVtlh8rgD5y/l6s1Ok48/lFcXv1C88xaDzQ3/xipAqbmilQiPgPBCLNx7Lb4UZZHFG3pIRw6IBsmD5+uEjHaINwvd9+S0zAZ0WAe3CtS3Z201m+tA8BELppFNhmzOi6/W8s2sgJ5PvHSdLmKaUCy8eLHq/VBgSd0/RIKubFnZYoet/thtEeeiWRccs+djp0sVs+sed5TfmnjNcWBrsk3fgljfFPIDrDSKETdb0nq1conP4tCHspxey0kE6ig==;+6JpoISCvTpXc/jH0J5BhQ=="

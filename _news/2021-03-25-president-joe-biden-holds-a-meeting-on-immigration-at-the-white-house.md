@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden holds a meeting on Immigration at the White House"
 excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
 publishedDateTime: 2021-03-24T19:54:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/d732d0189c73d74d5643bc1832501b67/BIDEN-IMMIGRATION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1920,6 +1920,6 @@ related:
         height: 433
         isCached: true
 
-secured: "E1dLnAxeh8FRPjn8vbuCA2A7VvegWIsjtadTWyRvN8j4yqZeanmEuTa2gm05TGsvsN+aDgrhQm9l6R62qBMxbPGcQgStQrupqNRkYF4LfBMLrX480nGd4W5sjSKvaw32aJfhlPSd2pdqioB63oZnweKd0MA+Bv2rSPwMi1AB8jz1ulYbHURshVRFRx5YEyuwE9LRnPVjOJustz8JA9etYS9UQjdTu7eWsUicPTr4UzyfBya6fd7rV/qfZCQ/1UXZAYLnKUKAURaD9l1S1F9WM9LS42AJcvTWkAPqO0kxMexFzaXnSpeun4w+FXF6ZAx7eGjkAyRWcB+Hf8rp2y62ukkSNp07RWS3b+yN8Om+UQI=;T5OSqvr7FbL5TP4f1SVOgw=="
+secured: "3Tuiejtqm6J1v+NM1KNaYgmiRizct8jK3UixhdZiqrImVz5jQEVv+2p4B+8uNHehmjjcKAwA/kbajG+wImk/LzTDOmp31Kb6xgNPcDweUThq7BNWHnIRJTdg3rPbn+Ccrn1nhaq2V0fOzcbkeuCYjCxf0N52vSHttuVzHtiw7tUFq+ifDVJmYFAyXPKaSy11kG7kwa78NWxb8jG8ds89QhEdtOPeOc1zxlWOw9KIIM5Pb59SuqnB9D2Bu00SJ2t+xBX7DlDmZoiPY1f28T6LrWCIbeik08x23H+kR5V487trjtccvnYo/MCiY9Bk1YSaUcizzoSsEvMPq3P4g1Wa4Y3805ZxEu+Z9G9FFI7vqRI=;Sj4BuGRUOWNGDoNaJHegDQ=="
 ---
 

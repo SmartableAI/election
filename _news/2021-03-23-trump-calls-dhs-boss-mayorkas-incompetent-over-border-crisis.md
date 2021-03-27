@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-calls-mayorkas-incompetent-over-border-crisis/amp/"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump: Mark My Words, Border \"Might Not Be Capable Of Stopping\" Migrants"
-    excerpt: "Former President Donald Trump speaks to Newsmax TV's Greg Kelly about the \"gross incompetence\" at the southern border and warned that there will be an overwhelming number of migrants by the summer. In the interview,"
-    publishedDateTime: 2021-03-23T00:05:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/trump_mark_my_words_border_might_not_be_capable_of_stopping_migrants.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/trump_mark_my_words_border_might_not_be_capable_of_stopping_migrants.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/trump_mark_my_words_border_might_not_be_capable_of_stopping_migrants.amp.html"
+  - title: "Trump may visit US-Mexico border region ‘soon,’ former aide says"
+    excerpt: "Former President Donald Trump is \"really concerned\" about the migrant situation along the U.S.-Mexico border and may schedule a visit to the region, a former Trump aide said this week."
+    publishedDateTime: 2021-03-27T09:07:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pyVnr2lPIBY/trump-may-visit-us-mexico-border-region-soon-former-aide-says"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-may-visit-us-mexico-border-region-soon-former-aide-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-may-visit-us-mexico-border-region-soon-former-aide-says.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 84
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://assets.realclear.com/images/53/532146.jpg"
-        width: 990
-        height: 742
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/4a1cf299-Trump-border.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "fYfy090IEbgdFxpFMLLG68rY+CJ/bMgcEW7RKzM0smUjkf3BC2RFOY1rc0lqslxVJf+myp9/+UzUSZbKObaUB70srIIzd9t+SIZYWOXlhnPMvRXvDsesw5ZPGupbT3RGMNgOJZvwVSpd0b/AqdEZj2eo8evaPb0Fd/KjhCA7K5PnsRvGtGUa8cKuXHgzWsMfXdItwkXTCSpDDFqMg5DvXhIQNVwFiu2wntCgrKz2UDsIPu8JFcprnCs0eYXAfjKmtz3+3slKwGFNtByfL976J4+d/8/wxK4XmwvsQmEDRfitpW8fDRvxqQqwqy6AI3KNiLPLLUcVUx6kaU/FD4M5FQTVVb19jMIEDlhhHYhhAN2M+Uj3vX6UXF3pswW9n+hwxlyeNX2Hp8xHZpiQtdJDmikoz2Z0Uft//UkZvZuiVv1M7gUhimQEvfuJPm9qvHgys2CmsGxNnWckMFzEYkbdWfyHfkWh6Hxeskk+4tQ3gQ3ssmE4n7c4qb1wuKgdV9PunfffYYiUs9Yv+jtDPVVQHg==;SNhV7mCHr0hIICSv2X7GDQ=="

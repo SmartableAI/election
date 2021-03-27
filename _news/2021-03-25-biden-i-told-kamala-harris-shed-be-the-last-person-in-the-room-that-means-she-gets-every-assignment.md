@@ -3,8 +3,8 @@ category: news
 title: "Biden: I Told Kamala Harris She'd Be The Last Person In The Room, \"That Means She Gets Every Assignment\""
 excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U."
 publishedDateTime: 2021-03-24T19:35:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/24/biden_i_told_kamala_harris_shed_be_the_last_person_in_the_room_that_means_she_gets_every_assignment.amp.html"
 type: article
@@ -1362,6 +1362,6 @@ related:
         height: 562
         isCached: true
 
-secured: "OQPu/2hEO+4o9QmtjDNwN+fYiaRLcQp4cI9k4k9MG7PfVJAgeeEYMIjC9sXHq7Ap1VxEjHEaCNmq2Zt68nzwqx9qcvoW/WM/wn6CC4L8EJMldiDh8c51T6lCVOpzMK6yNsgF+hqXrNHvH90MNuL/VauMxYFnwldDR7GKk0lVYM/M8PxiEezV7J5xesyLH0jFiIFaqF9B+KKgM6A5y7mpRevtT+5+AnUqUZu/SdN2gfxHvdmTtyRxqA3qZKxhZZPHYlbqmLqVXQXZ0qYcKYwIdz8jGSl/dF2AvuEifz/3ab5gw+KPbSqNcNy5NhFcYK6FVodEaFzFSRPKTPtKgABHlokEG4qUTmrPjClZ7TDoWdI=;HbnCXR19EO6TSUOS9k/Fmw=="
+secured: "utbEh+KdiU1R98Xg+elIrMTeld22FkBiL5dV/Zoq0GHTfqxggmgH0QXxDC8DsJetNwX2/3QrfaJXxASiQlyqCe+mTsyRMfHc49C9ZRo6xW/jBSuJ32Bd8ZjN/6zVEHpKtP9zHWte5+VI2Rc0JIvA8nFFDscaxpXtSUbpnmGP3XOsDn3/yJxsJtL8cvdz0fyo1+qF5mhWmKNCJlSniiVYdSh70S2JgjoZXIA8FsBprHt8ZKCkjM/BcvSj5LYv1JdTrozR6y2f3XtW5XAWXoS2MADLrIHN+2ak7nnBzBejh0iUBVzPFdBtCo/TTInN/n3qC022fN6ZZG2Nxx7U2j2aNicvFURwUoWdpN4lfkr10g0=;dZZ1qa3mAtMmCDZU0xkwCA=="
 ---
 
