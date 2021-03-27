@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden holds a meeting on Immigration at the White House"
-excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
+excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the ..."
 publishedDateTime: 2021-03-24T19:54:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/59d01956247a7192c3584fccf483805a/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/59d01956247a7192c3584fccf483805a/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/59d01956247a7192c3584fccf483805a/BIDEN-IMMIGRATION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1920,6 +1920,6 @@ related:
         height: 433
         isCached: true
 
-secured: "X63KJIj0WwFRow7p24Par95qmpWVLdMZ1rlXVGp9u8GjV2jdHMVSndaq932V4jckSDZJukyOQp7a/2QTYUTuacRqoRMvL5FM1cvmLzOIKiEXks3xwajZWQzEok1+1vg4CangzWH9MgetxLpa8r/6x3Tu9x/q81uenF4TCX9KKrypxu4KX0kG2xcVX2nak/yerKeWevcS7LoNN3WT456uwRMvLniHTlpy5uT9FgwYOeU5Z9EiNgscFUqtggUmbt/flzevJw/Hp+m5Z2ATYxegjCareDKzkWE1lhSvQXtdSNa0HJ6FWkHCXLxss2qgh2rwRsu7p6wkC6clnaNx2CGYyzELJyTRWUS7tB/Xw70Djrw=;U3VrnXeEaxk6AEyGx1CN+g=="
+secured: "NKQp917AhsV9Fq7m0BxlMPXaFnOal7ySPj2s1vnlub6fNidps0M3tcOJLeOUvWeGXt2rGhAeWvGixWDEyx00Yzd1yABF1HklMHBK3Mp1HxkFaw82ZymuXkwSMCC25j/V3T8LUQAnPywmWKUcVgtiGvJDC3iZGYdTzWkv+rBe6cD38KhYlKuju4SCJjSLXgkY6E8zJNqkDAEdg2fUKzRpTIVS08fY8FgeHIWY4uUdOaEmaoX3QtDRHhGtExPE+oUr4/0zoSYtn9+S10sOgKkNalqnaF+5lL8HCdFc0qTvk999sMf3yFJSCRS58jlUzTm72ZGTqYe2p0l2IJZC9cqjGadb2HG4LeOzID4hoMdkrbs=;rAser8KhKRRsrSS/+IP8lA=="
 ---
 

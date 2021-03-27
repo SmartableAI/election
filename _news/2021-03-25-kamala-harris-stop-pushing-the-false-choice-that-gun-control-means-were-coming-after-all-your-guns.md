@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris: \"Stop Pushing The False Choice That Gun Control Means We're Coming After All Your Guns\""
-excerpt: "Vice President Kamala Harris said Wednesday on “CBS This Morning” that “it is time for Congress to act” on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws."
+excerpt: "Vice President Kamala Harris said Wednesday on “CBS This Morning” that “it is time for Congress to act” on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws.’ There is no ..."
 publishedDateTime: 2021-03-24T18:13:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html"
 type: article
 quality: 49
 heat: -1
@@ -180,6 +180,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "iRL4alyzYplNvnkMjmrZCN3ig1L4yQhphfL0IrFBP/J1dEJPjmp13Y5KV65KedBVuI13MgVWpGaBNVuMYuCApnSCpDMnf3dDfDTnoqU6LMGWK1xijeFEAbY4x/RpsNMIk/V0MejCmOtxVtawAnwTzBzlRaUuGbg/BlrLS3WzAbAGoEW3+WGym6Q46H6IgQtb+lRgcuXHQ/n9ABx+CgC0gGgqUhn3edKDKmIDl40j14ebEFSd6wEiGtH+3B6gLh7ZTZZYBT//gSF8YntHt4405QwOWWofQ6dkHlOT+1OvdBxTXw0Fch58vdybawKodcgaOQBSNJecd+syepo5ipfHcfDhcytmiJRXmlH4rpdDLyvPkbqzA9OcUzhAnPNfu5GWfE03D+Swx1skPiKqsOJQuF1pW+M/cOPrs3njxq5hwyeztynBzFlaT/1BTD9oufwNl7dL0q4v9EJQ4EcanKxx6v0E8EchZJUf9P/v7bQAVxoGqZVimObTYC9Yh3FsRv8tuHbmqeZtmM1zpIGPJ7WscA==;q99up80mk7E9XCOdX/CsDw=="
+secured: "qlFYNpw7nCwfolrOM2W1SKK7BDuL0/t2y6iXTd4KtA3qoYtgGH53BsuQw1HnucgKenju+mGn2duDn7htjG0tPbo/BsZnoWHsyhlXvpxY2BXZ4VkhNjoG3S7yO8kLxSFiQBNEYsnB7L7OsN47uPd/Z6IbtqFhctSIgZA3p/saBWsoDV9ZimKPIJA3hOlR2Zx9B5Ya1j/FzPTgQAWJ2/drqyQam0VcscqDOEOn8jtS4UOaZSADVxniyRN8Or0HfjjCNc2OxjzWxYWnYhYN6fWv7JUvVPCosK6OLJHBTxk2TtScrcpMGoNl2ooOyU8aQ9eibBicyFbvf2ZJKY6KRVjayArgfPjORVi5uvxGmLmJbRc=;sPUVoAd2kUjXpOo5NJMEoQ=="
 ---
 

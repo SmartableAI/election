@@ -161,9 +161,9 @@ related:
         height: 702
         isCached: true
   - title: "Kamala Harris: \"Stop Pushing The False Choice That Gun Control Means We're Coming After All Your Guns\""
-    excerpt: "Vice President Kamala Harris said Wednesday on “CBS This Morning” that “it is time for Congress to act” on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws."
+    excerpt: "Vice President Kamala Harris said Wednesday on “CBS This Morning” that “it is time for Congress to act” on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws.’ There is no ..."
     publishedDateTime: 2021-03-24T18:13:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html"
     type: article
     provider:
       name: RealClearPolitics
