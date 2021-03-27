@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Firebrand Congressman Mo Brooks, a Trump ally, launches U.S. Senate run"
-excerpt: "U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, announced on Monday he will run for U."
-publishedDateTime: 2021-03-22T23:55:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks-idUSKBN2BE2X2"
-webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks-idUSKBN2BE2X2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BE2X2"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BE2X2"
+title: "Former Trump adviser takes prominent role in voting battle"
+excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
+publishedDateTime: 2021-03-27T04:26:00Z
+originalUrl: "https://www.chron.com/news/article/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
+webUrl: "https://www.chron.com/news/article/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
+ampWebUrl: "https://www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555822052&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M00X"
-    width: 817
-    height: 545
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -78,6 +74,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1758394/former-president-donald-trump-cpac.jpg"
         width: 3000
         height: 2031
+        isCached: true
+  - title: "Firebrand Congressman Mo Brooks, a Trump ally, launches U.S. Senate run"
+    excerpt: "U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, announced on Monday he will run for U."
+    publishedDateTime: 2021-03-22T23:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks-idUSKBN2BE2X2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BE2X2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BE2X2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555822052&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M00X"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump ally Brooks due to announce whether he will run for U.S. Senate"
     excerpt: "WASHINGTON (Reuters) - U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, is expected to announce on Monday whether ..."
@@ -175,22 +187,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Former Trump adviser takes prominent role in voting battle"
-    excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
-    publishedDateTime: 2021-03-27T04:26:00Z
-    webUrl: "https://www.chron.com/news/article/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Trump Endorses Shafer for Reelection to Georgia GOP Chair"
     excerpt: "Former President Donald Trump has endorsed David Shafer for another term as the chair of the Georgia state Republican Party."
     publishedDateTime: 2021-03-24T22:28:00Z
@@ -201,6 +197,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "hSzAQg+1yMXEIDIUvC/gc7QWsMlIKKHrl2eUt//aX7zqSaK72jKvAvtG7ncBKGn2XTBhz7MR/yLNEvI0N3WNVv2jc0KfkKCKcu/upqLPHAk+Ht8C/VBPFYhDF44O0a6EgsadGFnvU4ChPRgMtezdwX2SMsNVwzSahTmo1Kh3Ugyek+i18yvXU95c71ZHZryrAx2AokjOL5LF/9XH7MLuEfWNj6Vx6Ba6rgy3+fsXiW/WVFGW9w8BbzosMi+Jxig6juGB6IVd+ymkfV2toKiydeU6HeXYU6WFEWBxlJXvYtmigENfV1OF+4HzX0aXxeKWCZrP3EWsU3/lXBpS6BpqZaNZMYLLM2mua5jxg7ellQ0=;O0uIJf7QbsqfM3VsHCXTSQ=="
+secured: "muSVqr31uR7bo2f09wq2PjylqMT09v9uS4ahRd+4BVouVMFd25OW6rjA8pkRFq/XZfBHG9NM0p+VERBxliv0L9OHX3GnlrLpTBqjKIIQOj/EZmPyjSoFPPIeTrn0w5jhPVgYKgTv6DH/V/X9++N2SgNdwCHWBMQaK6KEmkyibGD563LUc2nJnqmJ8YfhbNZxvciSV5/8jeVDR/JssE8iN8jwK60n6IDVw5Rs58Vnh1UXmAKVUWMaxVP4H2SrdcXOlBcZ8ar/Mx5AvYZr2AvDl/SLrP7VPNeRNC83/i20KDTOKX9OzCDNHPlCdQBc0PUSTaWu1d0jm8ZgEjy63G3bw/zWF3EUFb4VMh4/Ui2xM3o=;aEj8C0+DQGucceXbZO1lQA=="
 ---
 

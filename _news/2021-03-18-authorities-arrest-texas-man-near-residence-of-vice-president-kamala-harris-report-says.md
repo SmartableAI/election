@@ -1217,6 +1217,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Kamala Harris visits Connecticut to highlight federal stimulus plan"
+    excerpt: "NEW HAVEN — Vice President Kamala Harris, the daughter of a working mother, came to Connecticut Friday to highlight the Biden administration’s plans to strengthen the child care system and pull millions of American children out of poverty."
+    publishedDateTime: 2021-03-26T18:50:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 69
+    images:
+      - url: "https://www.courant.com/resizer/d5isX5Vc7hEF7KkykMtNjF3R6no=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CBFMW4NFIBGF5CRBV5CCBLYMZ4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris to lead White House efforts to stem migration at the border"
     excerpt: "WASHINGTON – As the Biden administration grapples with the growing number of unaccompanied migrant children at the border, Vice President Kamala Harris will lead U.S. efforts to stem migration, President Joe Biden announced Wednesday. Harris will work ..."
     publishedDateTime: 2021-03-24T21:42:00Z

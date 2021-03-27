@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Biden wants to explore keeping U.S. counter-terrorism troops in Afghanistan: top lawmaker"
+title: "Biden wants to explore keeping U.S. counter-terrorism troops in Afghanistan -top lawmaker"
 excerpt: "House of Representatives Armed Services Committee Chairman Adam Smith’s comments provided new details of U.S. President Joe Biden’s conduct of the Afghanistan peace process that he inherited from the Trump administration. The State Department referred ..."
-publishedDateTime: 2021-03-24T21:53:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-afghanistan-lawmaker/biden-wants-to-explore-keeping-u-s-counter-terrorism-troops-in-afghanistan-top-lawmaker-idUSKBN2BG3E1?edition-redirect=uk"
-webUrl: "https://www.reuters.com/article/us-usa-afghanistan-lawmaker/biden-wants-to-explore-keeping-u-s-counter-terrorism-troops-in-afghanistan-top-lawmaker-idUSKBN2BG3E1?edition-redirect=uk"
+publishedDateTime: 2021-03-24T21:40:00Z
+originalUrl: "https://www.reuters.com/article/usa-afghanistan-lawmaker-idUSL1N2LM3DS"
+webUrl: "https://www.reuters.com/article/usa-afghanistan-lawmaker-idUSL1N2LM3DS"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG3E1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG3E1"
 type: article
@@ -1896,34 +1896,34 @@ related:
         height: 224
         isCached: true
   - title: "President Joe Biden holds a meeting on Immigration at the White House"
-    excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the ..."
+    excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T19:54:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/59d01956247a7192c3584fccf483805a/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/59d01956247a7192c3584fccf483805a/BIDEN-IMMIGRATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
         width: 650
         height: 433
         isCached: true
   - title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-    excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
-    publishedDateTime: 2021-03-24T22:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+    excerpt: "US President Joe Biden listens as First Lady Dr. Jill Biden delivers remarks during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24, 2021. Equal Pay Day marks the extra time it takes an average woman ..."
+    publishedDateTime: 2021-03-24T22:21:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bc48709c5dd4d5dbb4025d3cf60277b8/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/cbfc54451802f17b8b0273b5fef9d4c1/BIDEN-EQUAL-PAY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/bc48709c5dd4d5dbb4025d3cf60277b8/BIDEN-EQUAL-PAY.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "VuuEx7cIaUHa9UGquAyv+eqvWY+errEqW6uUrArboSNyjVjECPxuH8uaaYK2rywAb+E0IhdxcESEqllp6R2xK6QoYGfYIMr1+Y6W2aLkGlWsFjGS5JJN8q5NERpt01d6fC/mWH8xJRMZq1fe5eZ29KCOP7pt/TMlmNCIg6q21EUOOxfseCf3S6SNxrO531lNeVk06LdpQoe28YCKODSWjwOtjJ16rEHJSNVpgbEJ++qdtALaBFd6YirDF1woKDwzEd+rPbzaIPnDRdSHYd9OYpJRZPeHx9X9+TDW/bLsXNeT9R9/jY3+jujO4vSiHMfc3CoRhVyCedfOaHxiviwEWS4ORu8P+GV252/wLBQn9PyuAu0MhPG4iV1xqU6OgFE/KhR9lsd/2IsMzcTBI8/wlFblsnhqFiSygQNWBfb+o5lH/K9vSGzLM6YBpxx3NFiVU64nVcoe9yV6cS8CdLgCniTjhgNhYP5djEBGMBcZJMuJA5fov2SMRjKIsJqJMNuJkcIG3+ZCxei7MBNI0MMcWA==;dNzN9ZI013XdSnRlI+djtQ=="
+secured: "flpTsYefGLeV7vfES4iMbzeBScgaRuHC3VRTDHDvNkXVLJDaXB1mugJxii9YNO2IIp2QE2NpZQP0ueClMj9tfLxtpKnwrwkHDF8+3Yy2ULjJKbRUdTuPpBN+jm0vRTVmZczyNA3KwDxXXJcB9BzvIQYbaO8aXFZm5UoFIeJnFhFHb6Zv3GxVxdy4gJhA+hRPU8ClhdwUbFOAtu1R3Ilbs+qp2XH0fxaWdWJtwq/oYM4InzAS4wIerAy6nlfgoNXdGeZmPHW86HmEgCrzyq/J2glzpiDr9Wg168H//23typVlhMkyQE7sR9Z90akCDasDepqeTeKqhrrybbI+0QZxBdv+G7w3PcIJ56IIo1nQZ+8=;63L351WYxybbgZqvCTiJKA=="
 ---
 

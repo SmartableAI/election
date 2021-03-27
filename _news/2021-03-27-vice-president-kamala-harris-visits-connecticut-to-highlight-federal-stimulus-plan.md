@@ -1,33 +1,29 @@
 ---
 category: news
-title: "White House says Trump administration rhetoric on COVID has elevated threats against Asian-Americans"
-excerpt: "White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian-Americans."
-publishedDateTime: 2021-03-17T19:06:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-violence-trump-idUSKBN2B92VI"
-webUrl: "https://www.reuters.com/article/us-usa-violence-trump-idUSKBN2B92VI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B92VI"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B92VI"
+title: "Vice President Kamala Harris visits Connecticut to highlight federal stimulus plan"
+excerpt: "NEW HAVEN — Vice President Kamala Harris, the daughter of a working mother, came to Connecticut Friday to highlight the Biden administration’s plans to strengthen the child care system and pull millions of American children out of poverty."
+publishedDateTime: 2021-03-26T18:50:00Z
+originalUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html"
+webUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html"
+ampWebUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
 type: article
-quality: 110
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - Election
-  - Donald Trump
+  - Kamala Harris
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555255094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1NL"
-    width: 817
-    height: 545
+  - url: "https://www.courant.com/resizer/d5isX5Vc7hEF7KkykMtNjF3R6no=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CBFMW4NFIBGF5CRBV5CCBLYMZ4.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -683,6 +679,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "White House says Trump administration rhetoric on COVID has elevated threats against Asian-Americans"
+    excerpt: "White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian-Americans."
+    publishedDateTime: 2021-03-17T19:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-violence-trump-idUSKBN2B92VI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B92VI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B92VI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555255094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1NL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Vice President Kamala Harris takes jab at husband on Twitter for picking NCAA Tournament No. 1 seeds"
     excerpt: "Vice President Kamala Harris took a light jab at her husband, Doug Emhoff, on Thursday when he shared his brackets for the men's and women's NCAA tournaments on Twitter. Emhoff picked Gonzaga, the No. 1 overall seed in March Madness, to win the men's ..."
     publishedDateTime: 2021-03-19T03:13:00Z
@@ -1205,22 +1217,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Vice President Kamala Harris visits Connecticut to highlight federal stimulus plan"
-    excerpt: "NEW HAVEN — Vice President Kamala Harris, the daughter of a working mother, came to Connecticut Friday to highlight the Biden administration’s plans to strengthen the child care system and pull millions of American children out of poverty."
-    publishedDateTime: 2021-03-26T18:50:00Z
-    webUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html"
-    ampWebUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 69
-    images:
-      - url: "https://www.courant.com/resizer/d5isX5Vc7hEF7KkykMtNjF3R6no=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CBFMW4NFIBGF5CRBV5CCBLYMZ4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Authorities arrest Texas man near residence of Vice President Kamala Harris, report says"
     excerpt: "On Wednesday, the U.S. Secret Service arrested Paul Murray, 31, of San Antonio near the residence of Vice President Kamala Harris, according to a report from CNBC. Police said they found a rifle and ammunition in Murray's car. He was stopped near the ..."
     publishedDateTime: 2021-03-18T00:58:00Z
@@ -1574,6 +1570,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "YApeS8y3uZDoBdT1ZtN6tI81ekoa0Mog1PZfRVTDnmHaHXzrmAYAX3nTKoe7Vav6xSu7n1nW/GYZAjeM3d1glu5H3CkAafaxua7lmw3Vxt6yiBWG6hWqEggRvxWoG3n9znjxzOYzJVY8W3nu2zOGBQxDbRqeSreCuIWq80KEyXSqljrwfYgwkO8KYrMbyi/p3epi+jH8y13+3/9yD+XfpY6sJcQLGqkNmLSxjOnjsxJwev58vdKsPtGz+EvzMcgc6k3egFCTDA9TfLmmUr6K1JTn1frcO5LcIJyrUmSRlI5uoLxVjj9WuIbdHEHPxkBTAGZi+ZJ4P4yKI8TIjNEEHnDvjIwBbR2Dsvv15y9yhxU=;/f821L52XQQmAr1xTXnIOA=="
+secured: "8pvG6ZFwXINdoMvpb5eF7JvCCtmGnsitAi/0bZ11ccUohkUyOpezrYl0V8Aj1C/rlZ26c+riKFS1zQLPeQ0HIyDTMNsw8Xh0rcVQUrERYTfujXiMcJQnDSrULFa/qxhygrrcvwbubM26xpornB+F1aZ9wObgsCNL7B1lI49WQa3RRfKKXStLuQeZuAKgazP6fITZWsRMlhGu8+sYKqokJBs1pek3c3yZelwX3ZN/jPPxU3qBie12iaP+uPHylrGzPq/gQhuo05XudJ29FpGDXndImFNJZlY3rePgdbaslb4ECdLd7sJ9ZDzKIRAjHZypHQdBfz1Vn9c6Uz9qGC5iByp1ou8zVBb4QFcRJAyXzTM=;CzD3Pzszwukzss5BNm2SXQ=="
 ---
 

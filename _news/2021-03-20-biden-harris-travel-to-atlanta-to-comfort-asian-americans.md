@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2190
+heat: 2210
 published: true
 
 provider:
@@ -1205,6 +1205,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2019/07/15/trump_democrats_31419_c0-118-2720-1704_s1200x700.jpg?0c267069145e844e3569bf4d0f5f6fa869747b21"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Vice President Kamala Harris visits Connecticut to highlight federal stimulus plan"
+    excerpt: "NEW HAVEN — Vice President Kamala Harris, the daughter of a working mother, came to Connecticut Friday to highlight the Biden administration’s plans to strengthen the child care system and pull millions of American children out of poverty."
+    publishedDateTime: 2021-03-26T18:50:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-kamala-harris-connecticut-20210326-2o57st2eafdubloqsz5ik7y6ci-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 69
+    images:
+      - url: "https://www.courant.com/resizer/d5isX5Vc7hEF7KkykMtNjF3R6no=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CBFMW4NFIBGF5CRBV5CCBLYMZ4.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Authorities arrest Texas man near residence of Vice President Kamala Harris, report says"
     excerpt: "On Wednesday, the U.S. Secret Service arrested Paul Murray, 31, of San Antonio near the residence of Vice President Kamala Harris, according to a report from CNBC. Police said they found a rifle and ammunition in Murray's car. He was stopped near the ..."

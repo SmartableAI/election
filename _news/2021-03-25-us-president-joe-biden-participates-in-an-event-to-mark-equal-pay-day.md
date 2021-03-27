@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
-publishedDateTime: 2021-03-24T22:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+excerpt: "US President Joe Biden listens as First Lady Dr. Jill Biden delivers remarks during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24, 2021. Equal Pay Day marks the extra time it takes an average woman ..."
+publishedDateTime: 2021-03-24T22:21:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bc48709c5dd4d5dbb4025d3cf60277b8/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bc48709c5dd4d5dbb4025d3cf60277b8/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/cbfc54451802f17b8b0273b5fef9d4c1/BIDEN-EQUAL-PAY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/bc48709c5dd4d5dbb4025d3cf60277b8/BIDEN-EQUAL-PAY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1273,10 +1273,10 @@ related:
         width: 625
         height: 415
         isCached: true
-  - title: "Biden wants to explore keeping U.S. counter-terrorism troops in Afghanistan: top lawmaker"
+  - title: "Biden wants to explore keeping U.S. counter-terrorism troops in Afghanistan -top lawmaker"
     excerpt: "House of Representatives Armed Services Committee Chairman Adam Smith’s comments provided new details of U.S. President Joe Biden’s conduct of the Afghanistan peace process that he inherited from the Trump administration. The State Department referred ..."
-    publishedDateTime: 2021-03-24T21:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-lawmaker/biden-wants-to-explore-keeping-u-s-counter-terrorism-troops-in-afghanistan-top-lawmaker-idUSKBN2BG3E1?edition-redirect=uk"
+    publishedDateTime: 2021-03-24T21:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-afghanistan-lawmaker-idUSL1N2LM3DS"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG3E1"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG3E1"
     type: article
@@ -1906,20 +1906,20 @@ related:
         height: 224
         isCached: true
   - title: "President Joe Biden holds a meeting on Immigration at the White House"
-    excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the ..."
+    excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T19:54:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/59d01956247a7192c3584fccf483805a/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/59d01956247a7192c3584fccf483805a/BIDEN-IMMIGRATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "h8OtbV8etFwN1cYliiyVkrEYbDppt0qE8MhB2M4b3gnzP+uhAkaj8br997T5Sh09JtiLgUSaaougmw5rYAH8mb7eI0m/Kfpu33sF1om1WFOzWJHXPGFH8q6Lt9oQXnmOWYrZmxytOOesnLARHZ3fB9whtjSbHj53q1FW9IGHVY+uW5Pky1haGVLfSRiVan68b2pXxdEodLwgLmi8dx8cMLFODwvPLSE64f0rd+6vx3n5preBoTJ/gbGEzEZ/LwmNSwEGY+HEFXnn0jMtCI99u7yq+iWexaJhiLT1Qf2L3w39dPHmotNigW6urmWx01AX//vFOTPmYvV+uKcLvGuD4S1FKqkSX5+UUXN9L1ITg8M=;nSkGFC+2V4dZ9Z6XQCRXfg=="
+secured: "MoVcOTqXo7Cr2xWBGrk9HFdJowjcqPLnOeQ10B9TkcjGaIUT9wBfloaK2Ioii5DG6JT1H7LWQpOnW4M2p7T4AvRBc5KPhuQOSiBcgvxHzv74M6z+EDgGTZ2BzK5EqtfFVHZWZH8ehrUJTJ6tD68Y9YzgkGFKELbrgMLQsQ6xL1WwgohAAw20mzvkmCkvuhxDvZ/in8PCmnHFTTUMn/xmk/KGcSPSoc0RGvP809DyibTw0vMSB8x41wrm4DI5ao7Jz96SpHLjB1BFeW4FWc6tE7z88UEhBdHyOoo8i0YNk42KjXLCn4cuViMmKP4PI3ANr9+ddXdMM1KEXyZCNBSdAGwqqHNEFhfAzxPgzh1a//w=;YyKCGlAOYB6JESu/5NRfpw=="
 ---
 
