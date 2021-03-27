@@ -165,6 +165,20 @@ related:
         width: 650
         height: 432
         isCached: true
+  - title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
+    excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
+    publishedDateTime: 2021-03-27T14:03:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Vice President Kamala Harris’ visit to New Haven will highlight child tax credit long championed by U.S. Rep. Rosa DeLauro"
     excerpt: "Kamala Harris’ visit to New Haven Friday is part of the Biden administration’s “Help is Here’' tour. The trip has already taken her to Las Vegas and Jacksonville, Fla. Biden, First Lady Jill Biden and Second Gentleman Doug Emhoff are also traveling to promote the stimulus package."
     publishedDateTime: 2021-03-26T10:00:00Z

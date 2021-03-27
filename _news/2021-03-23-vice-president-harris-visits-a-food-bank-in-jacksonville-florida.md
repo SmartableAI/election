@@ -151,6 +151,20 @@ related:
         width: 650
         height: 494
         isCached: true
+  - title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
+    excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
+    publishedDateTime: 2021-03-27T14:03:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "What's for lunch, Vice President Kamala Harris? Sally's Apizza"
     excerpt: "NEW HAVEN — What does Vice President Kamala Harris eat for lunch when she comes to New Haven? Sally’s Apizza — or at least that’s what she and/or her entourage ate Friday. Not Pepe’s. Not Modern. Not Zuppardi’s, Ernie’s, Roseland, Abate or Bar."
     publishedDateTime: 2021-03-26T20:18:00Z

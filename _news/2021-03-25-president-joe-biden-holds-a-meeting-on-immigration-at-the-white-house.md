@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden holds a meeting on Immigration at the White House"
 excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
 publishedDateTime: 2021-03-24T19:54:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/d732d0189c73d74d5643bc1832501b67/BIDEN-IMMIGRATION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1919,6 +1919,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "'Atrocity': Joe Biden reacts to Georgia's voting bill"
+    excerpt: "President Joe Biden reacts to Georgia's new voting bill that critics say restricts ballot access and gives state officials more power over local elections. CNN's Jeff Zeleny tells us more."
+    publishedDateTime: 2021-03-26T19:45:00Z
+    webUrl: "https://www.thereporteronline.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_5fe1cef1-b79e-5d77-927f-7546d3413d0b.html"
+    ampWebUrl: "https://www.thereporteronline.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_5fe1cef1-b79e-5d77-927f-7546d3413d0b.amp.html"
+    cdnAmpWebUrl: "https://www-thereporteronline-com.cdn.ampproject.org/c/s/www.thereporteronline.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_5fe1cef1-b79e-5d77-927f-7546d3413d0b.amp.html"
+    type: article
+    provider:
+      name: The Reporter
+      domain: thereporteronline.com
+    quality: 55
   - title: "Biden not ruling out chance US stays longer in Afghanistan"
     excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
     publishedDateTime: 2021-03-27T11:51:00Z
@@ -1962,6 +1973,6 @@ related:
         height: 712
         isCached: true
 
-secured: "hYiX2Z7hOk70YZxKh9z68XfmiIlGm7YG/KceS8TMVACoI/kZBUHHqTxPoelaZ2Z+sWXwy2ancmCnliLsJjlDTxpcg8ivxx6q8pEuEffNE2quz0a3yFuWnvz0Hs584Uq6abmZQpjRG5ZCOXpA21s1dKG33g2wxVOGjBqRVeEKcRjq8355NbTEPUfOoMr7KewwROP1olcl2W7wHuQgF9RIKdfJdhPfgeMR5m6HYs2OHPbeULxxCp7vOAj7n9HgtIfEeEVZbFRGQ7JIFBYnjAkHcMXq2Yk381K3ktZewU7eZv7T2Jpr6JLRF2+CzcNatbBKm10kJPLRM7tyHT3leHNM/LURNTV8T1AKmqduXslq+IQ=;fJQMUXzzJM4Gs9MPtQxb0g=="
+secured: "LZxUecZX/U8somWvigOwOHTgMVI4T4Yqon3PauvQMtrk0u0/Jtnc/getzf2I/J9PlFVRY8MORpvD97BqwZRsso4zK+vnEQdVp6bgst7y0l/DqqOOj1/XmL9I2yd9VojlYMVa0bX/SXqRdg9iGaHbDciUs+egm8yKc+IIwVm3nO41njs7z/Q/94NMghft5UwilRPJcFUjPXDGSfMZiYwJPEJBf+J2Gc7d/DMyP5X764gzqnV9aundSGUfGpMRyQVSf88utg+5Hk5ooOFdhOvIW5btEMefuxZwOk6rVPSg8zGTObLcoc73JA2idRxeM2NgKbMd7pTB4jVkgVc9T86Xd6hzhtDyF1Ko3ZTvU4l0AUY=;jxmSViMVp1WaXiF5u24tvQ=="
 ---
 

@@ -1908,14 +1908,14 @@ related:
   - title: "President Joe Biden holds a meeting on Immigration at the White House"
     excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T19:54:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d732d0189c73d74d5643bc1832501b67/BIDEN-IMMIGRATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1933,6 +1933,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "'Atrocity': Joe Biden reacts to Georgia's voting bill"
+    excerpt: "President Joe Biden reacts to Georgia's new voting bill that critics say restricts ballot access and gives state officials more power over local elections. CNN's Jeff Zeleny tells us more."
+    publishedDateTime: 2021-03-26T19:45:00Z
+    webUrl: "https://www.thereporteronline.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_5fe1cef1-b79e-5d77-927f-7546d3413d0b.html"
+    ampWebUrl: "https://www.thereporteronline.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_5fe1cef1-b79e-5d77-927f-7546d3413d0b.amp.html"
+    cdnAmpWebUrl: "https://www-thereporteronline-com.cdn.ampproject.org/c/s/www.thereporteronline.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_5fe1cef1-b79e-5d77-927f-7546d3413d0b.amp.html"
+    type: article
+    provider:
+      name: The Reporter
+      domain: thereporteronline.com
+    quality: 55
   - title: "President Joe Biden Comments on the Right to Vote in Georgia"
     excerpt: "March 27, 2021 - On Friday, President Biden commented on the right to vote in Georgia. More Americans voted in the 2020 elections than any election in our nation’s history. In Georgia we saw ..."
     publishedDateTime: 2021-03-27T12:59:00Z
