@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 type: article
 quality: 190
-heat: 1050
+heat: 1070
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325171434-georgia-voting-rights-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why Biden has an immigration policy problem"
+    excerpt: "The US-Mexico border crisis is one of the first noncoronavirus-related issues to break through the news cycle during President Joe Biden's administration. Republicans are playing up the surge of people trying to cross the border, while Democrats are hoping that Biden can figure out a way to deal with"
+    publishedDateTime: 2021-03-27T13:02:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nvg_s1coLv8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/27/politics/biden-immigration-border-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/biden-immigration-border-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true

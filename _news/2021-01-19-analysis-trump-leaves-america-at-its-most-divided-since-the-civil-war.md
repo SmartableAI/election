@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why Biden has an immigration policy problem"
+    excerpt: "The US-Mexico border crisis is one of the first noncoronavirus-related issues to break through the news cycle during President Joe Biden's administration. Republicans are playing up the surge of people trying to cross the border, while Democrats are hoping that Biden can figure out a way to deal with"
+    publishedDateTime: 2021-03-27T13:02:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nvg_s1coLv8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/27/politics/biden-immigration-border-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/biden-immigration-border-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Controversial House Republican talks to Trump ahead of likely Senate bid "
     excerpt: "Alabama Rep. Mo Brooks, who led the House effort to object to the election results on January 6, told CNN he plans to make an announcement on Monday about whether he will run for the Senate.\n    \n"
     publishedDateTime: 2021-03-18T11:33:43Z

@@ -1898,14 +1898,14 @@ related:
   - title: "President Joe Biden holds a meeting on Immigration at the White House"
     excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T19:54:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/d732d0189c73d74d5643bc1832501b67/BIDEN-IMMIGRATION.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1936,6 +1936,34 @@ related:
       - url: "https://s3.amazonaws.com/rbweb-ap-photos/843571e085fb4805a1402b9c7cb43149.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "President Joe Biden Comments on the Right to Vote in Georgia"
+    excerpt: "March 27, 2021 - On Friday, President Biden commented on the right to vote in Georgia. More Americans voted in the 2020 elections than any election in our nation’s history. In Georgia we saw ..."
+    publishedDateTime: 2021-03-27T12:59:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/28775-president-joe-biden-comments-on-the-right-to-vote-in-georgia?tmpl=component"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 55
+    images:
+      - url: "https://goldrushcam.com/sierrasuntimes/images/2021/Biden-350.jpg"
+        width: 350
+        height: 439
+        isCached: true
+  - title: "WATCH: President Joe Biden holds his first formal press conference"
+    excerpt: "President Biden answered questions from White House reporters at 12:15 p.m., Thursday March 25. Watch a live stream here."
+    publishedDateTime: 2021-03-27T12:24:00Z
+    webUrl: "https://www.mitchellrepublic.com/news/nation/6953038-LIVE-President-Joe-Biden-holds-his-first-formal-press-conference"
+    type: article
+    provider:
+      name: Mitchell Daily Republic
+      domain: mitchellrepublic.com
+    quality: 55
+    images:
+      - url: "https://www.fccnn.com/incoming/6953062-5cod1q-President-Biden-returns-to-the-podium-for-his-mask-after-signing-an-Equal-Pay-Day-for-women-proclamation-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/President%20Biden%20returns%20to%20the%20podium%20for%20his%20mask%20after%20signing%20an%20Equal%20Pay%20Day%20for%20women%20proclamation%20at%20the%20White%20House%20in%20Washington"
+        width: 1140
+        height: 712
         isCached: true
 
 secured: "13t1KXjMUliZSNhAmaQRU/GdAyHeLtHAij2zaeyh2kzOeNs+FI5brq5dgcZiMb16TYMW0cGYMBjWJJgAadX0nGsvpeWxrm8K920dsfgAwsWh9k9yUwEgTb6tgV+7zn02g2nenTWcQ/dd+h45RvGIWgBot9g8kFYzLR9033CxNwb6Kf6EBf8kR3q3zAWMfVHPHe9/1EC69uj7UoPHxeSEBn0ddj1raJ3zwTId66ADmVdW2xaSKXFefy2TdshDzOBA7pVWKR7MhLsUbaC8crQqNVcvbB+M1KQoz7CAs4Q9lF7+CWEVEfMryWjZAxPn3nUDPONWua56+JSE8U4q+VdG+LNoPSJiy2L5+ljbcGHEptkpn/JPpmhRJpb7RQhK/9qQx6IA4/aPnte41QlTayhZG/hSoH4n0aMRQu4ymIHyH2VWXwl/nIG/fRGA0WBXDlkJKznDQJUpA1c4DGQ5Lq/Qhdr/Vv79PsqkgNMfpfPeAXG3y6blJ+N/cflOSSCSQ5ur/jGOxKb+VcmNDudZ4e+jPQ==;H0WoYIy9Xca8Bb+TDflhog=="
