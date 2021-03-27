@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-bill.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-bill.amp"
 type: article
 quality: 185
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Georgia Gov. Brian Kemp to join 'Fox News Live' to discuss new voting law, Biden's reaction"
+    excerpt: "Georgia Gov. Brian Kemp will appear on Fox New Live at 1:30 p.m. EST to discuss the state's new voting law, which he signed on Thursday."
+    publishedDateTime: 2021-03-27T16:48:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vx9rX1YZPX8/georgia-gov-kemp-new-voting-law-biden-fox-news-live"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-new-voting-law-biden-fox-news-live.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-new-voting-law-biden-fox-news-live.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/AP20199501948533.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "vzm7uLhm8mRxY0wN2n3QsnULDeZvCjqwCjCofuPuLbd1Juevnb4eOuh2apj88a18iTZTqC1OQYjUMO2tVMV2lhbvoWIT1rR3zusrN3fpCP1UA3MI+jr+BwXFZlIbnDWXihYon7Lr/tOMwTWv2/2FreZwsN6/zWxk1EghDMovA1qpXlYcpK+CJlwKaZjYR8HqJIvEs+LufZWteXdRRvF1sJ4nQ1rAtVE4ApXxRklF0lk8fgnbM1XLAIsEJE+vHFL0oqTGkBCvdE9ofIYNfKu4bAvXLdJfkVWiIpWbGnCGyhuYJfKDvthQ4at2BIz8rsEp2uU7yWaO5yksSbleJ/svQiB/KXBFxY06cvQF9gIyTJ8=;uZ/6bu7pnnaDVqV+oAt7ig=="
 ---

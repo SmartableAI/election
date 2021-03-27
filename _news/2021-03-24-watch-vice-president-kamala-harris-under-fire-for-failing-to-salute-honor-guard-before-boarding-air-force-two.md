@@ -193,6 +193,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
+    excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
+    publishedDateTime: 2021-03-27T17:18:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-got-another-dose-of-16057956.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 50
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/62/33/20653798/11/rawImage.jpg"
+        width: 2048
+        height: 1374
+        isCached: true
   - title: "Vice President Kamala Harris’ visit to New Haven will highlight child tax credit long championed by U.S. Rep. Rosa DeLauro"
     excerpt: "Kamala Harris’ visit to New Haven Friday is part of the Biden administration’s “Help is Here’' tour. The trip has already taken her to Las Vegas and Jacksonville, Fla. Biden, First Lady Jill Biden and Second Gentleman Doug Emhoff are also traveling to promote the stimulus package."
     publishedDateTime: 2021-03-26T10:00:00Z

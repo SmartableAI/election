@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
+excerpt: "Megan Rapinoe (C) and other members of the U.S. Soccer Women's National Team, signs a proclamation during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24,"
 publishedDateTime: 2021-03-24T22:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/805edaa4644446734a311e57ee620324/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/805edaa4644446734a311e57ee620324/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/805edaa4644446734a311e57ee620324/BIDEN-EQUAL-PAY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1973,6 +1973,6 @@ related:
         height: 712
         isCached: true
 
-secured: "7BPu1FkRLWu2lf5R1dQP+GQXt5HPvgs7ZuUel1NcE1xWhVTEXCSIjYA47718CMOukhg/i8WerECByq/3/A3aQeiMANYVJOhSnZQUS1IKMyVNNUOEOOstfK808X0pB6AqVFyeZq8FyhhCO7RLO9LQTZXmzMsCelMTkFdxNNiYXNwYxzywoWEc3u63c1u5I+Ic6LPYXKcmh0dSg97laqdY+uDra4hIrR0YkkmFcm8ViJCh6PkzffYWBsRxYFsOpWKy17BtiBagkbt7nclcm0b4p95EcCAlfJ1fpRiyuA8fRSw6FhOM+8J+qV5FREqzwAttaZNOq4p6GQhKQBhFbShv6hTNdcxwbsMk7Y3dRD4gK2I=;gszy9aghDLvYwvY21hkpYA=="
+secured: "X8NaM3B4nKDsoNAP4z1Lyz4qefNaGZUcfaAem1V0wEwYbsNDzhDUiTXLJf/lOluA3ari5y2TETUoB0lNBVyumJYVc8p3TFjR+mee+6wt4oNW5aTZOfEUUjJhhTPmX3W7LAbCMk03PoPrngYMPYbI6I/sYv63yoaPa9LKCvFdY/oBaQB/2vGL8lZt4cJh2VPMgeGXivhou7wLGFoxqVgUPFr0TVbj+kZMT33znYe4APoDuV9AsY42NKZqcZJtegCJZBvpi6Vdh/831fz5X3AVxr36lCH4yTvf7avHlIalDfdXzuvMJyr5af4o7ON5xzldxQHVWOYum1MTJV8WN6gP4Wv36+ClgWtkY90t8dg4KyY=;vICvylXT1HAtV3DWvdzbXA=="
 ---
 
