@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-24-biden-north-korea-missile-tests-no-new-wrinkle.md",
+      "title": "Biden: North Korea missile tests 'no new wrinkle'",
+      "excerpt": "US President Joe Biden is shrugging off short-range missile tests conducted by North Korea over the weekend. Returning to the White House Tuesday evening after a trip to Ohio, Biden told reporters, \"there's no new wrinkle in what they did.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/03/24/biden-north-korea-missile-tests-no-new-wrinkle/6976087002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/03/24/biden-north-korea-missile-tests-no-new-wrinkle/6976087002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/f626a6e0-bb31-4516-999a-a00cd6e13644_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-bernie-sanders-not-comfortable-with-trump-twitter-ban.md",
       "title": "Bernie Sanders not ‘comfortable’ with Trump Twitter ban",
       "excerpt": "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political",
@@ -1291,58 +1343,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-biden-looks-beyond-border-dispatching-officials-to-mexico-and-guatemala.md",
-      "title": "Biden looks beyond border, dispatching officials to Mexico and Guatemala",
-      "excerpt": "Facing criticism over a growing presence of migrant children at the U.S. southern border, President Biden on Monday dispatched a high-level team to Mexico and Central America to find what the administration is calling a “humane” solution to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala",
-      "originalUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/fa5841d/2147483647/strip/true/crop/6720x4389+0+46/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F67%2Ffc%2Fdb8c9187455eb8704beb396f4a23%2Fla-photos-1staff-735197-na-mcallen-border-stories-10-cmc.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true",
-      "publishedDateTime": "2021-03-22T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

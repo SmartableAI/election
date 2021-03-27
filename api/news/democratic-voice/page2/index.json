@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-18-texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions.md",
+      "title": "Texas governor: Biden must answer for ‘enticing unaccompanied minors into inhumane conditions’",
+      "excerpt": "Texas Gov. Greg Abbott called out President Joe Biden’s border policies. The governor said, “reckless” policies are causing a surge in border crossing and the president must answer for “enticing unaccompanied minors into inhumane conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
+      "originalUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/abbott-00_01_00_23-Still001.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo108709957557",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo108709957557",
+      "publishedDateTime": "2021-03-17T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-omarosa-manigault-newman-cant-force-trump-to-testify-in-lawsuit-judge-rules.md",
       "title": "Omarosa Manigault Newman can't force Trump to testify in lawsuit, judge rules",
       "excerpt": "Former Trump White House aide Omarosa Manigault Newman won't be allowed to get testimony from former President Donald Trump, former Trump chief of staff John Kelly or a member of the White House counsel's office in a lawsuit she faces related to her exit from the government, a federal judge in Washington",
@@ -1624,63 +1681,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-bidens-german-shepherd-major-nips-secret-service-agents-hand-causing-extremely-minor-injury.md",
-      "title": "Bidens' German shepherd Major nips Secret Service agent's hand, causing 'extremely minor injury'",
-      "excerpt": "The press secretary said in an interview on MSNBC's \"Morning Joe\" that it's typical for the dogs to be in Delaware when Jill Biden is traveling. The first lady is in Washington state as part of a West Coast trip to tour military bases and meet with service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/white-house/biden-s-german-shepherd-major-involved-white-house-incident-resulting-n1260169",
-      "originalUrl": "https://www.nbcnews.com/politics/white-house/biden-s-german-shepherd-major-involved-white-house-incident-resulting-n1260169",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_10/3455382/210309-major-biden-mc-12442_b4ae073e2073a88753304c82d48c7cae.JPG",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1260169",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1260169",
-      "publishedDateTime": "2021-03-09T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

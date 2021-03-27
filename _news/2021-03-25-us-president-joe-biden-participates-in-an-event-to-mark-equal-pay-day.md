@@ -1861,6 +1861,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 92
+  - title: "Biden not ruling out chance US stays longer in Afghanistan"
+    excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
+    publishedDateTime: 2021-03-27T19:32:00Z
+    webUrl: "https://www.myjournalcourier.com/news/article/US-general-Afghans-need-US-troops-to-counter-16052900.php"
+    ampWebUrl: "https://www.myjournalcourier.com/news/amp/US-general-Afghans-need-US-troops-to-counter-16052900.php"
+    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/US-general-Afghans-need-US-troops-to-counter-16052900.php"
+    type: article
+    provider:
+      name: Journal-Courier
+      domain: myjournalcourier.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Democratic frustration is boiling over as Biden administration staffing slogs along, and 2020 staffers tell Insider they feel 'left out in the cold'"
     excerpt: "But not everyone who wants a job on Team Biden — or thinks they deserve one — has landed a gig working for the new president. Some feel like they've been left in limbo. Several described President Joe Biden's hiring process as opaque. And even time ..."
     publishedDateTime: 2021-03-22T08:00:00Z
@@ -1973,6 +1989,6 @@ related:
         height: 712
         isCached: true
 
-secured: "X8NaM3B4nKDsoNAP4z1Lyz4qefNaGZUcfaAem1V0wEwYbsNDzhDUiTXLJf/lOluA3ari5y2TETUoB0lNBVyumJYVc8p3TFjR+mee+6wt4oNW5aTZOfEUUjJhhTPmX3W7LAbCMk03PoPrngYMPYbI6I/sYv63yoaPa9LKCvFdY/oBaQB/2vGL8lZt4cJh2VPMgeGXivhou7wLGFoxqVgUPFr0TVbj+kZMT33znYe4APoDuV9AsY42NKZqcZJtegCJZBvpi6Vdh/831fz5X3AVxr36lCH4yTvf7avHlIalDfdXzuvMJyr5af4o7ON5xzldxQHVWOYum1MTJV8WN6gP4Wv36+ClgWtkY90t8dg4KyY=;vICvylXT1HAtV3DWvdzbXA=="
+secured: "nSwxSZaoMGh818rr4x0x9yRXwVcDh6TB4IgWveXmDjHQor2p+SDaDkcWlZnVqK9qyiv+wLYlQIJP3bV06LRh6c80QWInUj+F0+biT3pDh8djK/bCrHC02QGRv4b/zHM+r4HBNbOjA4cNfN+wKONwicxs4ykxNFQ9Z4jgNslk0ZAD/Zpl8GAUOZ1hxHiBm5GVcp0RL0IvPXtqIpQZ5Q9GEkKeGgECWYEbFwnKUvTOQlOOMJXywhYOC6NPqWiBSrG4JUqtJf1hx1xx41ZW9fA53yMVAphiGHtK4usTU8K/AVfxRIqyLVpD9pxuv8q5M9UncpRVlLIcgz2ivc8iwx/ctZs5PTO2WNAKqmEsWdEwNKSTQc4oU+XpfE1BnFnCyyNOZuFQE2lIec3+cSYIja4PMwCjHQ/zRiC+gjPvJhlRYr8k7FmaUV2k1J9+YgZO71LJr5LJqHDb0WXY2WghyUMOxqfIxXNUKu4Cl7MY8wzaNnzKNDXeDOnxQfU1gMOUcoG+DvO1/cOKH+OTME320a+4ZQ==;NFkbb6bp6pit+CQ6o82/Eg=="
 ---
 

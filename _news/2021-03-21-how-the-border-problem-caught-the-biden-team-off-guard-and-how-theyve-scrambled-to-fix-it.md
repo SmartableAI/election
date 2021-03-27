@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration projects at least 34,100 more beds needed to shelter migrant children"
+    excerpt: "The Biden administration could need at least 34,100 additional beds to keep up with the projected number of unaccompanied kids arriving at the US-Mexico border through September, according to internal government estimates obtained by CNN.\n    \n"
+    publishedDateTime: 2021-03-27T18:02:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLw_hVqmNSE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/27/politics/us-mexico-border-migrant-children-beds/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/us-mexico-border-migrant-children-beds/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323125936-01-border-facility-donna-texas-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congress looks to Biden as an ally as it tries to finally rewrite authority for the war on terror"
     excerpt: "There's a new movement afoot to finally curb the President's 9/11 war powers, and the Republicans and Democrats pushing it have hope in a key ally: the President himself.\n    \n"
     publishedDateTime: 2021-03-25T10:08:02Z

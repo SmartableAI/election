@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1"
 type: article
 quality: 138
-heat: 2678
+heat: 2698
 published: true
 
 provider:
@@ -1851,6 +1851,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 92
+  - title: "Biden not ruling out chance US stays longer in Afghanistan"
+    excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
+    publishedDateTime: 2021-03-27T19:32:00Z
+    webUrl: "https://www.myjournalcourier.com/news/article/US-general-Afghans-need-US-troops-to-counter-16052900.php"
+    ampWebUrl: "https://www.myjournalcourier.com/news/amp/US-general-Afghans-need-US-troops-to-counter-16052900.php"
+    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/US-general-Afghans-need-US-troops-to-counter-16052900.php"
+    type: article
+    provider:
+      name: Journal-Courier
+      domain: myjournalcourier.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Democratic frustration is boiling over as Biden administration staffing slogs along, and 2020 staffers tell Insider they feel 'left out in the cold'"
     excerpt: "But not everyone who wants a job on Team Biden — or thinks they deserve one — has landed a gig working for the new president. Some feel like they've been left in limbo. Several described President Joe Biden's hiring process as opaque. And even time ..."
     publishedDateTime: 2021-03-22T08:00:00Z

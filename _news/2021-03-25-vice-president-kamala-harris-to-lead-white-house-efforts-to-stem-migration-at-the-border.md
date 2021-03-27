@@ -3,18 +3,18 @@ category: news
 title: "Vice President Kamala Harris to lead White House efforts to stem migration at the border"
 excerpt: "WASHINGTON – As the Biden administration grapples with the growing number of unaccompanied migrant children at the border, Vice President Kamala Harris will lead U.S. efforts to stem migration, President Joe Biden announced Wednesday. Harris will work ..."
 publishedDateTime: 2021-03-24T21:42:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/03/24/kamala-harris-lead-biden-admin-stemming-migration-border/6984000002/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/03/24/kamala-harris-lead-biden-admin-stemming-migration-border/6984000002/"
-ampWebUrl: "https://amp.indystar.com/amp/6984000002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6984000002"
+originalUrl: "https://www.statesman.com/story/news/politics/2021/03/24/kamala-harris-lead-biden-admin-stemming-migration-border/6984000002/"
+webUrl: "https://www.statesman.com/story/news/politics/2021/03/24/kamala-harris-lead-biden-admin-stemming-migration-border/6984000002/"
+ampWebUrl: "https://amp.statesman.com/amp/6984000002"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/6984000002"
 type: article
 quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -1570,6 +1570,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "sFt/Ik8r0L92a9ScsG2UxtCGp494L9ZrUX3+Y5T4XdEyjUA0tQYB1kb5H8k0ZWylp3GHdmCLyx8opqQs88VQiQPJ+ioe7PqfBo+gVYvT6DXAKMDgcre4WVaYEZWL+JH3AWTcAd1uw2cA25DQE7I9JpwVjgjsJ5EY/CsZCkA3fUnkjZGSLlUqrT8MTcVSaIVntOIy6TnAM467D+gLKq6W9wIWI0bxxuvKd3spyobeYFtzdXiDb2Yu3hmHSQ66CgC5CmIEDlcG+RC8V4BSf4aBZFpxIR4T7n/zR/0tfBHPItPrugd42wpmylEDMVx0//9IdODgSiyAzpyDX+H7C6Edh3Bs8nWfypW+ALF1CiIawU6jtiXrDcznsi4ubmKGvM5o4MHx/hRRkBg4YamFcBod+PvW2Vo/leSrZp8RBXlfKSzBT4l7e1+c4C5nPxP6YiAhGgs7anxnBmeZ+VpiYoU2MeHAWEvNgxeOsKTaGLgN6OMSdkuYF4YpAYMQ09sGO8TsIwTz7BrYuRp3UCtVSacGPA==;TxEWH3kB64T/MXcKEZwCBA=="
+secured: "oM2BwIYTRNUo39CxJlIXuo2Msm/u0mC64LO/hYcRswJJ8H7rVMV8qzra6TeYIaeQjGtco7eioHHhnyn3wEKVnuj4bxQzx3F+QAfWEbXkRIHuFs+4rsVIegv3JU+aLwRsCT9rzjlrLBF3jPFxh75+AI/hk4JZs51pU8LuoUddCqC1wirUxKcCryAo+D34sxUJeXozvACdpplbpyo3w5EMf6U9F2cCMEBSyxXV1DYbWEUWtyszhLvfT1kdD3VqBFbG5uJikZEh0m8Kex4ab4vNpHyFqB65uV9DotBYoYJ2B619fpbySvO7+I+yxB1n4cmy80DXxZ3ffcTiF+ZXqsH3x4wo9ts3F4UBw9ZE8Me5iM8=;Lwei7G2rsdP0CuSnGSJtWQ=="
 ---
 

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-27-maine-gop-rejects-censure-of-sen-susan-collins-after-her-vote-to-convict-trump.md",
+      "title": "Maine GOP rejects censure of Sen. Susan Collins after her vote to convict Trump",
+      "excerpt": "The Maine Republican Party's state committee on Saturday rejected a censure measure against Sen. Susan Collins, following her vote earlier this year to convict former President Donald Trump in his Senate impeachment trial.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUnzNcONxoY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUnzNcONxoY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210327143212-susan-collins-0224-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/27/politics/maine-gop-votes-against-censure-susan-collins/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/maine-gop-votes-against-censure-susan-collins/index.html",
+      "publishedDateTime": "2021-03-27T12:34:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-after-two-months-in-office-kamala-harris-is-still-living-out-of-suitcases-and-shes-getting-frustrated-with-it.md",
       "title": "After two months in office, Kamala Harris is still living out of suitcases -- and she's getting frustrated with it",
       "excerpt": "It has been more than two months since Kamala Harris was sworn in as vice president of the United States, a historic moment for the country, as Harris is the first woman and the first woman of color to hold the second highest office in the land. Yet, Harris -- along with her husband, Georgetown Law professor",
@@ -295,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1631,63 +1687,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions.md",
-      "title": "Texas governor: Biden must answer for ‘enticing unaccompanied minors into inhumane conditions’",
-      "excerpt": "Texas Gov. Greg Abbott called out President Joe Biden’s border policies. The governor said, “reckless” policies are causing a surge in border crossing and the president must answer for “enticing unaccompanied minors into inhumane conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
-      "originalUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/abbott-00_01_00_23-Still001.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo108709957557",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo108709957557",
-      "publishedDateTime": "2021-03-17T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }
