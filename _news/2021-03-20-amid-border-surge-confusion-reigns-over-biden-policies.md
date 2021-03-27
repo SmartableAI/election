@@ -1898,30 +1898,44 @@ related:
   - title: "President Joe Biden holds a meeting on Immigration at the White House"
     excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T19:54:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d732d0189c73d74d5643bc1832501b67/BIDEN-IMMIGRATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
         width: 650
         height: 433
         isCached: true
   - title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-    excerpt: "US President Joe Biden listens as First Lady Dr. Jill Biden delivers remarks during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24, 2021. Equal Pay Day marks the extra time it takes an average woman ..."
-    publishedDateTime: 2021-03-24T22:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bc48709c5dd4d5dbb4025d3cf60277b8/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+    excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
+    publishedDateTime: 2021-03-24T22:20:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/bc48709c5dd4d5dbb4025d3cf60277b8/BIDEN-EQUAL-PAY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Biden not ruling out chance US stays longer in Afghanistan"
+    excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
+    publishedDateTime: 2021-03-27T11:51:00Z
+    webUrl: "https://www.riverbender.com/topnews/details.cfm?id=336095"
+    type: article
+    provider:
+      name: RiverBender.com
+      domain: riverbender.com
+    quality: 55
+    images:
+      - url: "https://s3.amazonaws.com/rbweb-ap-photos/843571e085fb4805a1402b9c7cb43149.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "yrEVHYUSEsQUJ4krHaq32sZOwDtotGXROcZbRx81Vvurhaug2akppmyp13wycNmtt/GTiCVlQw+xgICq+kihO2TqFzX+ZEL9YOvu2qWCVqPUuXwzm20GNlfIzu1k4gqS0UHTJN5JUwN3esmOjqO1uKVbLM0hj5YAyzjcGl2zGdN2xvxs9uQXC7AhyaH+8DYjM1X54hrukgjG/6oT5mtj+scrNMqiRx0KjFFYLcDJUQmwTaaEAk4DZLZo266J1Lf+LXdlNYsy6AOuiVsxtcjLIGYlQiyYwQQGB764mRX6k6s4OKhlH3OrukcW5vwUrPhrJBn5zEJmpxjsvI712Kz8yyyOB+C9qekS7ifMKEvQlAaCKPBS+sAfF3hzL/rFv1xD0tIoOnZ6gFhQ6YvEX9EDQfHmjAyR3F6W/F5XwnUJHvweq3kSgoPLZX7PVb98wdB6biHgut8/SD71MkwW/NeGS0tD/G5/mACYJO7BXHHxGJgrw5+y5n5sbR4F2ZO880Epegib/E04YQRrTBe6p9rb2Q==;sKag8bPlyhx1Sap+u5tLjw=="

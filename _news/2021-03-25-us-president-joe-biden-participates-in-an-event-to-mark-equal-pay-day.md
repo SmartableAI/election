@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-excerpt: "US President Joe Biden listens as First Lady Dr. Jill Biden delivers remarks during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24, 2021. Equal Pay Day marks the extra time it takes an average woman ..."
-publishedDateTime: 2021-03-24T22:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/bc48709c5dd4d5dbb4025d3cf60277b8/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/bc48709c5dd4d5dbb4025d3cf60277b8/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
+publishedDateTime: 2021-03-24T22:20:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/bc48709c5dd4d5dbb4025d3cf60277b8/BIDEN-EQUAL-PAY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1908,18 +1908,32 @@ related:
   - title: "President Joe Biden holds a meeting on Immigration at the White House"
     excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T19:54:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d732d0189c73d74d5643bc1832501b67/BIDEN-IMMIGRATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
         width: 650
         height: 433
         isCached: true
+  - title: "Biden not ruling out chance US stays longer in Afghanistan"
+    excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
+    publishedDateTime: 2021-03-27T11:51:00Z
+    webUrl: "https://www.riverbender.com/topnews/details.cfm?id=336095"
+    type: article
+    provider:
+      name: RiverBender.com
+      domain: riverbender.com
+    quality: 55
+    images:
+      - url: "https://s3.amazonaws.com/rbweb-ap-photos/843571e085fb4805a1402b9c7cb43149.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
-secured: "wCR9pQeWqUE17A2Yr/gsr/5rJ9lLhoGxaqovI6fRE3YXK7IkxXpAJXyHyw2dkKnFaX0UWRA78j5y3lXGq5TZ982/M2UbAdNGGxPyIWsVzR9cGfo1Rpe1TUgBf7QBwct+QHPoT1xP2Px3nhk6Z8LUyr9k4AR1Erc5EZR7TwCORhURuEfYMSrGQAROWr2m8Dw9rgvZDjJ4l1hupebBAYGm7dDICP53JhOJ8irSUTQvqjJM8l8JJoLo3jfsHV1PQ8PUqTKY4Wdo3CnlUke9/bYPnzWpXHkmYOgX4D25lHOZLLvpCe+0TMQGycLxb+NtC6wuzLSO1CYdpUjdtujKYdWpduKnV1/6B3KOkWB0iPxcV6VJbpyJPTKPmcshQkhxrIobeXgh9H4UPhUO+Cx67HMNO+YbaA+E2aqyELX4bcY75lhD8O1ArMOZNpPOUFxgghR2u4/devmo2OMxTRbp+SyFxBKYAnpijFwq4A8paYOhc9Ja9mKY55sBxDa/4S8CHWWrBTdBMTKLDYZRX5MW2nGaGg==;UTaVrUBjx8P+bq4anqS+ig=="
+secured: "7BPu1FkRLWu2lf5R1dQP+GQXt5HPvgs7ZuUel1NcE1xWhVTEXCSIjYA47718CMOukhg/i8WerECByq/3/A3aQeiMANYVJOhSnZQUS1IKMyVNNUOEOOstfK808X0pB6AqVFyeZq8FyhhCO7RLO9LQTZXmzMsCelMTkFdxNNiYXNwYxzywoWEc3u63c1u5I+Ic6LPYXKcmh0dSg97laqdY+uDra4hIrR0YkkmFcm8ViJCh6PkzffYWBsRxYFsOpWKy17BtiBagkbt7nclcm0b4p95EcCAlfJ1fpRiyuA8fRSw6FhOM+8J+qV5FREqzwAttaZNOq4p6GQhKQBhFbShv6hTNdcxwbsMk7Y3dRD4gK2I=;gszy9aghDLvYwvY21hkpYA=="
 ---
 

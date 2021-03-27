@@ -1,33 +1,27 @@
 ---
 category: news
-title: "'We have to act': Biden calls on Congress to move fast on background checks, assault weapon ban after Boulder shooting"
-excerpt: "I don't need to wait another minute, let alone an hour, to take common sense steps that will save the lives in the future,' the president said."
-publishedDateTime: 2021-03-23T17:24:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/23/mass-shooting-biden-calls-congress-pass-background-check-bills/6965613002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/03/23/mass-shooting-biden-calls-congress-pass-background-check-bills/6965613002/"
-ampWebUrl: "https://amp.usatoday.com/amp/6965613002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6965613002"
+title: "Biden not ruling out chance US stays longer in Afghanistan"
+excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
+publishedDateTime: 2021-03-27T11:51:00Z
+originalUrl: "https://www.riverbender.com/topnews/details.cfm?id=336095"
+webUrl: "https://www.riverbender.com/topnews/details.cfm?id=336095"
 type: article
-quality: 101
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RiverBender.com
+  domain: riverbender.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/03/22/USAT/7f4ecad5-9e83-445c-9a21-554f6bf7529f-AFP_AFP_96D7DN.jpg?auto=webp&crop=3803,2140,x0,y212&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s3.amazonaws.com/rbweb-ap-photos/843571e085fb4805a1402b9c7cb43149.jpg"
+    width: 640
+    height: 427
     isCached: true
 
 related:
@@ -1755,6 +1749,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 102
+  - title: "'We have to act': Biden calls on Congress to move fast on background checks, assault weapon ban after Boulder shooting"
+    excerpt: "I don't need to wait another minute, let alone an hour, to take common sense steps that will save the lives in the future,' the president said."
+    publishedDateTime: 2021-03-23T17:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/23/mass-shooting-biden-calls-congress-pass-background-check-bills/6965613002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6965613002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6965613002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/22/USAT/7f4ecad5-9e83-445c-9a21-554f6bf7529f-AFP_AFP_96D7DN.jpg?auto=webp&crop=3803,2140,x0,y212&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden puts St. Patrick's Day pride on display as he meets with Irish prime minister"
     excerpt: "Biden, Irish PM hold virtual meeting on St. Patrick's Day President Joe Biden's Irish pride certainly showed during his first St. Patrick's Day as president, as he held a traditional bilateral ..."
     publishedDateTime: 2021-03-17T20:20:00Z
@@ -1923,21 +1933,7 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Biden not ruling out chance US stays longer in Afghanistan"
-    excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
-    publishedDateTime: 2021-03-27T11:51:00Z
-    webUrl: "https://www.riverbender.com/topnews/details.cfm?id=336095"
-    type: article
-    provider:
-      name: RiverBender.com
-      domain: riverbender.com
-    quality: 55
-    images:
-      - url: "https://s3.amazonaws.com/rbweb-ap-photos/843571e085fb4805a1402b9c7cb43149.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
-secured: "pTDLQ1GGVVitHubgwmUi+Ds2kbuuCrUsyl+5br1RhwmY818iA8OTNPP8kOVC5QIUrjBc8zVDzhcmYSWagnUVGPg+DvvMGLswIHBZ5IVhfv4Vi5oXSS3EqiBAmKaLdv0OxH8FretJFhBwXFePEFSj5YtfLGCoqo6mo55RU2IAEIfjKr9Y26XBMtDcTT69v+6vPsRORSWfsJN64apuWjxuVLcwmmyaWQBs2UwQwsq44XJwTUxQFNLZJinXL9rouOpP4GSjoLny7OKodJRCEIX6JeBR+X6PGRRQhD1MBGYIWp0M4gBttNJiUemCW4CXX4raTXoHEChiR3jXHQezEJ1dIAPptjTBEmuz8wxVD6CSsBo=;dgmX9zARpR29PR+BmE4Xgg=="
+secured: "j5A1/l333iOszIJG74ekeKDgHZn1AEvpkOtzxt9+OiTMTjF06A2g8bUpKjoNGl3cGlVyAhPUs5OExbZaZ2/3C59qDqssZwut5ryKtfllTNKkGfUZPsKvaAyAUNMmBvulB3iQW87MztuSqzPSmwxK9jHuP4rfij+baeo5kcDl0gcvkx0gfrTVra5hpMujEg9xNe72tTToXVmrWh+oljhgzRfAFon6R2U0Gfr0T9Sc8loHu7x8iUBWaa2XzSfgZpnjkaXqVWZe4KxO2kSceZICgUF4WgIaPnH+nf9suNeCtyOFFIc3J9GXkL6bZ6aHKfzmkvAb7BoaczhDiBo9X4Uzv7lXRrkMQeudLELPUOazd2w=;Ekmu0op53MHCbi1RM4pK+g=="
 ---
 
