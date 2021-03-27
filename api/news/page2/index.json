@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-25-biden-says-he-cant-picture-us-troops-being-in-afghanistan-next-year.md",
+      "title": "Biden says he 'can't picture' US troops being in Afghanistan next year",
+      "excerpt": "President Joe Biden said he \"can't picture\" US troops being in Afghanistan next year.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MEdkK3g2TPU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MEdkK3g2TPU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325134844-10-biden-presser-0325-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html",
+      "publishedDateTime": "2021-03-25T11:44:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-biden-says-its-his-expectation-to-run-for-reelection-in-2024-makes-trump-quip.md",
+      "title": "Biden says it's his 'expectation' to run for reelection in 2024, makes Trump quip",
+      "excerpt": "President Biden says it's his \"expectation\" that he'll run for reelection in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 880,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp",
+      "publishedDateTime": "2021-03-25T11:41:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-ron-johnson-biden-admin-seems-deaf-dumb-and-blind-to-border-crisis-dangers-to-migrants.md",
       "title": "Ron Johnson: Biden admin seems 'deaf, dumb and blind' to border crisis, dangers to migrants",
       "excerpt": "The Biden administration is \"deaf, dumb, and blind\" to the dangers posed on the migrants as they attempt to cross the southern border, Sen. Ron Johnson, R-Wis., told \"Fox & Friends\" on Thursday, addressing the crisis that prompted GOP lawmakers to visit the border.",
@@ -1210,114 +1322,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.amp",
       "publishedDateTime": "2021-03-23T16:17:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-biden-says-we-have-to-act-on-gun-control-and-calls-on-senate-to-close-background-check-loophole.md",
-      "title": "Biden says \"we have to act\" on gun control and calls on Senate to close background check loophole",
-      "excerpt": "Before Biden advocated for the Senate to act on the two House-passed bills that would close loopholes in the background checks system, centrist Democrat Senator Joe Manchin of West Virginia told reporters that he opposes the measures. \"I mean, I come from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "originalUrl": "https://www.cbsnews.com/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/23/0f477749-841f-43b6-a5c7-b98a1a45ae73/thumbnail/1200x630/243cc0c97e4e49618c250b68b04cb62f/gettyimages-1308657015.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "publishedDateTime": "2021-03-23T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-kayleigh-mcenany-blasts-biden-administration-for-unprecedented-lack-of-media-access-to-border.md",
-      "title": "Kayleigh McEnany blasts Biden administration for 'unprecedented' lack of media access to border",
-      "excerpt": "Former White House press secretary Kayleigh McEnany slammed the Biden administration Tuesday for what she described as an \"unprecedented\" lack of media access to the border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TgLT-TPH1o/border-access-media-biden-administration-kayleigh-mcenany",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp",
-      "publishedDateTime": "2021-03-23T14:38:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

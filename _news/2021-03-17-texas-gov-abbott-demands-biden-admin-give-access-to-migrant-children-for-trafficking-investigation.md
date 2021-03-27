@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden suggests plan to rival China's Belt and Road initiative to UK prime minister"
+    excerpt: "President Biden suggested western nations develop a plan to rival China’s years-long Belt and Road Initiative (BRI), during a phone conversation with U.K. Prime Minister Boris Johnson Friday."
+    publishedDateTime: 2021-03-27T01:27:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m52v5oZBBaY/biden-suggests-plan-to-rival-chinas-belt-and-road-initiative-to-uk-prime-minister"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-suggests-plan-to-rival-chinas-belt-and-road-initiative-to-uk-prime-minister.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-suggests-plan-to-rival-chinas-belt-and-road-initiative-to-uk-prime-minister.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House appears to scrub Biden gaffe from transcript after calling Afghan president wrong name"
     excerpt: "The White House quietly corrected a gaffe President Biden made during his Thursday press conference in which he appeared to mix up the names of Afghanistan President Ashraf Ghani and the controversial former head of Pakistan's military. "
     publishedDateTime: 2021-03-26T15:11:22Z

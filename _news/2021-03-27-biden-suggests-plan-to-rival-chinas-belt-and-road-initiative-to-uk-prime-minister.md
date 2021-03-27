@@ -1,0 +1,147 @@
+---
+category: news
+title: "Biden suggests plan to rival China's Belt and Road initiative to UK prime minister"
+excerpt: "President Biden suggested western nations develop a plan to rival China’s years-long Belt and Road Initiative (BRI), during a phone conversation with U.K. Prime Minister Boris Johnson Friday."
+publishedDateTime: 2021-03-27T01:27:06Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m52v5oZBBaY/biden-suggests-plan-to-rival-chinas-belt-and-road-initiative-to-uk-prime-minister"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m52v5oZBBaY/biden-suggests-plan-to-rival-chinas-belt-and-road-initiative-to-uk-prime-minister"
+ampWebUrl: "https://www.foxnews.com/politics/biden-suggests-plan-to-rival-chinas-belt-and-road-initiative-to-uk-prime-minister.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-suggests-plan-to-rival-chinas-belt-and-road-initiative-to-uk-prime-minister.amp"
+type: article
+quality: 169
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Biden HHS to turn San Diego Convention Center into migrant shelter"
+    excerpt: "The Biden Administration is turning the San Diego Convention Center into a temporary shelter to support unaccompanied children seeking asylum in the United States."
+    publishedDateTime: 2021-03-22T22:06:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/65SRXFq8Ly0/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Hunter Biden photographed with president after new reporting on 2018 gun incident"
+    excerpt: "Just after Hunter Biden came under renewed scrutiny for a strange 2018 incident involving a gun owned by the president’s son, Hunter and President Biden were photographed together outside of Air Force One. "
+    publishedDateTime: 2021-03-26T22:07:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8r4BM2AgQQ4/hunter-biden-photographed-joe"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-photographed-joe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-photographed-joe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230697183.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Texas Gov. Abbott demands Biden admin give access to migrant children for trafficking investigation"
+    excerpt: "Texas Gov. Greg Abbott is demanding that the Biden administration allow the state to interview unaccompanied migrant children in federal facilities."
+    publishedDateTime: 2021-03-17T19:57:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNFOJ5W7nqo/texas-border-migrant-children-greg-abbott-biden-trafficking"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075718186443.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "White House appears to scrub Biden gaffe from transcript after calling Afghan president wrong name"
+    excerpt: "The White House quietly corrected a gaffe President Biden made during his Thursday press conference in which he appeared to mix up the names of Afghanistan President Ashraf Ghani and the controversial former head of Pakistan's military. "
+    publishedDateTime: 2021-03-26T15:11:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aryCehvT4Nk/white-house-biden-gaffe-transcript-afghan-president"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-gaffe-transcript-afghan-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-gaffe-transcript-afghan-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden admin releases photos of crowded migrant processing center at border amid transparency criticism"
+    excerpt: "Customs and Border Protection (CBP) on Tuesday released photos of the temporary facilities being used to process migrant children who are found crossing the U.S. southern border. "
+    publishedDateTime: 2021-03-23T13:13:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c_WG_hAe_qs/biden-cbp-releases-photos-crowded-processing-center-minors-border-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cbp-releases-photos-crowded-processing-center-minors-border-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cbp-releases-photos-crowded-processing-center-minors-border-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "GOP senators seek Hunter Biden gun incident information from law enforcement"
+    excerpt: "Two Republican senators on Thursday sent a letter to multiple law enforcement agencies inquiring about their alleged involvement in a 2018 incident when a gun belonging to Hunter Biden, the son of President Biden, temporarily went missing."
+    publishedDateTime: 2021-03-26T19:06:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSyMEz_clLA/gop-senators-seek-hunter-biden-gun-incident-information-from-law-enforcement"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
+        width: 4896
+        height: 2754
+        isCached: true
+  - title: "White House pulls Biden Interior nominee after Murkowski opposition, backtracking on second nominee this month"
+    excerpt: "Biden's presidential transition organization announced Klein ... Neither did representatives for Sen. Joe Manchin, D-W.Va., a Democrat from an energy state who also reluctantly supported Haaland. Democrats theoretically could still have confirmed Klein ..."
+    publishedDateTime: 2021-03-23T23:07:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-pulls-biden-interior-nominee-elizabeth-klein"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-pulls-biden-interior-nominee-elizabeth-klein.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-pulls-biden-interior-nominee-elizabeth-klein.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/biden-happy-thumb.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+
+secured: "NQ0BcF+qh3hcMdbtM7e23PwEwJ0wKUiTOBFcvqrcYYjKasM/uTQqTQN+Y/2BNKpI2h7t2LvZn58QYuKhaVjKEyJbq1eQd7NZdnCIH2tiYUalFPuU1DdhNPiARU5rIyFbzCwGTZyBfj7Nkcg/8EFEouddfuzeNYQsHZwnFnNymeiRCV+PzUhyFPY7X0Pkk1d7rg3nco/EzV6ZLzKC+XSTxhJGa5ahzz2BzAjNRZHOkcDoMV22Gzq5OsSfA4eCVM28NkFyQGQ5AiQEkhh5OsPGzn37aV21GGOSn0zIgSSgFT18yRz7ABVVGfPugR4o9DL4jZL/jqksDa3r+X/KdYO8sE1duhgmRkMuCIdySgZK0VU=;d6TVal0Ux+n1bGViwJz5Eg=="
+---
+

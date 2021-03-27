@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-excerpt: "Megan Rapinoe (C) and other members of the U.S. Soccer Women's National Team, signs a proclamation during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24,"
+excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
 publishedDateTime: 2021-03-24T22:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/805edaa4644446734a311e57ee620324/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/805edaa4644446734a311e57ee620324/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/805edaa4644446734a311e57ee620324/BIDEN-EQUAL-PAY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/cbfc54451802f17b8b0273b5fef9d4c1/BIDEN-EQUAL-PAY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -635,8 +635,8 @@ related:
         isCached: true
   - title: "Biden calls for tighter gun control measures after Colorado shooting"
     excerpt: "U.S. President Joe Biden on Tuesday called for a ban on assault weapons and tighter gun control measures as he stepped into the familiar role of grief counselor for a traumatized nation after a mass shooting left 10 people dead in Colorado."
-    publishedDateTime: 2021-03-23T17:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-obamacare-idUSKBN2BF168"
+    publishedDateTime: 2021-03-24T03:27:00Z
+    webUrl: "https://www.reuters.com/article/us-colorado-shooting-biden-idUSKBN2BF168"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF168"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF168"
     type: article
@@ -1908,18 +1908,18 @@ related:
   - title: "President Joe Biden holds a meeting on Immigration at the White House"
     excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T19:54:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d732d0189c73d74d5643bc1832501b67/BIDEN-IMMIGRATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "fYGkKWUgmyI+IeA+ohxjFTVHXrhJEMuQ8WlOY/mBF00KiGEDlCXRU1CKcsHheWAiOhlNk+sxI5NF2D3kmuqahOgUeoVxwSdWo7vDjkKAJdGwAX4uWN/eGz1lpgVDIPFf2TKlfJoRkIGuNh4HmNw35UqKx924tI//UIw0yJmQwcRtqqObaPHW0Lty6w/n5NpfdUx88Uia3roxlf5TEVXyt5qKPMbWFLeWDn23q3XqDXelzmjNARvRdr3CDsSWE/Dow1TUvySoyN42ymKIwx3koFp3tYRS3rROBgYlR44By6Y3TOz8mMG5dm5KBsls9FVUecdHGVGWjMzOY+5xa5LFLdLkn5d7Sk81qykz6W08GjM=;GyBWe74qc5dznJFVrZPbFQ=="
+secured: "h8OtbV8etFwN1cYliiyVkrEYbDppt0qE8MhB2M4b3gnzP+uhAkaj8br997T5Sh09JtiLgUSaaougmw5rYAH8mb7eI0m/Kfpu33sF1om1WFOzWJHXPGFH8q6Lt9oQXnmOWYrZmxytOOesnLARHZ3fB9whtjSbHj53q1FW9IGHVY+uW5Pky1haGVLfSRiVan68b2pXxdEodLwgLmi8dx8cMLFODwvPLSE64f0rd+6vx3n5preBoTJ/gbGEzEZ/LwmNSwEGY+HEFXnn0jMtCI99u7yq+iWexaJhiLT1Qf2L3w39dPHmotNigW6urmWx01AX//vFOTPmYvV+uKcLvGuD4S1FKqkSX5+UUXN9L1ITg8M=;nSkGFC+2V4dZ9Z6XQCRXfg=="
 ---
 

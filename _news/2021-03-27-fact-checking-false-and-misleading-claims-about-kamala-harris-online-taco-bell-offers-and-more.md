@@ -9,7 +9,7 @@ ampWebUrl: "https://www.stltoday.com/news/national/fact-checking-false-and-misle
 cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/fact-checking-false-and-misleading-claims-about-kamala-harris-online-taco-bell-offers-and-more/article_ebc9ea55-a4dc-551c-babb-0452e553abd9.amp.html"
 type: article
 quality: 63
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 682
     isCached: true
 
-secured: "V6irJ/jaLfyP4Uq0VezESYCVGJ5DBHo/mc391pg6YLKheBpeP1swl6QFKMhuaeOibA9KenTldQftJy+UlVGXpUE56q3CXaBjN2J8sX1tJpJRPwOFNBtCos9TlsmCGQ6/2wlqNbKHQe+oB1bpPBZ9WgMkyxhwO4glTm7nSjqrU7L4lMeiakLXQtgza9vx0x2s87TqkOIQnrdRx7GmKuJf6+lHR8OWenZO0gkQcBCe6uQWPqYlnOYzo8TZec3ZGTnleZ/JjtqoViazW75INdDS6wZjOtB/BbaSCBgtEZaPpqSdBj2WNPQx6x1Ap/dndW7mqvU4ARt8otwJjemWo2trLDaXciGp9og3fNSxH9psP+Q=;rvVgxVuN5naG3QVKHwey2A=="
+related:
+  - title: "Kamala Harris faces political ‘trapdoors’ as she takes lead role on migrant border surge"
+    excerpt: "The humanitarian crisis at the southern border has vexed politicians in both parties for years. Now it’s Vice President Kamala Harris’ problem. President Joe Biden’s administration announced this week that Harris would lead its efforts to reduce the ..."
+    publishedDateTime: 2021-03-26T21:53:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article250228600.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article250228600.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article250228600.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 66
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "TNCcRSmAWI9ZL+ybTDVXslNdd7TuoKd3k1mxIljQpdavSI6jD11oz9Dje264aPUyCL1d/AudrZn5P9J1hHfLagiJhbuQMMYlFjgDKwAwFh9+UUUh+OU33rK06EaC08JwnVCrLEqXUOsUhvolVw7vpcM9cjA+/xtGstceve/hv8KFGnfFUvl6kc70M0Pf13JwB1vMUHvDoaM9AO3ne57N3OIyhaBmv4TyY4eyjMeJ8dTyo/fudBI5lvoJm2oXzbGv7Ub/ZikfT0Jyfm/edVSXp+D5w5ahvomAOAMCkzeRoVVNODH1K/gGP4AOQR7QquLcoUNLNOBMN4goHFrmOCHWyoumYdOXN3LQQnCNCeGYBR4308LFqYTun0nDxxma7TkDm6Hqa3wD55FazltuX0JuCw5At6Y3gktoiR+ufkXwqBUpJyhVjnCmCjEHlx/1EwLEvoGN+c+Jvbb60IaCgdkX2mIHuLlY028Q0yCA8+mvN02BHh4lpOudp8xK/0N0QL2CbHVSrO4iC9r1bdPSSICmEw==;fYaSCLbbZDlO1OCCd22OJw=="
 ---
 

@@ -641,8 +641,8 @@ related:
         isCached: true
   - title: "Biden calls for tighter gun control measures after Colorado shooting"
     excerpt: "U.S. President Joe Biden on Tuesday called for a ban on assault weapons and tighter gun control measures as he stepped into the familiar role of grief counselor for a traumatized nation after a mass shooting left 10 people dead in Colorado."
-    publishedDateTime: 2021-03-23T17:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-obamacare-idUSKBN2BF168"
+    publishedDateTime: 2021-03-24T03:27:00Z
+    webUrl: "https://www.reuters.com/article/us-colorado-shooting-biden-idUSKBN2BF168"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF168"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF168"
     type: article
@@ -1898,28 +1898,28 @@ related:
   - title: "President Joe Biden holds a meeting on Immigration at the White House"
     excerpt: "President Joe Biden, with Vice President Kamala Harris, delivers remarks during a meeting with Secretary of Health and Human Services Xavier Becerra, Secretary of Homeland Security Alejandro Mayorkas and immigration advisors in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T19:54:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d732d0189c73d74d5643bc1832501b67/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8166b74e59f42d2c4e60523434956e09/President-Joe-Biden-holds-a-meeting-on-Immigration-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d732d0189c73d74d5643bc1832501b67/BIDEN-IMMIGRATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8166b74e59f42d2c4e60523434956e09/BIDEN-IMMIGRATION.jpg"
         width: 650
         height: 433
         isCached: true
   - title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-    excerpt: "Megan Rapinoe (C) and other members of the U.S. Soccer Women's National Team, signs a proclamation during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24,"
+    excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T22:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/805edaa4644446734a311e57ee620324/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/cbfc54451802f17b8b0273b5fef9d4c1/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/805edaa4644446734a311e57ee620324/BIDEN-EQUAL-PAY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/cbfc54451802f17b8b0273b5fef9d4c1/BIDEN-EQUAL-PAY.jpg"
         width: 650
         height: 433
         isCached: true

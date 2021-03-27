@@ -59,6 +59,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-27-kamala-harris-faces-political-trapdoors-as-she-takes-lead-role-on-migrant-border-surge.md",
+      "title": "Kamala Harris faces political ‘trapdoors’ as she takes lead role on migrant border surge",
+      "excerpt": "The humanitarian crisis at the southern border has vexed politicians in both parties for years. Now it’s Vice President Kamala Harris’ problem. President Joe Biden’s administration announced this week that Harris would lead its efforts to reduce the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/news/politics-government/article250228600.html",
+      "originalUrl": "https://www.sacbee.com/news/politics-government/article250228600.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.sacbee.com/news/politics-government/article250228600.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article250228600.html",
+      "publishedDateTime": "2021-03-26T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-watch-vp-kamala-harris-visits-child-development-center-in-connecticut.md",
       "title": "Watch: VP Kamala Harris Visits Child Development Center In Connecticut",
       "excerpt": "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon.",
@@ -1557,49 +1600,6 @@
       "ampWebUrl": "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/",
       "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/",
       "publishedDateTime": "2021-02-22T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-ella-emhoff-kamala-harris-stepdaughter-is-a-new-kind-of-style-icon.md",
-      "title": "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon",
-      "excerpt": "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/",
-      "originalUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771",
-          "width": 1024,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/",
-      "publishedDateTime": "2021-02-20T08:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mercury News",
