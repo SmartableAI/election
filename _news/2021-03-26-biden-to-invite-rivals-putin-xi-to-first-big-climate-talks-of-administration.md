@@ -127,6 +127,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Sen. Mike Braun sends letter to Biden urging him to visit border: 'This surge makes it a moral imperative'"
+    excerpt: "EXCLUSIVE: Fresh off a visit to the southern border, Sen. Mike Braun said Saturday that President Biden has a moral imperative to immediately see the \"inhumane\" and \"dangerous\" migrant situation firsthand."
+    publishedDateTime: 2021-03-27T20:27:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2DtP_ZGvxLc/sen-mike-braun-sends-letter-to-biden-urging-him-to-visit-border"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/mike-braun2-thumb.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "DHa1cyQftRxLwJoMsrFZfWI3Nw1lvlUTVZMnz0HnWsIncls3MuiqmR50NA1Msnqf4sPfn3xh8Ag8GMMH3rMPR47xt/VqM9BojUzWylJgVrMd1KVCFFlIUioSO1ZeW3Jj5eVbH/RD4ZJMrteuF2xpWpgQ3Jj2aruhL+lhQ70VmPq9i301TvZ3TRL+7n11vOyY9JnpTZ1VBARCLJ4G/X+na2/vBFTEc42W7IIMF8ehxEyWnCp+kQz34oUDSx5zyVu7Lvbfu+2vzXEjEoPVfyZbDl6ze/9P2WW5Lov6dSa5rlHXUecSXmrRcOj6NEqYKex7mMPzNvp78Dl8vpR/63s3sTdM0YRQRsxCmggROjOsj10=;+lfeGaiXr5ly9jQoqGGZWw=="
 ---

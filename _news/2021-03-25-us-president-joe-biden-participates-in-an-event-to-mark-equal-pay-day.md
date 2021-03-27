@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-excerpt: "Megan Rapinoe (C) and other members of the U.S. Soccer Women's National Team, signs a proclamation during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24,"
+excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
 publishedDateTime: 2021-03-24T22:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/805edaa4644446734a311e57ee620324/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/805edaa4644446734a311e57ee620324/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/805edaa4644446734a311e57ee620324/BIDEN-EQUAL-PAY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1727,7 +1727,7 @@ related:
   - title: "Biden, Rapinoe push for gender pay equity"
     excerpt: "U.S. President Joe Biden hosted U.S. women's national soccer team star Megan Rapinoe and teammate Margaret Purce at the White House on Wednesday as part of his push to secure better pay for American women, who earn 82 cents on average for every dollar ..."
     publishedDateTime: 2021-03-24T23:24:00Z
-    webUrl: "https://www.reuters.com/video/watch/biden-rapinoe-push-for-gender-pay-equity-idOVE5G6TWF?chan=6g5ka85"
+    webUrl: "https://www.reuters.com/video/watch/biden-rapinoe-push-for-gender-pay-equity-id727672203?chan=94w50zwf"
     type: article
     provider:
       name: Reuters
@@ -1989,6 +1989,6 @@ related:
         height: 712
         isCached: true
 
-secured: "nSwxSZaoMGh818rr4x0x9yRXwVcDh6TB4IgWveXmDjHQor2p+SDaDkcWlZnVqK9qyiv+wLYlQIJP3bV06LRh6c80QWInUj+F0+biT3pDh8djK/bCrHC02QGRv4b/zHM+r4HBNbOjA4cNfN+wKONwicxs4ykxNFQ9Z4jgNslk0ZAD/Zpl8GAUOZ1hxHiBm5GVcp0RL0IvPXtqIpQZ5Q9GEkKeGgECWYEbFwnKUvTOQlOOMJXywhYOC6NPqWiBSrG4JUqtJf1hx1xx41ZW9fA53yMVAphiGHtK4usTU8K/AVfxRIqyLVpD9pxuv8q5M9UncpRVlLIcgz2ivc8iwx/ctZs5PTO2WNAKqmEsWdEwNKSTQc4oU+XpfE1BnFnCyyNOZuFQE2lIec3+cSYIja4PMwCjHQ/zRiC+gjPvJhlRYr8k7FmaUV2k1J9+YgZO71LJr5LJqHDb0WXY2WghyUMOxqfIxXNUKu4Cl7MY8wzaNnzKNDXeDOnxQfU1gMOUcoG+DvO1/cOKH+OTME320a+4ZQ==;NFkbb6bp6pit+CQ6o82/Eg=="
+secured: "nLuxPQH3YJ04ui6xYge5Gz1Z7MYb/zy5nKGjLtrXCku1KsWGlO/LPWfWYkYKzqUmRegQvv/orznCuj4enMen+hqx25VCCBXoJSy07IYqGnqJoh97cq5fik+syvTpfv3YG6p16IhSkTMgfslXJs/JheazSgxNxs+laCAbm1257P4uhJX3W7btyX3gnsRkcRh0DXb/IQaSqzgqNSGVOLkEz3wfB/Ey0IIm3alF8t7uc6YK9u76U1wrwCIIATiUdJdw/kJuEnlQ5h5xzYXvdkWK9UArq2ss+5pdrX91png2tWxPG0fgSkwzHGtVpPDPT+Kn2WvH6SsDpVeWHPCPvCIGVD3T3WLQXjokh0hzXyh3jd0=;H1qYKgmLcU0VRTxJYgOqLQ=="
 ---
 

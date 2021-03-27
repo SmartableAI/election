@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden HHS nominee Rachel Levine becomes first openly transgender federal official confirmed by US Senate"
-excerpt: "Dr. Rachel Levine, Pennsylvania's former top health official, earned confirmation Wednesday in the Senate to become the new assistant secretary at the Department of Health and Human Services (HHS)."
-publishedDateTime: 2021-03-24T21:34:18Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/09ybM-BKHB4/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/09ybM-BKHB4/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate"
-ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
+title: "Sen. Mike Braun sends letter to Biden urging him to visit border: 'This surge makes it a moral imperative'"
+excerpt: "EXCLUSIVE: Fresh off a visit to the southern border, Sen. Mike Braun said Saturday that President Biden has a moral imperative to immediately see the \"inhumane\" and \"dangerous\" migrant situation firsthand."
+publishedDateTime: 2021-03-27T20:27:29Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2DtP_ZGvxLc/sen-mike-braun-sends-letter-to-biden-urging-him-to-visit-border"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2DtP_ZGvxLc/sen-mike-braun-sends-letter-to-biden-urging-him-to-visit-border"
 type: article
-quality: 158
+quality: 137
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rachel-Levine-Biden-assistant-health-secretary-AP.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/mike-braun2-thumb.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -127,21 +125,23 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Sen. Mike Braun sends letter to Biden urging him to visit border: 'This surge makes it a moral imperative'"
-    excerpt: "EXCLUSIVE: Fresh off a visit to the southern border, Sen. Mike Braun said Saturday that President Biden has a moral imperative to immediately see the \"inhumane\" and \"dangerous\" migrant situation firsthand."
-    publishedDateTime: 2021-03-27T20:27:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2DtP_ZGvxLc/sen-mike-braun-sends-letter-to-biden-urging-him-to-visit-border"
+  - title: "Biden HHS nominee Rachel Levine becomes first openly transgender federal official confirmed by US Senate"
+    excerpt: "Dr. Rachel Levine, Pennsylvania's former top health official, earned confirmation Wednesday in the Senate to become the new assistant secretary at the Department of Health and Human Services (HHS)."
+    publishedDateTime: 2021-03-24T21:34:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/09ybM-BKHB4/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 137
+    quality: 158
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/mike-braun2-thumb.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rachel-Levine-Biden-assistant-health-secretary-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
-secured: "GJ03NrD4v5adrHCJEsNTXkKP2ArnO81++Hbpv0+JiDIvxU1cWTt4E5O4DyAKe2Oo1cC3av2EfGnibvQ+PUlEr2hQuDZZO/fanbFusCCfkUkAPhgpzqBf1EDYt19rssJDJYItBNUxukMJJ3OzMH0+cW7G6WLyquoQSxsHwTEyDr44Hq9Ke5nsSeasFzZSUEz/tNfB8R+uc44+MU8gI0fQvwM9nS0lGFmY0R3jjSwlYgb5Pn9Y7RSljBO3CNb/CWIYdcNnoZQm0w8HcmH4Y/b1cc+zWX+ip8GvLSL7knAxtKHXdCSjTuetVa5VS6t3jj9+xn+387O/akNGUPxiU1vEC8EqZbEau9SJERDE0ym1nmQ=;5lSyoKxyklZc5SJHBhtacA=="
+secured: "bMCF3JBCbUkf/KF6IArjAfK1OyhRVKgXX5Z9/kh8z35LIx4PObZPucbExr/ZRT6wZB9quG2PLX9iojp5Kuns83NMJAt5mW3xEevfbwA1N7+ueeVDDEQZKVz7OrMZiEKUuWviiLSuC1G0/uyMeGPPPDdJQ94EZ3QfAJ3g/cFNRWemR5G+jEJMV4menOGSJhWWNWblUmuYCCigbjt2aRkBid1+/5o2m5OKHOtY5mKZiPpvcnvrvKY9fIn1NowDeEQCbz/aS8feCb5s1mqLsJXGiWSAZTXS6U2CgQ8h80EcgTHWBcgBzBrGJf4P7mqA8YtNetyh9Nh8W6BSlXXQwd6fQJbJu8U/sQjRmOHpcWSc/Rw=;ab+niQqLMY1ka1iZ4A6NYg=="
 ---
 

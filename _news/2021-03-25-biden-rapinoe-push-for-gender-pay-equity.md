@@ -3,8 +3,8 @@ category: news
 title: "Biden, Rapinoe push for gender pay equity"
 excerpt: "U.S. President Joe Biden hosted U.S. women's national soccer team star Megan Rapinoe and teammate Margaret Purce at the White House on Wednesday as part of his push to secure better pay for American women, who earn 82 cents on average for every dollar ..."
 publishedDateTime: 2021-03-24T23:24:00Z
-originalUrl: "https://www.reuters.com/video/watch/biden-rapinoe-push-for-gender-pay-equity-idOVE5G6TWF?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/biden-rapinoe-push-for-gender-pay-equity-idOVE5G6TWF?chan=6g5ka85"
+originalUrl: "https://www.reuters.com/video/watch/biden-rapinoe-push-for-gender-pay-equity-id727672203?chan=94w50zwf"
+webUrl: "https://www.reuters.com/video/watch/biden-rapinoe-push-for-gender-pay-equity-id727672203?chan=94w50zwf"
 type: article
 quality: 105
 heat: -1
@@ -1926,16 +1926,16 @@ related:
         height: 433
         isCached: true
   - title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-    excerpt: "Megan Rapinoe (C) and other members of the U.S. Soccer Women's National Team, signs a proclamation during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24,"
+    excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T22:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/805edaa4644446734a311e57ee620324/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/805edaa4644446734a311e57ee620324/BIDEN-EQUAL-PAY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1993,6 +1993,6 @@ related:
         height: 712
         isCached: true
 
-secured: "THGesA9yR2T5wdebXK10lfw8ju1SlU9/FqQ6Kx+DdsNpDzt1scpxjprkUUxA3ct9P/Nn4+56VrbneM/9wJtnwN4MnUzq4jLt2cRw9QJaXxLYU0Ljq62RHvDWbNc12Zy9dquJ/e9uxWCPeZrgdD1X9We+eETfrKyTmz6Lwt2S6LLYPZvaM2CaJfvN5c5MgLDRDpYoLmeYJzu69sWJBlllIrs7zMR7Lp+MP+3H+XBecE6gfYQ1e5Bzj4fy2j9UklTYNUNKDJ1pV4LPZDHUI/ROfQtDFZmn+4Vx907kZnU9/56tj2ynwb12j5lKPAKCDK1lC55IARptpPBOYTxA2wyxOujmZgLLXG+y3dz7SD0y95RoFdBBe1GoWMpU7bvXHU7csJOe5dNAz4lAE9y38v7SR+lMGTeMGQfb4hBdbgowz4TA88z2iTCH+i5bO7JdSWb+I9vBaW2mSVgQMFKLJ05le/EPPHmBU+go+b54yjaQM465E/z4RDUjRNqrknpA/Az8xcUuxCTzfCW2HtEns9TojA==;PxzIxwNvXV367z1h/vth+Q=="
+secured: "Wojtj+ZpQaVB8vGFdDtrAjPyRjRmYMg85XAg60ow6L89/S4642SdK25MDqTkFt7I+13WVye9xAWEUdTJmoOGgPCeNromxXG1WnCPBEpL4U/qSEDw6gKHTXTT1T2FnBu4sfuqCaAVNMdgTKXOYHGZ+ul0gDOxYoehrUgyEjWKGum86StaSqU6aea4EPhiHycxAAavtUnhJ9UtQsGPkcJO9zW/HZl4irx2MqqFPNKIgOnjwPboS8U1GaILIx0MYCyNd1ElGQEDktiAkwcAvs5M87Xfai9Q3QZiO+yO+scxYPOm2YfTmx1bqnto8z1A6raLIo2oq+TlQ4eofaeuL0AhDNQ+QD5dX60rZ1GGCyY7pgA=;lfHchyPHcnqz8/E5RjNEqA=="
 ---
 

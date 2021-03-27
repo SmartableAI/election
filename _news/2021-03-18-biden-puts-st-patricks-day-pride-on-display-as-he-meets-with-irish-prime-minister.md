@@ -1731,7 +1731,7 @@ related:
   - title: "Biden, Rapinoe push for gender pay equity"
     excerpt: "U.S. President Joe Biden hosted U.S. women's national soccer team star Megan Rapinoe and teammate Margaret Purce at the White House on Wednesday as part of his push to secure better pay for American women, who earn 82 cents on average for every dollar ..."
     publishedDateTime: 2021-03-24T23:24:00Z
-    webUrl: "https://www.reuters.com/video/watch/biden-rapinoe-push-for-gender-pay-equity-idOVE5G6TWF?chan=6g5ka85"
+    webUrl: "https://www.reuters.com/video/watch/biden-rapinoe-push-for-gender-pay-equity-id727672203?chan=94w50zwf"
     type: article
     provider:
       name: Reuters
@@ -1926,16 +1926,16 @@ related:
         height: 433
         isCached: true
   - title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-    excerpt: "Megan Rapinoe (C) and other members of the U.S. Soccer Women's National Team, signs a proclamation during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington, DC on March 24,"
+    excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
     publishedDateTime: 2021-03-24T22:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/805edaa4644446734a311e57ee620324/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/805edaa4644446734a311e57ee620324/BIDEN-EQUAL-PAY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
         width: 650
         height: 433
         isCached: true

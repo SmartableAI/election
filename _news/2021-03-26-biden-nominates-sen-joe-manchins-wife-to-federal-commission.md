@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rachel-Levine-Biden-assistant-health-secretary-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Sen. Mike Braun sends letter to Biden urging him to visit border: 'This surge makes it a moral imperative'"
+    excerpt: "EXCLUSIVE: Fresh off a visit to the southern border, Sen. Mike Braun said Saturday that President Biden has a moral imperative to immediately see the \"inhumane\" and \"dangerous\" migrant situation firsthand."
+    publishedDateTime: 2021-03-27T20:27:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2DtP_ZGvxLc/sen-mike-braun-sends-letter-to-biden-urging-him-to-visit-border"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/mike-braun2-thumb.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "GHtqSXHcVkLSYYoCSg8fMQIo9nsiEcVAc/V1fmGku8KGqsjKVmE/ErPyeN3aeIA3YYSdZMJNoRr6Ba+L615xpXBe2ZYRHXjMP/Wl1NXf+F+PVk7Ny4y6f+y/WO/kGPNbmBFJftH9p6pxfg+6Iqq4RzSVmnYzRCH3gUkRTGdBGp6yITddSGGbAGpVe1zBHdssTGZdSqrN7d+267msP++Eo9SaSUI/LZABdDqM+SCjkp/WnH9Uh40iDEaDrID6OHKI9SQuxL3geImN4dS9VwZXeFlv1smzPrDV8eboeKkr/vjmVmUEWCRU3y6X8FiLscBCPjEpQhqsO3Uqnxo7FUP4Nyaw/akIwHeyprcHXQQPvr8=;cTYtGDIL0ZEDvPiZYr6U0A=="
