@@ -137,6 +137,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
+    excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
+    publishedDateTime: 2021-03-27T00:59:00Z
+    webUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/"
+    ampWebUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 53
+    images:
+      - url: "https://thumbnails.texastribune.org/-mWa9Z9pNCv1H7M3mGZ0k5UJXE8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/72457b5f083d35a5cc2fb98be9f57954/Migrants%20RGV%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XDQd+khz7fDopM7JZm6IyDNDwfyrx3iy5v8VdFf1bKUozKqorEwMiqv3My7cthWW6bCVQAueJJeHB318oqkaaUJiy3ZlbiDi52BR0dJGSq4oH4J0uFR3WNuxNlDgkdzqD7gXPLlNyvAm+775/hUST1m9Rt2eWeCX/DVWVrNgElHvMLENoH847YVwAzKWXgdRybtzNqWRs7H/fJAPgrU9OTkGgU59O2Ahn+3lzIe+FdHSlKNLlw43g75bRNwc66pIgdiCMSM9rqf3iDf2FkizWX2Xna0Vn1XkD7y+C2O8/Ao8LfJcn7KLLiPTsC5OhAdR7B59zhPIQuJbIjJl6dZPi/WFYsC/9grOgwCWwuI3oHk0h9SXlJiy/A7MyNs8nkCzv7lHMMQsrRoujV1joaMb2VmO6rqhkyUh6b/S7/Vf+4ToYGfg/bZ7KmGp/W+7Z/r19XCHQvYZxUdk0kP98VxQRJJpmHPT4U+rdA/PIjjew9IVlkVKAWZEXeyUrebyp/OCdiN1odRozimvXto/N1Eddw==;WdrPhiYr/ahi8ngCzC1Pbw=="
 ---

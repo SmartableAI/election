@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Outrageous': Biden condemns new Georgia law as a 'blatant attack' on voting rights"
+    excerpt: "President Joe Biden on Friday condemned the sweeping new voting restrictions in Georgia as \"outrageous,\" \"un-American\" and \"Jim Crow in the 21st Century.\" \"This law, like so many others being pursued by Republicans in statehouses across the country is a ..."
+    publishedDateTime: 2021-03-26T18:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/democrats-excoriate-new-voting-restrictions-georgia-make-it-illegal-give-n1262181"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262181"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262181"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3460045/210326-joe-biden-se-305p_8eceef510d30a283446830dfceed5b6e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "OSnxzqfb2V4WUGgDRdjT0W1GIFYNK+p/X+neioVYLGjPM2PkKHSvcb0twKVvXVRrGWImSXCr2F8gSHOTAS7IBE7lhSCMWbkb7y8+RoiCGC5In6EWBtpnAYZi6xqrfipOmOYjDXs/BAfCGXiIuw0IQcPOzKgEQGZwH2M1kSh/F5Yzk9rIKlxHBVIZB0dy/MESb1WXDY0IdNP8bkAymljNPd8PGqVd782OXHf+xwDCHRfLHjxSn2MLptOr+ac31+AJGlI/ZLx/P0KPnmg4JUkMnbaPcN82+w5+cWfrDt9dzcjOMCP4awO9VCjSpHKZ8rUsJ2CVDAyX/dzVw48G1Z2OcVG9c6oaslO34aLQdbFkgKA=;BrH0Sp6JKuR5Z9yaVX+z/A=="
 ---

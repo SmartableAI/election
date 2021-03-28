@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/joe-biden-georgia-voting
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/joe-biden-georgia-voting-rights-bill/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459016/210323-joe-biden-podium-ac-446p_0740f7e5d27241f32d4e6a030a00a6cd.jpg"
         width: 2500
         height: 1517
+        isCached: true
+  - title: "'Outrageous': Biden condemns new Georgia law as a 'blatant attack' on voting rights"
+    excerpt: "President Joe Biden on Friday condemned the sweeping new voting restrictions in Georgia as \"outrageous,\" \"un-American\" and \"Jim Crow in the 21st Century.\" \"This law, like so many others being pursued by Republicans in statehouses across the country is a ..."
+    publishedDateTime: 2021-03-26T18:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/democrats-excoriate-new-voting-restrictions-georgia-make-it-illegal-give-n1262181"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262181"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262181"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3460045/210326-joe-biden-se-305p_8eceef510d30a283446830dfceed5b6e.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "jipQsk3qv7dKFnHpuQaFgi6AZ1Fq7U5k8kIozE2BquTJMCTl6HqQ0RkBhgiCSjGR6noebftXZX5XUk3DZAU+ni7bJ+hJJ733K7hVIlWmYLTG03PCHUpli5AOwAfU+I7UINWQXg3cASaKKEBaqnoN3qs+uPWZjxUG15jTa0tVSjXXkGNfytsJs143lrz2CxOu1ryMldsj5aQ157KPQPORuoKmqx9nN68zWVrzSWvzplJ/797SSNeCwuQxouuzsG3YcMBb67uPlNHZ6XILG7iyXvmq8LDEM6aBuszmcAFexE/RFyO6dJ0nOVAyiCvzFAmoj/q7PTgzMx/6K9BfaY4J6KQaDmwnk8yN3aA7ms1e94E=;tKSxYhtE1JcmtN+iAXj55A=="

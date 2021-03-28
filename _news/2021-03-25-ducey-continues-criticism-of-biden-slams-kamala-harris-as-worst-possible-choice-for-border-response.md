@@ -3,21 +3,26 @@ category: news
 title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
 excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
 publishedDateTime: 2021-03-25T15:35:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/6990780002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6990780002"
+originalUrl: "https://www.usatoday.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+webUrl: "https://www.usatoday.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+ampWebUrl: "https://amp.usatoday.com/amp/6990780002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6990780002"
 type: article
-quality: 74
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Kamala Harris
 
 images:
@@ -1570,6 +1575,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "g0fhJkuIhJgv1RmOO1haCXIfBWluSbbKL0qirbSsS2XwnWyZUfA4X10qlHYPk/vlEkX9ygffo6ce8y98o+/9XOduPdTPd+UzMsvvZfgpkKqpVxTMa4c+jSw36ysbTdsVBiYVWTl3l5yGqWr8iMuj6vSVfLFftcb/hojHrSwAk8KVhHFvlp0G7y6Nso+wkxrY1a+cDUn+1DJPJ4hfh+t85wP01xAIoOMrTM5E3slbRsWQFw0YirJPh6Bi9PuHB+ouhTWh+pXNkRBZFQyRaoirY2GIBJolS16V0431NbhzB/a22uYAenGi9pb9c/3KSc3MUWyEfLYA4z4guhCz4FDo5fHV8kDOoM9Yz0cOUyQAcc6EBRjfog19IAAHHzYf4iQB7gr5H2bKm+GAsXmPoMCrkEegSRwQX3HnqtwTe9mNGxlhOoTrtL3z3WIxfpnfJVL/xqcFs6IkGoICDHMpcPanH9VfTtrj0lxAILk/dDAjcbG2ynk917GcBrgwd+hQLw0QlBtYX7x3ZlqkKP4/x/deLQ==;U0W53z1XbnVTgRW/PK+6DA=="
+secured: "IcqamclToaaDn/1x7LB2MBQ1hnuCk9m7MUvMDbqlxStqu8Dkn6MwxmyqcBe94ryHRYIhhUWcazcApUVprKFMc/kotaJrRDnPsD/yt7MwzD6gvQ4a/seHycAtkr39el0+azxQI36bOYpj1y7t/9hS8RTinWiRwpu6f8zE9dbBvm+FWpR9IsAJs8KbtTzQ0WSDinH+MnHLC6p5dAixr74O2Nyald3gMHdxuGMzHWaiky3/jrk0lotyshD1nVCttXb8EtjfWPR6nL426jQfdjaOGy28OoJ4lcGbEbxG95sUhhmfZGDqx3WU20YKblgpfbh5amLky1jvK7tmh/5TvNB68NWd7FrRb898VlwRumhdeic=;gNBKIJ6y7nsLvERRXgP9jg=="
 ---
 

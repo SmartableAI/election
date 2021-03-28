@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-bo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
 type: article
 quality: 135
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -136,6 +136,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
+    excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
+    publishedDateTime: 2021-03-27T00:59:00Z
+    webUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/"
+    ampWebUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 53
+    images:
+      - url: "https://thumbnails.texastribune.org/-mWa9Z9pNCv1H7M3mGZ0k5UJXE8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/72457b5f083d35a5cc2fb98be9f57954/Migrants%20RGV%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dmb0OwLgTpRm8VSOE4Jb7vDXKLEIgSBJpeD2rwFLgg32xesfgYcfh4fIFV+XAmSQy+uOBV3ynmQGTdLstKGN1P4ld8aBlKIZbcRJlHHlE6zuxhyiYz7FSk2msTmxk67816fkFq4KhTHN25UPHstxs9UbORfFgMenRgyl3JXdbajyw3VkbKjM3OsWazGwUQeBvrUEkNd9EsRjIoqODFGK6mzx9wi+RaJl1tUEr+XRBRHq77Wo9+qde4G5ioaSrQAJr28Qt6x71QJ2bYtp/JC848LC7HxIxyM4bUnygGZoSTXWJmsPG+9XIRlHVUwBdvnif/t495L2OO04L2KjdMpmerlCtUVSvZrghPithNg9E0I=;iXwHSl8IlEQ+isDQxhN04Q=="

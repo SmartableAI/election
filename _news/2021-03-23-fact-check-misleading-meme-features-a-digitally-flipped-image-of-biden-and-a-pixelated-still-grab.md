@@ -761,6 +761,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "For media, Biden news conference notable for what’s missing"
+    excerpt: "Joe Biden’s first presidential news conference was notable for what was missing now that Donald Trump is gone: no contentious exchanges with reporters, no Fox News and no questions about COVID-19"
+    publishedDateTime: 2021-03-25T20:47:00Z
+    webUrl: "https://www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "N Korea confirms missile tests as Biden warns of response"
+    excerpt: "North Korea on Friday confirmed it had tested a new guided missile, as President Joe Biden warned of consequences if Pyongyang escalates tensions amid stalled nuclear negotiations. The North’s official Korean Central News Agency said the two “new-type tactical guided projectiles” accurately hit the target off the eastern coast on Thursday."
+    publishedDateTime: 2021-03-26T05:19:00Z
+    webUrl: "https://www.washingtonpost.com/world/the_americas/n-korea-confirms-missile-tests-as-biden-warns-of-response/2021/03/25/f316d9f0-8dd3-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/the_americas/n-korea-confirms-missile-tests-as-biden-warns-of-response/2021/03/25/f316d9f0-8dd3-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/n-korea-confirms-missile-tests-as-biden-warns-of-response/2021/03/25/f316d9f0-8dd3-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
     publishedDateTime: 2021-03-14T14:12:00Z
@@ -1849,6 +1881,22 @@ related:
       - url: "https://i.insider.com/5fd8cb95dc030c001aab6a0a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "VIDEO: What Joe Biden Said In His First Press Conference As President"
+    excerpt: "Joe Biden held the first press conference of his presidency Thursday, confronting a variety of policy issues along with recent events like the recent mass shootings. Opponents online latched onto several moments where he trailed off or muddled sentences ..."
+    publishedDateTime: 2021-03-25T20:51:00Z
+    webUrl: "https://www.ibtimes.com/video-what-joe-biden-said-his-first-press-conference-president-3169290"
+    ampWebUrl: "https://www.ibtimes.com/video-what-joe-biden-said-his-first-press-conference-president-3169290?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-what-joe-biden-said-his-first-press-conference-president-3169290?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/gettyimages-1309120686.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden not ruling out chance US stays longer in Afghanistan"
     excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
