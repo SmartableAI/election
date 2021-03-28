@@ -1,25 +1,27 @@
 ---
 category: news
-title: "What's going on between Kamala Harris and Joe Manchin?"
-excerpt: "Joe Manchin taking public swipes at Vice President Kamala Harris over a television interview? It all started when Harris, on behalf of the Biden administration, did two interviews on local television stations in West Virginia and Arizona touting the administration's new COVID-19 relief bill dubbed the \"American Rescue Plan."
-publishedDateTime: 2021-02-01T12:06:00Z
-originalUrl: "https://www.chron.com/politics/article/Kamala-Harris-Joe-Manchin-TV-interview-COVID-bill-15914337.php"
-webUrl: "https://www.chron.com/politics/article/Kamala-Harris-Joe-Manchin-TV-interview-COVID-bill-15914337.php"
+title: "Is Kamala Harris speaking her mind when she's the last person in the room with Biden?"
+excerpt: "President Biden promised Vice President Kamala Harris that she would be “the last person in the room” when he made a big decision. Be careful what you promise. If Vice President Harris is saying the same things Senator Harris said back when she was ..."
+publishedDateTime: 2021-03-28T11:11:00Z
+originalUrl: "https://www.sfchronicle.com/politics/article/Is-Kamala-Harris-speaking-her-mind-when-she-s-16057272.php"
+webUrl: "https://www.sfchronicle.com/politics/article/Is-Kamala-Harris-speaking-her-mind-when-she-s-16057272.php"
+ampWebUrl: "https://www.sfchronicle.com/politics/amp/Is-Kamala-Harris-speaking-her-mind-when-she-s-16057272.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Is-Kamala-Harris-speaking-her-mind-when-she-s-16057272.php"
 type: article
-quality: 55
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/16/33/21/20558919/16/rawImage.jpg"
+  - url: "https://s.hdnux.com/photos/01/17/24/40/20793404/5/rawImage.jpg"
     width: 2048
     height: 1365
     isCached: true
@@ -1289,22 +1291,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Is Kamala Harris speaking her mind when she's the last person in the room with Biden?"
-    excerpt: "President Biden promised Vice President Kamala Harris that she would be “the last person in the room” when he made a big decision. Be careful what you promise. If Vice President Harris is saying the same things Senator Harris said back when she was ..."
-    publishedDateTime: 2021-03-28T11:11:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Is-Kamala-Harris-speaking-her-mind-when-she-s-16057272.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Is-Kamala-Harris-speaking-her-mind-when-she-s-16057272.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Is-Kamala-Harris-speaking-her-mind-when-she-s-16057272.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 83
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/24/40/20793404/5/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "'Tears in our eyes.' Local leaders react as Joe Biden and Kamala Harris take the oath."
     excerpt: "At least on Wednesday, many Republicans and Democrats in the Cincinnati region ceased bickering and congratulated Biden."
     publishedDateTime: 2021-01-20T20:36:00Z
@@ -1942,6 +1928,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "What's going on between Kamala Harris and Joe Manchin?"
+    excerpt: "Joe Manchin taking public swipes at Vice President Kamala Harris over a television interview? It all started when Harris, on behalf of the Biden administration, did two interviews on local television stations in West Virginia and Arizona touting the administration's new COVID-19 relief bill dubbed the \"American Rescue Plan."
+    publishedDateTime: 2021-02-01T12:06:00Z
+    webUrl: "https://www.chron.com/politics/article/Kamala-Harris-Joe-Manchin-TV-interview-COVID-bill-15914337.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/33/21/20558919/16/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Harris speaks with Trudeau in first call foreign leader call"
     excerpt: "Vice President Kamala Harris spoke with Canadian Prime Minister Justin Trudeau on Monday, marking her first call to a foreign leader since entering the White House. During the call, Harris offered assurances that the Biden administration"
     publishedDateTime: 2021-02-01T22:52:00Z
@@ -2154,6 +2154,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "ir073wCBacXLD5tmB/KeaYs/YDNCAKtG6+x0BqhBBjzVXw3ABFY6v9sBPV3qj2qyRwL5tY31U2UviKhMP5fYpTZ/9TKQg8TaIY6HL7CBe3u4AKeBq3NVEagQXkkmswMvtUdZ0PGc3SwEOsB/92rAAyCk5jcGuRPczZEyAH4mbfyx96JgS4YQeUjynfHDAafTlFoml6mJrXqB2zg+mj6YLXucIs/o1VZArClIj4sHuO6Gd/PyCBYwa7w8osmJHfj85MbdPF7hMJXzxeIlp6/GkJ8Zz56mI8HR3b+RM7+czzw1HgJmm8hYssHv014Bf2VOnqkPFPcntDd2nzZRoiUdhzU9GWTP+1w8iRg8U1YscaJJda2cpPojGGTwlQuA26rJGZ3VOy81YDIOaJT3cG968fHWXPknHN9OUCqkX5nAeYmqf5NNpURZsRL8SR8wu3tdCBg6HRoWsLmxAq18LaxTqTA0eUrp/E9KxXtWG5NtE4fvNKJHMKfB4gGGAvfz32Y78R5GcNOX/M93lxit5MXFrQ==;xRMqUcQ6wXnkJF0T396rAw=="
+secured: "Y50IXfvYkuWYBpC/PLhY4fyni9mqV6rA/ERKZIg5dgznEPqxhHVpo8lz2WSuYm6FUue8LT7whAlnY6bzQDJttjpnWJjwq9Tf4R8g9XVM22sCx6ZRy5nRud5TaSCIwZog3uhhJmGuQMBoawGO/M997yKZPzpF4fbrhVvTbkcV5ovpCrIXWri8fB+5i8v3TPApLdg0UaIWZNhBye1xrydSNprPlCeMDPjcn9nnGlS9X9evC3PF3Uf685UkVqV/JSgg8a1crNx91NCCwu92/Ok8dv0gMPTuqVhuEDeOU3dryYrC/8rkJbiJ6UqTinJSnhrB4IeU0+YFGlax1az2WcBOTDnUhOrUBhAIQlb2puca6i8=;i/rRQx9GixpssoSIUbksGg=="
 ---
 

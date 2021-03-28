@@ -1287,6 +1287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Is Kamala Harris speaking her mind when she's the last person in the room with Biden?"
+    excerpt: "President Biden promised Vice President Kamala Harris that she would be “the last person in the room” when he made a big decision. Be careful what you promise. If Vice President Harris is saying the same things Senator Harris said back when she was ..."
+    publishedDateTime: 2021-03-28T11:11:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Is-Kamala-Harris-speaking-her-mind-when-she-s-16057272.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Is-Kamala-Harris-speaking-her-mind-when-she-s-16057272.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Is-Kamala-Harris-speaking-her-mind-when-she-s-16057272.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 83
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/40/20793404/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "'Tears in our eyes.' Local leaders react as Joe Biden and Kamala Harris take the oath."
     excerpt: "At least on Wednesday, many Republicans and Democrats in the Cincinnati region ceased bickering and congratulated Biden."
     publishedDateTime: 2021-01-20T20:36:00Z
