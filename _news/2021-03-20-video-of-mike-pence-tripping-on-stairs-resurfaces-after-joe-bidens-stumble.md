@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-mike-pence-tripping-stairs-resurfaces-joe-bidens-stumble-1577566?amp=1"
 type: article
 quality: 138
-heat: 2698
+heat: 2718
 published: true
 
 provider:
@@ -1994,6 +1994,20 @@ related:
       - url: "https://www.fccnn.com/incoming/6953062-5cod1q-President-Biden-returns-to-the-podium-for-his-mask-after-signing-an-Equal-Pay-Day-for-women-proclamation-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/President%20Biden%20returns%20to%20the%20podium%20for%20his%20mask%20after%20signing%20an%20Equal%20Pay%20Day%20for%20women%20proclamation%20at%20the%20White%20House%20in%20Washington"
         width: 1140
         height: 712
+        isCached: true
+  - title: "North Korea snaps back at Biden over criticism of launches"
+    excerpt: "SEOUL, South Korea — North Korea on Saturday snapped back at President Joe Biden's criticism of its ballistic missile tests, calling his comments a provocation and encroachment on the North's right to self-defense and vowing to continuously expand its ..."
+    publishedDateTime: 2021-03-28T05:00:00Z
+    webUrl: "https://www.decaturdaily.com/news/other_news/international/north-korea-snaps-back-at-biden-over-criticism-of-launches/article_789b6c35-3496-59ec-90fd-28e9a5673862.html"
+    type: article
+    provider:
+      name: Decatur Daily
+      domain: decaturdaily.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/custom/image/fc789116-dbde-11e5-a5bf-7b346753e730.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dHj9Rtz4j8dX6iqxkdDKPxtn6OeQtjr56c14um+45mrxzGWooS/+BCL3seT1fCBE6f2uX7SyGKUUKY1Ts4+aJwtLF8uzf62aY5/h8KfGctTDtVZJ+1MZyKBTv1GL6h5FZ80B0Wh7Oz99FrSkvkTih26QM3n0uuvAevrPCY87XCm+2zlcD295FKt61FtyHRY7VwaInnGu2bCnLWyblQv7+uNXxiYtQfrebARhn+uVEZChAifr5L1RnUhXW5S4Mho6ifRADCGBU+j+4JVwkFC0kOeclnL82S1toqS+Ibwt4OMzfEwXiEqz7iSNssX5PMsuAZbNdqoFRDyYHxLuMSXwIlI/C9m0zal5i36/Sq0Ju5/RrTbgWnp1WHxTQifwZP+K38vG6SVhrkNKdGTILJ/72fH43YgU4Hb6aethWmVjTGC9GSh1Q/9TmR/6U/DWo7sUul0fRsmCtppZspJgNL3tQH1usMYP/Hf/IOvznD37RQnfrVwg/Hat6mtusvhG/eQwozPyp4iw4qPNrgIz4Rt5LA==;pUQryT8ws1uwm/W9nirl0A=="

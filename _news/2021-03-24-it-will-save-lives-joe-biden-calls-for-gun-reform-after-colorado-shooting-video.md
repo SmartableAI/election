@@ -1995,6 +1995,20 @@ related:
         width: 1140
         height: 712
         isCached: true
+  - title: "North Korea snaps back at Biden over criticism of launches"
+    excerpt: "SEOUL, South Korea — North Korea on Saturday snapped back at President Joe Biden's criticism of its ballistic missile tests, calling his comments a provocation and encroachment on the North's right to self-defense and vowing to continuously expand its ..."
+    publishedDateTime: 2021-03-28T05:00:00Z
+    webUrl: "https://www.decaturdaily.com/news/other_news/international/north-korea-snaps-back-at-biden-over-criticism-of-launches/article_789b6c35-3496-59ec-90fd-28e9a5673862.html"
+    type: article
+    provider:
+      name: Decatur Daily
+      domain: decaturdaily.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/custom/image/fc789116-dbde-11e5-a5bf-7b346753e730.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7GVyVXeXWCBjz2xNr+Af0ASfvEvGa4WraxepkwitfIcbRwVhNqdG3DFUYNHd50esAZ7pnB1PPnM3KGyHOmosdP7QkeNFDjcJ3InznO/SWUXnh9bvcOSVDkp5OGnfFXxD9eiZFT5MUVwjGM4TrbeXy8y1XDRhF43HjB8dKNCP2Tj+MZmlqvdp2jLdPVwySHEMPla52pBZvClR7waKPR3te1EHXmWTOUZ8JGauPHD3NyxgJvPB9gtUS/H+tBCHaSAf5nUt3Zh/A5cK+zDH6HROrO7FAGhe+gJPgyS4O8fsUPIqqP9uCUPMLf5IZ2U4vPCntah4P2Qi5XfK7+sveiDeSciXxaPSLtWk/5V2gmSjS2vLKJGVdLubqFuRPV1dSMIwtMRNzccEEbu2Kl8OBvW7wKyhdNOW2Dzf78jZfU9rG0L8T/kgcYeYKuTzzvTMQtdoUNGcbYtO/vuC0hGCII7WKfP0BRtB/KN8BCkKTogN9AiZVt+GovpxFSGG/YgZntIxT+3+8UMj4S9hHa/FZGBDRA==;hlyC63AlTc23Trz3Ffasww=="
 ---
