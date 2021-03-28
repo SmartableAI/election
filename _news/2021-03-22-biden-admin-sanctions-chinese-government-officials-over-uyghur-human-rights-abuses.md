@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden admin asks for government volunteers at the border amid crisis"
+    excerpt: "The Office of Personnel Management (OPM) has sent a memo to various heads of government agencies seeking \"volunteer deployments\" for up to 120 days to help border officials deal with the surge of unaccompanied children crossing the border. "
+    publishedDateTime: 2021-03-28T21:02:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMPdgAY2v0U/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac0b456d-c256-4ab3-a240-0477a7b63203/89443988-d43c-4bc3-8baa-27237d0dce4a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
     excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
     publishedDateTime: 2021-03-26T20:38:06Z

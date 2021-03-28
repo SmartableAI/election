@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "President Joe Biden says during news conference: ‘My plan is to run for reelection’ in 2024"
+    excerpt: "My plan is to run for reelection’ in 2024. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+    publishedDateTime: 2021-03-25T18:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-joe-biden-says-during-news-conference-my-plan-is-to-run-for-reelection-in-2024/2021/03/25/3296fe0a-8d95-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-joe-biden-says-during-news-conference-my-plan-is-to-run-for-reelection-in-2024/2021/03/25/3296fe0a-8d95-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-joe-biden-says-during-news-conference-my-plan-is-to-run-for-reelection-in-2024/2021/03/25/3296fe0a-8d95-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "For Biden, there's no place like a weekend home in Delaware"
     excerpt: "For President Joe Biden, there's no place like a weekend home in Delaware WILMINGTON, Del. -- As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured ..."
     publishedDateTime: 2021-03-13T14:03:00Z
@@ -761,6 +777,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden vows action on migrants as he defends border policy"
+    excerpt: "The U.S. will take steps to more quickly move hundreds of migrant children and teens out of cramped detention facilities along the Southwest border"
+    publishedDateTime: 2021-03-26T05:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-vows-action-migrants-defends-border-policy-76697289"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-vows-action-migrants-defends-border-policy-76697289"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-vows-action-migrants-defends-border-policy-76697289"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "For media, Biden news conference notable for what’s missing"
     excerpt: "Joe Biden’s first presidential news conference was notable for what was missing now that Donald Trump is gone: no contentious exchanges with reporters, no Fox News and no questions about COVID-19"
     publishedDateTime: 2021-03-25T20:47:00Z
@@ -1254,6 +1286,22 @@ related:
     quality: 117
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/24/USAT/3ca0e8b3-6095-4374-ba93-1864f3e12ba9-boulderstrongpic.jpg?auto=webp&crop=5344,3006,x0,y272&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In first press conference, Biden talks immigration, filibuster, China, vaccination goal"
+    excerpt: "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office."
+    publishedDateTime: 2021-03-26T09:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6984142002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/25/USAT/207eaa26-a590-4f9b-b833-309b77367412-AP_Biden.jpg?auto=webp&crop=5637,3171,x0,y286&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -1770,6 +1818,31 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden looks into taking action on 3D printer guns, imported firearms"
+    excerpt: "President Joe Biden, weighing executive orders aimed at reducing gun violence following two mass shootings, said on Friday his administration is exploring whether he has the authority to take action on firearms made using 3D printers as well as on imported guns."
+    publishedDateTime: 2021-03-27T00:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-guns/biden-looks-into-taking-action-on-3d-printer-guns-imported-firearms-idUSKBN2BI384?edition-redirect=uk"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210326&t=2&i=1556395472&r=LYNXMPEH2P1VE&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "High-carbon communities hope for Biden relief to ease pain of green shift"
+    excerpt: "When Lacy Davidson Ferguson and her husband moved back to Wayne County in rural West Virginia to start a family about five years ago, they ran smack into an economic catastrophe."
+    publishedDateTime: 2021-03-26T13:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-energy-climate-workers/high-carbon-communities-hope-for-biden-relief-to-ease-pain-of-green-shift-idUSKBN2BI274"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI274"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI274"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "'We have to act': Biden calls on Congress to move fast on background checks, assault weapon ban after Boulder shooting"
     excerpt: "I don't need to wait another minute, let alone an hour, to take common sense steps that will save the lives in the future,' the president said."
     publishedDateTime: 2021-03-23T17:24:00Z
@@ -1985,6 +2058,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Joe Biden gives his first news conference as US president"
+    excerpt: "Mr Biden pledged to deliver 200 million Covid jabs to Americans in his first 100 days in office, double his original goal. Also, AstraZeneca has published revised results for the US trial of its Covid vaccine after its earlier report was criticised for ..."
+    publishedDateTime: 2021-03-25T23:56:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p09bw0f4"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p085qrzc.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'Atrocity': Joe Biden reacts to Georgia's voting bill"
     excerpt: "President Joe Biden reacts to Georgia's new voting bill that critics say restricts ballot access and gives state officials more power over local elections. CNN's Jeff Zeleny tells us more."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/heres-what-could-be-in-bidens-massiv
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
     provider:
       name: Huron Daily Tribune
       domain: michigansthumb.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Biden economic plan to focus 1st on infrastructure this week"
+    excerpt: "WASHINGTON (AP) — President Joe Biden will lay out the first part of his multitrillion-dollar economic recovery package this week, focusing on rebuilding roads, bridges and other infrastructure, followed by a separate plan later in April addressing child ..."
+    publishedDateTime: 2021-03-28T17:32:00Z
+    webUrl: "https://www.theintelligencer.com/news/article/Biden-economic-plan-to-focus-1st-on-16059241.php"
+    ampWebUrl: "https://www.theintelligencer.com/news/amp/Biden-economic-plan-to-focus-1st-on-16059241.php"
+    cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Biden-economic-plan-to-focus-1st-on-16059241.php"
+    type: article
+    provider:
+      name: Edwardsville Intelligencer
+      domain: theintelligencer.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

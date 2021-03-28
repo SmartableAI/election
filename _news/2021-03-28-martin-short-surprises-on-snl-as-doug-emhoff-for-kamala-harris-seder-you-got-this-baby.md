@@ -2,26 +2,26 @@
 category: news
 title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
 excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
-publishedDateTime: 2021-03-28T12:29:00Z
-originalUrl: "https://www.freep.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
-webUrl: "https://www.freep.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
-ampWebUrl: "https://amp.freep.com/amp/7035466002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7035466002"
+publishedDateTime: 2021-03-28T04:38:00Z
+originalUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
+webUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7035466002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7035466002"
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/edc1ef54-1eed-4ef7-a0a8-6ea382b57114-NUP_192252_0003.JPG?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/03/28/USAT/93b27ee4-d78f-4524-9dad-efc75379eb67-NUP_193635_0022.JPG?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -60,6 +60,6 @@ related:
         height: 613
         isCached: true
 
-secured: "w46AG3afIgZ0FdESLyebmyd9/oFGUGcrRm88ek47JBcEi/fo8tITromD79vPfBwlPFz1L/1aAySt7TeR2kN8r4uQ35qOE2Qp8y7f6mZ+jYC7+9GAjn7FypwUitPxbJGw/IP/CIXCVopYyzkExWCtVIQ4B3TYSseXKBdmKTvYvzb776tXXp5xf4febVwcVJ71EVtz2OsTLBWtL8F3x3Ui7uH1XM+5zrUuelO23H4ZRwVOjhJjqoIXOpO3cblLo1cUBvyD86GAWmO3AswIVN87smI3g0Y8iKHYgrSW5c3aI1gP+YpjT2IwsD5qxWxDmXG3PwnHNYaS3SK+t2XjU0q0dqA+RNmfKlhMS6/C2Yv7Dc43gLlEHDxLDgPv9Dd472BJbd0LJ+feXxi9TTPlZQ6afVXQDypmRr/6on7R7Cj8mvMWYNulqA2vkfQ8rEbQYao1wcFRxDvMsahdU/OZaWVdL+EKBJX2hp2Bu+outvRCB4kDEaY00a5M8Zv/jyssq9suIITSyfBuqzguSn4/LqB12A==;Xeuc2zST6cFxIlo/lsP+Rw=="
+secured: "SPwmE6obKxcBfDr8nIJagN9CUMfgkrs/Waab99rj8LkNcZ1UROTM5va5hPxqvdxsCxevuVyFr62gH/2vkz2Pk3DXeid6zOQkEFoeDlETXWTDCmp3jxFdkAn9Ya2ZgEpN9Uq4iDpJPxrTzQX9CzPmfbZF+/NkW1nuNGgdLh7S11H/7gtEtnyMfo6dmnESCzJDXiNuP4iOOD/7a8idOMuk7B5oUbvydc0efqDcQAxYmXEh5O5sy57xnwxPRB5jYQNw0afpGykUA/k6ECnfN7I2cLN/5ZiVXHvEq7KEDCoiXckJgozBfU7pq+utRCQI03OCyRKch9tOXqOMfpNkl6p37rGQl7EjdRTDrtmQyvw1LXU=;H7UswFCJpqVWunYVoy3Zgw=="
 ---
 

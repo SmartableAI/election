@@ -255,6 +255,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Joe Biden, Kamala Harris share Passover messages"
+    excerpt: "As Jewish families across the world mark Passover, President Joe Biden and first lady Jill Biden share a message of hope. Vice President Kamala Harris and the second gentleman Doug Emhoff encouraged Americans to keep the faith.March 25, 2021 © 2021 NBC ..."
+    publishedDateTime: 2021-03-25T23:27:00Z
+    webUrl: "https://www.nbcnews.com/video/joe-biden-kamala-harris-share-passover-messages-109102149584"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo109102149584"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo109102149584"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202103/bidenharrissplit.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden and Kamala Harris plan to visit with Asian-American leaders in Atlanta."
     excerpt: "President Biden and Vice President Kamala Harris at the White House last week. They plan to travel to Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris will meet in Atlanta on Friday with community ..."
     publishedDateTime: 2021-03-18T14:40:00Z

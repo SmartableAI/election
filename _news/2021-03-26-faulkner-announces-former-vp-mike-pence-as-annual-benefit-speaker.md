@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Pence to headline benefit dinner at Faulkner University"
+    excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur at the Renaissance Hotel and Convention Center on Oct."
+    publishedDateTime: 2021-03-28T14:57:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
   - title: "Former VP Mike Pence to speak at Faulkner University’s annual benefit"
     excerpt: "Faulkner University announced Wednesday morning that former Vice President Mike Pence will headline its annual benefit dinner Oct. 7 in Montgomery. Pence served under former President Donald Trump, and also previously served as governor of Indiana and a member of the U."
     publishedDateTime: 2021-03-25T20:06:00Z
@@ -40,22 +51,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CKGXRUQ4VJBL3O3CZ5ROSCNMGI.jpeg"
         width: 3242
         height: 2554
-        isCached: true
-  - title: "Pence to headline benefit dinner at Faulkner University"
-    excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur at the Renaissance Hotel and Convention Center on Oct."
-    publishedDateTime: 2021-03-28T16:14:00Z
-    webUrl: "https://www.newstimes.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-    ampWebUrl: "https://www.newstimes.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-    type: article
-    provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "M6RjhRctAA/0Q8NL+z0G5g3weBXEw8mMk0BKzFyP74nLXO6BM0tNuNP8B/eBkV31GR2oJnVBXZJBTQhHt/IW8eFT0mLKriICn2yhuXPwi3wqZGveN5EWc71ZbCexaScyqFGwqhIoVBR+MoAyOUa+NghVEAWexe4U5I6xkufD0GIC5INjTknch9MTqR93NZCIQO3pzydyOJfLHnUVKFkwdrcGPCWCkG3jG56EG2ehe1B421zZqjVqRh9BbP921o5I5gkXufPPm3nfGvuQB9yk5bxHLDqZJoPupuogV6enGiVegTBn8P4GO0rvGB5C3lxJET69BTlz8qLJZlLTPmM0HgVAnM44M1ux6jTNCacWEjM=;REb+c2NXYZB/qmZRC4GoQw=="

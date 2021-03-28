@@ -141,6 +141,22 @@ related:
         width: 4896
         height: 2754
         isCached: true
+  - title: "Biden says he’s optimistic about passing gun control through divided Senate"
+    excerpt: "President Biden on Sunday expressed optimism about getting gun control legislation passed on Capitol Hill — claiming he’s done it before and can do it again. “I’m the only one who’s"
+    publishedDateTime: 2021-03-28T21:28:00Z
+    webUrl: "https://nypost.com/2021/03/28/biden-says-hes-optimistic-about-passing-gun-control/"
+    ampWebUrl: "https://nypost.com/2021/03/28/biden-says-hes-optimistic-about-passing-gun-control/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/28/biden-says-hes-optimistic-about-passing-gun-control/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Biden1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "White House pulls Biden Interior nominee after Murkowski opposition, backtracking on second nominee this month"
     excerpt: "Biden's presidential transition organization announced Klein ... Neither did representatives for Sen. Joe Manchin, D-W.Va., a Democrat from an energy state who also reluctantly supported Haaland. Democrats theoretically could still have confirmed Klein ..."
     publishedDateTime: 2021-03-23T23:07:00Z

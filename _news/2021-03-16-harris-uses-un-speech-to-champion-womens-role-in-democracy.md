@@ -240,6 +240,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Joe Biden, Kamala Harris share Passover messages"
+    excerpt: "As Jewish families across the world mark Passover, President Joe Biden and first lady Jill Biden share a message of hope. Vice President Kamala Harris and the second gentleman Doug Emhoff encouraged Americans to keep the faith.March 25, 2021 © 2021 NBC ..."
+    publishedDateTime: 2021-03-25T23:27:00Z
+    webUrl: "https://www.nbcnews.com/video/joe-biden-kamala-harris-share-passover-messages-109102149584"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo109102149584"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo109102149584"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202103/bidenharrissplit.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden's legislative priorities: Gun control and five other issues fight to move forward in Congress"
     excerpt: "In the opening months of Joe Biden's presidency, Congress' job was crystal clear: Pass a relief bill and get it signed into law.\n    \n"
     publishedDateTime: 2021-03-23T15:40:13Z

@@ -158,6 +158,22 @@ related:
         width: 4896
         height: 2754
         isCached: true
+  - title: "Biden says he’s optimistic about passing gun control through divided Senate"
+    excerpt: "President Biden on Sunday expressed optimism about getting gun control legislation passed on Capitol Hill — claiming he’s done it before and can do it again. “I’m the only one who’s"
+    publishedDateTime: 2021-03-28T21:28:00Z
+    webUrl: "https://nypost.com/2021/03/28/biden-says-hes-optimistic-about-passing-gun-control/"
+    ampWebUrl: "https://nypost.com/2021/03/28/biden-says-hes-optimistic-about-passing-gun-control/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/28/biden-says-hes-optimistic-about-passing-gun-control/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Biden1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "DjNl1e92DE5H52JSA4A8w5AZDEE0aWjZsj3Gauu467H2Ih83QaXiUqnp68UF8FiEpugnDuirQjpD6YEe8wQdZPqY+OiYjKafG0ciG8YncMaNbbrH8sJmQhBx8NlcOPq61WzjI61DtFhx/abNxOi64YjamPW+HA1ita4OLZGMhS0ckvkqL7TjT1aQE6NjrDTkTQVxOGXhsJ8jCzS6Nn2VPr0yZ3LjibzW0OnlnjG3gyKOLyUPm3GxbgG1NxKjwSKcEzrlO4EV6BIqfoh/InzUe/vv9GtJBi43fa92TZdriCB3VhjOUSpnv83Rn7WMii+ymwFfeHsYDJ+uScdoxAgAO9xjypSCDcfjtqL62WdLGohuVq0mpqkickj7XjyvpQcf8QS2aZBg8a4o+2OHplvq8wY5ahQ4tlEDkUD1YF53doIR2bstesTduHZaFYDDutTo0/UauIfx1Z8pCZ820sOCcwuZlzQbYdmalHcWBYUO22boFtPtQiGlijqO8RbHQKpeZo4vno5iDOzL7DBbgfE7cw==;jo7xhq1ZHf8WLEJut0nzGA=="
 ---

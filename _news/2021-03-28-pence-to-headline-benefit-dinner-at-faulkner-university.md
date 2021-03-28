@@ -2,29 +2,27 @@
 category: news
 title: "Pence to headline benefit dinner at Faulkner University"
 excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur at the Renaissance Hotel and Convention Center on Oct."
-publishedDateTime: 2021-03-28T16:14:00Z
-originalUrl: "https://www.newstimes.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-webUrl: "https://www.newstimes.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-ampWebUrl: "https://www.newstimes.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+publishedDateTime: 2021-03-28T14:57:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 105
+heat: 145
+published: true
 
 provider:
-  name: NewsTimes Danbury
-  domain: newstimes.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Former VP Mike Pence to speak at Faulkner University’s annual benefit"
@@ -58,6 +56,6 @@ related:
         height: 1680
         isCached: true
 
-secured: "ldCo7qKQbFAbDFKKx9zgCAg65aLS3qZ4IKyaEplZ0PZW9Vh7LrwYuIhK9ESJgGxGsNLtYW5LKMoUS/hDaxT3Jtxwq+LPJmv1XvKN/3WAPcKFFxF6Jc4tr9CVRCeg4s+1C6DVTArUZvqpW52xKWP8Ybq4LdGAZmbE0WNqb8zJXs5u3sIUdl0jUDF+EC7JkVSuJ6txN08TL3qKcll7x/Nc1s2NB8/RW1HwRaqEOLiJtt6xXUu8V+EdgPyW3iRlvFjg05cUDzPQMx3xJXLpmER4Oei+q33MbHWZ+bVYz9m06z6tmMMyh/tQlzf0BK6+8H7Ws1G9Zm7FajrWmPzosPS96WF0FB2I+whScdRpNMXDK7Q=;HSmBo3AVx2vSc4Gxrzf5Ow=="
+secured: "xblqS/TW8n447IjKz9Y6aezFspmkFfDfkCmE1htXtIr/qQzZNqaaxN6QuopOPXxqi3p2+x8A8uozHEkXxm24m+3NksQRRnBn0O6yGOOz6cVYJGkX269q+mUfVeL6jzffJnTWxIOZiUJ8s7iSizMxxp3mpaygHOVEwH7NI5oNCiFGFzzNcQ0eU3iYEnYredYXk0lwaeIuKnb+QuO3/OxnRaDj3a2hAMNXtMYO3nxW+qtyFvMA/MAcTWUcWUWQhYL7GviqZG6dfacz9PY1KuFzJewDmVR2qkRR0HquPcHYYem0JLsTXHXIXJAsVSCT5drDvnsIi176gwhSfMb8dYLh2qcR9K9GjOD/4tc0A2h8MQU=;bjIOyJcfpN7A/czHuFJRVQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-fau
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html?outputType=amp"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: al.com
@@ -29,20 +29,15 @@ images:
 related:
   - title: "Pence to headline benefit dinner at Faulkner University"
     excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur at the Renaissance Hotel and Convention Center on Oct."
-    publishedDateTime: 2021-03-28T16:14:00Z
-    webUrl: "https://www.newstimes.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-    ampWebUrl: "https://www.newstimes.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    publishedDateTime: 2021-03-28T14:57:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
     type: article
     provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
   - title: "Faulkner announces former VP Mike Pence as annual benefit speaker"
     excerpt: "Faulkner University's annual benefit dinner speaker this year will be former Vice President Mike Pence. The dinner will be October 7. Pence served as the country's 48th vice president in Donald Trump's administration. Previously, he served as the ..."
     publishedDateTime: 2021-03-25T17:02:00Z

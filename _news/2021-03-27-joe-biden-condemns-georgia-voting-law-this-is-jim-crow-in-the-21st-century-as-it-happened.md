@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 type: article
 quality: 113
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden economic plan to focus 1st on infrastructure this week"
-    excerpt: "WASHINGTON (AP) — President Joe Biden will lay out the first part of his multitrillion-dollar economic recovery package this week, focusing on rebuilding roads, bridges and other infrastructure, followed by a separate plan later in April addressing child ..."
-    publishedDateTime: 2021-03-28T17:32:00Z
-    webUrl: "https://www.theintelligencer.com/news/article/Biden-economic-plan-to-focus-1st-on-16059241.php"
-    ampWebUrl: "https://www.theintelligencer.com/news/amp/Biden-economic-plan-to-focus-1st-on-16059241.php"
-    cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Biden-economic-plan-to-focus-1st-on-16059241.php"
+  - title: "A new 'Jim Crow era': Biden, civil rights leaders slam Georgia election reform"
+    excerpt: "More:'It's sick': Biden slams Republican efforts in state legislatures to limit voting rights President Joe Biden criticized efforts in Republican-led state legislatures, including Georgia's, to pass election bills making access to the ballot box more ..."
+    publishedDateTime: 2021-03-26T22:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/26/georgia-voting-bill-2021-biden-civil-rights-leaders-slam-new-leaw/7015324002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7015324002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7015324002"
     type: article
     provider:
-      name: Edwardsville Intelligencer
-      domain: theintelligencer.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+      - url: "https://www.gannett-cdn.com/presto/2021/03/26/USAT/95aeaa8b-e9f2-45a1-861d-8cb1dee29a15-VPC_GA_VOTING_LAW_DESK.00_00_03_05.Still002.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
+    excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
+    publishedDateTime: 2021-03-26T22:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e6e0f8f08aff75c03c544"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/2a4a2aa4200ed189b6e4b6ca32b7a26cd094559b/0_112_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=14a1abf7884aa37bb04e187deea03eb7"
         width: 600
-        height: 336
+        height: 360
         isCached: true
 
 secured: "7XUU3pB9s3uD1THMyVGl8X/A+c3DJFXi6CkiriNaAOaSkD9zGDFoceKb9iFx9x1cHBwPEFloQ8Ap9XUHcEd28XZKmvzQ8mQqHCFw8a2T5bT8v8LnbP8am1I9iJ7GI+v0KTIwEICQwgPJkZ31hU7RcxOmg+tDIqePQQAtN1pqJmATbmERNIJFBZSVBkacCGxBZbx47GBa0M26/fKZHG1pC2cQ7yxWRr++Rubfr1Vrpa4/1uw5ApuymLtggsPGN8Z2UhYFw+Bl2Nhn6AfoiM23/su7ywWZNa1mxDpksp4HbcFxHvlxn0hc+G2O3Nslw7u7EuOLCPj97I4Wup74+gplue6eA+Vh15OFPdZRqcpfSI5Y9KRXo70CIo5GCE0ZegmUTDaswRKbHF0Dh9mwS17omm1AK09nuk5V8fc3jqYDqAEBZheAsiQt/OUxMQ0+1X9RO34oEssNgNLVYJkTjXLm95uG5pb7L+5kzDRn1weX7rhYsR+joQY05fYcBb0iCJxS/u2H28JhIJitohaZjhuU0A==;/FMyu2Rnv5r8kLJuO33WgQ=="
