@@ -9,7 +9,7 @@ ampWebUrl: "https://www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-fau
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/former-vp-mike-pence-to-speak-at-faulkner-universitys-annual-benefit.html?outputType=amp"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence to headline benefit dinner at Faulkner University"
+    excerpt: "MONTGOMERY, Ala. (AP) — Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit ..."
+    publishedDateTime: 2021-03-28T13:55:00Z
+    webUrl: "https://www.theintelligencer.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    ampWebUrl: "https://www.theintelligencer.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    type: article
+    provider:
+      name: Edwardsville Intelligencer
+      domain: theintelligencer.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Faulkner announces former VP Mike Pence as annual benefit speaker"
     excerpt: "Faulkner University's annual benefit dinner speaker this year will be former Vice President Mike Pence. The dinner will be October 7. Pence served as the country's 48th vice president in Donald Trump's administration. Previously, he served as the ..."
     publishedDateTime: 2021-03-25T17:02:00Z

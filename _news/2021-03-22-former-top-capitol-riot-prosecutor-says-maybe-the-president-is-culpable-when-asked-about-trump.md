@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Trump chief of staff calls ex-President's Capitol riot claims 'manifestly false'"
+    excerpt: "The former chief of staff to ex-President Donald Trump on Saturday pushed back against his former boss' recent attempt to whitewash the history of the January 6 Capitol riot.\n    \n"
+    publishedDateTime: 2021-03-28T00:19:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210327183851-mick-mulvaney-january-6-riot-trump-comments-intv-nr-vpx-00001330-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former Capitol riot prosecutor's comments on Trump alarm new no-drama Justice Department"
     excerpt: "Attorney General Merrick Garland is quietly ushering in a change in tone at the Justice Department, making few public comments and staying out of sight -- and unlike his predecessor -- eschewing commentary about ongoing investigations.\n    \n"
     publishedDateTime: 2021-03-22T23:46:52Z

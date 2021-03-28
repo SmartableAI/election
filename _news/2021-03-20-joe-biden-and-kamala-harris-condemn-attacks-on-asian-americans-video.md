@@ -126,6 +126,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
+    excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
+    publishedDateTime: 2021-03-25T15:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6990780002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6990780002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/25/PPHX/d90f771d-aa1a-4b9b-ab6a-f1d603f9cbae-pjimage_5.jpg?auto=webp&crop=1749,984,x0,y175&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nearly 70% of Female Biden Voters Say Harris Being on the Ticket Was Factor in Decision: Poll"
     excerpt: "President Joe Biden's choice of Kamala Harris as his running mate in the 2020 election resonated with women across the U.S. According to a report released Tuesday by Gender on the Ballot, a nonpartisan project to examine gender dynamics in politics ..."
     publishedDateTime: 2021-03-16T17:51:00Z
@@ -1125,22 +1141,6 @@ related:
       - url: "https://media.firstcoastnews.com/assets/WTLV/images/d4ecd02d-aa9e-4950-a015-6d20f1c680bf/d4ecd02d-aa9e-4950-a015-6d20f1c680bf_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Ducey continues criticism of Biden, slams Kamala Harris as 'worst possible choice' for border response"
-    excerpt: "\"At no point in her career has she given any indication that she considers the border a problem or a serious threat,\" Ducey told reporters in Tucson."
-    publishedDateTime: 2021-03-25T15:35:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/arizona/2021/03/24/gov-doug-ducey-criticizes-kamala-harris-border-response/6990780002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/6990780002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6990780002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/25/PPHX/d90f771d-aa1a-4b9b-ab6a-f1d603f9cbae-pjimage_5.jpg?auto=webp&crop=1749,984,x0,y175&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Vice President Kamala Harris visits Jacksonville COVID-19 vaccination site"
     excerpt: "The president, vice president, and first lady are traveling around the country visiting vaccine sites and community organizations."

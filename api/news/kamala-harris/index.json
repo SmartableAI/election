@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-28-martin-short-surprises-on-snl-as-doug-emhoff-for-kamala-harris-seder-you-got-this-baby.md",
+      "title": "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'",
+      "excerpt": "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/",
+      "originalUrl": "https://www.freep.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/08/USAT/edc1ef54-1eed-4ef7-a0a8-6ea382b57114-NUP_192252_0003.JPG?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/7035466002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7035466002",
+      "publishedDateTime": "2021-03-28T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-after-two-months-in-office-kamala-harris-is-still-living-out-of-suitcases-and-shes-getting-frustrated-with-it.md",
       "title": "After two months in office, Kamala Harris is still living out of suitcases -- and she's getting frustrated with it",
       "excerpt": "It has been more than two months since Kamala Harris was sworn in as vice president of the United States, a historic moment for the country, as Harris is the first woman and the first woman of color to hold the second highest office in the land. Yet, Harris -- along with her husband, Georgetown Law professor",
@@ -1571,63 +1614,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-harris-acknowledges-righteous-skepticism-over-covid-19-vaccine-but-says-it-will-save-your-life.md",
-      "title": "Harris acknowledges 'righteous skepticism' over COVID-19 vaccine, but says 'it will save your life'",
-      "excerpt": "Vice President Kamala Harris is urging Americans to get vaccinated for coronavirus while acknowledging the mistrust some have for medical research and development.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a7DNSERocQg/harris-covid-vaccine-skepticism-save-your-life",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a7DNSERocQg/harris-covid-vaccine-skepticism-save-your-life",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Kamala-Harris-COVID-19-Vaccine-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-covid-vaccine-skepticism-save-your-life.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-covid-vaccine-skepticism-save-your-life.amp",
-      "publishedDateTime": "2021-02-25T06:13:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "GOP targets \"Biden border crisis\" in new ad campaign aimed at battleground districts"
-    excerpt: "Republicans are ramping up their attacks on Democrats over the ongoing crisis at the Southern border, including a new ad campaign accusing President Joe Biden of opening the border instead of focusing on opening schools and businesses.\n    \n"
-    publishedDateTime: 2021-03-16T16:46:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html"
+  - title: "Analysis: Why Biden's marijuana stance is 10 years behind the curve"
+    excerpt: "President Joe Biden and the federal government are behind the times on marijuana reform.\n    \n"
+    publishedDateTime: 2021-03-28T12:03:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SXwIj_180RE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/biden-marijuana-policy-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/biden-marijuana-policy-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312143856-02-border-migrant-crisis-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325160346-biden-press-conference-0325-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

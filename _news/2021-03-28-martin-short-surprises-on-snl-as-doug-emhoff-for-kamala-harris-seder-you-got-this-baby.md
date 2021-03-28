@@ -2,19 +2,19 @@
 category: news
 title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
 excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
-publishedDateTime: 2021-03-28T04:38:00Z
-originalUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
-webUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/7035466002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7035466002"
+publishedDateTime: 2021-03-28T12:29:00Z
+originalUrl: "https://www.freep.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
+webUrl: "https://www.freep.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
+ampWebUrl: "https://amp.freep.com/amp/7035466002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7035466002"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 84
+published: true
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -26,6 +26,24 @@ images:
     height: 675
     isCached: true
 
-secured: "AKpk0kHcS6RvqN/bC0av1Y4F1ZPGErg5bY3ezk6HYa1pfcc2czmXgbX11C1zLadDTvTxXtpwwq3f9Ns5tPV1ijcDha0u2fzIDdc/Z3tOODgEBWj79fgJwoFgJ8/hxqIjEu0gvmiBnN3QAiKqG443AUMT9SslWkfrpBFJ4D/impNVr2Cl7yVFF1vP57vFQheM7H05oRl+qoxw6GMucXKWFSi2nKhVbjMbxFz8wu0WLvO9hEHhevhqifkELth/2AHvEhs6vXlyHsT15BWC8IW2cYJwb1NiCzIRU8/LvYD4KnXJdQ/ceLgCJ3Ha735UufOibIanONKpJKVasjrObeulk62Wze6aLVxUfkTyyJRz7U0clt7QznDx2c9rNHi0DJLpTbPRVQz72mW9o8IMz2LtzYGn4NgWCbVLaFE4KvbO0rmTPFX9VnThw7jZvK8SmgDT3E40bGv46dQ59TLxj8OZBCs4iJdnFVrr/0Qy1nUGqhlXYRFcJ9WqaJte2Kz8JComDAJTmTYUDOmmXtklejdFcg==;G8HGcNaZ4rlLEumX30jtjQ=="
+related:
+  - title: "‘Saturday Night Live’: Maya Rudolph and Martin Short host Passover Seder as Kamala Harris and Doug Emhoff"
+    excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback. It didn’t come until a third of the way through the episode, but when it did, it included bonus ..."
+    publishedDateTime: 2021-03-28T12:42:00Z
+    webUrl: "https://www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
+    ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 58
+    images:
+      - url: "https://www.dailypress.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
+        width: 1200
+        height: 613
+        isCached: true
+
+secured: "KTPaXvajoF3BUO3KKoixL80puhBdQiT43MQk15el2KJndWHp95bYtXYc/X/KhC0dDmWLN+BHIt+ZSesKK4VwA6OG39hG/n5uRiM1S5xIPtvQo6C+VL03ctK/uFGRgkdTfofrxrVLNEF4w1h6mYHNgd/ZnCr0CrUUzRjewG+RdR1cTpY2DWDkp9NlSCDZkAH7v/nPCe7trFJXn+8lliV9ha/0crgcSP+vupZ6ELy8pxlLcZsG4CdHR3pUL/e3WUwSZQQGogfom0uwEnc3JSNJygvhNJ6G4OfDchyZ1mhHaHAuBNzA4y0WwveZs3QQGUNnrL2I5nyZlIxp0x6rh5hh2nCvhbpeUxHHmUOqdKnGutw=;2/hd/zrdGATE0Zw57izVWw=="
 ---
 
