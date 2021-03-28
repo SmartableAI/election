@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Alert: President Joe Biden says during news conference: 'My plan is to run for reelection' in 2024"
-excerpt: "WASHINGTON (AP) — President Joe Biden says during news conference: 'My plan is to run for reelection' in 2024."
-publishedDateTime: 2021-03-25T18:45:00Z
-originalUrl: "https://www.fairfieldcitizenonline.com/news/article/Alert-President-Joe-Biden-says-during-news-16053157.php"
-webUrl: "https://www.fairfieldcitizenonline.com/news/article/Alert-President-Joe-Biden-says-during-news-16053157.php"
-ampWebUrl: "https://www.fairfieldcitizenonline.com/news/amp/Alert-President-Joe-Biden-says-during-news-16053157.php"
-cdnAmpWebUrl: "https://www-fairfieldcitizenonline-com.cdn.ampproject.org/c/s/www.fairfieldcitizenonline.com/news/amp/Alert-President-Joe-Biden-says-during-news-16053157.php"
+excerpt: "President Joe Biden says during news conference: 'My plan is to run for reelection' in 2024."
+publishedDateTime: 2021-03-25T23:20:00Z
+originalUrl: "https://www.michigansthumb.com/news/article/Alert-President-Joe-Biden-says-during-news-16053157.php"
+webUrl: "https://www.michigansthumb.com/news/article/Alert-President-Joe-Biden-says-during-news-16053157.php"
+ampWebUrl: "https://www.michigansthumb.com/news/amp/Alert-President-Joe-Biden-says-during-news-16053157.php"
+cdnAmpWebUrl: "https://www-michigansthumb-com.cdn.ampproject.org/c/s/www.michigansthumb.com/news/amp/Alert-President-Joe-Biden-says-during-news-16053157.php"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Fairfield Citizen
-  domain: fairfieldcitizenonline.com
+  name: Huron Daily Tribune
+  domain: michigansthumb.com
 
 topics:
   - Election
@@ -44,6 +44,6 @@ related:
         height: 360
         isCached: true
 
-secured: "gVw0X0AIp4Djfe7OHqs1Z/C2fR5u8uSPK34DGDVDZpVpAU92OBwSitR0GzW5meJ38UM8Prevyf/F4ltKoAKau0h2S3ch4NP7dTQ0bMcZN9ZnE3ldiA9H3EXyRuw9QshEiSMkiHWi3kG6a+S0N5OQWss1rExr1xmy2T47sNQrE4PT0vXAWNONkyK5VmSAJs09wDjbhQDDJjJIZTtqsNjwgfP/sqaWYT/X3ZPMpW103BUuW4I2amMnLtVObt28hMUxRqM0vtzny4e48D9bgztdze9Mz1nj6jvbkbcIwSPrwfKs2qn8UjXgssOfMcGg7Y5A5tGQ1W3qd9ocg+0DbDBbhmhSihvcPdG7aofk0iFVeaU=;Izs/0MnymQiysYP1+7aJAw=="
+secured: "t49OkQtQbw9IJzQN6e96PqLPHSUeQPFhqcBTK/n9gzxNQyNcWVSCmhdgxPzftmioJTn8ydpp2HMKOUG+WE09daqjpDrWcZUL3/HKh66waVwGW2faX6wkJc6Jn0z+34B12EqAc0aRDWGZZnduxQy/Xql6XRBAeuIfANhsn0HuKu0F/DHvdNgyxTGswd325I2/pozawoIMQA2m7XxcqcwK8WC7aQkj6FqSUEMMG5asobUiLIUguRFDMulcCy6mXeqZCz2bHqhT63eflrp/b3QsfKiSRd7FPTyxsrxGIKxFgYMOYSv0xRLdpotjNK5oBiW7k+rE7olAY1yb0yrmgz/tf+N/lQ1JelUtefOR47XaI3Q=;rOy/sagjS+q38Q6TE3JD5w=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-cont
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/24/joe-biden-gun-control-boulder-colorado-covid-coronavirus-healthcare-live-updates"
 type: article
-quality: 122
+quality: 132
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://i.guim.co.uk/img/media/732278efd0e51494d7a139e112f89fcb78f186e1/0_10_4479_2689/master/4479.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0095334ca0397441cd4fcff1415d7b5"
@@ -2126,6 +2127,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "B7pwuZ0rq5ProMPZgEt4fGicWnv+FpZq4svB2492m4FsHUCECwd5akOwKQHMwIxwE401Wc91dZQIfTDsM5GFA58MeWAs3b3NQQsUpZS3sC7YDypir+uv75OU1BN3+NlhWmxtpDG46JgflrWI80QXeqxoeDFqyw6Vbeir0fG2BtJLdTJrHJhoctlDhmP1XJxBMTwzTY496E+wF7C/BkwGkGQHbuArnC7dvjiA3A/NKbwE3G4pgInl70tO3qfKRnrckP8WTfnTo+1H4v1ZKE+6MpyvAB8OaM3VypzB+3qjXGYPeP0M95+MkXQJmh9zni/YUesD7ADs5Qwldzksfe5UEOA9UnRWs9GZ2eKt3nnIL1U=;raBGpPcpWV2rJJWWxQwBuQ=="
+secured: "rVg/naFf0yPHqsIZ+FYwmgAnUOzbD1juhH4YQqnWaK2RQApO9Y/wCgqw0EE26eginPuW8Nq+EtJ+ii3HjWMiSLV2ooTYig91ADOzmCFe/mzWs2jkgmuDaEVhxV2SIRmdv01eKyJINWMfQWZhyjUsQVtY7UipB14BYEVG63Xe66nZyZmPTptezpLJhRmFcX4a3ibTLMsSxzfLUd90xnyMQIYPfLGe5x9siY4ANOV9T/ZlgmVKG38tbgL0zCVPd/mmiLWj5Go7Y2Umpm5haHCanAGg/o2bBELT2twkQnr3SIR2U0qLNi+gYQWNFN8TuBJEkaGNEjzeQlyiX8P6nJeqWrvRDugs8cOPmUS4YUu7RkH8Uyg70scM46MwUNfWuND5+aI/x9QJgrkDSSrBFVq+LMnlPBSJStVthURoNgBoYCgkrnvIW+XaGmsf1nt6QxwmmpRSsenHF8Cg3F/XjK+6zHJblKnWrVqbDhBBiIOWW3P36FLnlP/kIxU+ywIa7Yt0uA4VvkodMpv3q05B3ApWdw==;Cps6nn086fAYZ54ntJlSww=="
 ---
 

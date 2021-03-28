@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
-excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
-publishedDateTime: 2021-03-26T20:38:06Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tVVjsXfLdE/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tVVjsXfLdE/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin"
-ampWebUrl: "https://www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+title: "Biden official asked GOP senators visiting border to delete photos from facilities"
+excerpt: "Sen. Mike Braun, R-Ind., told Fox News that a Biden official asked Republican senators to delete photos they took at a border facility they were touring on Friday. "
+publishedDateTime: 2021-03-28T00:21:43Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wQA_4lf4B4g/biden-official-asked-gop-senators-visiting-border-delete-photos"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wQA_4lf4B4g/biden-official-asked-gop-senators-visiting-border-delete-photos"
+ampWebUrl: "https://www.foxnews.com/politics/biden-official-asked-gop-senators-visiting-border-delete-photos.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-asked-gop-senators-visiting-border-delete-photos.amp"
 type: article
-quality: 172
+quality: 169
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/mike-braun2-thumb.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Gayle-Conelly-Manchin-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
+    excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
+    publishedDateTime: 2021-03-26T20:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tVVjsXfLdE/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
     excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
@@ -95,22 +111,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden official asked GOP senators visiting border to delete photos from facilities"
-    excerpt: "Sen. Mike Braun, R-Ind., told Fox News that a Biden official asked Republican senators to delete photos they took at a border facility they were touring on Friday. "
-    publishedDateTime: 2021-03-28T00:21:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wQA_4lf4B4g/biden-official-asked-gop-senators-visiting-border-delete-photos"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-official-asked-gop-senators-visiting-border-delete-photos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-asked-gop-senators-visiting-border-delete-photos.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/mike-braun2-thumb.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting"
     excerpt: "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice."
     publishedDateTime: 2021-03-25T17:03:27Z
@@ -158,6 +158,6 @@ related:
         height: 720
         isCached: true
 
-secured: "DHa1cyQftRxLwJoMsrFZfWI3Nw1lvlUTVZMnz0HnWsIncls3MuiqmR50NA1Msnqf4sPfn3xh8Ag8GMMH3rMPR47xt/VqM9BojUzWylJgVrMd1KVCFFlIUioSO1ZeW3Jj5eVbH/RD4ZJMrteuF2xpWpgQ3Jj2aruhL+lhQ70VmPq9i301TvZ3TRL+7n11vOyY9JnpTZ1VBARCLJ4G/X+na2/vBFTEc42W7IIMF8ehxEyWnCp+kQz34oUDSx5zyVu7Lvbfu+2vzXEjEoPVfyZbDl6ze/9P2WW5Lov6dSa5rlHXUecSXmrRcOj6NEqYKex7mMPzNvp78Dl8vpR/63s3sTdM0YRQRsxCmggROjOsj10=;+lfeGaiXr5ly9jQoqGGZWw=="
+secured: "U2V82vAxKjCD9jc+yyNTr+Oknsak7NqXP7VsZ4TU1QK62UbKy29e9uRdarQPON33D4NA09kaGZ7BVc1/rM6jkHRBhAy2G7qrrTjL7pVfwVp7a902fYkNlCJ5b34fS5BKoEp2hf5qpDA4Ef58E7nmn1t34ZJYG/VuL9zOcBIR4Xg04ZhAeY10pcY+P3PrBEMtbJJv3jmYFCnya0kGdHieQEKmx64ogOCc+Tf6dpXvMsOkqWqV87zm2y660uoTwZdvZ9NKEEKEwjzef+77jccvEOzcl47QmWOcpC50tQ3EQAnwpqfWpbJVaVYHHzKLCcaihfLGetU3gYKBgKXS8hD3pr/F8R7/Wt7zvrjKQi8Xyxw=;IHw9IkUtkGNszpWHesHcSg=="
 ---
 

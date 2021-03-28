@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden official asked GOP senators visiting border to delete photos from facilities"
+    excerpt: "Sen. Mike Braun, R-Ind., told Fox News that a Biden official asked Republican senators to delete photos they took at a border facility they were touring on Friday. "
+    publishedDateTime: 2021-03-28T00:21:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wQA_4lf4B4g/biden-official-asked-gop-senators-visiting-border-delete-photos"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-official-asked-gop-senators-visiting-border-delete-photos.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-asked-gop-senators-visiting-border-delete-photos.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/mike-braun2-thumb.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden HHS nominee Rachel Levine becomes first openly transgender federal official confirmed by US Senate"
     excerpt: "Dr. Rachel Levine, Pennsylvania's former top health official, earned confirmation Wednesday in the Senate to become the new assistant secretary at the Department of Health and Human Services (HHS)."
     publishedDateTime: 2021-03-24T21:34:18Z

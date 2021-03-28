@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump slams Biden immigration policies: ‘There’s nothing, there’s no leadership’"
+    excerpt: "Former President Donald Trump blasted Joe Biden's handling of the border crisis Saturday, saying ICE and Border Patrol were 'dying for leadership.' "
+    publishedDateTime: 2021-03-28T01:52:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kajE50aS9EU/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden makes 'no apologies' at news conference for ending Trump-era migrant protocols"
     excerpt: "President Biden on Thursday said that he makes \"no apologies\" for ending a variety of former President Donald Trump's immigration policies, including the Migrant Protection Protocols (MPP), also known as the \"Remain in Mexico\" policy. "
     publishedDateTime: 2021-03-25T18:44:35Z
@@ -229,6 +245,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gf-0k3u-YXM/biden-press-conference-trump-2024-torched-message-unity"
     ampWebUrl: "https://www.foxnews.com/politics/biden-press-conference-trump-2024-torched-message-unity.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-trump-2024-torched-message-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump rips Biden for halting border wall construction, says countries are losing respect for US"
+    excerpt: "Former President Donald Trump joined \"Justice with Judge Jeanine\" Saturday, criticizing President Biden for stopping construction of the border wall."
+    publishedDateTime: 2021-03-28T01:49:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cf-zxkNraS0/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us.amp"
     type: article
     provider:
       name: Fox News

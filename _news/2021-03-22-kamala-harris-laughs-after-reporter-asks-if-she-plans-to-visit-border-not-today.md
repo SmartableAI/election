@@ -160,6 +160,20 @@ related:
         width: 936
         height: 702
         isCached: true
+  - title: "Kamala Harris Has a Message for American Women"
+    excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
+    publishedDateTime: 2021-03-26T11:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/538452_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Kamala Harris: \"Stop Pushing The False Choice That Gun Control Means We're Coming After All Your Guns\""
     excerpt: "Vice President Kamala Harris said Wednesday on \"CBS This Morning\" that \"it is time for Congress to act\" on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws."
     publishedDateTime: 2021-03-24T18:13:00Z
@@ -174,15 +188,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Kamala Harris Has a Message for American Women"
-    excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
-    publishedDateTime: 2021-03-26T11:19:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "SSwIEYByVhXjxYzhCxCaKJv0+Ttmeu4Le0SFhr9WKxUXdO8I4nI46QYuokeZP2ZozFGan4humtYZhry8DsWOKPQLg4K0uOu9WmK6ucSZRBdJrEvFpEFhpstee0O9Ig4153RxONy8wIDv53h4YxWmWXwbrLa1qrCYA2laQaeG5UtkLIsMWz/UHxocGoKithpwwLFotA85eNYBViThCridmJ6pYCgAVbygH6XClKgcXHROZkE1PqHFttkMwMIosY94t8yeAF/1bM2JJeWCiccOzCR63KEQXJv1tA3bC4XPYF8fe9tZuupeB/WOFn9qW8a79tOpeCU/2eIq72IaLZfVqmLxchRNPNksMmqlOXAa7Ms=;eHXIzjrxRVdDh3XFDXtO8g=="
 ---

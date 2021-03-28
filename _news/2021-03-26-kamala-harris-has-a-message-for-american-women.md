@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-26T11:19:00Z
 originalUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
 webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Kamala Harris
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/53/538452_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Arizona’s Ducey calls Harris the ‘worst possible choice’ to fix border"
@@ -179,6 +185,6 @@ related:
         height: 562
         isCached: true
 
-secured: "vH5kks73oAI215k2u6GPKW5kDvR+0KCUt6Aj2CpUeDjUvxztUbA7gI2wl4UbSzHD2om6wbt+ur3JP3iD49xqcXfq2V5xaFUBaZDJE0WpseIQldvBDml0R5/EQPMl9OLjn/d6ccuOSALlOP6WYRGB/kVkohk37kMYsaJyMdPDFlT74obtuUtm5u7sdIi997fBps3ChaNeUFn3BBcPrHaGkJqFMNGy5jJS+HZO1J2n8+VVxKn7V9r9GHUL7R4hfA7VTluR1HTgJo49MT03Z1y0Ldm2e8ePVVqhOFW8JpU8PLNo1D2WHR+03A7v56IiZL+CWTXHLCx8Vr5O/e6VpXumN8ZFtoglC+BXGrwYpRZ0nzQ=;WJ3Whx30JnJVSjMOIMgbrg=="
+secured: "0I8Cbk9V7OeTwtvlqfxrh2WI7+64+xyEYEorr7f3HTFz86mrNHebXFGN4X7+Z6OIr7f0xwj5UKszy0f511ljmMoXfzCZdBktRg/6M+vsYue8Tl+JQH18gr78UVEKF4MEgNBIutucFy3ePgbmCzLNdqNWJISeWjPa0x7MHrjC2GNj//HhI9y1dO773BVXHNneQLIICiKUFjjiewPjeDsv7r/X7ntYe8xAMDBNhFElQULQ7RzA3qjb0W0ftguOM+v9yORBPslkI2rb2U4euDTNUWDJ+FGHG3hEF4/zaZeBlRkN/KKBdgQlUsAGFWn+I/rkdfMNnTcWTI+PS6wHY/jWs6SDjPx+yEvU9q9PLbuGyZc=;lr6Z4WGwD3JD6QrDtQQrqQ=="
 ---
 

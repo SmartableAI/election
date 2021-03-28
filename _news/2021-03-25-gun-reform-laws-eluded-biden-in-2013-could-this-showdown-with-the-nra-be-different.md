@@ -32,15 +32,15 @@ images:
 
 related:
   - title: "Alert: President Joe Biden says during news conference: 'My plan is to run for reelection' in 2024"
-    excerpt: "WASHINGTON (AP) — President Joe Biden says during news conference: 'My plan is to run for reelection' in 2024."
-    publishedDateTime: 2021-03-25T18:45:00Z
-    webUrl: "https://www.fairfieldcitizenonline.com/news/article/Alert-President-Joe-Biden-says-during-news-16053157.php"
-    ampWebUrl: "https://www.fairfieldcitizenonline.com/news/amp/Alert-President-Joe-Biden-says-during-news-16053157.php"
-    cdnAmpWebUrl: "https://www-fairfieldcitizenonline-com.cdn.ampproject.org/c/s/www.fairfieldcitizenonline.com/news/amp/Alert-President-Joe-Biden-says-during-news-16053157.php"
+    excerpt: "President Joe Biden says during news conference: 'My plan is to run for reelection' in 2024."
+    publishedDateTime: 2021-03-25T23:20:00Z
+    webUrl: "https://www.michigansthumb.com/news/article/Alert-President-Joe-Biden-says-during-news-16053157.php"
+    ampWebUrl: "https://www.michigansthumb.com/news/amp/Alert-President-Joe-Biden-says-during-news-16053157.php"
+    cdnAmpWebUrl: "https://www-michigansthumb-com.cdn.ampproject.org/c/s/www.michigansthumb.com/news/amp/Alert-President-Joe-Biden-says-during-news-16053157.php"
     type: article
     provider:
-      name: Fairfield Citizen
-      domain: fairfieldcitizenonline.com
+      name: Huron Daily Tribune
+      domain: michigansthumb.com
     quality: 76
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

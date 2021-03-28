@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden says it's his 'expectation' to run for reelection in 2024, makes Trump quip"
-excerpt: "President Biden says it's his \"expectation\" that he'll run for reelection in 2024."
-publishedDateTime: 2021-03-25T18:41:07Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip"
-ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
+title: "Trump slams Biden immigration policies: ‘There’s nothing, there’s no leadership’"
+excerpt: "Former President Donald Trump blasted Joe Biden's handling of the border crisis Saturday, saying ICE and Border Patrol were 'dying for leadership.' "
+publishedDateTime: 2021-03-28T01:52:46Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kajE50aS9EU/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kajE50aS9EU/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership"
+ampWebUrl: "https://www.foxnews.com/politics/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership.amp"
 type: article
-quality: 200
-heat: 940
-published: true
+quality: 185
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
 
 related:
+  - title: "Biden says it's his 'expectation' to run for reelection in 2024, makes Trump quip"
+    excerpt: "President Biden says it's his \"expectation\" that he'll run for reelection in 2024."
+    publishedDateTime: 2021-03-25T18:41:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump, at CPAC, expected to hammer Biden on immigration, China"
     excerpt: "Former President Donald Trump will hammer President Biden on everything from immigration to China when he addresses the Conservative Political Action Committee (CPAC) on Sunday, sources familiar with the speech told Fox News."
     publishedDateTime: 2021-02-24T18:47:07Z
@@ -142,22 +158,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/slaoui.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Trump slams Biden immigration policies: ‘There’s nothing, there’s no leadership’"
-    excerpt: "Former President Donald Trump blasted Joe Biden's handling of the border crisis Saturday, saying ICE and Border Patrol were 'dying for leadership.' "
-    publishedDateTime: 2021-03-28T01:52:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kajE50aS9EU/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden makes 'no apologies' at news conference for ending Trump-era migrant protocols"
     excerpt: "President Biden on Thursday said that he makes \"no apologies\" for ending a variety of former President Donald Trump's immigration policies, including the Migrant Protection Protocols (MPP), also known as the \"Remain in Mexico\" policy. "
@@ -620,6 +620,6 @@ related:
         height: 822
         isCached: true
 
-secured: "r5z2gzIpqXmoNQRxdkkUtsnuEq65liA5t3IuPcgKmj96PqNtHN6nJGkcThTepDqeW3jxAbDBknhDK1LLvCDX8fyQ+wMJp4snA+NeBdd84DVsmqFfY7cCs65asj8cukI/JNBRM5JToTdPdlcJI/4yMfZ7Xr9f/SC7Jd4VvJZ0V2kBiyXWgVyv/o+zSKQ0q4Vufa6lZwRzYwNfUDpBTtPbA/5rR7qfeiW8q+y6daPOK83U2J8GdcmjfcNagqqPP3qplRnIUuG0O5eKOqiH/1PiXFwNv6aMslC2zE23IJCA1qH/jhG1ftIRQJt8Xl3DOCEYCNOnlEskHVBj67yFsLuLUdFe+Cz1wAcKhyrXnx1yzKM=;6mucGLWM2+1qTnrOwgAKaA=="
+secured: "1nOjihGlL7C0Uj7fpooQqSq/ntsdItFw0ID3ZfOaJKa66PO4bCeuJFy+yK/ncSewpvVUKbU1JNhfl05YWiFi/sjYBbBz0TYLn9BY+PPa6xNOE3NF2PG9Ozo92p9XffEAESOQUEemRWPIgbkgyRHWbkcQlDpym0RJqmJxlEjhF2R9Gzf4zacvW5U3q3MkKlNEz3nKgyrXUBmOa3sb09MDtKFBpMGmFRZRfHZj+ci4pUEMQqzT11tORlQ3rjg0g1WcGQZ1Cn5dEPpdBbPuVXIve2IqeZ88J2lpHzJOOHEQWBzufCNhQlHaA5GchDjMt1cW7o+fE/R7lZU+bXX8YTSHRfIEOiI9SEylB4jCh0TiXHw=;gA61v7sbFh4CpFcKuEFg0Q=="
 ---
 

@@ -156,6 +156,20 @@ related:
         width: 936
         height: 702
         isCached: true
+  - title: "Kamala Harris Has a Message for American Women"
+    excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
+    publishedDateTime: 2021-03-26T11:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/538452_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Kamala Harris: \"Stop Pushing The False Choice That Gun Control Means We're Coming After All Your Guns\""
     excerpt: "Vice President Kamala Harris said Wednesday on \"CBS This Morning\" that \"it is time for Congress to act\" on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws."
     publishedDateTime: 2021-03-24T18:13:00Z
@@ -170,15 +184,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Kamala Harris Has a Message for American Women"
-    excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
-    publishedDateTime: 2021-03-26T11:19:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "+93+wwR8TwY7Wt/MzZ50a1xY47qXqs66plRN+HWlY+GeRaGBVKgRrSlYV2WFuUjEEDj5J45XfIz7xjdR4PW8kkdNOtJPqAIex1ZDlQViCJqjO8/ZqfISppzYQc6C/yksILBkc3QlFHtgwo74okKfmne6d7sFNlSuzKeAIM3XpEJ2d7JGs9875ukUhsafWDqLV8rXX0o/26dOpwvnkheP5HuSVPQQz+51sCg+gwWPsEdFC9OzS9AmwUNizpGcBU4lelCl8RmTJdZgGlM1KxMp2SiyB8+cOc0YbOit3JNwVoJinvTh50QJCdf/ARwOsU1wzuQg2f9zgfdXK26AJg6OpGece7cHdohs8Qzm9ZvrSbweHPtDVNvgs4YNzLWuTqm6MWhXt85+uD6NXPtFUYlcMb5xxPLKcSD4ur7W4VLhjMXz7S28yQjn7c4uh3KLoL7rXBtGDqOA5HuNx6w2qQIr2gzX4EqkZcRynCb2TBkKXgStmOXPxjpT4iZzYbmlCvzmI7/pd2sxsbnGxLeuxF+wLw==;fuQ52H8jObanH7605sPsFA=="
 ---

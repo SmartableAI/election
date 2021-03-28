@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden says it's his 'expectation' to run for reelection in 2024, makes Trump quip"
-excerpt: "President Biden says it's his \"expectation\" that he'll run for reelection in 2024."
-publishedDateTime: 2021-03-25T18:41:07Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip"
-ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
+title: "Trump rips Biden for halting border wall construction, says countries are losing respect for US"
+excerpt: "Former President Donald Trump joined \"Justice with Judge Jeanine\" Saturday, criticizing President Biden for stopping construction of the border wall."
+publishedDateTime: 2021-03-28T01:49:52Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cf-zxkNraS0/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cf-zxkNraS0/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us"
+ampWebUrl: "https://www.foxnews.com/politics/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us.amp"
 type: article
-quality: 200
-heat: 940
-published: true
+quality: 178
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
 
 related:
+  - title: "Biden says it's his 'expectation' to run for reelection in 2024, makes Trump quip"
+    excerpt: "President Biden says it's his \"expectation\" that he'll run for reelection in 2024."
+    publishedDateTime: 2021-03-25T18:41:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump, at CPAC, expected to hammer Biden on immigration, China"
     excerpt: "Former President Donald Trump will hammer President Biden on everything from immigration to China when he addresses the Conservative Political Action Committee (CPAC) on Sunday, sources familiar with the speech told Fox News."
     publishedDateTime: 2021-02-24T18:47:07Z
@@ -245,22 +261,6 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gf-0k3u-YXM/biden-press-conference-trump-2024-torched-message-unity"
     ampWebUrl: "https://www.foxnews.com/politics/biden-press-conference-trump-2024-torched-message-unity.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-trump-2024-torched-message-unity.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump rips Biden for halting border wall construction, says countries are losing respect for US"
-    excerpt: "Former President Donald Trump joined \"Justice with Judge Jeanine\" Saturday, criticizing President Biden for stopping construction of the border wall."
-    publishedDateTime: 2021-03-28T01:49:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cf-zxkNraS0/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us.amp"
     type: article
     provider:
       name: Fox News
@@ -620,6 +620,6 @@ related:
         height: 822
         isCached: true
 
-secured: "r5z2gzIpqXmoNQRxdkkUtsnuEq65liA5t3IuPcgKmj96PqNtHN6nJGkcThTepDqeW3jxAbDBknhDK1LLvCDX8fyQ+wMJp4snA+NeBdd84DVsmqFfY7cCs65asj8cukI/JNBRM5JToTdPdlcJI/4yMfZ7Xr9f/SC7Jd4VvJZ0V2kBiyXWgVyv/o+zSKQ0q4Vufa6lZwRzYwNfUDpBTtPbA/5rR7qfeiW8q+y6daPOK83U2J8GdcmjfcNagqqPP3qplRnIUuG0O5eKOqiH/1PiXFwNv6aMslC2zE23IJCA1qH/jhG1ftIRQJt8Xl3DOCEYCNOnlEskHVBj67yFsLuLUdFe+Cz1wAcKhyrXnx1yzKM=;6mucGLWM2+1qTnrOwgAKaA=="
+secured: "8fHG+vmkcmCNw53V516iUSEQ/bGSzJ4lr1sLWoJlStJgJRunYRy3YuSDvAF3YZPogB0VXCd5LZycnAir4WKry1Eb+42KhJxb+OajRs6nuHKBRomPi5NyDmBUKH7S6LwdML5Lyz6qjX8grwtVQDHV0tkwxdbh53gmuW5Nxo9NonvZus4+tjQGFp7rlckw2U/ICasUCyatXG7so1Ne81RQiRSvfo3TgxjG/E67RzqqdZlGf4ETLvUCNlxH1hiXCw/B3J9daqJkzpdIRm9Ri4o+dkilMqSIxuDJfSBOlONF6QlHQ6UHropi9wFjLTC1rz4ySwo3rPql4O/Ac5MbVfq6L7MIdoI5DBMnkv4ltLe5YNw=;G9n5v+ADPFSKEjDtxxGqLQ=="
 ---
 
