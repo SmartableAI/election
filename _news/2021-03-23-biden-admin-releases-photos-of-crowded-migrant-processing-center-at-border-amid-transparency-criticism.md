@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden staffer blocks Ted Cruz from taking video at migrant facility"
+    excerpt: "Sen. Ted Cruz, R-Texas, showed video of a woman he identified as a Biden administration staffer blocking him from recording at a migrant facility."
+    publishedDateTime: 2021-03-28T15:51:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XpjP9fAPF2E/ted-cruz-biden-dhs-staffer-video-donna-migrants"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-biden-dhs-staffer-video-donna-migrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-dhs-staffer-video-donna-migrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/GettyImages-1231637274.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hunter Biden photographed with president after new reporting on 2018 gun incident"
     excerpt: "Just after Hunter Biden came under renewed scrutiny for a strange 2018 incident involving a gun owned by the president’s son, Hunter and President Biden were photographed together outside of Air Force One. "
     publishedDateTime: 2021-03-26T22:07:06Z

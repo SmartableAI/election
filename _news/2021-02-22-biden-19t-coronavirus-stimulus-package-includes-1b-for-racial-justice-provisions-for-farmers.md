@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to push another coronavirus recovery bill on top of $1.9T package: Psaki"
+    excerpt: "President Biden will have \"more to say\" in April about his coronavirus recovery plan focused on issues like health care and women leaving the workforce."
+    publishedDateTime: 2021-03-28T15:04:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LX0eapMUrTI/biden-coronavirus-recovery-trillion-democrats-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-recovery-trillion-democrats-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-recovery-trillion-democrats-infrastructure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Joe-Jill-Biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "House to vote on Biden-backed coronavirus relief package Friday, Steny Hoyer says"
     excerpt: "The House will vote Friday on whether to approve President Biden’s $1.9 trillion coronavirus relief package, according to House Majority Leader Steny Hoyer, D-Md."
     publishedDateTime: 2021-02-24T02:56:20Z

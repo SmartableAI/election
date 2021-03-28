@@ -2,6 +2,63 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-02-09-trey-gowdy-democrats-chose-the-dumbest-possible-impeachment-article-to-bring-against-trump.md",
+      "title": "Trey Gowdy: Democrats chose the 'dumbest' possible impeachment article to bring against Trump",
+      "excerpt": "House Democrats chose the \"dumbest of all impeachment articles\" to bring against former President Donald Trump last month, Fox News contributor Trey Gowdy told \"America Reports\" Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial",
+      "originalUrl": "https://www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f04fe4c-245c-482f-9a29-aa24e52d20d3/d66ec36a-35ee-4102-aef1-973fe7727cd3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial.amp",
+      "publishedDateTime": "2021-02-08T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-ex-parler-ceo-said-he-didnt-want-the-platform-to-work-with-trump-because-the-president-might-have-bullied-employees-into-doing-what-he-wanted.md",
       "title": "Ex-Parler CEO said he didn't want the platform to work with Trump because the president might have 'bullied' employees into doing what he wanted",
       "excerpt": "The interview aired after BuzzFeed News reported that Parler had offered Trump a 40% stake in exchange for becoming his go-to social-media platform.",
@@ -1313,58 +1370,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-illinois-judge-finds-trump-hotel-in-chicago-liable-for-violating-environmental-laws.md",
-      "title": "Illinois judge finds Trump hotel in Chicago liable for violating environmental laws",
-      "excerpt": "The hotel has been sucking in millions of gallons of Chicago River water for its air-conditioning systems, without renewing a permit to do so.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-hotel-lawsuit/2021/02/05/014484a2-67fd-11eb-8c64-9595888caa15_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-hotel-lawsuit/2021/02/05/014484a2-67fd-11eb-8c64-9595888caa15_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QK5J3DTIAUI6XCDNKJSNJTVUNU.jpg&w=1440",
-          "width": 1440,
-          "height": 1002,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-hotel-lawsuit/2021/02/05/014484a2-67fd-11eb-8c64-9595888caa15_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-hotel-lawsuit/2021/02/05/014484a2-67fd-11eb-8c64-9595888caa15_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-05T20:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

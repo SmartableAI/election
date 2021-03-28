@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
-excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
-publishedDateTime: 2021-03-28T06:36:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php"
+title: "True, VP Kamala Harris did not salute military escorts; here’s why not"
+excerpt: "The video, viewed more than 900,000 times on Twitter, was shared widely by conservative social media accounts in an attempt to paint the vice president as unpatriotic and disrespectful to service members."
+publishedDateTime: 2021-03-28T15:02:00Z
+originalUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html"
+webUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html"
+ampWebUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html?outputType=amp"
+cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html?outputType=amp"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Oregonian
+  domain: oregonlive.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
-    width: 2048
-    height: 1536
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VS6MEJTSBZERXGEPPJKOX23XAM.jpg"
+    width: 4717
+    height: 3043
     isCached: true
 
 related:
@@ -56,22 +58,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/22/NFTU/0944aaf1-23ab-4398-ada4-e64751062ea2-image0_1.jpeg?auto=webp&crop=1491,838,x26,y193&format=pjpg&width=1200"
         width: 1200
         height: 674
-        isCached: true
-  - title: "True, VP Kamala Harris did not salute military escorts; here’s why not"
-    excerpt: "The video, viewed more than 900,000 times on Twitter, was shared widely by conservative social media accounts in an attempt to paint the vice president as unpatriotic and disrespectful to service members."
-    publishedDateTime: 2021-03-28T15:02:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VS6MEJTSBZERXGEPPJKOX23XAM.jpg"
-        width: 4717
-        height: 3043
         isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
     excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
@@ -209,6 +195,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
+    excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
+    publishedDateTime: 2021-03-28T06:36:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
     excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
     publishedDateTime: 2021-03-27T17:18:00Z
@@ -254,6 +254,6 @@ related:
         height: 331
         isCached: true
 
-secured: "a7ccZoRwVa1zClmVChpcOjnCrfgf1ko2r1eTjip7LcqewoOMkPTgu/a0//sSIdgmxvhCHOrijkGofJtKDPyR+PfxWCzK4CIX0Vtrksv2hu2HV2gkEKDbjuSc52EWtwtI8dA1dcqiB0/QEVOk4PAfBwjbPJVgvJLCSZojyw3J2kpgaYLVB7m/toBcjHWQgccFsDLwtD0/Pz9iCbK0Y5GME4iGeq5EoQXyJh77cbLLlXkQPglB2mEhUNzANzYg1zk7lihUIB/oXs3k7JkOeh3sldSNGtDtpxCO8cgc0o/N8CZ8BADY4nCQHdOZ7O4jJXMW2IsI+f8knbLTCZ+5DTJQzzRXkCHzXps8OBGAK8Eig+fm5X0u6TT75drWFmIgTZ5myoEte/4rfoveqG8jr4Vq4ob5OZSX5qG3+BMcE8pUAAt8iVPDQfDBSRIQWERZlaxJxDK6tGSOIbD/yCi40Vp2Sm+NX2Aj5o3voDfYCeLt10/adpY/73ehcfmHgwO38bd4hIznLpX+xJedHfxmzS6iiw==;MSx2/jnADyjogLmLXuFXeg=="
+secured: "Kzh0Y6HFr99Wl8J1HSzJL+9pBw1FeJC1guCJbHxNPUn+b22QJ9bej+BB4+V4WEijSgm6xYEjIR6NmJ0WdRlhNvPrLoDpc3SwqvjtQnRQ/9gKddTTFLkD7NBO1DXs2mDa95AH9gAafP98y4KVZ8f1yzttYA6BI4lisUkNRm2HoEt6s+5QhCOiSA8kXzO6daOUecq2nGfDZmqQ94/7+eEvRJvkjM1p3sHmGzM+aneS6ttt+reJchs2PRavZjdnxAMtdCY1XJJ8+lkMxntdL/fo49vNRLRlD5gIcE5qt3Q3O26+tRTaFlyYfPlT6/EMsbLrQ/yVc8YtcEDmcJDUUZzYC8kr2BBVzXPq5j+FdjwhUVQ=;mb0ldzMh6kd6ad70H4cV3g=="
 ---
 

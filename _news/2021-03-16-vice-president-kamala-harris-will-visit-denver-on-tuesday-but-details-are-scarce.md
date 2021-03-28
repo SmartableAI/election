@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "True, VP Kamala Harris did not salute military escorts; here’s why not"
+    excerpt: "The video, viewed more than 900,000 times on Twitter, was shared widely by conservative social media accounts in an attempt to paint the vice president as unpatriotic and disrespectful to service members."
+    publishedDateTime: 2021-03-28T15:02:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VS6MEJTSBZERXGEPPJKOX23XAM.jpg"
+        width: 4717
+        height: 3043
+        isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
     excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
     publishedDateTime: 2021-03-22T17:08:00Z

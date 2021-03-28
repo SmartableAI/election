@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Pence to headline benefit dinner at Faulkner University"
-excerpt: "MONTGOMERY, Ala. (AP) — Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit ..."
-publishedDateTime: 2021-03-28T13:55:00Z
-originalUrl: "https://www.theintelligencer.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-webUrl: "https://www.theintelligencer.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-ampWebUrl: "https://www.theintelligencer.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur at the Renaissance Hotel and Convention Center on Oct."
+publishedDateTime: 2021-03-28T15:52:00Z
+originalUrl: "https://www.thehour.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+webUrl: "https://www.thehour.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+ampWebUrl: "https://www.thehour.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Edwardsville Intelligencer
-  domain: theintelligencer.com
+  name: The Hour
+  domain: thehour.com
 
 topics:
   - Election
@@ -58,6 +58,6 @@ related:
         height: 1680
         isCached: true
 
-secured: "cGKTCxtz8YZo9zAvs7wvhTvEUIOhI4KAYEAqNWn4AUC2a8lskooPhNUX34XqWcBljnJgGWWpAThr6zxdIPQ7d81dNIIqgnm3sKwARzVc4jHlJgR6LOfSXfK9HbY/x1B2CVjcG+5gfQKspfRy+NlBHs8f/K99Nwjskt6vT4RVx+8CpFY+qfeai7GsYpi/9AEC6VG8QWs5N1XjujPEPWFTbLXdDgh5dSB6MBwb1Ai8fgL/1SdsPEst+maWbVsPrDVlpDdwa73OTjlUtFwi+blTKDob1KO7LKB+lO1uN7zCkPWkldXEb2K6qSNLyQd1Uo8mT90WMMKZ9A3KMIKlgCW9zHwuWCnfs6GsBpJf0zI2yxU=;Gst7nXS1QVYHy139VxtL0A=="
+secured: "ZdS5OA4JFHEnY+B2x5w0QWUDdWOofbCAZaLaKcv0WQDOVqmwZIIk/Csao9dM3Ez4lyB76oh1GqBoVbxWNl9bI30XHli/9aObz4znqpYonteQREv9vP8EBNgiBMXUvkWPAfboEY2DfVM7VYangpUc/HJ8wocmI30583IGOEv4NROgI0bSaStfWhJv09GxL0Be1WTlH9HC8ko9zTnk5i+OKm+fba0U05mZp4/JkLJt3Rmyx+6/M15K/qVDM152FPcFdAXQikJUNRA5Lq25rmlnuzQ4aOck9+GdjmJfIiUnd54P/ClWrJDMKGRFVkW3OVlDQOeEiKp5btvUuJJzCqIl6VKUV1Dd61piXp3Nuk5DVIM=;ykYawVpc8DQd6Lmec0cmhA=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "True, VP Kamala Harris did not salute military escorts; here’s why not"
+    excerpt: "The video, viewed more than 900,000 times on Twitter, was shared widely by conservative social media accounts in an attempt to paint the vice president as unpatriotic and disrespectful to service members."
+    publishedDateTime: 2021-03-28T15:02:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VS6MEJTSBZERXGEPPJKOX23XAM.jpg"
+        width: 4717
+        height: 3043
+        isCached: true
   - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
     excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
     publishedDateTime: 2021-03-15T21:35:00Z

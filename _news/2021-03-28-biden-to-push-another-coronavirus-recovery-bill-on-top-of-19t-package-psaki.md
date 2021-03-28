@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Kennedy: Biden coronavirus stimulus bill is 'chock-full of spending porn'"
-excerpt: "Sen. John Kennedy R-LA., blasted President Joe Biden’s proposed $1.9 trillion COVID relief bill Wednesday, calling it \"chock-full of spending porn\" unrelated to the coronavirus pandemic."
-publishedDateTime: 2021-02-24T18:03:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1iRntcckSE/john-kennedy-biden-stimulus-chock-full-spending-porn-coronavirus-relief-bill"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1iRntcckSE/john-kennedy-biden-stimulus-chock-full-spending-porn-coronavirus-relief-bill"
-ampWebUrl: "https://www.foxnews.com/politics/john-kennedy-biden-stimulus-chock-full-spending-porn-coronavirus-relief-bill.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kennedy-biden-stimulus-chock-full-spending-porn-coronavirus-relief-bill.amp"
+title: "Biden to push another coronavirus recovery bill on top of $1.9T package: Psaki"
+excerpt: "President Biden will have \"more to say\" in April about his coronavirus recovery plan focused on issues like health care and women leaving the workforce."
+publishedDateTime: 2021-03-28T15:04:53Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LX0eapMUrTI/biden-coronavirus-recovery-trillion-democrats-infrastructure"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LX0eapMUrTI/biden-coronavirus-recovery-trillion-democrats-infrastructure"
+ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-recovery-trillion-democrats-infrastructure.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-recovery-trillion-democrats-infrastructure.amp"
 type: article
-quality: 174
+quality: 171
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41e1b327-c827-4b22-85d7-4b6e823b1cd2/1a5c194e-2ef4-4a92-b79b-e3516347f612/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Joe-Jill-Biden.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kennedy: Biden coronavirus stimulus bill is 'chock-full of spending porn'"
+    excerpt: "Sen. John Kennedy R-LA., blasted President Joe Biden’s proposed $1.9 trillion COVID relief bill Wednesday, calling it \"chock-full of spending porn\" unrelated to the coronavirus pandemic."
+    publishedDateTime: 2021-02-24T18:03:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1iRntcckSE/john-kennedy-biden-stimulus-chock-full-spending-porn-coronavirus-relief-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/john-kennedy-biden-stimulus-chock-full-spending-porn-coronavirus-relief-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kennedy-biden-stimulus-chock-full-spending-porn-coronavirus-relief-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41e1b327-c827-4b22-85d7-4b6e823b1cd2/1a5c194e-2ef4-4a92-b79b-e3516347f612/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House poised to approve Biden's $1.9T coronavirus relief bill in Friday vote"
     excerpt: "The House is poised to pass President Biden's coronavirus relief package on a party-line vote Friday and send the $1.9 trillion measure to the Senate as Congress races to provide a fresh round of aid to Americans still reeling from the pandemic."
     publishedDateTime: 2021-02-26T15:33:03Z
@@ -62,22 +78,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5849ecf7-8c15-4fea-95f3-4c24ca446e85/0511ed69-9218-4c93-9e69-1929be5c050c/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden to push another coronavirus recovery bill on top of $1.9T package: Psaki"
-    excerpt: "President Biden will have \"more to say\" in April about his coronavirus recovery plan focused on issues like health care and women leaving the workforce."
-    publishedDateTime: 2021-03-28T15:04:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LX0eapMUrTI/biden-coronavirus-recovery-trillion-democrats-infrastructure"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-recovery-trillion-democrats-infrastructure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-recovery-trillion-democrats-infrastructure.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Joe-Jill-Biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "House to vote on Biden-backed coronavirus relief package Friday, Steny Hoyer says"
     excerpt: "The House will vote Friday on whether to approve President Biden’s $1.9 trillion coronavirus relief package, according to House Majority Leader Steny Hoyer, D-Md."
@@ -176,6 +176,6 @@ related:
         height: 720
         isCached: true
 
-secured: "mmleyzhJ6Vy8ypqNuK1CKuyZhYD6pd7yY/A7w8RPpBtqiEJDaykYCW8pJxL9pia5DQOqNy1rDCTu7keJGhSEWzF0gvtLBuE6InCJxGv61q08RfR1ceg2m58H7JqKZ1MZ0rT3ptl4pGlYaP+z5cueZjWRJIOPOBCvtY9JpEvckyjPbIe3PiASN6SmaZN9n5gQSzFwvx5qPY04xQT1XLYLbJAPCX8/QgnPSnoSXOlHkz10jQ0vAviuPoJ9Q20RFONRcqoaooMpoCWDIqw/Q5MZDXWrx6X5qxVoO7mNnCSp1s9lBDKhaJfoqE++R/54B6AzTVtvNtxCfdiAUMks+tdrUI2KFZnGVw8tno7Pg0NX2cM=;UhIBuX4QAnKi3WJK+N40fw=="
+secured: "T5CIYMUAOcfU0mZZ1POc9pHZhvRscrj63m3PLkhHE22yKsTzrVr+hp+6OvQ0oa1nimZqNc18tUTWe4w0dczvqeW1u6lMEhU2sP6UVBQdwm1BXKvnDnEEdRi5trihZKp7lmdW/CTOe4coFPTk3AdMJrKX6eVVNeCWJEg6aUd861LWtLMOVy92Z9ctrmQzB+v6/dEH0KK+RffhJF7x+t4RTvfcCrdnR/Jh3N5x4JnlBb0J55Iwji2d7Z5ZGNaeHvZ+19QxcjXvl4hy73X5PQH46Q38gtWsPuGF3DqrAG/MJgDv4uPyB4Nuj2NnfRC3EJP8u7Td8Rvb5rM67PitmygIeTP6R7ostmiIaW+GzPDBQhs=;J94zRvfckltA1COgFQP12w=="
 ---
 

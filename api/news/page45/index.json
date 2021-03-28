@@ -2,6 +2,62 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-01-15-bidens-19t-stimulus-plan-is-a-bailout-for-blue-states-bad-lockdown-policies-waltz.md",
+      "title": "Biden's $1.9T stimulus plan is a 'bailout' for blue states' bad lockdown policies: Waltz",
+      "excerpt": "Rep. Michael Waltz, R-Fla., took issue Friday with President-elect Joe Biden's massive $1.9 trillion stimulus package proposal that aims to combat the coronavirus and attempt to pump up a U.S. economy severely battered by the worst pandemic to strike the globe in a century.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ehl6ZP9KA0w/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ehl6ZP9KA0w/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54727a25-d138-4f02-80c6-7a2dee4319e9/92ff4ba6-c8d8-4611-bc12-a63f4c66a2e0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz.amp",
+      "publishedDateTime": "2021-01-15T05:08:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus.md",
       "title": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
       "excerpt": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
@@ -1271,62 +1327,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.md",
-      "title": "Swalwell compares Trump to Usama bin Laden: 'He was responsible'",
-      "excerpt": "Democratic California Rep. Eric Swalwell, who remains on the House Intelligence Committee despite foggy ties to a spy for China and who will serve as an impeachment manager, associated President Trump with Usama bin Laden in an interview Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjxHIq_BY1I/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjxHIq_BY1I/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/swalwell-walking-masked.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.amp",
-      "publishedDateTime": "2021-01-13T15:57:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

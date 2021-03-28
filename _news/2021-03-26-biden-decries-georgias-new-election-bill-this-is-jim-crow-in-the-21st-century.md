@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-bill.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-bill.amp"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Graham: 'Sick' for Biden to 'play the race card' on Georgia election law, filibuster"
+    excerpt: "Sen. Lindsey Graham R-S.C., said Sunday it was \"sick\" that President Biden is playing the \"race card\" regarding the GOP-led Georgia election law and the legislative filibuster."
+    publishedDateTime: 2021-03-28T15:02:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5aqAPY0GLQs/graham-sick-biden-race-card-georgia-election-bill-legislation-for-the-people-act"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-sick-biden-race-card-georgia-election-bill-legislation-for-the-people-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-sick-biden-race-card-georgia-election-bill-legislation-for-the-people-act.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60884bb9-5954-4384-8606-86e798a73628/9d915939-10db-4690-ab41-5672c07a1a93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Georgia Gov. Brian Kemp to join 'Fox News Live' to discuss new voting law, Biden's reaction"
     excerpt: "Georgia Gov. Brian Kemp will appear on Fox New Live at 1:30 p.m. EST to discuss the state's new voting law, which he signed on Thursday."
     publishedDateTime: 2021-03-27T16:48:24Z

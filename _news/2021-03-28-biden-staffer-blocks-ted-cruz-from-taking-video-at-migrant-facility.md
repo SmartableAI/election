@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Texas Gov. Abbott demands Biden admin give access to migrant children for trafficking investigation"
-excerpt: "Texas Gov. Greg Abbott is demanding that the Biden administration allow the state to interview unaccompanied migrant children in federal facilities."
-publishedDateTime: 2021-03-17T19:57:09Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNFOJ5W7nqo/texas-border-migrant-children-greg-abbott-biden-trafficking"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNFOJ5W7nqo/texas-border-migrant-children-greg-abbott-biden-trafficking"
-ampWebUrl: "https://www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+title: "Biden staffer blocks Ted Cruz from taking video at migrant facility"
+excerpt: "Sen. Ted Cruz, R-Texas, showed video of a woman he identified as a Biden administration staffer blocking him from recording at a migrant facility."
+publishedDateTime: 2021-03-28T15:51:44Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XpjP9fAPF2E/ted-cruz-biden-dhs-staffer-video-donna-migrants"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XpjP9fAPF2E/ted-cruz-biden-dhs-staffer-video-donna-migrants"
+ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-biden-dhs-staffer-video-donna-migrants.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-dhs-staffer-video-donna-migrants.amp"
 type: article
-quality: 161
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075718186443.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/GettyImages-1231637274.jpg?ve=1&tl=1"
     width: 640
     height: 320
     isCached: true
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden staffer blocks Ted Cruz from taking video at migrant facility"
-    excerpt: "Sen. Ted Cruz, R-Texas, showed video of a woman he identified as a Biden administration staffer blocking him from recording at a migrant facility."
-    publishedDateTime: 2021-03-28T15:51:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XpjP9fAPF2E/ted-cruz-biden-dhs-staffer-video-donna-migrants"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-biden-dhs-staffer-video-donna-migrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-dhs-staffer-video-donna-migrants.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/GettyImages-1231637274.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Hunter Biden photographed with president after new reporting on 2018 gun incident"
     excerpt: "Just after Hunter Biden came under renewed scrutiny for a strange 2018 incident involving a gun owned by the president’s son, Hunter and President Biden were photographed together outside of Air Force One. "
@@ -94,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Texas Gov. Abbott demands Biden admin give access to migrant children for trafficking investigation"
+    excerpt: "Texas Gov. Greg Abbott is demanding that the Biden administration allow the state to interview unaccompanied migrant children in federal facilities."
+    publishedDateTime: 2021-03-17T19:57:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNFOJ5W7nqo/texas-border-migrant-children-greg-abbott-biden-trafficking"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075718186443.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "White House appears to scrub Biden gaffe from transcript after calling Afghan president wrong name"
     excerpt: "The White House quietly corrected a gaffe President Biden made during his Thursday press conference in which he appeared to mix up the names of Afghanistan President Ashraf Ghani and the controversial former head of Pakistan's military. "
@@ -158,6 +158,6 @@ related:
         height: 320
         isCached: true
 
-secured: "/+C907w2M86kkgbB6MHbUI+TgbsrCPTIGPvrljmI3xnor3l4/8Dc2l6JdSWEp4j/xAWxJmcRigK+b0s8W293Xls/R143nKx+D7b6+SAwd7GCFULAy4lzjXup+/xPXBRv020ZWQO4J59Ugh1DJgIeDRgm0X9mocfj0DBEvl06US8U8kqXb9TfJOz3StmPS/RTqiOxdmtQdvtVJIIjH4ePepit+GEgfM8a0Pfpk8acrriXLgMHUVdnEeXre5PP15Ri1OwB3O/3V3DUFJwjbxOroRfyBcArBfoUkjSM/eeOvCGkORxPm6eS6FM5Wu0jUit4SKswWIzKpf0eFITQCP58u3jq5JcWzeqq6GhFLrGg1bM=;zwQtv0DlkFNp6JWtp+Y62g=="
+secured: "+TWcGtIbf3QradKqOODjk7rGw2phYYU6Um6Dj7BavtY4ypxcjDgfXLRDD5XlUOqwfG3ADF9bNZph21vxUE06XAp2umBRZmsUlza0SD0EMg3oi68ycIZ+IaycwrzdpGLl6/h4rp/sHWda6EnMlNhgg0TIt2HO11bLBzBf0Jgq5WGsEfCWM0u5I3YI4SiGcGSyddGSu/wYvBfsfhYdTE9qAUFaFfHlhp/bUwhtEotW593wnK5Vn5PNJsFCq9FI3QgUlsxZkC8KQNfPvxeI6nFGrzObL2QJPVKQCY5DlCmAcSRH7OSCwOPm8Y4EWI6lvLQneGwlMpt8NlYeSLWCDAi6qkOugknJWfSihOtzGyKqLD0=;v/8wXr6MG+VXZvHtcC23AQ=="
 ---
 

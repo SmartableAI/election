@@ -1,27 +1,27 @@
 ---
 category: news
 title: "‘Saturday Night Live’: Maya Rudolph and Martin Short host Passover Seder as Kamala Harris and Doug Emhoff"
-excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback. It didn’t come until a third of the way through the episode, but when it did, it included bonus ..."
-publishedDateTime: 2021-03-28T12:42:00Z
-originalUrl: "https://www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
-webUrl: "https://www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
-ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback.It didn’t come until a third of the way through the episode,"
+publishedDateTime: 2021-03-28T15:42:00Z
+originalUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
+webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
+ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.dailypress.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
+  - url: "https://www.baltimoresun.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
     width: 1200
     height: 613
     isCached: true
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Z08Ve9g8HLjoH4+WN1wkDwLfn9TjwoRp49DiaTVdeSI+NSBAiKsODjZ17pPHveXicKoHKmRAaEC8cxMO+VG5UJB9Sg6Zgxm1FE7x8WVrdUnU78JL2rWzhm/C5YRzUb12JEZKszgftnxJHpm6F0WpFjwyBdi+Qqe3eBfX3vcBe/UX3B4uBG54NThqyuS8kSL8jvkjwNQ0o2JrZL1kFKMuuyLGpWVxpGzg0Xoy4JE2eMMoSEmylPuRp7i+2L8gQlqDyxho+Et4lrlyDnLNxIKzr8haZoITsJxl5Epu0GlEE2mIJ9cAYEPyRstQwagi4J4sTwpEXvuNUoifgr2kBwieGc8H05AhPydOfyBju//G9o8=;KVrHfV7P/49icqhLz0kXog=="
+secured: "0bE0tpDjDxlj8daqZ1eN33vT9cVNKylMjZ2pj5erd7pCED8CcXzB340uLg7Q25nCkgQG/jMsuK3YThBEa9poBbbu1E0afwNNI+ZOLsD3/XSKBS6ycPug7t8BU5/Z31ebkBpk/vxtgry5iIFPpp6erIGFwJChjJI5tzFQJ9GqxoDYEZLnGaq9sG8fxY2b3j1lfTDKEnpMTGadmNYqfoAQZv1PBr6ila2uqZ/CL/9ecS8qb4ONVERWdyFKCQf8xTQjGfvkrLlkDHWyqv+Jojwc38rbyfTEhd3MP71wtfH+rgvjq3MGrCa+5B35hr/AL2I//r9yCGDr38siP696xX06y5dZYC91eVwDJVz2gbjen/E=;j5A+EshiLWhfqdyYouM0YA=="
 ---
 

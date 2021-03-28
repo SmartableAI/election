@@ -28,22 +28,22 @@ images:
 
 related:
   - title: "‘Saturday Night Live’: Maya Rudolph and Martin Short host Passover Seder as Kamala Harris and Doug Emhoff"
-    excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback. It didn’t come until a third of the way through the episode, but when it did, it included bonus ..."
-    publishedDateTime: 2021-03-28T12:42:00Z
-    webUrl: "https://www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
-    ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+    excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback.It didn’t come until a third of the way through the episode,"
+    publishedDateTime: 2021-03-28T15:42:00Z
+    webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 58
     images:
-      - url: "https://www.dailypress.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
+      - url: "https://www.baltimoresun.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
         width: 1200
         height: 613
         isCached: true
 
-secured: "KTPaXvajoF3BUO3KKoixL80puhBdQiT43MQk15el2KJndWHp95bYtXYc/X/KhC0dDmWLN+BHIt+ZSesKK4VwA6OG39hG/n5uRiM1S5xIPtvQo6C+VL03ctK/uFGRgkdTfofrxrVLNEF4w1h6mYHNgd/ZnCr0CrUUzRjewG+RdR1cTpY2DWDkp9NlSCDZkAH7v/nPCe7trFJXn+8lliV9ha/0crgcSP+vupZ6ELy8pxlLcZsG4CdHR3pUL/e3WUwSZQQGogfom0uwEnc3JSNJygvhNJ6G4OfDchyZ1mhHaHAuBNzA4y0WwveZs3QQGUNnrL2I5nyZlIxp0x6rh5hh2nCvhbpeUxHHmUOqdKnGutw=;2/hd/zrdGATE0Zw57izVWw=="
+secured: "w46AG3afIgZ0FdESLyebmyd9/oFGUGcrRm88ek47JBcEi/fo8tITromD79vPfBwlPFz1L/1aAySt7TeR2kN8r4uQ35qOE2Qp8y7f6mZ+jYC7+9GAjn7FypwUitPxbJGw/IP/CIXCVopYyzkExWCtVIQ4B3TYSseXKBdmKTvYvzb776tXXp5xf4febVwcVJ71EVtz2OsTLBWtL8F3x3Ui7uH1XM+5zrUuelO23H4ZRwVOjhJjqoIXOpO3cblLo1cUBvyD86GAWmO3AswIVN87smI3g0Y8iKHYgrSW5c3aI1gP+YpjT2IwsD5qxWxDmXG3PwnHNYaS3SK+t2XjU0q0dqA+RNmfKlhMS6/C2Yv7Dc43gLlEHDxLDgPv9Dd472BJbd0LJ+feXxi9TTPlZQ6afVXQDypmRr/6on7R7Cj8mvMWYNulqA2vkfQ8rEbQYao1wcFRxDvMsahdU/OZaWVdL+EKBJX2hp2Bu+outvRCB4kDEaY00a5M8Zv/jyssq9suIITSyfBuqzguSn4/LqB12A==;Xeuc2zST6cFxIlo/lsP+Rw=="
 ---
 

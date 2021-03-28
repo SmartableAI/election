@@ -28,15 +28,15 @@ images:
 
 related:
   - title: "Pence to headline benefit dinner at Faulkner University"
-    excerpt: "MONTGOMERY, Ala. (AP) — Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit ..."
-    publishedDateTime: 2021-03-28T13:55:00Z
-    webUrl: "https://www.theintelligencer.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-    ampWebUrl: "https://www.theintelligencer.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-    cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur at the Renaissance Hotel and Convention Center on Oct."
+    publishedDateTime: 2021-03-28T15:52:00Z
+    webUrl: "https://www.thehour.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    ampWebUrl: "https://www.thehour.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
     type: article
     provider:
-      name: Edwardsville Intelligencer
-      domain: theintelligencer.com
+      name: The Hour
+      domain: thehour.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
