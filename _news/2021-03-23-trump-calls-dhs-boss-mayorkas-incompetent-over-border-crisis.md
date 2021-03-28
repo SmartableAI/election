@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump says he will probably visit the southern border soon, in exclusive interview with Fox News"
+    excerpt: "Former President Trump sat down with Judge Jeanine Pirro for an interview that will air on Fox News’ ‘Justice with Judge Jeanine’ Saturday at 9 p.m. "
+    publishedDateTime: 2021-03-27T22:17:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tLApD1eHMe0/trump-says-he-will-probably-visit-the-southern-border-soon"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-probably-visit-the-southern-border-soon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-probably-visit-the-southern-border-soon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf4493d1-1a45-4769-b863-ab8454e4ecea/18eb45f1-fc73-4874-a768-70811da16fb0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fYfy090IEbgdFxpFMLLG68rY+CJ/bMgcEW7RKzM0smUjkf3BC2RFOY1rc0lqslxVJf+myp9/+UzUSZbKObaUB70srIIzd9t+SIZYWOXlhnPMvRXvDsesw5ZPGupbT3RGMNgOJZvwVSpd0b/AqdEZj2eo8evaPb0Fd/KjhCA7K5PnsRvGtGUa8cKuXHgzWsMfXdItwkXTCSpDDFqMg5DvXhIQNVwFiu2wntCgrKz2UDsIPu8JFcprnCs0eYXAfjKmtz3+3slKwGFNtByfL976J4+d/8/wxK4XmwvsQmEDRfitpW8fDRvxqQqwqy6AI3KNiLPLLUcVUx6kaU/FD4M5FQTVVb19jMIEDlhhHYhhAN2M+Uj3vX6UXF3pswW9n+hwxlyeNX2Hp8xHZpiQtdJDmikoz2Z0Uft//UkZvZuiVv1M7gUhimQEvfuJPm9qvHgys2CmsGxNnWckMFzEYkbdWfyHfkWh6Hxeskk+4tQ3gQ3ssmE4n7c4qb1wuKgdV9PunfffYYiUs9Yv+jtDPVVQHg==;SNhV7mCHr0hIICSv2X7GDQ=="
 ---

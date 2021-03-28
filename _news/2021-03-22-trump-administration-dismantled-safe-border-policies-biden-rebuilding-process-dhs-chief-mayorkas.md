@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump DHS officials slam Biden ‘purge’ of Homeland Security Advisory Council"
+    excerpt: "Former Trump officials who served in the Department of Homeland Security are criticizing a move by the Biden administration to fire almost every member of the Homeland Security Advisory Council -- with one describing it as a \"purge\" designed to rinse the Council of opposing voices."
+    publishedDateTime: 2021-03-27T22:08:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBommbVsgJs/trump-dhs-officials-biden-purge-homeland-security-advisory-council"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-biden-purge-homeland-security-advisory-council.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-biden-purge-homeland-security-advisory-council.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43a577c3-e4f2-407b-8af6-927ba0215463/e4a52120-962a-4d8a-805d-6cf4e778e780/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden offers veiled criticism of Trump in visit to CDC, says 'science is back'"
     excerpt: "President Biden visited the Centers for Disease Control and Prevention in Georgia on Friday, touting health officials for having “changed things” in a way to “make everyone healthier\" amid the coronavirus pandemic. "
     publishedDateTime: 2021-03-19T19:49:54Z

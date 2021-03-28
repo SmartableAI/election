@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-may-visit-us-mexico-border-re
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-may-visit-us-mexico-border-region-soon-former-aide-says.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says he will probably visit the southern border soon, in exclusive interview with Fox News"
+    excerpt: "Former President Trump sat down with Judge Jeanine Pirro for an interview that will air on Fox News’ ‘Justice with Judge Jeanine’ Saturday at 9 p.m. "
+    publishedDateTime: 2021-03-27T22:17:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tLApD1eHMe0/trump-says-he-will-probably-visit-the-southern-border-soon"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-probably-visit-the-southern-border-soon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-probably-visit-the-southern-border-soon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf4493d1-1a45-4769-b863-ab8454e4ecea/18eb45f1-fc73-4874-a768-70811da16fb0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump calls DHS boss Mayorkas ‘incompetent’ over border crisis"
     excerpt: "Former President Donald Trump on Monday said that Homeland Security Secretary Alejandro Mayorkas is “incompetent” in his management of the US-Mexico border crisis, warning the Biden ..."
     publishedDateTime: 2021-03-23T01:48:00Z

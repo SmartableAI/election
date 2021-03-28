@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Tech CEOs to Face Questions on Online Disinformation, Trump Ban"
-excerpt: "The chief executives or Alphabet, Facebook and Twitter are set to appear before a House panel on Thursday."
-publishedDateTime: 2021-03-25T09:30:00Z
-originalUrl: "https://www.wsj.com/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
-webUrl: "https://www.wsj.com/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
-ampWebUrl: "https://www.wsj.com/amp/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
+title: "Trump DHS officials slam Biden ‘purge’ of Homeland Security Advisory Council"
+excerpt: "Former Trump officials who served in the Department of Homeland Security are criticizing a move by the Biden administration to fire almost every member of the Homeland Security Advisory Council -- with one describing it as a \"purge\" designed to rinse the Council of opposing voices."
+publishedDateTime: 2021-03-27T22:08:49Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBommbVsgJs/trump-dhs-officials-biden-purge-homeland-security-advisory-council"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBommbVsgJs/trump-dhs-officials-biden-purge-homeland-security-advisory-council"
+ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-biden-purge-homeland-security-advisory-council.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-biden-purge-homeland-security-advisory-council.amp"
 type: article
-quality: 135
+quality: 187
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
+  name: Fox News
+  domain: foxnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-315864/social"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43a577c3-e4f2-407b-8af6-927ba0215463/e4a52120-962a-4d8a-805d-6cf4e778e780/1280x720/match/image.jpg"
     width: 1280
-    height: 640
+    height: 720
     isCached: true
 
 related:
@@ -109,22 +108,6 @@ related:
     quality: 190
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20334644546013-e1606925054815.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump DHS officials slam Biden ‘purge’ of Homeland Security Advisory Council"
-    excerpt: "Former Trump officials who served in the Department of Homeland Security are criticizing a move by the Biden administration to fire almost every member of the Homeland Security Advisory Council -- with one describing it as a \"purge\" designed to rinse the Council of opposing voices."
-    publishedDateTime: 2021-03-27T22:08:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBommbVsgJs/trump-dhs-officials-biden-purge-homeland-security-advisory-council"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-biden-purge-homeland-security-advisory-council.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-biden-purge-homeland-security-advisory-council.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43a577c3-e4f2-407b-8af6-927ba0215463/e4a52120-962a-4d8a-805d-6cf4e778e780/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -480,6 +463,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tech CEOs to Face Questions on Online Disinformation, Trump Ban"
+    excerpt: "The chief executives or Alphabet, Facebook and Twitter are set to appear before a House panel on Thursday."
+    publishedDateTime: 2021-03-25T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-315864/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Migrant says he came to US border because Biden was elected, would not have tried to cross under Trump"
     excerpt: "A South American migrant who recently crossed the U.S.-Mexico border said he did so \"basically\" because Joe Biden was elected president and would not have tried to cross under former President Donald Trump."
     publishedDateTime: 2021-03-21T17:34:00Z
@@ -589,6 +588,6 @@ related:
         height: 822
         isCached: true
 
-secured: "oMNAiJlNwFwvnEkiEn74PtZPzNTwAoC7/gvDhmTjUKi/Y1WflRBHkD6HqKQtw6bzH7IyC3sa8/Wy2ndJHjsHyGQAtrSWLrTNgfPFdllRNLqe8bhhHtWNaOXDgm397/GF8vTiCXobrLCPwWrCDhX7pvdhuQFkJHux2AlHdCs+Oci5QRjJ433zj9c/jMhU9fsDR/e5m9nSN2ZdrINFSGpJpVF5vAnbXuPe2D9WZIH4s7xdYZ8keW0zE7s4gDq1xdbww66aOA2vRrRMyvBK1fHDSiBTAyOTCisMWkrlk4Ct+IdT9AND+dYo+wNapxu/B9wA78Pm4r/0RcPa2Ic6FpEX5H4/LvWbbaqwWoD2RUghXGWYeFxEXs4XNFfHp0wBsbA1iA/c58+HZAip0MxyAA1W6In+YjN73eRFl160inS25qcJ7vNNzmT38HUY7YnybgFPlTnwaj6znYWG+qrWoq8OoUDUJ2lZI3+STHOiZoF8BEjk5OVvPjFjU8f8XleJpl+hx1cegOrp+MJSqjoMchCCSg==;IOK2QZlP7EhsPWHePJQfnQ=="
+secured: "yIYPa0j0c44QEp3wU2YQypEUuAD+SbooUY6hLHuS1AEA6hBuZ6icQHdFjBsCtRw4NizRt7lZHmMkJxtBIfiqq5Rkhakov6CtZySXj7WYjy5C4f19NuY0MIifq68ZEP3+RN+qLPpNmVACp/TEk0OAeYoCiDYZV1qlz1loau+t2608/zrWSQ/mWEAt4deFVi6hvf4S5Poakmok1vTdg64D7XOdxo9qwG78gWbpTd69Il7tfE7awrpV98JEXTETQoBaNn1zxJkkfFGqC7GFzroOYpZ6qOcSdFW+mYuyKgW4sltvMZVnEzRt/DbS7Qh3ijTUWz7mY7MnSQ/Zqf5RecHh1slrPfwEqYbNhWPYcEZM1HQ=;3e2HcUn3YszJrQ92EI6DgQ=="
 ---
 
