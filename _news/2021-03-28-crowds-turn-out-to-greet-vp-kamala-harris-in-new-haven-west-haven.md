@@ -2,9 +2,9 @@
 category: news
 title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
 excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
-publishedDateTime: 2021-03-27T14:03:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php?src=sthpdesecp"
-webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php?src=sthpdesecp"
+publishedDateTime: 2021-03-28T06:36:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php"
 type: article
 quality: 55
 heat: -1
@@ -165,6 +165,20 @@ related:
         width: 650
         height: 432
         isCached: true
+  - title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
+    excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
+    publishedDateTime: 2021-03-27T14:03:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "What's for lunch, Vice President Kamala Harris? Sally's Apizza"
     excerpt: "NEW HAVEN — What does Vice President Kamala Harris eat for lunch when she comes to New Haven? Sally’s Apizza — or at least that’s what she and/or her entourage ate Friday. Not Pepe’s. Not Modern. Not Zuppardi’s, Ernie’s, Roseland, Abate or Bar."
     publishedDateTime: 2021-03-26T20:18:00Z
@@ -178,20 +192,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/24/30/20792890/5/rawImage.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
-    excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
-    publishedDateTime: 2021-03-28T06:36:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
-        width: 2048
-        height: 1536
         isCached: true
   - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
     excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
@@ -238,6 +238,6 @@ related:
         height: 331
         isCached: true
 
-secured: "SeaFfZkgpfsNOw1dn55cdDE4R9DoS9TGekSpEsXn5+16c5fw+FPU42PyiewpdCTtH/mwWx+ZrgocNBqADqo+t4vSzmZUncOoY4tBegqvczsi8m+aEL3PTA9uBcW4x47OlUChLxEHyKSMXd2U2A3DziBikAhyiTeNPbqfssKw3+Ae0CVUFbtY0fQR0H9NnqcptXZHhIwJZdOjQBanRsb3XuThU4PGKwsQD5LX6N5ulKh0DHNh12TcbeTjjXSYG50Sq9KrNqOqvaUyLGAIdK1qIxw7bxclOA6LjBUt0ttC9KULtWsUmWcRAOpNXInjZDubHknGKSWfBd823c2lUkCcxW8FtrQI/S2cNh79eILxz6Qs34qQ6rIFBdlQkSlEclG5lbhyurkO5t4Hd+x7s/hP4pegsECiibwetoB/lkwzgpMTwMAgCFoWazEknycQwbU37WQ5ltB0MbT+hfL+7XLVCGJQEBLHQjNizZHGABebhHfWc81Bx/5wZDuDLTCctAFNZ0CnJl2Z3L8rysaHRo0Eyg==;ovTaxUiWwa6iBkQOHr/fpQ=="
+secured: "lDWRMASwjl5QMfCVao/1A6wzYaX9nA0W8nS7Cq9q4jxT42YyzSqOh7BlMRLyFjmBT9YXexW4GAu3A4ojHHiFweHZADjNJeztqVUQdZcebg2InCD90JjezV18Z4qlki4ESm3hSHubsLPWtD36DJm30whHM+KeZLtpWPGMgIaT8ap/G1pxi3mqg4cIb74FgoOfdsbD07GubjI/RMggy0334XoVCo2u7SZUm+LJrdpHIe9gG6jz8UVDYMyhcd0jaHZQ77PqPWCPJClSurDh/5ZcojdoK+Md2nWnAAFULsppVZ9th/U6IZ0rQsjWLO/ogjFJ2MbAcsKIc2Qan1maTaPvwcQOwr5b5bVtCXQXVYS28as=;gu7rT63uR9no28Tv6GrU2g=="
 ---
 

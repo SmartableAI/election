@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2950
+heat: 2970
 published: true
 
 provider:
@@ -1183,6 +1183,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/9911615562440/2021/1/7cccacabea8cc1917514f338c4d47b86/v1.5/Watch-live-Biden-Harris-speak-about-victory-of-19T-COVID-19-rescue-plan.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Kamala Harris grows into role as salesperson for Biden, at home and abroad"
+    excerpt: "In the more than two months she’s been vice president, Kamala Harris has spent most of her time at President Biden’s side. Now, she’s beginning to command her own stage. Harris’ role in the administration is emerging as one of salesperson and spokesperson,"
+    publishedDateTime: 2021-03-28T11:15:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 88
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/25/12/20796050/3/375x250.jpg"
+        width: 375
+        height: 239
         isCached: true
   - title: "Biden Taps Kamala Harris to Lead White House Border Crisis Mitigation Effort"
     excerpt: "(Adrees Latif/Reuters) President Joe Biden on Wednesday appointed Vice President Kamala Harris to lead the White House’s efforts to combat the worsening crisis at the U.S.-Mexico border where governmental resources have been stretched thin by a surge of ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4792761001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4792761001"
 type: article
 quality: 110
-heat: 370
+heat: 390
 published: true
 
 provider:
@@ -182,6 +182,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/24/30/20792890/5/rawImage.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
+    excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
+    publishedDateTime: 2021-03-28T06:36:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
     excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"

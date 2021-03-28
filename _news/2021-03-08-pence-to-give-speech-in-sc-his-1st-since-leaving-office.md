@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Pence to give speech in SC, his 1st since leaving office"
-excerpt: "COLUMBIA, S.C. (AP) — In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a conservative Christian nonprofit in the state that plays a crucial role in the ..."
-publishedDateTime: 2021-03-08T10:00:00Z
-originalUrl: "https://apnews.com/bda56f16bc2655da95c75cf3ae71da37"
-webUrl: "https://apnews.com/bda56f16bc2655da95c75cf3ae71da37"
+excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a conservative Christian nonprofit in the state that plays a crucial role in the presidential nominating process."
+publishedDateTime: 2021-03-08T10:16:00Z
+originalUrl: "https://www.mymotherlode.com/news/national/1584281/pence-to-give-speech-in-sc-his-1st-since-leaving-office.html"
+webUrl: "https://www.mymotherlode.com/news/national/1584281/pence-to-give-speech-in-sc-his-1st-since-leaving-office.html"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: My MotherLode
+  domain: mymotherlode.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/fb0471f6a80f4b2fad1e5fe5012788d9/1698.jpeg"
-    width: 1698
-    height: 1132
+  - url: "https://www.mymotherlode.com/wp-content/uploads/2021/03/files_50f65f27cf.jpeg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -131,6 +131,6 @@ related:
       domain: charlotteobserver.com
     quality: 52
 
-secured: "Q6R8O9Z5tVdeMF34Obb2NzOiREv0Inr/5IK2wPD6FEyZqEh/VQXBSjn0zKtyYIm9OfAE9v6scafB8Iw9wAWyxD5uKs725BEmwOZAnx0UgxUX6KItwIAQIE1YIxwpXvdmT9R+2v+ZjnVKECfCXu7iuQPS4owNfUM2n/5441ro5wKIRNj0DqGpmFoXWM7SlK72cDVrLZDPTZ1DmC0KMF7hCMXR5BiJ0CMD9yYfd3Rvs/RV0Zo/2NavGRZvjqjMJuFJqB2obfur9n8lILjAu/bzXGwWBpF3rhsQCh6CL9+EM1HCjD2tMNm4Q20QNMr7hbNcBiZomkWF5To0eluwV63pa0/lkxw9cGR1OTFMoHRK97k=;O7eKXbBTbJ5oVTxJxQxkxg=="
+secured: "wf7aSPjfSqfcDMLCv9HuV7R6HTh+TR8tZWCTTvPg7gRq561NnCSTUfE93yIiJOR5jLC1B4X92iCNkROzDm14EvQK4rtETzOCGStns7lDRRBcWIkz4EH/bHQtwHiUMa3MWAWCN5N7K1wmfuZ40B8+14ZLmm+YtP5XeJRh2AVVQ9jX0Hf51yxnMSBENTM8nxVJ2PEOyyO8jUN8VRWLW9y0JZV/hjyAxHMf9IyxPFVxJzYzuNRYFypv7RTJ8e4oQ7YtmmRgjZDagvJXzy1JJ5Qi5r4qukdzLgmYJbzdguJSm3D1SkjMfrHAi+xHkDCXgiQ/5g4gMdT/RaK0UQ4mctOJCJt5EzJ7jU8AfV8aadWwq7Y=;r4y5uGv19eXvbkjBEWPpHA=="
 ---
 

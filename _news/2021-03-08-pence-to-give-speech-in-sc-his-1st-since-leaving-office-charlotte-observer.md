@@ -69,20 +69,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Pence to give speech in SC, his 1st since leaving office"
-    excerpt: "COLUMBIA, S.C. (AP) — In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a conservative Christian nonprofit in the state that plays a crucial role in the ..."
-    publishedDateTime: 2021-03-08T10:00:00Z
-    webUrl: "https://apnews.com/bda56f16bc2655da95c75cf3ae71da37"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/fb0471f6a80f4b2fad1e5fe5012788d9/1698.jpeg"
-        width: 1698
-        height: 1132
-        isCached: true
   - title: "Pence all-in on 'election integrity' push"
     excerpt: "Former Vice President Mike Pence on Wednesday said he shares the concerns of voters over the “significant voting irregularities and numerous instances of officials setting aside state election law” in the 2020 presidential election."
     publishedDateTime: 2021-03-03T17:08:00Z
@@ -128,6 +114,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/26/82632442-801e-11eb-995c-4bd2288c5389/6036de53078c7.image.jpg?resize=400%2C308"
         width: 400
         height: 308
+        isCached: true
+  - title: "Pence to give speech in SC, his 1st since leaving office"
+    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a conservative Christian nonprofit in the state that plays a crucial role in the presidential nominating process."
+    publishedDateTime: 2021-03-08T10:16:00Z
+    webUrl: "https://www.mymotherlode.com/news/national/1584281/pence-to-give-speech-in-sc-his-1st-since-leaving-office.html"
+    type: article
+    provider:
+      name: My MotherLode
+      domain: mymotherlode.com
+    quality: 55
+    images:
+      - url: "https://www.mymotherlode.com/wp-content/uploads/2021/03/files_50f65f27cf.jpeg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "1OBlfI8452TOS/XCDQ+7/lyX0BgSvgtnncuY12iGaVhCU4DsCg1RED+YKWbVccBtYelke12svto32pG/JbFg30JIPtCD0T4OAn2M0SiN9FdqOCU810NL6CEh+aNSIeqjA4NfxP8aTrEUiwb1++4ZsDCsMdoStlM6Xdsq7ZD8E1snDvyJsEmKRJPl3c56J270E45zTfPUxYuayO8ysJkxNKuLr7NDSDp7siyQqtOrmycFHDuOQ2wYpo7YA2AV8Go9DU287GZTnFlDkTcD46dxJ6C9gDHdcbR3ecWbqgsRSatYEWU05fIgNdFhLkqy7/CIuUyIR77Yp9yoBlYdnBA5MQbxaXVyHsrOqnwQJbc1KmTtGgx8oQjOF0ho9Taa+8pvHjhUdFGA/IJ08tRYN42Lq6h8daf9NPL3EQDSjfVa09p325Emw5gzV8NvehFuY4iUsGsJGLzz34O20e0/qMHBBFspgtOyoM0PNj5Xo5RuF5zxIrRjGdjtp2yoh6OJsVZCglyCEiDX2nHGu0GiyEPhoQ==;BSDQfCtltwa52hsQla9yqA=="

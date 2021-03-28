@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Watch: President Joe Biden, Vice President Kamala Harris deliver remarks on the American Rescue Plan"
-excerpt: "WASHINGTON, D.C. — President Joe Biden and Vice President Kamala Harris delivered remarks on the American Rescue Plan on Friday, March 12. Watch a stream of the event below and read the latest health news at NewsMD. As a public service, we’ve opened ..."
-publishedDateTime: 2021-03-12T19:00:00Z
-originalUrl: "https://www.postbulletin.com/newsmd/coronavirus/6931767-Watch-President-Joe-Biden-Vice-President-Kamala-Harris-deliver-remarks-on-the-American-Rescue-Plan"
-webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6931767-Watch-President-Joe-Biden-Vice-President-Kamala-Harris-deliver-remarks-on-the-American-Rescue-Plan"
+title: "Kamala Harris grows into role as salesperson for Biden, at home and abroad"
+excerpt: "In the more than two months she’s been vice president, Kamala Harris has spent most of her time at President Biden’s side. Now, she’s beginning to command her own stage. Harris’ role in the administration is emerging as one of salesperson and spokesperson,"
+publishedDateTime: 2021-03-28T11:15:00Z
+originalUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
+webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
+ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
 type: article
-quality: 55
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: Post-Bulletin
-  domain: postbulletin.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.fccnn.com/incoming/6895102-jcbkbo-2021-02-19T094550Z_1380696744_RC2LVL9RVPBA_RTRMADP_3_G7-MEETING-BIDEN.JPG/alternates/BASE_LANDSCAPE/2021-02-19T094550Z_1380696744_RC2LVL9RVPBA_RTRMADP_3_G7-MEETING-BIDEN.JPG"
-    width: 1140
-    height: 712
+  - url: "https://s.hdnux.com/photos/01/17/25/12/20796050/3/375x250.jpg"
+    width: 375
+    height: 239
     isCached: true
 
 related:
@@ -1193,22 +1195,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Kamala Harris grows into role as salesperson for Biden, at home and abroad"
-    excerpt: "In the more than two months she’s been vice president, Kamala Harris has spent most of her time at President Biden’s side. Now, she’s beginning to command her own stage. Harris’ role in the administration is emerging as one of salesperson and spokesperson,"
-    publishedDateTime: 2021-03-28T11:15:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 88
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/25/12/20796050/3/375x250.jpg"
-        width: 375
-        height: 239
-        isCached: true
   - title: "Biden Taps Kamala Harris to Lead White House Border Crisis Mitigation Effort"
     excerpt: "(Adrees Latif/Reuters) President Joe Biden on Wednesday appointed Vice President Kamala Harris to lead the White House’s efforts to combat the worsening crisis at the U.S.-Mexico border where governmental resources have been stretched thin by a surge of ..."
     publishedDateTime: 2021-03-24T18:43:00Z
@@ -1993,6 +1979,20 @@ related:
         width: 1600
         height: 1600
         isCached: true
+  - title: "Watch: President Joe Biden, Vice President Kamala Harris deliver remarks on the American Rescue Plan"
+    excerpt: "WASHINGTON, D.C. — President Joe Biden and Vice President Kamala Harris delivered remarks on the American Rescue Plan on Friday, March 12. Watch a stream of the event below and read the latest health news at NewsMD. As a public service, we’ve opened ..."
+    publishedDateTime: 2021-03-12T19:00:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6931767-Watch-President-Joe-Biden-Vice-President-Kamala-Harris-deliver-remarks-on-the-American-Rescue-Plan"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 55
+    images:
+      - url: "https://www.fccnn.com/incoming/6895102-jcbkbo-2021-02-19T094550Z_1380696744_RC2LVL9RVPBA_RTRMADP_3_G7-MEETING-BIDEN.JPG/alternates/BASE_LANDSCAPE/2021-02-19T094550Z_1380696744_RC2LVL9RVPBA_RTRMADP_3_G7-MEETING-BIDEN.JPG"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "Vice President Kamala Harris to visit New Haven today"
     excerpt: "The vice president’s plane will arrive at Tweed New Haven Airport in the early afternoon and she is scheduled to visit the Boys & Girls Club of New Haven, along with Secretary of Education Miguel Cardona,"
     publishedDateTime: 2021-03-26T15:02:00Z
@@ -2138,6 +2138,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "Ds615WwVPUzjuXbIBhjqzfxs11hc2pjk9EncdASTY2SdalW8L5Jj0BlB+SxqhKuTiIBZLl416aV1BRN89tYEvRlWvp94VCvicKpApHs4eNe1qq/k/NvCZd9UCuH2ngARW95/WgGAgnxszAtieLdV0Hhfp5rDPCD3aMq9LkORx6s180Ip90WZuESn7AczSIRS909jrH5NmVK6af/zuNjuHGHFpnEMQAAj/eDWqxOzcuCl4ycRcMUxGhSxVQu7pIxv1cvy066x5vM2xEhhLdFsv9FDaCbik3Z91NJ7qfshW4P7xW6sR4snMb30nYsd6YJmdxWaiVyctEvalBVTqU7FEubllL/m30dotlw0MBhTEYQ3tSPZAdYyaXoVegc1D1JJnQftQvWRweaOH08aAOxk8drTALKBO8GU+BnoWmdjounn0uPzcO/sNDdq7YLQrjgt66zvB0bE+1G/5yvhU+xRg72oXSqwjayza+Q7BOT/fh8evi5l/uG1VDSRHnaoWxw4mPYQSyI+PUkce0N8GB6weQ==;L+asYpETBaZVccDyIxPyKA=="
+secured: "4+LyNEP2Xw34EOlZjGXSMikU6EXkxQUqG2Dl9OVZ6piW6LpJJZcDdgbgotTgbJY32hW+mJNSREGZ8jCErn6ucpfsMBUg1/FidqgZ1n1Z8KIO019pLjzrb82Iqqburoa3F59jdLR9Z2ZL9rHb0TPnKkrYd3DmBbi5Ssyyj4yb2orKfBa4pqnB+mQges7PLUtVUrsgy43S12r2FUYWKuvCDKxEJfuZooGIDYfG5n0h81LLuuABYPXmGNRd5lgFmihEarWiwGnwkLTuFg+2XIQ0EP2KJfo1GopUUWxTtXT/foRNCLLQywTN+f9r+BT16gfjaWP5Ea9hPkk7i/BR8qkmnb4H16hjH6EbGuqECfcUC9Q=;h81hWEeYxlzz/p5bXtTq+Q=="
 ---
 

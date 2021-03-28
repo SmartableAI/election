@@ -1195,6 +1195,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Kamala Harris grows into role as salesperson for Biden, at home and abroad"
+    excerpt: "In the more than two months she’s been vice president, Kamala Harris has spent most of her time at President Biden’s side. Now, she’s beginning to command her own stage. Harris’ role in the administration is emerging as one of salesperson and spokesperson,"
+    publishedDateTime: 2021-03-28T11:15:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-grows-into-role-as-salesperson-for-16058223.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 88
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/25/12/20796050/3/375x250.jpg"
+        width: 375
+        height: 239
+        isCached: true
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
     publishedDateTime: 2021-01-29T16:52:00Z

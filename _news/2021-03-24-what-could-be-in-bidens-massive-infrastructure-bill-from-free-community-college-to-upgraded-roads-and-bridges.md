@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/heres-what-could-be-in-bidens-massiv
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Path from Clinton to Biden takes U-turn on debt, trade, more"
+    excerpt: "When Bill Clinton spoke of how to build a bridge to the 21st century, it was to be constructed with balanced budgets, welfare recipients who found jobs and expanded global trade. Three decades later,"
+    publishedDateTime: 2021-03-28T11:57:00Z
+    webUrl: "https://www.michigansthumb.com/news/article/Path-from-Clinton-to-Biden-takes-U-turn-on-debt-16058878.php"
+    ampWebUrl: "https://www.michigansthumb.com/news/amp/Path-from-Clinton-to-Biden-takes-U-turn-on-debt-16058878.php"
+    cdnAmpWebUrl: "https://www-michigansthumb-com.cdn.ampproject.org/c/s/www.michigansthumb.com/news/amp/Path-from-Clinton-to-Biden-takes-U-turn-on-debt-16058878.php"
+    type: article
+    provider:
+      name: Huron Daily Tribune
+      domain: michigansthumb.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "Esdhbyxang/fuBT6K9KiY1HXNjZbCbYwSwic18m6liIMnvdGXKu1EsrLXmvKi+5AA4NLvIgRuXB6QHvSWWY++HjHwpbTLKWAenbu00d8VBhsi3N5xDlg17/xnpP4gzSeH3xfO1RoDxGl7dJtyQmK3hXNhBhoGAqF5EaLneS3jCkLzHq+UqnN4wMhoQ3G91YVqiX/Jkb09LFpjnRcg2wPpV/NJBWWspuhjfeAbSLoFM5JxWAiGz1+DcYFpkJzarwCO2qnEVo7NSJP/rbyA0NMlZQLJ/YeaCtk4H85oTBwo0uQJqmxaevG/qz5iYyqiiLizUxapR9Ix77eTvW51ywsI8/SJal805251AkIytU3deI=;f0vC2+dDuyGdCXf/JlgBNQ=="
 ---
