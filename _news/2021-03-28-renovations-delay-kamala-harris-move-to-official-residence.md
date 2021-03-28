@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Vice President Kamala Harris delivers cookies to essential workers"
-excerpt: "U.S. Vice President Kamala Harris and her husband delivered two baskets of cookies to essential healthcare workers at the VA Medical Center in Washington on Saturday. (Feb. 13)"
-publishedDateTime: 2021-02-13T20:43:00Z
-originalUrl: "https://www.desmoinesregister.com/videos/news/nation/2021/02/13/vp-harris-delivers-cookies-essential-workers/4475533001/"
-webUrl: "https://www.desmoinesregister.com/videos/news/nation/2021/02/13/vp-harris-delivers-cookies-essential-workers/4475533001/"
+title: "Renovations delay Kamala Harris' move to official residence"
+excerpt: "More than two months after Vice President Kamala Harris was sworn in, she and her husband have not yet moved into their official residence because of ongoing renovations. CNN's Kate"
+publishedDateTime: 2021-03-28T01:27:00Z
+originalUrl: "https://www.djournal.com/news/national/renovations-delay-kamala-harris-move-to-official-residence/video_d61f75bd-a805-586d-a210-8ad8da5c1d3f.html"
+webUrl: "https://www.djournal.com/news/national/renovations-delay-kamala-harris-move-to-official-residence/video_d61f75bd-a805-586d-a210-8ad8da5c1d3f.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/2eadfb94-3b07-45ae-8292-7ff16c6cb720-ae7b0c28-1b30-4fcd-a11d-3e683655cc83_thumbnail.png?quality=10"
-    width: 852
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/61/d61f75bd-a805-586d-a210-8ad8da5c1d3f/605fdfb93a0a1.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
     isCached: true
 
 related:
@@ -311,6 +311,20 @@ related:
         isCached: true
   - title: "Vice President Kamala Harris delivers cookies to essential workers"
     excerpt: "U.S. Vice President Kamala Harris and her husband delivered two baskets of cookies to essential healthcare workers at the VA Medical Center in Washington on Saturday. (Feb. 13)"
+    publishedDateTime: 2021-02-13T20:43:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/nation/2021/02/13/vp-harris-delivers-cookies-essential-workers/4475533001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/2eadfb94-3b07-45ae-8292-7ff16c6cb720-ae7b0c28-1b30-4fcd-a11d-3e683655cc83_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
+  - title: "Vice President Kamala Harris delivers cookies to essential workers"
+    excerpt: "U.S. Vice President Kamala Harris and her husband delivered two baskets of cookies to essential healthcare workers at the VA Medical Center in Washington on Saturday. (Feb. 13)"
     publishedDateTime: 2021-02-15T10:41:00Z
     webUrl: "https://www.freep.com/videos/news/nation/2021/02/13/vp-harris-delivers-cookies-essential-workers/4475533001/"
     type: article
@@ -336,20 +350,6 @@ related:
       - url: "https://www.powerlineblog.com/ed-assets/2021/02/Savannah-Guthrie-Kamala-Harris-2-17.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Renovations delay Kamala Harris' move to official residence"
-    excerpt: "More than two months after Vice President Kamala Harris was sworn in, she and her husband have not yet moved into their official residence because of ongoing renovations. CNN's Kate"
-    publishedDateTime: 2021-03-28T01:27:00Z
-    webUrl: "https://www.djournal.com/news/national/renovations-delay-kamala-harris-move-to-official-residence/video_d61f75bd-a805-586d-a210-8ad8da5c1d3f.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/61/d61f75bd-a805-586d-a210-8ad8da5c1d3f/605fdfb93a0a1.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
         isCached: true
   - title: "Vice President Kamala Harris Sells Her San Francisco Condo for a Big Profit"
     excerpt: "The nation's newest vice president is unloading her San Francisco condo—and she's getting a very good price. Vice President Kamala Harris signed a deal to sell her 1,069-square-foot loft for $799,000,"
@@ -380,6 +380,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "jC90u3CJWn/WrKoxo6bjk7xQ/2svc17ajug0pLUBBgJiHEY2wjrCB2RtBzwJJc2IAioXyOW/gI2R0wxqUKm9aqdfqXcIdOBKQdvxdU8Ir2jbYuunV6uh5DOUQ6Zj1NfKws7vWKDhqZAjO8QHaYQHUhKuoMHSpuu7137KpVShNENhV4qYY+Y/oe0M0RfseBKuOe4bbcsUzsVW5i/tG7kJAPoIwNNtf3ufT82IoO//xvkfdnt+m/NK9wtiDuHic5sWMx2660lFvmGDegVMARd8FiwKCxYDs/lDtl/5M1/twelzKD4PLUqROgOWRSBBG6ZNWzDLfFAxze1vrgBVvQ6S+iOK+yD3TwQLhJr5nlH3jRayq/aZTfrkZBSWWd+HXFPPyE1YZeWQwQgcl666Kl/RRQtAMOEEcEcfUApZlUd1qSosPgkgptJvq5JINAg3GI2UjJAvmVwUnDZAxRCkdZ6qHTJoO/CibQpTa9POHcTKIXvpWW/w4G6Qks835BHcyKTjriVjQ/fuoIC62wryJnqsqg==;xcsUlM9Fj97BuQBTOrQN5Q=="
+secured: "99BncopH1eFxgHgfUHnkS1GwtEHx9W1hmRA2LI/9WVF75akfUonCgOKrcaSJjHH8TENWu2epXA3fFxO2cUsna5iLBrcOliioFNKEFh49gvaviluB189+Y++OnUrBnx7DyloWTIGEvPVuDzdb7XXTJBQ0h0Zin9Tn1E3fHUPcDAI0jzTrGOUmmxf2MRx3M/EDZvXHnwaLcX4tDQ7e6GJ+jwOGVXGNjovKWq2v2o3MSGqiZEW7D8uK5/NG7iJi1CkJqOc2jt8MhlWkctnQcreXiFsY6vf/pOd0EgE3B9WeVxSMMoqAuWd1qvheku7n3tNoawjIMPBZMYBx/Tcnmjs/C86vOuAQKEBjj0dg7f92L7Y=;u+HSc3mQsYSXCEZDaduS7g=="
 ---
 

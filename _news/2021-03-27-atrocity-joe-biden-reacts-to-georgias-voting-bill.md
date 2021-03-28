@@ -3,22 +3,26 @@ category: news
 title: "'Atrocity': Joe Biden reacts to Georgia's voting bill"
 excerpt: "President Joe Biden reacts to Georgia's new voting bill that critics say restricts ballot access and gives state officials more power over local elections. CNN's Jeff Zeleny tells us more."
 publishedDateTime: 2021-03-26T19:45:00Z
-originalUrl: "https://www.thereporteronline.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_5fe1cef1-b79e-5d77-927f-7546d3413d0b.html"
-webUrl: "https://www.thereporteronline.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_5fe1cef1-b79e-5d77-927f-7546d3413d0b.html"
-ampWebUrl: "https://www.thereporteronline.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_5fe1cef1-b79e-5d77-927f-7546d3413d0b.amp.html"
-cdnAmpWebUrl: "https://www-thereporteronline-com.cdn.ampproject.org/c/s/www.thereporteronline.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_5fe1cef1-b79e-5d77-927f-7546d3413d0b.amp.html"
+originalUrl: "https://www.purdueexponent.org/news/national/video_aeea3698-7d94-5bff-97ce-f7368213c74a.html"
+webUrl: "https://www.purdueexponent.org/news/national/video_aeea3698-7d94-5bff-97ce-f7368213c74a.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Reporter
-  domain: thereporteronline.com
+  name: Purdue Exponent
+  domain: purdueexponent.org
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/a/ee/aeea3698-7d94-5bff-97ce-f7368213c74a/605e41222ee98.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
 
 related:
   - title: "Video of Mike Pence Tripping on Stairs Resurfaces After Joe Biden's Stumble"
@@ -1988,6 +1992,6 @@ related:
         height: 712
         isCached: true
 
-secured: "rqai1942dqgA2lkFa3baWqK1tdiQ8dlj/+ESh/rsE1p7HoavwWzMaFy2Icm4LrHITHvl+F9nkRDAs1U1xdvvB7T6aOFjoMhbp+zAm4Xe/l5esjf6dm9GwbwQt3/484USN8DzSvKqyjPBy7aMOUs6kscgKbfTlv0PRdzJYEhjbXcEZVwS/va2JHA2phkIrJTRSuG6HoFJlrS/ChjiBGFQ4BByhXk/wWuIAfP6oJtqyCFCciKijz8uHZp7TLGl8mbjk6OJOgEOtgdZjAT4jodhFGXh++vawWJjHOJdpTxC5vD4EPCXIgNmEe2DlOZsi0cZ4yuY/noW2Bc4qj7YFKBckw1P+Ilq8bhR7hgEDBgU+jY=;keRhYrJ8LnaHzt/ka7QB/g=="
+secured: "t5ELC+Fe1up+zdJHTFK62LA2Fd1XRUhnih3lnHv/NFxuQX25w9I/NTLCbiOvzF54pFGFaY3evhDDm0sCd1sBPC9q7o0G9q+kNgfleixpOQymsaxfpOQiTDw+IAmkcGdjMRSqleFXcKCxrrp4pk88IIC5HYxJ8p7rk5mUc97EUi8OxxHwqiK7fVfdLRD8HcTcr40kGQPvsp6XyC3HEiMMyeVnqvLzAhWkskek86WlqovnqQGW2pHRHrcz82TkcW4LJ8H7/FfSmp5N9ggui6B3wlDkWpfgl7tPA118LX9frzo4Ar+KRUW8km7LI1+3XkFK/E7ipL/WjajJ5RmYhqIaBrrkvwbZw8rvzgmwKsas0zQ=;y9mbA4mSRdTx52Kcoih8fA=="
 ---
 

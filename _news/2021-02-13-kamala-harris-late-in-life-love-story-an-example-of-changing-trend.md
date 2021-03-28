@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-l
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -340,6 +340,20 @@ related:
       - url: "https://www.powerlineblog.com/ed-assets/2021/02/Savannah-Guthrie-Kamala-Harris-2-17.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Renovations delay Kamala Harris' move to official residence"
+    excerpt: "More than two months after Vice President Kamala Harris was sworn in, she and her husband have not yet moved into their official residence because of ongoing renovations. CNN's Kate"
+    publishedDateTime: 2021-03-28T01:27:00Z
+    webUrl: "https://www.djournal.com/news/national/renovations-delay-kamala-harris-move-to-official-residence/video_d61f75bd-a805-586d-a210-8ad8da5c1d3f.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/61/d61f75bd-a805-586d-a210-8ad8da5c1d3f/605fdfb93a0a1.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
   - title: "Vice President Kamala Harris Sells Her San Francisco Condo for a Big Profit"
     excerpt: "The nation's newest vice president is unloading her San Francisco condo—and she's getting a very good price. Vice President Kamala Harris signed a deal to sell her 1,069-square-foot loft for $799,000,"
