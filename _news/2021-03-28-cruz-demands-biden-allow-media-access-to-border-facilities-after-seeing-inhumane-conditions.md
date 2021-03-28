@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Democratic border-town mayor: Biden admin handling of crisis ‘a slap in the face’"
-excerpt: "The Democratic mayor of a southern border town says he’s incensed over the Biden administration’s handling of the immigration crisis in his backyard — and he’s \"pleading\" with Washington to do more to stem the stream of migrants pouring into his small city. "
-publishedDateTime: 2021-03-22T00:31:08Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face"
-ampWebUrl: "https://www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
+title: "Cruz demands Biden allow media access to border facilities, after seeing 'inhumane' conditions"
+excerpt: "EXCLUSIVE: Sen. Ted Cruz, R-Texas, on Sunday called on President Biden to open up media access to border facilities where unaccompanied migrant children are being held, after no reporters were allowed on a lawmakers' tour of a facility – and Cruz himself was challenged for taking pictures."
+publishedDateTime: 2021-03-28T17:07:44Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fAC31hCDDY/cruz-urges-biden-allow-media-access-to-border-facilities"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fAC31hCDDY/cruz-urges-biden-allow-media-access-to-border-facilities"
 type: article
-quality: 170
+quality: 143
 heat: -1
 published: false
 
@@ -25,7 +23,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a30dfc5-144a-4b76-96c1-f6baf817c817/92e81741-299a-4f50-9d6c-b1338e279cb2/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b20f8d5-961d-4342-a583-007699099eba/f55684de-fbba-44b7-9496-35378f2cd1cd/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -76,6 +74,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democratic border-town mayor: Biden admin handling of crisis ‘a slap in the face’"
+    excerpt: "The Democratic mayor of a southern border town says he’s incensed over the Biden administration’s handling of the immigration crisis in his backyard — and he’s \"pleading\" with Washington to do more to stem the stream of migrants pouring into his small city. "
+    publishedDateTime: 2021-03-22T00:31:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a30dfc5-144a-4b76-96c1-f6baf817c817/92e81741-299a-4f50-9d6c-b1338e279cb2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -143,20 +157,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Cruz demands Biden allow media access to border facilities, after seeing 'inhumane' conditions"
-    excerpt: "EXCLUSIVE: Sen. Ted Cruz, R-Texas, on Sunday called on President Biden to open up media access to border facilities where unaccompanied migrant children are being held, after no reporters were allowed on a lawmakers' tour of a facility – and Cruz himself was challenged for taking pictures."
-    publishedDateTime: 2021-03-28T17:07:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fAC31hCDDY/cruz-urges-biden-allow-media-access-to-border-facilities"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b20f8d5-961d-4342-a583-007699099eba/f55684de-fbba-44b7-9496-35378f2cd1cd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Sen. Mike Braun sends letter to Biden urging him to visit border: 'This surge makes it a moral imperative'"
     excerpt: "EXCLUSIVE: Fresh off a visit to the southern border, Sen. Mike Braun said Saturday that President Biden has a moral imperative to immediately see the \"inhumane\" and \"dangerous\" migrant situation firsthand."
     publishedDateTime: 2021-03-27T20:27:29Z
@@ -172,6 +172,6 @@ related:
         height: 720
         isCached: true
 
-secured: "tGxR3HPlCioOX9kcWh//bcqZLUb/Xpo/4/Q7+K06wvE0H+ojhgsWUv8z6cvhFjoDGPF9PGxJ/BBEUgH8NG3wazmQymnp0tsEFFk1P2MDQZl/hcEKG96Hl4OMRhEEtMR3LLQ81gtoNQj4a3eFt9MQRLsur1aClD3R/6wUy6cprphZawGR69alsocuDtDZoxo3HeNuKe9eg5NKXu64+MVjsTIZCKFAP0jBX4vVtgnAZqfnu/CTlbUaoxQDFDF/d2jsD+GeAQNx2/REg5OZ830s7/aWGtcUMfF6oq74np2B6p/skA6yUMe8ff1yCabtsSVBu+em/2FpLOC4GsQ/6UcmwXVWy3QVsvTD4LipP40+2iw=;e0iFJtiKqdKoEEvo2ixIOw=="
+secured: "u9ajBXVDxrZfpVUrFB/lNkhAlsW4dA2hk+fClxwTrIocS5Fgl1daCOHN63qhh9QEGARJm/WMDnVq01Om+HiB0QVguH4P7Qo9g9zNYcN14NmsjdbasXYym/APUzMeflbUzRxC3CyGygozyzAVIcujRpLwzbShy25z03EG8t4+Ip7pAtub08S83zMSle4hDoxMrp4vN30QZvkghpgC9JvCh3BP6NBi5SgauSUFOWFpRvxY457wdj50J21vlpfibf5Ot+uC53laCHGBo49cFre9GPMv+nmYnj4eVk9BtmNiY/aZgEom6RBbnkwy0Kwq+Mrvug3e0kHYDd+dDWgjzMevAKcT6Is3PApwbYVESd9XbdI=;LBAiT/7/81rCeOXHjQyfQw=="
 ---
 

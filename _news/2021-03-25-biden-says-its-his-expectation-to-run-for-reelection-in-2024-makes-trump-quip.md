@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
 type: article
 quality: 200
-heat: 940
+heat: 960
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Border crisis can be 'fixed' in a week if Biden returns to Trump immigration policies: Sen. Kennedy"
+    excerpt: "The migrant crisis at the U.S. southern border could be fixed in a week if President Biden returns to the Trump-era immigration policies that he has rolled back since taking office in January, Sen. John Kennedy, R-La., said Sunday."
+    publishedDateTime: 2021-03-28T17:46:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rcSJlwU9Po/border-crisis-biden-trump-immigration-policies-senator-john-kennedy"
+    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-biden-trump-immigration-policies-senator-john-kennedy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-biden-trump-immigration-policies-senator-john-kennedy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c3117d5-9fca-4d0e-bd31-fa0a255cc0f9/147b2cc9-8365-4641-958f-cb6d41c5d719/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden White House says it's ready to have 'frank conversation' with China"
     excerpt: "The White House said the Biden administration is ready to have a \"frank conversation\" with China and is negotiating from a position of \"strength,\" as officials hold tense bilateral talks with Beijing. "

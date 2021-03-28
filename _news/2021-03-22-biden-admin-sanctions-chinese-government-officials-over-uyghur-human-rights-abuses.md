@@ -143,6 +143,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Cruz demands Biden allow media access to border facilities, after seeing 'inhumane' conditions"
+    excerpt: "EXCLUSIVE: Sen. Ted Cruz, R-Texas, on Sunday called on President Biden to open up media access to border facilities where unaccompanied migrant children are being held, after no reporters were allowed on a lawmakers' tour of a facility – and Cruz himself was challenged for taking pictures."
+    publishedDateTime: 2021-03-28T17:07:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fAC31hCDDY/cruz-urges-biden-allow-media-access-to-border-facilities"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b20f8d5-961d-4342-a583-007699099eba/f55684de-fbba-44b7-9496-35378f2cd1cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Mike Braun sends letter to Biden urging him to visit border: 'This surge makes it a moral imperative'"
     excerpt: "EXCLUSIVE: Fresh off a visit to the southern border, Sen. Mike Braun said Saturday that President Biden has a moral imperative to immediately see the \"inhumane\" and \"dangerous\" migrant situation firsthand."
     publishedDateTime: 2021-03-27T20:27:29Z

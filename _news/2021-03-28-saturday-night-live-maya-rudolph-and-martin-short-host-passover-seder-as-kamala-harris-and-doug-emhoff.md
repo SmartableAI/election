@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "'SNL:' Maya Rudolph, Martin Short play Kamala Harris, Doug Emhoff"
+    excerpt: "Saturday Night Live alum Maya Rudolph returned to guest host the sketch-comedy series this weekend. Rudolph reprised her role of Kamala Harris, vice president of the United States, while comedian and former SNL star Martin Short made a surprise appearance as Harris' shy,"
+    publishedDateTime: 2021-03-28T16:43:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5701616939292/2021/1/f2b1a89417fc11cd4b17e790312cb091/v1.5/SNL-Maya-Rudolph-Martin-Short-play-Kamala-Harris-Doug-Emhoff.jpg"
+        width: 800
+        height: 531
+        isCached: true
   - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
     excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
     publishedDateTime: 2021-03-28T12:29:00Z
@@ -44,6 +60,6 @@ related:
         height: 675
         isCached: true
 
-secured: "0bE0tpDjDxlj8daqZ1eN33vT9cVNKylMjZ2pj5erd7pCED8CcXzB340uLg7Q25nCkgQG/jMsuK3YThBEa9poBbbu1E0afwNNI+ZOLsD3/XSKBS6ycPug7t8BU5/Z31ebkBpk/vxtgry5iIFPpp6erIGFwJChjJI5tzFQJ9GqxoDYEZLnGaq9sG8fxY2b3j1lfTDKEnpMTGadmNYqfoAQZv1PBr6ila2uqZ/CL/9ecS8qb4ONVERWdyFKCQf8xTQjGfvkrLlkDHWyqv+Jojwc38rbyfTEhd3MP71wtfH+rgvjq3MGrCa+5B35hr/AL2I//r9yCGDr38siP696xX06y5dZYC91eVwDJVz2gbjen/E=;j5A+EshiLWhfqdyYouM0YA=="
+secured: "+hzYJHdLbfArqj3KHu24SjEvwPTUec7HPonKAMTxCH8bDFKnrluo/x40Lx9SYOrghUbxBg2A2rTf2b9a9kmvs3p4dxejGb9PhrYRFxE+nw4efAxSI5BgmX418Rnv8jb199qQrjlWvY7xwq7J/p+bRASq+L3FSekAEm9AAYBqodSKKY1YEIh29h/w7xkRaz5wSK+3vyWWVHNQMVB08c3Qn9qDTfxuMs4ie6BD5uX1cjVnCY/xihCl3/F9Jpaxo4BdhkmL02FWMjNjjvp3FfHua0K+fi7Rp3TazH7zAIQce4alQCilZXL6PZTU2TiwfADLonAoVaYlgFRShfbMTpcMNkesI31gTyP85Z1/sy9x0tbHD/NAGTsnHaU2Za3yLYDQ1QVq1v9kcZVALf8gU03qNRSb7nnRXugBxkBB0YnO5QvTYQ0Tdq9Da6MWF6xonVpYtiSrxMq7lvLHYCx+WWPO/mM0BAXmXpthCptKaYkp+UuLVKSZ6n1Bfh2uQdrakT0WN7bOjqhHXGHX4VG3qyuMfA==;rqLcVjuIYBG5e/l1FRgoOQ=="
 ---
 

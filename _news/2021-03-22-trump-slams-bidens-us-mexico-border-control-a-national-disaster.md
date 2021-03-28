@@ -137,6 +137,22 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Former Trump Staffer Calls Out Ex-President For False Depiction Of Capitol Riots, 'People Were Killed'"
+    excerpt: "The former chief of staff is calling out the ex-president after spreading false claims about the Jan. 6 riots."
+    publishedDateTime: 2021-03-28T15:02:00Z
+    webUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564"
+    ampWebUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/28/gettyimages-1192141132.jpg"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
     excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
     publishedDateTime: 2021-03-27T00:59:00Z

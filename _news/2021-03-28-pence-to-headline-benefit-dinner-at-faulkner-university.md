@@ -2,19 +2,19 @@
 category: news
 title: "Pence to headline benefit dinner at Faulkner University"
 excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur at the Renaissance Hotel and Convention Center on Oct."
-publishedDateTime: 2021-03-28T15:52:00Z
-originalUrl: "https://www.thehour.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-webUrl: "https://www.thehour.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-ampWebUrl: "https://www.thehour.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
-cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+publishedDateTime: 2021-03-28T16:14:00Z
+originalUrl: "https://www.newstimes.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+webUrl: "https://www.newstimes.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+ampWebUrl: "https://www.newstimes.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
+cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Hour
-  domain: thehour.com
+  name: NewsTimes Danbury
+  domain: newstimes.com
 
 topics:
   - Election
@@ -58,6 +58,6 @@ related:
         height: 1680
         isCached: true
 
-secured: "ZdS5OA4JFHEnY+B2x5w0QWUDdWOofbCAZaLaKcv0WQDOVqmwZIIk/Csao9dM3Ez4lyB76oh1GqBoVbxWNl9bI30XHli/9aObz4znqpYonteQREv9vP8EBNgiBMXUvkWPAfboEY2DfVM7VYangpUc/HJ8wocmI30583IGOEv4NROgI0bSaStfWhJv09GxL0Be1WTlH9HC8ko9zTnk5i+OKm+fba0U05mZp4/JkLJt3Rmyx+6/M15K/qVDM152FPcFdAXQikJUNRA5Lq25rmlnuzQ4aOck9+GdjmJfIiUnd54P/ClWrJDMKGRFVkW3OVlDQOeEiKp5btvUuJJzCqIl6VKUV1Dd61piXp3Nuk5DVIM=;ykYawVpc8DQd6Lmec0cmhA=="
+secured: "ldCo7qKQbFAbDFKKx9zgCAg65aLS3qZ4IKyaEplZ0PZW9Vh7LrwYuIhK9ESJgGxGsNLtYW5LKMoUS/hDaxT3Jtxwq+LPJmv1XvKN/3WAPcKFFxF6Jc4tr9CVRCeg4s+1C6DVTArUZvqpW52xKWP8Ybq4LdGAZmbE0WNqb8zJXs5u3sIUdl0jUDF+EC7JkVSuJ6txN08TL3qKcll7x/Nc1s2NB8/RW1HwRaqEOLiJtt6xXUu8V+EdgPyW3iRlvFjg05cUDzPQMx3xJXLpmER4Oei+q33MbHWZ+bVYz9m06z6tmMMyh/tQlzf0BK6+8H7Ws1G9Zm7FajrWmPzosPS96WF0FB2I+whScdRpNMXDK7Q=;HSmBo3AVx2vSc4Gxrzf5Ow=="
 ---
 

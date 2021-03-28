@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Advocates call on Biden administration to prioritize youth mental health as experts warn of consequences"
+    excerpt: "Talia Kaganovsky has struggled with her mental health for years. But when Covid-19 hit, \"it was almost like a giant slap in the face,\" the 18-year-old freshman at University of Pittsburgh said.\n    \n"
+    publishedDateTime: 2021-03-28T16:01:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JnC8GQF8kqY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/youth-mental-health-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/youth-mental-health-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's closest Senate ally emerges as a shadow secretary of state"
     excerpt: "The moment was a metaphor of sorts for Coons’ current role for President Joe Biden. The Delaware Democrat’s close friendship with Biden has already made Coons an unofficial White House envoy in the Senate, but he is now expanding his reach overseas ..."
     publishedDateTime: 2021-03-24T20:49:00Z

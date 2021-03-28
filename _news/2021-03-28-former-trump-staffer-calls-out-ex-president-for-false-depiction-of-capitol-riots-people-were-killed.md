@@ -1,29 +1,33 @@
 ---
 category: news
-title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
-excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
-publishedDateTime: 2021-03-27T00:59:00Z
-originalUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/"
-webUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/"
-ampWebUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
-cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+title: "Former Trump Staffer Calls Out Ex-President For False Depiction Of Capitol Riots, 'People Were Killed'"
+excerpt: "The former chief of staff is calling out the ex-president after spreading false claims about the Jan. 6 riots."
+publishedDateTime: 2021-03-28T15:02:00Z
+originalUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564"
+webUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564"
+ampWebUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
 type: article
-quality: 53
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Texas Tribune
-  domain: texastribune.org
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://thumbnails.texastribune.org/-mWa9Z9pNCv1H7M3mGZ0k5UJXE8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/72457b5f083d35a5cc2fb98be9f57954/Migrants%20RGV%20REUTERS%20TT.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/28/gettyimages-1192141132.jpg"
+    width: 1024
+    height: 678
     isCached: true
 
 related:
@@ -149,23 +153,23 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Former Trump Staffer Calls Out Ex-President For False Depiction Of Capitol Riots, 'People Were Killed'"
-    excerpt: "The former chief of staff is calling out the ex-president after spreading false claims about the Jan. 6 riots."
-    publishedDateTime: 2021-03-28T15:02:00Z
-    webUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564"
-    ampWebUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
+  - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
+    excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
+    publishedDateTime: 2021-03-27T00:59:00Z
+    webUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/"
+    ampWebUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 53
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/28/gettyimages-1192141132.jpg"
-        width: 1024
-        height: 678
+      - url: "https://thumbnails.texastribune.org/-mWa9Z9pNCv1H7M3mGZ0k5UJXE8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/72457b5f083d35a5cc2fb98be9f57954/Migrants%20RGV%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "VHgswpdofFX2vTgBS3pqrbvYhzXN/ZNLw0GksJeBPK1HxL78rT6eHp/LppMTFavVKHf3oJiGboY7wwBWiMLMBh/EoNLDxEqCyY7SJiXIPGW0aWrXgw0y5f1Q+6mPR+Emxvy41gT4gXkpic8bhyeL0jYMAn5c8uJZlmzq80iE/V3HBJE4kXehgMdMxyaerxvSh35sVGo1WzGIRmax1i8D9Bkwyzfb8lJ07uBuDo0GpAjKtZG63n4tHoGZlX9Pyi6sF5U0Xp2oVnQ9KzLuHEpW6Pxjtvvqg/wJIrdoQNYfwIMToNBaWZYYtuoQ40KpHQsWAbDXKDtwXcwiY3yf+rE9fTg1vwtfVD33Z2ZhyBnEZJm47KWvD5xhSxvwwibsbRbkp2l74yirdLcNEUE6hiiZ2MnC35JyclX9wuE6pC/OD/sNiF2iHhjkICYdmryAv6j8jVlTOaHoP3YRMyVLvR4d1TktZPPPWrL4ZpUsLte2XmQxMipx+40QJwDsoCrJ3RCbNyabmLoQaL4HfJTTxzt+Fw==;6X1KPYbzasNG79QqPAMiSg=="
+secured: "ad8nqhODR7uUbImXIs8E1wukMCTvq2h+8biW6sY4sjYtKpT2zNA/vk21q0dUEwop3P+2CG/eQTroHrb2U3JqOkWswly5A50gE0ybTAaObAaXw0faLJx4MdIGslGnFw6+6zkH9kFSKC7m6nKbd3M2XF/6PNsMfld0DizjgAjoYhxXZ87+kcBxzcoa3boYNzxmhV7MC8S6/3u80TkIwjURkwEB+i+Xga0tn29ZFDct6dXrXs/+tk6M+rG1g3me9uiR+2XNLtMxAUGAKKVEZRVeQ4fy6smEYVqqph2wy8r9QBlVj5jSXU6qtSEt6E+4Ve0gD26gspYB5pX/WQvSfUnMqZeoylyMH4R+8hsdHI+6EVI=;BnQbDCQybMS3vlR0hZ4rpw=="
 ---
 

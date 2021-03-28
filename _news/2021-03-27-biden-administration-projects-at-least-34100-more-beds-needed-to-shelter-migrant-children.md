@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Advocates call on Biden administration to prioritize youth mental health as experts warn of consequences"
+    excerpt: "Talia Kaganovsky has struggled with her mental health for years. But when Covid-19 hit, \"it was almost like a giant slap in the face,\" the 18-year-old freshman at University of Pittsburgh said.\n    \n"
+    publishedDateTime: 2021-03-28T16:01:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JnC8GQF8kqY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/youth-mental-health-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/youth-mental-health-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser"
     excerpt: "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n"
     publishedDateTime: 2021-03-24T03:56:30Z

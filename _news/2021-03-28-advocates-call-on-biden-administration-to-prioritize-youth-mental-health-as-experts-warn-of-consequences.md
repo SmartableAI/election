@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden reaches out to some Republicans on Capitol Hill -- but not party leaders"
-excerpt: "Senate GOP Leader Mitch McConnell says he's spoken with President Joe Biden just once since he took office.\n    \n"
-publishedDateTime: 2021-03-24T23:11:30Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OF05IFTv9rI/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OF05IFTv9rI/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-republican-relationships/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-republican-relationships/index.html"
+title: "Advocates call on Biden administration to prioritize youth mental health as experts warn of consequences"
+excerpt: "Talia Kaganovsky has struggled with her mental health for years. But when Covid-19 hit, \"it was almost like a giant slap in the face,\" the 18-year-old freshman at University of Pittsburgh said.\n    \n"
+publishedDateTime: 2021-03-28T16:01:09Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JnC8GQF8kqY/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JnC8GQF8kqY/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/youth-mental-health-biden/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/youth-mental-health-biden/index.html"
 type: article
-quality: 171
+quality: 158
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
     width: 1100
     height: 619
     isCached: true
@@ -60,6 +60,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden reaches out to some Republicans on Capitol Hill -- but not party leaders"
+    excerpt: "Senate GOP Leader Mitch McConnell says he's spoken with President Joe Biden just once since he took office.\n    \n"
+    publishedDateTime: 2021-03-24T23:11:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OF05IFTv9rI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-republican-relationships/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-republican-relationships/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -127,22 +143,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Advocates call on Biden administration to prioritize youth mental health as experts warn of consequences"
-    excerpt: "Talia Kaganovsky has struggled with her mental health for years. But when Covid-19 hit, \"it was almost like a giant slap in the face,\" the 18-year-old freshman at University of Pittsburgh said.\n    \n"
-    publishedDateTime: 2021-03-28T16:01:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JnC8GQF8kqY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/youth-mental-health-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/youth-mental-health-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser"
     excerpt: "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n"
     publishedDateTime: 2021-03-24T03:56:30Z
@@ -190,6 +190,6 @@ related:
         height: 619
         isCached: true
 
-secured: "P9U5LY9G+KPCUD2H8rKj/JwG8vQS4YHs0BH5aIdevid/fFjDlEkIxSlYEPB/zZLQWCawwNE9KXOSWVytmcF7ZXIHCv8hELR1cFPkTqgDrnaWyUDBz0wM5FSJtR3xFjG2Xrh7EVEyyf5cmC+kO2amrb9WvljFfpoS/OvB8ouL4GhTZuzOdAphahft30vQnm0uFJOiY5eYwEAWmHsOhrc/RPZvtXcLaW/SeogHtDsERPDmicRR6SmuSsfT5FT7za4ZT8GaYdBnAS4lF2y88AruEN6s7quc9thISmYQkEHkP/gC5jHi9YBOlv9MV1Q0PwDzgnmErlFxeAek5frrPL25uif8blE98f/BCp2azg5pNvo=;1erVG5AcRjCKYW/aaUxrcw=="
+secured: "LGgRtEsmRb3g0+chQyRGl+7a6O4MxLUHVzegSrL8GyZe1mX1pau8UefTDXrKbOHeDQAsae1CMNk3Nk5CNl6927L5wQAuEMxjen9V5UI9DrUONgZwHkDCtU3cNAeVPuQ9M2wB2OkCIAKKO2VjzjsVITcGTdp+t2CtgbCGoVE43gt1wjPmrP+bzzfYXavN4j3qwWaVaU7wiAktJsXqdhWLqIyMk3IAumU0YkBF/TMT0CGDEUn/0H7Ei2tYSvY+nV/HYPDBa3v4wD8957zKG9nD3OUJjEjxWYfxxV+Grbv/MOsUsVHAZs2Ymc/VjB8vTxyEYNrscPig5vNj4UlLOcgswEl69tEdtWmrArsU8Ro6/tE=;GTkaxshohBp/1zNl+d30Sg=="
 ---
 

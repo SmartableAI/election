@@ -287,6 +287,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Border crisis can be 'fixed' in a week if Biden returns to Trump immigration policies: Sen. Kennedy"
+    excerpt: "The migrant crisis at the U.S. southern border could be fixed in a week if President Biden returns to the Trump-era immigration policies that he has rolled back since taking office in January, Sen. John Kennedy, R-La., said Sunday."
+    publishedDateTime: 2021-03-28T17:46:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rcSJlwU9Po/border-crisis-biden-trump-immigration-policies-senator-john-kennedy"
+    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-biden-trump-immigration-policies-senator-john-kennedy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-biden-trump-immigration-policies-senator-john-kennedy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c3117d5-9fca-4d0e-bd31-fa0a255cc0f9/147b2cc9-8365-4641-958f-cb6d41c5d719/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Migrant says he came to US border because Biden was elected, would not have tried to cross under Trump"
     excerpt: "A South American migrant who recently crossed the U.S.-Mexico border said he did so \"basically\" because Joe Biden was elected president and would not have tried to cross under former President Donald Trump."
     publishedDateTime: 2021-03-21T17:29:55Z

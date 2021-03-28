@@ -1,14 +1,14 @@
 ---
 category: news
-title: "CNN, MSNBC erupted over Trump's ramp walk -- but virtually ignore Biden's staircase stumble"
-excerpt: "After sounding the alarm over President Trump's use of a ramp at the U.S. Military Academy during the 2020 presidential election, both CNN and MSNBC on Friday virtually ignored President Biden's intense fall while climbing the stairs onto Air Force One."
-publishedDateTime: 2021-03-20T06:37:00Z
-originalUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one"
-webUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one"
-ampWebUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
+title: "Border crisis can be 'fixed' in a week if Biden returns to Trump immigration policies: Sen. Kennedy"
+excerpt: "The migrant crisis at the U.S. southern border could be fixed in a week if President Biden returns to the Trump-era immigration policies that he has rolled back since taking office in January, Sen. John Kennedy, R-La., said Sunday."
+publishedDateTime: 2021-03-28T17:46:25Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rcSJlwU9Po/border-crisis-biden-trump-immigration-policies-senator-john-kennedy"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rcSJlwU9Po/border-crisis-biden-trump-immigration-policies-senator-john-kennedy"
+ampWebUrl: "https://www.foxnews.com/politics/border-crisis-biden-trump-immigration-policies-senator-john-kennedy.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-biden-trump-immigration-policies-senator-john-kennedy.amp"
 type: article
-quality: 140
+quality: 176
 heat: -1
 published: false
 
@@ -22,13 +22,12 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Trump-West-Point-2.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c3117d5-9fca-4d0e-bd31-fa0a255cc0f9/147b2cc9-8365-4641-958f-cb6d41c5d719/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -288,22 +287,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Border crisis can be 'fixed' in a week if Biden returns to Trump immigration policies: Sen. Kennedy"
-    excerpt: "The migrant crisis at the U.S. southern border could be fixed in a week if President Biden returns to the Trump-era immigration policies that he has rolled back since taking office in January, Sen. John Kennedy, R-La., said Sunday."
-    publishedDateTime: 2021-03-28T17:46:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rcSJlwU9Po/border-crisis-biden-trump-immigration-policies-senator-john-kennedy"
-    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-biden-trump-immigration-policies-senator-john-kennedy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-biden-trump-immigration-policies-senator-john-kennedy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c3117d5-9fca-4d0e-bd31-fa0a255cc0f9/147b2cc9-8365-4641-958f-cb6d41c5d719/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden White House says it's ready to have 'frank conversation' with China"
     excerpt: "The White House said the Biden administration is ready to have a \"frank conversation\" with China and is negotiating from a position of \"strength,\" as officials hold tense bilateral talks with Beijing. "
     publishedDateTime: 2021-03-19T17:58:15Z
@@ -447,6 +430,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Migrant-Children-trump-biden.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "CNN, MSNBC erupted over Trump's ramp walk -- but virtually ignore Biden's staircase stumble"
+    excerpt: "After sounding the alarm over President Trump's use of a ramp at the U.S. Military Academy during the 2020 presidential election, both CNN and MSNBC on Friday virtually ignored President Biden's intense fall while climbing the stairs onto Air Force One."
+    publishedDateTime: 2021-03-20T06:37:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Trump-West-Point-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump: Biden press conference will be nothing but 'softballs,' media 'protects him totally'"
     excerpt: "Former President Donald Trump said Monday there was no transparency with the press from successor Joe Biden, although he added Biden didn't need to hold press conferences because the media \"protects him totally."
@@ -637,6 +636,6 @@ related:
         height: 822
         isCached: true
 
-secured: "l7Dj1Bav0R2e9GgnM9EPMUaqgoNqwhMM8vSyWOix5M3UdkWuRTyRXtBC9H7ZFcSKKgeHj7nbPfGOIkg0t0/BiXCNSnBcHh+vGurvRDI0gMWD2yIldqcWGr/Wsy3SXF3gDuwUDmdNN1SwMGM0+CRzQeqG9aDZSYpC5a3KoRYyou6YTMJgOWm/BZWVU11O8pird0eQZORgH21Gbgj2bAKYbiDhkkQu3k7DFF+FFRiPT68FhGqJbDWOMKyjC5dPM4crCZVc0tbwJvj8++i9rFsVlA2E/s3eKq6Hn7LTSysckDU8vaH2f2irIXANISmXDo6lhRrg0Qm7HZJQFwScgdj5sLHmY1zLzXJw/dEVDesvI3O5a1NXhu6J/IcQJcMJD5J/vGZlI3xmZdhUARMdYgfLTZTMybrfUxmPxXr67DVB0nxzAQIU+6iQmgzkJpOB+VsJfXZDIgh7NrmUPECAbRLACVFlqxIrIZzEF5p/+6oIzo6e8HwayXc03NDkj5fcLDyP5tHovdEdeK4c8onTNjJvng==;ejNYAAcAlQVHP/QgNXD5LA=="
+secured: "s2QLdufTA93q5uupc6E50vUrWshAa9MnebNq1s8VWRQvORNFahGlx7AsJDoSrkJN5H0Np0NN4zqTS7ADmpqOaSGM8jXn06fjf5RSSTwuIU1cKpr58piLu6nJoyLm16DPQLeM+BT3fdpl1QcyK0N6P4bIVWbp3j9sOpMQs03iqWrphMtY2yoK2i2O70Y6bL+bwXEfOdrfmzpjo6hKfJU3dQvm62QQCne35DbDaGi20WxryJjvuaOppB6DUCY5rFgVpxw7DVVN3UJUudc9/BANRN8UcVqB0PeuZJPYYc75Ad1/HkR2ckUlGpZmc2gCAW7lVIcLdCyRW1ocZ1RaltyyxfnQ5mZtN/omjnOjVpVuNFU=;PWYFiA+qGVOi9FW6NkWttA=="
 ---
 
