@@ -1990,17 +1990,14 @@ related:
   - title: "'Atrocity': Joe Biden reacts to Georgia's voting bill"
     excerpt: "President Joe Biden reacts to Georgia's new voting bill that critics say restricts ballot access and gives state officials more power over local elections. CNN's Jeff Zeleny tells us more."
     publishedDateTime: 2021-03-26T19:45:00Z
-    webUrl: "https://www.purdueexponent.org/news/national/video_aeea3698-7d94-5bff-97ce-f7368213c74a.html"
+    webUrl: "https://www.dailyamerican.com/news/nation/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_99f0754e-b787-5141-bc6a-536dcc705519.html"
+    ampWebUrl: "https://www.dailyamerican.com/news/nation/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_99f0754e-b787-5141-bc6a-536dcc705519.amp.html"
+    cdnAmpWebUrl: "https://www-dailyamerican-com.cdn.ampproject.org/c/s/www.dailyamerican.com/news/nation/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_99f0754e-b787-5141-bc6a-536dcc705519.amp.html"
     type: article
     provider:
-      name: Purdue Exponent
-      domain: purdueexponent.org
+      name: Daily American
+      domain: dailyamerican.com
     quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/a/ee/aeea3698-7d94-5bff-97ce-f7368213c74a/605e41222ee98.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
   - title: "Biden not ruling out chance US stays longer in Afghanistan"
     excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
     publishedDateTime: 2021-03-27T11:51:00Z
