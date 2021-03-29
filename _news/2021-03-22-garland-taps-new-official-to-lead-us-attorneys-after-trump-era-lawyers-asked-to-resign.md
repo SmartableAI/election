@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Was Trump a great or a terrible president? Here's what a new poll says"
+    excerpt: "Two months after he left the White House, and there's no letup in the incredibly polarized views of former President Trump."
+    publishedDateTime: 2021-03-29T16:39:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shOd4h1fwTI/trump-new-poll-numbers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-new-poll-numbers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-new-poll-numbers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Meghan McCain: The left will have to 'reconcile' whether identity politics trumps job qualifications"
     excerpt: "'The View' co-host Meghan McCain said Wednesday the 'progressive left' will have to 'reconcile' the question over whether race, gender, and identity politics take precedent over job qualifications."
     publishedDateTime: 2021-03-24T17:46:54Z

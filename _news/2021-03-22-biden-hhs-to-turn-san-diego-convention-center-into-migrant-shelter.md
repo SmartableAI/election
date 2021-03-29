@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convent
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -101,6 +101,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aryCehvT4Nk/white-house-biden-gaffe-transcript-afghan-president"
     ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-gaffe-transcript-afghan-president.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-gaffe-transcript-afghan-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Migrant children in Biden's packed border facilities not being COVID-tested, can't social distance"
+    excerpt: "The Biden administration is not testing children in Customs and Border Protection (CBP) facilities for the coronavirus as tens of thousands remain in government custody amid a migrant surge on the southern border"
+    publishedDateTime: 2021-03-29T17:00:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LAE2RalbHWM/biden-border-facilities-migrants-cant-social-distance"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-facilities-migrants-cant-social-distance.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-facilities-migrants-cant-social-distance.amp"
     type: article
     provider:
       name: Fox News

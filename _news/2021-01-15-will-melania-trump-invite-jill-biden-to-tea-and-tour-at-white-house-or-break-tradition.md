@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "On Border Crisis, Joe Biden Wants it Both Ways With Donald Trump"
+    excerpt: "President Joe Biden doesn't want to talk about former President Donald Trump—except when he does. Even as Biden says he wants to ignore his 2020 rival, he and his allies repeatedly pointed the finger of blame at Trump for the current border problems."
+    publishedDateTime: 2021-03-29T12:56:00Z
+    webUrl: "https://www.newsweek.com/border-crisis-joe-biden-donald-trump-both-ways-1579413"
+    ampWebUrl: "https://www.newsweek.com/border-crisis-joe-biden-donald-trump-both-ways-1579413?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/border-crisis-joe-biden-donald-trump-both-ways-1579413?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1766034/donald-trump-joe-biden-composite.jpg"
+        width: 3200
+        height: 2400
+        isCached: true
   - title: "Democrats balance impeachment with Biden’s first 100 days as clock ticks toward Trump exit"
     excerpt: "House leaders set plans in motion to impeach President Trump for a second time, with a vote as early as Wednesday."
     publishedDateTime: 2021-01-11T23:46:00Z

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Was Trump a great or a terrible president? Here's what a new poll says"
+    excerpt: "Two months after he left the White House, and there's no letup in the incredibly polarized views of former President Trump."
+    publishedDateTime: 2021-03-29T16:39:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shOd4h1fwTI/trump-new-poll-numbers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-new-poll-numbers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-new-poll-numbers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Garland taps new official to lead US attorneys after Trump-era lawyers asked to resign"
     excerpt: "Attorney General Merrick Garland on Monday tapped former acting Attorney General Monty Wilkinson to lead the U.S. attorneys within the Justice Department after the Biden administration asked Trump-appointed federal prosecutors to resign."
     publishedDateTime: 2021-03-22T16:38:05Z

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Schumer eyes using budget tool twice to pass Biden's 2-part infrastructure plan"
+    excerpt: "Senate Democrats are looking at potentially using an arcane budget process twice more this year in an effort to ensure they can pass President Joe Biden's massive infrastructure project with just a simple Democratic majority.\n    \n"
+    publishedDateTime: 2021-03-29T16:04:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P7E6Q2ab71M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/reconciliation-senate-democrats-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/reconciliation-senate-democrats-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205121011-07-chuck-schumer-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'It's a matter of timing': Biden lays out expansive theory of his own presidency"
     excerpt: "Joe Biden offered his most expansive explanation yet of his own presidency on Thursday, presenting himself, at least for now, as a problem solver operating above the bitter divides of Washington politics.\n    \n"
     publishedDateTime: 2021-03-26T10:05:54Z
@@ -191,6 +207,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111654-11-biden-admin-possibilities-duckworth-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
+    excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."
+    publishedDateTime: 2021-03-27T11:15:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/23/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/23/us/politics/live-blog-20210323-biden-news-today-header-sub/merlin_185456586_9d1ea159-5cea-4877-a805-f8e3e37171c1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
     excerpt: "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ..."

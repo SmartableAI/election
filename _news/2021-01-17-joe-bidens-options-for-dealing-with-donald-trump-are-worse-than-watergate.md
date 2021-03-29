@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 1208
+heat: 1228
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_b6b5d36bfd0548fdbec0594b9abd5b20_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "On Border Crisis, Joe Biden Wants it Both Ways With Donald Trump"
+    excerpt: "President Joe Biden doesn't want to talk about former President Donald Trump—except when he does. Even as Biden says he wants to ignore his 2020 rival, he and his allies repeatedly pointed the finger of blame at Trump for the current border problems."
+    publishedDateTime: 2021-03-29T12:56:00Z
+    webUrl: "https://www.newsweek.com/border-crisis-joe-biden-donald-trump-both-ways-1579413"
+    ampWebUrl: "https://www.newsweek.com/border-crisis-joe-biden-donald-trump-both-ways-1579413?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/border-crisis-joe-biden-donald-trump-both-ways-1579413?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1766034/donald-trump-joe-biden-composite.jpg"
+        width: 3200
+        height: 2400
         isCached: true
   - title: "Will Melania Trump invite Jill Biden to tea-and-tour at White House or break tradition?"
     excerpt: "The decades-old civic ritual of the outgoing FLOTUS inviting her successor to tea and a tour of the White House appears to be off for Melania Trump."

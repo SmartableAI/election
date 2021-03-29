@@ -2,6 +2,119 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-30-politico-reporter-trump-base-is-getting-stronger-since-he-left-office-impeachment-would-only-empower-him.md",
+      "title": "Politico reporter: Trump base is 'getting stronger' since he left office, impeachment would only empower him",
+      "excerpt": "Politico reporter Tara Palmeri suggested on Friday that President Trump may have more political clout among his supporters than the D.C. establishment and the mainstream media assumed he had since he left office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger",
+      "originalUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Tara-Palmeri-GETTY-2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger.amp",
+      "publishedDateTime": "2021-01-29T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-facebooks-sandberg-praises-biden-abortion-policy-criticizes-south-carolina-partial-ban.md",
+      "title": "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban",
+      "excerpt": "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/11/30/694940094001_5973634959001_5973636138001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
+      "publishedDateTime": "2021-01-29T16:13:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.md",
       "title": "AOC, Green New Dealers rejoice over Biden’s climate plan: ‘It’s almost as if we helped shape the platform’",
       "excerpt": "Advocates for the Green New Deal have praised the Biden administration for its early moves to address climate change, taking a victory lap after the president signed a slew of sweeping executive orders targeting the environment.",
@@ -1540,118 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/haley-biden-un-human-rights-council.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-biden-un-human-rights-council.amp",
       "publishedDateTime": "2021-01-26T08:51:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says.md",
-      "title": "Biden's White House victory fueled by record-shattering $145M in 'dark money,' report says",
-      "excerpt": "For years, Democrats have railed against anonymous campaign contributions as a uniquely corrupting political force — even as President Biden benefited from a record-shattering amount of \"dark money\" donations during the 2020 election. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVGLLkMXgOQ/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVGLLkMXgOQ/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72f42a4f-125b-4568-85ff-a3e63a5a17da/c104fc0a-640b-41f8-a636-659a18524c4d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says.amp",
-      "publishedDateTime": "2021-01-26T05:52:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-hannity-says-bidens-policies-will-fail-while-media-takes-sycophantic-vacation.md",
-      "title": "Hannity says Biden’s policies will 'fail’ while media takes ‘sycophantic vacation’",
-      "excerpt": "\"Hannity\" host Sean Hannity criticizes President Biden's beginnings in office and forecasts a disastrous end.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H9xJIy4mBMA/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H9xJIy4mBMA/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41141ae6-77e2-4f49-b7e0-2669ff9cbe70/a12142e6-4d90-4d19-98c7-5e790e97839a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation.amp",
-      "publishedDateTime": "2021-01-26T01:55:18-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

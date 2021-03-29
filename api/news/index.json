@@ -2,19 +2,75 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-29-dan-bongino-slams-biden-admin-on-migrant-facilities-why-are-you-treating-people-like-animals.md",
-      "title": "Dan Bongino slams Biden admin on migrant facilities: 'Why are you treating people like animals?'",
-      "excerpt": "On Monday, Fox News contributor Dan Bongino slammed the Biden administration for treating migrants housed within border detention facilities like “animals,” and blocking Sen. Ted Cruz, R-Texas., from filming the conditions.",
+      "path": "_news/2021-03-29-new-york-times-white-house-to-probe-trump-era-political-influence-in-government-science.md",
+      "title": "New York Times: White House to probe Trump-era 'political influence' in government science ",
+      "excerpt": "The Biden administration is planning to probe \"Trump-era political interference\" in government science in an effort to prevent abuses in the future, The New York Times reported Monday.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8sLc_8W0iJM/dan-bongino-biden-migrant-facilities-animals-border-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8sLc_8W0iJM/dan-bongino-biden-migrant-facilities-animals-border-immigration",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNdkeTb0W3k/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNdkeTb0W3k/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210328201915-01-white-house-0328-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/29/politics/biden-administration-trump-science-political-influence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/biden-administration-trump-science-political-influence/index.html",
+      "publishedDateTime": "2021-03-29T10:34:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-biden-border-crisis-completely-out-of-control-former-border-patrol-official-warns-on-americas-newsroom.md",
+      "title": "Biden border crisis 'completely out of control,' former Border Patrol official warns on 'America's Newsroom'",
+      "excerpt": "The former acting chief of Border Patrol in Tuscon, Arizona, Jeff Self, said Monday that the situation at the border is 'completely out of control.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CG_LA_dUIk8/arizona-border-patrol-chief-border-crisis-out-control",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CG_LA_dUIk8/arizona-border-patrol-chief-border-crisis-out-control",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 162,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -28,9 +84,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration.amp",
-      "publishedDateTime": "2021-03-29T07:41:45-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/arizona-border-patrol-chief-border-crisis-out-control.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-border-patrol-chief-border-crisis-out-control.amp",
+      "publishedDateTime": "2021-03-29T10:25:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -54,6 +110,119 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-schumer-plots-new-way-to-bypass-republicans-on-bidens-third-economic-spending-bill.md",
+      "title": "Schumer plots new way to bypass Republicans on Biden's third economic spending bill",
+      "excerpt": "Senate Majority Leader Chuck Schumer, D-N.Y., is exploring how to pass President Biden's third economic spending bill later this year without any Republican votes via an obscure Senate rule that would allow Democrats to use reconciliation again.  ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCbvF0CQpIQ/schumer-reconciliation-biden-third-economic-spending-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCbvF0CQpIQ/schumer-reconciliation-biden-third-economic-spending-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/schumer.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schumer-reconciliation-biden-third-economic-spending-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-reconciliation-biden-third-economic-spending-bill.amp",
+      "publishedDateTime": "2021-03-29T09:20:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-dan-bongino-slams-biden-admin-on-migrant-facilities-why-are-you-treating-people-like-animals.md",
+      "title": "Dan Bongino slams Biden admin on migrant facilities: 'Why are you treating people like animals?'",
+      "excerpt": "We own this, it’s our country. It’s not Joe Biden’s, okay? It’s ours. Are we not entitled to see this? And think of the nonsense from that press person or whoever she was. She’s a government employee, which is scary. Your tax dollars are paying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration",
+      "originalUrl": "https://www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d7ea957-13c3-4ecf-8e06-25e17ea64b56/f3dbbcb2-2930-4460-8550-a6f727e9c4d8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration.amp",
+      "publishedDateTime": "2021-03-29T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -775,7 +944,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1196,166 +1365,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-biden-says-he-wants-vladimir-putin-and-xi-jinping-at-virtual-climate-change-summit-next-month.md",
-      "title": "Biden says he wants Vladimir Putin and Xi Jinping at virtual climate change summit next month",
-      "excerpt": "Chinese President Xi Jinping and Russian President Vladimir Putin \"know they're invited\" to join a US-hosted virtual summit on climate, President Joe Biden told reporters on Friday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pv9xgtqYy4Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pv9xgtqYy4Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326153447-joe-biden-georgia-voting-bill-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/26/politics/biden-climate-change-event-april-putin-xi/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/biden-climate-change-event-april-putin-xi/index.html",
-      "publishedDateTime": "2021-03-26T13:50:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-watch-vp-kamala-harris-visits-child-development-center-in-connecticut.md",
-      "title": "Watch: VP Kamala Harris Visits Child Development Center In Connecticut",
-      "excerpt": "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/538866.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html",
-      "publishedDateTime": "2021-03-26T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-romney-receives-jfk-profile-in-courage-award-for-voting-to-convict-trump-on-first-impeachment-charge.md",
-      "title": "Romney receives JFK 'Profile in Courage' award for voting to convict Trump on first impeachment charge",
-      "excerpt": "Sen. Mitt Romney, R-Utah, received the John F. Kennedy Library Foundation’s 2021 “Profile in Courage” award on Thursday for what the organization described as his “historic” vote to convict former President Donald Trump during his first impeachment trial last year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rc56TYQfQ4w/romney-receives-jfk-profile-in-courage-award-for-trump-impeachment-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rc56TYQfQ4w/romney-receives-jfk-profile-in-courage-award-for-trump-impeachment-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d395ede-3f62-4578-9c51-bb85dbc5b5ec/69007cf2-5cc4-4c47-8e93-d0f6f59af9f8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/romney-receives-jfk-profile-in-courage-award-for-trump-impeachment-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-receives-jfk-profile-in-courage-award-for-trump-impeachment-vote.amp",
-      "publishedDateTime": "2021-03-26T12:35:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

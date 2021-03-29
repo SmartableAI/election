@@ -443,8 +443,8 @@ related:
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
     excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
-    publishedDateTime: 2021-03-26T22:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e4ceb8f08aff75c03c3ce"
+    publishedDateTime: 2021-03-26T18:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e26338f08ef6f2f140ed5"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -591,6 +591,22 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/605e6c92e4b085d3b6c313f0-1616800914726?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden calls Georgia's new voting law 'Jim Crow in the 21st century' and 'a blatant attack on the Constitution'"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden on Friday called a new voting law enacted in Georgia a \"blatant attack on the Constitution and good conscience,\" likening it to \"Jim Crow in the 21st century.\" The 98-page piece of legislation, passed by ..."
+    publishedDateTime: 2021-03-26T19:54:00Z
+    webUrl: "https://www.businessinsider.com/biden-georgia-voting-law-attack-constitution-jim-crow-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-georgia-voting-law-attack-constitution-jim-crow-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-georgia-voting-law-attack-constitution-jim-crow-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/605e34ed8e71b3001851915b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden looks into taking action on 3D printer guns, imported firearms"
     excerpt: "President Joe Biden, weighing executive orders aimed at reducing gun violence following two mass shootings, said on Friday his administration is exploring whether he has the authority to take action on firearms made using 3D printers as well as on imported guns."
@@ -794,6 +810,6 @@ related:
         height: 604
         isCached: true
 
-secured: "L/tng0jLlYNhj3QnzNaxMT1+4+n+qUPxV4XLG/AbU09LVADS40MrrD6iXP2iEuUyhLgB1tWv+OxkVyr3cBOL6pG2iqLRrtrMhQPMQlKv6AlCtXbVBTfTl7Snb25f8HGXi4C/oVdqL86WfMhvw6NwLMmJQp5apJj9bjPpBqFUycPDm2QTfMXhwLJYYYC4XOgUmsWyDbl9BVf1gNaOPrAXtoS2ptLRmOl52mSpi0rwRpzlGPGr/LMmDt6eYmE2h3J3RWPyodI9EwHQ1IoAUufKJx7x3mLs1U3Rd0BpJKwyot4wjI2aPg1za4AjsyLtHy29xA+1JV8FC2T8duq6jinvryp9yXyuCyj0XxZlrEr8dD4=;5AiR0xZMN9HR+xfQcmVfBQ=="
+secured: "1jJJ9Hrozjzpcf8qKmK4plZtr7Wi3Xz/zA+kHimLLE4Bt1F+pNEU0USgnM9OX6xtjvlEbO0uT8MnSTKzs7LsoYl9dOAFESnk4Y53KIgPOVFBanonifHrcYzc0BoDuB3AwMdnVzVjiNPPHemNla8j+xaTjwYWLSDQ6bblNHR/G1USsmSUn7CwK9Ld1e3IZUr7vbAtlj6Ol+vkir9FbJi26IWD9Z2gjxcJE5czhrUo023lBUZr8NbmSqz2iXWnqIojeX/5Hz2YgRx0gAr0CJNgGvwre8t8F4+M/AyBykIhnyhYULVGK8ZV5HlS/8vRCtXX4IUJEIcMnsxMCHCWdF6A73N4lz3q7YbLltLieuBbcaCAp4PCqKwzRMinL4lNt0csxjpIbBKUe4wJ6amOOuDM6hg7klQ66NCYFDEmMeTubXzMLPPMG0UfRWe5yw3Wama1LbbeCgTY+wrutI0D1cUgXpm+MSI3KxIjQmDDUYmb5kre7Z0uKmTzHTIs1qL2w3gCW93ejd4QiheNEsNdSEpucg==;xXldjpp+eiEgahOw6fe+Hg=="
 ---
 
