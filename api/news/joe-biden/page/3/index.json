@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-02-25-biden-facing-resistance-in-congress-courts-gop-governors.md",
-      "title": "Biden, facing resistance in Congress, courts GOP governors",
-      "excerpt": "Biden is spending at least as much time courting Republican governors as he is wooing the senators he needs to pass legislation in Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3R4GDTW3II6XFJXJFQVRTC73E.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-25T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-02-25-biden-urged-to-back-water-justice-bill-to-reverse-decades-of-underinvestment.md",
       "title": "Biden urged to back water justice bill to reverse decades of underinvestment",
       "excerpt": "Water Act proposes injection of federal dollars to overhaul ageing infrastructure, create jobs and address inequalities",
@@ -379,7 +327,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1727,
+      "heat": 1767,
       "tags": null,
       "images": [
         {
@@ -1586,6 +1534,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops.md",
+      "title": "Remembering Parkland — Defiant DeSantis lashes out at Biden administration — Sprowls warns schools over enrollment drops",
+      "excerpt": "Between Wednesday and Thursday, the number of Florida coronavirus cases increased by 8,525 (nearly 0.5 percent), to 1,806,805; active hospitalizations went down by 220 (nearly 4.3 percent). to 4,906;",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

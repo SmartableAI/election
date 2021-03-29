@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-24-moncef-slaoui-trump-vaccine-chief-fired-from-board-over-sexual-harassment-allegations.md",
+      "title": "Moncef Slaoui, Trump vaccine chief, fired from board over sexual harassment allegations",
+      "excerpt": "WASHINGTON — The man who led former President Donald Trump’s effort to produce Covid-19 vaccines, Moncef Slaoui, has been fired from a bioelectronics company’s board of directors over sexual harassment allegations. Slaoui, who was in charge of Trump ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/moncef-slaoui-ex-trump-vaccine-chief-fired-board-over-sexual-n1261914",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/moncef-slaoui-ex-trump-vaccine-chief-fired-board-over-sexual-n1261914",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_12/3459180/210324-moncef-slaoui-jm-0934_dda6551a87edc9aa2311df3b313f08ce.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261914",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261914",
+      "publishedDateTime": "2021-03-24T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-bernie-sanders-doesnt-feel-comfortable-about-twitters-permanent-ban-against-trump-despite-him-being-a-pathological-liar.md",
       "title": "Bernie Sanders doesn't 'feel comfortable' about Twitter's permanent ban against Trump despite him being a 'pathological liar'",
       "excerpt": "Independent Sen. Bernie Sanders denounced former President Donald Trump in strong terms in an interview released Tuesday but said Twitter's permanent suspension of the former Republican president doesn't sit right with him.\n    \n",
@@ -162,58 +219,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-will-joe-biden-forgive-student-loans-senator-says-canceling-1b-just-the-beginning.md",
-      "title": "Will Joe Biden Forgive Student Loans? Senator Says Canceling $1B 'Just the Beginning'",
-      "excerpt": "The Biden administration last week announced that thousands of students defrauded by for-profit schools will see their full federal loans erased. This is a reverse of a Trump-era policy which only gave partial relief, The Associated Press reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308",
-      "originalUrl": "https://www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1762749/joe-biden-gives-remarks-columbus-ohio.jpg",
-          "width": 2579,
-          "height": 1716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308?amp=1",
-      "publishedDateTime": "2021-03-24T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-03-24-israel-election-results-may-push-benjamin-netanyahu-into-conflict-with-joe-biden.md",
       "title": "Israel Election Results May Push Benjamin Netanyahu Into Conflict With Joe Biden",
       "excerpt": "But with President Joe Biden in office, a further rightward pivot in Israel might pose a problem for Washington, D.C. Netanyahu and his allies have already earned the ire of American Democrats for human rights abuses of Palestinians in Israel, the ...",
@@ -222,7 +227,7 @@
       "originalUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -315,6 +320,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-biden-says-100-million-relief-checks-to-be-distributed-by-wednesday.md",
+      "title": "Biden says 100 million relief checks to be distributed by Wednesday",
+      "excerpt": "The Biden administration will have distributed 100 million relief checks by Wednesday as part of a $1.9 trillion coronavirus stimulus package, President Joe Biden said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555951880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1N6",
+          "width": 737,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BF2ZZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2ZZ",
+      "publishedDateTime": "2021-03-23T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -474,110 +531,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-duckworth-hirono-vow-to-oppose-biden-picks-over-diversity-concerns.md",
-      "title": "Duckworth, Hirono vow to oppose Biden picks over diversity concerns",
-      "excerpt": "say they will vote against President Biden Joe Biden The Hill's Morning Report - Biden leans heavily into gun control Justice Dept. faces risks, rewards with riot sedition charges Dems plan to ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/544612-duckworth-and-hirono-vow-to-oppose-biden-picks-over-diversity-concerns",
-      "originalUrl": "https://thehill.com/homenews/senate/544612-duckworth-and-hirono-vow-to-oppose-biden-picks-over-diversity-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/duckworthtammy_hironomazie_032321getty.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/544612-duckworth-and-hirono-vow-to-oppose-biden-picks-over-diversity-concerns?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/544612-duckworth-and-hirono-vow-to-oppose-biden-picks-over-diversity-concerns?amp",
-      "publishedDateTime": "2021-03-23T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-bidens-disciplined-agenda-rollout-tested-by-the-unexpected.md",
-      "title": "Biden's disciplined agenda rollout tested by the unexpected",
-      "excerpt": "In less than a week, two mass shootings have overshadowed President Joe Biden’s “Help is Here” tour, during which he planned to herald the ways his administration is helping Americans ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_8345d3a617554d8dbfe98309391d7205_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
-      "publishedDateTime": "2021-03-23T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-03-23-senate-republicans-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.md",
       "title": "Senate Republicans demand second hearing for Biden DOJ pick Gupta after 'misleading' comments’",
       "excerpt": "Republicans on the Senate Judiciary Committee have called for President Biden’s pick for associate attorney general, Vanita Gupta, to return for a second round of hearings to answer for \"misleading statements.\"",
@@ -631,58 +584,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-biden-says-we-have-to-act-on-gun-control-and-calls-on-senate-to-close-background-check-loophole.md",
-      "title": "Biden says \"we have to act\" on gun control and calls on Senate to close background check loophole",
-      "excerpt": "Before Biden advocated for the Senate to act on the two House-passed bills that would close loopholes in the background checks system, centrist Democrat Senator Joe Manchin of West Virginia told reporters that he opposes the measures. \"I mean, I come from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "originalUrl": "https://www.cbsnews.com/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/23/0f477749-841f-43b6-a5c7-b98a1a45ae73/thumbnail/1200x630/243cc0c97e4e49618c250b68b04cb62f/gettyimages-1308657015.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "publishedDateTime": "2021-03-23T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -799,21 +700,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-what-could-be-in-bidens-massive-infrastructure-bill-from-free-community-college-to-upgraded-roads-and-bridges.md",
-      "title": "What could be in Biden's massive infrastructure bill, from free community college to upgraded roads and bridges",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ...",
+      "path": "_news/2021-03-24-biden-says-we-have-to-act-after-colorado-mass-shooting.md",
+      "title": "Biden says ‘we have to act’ after Colorado mass shooting",
+      "excerpt": "Democrats say they are pushing toward a vote on expanded gun control measures as the nation reels from it its second mass shooting in a week",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3",
-      "originalUrl": "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3",
+      "webUrl": "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 245,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/604940ed9942cf001865db46?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -821,16 +722,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp",
-      "publishedDateTime": "2021-03-23T11:23:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-23T11:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1061,6 +962,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-biden-eyes-3t-package-for-infrastructure-schools-families.md",
+      "title": "Biden eyes $3T package for infrastructure, schools, families",
+      "excerpt": "Fresh off passage of COVID-19 relief, President Joe Biden is eyeing the next big White House priority — a sweeping $3 trillion package of investments on infrastructure and domestic needs",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_cafc315039ed4d92b9ad1b8b8df846ca_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
+      "publishedDateTime": "2021-03-22T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1330,6 +1283,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-msnbcs-brian-williams-touts-ad-from-disgraced-lincoln-project-linking-trump-to-atlanta-spa-shootings.md",
+      "title": "MSNBC's Brian Williams touts ad from disgraced Lincoln Project linking Trump to Atlanta spa shootings",
+      "excerpt": "MSNBC anchor Brian Williams touted a new ad released by the disgraced Lincoln Project last week that tried to tie former President Donald Trump's rhetoric about the coronavirus to the March 16 Atlanta spa shootings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
+      "originalUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
+      "publishedDateTime": "2021-03-22T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

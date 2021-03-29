@@ -236,6 +236,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Can the Biden Administration Stop China?"
+    excerpt: "The acrid atmosphere last week at the Captain Cook Hotel in Anchorage, Alaska, with its vivid murals of the 18th-century British seafarer James"
+    publishedDateTime: 2021-03-26T11:21:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/26/can_the_biden_administration_stop_china_145483.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/26/can_the_biden_administration_stop_china_145483.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/26/can_the_biden_administration_stop_china_145483.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/538353_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From The Trump Administration"
     excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
     publishedDateTime: 2021-03-23T00:22:00Z

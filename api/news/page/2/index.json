@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-26-biden-taps-sen-manchins-wife-to-co-chair-appalachian-board.md",
+      "title": "Biden taps Sen. Manchin's wife to co-chair Appalachian board",
+      "excerpt": "President Joe Biden is nominating Gayle Manchin, the wife of West Virginia Sen. Joe Manchin, to be the co-chair of the Appalachian Regional Commission WASHINGTON -- President Joe Biden is ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "publishedDateTime": "2021-03-26T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-biden-nominates-sen-joe-manchins-wife-to-federal-commission.md",
       "title": "Biden nominates Sen. Joe Manchin's wife to federal commission",
       "excerpt": "President Biden has picked the wife of an extremely influential U.S. senator for a federal commission post, the White House announced Friday. ",
@@ -55,49 +107,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-biden-taps-obama-administration-veteran-to-serve-as-dols-top-lawyer.md",
-      "title": "Biden taps Obama administration veteran to serve as DOL's top lawyer",
-      "excerpt": "President Joe Biden on Friday said he would nominate Seema Nanda, who filled various posts at the U.S. Department of Labor during the Obama administration, to serve as the solicitor of labor. Nanda had served as chief executive officer of the Democratic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/idUSL1N2LO13T",
-      "originalUrl": "https://www.reuters.com/article/idUSL1N2LO13T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LO13T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LO13T",
-      "publishedDateTime": "2021-03-26T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -210,6 +219,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-in-first-press-conference-biden-talks-immigration-filibuster-china-vaccination-goal.md",
+      "title": "In first press conference, Biden talks immigration, filibuster, China, vaccination goal",
+      "excerpt": "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/25/USAT/207eaa26-a590-4f9b-b833-309b77367412-AP_Biden.jpg?auto=webp&crop=5637,3171,x0,y286&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6984142002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002",
+      "publishedDateTime": "2021-03-26T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -837,7 +898,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1162,7 +1223,7 @@
       "originalUrl": "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547",
       "featuredContent": null,
       "highlight": null,
-      "heat": 335,
+      "heat": 555,
       "tags": null,
       "images": [
         {
@@ -1316,63 +1377,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-moncef-slaoui-trump-vaccine-chief-fired-from-board-over-sexual-harassment-allegations.md",
-      "title": "Moncef Slaoui, Trump vaccine chief, fired from board over sexual harassment allegations",
-      "excerpt": "WASHINGTON — The man who led former President Donald Trump’s effort to produce Covid-19 vaccines, Moncef Slaoui, has been fired from a bioelectronics company’s board of directors over sexual harassment allegations. Slaoui, who was in charge of Trump ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/moncef-slaoui-ex-trump-vaccine-chief-fired-board-over-sexual-n1261914",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/moncef-slaoui-ex-trump-vaccine-chief-fired-board-over-sexual-n1261914",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_12/3459180/210324-moncef-slaoui-jm-0934_dda6551a87edc9aa2311df3b313f08ce.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261914",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261914",
-      "publishedDateTime": "2021-03-24T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -27,17 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Biden taps Obama administration veteran to serve as DOL's top lawyer"
-    excerpt: "President Joe Biden on Friday said he would nominate Seema Nanda, who filled various posts at the U.S. Department of Labor during the Obama administration, to serve as the solicitor of labor. Nanda had served as chief executive officer of the Democratic ..."
-    publishedDateTime: 2021-03-26T14:25:00Z
-    webUrl: "https://www.reuters.com/article/idUSL1N2LO13T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LO13T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LO13T"
+  - title: "In first press conference, Biden talks immigration, filibuster, China, vaccination goal"
+    excerpt: "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office."
+    publishedDateTime: 2021-03-26T09:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6984142002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/25/USAT/207eaa26-a590-4f9b-b833-309b77367412-AP_Biden.jpg?auto=webp&crop=5637,3171,x0,y286&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden to host first press conference under pressure on immigration and guns – US politics live"
+    excerpt: "But Joe Biden still hasn’t had a formal news conference since his inauguration on 20 January. The stretch is the longest a new president has gone without meeting the press in the past 100 years, dating back to when Calvin Coolidge, a man known as ..."
+    publishedDateTime: 2021-03-25T10:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates?page=with:block-605c37b78f08a9515e8370b5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d267c42fe0ca5906d541d0f55a58fc671e63bfa/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9bc03ce464544f0e6f608fe824ad872"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "KUtyKJ1pzIKbTd0RyAohVLhpNPnCHHq5v9xTGdNNNLEkHqJNsVaoozmAiD00VktOr93hP+TkfUSuud3w6G8BFWoDAIXqVeqC5kFYudRvK1CMag+/q97ZtSB45xxz3rVbI7IDnDlrJaqoQpAZ+cTV0Ccw9bxvwhRIZdWVlrQqI0R2o2E42lTzmMnA/MFT33uKXryAUoBc2VbTV2g8+YCSGCIuUbXe/hoKRp/B4P6pHs3foZz1LGU6g9YGmoBVPLZTEnZsRh7tTtz0hE0qJFz14Us5ceWHvS6wf2fcHDF/Sm8/JGO/ndvw7SFcZsx6C90XGLvRSc6PoAH2qyfIXi2mS07YssnVBcNQqbp1Iz/W0bE=;PvNqqFqmTUa5WQR6QEwvcw=="
 ---

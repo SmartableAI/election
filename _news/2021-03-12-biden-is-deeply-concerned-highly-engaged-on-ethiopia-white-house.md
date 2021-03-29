@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B32VX"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B32VX"
 type: article
 quality: 125
-heat: 205
+heat: 285
 published: true
 
 provider:
@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "Biden wants to see outcome of investigation into Cuomo"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden told reporters at the White House he wanted to see the outcome of the investigation into New York Governor Andrew Cuomo, who is facing pressure to resign over sexual harassment allegations. Asked if Cuomo ..."
+    publishedDateTime: 2021-03-14T22:24:00Z
+    webUrl: "https://www.reuters.com/article/us-new-york-cuomo-biden-idUSKBN2B60QF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B60QF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B60QF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554875456&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2D0J7"
+        width: 820
+        height: 545
+        isCached: true
+  - title: "In early foreign policy tests, Biden takes on world as it is"
+    excerpt: "President Joe Biden in his early days in office has vowed a dramatic reordering of U.S. foreign policy from his predecessor"
+    publishedDateTime: 2021-03-15T17:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f9ce496c7d34449c9f422668858143f4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "A good boy again: Biden's dog will return to the White House"
+    excerpt: "Major breaking news: President Joe Biden’s wayward pup is no longer in the doghouse WILMINGTON, Del. -- There is Major breaking news: President Joe Biden’s wayward pup is no longer in the ..."
+    publishedDateTime: 2021-03-17T13:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/good-boy-bidens-dog-return-white-house-76509382"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/good-boy-bidens-dog-return-white-house-76509382"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/good-boy-bidens-dog-return-white-house-76509382"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_19698d1254dd42eba9a63af4d75da2b4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Man charged in alleged threats to Biden, Pelosi and Whitmer"
     excerpt: "A 21-year-old western Michigan man has been arraigned after authorities say he made death threats to President Joe Biden, U.S. House Speaker Nancy Pelosi and Michigan Gov. Gretchen Whitmer"
     publishedDateTime: 2021-03-16T19:17:00Z
@@ -62,6 +110,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554969374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E1FG"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden taking hands-off approach to Justice Department barrier on Equal Rights Amendment, White House says"
+    excerpt: "WASHINGTON – President Joe Biden is a big backer of renewed efforts to add the proposed Equal Rights Amendment to the Constitution, but it remains to be seen if his administration will remove a barrier put up by his predecessor. During the Trump ..."
+    publishedDateTime: 2021-03-15T17:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/equal-rights-amendment-biden-taking-hands-off-approach-doj-barrier/4691895001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4691895001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4691895001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/f20c3822-6f54-473a-88df-f4f94bb697ea-AP_Congress_Equal_Rights_Amendment.JPG?auto=webp&crop=3999,2250,x0,y566&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden's dog Major caused 'minor' injury: White House"
     excerpt: "White House. Posted . President Joe Biden's younger dog, a rescue named Major, has decamped the White House after causing a \"mino"

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-27-a-new-jim-crow-era-biden-civil-rights-leaders-slam-georgia-election-reform.md",
-      "title": "A new 'Jim Crow era': Biden, civil rights leaders slam Georgia election reform",
-      "excerpt": "More:'It's sick': Biden slams Republican efforts in state legislatures to limit voting rights President Joe Biden criticized efforts in Republican-led state legislatures, including Georgia's, to pass election bills making access to the ballot box more ...",
+      "path": "_news/2021-03-27-biden-says-us-justice-department-examining-georgia-election-law.md",
+      "title": "Biden says U.S. Justice Department examining Georgia election law",
+      "excerpt": "NEW CASTLE, Delaware (Reuters) - President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/26/georgia-voting-bill-2021-biden-civil-rights-leaders-slam-new-leaw/7015324002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/26/georgia-voting-bill-2021-biden-civil-rights-leaders-slam-new-leaw/7015324002/",
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-justice/biden-says-u-s-justice-department-examining-georgia-election-law-idUSKBN2BI31U?edition-redirect=in",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-justice/biden-says-u-s-justice-department-examining-georgia-election-law-idUSKBN2BI31U?edition-redirect=in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 1120,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/26/USAT/95aeaa8b-e9f2-45a1-861d-8cb1dee29a15-VPC_GA_VOTING_LAW_DESK.00_00_03_05.Still002.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210326&t=2&i=1556384482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2P1RY",
+          "width": 796,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7015324002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7015324002",
-      "publishedDateTime": "2021-03-26T15:10:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BI31U",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U",
+      "publishedDateTime": "2021-03-26T12:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,29 +54,90 @@
       ]
     },
     {
-      "path": "_news/2021-03-26-biden-taps-obama-administration-veteran-to-serve-as-dols-top-lawyer.md",
-      "title": "Biden taps Obama administration veteran to serve as DOL's top lawyer",
-      "excerpt": "President Joe Biden on Friday said he would nominate Seema Nanda, who filled various posts at the U.S. Department of Labor during the Obama administration, to serve as the solicitor of labor. Nanda had served as chief executive officer of the Democratic ...",
+      "path": "_news/2021-03-26-biden-taps-sen-manchins-wife-to-co-chair-appalachian-board.md",
+      "title": "Biden taps Sen. Manchin's wife to co-chair Appalachian board",
+      "excerpt": "President Joe Biden is nominating Gayle Manchin, the wife of West Virginia Sen. Joe Manchin, to be the co-chair of the Appalachian Regional Commission WASHINGTON -- President Joe Biden is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/idUSL1N2LO13T",
-      "originalUrl": "https://www.reuters.com/article/idUSL1N2LO13T",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
       "featuredContent": null,
       "highlight": null,
       "heat": 125,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LO13T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LO13T",
-      "publishedDateTime": "2021-03-26T07:25:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "publishedDateTime": "2021-03-26T08:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-in-first-press-conference-biden-talks-immigration-filibuster-china-vaccination-goal.md",
+      "title": "In first press conference, Biden talks immigration, filibuster, China, vaccination goal",
+      "excerpt": "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/25/USAT/207eaa26-a590-4f9b-b833-309b77367412-AP_Biden.jpg?auto=webp&crop=5637,3171,x0,y286&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6984142002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002",
+      "publishedDateTime": "2021-03-26T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -105,7 +166,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -149,21 +210,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-will-joe-biden-forgive-student-loans-senator-says-canceling-1b-just-the-beginning.md",
-      "title": "Will Joe Biden Forgive Student Loans? Senator Says Canceling $1B 'Just the Beginning'",
-      "excerpt": "The Biden administration last week announced that thousands of students defrauded by for-profit schools will see their full federal loans erased. This is a reverse of a Trump-era policy which only gave partial relief, The Associated Press reported.",
+      "path": "_news/2021-03-24-israel-election-results-may-push-benjamin-netanyahu-into-conflict-with-joe-biden.md",
+      "title": "Israel Election Results May Push Benjamin Netanyahu Into Conflict With Joe Biden",
+      "excerpt": "But with President Joe Biden in office, a further rightward pivot in Israel might pose a problem for Washington, D.C. Netanyahu and his allies have already earned the ire of American Democrats for human rights abuses of Palestinians in Israel, the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308",
-      "originalUrl": "https://www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308",
+      "webUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319",
+      "originalUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1762749/joe-biden-gives-remarks-columbus-ohio.jpg",
-          "width": 2579,
-          "height": 1716,
+          "url": "https://d.newsweek.com/en/full/1762761/netanyahu-addresses-likud-supporters-after-election-2021.jpg",
+          "width": 3738,
+          "height": 2409,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,9 +232,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-student-loans-senator-just-beginning-1578308?amp=1",
-      "publishedDateTime": "2021-03-24T03:17:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319?amp=1",
+      "publishedDateTime": "2021-03-24T02:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",
@@ -201,21 +262,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-israel-election-results-may-push-benjamin-netanyahu-into-conflict-with-joe-biden.md",
-      "title": "Israel Election Results May Push Benjamin Netanyahu Into Conflict With Joe Biden",
-      "excerpt": "But with President Joe Biden in office, a further rightward pivot in Israel might pose a problem for Washington, D.C. Netanyahu and his allies have already earned the ire of American Democrats for human rights abuses of Palestinians in Israel, the ...",
+      "path": "_news/2021-03-24-biden-says-100-million-relief-checks-to-be-distributed-by-wednesday.md",
+      "title": "Biden says 100 million relief checks to be distributed by Wednesday",
+      "excerpt": "The Biden administration will have distributed 100 million relief checks by Wednesday as part of a $1.9 trillion coronavirus stimulus package, President Joe Biden said on Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319",
-      "originalUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319",
+      "webUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1762761/netanyahu-addresses-likud-supporters-after-election-2021.jpg",
-          "width": 3738,
-          "height": 2409,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555951880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1N6",
+          "width": 737,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -223,16 +284,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319?amp=1",
-      "publishedDateTime": "2021-03-24T02:47:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BF2ZZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2ZZ",
+      "publishedDateTime": "2021-03-23T18:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -305,21 +366,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-duckworth-hirono-vow-to-oppose-biden-picks-over-diversity-concerns.md",
-      "title": "Duckworth, Hirono vow to oppose Biden picks over diversity concerns",
-      "excerpt": "say they will vote against President Biden Joe Biden The Hill's Morning Report - Biden leans heavily into gun control Justice Dept. faces risks, rewards with riot sedition charges Dems plan to ...",
+      "path": "_news/2021-03-24-biden-says-we-have-to-act-after-colorado-mass-shooting.md",
+      "title": "Biden says ‘we have to act’ after Colorado mass shooting",
+      "excerpt": "Democrats say they are pushing toward a vote on expanded gun control measures as the nation reels from it its second mass shooting in a week",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/544612-duckworth-and-hirono-vow-to-oppose-biden-picks-over-diversity-concerns",
-      "originalUrl": "https://thehill.com/homenews/senate/544612-duckworth-and-hirono-vow-to-oppose-biden-picks-over-diversity-concerns",
+      "webUrl": "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 245,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/duckworthtammy_hironomazie_032321getty.png",
-          "width": 980,
-          "height": 551,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -327,172 +388,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/544612-duckworth-and-hirono-vow-to-oppose-biden-picks-over-diversity-concerns?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/544612-duckworth-and-hirono-vow-to-oppose-biden-picks-over-diversity-concerns?amp",
-      "publishedDateTime": "2021-03-23T16:29:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-23T11:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-bidens-disciplined-agenda-rollout-tested-by-the-unexpected.md",
-      "title": "Biden's disciplined agenda rollout tested by the unexpected",
-      "excerpt": "In less than a week, two mass shootings have overshadowed President Joe Biden’s “Help is Here” tour, during which he planned to herald the ways his administration is helping Americans ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_8345d3a617554d8dbfe98309391d7205_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-disciplined-agenda-rollout-tested-unexpected-76640840",
-      "publishedDateTime": "2021-03-23T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-biden-says-we-have-to-act-on-gun-control-and-calls-on-senate-to-close-background-check-loophole.md",
-      "title": "Biden says \"we have to act\" on gun control and calls on Senate to close background check loophole",
-      "excerpt": "Before Biden advocated for the Senate to act on the two House-passed bills that would close loopholes in the background checks system, centrist Democrat Senator Joe Manchin of West Virginia told reporters that he opposes the measures. \"I mean, I come from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "originalUrl": "https://www.cbsnews.com/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/23/0f477749-841f-43b6-a5c7-b98a1a45ae73/thumbnail/1200x630/243cc0c97e4e49618c250b68b04cb62f/gettyimages-1308657015.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/",
-      "publishedDateTime": "2021-03-23T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-what-could-be-in-bidens-massive-infrastructure-bill-from-free-community-college-to-upgraded-roads-and-bridges.md",
-      "title": "What could be in Biden's massive infrastructure bill, from free community college to upgraded roads and bridges",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3",
-      "originalUrl": "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604940ed9942cf001865db46?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/heres-what-could-be-in-bidens-massive-infrastructure-bill-2021-3?amp",
-      "publishedDateTime": "2021-03-23T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -627,6 +532,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-23-biden-eyes-3t-package-for-infrastructure-schools-families.md",
+      "title": "Biden eyes $3T package for infrastructure, schools, families",
+      "excerpt": "Fresh off passage of COVID-19 relief, President Joe Biden is eyeing the next big White House priority — a sweeping $3 trillion package of investments on infrastructure and domestic needs",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_cafc315039ed4d92b9ad1b8b8df846ca_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
+      "publishedDateTime": "2021-03-22T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-senate-confirms-boston-mayor-marty-walsh-as-bidens-labor-secretary.md",
       "title": "Senate confirms Boston mayor Marty Walsh as Biden's labor secretary",
       "excerpt": "Cabinet nearly assembled but president still must make hundreds of other federal appointments",
@@ -687,7 +644,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -731,6 +688,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-23-fact-check-misleading-meme-features-a-digitally-flipped-image-of-biden-and-a-pixelated-still-grab.md",
+      "title": "Fact Check-Misleading meme features a digitally flipped image of Biden and a pixelated still grab",
+      "excerpt": "Some users on social media are sharing a collage of photographs of U.S. President Joe Biden that points out apparent differences between the images: the color of his eyes and his writing hand. “Blue eyes vs brown eyes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/factcheck-biden-misleadingmeme-idUSL1N2LK22A",
+      "originalUrl": "https://www.reuters.com/article/factcheck-biden-misleadingmeme-idUSL1N2LK22A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LK22A",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LK22A",
+      "publishedDateTime": "2021-03-22T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-sinema-cornyn-urge-biden-to-use-full-authorities-at-border.md",
       "title": "Sinema, Cornyn urge Biden to use 'full authorities' at border",
       "excerpt": "are teaming up to urge President Biden Joe Biden AstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's Morning Report - Biden: Back to the ...",
@@ -739,7 +739,7 @@
       "originalUrl": "https://thehill.com/homenews/senate/544323-sinema-cornyn-urge-biden-to-use-full-authorities-at-border",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -872,6 +872,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-unfair-and-out-of-touch-democrats-slam-bidens-white-house-staff-marijuana-policy.md",
+      "title": "'Unfair and out-of-touch': Democrats slam Biden's White House staff marijuana policy",
+      "excerpt": "Sources told The Daily Beast that dozens of young staffers under were suspended, asked to resign, or told to work remotely after informing the White House that they had smoked marijuana recreationally — a marked reversal from President Joe Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3",
+      "originalUrl": "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60560d061fcb5700186ee8e0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp",
+      "publishedDateTime": "2021-03-20T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1054,21 +1106,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-19-biden-to-meet-putin-when-the-time-is-right-white-house.md",
-      "title": "Biden to meet Putin 'when the time is right': White House",
-      "excerpt": "U.S. President Joe Biden, who said earlier this week he thought Vladimir Putin was a killer, will meet with the Russian leader \"when the time is right,\" the White House said on Friday.",
+      "path": "_news/2021-03-19-biden-meets-with-un-security-council-members-to-talk-climate.md",
+      "title": "Biden meets with UN Security Council members to talk climate",
+      "excerpt": "President Joe Biden has told the permanent representatives of the U.N. Security Council that the United States will join the international body’s Group of Friends on Climate and Society ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-russia-usa-biden-idUSKBN2BB20O",
-      "originalUrl": "https://www.reuters.com/article/us-russia-usa-biden-idUSKBN2BB20O",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 605,
       "tags": null,
       "images": [
         {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555509691&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I143",
-          "width": 817,
-          "height": 545,
+          "url": "https://s.abcnews.com/images/Health/WireAP_cb93cfce0f6f4c5a8e4aed32c7515b59_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1076,68 +1128,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BB20O",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB20O",
-      "publishedDateTime": "2021-03-19T09:02:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
+      "publishedDateTime": "2021-03-18T18:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-biden-administration-says-122-billion-of-covid-relief-will-go-to-schools-this-spring-we-want-our-students-back-in-school.md",
-      "title": "Biden administration says $122 billion of COVID relief will go to schools: \"This spring, we want our students back in school\"",
-      "excerpt": "The Biden administration is ramping up efforts to support schools reopening, announcing Wednesday that schools will receive $122 billion in COVID-19 relief funding. \"My priority right now is to safely reopen as many schools right now,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/jen-psaki-miguel-cardona-white-house-briefing-press-conference-live-stream-today-2021-03-17/",
-      "originalUrl": "https://www.cbsnews.com/news/jen-psaki-miguel-cardona-white-house-briefing-press-conference-live-stream-today-2021-03-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/17/c21930ce-b819-4df5-966d-40c459597957/thumbnail/1200x630/716189a7fc4eb05e0e487e02e595a19c/cbsn-fusion-education-secretary-miguel-cardona-students-in-school-thumbnail-671036-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/jen-psaki-miguel-cardona-white-house-briefing-press-conference-live-stream-today-2021-03-17/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jen-psaki-miguel-cardona-white-house-briefing-press-conference-live-stream-today-2021-03-17/",
-      "publishedDateTime": "2021-03-17T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1215,6 +1215,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-18-biden-sees-critical-need-to-maintain-good-friday-agreement-for-northern-ireland.md",
+      "title": "Biden sees critical need to maintain Good Friday agreement for Northern Ireland",
+      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden on Wednesday underscored his strong commitment to the landmark 1998 Good Friday peace agreement and the need to maintain the political and economic stability of Northern Ireland. “We strongly support that, ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-ireland/biden-sees-critical-need-to-maintain-good-friday-agreement-for-northern-ireland-idUSKBN2B912F",
+      "originalUrl": "https://www.reuters.com/article/us-usa-ireland/biden-sees-critical-need-to-maintain-good-friday-agreement-for-northern-ireland-idUSKBN2B912F",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555234590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1FO",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B912N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B912N",
+      "publishedDateTime": "2021-03-17T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-tough-to-withdraw-from-afghanistan-by-may.md",
       "title": "Biden: 'Tough' to withdraw from Afghanistan by May",
       "excerpt": "Withdrawing all U.S. troops from Afghanistan by May 1 as called for in a deal between the United States and the Taliban would be \"tough,\" President Biden Joe Biden Biden and Congress must take bold action to prevent violent extremism The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border crisis MORE said in an interview aired Wednesday,",
@@ -1223,7 +1275,7 @@
       "originalUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1275,7 +1327,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189",
       "featuredContent": null,
       "highlight": null,
-      "heat": 310,
+      "heat": 550,
       "tags": null,
       "images": [
         {
@@ -1319,58 +1371,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-17-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with-irish-pm.md",
-      "title": "Biden to affirm support for Good Friday Agreement in meeting with Irish PM",
-      "excerpt": "President Biden on Wednesday will speak via video with the prime minister of Ireland to mark St. Patrick's Day in a virtual version of what is typically an annual in-person celebration.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with",
-      "originalUrl": "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_030521getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543516-biden-to-affirm-support-for-good-friday-agreement-in-meeting-with?amp",
-      "publishedDateTime": "2021-03-17T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-03-17-biden-cuomo-should-resign-if-investigation-confirms-claims.md",
       "title": "Biden: Cuomo should resign if investigation confirms claims",
       "excerpt": "President Joe Biden says New York Gov. Andrew Cuomo should resign if the state attorney general’s investigation confirms the sexual harassment allegations against him",
@@ -1379,7 +1379,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1535,7 +1535,7 @@
       "originalUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {

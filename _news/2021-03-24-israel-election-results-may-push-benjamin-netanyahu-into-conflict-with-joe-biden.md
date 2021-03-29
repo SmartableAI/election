@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/israel-election-results-push-benjamin-netan
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319?amp=1"
 type: article
 quality: 135
-heat: 155
+heat: 195
 published: true
 
 provider:
@@ -47,6 +47,33 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Same-sex spouse fights government denial of death benefits in test for Biden administration"
+    excerpt: "Trump administration defended the Office of Personnel Management’s refusal to pay employee survivor benefits to same-sex spouse."
+    publishedDateTime: 2021-03-18T18:02:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/same-sex-government-death-benefits-/2021/03/18/ac8da2b0-873f-11eb-8a8b-5cf82c3dffe4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/same-sex-government-death-benefits-/2021/03/18/ac8da2b0-873f-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/same-sex-government-death-benefits-/2021/03/18/ac8da2b0-873f-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ID4WLNUHPMI6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 1030
+        isCached: true
+  - title: "Biden Cabinet complete but hundreds of vacancies remain"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — President Joe Biden’s Cabinet is nearly complete with the expected confirmation of Labor Secretary Marty Walsh on Monday."
+    publishedDateTime: 2021-03-22T21:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-cabinet-complete-but-hundreds-of-vacancies-remain-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-cabinet-complete-but-hundreds-of-vacancies-remain-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-cabinet-complete-but-hundreds-of-vacancies-remain-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "4LYQa7V3LvhHCO+stpbaNyeBVIqugKzRVzBm9u1Ve4uMAzj+JtHOgGEIUL8KXN+PX7gPYTWKUl0EMX2gwU3uV8MLIRY8Sqknq6TVetN6JsGgq3MY7LiufTJidAsIcXuRm612RXdTQKEj3oPAllrXrwIGx1LwXkOb779+WwzzpcN3b1oXk7qFSyawS2SEpsi6sp6/N5bgWEDkeNVBY7SnZ7rKoHgmeMdxLaOYu6vYYqc5ff2pSaeaiXsPauWgbRHH66hT6NdEfDEoBUGFDqoWd1szaL2XbxmuniSd+JdHLW3SQy2++ytwDe9wHWifcPKYVzGYR5qsh1YOui2Gos4UegRIgCtwCkEZd9SDZPWYQBj+rWgZirMDw/pl9lPvcDExsZ/cRbr2Ac5bM1VKBW6Mdc86jSNiR+qHE7P+6fh1DcEGFo7U9ARWa/xKzlNmpADOxpHeWQO5AYsY3qXToRZP1AbXxw+Y+gMwf+ygQGHxByMa0TOUZqt71I6qRdZ8xsW5c8xa4VJKoIdJkZlZ2chPZA==;9QOOm4s1HZpuIRw9qcApGA=="
 ---

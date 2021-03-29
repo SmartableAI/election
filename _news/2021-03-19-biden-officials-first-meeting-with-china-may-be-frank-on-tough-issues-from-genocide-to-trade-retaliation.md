@@ -47,6 +47,52 @@ related:
         width: 826
         height: 551
         isCached: true
+  - title: "Biden wants to explore keeping U.S. counter-terrorism troops in Afghanistan -top lawmaker"
+    excerpt: "House of Representatives Armed Services Committee Chairman Adam Smith’s comments provided new details of U.S. President Joe Biden’s conduct of the Afghanistan peace process that he inherited from the Trump administration. The State Department referred ..."
+    publishedDateTime: 2021-03-24T21:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-afghanistan-lawmaker-idUSL1N2LM3DS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG3E1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG3E1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556102487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N228"
+        width: 784
+        height: 545
+        isCached: true
+  - title: "Biden not ruling out chance US stays longer in Afghanistan"
+    excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
+    publishedDateTime: 2021-03-27T19:32:00Z
+    webUrl: "https://www.myjournalcourier.com/news/article/US-general-Afghans-need-US-troops-to-counter-16052900.php"
+    ampWebUrl: "https://www.myjournalcourier.com/news/amp/US-general-Afghans-need-US-troops-to-counter-16052900.php"
+    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/US-general-Afghans-need-US-troops-to-counter-16052900.php"
+    type: article
+    provider:
+      name: Journal-Courier
+      domain: myjournalcourier.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Biden not ruling out chance US stays longer in Afghanistan"
+    excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
+    publishedDateTime: 2021-03-27T11:51:00Z
+    webUrl: "https://www.riverbender.com/topnews/details.cfm?id=336095"
+    type: article
+    provider:
+      name: RiverBender.com
+      domain: riverbender.com
+    quality: 55
+    images:
+      - url: "https://s3.amazonaws.com/rbweb-ap-photos/843571e085fb4805a1402b9c7cb43149.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "LlpOEX0SI9fWemY9yZ6F07i2NM/o1auv27o+W/xAjOe6HljzHJ/tUJVIolytAXwSuSILBc8/2fnOzHo8MiB2sTbhboXf1mLGwooEaBsm8Rtri66t0qH2vUqDv+CAmY8evq0LBkS6ZqyvR3kShug9s1x52jT968FwdnrbZhFmuS83pQZSJnKd1VWYFSIoMgWJuN1SsolKs1hsmKbV4u69zsmB2zSbkCpEWH7YAi9Z+UHOTFAyoFMEDPvOi43o5XtVrZ35yHK7DC05X4xA7oLaIA5eRQc+KIB1x/kdYQwhQUoQM3hp8RnmAFajQ6gSsmtqUkgMlzdUirGlb+kMu9CtgF6CVkgcuEWNKaIcGByR4Qk=;D26MYJmXAecee0ANG90fVg=="
 ---

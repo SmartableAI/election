@@ -77,6 +77,86 @@ related:
         width: 968
         height: 545
         isCached: true
+  - title: "Biden under pressure over children crossing US-Mexico border – live"
+    excerpt: "Biden tells reports he will visit border ‘at some point’ as Mayorkas defends administration record"
+    publishedDateTime: 2021-03-22T13:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates?page=with:block-6058a1598f0824e5cc4fce39"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/65901ba675efc8d5e99ceb04cf1d52f68988985a/0_398_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9cfb0f78ea12ea23fd7e0fc973ffafd"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Border influx of migrants poses political threat to Biden"
+    excerpt: "White house press secretary says there is no crisis at the border When President Joe Biden entered office, he listed what he called \"four historic crises:\" the coronavirus pandemic, the economy ..."
+    publishedDateTime: 2021-03-23T09:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/mexico-us-border-rtr-jc-210309_1615335310890_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden calls for tighter gun control measures after Colorado shooting"
+    excerpt: "U.S. President Joe Biden on Tuesday called for a ban on assault weapons and tighter gun control measures as he stepped into the familiar role of grief counselor for a traumatized nation after a mass shooting left 10 people dead in Colorado."
+    publishedDateTime: 2021-03-24T03:27:00Z
+    webUrl: "https://www.reuters.com/article/us-colorado-shooting-biden-idUSKBN2BF168"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF168"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF168"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555921380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M0MY"
+        width: 677
+        height: 545
+        isCached: true
+  - title: "California senators calling on Biden to set date for phasing out gasoline cars"
+    excerpt: "The two U.S. senators representing California are calling on President Biden Joe Biden AstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's ..."
+    publishedDateTime: 2021-03-22T11:32:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/california_auto_emissions_09032019_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
+    excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget ..."
+    publishedDateTime: 2021-03-24T00:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a49908f08ca309c206435"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "How Obamacare Survived Trump and What Biden Is Doing Now"
     excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
     publishedDateTime: 2021-03-23T17:35:00Z
@@ -105,6 +185,22 @@ related:
         width: 1440
         height: 952
         isCached: true
+  - title: "Biden administration allows access to border facility -- but not ones over capacity"
+    excerpt: "Biden holds the first formal, solo news conference of his presidency Thursday. Biden administration allows camera inside border facility The Biden administration on Wednesday -- for the first time ..."
+    publishedDateTime: 2021-03-24T23:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/carizzo-springs-1-abc-er-210324_1616623526394_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Biden administration missed its own deadline for working out what to do with Trump's half-finished border wall"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden's administration has blown through a 60-day deadline by which it said it would figure out a plan for former President Donald Trump's border wall. Biden signed a proclamation on January 20, his first day in office ..."
     publishedDateTime: 2021-03-22T17:26:00Z
@@ -120,6 +216,84 @@ related:
       - url: "https://i.insider.com/6058ca73106eb50019d04ec6?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
+    excerpt: "White House says president will deliver brief remarks on hooting this afternoon, before leaving for a trip to Ohio"
+    publishedDateTime: 2021-03-23T14:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-6059fcc08f087d1707c11a88"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
+    excerpt: "White House says president will deliver brief remarks on shooting this afternoon, before leaving for a trip to Ohio – get all the latest news"
+    publishedDateTime: 2021-03-23T17:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a1b4e8f08e6550a16ff4b"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "What’s causing the migrant surge at the U.S. border? Poverty, violence and hopes for Biden."
+    excerpt: "A rising number of migrants are streaming to the U.S. southern border — more than 100,000 were detained in February alone. U.S. officials expected the influx to hit a 20-year high this year, posing a major challenge to Biden and his promise to adopt more humane immigration policies."
+    publishedDateTime: 2021-03-18T22:54:00Z
+    webUrl: "https://www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJ2UUZEIEMI6XP67JU3NVOB2NU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – as it happened"
+    excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh, Joan E Greve and Martin Belam Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget proposal in the coming ..."
+    publishedDateTime: 2021-03-24T00:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a3ad78f08e6550a17010e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Psaki: Biden doesn't regret calling Putin a killer"
+    excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
+    publishedDateTime: 2021-03-18T19:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump Slams Biden's US-Mexico Border Control: 'A National Disaster'"
     excerpt: "Donald Trump on Sunday slammed President Joe Biden over his response to the influx of migrants at the southern border, calling it a “national disaster.” In his fiery statement"

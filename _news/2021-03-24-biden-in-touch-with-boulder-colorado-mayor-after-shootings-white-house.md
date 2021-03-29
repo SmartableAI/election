@@ -31,51 +31,97 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to meet Putin 'when the time is right': White House"
-    excerpt: "U.S. President Joe Biden, who said earlier this week he thought Vladimir Putin was a killer, will meet with the Russian leader \"when the time is right,\" the White House said on Friday."
-    publishedDateTime: 2021-03-19T16:02:00Z
-    webUrl: "https://www.reuters.com/article/us-russia-usa-biden-idUSKBN2BB20O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BB20O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BB20O"
+  - title: "Biden says ‘we have to act’ after Colorado mass shooting"
+    excerpt: "Democrats say they are pushing toward a vote on expanded gun control measures as the nation reels from it its second mass shooting in a week"
+    publishedDateTime: 2021-03-23T18:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "'My heart goes out,' Biden says on Colorado shooting, pushing gun control"
+    excerpt: "Biden comments on Boulder mass shooting For the second time in just a week, President Joe Biden has been forced to address a mass shooting around travel scheduled to promote his COVID relief plan ..."
+    publishedDateTime: 2021-03-23T22:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-ap-jef-210323_1616522339491_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden Demanded The Senate Act On Gun Control After 10 People Were Killed In Colorado"
+    excerpt: "The president called on Congress to close background check loopholes and ban assault weapons after shootings in Boulder, Colorado, and Atlanta."
+    publishedDateTime: 2021-03-23T17:40:00Z
+    webUrl: "https://www.buzzfeednews.com/article/mattberman/boulder-shooting-joe-biden-gun-control-congress"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/mattberman/boulder-shooting-joe-biden-gun-control-congress"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/mattberman/boulder-shooting-joe-biden-gun-control-congress"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 116
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-03/22/20/campaign_images/260b3070742b/now-this-is-weird-but-we-can-guess-your-eye-color-2-8505-1616446033-32_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "'We have to act’ on gun control: Biden reacts to Colorado"
+    excerpt: "Biden reacts to Colorado. Posted . U.S. President Joe Biden on Tuesday called for a ban on assault weapons and tighter gun control meas"
+    publishedDateTime: 2021-03-23T19:06:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE5B70F3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 105
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210319&t=2&i=1555509691&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2I143"
-        width: 817
-        height: 545
+      - url: "https://static.reuters.com/resources/r/?d=20210323&i=OVE5B70F3&r=OVE5B70F3&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Undocumented immigrants see 'light of hope' in Biden relief plan which gives aid to their U.S.-born children"
-    excerpt: "Undocumented workers were mostly left out of past COVID relief. Biden's $1.9 trillion plan would open that door through payments to their children."
-    publishedDateTime: 2021-03-15T22:49:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4709977001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4709977001"
+  - title: "'We have to act': Biden calls on Congress to move fast on background checks, assault weapon ban after Boulder shooting"
+    excerpt: "I don't need to wait another minute, let alone an hour, to take common sense steps that will save the lives in the future,' the president said."
+    publishedDateTime: 2021-03-23T17:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/23/mass-shooting-biden-calls-congress-pass-background-check-bills/6965613002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6965613002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6965613002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 106
+    quality: 101
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/11/PNJM/56b66752-bcca-4b40-b322-99f5b37ab7d2-jl_MORENO_FAMILY_31121_01.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/03/22/USAT/7f4ecad5-9e83-445c-9a21-554f6bf7529f-AFP_AFP_96D7DN.jpg?auto=webp&crop=3803,2140,x0,y212&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Police unions and civil-rights groups are rarely on the same page. They both see an ally in this Biden Justice Department nominee."
-    excerpt: "Associate Attorney General nominee Vanita Gupta is seen as a potential bridge between progressives and the White House as it pushes for bolder criminal justice reform policies."
-    publishedDateTime: 2021-03-16T02:16:00Z
-    webUrl: "https://www.businessinsider.com/vanita-gupta-associate-attorney-general-justice-department-doj-police-reform-2021-3"
+  - title: "'It will save lives': Joe Biden calls for gun reform after Colorado shooting – video"
+    excerpt: "The US president called on lawmakers to toughen the country's gun laws, close the loopholes in the background checks system and ban assault weapon and high-capacity magazines"
+    publishedDateTime: 2021-03-24T09:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/24/save-lives-joe-biden-gun-reform-colorado-shooting-video"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
     images:
-      - url: "https://i.insider.com/604fb8023c6489001943b3ad?width=700"
-        width: 700
-        height: 525
+      - url: "https://i.guim.co.uk/img/media/6648efc24e7ea2efc2448703ea317343faa277ef/0_267_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f13ff06d77b1f7c26485e062e6eecfa5"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "D1VJhvpzsafLfWI28mXZ0rDd0pyEuQNM+yhGN5gbkG9DO3TfnqFdQQj/0HNJfHH3VaRFSEvpyY667sPPL6jfz36tOyDapn/JCa1QqJuiKW3ZYZR2zCNEsG3Efc+W5BhX5BXgONvMDdVWa8UfoKYWBcRne8oMzXPyf3MWTYZ/P3Xna9Zgv/9lxGzlkNa2FOWklEfvhLrD0NMvq7HTMVAkxTHAqgg7AC7g/MrAEuLVyxqP07+yLYisp7DanMibPIncoFv2yN5EbQ3WEo0Yn6okL21Wr4l+GIFEZfXJg7qMWg3+N1XKn/ERj+mY1GxLQEtO2CYCFFGFifMD7RzoN1/3pgS2hXPddV0UNMfZG4axv/M=;mk0OPgr+w6fMFHkqP/TCsA=="

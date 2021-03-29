@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate"
 type: article
 quality: 118
-heat: 138
+heat: 118
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Alert: President Joe Biden says during news conference: 'My plan is to run for reelection' in 2024"
-    excerpt: "President Joe Biden says during news conference: 'My plan is to run for reelection' in 2024."
-    publishedDateTime: 2021-03-25T23:20:00Z
-    webUrl: "https://www.michigansthumb.com/news/article/Alert-President-Joe-Biden-says-during-news-16053157.php"
-    ampWebUrl: "https://www.michigansthumb.com/news/amp/Alert-President-Joe-Biden-says-during-news-16053157.php"
-    cdnAmpWebUrl: "https://www-michigansthumb-com.cdn.ampproject.org/c/s/www.michigansthumb.com/news/amp/Alert-President-Joe-Biden-says-during-news-16053157.php"
-    type: article
-    provider:
-      name: Huron Daily Tribune
-      domain: michigansthumb.com
-    quality: 76
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "6q5P3sixL8wX5gMF0ZsOmopOHLC4EAW4+v/86foiA5Ew0yPfRWvItFrP0QWsw5FYJQ6jQDL0kcBLP0tV9VgkwoMHbUnUMuOF4PlqVK7JpR+3QfbJCDXx3O/28vpnz8WAX3PN+AyRvXo7/K3tOhH/6NLwaur3IvqdjUeYjIMUvCrx/yjsqQ796UnGpWm+WzILy8FXC/90+VZ9lwMvlqT70iHuKPS6zactn9gVKVtufQIZFK4uZPl3PT2ebaAzCSip4WNB6eq+6m2fw8ktKWXom5O1+883w6ZLzO44c0R0Ww9PNY/+bkrv9e7Ka5V5NlmIg6vPXOQWhRris2U9Qvb3GngrRWj7Y+aDJhGbaYavElM=;hwzkIhIk0Iil8CPGmN4pjg=="
 ---

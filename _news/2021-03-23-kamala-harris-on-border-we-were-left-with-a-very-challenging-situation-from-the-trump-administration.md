@@ -252,6 +252,22 @@ related:
         width: 936
         height: 702
         isCached: true
+  - title: "Can the Biden Administration Stop China?"
+    excerpt: "The acrid atmosphere last week at the Captain Cook Hotel in Anchorage, Alaska, with its vivid murals of the 18th-century British seafarer James"
+    publishedDateTime: 2021-03-26T11:21:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/26/can_the_biden_administration_stop_china_145483.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/26/can_the_biden_administration_stop_china_145483.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/26/can_the_biden_administration_stop_china_145483.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/538353_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Kamala Harris Has a Message for American Women"
     excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
     publishedDateTime: 2021-03-26T11:19:00Z

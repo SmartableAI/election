@@ -2,118 +2,6 @@
   "page": 37,
   "value": [
     {
-      "path": "_news/2021-01-26-schumer-suggests-biden-declare-climate-emergency.md",
-      "title": "Schumer suggests Biden declare 'climate emergency'",
-      "excerpt": "Senate Democratic Leader Chuck Schumer suggested Monday that President Biden consider declaring an emergency on climate change.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VgxiybkVqSk/schumer-suggests-biden-declare-climate-emergency",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VgxiybkVqSk/schumer-suggests-biden-declare-climate-emergency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/e086b04b-AP20365586336985.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-suggests-biden-declare-climate-emergency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-suggests-biden-declare-climate-emergency.amp",
-      "publishedDateTime": "2021-01-26T09:57:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-haley-says-biden-rejoining-un-human-rights-council-would-fly-in-the-face-of-rights-push.md",
-      "title": "Haley says Biden rejoining UN Human Rights Council would 'fly in the face' of rights push",
-      "excerpt": "Former U.N. Ambassador Nikki Haley on Monday warned that a potential move by President Biden to rejoin the controversial U.N. Human Rights Council would \"fly in the face\" of the fight for human rights.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHZoYfp-BYE/haley-biden-un-human-rights-council",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHZoYfp-BYE/haley-biden-un-human-rights-council",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f694961-f85e-4fd8-935e-79ea248f7cd1/b31dcb3e-4820-4026-926c-7c4036fa58c1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/haley-biden-un-human-rights-council.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-biden-un-human-rights-council.amp",
-      "publishedDateTime": "2021-01-26T08:51:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-biden-to-halt-new-oil-and-gas-leases-on-federal-lands-wednesday.md",
       "title": "Biden to halt new oil and gas leases on federal lands Wednesday",
       "excerpt": "President Joe Biden is set to order a moratorium on new oil and gas leases on federal lands on Wednesday, according to a person familiar with his plans.\n    \n",
@@ -1358,6 +1246,118 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-fauci-birx-were-right-to-stay-on-trump-coronavirus-task-force-former-surgeon-general-says.md",
+      "title": "Fauci, Birx were right to stay on Trump coronavirus task force, former surgeon general says",
+      "excerpt": "Former Surgeon General Dr. Jerome Adams defended Trump administration coronavirus task force members Dr. Anthony Fauci and Dr. Deborah Birx over criticism that they should have quit working for former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0gM8Vq2rbP0/fauci-birx-jerome-adams-trump-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0gM8Vq2rbP0/fauci-birx-jerome-adams-trump-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jerome-Adams.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fauci-birx-jerome-adams-trump-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-birx-jerome-adams-trump-coronavirus.amp",
+      "publishedDateTime": "2021-01-25T06:52:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.md",
+      "title": "1 in 5 Americans have confidence Biden can unite the country: poll",
+      "excerpt": "Just one in five Americans have “a great deal of confidence” in President Biden’s ability to make good on his goal to unify the country, according to a new poll released Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vFoIpaK4fws/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vFoIpaK4fws/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 555,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20de377f-52eb-4d97-9de0-1949e9de080e/da946feb-d2c8-402f-9d32-9e153b1e2eca/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp",
+      "publishedDateTime": "2021-01-25T06:47:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

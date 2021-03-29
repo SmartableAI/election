@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "How Democrats can use Biden's $1.9tn Covid relief to win the midterms"
+    excerpt: "The bill’s passage may be the party’s best chances of avoiding a historical trend and keeping control of both chambers of Congress after next year’s elections"
+    publishedDateTime: 2021-03-21T08:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/joe-biden-covid-relief-democrats-house-senate-midterms"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/36721cec76203c89a10b492b5771b487e324afc9/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=379038a57514036f62f627ad841e40bc"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden to focus on economic recovery after Covid as 17.5m vaccine shots given in US - live updates"
     excerpt: "Calls to delay Donald Trump impeachment trial as former president appoints defense lawyer Bowers"
     publishedDateTime: 2021-01-22T10:48:00Z
@@ -92,6 +108,22 @@ related:
     quality: 120
     images:
       - url: "https://i.guim.co.uk/img/media/fe78b211bfccc74f50dc04eb41c3692d5b3c570b/0_40_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9dcc227f4e6e0918a04f9277c0f430f2"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden touts $1.9tn Covid rescue package on anniversary of Affordable Care Act"
+    excerpt: "Administration also extended the enrollment period for registering for subsidized health insurance coverage until 15 August"
+    publishedDateTime: 2021-03-24T01:44:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/23/joe-biden-covid-rescue-package-affordable-care-act"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/23/joe-biden-covid-rescue-package-affordable-care-act"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/23/joe-biden-covid-rescue-package-affordable-care-act"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/70b1d30c7d4e08e1536e088791196abca180fb54/0_203_4218_2531/master/4218.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaac89c77e6afa761a7a58caf53c2493"
         width: 600
         height: 360
         isCached: true

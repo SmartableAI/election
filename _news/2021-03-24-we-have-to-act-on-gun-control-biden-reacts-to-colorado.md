@@ -29,19 +29,97 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says \"we have to act\" on gun control and calls on Senate to close background check loophole"
-    excerpt: "Before Biden advocated for the Senate to act on the two House-passed bills that would close loopholes in the background checks system, centrist Democrat Senator Joe Manchin of West Virginia told reporters that he opposes the measures. \"I mean, I come from ..."
-    publishedDateTime: 2021-03-23T23:07:00Z
-    webUrl: "https://www.cbsnews.com/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/boulder-shooting-president-biden-remarks-watch-live-stream-today-2021-03-23/"
+  - title: "Biden says ‘we have to act’ after Colorado mass shooting"
+    excerpt: "Democrats say they are pushing toward a vote on expanded gun control measures as the nation reels from it its second mass shooting in a week"
+    publishedDateTime: 2021-03-23T18:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/23/0f477749-841f-43b6-a5c7-b98a1a45ae73/thumbnail/1200x630/243cc0c97e4e49618c250b68b04cb62f/gettyimages-1308657015.jpg"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden in touch with Boulder, Colorado mayor after shootings: White House"
+    excerpt: "U.S. President Joe Biden spoke with the mayor of Boulder, Colorado earlier on Wednesday in the wake of a deadly shooting there, White House press secretary Jen Psaki said, noting any travel to the region would be done in consultation with local officials."
+    publishedDateTime: 2021-03-24T16:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-colorado-shooting-idUSKBN2BG2TM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG2TM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG2TM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556073888&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1QT"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "'My heart goes out,' Biden says on Colorado shooting, pushing gun control"
+    excerpt: "Biden comments on Boulder mass shooting For the second time in just a week, President Joe Biden has been forced to address a mass shooting around travel scheduled to promote his COVID relief plan ..."
+    publishedDateTime: 2021-03-23T22:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-ap-jef-210323_1616522339491_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden Demanded The Senate Act On Gun Control After 10 People Were Killed In Colorado"
+    excerpt: "The president called on Congress to close background check loopholes and ban assault weapons after shootings in Boulder, Colorado, and Atlanta."
+    publishedDateTime: 2021-03-23T17:40:00Z
+    webUrl: "https://www.buzzfeednews.com/article/mattberman/boulder-shooting-joe-biden-gun-control-congress"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/mattberman/boulder-shooting-joe-biden-gun-control-congress"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/mattberman/boulder-shooting-joe-biden-gun-control-congress"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 116
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-03/22/20/campaign_images/260b3070742b/now-this-is-weird-but-we-can-guess-your-eye-color-2-8505-1616446033-32_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "'We have to act': Biden calls on Congress to move fast on background checks, assault weapon ban after Boulder shooting"
+    excerpt: "I don't need to wait another minute, let alone an hour, to take common sense steps that will save the lives in the future,' the president said."
+    publishedDateTime: 2021-03-23T17:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/23/mass-shooting-biden-calls-congress-pass-background-check-bills/6965613002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6965613002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6965613002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/22/USAT/7f4ecad5-9e83-445c-9a21-554f6bf7529f-AFP_AFP_96D7DN.jpg?auto=webp&crop=3803,2140,x0,y212&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'It will save lives': Joe Biden calls for gun reform after Colorado shooting – video"
+    excerpt: "The US president called on lawmakers to toughen the country's gun laws, close the loopholes in the background checks system and ban assault weapon and high-capacity magazines"
+    publishedDateTime: 2021-03-24T09:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/24/save-lives-joe-biden-gun-reform-colorado-shooting-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/6648efc24e7ea2efc2448703ea317343faa277ef/0_267_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f13ff06d77b1f7c26485e062e6eecfa5"
         width: 1200
         height: 630
         isCached: true

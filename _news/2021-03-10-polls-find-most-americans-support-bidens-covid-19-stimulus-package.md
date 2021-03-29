@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6936053002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002"
 type: article
 quality: 125
-heat: 685
+heat: 825
 published: true
 
 provider:
@@ -78,6 +78,70 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden to name Sperling to oversee COVID-19 relief package"
+    excerpt: "A White House official says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package"
+    publishedDateTime: 2021-03-15T14:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-sperling-oversee-covid-19-relief-package-76466460"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-sperling-oversee-covid-19-relief-package-76466460"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-sperling-oversee-covid-19-relief-package-76466460"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_1f585f6d25c046ac96827091c1f322cd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Advocates seek Biden push on gun bills, but prospects iffy"
+    excerpt: "The House recently passed legislation that would require background checks for gun purchases, a signature Democratic issue for decades"
+    publishedDateTime: 2021-03-16T04:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden taps Gene Sperling to oversee COVID-19 relief package"
+    excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package ..."
+    publishedDateTime: 2021-03-15T18:22:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_1f585f6d25c046ac96827091c1f322cd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "U.S. talking to several countries about extra COVID-19 vaccine: Biden"
+    excerpt: "U.S. President Joe Biden said on Tuesday the United States is in talks with several countries about who will get any extra doses of COVID-19 vaccines."
+    publishedDateTime: 2021-03-16T19:05:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555107585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1HQ"
+        width: 763
+        height: 545
         isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
@@ -319,6 +383,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Promising people vaccine shots and cash payments, Biden White House kicks off stimulus tour"
+    excerpt: "WASHINGTON (Reuters) - With a promise of “shots in arms and money in pockets,” President Joe Biden on Monday kicked off a week of promotion and travel for the $1.9 trillion pandemic relief bill he signed into law last week to help the country move past ..."
+    publishedDateTime: 2021-03-16T01:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-tour-idUSKBN2B7137"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B7137"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B7137"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554984909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E0O2"
+        width: 805
+        height: 545
+        isCached: true
   - title: "Biden poised for first major legislative victory with House vote on $1.9tn Covid relief – live"
     excerpt: "Jay Ashcroft, the Missouri secretary of state, has said he does not plan to run for the US Senate next year. “After intense, prayerful consideration we have decided to remain devoted to the work Missouri voters have entrusted to me as secretary of state ..."
     publishedDateTime: 2021-03-10T15:07:00Z
@@ -383,6 +463,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ohio's attorney general is suing the Biden administration over the $1.9 trillion COVID-19 stimulus bill"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
+    publishedDateTime: 2021-03-17T18:20:00Z
+    webUrl: "https://www.businessinsider.com/ohio-attorney-general-suing-biden-administration-stimulus-bill-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/ohio-attorney-general-suing-biden-administration-stimulus-bill-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ohio-attorney-general-suing-biden-administration-stimulus-bill-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/604fa9bffe6a340019acec25?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Live updates: President Joe Biden will sign COVID-19 stimulus package on Friday; Pelosi, Schumer laud it"
     excerpt: "Joe Biden announced his COVID-19 stimulus plan before he even entered office. It's up for a final vote Wednesday in the House."
     publishedDateTime: 2021-03-10T20:26:00Z
@@ -442,6 +538,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/ab387543-2f21-412d-a360-e1217b78d450-a9951c60-0a2b-4258-8681-1301da9ed212_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "How Capital Gains Are Taxed and What Biden Might Do"
+    excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
+    publishedDateTime: 2021-03-16T23:50:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-capital-gains-are-taxed-and-what-biden-might-do/2021/03/16/67202cf8-86b2-11eb-be4a-24b89f616f2c_story.html?amp;amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MY35HQUGWII6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
   - title: "Biden's relief bill isn't getting bipartisan support like previous stimulus bills. What do Republicans dislike so much?"
     excerpt: "Republican Senators have described President Joe Biden's COVID-19 stimulus plan as a \"clunker,\" \"bad politics\" and “wildly expensive.\" The legislation, dubbedthe"

@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden puts muscle into implementing relief package"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate This ..."
+    publishedDateTime: 2021-03-15T22:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package"
+    ampWebUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030421getty_optimism.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden tells migrants 'don't come over' in ABC News exclusive interview"
     excerpt: "The president spoke with ABC News' George Stephanopoulos. On Location: March 16, 2021 President Joe Biden said in an exclusive interview with ABC News' George Stephanopoulos on Tuesday that his ..."
     publishedDateTime: 2021-03-16T23:08:00Z
@@ -92,6 +108,86 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/US/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Putin points finger at US after Biden's 'killer' remark"
+    excerpt: "Russian President Vladimir Putin says that U.S. President Joe Biden’s remarks about him reflect the United States' own past and current problems Russia cracks down on Putin’s opposition MOSCOW ..."
+    publishedDateTime: 2021-03-18T12:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/russia-warns-scale-response-bidens-statement-76530030"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/russia-warns-scale-response-bidens-statement-76530030"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/russia-warns-scale-response-bidens-statement-76530030"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_91967fa26edc4c13be5abe16085a4238_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Putin wishes Biden 'good health' after killer accusation"
+    excerpt: "Diplomatic spat intensifies after Joe Biden said Russian president would pay price for election meddling Last modified on Thu 18 Mar 2021 09.13 EDT Vladmir Putin has wished Joe Biden “good health” as Kremlin officials lashed out at the “demented ..."
+    publishedDateTime: 2021-03-18T12:13:00Z
+    webUrl: "https://www.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology?fbclid=IwAR2p2axhusLyb7MLzwQB9BP5NCN0u0AXptTuNLKpJtapaSGzoq3fNMG8rpc"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/f3fc03741c62d2842d184e856f13cbfd21d48a53/0_623_5616_3370/master/5616.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e36063787e10c524ed227a1f0bafae79"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Kremlin: Putin's offer of a call with Biden was to save ties"
+    excerpt: "Kremlin: Putin's offer of a call with Biden was to save ties The Kremlin says that President Vladimir Putin’s offer to speak by phone with U.S. President Joe Biden is intended to prevent ..."
+    publishedDateTime: 2021-03-19T16:18:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_7617f5f10e8043a48d45967b73a84d27_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Putin challenges Biden to debate after president calls him a 'killer'"
+    excerpt: "Biden spoke out about the Russian president in an ABC News interview this week. Examined: How Putin keeps power Russian President Vladimir Putin has reacted to President Joe Biden calling him a ..."
+    publishedDateTime: 2021-03-18T18:11:00Z
+    webUrl: "https://abcnews.go.com/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    ampWebUrl: "https://abcnews.go.com/amp/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/vladimir-putin-debate-challenge-02-rt-llr-210318_1616089376917_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Russia criticizes US refusal to hold quick Putin-Biden call"
+    excerpt: "The Russian Foreign Ministry says Washington rejected President Vladimir Putin’s offer to arrange a quick public call with U.S. President Joe Biden to help defuse tensions raised by Biden’s recent rem"
+    publishedDateTime: 2021-03-22T14:16:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/russia-criticizes-us-refusal-hold-quick-putin-biden-76605445"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/russia-criticizes-us-refusal-hold-quick-putin-biden-76605445"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/russia-criticizes-us-refusal-hold-quick-putin-biden-76605445"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/WNT/210318_wn_bruce_645_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -110,6 +206,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555329844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0NN"
         width: 817
         height: 545
+        isCached: true
+  - title: "'Takes one to know one': Putin-Biden spat escalates after 'killer' accusation"
+    excerpt: "Officials in Moscow go on offensive after Biden said Russian president would pay price for election meddling Last modified on Thu 18 Mar 2021 11.30 EDT Vladimir Putin has told Joe Biden that “it takes one to know one”, as Kremlin officials promised ..."
+    publishedDateTime: 2021-03-18T14:30:00Z
+    webUrl: "https://www.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology?via=webuproar"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/f3fc03741c62d2842d184e856f13cbfd21d48a53/0_623_5616_3370/master/5616.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e36063787e10c524ed227a1f0bafae79"
+        width: 600
+        height: 360
         isCached: true
   - title: "Joe Biden administration will devote $650 million to help schools expand testing"
     excerpt: "During his prime time speech Thursday, President Joe Biden noted his announcement last week to vaccinate teachers and school officials by the end of March will help the majority of K-8 schools reopen within his first 100 days in office, or by the end of ..."
@@ -159,6 +271,74 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "‘No end in sight’: Inside the Biden administration’s failure to contain the border surge"
+    excerpt: "(Guillermo Arias/AFP/Getty Images) Shortly before Christmas last year, Susan Rice and Jake Sullivan, two top advisers to President-elect Joe Biden, sat for an interview with EFE, a Spanish wire service, to issue a stark warning to migrants considering ..."
+    publishedDateTime: 2021-03-20T20:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZYRJAT6AII6XM6RTZNKHVJCBQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
+    excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"
+    publishedDateTime: 2021-03-14T00:35:00Z
+    webUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZYDDWEELUI6XAO3WAXQHGHUTI.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "Biden defends inaction against Saudi crown prince in killing"
+    excerpt: "President Joe Biden defended his decision to waive any punishment for in the killing of a U.S.-based journalist, claiming that acting against the Saudi royal would have been diplomatically unprecedented for the United States."
+    publishedDateTime: 2021-03-17T14:44:00Z
+    webUrl: "https://www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Putin cites ills in US society after Biden's killer remark"
+    excerpt: "Russian President Vladimir Putin has responded to U.S. President Joe Biden’s description of him as a killer by citing America's own past and current problems MOSCOW -- President Vladimir Putin ..."
+    publishedDateTime: 2021-03-18T15:11:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/russia-warns-scale-response-bidens-statement-76530029"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_91967fa26edc4c13be5abe16085a4238_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Russian rouble steadies after Biden comments cause sell-off"
+    excerpt: "The rouble was flat against the dollar on Thursday, steadying after a sell-off in Russian assets triggered by U.S. President Joe Biden saying his Russian counterpart Vladimir Putin would pay for attempted election interference."
+    publishedDateTime: 2021-03-18T07:11:00Z
+    webUrl: "https://www.reuters.com/article/russia-markets/russian-rouble-steadies-after-biden-comments-cause-sell-off-idUSL8N2LG1PV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LG1PV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LG1PV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "White House press secretary Jen Psaki says Biden doesn't regret calling Putin a 'killer' after Russia recalls its US ambassador"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden doesn't regret agreeing with ABC News' George Stephanopoulos during recent interview that Russian President Vladimir Putin is \"a killer,\" White House press secretary Jen Psaki said Thursday. In a highly unusual ..."
     publishedDateTime: 2021-03-18T19:01:00Z

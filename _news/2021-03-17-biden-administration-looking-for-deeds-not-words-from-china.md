@@ -25,20 +25,20 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden's top diplomat calls for deeper Japan ties, as China, North Korea cast shadow"
-    excerpt: "U.S. Secretary of State Antony Blinken on Tuesday called for deeper economic and security ties with Japan, as he and Defence Secretary Lloyd Austin seek to use their first trip abroad to strengthen Asian alliances in the face of China's assertiveness."
-    publishedDateTime: 2021-03-16T06:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-asia-blinken-japan-idUSKBN2B71C9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B71C9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B71C9"
+  - title: "White House says Biden discussed China challenges with leaders from India, Japan, Australia"
+    excerpt: "U.S. President Joe Biden discussed challenges posed by China with leaders from India, Japan and Australia in a meeting on Friday, White House national security adviser Jake Sullivan said."
+    publishedDateTime: 2021-03-12T18:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-asia-diplomacy-idUSKBN2B42C4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B42C4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42C4"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 119
+    quality: 115
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555035634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0E8"
-        width: 816
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554718026&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B1DK"
+        width: 817
         height: 545
         isCached: true
 

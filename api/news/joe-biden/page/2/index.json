@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-16-bidens-top-diplomat-calls-for-deeper-japan-ties-as-china-north-korea-cast-shadow.md",
-      "title": "Biden's top diplomat calls for deeper Japan ties, as China, North Korea cast shadow",
-      "excerpt": "U.S. Secretary of State Antony Blinken on Tuesday called for deeper economic and security ties with Japan, as he and Defence Secretary Lloyd Austin seek to use their first trip abroad to strengthen Asian alliances in the face of China's assertiveness.",
+      "path": "_news/2021-03-16-undocumented-immigrants-see-light-of-hope-in-biden-relief-plan-which-gives-aid-to-their-us-born-children.md",
+      "title": "Undocumented immigrants see 'light of hope' in Biden relief plan which gives aid to their U.S.-born children",
+      "excerpt": "Undocumented workers were mostly left out of past COVID relief. Biden's $1.9 trillion plan would open that door through payments to their children.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-asia-blinken-japan-idUSKBN2B71C9",
-      "originalUrl": "https://www.reuters.com/article/us-usa-asia-blinken-japan-idUSKBN2B71C9",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555035634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0E8",
-          "width": 816,
-          "height": 545,
+          "url": "https://www.gannett-cdn.com/presto/2021/03/11/PNJM/56b66752-bcca-4b40-b322-99f5b37ab7d2-jl_MORENO_FAMILY_31121_01.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B71C9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B71C9",
-      "publishedDateTime": "2021-03-15T23:29:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4709977001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4709977001",
+      "publishedDateTime": "2021-03-15T15:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-for-biden-theres-no-place-like-a-weekend-home-in-delaware.md",
+      "title": "For Biden, there's no place like a weekend home in Delaware",
+      "excerpt": "For President Joe Biden, there's no place like a weekend home in Delaware WILMINGTON, Del. -- As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_3b0cbd70660341528ecdc742bc6d4056_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
+      "publishedDateTime": "2021-03-13T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-asia-diplomacy-idUSKBN2B42C4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -218,7 +270,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -242,58 +294,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-bidens-party-line-approach-in-congress-has-worked-so-far-but-sen-joe-manchin-wants-bipartisanship.md",
-      "title": "Biden’s party-line approach in Congress has worked so far. But Sen. Joe Manchin wants bipartisanship.",
-      "excerpt": "Manchin has reiterated that he believes the 60-vote requirement is what makes the Senate a unique legislative body across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
-      "originalUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I37U2VEB7YI6XLBXIOB7O4E2XY.jpg&w=1440",
-          "width": 1440,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-11T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -374,7 +374,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 685,
+      "heat": 825,
       "tags": null,
       "images": [
         {
@@ -391,58 +391,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/6936053002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002",
       "publishedDateTime": "2021-03-10T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-biden-dogs-are-in-delaware-while-jill-biden-travels-after-major-caused-a-minor-injury.md",
-      "title": "Biden dogs are in Delaware while Jill Biden travels after Major caused a 'minor injury'",
-      "excerpt": "The statements came Tuesday after CNN reported Monday that President Joe Biden and first lady Jill Biden's two German shepherds returned to their family home in Delaware last week following \"aggressive behavior at the White House\" involving Major.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/05/USAT/8953951b-8480-4aa9-bd02-06c6ebe10ae8-VPC_JILL_BIDEN_PSA_PUPPY_BOWL_DESK_THUMB.00_00_20_18.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4640961001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4640961001",
-      "publishedDateTime": "2021-03-10T03:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -748,7 +696,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-nord-stream-2-cruz-idINKBN2AY0FI",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1554,6 +1502,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-biden-facing-resistance-in-congress-courts-gop-governors.md",
+      "title": "Biden, facing resistance in Congress, courts GOP governors",
+      "excerpt": "Biden is spending at least as much time courting Republican governors as he is wooing the senators he needs to pass legislation in Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3R4GDTW3II6XFJXJFQVRTC73E.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-25T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

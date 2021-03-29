@@ -2,119 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-02-23-trump-administration-deserves-credit-for-breathtaking-operation-warp-speed-success-nih-director.md",
-      "title": "Trump administration deserves credit for 'breathtaking' Operation Warp Speed success: NIH director",
-      "excerpt": "National Institutes of Health director Dr. Francis Collins praised the Trump administration on Sunday for the \"breathtaking\" success of Operation Warp Speed in getting multiple effective coronavirus vaccines developed and tested within one year of the virus outbreak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director",
-      "originalUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/370e43ef-5b8f-448a-b40c-4be5e2db8ecc/2a546d21-7544-4865-ae15-9ad81e022ea5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director.amp",
-      "publishedDateTime": "2021-02-22T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-rep-biggs-urges-biden-to-keep-to-timeline-for-us-withdrawal-from-afghanistan.md",
-      "title": "Rep. Biggs urges Biden to keep to timeline for US withdrawal from Afghanistan",
-      "excerpt": "Rep. Andy Biggs, R-Ariz., on Monday urged President Biden to keep to the current timeline for withdrawal from Afghanistan, warning that any delay could lead to a \"slippery slope.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oX-Ef91_nPs/biggs-biden-timeline-withdrawal-afghanistan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oX-Ef91_nPs/biggs-biden-timeline-withdrawal-afghanistan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7b903e-cc4e-4409-881b-9423960d9b52/94fa5bc2-c641-45fa-bead-1029cfadffec/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp",
-      "publishedDateTime": "2021-02-22T07:33:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-22-supreme-court-allows-release-of-trump-tax-returns-to-ny-prosecutor.md",
       "title": "Supreme Court allows release of Trump tax returns to NY prosecutor",
       "excerpt": "The Supreme Court cleared the way for a New York prosecutor to obtain former President Donald Trump's tax returns, dealing a massive loss to Trump who has fiercely fought to shield his financial papers from prosecutors.\n    \n",
@@ -288,7 +175,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1727,
+      "heat": 1767,
       "tags": null,
       "images": [
         {
@@ -1349,6 +1236,118 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-iran-learning-it-can-threaten-biden-to-get-its-way-on-nuclear-talks-ric-grenell.md",
+      "title": "Iran learning it can threaten Biden to get its way on nuclear talks: Ric Grenell",
+      "excerpt": "Iran has already shown it can pressure the Biden administration into granting concessions related to its nuclear weapons program, former Acting Director of National Intelligence Richard Grenell told \"Your World\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd154628-c42a-42cb-829c-9a04557dc5a5/869775b1-e778-487c-a2ef-b385b0432f76/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
+      "publishedDateTime": "2021-02-19T14:58:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-biden-used-3-key-stats-to-make-a-point-except-they-werent-true.md",
+      "title": "Biden used 3 key stats to make a point. Except they weren't true",
+      "excerpt": "During President Joe Biden's CNN town hall, he made several false statistical claims. Here's what you need to know.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BXHccdyeTw0/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BXHccdyeTw0/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 495,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210216230847-05-biden-town-hall-selects-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "publishedDateTime": "2021-02-19T11:49:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

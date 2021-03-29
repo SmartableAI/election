@@ -2,62 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-03-14-trump-said-meghan-markle-is-no-good-following-bombshell-oprah-interview.md",
-      "title": "Trump said Meghan Markle is ‘no good’ following bombshell Oprah interview",
-      "excerpt": "Former President Donald Trump thought Meghan Markle was “no good” following her bombshell interview with Oprah Winfrey last week but felt publicly saying so would cause the sort of backlash experienced by British TV host Piers Morgan after he openly criticized the Duchess of Sussex, according to a former",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4_jrxN5hpQY/trump-meghan-markle-no-good-following-bombshell-oprah-interview",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4_jrxN5hpQY/trump-meghan-markle-no-good-following-bombshell-oprah-interview",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Trump-Markle.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-meghan-markle-no-good-following-bombshell-oprah-interview.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-meghan-markle-no-good-following-bombshell-oprah-interview.amp",
-      "publishedDateTime": "2021-03-14T15:21:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-14-pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system.md",
       "title": "Pelosi blames Donald Trump for ‘humanitarian challenge’ at border, inheritance of ‘broken system’",
       "excerpt": "House Speaker Nancy Pelosi points fingers at former President Donald Trump for the current situation at the border on ABC News' \"This Week.\"",
@@ -764,6 +708,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-13-for-biden-theres-no-place-like-a-weekend-home-in-delaware.md",
+      "title": "For Biden, there's no place like a weekend home in Delaware",
+      "excerpt": "For President Joe Biden, there's no place like a weekend home in Delaware WILMINGTON, Del. -- As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_3b0cbd70660341528ecdc742bc6d4056_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
+      "publishedDateTime": "2021-03-13T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-trumps-twitter-ban-hurt-him-more-than-losing-the-election-to-biden-his-niece-mary-says.md",
       "title": "Trump's Twitter ban hurt him more than losing the election to Biden, his niece Mary says",
       "excerpt": "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Donald Trump's Twitter ban will have upset him more than losing November's presidential election to Joe Biden, his niece Mary has told Insider.",
@@ -1265,7 +1261,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-asia-diplomacy-idUSKBN2B42C4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
