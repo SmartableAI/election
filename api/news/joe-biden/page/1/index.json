@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-29-changed-hearts-and-minds-bidens-funding-offer-shifts-medicaid-expansion-debate.md",
+      "title": "'Changed hearts and minds': Biden's funding offer shifts Medicaid expansion debate",
+      "excerpt": "It’s the stimulus funds that are really the motivation. I think it has really changed some hearts and minds in the Legislature,\" one Wyoming lawmaker said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/changed-hearts-minds-biden-s-funding-offer-shifts-medicaid-expansion-n1262229",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/changed-hearts-minds-biden-s-funding-offer-shifts-medicaid-expansion-n1262229",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_12/3460112/210326-remote-area-medical-line-florida-se-636p_c5bd1a0f39484895906f55044f4fbc2f.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262229",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262229",
+      "publishedDateTime": "2021-03-28T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-biden-says-us-justice-department-examining-georgia-election-law.md",
       "title": "Biden says U.S. Justice Department examining Georgia election law",
       "excerpt": "NEW CASTLE, Delaware (Reuters) - President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia.",
@@ -10,7 +67,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-justice/biden-says-u-s-justice-department-examining-georgia-election-law-idUSKBN2BI31U?edition-redirect=in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1120,
+      "heat": 1140,
       "tags": null,
       "images": [
         {
@@ -540,7 +597,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1500,58 +1557,6 @@
       "ampWebUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
       "publishedDateTime": "2021-03-16T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-scarborough-faults-biden-for-permissive-border-message.md",
-      "title": "Scarborough faults Biden for 'permissive' border message",
-      "excerpt": "MORE faulted the Biden administration at then end of his \"Morning Joe\" program on Tuesday for a \"permissive\" border message that was leading to a surge of immigrants. Scarborough said he agreed ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at",
-      "originalUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/scarboroughjoe_011821screenshot.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp",
-      "publishedDateTime": "2021-03-16T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-29-changed-hearts-and-minds-bidens-funding-offer-shifts-medicaid-expansion-debate.md",
+      "title": "'Changed hearts and minds': Biden's funding offer shifts Medicaid expansion debate",
+      "excerpt": "It’s the stimulus funds that are really the motivation. I think it has really changed some hearts and minds in the Legislature,\" one Wyoming lawmaker said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/changed-hearts-minds-biden-s-funding-offer-shifts-medicaid-expansion-n1262229",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/changed-hearts-minds-biden-s-funding-offer-shifts-medicaid-expansion-n1262229",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_12/3460112/210326-remote-area-medical-line-florida-se-636p_c5bd1a0f39484895906f55044f4fbc2f.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262229",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262229",
+      "publishedDateTime": "2021-03-28T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-28-birx-recalls-very-difficult-phone-call-from-trump-following-her-covid-19-warnings.md",
       "title": "Birx recalls 'very difficult' phone call from Trump following her Covid-19 warnings",
       "excerpt": "Dr. Deborah Birx revealed in a CNN documentary clip released Sunday that she received a \"very uncomfortable\" and \"very difficult\" phone call from Donald Trump after speaking publicly about the spread of Covid-19 while serving in the former President's administration.\n    \n",
@@ -1631,62 +1688,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-biden-dispatches-democratic-senator-to-ethiopia-amid-tigray-crisis.md",
-      "title": "Biden dispatches Democratic senator to Ethiopia amid Tigray crisis",
-      "excerpt": "President Joe Biden is dispatching one of his top congressional allies to Ethiopia to meet with Prime Minister Abiy Ahmed amid the humanitarian crisis in that country's Tigray region.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bLqnfmgmz8k/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bLqnfmgmz8k/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210225095126-sen-chris-coons-0222-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html",
-      "publishedDateTime": "2021-03-18T15:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

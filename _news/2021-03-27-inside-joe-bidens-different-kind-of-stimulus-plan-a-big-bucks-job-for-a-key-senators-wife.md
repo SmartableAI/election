@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden invites 40 world leaders to virtual summit on climate crisis"
+    excerpt: "Xi Jinping and Vladimir Putin among invitees as US heralds return to forefront of climate fight"
+    publishedDateTime: 2021-03-27T15:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e6c958c526157d1a10e5316775bc12cbe46cc82b/0_136_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=256e3a07f20a163935f4e236b466c95f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden forced to confront 2nd mass shooting in a week amid COVID relief tour"
     excerpt: "For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant tone in the wake of tragedy. Biden is set to visit Columbus,"
     publishedDateTime: 2021-03-23T19:46:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "What's next for Biden? A $3 trillion package for infrastructure, schools, families"
-excerpt: "President Joe Biden assembles the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs."
-publishedDateTime: 2021-03-23T01:11:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/22/president-joe-biden-3-trillion-package-infrastructure-schools-families/6959566002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/03/22/president-joe-biden-3-trillion-package-infrastructure-schools-families/6959566002/"
-ampWebUrl: "https://amp.usatoday.com/amp/6959566002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6959566002"
+title: "Joe Biden invites 40 world leaders to virtual summit on climate crisis"
+excerpt: "Xi Jinping and Vladimir Putin among invitees as US heralds return to forefront of climate fight"
+publishedDateTime: 2021-03-27T15:41:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
 type: article
-quality: 119
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/40d5e14f-2757-465a-a169-3748694cc692-AP_Biden_9.jpg?auto=webp&crop=5322,2994,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://i.guim.co.uk/img/media/e6c958c526157d1a10e5316775bc12cbe46cc82b/0_136_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=256e3a07f20a163935f4e236b466c95f"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_cafc315039ed4d92b9ad1b8b8df846ca_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Joe Biden invites 40 world leaders to virtual summit on climate crisis"
-    excerpt: "Xi Jinping and Vladimir Putin among invitees as US heralds return to forefront of climate fight"
-    publishedDateTime: 2021-03-27T15:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/e6c958c526157d1a10e5316775bc12cbe46cc82b/0_136_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=256e3a07f20a163935f4e236b466c95f"
-        width: 600
-        height: 360
         isCached: true
   - title: "Biden forced to confront 2nd mass shooting in a week amid COVID relief tour"
     excerpt: "For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant tone in the wake of tragedy. Biden is set to visit Columbus,"
@@ -126,6 +110,22 @@ related:
       - url: "https://s.abcnews.com/images/US/president-joe-biden-interview-04-exclusive-abc-jc-210316_1615931643517_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "What's next for Biden? A $3 trillion package for infrastructure, schools, families"
+    excerpt: "President Joe Biden assembles the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs."
+    publishedDateTime: 2021-03-23T01:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/22/president-joe-biden-3-trillion-package-infrastructure-schools-families/6959566002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6959566002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6959566002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/40d5e14f-2757-465a-a169-3748694cc692-AP_Biden_9.jpg?auto=webp&crop=5322,2994,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Several U.S. states sue Biden administration for revoking permit for Keystone XL pipeline"
     excerpt: "Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday."
@@ -252,6 +252,6 @@ related:
         height: 630
         isCached: true
 
-secured: "p67JiBfbqq1L1TVaeR6ke2WQCwlH2zx1+o/RWL8JdacDu8HaSRr+7qCbWZtTA/kP8V5SGzUN/s+DDXmTeK9cbiFBJzrBGfV8PCxA7tywfDV20dfpGfMo4q3BRDh1izNufo0wUg8oxuU7aK8V1smoG177xmlxZOP2L9YSSSYiVoL9trlqfOET5ycXf/ZKGerpWapTNb3PTF3w6gBcBXnDGkOYbb0n1yZE4yQ/jRwqfgGZwxXejbPoNpGAEZ7U/EJ+DExKvpiRnCJJy3krNqX/vmz3tTEyz+Cd4EDfQhOgBWo6RLZIj/k7xgHAloZPMXBhgyK2kxzXKMavfjn0QFwN0/SBAfNQBse6m5KmEdKB7mY=;xyijoShJl9si22RIHRtKeA=="
+secured: "/zQKbwR8egaW1Rp3AZrhoWSwkblDFuyn9lkiRYjWG1k3BkMShqBBou7UuRcugBlAwemxhqZqqx+HobhdBbvO1k9p3Ap3t2SwSs9vgD7nr/C6U3jNwpyP1hZj7XHnPJ4LmlLa+okSww0VhtYWldZK1iLnkQZyLHjmXXU780OSl2pVghep6uZwzV6rq9rGUNnxLgK0/fDggydYGHp2n/xGzif+2z/EqKmyMWgv0+HZViRJo4OpIJy3nvPa7DwICU6vm4W7K3+PM+yaK3eZVpsOmcL4ugwSBk/N8swYpoORoli9wQmXvqkUha8xZt428DAGLmIGeI2RCdt1sbSHmihbfTaKu9xzW7c2lJEwa/Cs22Q=;ptuCwkFFgG4EJt2SUGMLVQ=="
 ---
 

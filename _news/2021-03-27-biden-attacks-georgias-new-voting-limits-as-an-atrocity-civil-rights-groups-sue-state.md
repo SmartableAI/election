@@ -448,9 +448,9 @@ related:
         height: 675
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
-    excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
+    excerpt: "Joe Biden continued to condemn the Georgia voting law moments ago, as he departed the White House to travel to his home state of Delaware for the weekend. “It’s an atrocity,” the president said of the Georgia law, adding that the legislation was ..."
     publishedDateTime: 2021-03-26T18:27:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e0d5a8f08ef6f2f140d3d"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e204b8f08774d1beab0dd"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -546,6 +546,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden selects former Obama Justice aide as U.S. Marshals chief"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday nominated a former senior Justice Department official from the administration of President Barack Obama to head the U.S. Marshal Service. The White House said Biden was nominating Ronald Davis ..."
+    publishedDateTime: 2021-03-26T15:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-marshals-idUSKBN2BI2L6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI2L6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI2L6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Biden taps Obama administration veteran to serve as DOL's top lawyer"
     excerpt: "President Joe Biden on Friday said he would nominate Seema Nanda, who filled various posts at the U.S. Department of Labor during the Obama administration, to serve as the solicitor of labor. Nanda had served as chief executive officer of the Democratic ..."
     publishedDateTime: 2021-03-26T14:25:00Z
@@ -773,6 +784,6 @@ related:
         height: 604
         isCached: true
 
-secured: "bThCEXqvA1OeE9pEqbMUrXGbh6GR5jvFg1PBVajEIS1S9/jsAJYET0cXxOJLuB8UbboEjVCn342Czkv51bxYR5SE31z9M7sicsLethb1vm4+J6hnkKCRjxm3T1CmoG+nQbGpA5T/AqurLDgW248tv8GG+DMeMgev7OQlh9zxHtseJ5Efymv4/40foX6+hL/pHFyUlrx5/c34G8r2Q3Hm2E9KlL1Wnz0xQbws11wr5Ie81UPMayYIf3lvwTIa4gs4dn0H9L5vWbXW4jB+20ZRhthgVhfePdGgo/EbuevFfxjtghNGVr5DeLy5uf/aGJ5zjsAnkgv6wQALmFlZLlpWYSSnzuLG4MK0YjDY88MjFvM=;ADcacuW3BL/+GrogyuJesA=="
+secured: "BW0cdYj83F0b2SDPn/zFIVGhtnUr8Y1sT9uu5cP39qRh3bk6c/ufjTmQlQtATTbQ97DonQZ2jQLicx6pI3EG0BbBCL8MRsGwa4c2xLd10rMHDu4laf55oyCHDUz8pGq0LpdLIvXJ6FTzq+lNRYNAhCT7PRm9Zw1DfPWwu7xFyukFSMxI48QucHubZZd6uL6lyR7TvlT9M0ILR76j7aEuywZxlqycEe9mf1CT9IXsrc4SGMOK/xIGkkiU4z5m38NNCWJ12yQOvBwu7lY2u7cA1DzNsinFej4Xit9dkqQs8c4UE1Y6bVKH8NP7BaUu5Xy6N9xpt6nktgR6QM/SUdkB7EvoJhIiriw+bmzuiublg73hsuY1PnOdPKcqLder9H5I1MIW+vlSdHcIS9d2I9RLWjIPQ1POByF9I6f4+7xTH60Qa5hqlt2fYu55zwp/TJ+Wp2jVIb46iA37UPSfuJdSMCL4Wvr1F7L8wDHq87WvS8gMUFp0KM6jtaZUVdg+0QO1Cg/V0gVM1tPgNm7RTkLePg==;Ig0bM54vCPhCtw4ys3HMqA=="
 ---
 

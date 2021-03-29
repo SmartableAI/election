@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-24-kamala-harris-to-hold-discussion-with-bill-clinton-on-empowering-women-and-girls-igniting-criticism.md",
+      "title": "Kamala Harris to hold discussion with Bill Clinton on 'empowering women and girls,' igniting criticism",
+      "excerpt": "Vice President Kamala Harris will hold a joint discussion on \"empowering women and girls\" with former President Bill Clinton, who has been accused of sexual misconduct by multiple women.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y8F1KsWQqIM/kamala-harris-bill-clinton-empowering-women",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y8F1KsWQqIM/kamala-harris-bill-clinton-empowering-women",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1423e728-8cc7-4e8e-8dbc-8ec58b90322d/93b24161-47b1-4ccd-aedd-a09363399bb7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-bill-clinton-empowering-women.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-bill-clinton-empowering-women.amp",
+      "publishedDateTime": "2021-03-24T10:06:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-moncef-slaoui-trump-vaccine-chief-fired-from-board-over-sexual-harassment-allegations.md",
       "title": "Moncef Slaoui, Trump vaccine chief, fired from board over sexual harassment allegations",
       "excerpt": "WASHINGTON — The man who led former President Donald Trump’s effort to produce Covid-19 vaccines, Moncef Slaoui, has been fired from a bioelectronics company’s board of directors over sexual harassment allegations. Slaoui, who was in charge of Trump ...",
@@ -973,7 +1030,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1283,63 +1340,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-msnbcs-brian-williams-touts-ad-from-disgraced-lincoln-project-linking-trump-to-atlanta-spa-shootings.md",
-      "title": "MSNBC's Brian Williams touts ad from disgraced Lincoln Project linking Trump to Atlanta spa shootings",
-      "excerpt": "MSNBC anchor Brian Williams touted a new ad released by the disgraced Lincoln Project last week that tried to tie former President Donald Trump's rhetoric about the coronavirus to the March 16 Atlanta spa shootings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
-      "originalUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
-      "publishedDateTime": "2021-03-22T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

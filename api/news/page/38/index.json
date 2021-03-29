@@ -2,6 +2,62 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-01-25-1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.md",
+      "title": "1 in 5 Americans have confidence Biden can unite the country: poll",
+      "excerpt": "Just one in five Americans have “a great deal of confidence” in President Biden’s ability to make good on his goal to unify the country, according to a new poll released Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vFoIpaK4fws/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vFoIpaK4fws/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 555,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20de377f-52eb-4d97-9de0-1949e9de080e/da946feb-d2c8-402f-9d32-9e153b1e2eca/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp",
+      "publishedDateTime": "2021-01-25T06:47:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims.md",
       "title": "Trump lawyer Giuliani faces Dominion lawsuit for 'big lie' election fraud claims",
       "excerpt": "A U.S. voting machine company sued former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,",
@@ -1297,58 +1353,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-biden-says-we-need-to-act-decisively-and-boldly.md",
-      "title": "Biden says we need to act 'decisively and boldly'",
-      "excerpt": "President Joe Biden said on Friday the U.S. economic crisis was deepening and that the government needs to take major action now to help struggling Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763538&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HE",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29R2JV",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29R2JV",
-      "publishedDateTime": "2021-01-22T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
-excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
+excerpt: "Joe Biden continued to condemn the Georgia voting law moments ago, as he departed the White House to travel to his home state of Delaware for the weekend. “It’s an atrocity,” the president said of the Georgia law, adding that the legislation was ..."
 publishedDateTime: 2021-03-26T18:27:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e0d5a8f08ef6f2f140d3d"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e0d5a8f08ef6f2f140d3d"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e204b8f08774d1beab0dd"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e204b8f08774d1beab0dd"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 type: article
@@ -546,6 +546,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden selects former Obama Justice aide as U.S. Marshals chief"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday nominated a former senior Justice Department official from the administration of President Barack Obama to head the U.S. Marshal Service. The White House said Biden was nominating Ronald Davis ..."
+    publishedDateTime: 2021-03-26T15:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-marshals-idUSKBN2BI2L6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI2L6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI2L6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Biden taps Obama administration veteran to serve as DOL's top lawyer"
     excerpt: "President Joe Biden on Friday said he would nominate Seema Nanda, who filled various posts at the U.S. Department of Labor during the Obama administration, to serve as the solicitor of labor. Nanda had served as chief executive officer of the Democratic ..."
     publishedDateTime: 2021-03-26T14:25:00Z
@@ -773,6 +784,6 @@ related:
         height: 604
         isCached: true
 
-secured: "4xO2jyZvl0X9yb1KMvFPYLxXpCmh/tWVf7fcWlyq3wjw57D5FwLrl33lfQOT3OvMhBT8pBV70mc0ufDU5EPicHkUtPCLU2Dha4PM0g5/n5jxcR71MojyKpMmvemVlmLBpnbAX3xG0GVTEyDgcJqQXax2PZy3U3DtRqMu0COAG+ITBQby1yX6+UeyZyyU/fa0C/NYvtoDwX4IABCaEiiTIL9OJIP3osMdxqCd4C7aYLLD0LQloTQtgs5Lw1CSi6wDD1iN4weRgAZtt9REAMT9jonu0WBS6jsf+2bFR+XY60KmlNwXfjEelYcfIAwhkGUCn4FaEy01L5Txmuy+jV3zBl13s9pp4lyxHj72dN1KA9I=;Les3fmIamQ+tHUjiGExpMQ=="
+secured: "FVaXjiFD0m5R6b+tnxLH0dPAJKMmjIbsEkKSSdYLw8KHQSKDaWm9k9MIbm6aY68Jinhnn1DSDYIl7nLNUrQldyeZxE/d8X3UT7jfIN6Ic4Q8I4K6kgPLMa0j6oxMCfzPHSJXROQakLG03mK3WCtD0fQJRZM9cJyM6ttdHJ/gPUAJ10l9QQMw0JPD10qhyjv0Imq1MOiv2ly+qXBqbUYgjWU0V2N2j/t3CDKT8h5I1uVFtnZWPSNslGqnbCgz+qtcdip10Gp9PqE3AWJsRneK22aXzaAdinFMDxiKw7fAsaKFUc0VGysVkIBZOBR8l2HczXqxpK7NmiyICE4loGUC4Rd9D7qrNLFfOrou0E3uhYs=;QxGzuC41T+aGIhDaHIEAKA=="
 ---
 

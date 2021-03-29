@@ -1,28 +1,28 @@
 ---
 category: news
-title: "US President Joe Biden participates in an event to mark Equal Pay Day"
-excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
-publishedDateTime: 2021-03-24T22:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+title: "Biden selects former Obama Justice aide as U.S. Marshals chief"
+excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday nominated a former senior Justice Department official from the administration of President Barack Obama to head the U.S. Marshal Service. The White House said Biden was nominating Ronald Davis ..."
+publishedDateTime: 2021-03-26T15:42:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-justice-marshals-idUSKBN2BI2L6"
+webUrl: "https://www.reuters.com/article/us-usa-justice-marshals-idUSKBN2BI2L6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI2L6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI2L6"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
-    width: 650
-    height: 433
-    isCached: true
 
 related:
   - title: "Biden says U.S. Justice Department examining Georgia election law"
@@ -556,17 +556,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Biden selects former Obama Justice aide as U.S. Marshals chief"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday nominated a former senior Justice Department official from the administration of President Barack Obama to head the U.S. Marshal Service. The White House said Biden was nominating Ronald Davis ..."
-    publishedDateTime: 2021-03-26T15:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-justice-marshals-idUSKBN2BI2L6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI2L6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI2L6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Biden taps Obama administration veteran to serve as DOL's top lawyer"
     excerpt: "President Joe Biden on Friday said he would nominate Seema Nanda, who filled various posts at the U.S. Department of Labor during the Obama administration, to serve as the solicitor of labor. Nanda had served as chief executive officer of the Democratic ..."
     publishedDateTime: 2021-03-26T14:25:00Z
@@ -723,6 +712,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "US President Joe Biden participates in an event to mark Equal Pay Day"
+    excerpt: "US President Joe Biden, with First Lady Dr. Jill Biden, listen to remarks by Margaret Purce, a member of the U.S. Soccer Women's National Team, during an event to mark Equal Pay Day in the State Dining Room of the White House in Washington,"
+    publishedDateTime: 2021-03-24T22:20:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c106c578c3c932f554398224e11da7ab/US-President-Joe-Biden-participates-in-an-event-to-mark-Equal-Pay-Day/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c106c578c3c932f554398224e11da7ab/BIDEN-EQUAL-PAY.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Joe Biden gives his first news conference as US president"
     excerpt: "Mr Biden pledged to deliver 200 million Covid jabs to Americans in his first 100 days in office, double his original goal. Also, AstraZeneca has published revised results for the US trial of its Covid vaccine after its earlier report was criticised for ..."
     publishedDateTime: 2021-03-25T23:56:00Z
@@ -780,6 +783,6 @@ related:
         height: 604
         isCached: true
 
-secured: "nLuxPQH3YJ04ui6xYge5Gz1Z7MYb/zy5nKGjLtrXCku1KsWGlO/LPWfWYkYKzqUmRegQvv/orznCuj4enMen+hqx25VCCBXoJSy07IYqGnqJoh97cq5fik+syvTpfv3YG6p16IhSkTMgfslXJs/JheazSgxNxs+laCAbm1257P4uhJX3W7btyX3gnsRkcRh0DXb/IQaSqzgqNSGVOLkEz3wfB/Ey0IIm3alF8t7uc6YK9u76U1wrwCIIATiUdJdw/kJuEnlQ5h5xzYXvdkWK9UArq2ss+5pdrX91png2tWxPG0fgSkwzHGtVpPDPT+Kn2WvH6SsDpVeWHPCPvCIGVD3T3WLQXjokh0hzXyh3jd0=;H1qYKgmLcU0VRTxJYgOqLQ=="
+secured: "NIAV3kcFsNs9E1GVg/X+HnB1ayDUEZV83C6mOugZLFpb6kie5GQ94Mnklud3Zuv1Sj2RqF7zBYD3kLQG2Olw/1OzlHfESM7uJDe7GPYpl7ofwO240YCFfJLszE2rbQb0naaDVIpZ1AEtVhMi9e5iwK8+yB8vsQG0IS2/IOe0UhAaI0Y7b/9KEFPmNR8g7wgo9ZeknCePMu+AGTNPzNWRrkosezCqacx+xjsd0X3jI+JBJA9Ib3lPkjuWchUhzzGItENmkTpBN3//dzS+sW5pRUerUQcONlD/ltQgi7lSUI7oPcyK/sp+8PXfHQlEmUGDka4ayfwrHEpOiV5SS8vUayP7sJfS8/v6fdnfFca2KAk=;m0N9XLL9S/6zOryrSaAiZg=="
 ---
 
