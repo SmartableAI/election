@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "Biden says U.S. Justice Department examining Georgia election law"
-    excerpt: "NEW CASTLE, Delaware (Reuters) - President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia."
+    excerpt: "President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia."
     publishedDateTime: 2021-03-26T19:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-justice/biden-says-u-s-justice-department-examining-georgia-election-law-idUSKBN2BI31U?edition-redirect=in"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI31U"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U"
     type: article
@@ -399,22 +399,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden considers executive actions on guns, calls on Congress to pass weapons ban"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden urged Congress to swiftly pass gun control laws and may take action on his own to stop mass violence, the White House said on Tuesday, a day after the second deadly mass shooting in a week. The Democrat ..."
-    publishedDateTime: 2021-03-24T03:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BF2DK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2DK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2DK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555920375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1AU"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Will Joe Biden Forgive Student Loans? Senator Says Canceling $1B 'Just the Beginning'"
     excerpt: "The Biden administration last week announced that thousands of students defrauded by for-profit schools will see their full federal loans erased. This is a reverse of a Trump-era policy which only gave partial relief, The Associated Press reported."
     publishedDateTime: 2021-03-24T10:17:00Z
@@ -464,9 +448,9 @@ related:
         height: 545
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – as it happened"
-    excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
+    excerpt: "Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Jen Psaki was asked about Joe Biden’s opinion on the comments from Dr Robert Redfield, the former director of the Centers for Disease Control and Prevention. Redfield recently told CNN that he ..."
     publishedDateTime: 2021-03-26T23:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e40148f08774d1beab29e"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e03b48f08774d1beaaeb0"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -784,6 +768,6 @@ related:
         height: 604
         isCached: true
 
-secured: "FVaXjiFD0m5R6b+tnxLH0dPAJKMmjIbsEkKSSdYLw8KHQSKDaWm9k9MIbm6aY68Jinhnn1DSDYIl7nLNUrQldyeZxE/d8X3UT7jfIN6Ic4Q8I4K6kgPLMa0j6oxMCfzPHSJXROQakLG03mK3WCtD0fQJRZM9cJyM6ttdHJ/gPUAJ10l9QQMw0JPD10qhyjv0Imq1MOiv2ly+qXBqbUYgjWU0V2N2j/t3CDKT8h5I1uVFtnZWPSNslGqnbCgz+qtcdip10Gp9PqE3AWJsRneK22aXzaAdinFMDxiKw7fAsaKFUc0VGysVkIBZOBR8l2HczXqxpK7NmiyICE4loGUC4Rd9D7qrNLFfOrou0E3uhYs=;QxGzuC41T+aGIhDaHIEAKA=="
+secured: "oxLEChuCX98QM8V4K0Y2z+iAGxxvDukm4qC4jhfnNbBftxTFF4jt7utHjhDarnskuWVpzXtjoS64dUFuvHdFrH7P9H00RoEpqj3SYwf+xqJh4lIEMu7QzDu9R9tvbNmZWYUSjv4BIve2exzNNyTgU69sqtNYmQRzLpCGsYAVSmnhx4iJo5TBKvCb8jhelpDsCaqXFs03v1bsQD8RYVgZo7FCXiqgmAp1MTqg9fHL/e5W6oLN1XvaE2rNbXYId7RpGyRsYyHBHzLQTlbT9WaQLXzXPdGGDmQWf5ZCt/k5kQUxGoFrBkJ0UyNCSnacBKifYj3AUvDRPxrpn5O7iOrHGyGZZVWxyPCC3DsOppXili8sskKBxbv2LktMJt/5RIUfzaOU2aaSvEaWXQ2E8Q4XSkG2zTvp3e4U3tksyqdixMaaFneqxZ2S74d+YEhPMjTaZz5paZXM6GEFZhw5ZIXzcQxjxlwOJUM/VV6+KHbWxZmwJWIHGXN5wDB9QRKEurgg/8nA1mvli3Zm5hIttoJE7Q==;e5SyYCsnB4N9v9PWwwYcHg=="
 ---
 

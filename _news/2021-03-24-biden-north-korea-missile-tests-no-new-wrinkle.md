@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/24/biden-north
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/24/biden-north-korea-missile-tests-no-new-wrinkle/6976087002/"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "North Korea responds to Biden's criticism of ballistic-missile test, accusing administration of 'gangster-like logic'"
+    excerpt: "DOW S&P 500 NASDAQ 100 North Korea on Friday issued a scathing statement in response to President Joe Biden's recent condemnation of North Korea's recent missile tests. North Korea's state media quoted top North Korean military official Ri Pyong Chol ..."
+    publishedDateTime: 2021-03-27T00:49:00Z
+    webUrl: "https://www.businessinsider.com/north-korea-accuses-biden-admin-of-gangster-like-logic-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/north-korea-accuses-biden-admin-of-gangster-like-logic-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-korea-accuses-biden-admin-of-gangster-like-logic-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/605e797b8e71b3001851920f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "oRJyNvYbZ/hYBBHU+QDFkR3OmjL/wpnPe+sPkhr2R7iJDBClnyJSyfy62zMT+0QgHu5T1djrLBtg0ZIAv1fnUx676VPKeqC7eMnC2sWlT5i4lWb2TtbZs/GAcdqqSCxl7MFsrI6o+ZhaFpY7HzQXSW6ReHFsiDPm1XpkW9GdjP5MEIj0nQRU5P1xIwLM/OEeM7Z5o9vuIcso0zKzS1wHzYk7GZ10IUXOGKw6g6s4HWPvk/AX4QoqM1DJQwqSo+1cqhIg4cqM7+AOSA/A7YLA97bsvbZGgTB4fgth/at/VcA5Idnf6RErqmEi0k0QDdywjxgCzthew1WCqrzPaPvSnjBz6K8uSQyHMpheqBbZ04E=;rhFxWOndXLUblk7YHuPr4A=="
 ---

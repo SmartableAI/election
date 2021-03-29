@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Biden says U.S. Justice Department examining Georgia election law"
-excerpt: "NEW CASTLE, Delaware (Reuters) - President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia."
+excerpt: "President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia."
 publishedDateTime: 2021-03-26T19:34:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-justice/biden-says-u-s-justice-department-examining-georgia-election-law-idUSKBN2BI31U?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/us-usa-biden-justice/biden-says-u-s-justice-department-examining-georgia-election-law-idUSKBN2BI31U?edition-redirect=in"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U"
+webUrl: "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI31U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U"
 type: article
 quality: 140
-heat: 1140
+heat: 1120
 published: true
 
 provider:
@@ -383,22 +383,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden considers executive actions on guns, calls on Congress to pass weapons ban"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden urged Congress to swiftly pass gun control laws and may take action on his own to stop mass violence, the White House said on Tuesday, a day after the second deadly mass shooting in a week. The Democrat ..."
-    publishedDateTime: 2021-03-24T03:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BF2DK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2DK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2DK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555920375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1AU"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Will Joe Biden Forgive Student Loans? Senator Says Canceling $1B 'Just the Beginning'"
     excerpt: "The Biden administration last week announced that thousands of students defrauded by for-profit schools will see their full federal loans erased. This is a reverse of a Trump-era policy which only gave partial relief, The Associated Press reported."
     publishedDateTime: 2021-03-24T10:17:00Z
@@ -464,9 +448,9 @@ related:
         height: 545
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – as it happened"
-    excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
+    excerpt: "Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Jen Psaki was asked about Joe Biden’s opinion on the comments from Dr Robert Redfield, the former director of the Centers for Disease Control and Prevention. Redfield recently told CNN that he ..."
     publishedDateTime: 2021-03-26T23:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e40148f08774d1beab29e"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e03b48f08774d1beaaeb0"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -784,6 +768,6 @@ related:
         height: 604
         isCached: true
 
-secured: "o30fpoiOca6etw6fAcBrE5EamqQTwo8+g+LTu1Ek7pYwxYdOcKnSgwmjL4KYSnk1UNmZBfs7Lu6RPY87mt6rf8KcWqq8UcnjHMIaiPK/2deeoB/bJ5nQjTexB7doy1eO1UFihm1CvTITif0HP7LXkRH25GI8o1Pj9b2jMTXircMzX7U5OSEYNwUtKwF4Cl6I7aBTwD0zTrS/QDBcZo0WTcTCuu5PSKP9WWEVNZtErQe+5H4d6Bm/pnYvwEN1AedaAXWcJigyLIX0zFAzIq6wLS+viD2CNMYfL1MJqH299UtOQDhn40wBospCFc2KtlZpz7n5174vzqwoq08zLWzwLLIoDMwLHDlRFPpMnO51qaI=;Fw4WaNwHcIzVbzbk2m4Miw=="
+secured: "ZZbbVI6FJFDqzIzXc0U4L1LynE56E36KveVyf98WvIflA08oFhTnvU++DWG2pIdrHFQnR135H58e40LeItCrOn2F2LfO1zfW1hCibR5n7PIElPoHtCtfcLFNvMWoowOJWOHwgsik4uJIiR59YCEWLgopw2Y8UTXOli7SYOAbg8QGtC9ZRu4Q/RCKOB4hX9fiUGeEYXM72c31DIYF7eUW6BaDKBzoLN/xU+Q0pDcdIDJ+Ov2gbfQ1Do0EHqvug0JKY1XakamAWFqre3RRaO1k7rRHm7zIJxCjaGEzoxAgabCVKckX6gd2nfRV/h9T7VWTZ7EWy2a2RJXshfDyJW/z+wv21jwymNyjn2g+cs7DtIA=;LEx1OTyLSCkb2pic6aYxog=="
 ---
 

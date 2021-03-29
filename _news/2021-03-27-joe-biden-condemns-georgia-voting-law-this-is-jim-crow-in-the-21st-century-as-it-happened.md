@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – as it happened"
-excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
+excerpt: "Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Jen Psaki was asked about Joe Biden’s opinion on the comments from Dr Robert Redfield, the former director of the Centers for Disease Control and Prevention. Redfield recently told CNN that he ..."
 publishedDateTime: 2021-03-26T23:14:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e40148f08774d1beab29e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e40148f08774d1beab29e"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e03b48f08774d1beaaeb0"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e03b48f08774d1beaaeb0"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 type: article
@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "Biden says U.S. Justice Department examining Georgia election law"
-    excerpt: "NEW CASTLE, Delaware (Reuters) - President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia."
+    excerpt: "President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia."
     publishedDateTime: 2021-03-26T19:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-justice/biden-says-u-s-justice-department-examining-georgia-election-law-idUSKBN2BI31U?edition-redirect=in"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI31U"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U"
     type: article
@@ -398,22 +398,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/21/861f7d14-1978-413d-a6c2-e75ec337d782/thumbnail/1200x630/670aa52f137106acf3c9391f085cde80/gettyimages-1307462641.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden considers executive actions on guns, calls on Congress to pass weapons ban"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden urged Congress to swiftly pass gun control laws and may take action on his own to stop mass violence, the White House said on Tuesday, a day after the second deadly mass shooting in a week. The Democrat ..."
-    publishedDateTime: 2021-03-24T03:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BF2DK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2DK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2DK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555920375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1AU"
-        width: 817
-        height: 545
         isCached: true
   - title: "Will Joe Biden Forgive Student Loans? Senator Says Canceling $1B 'Just the Beginning'"
     excerpt: "The Biden administration last week announced that thousands of students defrauded by for-profit schools will see their full federal loans erased. This is a reverse of a Trump-era policy which only gave partial relief, The Associated Press reported."
@@ -784,6 +768,6 @@ related:
         height: 604
         isCached: true
 
-secured: "ruPgF7t01VUHSylRDI3Y6RGp6G/spBB8i2nb8ivpzxNmbeS8H13yTuIQJa5+lr42ACxDHn1avB3VWRzXdNMAEJZxBCWDfzjuRKAGAlwpT5xm/3ccg/FJUc9noHqxTHa0MA4Wj7EkXjDpQY3LzIv24/vJYaopBjPcyHQbNWIttxUAzP7IO35cvgML7Wul2ucpNXvp8WegyJIMfEYUVeyupSRm01vo/jrfzaTE8clDnN3W21n9x/D/bjqs9s/OOS9380T3ip+0x8lgOE3LURnQ3sRxVImg4VbDFyMt4WtgUmVPu7m4oEd33ejcr0dEL8H+5Ip4TanD5vjyQDJ7sHHZdwzzzO8Bbo7zB3/tyDUmMfY=;ftlEvFMfXvl2+IsqgafmuQ=="
+secured: "Tmfwz83jVp28Y6M8wbOW1IyVA6kr15JlU7zsQlJm5WHUBlV38wxJhrB28VimB04bbCAJrUn228AEAsmJ87ZUshRPrXxWYEvj5iKgg8d6iREBf6mLvg3WVHKViUfrWtHQ7NCN73bBWQV3rUiLp54gytypt3XRMInxmXSne9cVSQwGUKj0MfzAPaBaRukLUPphtpEgAWUWymXfVcZ9nDmg7NqeYfbOofijIRRN/tDbYfht2IRJK/tJJTV18BBkEcebcAmzYcZhEbbfJbMCu68Nbjgo7l57nRnhdl4xmy6mRixQMDMeKCJ52o0YgbOc2COU9WUoSiaUlo3Art36CUvXkUp4x81G/ta6ObTLutH0I4E=;4hVR/3ZClOGN/eXj1IjFSw=="
 ---
 

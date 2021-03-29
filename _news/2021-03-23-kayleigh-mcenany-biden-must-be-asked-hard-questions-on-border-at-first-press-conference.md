@@ -125,6 +125,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Meghan McCain rips media over Biden press conference: 'There's no need to slobber all over' him right now"
+    excerpt: "\"I was watching some shows this morning -- there's no need to slobber all over Joe Biden right now. He's still the president of the United States. And I think our role in the fourth estate is to hold his feet to the fire and to ask serious questions and ..."
+    publishedDateTime: 2021-03-27T00:30:00Z
+    webUrl: "https://www.foxnews.com/media/the-view-meghan-mccain-biden-press-conference"
+    ampWebUrl: "https://www.foxnews.com/media/the-view-meghan-mccain-biden-press-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/the-view-meghan-mccain-biden-press-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80eab67d-d4e4-40f8-8ba7-29719ca27a67/0b00a389-d3bf-4286-b5c4-42f42ccd5ce8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "o0hobf5TtR6a8CsVY5OnsczIjVrX8HUUFm8G+DgHrzI88SkGij7MLaJNHJMLETSqh8ffUGdvVehsWfpPbOxAw1KEZCA82h+vBQz7pqPuypT+sAg7j5WtJJOz5N9bma9XS+j+PecrkJj6MWwy8Gfmo6VEhhj47lSQELUfsfiztAKbFAqRjkuTmDAZ98J/w5C63iqT0Y1Ze2Ss2gzmUoEhyGj8qqq4LRH2xw3OqkIquOu1WT3tRg3jH6ueVoJEA/Vjo0FIuNoYDXAO4ZyV2LGxGc8FLABe5ED60Am85iou3vNdTWP1koPugyajIpgU/gCaQJmkaxJos8QahEj8JYXnD9z/8VOBqBxJoD5zOTVo4TM=;Zz+tLcYjdFk71s7bZ1uekQ=="
 ---

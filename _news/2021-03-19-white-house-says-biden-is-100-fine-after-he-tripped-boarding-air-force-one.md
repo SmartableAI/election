@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's infrastructure plan is about to put his bipartisan appeal to the test"
+    excerpt: "With some wind in his sails from the massively popular Covid relief package, President Joe Biden's next big legislative push -- a sweeping infrastructure plan -- is set to bring a far more challenging bipartisan test in the coming weeks.\n    \n"
+    publishedDateTime: 2021-03-29T00:03:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PG4zq4HwDqo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/infrastructure-biden-taxes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/infrastructure-biden-taxes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210327183832-01-joe-biden-0327-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden reaches out to some Republicans on Capitol Hill -- but not party leaders"
     excerpt: "Senate GOP Leader Mitch McConnell says he's spoken with President Joe Biden just once since he took office.\n    \n"
     publishedDateTime: 2021-03-24T23:11:30Z

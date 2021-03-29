@@ -61,13 +61,13 @@
     {
       "path": "_news/2021-03-27-biden-says-us-justice-department-examining-georgia-election-law.md",
       "title": "Biden says U.S. Justice Department examining Georgia election law",
-      "excerpt": "NEW CASTLE, Delaware (Reuters) - President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia.",
+      "excerpt": "President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-justice/biden-says-u-s-justice-department-examining-georgia-election-law-idUSKBN2BI31U?edition-redirect=in",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-justice/biden-says-u-s-justice-department-examining-georgia-election-law-idUSKBN2BI31U?edition-redirect=in",
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1140,
+      "heat": 1120,
       "tags": null,
       "images": [
         {
@@ -91,6 +91,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-joe-biden-said-nothing-has-changed-about-border-crisis-but-child-surge-is-higher.md",
+      "title": "Joe Biden Said 'Nothing Has Changed' about Border Crisis, but Child Surge Is Higher",
+      "excerpt": "President Joe Biden said \"nothing has changed\" at the U.S. border with Mexico since he took office, but the surge in unaccompanied child migrants is higher than in former President Donald Trump's final pre-pandemic year. U.S. Customs and Border Protection ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096",
+      "originalUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1764866/president-joe-biden-first-press-conference.jpg",
+          "width": 963,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1",
+      "publishedDateTime": "2021-03-26T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -379,7 +431,7 @@
       "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/03/24/biden-north-korea-missile-tests-no-new-wrinkle/6976087002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -597,7 +649,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1512,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and-whitmer.md",
-      "title": "Michigan AG charges man with making death threats against Biden, Pelosi and Whitmer",
-      "excerpt": "Michigan Attorney General Dana Nessel (D) charged a 21-year-old man with making death threats against President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Split screen ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and",
-      "originalUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_pelosinancy_whitmergretchen.png",
-          "width": 980,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
-      "publishedDateTime": "2021-03-16T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

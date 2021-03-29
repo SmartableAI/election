@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-17-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and-whitmer.md",
+      "title": "Michigan AG charges man with making death threats against Biden, Pelosi and Whitmer",
+      "excerpt": "Michigan Attorney General Dana Nessel (D) charged a 21-year-old man with making death threats against President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Split screen ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and",
+      "originalUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_pelosinancy_whitmergretchen.png",
+          "width": 980,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543469-michigan-ag-charges-man-with-making-death-threats-against-biden-pelosi-and?amp",
+      "publishedDateTime": "2021-03-16T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-scarborough-faults-biden-for-permissive-border-message.md",
       "title": "Scarborough faults Biden for 'permissive' border message",
       "excerpt": "MORE faulted the Biden administration at then end of his \"Morning Joe\" program on Tuesday for a \"permissive\" border message that was leading to a surge of immigrants. Scarborough said he agreed ...",
@@ -1518,58 +1570,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-iran-cant-act-with-impunity-biden-says-after-us-air-strikes.md",
-      "title": "Iran 'can't act with impunity,' Biden says after U.S. air strikes",
-      "excerpt": "President Joe Biden said Iran cannot act with impunity and warned Iran to \"be careful\" when asked what message he was sending the country with the U.S. air strikes in Syria.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1553097487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P1LV",
-          "width": 760,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AQ31T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ31T",
-      "publishedDateTime": "2021-02-26T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     }

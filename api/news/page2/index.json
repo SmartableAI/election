@@ -58,6 +58,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-26-joe-biden-said-nothing-has-changed-about-border-crisis-but-child-surge-is-higher.md",
+      "title": "Joe Biden Said 'Nothing Has Changed' about Border Crisis, but Child Surge Is Higher",
+      "excerpt": "President Joe Biden said \"nothing has changed\" at the U.S. border with Mexico since he took office, but the surge in unaccompanied child migrants is higher than in former President Donald Trump's final pre-pandemic year. U.S. Customs and Border Protection ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096",
+      "originalUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1764866/president-joe-biden-first-press-conference.jpg",
+          "width": 963,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1",
+      "publishedDateTime": "2021-03-26T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-biden-taps-sen-manchins-wife-to-co-chair-appalachian-board.md",
       "title": "Biden taps Sen. Manchin's wife to co-chair Appalachian board",
       "excerpt": "President Joe Biden is nominating Gayle Manchin, the wife of West Virginia Sen. Joe Manchin, to be the co-chair of the Appalachian Regional Commission WASHINGTON -- President Joe Biden is ...",
@@ -234,7 +286,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1279,7 +1331,7 @@
       "originalUrl": "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547",
       "featuredContent": null,
       "highlight": null,
-      "heat": 555,
+      "heat": 575,
       "tags": null,
       "images": [
         {
@@ -1320,62 +1372,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-biden-thursday-press-conference-slated-for-115-pm-eastern-in-the-east-room.md",
-      "title": "Biden Thursday press conference slated for 1:15 pm Eastern in the East Room",
-      "excerpt": "President Biden will hold his first news conference as commander-in-chief Thursday at 1:15 p.m. EST in the East Room.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvZgD5yaY3c/biden-press-conference-slated-for-115-p-m-in-the-east-room",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvZgD5yaY3c/biden-press-conference-slated-for-115-p-m-in-the-east-room",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548baca2-6495-4342-be7b-a3d92deb8ed5/a5205ecc-af6d-40ac-a48a-0bec1c62ae40/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp",
-      "publishedDateTime": "2021-03-24T13:27:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

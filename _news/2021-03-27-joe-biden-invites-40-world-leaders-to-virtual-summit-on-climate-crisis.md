@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ilhan Omar Blames Joe Biden for 'Failed' $15 Minimum Wage Push"
+    excerpt: "Representative Ilhan Omar said the White House pursued a \"failed strategy\" as she blamed President Joe Biden for the $15 minimum wage not passing with the rest of the $1.9 trillion COVID-19 relief bill. She also argued that the $1.9 trillion COVID-19 ..."
+    publishedDateTime: 2021-03-29T08:28:00Z
+    webUrl: "https://www.newsweek.com/ilhan-omar-blames-joe-biden-failed-15-minimum-wage-1579366"
+    ampWebUrl: "https://www.newsweek.com/ilhan-omar-blames-joe-biden-failed-15-minimum-wage-1579366?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ilhan-omar-blames-joe-biden-failed-15-minimum-wage-1579366?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1765977/rep-ilhan-omar-minnesota.jpg"
+        width: 1024
+        height: 726
+        isCached: true
   - title: "Biden forced to confront 2nd mass shooting in a week amid COVID relief tour"
     excerpt: "For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant tone in the wake of tragedy. Biden is set to visit Columbus,"
     publishedDateTime: 2021-03-23T19:46:00Z

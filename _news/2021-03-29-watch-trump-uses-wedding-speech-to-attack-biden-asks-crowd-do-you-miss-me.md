@@ -159,6 +159,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden considers executive actions on guns, calls on Congress to pass weapons ban"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden urged Congress to swiftly pass gun control laws and may take action on his own to stop mass violence, the White House said on Tuesday, a day after the second deadly mass shooting in a week. The Democrat ..."
+    publishedDateTime: 2021-03-24T03:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BF2DK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2DK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2DK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555920375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1AU"
+        width: 817
+        height: 545
+        isCached: true
   - title: "How Obamacare Survived Trump and What Biden Is Doing Now"
     excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
     publishedDateTime: 2021-03-23T17:35:00Z
