@@ -520,6 +520,20 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 82
+  - title: "LIVE: President Joe Biden delivers 1:10 p.m. remarks on COVID-19 response, state of vaccinations"
+    excerpt: "President Joe Biden will deliver remarks on the COVID-19 response and the state of vaccinations at 1:10 p.m. Monday, March 29. Watch a stream of the event below and read the latest health news from NewsMD."
+    publishedDateTime: 2021-03-29T18:57:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6958296-LIVE-President-Joe-Biden-delivers-110-p.m.-remarks-on-COVID-19-response-state-of-vaccinations"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 42
+    images:
+      - url: "https://www.fccnn.com/incoming/6956912-aezffx-2021-03-25T173804Z_1785902361_RC2HIM9V6150_RTRMADP_3_USA-BIDEN.JPG/alternates/BASE_LANDSCAPE/2021-03-25T173804Z_1785902361_RC2HIM9V6150_RTRMADP_3_USA-BIDEN.JPG"
+        width: 1140
+        height: 712
+        isCached: true
 
 secured: "WQEHYRBP7qYaGTGfIRqbuxdyN8duQ4evsiqW8Ddh5qeO4JhTp0SkcNHB5y7Of8PguGVn1b2+dQjsGWaCH3yc38r1jlFkXPaIY4QYEiQZ8s8zxVKCT6v5i2N5qLl6UPhiw+PnWbPQHZhk3Nj8dAynXYxP890n0DJywXn1PvPUA3+sxRXzcmIdNa9vpdczvpAkmSNc5Ik89tJtc7SHa/Kb3PgDgF2MSudx3eXkhnUYChKGEDEc9DLhlaL5iXJgEW3aYSve37ttXDa54bIMkdnL25utFhBsxogT+xy0CEomAxvL1BiPEjKLDIDsdowY98An6EQPeWEi/DHeIp5qSxtRMuwkooS7nHM8dNg4mcSlKFn5eVbNN/ZqWLnweNYUioM9M6GZ6NE66UhWCudZdi9vScsk+vpAaCMARRiBW+0r0A6sWac0MHQrUusO5Yf4oQTTtJNBuyALgjTj6le9H+LpX9P9Lb9jLQnrFnVYGP1e3tsQFul+Jwoai70vOMSpKAV7rz63SjVGsR+OmOPVMBEqxw==;9cyY6ge22vP+j5Q6c6cGOw=="
 ---

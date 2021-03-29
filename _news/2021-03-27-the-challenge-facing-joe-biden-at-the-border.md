@@ -1,18 +1,22 @@
 ---
 category: news
 title: "The challenge facing Joe Biden at the border"
-excerpt: "Joe Biden has promised to address the migrant surge at the US-Mexico border. Ros Atkins takes an in-depth look at the problem, and whether the president can match his words with actions."
-publishedDateTime: 2021-03-27T00:20:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/world-56540621"
-webUrl: "https://www.bbc.co.uk/news/av/world-56540621"
+excerpt: "Joe Biden has promised to address the migrant surge at the US-Mexico border. Ros Atkins takes an in-depth look at the problem, and whether the president can match his words with actions. The challenge facing Joe Biden at the border."
+publishedDateTime: 2021-03-27T00:12:00Z
+originalUrl: "https://www.bbc.com/news/av/world-56540621"
+webUrl: "https://www.bbc.com/news/av/world-56540621"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -795,6 +799,20 @@ related:
         width: 350
         height: 439
         isCached: true
+  - title: "U.S. President Joe Biden Delivers Remarks on the State of the Covid-19 Vaccine"
+    excerpt: "U.S. President Joe Biden arrives to deliver remarks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Ste"
+    publishedDateTime: 2021-03-29T19:47:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0ac7fa1a891356fa5e64ddc8dabd9fe8/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/0ac7fa1a891356fa5e64ddc8dabd9fe8/BIDEN-VACCINE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Biden looking at imported weapons and those made with ‘3D equipment’ for potential executive actions"
     excerpt: "President Joe Biden is “looking” at what executive actions he can take on guns, particularly when it comes to regulating imported weapons and those made with “3D equipment,” he told reporters on the tarmac in Delaware on Friday."
     publishedDateTime: 2021-03-29T04:43:00Z
@@ -810,6 +828,6 @@ related:
         height: 604
         isCached: true
 
-secured: "1jJJ9Hrozjzpcf8qKmK4plZtr7Wi3Xz/zA+kHimLLE4Bt1F+pNEU0USgnM9OX6xtjvlEbO0uT8MnSTKzs7LsoYl9dOAFESnk4Y53KIgPOVFBanonifHrcYzc0BoDuB3AwMdnVzVjiNPPHemNla8j+xaTjwYWLSDQ6bblNHR/G1USsmSUn7CwK9Ld1e3IZUr7vbAtlj6Ol+vkir9FbJi26IWD9Z2gjxcJE5czhrUo023lBUZr8NbmSqz2iXWnqIojeX/5Hz2YgRx0gAr0CJNgGvwre8t8F4+M/AyBykIhnyhYULVGK8ZV5HlS/8vRCtXX4IUJEIcMnsxMCHCWdF6A73N4lz3q7YbLltLieuBbcaCAp4PCqKwzRMinL4lNt0csxjpIbBKUe4wJ6amOOuDM6hg7klQ66NCYFDEmMeTubXzMLPPMG0UfRWe5yw3Wama1LbbeCgTY+wrutI0D1cUgXpm+MSI3KxIjQmDDUYmb5kre7Z0uKmTzHTIs1qL2w3gCW93ejd4QiheNEsNdSEpucg==;xXldjpp+eiEgahOw6fe+Hg=="
+secured: "LoAnYYIHyNMoPq26rxXdShVj8NfSbanPxESgRUts7cBxew9jfaduiXLsuxJ+IWuOb2B3j4BdQTe+zhI6v45SQiY0K5SR2g3CcSfrJJS9EbdVKdeNkCQqegcoDzUnPydWHkbKXxznE4Uhf/XQniy/QNvZfdO4+RYPioG8Ln7H+XWCUxHtQ5gXB2UArrybxdyJbhX9tFW1lx+EogRsM9ycAry2PdmWA/FdY+jPWcyuOojgy97eFYBCKAWfxNw27532jcGAdwqu/n0aHAQue4f12LLpERWVcfqb1J3y4O34AsuwgQlrfJUZB8bHQRFAGF42fdWjM1NV25uRhYRacbIrQnkEhum7sthGM9ZRw6Y7B/0=;BKt5UYkX42XIZDehuO0oDA=="
 ---
 

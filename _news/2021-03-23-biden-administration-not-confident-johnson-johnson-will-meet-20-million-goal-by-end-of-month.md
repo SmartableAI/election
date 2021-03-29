@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-19-vaccine-supply-delays/index.html"
 type: article
 quality: 163
-heat: 243
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says 90% of adults will be vaccine eligible in three weeks"
+    excerpt: "President Joe Biden will announce Monday afternoon that 90% of adults will be eligible to get a coronavirus vaccine within the next three weeks, an administration official told CNN.\n    \n"
+    publishedDateTime: 2021-03-29T19:27:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDkK8xG35qk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden made stimulus look easy. Selling tax hikes for infrastructure will be harder "
+    excerpt: "President Joe Biden's second big legislative push will be harder than his first for multiple reasons, most conspicuously this one: It will include tax increases.\n    \n"
+    publishedDateTime: 2021-03-28T12:28:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xfzJ2Dsujbg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/infrastructure-plan-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/infrastructure-plan-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325173626-biden-news-conference-ghtits-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration announces extension of Affordable Care Act special enrollment by three months"
     excerpt: "The Centers for Medicare & Medicaid Services is extending the Affordable Care Act special enrollment period by three months to August 15, the Biden administration announced Tuesday.\n    \n"
     publishedDateTime: 2021-03-23T21:20:29Z
@@ -44,6 +76,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212175810-obamacare-sign-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration will spend nearly $10 billion to expand access to Covid-19 vaccines and build confidence"
+    excerpt: "The Biden administration said Thursday it would dedicate nearly $10 billion to expand access to Covid-19 vaccines for the hardest-hit and highest-risk communities and increase vaccine confidence across the country.\n    \n"
+    publishedDateTime: 2021-03-25T11:43:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93N1isuo8vE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -62,36 +110,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3458698/210322-joe-biden-jm-1425_7abadd79f5ccc05ffd45fa790b666e5f.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Duckworth, Hirono change course on Biden nominees after assurances on AAPI representation"
-    excerpt: "Sen. Tammy Duckworth, D-Ill., reversed course on vowing to object to President Joe Biden's nominees because of a lack of Asian American and Pacific Islander representation Tuesday evening after a spokesperson from her office said she had received ..."
-    publishedDateTime: 2021-03-24T15:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261865"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261865"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459014/210323-tammy-duckworth-jm-1637_366fa55d715e08f098a8783e0973abeb.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden: ‘Shots in Arms and Money in Pockets’"
-    excerpt: "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans."
-    publishedDateTime: 2021-03-15T19:27:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007655482/biden-coronavirus-checks-vaccinations.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/15/us/politics/15new-washington-briefing-monday-morning-lead/15new-washington-briefing-monday-morning-lead-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "fJY1GWZ9F8XHWYI5mcenwrwYFAsy05RiNOYS09VcppiL9ugOMNfOjr8V6pm6+bF0x4tqQquZo3I6q0xXbtpfeROEfRd7CerMkJ1zvlRdixffaE0C573lTkl0QdfeTVZZf/W1Mef6I//fEzGVqDBKWaKd0ZuGslUBp6g8qCEYmPQTZCRczwmQrWdqRcV8aL0jVlRbHbvfdT9uPLCJVtAZl0kkXlArqF9kX80Jm0x7qstXSvhhXy4zn18UG2Adw1lE04P4iw1Bsc4KTu2EFkZClfDa7zQOSC2p5aj3PQlkB4uM6rRY2A8RWgl8Cdbqc+b30RLrIf05/lx61pqea7ivadq1YLuZnuw3aj301BjRlcU=;oy6cXLnSgV3FYKLzEtkrAA=="

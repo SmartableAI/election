@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-st
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
 type: article
 quality: 125
-heat: 785
+heat: 805
 published: true
 
 provider:
@@ -523,6 +523,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCYM7LIUA5EM3N44LCYC3SJYVI.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "LIVE: President Joe Biden delivers 1:10 p.m. remarks on COVID-19 response, state of vaccinations"
+    excerpt: "President Joe Biden will deliver remarks on the COVID-19 response and the state of vaccinations at 1:10 p.m. Monday, March 29. Watch a stream of the event below and read the latest health news from NewsMD."
+    publishedDateTime: 2021-03-29T18:57:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6958296-LIVE-President-Joe-Biden-delivers-110-p.m.-remarks-on-COVID-19-response-state-of-vaccinations"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 42
+    images:
+      - url: "https://www.fccnn.com/incoming/6956912-aezffx-2021-03-25T173804Z_1785902361_RC2HIM9V6150_RTRMADP_3_USA-BIDEN.JPG/alternates/BASE_LANDSCAPE/2021-03-25T173804Z_1785902361_RC2HIM9V6150_RTRMADP_3_USA-BIDEN.JPG"
+        width: 1140
+        height: 712
         isCached: true
 
 secured: "wqJ9VMJi4hK2+Vdu8QmoGUHF6POvvhcSfj296Ov6QsZmyhhlMZRROSRHCLTFWdF9LNWyKHhm22CyVusHnaWjsHPkDSwMcUg+xGZVQTWvk0xYep39NfG+oXIxiCxVyN/wpdjlyVt8LIajUdK1GsafcOJAk3LLIUYP6ltv6fnLs1CQIpPCsVS7IFJUwIwzESpBjRpn5h0r3OhmdtVHJnV12gC8YQdEYBzlu4MJYoaPdH0RUK9m0c3UAR9HD8gKAMwdhjq8kNVm/LVhMg7cUZ4Gl/VTzmA7JbWmJvcRuJ8innnXjMpsdS53wiH+bKVBKN/JciGpHMzFvUC/NU/M0oUxLzi9lC+bvOrm9+iZeA7PJzU=;X0ADr0V3o0F1k7ll5geLLA=="

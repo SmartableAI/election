@@ -524,6 +524,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "LIVE: President Joe Biden delivers 1:10 p.m. remarks on COVID-19 response, state of vaccinations"
+    excerpt: "President Joe Biden will deliver remarks on the COVID-19 response and the state of vaccinations at 1:10 p.m. Monday, March 29. Watch a stream of the event below and read the latest health news from NewsMD."
+    publishedDateTime: 2021-03-29T18:57:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6958296-LIVE-President-Joe-Biden-delivers-110-p.m.-remarks-on-COVID-19-response-state-of-vaccinations"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 42
+    images:
+      - url: "https://www.fccnn.com/incoming/6956912-aezffx-2021-03-25T173804Z_1785902361_RC2HIM9V6150_RTRMADP_3_USA-BIDEN.JPG/alternates/BASE_LANDSCAPE/2021-03-25T173804Z_1785902361_RC2HIM9V6150_RTRMADP_3_USA-BIDEN.JPG"
+        width: 1140
+        height: 712
+        isCached: true
 
 secured: "uKop+pAV91gZk+V2gTMVkWhQ/uoVctDQAnHEBt740vR5M3Zduqq//Dhe5LVM1lx7/5Auq8M1ZpkNhMEMxiz/iDQ6hWPHgMpJNskkQ1/MuAmuse1xkV8NxN5Hev8/EXcu/6IC42+mbuQZaxMdmapuzR5rGXHTEPWsoQRiayFXaj1EEVexPJ6HUDKGyqZI2AMheb27kZc+VaM75wW4Ccqt0CR5L6T5HK80HikBfJNcpt1pAZVSQxRZ3yl7d4qgxxXQnL9fTW0VYoPKUVRrry3XelmGWRiK5FlHLW6yHn4AdvbNdJzqmzEEDh4M3yWzOTneq+AsLUvSpWPRMfTR5HBcpUCSqan6VTHgBZSV8Upacaf2xI+GaPavBHfw1alYJlHVDE9P6DpcmvMeCmCRzR5lO+Ui4Xk3yS6nqea8+81zu+suCMVPleLnqeqQRWIXtWPIC3Mcomg1ywwq0Z/ORUPo0ubKPQKUPmxIzLNCXHLmIbJpDRbT4uAMLbU34KnLks6joIeEGbloRe0Q7GeMMkFXhA==;spep8QQZW6wXbjwvJXOEAQ=="
 ---

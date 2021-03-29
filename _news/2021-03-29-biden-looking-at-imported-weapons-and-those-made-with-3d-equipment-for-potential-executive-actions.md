@@ -636,6 +636,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The challenge facing Joe Biden at the border"
+    excerpt: "Joe Biden has promised to address the migrant surge at the US-Mexico border. Ros Atkins takes an in-depth look at the problem, and whether the president can match his words with actions. The challenge facing Joe Biden at the border."
+    publishedDateTime: 2021-03-27T00:12:00Z
+    webUrl: "https://www.bbc.com/news/av/world-56540621"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09bzmbr.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."
     publishedDateTime: 2021-03-24T16:46:00Z
@@ -795,19 +809,19 @@ related:
         width: 350
         height: 439
         isCached: true
-  - title: "The challenge facing Joe Biden at the border"
-    excerpt: "Joe Biden has promised to address the migrant surge at the US-Mexico border. Ros Atkins takes an in-depth look at the problem, and whether the president can match his words with actions."
-    publishedDateTime: 2021-03-27T00:20:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/world-56540621"
+  - title: "U.S. President Joe Biden Delivers Remarks on the State of the Covid-19 Vaccine"
+    excerpt: "U.S. President Joe Biden arrives to deliver remarks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Ste"
+    publishedDateTime: 2021-03-29T19:47:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0ac7fa1a891356fa5e64ddc8dabd9fe8/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
+      name: UPI.com
+      domain: upi.com
+    quality: 51
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09bzmbr.jpg"
-        width: 400
-        height: 225
+      - url: "https://cdnph.upi.com/pv/upi/0ac7fa1a891356fa5e64ddc8dabd9fe8/BIDEN-VACCINE.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "JzTQpp7GJeZcxuaqQyhDwgpu7D3l8xRRLdXb1YS+2xeiJNpkEcJBZMPaXBACLI1dO71WcjQS/i9oQ6HBq5tRLIx5Vg6Z/SSBKTCDRdTPLbyEtDVq3VpUiKELPG0/BgU4nWqTx5WTHjArQRF505h6vM7pwcvdu/vwu20XGkFWCmdup/9oM0flDu3ELpVc11uv+hbL0y7UoQ+fYtUCUpKv3eMmBy8SnNS+OjKxEu1DtOsptYroupWthSGF7KlazT6ovJBvq0mHaK2T3ctajIgbS5TCrsZLahlx/hoxgmtxduKolulaSRKaqv/76Si/FroZOdsWZlq0HMwPO6XIbFgZXGNwVm4Bf+XGD0TWJV6Xipg=;lp3tqrq2RM9htJ5lILJbbQ=="

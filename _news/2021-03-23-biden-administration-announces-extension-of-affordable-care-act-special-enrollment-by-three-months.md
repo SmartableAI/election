@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says 90% of adults will be vaccine eligible in three weeks"
+    excerpt: "President Joe Biden will announce Monday afternoon that 90% of adults will be eligible to get a coronavirus vaccine within the next three weeks, an administration official told CNN.\n    \n"
+    publishedDateTime: 2021-03-29T19:27:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDkK8xG35qk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden made stimulus look easy. Selling tax hikes for infrastructure will be harder "
+    excerpt: "President Joe Biden's second big legislative push will be harder than his first for multiple reasons, most conspicuously this one: It will include tax increases.\n    \n"
+    publishedDateTime: 2021-03-28T12:28:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xfzJ2Dsujbg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/infrastructure-plan-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/infrastructure-plan-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325173626-biden-news-conference-ghtits-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration not confident Johnson & Johnson will meet 20 million goal by end of month"
     excerpt: "Officials in President Joe Biden's administration are not confident that Johnson & Johnson will meet its self-imposed deadline to deliver 20 million coronavirus vaccines by the end of March, despite optimistic statements from the company.\n    \n"
     publishedDateTime: 2021-03-23T01:52:41Z
@@ -44,6 +76,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306211510-02-johnson-and-johnson-covid-19-vaccine-colorado-0306-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration will spend nearly $10 billion to expand access to Covid-19 vaccines and build confidence"
+    excerpt: "The Biden administration said Thursday it would dedicate nearly $10 billion to expand access to Covid-19 vaccines for the hardest-hit and highest-risk communities and increase vaccine confidence across the country.\n    \n"
+    publishedDateTime: 2021-03-25T11:43:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93N1isuo8vE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -62,36 +110,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3458698/210322-joe-biden-jm-1425_7abadd79f5ccc05ffd45fa790b666e5f.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Duckworth, Hirono change course on Biden nominees after assurances on AAPI representation"
-    excerpt: "Sen. Tammy Duckworth, D-Ill., reversed course on vowing to object to President Joe Biden's nominees because of a lack of Asian American and Pacific Islander representation Tuesday evening after a spokesperson from her office said she had received ..."
-    publishedDateTime: 2021-03-24T15:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261865"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261865"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459014/210323-tammy-duckworth-jm-1637_366fa55d715e08f098a8783e0973abeb.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden: ‘Shots in Arms and Money in Pockets’"
-    excerpt: "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans."
-    publishedDateTime: 2021-03-15T19:27:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007655482/biden-coronavirus-checks-vaccinations.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/15/us/politics/15new-washington-briefing-monday-morning-lead/15new-washington-briefing-monday-morning-lead-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "xun0IpBD4uhNFnVSiFZ3Qk3tZDVDcdRxHUm+vaJcd9zfhrqT+umilgAX7boGzbpgd+VM48A+21EdfgamC3sAnBbF7i+Y3WjdEUIRg1QrFPdvzQj4ZyzqbgVoW8LGsEpapm5Bf37E+01175kemoybnx3tQnmXO6WDs3u4QOhL2pEBcrBgZEANWX5hkv4vlshAExMsOyaKre9Kb4lA2Lr8Q6xUIEdlmc4CpMej1MbkvXmiq7nrdq13TNGTBX7ugw4rrxwZ5ORBfTlD0lBQZMiDnk+nW3pSH3BHHlevkHP2us2XRB5Vv0KA9fiD6mE43xljdj+/OV7Mri+7Ia/FyzbrONWnB3Vd9+ntY+UlEjJl554=;QDAPdZuijf2YaV73aGk3kw=="

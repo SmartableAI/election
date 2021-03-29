@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Psaki: Biden, Harris don’t have to restrict nonessential travel because they use private planes"
+    excerpt: "White House press secretary Jen Psaki on Monday said President Biden and Vice President Kamala Harris are not required to restrict nonessential travel, as recommended by the Centers for Disease Control and Prevention, because they travel on private planes."
+    publishedDateTime: 2021-03-29T18:24:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-UCQtdW45o/psaki-biden-harris-non-essential-travel-private-plane"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-harris-non-essential-travel-private-plane.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-harris-non-essential-travel-private-plane.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Vice President Harris is “not doing the border,” senior adviser says"
     excerpt: "President Biden has tasked Vice President Harris with addressing the root causes of mass migration from Central America – but she will not be handling southern border policy in general, a top aide said."
     publishedDateTime: 2021-03-26T22:52:33Z

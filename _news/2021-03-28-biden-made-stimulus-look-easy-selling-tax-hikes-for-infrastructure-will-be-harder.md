@@ -31,51 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Three-ring binders and 14-point font: How Biden preps for a news conference"
-    excerpt: "One day before holding his first formal news conference, President Joe Biden seemed to write the whole thing off.\n    \n"
-    publishedDateTime: 2021-03-25T00:00:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/We1Vxbrzd0E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-press-conference-preparation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-press-conference-preparation/index.html"
+  - title: "Biden says 90% of adults will be vaccine eligible in three weeks"
+    excerpt: "President Joe Biden will announce Monday afternoon that 90% of adults will be eligible to get a coronavirus vaccine within the next three weeks, an administration official told CNN.\n    \n"
+    publishedDateTime: 2021-03-29T19:27:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDkK8xG35qk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to highlight gains and face tough scrutiny in first formal news conference"
-    excerpt: "President Joe Biden's first two months in power went remarkably smoothly considering he took office amid a once-in-a-century pandemic, a consequent economic crisis and his predecessor's refusal to recognize his victory. But in his first formal news conference Thursday, he'll face scrutiny on gun control"
-    publishedDateTime: 2021-03-25T05:54:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fLyDOHvClE0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/joe-biden-press-conference-challenges/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/joe-biden-press-conference-challenges/index.html"
+  - title: "Biden administration not confident Johnson & Johnson will meet 20 million goal by end of month"
+    excerpt: "Officials in President Joe Biden's administration are not confident that Johnson & Johnson will meet its self-imposed deadline to deliver 20 million coronavirus vaccines by the end of March, despite optimistic statements from the company.\n    \n"
+    publishedDateTime: 2021-03-23T01:52:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NIi7skwaHek/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-19-vaccine-supply-delays/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-19-vaccine-supply-delays/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130042-02-biden-boulder-shooting-remarkes-0323-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306211510-02-johnson-and-johnson-covid-19-vaccine-colorado-0306-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Lawmakers ask Biden to issue waiver to make Covid-19 vaccination mandatory for members of military"
-    excerpt: "A group of Democratic lawmakers sent a letter to President Joe Biden requesting that he issue a \"waiver of informed consent\" to make getting vaccinated against Covid-19 mandatory for all US military service members.\n    \n"
-    publishedDateTime: 2021-03-24T21:30:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rRSX5PzvRLg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/congress-letter-military-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/congress-letter-military-vaccine/index.html"
+  - title: "Biden administration announces extension of Affordable Care Act special enrollment by three months"
+    excerpt: "The Centers for Medicare & Medicaid Services is extending the Affordable Care Act special enrollment period by three months to August 15, the Biden administration announced Tuesday.\n    \n"
+    publishedDateTime: 2021-03-23T21:20:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/328sPJXVXVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/affordable-care-act-enrollment-august/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/affordable-care-act-enrollment-august/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322185510-covid-vaccine-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212175810-obamacare-sign-file-2015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -95,19 +95,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden hit his first vaccination milestone today. Here's how the numbers break down."
-    excerpt: "Biden hit his first vaccination milestone today. Here's how the numbers break down. The country has counted 100 million Covid-19 vaccine doses administered 59 days into Biden’s first 100 days. On Friday,"
-    publishedDateTime: 2021-03-19T17:36:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-100-million-vaccinations-milestone-n1261583"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261583"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261583"
+  - title: "Biden's multitrillion-dollar infrastructure jam"
+    excerpt: "WASHINGTON — President Joe Biden is signaling that his next big push in Congress will be for legislation implementing the transportation, infrastructure and green-energy elements of his \"Build Back Better\" campaign platform, with a reported potential ..."
+    publishedDateTime: 2021-03-22T20:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-multi-trillion-dollar-infrastructure-jam-n1261613"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261613"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261613"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 129
+    quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3458152/210319-covid-vaccination-se-1132a_4a3b765696e0a6dda791ab29c0e908ee.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3458698/210322-joe-biden-jm-1425_7abadd79f5ccc05ffd45fa790b666e5f.jpg"
         width: 2500
         height: 1667
         isCached: true

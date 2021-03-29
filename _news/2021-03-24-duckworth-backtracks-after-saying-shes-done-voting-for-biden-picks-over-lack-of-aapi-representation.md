@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden signs law expanding COVID-19 vaccinations for veterans, their spouses and caregivers"
-    excerpt: "President Biden signed into law Wednesday, a measure that would expand the Department of Veterans Affairs' ability to provide the coronavirus vaccine for millions of Americans."
-    publishedDateTime: 2021-03-24T21:05:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QW0HYLp99wA/biden-signs-law-expanding-covid-19-vaccinations-for-veterans-their-spouses-and-caregivers"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-law-expanding-covid-19-vaccinations-for-veterans-their-spouses-and-caregivers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-law-expanding-covid-19-vaccinations-for-veterans-their-spouses-and-caregivers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28a5b8a0-0106-4568-b113-06ec9d3d7f96/a36165bf-9d2d-4f1f-ad18-bd48814f2c11/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Manchin target of ad in West Virginia pressuring him to block controversial Biden DOJ nominee"
     excerpt: "The Judicial Crisis Network (JCN) is launching a campaign aiming to scuttle the nomination of Vanita Gupta to be the associate attorney general for civil rights by targeting moderate Democratic Sen. Joe Manchin in his home state of West Virginia. "
     publishedDateTime: 2021-03-16T19:02:57Z

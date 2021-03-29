@@ -2,19 +2,19 @@
 category: news
 title: "Pence to headline benefit dinner at Faulkner University"
 excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University."
-publishedDateTime: 2021-03-29T12:20:00Z
-originalUrl: "https://www.bellinghamherald.com/entertainment/celebrities/article250270800.html"
-webUrl: "https://www.bellinghamherald.com/entertainment/celebrities/article250270800.html"
-ampWebUrl: "https://amp.bellinghamherald.com/entertainment/celebrities/article250270800.html"
-cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/entertainment/celebrities/article250270800.html"
+publishedDateTime: 2021-03-29T16:36:00Z
+originalUrl: "https://www.sunherald.com/entertainment/celebrities/article250270800.html"
+webUrl: "https://www.sunherald.com/entertainment/celebrities/article250270800.html"
+ampWebUrl: "https://amp.sunherald.com/entertainment/celebrities/article250270800.html"
+cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/entertainment/celebrities/article250270800.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Bellingham Herald
-  domain: bellinghamherald.com
+  name: Biloxi Sun Herald
+  domain: sunherald.com
 
 topics:
   - Election
@@ -63,6 +63,6 @@ related:
         height: 1680
         isCached: true
 
-secured: "Cya5Of/t9aHHvhlHzxtYs8UtwUZp76naxlu5leyvxmw2UZztEqIIrQ+911fIAKj4VU+MJ7sBaDGUk6ZUSoWsa4MWiUdOozDiuwh1RQ6cib3FX6bg0zMFsOCBgatiOb2qhSVBVBkJKpavMJ1kw204Di3QqMncSk82A/nRTxUg2zvDg5Bmmr6oHsuuuEixBJVLsR+yK32hKq0qoNp/WUidFbV4OUIxY2urJricbMqqBpSdwyaaBTkolr4EidaIvnkY6+e9p2whOu1kGgh/Nal7n/UoC035PyXaXJSM6kpsNxSmB6oz4/DE/Ll53ZK2B71SqsSGXYkV7vZr9KD23nz3TP2WXkiJCFvirNbrXUE2Udw=;LuLxxFodHirsdHJxhByOpg=="
+secured: "XCB94cmON9DJSpWPs5ZZTSIi0A11NPqDNznH4mRaIuTxUAKnVFOXrttyvUNS2DuVpSlynXQmvwTPtuNaGXavA0YfTurkPhG2mnkSHW/VmHD5wTnzlPWDw5dhZgNLV80FEOvVAyJAmk96ULGzK+dAdZWoGYXb0k/dz4/SK70OlABIlkhwEVPY+kTtsI5VLfwwG+phisTxUgixQDQhx02jHlNBEisQBpegjvBzqK2K1O19O1GxYTE58oHR4tyloxkQWT55nNfI2eepo2LxnshIONqgv4xI+qwth6JETTQM/gYueXlZArq05aVTp534MFuaHxbttM1IBOLVxPvFO5bWv5kKewOxMUVhcd0T+EIfQdE=;kcQRRRpCFzgYswRrVbuWxA=="
 ---
 

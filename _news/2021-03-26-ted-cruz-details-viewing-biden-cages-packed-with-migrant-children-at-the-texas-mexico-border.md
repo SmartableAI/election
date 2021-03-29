@@ -34,7 +34,7 @@ related:
   - title: "Texas Sen. Ted Cruz On Border Visit: \"Joe Biden Has Built More Cages\" For More Kids, \"Bigger And More Full\""
     excerpt: "Sen.Ted Cruz of Texas told FNC's \"Sunday Morning Futures\" about his visit to the border this week as a surge of migrants and asylum-seekers continues. He was not allowed to film his experience visiting the site of a Border Patrol detention facility."
     publishedDateTime: 2021-03-28T16:41:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/28/texas_sen_ted_cruz_on_border_visit_migrant_surge_joe_biden_has_built_more_cages_bigger_more_full.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/28/texas_sen_ted_cruz_on_border_visit_migrant_surge_joe_biden_has_built_more_cages_bigger_more_full.html"
     type: article
     provider:
       name: RealClearPolitics

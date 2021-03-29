@@ -54,14 +54,14 @@ related:
         isCached: true
   - title: "Pence to headline benefit dinner at Faulkner University"
     excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University."
-    publishedDateTime: 2021-03-29T12:20:00Z
-    webUrl: "https://www.bellinghamherald.com/entertainment/celebrities/article250270800.html"
-    ampWebUrl: "https://amp.bellinghamherald.com/entertainment/celebrities/article250270800.html"
-    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/entertainment/celebrities/article250270800.html"
+    publishedDateTime: 2021-03-29T16:36:00Z
+    webUrl: "https://www.sunherald.com/entertainment/celebrities/article250270800.html"
+    ampWebUrl: "https://amp.sunherald.com/entertainment/celebrities/article250270800.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/entertainment/celebrities/article250270800.html"
     type: article
     provider:
-      name: The Bellingham Herald
-      domain: bellinghamherald.com
+      name: Biloxi Sun Herald
+      domain: sunherald.com
     quality: 55
 
 secured: "M6RjhRctAA/0Q8NL+z0G5g3weBXEw8mMk0BKzFyP74nLXO6BM0tNuNP8B/eBkV31GR2oJnVBXZJBTQhHt/IW8eFT0mLKriICn2yhuXPwi3wqZGveN5EWc71ZbCexaScyqFGwqhIoVBR+MoAyOUa+NghVEAWexe4U5I6xkufD0GIC5INjTknch9MTqR93NZCIQO3pzydyOJfLHnUVKFkwdrcGPCWCkG3jG56EG2ehe1B421zZqjVqRh9BbP921o5I5gkXufPPm3nfGvuQB9yk5bxHLDqZJoPupuogV6enGiVegTBn8P4GO0rvGB5C3lxJET69BTlz8qLJZlLTPmM0HgVAnM44M1ux6jTNCacWEjM=;REb+c2NXYZB/qmZRC4GoQw=="
