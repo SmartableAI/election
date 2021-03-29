@@ -1347,6 +1347,22 @@ related:
         width: 850
         height: 636
         isCached: true
+  - title: "President Biden Finally Meets the Press"
+    excerpt: "The new president started with good news. Joe Biden told reporters assembled at the White House for his first official press conference that he now expects 200 million doses of the COVID vaccine will be administered by the end of his first 100 days in office."
+    publishedDateTime: 2021-03-26T11:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/538783_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Migrant With Three Children: We \"Basically\" Crossed The Border Because Joe Biden Was Elected President"
     excerpt: "MIGRANT: Definitely not. RADDATZ: So did you come here because Joe Biden was elected president? MIGRANT: Basically, basically, the main thing was the violence in my country. And the second thing I think was Joe Biden. First, he’s not illegal; he’s ..."
     publishedDateTime: 2021-03-23T14:16:00Z

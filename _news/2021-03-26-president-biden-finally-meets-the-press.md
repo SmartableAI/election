@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Graham blasts 'Biden administration s---show' at border, demands president, VP 'get off your a--'"
-excerpt: "A fuming Sen. Lindsey Graham, R-S.C., railed against President Joe Biden and his administration's role in the crisis at the southern border Tuesday, suggesting the White House is gaslighting the public into believing the U.S.-Mexico frontier is secure."
-publishedDateTime: 2021-03-24T02:41:45Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CAxeRlkZg18/lindsey-graham-tells-biden-harris-get-off-your-rear"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CAxeRlkZg18/lindsey-graham-tells-biden-harris-get-off-your-rear"
-ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-tells-biden-harris-get-off-your-rear.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-tells-biden-harris-get-off-your-rear.amp"
+title: "President Biden Finally Meets the Press"
+excerpt: "The new president started with good news. Joe Biden told reporters assembled at the White House for his first official press conference that he now expects 200 million doses of the COVID vaccine will be administered by the end of his first 100 days in office."
+publishedDateTime: 2021-03-26T11:32:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.html#!"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.amp.html"
 type: article
-quality: 162
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5de2e5d-c6a3-47a3-bb68-71774de99df8/96ad1f74-b907-44e3-905f-485ddba86e5e/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/53/538783_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -943,6 +940,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Graham blasts 'Biden administration s---show' at border, demands president, VP 'get off your a--'"
+    excerpt: "A fuming Sen. Lindsey Graham, R-S.C., railed against President Joe Biden and his administration's role in the crisis at the southern border Tuesday, suggesting the White House is gaslighting the public into believing the U.S.-Mexico frontier is secure."
+    publishedDateTime: 2021-03-24T02:41:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CAxeRlkZg18/lindsey-graham-tells-biden-harris-get-off-your-rear"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-tells-biden-harris-get-off-your-rear.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-tells-biden-harris-get-off-your-rear.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5de2e5d-c6a3-47a3-bb68-71774de99df8/96ad1f74-b907-44e3-905f-485ddba86e5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration opens second child migrant facility in Carrizo Springs amid escalating crisis"
     excerpt: "The Biden administration announced Tuesday that it is opening a second facility to process child migrants in Carrizo Springs, Texas -- the latest move by the administration to cope with a surge in migrant numbers at the border."
     publishedDateTime: 2021-03-23T23:06:01Z
@@ -1334,22 +1347,6 @@ related:
         width: 850
         height: 636
         isCached: true
-  - title: "President Biden Finally Meets the Press"
-    excerpt: "The new president started with good news. Joe Biden told reporters assembled at the White House for his first official press conference that he now expects 200 million doses of the COVID vaccine will be administered by the end of his first 100 days in office."
-    publishedDateTime: 2021-03-26T11:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/538783_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Biden: I Told Kamala Harris She'd Be The Last Person In The Room, \"That Means She Gets Every Assignment\""
     excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U."
     publishedDateTime: 2021-03-24T19:35:00Z
@@ -1381,6 +1378,6 @@ related:
         height: 562
         isCached: true
 
-secured: "M0dNRPtgsA+wN99Sba/3l2MO4EdBgKmnzPJx4SN1lrpE6pLu/5LsP2yNB3+MFcWrapTwEXUIbN+U312MosAlc2QnJa+noaIjrqCzi0uJwT6X8wx0tJsGEwEFdLrR68pRFmLDmKlHB5z0NrGb4JtYYodtgr2jUFeAQjHIwt1VACthWR4DSTe3P/vRp7z0I+wyori/lgBU6wHcGHXMtHd/W0AV9qJGTafrlf4wWUTMzCS0Aot8gZZoVFWwr9/f17RiESF6iR4XF69Z4xYMvbEYOwsaJhrKYcAUy/vE1hFXBr3gYXYC1dlVJ+czel4/VhvNkQVrNrqRJNJGgnuIH3FcRRDiQF5rid12UIYFfgRgLzU=;8fow0cNsSFdp+0kcho7yfA=="
+secured: "6MGUI/2RcN6pW2o042oC7KnhVOphHbYzw6D3IAsBbpcORQL6pKl141SvpkNVBcZZC188W66I8qJTLtNq6TKxRmy6KMwbNViaZeK2dnNMSDEBBx2kuudnJqnn5dFF0yaTFArVnEuH6y8j5OjrLvsucktVNEQJ7476wrHoKmiMLRLXOwY2+wJh+d0T4o9IKrAI6wIW5x+Q0Zu110XEJJIC9EpDBhmxlr5b0YDExn19vcn1NQF888NrjhwsrB3lqwFLWPqKLDtIUtVjMfFv09jy6zZoyVPIL7xuqmAu0vjLs84BqN6ZiwyRkB9k8ugPN8b9gxJsPVNKM2yO4zNRqOoIJGXFCXoBSGXhbRXy8n7k0YE=;9O2rlLtoDHLx1NPUSNX8+w=="
 ---
 

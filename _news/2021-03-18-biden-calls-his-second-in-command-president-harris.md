@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp"
 type: article
 quality: 200
-heat: 1880
+heat: 1900
 published: true
 
 provider:
@@ -1334,6 +1334,22 @@ related:
       - url: "https://assets.realclear.com/images/53/538196.jpg"
         width: 850
         height: 636
+        isCached: true
+  - title: "President Biden Finally Meets the Press"
+    excerpt: "The new president started with good news. Joe Biden told reporters assembled at the White House for his first official press conference that he now expects 200 million doses of the COVID vaccine will be administered by the end of his first 100 days in office."
+    publishedDateTime: 2021-03-26T11:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/26/biden_meets_the_press_no_shouts_or_insults_limited_bragging_145486.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/538783_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Biden: I Told Kamala Harris She'd Be The Last Person In The Room, \"That Means She Gets Every Assignment\""
     excerpt: "President Biden announced Wednesday that he has asked Vice President Kamala Harris \"to lead our efforts with Mexico and the Northern Triangle countries that are going to need help in stemming\" the flow of refugees and the migrant crisis at the U."
