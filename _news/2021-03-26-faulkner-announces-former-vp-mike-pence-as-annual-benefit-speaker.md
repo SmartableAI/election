@@ -54,18 +54,15 @@ related:
         isCached: true
   - title: "Pence to headline benefit dinner at Faulkner University"
     excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University."
-    publishedDateTime: 2021-03-29T05:12:00Z
-    webUrl: "https://www.decaturdaily.com/news/other_news/state/pence-to-headline-benefit-dinner-at-faulkner-university/article_9054ea6c-e771-5c73-aa9e-950022c57fa4.html"
+    publishedDateTime: 2021-03-29T12:20:00Z
+    webUrl: "https://www.bellinghamherald.com/entertainment/celebrities/article250270800.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/entertainment/celebrities/article250270800.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/entertainment/celebrities/article250270800.html"
     type: article
     provider:
-      name: Decatur Daily
-      domain: decaturdaily.com
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
     quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/assets/v3/editorial/f/d8/fd8dcd1d-26d0-555e-ae80-41e00516ab23/60611e2b9db7c.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
 
 secured: "M6RjhRctAA/0Q8NL+z0G5g3weBXEw8mMk0BKzFyP74nLXO6BM0tNuNP8B/eBkV31GR2oJnVBXZJBTQhHt/IW8eFT0mLKriICn2yhuXPwi3wqZGveN5EWc71ZbCexaScyqFGwqhIoVBR+MoAyOUa+NghVEAWexe4U5I6xkufD0GIC5INjTknch9MTqR93NZCIQO3pzydyOJfLHnUVKFkwdrcGPCWCkG3jG56EG2ehe1B421zZqjVqRh9BbP921o5I5gkXufPPm3nfGvuQB9yk5bxHLDqZJoPupuogV6enGiVegTBn8P4GO0rvGB5C3lxJET69BTlz8qLJZlLTPmM0HgVAnM44M1ux6jTNCacWEjM=;REb+c2NXYZB/qmZRC4GoQw=="
 ---

@@ -449,8 +449,8 @@ related:
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
     excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
-    publishedDateTime: 2021-03-26T18:12:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e26338f08ef6f2f140ed5"
+    publishedDateTime: 2021-03-26T22:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e4ceb8f08aff75c03c3ce"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -609,20 +609,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc90a677-060e-4b32-8a71-3091fe5fb58b_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "The challenge facing Joe Biden at the border"
-    excerpt: "Joe Biden has promised to address the migrant surge at the US-Mexico border. Ros Atkins takes an in-depth look at the problem, and whether the president can match his words with actions. The challenge facing Joe Biden at the border."
-    publishedDateTime: 2021-03-27T00:12:00Z
-    webUrl: "https://www.bbc.com/news/av/world-56540621"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09bzmbr.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."
@@ -783,6 +769,20 @@ related:
         width: 350
         height: 439
         isCached: true
+  - title: "The challenge facing Joe Biden at the border"
+    excerpt: "Joe Biden has promised to address the migrant surge at the US-Mexico border. Ros Atkins takes an in-depth look at the problem, and whether the president can match his words with actions."
+    publishedDateTime: 2021-03-27T00:20:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-56540621"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09bzmbr.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Biden looking at imported weapons and those made with ‘3D equipment’ for potential executive actions"
     excerpt: "President Joe Biden is “looking” at what executive actions he can take on guns, particularly when it comes to regulating imported weapons and those made with “3D equipment,” he told reporters on the tarmac in Delaware on Friday."
     publishedDateTime: 2021-03-29T04:43:00Z
@@ -798,6 +798,6 @@ related:
         height: 604
         isCached: true
 
-secured: "1SpeHlxOLHVrpaoF2olvoD97SBn3zC1IhNwPOnvDf24fl5q6hD7jOo7XgcAZ8Sl5QLbuaw2EsQVLgYn4hR7FjDLeMWCKge895D4EpgbqfBb95kCvLz9IoabiY/Q35b7SsWKywbDSti4GlhCwgxJixhl7awN1USLCiC2XLi1fi3y2d0VDdYn8wSqR+X8Nl8S75nvzY+Epg/rqToTjcadZ7cjdRVtdB+C1TCEyTrEs/ES4IwxcHNM/Lh48qh5AkqTN19mWyCAIqL5p+iuNOtSVGTbFU4VFEHYx/mzsl1sNhZA/ib5QGoMB0SiJ/F2e337xSTCgBt39Egsvy1ph0xNc4lM2rBiJt0x9j0GuM/Mohdk=;QIYE+USFz7PP+sT21IBRgw=="
+secured: "JIM3ODCiqaOmrHwQF0OkK8YY0oobWkf6c2KUYbSxe4Jhx3rofbnCpWuzBNXX2xclw4LW03jlG6Lrat0YsK5JwUK+ocH09d7Drvf3GlqaxCgTmWLuNVem0Hb/j7DgvA05mU9IRcmlLpAd1XzOsy4GzsKNWhmiCgZzHZ0JzAr4bIQ07DgVzM2VM/lpqxBwH2jMSw4YOqO5OoXBT03Hy9UxJKfoKZPDxDPygzfbhAepiK1U3y1vBIMwY6VKpfFEOB6NCfcREG9xsYKX56sJ9+naWg/FTNYL3jd/tfEOqjloPtE7q+ivvFba4Beh1Sy2w4Q6+MRR2PBwg9NUWmjXHFqoFSmvPU+O2Dok6K29SwKRUJpe+xGIb4SOhz4t/73I+VJFtrNbs1Wod+60/iycO3KqykRZ6UfjuFh+ms6p/AJpxBJ+z8lVeiz+IJef4+W74h7tucER/AtnamMuSImo0D/et487gEKKU9wjHjFJesy+xFCwfIJ1ztGzojA0sleENcKUKbhmNXl5jBpFT6kZasoN/g==;gRtvo+uqTsVK89OQev5wXg=="
 ---
 

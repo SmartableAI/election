@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-23-meghan-mccain-apologizes-for-aiding-trumps-racist-covid-rhetoric-after-being-called-out-by-john-oliver.md",
+      "title": "Meghan McCain apologizes for aiding Trump's 'racist' COVID rhetoric after being called out by John Oliver",
+      "excerpt": "\"The View\" co-host Meghan McCain issued an apology on Monday after she was called out by \"Last Week Tonight\" host John Oliver for comments she made about rhetoric tying the coronavirus outbreak to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/meghan-mccain-apology-john-oliver",
+      "originalUrl": "https://www.foxnews.com/media/meghan-mccain-apology-john-oliver",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d899ce99-eeab-4a7d-b8b4-220bfade748e/d32c7129-2e9b-4316-a6eb-02854a32e2bd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/meghan-mccain-apology-john-oliver.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-apology-john-oliver.amp",
+      "publishedDateTime": "2021-03-22T18:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-biden-regularly-consults-with-barack-obama-on-a-range-of-issues-psaki-says.md",
       "title": "Biden regularly consults with Barack Obama on a 'range of issues', Psaki says",
       "excerpt": "White House Press Secretary Jen Psaki on Monday said that President Biden maintains “regular” communication with President Barack Obama on a number of issues.",
@@ -1589,62 +1646,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling.amp",
       "publishedDateTime": "2021-03-17T12:29:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-border-wall-freeze-unlawful-40-gop-senators-tell-gao-in-letter.md",
-      "title": "Biden border wall freeze unlawful, 40 GOP senators tell GAO in letter",
-      "excerpt": "A group of 40 GOP senators on Wednesday asked the Government Accountability Office to decide whether President Biden's decision to freeze more than $1 billion in congressionally approved border wall funding violates federal law.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5shomOtuZQ/biden-border-wall-freeze-unlawful-senators-gao",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5shomOtuZQ/biden-border-wall-freeze-unlawful-senators-gao",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021726310142-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp",
-      "publishedDateTime": "2021-03-17T09:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

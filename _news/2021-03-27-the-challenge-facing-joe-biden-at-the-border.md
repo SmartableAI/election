@@ -1,22 +1,18 @@
 ---
 category: news
 title: "The challenge facing Joe Biden at the border"
-excerpt: "Joe Biden has promised to address the migrant surge at the US-Mexico border. Ros Atkins takes an in-depth look at the problem, and whether the president can match his words with actions. The challenge facing Joe Biden at the border."
-publishedDateTime: 2021-03-27T00:12:00Z
-originalUrl: "https://www.bbc.com/news/av/world-56540621"
-webUrl: "https://www.bbc.com/news/av/world-56540621"
+excerpt: "Joe Biden has promised to address the migrant surge at the US-Mexico border. Ros Atkins takes an in-depth look at the problem, and whether the president can match his words with actions."
+publishedDateTime: 2021-03-27T00:20:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/world-56540621"
+webUrl: "https://www.bbc.co.uk/news/av/world-56540621"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -447,8 +443,8 @@ related:
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
     excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
-    publishedDateTime: 2021-03-26T18:12:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e26338f08ef6f2f140ed5"
+    publishedDateTime: 2021-03-26T22:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e4ceb8f08aff75c03c3ce"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -798,6 +794,6 @@ related:
         height: 604
         isCached: true
 
-secured: "n2pchjGrHKYhjiM5F2dRmF6OJpMiTxu8sJxTznnXYEnGp0A/VHeCfKTsiqggGqMBW+ZF4WBDwLI5ajFi3UrJ1ajdd0Ki+RbN3AxKAEAprhYeYLqPDg2/C8xl15XeiojMHQuasWmJhvf5peXCR6IUA/eUsES+GwbFOIa70UyYj9ieG8W1bTSmMXKvV2xBW5jkOu4MVSCrhIaob61mUTKuSxU14csvRvPttbhQEoYfw8RzjeHvQIzfKBD3VHvi/0QlDXdO7v2I/dqa923RzvDoIo80iGMoOyZDc0Bc5o91IXh4yVN4fS62HCsqn3/PTtYlEv7zr3oDExBZ3K9OEoDzFxUPp9gIz16EHzvD5tZFvMYraWo7ocaOlIY3ZCte2jlW+2js3tz8DrJn+f94Sy3AvtL96n+Q0TZTs116FvW2g7g1wwW/07N6Lns9kcs2HAWqXNBQSgv7Lmb3CEuDWc77sulzD0IlWgCrtScOgBSqXA3IbRa0nSPPY+NrNnw0YYX06dqApnhK2dcj+ptadGzt9g==;/lOjPe6UgB4TNBCwztO75g=="
+secured: "L/tng0jLlYNhj3QnzNaxMT1+4+n+qUPxV4XLG/AbU09LVADS40MrrD6iXP2iEuUyhLgB1tWv+OxkVyr3cBOL6pG2iqLRrtrMhQPMQlKv6AlCtXbVBTfTl7Snb25f8HGXi4C/oVdqL86WfMhvw6NwLMmJQp5apJj9bjPpBqFUycPDm2QTfMXhwLJYYYC4XOgUmsWyDbl9BVf1gNaOPrAXtoS2ptLRmOl52mSpi0rwRpzlGPGr/LMmDt6eYmE2h3J3RWPyodI9EwHQ1IoAUufKJx7x3mLs1U3Rd0BpJKwyot4wjI2aPg1za4AjsyLtHy29xA+1JV8FC2T8duq6jinvryp9yXyuCyj0XxZlrEr8dD4=;5AiR0xZMN9HR+xfQcmVfBQ=="
 ---
 

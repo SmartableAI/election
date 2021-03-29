@@ -2,27 +2,23 @@
 category: news
 title: "Pence to headline benefit dinner at Faulkner University"
 excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University."
-publishedDateTime: 2021-03-29T05:12:00Z
-originalUrl: "https://www.decaturdaily.com/news/other_news/state/pence-to-headline-benefit-dinner-at-faulkner-university/article_9054ea6c-e771-5c73-aa9e-950022c57fa4.html"
-webUrl: "https://www.decaturdaily.com/news/other_news/state/pence-to-headline-benefit-dinner-at-faulkner-university/article_9054ea6c-e771-5c73-aa9e-950022c57fa4.html"
+publishedDateTime: 2021-03-29T12:20:00Z
+originalUrl: "https://www.bellinghamherald.com/entertainment/celebrities/article250270800.html"
+webUrl: "https://www.bellinghamherald.com/entertainment/celebrities/article250270800.html"
+ampWebUrl: "https://amp.bellinghamherald.com/entertainment/celebrities/article250270800.html"
+cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/entertainment/celebrities/article250270800.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Decatur Daily
-  domain: decaturdaily.com
+  name: The Bellingham Herald
+  domain: bellinghamherald.com
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/assets/v3/editorial/f/d8/fd8dcd1d-26d0-555e-ae80-41e00516ab23/60611e2b9db7c.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
-    isCached: true
 
 related:
   - title: "Pence to headline benefit dinner at Faulkner University"
@@ -67,6 +63,6 @@ related:
         height: 1680
         isCached: true
 
-secured: "xMeaxus3gPiYwYqChg8LCKZiTh1nXOzwoqV6Qr7yWf8KhRRtzkmN90Yv0cHJYY5j/9vHuwl6ei9c18Xq8euRfJFcSQ1hQOp/oQXNJqK6OUE2sjksWPiubluOFEMcuHM3xTozK95HkdMP0g/wvQ7F8crtNi7KeGF+9UvpEZr/DkSoL9hSsppfcvaCLJJj5vp1ieggztLLcxjq4iqB+8sQHDy28ShPtB331pQvwVIV4caDrFeWCjVaY0yiEyrH3p8wUHoKsWKuSD3C7DMO8ketlLb5Q4jJ8tcEfFixPYNl+Etp2RJe4h2o0s9t9G7R6RbPLpnJLRBxn3Iju8Y2L8fiujfw4BMKqmZgHH21+hdE388=;lkTzE/Fv7obm5XCbQnApZQ=="
+secured: "Cya5Of/t9aHHvhlHzxtYs8UtwUZp76naxlu5leyvxmw2UZztEqIIrQ+911fIAKj4VU+MJ7sBaDGUk6ZUSoWsa4MWiUdOozDiuwh1RQ6cib3FX6bg0zMFsOCBgatiOb2qhSVBVBkJKpavMJ1kw204Di3QqMncSk82A/nRTxUg2zvDg5Bmmr6oHsuuuEixBJVLsR+yK32hKq0qoNp/WUidFbV4OUIxY2urJricbMqqBpSdwyaaBTkolr4EidaIvnkY6+e9p2whOu1kGgh/Nal7n/UoC035PyXaXJSM6kpsNxSmB6oz4/DE/Ll53ZK2B71SqsSGXYkV7vZr9KD23nz3TP2WXkiJCFvirNbrXUE2Udw=;LuLxxFodHirsdHJxhByOpg=="
 ---
 
