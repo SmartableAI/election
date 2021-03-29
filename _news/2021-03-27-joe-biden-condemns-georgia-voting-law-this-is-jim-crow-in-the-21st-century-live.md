@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
 excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
-publishedDateTime: 2021-03-26T22:28:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e6e0f8f08aff75c03c544"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e6e0f8f08aff75c03c544"
+publishedDateTime: 2021-03-26T18:25:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e136e8f08774d1beab008"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e136e8f08774d1beab008"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 type: article
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
+    publishedDateTime: 2021-03-26T20:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-election-idUSKBN2BI2VZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI2VZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI2VZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210326&t=2&i=1556388088&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2P1PD"
+        width: 760
+        height: 545
+        isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – as it happened"
     excerpt: "Advocates are also urging Joe Biden to impose a national moratorium and make water a priority in the forthcoming infrastructure bill. Hi there, it’s Maanvi Singh – blogging from the west coast. Joe Biden spoke with Boris Johnson today. The two leaders ..."
     publishedDateTime: 2021-03-26T23:14:00Z
@@ -64,6 +80,6 @@ related:
         height: 360
         isCached: true
 
-secured: "CqCENXV+eWS6G9QiFHE5ephjI+j9jBLcphMV6jE+juk2nE3/9Z2MJHQenarQ8CNqQiEhg9/2g6rZG4hD1gndLvjWatwztuU3EbwlFJFh0r/qht/+jJko/3Rk0GydFJP5Zi/WYUn2aDwRDHy2pHdigXBy8wSbomhuURZatZKhwqR4E/Qk3zygVJuS4rvQHTvmnQjAUzXH1HxMW3VHACz6k47UO/thdQZjrPIkt6rBGoPHYH/YdgR8Np02gKM8Tum2P6yrQakwsub1at9npGXOmKlTOsbNGL1PmNq3b8KhPpPvxJ2SAHE1iLaRx5jKgVz+LHIrx0c0jkwL/sirhHME3xkP7oMvLjTHZbT+JTUv8bE=;LI370qe/3Y1unNpPe45ooQ=="
+secured: "EHFTsrLWLSMDU6tKjoxNQS42dB9aOzbSW0pDXr78ygpzxTpIoJHfZfNlxmqqVNBmqMAlaDNGQoNP8ehy01YTidYkMtjITvXaz3hEMG1ENcOTwm1VGq1I+RHz3ImqlX1qsl/oNVVNYHyFZQ/hpIpZTrdOH/X9p+lkGKMOGJYW1vkehCb3cZQ7i6KAbubiC87gr7g0vFupHIEiH8fIy1Qhn6dPZqfHzrK9s0RgpFAhVG61+k43M5ffY5hX6rT0TUtFzOkXnq3H6zy3McdVEu50qF/UKu0ITGC9LjLj+8ChCEdwWm5EOkuBdCeu0y/TiqZaEMMzcy+Z5/E4+fxLWVGeL5bgMoo37JhOCXPj9HD2R10=;95r4DTUfRO0YiFbeZDhu0w=="
 ---
 

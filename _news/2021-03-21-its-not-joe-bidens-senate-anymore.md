@@ -1294,6 +1294,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Why Joe Biden Is Embracing His Age"
+    excerpt: "By highlighting his place in the long arc of history, he hopes that his ambitious agenda might ultimately rank among the most consequential of modern presidents."
+    publishedDateTime: 2021-03-28T10:04:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/03/26/joe-biden-cant-stop-talking-about-history-478221"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/03/26/joe-biden-cant-stop-talking-about-history-478221"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/03/26/joe-biden-cant-stop-talking-about-history-478221"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d3/0b/aab4d9114795aa9e7b28b51f600d/gettyimages-1309116323-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Mike Pence ensures 'safe inauguration' after Capitol riot"
     excerpt: "During a briefing at FEMA headquarters, Vice President Mike Pence addressed the Capitol riot and ensured an “orderly transition into a safe inauguration.”"
     publishedDateTime: 2021-01-14T22:56:00Z

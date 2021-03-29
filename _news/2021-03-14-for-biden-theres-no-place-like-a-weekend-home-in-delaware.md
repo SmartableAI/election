@@ -815,6 +815,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Poll: Biden approval steady at 60 percent"
+    excerpt: "President Biden Joe Biden Biden's prediction on Afghanistan withdrawal spurs doubts Trump the X-factor in Virginia governor race Trump says he'll likely visit southern border soon MORE's job ..."
+    publishedDateTime: 2021-03-26T20:10:00Z
+    webUrl: "https://thehill.com/hilltv/what-americas-thinking/545144-poll-biden-approval-steady-at-60-percent"
+    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/545144-poll-biden-approval-steady-at-60-percent?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545144-poll-biden-approval-steady-at-60-percent?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_032521getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
     publishedDateTime: 2021-03-14T14:12:00Z
@@ -1808,6 +1824,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden leaves door open for Senate changes to advance agenda"
+    excerpt: "President Joe Biden at his first news conference left the door open to backing fundamental changes in Senate procedure to muscle key parts of his agenda like immigration and voting rights past Republican opposition “if there’s complete lockdown and chaos."
+    publishedDateTime: 2021-03-26T04:25:00Z
+    webUrl: "https://www.businessinsider.com/biden-leaves-door-open-for-senate-changes-to-advance-agenda-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-leaves-door-open-for-senate-changes-to-advance-agenda-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-leaves-door-open-for-senate-changes-to-advance-agenda-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden looks into taking action on 3D printer guns, imported firearms"
     excerpt: "President Joe Biden, weighing executive orders aimed at reducing gun violence following two mass shootings, said on Friday his administration is exploring whether he has the authority to take action on firearms made using 3D printers as well as on imported guns."
     publishedDateTime: 2021-03-27T00:14:00Z
@@ -2001,6 +2028,22 @@ related:
       - url: "https://i.insider.com/6053ad91f75f09001814eb90?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Inside Joe Biden's different kind of stimulus plan: A big-bucks job for a key senator's wife"
+    excerpt: "President Biden intends to appoint the wife of the Senate’s top swing vote, West Virginia Democrat Joe Manchin III, to a plum federal position that pays upwards of $160,000 annually."
+    publishedDateTime: 2021-03-27T16:08:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/27/joe-bidens-different-kind-stimulus-plan-big-bucks-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/27/joe-bidens-different-kind-stimulus-plan-big-bucks-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/27/joe-bidens-different-kind-stimulus-plan-big-bucks-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 64
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/25/Biden_13661.jpg-5132c_c0-226-5432-3394_s1200x700.jpg?d164df303dea178910c03125d2692e585fbb1280"
+        width: 1200
+        height: 700
         isCached: true
   - title: "President Biden is assembling a $3 trillion package of investments on infrastructure and domestic needs"
     excerpt: "Fresh off passage of the COVID-19 relief bill, President Joe Biden is assembling the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs."
