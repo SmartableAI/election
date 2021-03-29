@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
 excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
 publishedDateTime: 2021-03-27T17:18:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-got-another-dose-of-16057956.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-got-another-dose-of-16057956.php"
+originalUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-got-another-dose-of-16057956.php?src=sthpdesecp"
+webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-got-another-dose-of-16057956.php?src=sthpdesecp"
 type: article
 quality: 50
 heat: -1
@@ -254,6 +254,6 @@ related:
         height: 331
         isCached: true
 
-secured: "SKUc6GTkPO8roes2cwOCkEeuqAxC7nhuCWrn+aejLLt419Qak9XQY3KJo0utuJBQN6rlQoMVPzuKPEw43R+2mklZL4K3kSPyoP1BzWtrk496I6zgzUUDmp4jiW4v8bNEI+EOzh4Z+UChLfBDOeB3XPmFKTUM54noBg+/tgWi7aLITlZPlCV+g5EwL6EzLYtweJsqZQylpYdcQ5AwaFayfmashN4IFoE8rggvPAfy8aIyPgpcHRWY9TDCG8QxsE+1YyvgI22Gtf48q803gm0jOPQmWMa9tCIhuOF75iWtoYM4WeLzezCyTtmsReM7tZ5OVzvzFarxwYH5mppPZR2J3XZP8VKZHfexoA+aUaaTqBZL1zRynOW4TpbDKdVoJKXpxx7vXemJkybk9wUBcyc8ATj/KHbjvK+Jm08+ScJhf4tu7LxiafBcqaBsnoXR+dSmEKELp/ozrX0wdtu5pJiG4ipc+wtveKjYUYR6IsETfu4yuI3Ox/9aMoCVP+PPgD2t5q/ia4gpnXUGizqld6PnQg==;z6npUb/KAFDAhwuu9daiDw=="
+secured: "Mn9xK9zL5vihxnW+JFgAPJg08zIZqsnQcv3+mVdV+cfeXM9X54D0bPICZFQbPu4iw6cdZPC8k48HF1/HpFg6aQuvMI2GSG4cTPax04x6Di2LsDO9r7AsvI0bQR3g/29SJRaVDceYVoDStYhKfVRbYaY4wGXv2XiXtbw2ecVn5kz/iulSzeoiowAcDsBbdUObkDe5xa4eelPjSUBezJ0qeBBOkSSMBGi2t+TVbIMG0azAZ54v4zdP0eZfj+2fj+skOpM1AeMG1mDbeWGiwqqntWPZZ2XIRVdcklj106uffQmKZYp5PUAsIRSdEtnH3hCtjp1C5C/DghiN5F1HNKbd5ruWdXd1cPqMxbu3yVI7A+E=;slNfjdbGVeqJ8aDePknEDg=="
 ---
 

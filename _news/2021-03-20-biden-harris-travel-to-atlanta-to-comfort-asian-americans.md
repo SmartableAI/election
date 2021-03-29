@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2210
+heat: 2230
 published: true
 
 provider:
@@ -1457,6 +1457,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/24/17/20792269/3/rawImage.jpg"
         width: 2048
         height: 1536
+        isCached: true
+  - title: "Vice President Kamala Harris visits Connecticut"
+    excerpt: "Vice President Kamala Harris visited New Haven on March 26 to promote the administration’s $1.9 trillion “American Rescue Plan” passed earlier this month. Read more about her visit <a href=\""
+    publishedDateTime: 2021-03-26T23:44:00Z
+    webUrl: "https://www.courant.com/connecticut/vice-president-kamala-harris-visits-connecticut-20210326-m7cfjxtqjfgghijs6zwsfbkpzy-photogallery.html"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 55
+    images:
+      - url: "https://www.courant.com/resizer/XLpAcDFc8Dul62w1fxUy-e_kl-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XPI75BAMCJGCXEBRMSRCOJDIQM.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."

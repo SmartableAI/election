@@ -1,22 +1,22 @@
 ---
 category: news
-title: "A new 'Jim Crow era': Biden, civil rights leaders slam Georgia election reform"
-excerpt: "More:'It's sick': Biden slams Republican efforts in state legislatures to limit voting rights President Joe Biden criticized efforts in Republican-led state legislatures, including Georgia's, to pass election bills making access to the ballot box more ..."
-publishedDateTime: 2021-03-26T22:10:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/26/georgia-voting-bill-2021-biden-civil-rights-leaders-slam-new-leaw/7015324002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/03/26/georgia-voting-bill-2021-biden-civil-rights-leaders-slam-new-leaw/7015324002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7015324002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7015324002"
+title: "For media, Biden news conference notable for what’s missing"
+excerpt: "Joe Biden’s first presidential news conference was notable for what was missing now that Donald Trump is gone: no contentious exchanges with reporters, no Fox News and no questions about COVID-19"
+publishedDateTime: 2021-03-26T17:33:00Z
+originalUrl: "https://www.washingtonpost.com/politics/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/40ef14d8-8de0-11eb-a33e-da28941cb9ac_story.html"
+webUrl: "https://www.washingtonpost.com/politics/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/40ef14d8-8de0-11eb-a33e-da28941cb9ac_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/40ef14d8-8de0-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/40ef14d8-8de0-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
 type: article
-quality: 136
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/03/26/USAT/95aeaa8b-e9f2-45a1-861d-8cb1dee29a15-VPC_GA_VOTING_LAW_DESK.00_00_03_05.Still002.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1760141/us-vice-president-mike-pence.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "A new 'Jim Crow era': Biden, civil rights leaders slam Georgia election reform"
+    excerpt: "More:'It's sick': Biden slams Republican efforts in state legislatures to limit voting rights President Joe Biden criticized efforts in Republican-led state legislatures, including Georgia's, to pass election bills making access to the ballot box more ..."
+    publishedDateTime: 2021-03-26T22:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/26/georgia-voting-bill-2021-biden-civil-rights-leaders-slam-new-leaw/7015324002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7015324002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7015324002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/26/USAT/95aeaa8b-e9f2-45a1-861d-8cb1dee29a15-VPC_GA_VOTING_LAW_DESK.00_00_03_05.Still002.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden says during news conference: ‘My plan is to run for reelection’ in 2024"
     excerpt: "My plan is to run for reelection’ in 2024. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
@@ -277,22 +293,6 @@ related:
     webUrl: "https://www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html"
     ampWebUrl: "https://www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "For media, Biden news conference notable for what’s missing"
-    excerpt: "Joe Biden’s first presidential news conference was notable for what was missing now that Donald Trump is gone: no contentious exchanges with reporters, no Fox News and no questions about COVID-19"
-    publishedDateTime: 2021-03-26T17:33:00Z
-    webUrl: "https://www.washingtonpost.com/politics/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/40ef14d8-8de0-11eb-a33e-da28941cb9ac_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/40ef14d8-8de0-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/40ef14d8-8de0-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -798,6 +798,6 @@ related:
         height: 604
         isCached: true
 
-secured: "pRjEgMnbZOQe/cYlzxAiZdgDJu6V0FeRG0kXxbaBAOJ05B/KgAfWcp062ArMUxRwxkEom3oxSB7wVGrKHzyiEoBXMCVX2acd3zAjgOtL4e37OfqiWcvPyUfrIrSCLKp40GW+qfjDA/+a7FJKOHZcmtfpXxQQitzAnNptrv58/ISeA7SUwAc2DnXXbR2INU6OCVq2TjddMjX8iSYgdGubGLlkUzFQoruwla/ZwGfA9Mnc4mZ193fp6KaUFwUzdBy8+tzbpyWcWrqjrzxa7uJO8PKhpHpWxhyQg6NALHfDo9qPmzI/lh0yKt1sK6oOK+eHeVYTy4gs8bQ3QUhW3tdtR6IwrpqCgU8WbiScYtlGgSA=;v/gGJ0oZ1lX144EYr71OJg=="
+secured: "0FwG/hVz7dJ35Ijzd/h0E9fAkBY+ph0FZMkCdl2USqy6tAj1NI5GjkYs6ih6El33C6vR4ShM7pAwJebHGxtbDxZ3AfJYtd721pjxPwyUlvtimsfQhd0Md8ifiDZZD6RdOnjIYWqoNJfzeDFjoDqFhzBJkt56GJIiRksV/JaOoJVZtjf9rI/Qb13XKoM87vDz/NC8K3Pk5SHGx+qqGoMDQksJK9xyDwUwPbLbBpQQlsyKGTQwpyMeLGMhSwcblbZod5O2Vny2FEqz27SY2mIsY/OUQnNxz5JkpSorpfEC8gOKvpfg3RWk2orpqP1RARZVHka9NfI/Yk6bqyV7j3F0WrTO1sE7QzrWMbrXTByn3Bw=;XEkTa/7FDC+a5J/LezUuBg=="
 ---
 

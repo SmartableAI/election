@@ -1463,6 +1463,20 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Vice President Kamala Harris visits Connecticut"
+    excerpt: "Vice President Kamala Harris visited New Haven on March 26 to promote the administration’s $1.9 trillion “American Rescue Plan” passed earlier this month. Read more about her visit <a href=\""
+    publishedDateTime: 2021-03-26T23:44:00Z
+    webUrl: "https://www.courant.com/connecticut/vice-president-kamala-harris-visits-connecticut-20210326-m7cfjxtqjfgghijs6zwsfbkpzy-photogallery.html"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 55
+    images:
+      - url: "https://www.courant.com/resizer/XLpAcDFc8Dul62w1fxUy-e_kl-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XPI75BAMCJGCXEBRMSRCOJDIQM.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris embraces role of representing American women"
     excerpt: "Vice President Kamala Harris shares concern for how the COVID-19 pandemic has impacted women and the importance of addressing that disparity."
     publishedDateTime: 2021-03-26T08:02:00Z

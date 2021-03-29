@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
-excerpt: "Joe Biden continued to condemn the Georgia voting law moments ago, as he departed the White House to travel to his home state of Delaware for the weekend. “It’s an atrocity,” the president said of the Georgia law, adding that the legislation was ..."
-publishedDateTime: 2021-03-26T18:27:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e204b8f08774d1beab0dd"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e204b8f08774d1beab0dd"
+excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
+publishedDateTime: 2021-03-26T18:12:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e26338f08ef6f2f140ed5"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e26338f08ef6f2f140ed5"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 type: article
@@ -303,6 +303,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "For media, Biden news conference notable for what’s missing"
+    excerpt: "Joe Biden’s first presidential news conference was notable for what was missing now that Donald Trump is gone: no contentious exchanges with reporters, no Fox News and no questions about COVID-19"
+    publishedDateTime: 2021-03-26T17:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/40ef14d8-8de0-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/40ef14d8-8de0-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/40ef14d8-8de0-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Poll: Biden approval steady at 60 percent"
     excerpt: "President Biden Joe Biden Biden's prediction on Afghanistan withdrawal spurs doubts Trump the X-factor in Virginia governor race Trump says he'll likely visit southern border soon MORE's job ..."
     publishedDateTime: 2021-03-26T20:10:00Z
@@ -448,9 +464,9 @@ related:
         height: 545
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – as it happened"
-    excerpt: "Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Jen Psaki was asked about Joe Biden’s opinion on the comments from Dr Robert Redfield, the former director of the Centers for Disease Control and Prevention. Redfield recently told CNN that he ..."
+    excerpt: "Jeff Zients, the White House coronavirus response coordinator, opened the briefing by noting Joe Biden’s new goal to have administered 200 million vaccine doses by his 100th day in office. Meeting such a goal would mean that more than half of all adult ..."
     publishedDateTime: 2021-03-26T23:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e03b48f08774d1beaaeb0"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605ded548f08774d1beaacf5"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -552,6 +568,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden attacks Georgia law, state is sued"
+    excerpt: "A coalition of civil rights groups has filed a federal lawsuit challenging Georgia's sweeping new voting restrictions, while U.S. President Joe Biden on Friday accused Republicans there and in other states of mounting a broad assault on voting rights."
+    publishedDateTime: 2021-03-26T23:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPo2G?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/605e6c92e4b085d3b6c313f0-1616800914726?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden looks into taking action on 3D printer guns, imported firearms"
     excerpt: "President Joe Biden, weighing executive orders aimed at reducing gun violence following two mass shootings, said on Friday his administration is exploring whether he has the authority to take action on firearms made using 3D printers as well as on imported guns."
     publishedDateTime: 2021-03-27T00:14:00Z
@@ -768,6 +798,6 @@ related:
         height: 604
         isCached: true
 
-secured: "oxLEChuCX98QM8V4K0Y2z+iAGxxvDukm4qC4jhfnNbBftxTFF4jt7utHjhDarnskuWVpzXtjoS64dUFuvHdFrH7P9H00RoEpqj3SYwf+xqJh4lIEMu7QzDu9R9tvbNmZWYUSjv4BIve2exzNNyTgU69sqtNYmQRzLpCGsYAVSmnhx4iJo5TBKvCb8jhelpDsCaqXFs03v1bsQD8RYVgZo7FCXiqgmAp1MTqg9fHL/e5W6oLN1XvaE2rNbXYId7RpGyRsYyHBHzLQTlbT9WaQLXzXPdGGDmQWf5ZCt/k5kQUxGoFrBkJ0UyNCSnacBKifYj3AUvDRPxrpn5O7iOrHGyGZZVWxyPCC3DsOppXili8sskKBxbv2LktMJt/5RIUfzaOU2aaSvEaWXQ2E8Q4XSkG2zTvp3e4U3tksyqdixMaaFneqxZ2S74d+YEhPMjTaZz5paZXM6GEFZhw5ZIXzcQxjxlwOJUM/VV6+KHbWxZmwJWIHGXN5wDB9QRKEurgg/8nA1mvli3Zm5hIttoJE7Q==;e5SyYCsnB4N9v9PWwwYcHg=="
+secured: "WkJrmesFMHfepdFnXQA8Eibpou1J07jRrk/tymnHOVfHWvSjN5vPKyU5lN8Y/5sR3wlk5xUUfFBP32yvp90E7oudhHqB8KVhXh/q0mSEPXalUT8A9bwojS3LWzkqn46wbj39v2z87SxxXPBph+0joelfPR2sI0eXy95yh3hXEe0ZcyfgmQkLPUo1z2qgmPuLIM0K05z0q3t1nA+bQdVGG0bnVP8gatAcLERgBqkBDvWz1659ZIr30+Mhr6vHdnb2J30Z6ATRLuc0WtN44tW/T0QlmnsAi4rCaz5lls2XIWuWfwc2j6ooHHRlgvQDR8VQIpwrgUt2g7sm/CclMbCSBAdHC7sd4CDko4QuW9uTOVY=;LkqSgYjmWoBDUEVFpUJTqQ=="
 ---
 

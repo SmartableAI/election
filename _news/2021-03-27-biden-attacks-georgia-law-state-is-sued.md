@@ -1,22 +1,20 @@
 ---
 category: news
-title: "A new 'Jim Crow era': Biden, civil rights leaders slam Georgia election reform"
-excerpt: "More:'It's sick': Biden slams Republican efforts in state legislatures to limit voting rights President Joe Biden criticized efforts in Republican-led state legislatures, including Georgia's, to pass election bills making access to the ballot box more ..."
-publishedDateTime: 2021-03-26T22:10:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/26/georgia-voting-bill-2021-biden-civil-rights-leaders-slam-new-leaw/7015324002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/03/26/georgia-voting-bill-2021-biden-civil-rights-leaders-slam-new-leaw/7015324002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7015324002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7015324002"
+title: "Biden attacks Georgia law, state is sued"
+excerpt: "A coalition of civil rights groups has filed a federal lawsuit challenging Georgia's sweeping new voting restrictions, while U.S. President Joe Biden on Friday accused Republicans there and in other states of mounting a broad assault on voting rights."
+publishedDateTime: 2021-03-26T23:52:00Z
+originalUrl: "https://www.reuters.com/video/watch/idPo2G?now=true"
+webUrl: "https://www.reuters.com/video/watch/idPo2G?now=true"
 type: article
-quality: 136
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/03/26/USAT/95aeaa8b-e9f2-45a1-861d-8cb1dee29a15-VPC_GA_VOTING_LAW_DESK.00_00_03_05.Still002.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+  - url: "https://ajo.prod.reuters.tv/api/v2/img/605e6c92e4b085d3b6c313f0-1616800914726?location=LANDSCAPE"
     width: 1200
     height: 675
     isCached: true
@@ -62,6 +60,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1760141/us-vice-president-mike-pence.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "A new 'Jim Crow era': Biden, civil rights leaders slam Georgia election reform"
+    excerpt: "More:'It's sick': Biden slams Republican efforts in state legislatures to limit voting rights President Joe Biden criticized efforts in Republican-led state legislatures, including Georgia's, to pass election bills making access to the ballot box more ..."
+    publishedDateTime: 2021-03-26T22:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/26/georgia-voting-bill-2021-biden-civil-rights-leaders-slam-new-leaw/7015324002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7015324002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7015324002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/26/USAT/95aeaa8b-e9f2-45a1-861d-8cb1dee29a15-VPC_GA_VOTING_LAW_DESK.00_00_03_05.Still002.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden says during news conference: ‘My plan is to run for reelection’ in 2024"
     excerpt: "My plan is to run for reelection’ in 2024. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
@@ -568,20 +582,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Biden attacks Georgia law, state is sued"
-    excerpt: "A coalition of civil rights groups has filed a federal lawsuit challenging Georgia's sweeping new voting restrictions, while U.S. President Joe Biden on Friday accused Republicans there and in other states of mounting a broad assault on voting rights."
-    publishedDateTime: 2021-03-26T23:52:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPo2G?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/605e6c92e4b085d3b6c313f0-1616800914726?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden looks into taking action on 3D printer guns, imported firearms"
     excerpt: "President Joe Biden, weighing executive orders aimed at reducing gun violence following two mass shootings, said on Friday his administration is exploring whether he has the authority to take action on firearms made using 3D printers as well as on imported guns."
     publishedDateTime: 2021-03-27T00:14:00Z
@@ -798,6 +798,6 @@ related:
         height: 604
         isCached: true
 
-secured: "pRjEgMnbZOQe/cYlzxAiZdgDJu6V0FeRG0kXxbaBAOJ05B/KgAfWcp062ArMUxRwxkEom3oxSB7wVGrKHzyiEoBXMCVX2acd3zAjgOtL4e37OfqiWcvPyUfrIrSCLKp40GW+qfjDA/+a7FJKOHZcmtfpXxQQitzAnNptrv58/ISeA7SUwAc2DnXXbR2INU6OCVq2TjddMjX8iSYgdGubGLlkUzFQoruwla/ZwGfA9Mnc4mZ193fp6KaUFwUzdBy8+tzbpyWcWrqjrzxa7uJO8PKhpHpWxhyQg6NALHfDo9qPmzI/lh0yKt1sK6oOK+eHeVYTy4gs8bQ3QUhW3tdtR6IwrpqCgU8WbiScYtlGgSA=;v/gGJ0oZ1lX144EYr71OJg=="
+secured: "/qxaHHD6N7E4i6VSwyJqYgq32XtZxS7VLhGXJdS+cmr0zCNYgCIAbKK1vZjXooPi7jUGE0C+lmCkcavGlYYSlu6c8Jb2idJC1vIaBlPCwwWvIRLKVswgrdxlM2BaLpn9ds3v9cTKNF8KrAuzqrTLjHTeCxXE6eNKSaeJsA3kpFrAm/H3+E/4o4ktYFz0wJtttEiK26Top03KnsWwR6/iTYTtWou/yhcq1itRMvratGsNbWw8xtJlxQyRyvPi1X9COBWN63J10pD19eR2QfWSsiIWATEYrIvzU6vYs6MpvmcY9LRUtuDPclOm0FQOhmz7YIB/e95HGojmfutUChJ7GuNb00Z2nEXE0foEqt3lWjg=;Pp3QOJlL/5KVLpriRPSIeg=="
 ---
 

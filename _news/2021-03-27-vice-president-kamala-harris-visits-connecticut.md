@@ -1,34 +1,27 @@
 ---
 category: news
-title: "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live updates"
-excerpt: "President and vice president will also visit the CDC while in Georgia"
-publishedDateTime: 2021-03-19T09:45:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
+title: "Vice President Kamala Harris visits Connecticut"
+excerpt: "Vice President Kamala Harris visited New Haven on March 26 to promote the administration’s $1.9 trillion “American Rescue Plan” passed earlier this month. Read more about her visit <a href=\""
+publishedDateTime: 2021-03-26T23:44:00Z
+originalUrl: "https://www.courant.com/connecticut/vice-president-kamala-harris-visits-connecticut-20210326-m7cfjxtqjfgghijs6zwsfbkpzy-photogallery.html"
+webUrl: "https://www.courant.com/connecticut/vice-president-kamala-harris-visits-connecticut-20210326-m7cfjxtqjfgghijs6zwsfbkpzy-photogallery.html"
 type: article
-quality: 137
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/d8ed322efd0cd1c6655c2fc5e60dd5dad1d9da39/0_870_3724_2236/master/3724.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ee426e8702e8582ce1c7e753dee49b1"
-    width: 600
-    height: 360
+  - url: "https://www.courant.com/resizer/XLpAcDFc8Dul62w1fxUy-e_kl-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XPI75BAMCJGCXEBRMSRCOJDIQM.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -109,6 +102,22 @@ related:
     quality: 137
     images:
       - url: "https://i.guim.co.uk/img/media/7080271c4672fde6611b453044c07e26cb01a4f1/0_215_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4326dbd22ff0acde66d92f9666493f27"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden and Harris head to Georgia to meet community leaders after Atlanta shooting – live updates"
+    excerpt: "President and vice president will also visit the CDC while in Georgia"
+    publishedDateTime: 2021-03-19T09:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/19/joe-biden-kamala-harris-atlanta-spa-shootings-china-georgia-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/d8ed322efd0cd1c6655c2fc5e60dd5dad1d9da39/0_870_3724_2236/master/3724.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ee426e8702e8582ce1c7e753dee49b1"
         width: 600
         height: 360
         isCached: true
@@ -1458,20 +1467,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "Vice President Kamala Harris visits Connecticut"
-    excerpt: "Vice President Kamala Harris visited New Haven on March 26 to promote the administration’s $1.9 trillion “American Rescue Plan” passed earlier this month. Read more about her visit <a href=\""
-    publishedDateTime: 2021-03-26T23:44:00Z
-    webUrl: "https://www.courant.com/connecticut/vice-president-kamala-harris-visits-connecticut-20210326-m7cfjxtqjfgghijs6zwsfbkpzy-photogallery.html"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 55
-    images:
-      - url: "https://www.courant.com/resizer/XLpAcDFc8Dul62w1fxUy-e_kl-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XPI75BAMCJGCXEBRMSRCOJDIQM.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Man arrested near future residence of Kamala Harris had rifle, police say"
     excerpt: "An intelligence bulletin from Texas had warned law enforcement about the man, officials said. His mother had also warned the police that her son was in Washington, authorities said."
     publishedDateTime: 2021-03-18T13:09:00Z
@@ -1589,6 +1584,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "r0luHfhavpsjnXocDzqp0iqTHhRk4WJZQQzM6drktx5358+K1Q45HGZJUoaNE0jGw4exxbJu7xOMPFhGuuHFk5GUCq133GsYlMMQ+dryfiB2a4eTMqNdNXAPaJtuQhlhnt9niAh1Zw/p7NO6BSiVMiQP2yeJEF5M2UQf2+Ok5wPCAPUXHMgsoSvr24Xbj9ZlRoKTJ5EUZAhhYW+0InksyDubcplAM/fvXVYSLHEtOdZ5TyrahjtomsWCapL5TsjkfJIOzMeyNm9VfZ4ErAiZ9eaSZJuSsCCQ6zl7fpDmpLftxrBeq+FZqHgljb35QghbP/7uIPpK0mCaTrJdjYfPCoMPeBhrcEJYJt7hX+I2ti68GR2hQRkdGrpVwRX1OAe+DH/nOFw2SJ2Ki5+hQBrn8+WBWSe8kYCD9ULp0jtNbo17kKjQsqtLbAPawDHUgtEC2gs42iYhNTSliAXkNDFlQLbHfbH9RWEmFkMqysDKkDNTRl8nnh7BIKxwbx3VVx9XcTw7T+uqIIDKLTdwyZts6A==;x9XFPB0CnQG55fMh2x1Rzg=="
+secured: "y/jlX5A7KiyDjD9fqhinPDbpCxOvA9xIgn0XtafqI6Ii3wmRfTz+O3SEZHhIOtTLXmR6RVGcr+yA+zPmcVs6JUMkchQ+avJt4mhZbEo5kuzudsoHOS5TKjfk4MRRB4zKJUIXvqBSxzy4Mhk+bf15MNlrmrPf5XI1Hb0XUedxRUUMGsL+g9yLjtyCjtE+NpCTNKiJ1cjCDY/hetdDHBkyEMItqwBW+qHSN1WfklmjYuosVtNJVtSPZC/pnkjFObLO6OjN1gq6ckUC8xBABh5uH6O8CiQJ+L3+TOa1WqKAmUxUH3jXxALDyNhc7qKNHlWMTuNmmRnHsupQ8dqciMkx8XB3smdoXbtZSQLXw6uYV/k=;AwQV2XFZpx8rA2RUvL1o5w=="
 ---
 
