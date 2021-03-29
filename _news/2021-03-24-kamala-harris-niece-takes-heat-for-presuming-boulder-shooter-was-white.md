@@ -28,259 +28,243 @@ images:
     isCached: true
 
 related:
-  - title: "White House facing optics issue with Kamala Harris’ ambitious niece"
-    excerpt: "Meena Harris, the industrious and outspoken niece of Vice President Kamala Harris, is creating an optics issue for the White House. "
-    publishedDateTime: 2021-01-30T20:29:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IaFzSOHW4IE/white-house-optics-issue-kamala-harris-niece"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp"
+  - title: "White House lists ‘Biden-Harris administration’ on official website"
+    excerpt: "The White House, breaking with tradition, now lists the “Biden-Harris Administration” on its website rather than simply, “the Biden Administration.”"
+    publishedDateTime: 2021-03-29T00:13:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/azyRyJ0e1IQ/white-house-lists-biden-harris-administration-on-official-website"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Harris-Administration.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Nikki Haley hits Kamala Harris over past comparison of ICE to KKK"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Friday took aim at Vice President Kamala Harris, saying that she can’t be trusted to deal with the border crisis, citing a 2018 comparison the then-senator made between Immigration and Customs Enforcement (ICE) and the Ku Klux Klan."
+    publishedDateTime: 2021-03-26T18:26:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AG9duI3EtEw/nikki-haley-kamala-harris-compare-ice-kkk"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-compare-ice-kkk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-compare-ice-kkk.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e70f7eab-30f9-4370-8a08-1d5f7866da5e/21b78449-660b-402c-920f-5e3981c084f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Shattered glass installation in DC dedicated to Kamala Harris"
-    excerpt: "A Swiss artist memorialized Vice President Kamala Harris' history-making win in a shattered glass installation that's on display in Washington, D.C., outside the Lincoln Memorial."
-    publishedDateTime: 2021-02-06T17:30:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NDY1Vrm8p8U/shattered-glass-installation-in-dc-dedicated-to-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/politics/shattered-glass-installation-in-dc-dedicated-to-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/shattered-glass-installation-in-dc-dedicated-to-kamala-harris.amp"
+  - title: "Vice President Harris is “not doing the border,” senior adviser says"
+    excerpt: "President Biden has tasked Vice President Harris with addressing the root causes of mass migration from Central America – but she will not be handling southern border policy in general, a top aide said."
+    publishedDateTime: 2021-03-26T22:52:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LlbePye8Cpc/vp-harris-senior-advisor-says-vp-is-not-doing-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Kamala-Harris-Glass-AP-4.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "White House calls Manchin a 'key partner' after he took issue with Harris local interview"
-    excerpt: "White House Press Secretary Jen Psaki said Democratic Sen. Joe Manchin is a “key partner” for the administration after Vice President Harris made appearances on a local West Virginia television station to discuss President Biden’s “critical” coronavirus relief plan"
-    publishedDateTime: 2021-02-01T20:10:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uq3LpFZm7Ro/white-house-calls-manchin-a-key-partner-after-taking-issue-with-harris-local-interview"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-calls-manchin-a-key-partner-after-taking-issue-with-harris-local-interview.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-calls-manchin-a-key-partner-after-taking-issue-with-harris-local-interview.amp"
+  - title: "Biden now calls filibuster ‘a relic of the Jim Crow era’ but Kamala Harris is among Dems who have embraced it"
+    excerpt: "Multiple times through the years Vice President Harris and many other Democrats have embraced the legislative filibuster, which sets a 60-vote hurdle in the Senate for any bills to make it to a final roll call. "
+    publishedDateTime: 2021-03-26T16:44:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fj1E9XOjFpM/biden-filibuster-kamala-harris-democrats-embraced-it"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-filibuster-kamala-harris-democrats-embraced-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-filibuster-kamala-harris-democrats-embraced-it.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 176
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden admin ignored warning signs that border could spiral into crisis"
+    excerpt: "The Biden administration ignored warning signs about an impending crisis at the U.S. southern border."
+    publishedDateTime: 2021-03-22T18:02:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d7H_NZZ-VO8/biden-administration-warning-signs-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21080583251227-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
+    excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
+    publishedDateTime: 2021-03-26T20:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tVVjsXfLdE/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Texas mayor refutes Biden administration claim that border is closed and secure"
+    excerpt: "Laredo, Texas Mayor Pete Saenz refuted Homeland Security Secretary Alejandro Mayorkas' and President Biden's claim that the U.S.-Mexico border was closed and secure in an interview Monday."
+    publishedDateTime: 2021-03-22T16:29:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ypn3PC8FWGM/texas-mayor-biden-border-closed-secure-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden admin sanctions Chinese government officials over Uyghur human rights abuses"
+    excerpt: "The Biden administration on Monday sanctioned Chinese government officials over \"serious human rights abuse\" against ethnic minorities in the Xinjiang Uyghur Autonomous Region, and warned that China will continue to face consequences should the \"atrocities\" continue."
+    publishedDateTime: 2021-03-22T19:06:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "'Saturday Night Live' critics say show avoided Joe Biden, Kamala Harris in first show of 2021"
-    excerpt: "Live” returned from its winter break with a slightly different approach to covering politics that many critics immediately noticed."
-    publishedDateTime: 2021-02-01T13:41:00Z
-    webUrl: "https://www.foxnews.com/entertainment/saturday-night-live-critics-accuse-show-avoiding-joe-biden-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/entertainment/saturday-night-live-critics-accuse-show-avoiding-joe-biden-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/saturday-night-live-critics-accuse-show-avoiding-joe-biden-kamala-harris.amp"
+  - title: "Rep. Matt Gaetz: Biden administration worried about military's 'wokeness, not winning'"
+    excerpt: "Rep. Matt Gaetz, R-Fla., told \"Tucker Carlson Tonight\" Friday that the Biden administration's \"woke\" approach to the military should \"trouble every American.\""
+    publishedDateTime: 2021-03-27T01:59:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lt5iW0RaxpE/matt-gaetz-biden-military-wokeness-not-winning"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-biden-military-wokeness-not-winning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-biden-military-wokeness-not-winning.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 149
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Saturday-Night-Live-NBC.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Kamala Harris’ stepdaughter Ella Emhoff signs contract with IMG Models"
-    excerpt: "The vice president’s stepdaughter is going into modeling. On Thursday, IMG Models announced that it is now representing Ella Emhoff, Vice President Kamala Harris’ stepdaughter. Emhoff, 21, is a senior at Parsons School of Design in New York City,"
-    publishedDateTime: 2021-01-28T23:56:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/ella-emhoff-signs-img-modeling-contract"
-    ampWebUrl: "https://www.foxnews.com/lifestyle/ella-emhoff-signs-img-modeling-contract.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ella-emhoff-signs-img-modeling-contract.amp"
+  - title: "Formerly homeless veteran blasts Biden admin for spending money to house migrants in hotels"
+    excerpt: "Former homeless veteran David Hathcock blasted the Biden administration’s “heartbreaking decision” to award Immigration and Customs Enforcement (ICE) an $86.9 million contract for hotel rooms near the border for illegal families crossing into the United States, arguing on Tuesday that the current administration"
+    publishedDateTime: 2021-03-23T12:52:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mXrsf0Wkvm8/homeless-veteran-biden-illegal-immigrants-hotels"
+    ampWebUrl: "https://www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020678397504.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "White House facing optics issue with Kamala Harris’ ambitious niece"
-    excerpt: "Meena Harris, the industrious and outspoken niece of Vice President Kamala Harris, is creating an optics issue for the White House."
-    publishedDateTime: 2021-01-30T20:32:00Z
-    webUrl: "https://www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp"
+  - title: "Senate Democrat furious with Biden administration over lack of Asian American representation"
+    excerpt: "Sen. Tammy Duckworth says she’s done voting for any of President Biden’s nominees that aren’t diverse until his administration “figures out” a solution to the lack of Asian American or Pacific Islander (AAPI) representation at the cabinet level."
+    publishedDateTime: 2021-03-23T22:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G8ZSv6PT-nY/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Man twice bailed out by Kamala Harris-backed fund — gets arrested again"
-    excerpt: "A Minnesota man twice bailed out by a Vice President Kamala Harris-backed nonprofit group has been busted a third time on felony drug charges, authorities said. Thomas Moseley’s latest"
-    publishedDateTime: 2021-02-03T14:19:00Z
-    webUrl: "https://nypost.com/2021/02/03/man-twice-bailed-out-by-harris-supported-fund-arrested-again/"
-    ampWebUrl: "https://nypost.com/2021/02/03/man-twice-bailed-out-by-harris-supported-fund-arrested-again/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/03/man-twice-bailed-out-by-harris-supported-fund-arrested-again/amp/"
+  - title: "VP Kamala Harris admits there is a ‘huge problem’ on southern border"
+    excerpt: "Vice President Harris admitted Wednesday that the border is facing “a huge problem,” keeping in step with the White House’s repeated refusal to call the out of control surge of"
+    publishedDateTime: 2021-03-24T15:04:00Z
+    webUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/"
+    ampWebUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/kamala-bail-fund.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Shattered glass installation in DC dedicated to Kamala Harris"
-    excerpt: "A Swiss artist memorialized Vice President Kamala Harris' history-making win in a shattered glass installation that's on display in Washington, D.C., outside the Lincoln Memorial."
-    publishedDateTime: 2021-02-06T17:33:00Z
-    webUrl: "https://www.foxnews.com/politics/shattered-glass-installation-in-dc-dedicated-to-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/politics/shattered-glass-installation-in-dc-dedicated-to-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/shattered-glass-installation-in-dc-dedicated-to-kamala-harris.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Kamala-Harris-Glass-AP-4.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "VP Kamala Harris embraces role as Senate tiebreaker"
-    excerpt: "Vice President Harris is flexing a rarely used muscle in her first weeks in office — the tiebreaker. Harris, 56, a former Senator from California, presided over two tie-breaking votes Friday on"
-    publishedDateTime: 2021-02-06T23:07:00Z
-    webUrl: "https://nypost.com/2021/02/06/vp-kamala-harris-embraces-role-as-senate-tiebreaker/"
-    ampWebUrl: "https://nypost.com/2021/02/06/vp-kamala-harris-embraces-role-as-senate-tiebreaker/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/06/vp-kamala-harris-embraces-role-as-senate-tiebreaker/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/harris-senate-tiebreaker.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Indians burn images of Kamala Harris' niece after she backs farm protests"
-    excerpt: "Vice President Kamala Harris’ niece defended her support for Indian farmers locked in a standoff with the government after pro-Parliament supporters burned photos of her on the streets of New Delhi Thursday."
-    publishedDateTime: 2021-02-05T02:54:00Z
-    webUrl: "https://www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests"
-    ampWebUrl: "https://www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54258d7e-1687-4624-9f26-c873254ef60c/4bafd7a9-84b0-49f9-b06f-27d273544961/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Manchin slams Kamala Harris for pressuring senators to back COVID-19 bill"
-    excerpt: "Democratic Sen. Joe Manchin slammed Vice President Kamala Harris ahead of her meeting with a group of Senate Republicans Monday on passing bipartisan COVID-19 relief."
-    publishedDateTime: 2021-02-01T13:09:00Z
-    webUrl: "https://nypost.com/2021/02/01/manchin-rips-harris-for-pressuring-senators-to-back-covid-bill/"
-    ampWebUrl: "https://nypost.com/2021/02/01/manchin-rips-harris-for-pressuring-senators-to-back-covid-bill/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/01/manchin-rips-harris-for-pressuring-senators-to-back-covid-bill/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/manchin-kamala.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Designer of Kamala Harris’s Inauguration Outfit Crafts a Strategy for the Pandemic"
-    excerpt: "After a high-profile start to 2021, rising fashion star Christopher John Rogers focuses on new ways to do business amid Covid’s disruption."
-    publishedDateTime: 2021-02-03T15:57:00Z
-    webUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 127
-    images:
-      - url: "https://images.wsj.net/im-294426/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Designer of Kamala Harris’s Inauguration Outfit Crafts a Strategy for the Pandemic"
-    excerpt: "After a high-profile start to 2021, rising fashion star Christopher John Rogers focuses on new ways to do business amid Covid’s disruption."
-    publishedDateTime: 2021-02-03T21:57:00Z
-    webUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467?mod=latest_headlines"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 127
-    images:
-      - url: "https://images.wsj.net/im-294426/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "L.A. Times’ special Kamala Harris section called out by media critics: 'Blatant PR campaign'"
-    excerpt: "The Los Angeles Times’ fawning coverage of Vice President Kamala Harris has been labeled “inappropriate and disappointing” by critics, some comparing it to the way state-run media would treat leaders in authoritarian nations."
-    publishedDateTime: 2021-01-27T20:24:00Z
-    webUrl: "https://www.foxnews.com/media/los-angeles-times-kamala-harris-slammed-inappropriate-disappointing"
-    ampWebUrl: "https://www.foxnews.com/media/los-angeles-times-kamala-harris-slammed-inappropriate-disappointing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/los-angeles-times-kamala-harris-slammed-inappropriate-disappointing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Harris.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Ex-NY Times editor Bari Weiss bashes former paper over ‘press release’ praising Kamala Harris’ stepdaughter"
-    excerpt: "Former New York Times opinion columnist and editor Bari Weiss mocked her former employer on Thursday, saying the Gray Lady published a \"press release\" about Vice President Kamala Harris’s stepdaughter."
-    publishedDateTime: 2021-01-29T18:54:00Z
-    webUrl: "https://www.foxnews.com/media/bari-weiss-bashes-ny-times-praising-kamala-harris-stepdaughter"
-    ampWebUrl: "https://www.foxnews.com/media/bari-weiss-bashes-ny-times-praising-kamala-harris-stepdaughter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bari-weiss-bashes-ny-times-praising-kamala-harris-stepdaughter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020678397504.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "VP Kamala Harris Breaks 50-50 Tie To Pass Budget, COVID-19 Relief Bill In Senate"
-    excerpt: "Vice President Harris cast her first tie-breaking votes early Friday morning helping Senate Democrats pass a budget resolution that greenlights them passing coronavirus relief without GOP support."
-    publishedDateTime: 2021-02-05T14:28:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/02/05/vp_kamala_harris_breaks_50-50_tie_to_pass_budget_covid-19_relief_bill.html#!"
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-22T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 60
+    quality: 86
     images:
-      - url: "https://assets.realclear.com/images/53/534405.jpg"
-        width: 1676
-        height: 1117
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
+        isCached: true
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From The Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-23T00:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
+        isCached: true
+  - title: "Kamala Harris Has a Message for American Women"
+    excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
+    publishedDateTime: 2021-03-26T11:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/538452_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "UwVYipIHWAmNZR0g4SbqZEF/cAZsV+7Bsbq6/qwlo03PjnYoHzUlkB7AbvPOh/2JOHqKAkVVgcLMwlOygRVgSpVr+3j/1DKmZ5syu0RGXfIWXqlPutZVry/QsPlOZIwih/an6aaXpJ+iAUjiw1gMU4TxPxWvKEP4PW9nDBo1iHCjd4qCQnY+vA32oErN7gNolOZ6ntXggQg71S6Qs6I1SE9+pgPBFoYWy1M2gXYqvYO8aTXzxPbS+ncqQQVZjS65cKcQ5K2AJhrogBHaC1iOdVrBwa0tQXET6MjxHE4xBR4mJkiw9UpjNTZh/figmNYDmM+mbCZr3PNGMumC7wdYMqeysr7++eWGRFT7KKtPPvivJDiGwjqQWN/Ve7z66iX4kx3GLvCh2D2EJuRGkWQbYroqlH7HTkdgO+HZDzM3c+f0zEqtF+LyfbNuZvMxjyatZGJs5nG/yM1IdynlWBmDoYO+Zbw5a7Ti/i+gD5NshC2+fCkGcueLaMJQ4TZwcJaVhfzR2/w0r4t+vbGZeEXwWg==;AxRgvbtiso/J0G+z/7S+dw=="

@@ -31,291 +31,243 @@ images:
     isCached: true
 
 related:
-  - title: "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'"
-    excerpt: "President Biden said Sunday that he intends to travel to the southern border \"at some point,\" telling reporters that he is in no rush to visit because \"I know what's going in those facilities.\""
-    publishedDateTime: 2021-03-21T22:32:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p6BXYHL7SK4/biden-borde-rsurge"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-borde-rsurge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-borde-rsurge.amp"
+  - title: "White House lists ‘Biden-Harris administration’ on official website"
+    excerpt: "The White House, breaking with tradition, now lists the “Biden-Harris Administration” on its website rather than simply, “the Biden Administration.”"
+    publishedDateTime: 2021-03-29T00:13:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/azyRyJ0e1IQ/white-house-lists-biden-harris-administration-on-official-website"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Harris-Administration.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Nikki Haley hits Kamala Harris over past comparison of ICE to KKK"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Friday took aim at Vice President Kamala Harris, saying that she can’t be trusted to deal with the border crisis, citing a 2018 comparison the then-senator made between Immigration and Customs Enforcement (ICE) and the Ku Klux Klan."
+    publishedDateTime: 2021-03-26T18:26:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AG9duI3EtEw/nikki-haley-kamala-harris-compare-ice-kkk"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-compare-ice-kkk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-compare-ice-kkk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e70f7eab-30f9-4370-8a08-1d5f7866da5e/21b78449-660b-402c-920f-5e3981c084f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Harris is “not doing the border,” senior adviser says"
+    excerpt: "President Biden has tasked Vice President Harris with addressing the root causes of mass migration from Central America – but she will not be handling southern border policy in general, a top aide said."
+    publishedDateTime: 2021-03-26T22:52:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LlbePye8Cpc/vp-harris-senior-advisor-says-vp-is-not-doing-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden now calls filibuster ‘a relic of the Jim Crow era’ but Kamala Harris is among Dems who have embraced it"
+    excerpt: "Multiple times through the years Vice President Harris and many other Democrats have embraced the legislative filibuster, which sets a 60-vote hurdle in the Senate for any bills to make it to a final roll call. "
+    publishedDateTime: 2021-03-26T16:44:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fj1E9XOjFpM/biden-filibuster-kamala-harris-democrats-embraced-it"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-filibuster-kamala-harris-democrats-embraced-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-filibuster-kamala-harris-democrats-embraced-it.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 181
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee18c3-9624-4a8c-9989-aaf5c43b13c5/156a5fbe-4114-4b4a-aca4-34af35a3257c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Tom Homan slams Biden, Dems for blaming Trump for new border surge: 'They planned this crisis'"
-    excerpt: "Former acting ICE director Tom Homan slammed the Biden administration for blaming Trump over the migrant surge at the border."
-    publishedDateTime: 2021-03-15T12:35:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VG3Kz7lKiy8/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
+  - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
+    excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
+    publishedDateTime: 2021-03-26T20:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tVVjsXfLdE/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Texas mayor refutes Biden administration claim that border is closed and secure"
+    excerpt: "Laredo, Texas Mayor Pete Saenz refuted Homeland Security Secretary Alejandro Mayorkas' and President Biden's claim that the U.S.-Mexico border was closed and secure in an interview Monday."
+    publishedDateTime: 2021-03-22T16:29:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ypn3PC8FWGM/texas-mayor-biden-border-closed-secure-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Tom Homan: Biden created border crisis with rush to 'undo everything' Trump did on border security"
-    excerpt: "Thomas Homan, the former acting director of Immigration and Customs Enforcement (ICE), weighed in on the “crisis” at the southern border amid a surge of migrants on Wednesday, blaming the situation on the “hurry” to undo “everything Trump.”"
-    publishedDateTime: 2021-03-24T17:35:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UFsy8mu-5AY/biden-rushed-undo-trump-policies-crisis-tom-homan"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-rushed-undo-trump-policies-crisis-tom-homan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rushed-undo-trump-policies-crisis-tom-homan.amp"
+  - title: "Biden admin sanctions Chinese government officials over Uyghur human rights abuses"
+    excerpt: "The Biden administration on Monday sanctioned Chinese government officials over \"serious human rights abuse\" against ethnic minorities in the Xinjiang Uyghur Autonomous Region, and warned that China will continue to face consequences should the \"atrocities\" continue."
+    publishedDateTime: 2021-03-22T19:06:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 176
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Rep. Matt Gaetz: Biden administration worried about military's 'wokeness, not winning'"
+    excerpt: "Rep. Matt Gaetz, R-Fla., told \"Tucker Carlson Tonight\" Friday that the Biden administration's \"woke\" approach to the military should \"trouble every American.\""
+    publishedDateTime: 2021-03-27T01:59:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lt5iW0RaxpE/matt-gaetz-biden-military-wokeness-not-winning"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-biden-military-wokeness-not-winning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-biden-military-wokeness-not-winning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Formerly homeless veteran blasts Biden admin for spending money to house migrants in hotels"
+    excerpt: "Former homeless veteran David Hathcock blasted the Biden administration’s “heartbreaking decision” to award Immigration and Customs Enforcement (ICE) an $86.9 million contract for hotel rooms near the border for illegal families crossing into the United States, arguing on Tuesday that the current administration"
+    publishedDateTime: 2021-03-23T12:52:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mXrsf0Wkvm8/homeless-veteran-biden-illegal-immigrants-hotels"
+    ampWebUrl: "https://www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden says he has no plans to travel to the southern border"
-    excerpt: "President Biden said Tuesday he does not have any plans to travel to the southern border \"at the moment,\" amid a migrant surge in migrants and overwhelmed facilities. "
-    publishedDateTime: 2021-03-16T18:29:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DIFlsdjZmWk/biden-travel-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-travel-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-travel-southern-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden admin under fire over lack of transparency on border crisis"
-    excerpt: "The Biden administration is facing increased scrutiny from the media for the lack of transparency around the child migrant facilities along the U.S.-Mexico border, which has transformed into a border crisis."
-    publishedDateTime: 2021-03-19T17:38:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FOXRraan5dI/biden-psaki-mayorkas-visit-border-crisis-transparency"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-mayorkas-visit-border-crisis-transparency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-mayorkas-visit-border-crisis-transparency.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3b25a0f-3621-4168-b114-166c60079794/d952f25e-75d7-465d-a804-1fe4932ca34d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden's border crisis: 6 things you need to know"
-    excerpt: "The Biden administration is facing calls for more transparency as the federal government diverts tens of millions of dollars to deal with an influx of migrants."
-    publishedDateTime: 2021-03-23T13:29:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C7fmosFLCU4/biden-border-crisis-what-to-know"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-what-to-know.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-what-to-know.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Migrant-wearing-Biden-shirt.jpeg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden touts fight against 'climate crisis' while refusing to call border ‘crisis’"
-    excerpt: "In a tweet posted Thursday, the president lauded the swearing-in of his new Environmental Protection Agency (EPA) Administrator Michael Regan and boasted how his new environment czar will fight the “climate crisis.”"
-    publishedDateTime: 2021-03-18T23:14:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/irtKcFvbPew/biden-immigration-border-crisis-climate-change-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-border-crisis-climate-change-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-border-crisis-climate-change-psaki.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be1041b4-3a45-4c0b-9d72-beeadf4278d4/9e2ca884-53d9-4f03-9f67-f970b6b2dd69/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden immigration policies have created 'disorder at the border,' GOP lawmakers say"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., and other GOP lawmakers called on President Biden to admit fault and work to reverse changes to immigration policies that they said have caused a dangerous surge in migrants at the southern border."
-    publishedDateTime: 2021-03-15T19:44:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRAWSOw5O4c/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kevin McCarthy on 'Fox & Friends': Biden border crisis now becoming 'human tragedy'"
-    excerpt: "The issues on the border go beyond a crisis to a \"human tragedy,\" House Minority Leader Kevin McCarthy, R-Calif., said on Friday, reacting to the Biden administration denying media access to migrant facilities."
-    publishedDateTime: 2021-03-19T14:29:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y8On98pf44M/biden-border-crisis-human-tragedy-kevin-mccarthy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-tragedy-kevin-mccarthy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McCarthy hammers Biden over border crisis, urges him to visit and see 'what he's created'"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., urged President Biden Monday to visit the southern border and see \"what he's created,\" blaming the administration's policies for an alarming migrant and drug smuggling crisis."
-    publishedDateTime: 2021-03-15T20:27:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oOm2EuTjS0A/mccarthy-hammers-biden-border-crisis-created"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-hammers-biden-border-crisis-created.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-hammers-biden-border-crisis-created.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/633385c4-0cd9-4caf-a274-b3fe5d11cff3/40c4bf9c-ce0c-40af-8f5c-0fd276ec264e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rep. Crenshaw hits Biden for 'creating border crisis': Dems 'don't want the truth to get out'"
-    excerpt: "The Biden administration created a crisis on the border by rescinding former President Trump's policies, Rep. Dan Crenshaw said on Wednesday, reacting to migrants who were revealed to be on the terror watch list."
-    publishedDateTime: 2021-03-17T15:28:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wDsxR61d58I/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out"
-    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-creating-border-crisis-dont-want-truth-get-out.amp"
+  - title: "Senate Democrat furious with Biden administration over lack of Asian American representation"
+    excerpt: "Sen. Tammy Duckworth says she’s done voting for any of President Biden’s nominees that aren’t diverse until his administration “figures out” a solution to the lack of Asian American or Pacific Islander (AAPI) representation at the cabinet level."
+    publishedDateTime: 2021-03-23T22:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G8ZSv6PT-nY/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "FEMA gives $110 million to emergency fund for migrant care as Biden admin refuses to admit 'crisis'"
-    excerpt: "FEMA said Thursday it will give $110 million to organizations providing food and shelter to migrants encountered at the southern U.S. border by the Department of Homeland Security."
-    publishedDateTime: 2021-03-18T21:57:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m_6kOvyFcQQ/fema-110-million-border-migrants-emergency-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/fema-110-million-border-migrants-emergency-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fema-110-million-border-migrants-emergency-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077675294674.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Meadows slams Biden admin's lack of transparency on border crisis: Why won't they allow cameras in?"
-    excerpt: "Former White House Chief of Staff Mark Meadows on Friday called out the Biden administration for a lack of 'transparency' regarding the border crisis. "
-    publishedDateTime: 2021-03-19T15:40:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvZgpiByM74/mark-meadows-biden-border-transparency-crisis-immigration-media"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-biden-border-transparency-crisis-immigration-media.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-biden-border-transparency-crisis-immigration-media.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1fb92f-3067-40a4-bb12-56209c49d4ff/d658eaa0-1056-4016-ac8a-4b571b495dea/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Abbott accuses Biden admin of 'not being transparent' about health of unaccompanied minors at border"
-    excerpt: "Texas Gov. Greg Abbott demanded Wednesday that the Biden administration allow state and local authorities access to unaccompanied migrant children in federal facilities to monitor COVID transmission and investigate human trafficking concerns."
-    publishedDateTime: 2021-03-18T02:58:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BOQ5eOt6qdU/abbott-white-house-not-transparent-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/abbott-white-house-not-transparent-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/abbott-white-house-not-transparent-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c222aa09-78a3-4aff-a892-43de8c45cd9f/f15a1bdd-971f-4397-9bfd-7362b323a1cd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
-    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
-    publishedDateTime: 2021-03-17T10:33:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Republicans renew call for border crisis hearing amid Biden's 'open-borders rallying cry'"
-    excerpt: "EXCLUSIVE: Republicans are renewing calls for Democrats to hold a hearing on the growing crisis at the southern border -- while warning that the Biden administration has been sounding an “open-borders rally cry.”"
-    publishedDateTime: 2021-03-15T16:09:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwduK8UUyqE/republicans-renew-call-border-crisis-hearing"
+  - title: "Kamala Harris’ niece takes heat for presuming Boulder shooter was white"
+    excerpt: "Vice President Kamala Harris’ niece is under fire for presuming the gunman in Monday’s Colorado mass shooting was white — because he was taken into custody alive. “The Atlanta shooting was ..."
+    publishedDateTime: 2021-03-23T19:50:00Z
+    webUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/"
+    ampWebUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe9eafdf-a54e-4b6d-b45e-420094e73a89/7cc93579-97ff-4493-8721-9ea5284ab154/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/meena-harris-getty-006.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'"
-    excerpt: "Republicans have laid blame on Biden for the surge after he rolled back a number of Trump-era immigration restrictions he deemed inhumane, including ending the \"Remain-in-Mexico\" policy and reinstating \"catch-and-release.\" Former President Donald Trump ..."
-    publishedDateTime: 2021-03-21T23:29:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-borde-rsurge"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-borde-rsurge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-borde-rsurge.amp"
+  - title: "VP Kamala Harris admits there is a ‘huge problem’ on southern border"
+    excerpt: "Vice President Harris admitted Wednesday that the border is facing “a huge problem,” keeping in step with the White House’s repeated refusal to call the out of control surge of"
+    publishedDateTime: 2021-03-24T15:04:00Z
+    webUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/"
+    ampWebUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee18c3-9624-4a8c-9989-aaf5c43b13c5/156a5fbe-4114-4b4a-aca4-34af35a3257c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Sen. Ted Cruz: The border crisis is a 'direct result' of Joe Biden's political decisions"
-    excerpt: "Texas, joined 'The Story' to discuss his upcoming trip to the southern border, saying the migrant crisis is a 'direct result' of Joe Biden's political decisions. Sen. Ted Cruz: It is a humanitarian crisis,"
-    publishedDateTime: 2021-03-24T21:48:00Z
-    webUrl: "https://www.foxnews.com/media/sen-ted-cruz-the-border-crisis-is-a-direct-result-of-joe-bidens-political-decisions"
-    ampWebUrl: "https://www.foxnews.com/media/sen-ted-cruz-the-border-crisis-is-a-direct-result-of-joe-bidens-political-decisions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sen-ted-cruz-the-border-crisis-is-a-direct-result-of-joe-bidens-political-decisions.amp"
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-22T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d2afbe3-aaad-4991-b986-36a4e20c70e9/36c6a800-7607-4080-a2ec-92ad60787d40/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
+        isCached: true
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From The Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-23T00:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
+        isCached: true
+  - title: "Kamala Harris Has a Message for American Women"
+    excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
+    publishedDateTime: 2021-03-26T11:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/538452_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "LkROrGfHNfGnZVvd0fxN8ITD0vstNqFF2uZvdGHtn+OwSA4tChA7e+KhO263G+zH1+wDvACG9iYFEFyT49aW7OnIfJK6l3sbJ70j561asVWE0LyqICaS/h6Kuav8Qt0t3nRrSBgyo+ObOUNLu9nz0Tqka7CU2non0oHs8pfFEMCA/izfmn2QR009W2wWsTuHyus8/Q3AQlHL2/NMeX9ahGX9lFeX3lMfBzClS5aDFvk+Wp70D2aRCJCFKK3LTWOu57SWarXQd1wlEKUebE95KFlDdKgPxKnHUttlqLlk9lQ8J50omp1d+tLB1XjpeCNK50FM3kcbUqli9Oh+TMBYdc+vTMg16YyhEIdMWRRR7B4=;nxYAzZDk4kCFoaJOkdcZjQ=="

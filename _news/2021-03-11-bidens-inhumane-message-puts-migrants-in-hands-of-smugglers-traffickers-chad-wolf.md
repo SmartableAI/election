@@ -143,22 +143,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Formerly homeless veteran blasts Biden admin for spending money to house migrants in hotels"
-    excerpt: "Former homeless veteran David Hathcock blasted the Biden administration’s “heartbreaking decision” to award Immigration and Customs Enforcement (ICE) an $86.9 million contract for hotel rooms near the border for illegal families crossing into the United States, arguing on Tuesday that the current administration"
-    publishedDateTime: 2021-03-23T12:52:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mXrsf0Wkvm8/homeless-veteran-biden-illegal-immigrants-hotels"
-    ampWebUrl: "https://www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "VGqKNlipFk07/8B9akqhx+dCHxecWdJtos61vfrjTn4A2ASnzv4GtUGs9cz6DTMpkk0Tf6wXej2/8Xs2xUJWA+d2JtMBYrVh0rf/C7BbqJFcJwNPbNZG8ePCAPLzFAEniV3qK9paco/BhGiW2hbwjQARsIbu42XTkiTY4E40GKKSRfs0WARn0StxKPNCSQUoZKSU9I3rugCB82LEVM1vC2cA1zvAeTgh9j5vUzl5Uv1Uf0NhBYFFr4EnEWkiEeYR6G3npDXy3FdisewqtI0Fb+fxdfZmXMHTOaqiKdB1W/n4tdkE7JvdFhj7q5i2/72tzJHzbSlgXHE6hC1Vz7A+3umVXP7PH+BFljT1vrdpV4I=;39su8d5oPzvtvWWnxOMVDQ=="
 ---

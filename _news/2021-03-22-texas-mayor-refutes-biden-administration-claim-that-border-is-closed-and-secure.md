@@ -31,179 +31,243 @@ images:
     isCached: true
 
 related:
-  - title: "Biden border wall freeze unlawful, 40 GOP senators tell GAO in letter"
-    excerpt: "A group of 40 GOP senators on Wednesday asked the Government Accountability Office to decide whether President Biden's decision to freeze more than $1 billion in congressionally approved border wall funding violates federal law."
-    publishedDateTime: 2021-03-17T16:22:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5shomOtuZQ/biden-border-wall-freeze-unlawful-senators-gao"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp"
+  - title: "White House lists ‘Biden-Harris administration’ on official website"
+    excerpt: "The White House, breaking with tradition, now lists the “Biden-Harris Administration” on its website rather than simply, “the Biden Administration.”"
+    publishedDateTime: 2021-03-29T00:13:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/azyRyJ0e1IQ/white-house-lists-biden-harris-administration-on-official-website"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 200
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021726310142-1.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Harris-Administration.png?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Pelosi says Biden has southern border situation 'under control'"
-    excerpt: "House Speaker Nancy Pelosi, D-Calif., expressed confidence in President Biden's handling of the surge of migrants at the Southern border, saying he's got it \"under control.\""
-    publishedDateTime: 2021-03-19T17:03:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jmpWtJ042e0/pelosi-biden-border-situation-under-control"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-biden-border-situation-under-control.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-biden-border-situation-under-control.amp"
+  - title: "Nikki Haley hits Kamala Harris over past comparison of ICE to KKK"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Friday took aim at Vice President Kamala Harris, saying that she can’t be trusted to deal with the border crisis, citing a 2018 comparison the then-senator made between Immigration and Customs Enforcement (ICE) and the Ku Klux Klan."
+    publishedDateTime: 2021-03-26T18:26:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AG9duI3EtEw/nikki-haley-kamala-harris-compare-ice-kkk"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-compare-ice-kkk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-compare-ice-kkk.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa6016c2-e559-4d73-9aeb-b85211588100/5915beb0-707b-482e-92c7-77b60563f947/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e70f7eab-30f9-4370-8a08-1d5f7866da5e/21b78449-660b-402c-920f-5e3981c084f4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Jen Psaki dodges question about whether Biden saw doctor after fall"
-    excerpt: "Reporters pressed White House press secretary Jen Psaki on whether President Biden was seen by a doctor after falling up the stairs boarding Air Force One."
-    publishedDateTime: 2021-03-22T20:18:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0pP2zcWrhiI/jen-psaki-press-biden-fall-air-force-one"
-    ampWebUrl: "https://www.foxnews.com/politics/jen-psaki-press-biden-fall-air-force-one.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jen-psaki-press-biden-fall-air-force-one.amp"
+  - title: "Vice President Harris is “not doing the border,” senior adviser says"
+    excerpt: "President Biden has tasked Vice President Harris with addressing the root causes of mass migration from Central America – but she will not be handling southern border policy in general, a top aide said."
+    publishedDateTime: 2021-03-26T22:52:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LlbePye8Cpc/vp-harris-senior-advisor-says-vp-is-not-doing-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden now calls filibuster ‘a relic of the Jim Crow era’ but Kamala Harris is among Dems who have embraced it"
+    excerpt: "Multiple times through the years Vice President Harris and many other Democrats have embraced the legislative filibuster, which sets a 60-vote hurdle in the Senate for any bills to make it to a final roll call. "
+    publishedDateTime: 2021-03-26T16:44:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fj1E9XOjFpM/biden-filibuster-kamala-harris-democrats-embraced-it"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-filibuster-kamala-harris-democrats-embraced-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-filibuster-kamala-harris-democrats-embraced-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden admin ignored warning signs that border could spiral into crisis"
+    excerpt: "The Biden administration ignored warning signs about an impending crisis at the U.S. southern border."
+    publishedDateTime: 2021-03-22T18:02:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d7H_NZZ-VO8/biden-administration-warning-signs-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21078698245169.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21080583251227-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Senate confirms Xavier Becerra as Biden's HHS secretary despite GOP opposition"
-    excerpt: "The Senate on Thursday voted to confirm Xavier Becerra as President Biden’s Health and Human Services secretary, delivering the nascent administration another Cabinet member despite nearly unanimous opposition from Republican lawmakers."
-    publishedDateTime: 2021-03-18T16:49:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOKdmPCEdk/senate-confirms-xavier-becerra-as-bidens-hhs-secretary-despite-gop-opposition"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-xavier-becerra-as-bidens-hhs-secretary-despite-gop-opposition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-xavier-becerra-as-bidens-hhs-secretary-despite-gop-opposition.amp"
+  - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
+    excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
+    publishedDateTime: 2021-03-26T20:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tVVjsXfLdE/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden admin can't keep up with border surge of migrant children, CBP official warns"
-    excerpt: "The number of migrant children in federal custody has passed 4,000, one source told Fox News."
-    publishedDateTime: 2021-03-16T21:51:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1tsjcCcU_k/migrant-children-border-dhs-families-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
+  - title: "Biden admin sanctions Chinese government officials over Uyghur human rights abuses"
+    excerpt: "The Biden administration on Monday sanctioned Chinese government officials over \"serious human rights abuse\" against ethnic minorities in the Xinjiang Uyghur Autonomous Region, and warned that China will continue to face consequences should the \"atrocities\" continue."
+    publishedDateTime: 2021-03-22T19:06:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21071661472869.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "McCarthy, GOP delegation visiting US-Mexico border Monday amid migration surge under Biden"
-    excerpt: "House Minority Leader Kevin McCarthy and 12 other House Republicans are at the Southern border and will make comments from El Paso, Texas later Monday as the GOP continues to hammer President Biden over immigration. "
-    publishedDateTime: 2021-03-15T14:57:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pzNyh-3l1lo/mccarthy-leads-gop-visit-to-us-mexico-border"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-leads-gop-visit-to-us-mexico-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-leads-gop-visit-to-us-mexico-border.amp"
+  - title: "Rep. Matt Gaetz: Biden administration worried about military's 'wokeness, not winning'"
+    excerpt: "Rep. Matt Gaetz, R-Fla., told \"Tucker Carlson Tonight\" Friday that the Biden administration's \"woke\" approach to the military should \"trouble every American.\""
+    publishedDateTime: 2021-03-27T01:59:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lt5iW0RaxpE/matt-gaetz-biden-military-wokeness-not-winning"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-biden-military-wokeness-not-winning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-biden-military-wokeness-not-winning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Formerly homeless veteran blasts Biden admin for spending money to house migrants in hotels"
+    excerpt: "Former homeless veteran David Hathcock blasted the Biden administration’s “heartbreaking decision” to award Immigration and Customs Enforcement (ICE) an $86.9 million contract for hotel rooms near the border for illegal families crossing into the United States, arguing on Tuesday that the current administration"
+    publishedDateTime: 2021-03-23T12:52:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mXrsf0Wkvm8/homeless-veteran-biden-illegal-immigrants-hotels"
+    ampWebUrl: "https://www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "'It's not a mystery': Sen. Kennedy tells 'Fox & Friends' how Biden border crisis can be stopped"
-    excerpt: "Forty GOP senators, including Sen. John Kennedy, R-La., wrote a letter to the U.S. Government Accountability Office to determine whether President Biden’s executive order unlawfully halted a fund of $1 billion voted on by Congress to construct the border wall."
-    publishedDateTime: 2021-03-18T15:48:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0j5sEPOaie8/john-kennedy-biden-border-crisis-return-trump-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/john-kennedy-biden-border-crisis-return-trump-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kennedy-biden-border-crisis-return-trump-policies.amp"
+  - title: "Senate Democrat furious with Biden administration over lack of Asian American representation"
+    excerpt: "Sen. Tammy Duckworth says she’s done voting for any of President Biden’s nominees that aren’t diverse until his administration “figures out” a solution to the lack of Asian American or Pacific Islander (AAPI) representation at the cabinet level."
+    publishedDateTime: 2021-03-23T22:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G8ZSv6PT-nY/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa936991-88e4-4123-885e-ffe326593e34/430a6e2e-ee19-4c56-ac36-efb004635a29/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Cruz, Cornyn to lead Senate delegation to border, as GOP ramps up pressure on Biden over border crisis"
-    excerpt: "Texas Sens. Ted Cruz and John Cornyn will lead a Senate delegation to the border next week, as Republicans are ramping up the pressure on the Biden administration for what they say is a crisis fueled by the administration's own immigration policies."
-    publishedDateTime: 2021-03-16T17:19:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kyWqWaUBEcw/cruz-cornyn-senate-border-gop-biden-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-cornyn-senate-border-gop-biden-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-cornyn-senate-border-gop-biden-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c57185e-ca00-4a31-8a79-5263e0ffb1bf/734d5af6-eb8b-41e0-b2e7-97595737b564/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden admin allowed majority of migrant families who surrendered at border to enter US despite health order"
-    excerpt: "In February, U.S. Customs and Border Protection (CPB) allowed the majority of the migrant families it encountered on the U.S. southwestern border to stay in the country pending a decision on whether they will be allowed to stay permanently. "
-    publishedDateTime: 2021-03-18T17:21:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-p3906S9zsY/biden-border-crisis-migrants-health-order"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-migrants-health-order.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Texas Republicans rip Biden after Border Patrol captures convicted sex predators illegally crossing border"
-    excerpt: "U.S. Customs and Border Patrol (CBP) announced on Wednesday the apprehension of multiple convicted \"sexual predators\" that were caught trying to illegally enter America through the southern border"
-    publishedDateTime: 2021-03-18T20:07:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXAoxEPkjj4/texas-border-patrol-migrant-sex-offenders-biden-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-border-patrol-migrant-sex-offenders-biden-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-patrol-migrant-sex-offenders-biden-immigration.amp"
+  - title: "Kamala Harris’ niece takes heat for presuming Boulder shooter was white"
+    excerpt: "Vice President Kamala Harris’ niece is under fire for presuming the gunman in Monday’s Colorado mass shooting was white — because he was taken into custody alive. “The Atlanta shooting was ..."
+    publishedDateTime: 2021-03-23T19:50:00Z
+    webUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/"
+    ampWebUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a94a9aa-c92b-4669-b50d-958d74be7fa0/64d54400-2a84-464f-b2df-17b212474f47/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/meena-harris-getty-006.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "House GOP lawmakers join Senate call for GAO opinion on Biden’s border wall freeze"
-    excerpt: "EXCLUSIVE: A group of more than 60 Republican House lawmakers and four GOP senators on Tuesday added their names to a Senate push to ask the Government Accountability Office to give its opinion on whether President Biden’s move to suspend border wall construction was in violation of federal law."
-    publishedDateTime: 2021-03-23T22:36:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tRT-9uhKqVs/house-gop-senate-gao-opinion-bidens-border-wall"
+  - title: "VP Kamala Harris admits there is a ‘huge problem’ on southern border"
+    excerpt: "Vice President Harris admitted Wednesday that the border is facing “a huge problem,” keeping in step with the White House’s repeated refusal to call the out of control surge of"
+    publishedDateTime: 2021-03-24T15:04:00Z
+    webUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/"
+    ampWebUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 149
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b98b5ab-a71e-49aa-bb9b-da97aea33b9d/3b4ec3f8-5397-45a4-8373-602e228d3dc7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-22T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
+    images:
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
+        isCached: true
+  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From The Trump Administration"
+    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
+    publishedDateTime: 2021-03-23T00:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/53/538477.jpg"
+        width: 936
+        height: 702
+        isCached: true
+  - title: "Kamala Harris Has a Message for American Women"
+    excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
+    publishedDateTime: 2021-03-26T11:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/538452_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "iO8zre+3BH8UYgfVIHrXTpg0lSP/DgwdaXdfcwDbzA6bhsQcpObY9rTnkmmIbyi8wHHO8YMiNNhuXudDR2g+a2MkUNqILyDQydg9dcgJCd3pexihffXL+V3LMFiDJvMh6I5RMHZEXKUijnw8nJe7GbIVp4CSWYT3jATx3pnroRtDSKVWV5U5xpVZueMYLqMHHCojw8KOpGrmqbWMlAAa2yQi6voc6NJpIpGZuiZH8XT55fPJ4+W0xISGle9zIr9VRla2VWGQcXKu6VjPCMdCSnsaT7VkmcTVnzyTs+8pZdiHVwcyWgbFKRxiMYdX8yKKg53DpmScEfgjMNYwcEWv2APnhJJOvfhhCtjg+67DCtY=;f32rLs/JKt3k6WALeYX2eA=="

@@ -111,22 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden admin ignored warning signs that border could spiral into crisis"
-    excerpt: "The Biden administration ignored warning signs about an impending crisis at the U.S. southern border."
-    publishedDateTime: 2021-03-22T18:02:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d7H_NZZ-VO8/biden-administration-warning-signs-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21080583251227-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden touts fight against 'climate crisis' while refusing to call border ‘crisis’"
     excerpt: "In a tweet posted Thursday, the president lauded the swearing-in of his new Environmental Protection Agency (EPA) Administrator Michael Regan and boasted how his new environment czar will fight the “climate crisis.”"
     publishedDateTime: 2021-03-18T23:14:09Z

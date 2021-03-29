@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Senate Democrat furious with Biden administration over lack of Asian American representation"
-    excerpt: "Sen. Tammy Duckworth says she’s done voting for any of President Biden’s nominees that aren’t diverse until his administration “figures out” a solution to the lack of Asian American or Pacific Islander (AAPI) representation at the cabinet level."
-    publishedDateTime: 2021-03-23T22:28:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G8ZSv6PT-nY/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "UYCNtqGUj3KVt+pfTc4st5AvSjZyuq+M1kqk57BTClxROuOFYY7MYX5wkpBINhTzJUjQyI3+V+MNep4VruWTY1Ss9xSpA27C/lTsF6Sfi1W/R72iOnuaPtxw21cwZhaV9BIgJ0/Y+gxoXxjotsmX1ZKyOW7DRH9ef6Jm80QE4v2I1cZ94UHiGx7Wq/Nvqu5r5hFh5st/g83WE6CRg5ZfSyLVIgQJiyBNocN0B2alDe9cplJyc0iRz0vAe2ZvpGyZbNXzUVxyFP5qVyLibIlHi/qbnf47PeDE/lGTHfImKTJeW3vJbIbqr82I13SpBdaiOJ3Tyc1SYQ96EQC9laT9X5BY4ByjP/4CIZeWMdgZ7uc=;irVHA2uGt6v0qj2e/qbWHA=="
 ---

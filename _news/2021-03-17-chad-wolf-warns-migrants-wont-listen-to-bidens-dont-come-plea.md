@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-dont-come-migrants-border
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp"
 type: article
 quality: 175
-heat: 335
+heat: 315
 published: true
 
 provider:
@@ -142,22 +142,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Formerly homeless veteran blasts Biden admin for spending money to house migrants in hotels"
-    excerpt: "Former homeless veteran David Hathcock blasted the Biden administration’s “heartbreaking decision” to award Immigration and Customs Enforcement (ICE) an $86.9 million contract for hotel rooms near the border for illegal families crossing into the United States, arguing on Tuesday that the current administration"
-    publishedDateTime: 2021-03-23T12:52:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mXrsf0Wkvm8/homeless-veteran-biden-illegal-immigrants-hotels"
-    ampWebUrl: "https://www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "hkeyy405BdhIDk9Q4HMhVarbAXHWEsdsiJXCGSmFxgKmSpZ5IhG1hrMzcdsPdDcVR61Vti1/TrF2VGNLc8g4JJjMCtYGIcX8uB5OoHF8UDmdttmVwTEsCbzQ4CXjp6etIaoQsNA7y1bz/YCkAXmPkHO7hHf715ZtS5km4Yn3QVUFYqBunfLFt1b5Jqrmwub6dcon3B7ElkgxQKyOxgNV4pum6jWA4EFEcrZrtQw7TFBPehESUQO+oSZrhilgrx1ch7pLWjEFFA7pXaVKAwSJ65m9cdNNBCbqcdN+r3igtpX5HpoLD61IgeS+RLC+pDihMrZitMCa6vpbjelxI8jzRC1na2DKlTNouJcRNS0828A=;oj2kLhsMTzrKqn3j58lyLg=="

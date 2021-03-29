@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Arizona’s Ducey calls Harris the ‘worst possible choice’ to fix border"
-    excerpt: "Gov. Doug Ducey, the Arizona Republican, didn’t mince words Wednesday shortly after he learned that President Biden was tapping Vice President Harris to oversee the effort to resolve the crisis at the U.S.-Mexico border."
-    publishedDateTime: 2021-03-25T05:36:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI3ATHYXEHo/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border"
-    ampWebUrl: "https://www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp"
+  - title: "White House lists ‘Biden-Harris administration’ on official website"
+    excerpt: "The White House, breaking with tradition, now lists the “Biden-Harris Administration” on its website rather than simply, “the Biden Administration.”"
+    publishedDateTime: 2021-03-29T00:13:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/azyRyJ0e1IQ/white-house-lists-biden-harris-administration-on-official-website"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 200
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Harris-Administration.png?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Nikki Haley hits Kamala Harris over past comparison of ICE to KKK"
     excerpt: "Former U.N. Ambassador Nikki Haley on Friday took aim at Vice President Kamala Harris, saying that she can’t be trusted to deal with the border crisis, citing a 2018 comparison the then-senator made between Immigration and Customs Enforcement (ICE) and the Ku Klux Klan."
@@ -76,37 +76,149 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris supports change to filibuster in Senate to limit minority party power"
-    excerpt: "Vice President Kamala Harris supports changing the filibuster practice in the Senate in order to limit the ability of the minority party to easily block legislation, her office confirmed to Fox News Wednesday. "
-    publishedDateTime: 2021-03-17T14:54:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScI6CQMge0E/kamala-harris-filibuster-senate-limit-minority-party-power"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-filibuster-senate-limit-minority-party-power.amp"
+  - title: "Biden now calls filibuster ‘a relic of the Jim Crow era’ but Kamala Harris is among Dems who have embraced it"
+    excerpt: "Multiple times through the years Vice President Harris and many other Democrats have embraced the legislative filibuster, which sets a 60-vote hurdle in the Senate for any bills to make it to a final roll call. "
+    publishedDateTime: 2021-03-26T16:44:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fj1E9XOjFpM/biden-filibuster-kamala-harris-democrats-embraced-it"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-filibuster-kamala-harris-democrats-embraced-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-filibuster-kamala-harris-democrats-embraced-it.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 181
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'"
-    excerpt: "While taking questions from reporters outside of Air Force One, Harris was asked if she had \"plans to visit\" to the Southern border as the immigration crisis continues to develop."
-    publishedDateTime: 2021-03-22T22:44:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BK4ZqAuxMGM/kamala-harris-laughs-border-visit-reporter-question"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
+  - title: "Biden admin ignored warning signs that border could spiral into crisis"
+    excerpt: "The Biden administration ignored warning signs about an impending crisis at the U.S. southern border."
+    publishedDateTime: 2021-03-22T18:02:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d7H_NZZ-VO8/biden-administration-warning-signs-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e88d0f84-283e-413a-b2d6-b3bea025b33e/d69dc25c-4233-41f0-8a90-a37da60d1669/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21080583251227-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
+    excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
+    publishedDateTime: 2021-03-26T20:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tVVjsXfLdE/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Texas mayor refutes Biden administration claim that border is closed and secure"
+    excerpt: "Laredo, Texas Mayor Pete Saenz refuted Homeland Security Secretary Alejandro Mayorkas' and President Biden's claim that the U.S.-Mexico border was closed and secure in an interview Monday."
+    publishedDateTime: 2021-03-22T16:29:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ypn3PC8FWGM/texas-mayor-biden-border-closed-secure-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden admin sanctions Chinese government officials over Uyghur human rights abuses"
+    excerpt: "The Biden administration on Monday sanctioned Chinese government officials over \"serious human rights abuse\" against ethnic minorities in the Xinjiang Uyghur Autonomous Region, and warned that China will continue to face consequences should the \"atrocities\" continue."
+    publishedDateTime: 2021-03-22T19:06:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Rep. Matt Gaetz: Biden administration worried about military's 'wokeness, not winning'"
+    excerpt: "Rep. Matt Gaetz, R-Fla., told \"Tucker Carlson Tonight\" Friday that the Biden administration's \"woke\" approach to the military should \"trouble every American.\""
+    publishedDateTime: 2021-03-27T01:59:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lt5iW0RaxpE/matt-gaetz-biden-military-wokeness-not-winning"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-biden-military-wokeness-not-winning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-biden-military-wokeness-not-winning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Formerly homeless veteran blasts Biden admin for spending money to house migrants in hotels"
+    excerpt: "Former homeless veteran David Hathcock blasted the Biden administration’s “heartbreaking decision” to award Immigration and Customs Enforcement (ICE) an $86.9 million contract for hotel rooms near the border for illegal families crossing into the United States, arguing on Tuesday that the current administration"
+    publishedDateTime: 2021-03-23T12:52:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mXrsf0Wkvm8/homeless-veteran-biden-illegal-immigrants-hotels"
+    ampWebUrl: "https://www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Senate Democrat furious with Biden administration over lack of Asian American representation"
+    excerpt: "Sen. Tammy Duckworth says she’s done voting for any of President Biden’s nominees that aren’t diverse until his administration “figures out” a solution to the lack of Asian American or Pacific Islander (AAPI) representation at the cabinet level."
+    publishedDateTime: 2021-03-23T22:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G8ZSv6PT-nY/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris’ niece takes heat for presuming Boulder shooter was white"
+    excerpt: "Vice President Kamala Harris’ niece is under fire for presuming the gunman in Monday’s Colorado mass shooting was white — because he was taken into custody alive. “The Atlanta shooting was ..."
+    publishedDateTime: 2021-03-23T19:50:00Z
+    webUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/"
+    ampWebUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/meena-harris-getty-006.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "VP Kamala Harris admits there is a ‘huge problem’ on southern border"
     excerpt: "Vice President Harris admitted Wednesday that the border is facing “a huge problem,” keeping in step with the White House’s repeated refusal to call the out of control surge of"
@@ -123,22 +235,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'"
-    excerpt: "Vice President Kamala Harris laughed while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis. While taking questions from reporters outside of Air Force One, Harris was asked if ..."
-    publishedDateTime: 2021-03-22T22:48:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-border-visit-reporter-question.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e88d0f84-283e-413a-b2d6-b3bea025b33e/d69dc25c-4233-41f0-8a90-a37da60d1669/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
     excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
@@ -169,20 +265,6 @@ related:
       - url: "https://assets.realclear.com/images/53/538452_5_.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Kamala Harris: \"Stop Pushing The False Choice That Gun Control Means We're Coming After All Your Guns\""
-    excerpt: "Vice President Kamala Harris said Wednesday on \"CBS This Morning\" that \"it is time for Congress to act\" on gun control. \"It is time for Congress to act and stop with the false choices,\" she said. \"We need reasonable gun safety laws."
-    publishedDateTime: 2021-03-24T18:13:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/24/kamala_harris_stop_pushing_the_false_choice_that_gun_control_means_banning_guns.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 49
-    images:
-      - url: "https://assets.realclear.com/images/53/538650.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "+93+wwR8TwY7Wt/MzZ50a1xY47qXqs66plRN+HWlY+GeRaGBVKgRrSlYV2WFuUjEEDj5J45XfIz7xjdR4PW8kkdNOtJPqAIex1ZDlQViCJqjO8/ZqfISppzYQc6C/yksILBkc3QlFHtgwo74okKfmne6d7sFNlSuzKeAIM3XpEJ2d7JGs9875ukUhsafWDqLV8rXX0o/26dOpwvnkheP5HuSVPQQz+51sCg+gwWPsEdFC9OzS9AmwUNizpGcBU4lelCl8RmTJdZgGlM1KxMp2SiyB8+cOc0YbOit3JNwVoJinvTh50QJCdf/ARwOsU1wzuQg2f9zgfdXK26AJg6OpGece7cHdohs8Qzm9ZvrSbweHPtDVNvgs4YNzLWuTqm6MWhXt85+uD6NXPtFUYlcMb5xxPLKcSD4ur7W4VLhjMXz7S28yQjn7c4uh3KLoL7rXBtGDqOA5HuNx6w2qQIr2gzX4EqkZcRynCb2TBkKXgStmOXPxjpT4iZzYbmlCvzmI7/pd2sxsbnGxLeuxF+wLw==;fuQ52H8jObanH7605sPsFA=="

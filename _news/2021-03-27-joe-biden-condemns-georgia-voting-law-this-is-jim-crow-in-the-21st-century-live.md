@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
 excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
-publishedDateTime: 2021-03-26T18:25:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e136e8f08774d1beab008"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e136e8f08774d1beab008"
+publishedDateTime: 2021-03-26T18:27:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e0d5a8f08ef6f2f140d3d"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e0d5a8f08ef6f2f140d3d"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 type: article
@@ -80,6 +80,6 @@ related:
         height: 360
         isCached: true
 
-secured: "EHFTsrLWLSMDU6tKjoxNQS42dB9aOzbSW0pDXr78ygpzxTpIoJHfZfNlxmqqVNBmqMAlaDNGQoNP8ehy01YTidYkMtjITvXaz3hEMG1ENcOTwm1VGq1I+RHz3ImqlX1qsl/oNVVNYHyFZQ/hpIpZTrdOH/X9p+lkGKMOGJYW1vkehCb3cZQ7i6KAbubiC87gr7g0vFupHIEiH8fIy1Qhn6dPZqfHzrK9s0RgpFAhVG61+k43M5ffY5hX6rT0TUtFzOkXnq3H6zy3McdVEu50qF/UKu0ITGC9LjLj+8ChCEdwWm5EOkuBdCeu0y/TiqZaEMMzcy+Z5/E4+fxLWVGeL5bgMoo37JhOCXPj9HD2R10=;95r4DTUfRO0YiFbeZDhu0w=="
+secured: "xL715ZLwF9j6oQBRQNpHUB+oKZLtaYjRTmJRsYzTP06cMP2TciO6qHyWxkLOX+ITdpcySdl6ZRXulSx6lrlgiVldtxbgh2BzDJ6wrNmCwgKvWq2ahCG3GelhapQdEZJNglFA5i8L+2WN3buReFfX1/rZsA87r3P22BnCTlqlrLZDkqWwHCTF7AIk3E69aodkf16P2TzqgQzZbZ0dQArVHzMx2px/cWRG/XxnvNO+qDcZ+csrzBlNmwQygwWmFQsqxl2PhI4sAoYTvf/Rq/3WsYW7ZuNMjLik0xl+oMAkIjNW9J3Itj0QMAdY8MOjxL1KTKSCP3me0Noij6mWZFSlwbcU7EmK8ubWQK3h5ktuXpw=;E8sj+mT/oxDp+JB8A8+oWA=="
 ---
 

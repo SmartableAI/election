@@ -2120,14 +2120,17 @@ related:
   - title: "'Atrocity': Joe Biden reacts to Georgia's voting bill"
     excerpt: "President Joe Biden reacts to Georgia's new voting bill that critics say restricts ballot access and gives state officials more power over local elections. CNN's Jeff Zeleny tells us more."
     publishedDateTime: 2021-03-26T19:45:00Z
-    webUrl: "https://www.dailyamerican.com/news/nation/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_99f0754e-b787-5141-bc6a-536dcc705519.html"
-    ampWebUrl: "https://www.dailyamerican.com/news/nation/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_99f0754e-b787-5141-bc6a-536dcc705519.amp.html"
-    cdnAmpWebUrl: "https://www-dailyamerican-com.cdn.ampproject.org/c/s/www.dailyamerican.com/news/nation/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_99f0754e-b787-5141-bc6a-536dcc705519.amp.html"
+    webUrl: "https://themercury.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_915f7e50-d50f-57b3-bc66-15d7fe137d91.html"
     type: article
     provider:
-      name: Daily American
-      domain: dailyamerican.com
+      name: The Manhattan Mercury
+      domain: themercury.com
     quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/9/15/915f7e50-d50f-57b3-bc66-15d7fe137d91/605e411614d00.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Biden not ruling out chance US stays longer in Afghanistan"
     excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
     publishedDateTime: 2021-03-27T11:51:00Z

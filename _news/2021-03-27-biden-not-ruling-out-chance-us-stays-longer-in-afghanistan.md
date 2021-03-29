@@ -2130,14 +2130,17 @@ related:
   - title: "'Atrocity': Joe Biden reacts to Georgia's voting bill"
     excerpt: "President Joe Biden reacts to Georgia's new voting bill that critics say restricts ballot access and gives state officials more power over local elections. CNN's Jeff Zeleny tells us more."
     publishedDateTime: 2021-03-26T19:45:00Z
-    webUrl: "https://www.dailyamerican.com/news/nation/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_99f0754e-b787-5141-bc6a-536dcc705519.html"
-    ampWebUrl: "https://www.dailyamerican.com/news/nation/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_99f0754e-b787-5141-bc6a-536dcc705519.amp.html"
-    cdnAmpWebUrl: "https://www-dailyamerican-com.cdn.ampproject.org/c/s/www.dailyamerican.com/news/nation/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_99f0754e-b787-5141-bc6a-536dcc705519.amp.html"
+    webUrl: "https://themercury.com/news/national/atrocity-joe-biden-reacts-to-georgias-voting-bill/video_915f7e50-d50f-57b3-bc66-15d7fe137d91.html"
     type: article
     provider:
-      name: Daily American
-      domain: dailyamerican.com
+      name: The Manhattan Mercury
+      domain: themercury.com
     quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/9/15/915f7e50-d50f-57b3-bc66-15d7fe137d91/605e411614d00.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "President Joe Biden Comments on the Right to Vote in Georgia"
     excerpt: "March 27, 2021 - On Friday, President Biden commented on the right to vote in Georgia. More Americans voted in the 2020 elections than any election in our nation’s history. In Georgia we saw ..."
     publishedDateTime: 2021-03-27T12:59:00Z
