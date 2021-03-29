@@ -137,6 +137,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Watch: Trump Uses Wedding Speech To Attack Biden; Asks Crowd 'Do You Miss Me?'"
+    excerpt: "... The wedding reception took place at Trump's Mar-a-Lago golf resort in Florida The former president repeated false claims about widespread fraud during the 2020 election Former President Donald Trump on Saturday used a wedding speech at his Mar-A-Lago ..."
+    publishedDateTime: 2021-03-29T03:59:00Z
+    webUrl: "https://www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820"
+    ampWebUrl: "https://www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
+        isCached: true
   - title: "Former Trump Staffer Calls Out Ex-President For False Depiction Of Capitol Riots, 'People Were Killed'"
     excerpt: "The former chief of staff is calling out the ex-president after spreading false claims about the Jan. 6 riots."
     publishedDateTime: 2021-03-28T15:02:00Z

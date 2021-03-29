@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7015324002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7015324002"
 type: article
 quality: 136
-heat: 196
+heat: 216
 published: true
 
 provider:
@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
     excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
-    publishedDateTime: 2021-03-26T18:12:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e26338f08ef6f2f140ed5"
+    publishedDateTime: 2021-03-26T22:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e4ceb8f08aff75c03c3ce"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -64,9 +64,9 @@ related:
         height: 360
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – as it happened"
-    excerpt: "Advocates are also urging Joe Biden to impose a national moratorium and make water a priority in the forthcoming infrastructure bill. Hi there, it’s Maanvi Singh – blogging from the west coast. Joe Biden spoke with Boris Johnson today. The two leaders ..."
+    excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
     publishedDateTime: 2021-03-26T23:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e3a1f8f08aff75c03c30d"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e40148f08774d1beab29e"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -78,6 +78,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/2a4a2aa4200ed189b6e4b6ca32b7a26cd094559b/0_112_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=14a1abf7884aa37bb04e187deea03eb7"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden slams Georgia voting law as 'an atrocity'"
+    excerpt: "President Joe Biden slams a new Georgia voting law as \"an atrocity.\" The president says \"you don't need anything else to know that this is nothing but punitive, designed to keep people from voting.\" (March 26)"
+    publishedDateTime: 2021-03-26T20:32:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/26/biden-slams-georgia-voting-law-atrocity/7018928002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc90a677-060e-4b32-8a71-3091fe5fb58b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "pRjEgMnbZOQe/cYlzxAiZdgDJu6V0FeRG0kXxbaBAOJ05B/KgAfWcp062ArMUxRwxkEom3oxSB7wVGrKHzyiEoBXMCVX2acd3zAjgOtL4e37OfqiWcvPyUfrIrSCLKp40GW+qfjDA/+a7FJKOHZcmtfpXxQQitzAnNptrv58/ISeA7SUwAc2DnXXbR2INU6OCVq2TjddMjX8iSYgdGubGLlkUzFQoruwla/ZwGfA9Mnc4mZ193fp6KaUFwUzdBy8+tzbpyWcWrqjrzxa7uJO8PKhpHpWxhyQg6NALHfDo9qPmzI/lh0yKt1sK6oOK+eHeVYTy4gs8bQ3QUhW3tdtR6IwrpqCgU8WbiScYtlGgSA=;v/gGJ0oZ1lX144EYr71OJg=="

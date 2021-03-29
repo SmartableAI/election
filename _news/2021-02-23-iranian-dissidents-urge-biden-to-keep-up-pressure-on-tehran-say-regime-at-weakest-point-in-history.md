@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "For Biden, an Anguishing Choice on Afghanistan"
+    excerpt: "Afghanistan soon collapsed into a civil war that pitted rival warlords against one another, until the Taliban seized power, in 1996, imposed strict Islamic law, and welcomed other jihadis such as Al Qaeda."
+    publishedDateTime: 2021-03-26T13:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/26/for_biden_an_anguishing_choice_on_afghanistan_539011.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/535643_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "X+ZiOoEgJd2p7YAQ+3f6SZ20sDgxHa8Eco1+r7vmc1Zqm/nHgZFwvb/hd/nieHXA5BDcswP/y6w2kvx+cnb2C/WWF8Md1nINN6yLOoSaYXZB+Fw/b4O1QzKVqvplbXxnv3zzdK0x8MMLGcIMpA0cQLDc+a5+XDO3TWzP7b0MqlDw/xNj4u1HLo+JscM6I2dC+oQfNWMvMzOEpUku7uSo9d6FAUDQgwojGo6Z/HTXXfnJiMJOOwEs21iook4V3z0qlsZcUeb34cWfVWHGhFrbU2gH8s4ca1tpHQdZk1wh75NAbxdaMq7tSzqmTJLir7fjm055bUjIahMpwU//byTFBaAF2OpJkLQo2aL2gyhioD4=;3x0FRWf7WKz+SJU/UCig7A=="
 ---

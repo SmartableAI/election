@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – as it happened"
-excerpt: "Advocates are also urging Joe Biden to impose a national moratorium and make water a priority in the forthcoming infrastructure bill. Hi there, it’s Maanvi Singh – blogging from the west coast. Joe Biden spoke with Boris Johnson today. The two leaders ..."
+excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
 publishedDateTime: 2021-03-26T23:14:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e3a1f8f08aff75c03c30d"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e3a1f8f08aff75c03c30d"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e40148f08774d1beab29e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e40148f08774d1beab29e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
 type: article
@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – live"
     excerpt: "President said Republican legislators in Georgia and across the US are trying to make it harder to vote"
-    publishedDateTime: 2021-03-26T18:12:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e26338f08ef6f2f140ed5"
+    publishedDateTime: 2021-03-26T22:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e4ceb8f08aff75c03c3ce"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -79,7 +79,21 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden slams Georgia voting law as 'an atrocity'"
+    excerpt: "President Joe Biden slams a new Georgia voting law as \"an atrocity.\" The president says \"you don't need anything else to know that this is nothing but punitive, designed to keep people from voting.\" (March 26)"
+    publishedDateTime: 2021-03-26T20:32:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/26/biden-slams-georgia-voting-law-atrocity/7018928002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc90a677-060e-4b32-8a71-3091fe5fb58b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "7XUU3pB9s3uD1THMyVGl8X/A+c3DJFXi6CkiriNaAOaSkD9zGDFoceKb9iFx9x1cHBwPEFloQ8Ap9XUHcEd28XZKmvzQ8mQqHCFw8a2T5bT8v8LnbP8am1I9iJ7GI+v0KTIwEICQwgPJkZ31hU7RcxOmg+tDIqePQQAtN1pqJmATbmERNIJFBZSVBkacCGxBZbx47GBa0M26/fKZHG1pC2cQ7yxWRr++Rubfr1Vrpa4/1uw5ApuymLtggsPGN8Z2UhYFw+Bl2Nhn6AfoiM23/su7ywWZNa1mxDpksp4HbcFxHvlxn0hc+G2O3Nslw7u7EuOLCPj97I4Wup74+gplue6eA+Vh15OFPdZRqcpfSI5Y9KRXo70CIo5GCE0ZegmUTDaswRKbHF0Dh9mwS17omm1AK09nuk5V8fc3jqYDqAEBZheAsiQt/OUxMQ0+1X9RO34oEssNgNLVYJkTjXLm95uG5pb7L+5kzDRn1weX7rhYsR+joQY05fYcBb0iCJxS/u2H28JhIJitohaZjhuU0A==;/FMyu2Rnv5r8kLJuO33WgQ=="
+secured: "ruPgF7t01VUHSylRDI3Y6RGp6G/spBB8i2nb8ivpzxNmbeS8H13yTuIQJa5+lr42ACxDHn1avB3VWRzXdNMAEJZxBCWDfzjuRKAGAlwpT5xm/3ccg/FJUc9noHqxTHa0MA4Wj7EkXjDpQY3LzIv24/vJYaopBjPcyHQbNWIttxUAzP7IO35cvgML7Wul2ucpNXvp8WegyJIMfEYUVeyupSRm01vo/jrfzaTE8clDnN3W21n9x/D/bjqs9s/OOS9380T3ip+0x8lgOE3LURnQ3sRxVImg4VbDFyMt4WtgUmVPu7m4oEd33ejcr0dEL8H+5Ip4TanD5vjyQDJ7sHHZdwzzzO8Bbo7zB3/tyDUmMfY=;ftlEvFMfXvl2+IsqgafmuQ=="
 ---
 

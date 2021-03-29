@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration working to develop a system for people to prove they've been vaccinated"
+    excerpt: "President Joe Biden has predicted that life in the US could be back to normal by Christmas, and as more Americans are vaccinated each day, these vaccine credentials -- commonly called \"vaccine passports\" -- could be key to a return to normalcy by the end ..."
+    publishedDateTime: 2021-03-28T19:07:00Z
+    webUrl: "https://www.cnn.com/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 124
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222182145-05-vaccine-passports-commonpass-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats push Biden to take on Pharma to boost global vaccine supplies"
     excerpt: "President Joe Biden is facing growing pressure from Democrats to ensure that billions of people in poor countries have access to Covid-19 vaccines as the United States steps up its production and distribution of the shots. Biden has taken some first steps ..."
     publishedDateTime: 2021-03-21T07:00:00Z

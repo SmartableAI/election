@@ -78,6 +78,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden administration working to develop a system for people to prove they've been vaccinated"
+    excerpt: "President Joe Biden has predicted that life in the US could be back to normal by Christmas, and as more Americans are vaccinated each day, these vaccine credentials -- commonly called \"vaccine passports\" -- could be key to a return to normalcy by the end ..."
+    publishedDateTime: 2021-03-28T19:07:00Z
+    webUrl: "https://www.cnn.com/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 124
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222182145-05-vaccine-passports-commonpass-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "UWs1ATAp3O36jwV6s5HybBIf93zrYDRHT9uYzpMpFPWDhGJli5FiSdPKVNu+upSN6fPh+D4xVdn/1DwumT0ytNXV57eOxra1oEsPvdT8eqPJ5XfxREX1LnnFg6TcXs4EjIpQQMHzlqYZxXvkVUtGCwYy+dezRkDghqh10rJdZHwWM1LGAtdH8VA1dW94q0r9FeP+EJgaC3fslGkyNwXxxYa2hzMIMO2VWaNWjHlusvKXenEKjHHdwESBRJaOhKDOBJ6FjIY8m07W77YWByGiXoyltTkYyZMPd3W1BV3hIvZObYnUveoLUpevFpyBQFWit8tHFajsGuXl3BKDHckN9hPc9hFJEBemp6fnBMAQMRY5XNnnd1PY2LrsYb8bgEVtWrmi6OxAJTspqUkQJXozgoGJaKg/B2pyRduaUSf1fO7sH31rm3H8nChkFTy0ZCUn/GOjxPce5GKIjf3Twzu7ehUePznnp8zO8ItMyRCmjbtd8LnCWYuQJNBydQ5E0K39vStf4JqgMqUwZUVhOJjJQA==;f9Y4uxZBhV7zt0ThUNUctA=="
 ---

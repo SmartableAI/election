@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/biden-autocracies-versus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-autocracies-versus-democracies/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_11/3457472/210317-joe-biden-jm-1131_c6a0aaa7e4d36bbffbf1bbec303e76e7.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden administration working to develop a system for people to prove they've been vaccinated"
+    excerpt: "President Joe Biden has predicted that life in the US could be back to normal by Christmas, and as more Americans are vaccinated each day, these vaccine credentials -- commonly called \"vaccine passports\" -- could be key to a return to normalcy by the end ..."
+    publishedDateTime: 2021-03-28T19:07:00Z
+    webUrl: "https://www.cnn.com/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 124
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222182145-05-vaccine-passports-commonpass-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Democrats push Biden to take on Pharma to boost global vaccine supplies"
     excerpt: "President Joe Biden is facing growing pressure from Democrats to ensure that billions of people in poor countries have access to Covid-19 vaccines as the United States steps up its production and distribution of the shots. Biden has taken some first steps ..."

@@ -3,8 +3,8 @@ category: news
 title: "‘Saturday Night Live’: Maya Rudolph and Martin Short host Passover Seder as Kamala Harris and Doug Emhoff"
 excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback.It didn’t come until a third of the way through the episode,"
 publishedDateTime: 2021-03-28T15:42:00Z
-originalUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
-webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
+originalUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
 ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
 type: article
@@ -60,6 +60,6 @@ related:
         height: 675
         isCached: true
 
-secured: "+hzYJHdLbfArqj3KHu24SjEvwPTUec7HPonKAMTxCH8bDFKnrluo/x40Lx9SYOrghUbxBg2A2rTf2b9a9kmvs3p4dxejGb9PhrYRFxE+nw4efAxSI5BgmX418Rnv8jb199qQrjlWvY7xwq7J/p+bRASq+L3FSekAEm9AAYBqodSKKY1YEIh29h/w7xkRaz5wSK+3vyWWVHNQMVB08c3Qn9qDTfxuMs4ie6BD5uX1cjVnCY/xihCl3/F9Jpaxo4BdhkmL02FWMjNjjvp3FfHua0K+fi7Rp3TazH7zAIQce4alQCilZXL6PZTU2TiwfADLonAoVaYlgFRShfbMTpcMNkesI31gTyP85Z1/sy9x0tbHD/NAGTsnHaU2Za3yLYDQ1QVq1v9kcZVALf8gU03qNRSb7nnRXugBxkBB0YnO5QvTYQ0Tdq9Da6MWF6xonVpYtiSrxMq7lvLHYCx+WWPO/mM0BAXmXpthCptKaYkp+UuLVKSZ6n1Bfh2uQdrakT0WN7bOjqhHXGHX4VG3qyuMfA==;rqLcVjuIYBG5e/l1FRgoOQ=="
+secured: "kakRM5gwcCwkrV/7/5gsDjKFsbiF+aC6qWz981WfzyePbAvAQ2mfXXjXAnfCY7t3Srw+JdJb0QNi/qU4pNMEApPC07ooObgaPuCkC55xGOa8JVffXQb97UlVUVwWFLF9sJRXJ51ZUcqI53wI12xfKG3fMC5rYM7zllwxAkF8OXRx4+bltTXlg2y19k6tZ3iEi+fhUXU9jfSr2UBVsxGTMhR0cb3Ka3+ZYcGitfTpYXkB1YosfQi0kNkUtCKl+w73IbWA5abanK9OsB1SXtm/UHDWnmFbCDPACpcixVV8jMh1DUPJCfOL0zy09ImfaxTW3Tun7Ifhzm/DEMGYAe+ER3Dc6Al2G977+K5Hr11wZDA=;XwS2pdNC2tisPPzLQ8+TEQ=="
 ---
 

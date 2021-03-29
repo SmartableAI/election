@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afg
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f8bdec3-c76d-497c-9b83-f41264d7457d/f94509fc-686f-4795-9528-498cf5c2dd43/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "For Biden, an Anguishing Choice on Afghanistan"
+    excerpt: "Afghanistan soon collapsed into a civil war that pitted rival warlords against one another, until the Taliban seized power, in 1996, imposed strict Islamic law, and welcomed other jihadis such as Al Qaeda."
+    publishedDateTime: 2021-03-26T13:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/26/for_biden_an_anguishing_choice_on_afghanistan_539011.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/535643_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "vKIGIEI8y3OioXxt5wdb8aTX5tYBt15TO6FqYrPFSR5sJ0xon9TZZyvoMpYQ8cSzFdG8hFV/LM+x+kxxY2EavKgZ3O60xUBPaggXSvARjoxjos5xl0rXJQG/DPGy9ZroAM2c63OpZEcX2wr7fzD38qu13sccpOnjJ4SStAPU/1/zjWWWyA0dlV7NVD8zO9Mj2lVTWXVhPkZdKbrkb4nhbmZvRNK8toeaRzxQWdG89sUjPwE6Xve1tPS+h8zGIfHJc/6U+S8wlaojw95Hb2LJmupqEkFRiHRc+END2dYZB1rpKahayWjE7wgJ427fK+sffSfEQC3lr1E4qcDxCZ1oVq2kF6DEAwUYn9T9x31BDQc=;6REf7Rdps2awrwVhEIm3UA=="

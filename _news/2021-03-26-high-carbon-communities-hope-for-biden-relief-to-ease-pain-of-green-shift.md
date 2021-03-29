@@ -1859,6 +1859,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "The challenge facing Joe Biden at the border"
+    excerpt: "Joe Biden has promised to address the migrant surge at the US-Mexico border. Ros Atkins takes an in-depth look at the problem, and whether the president can match his words with actions. The challenge facing Joe Biden at the border."
+    publishedDateTime: 2021-03-27T00:12:00Z
+    webUrl: "https://www.bbc.com/news/av/world-56540621"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09bzmbr.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."
     publishedDateTime: 2021-03-24T16:46:00Z
@@ -1997,6 +2011,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/gettyimages-1309120686.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Voter Suppression in Joe Biden’s Delaware"
+    excerpt: "A wrinkle in the election rules debate is that Democratic states often have more restrictive voting rules than Republican states accused of voter suppression."
+    publishedDateTime: 2021-03-26T21:02:00Z
+    webUrl: "https://www.nationalreview.com/corner/voter-suppression-in-joe-bidens-delaware/"
+    ampWebUrl: "https://www.nationalreview.com/corner/voter-suppression-in-joe-bidens-delaware/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/voter-suppression-in-joe-bidens-delaware/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/11/Vote-here.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Biden not ruling out chance US stays longer in Afghanistan"
     excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."

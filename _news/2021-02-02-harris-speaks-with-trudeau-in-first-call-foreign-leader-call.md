@@ -133,6 +133,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Vice President Harris, Biden's next move, Boulder update: 5 things to know Friday"
+    excerpt: "It's strong, and don't let any circumstance diminish that or take your power from you. You are powerful.\" President Joe Biden is planning to introduce his administration's next major legislative effort in Pittsburgh on Friday, alluding to it during his ..."
+    publishedDateTime: 2021-03-26T10:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/03/26/vice-president-kamala-harris-bidens-next-move-5-things-know-friday/4766565001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4766565001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4766565001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 145
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/ab9c7024-c5f7-4660-a39b-5d3eebc4cc21-VPCKAMALAHARRISSWORN_IN_DESK_THUMB.00_01_26_12.Still007.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UPDATE 1-Biden names Harris to lead efforts with Mexico to stem flow of immigrants"
     excerpt: "President Joe Biden on Wednesday named Vice President Kamala Harris to lead U.S. efforts with Mexico and Central America's Northern Triangle countries to try to stem the flow of immigration to the United States."
     publishedDateTime: 2021-03-24T17:51:00Z
