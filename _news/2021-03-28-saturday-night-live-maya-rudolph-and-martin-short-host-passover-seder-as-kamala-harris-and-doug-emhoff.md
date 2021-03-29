@@ -2,26 +2,26 @@
 category: news
 title: "‘Saturday Night Live’: Maya Rudolph and Martin Short host Passover Seder as Kamala Harris and Doug Emhoff"
 excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback.It didn’t come until a third of the way through the episode,"
-publishedDateTime: 2021-03-28T12:42:00Z
-originalUrl: "https://www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
-webUrl: "https://www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
-ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+publishedDateTime: 2021-03-28T15:42:00Z
+originalUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.dailypress.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
+  - url: "https://www.baltimoresun.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
     width: 1200
     height: 613
     isCached: true
@@ -60,6 +60,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XJQHy14FKniMQhxB22gL78laKIXDI7C8y17e9V0dR5QNY/UVBgiDTEBXdVFS/NZIGtJMNRUkOUFO3lEKEtaV6EaqimpVj92GGkAcJh3ZU6HPNJWoAUXb6c7BerCrVwWDezOAvC0FicY41TsSGY/8pmm+0KlGwqE81T9R9o+zqZUlhMrXpsE3LTYThlaX+g2bkoKMMokFXFZTwHiSzrkRE4cevoMQhprM/i2ocdjD0glD9WGZrxGqHtgzm3Uy2Z5N6OIP1nS0i1iUwMJjEDyPwRQJHiQRJaZQU7UhxJIhlz0I5HGoGzdR4ZAxDpHevtiTyU18qpTnKO/lW9oCKO5d1GqE+M21fSrz7IuNyCRmQHU=;eTQ/508YYNkiYt0GNzskGQ=="
+secured: "+shiXQUlwsqrYdBWWVlcUpQauL3T0BsisVhRfcfUpBGlgUxb4O4hJq4geIp7zDkhAVfRre6uvrm8nutEg6vrNjQPiDgBVO1afeF1d/OMlaVuvIA9SpQre6Ig74rYtWuGd2WJJZBFisDh+gL52jKsvywHGy8eYZdBI2XVQqzFOr4UP8GPaWs2qTUCo0pFUxaYmghOWWZtonI70g0vsaG+D3vbFfckDj52ZBQ+YYrDDTlbYQalb/tT5ZlpO6rcqBph7qL4eLgemqEHcLnOTMCPA+nmm/Gd7A2EMfLvUftfO5eCxOnVPAVxhjl4+ZyFEPyumK0Zeh2lBunlU6Obh1rO0qLvYoLStDa0rwGQpygOVoc=;Y3n0jh8CNoni4JHehTBivA=="
 ---
 

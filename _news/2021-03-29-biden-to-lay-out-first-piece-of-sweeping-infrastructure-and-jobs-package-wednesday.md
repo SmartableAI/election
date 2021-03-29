@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Biden's plan to halt evictions does not address 'structural problems,' housing advocates say"
-excerpt: "It will be many months for assistance to make its way across the country to households who are behind on rent.”"
-publishedDateTime: 2021-01-29T23:24:00Z
-originalUrl: "https://www.nbcnews.com/business/business-news/biden-s-plan-halt-evictions-does-not-address-structural-problems-n1255590"
-webUrl: "https://www.nbcnews.com/business/business-news/biden-s-plan-halt-evictions-does-not-address-structural-problems-n1255590"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255590"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255590"
+title: "Biden to lay out first piece of sweeping infrastructure and jobs package Wednesday "
+excerpt: "President Joe Biden will lay out the first of a sweeping two-pronged infrastructure and jobs proposal Wednesday, with the administration launching its expected months-long effort to pass proposals that will total between $3 trillion and $4 trillion, according to senior administration officials.\n    \n"
+publishedDateTime: 2021-03-29T20:49:11Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2MJfBqWUyQA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2MJfBqWUyQA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/infrastructure-jobs-package-biden/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/infrastructure-jobs-package-biden/index.html"
 type: article
-quality: 124
+quality: 169
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3444061/210121-california-eviction-covid-se-331p_387483efba3bdeeb8213d2cea740bd4f.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210328201915-01-white-house-0328-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -96,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to lay out first piece of sweeping infrastructure and jobs package Wednesday "
-    excerpt: "President Joe Biden will lay out the first of a sweeping two-pronged infrastructure and jobs proposal Wednesday, with the administration launching its expected months-long effort to pass proposals that will total between $3 trillion and $4 trillion, according to senior administration officials.\n    \n"
-    publishedDateTime: 2021-03-29T20:49:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2MJfBqWUyQA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/infrastructure-jobs-package-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/infrastructure-jobs-package-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210328201915-01-white-house-0328-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to sign immigration executive orders and establish task force to reunite separated families"
     excerpt: "President Joe Biden will sign three executive orders Tuesday that take aim at his predecessor's hardline immigration policies and try to rectify the consequences of those policies, including by establishing a task force designed to reunite families separated at the US-Mexico border, according to senior"
     publishedDateTime: 2021-02-02T10:01:01Z
@@ -176,6 +159,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden's plan to halt evictions does not address 'structural problems,' housing advocates say"
+    excerpt: "It will be many months for assistance to make its way across the country to households who are behind on rent.”"
+    publishedDateTime: 2021-01-29T23:24:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/biden-s-plan-halt-evictions-does-not-address-structural-problems-n1255590"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255590"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255590"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3444061/210121-california-eviction-covid-se-331p_387483efba3bdeeb8213d2cea740bd4f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden aims for comprehensive climate approach as he halts new oil and gas leases on federal land"
     excerpt: "(CNN)President Joe Biden signed several executive actions related to the climate crisis on Wednesday, including one directing the secretary of the interior to pause on entering into new oil and ..."
     publishedDateTime: 2021-01-27T11:54:00Z
@@ -193,6 +192,6 @@ related:
         height: 619
         isCached: true
 
-secured: "blrnVDFVCLbpjaT+X7ixmRqnwNALX5SLRnPjd2HGvrrL4PgkAh5GDmROlI3mTdE41UjfXRmhist2zMGHsI8FVLG+mElEDJFOmcEH6Mu6qVWtiX14acNlJdpv5ybmOv5ksBeFuxzZuGk7GAxlJTTXkaNiB2+uV96Jcb/5brjjRaYix/SrUDEnOCUaYm6VN/yagIBQg8t+jw4m7ycgPdIWqFeXjjXU9lNDBP9m7Kuog2sCanbF3M3WH+vmGyeTrrBVkqVM9YbidVYNyq6n/TdYb0Js+6NrqRb1akjum4Qyl5K0A0JN3bf5U5iJ966VjtLpzz9v5KHoNY2reQH7n8TkXa3hSkZmW46e+6sZTWj12kU+USZOnsK+pwetqXqi7EQ/7ASAmVYXSjoEkmym2w2PEI7k9ZXJAm6IUE2oDZtzztor8NAH3sAtuzpm66F1BnCCQZkNpiiMBJEBiN4i0wHhDNS7+0zH0PkAB/oi3X95gDX0dG++IzG3NRCIzX/pUwodRusmViHoz5bUXwdZOYdfgw==;on12mgZgUGNP0Ixza3lOdQ=="
+secured: "E8Lgy34m2r5/70p/q/0dnKsZRRrBD5XofUjThIfMT0CHDGZp0XC7RH3kLSmsHzr/XeVD5A0RPGLu4CoR+eCeQODcEGQEpX1NVXZFcV+hvIG4REu8uNftYOcQWEXcaQj2PVPh0XL7YxELiOUS2N8jpC/R94ZFoZtHgPPjbzpPkUjehHECElxwG4dAtOOYPMZUwyrgLnDm8S77P+p/nSjbvuZUyrLXDd3rhQ53HuGOoM44kugyFHBrLn+pYd06+53l+WWxboKcqK/RXL1pYHmLQnOOQLboU/0Qdz/jtoJdklx3PpjI4Q8k80gBNE47XLfB2xAQAPAJBYsKlmFwbZUsTozrYp6dVmMseWxRor6cSww=;mST89uWZRiPIhpth6jX6mg=="
 ---
 

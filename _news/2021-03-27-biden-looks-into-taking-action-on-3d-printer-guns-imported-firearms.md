@@ -478,9 +478,9 @@ related:
         height: 545
         isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – as it happened"
-    excerpt: "Jeff Zients, the White House coronavirus response coordinator, opened the briefing by noting Joe Biden’s new goal to have administered 200 million vaccine doses by his 100th day in office. Meeting such a goal would mean that more than half of all adult ..."
+    excerpt: "Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Jen Psaki was asked about Joe Biden’s opinion on the comments from Dr Robert Redfield, the former director of the Centers for Disease Control and Prevention. Redfield recently told CNN that he ..."
     publishedDateTime: 2021-03-26T23:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605ded548f08774d1beaacf5"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates?page=with:block-605e03b48f08774d1beaaeb0"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/26/joe-biden-press-conference-covid-coronavirus-vaccine-georgia-voter-supression-live-updates"
     type: article
@@ -699,6 +699,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "President Joe Biden boosts offshore wind energy, wants to power 10 million homes"
+    excerpt: "The Biden administration is moving to sharply increase offshore wind energy along the East Coast, saying Monday it is taking initial steps toward approving a huge wind farm off the New Jersey coast as part of an effort to generate electricity for more than 10 million homes nationwide by 2030."
+    publishedDateTime: 2021-03-29T21:27:00Z
+    webUrl: "https://www.masslive.com/politics/2021/03/president-joe-biden-boosts-offshore-wind-energy-wants-to-power-10-million-homes.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/03/president-joe-biden-boosts-offshore-wind-energy-wants-to-power-10-million-homes.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/03/president-joe-biden-boosts-offshore-wind-energy-wants-to-power-10-million-homes.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GI7LXBEKJZAQTML2RDCA6DNLOY.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President Biden is assembling a $3 trillion package of investments on infrastructure and domestic needs"
     excerpt: "Fresh off passage of the COVID-19 relief bill, President Joe Biden is assembling the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs."
     publishedDateTime: 2021-03-22T20:28:00Z
@@ -800,16 +816,16 @@ related:
         height: 439
         isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks on the State of the Covid-19 Vaccine"
-    excerpt: "U.S. President Joe Biden arrives to deliver remarks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Ste"
+    excerpt: "U.S. Vice President Kamala Harris, left, listens as U.S. President Joe Biden speaks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29,"
     publishedDateTime: 2021-03-29T19:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0ac7fa1a891356fa5e64ddc8dabd9fe8/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0686771344c278cf7488160ae8dea9da/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0ac7fa1a891356fa5e64ddc8dabd9fe8/BIDEN-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0686771344c278cf7488160ae8dea9da/BIDEN-VACCINE.jpg"
         width: 650
         height: 433
         isCached: true

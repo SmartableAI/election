@@ -1,33 +1,29 @@
 ---
 category: news
-title: "For media, Biden news conference notable for what’s missing"
-excerpt: "Joe Biden’s first presidential news conference was notable for what was missing now that Donald Trump is gone: no contentious exchanges with reporters, no Fox News and no questions about COVID-19"
-publishedDateTime: 2021-03-25T20:47:00Z
-originalUrl: "https://www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html"
-webUrl: "https://www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html"
-ampWebUrl: "https://www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+title: "President Joe Biden boosts offshore wind energy, wants to power 10 million homes"
+excerpt: "The Biden administration is moving to sharply increase offshore wind energy along the East Coast, saying Monday it is taking initial steps toward approving a huge wind farm off the New Jersey coast as part of an effort to generate electricity for more than 10 million homes nationwide by 2030."
+publishedDateTime: 2021-03-29T21:27:00Z
+originalUrl: "https://www.masslive.com/politics/2021/03/president-joe-biden-boosts-offshore-wind-energy-wants-to-power-10-million-homes.html"
+webUrl: "https://www.masslive.com/politics/2021/03/president-joe-biden-boosts-offshore-wind-energy-wants-to-power-10-million-homes.html"
+ampWebUrl: "https://www.masslive.com/politics/2021/03/president-joe-biden-boosts-offshore-wind-energy-wants-to-power-10-million-homes.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/03/president-joe-biden-boosts-offshore-wind-energy-wants-to-power-10-million-homes.html?outputType=amp"
 type: article
-quality: 125
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GI7LXBEKJZAQTML2RDCA6DNLOY.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -286,6 +282,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "For media, Biden news conference notable for what’s missing"
+    excerpt: "Joe Biden’s first presidential news conference was notable for what was missing now that Donald Trump is gone: no contentious exchanges with reporters, no Fox News and no questions about COVID-19"
+    publishedDateTime: 2021-03-25T20:47:00Z
+    webUrl: "https://www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/for-media-biden-news-conference-notable-for-whats-missing/2021/03/25/4e6d6784-8dab-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "For media, Biden news conference notable for what’s missing"
     excerpt: "Joe Biden’s first presidential news conference was notable for what was missing now that Donald Trump is gone: no contentious exchanges with reporters, no Fox News and no questions about COVID-19"
@@ -699,22 +711,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "President Joe Biden boosts offshore wind energy, wants to power 10 million homes"
-    excerpt: "The Biden administration is moving to sharply increase offshore wind energy along the East Coast, saying Monday it is taking initial steps toward approving a huge wind farm off the New Jersey coast as part of an effort to generate electricity for more than 10 million homes nationwide by 2030."
-    publishedDateTime: 2021-03-29T21:27:00Z
-    webUrl: "https://www.masslive.com/politics/2021/03/president-joe-biden-boosts-offshore-wind-energy-wants-to-power-10-million-homes.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/03/president-joe-biden-boosts-offshore-wind-energy-wants-to-power-10-million-homes.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/03/president-joe-biden-boosts-offshore-wind-energy-wants-to-power-10-million-homes.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 70
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GI7LXBEKJZAQTML2RDCA6DNLOY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "President Biden is assembling a $3 trillion package of investments on infrastructure and domestic needs"
     excerpt: "Fresh off passage of the COVID-19 relief bill, President Joe Biden is assembling the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs."
     publishedDateTime: 2021-03-22T20:28:00Z
@@ -844,6 +840,6 @@ related:
         height: 604
         isCached: true
 
-secured: "64lqM8GDOdCiXuLdK1x0eD24b2V6auDL2V8GNcJjjWLNmY3qhzBqyATjbM6WsbYl18DFVV+xQ51UbMRE8FkouLa5223YNBbY0jEit6MR7rPxdbFdvsHjncy0//7UPngM6ED+lKQ7ar6NNUnnTv8DboqM9oClYnMuRt4pOBkahgJpSjktnS5doHfPk9QgwZt/puorIXz9Ydtyv8BtszvGGYqPxSLKjATYKGpykHh+aynB6+9jJS6ObTTX8/Zv/xK116mUSTgIk8HWirL8SVHMYi2TnubczZH/kcnDZfmGWC/vq3nLGUNNA97q+88fqRY1mXJ1b3VAxxuuPBHFpsmQcynVfQPPGMSv8J+igxYb0cY=;bxpsURUd9l4AK2sEDo2sbQ=="
+secured: "qbIQthJ9NF0sjeOcVRwoeG80oKsXqBWLiUqPi3LklxeBHIum/ljNjZUm9suCSHTkb0bnCb5ZaBNk231MNNbmMeS3k1V/WIvBAjFXk1KVJcV/zT3id2k/B6gh0eH6f7ErQWqJh3OWTMzGXWwdRzx6/WlftsYluIzlekBzzY8XcaVOAAdv/G3z3BNrxRC3cPYJyCkbaQG8Fi/ZRrrFfPKA1eqv9vg6fcYDFkoiWx/C82JUxHb30XeLAehx4lSMyOn6m/H7b8ubdf145u4lqk3Ibffhb60capbUVtVxV/00jO1GJNSxNXMSr21PdVXxh3GafPucgo3Y5iM2ZZdj/ca/PX0pBjsytmS28Qq5XAjOCIY=;BjVb1SMa1D9Qx3EH2MqC9A=="
 ---
 

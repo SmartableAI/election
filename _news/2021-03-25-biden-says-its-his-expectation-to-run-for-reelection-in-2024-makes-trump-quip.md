@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
 type: article
 quality: 200
-heat: 960
+heat: 980
 published: true
 
 provider:
@@ -634,6 +634,20 @@ related:
       - url: "https://assets.realclear.com/images/51/514557.jpg"
         width: 1098
         height: 822
+        isCached: true
+  - title: "There's Zero Chance Joe Biden Will Run in 2024"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-03-29T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/29/theres_zero_chance_joe_biden_will_run_in_2024_539251.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539017_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "r5z2gzIpqXmoNQRxdkkUtsnuEq65liA5t3IuPcgKmj96PqNtHN6nJGkcThTepDqeW3jxAbDBknhDK1LLvCDX8fyQ+wMJp4snA+NeBdd84DVsmqFfY7cCs65asj8cukI/JNBRM5JToTdPdlcJI/4yMfZ7Xr9f/SC7Jd4VvJZ0V2kBiyXWgVyv/o+zSKQ0q4Vufa6lZwRzYwNfUDpBTtPbA/5rR7qfeiW8q+y6daPOK83U2J8GdcmjfcNagqqPP3qplRnIUuG0O5eKOqiH/1PiXFwNv6aMslC2zE23IJCA1qH/jhG1ftIRQJt8Xl3DOCEYCNOnlEskHVBj67yFsLuLUdFe+Cz1wAcKhyrXnx1yzKM=;6mucGLWM2+1qTnrOwgAKaA=="

@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Trump says migrants will be ‘flowing in by the millions’ because of Biden"
-excerpt: "Trump attributed the surge to Biden’s policies, including his termination last month of the “Remain in Mexico” policy that required Central Americans to await US asylum decisions"
-publishedDateTime: 2021-03-22T15:48:00Z
-originalUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/"
-webUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/"
-ampWebUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/amp/"
+title: "There's Zero Chance Joe Biden Will Run in 2024"
+excerpt: "RealClearPolitics"
+publishedDateTime: 2021-03-29T11:35:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/03/29/theres_zero_chance_joe_biden_will_run_in_2024_539251.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/03/29/theres_zero_chance_joe_biden_will_run_in_2024_539251.html#!"
 type: article
-quality: 149
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Migrant-Children-trump-biden.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://assets.realclear.com/images/53/539017_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -428,6 +426,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says migrants will be ‘flowing in by the millions’ because of Biden"
+    excerpt: "Trump attributed the surge to Biden’s policies, including his termination last month of the “Remain in Mexico” policy that required Central Americans to await US asylum decisions"
+    publishedDateTime: 2021-03-22T15:48:00Z
+    webUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Migrant-Children-trump-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CNN, MSNBC erupted over Trump's ramp walk -- but virtually ignore Biden's staircase stumble"
     excerpt: "After sounding the alarm over President Trump's use of a ramp at the U.S. Military Academy during the 2020 presidential election, both CNN and MSNBC on Friday virtually ignored President Biden's intense fall while climbing the stairs onto Air Force One."
     publishedDateTime: 2021-03-20T06:37:00Z
@@ -632,21 +646,7 @@ related:
         width: 1098
         height: 822
         isCached: true
-  - title: "There's Zero Chance Joe Biden Will Run in 2024"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-03-29T11:35:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/29/theres_zero_chance_joe_biden_will_run_in_2024_539251.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539017_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "8PXYxjwYaLWVB/6j1KYHWxAQdJrdg3XZ797VsUIzBegHmn8/UKIUdNT2y7mw+bsfOtngDzZnMCK/pxZ1A2i8NV0BGW0pPLpS6BGjXnvVzeLPkbrYmvCc+3SZE557pdIyQCSgAqmbXdlMA9QYvtlf3b4JnAWS9qtM5lrMgTisAub9INLM+xc23NHqPbJiwDIFz1Ts/6N93jBYT+3qeW4HdJvkqZJUf/JSv9qr4Vtrzg4u0EzaA4W9JjGaOjANtwzTTBMxmHH4Nlra60bm8lHs7hZU3Ktypu+x3HiPfN3tQq/M9KfNNTbnhxWW48ruylZb9SMLjw6NNh48Q5MVZbrcdcTzLRrUgCSAy0f95hB5otg=;BcO3cHdatBokl1xWIykBFw=="
+secured: "zthV+Tyzfpu9nZEHfdzJHcKp1EH+ZBLe7hn8mcxMAKV56zdjzXH7ytdJYEg53wASam4+QOKoWKSUjjXEoNK6VjQDOENJk4AKR43BZweGDu+Gz67m5jbjyZhhVTC6Fnt/xxaIUTJLY3IDtLNq7l63fnrCXDAJA37/+nVzZldEt7WFirEEcGDEQ2V6y4gqPJdCNNtv7NppEKsNvy9M2rtql+NAkr+3zq0WuKRiJGuaNdcrEGsT5S+aE2eRNrxeh6hjtQCmqu9pHp51AVxM1dqxBNo/CKX1VQffFRHWSR1Ux2ZWnS9ap5U+z7JpnCZznnEp5k3fA8t3ceKd7tt628UxmZDxAFEsVihActTroTioMUA=;skIQ9djvn2XJNu5fT7P4HA=="
 ---
 
