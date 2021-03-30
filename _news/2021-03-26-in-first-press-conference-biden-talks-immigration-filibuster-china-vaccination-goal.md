@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6984142002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/7d267c42fe0ca5906d541d0f55a58fc671e63bfa/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9bc03ce464544f0e6f608fe824ad872"
         width: 600
         height: 360
+        isCached: true
+  - title: "President Joe Biden and First Lady Visit the Vietnam War Memorial"
+    excerpt: "A staff member walks Major, the dog of U.S. President Joe Biden and First Lady Dr. Jill Biden, on the South Lawn of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI Sign up for our daily newsletter"
+    publishedDateTime: 2021-03-29T22:14:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3c79c99a189edd5f6ae54ec83fb89aa4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3c79c99a189edd5f6ae54ec83fb89aa4/BIDEN-WAR-MEMORIAL.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Boulder Congressman Joe Neguse leads over 60 Lawmakers in calling for Biden Administration to ban importation of Military-Style Assault Weapons"
     excerpt: "Colorado Congressman Joe Neguse and Illinois Congresswoman Robin Kelly led a letter signed by over 60 lawmakers to President Joe Biden, calling for him to issue an executive order to ban"

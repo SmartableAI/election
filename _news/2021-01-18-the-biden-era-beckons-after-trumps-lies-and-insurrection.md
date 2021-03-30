@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 4050
+heat: 4070
 published: true
 
 provider:
@@ -2124,6 +2124,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_12/3303741/200410-freeway-los-angeles-mn-0930_74f29d2beb16ea1a64a395f0a70dd111.jpg"
         width: 2500
         height: 1664
+        isCached: true
+  - title: "Biden task force to probe science manipulation under Trump"
+    excerpt: "WASHINGTON — A new White House task force will examine instances where the Trump administration may have distorted or suppressed science in critical government decisions, with an eye toward creating fail-safes to prevent it from happening again, the ..."
+    publishedDateTime: 2021-03-29T20:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-task-force-probe-science-manipulation-under-trump-n1262403"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262403"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262403"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_13/3460598/210329-white-house-ew-414p_e910d5408bfade8c817add8c460104d0.jpg"
+        width: 2500
+        height: 1678
         isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."

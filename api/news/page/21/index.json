@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-22-where-is-everyone-inside-trumps-dc-hotel-post-presidency.md",
+      "title": "'Where is everyone?': Inside Trump's DC hotel post-presidency",
+      "excerpt": "A sprawling lobby and bar with only a handful of people. Confused guests asking where everybody went. Elegant, but empty hallways. These are the scenes CNN observed inside the Trump International Hotel in Washington, DC, this month as the once-humming destination confronts a new reality without its namesake",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5KpwAVf_qk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5KpwAVf_qk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200415152236-trump-hotel-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/22/politics/trump-washington-hotel-covid-19-business/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/trump-washington-hotel-covid-19-business/index.html",
+      "publishedDateTime": "2021-02-22T15:52:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-trump-offered-kim-jong-un-a-ride-home-on-air-force-one-following-vietnam-summit-source-says.md",
       "title": "Trump offered Kim Jong Un a ride home on Air Force One following Vietnam summit, source says",
       "excerpt": "Then-President Donald Trump in 2019 offered North Korean leader Kim Jong Un a ride home on Air Force One following their Vietnam summit, a former senior administration official who was on the trip confirmed to CNN.\n    \n",
@@ -1304,58 +1360,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-trump-to-give-first-big-speech-since-presidency-at-conservative-conference-in-florida.md",
-      "title": "Trump to Give First Big Speech Since Presidency at Conservative Conference in Florida",
-      "excerpt": "The former president will make his first major public appearance at the Conservative Political Action Conference (CPAC) in Orlando, Florida, on Sunday, February 28.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785",
-      "originalUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1739496/donald-trump.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785?amp=1",
-      "publishedDateTime": "2021-02-20T14:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

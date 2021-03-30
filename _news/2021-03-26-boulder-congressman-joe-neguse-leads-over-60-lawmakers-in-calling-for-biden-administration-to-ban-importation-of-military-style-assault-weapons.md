@@ -59,6 +59,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "President Joe Biden and First Lady Visit the Vietnam War Memorial"
+    excerpt: "A staff member walks Major, the dog of U.S. President Joe Biden and First Lady Dr. Jill Biden, on the South Lawn of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI Sign up for our daily newsletter"
+    publishedDateTime: 2021-03-29T22:14:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3c79c99a189edd5f6ae54ec83fb89aa4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3c79c99a189edd5f6ae54ec83fb89aa4/BIDEN-WAR-MEMORIAL.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "KUtyKJ1pzIKbTd0RyAohVLhpNPnCHHq5v9xTGdNNNLEkHqJNsVaoozmAiD00VktOr93hP+TkfUSuud3w6G8BFWoDAIXqVeqC5kFYudRvK1CMag+/q97ZtSB45xxz3rVbI7IDnDlrJaqoQpAZ+cTV0Ccw9bxvwhRIZdWVlrQqI0R2o2E42lTzmMnA/MFT33uKXryAUoBc2VbTV2g8+YCSGCIuUbXe/hoKRp/B4P6pHs3foZz1LGU6g9YGmoBVPLZTEnZsRh7tTtz0hE0qJFz14Us5ceWHvS6wf2fcHDF/Sm8/JGO/ndvw7SFcZsx6C90XGLvRSc6PoAH2qyfIXi2mS07YssnVBcNQqbp1Iz/W0bE=;PvNqqFqmTUa5WQR6QEwvcw=="
 ---

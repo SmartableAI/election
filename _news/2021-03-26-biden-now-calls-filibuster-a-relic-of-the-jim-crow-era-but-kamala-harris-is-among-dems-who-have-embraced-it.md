@@ -96,6 +96,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris will play 'diplomatic' role in migration crisis, White House says"
+    excerpt: "Vice President Kamala Harris will play a \"diplomatic\" role in addressing the migrant surge at the U.S. southern border, White House officials said Monday."
+    publishedDateTime: 2021-03-29T23:31:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/diroO699Xds/kamala-harris-border-migration-crisis-diplomatic-role"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris yet to hold press briefing despite key role in addressing border crisis"
+    excerpt: "Vice President Kamala Harris still hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis."
+    publishedDateTime: 2021-03-29T22:19:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sBJlO8A8RiM/kamala-harris-immigration-crisis-border-press-briefing"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immigration-crisis-border-press-briefing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immigration-crisis-border-press-briefing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c2f9c69-23fa-4f50-aa77-aae068bf1b33/8310c11f-201b-4b53-b93e-d35d649bb177/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden admin ignored warning signs that border could spiral into crisis"
     excerpt: "The Biden administration ignored warning signs about an impending crisis at the U.S. southern border."
     publishedDateTime: 2021-03-22T18:02:17Z

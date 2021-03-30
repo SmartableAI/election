@@ -59,7 +59,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Haven pastor says clergy, others should have been at Kamala Harris appearance"
+    excerpt: "The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association, said Monday it was inappropriate for him and other officials not to have been invited to Vice President Kamala Harris’ recent appearance at the Boys & Girls Club of New Haven,"
+    publishedDateTime: 2021-03-29T22:38:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/New-Haven-pastor-says-clergy-others-should-have-16062047.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 50
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/26/15/19489630/32/rawImage.jpg"
+        width: 2048
+        height: 1585
+        isCached: true
 
-secured: "+shiXQUlwsqrYdBWWVlcUpQauL3T0BsisVhRfcfUpBGlgUxb4O4hJq4geIp7zDkhAVfRre6uvrm8nutEg6vrNjQPiDgBVO1afeF1d/OMlaVuvIA9SpQre6Ig74rYtWuGd2WJJZBFisDh+gL52jKsvywHGy8eYZdBI2XVQqzFOr4UP8GPaWs2qTUCo0pFUxaYmghOWWZtonI70g0vsaG+D3vbFfckDj52ZBQ+YYrDDTlbYQalb/tT5ZlpO6rcqBph7qL4eLgemqEHcLnOTMCPA+nmm/Gd7A2EMfLvUftfO5eCxOnVPAVxhjl4+ZyFEPyumK0Zeh2lBunlU6Obh1rO0qLvYoLStDa0rwGQpygOVoc=;Y3n0jh8CNoni4JHehTBivA=="
+secured: "7Kf+Aic/yV4o1rfuqZffnK2gKVUzayyPtWWgquDiOqFlvbPktQQpwh7YkplNGH9CqzTErxnHsFd1JWKxPaI8SSDS5UJCPBWiEbsOuNdxlLcmmIbBIvg/SnmOilFy/ij16vxmTVdkCxignm2DAk9BvzsVd1s/7qumN6NYHCBoILqYUmYOwAA+gcrz9LsU7g0zBxl4jJCja4rOlUVg9mwEsHNw9dCTi+iGh5IQGrbIUGIx8ttk2i8tC9BxBlHFI2lLsu/PfrFWmdCw9KKfqmZKcLflSj11CMs4aEgjIt5IWWE1stEDWnlEvJTP9lr020f2b3hvMx3+ec8jXNKcfUOD0pqwaatOpUOsnS3xTkbzAwmbJ/fM1fqpzZSbxRGZ9qaKmYjnOAuSTxnqC/vlFr/VuOmK3B6CJ+B69IvmtIXp7+lfDHzGq4P6dw0F3gMY7Ps8ZZMH4Z8DeBf/Q0AJrXxpZ5uRqWC336i2y/+0rlUobofkr641ujuQ1SUVOwtLNauhKM/mHdYsoH8pS3pM9l1JMA==;XPW45qeV9zrnHdS6k7Jy7g=="
 ---
 

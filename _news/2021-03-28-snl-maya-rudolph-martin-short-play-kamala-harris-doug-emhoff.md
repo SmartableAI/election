@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-ni
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.baltimoresun.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
         width: 1200
         height: 613
+        isCached: true
+  - title: "New Haven pastor says clergy, others should have been at Kamala Harris appearance"
+    excerpt: "The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association, said Monday it was inappropriate for him and other officials not to have been invited to Vice President Kamala Harris’ recent appearance at the Boys & Girls Club of New Haven,"
+    publishedDateTime: 2021-03-29T22:38:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/New-Haven-pastor-says-clergy-others-should-have-16062047.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 50
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/26/15/19489630/32/rawImage.jpg"
+        width: 2048
+        height: 1585
         isCached: true
 
 secured: "PnC+QlULtFN+S/TEv23J3wG+ITyI2vps/BM/AtVF32O7pjf9EkIgQ5ijhMU/O+CxKKYEpDRia9A69OKuLF1GYhnOyfm+6rjZwe85FaXDBbwh3PkndX5gh9zVeRxTb6/NeXPNeDtKxKs4Wct5FDVUEuNMRTEojtxvPGjJmDocmvKAtTs5jUroeQ5iY9qGvxhIS2FYmql65O5ytzUdxNHE14wMDCDmXlLmmupvQ4M53vl7GGKNZ3ZHxsnhXWRBfG/eF9ZiV6ZElmp6X3z/IHmUJ9BmqcMYATXvrGZTQs7ohZs6twytWqWtewBnZHU6y09Z2mXTbtJqot74xkuRGnrISIqJYQ7riPUSoJSC+GDeLJOF3iqg7/ze8gbV16olRyAdB38Fh3m0bbEnFvsClslVSZIHpEku/xG1bsCqNRrRSr8mRetCCLVC/Qe0N0U3JYxhHO2AMz+gkQvTwcgLbFhVdnzeRmzmpuQmDPRylTSeVZQR12cPd954uuJc63KXoQO0WVtuqR42lpmbG95/fbyelQ==;AZ2bmv80kOEp4KivZdcBpg=="

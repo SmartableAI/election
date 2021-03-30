@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Buttigieg says no gas or mileage tax in Biden's infrastructure plan"
+    excerpt: "Transportation Secretary Pete Buttigieg said Monday that neither a gas tax nor a mileage tax would be part of President Joe Biden's sweeping infrastructure plan to be detailed on Wednesday.\n    \n"
+    publishedDateTime: 2021-03-29T22:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JiEMJuGc5Fk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/buttigieg-no-gas-tax-mileage-tax-biden-infrastructure-plan-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/buttigieg-no-gas-tax-mileage-tax-biden-infrastructure-plan-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222162224-pete-buttigieg-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden made stimulus look easy. Selling tax hikes for infrastructure will be harder "
     excerpt: "President Joe Biden's second big legislative push will be harder than his first for multiple reasons, most conspicuously this one: It will include tax increases.\n    \n"
     publishedDateTime: 2021-03-28T12:28:02Z

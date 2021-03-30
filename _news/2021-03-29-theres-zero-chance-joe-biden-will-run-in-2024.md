@@ -234,6 +234,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden task force to review times Trump administration 'eschewed' science in favor of politics"
+    excerpt: "The Biden administration revealed on Monday that it will carry-out an interagency review of scientific policies in place across the federal government, including some implemented by President Donald Trump’s administration that “eschewed scientific integrity.”"
+    publishedDateTime: 2021-03-29T23:44:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k0k-Y_yHmCA/wh-task-force-review-trump-administration-science"
+    ampWebUrl: "https://www.foxnews.com/politics/wh-task-force-review-trump-administration-science.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-task-force-review-trump-administration-science.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a96302ce-c1eb-4480-9f65-64d6b2e57c25/d938cd6a-f738-4a93-9982-96991644ddf3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's border 'cover-up' needs to be investigated by Congress, says former Trump DHS official"
     excerpt: "Former Assistant DHS Secretary for Public Affairs under Trump, Alexei Woltornist, called on Congress Tuesday to investigate the Biden administration's border crisis 'cover-up.' "
     publishedDateTime: 2021-03-23T13:11:41Z
@@ -647,6 +663,6 @@ related:
         height: 822
         isCached: true
 
-secured: "zthV+Tyzfpu9nZEHfdzJHcKp1EH+ZBLe7hn8mcxMAKV56zdjzXH7ytdJYEg53wASam4+QOKoWKSUjjXEoNK6VjQDOENJk4AKR43BZweGDu+Gz67m5jbjyZhhVTC6Fnt/xxaIUTJLY3IDtLNq7l63fnrCXDAJA37/+nVzZldEt7WFirEEcGDEQ2V6y4gqPJdCNNtv7NppEKsNvy9M2rtql+NAkr+3zq0WuKRiJGuaNdcrEGsT5S+aE2eRNrxeh6hjtQCmqu9pHp51AVxM1dqxBNo/CKX1VQffFRHWSR1Ux2ZWnS9ap5U+z7JpnCZznnEp5k3fA8t3ceKd7tt628UxmZDxAFEsVihActTroTioMUA=;skIQ9djvn2XJNu5fT7P4HA=="
+secured: "oHSqw4tlDpSsVPVLaon+ORl/r/opmrKy6E1QY1lxOKUePVK+IbVcIr9Pkmr17tX/qD9Wbdjzkh0aXfZHVbedwz7SUifuw6lS8/Nz3HYk9LH2LxLXqtMFLigztUmdroi/qho+gnF8WrmnwUMe0+uQMV1NodyjRK2ulTFJWs7hoEoUzY8a+JDeHrPXUfqAdW1ZMMydREcD8JwNvo3iku4/bwBZsoqisEWDUIxWUbAiwu9VfCamGI0Kc7gFQPCvYcZzQYatv7e8nBUR+P0ZUt4pDMLoHnu6DPUZBME0DXggg0ZFsn7Qh2lUdDwDoMpdkmImZKVoXoN/JfBhE2Hkjo5Ty71haFPyZAz/3X0nRQPHtdJSBb/Vdz26wkmPU9ftoYW9fJ2R00fO+qxabFkTjB9l/qp1TflcFuzrhb68lEGhQpY4KLofij6XX1Z+ixMzkUsq8FxGW3ACrwzly12Zc6NtLvZ/diqS8o9xZ3To63DX91pLl3G/C3P76Hnij+sCRJHmX/SRo5RIoyBZvBbrajUvTQ==;vfqHl5qHeQCsv4MZuj6QZQ=="
 ---
 

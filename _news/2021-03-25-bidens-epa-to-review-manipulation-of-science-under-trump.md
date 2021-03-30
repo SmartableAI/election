@@ -2126,6 +2126,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden task force to probe science manipulation under Trump"
+    excerpt: "WASHINGTON — A new White House task force will examine instances where the Trump administration may have distorted or suppressed science in critical government decisions, with an eye toward creating fail-safes to prevent it from happening again, the ..."
+    publishedDateTime: 2021-03-29T20:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-task-force-probe-science-manipulation-under-trump-n1262403"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262403"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262403"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_13/3460598/210329-white-house-ew-414p_e910d5408bfade8c817add8c460104d0.jpg"
+        width: 2500
+        height: 1678
+        isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."
     publishedDateTime: 2021-01-19T03:23:00Z

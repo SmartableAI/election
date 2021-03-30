@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden and First Lady Visit the Vietnam War Memorial"
+    excerpt: "A staff member walks Major, the dog of U.S. President Joe Biden and First Lady Dr. Jill Biden, on the South Lawn of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI Sign up for our daily newsletter"
+    publishedDateTime: 2021-03-29T22:14:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3c79c99a189edd5f6ae54ec83fb89aa4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3c79c99a189edd5f6ae54ec83fb89aa4/BIDEN-WAR-MEMORIAL.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Boulder Congressman Joe Neguse leads over 60 Lawmakers in calling for Biden Administration to ban importation of Military-Style Assault Weapons"
     excerpt: "Colorado Congressman Joe Neguse and Illinois Congresswoman Robin Kelly led a letter signed by over 60 lawmakers to President Joe Biden, calling for him to issue an executive order to ban"
     publishedDateTime: 2021-03-25T22:06:00Z

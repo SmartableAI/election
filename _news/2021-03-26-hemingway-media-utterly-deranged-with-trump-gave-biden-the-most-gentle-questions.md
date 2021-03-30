@@ -234,6 +234,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden task force to review times Trump administration 'eschewed' science in favor of politics"
+    excerpt: "The Biden administration revealed on Monday that it will carry-out an interagency review of scientific policies in place across the federal government, including some implemented by President Donald Trump’s administration that “eschewed scientific integrity.”"
+    publishedDateTime: 2021-03-29T23:44:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k0k-Y_yHmCA/wh-task-force-review-trump-administration-science"
+    ampWebUrl: "https://www.foxnews.com/politics/wh-task-force-review-trump-administration-science.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-task-force-review-trump-administration-science.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a96302ce-c1eb-4480-9f65-64d6b2e57c25/d938cd6a-f738-4a93-9982-96991644ddf3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's border 'cover-up' needs to be investigated by Congress, says former Trump DHS official"
     excerpt: "Former Assistant DHS Secretary for Public Affairs under Trump, Alexei Woltornist, called on Congress Tuesday to investigate the Biden administration's border crisis 'cover-up.' "
     publishedDateTime: 2021-03-23T13:11:41Z

@@ -2142,6 +2142,22 @@ related:
         width: 2500
         height: 1664
         isCached: true
+  - title: "Biden task force to probe science manipulation under Trump"
+    excerpt: "WASHINGTON — A new White House task force will examine instances where the Trump administration may have distorted or suppressed science in critical government decisions, with an eye toward creating fail-safes to prevent it from happening again, the ..."
+    publishedDateTime: 2021-03-29T20:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-task-force-probe-science-manipulation-under-trump-n1262403"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262403"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262403"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_13/3460598/210329-white-house-ew-414p_e910d5408bfade8c817add8c460104d0.jpg"
+        width: 2500
+        height: 1678
+        isCached: true
   - title: "DC attorney general says Trump could possibly be charged by city prosecutors with misdemeanor for role in Capitol insurrection"
     excerpt: "District of Columbia Attorney General Karl Racine warned Sunday that President Donald Trump could possibly be charged by city prosecutors with \"a misdemeanor, a six-month-in-jail maximum,\" amid fallout from the deadly insurrection at the US Capitol earlier this month.\n    \n"
     publishedDateTime: 2021-01-17T19:23:02Z
