@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mo Brooks says he has discussed Senate run with Trump many times"
-    excerpt: "Mo Brooks, who helped lead GOP objections to President Donald Trump’s loss and come under fire for remarks he made preceding the attack on the U.S. Capitol, said Wednesday that he is better known to voters this time as he runs for U."
-    publishedDateTime: 2021-03-25T03:05:00Z
-    webUrl: "https://www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html"
-    ampWebUrl: "https://www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
 
 secured: "881MXcf9ySzEd4ewQbFCROtDMtcVSkHVyxk2zwLqrVB3QFnSXYJudzgGYs1UW/PWzd0Ap/F26joo9F13NZTh9/lGFDvZhfR3R4lMMuFo+nTl8gD6Z1w58ris1ZXTjd45stdyH9c1Pss0QiirXYZb1TBlJ0oYOHGSanEPytI1jYr4QTALb1TFTM1UI2GU4qVthVHG4Te7+OA6+LV5OePWhLSrGzaGnUkcp2bVBDbG6xbWYBIMYsLM5ErKD2KQoqnMkCMS3L60oEzKoFFrb6+Se5nFfkAJzPBhpeySpC3tXuiv6SRWRipihlqbNK6Mu5Cr2mGBa5vnwKPmFy6BFpIGKHU/whINxpw38YfxvvO23dutzVXwT76rZPNfdRjeLWkgXIUMpFFezbcV/kHt4ltkWU/pL2HeI7/sMsEtFBo/OTZie773/YTJkOV55HguzKi+RoYr4bp2wNldZ2tRrdeVtd5NA6xYudqhms7DReTX8swd7wFFJm7LG5r5TcfBjJHlz4Uzu6xivqCFf7Z+zILC3g==;04Yf6m92KZbG1mA+RH6Zig=="
 ---

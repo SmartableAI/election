@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to lay out first piece of sweeping infrastructure and jobs package Wednesday "
-    excerpt: "President Joe Biden will lay out the first of a sweeping two-pronged infrastructure and jobs proposal Wednesday, with the administration launching its expected months-long effort to pass proposals that will total between $3 trillion and $4 trillion, according to senior administration officials.\n    \n"
-    publishedDateTime: 2021-03-29T20:49:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2MJfBqWUyQA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/infrastructure-jobs-package-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/infrastructure-jobs-package-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210328201915-01-white-house-0328-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to sign immigration executive orders and establish task force to reunite separated families"
     excerpt: "President Joe Biden will sign three executive orders Tuesday that take aim at his predecessor's hardline immigration policies and try to rectify the consequences of those policies, including by establishing a task force designed to reunite families separated at the US-Mexico border, according to senior"
     publishedDateTime: 2021-02-02T10:01:01Z

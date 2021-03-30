@@ -607,6 +607,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
+    excerpt: "President to launch next phase of Build Back Better program, while CDC director Rochelle Walensky says she is ‘scared’ of coronavirus trends"
+    publishedDateTime: 2021-03-30T12:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/61be9c4ea47590ba4a25375de48c9334d6cf1f4d/0_198_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=497c53613623a4cc3e08d76fef99cc6f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden calls for national moment of silence for 500,000 U.S. COVID-19 deaths"
     excerpt: "President Joe Biden called on Americans to observe a moment of silence on Monday to commemorate the grim milestone of 500,000 U.S. deaths from COVID-19."
     publishedDateTime: 2021-02-22T21:17:00Z

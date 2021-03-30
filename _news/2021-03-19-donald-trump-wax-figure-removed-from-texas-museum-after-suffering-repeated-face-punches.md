@@ -135,22 +135,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies"
-    excerpt: "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,"
-    publishedDateTime: 2021-03-24T10:29:00Z
-    webUrl: "https://www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160"
-    ampWebUrl: "https://www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trump-was-acquitted-in-his.jpg"
-        width: 1024
-        height: 681
-        isCached: true
 
 secured: "dR14Cgb2XYAHv6wWsG43w4YdVcH3x+IMWfZjCgHvOZUeXVOp3VTuO3r7a39hXu4sK3v5XJXWfdSboNklXFpxrK2dPGiAm0YxHNKuIt3r3f0nshR3sw+uetLoGlBkXg8WZq2lzNHOmPTXCaWXiCmFMZMlvA6ikfG0sSvMIP1rMuZvnDo8y8W/xB1kd/kyy0DLKOYUW4SYxp095VtFUq2yeY73xRONgOST4F45fN2IkO4nhh7BPBQKUADLZTCVT7o3qk03kDoef6RyBslq0KCzgzoqUmO39pg+zui3KRa1nFn+YGSxuP4SGTWMtUdrd4ZlQ790h/dIEiKHVKkaWNpnUQypACTG10I9GiKxKT6kY1pjqW2GExuofScETSpGY4okZaDzC3FOJgmWaPKjTZc3rQz7/VL7rJZdz4HBeV1mlaq0mbPHxJU4FSnQnNwd3IiUPwUxu1oEAnoVZHgFTJita9NAoZTleBhwUcRESIqZ1jRzciRA4+kohLxfhfPOYTyxzl73oVqYLDC2BruNBKzUFQ==;mc+OJRkJxEbxVyw+ioO72A=="
 ---

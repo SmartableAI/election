@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden pleads with states to slow openings as new viral surge builds"
+    excerpt: "How Covid-weary Americans behave now will decide how many are yet to die.\n    \n"
+    publishedDateTime: 2021-03-30T13:57:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uUuFzEiz6zc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/coronavirus-joe-biden-rochelle-walensky-cdc-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/coronavirus-joe-biden-rochelle-walensky-cdc-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden reaches out to some Republicans on Capitol Hill -- but not party leaders"
     excerpt: "Senate GOP Leader Mitch McConnell says he's spoken with President Joe Biden just once since he took office.\n    \n"
     publishedDateTime: 2021-03-24T23:11:30Z
@@ -107,22 +123,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205121011-07-chuck-schumer-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'It's a matter of timing': Biden lays out expansive theory of his own presidency"
-    excerpt: "Joe Biden offered his most expansive explanation yet of his own presidency on Thursday, presenting himself, at least for now, as a problem solver operating above the bitter divides of Washington politics.\n    \n"
-    publishedDateTime: 2021-03-26T10:05:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CEoGEe08BRY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/joe-biden-first-news-conference-filibuster-timeline/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/joe-biden-first-news-conference-filibuster-timeline/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
@@ -189,54 +189,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser"
-    excerpt: "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n"
-    publishedDateTime: 2021-03-24T03:56:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 147
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111654-11-biden-admin-possibilities-duckworth-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's closest Senate ally emerges as a shadow secretary of state"
-    excerpt: "The moment was a metaphor of sorts for Coons’ current role for President Joe Biden. The Delaware Democrat’s close friendship with Biden has already made Coons an unofficial White House envoy in the Senate, but he is now expanding his reach overseas ..."
-    publishedDateTime: 2021-03-24T20:49:00Z
-    webUrl: "https://www.politico.com/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/97/d4/0ad3da964751bdbeee429cb15725/210324-chris-coons-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
-    excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."
-    publishedDateTime: 2021-03-27T11:15:00Z
-    webUrl: "https://www.nytimes.com/live/2021/03/23/us/biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/23/us/politics/live-blog-20210323-biden-news-today-header-sub/merlin_185456586_9d1ea159-5cea-4877-a805-f8e3e37171c1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "qmlDrmAxUFpKIlSrsUZ9WhxQqbGILSzLlJjVFqipBKUSBSpWNDCfhyg3Sd0bV84nT6q6rZD6IyFSoU4AFDfRDprOio8NHh5zDblbVMhIn4MMzG+zI9pH3WBPmt6MLJeegTgOPdQns4DsnoLOkDyj/9WNRbeOQQHuIe+N2oJAv9053sY4WFutHGQ7GNvgQ4zlXRIJmfLhjggbvomA4hDrNApv8DOfpeJQFr8mDbjq9wyEKq2pJqXGn6sADUKOMflD/uWChbGmBrYnSLslkkOYcb3gwCn47qGz6eGXyVKifcMWD8kXqnGZx89WbjPtMU2WQXDYuUoWsCDgJn21y6+YehIwdRpKWrE5jcphhkadv8ACfkfz5ymFJnV52utZDG4hMc6dIVOmlqKDLp9+SrprepCfrV8n16sQIpCBMdFuOWfg9+0uBq3b8ne36ir2qWHXOnr0P73VhZqYsKzwkieCw56QsgSJYrab2e71yekyARnKiYaq6E6kW/ErrgVGolyI1/R9mDZ8Noas94KukOgX5g==;2CN3gLY+fkPWRQPYRnLkbQ=="

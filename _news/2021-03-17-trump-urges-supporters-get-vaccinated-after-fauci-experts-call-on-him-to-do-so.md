@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-urges-supporters-vaccinate
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-urges-supporters-vaccinated-fauci-experts-call/story?id=76509348"
 type: article
 quality: 121
-heat: 281
+heat: 261
 published: true
 
 provider:
@@ -122,22 +122,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies"
-    excerpt: "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,"
-    publishedDateTime: 2021-03-24T10:29:00Z
-    webUrl: "https://www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160"
-    ampWebUrl: "https://www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trump-was-acquitted-in-his.jpg"
-        width: 1024
-        height: 681
         isCached: true
   - title: "Donald Trump wax figure removed from Texas museum after suffering repeated face punches"
     excerpt: "Following in the footsteps of the former president, a Donald Trump wax figure has gone into hiding at a Texas museum. Louis Tussaud’s Waxworks in San Antonio moved the figure to a storage room, per San Antonio Express-News' Randy Diamond, after museum ..."

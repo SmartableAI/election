@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
 type: article
 quality: 173
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125145716-20210125-biden-whitehouse-staff-access-gfx-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden faces few great options for SolarWinds, Exchange retaliation"
-    excerpt: "The United States’ unique digital vulnerabilities and the pressure to protect the intelligence community’s prized hacking tools will make it hard for President Joe Biden to punish Russia and China for their massive cyberattacks."
-    publishedDateTime: 2021-03-29T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/weekly-cybersecurity/2021/03/29/biden-faces-few-great-options-for-solarwinds-exchange-retaliation-794319"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "kTq0WoNr8vJC0PyqfJ6xZiXux3PPsw58uWDQf5ziTO27+rvds5D7vPBeBFCOypvCEXpWT8OGqsNdPavWgKql+YNK8oEiDA2RI5TOku91vKvoCY3rIDirtvqfqMKN3+fHKFHDvmpRAVCm0hL5/8g/62QnDg9CbGB42Yra9NFXXX/I+qGnxhU+h+ky3T1JJ3AtyuOKijCHjJZwKZB0hiuT8X7EMWe0A27V0/WKIXsEfF/TPlXovs4mpFGiW+ukYDy5Os3x10dwBBCN+aRrPvVW+6IlJonDX4oj5LvmFtEX5J3pN+qxXZuaAJWlc0qFzlq5R+G+UpG9JeyVCt4OSfUwHT5yZVcz+CS56XTV6wE/SsU=;q0Ix4Fd3yO7/wwvIfMNldQ=="

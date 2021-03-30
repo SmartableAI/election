@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta-shooting/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 435
 published: true
 
 provider:
@@ -140,22 +140,6 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130042-02-biden-boulder-shooting-remarkes-0323-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden announces new vaccination goal: 200 million shots in first 100 days"
-    excerpt: "President Joe Biden is scheduled to participate in his first presidential news conference on Thursday, where he's expected face a wide-ranging set of questions about the most pressing issues, including the federal response to the coronavirus pandemic, the state of the economy, immigration and gun control.\n"
-    publishedDateTime: 2021-03-25T17:37:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzuo_FFEA1I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/first-biden-press-conference/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/first-biden-press-conference/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325134037-06-biden-presser-0325-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

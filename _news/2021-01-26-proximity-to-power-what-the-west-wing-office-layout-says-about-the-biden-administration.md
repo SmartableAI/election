@@ -47,20 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden faces few great options for SolarWinds, Exchange retaliation"
-    excerpt: "The United States’ unique digital vulnerabilities and the pressure to protect the intelligence community’s prized hacking tools will make it hard for President Joe Biden to punish Russia and China for their massive cyberattacks."
-    publishedDateTime: 2021-03-29T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/weekly-cybersecurity/2021/03/29/biden-faces-few-great-options-for-solarwinds-exchange-retaliation-794319"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
 secured: "RgxW40LnHPDJ2/Mn4fol5/ZMfLftkVnuX3KOVwiQwVQ99QQ06l+oyOCxfrd52Wl+ib/RDDhVhP3iLWEMH7+QYQAKmlUKTVMBF1GA7FN9KjxzlWZKOkgqM85TGSJb9sa88qW1pMQKlLYUWF3iKxNYpT5tkPmy5mFJraIaaVXJMIerZsiX9JA+bCXLyA3Qhk/+VDjCcNdajFljOebZW30/nOPMIVPtQprKdczbrXZyw2tgOdMT0vny6aFw3PoKONWSMHODVgwbZTfntZGooX2xToN40Ts3siGVkANmDSnya99UaTfsSnScjCMLjLTf7M6JCfPHBaskmYi7Krb8tV5x6aKnhLLU4yr+D4rL3782JXk=;/pKm9fTxNueOj9XWo0uNkg=="
 ---

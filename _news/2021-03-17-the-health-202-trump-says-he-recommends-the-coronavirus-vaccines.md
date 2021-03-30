@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/05/USAT/919ad265-fb75-49fb-97ce-5eaeddec5787-Donald_Trump_at_CPAC_AP_pic.jpg?auto=webp&crop=3661,2060,x0,y186&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Mo Brooks says he has discussed Senate run with Trump many times"
-    excerpt: "Mo Brooks, who helped lead GOP objections to President Donald Trump’s loss and come under fire for remarks he made preceding the attack on the U.S. Capitol, said Wednesday that he is better known to voters this time as he runs for U."
-    publishedDateTime: 2021-03-25T03:05:00Z
-    webUrl: "https://www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html"
-    ampWebUrl: "https://www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
-        width: 4032
-        height: 3024
         isCached: true
 
 secured: "EnXCgLgsMXDG74FP2z96fb4kmTMLhbkYhLP9H5jNvoLN9ciAqC0z35511vI5lL1o/C7hlBfuoMdWzlqabc8mgPeuy6y9b03LoRQVo45GjtvzE0wGYFoPEDyuiUBIpzCDirosJ1xnWxE1xT39kwJVFoLGzcvbFiMNT7S2NYu3PeX79KCO70XHmZjrXo/zkMiD5DUVc/jKDV4hGTNk8bpJR9VbaBk3Jj29FfY/87X7QK8HEO0AE+Ny6n385tRwJPQ/lY6cZ0n2htXwfEHuryDZtCWx83UFw0Fx5h+lPBzWyfIBbobzKZulKahUXL+lbUCRLIt4BKHOqmff6xPhkerxvxagPXGzQkFaIo+9Uyto0rVkahiPhcU3DSVin4VXxPp3lVZW/zAXBmzrI9yC1GjPZwC+tYAeAA0YXFwTcEKQGYN3mfnfT1YXSKC3DWb7yh8N/V4351wRAY3h5TzGuhqCqvMK+LzmZa7N1u6cl0rFRY0/SOW4J955K1PH3XOIknFO/1MgjZ6l0hl/0EPiaxQsPg==;H9mWb6ADXVcxR/oajoz6yA=="

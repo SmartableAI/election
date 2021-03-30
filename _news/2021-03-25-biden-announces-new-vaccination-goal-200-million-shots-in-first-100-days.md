@@ -31,229 +31,305 @@ images:
     isCached: true
 
 related:
-  - title: "Biden so far avoids talking gun reform post-Atlanta shooting"
-    excerpt: "In the wake of Tuesday's shootings in Atlanta, President Joe Biden has raised concerns about the spike in hate crimes against Asian Americans and tasked two senior advisers to convene listening sessions on the issue.\n    \n"
-    publishedDateTime: 2021-03-18T19:56:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vScqODW52GE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta-shooting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta-shooting/index.html"
+  - title: "Biden unveils first slate of judicial nominees featuring diverse and history-making selections"
+    excerpt: "President Joe Biden on Tuesday unveiled a diverse slate of 11 judicial nominees, including three African American women for Circuit Court vacancies and a candidate who, if confirmed, would be the first Muslim American federal judge in US history.\n    \n"
+    publishedDateTime: 2021-03-30T12:16:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z6yG8H8V__s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330072136-01-ketanji-brown-jackson-file-restricted-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Regular Joes: Biden and Manchin, whose old relationship faces new test"
+    excerpt: "When President Barack Obama was in office and the White House needed to reach Sen. Joe Manchin, one person was always tasked with making the call: then-Vice President Joe Biden.\n    \n"
+    publishedDateTime: 2021-03-24T14:45:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pT2foDpWbFg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/joe-manchin-joe-biden-democrat-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/joe-manchin-joe-biden-democrat-agenda/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324100556-manchin-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden will meet with Stacey Abrams in Atlanta"
-    excerpt: "President Joe Biden will meet with Stacey Abrams while in Atlanta on Friday, according to an administration official, who said Abrams has \"played a leading role in voting access and voter protection and she will be an important partner in taking action on this important issue moving forward.\"\n    \n"
-    publishedDateTime: 2021-03-18T22:24:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qom0JsPP5dM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/stacey-abrams-joe-biden-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/stacey-abrams-joe-biden-meeting/index.html"
+  - title: "Analysis: 30 questions for Biden's first press conference"
+    excerpt: "It's not that President Joe Biden keeps quiet, exactly.\n    \n"
+    publishedDateTime: 2021-03-25T00:55:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0o2J0LRRCto/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/what-matters-march-24/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/what-matters-march-24/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190321115607-joe-biden-stacey-abrams-split-0321-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "CNN's Amara Walker gets emotional after Biden speech"
-    excerpt: "CNN's Amara Walker got emotional following President Joe Biden's remarks supporting the Asian American community in the wake of the Atlanta spa shootings.\n    \n"
-    publishedDateTime: 2021-03-19T23:06:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NJ3ORYuYc8/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/19/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/19/biden-speech-amara-walker-reaction-tsr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319185524-amara-walker-biden-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden seeks tenuous balance on school reopening and variant threats"
-    excerpt: "When officials from the US Centers for Disease Control and Prevention announced Friday that they were relaxing the physical distancing guidelines for many schools, White House officials hailed it as another moment when the barriers to in-person instruction were falling.\n    \n"
-    publishedDateTime: 2021-03-21T04:08:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TE1cgq2vMPQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/21/politics/biden-cdc-guidelines-schools-reopening/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319165015-02-biden-cdc-0319-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden says he supports bringing back the Senate's talking filibuster rule"
-    excerpt: "President Joe Biden on Tuesday said he supports changing the Senate's filibuster rule by bringing back the talking filibuster, requiring a senator who wants to block legislation to hold the floor without taking a break.\n    \n"
-    publishedDateTime: 2021-03-17T01:50:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EABo_4-Caes/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/biden-supports-reforming-filibuster/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/biden-supports-reforming-filibuster/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden vows to ease border surge as Republicans sense a political opening "
-    excerpt: "Joe Biden is pledging to take new steps to ease a surge of child migrants at the southern border as his White House parries Republican attacks over a wrenching humanitarian challenge that threatens to tarnish his fast start as president.\n    \n"
-    publishedDateTime: 2021-03-22T04:52:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2RuCcWmCxN4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/joe-biden-immigration-border-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/joe-biden-immigration-border-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210321182725-01-joe-biden-0321-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pressure builds on Biden to act on guns in wake of Colorado mass shooting"
-    excerpt: "President Joe Biden made no mention of gun control in the aftermath of last week's shootings in Atlanta -- including during remarks after visiting the city -- but he will face more pressure now to voice an opinion on the matter after another mass killing in Colorado.\n    \n"
-    publishedDateTime: 2021-03-23T13:42:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tN2f9kvQcaM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/biden-gun-control-colorado-atlanta/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/biden-gun-control-colorado-atlanta/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322105445-02-joe-biden-0318-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's heartfelt plea for gun control adds to daunting policy wish list"
-    excerpt: "Joe Biden's call for an assault weapons ban and a wave of other gun control measures adds a daunting new policy challenge to a progressive agenda that is already shaping up as the most ambitious by a Democratic president for decades.\n    \n"
-    publishedDateTime: 2021-03-24T10:20:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mLhYRiQWRjw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/joe-biden-gun-control-boulder-colorado-atlanta-shootings/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/joe-biden-gun-control-boulder-colorado-atlanta-shootings/index.html"
+  - title: "Biden calls state GOP voting restrictions efforts 'sick' and 'un-American'"
+    excerpt: "President Joe Biden said he will \"do everything\" in his power to halt efforts to restrict voting rights, saying during Thursday's news conference at the White House that the efforts underway in state legislatures are \"un-American.\"\n    \n"
+    publishedDateTime: 2021-03-25T19:35:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/goR0IogzKII/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/voting-rights-biden-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/voting-rights-biden-republicans/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130042-02-biden-boulder-shooting-remarkes-0323-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325134844-09-biden-presser-0325-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris condemns 'tragic' Atlanta shooting and expresses solidarity with Asian American community"
-    excerpt: "Vice President Kamala Harris addressed the recent lethal shootings at a series of spas in the Atlanta area, marking her most formal remarks about the ongoing issue of violence against the Asian American community.\n    \n"
-    publishedDateTime: 2021-03-17T15:48:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l_iRNPePubc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/kamala-harris-atlanta-shooting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/kamala-harris-atlanta-shooting/index.html"
+  - title: "Three-ring binders and 14-point font: How Biden preps for a news conference"
+    excerpt: "One day before holding his first formal news conference, President Joe Biden seemed to write the whole thing off.\n    \n"
+    publishedDateTime: 2021-03-25T00:00:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/We1Vxbrzd0E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-press-conference-preparation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-press-conference-preparation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108130454-01-kamala-harris-0827-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden orders flags to be flown at half-staff in honor of Atlanta shooting victims"
-    excerpt: "President Joe Biden has ordered the American flags at the White House and on other federal ground be flown at half-staff as \"a mark of respect for the victims of the senseless acts of violence\" in Atlanta this week.\n    \n"
-    publishedDateTime: 2021-03-18T17:30:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Yde7DV27dY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html"
+  - title: "Biden to highlight gains and face tough scrutiny in first formal news conference"
+    excerpt: "President Joe Biden's first two months in power went remarkably smoothly considering he took office amid a once-in-a-century pandemic, a consequent economic crisis and his predecessor's refusal to recognize his victory. But in his first formal news conference Thursday, he'll face scrutiny on gun control"
+    publishedDateTime: 2021-03-25T05:54:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fLyDOHvClE0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/joe-biden-press-conference-challenges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/joe-biden-press-conference-challenges/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318130453-white-house-flag-half-staff-0318-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130042-02-biden-boulder-shooting-remarkes-0323-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden condemns 'skyrocketing' hate crimes against Asian Americans in wake of deadly shooting"
-    excerpt: "President Joe Biden and Vice President Kamala Harris traveled to Atlanta on Friday to meet with Asian American leaders in the wake of deadly shootings that killed eight people, including six women of Asian descent.\n    \n"
-    publishedDateTime: 2021-03-20T00:06:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e3wE3JAM_Vw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-harris-atlanta/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-harris-atlanta/index.html"
+  - title: "'It's a matter of timing': Biden lays out expansive theory of his own presidency"
+    excerpt: "Joe Biden offered his most expansive explanation yet of his own presidency on Thursday, presenting himself, at least for now, as a problem solver operating above the bitter divides of Washington politics.\n    \n"
+    publishedDateTime: 2021-03-26T10:05:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CEoGEe08BRY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/joe-biden-first-news-conference-filibuster-timeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/joe-biden-first-news-conference-filibuster-timeline/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden orders flags to be flown at half-staff in honor of Atlanta shooting victims"
-    excerpt: "(CNN)President Joe Biden has ordered the American flags at the White House and on other federal ground be flown at half-staff as \"a mark of respect for the victims of the senseless acts of violence\" in Atlanta this week. The shooting rampage on Tuesday ..."
-    publishedDateTime: 2021-03-18T17:30:00Z
-    webUrl: "https://www.cnn.com/2021/03/18/politics/biden-flags-atlanta/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-flags-atlanta/index.html"
+  - title: "Biden made stimulus look easy. Selling tax hikes for infrastructure will be harder "
+    excerpt: "President Joe Biden's second big legislative push will be harder than his first for multiple reasons, most conspicuously this one: It will include tax increases.\n    \n"
+    publishedDateTime: 2021-03-28T12:28:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xfzJ2Dsujbg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/infrastructure-plan-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/infrastructure-plan-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 130
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318130453-white-house-flag-half-staff-0318-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325173626-biden-news-conference-ghtits-oped-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Sheriff’s spokesman replaced on shootings case; Biden orders flags to be flown at half-staff"
-    excerpt: "The presidential proclamation comes amid an escalating controversy over local law enforcement’s comments about the shooting suspect’s possible motivation."
-    publishedDateTime: 2021-03-20T01:50:00Z
-    webUrl: "https://www.politico.com/news/2021/03/18/warnock-atlanta-killings-hate-476945"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/18/warnock-atlanta-killings-hate-476945"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/18/warnock-atlanta-killings-hate-476945"
+  - title: "Biden to lay out first piece of sweeping infrastructure and jobs package Wednesday "
+    excerpt: "President Joe Biden will lay out the first of a sweeping two-pronged infrastructure and jobs proposal Wednesday, with the administration launching its expected months-long effort to pass proposals that will total between $3 trillion and $4 trillion, according to senior administration officials.\n    \n"
+    publishedDateTime: 2021-03-29T20:49:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2MJfBqWUyQA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/infrastructure-jobs-package-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/infrastructure-jobs-package-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210328201915-01-white-house-0328-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration announces extension of Affordable Care Act special enrollment by three months"
+    excerpt: "The Centers for Medicare & Medicaid Services is extending the Affordable Care Act special enrollment period by three months to August 15, the Biden administration announced Tuesday.\n    \n"
+    publishedDateTime: 2021-03-23T21:20:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/328sPJXVXVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/affordable-care-act-enrollment-august/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/affordable-care-act-enrollment-august/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212175810-obamacare-sign-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lawmakers ask Biden to issue waiver to make Covid-19 vaccination mandatory for members of military"
+    excerpt: "A group of Democratic lawmakers sent a letter to President Joe Biden requesting that he issue a \"waiver of informed consent\" to make getting vaccinated against Covid-19 mandatory for all US military service members.\n    \n"
+    publishedDateTime: 2021-03-24T21:30:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rRSX5PzvRLg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/congress-letter-military-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/congress-letter-military-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322185510-covid-vaccine-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden looking at imported weapons and those made with '3D equipment' for potential executive actions"
+    excerpt: "President Joe Biden is \"looking\" at what executive actions he can take on guns, particularly when it comes to regulating imported weapons and those made with \"3D equipment,\" he told reporters on the tarmac in Delaware on Friday.\n    \n"
+    publishedDateTime: 2021-03-26T20:56:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F5HkIdMSbvw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/biden-guns-executive-actions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/biden-guns-executive-actions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325173626-biden-news-conference-ghtits-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser"
+    excerpt: "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n"
+    publishedDateTime: 2021-03-24T03:56:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXINDTbvQ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/duckworth-hirono-aapi-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111654-11-biden-admin-possibilities-duckworth-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden Seeks Assault Weapons Ban and Background Checks"
+    excerpt: "Mr. Biden, who had helped pass the landmark Brady Handgun Violence ... even modest gun legislation this year were on display on Tuesday on Capitol Hill. Senator Joe Manchin III, Democrat of West Virginia, has a longstanding bipartisan proposal — written ..."
+    publishedDateTime: 2021-03-23T23:54:00Z
+    webUrl: "https://www.nytimes.com/2021/03/23/us/politics/biden-gun-control.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/23/us/politics/biden-gun-control.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/23/us/politics/biden-gun-control.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/23/us/politics/23dc-biden1/23dc-biden1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden's closest Senate ally emerges as a shadow secretary of state"
+    excerpt: "The moment was a metaphor of sorts for Coons’ current role for President Joe Biden. The Delaware Democrat’s close friendship with Biden has already made Coons an unofficial White House envoy in the Senate, but he is now expanding his reach overseas ..."
+    publishedDateTime: 2021-03-24T20:49:00Z
+    webUrl: "https://www.politico.com/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/24/chris-coons-biden-foreign-policy-477789"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 124
+    quality: 135
     images:
-      - url: "https://static.politico.com/75/fb/a1a60ada40f2814fd3e2ff8969c9/ap21069630477955.png"
+      - url: "https://static.politico.com/97/d4/0ad3da964751bdbeee429cb15725/210324-chris-coons-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "President Biden calls on Congress to tighten gun laws in wake of Colorado shooting that killed 10"
-    excerpt: "\"As president I’m going to use all the resources at my disposal to keep people safe,\" the president said on Tuesday."
-    publishedDateTime: 2021-03-23T17:08:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/unfathomable-pain-democrats-demand-action-gun-control-after-back-back-n1261797"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261797"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261797"
+  - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
+    excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."
+    publishedDateTime: 2021-03-27T11:15:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/23/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/23/us/politics/live-blog-20210323-biden-news-today-header-sub/merlin_185456586_9d1ea159-5cea-4877-a805-f8e3e37171c1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden administration working to develop a system for people to prove they've been vaccinated"
+    excerpt: "President Joe Biden has predicted that life in the US could be back to normal by Christmas, and as more Americans are vaccinated each day, these vaccine credentials -- commonly called \"vaccine passports\" -- could be key to a return to normalcy by the end ..."
+    publishedDateTime: 2021-03-28T19:07:00Z
+    webUrl: "https://www.cnn.com/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/biden-administration-vaccination-passport/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 124
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222182145-05-vaccine-passports-commonpass-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden faces few great options for SolarWinds, Exchange retaliation"
+    excerpt: "The United States’ unique digital vulnerabilities and the pressure to protect the intelligence community’s prized hacking tools will make it hard for President Joe Biden to punish Russia and China for their massive cyberattacks."
+    publishedDateTime: 2021-03-29T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-cybersecurity/2021/03/29/biden-faces-few-great-options-for-solarwinds-exchange-retaliation-794319"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden names diverse slate of judicial nominees in first effort to reshape federal courts"
+    excerpt: "Biden plans to nominate Judge Ketanji Brown Jackson for the U.S. Circuit Court of Appeals for the District of Columbia, filling Attorney General Merrick Garland's former seat."
+    publishedDateTime: 2021-03-30T11:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-names-diverse-slate-judicial-nominees-first-effort-reshape-federal-n1262436"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 122
+    quality: 106
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202103/1616521162154_n_mtpd_clip_memo2_210323_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media1.s-nbcnews.com/j/newscms/2021_13/3460693/210330-joe-biden-mc-1124_3ea1bea13febd9466baa5af5de8fa77b.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NbyewH+fbnfCbURs+czl3LEcP3mZOgxEduUoDW4EECTBcj3JJRZtRRAT0ealwQsTtrQxboN6oFT2fbGj6/AWL6hVN0nu2460itNSTnvrAvHSEv3hmYd+TL0teUcMHqt8CY2/nxHpRFnp1Y8Pxp5Sr+1oRdb84A1h+bY2/yd0yBS69W5q9xOcKQxE0y9FyV10XYmNWKLmFkoWaybe96DmBa5bUbxEv7O61kjW7MJBL4WMhINgJCj46dONShTyYm6HujPJWRSd7NOMob/o+8eS2PIiaZ7nHOaWYcDHXQdmtvAGhAmbs5JAKdJvQGqG0uS5/gieDo7M29OkAoM8Uq8vcpQ1M4r+5CnNNhsRXgGcIjY=;HVhIzO4bznk9M7iMbJBLUw=="

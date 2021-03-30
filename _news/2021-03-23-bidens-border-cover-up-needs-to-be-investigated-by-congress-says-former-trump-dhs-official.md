@@ -255,6 +255,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CBP warned Biden admin of massive surge if Trump policies were reversed: Texas congresswoman"
+    excerpt: "Texas Congresswoman Beth Van Duyne said Tuesday that the Biden administration was warned of a massive surge by CPB officials if the Trump era policies were reversed. "
+    publishedDateTime: 2021-03-30T13:21:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lyceDMrsmjs/cbp-officials-warned-biden-admin-migrant-surge-trump-policies-texas-congresswoman"
+    ampWebUrl: "https://www.foxnews.com/politics/cbp-officials-warned-biden-admin-migrant-surge-trump-policies-texas-congresswoman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cbp-officials-warned-biden-admin-migrant-surge-trump-policies-texas-congresswoman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden 'torched his message of unity' in press conference remark about Trump and 2024: Pollster"
     excerpt: "Pollster Lee Carter explains why the president got a failing grade from Republicans and Independents when discussing the 2024 election."
     publishedDateTime: 2021-03-26T13:27:34Z

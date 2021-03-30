@@ -32,53 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Three-ring binders and 14-point font: How Biden preps for a news conference"
-    excerpt: "One day before holding his first formal news conference, President Joe Biden seemed to write the whole thing off.\n    \n"
-    publishedDateTime: 2021-03-25T00:00:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/We1Vxbrzd0E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-press-conference-preparation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-press-conference-preparation/index.html"
+  - title: "Biden Brings Back Family Separation—This Time in Mexico"
+    excerpt: "U.S. agents no longer tear apart parents and children, but families are having to make painful decisions—just on the other side of the border."
+    publishedDateTime: 2021-03-23T07:19:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/03/20/border-family-separation-mexico-biden-477309"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/03/20/border-family-separation-mexico-biden-477309"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/03/20/border-family-separation-mexico-biden-477309"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to highlight gains and face tough scrutiny in first formal news conference"
-    excerpt: "President Joe Biden's first two months in power went remarkably smoothly considering he took office amid a once-in-a-century pandemic, a consequent economic crisis and his predecessor's refusal to recognize his victory. But in his first formal news conference Thursday, he'll face scrutiny on gun control"
-    publishedDateTime: 2021-03-25T05:54:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fLyDOHvClE0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/joe-biden-press-conference-challenges/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/joe-biden-press-conference-challenges/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130042-02-biden-boulder-shooting-remarkes-0323-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Lawmakers ask Biden to issue waiver to make Covid-19 vaccination mandatory for members of military"
-    excerpt: "A group of Democratic lawmakers sent a letter to President Joe Biden requesting that he issue a \"waiver of informed consent\" to make getting vaccinated against Covid-19 mandatory for all US military service members.\n    \n"
-    publishedDateTime: 2021-03-24T21:30:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rRSX5PzvRLg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/congress-letter-military-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/congress-letter-military-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322185510-covid-vaccine-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/bb/91/9f851a124fa9916f91a2888d4e5d/mag-gettyimages-1231325998.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "9or+Ou2Gj1zVORb6rGdu6bslRoHAIfx1SUIZpSAF5DmgGIMc9qvUyx/dxXjmoCvpzqU50eCMIj+K0zEqLxAVlnf9ReqB8L2EdNKLbHjxzd+65Yg+Gw0mfhjIrCU+2fVbCmjuisgajd0nnWE9tdGNk5mNVZrSKHxVNBKF1P9h1e6W9aagFFgRt6kSNuTvmTt9v9PTmnnq/9J/RRk/IQvUcUoG0bWAnrB6nKfnIya6bO97kXrhYiIycT/RdDfTpsn5EfMYn02/i6O5CTT6y06RE84En+9jQ/JWe+l/xu1oD6NmE6JGw9S2XQ3dZqGIRpUClyegFRoPTfhYGOa7pSPGE60oNagUu3ID1xRPnUgCka8=;nLZTYNnXiXTBTLBi4zs7IA=="

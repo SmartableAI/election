@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
 type: article
 quality: 200
-heat: 1000
+heat: 1020
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a96302ce-c1eb-4480-9f65-64d6b2e57c25/d938cd6a-f738-4a93-9982-96991644ddf3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "CBP warned Biden admin of massive surge if Trump policies were reversed: Texas congresswoman"
+    excerpt: "Texas Congresswoman Beth Van Duyne said Tuesday that the Biden administration was warned of a massive surge by CPB officials if the Trump era policies were reversed. "
+    publishedDateTime: 2021-03-30T13:21:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lyceDMrsmjs/cbp-officials-warned-biden-admin-migrant-surge-trump-policies-texas-congresswoman"
+    ampWebUrl: "https://www.foxnews.com/politics/cbp-officials-warned-biden-admin-migrant-surge-trump-policies-texas-congresswoman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cbp-officials-warned-biden-admin-migrant-surge-trump-policies-texas-congresswoman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden's border 'cover-up' needs to be investigated by Congress, says former Trump DHS official"
     excerpt: "Former Assistant DHS Secretary for Public Affairs under Trump, Alexei Woltornist, called on Congress Tuesday to investigate the Biden administration's border crisis 'cover-up.' "

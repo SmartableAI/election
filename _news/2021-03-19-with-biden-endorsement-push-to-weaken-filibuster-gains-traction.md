@@ -160,22 +160,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "Biden Seeks Assault Weapons Ban and Background Checks"
-    excerpt: "Mr. Biden, who had helped pass the landmark Brady Handgun Violence ... even modest gun legislation this year were on display on Tuesday on Capitol Hill. Senator Joe Manchin III, Democrat of West Virginia, has a longstanding bipartisan proposal — written ..."
-    publishedDateTime: 2021-03-23T23:54:00Z
-    webUrl: "https://www.nytimes.com/2021/03/23/us/politics/biden-gun-control.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/23/us/politics/biden-gun-control.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/23/us/politics/biden-gun-control.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/23/us/politics/23dc-biden1/23dc-biden1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Biden touts 'shots in arms and money in pockets' as he prepares to hit the road to sell Covid relief"
     excerpt: "CNN's Phil Mattingly reports."
     publishedDateTime: 2021-03-15T21:26:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris: Biden \"Has Been Very Generous In Seeking My Input\""
-excerpt: "USA TODAY: Vice President Kamala Harris shares concern for how the COVID-19 pandemic has impacted women and the importance of addressing that disparity. Carroll: You've been a major part of the American Rescue Plan. The president has said you're the first ..."
+excerpt: "Vice President Kamala Harris shares concern for how the COVID-19 pandemic has impacted women and the importance of addressing that disparity. Carroll: You've been a major part of the American Rescue Plan."
 publishedDateTime: 2021-03-29T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_biden_has_been_very_generous_in_seeking_my_input.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_biden_has_been_very_generous_in_seeking_my_input.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_biden_has_been_very_generous_in_seeking_my_input.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_biden_has_been_very_generous_in_seeking_my_input.html#!"
 type: article
 quality: 80
 heat: -1
@@ -282,6 +282,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris yet to hold press briefing despite key role in addressing border crisis"
+    excerpt: "Vice President Kamala Harris still hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis."
+    publishedDateTime: 2021-03-29T22:21:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-immigration-crisis-border-press-briefing"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immigration-crisis-border-press-briefing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immigration-crisis-border-press-briefing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c2f9c69-23fa-4f50-aa77-aae068bf1b33/8310c11f-201b-4b53-b93e-d35d649bb177/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
     excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
     publishedDateTime: 2021-03-22T00:00:00Z
@@ -345,6 +361,6 @@ related:
         height: 500
         isCached: true
 
-secured: "H7N1jNMgh94ZJWrWZm8AENqE3GhjoY0Tlrvt3fATH0C1KcMGJa9gfpivAbzGILqhG3BwOn6SuvwVJymYbOJfoBh43Sb9RikqLoO7Ix56c3tX+YPjLQrzaTCV0SsSsu3lJ+kQ366mW5t828/ncZPhJkozSOJliTO5RKdA+Z04Z3Jugy8Bo0YO8HJCof5bDzumQtClEHmPcKwS4x0ZdZ9dZ/mZSED2KT4kX6EX53rQV4XYAH+trlhO2cIr4ar8xjO0wNlq5Io5iss+BqcnBWzm84zo2GXCwCf5M9Jyyy2dfiVDuk2/7zi3cBeRy0YSvyYwj3I+XRVZ8AqY9T7BsNSJqJiAvdTV8uF+Ql5RN3OEjxaMrKZDbD3nZnlwjJx0oNAe90dQh3fcXravm78iFJMPGWa49Z4MkYqMjXdH0oujMZXujLWmZSE0U7gbZNpPsZTtHuZunEvXQTkyvlW2rAOxZygPG2T+gcYe7u2bELTOUer3jma90H8TqSM5A5tNVylEo7VFXh9cEwc6RG6ZNXON2g==;P0wKelrG6KEWNn2PpSwvtg=="
+secured: "lmodczIGEul3V1LGJiifc91aQya04vuM+tvunnLNrc9+ubXl94W68O+qmWlA4XCu4In/WUDLLMV5ft+lY8X9BrNAZvdY5FD4fUp8ApepGUbDX5HXEBGhbjx+IN+39IFty5BvwgoWLAZbyZoEQ9ekV/siaPt0VE/VXxBMr/qGYEoTpxoESKxPFB/IcOng9L0Ks4sAXjby8jW2U2xfMAxNOs9yj5KDSHtAcEgqO0t4kRotrRtBQ0VOGa4H9Z9/9D0TlI1IYh07ZGuKwKO9HnabaL8HpgZGPyxF2st8XuLaRpdMGx+On2sncEhsKsgP5wF0EYEJNiQUTnVJ+I5e+iPZ5f5K1qRvigga4CCtdunt6vQ=;nRfpyn3DNX+PYOBVsb6z9w=="
 ---
 

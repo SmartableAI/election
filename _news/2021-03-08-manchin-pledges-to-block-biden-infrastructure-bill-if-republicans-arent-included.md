@@ -187,6 +187,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Panetta's Assessment of Biden's First Days"
+    excerpt: "Joe Biden is off to an auspicious start with passage of his $1.9 trillion COVID Relief bill, has made excellent appointments, and generally has struck the right tone. Now is when trouble is likely."
+    publishedDateTime: 2021-03-30T13:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/30/panettas_assessment_of_bidens_first_days_539239.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539152_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Biden Asks Governors To Reinstate Mask Mandate: \"Please, This Is Not Politics\""
     excerpt: "President Joe Biden called on governors that have lifted mask mandates in their states to reimpose them in remarks delivered Monday updating the public on the administration's response to the COVID-19 pandemic. Earlier in March, Biden called the decision ..."
     publishedDateTime: 2021-03-29T00:00:00Z

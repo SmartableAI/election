@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-l
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-leases/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 355
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127134225-01-biden-climate-remarks-0127-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to lay out first piece of sweeping infrastructure and jobs package Wednesday "
-    excerpt: "President Joe Biden will lay out the first of a sweeping two-pronged infrastructure and jobs proposal Wednesday, with the administration launching its expected months-long effort to pass proposals that will total between $3 trillion and $4 trillion, according to senior administration officials.\n    \n"
-    publishedDateTime: 2021-03-29T20:49:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2MJfBqWUyQA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/infrastructure-jobs-package-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/infrastructure-jobs-package-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210328201915-01-white-house-0328-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

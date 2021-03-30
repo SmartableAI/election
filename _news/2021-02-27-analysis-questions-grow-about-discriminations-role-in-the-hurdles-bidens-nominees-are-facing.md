@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: 30 questions for Biden's first press conference"
-    excerpt: "It's not that President Joe Biden keeps quiet, exactly.\n    \n"
-    publishedDateTime: 2021-03-25T00:55:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0o2J0LRRCto/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/what-matters-march-24/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/what-matters-march-24/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322105445-02-joe-biden-0318-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Economist: Biden's $1.9 trillion stimulus plan is not too large"
     excerpt: "President Joe Biden has rejected criticism that his $1.9 trillion stimulus plan is too large. Economist Paul Krugman discusses with CNN's Richard Quest discuss whether Biden's plan will cause inflation as many critics fear."
     publishedDateTime: 2021-02-22T21:14:00Z
