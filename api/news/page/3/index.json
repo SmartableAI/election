@@ -2,25 +2,25 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-03-27-watch-vp-kamala-harris-visits-child-development-center-in-connecticut.md",
-      "title": "Watch: VP Kamala Harris Visits Child Development Center In Connecticut",
-      "excerpt": "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon.",
+      "path": "_news/2021-03-26-harris-acknowledges-major-new-social-welfare-spending-as-part-of-19t-covid-relief-bill-was-intentional.md",
+      "title": "Harris acknowledges major new social welfare spending as part of $1.9T COVID relief bill was ‘intentional’",
+      "excerpt": "Vice President Kamala Harris on Friday acknowledged that part of the purpose of the Democrats’ $1.9 trillion American Rescue Plan, which did not receive any Republican support, was to pass social policies to address problems like child care.",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJt4e3SphUA/harris-major-child-care-program-covid-relief-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJt4e3SphUA/harris-major-child-care-program-covid-relief-bill",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 85,
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.realclear.com/images/53/538866.jpg",
-          "width": 6000,
-          "height": 4000,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e7912ca-8569-4f8f-abec-17e93dbba260/8d52141f-954a-4cff-9341-12ab9f67fa27/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,13 +28,122 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html",
-      "publishedDateTime": "2021-03-26T13:47:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-major-child-care-program-covid-relief-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-major-child-care-program-covid-relief-bill.amp",
+      "publishedDateTime": "2021-03-26T16:52:20-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-chad-wolf-slams-tragic-biden-border-policies-there-is-no-enforcement-along-southern-border.md",
+      "title": "Chad Wolf slams 'tragic' Biden border policies: 'There is no enforcement' along southern border",
+      "excerpt": "The Biden administration's decision to roll back its predecessor's border policies with no contingency in place is a \"tragedy\" and the \"direct cause\" of the border crisis, former acting Homeland Security Secretary Chad Wolf told \"Your World\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mM6WpTlnbO8/biden-border-crisis-tragic-policies-chad-wolf-cartels",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mM6WpTlnbO8/biden-border-crisis-tragic-policies-chad-wolf-cartels",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-tragic-policies-chad-wolf-cartels.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-tragic-policies-chad-wolf-cartels.amp",
+      "publishedDateTime": "2021-03-26T15:57:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-kamala-harris-faces-political-trapdoors-as-she-takes-lead-role-on-migrant-border-surge.md",
+      "title": "Kamala Harris faces political ‘trapdoors’ as she takes lead role on migrant border surge",
+      "excerpt": "The humanitarian crisis at the southern border has vexed politicians in both parties for years. Now it’s Vice President Kamala Harris’ problem. President Joe Biden’s administration announced this week that Harris would lead its efforts to reduce the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/news/politics-government/article250228600.html",
+      "originalUrl": "https://www.sacbee.com/news/politics-government/article250228600.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.sacbee.com/news/politics-government/article250228600.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article250228600.html",
+      "publishedDateTime": "2021-03-26T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,8 +154,175 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris",
-        "Republican Voice"
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-dhs-dissolves-independent-advisory-council-ousting-trump-era-officials.md",
+      "title": "DHS dissolves independent advisory council, ousting Trump-era officials",
+      "excerpt": "Department of Homeland Security Secretary Alejandro Mayorkas on Friday dissolved the Homeland Security Advisory Council, according to a letter obtained by CNN, ousting a board of independent advisers that included Trump-era officials and setting up a plan to reconfigure the council.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ynEP8Ps1OU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ynEP8Ps1OU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301130049-02-mayorkas-wh-briefing-0301-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html",
+      "publishedDateTime": "2021-03-26T14:24:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-biden-calls-new-georgia-voting-law-jim-crow-in-the-21st-century.md",
+      "title": "Biden calls new Georgia voting law 'Jim Crow in the 21st Century'",
+      "excerpt": "President Joe Biden on Friday called a sweeping elections bill signed into law in Georgia \"Jim Crow in the 21st Century\" and a \"blatant attack on the Constitution and good conscience.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4RSvf6eCsvI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4RSvf6eCsvI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325160346-biden-press-conference-0325-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/26/politics/joe-biden-georgia-voting-rights-bill/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/joe-biden-georgia-voting-rights-bill/index.html",
+      "publishedDateTime": "2021-03-26T14:03:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-biden-says-he-wants-vladimir-putin-and-xi-jinping-at-virtual-climate-change-summit-next-month.md",
+      "title": "Biden says he wants Vladimir Putin and Xi Jinping at virtual climate change summit next month",
+      "excerpt": "Chinese President Xi Jinping and Russian President Vladimir Putin \"know they're invited\" to join a US-hosted virtual summit on climate, President Joe Biden told reporters on Friday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pv9xgtqYy4Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pv9xgtqYy4Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326153447-joe-biden-georgia-voting-bill-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/26/politics/biden-climate-change-event-april-putin-xi/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/biden-climate-change-event-april-putin-xi/index.html",
+      "publishedDateTime": "2021-03-26T13:50:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -114,7 +390,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1260,
+      "heat": 1320,
       "tags": null,
       "images": [
         {
@@ -330,7 +606,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 415,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -1095,275 +1371,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-gun-reform-laws-eluded-biden-in-2013-could-this-showdown-with-the-nra-be-different.md",
-      "title": "Gun reform laws eluded Biden in 2013. Could this showdown with the NRA be different?",
-      "excerpt": "Standing in the Rose Garden directly behind Obama and Barden was the man entrusted with driving gun reform on to the statute books: Joe Biden. After the slaying of the school kids, Obama had given Biden the job of coming up with a plan for substantial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c13b4fd277e71bfaf44b73baae812ab891f77e82/0_116_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0c601ba2b364dcb041c08fe9627dd43a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
-      "publishedDateTime": "2021-03-25T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions.md",
-      "title": "Biden’s claim that 'dogs may help cure cancer' draws Twitter reactions",
-      "excerpt": "President Biden is known to be a lover of dogs – but did he recently give canines more credit than they deserve?",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SV2FOANuGTk/bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SV2FOANuGTk/bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21082725419565.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-claim-that-dogs-may-help-cure-cancer-draws-twitter-reactions.amp",
-      "publishedDateTime": "2021-03-24T23:53:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.md",
-      "title": "Arizona’s Ducey calls Harris the ‘worst possible choice’ to fix border",
-      "excerpt": "Gov. Doug Ducey, the Arizona Republican, didn’t mince words Wednesday shortly after he learned that President Biden was tapping Vice President Harris to oversee the effort to resolve the crisis at the U.S.-Mexico border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI3ATHYXEHo/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vI3ATHYXEHo/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp",
-      "publishedDateTime": "2021-03-24T22:36:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-eric-trumps-wife-absolutely-considers-running-for-senate.md",
-      "title": "Eric Trump's Wife 'Absolutely' Considers Running For Senate",
-      "excerpt": "Lara Trump, who married Donald Trump's second son Eric in 2014, first hinted at plans to run for the North Carolina state Senate in an interview with Sean Hannity March 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732",
-      "originalUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/03/27/lara-trump.jpg",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732?amp=1",
-      "publishedDateTime": "2021-03-24T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-rolling-back-a-rollback-buttigieg-deletes-some-trump-era-limits-on-regulation.md",
-      "title": "Rolling back a rollback: Buttigieg deletes some Trump-era limits on regulation",
-      "excerpt": "Transportation Secretary Pete Buttigieg moved Wednesday to undo key deregulatory actions by the Trump administration, an overhaul that department officials said was necessary to address challenges that include climate change, racial injustices, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/trafficandcommuting/buttigieg-transportation-regulation/2021/03/24/8bfc8d76-8cb3-11eb-a6bd-0eb91c03305a_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/trafficandcommuting/buttigieg-transportation-regulation/2021/03/24/8bfc8d76-8cb3-11eb-a6bd-0eb91c03305a_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IFSSTYTH3II6XOVYOB7YO2OXQU.jpg&w=1440",
-          "width": 1440,
-          "height": 1086,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/trafficandcommuting/buttigieg-transportation-regulation/2021/03/24/8bfc8d76-8cb3-11eb-a6bd-0eb91c03305a_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/buttigieg-transportation-regulation/2021/03/24/8bfc8d76-8cb3-11eb-a6bd-0eb91c03305a_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-24T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

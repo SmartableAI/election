@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-31-former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.md",
+      "title": "Former Pence chief of staff says he would not be advocating for tax increases right now",
+      "excerpt": "Marc Short, former chief of staff to Vice President Mike Pence, discusses the proposed Biden tax hikes. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/03/30/former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/03/30/former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106861725-16171322901617132282-15111908872-1080pnbcnews.jpg?v=1617132289",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
       "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
       "excerpt": "Former President Donald Trump recently rattled off the names of those he viewed as future leaders of the Republican Party, including Sens. Josh Hawley and Ted Cruz along with Florida Gov. Ron DeSantis",
@@ -10,7 +62,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
       "featuredContent": null,
       "highlight": null,
-      "heat": 510,
+      "heat": 590,
       "tags": null,
       "images": [
         {
@@ -1520,54 +1572,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-ucla-student-charged-over-capitol-riot-after-sitting-in-mike-pences-chair.md",
-      "title": "UCLA student charged over Capitol riot after sitting in Mike Pence’s chair",
-      "excerpt": "A white-nationalist Californian student filmed sitting in the Senate chair that then-Vice President Mike Pence had just fled during the Capitol riot has been charged, according to an FBI",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/",
-      "originalUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/christian-secor.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/amp/",
-      "publishedDateTime": "2021-02-18T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

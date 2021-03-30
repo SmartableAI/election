@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expanding pause on student loan interest and collections"
+    excerpt: "The Biden administration is expanding the pause on student loan interest and collections to the more than a million borrowers who are in default on loans made by private lenders, White House press secretary Jen Psaki said Tuesday.\n    \n"
+    publishedDateTime: 2021-03-30T18:10:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pRx6SlrQTbw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/student-loans-collections-pause-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/student-loans-collections-pause-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005171032-01-parents-college-students-kids-safely-wellness-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'It's a matter of timing': Biden lays out expansive theory of his own presidency"
     excerpt: "Joe Biden offered his most expansive explanation yet of his own presidency on Thursday, presenting himself, at least for now, as a problem solver operating above the bitter divides of Washington politics.\n    \n"
     publishedDateTime: 2021-03-26T10:05:54Z

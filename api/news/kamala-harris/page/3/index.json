@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-19-progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast.md",
+      "title": "Progressive Indian bistro Aurum opens in Los Altos with a Kamala Harris tribute feast",
+      "excerpt": "Now in Los Altos, he has teamed up with Anupam Bhatia, the restaurateur who founded Broadway Masala in Redwood City, to open a contemporary Indian bistro called Aurum. After a soft opening, Aurum — the name,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/",
+      "originalUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-AURUM-0118.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/",
+      "publishedDateTime": "2021-01-18T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-trump-plans-to-depart-washington-inauguration-day-morning-while-pence-harris-speak.md",
       "title": "Trump plans to depart Washington Inauguration Day morning, while Pence, Harris speak",
       "excerpt": "President Trump plans to make the unprecedented move to depart the White House next Wednesday morning, just before President-elect Joe Biden's inauguration.",

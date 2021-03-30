@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-30-mother-of-police-officer-injured-in-capitol-riot-says-shes-outraged-by-trumps-lie-that-his-supporters-were-hugging-and-kissing-cops-during.md",
-      "title": "Mother of police officer injured in Capitol riot says she's outraged by Trump's lie that his supporters were 'hugging and kissing' cops during attack",
-      "excerpt": "The mother of a DC Police officer who was brutally assaulted while defending the US Capitol during the January 6 insurrection said Monday that she and her family are outraged by former President Donald Trump's claim that his supporters were \"hugging and kissing\" officers during the riot and that the",
+      "path": "_news/2021-03-30-john-durham-is-looking-at-fbis-launch-of-trump-campaign-probe-sources-say.md",
+      "title": "John Durham is looking at FBI's launch of Trump campaign probe, sources say",
+      "excerpt": "After two years of searching for problems with the investigation into Donald Trump's campaign advisers in 2016 and their ties to Russia, federal prosecutor John Durham hasn't found wrongdoing by Obama-era intelligence officials involved who were outside of the FBI.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bNAOO6U19Jc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bNAOO6U19Jc/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSmraMXTWOs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSmraMXTWOs/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 136,
+      "heat": 193,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311100025-file-capitol-riot-0106-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190514172200-us-attorney-john-durham-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/dc-police-officer-terry-fanone-trump-capitol-insurrection-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/dc-police-officer-terry-fanone-trump-capitol-insurrection-cnntv/index.html",
-      "publishedDateTime": "2021-03-30T06:16:37-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html",
+      "publishedDateTime": "2021-03-30T12:47:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-judge-allows-summer-zervos-defamation-lawsuit-against-trump-to-proceed-now-that-hes-out-of-office.md",
+      "title": "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office",
+      "excerpt": "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
+      "publishedDateTime": "2021-03-30T11:13:51-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -70,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 558,
+      "heat": 578,
       "tags": null,
       "images": [
         {
@@ -1632,62 +1688,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-glory-days-of-trumps-gold-plated-757-seem-far-away-as-plane-sits-idle-at-a-sleepy-airport.md",
-      "title": "Glory days of Trump's gold-plated 757 seem far away as plane sits idle at a sleepy airport  ",
-      "excerpt": "Trump's personal Boeing 757 was always the crown jewel of his wealth -- the ultimate sign that he had made it. He's used it as a backdrop for sleek photo shoots, campaign rallies, VIP tours, for shots of him eating his Big Macs and KFC, plated, with a knife and fork. Trump loved to show it off -- the",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BVwxmk_KKYg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BVwxmk_KKYg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319145726-01a-screengrab-trump-757-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/19/politics/trump-757-repairs-gold-plated-glory-days/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/trump-757-repairs-gold-plated-glory-days/index.html",
-      "publishedDateTime": "2021-03-19T13:11:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

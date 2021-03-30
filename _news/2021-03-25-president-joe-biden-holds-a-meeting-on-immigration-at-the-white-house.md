@@ -361,6 +361,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden rolls out diverse first slate of judicial nominees"
+    excerpt: "President Joe Biden has named a racially diverse and overwhelmingly female group to federal and other judgeships"
+    publishedDateTime: 2021-03-30T19:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-announces-diverse-first-slate-of-judicial-nominees/2021/03/30/0aeb5850-9156-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-announces-diverse-first-slate-of-judicial-nominees/2021/03/30/0aeb5850-9156-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-announces-diverse-first-slate-of-judicial-nominees/2021/03/30/0aeb5850-9156-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
     publishedDateTime: 2021-03-26T20:19:00Z
@@ -520,6 +536,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/2a4a2aa4200ed189b6e4b6ca32b7a26cd094559b/0_112_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=14a1abf7884aa37bb04e187deea03eb7"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden's DOE expands pause on student-debt collection to 1.14 million borrowers with private loans"
+    excerpt: "President Joe Biden had extended the pause on federal student-loan payments through September, but that didn't apply to borrowers under the FFEL Program whose loans were held by private lenders — that comes to 1.14 million borrowers. Cardona's new rule ..."
+    publishedDateTime: 2021-03-30T18:30:00Z
+    webUrl: "https://www.businessinsider.com/biden-education-department-expands-pause-student-loan-debt-payments-private-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-education-department-expands-pause-student-loan-debt-payments-private-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-education-department-expands-pause-student-loan-debt-payments-private-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/60635d78c9d73b00186e933b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe Biden stumbles on steps of Air Force One – video"
     excerpt: "Biden tripped on the steps up to the plane, before recovering and carrying on unaided, turning to salute at the top. The 78-year-old fractured his right foot in November 2020 while playing with his dog Major"
@@ -681,6 +713,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09bzmbr.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Meet President Joe Biden’s cabinet-level officials"
+    excerpt: "Regan, administrator of the Environmental Protection Agency Biden’s pick to head the Environmental Protection Agency is Michael S. Regan, North Carolina’s top environmental regulator. When the senate confirmed Regan as the next administrator of the EPA,"
+    publishedDateTime: 2021-03-30T19:31:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-president-joe-biden-cabinet-officials-20210330-vltp7lev3ngcpbwvuljs57zafi-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/E_-6Q-O_PdxfdMf61NbAqoBTCQE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TDIM6HUPJFEZBFY7QXANYXT5RQ.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."

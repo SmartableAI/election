@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reem
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
 type: article
 quality: 150
-heat: 510
+heat: 590
 published: true
 
 provider:
@@ -192,6 +192,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Mike Pence laying groundwork for 2024 presidential run, but Trump shows no signs of support"
+    excerpt: "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024."
+    publishedDateTime: 2021-03-30T18:37:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 80
+    images:
+      - url: "https://www.baltimoresun.com/resizer/pK3vt5CFRMo4GDiuGwtCYTRxSSw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GUWE3XU23NFN7LBI655ZO27E6Q.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mo Brooks says he has discussed Senate run with Trump many times"
     excerpt: "Mo Brooks, who helped lead GOP objections to President Donald Trump’s loss and come under fire for remarks he made preceding the attack on the U.S. Capitol, said Wednesday that he is better known to voters this time as he runs for U."
     publishedDateTime: 2021-03-25T03:05:00Z
@@ -256,6 +272,38 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Pence emerges, lays groundwork for 2024 White House run"
+    excerpt: "New York City Mayor Bill de Blasio called the video of the attack “absolutely disgusting and outrageous” and said it was “absolutely unacceptable” that witnesses did not"
+    publishedDateTime: 2021-03-30T18:12:00Z
+    webUrl: "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/"
+    ampWebUrl: "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/03/sjm-937101.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "Ron DeSantis and Sens. Josh Hawley and Ted Cruz. Conspicuously absent from the list: Mike Pence. The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024. He’s joining conservative organizations ..."
+    publishedDateTime: 2021-03-30T19:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2021/03/30/nation-world-news/pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2021/03/30/nation-world-news/pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2021/03/30/nation-world-news/pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    type: article
+    provider:
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 75
+    images:
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/03/web1_AP21088723409061.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Former Vice President Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
     publishedDateTime: 2021-03-30T10:55:00Z
@@ -302,6 +350,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Trump's heir? Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "WASHINGTON • When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron"
+    publishedDateTime: 2021-03-30T19:32:00Z
+    webUrl: "https://www.djournal.com/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_1334214e-587e-5fb5-8482-eea6a51c99c0.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/5c/95c9e354-e673-5445-8fd7-8911b7f2e18c/60637d670543d.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Mike Pence is laying the groundwork for 2024 presidential run"
     excerpt: "For someone who built a reputation as one of Trump's most steadfast supporters, Pence is now viewed with suspicion among many Republicans."
     publishedDateTime: 2021-03-30T09:34:00Z
@@ -317,6 +379,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Y28YJFeDRNGbrXrqyneu8H+csqN1rG3Yil+Qfq1HYSBBNv7UF/MxL2NK+8STUkAbkeRN086HkxGbwKEGpW6kltp+iQNOKBWZRaSkbyVc/LO608YnXzDgvGtxt4DqWZU4f7RKgiMHiQl8eGr+dtkWEIYfcv4zc8vr0XyZHaFwdEcyS8oI4qxpMRPudD0lNQNsyUvLxYWndP7ju1RGd/V8cx7GH0pWsk6+MvlmrqMtdSIB2WDLqmWgYwXgDANmSLfxkTEYFsHihewchLwx4Lhg1ZHowySHYFEQXaQhFyoMmFeqTibo1sm44WQxj7HzihprHE92tbseDOO6n4epyXxKitUT9EZWEDjz6cqiO0YT2So=;gtSf7gelb4nXtGlf658u9Q=="
+secured: "yq8pL044utEJjpQ+9YT1wPgFZlQJyQEF/cjNS4oe6Y7i0qS9E8FNjLXOqtluw4FqIL+unrF2HctHnluRE5MltqZds0cy+ld7lu/uqChSC79tDLcXG6QN8lgpe61Xg0a6JROwQTwhYyl+O8LHi9a2EV7gmHIfRz8sez8ug1ACiUYQliYFkdmlViAS4n4Fn0S9j8CpjoxWLNpTi+WM17ENxWAbE1MATioBTgeIzReKpILZa6YdzFK2ZsDddWeQRatK3/AoUZSc8KJRFPXGCuaXsik5rLADVehU/s16fQcx9QL69DA8PSFjnQWX89u8/hvWxQBANuie7U+SMEgozCe9PYB2D6c3C8te0SHNGFqp7FnE9UO5Gb/Yu2P3BzBsU5oodqotjA9WP/EKhfnRRG3NMkaQJ+2Le4gbKZZm5scvOQpaStkn8QQ/lGf0i70zp4Euh6MOwCz6kBsytczNGs3jrFjF61Bhe+yy1YZkxwVBSfn0LgmJMMUJCAMKgWF88LL6ENM3OTDJ4JiPQiTagFraXg==;hnF27nV0cfzYCi+LPAp5lw=="
 ---
 

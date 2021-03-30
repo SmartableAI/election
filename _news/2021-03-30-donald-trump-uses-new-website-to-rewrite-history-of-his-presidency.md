@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Poll: One-third would use a Trump-backed social media platform"
+    excerpt: "One-third of voters said they would use a social media platform that was backed by former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite vaccine ..."
+    publishedDateTime: 2021-03-30T19:27:00Z
+    webUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform"
+    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_010421getty_trump-va.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
     excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
     publishedDateTime: 2021-03-29T21:27:00Z
@@ -76,6 +92,22 @@ related:
     quality: 74
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trump-was-acquitted-in-his.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Trump-Dominated Appeals Court Rules Misgendering Professor Can Sue University"
+    excerpt: "And they have tried not to stifle debate by picking sides.\" Judge Thapar, a Donald Trump appointee, was joined by Judges David McKeague and Joan Larsen. The two judges were appointed by George W. Bush and Trump, respectively. Shawnee State University ..."
+    publishedDateTime: 2021-03-30T16:55:00Z
+    webUrl: "https://www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914"
+    ampWebUrl: "https://www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/15/a-person-waves-a-rainbow-flag-in-front.jpg"
         width: 1024
         height: 681
         isCached: true
@@ -110,6 +142,6 @@ related:
         height: 682
         isCached: true
 
-secured: "UqecMN7scdlePm5dyMK5xqR4l32d5cUpPGT6Z5kJGT1LtsM93J8JQThxBKaSQdMXvTzPHTKGTh1LDdLr6LWhdt9lC/Z2cNWQ9vZ2y/xbXHia7QP/jWhfmkz6NdOZWJN4xt3J64bVOQUy/X6PzVnTHJFzbTKEu3Y/CnpOvTqypCDxFd7li2EOdP4tm/59o3GEaFKNk0oicMgqlXCdmTPt8vHULAbDe2psQEfzlSi6hvQen/dXU5ynjUg0BiOKcB1tK56D8e2Fnni9QwWSb/YVIJfNP7mbgCBY+HNnUPoUzQ5PhNFuwvSIh0n7e1Lj9WfJEuqiUKRF5+Eru9MctT0Yoqs5RRu1UEcw0DqF3g0K+wg=;nuQfsMlEXveCEZL+uR2kjA=="
+secured: "xMZYqvcd5v+WR0px7afqjID/53E7AWQl8rr3Cs9fPSRvv2Dx5Gem33DIsoe6vqLMnouw+42U26dQqXAtGSOAH5maZbkIFzzL3HFb48Da5k8o2dUzMYtmkOOTTaxD8F3kiwPEJIxsZcG5Azfb1Z8PF+FJH2QMt9LlDYYH6Lqqf4l4werxQvrDg8C6L3qzH5ilJALxGSRpwhESnI0OLhARpat1EtLaNJtlQdhG+ypSrHCveCTbNARyBARUp0f7JkZDmLi7s63skJ7ZgIVqQ2CkYnANTGoAXC71mMkzHIjYZHIuQHi0Ql2+Cs1wptnYSu2hZf5p+aI5imohN3O6FO3IzscEgo0fSv3svP8G5SLh+YgYV09qONqQ8ks7y0FuScNdY2hXsnG1AOCFmI10M9n+kpRtUnbYoXAZQZ4MfZGB7tQ8Ya2hpNLOgqHHapc/V9Si2Ah5FXmd0RRO+MNFfWZHlfeQ9sj2EzfTEv01uOoa7qYs+U1eKBCgER6YI7lVudAgV4ufvfr0wbLeRwkl2US6Cw==;st8n4vN/T7dlP8U3gwVeoA=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Poll: One-third would use a Trump-backed social media platform"
+    excerpt: "One-third of voters said they would use a social media platform that was backed by former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite vaccine ..."
+    publishedDateTime: 2021-03-30T19:27:00Z
+    webUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform"
+    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_010421getty_trump-va.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies"
     excerpt: "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,"
     publishedDateTime: 2021-03-24T10:29:00Z
@@ -76,6 +92,22 @@ related:
     quality: 74
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trump-was-acquitted-in-his.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Trump-Dominated Appeals Court Rules Misgendering Professor Can Sue University"
+    excerpt: "And they have tried not to stifle debate by picking sides.\" Judge Thapar, a Donald Trump appointee, was joined by Judges David McKeague and Joan Larsen. The two judges were appointed by George W. Bush and Trump, respectively. Shawnee State University ..."
+    publishedDateTime: 2021-03-30T16:55:00Z
+    webUrl: "https://www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914"
+    ampWebUrl: "https://www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/15/a-person-waves-a-rainbow-flag-in-front.jpg"
         width: 1024
         height: 681
         isCached: true

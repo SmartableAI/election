@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expanding pause on student loan interest and collections"
+    excerpt: "The Biden administration is expanding the pause on student loan interest and collections to the more than a million borrowers who are in default on loans made by private lenders, White House press secretary Jen Psaki said Tuesday.\n    \n"
+    publishedDateTime: 2021-03-30T18:10:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pRx6SlrQTbw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/student-loans-collections-pause-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/student-loans-collections-pause-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005171032-01-parents-college-students-kids-safely-wellness-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to highlight gains and face tough scrutiny in first formal news conference"
     excerpt: "President Joe Biden's first two months in power went remarkably smoothly considering he took office amid a once-in-a-century pandemic, a consequent economic crisis and his predecessor's refusal to recognize his victory. But in his first formal news conference Thursday, he'll face scrutiny on gun control"
     publishedDateTime: 2021-03-25T05:54:51Z

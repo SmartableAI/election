@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-ni
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
 type: article
 quality: 75
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "SNL invites Maya Rudolph’s Kamala Harris and Martin Short’s Doug Emhoff to host a Passover Seder"
+    excerpt: "Maya Rudolph returned to host \"Saturday Night Live,\" where she was joined in sketches by fellow SNL alumni Martin Short, Tina Fey and Rachel Dratch."
+    publishedDateTime: 2021-03-28T19:09:00Z
+    webUrl: "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZIY2IYX2FZCPTOYNWPMUJZFOD4.jpeg&w=1440"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
+    excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
+    publishedDateTime: 2021-03-22T17:08:00Z
+    webUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.html"
+    ampWebUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 71
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/ff/9fff39ec-8b26-11eb-9974-ebd1af91d058/5fa6d8b7cf982.image.jpg?crop=299%2C487%2C929%2C107"
+        width: 299
+        height: 487
+        isCached: true
   - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
     excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
     publishedDateTime: 2021-03-28T04:38:00Z
@@ -59,19 +91,19 @@ related:
         width: 1200
         height: 613
         isCached: true
-  - title: "New Haven pastor says clergy, others should have been at Kamala Harris appearance"
-    excerpt: "The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association, said Monday it was inappropriate for him and other officials not to have been invited to Vice President Kamala Harris’ recent appearance at the Boys & Girls Club of New Haven,"
-    publishedDateTime: 2021-03-29T22:38:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/New-Haven-pastor-says-clergy-others-should-have-16062047.php"
+  - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
+    excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
+    publishedDateTime: 2021-03-27T17:18:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-got-another-dose-of-16057956.php?src=sthpdesecp"
     type: article
     provider:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 50
     images:
-      - url: "https://s.hdnux.com/photos/01/12/26/15/19489630/32/rawImage.jpg"
+      - url: "https://s.hdnux.com/photos/01/16/62/33/20653798/11/rawImage.jpg"
         width: 2048
-        height: 1585
+        height: 1374
         isCached: true
 
 secured: "PnC+QlULtFN+S/TEv23J3wG+ITyI2vps/BM/AtVF32O7pjf9EkIgQ5ijhMU/O+CxKKYEpDRia9A69OKuLF1GYhnOyfm+6rjZwe85FaXDBbwh3PkndX5gh9zVeRxTb6/NeXPNeDtKxKs4Wct5FDVUEuNMRTEojtxvPGjJmDocmvKAtTs5jUroeQ5iY9qGvxhIS2FYmql65O5ytzUdxNHE14wMDCDmXlLmmupvQ4M53vl7GGKNZ3ZHxsnhXWRBfG/eF9ZiV6ZElmp6X3z/IHmUJ9BmqcMYATXvrGZTQs7ohZs6twytWqWtewBnZHU6y09Z2mXTbtJqot74xkuRGnrISIqJYQ7riPUSoJSC+GDeLJOF3iqg7/ze8gbV16olRyAdB38Fh3m0bbEnFvsClslVSZIHpEku/xG1bsCqNRrRSr8mRetCCLVC/Qe0N0U3JYxhHO2AMz+gkQvTwcgLbFhVdnzeRmzmpuQmDPRylTSeVZQR12cPd954uuJc63KXoQO0WVtuqR42lpmbG95/fbyelQ==;AZ2bmv80kOEp4KivZdcBpg=="

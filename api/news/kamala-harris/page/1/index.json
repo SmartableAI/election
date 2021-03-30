@@ -2,6 +2,120 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-30-pavlich-calls-out-vp-harris-stop-laughing-when-youre-asked-serious-questions.md",
+      "title": "Pavlich calls out VP Harris: 'Stop laughing when you're asked serious questions'",
+      "excerpt": "The Biden administration's border policies are creating a catastrophe for everyone, Fox News contributor Katie Pavlich said Tuesday on 'Outnumbered,' in reaction to migrants receiving in-person schooling in San Diego while American students are continuing to learn from home.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ArQxY1XwKlw/kamala-harris-laughs-schools-learning-pavlich",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ArQxY1XwKlw/kamala-harris-laughs-schools-learning-pavlich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e35288a9-c026-45ee-8d2c-04832f5257c9/5c5c0e96-d1f5-4a09-a864-d89efa3afb85/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp",
+      "publishedDateTime": "2021-03-30T12:41:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-kamala-harris-events-lack-of-clergy-an-insult-to-the-black-community-pastor-says.md",
+      "title": "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says",
+      "excerpt": "A pastor in Connecticut said the lack of clergy at an event hosted by Vice President Kamala Harris is \"an insult to the Black community.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp",
+      "publishedDateTime": "2021-03-30T12:14:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-kamala-harris-stepson-cole-emhoff-calls-out-snl-for-omitting-him-from-family-skit.md",
       "title": "Kamala Harris' stepson Cole Emhoff calls out 'SNL' for omitting him from family skit",
       "excerpt": "Kamala Harris' stepson Cole Emhoff was disappointed \"Saturday Night Live\" left him out of a sketch portraying his family.",
@@ -67,7 +181,7 @@
       "originalUrl": "https://www.charlotteobserver.com/entertainment/tv/article250289770.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -159,21 +273,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-28-snl-maya-rudolph-martin-short-play-kamala-harris-doug-emhoff.md",
-      "title": "'SNL:' Maya Rudolph, Martin Short play Kamala Harris, Doug Emhoff",
-      "excerpt": "Saturday Night Live alum Maya Rudolph returned to guest host the sketch-comedy series this weekend. Rudolph reprised her role of Kamala Harris, vice president of the United States, while comedian and former SNL star Martin Short made a surprise appearance as Harris' shy,",
+      "path": "_news/2021-03-29-snl-invites-maya-rudolphs-kamala-harris-and-martin-shorts-doug-emhoff-to-host-a-passover-seder.md",
+      "title": "SNL invites Maya Rudolph’s Kamala Harris and Martin Short’s Doug Emhoff to host a Passover Seder",
+      "excerpt": "Maya Rudolph returned to host \"Saturday Night Live,\" where she was joined in sketches by fellow SNL alumni Martin Short, Tina Fey and Rachel Dratch.",
       "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
-      "originalUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
+      "webUrl": "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/",
+      "originalUrl": "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 212,
       "tags": null,
       "images": [
         {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/5701616939292/2021/1/f2b1a89417fc11cd4b17e790312cb091/v1.5/SNL-Maya-Rudolph-Martin-Short-play-Kamala-Harris-Doug-Emhoff.jpg",
-          "width": 800,
-          "height": 531,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZIY2IYX2FZCPTOYNWPMUJZFOD4.jpeg&w=1440",
+          "width": 1000,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,14 +295,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
-      "publishedDateTime": "2021-03-28T09:43:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp",
+      "publishedDateTime": "2021-03-28T12:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -356,54 +479,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-watch-vp-kamala-harris-visits-child-development-center-in-connecticut.md",
-      "title": "Watch: VP Kamala Harris Visits Child Development Center In Connecticut",
-      "excerpt": "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/538866.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html",
-      "publishedDateTime": "2021-03-26T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     },
     {
@@ -586,7 +661,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/21/vice-president-kamala-harris-jacksonville-florida-visit/4792761001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 410,
+      "heat": 370,
       "tags": null,
       "images": [
         {
@@ -1543,63 +1618,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-steve-hilton-kamala-harris-silent-on-cuomo-allegations-after-grandstanding-at-kavanaugh-hearings.md",
-      "title": "Steve Hilton: Kamala Harris silent on Cuomo allegations after ‘grandstanding’ at Kavanaugh hearings",
-      "excerpt": "“The focus should be on Vice President Kamala Harris” amid the sexual harassment allegations against N.Y. Gov. Andrew Cuomo, Fox News “The Revolution” host Steve Hilton said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
-      "publishedDateTime": "2021-02-26T12:05:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

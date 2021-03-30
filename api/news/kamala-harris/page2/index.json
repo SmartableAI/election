@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-26-steve-hilton-kamala-harris-silent-on-cuomo-allegations-after-grandstanding-at-kavanaugh-hearings.md",
+      "title": "Steve Hilton: Kamala Harris silent on Cuomo allegations after ‘grandstanding’ at Kavanaugh hearings",
+      "excerpt": "“The focus should be on Vice President Kamala Harris” amid the sexual harassment allegations against N.Y. Gov. Andrew Cuomo, Fox News “The Revolution” host Steve Hilton said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
+      "publishedDateTime": "2021-02-26T12:05:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.md",
       "title": "Pelosi vows to keep minimum wage provision in House bill; Harris could act",
       "excerpt": "The Senate's chief parliamentarian ruled Thursday that a federal minimum wage hike should not be included in the $1.9 trillion COVID-19 relief package, but that seemed to do little to deter House Democrats from pursuing the plan — against impossible odds.",
@@ -1573,49 +1630,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast.md",
-      "title": "Progressive Indian bistro Aurum opens in Los Altos with a Kamala Harris tribute feast",
-      "excerpt": "Now in Los Altos, he has teamed up with Anupam Bhatia, the restaurateur who founded Broadway Masala in Redwood City, to open a contemporary Indian bistro called Aurum. After a soft opening, Aurum — the name,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/",
-      "originalUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-AURUM-0118.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/",
-      "publishedDateTime": "2021-01-18T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

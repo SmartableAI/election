@@ -639,6 +639,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
+    excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
+    publishedDateTime: 2021-03-30T17:44:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-6063448a8f0807bf71ddea4f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/61be9c4ea47590ba4a25375de48c9334d6cf1f4d/0_198_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=497c53613623a4cc3e08d76fef99cc6f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Mitch McConnell Attacks COVID Stimulus Joe Biden Hoped Would Be Bipartisan"
     excerpt: "McConnell tweeted about the $1.9 trillion package in what could be seen as a blow to efforts to win bipartisan support. President Joe Biden had previously expressed a hope that Republicans would come on board."
     publishedDateTime: 2021-02-23T08:36:00Z

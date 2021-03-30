@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-10-twitter-confirms-it-halted-hang-mike-pence-as-a-trending-topic.md",
+      "title": "Twitter Confirms It Halted 'Hang Mike Pence' as a Trending Topic",
+      "excerpt": "The topic trended briefly, with many people quoting Trump supporters who invaded the Capitol Wednesday chanting the phrase, as a noose awaited outside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253",
+      "originalUrl": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1702324/twitter-suspended-trump-trending-topic-pence.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253?amp=1",
+      "publishedDateTime": "2021-01-09T11:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-all-honor-to-mike-pence.md",
       "title": "All Honor to Mike Pence",
       "excerpt": "We have an editorial up titled “Mitch McConnell’s Finest Hour” that also makes a nod to the admirable role which Mike Pence played in the proceedings on Wednesday. I want to underline that point because I thought Pence would recuse himself,",

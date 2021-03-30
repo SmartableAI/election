@@ -2,6 +2,233 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-30-pavlich-calls-out-vp-harris-stop-laughing-when-youre-asked-serious-questions.md",
+      "title": "Pavlich calls out VP Harris: 'Stop laughing when you're asked serious questions'",
+      "excerpt": "The Biden administration's border policies are creating a catastrophe for everyone, Fox News contributor Katie Pavlich said Tuesday on 'Outnumbered,' in reaction to migrants receiving in-person schooling in San Diego while American students are continuing to learn from home.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ArQxY1XwKlw/kamala-harris-laughs-schools-learning-pavlich",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ArQxY1XwKlw/kamala-harris-laughs-schools-learning-pavlich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e35288a9-c026-45ee-8d2c-04832f5257c9/5c5c0e96-d1f5-4a09-a864-d89efa3afb85/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp",
+      "publishedDateTime": "2021-03-30T12:41:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-blinken-announces-plans-to-roll-back-trump-era-human-rights-initiatives.md",
+      "title": "Blinken announces plans to roll back Trump-era human rights initiatives",
+      "excerpt": "Secretary of State Antony Blinken diverted from the Trump administration’s human rights priorities as he unveiled the 2020 Country Reports on Human Rights Practices. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QznWelcPtvM/blinken-roll-back-trump-era-human-rights-initiatives-conservatives",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QznWelcPtvM/blinken-roll-back-trump-era-human-rights-initiatives-conservatives",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Blinken-AP.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blinken-roll-back-trump-era-human-rights-initiatives-conservatives.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-roll-back-trump-era-human-rights-initiatives-conservatives.amp",
+      "publishedDateTime": "2021-03-30T12:38:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-kamala-harris-events-lack-of-clergy-an-insult-to-the-black-community-pastor-says.md",
+      "title": "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says",
+      "excerpt": "A pastor in Connecticut said the lack of clergy at an event hosted by Vice President Kamala Harris is \"an insult to the Black community.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp",
+      "publishedDateTime": "2021-03-30T12:14:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-summer-zervos-lawsuit-against-donald-trump-can-move-forward.md",
+      "title": "Summer Zervos Lawsuit Against Donald Trump Can Move Forward",
+      "excerpt": "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269",
+      "originalUrl": "https://www.wsj.com/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318142/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269",
+      "publishedDateTime": "2021-03-30T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-who-is-judge-ketanji-brown-jackson-bidens-nominee-to-replace-ag-garland-on-powerful-dc-circuit-court.md",
       "title": "Who is Judge Ketanji Brown Jackson, Biden's nominee to replace AG Garland on powerful DC Circuit Court?",
       "excerpt": "D.C. District Judge Ketanji Brown Jackson is President Biden's nominee to fill the D.C. Circuit Court of Appeals seat of newly-minted Attorney General Merrick Garland, making her the most high-profile choice among the president's first round of judicial nominations.",
@@ -143,63 +370,6 @@
       "ampWebUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
       "publishedDateTime": "2021-03-30T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows.md",
-      "title": "School districts that backed Trump are returning to in-person classes more quickly, data shows",
-      "excerpt": "School districts in counties where a majority of voters cast their ballots for Donald Trump in the 2020 presidential election are more likely to have students back in classrooms, according to a website that tracks reopenings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows",
-      "originalUrl": "https://www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/school-reopenings-based-on-voting.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows.amp",
-      "publishedDateTime": "2021-03-30T07:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -465,7 +635,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1344,54 +1514,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-27-watch-vp-kamala-harris-visits-child-development-center-in-connecticut.md",
-      "title": "Watch: VP Kamala Harris Visits Child Development Center In Connecticut",
-      "excerpt": "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/538866.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html",
-      "publishedDateTime": "2021-03-26T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-26-romney-receives-jfk-profile-in-courage-award-for-voting-to-convict-trump-on-first-impeachment-charge.md",
       "title": "Romney receives JFK 'Profile in Courage' award for voting to convict Trump on first impeachment charge",
       "excerpt": "Sen. Mitt Romney, R-Utah, received the John F. Kennedy Library Foundation’s 2021 “Profile in Courage” award on Thursday for what the organization described as his “historic” vote to convict former President Donald Trump during his first impeachment trial last year.",
@@ -1516,7 +1638,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 415,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -1533,118 +1655,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp",
       "publishedDateTime": "2021-03-26T08:09:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-mike-lee-bidens-handling-of-migrant-surge-during-pandemic-absolutely-defies-reason-and-logic.md",
-      "title": "Mike Lee: Biden's handling of migrant surge during pandemic 'absolutely defies reason and logic'",
-      "excerpt": "Sen. Mike Lee, R-Utah, said Friday that the Biden administration's immigration policy regarding COVID-positive migrants 'absolutely defies reason and logic.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eVdR4d6IWoc/biden-border-crisis-covid-migrants-mike-lee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eVdR4d6IWoc/biden-border-crisis-covid-migrants-mike-lee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7358c99-18f0-4305-84f6-bcd084125526/ddf94192-1092-447f-af70-61e7d5bdba5b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-covid-migrants-mike-lee.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-covid-migrants-mike-lee.amp",
-      "publishedDateTime": "2021-03-26T06:42:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-biden-in-2005-said-nixing-the-filibuster-upsets-the-constitutional-design-and-would-eviscerate-the-senate.md",
-      "title": "Biden in 2005 said nixing the filibuster 'upsets the constitutional design' and would 'eviscerate the Senate'",
-      "excerpt": "Sen. Ben Sasse, R-Neb., spent over an hour on the Senate Wednesday night reading a 2005 speech from President Biden verbatim  where he said eliminating the filibuster would “eviscerate the Senate.” ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hFYZ77RF_p0/sen-ben-sasse-reads-bidens-filibuster-defense",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hFYZ77RF_p0/sen-ben-sasse-reads-bidens-filibuster-defense",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21036581973148.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-ben-sasse-reads-bidens-filibuster-defense.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ben-sasse-reads-bidens-filibuster-defense.amp",
-      "publishedDateTime": "2021-03-25T17:02:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

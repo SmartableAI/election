@@ -1,0 +1,70 @@
+---
+category: news
+title: "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says"
+excerpt: "A pastor in Connecticut said the lack of clergy at a local event hosted by Vice President Kamala Harris is \"an insult to the Black community.\" The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association at a Monday press ..."
+publishedDateTime: 2021-03-30T19:20:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp"
+type: article
+quality: 128
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Kamala Harris
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says"
+    excerpt: "A pastor in Connecticut said the lack of clergy at an event hosted by Vice President Kamala Harris is \"an insult to the Black community.\""
+    publishedDateTime: 2021-03-30T19:14:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Watch: VP Kamala Harris Visits Child Development Center In Connecticut"
+    excerpt: "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon."
+    publishedDateTime: 2021-03-26T20:47:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/538866.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
+
+secured: "ih6zmXaEI2nSlQYZzBRuqRnpnFEd6M+OSvNWiMytXgK/JxxyJhH4BDFYrOfNsEIx0ZdBELFyIX8VbiwnSMHxje9k4rvADtLmLUmiOAIYk+hX3xw8z/gbUQt1Jz3HncHebL8kqvqriQa73SCTvkLvDq5NPovgoTQBTazt42p0KxUj4/XzdWZ4pZvDIBI1EwaUik4IivyTLvtXKsf0RuB8sQbAmvl7IT2oNdyIGXZ5guFHFavd7RoeuEtt3OrD4gOohP7DPbz09yU0FYR41HSxiX5bO5KblMgC7cndDc/RUQMV7F5vwVOjSuyXdGwpLHAQ7njI37ql8JfbOzqsZjO1Z0rh6Heg4tZhRW/Ad2Dj0Yc=;ZSXqSCN8SV/tyCeAPAGoZQ=="
+---
+

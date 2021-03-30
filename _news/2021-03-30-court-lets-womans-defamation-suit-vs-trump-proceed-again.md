@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Poll: One-third would use a Trump-backed social media platform"
+    excerpt: "One-third of voters said they would use a social media platform that was backed by former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite vaccine ..."
+    publishedDateTime: 2021-03-30T19:27:00Z
+    webUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform"
+    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_010421getty_trump-va.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
     excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
     publishedDateTime: 2021-03-29T21:27:00Z
@@ -76,6 +92,22 @@ related:
     quality: 74
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trump-was-acquitted-in-his.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Trump-Dominated Appeals Court Rules Misgendering Professor Can Sue University"
+    excerpt: "And they have tried not to stifle debate by picking sides.\" Judge Thapar, a Donald Trump appointee, was joined by Judges David McKeague and Joan Larsen. The two judges were appointed by George W. Bush and Trump, respectively. Shawnee State University ..."
+    publishedDateTime: 2021-03-30T16:55:00Z
+    webUrl: "https://www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914"
+    ampWebUrl: "https://www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/15/a-person-waves-a-rainbow-flag-in-front.jpg"
         width: 1024
         height: 681
         isCached: true
@@ -110,6 +142,6 @@ related:
         height: 682
         isCached: true
 
-secured: "SbTCKe8pLlbmab7zFhRHxoVQxWR4pIGM/3VbnFaR0yTs5IFooijxepKJhosQdto5AQQ5GR035YDiUlITDkFaX0XsXb7lk4apqMZNuXAEBSpg4DLVMK8C80LzkMKOpxK/0f2diYBgxgZKtVMVWboTa/kGx51VkGttO7ZtuS00nG5SzXJ9fTs2CvQX4rOqT5SbRxqhNY45KpkAbTCWQWoniinN8a6TTYejyHGAcFDWkr6JT0ClNm5A/RMLZxyILV3QibN95R3YLMyTs5/hOXikTImYGXS74zWoro4KubE3JoXjlkHK9aeENcv/DDxbOvpQO5J6Iuj3JsvqueAoCI3UgtkP8jV9eC/56RQwDsZthkM=;vE2QZuY9L+YfLZ40CQZyrw=="
+secured: "dtKnlDSYqFeHmR7IgmFbNjtucs/WeHn8OBk9qITuvWRNJdq0NnLKP1S0qDmWYcZlQTtI2iSGWu+JMWb/B2igOGUo9vXLDGvpBy49Vs2uzs8DRgi5t52Trq2t4IQIYgWMshbbdcnzczcojbfZnadCr88J4RTOEuvLlqe6N9TQWgj4i0Vs32NZEL5HpP3RF/ylER/jDC2NvNPj0Yb33JEwkWNIcLrG+PLoBhQ9l1bX9xPFW8WcfrO5GCCEZUb/gJ9O6s3cwhZLHhDuOxT4Jzs3GiukYuuiMEYKGJdrMbr8wbqOqBi1uYJfhKF9MNc3/O9r3pruf6uO9sHvVMbhP2mTGCxAiVf2sii14Gpx9cEUOw4KKWB2vC9NwZV1ffYX4v42DCaIpS/2V5n8ILqZasJ/qDK3w0i0uAMBiYC8Y7XBxXdi+Uv06jIm2p2ipK3ilcLO66zETV1LLjmdyWgrem8etZtN//Glu6u996LqFmyQ6beY1jXmB9JMve3E2AzphgwG0yCac9CuLgmoCmnw/tN+BQ==;kcb0IrZG/6g16of/9k1PrQ=="
 ---
 

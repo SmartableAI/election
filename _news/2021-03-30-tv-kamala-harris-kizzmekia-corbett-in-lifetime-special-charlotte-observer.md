@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.charlotteobserver.com/entertainment/tv/article250289770.
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/entertainment/tv/article250289770.html"
 type: article
 quality: 72
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/07/30754044-ee64-5908-89be-bd9d8f26fa7c/605e3da0156bc.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "New Haven pastor says clergy, others should have been at Kamala Harris appearance"
+    excerpt: "The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association, said Monday it was inappropriate for him and other officials not to have been invited to Vice President Kamala Harris’ recent appearance at the Boys & Girls Club of New Haven,"
+    publishedDateTime: 2021-03-29T22:38:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/New-Haven-pastor-says-clergy-others-should-have-16062047.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 50
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/26/15/19489630/32/rawImage.jpg"
+        width: 2048
+        height: 1585
         isCached: true
 
 secured: "r0ie+EVzTlgBQZkr+MMF6dVyfFQonPg976PlYfkqroRfEiB8n10a8A8oKJEZkFRlaPadqSyTGXHiSwYQF4fhEotXKNaUvOAPklHSj/ddxcaHlJExSh85GpPOVFILy5a6dxXb7/XRygzfcw0lJ1fG9M32SOCmoEre9rOLjQnBk0CMW0xBitOihPg8pOrufcQvieET1Q++8BIB5ZL9+MqfSDdMXWTG8evTnFhhFey03Z+o2xFYGTbwDj+GzMjz+q7Ihm5/spbucy0SqMkAMStAEWCVjapB6XPWFCaJhrAhJ8yZ0nKwP682jbY3pT2PAxpLOlANMqF83I+4p35M8fypBJubyqildAzRk0NKCeKym2E=;PH0OPM6vNOh1L9EeU3LXXw=="

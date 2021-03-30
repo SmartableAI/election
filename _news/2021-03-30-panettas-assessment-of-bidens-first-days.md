@@ -58,6 +58,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden approval numbers on immigration sink amid border crisis: poll"
+    excerpt: "A new poll indicates that Americans are giving President Biden a big thumbs up on dealing with the coronavirus pandemic. But when it comes to the divisive issue of immigration and border security, the survey suggests that the president’s approval rating plummets."
+    publishedDateTime: 2021-03-30T19:49:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7v4W1sseQnE/biden-immigration-approval-numbers-sink-border-crisis-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-approval-numbers-sink-border-crisis-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-approval-numbers-sink-border-crisis-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden judicial nominee would be first Muslim federal judge in US history"
+    excerpt: "President Biden on Tuesday nominated Judge Zahid N. Quraishi to be a federal judge on the U.S. District Court for the District of New Jersey, a move that would make the Army veteran the first-ever lifetime-appointed Muslim federal judge if confirmed. "
+    publishedDateTime: 2021-03-30T18:43:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1rT6O4ZYCpc/biden-judicial-nominee-first-muslim-federal-judge-us-history"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
     excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
     publishedDateTime: 2021-03-08T17:50:47Z
@@ -197,6 +229,36 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/mike-braun2-thumb.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden judicial nominee would be first Muslim federal judge in US history"
+    excerpt: "Some Republicans, meanwhile, have broadly criticized Biden's nominees. \"It's payback time -- we know that liberal dark money organizations spent millions of dollars to put President Joe Biden in the White House in terms of contributing to his campaign."
+    publishedDateTime: 2021-03-30T18:47:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/joe-biden-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden's Weakness On World Stage Is Dangerous"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-03-30T18:59:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/30/bidens_weakness_on_world_stage_is_dangerous_539365.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539202_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Biden Asks Governors To Reinstate Mask Mandate: \"Please, This Is Not Politics\""
     excerpt: "President Joe Biden called on governors that have lifted mask mandates in their states to reimpose them in remarks delivered Monday updating the public on the administration's response to the COVID-19 pandemic. Earlier in March, Biden called the decision ..."

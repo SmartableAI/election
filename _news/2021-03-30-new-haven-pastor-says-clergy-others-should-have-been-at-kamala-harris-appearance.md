@@ -25,53 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "'SNL:' Maya Rudolph, Martin Short play Kamala Harris, Doug Emhoff"
-    excerpt: "Saturday Night Live alum Maya Rudolph returned to guest host the sketch-comedy series this weekend. Rudolph reprised her role of Kamala Harris, vice president of the United States, while comedian and former SNL star Martin Short made a surprise appearance as Harris' shy,"
-    publishedDateTime: 2021-03-28T16:43:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+  - title: "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Charlotte Observer"
+    excerpt: "Women Making History (9 p.m., Lifetime) - This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine ..."
+    publishedDateTime: 2021-03-30T11:03:00Z
+    webUrl: "https://www.charlotteobserver.com/entertainment/tv/article250289770.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/entertainment/tv/article250289770.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/entertainment/tv/article250289770.html"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5701616939292/2021/1/f2b1a89417fc11cd4b17e790312cb091/v1.5/SNL-Maya-Rudolph-Martin-Short-play-Kamala-Harris-Doug-Emhoff.jpg"
-        width: 800
-        height: 531
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/8e831fcf-b0fe-4821-9639-a1c1dccab51a/b8f21ad2-5b84-4548-b003-1266b304582c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
-    excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
-    publishedDateTime: 2021-03-28T04:38:00Z
-    webUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7035466002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7035466002"
+  - title: "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Raleigh News & Observer"
+    excerpt: "This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine for COVID-19."
+    publishedDateTime: 2021-03-30T11:03:00Z
+    webUrl: "https://www.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
+    ampWebUrl: "https://amp.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 64
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/28/USAT/93b27ee4-d78f-4524-9dad-efc75379eb67-NUP_193635_0022.JPG?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/8e831fcf-b0fe-4821-9639-a1c1dccab51a/b8f21ad2-5b84-4548-b003-1266b304582c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "‘Saturday Night Live’: Maya Rudolph and Martin Short host Passover Seder as Kamala Harris and Doug Emhoff"
-    excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback.It didn’t come until a third of the way through the episode,"
-    publishedDateTime: 2021-03-28T15:42:00Z
-    webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
-    ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+  - title: "Fact-checking false and misleading claims about Kamala Harris, online Taco Bell offers and more"
+    excerpt: "Associated Press writer Jude Joffe-Block in Phoenix contributed this report. CLAIM: Vice President Kamala Harris disrespected the military when she failed to salute the military escorts when boarding Air Force Two on March 19 in Georgia. THE FACTS ..."
+    publishedDateTime: 2021-03-26T23:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/fact-checking-false-and-misleading-claims-about-kamala-harris-online-taco-bell-offers-and-more/article_ebc9ea55-a4dc-551c-babb-0452e553abd9.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/fact-checking-false-and-misleading-claims-about-kamala-harris-online-taco-bell-offers-and-more/article_ebc9ea55-a4dc-551c-babb-0452e553abd9.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/fact-checking-false-and-misleading-claims-about-kamala-harris-online-taco-bell-offers-and-more/article_ebc9ea55-a4dc-551c-babb-0452e553abd9.amp.html"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 58
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 63
     images:
-      - url: "https://www.baltimoresun.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
-        width: 1200
-        height: 613
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/07/30754044-ee64-5908-89be-bd9d8f26fa7c/605e3da0156bc.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "KGNBx+mB8AjfDNPDPAntcHpR0coaJsoFK2d8FaXKWx3zOIewt58YwXR8M3QO6qP4WH4Q7clTBt3eAIzEYo+8NHSRXTgHkdwYqdnaiGIiTSSqGzMpfBUxxz1jpvohS6N2Fu+q8I/LWu6Rb+qeLq8jZXXRRPIU+bfNbNwM5vBX9tQ2jh87MhzWMNVaRPgVfTiWilugLfrTWS+Q52acwjL2Bv1FQ4sKfrdlV6gDo1u1AlLJNnoI5DfVLVgUwdZKth7L9Z/J2hRUZ187qFCkYPQI/Jiyty6jgK8kBPImsBlCwYuLUjQ75H9QxjmxgLdW8NlX/wbdYZmSurPbdZeQ3/kXAryD6wwRmJBRpLrpGkJ7kHo5HK5xz+Hux7jADyPImXKfVG5nqhCUDI3X0fAcBy2DSTLu5lUB7jUNrk+k2VTrJkrdLSC+KjY2XMr7FGofTA6TbiUTyWCPZ/YDEgzNvsAqY81r4YPqKBkYNNdLG92Z9voJzwTMoivo51raDTjXY15fdGtxdKoRdykQchI3J6aKKA==;Mjkdk3spHUanWnp48Q950w=="

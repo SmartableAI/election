@@ -2,6 +2,274 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-22-morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns.md",
+      "title": "Morning mail: NSW floods worsen, Australia exports 'negative climate policy', Trump returns",
+      "excerpt": "After reviewing policies and procedures, Buckingham Palace has acknowledged that “more needs to be done”. Recently Donald Trump has released short, combative statements that many observers have likened to his tweets of old. Photograph: John Raoux/AP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2021/mar/22/morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns",
+      "originalUrl": "https://www.theguardian.com/australia-news/2021/mar/22/morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/72ddb0c4f51fe31a576cf63feefd1cd1050b93a3/0_80_1200_720/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b992d7764eb421318decccd865b4b8bc",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-21T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-trump-will-use-his-own-platform-to-return-to-social-media-after-twitter-ban.md",
+      "title": "Trump will use 'his own platform’ to return to social media after Twitter ban",
+      "excerpt": "Last modified on Sun 21 Mar 2021 13.28 EDT Donald Trump will soon use “his own platform” to return to social media, an adviser said on Sunday, months after the former president was banned from Twitter for inciting the US Capitol riot. 'His new business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b8820e18168688651182ed377b8200453cd4ec97/0_67_3662_2198/master/3662.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddc69c23776ae3fcd0e41fb42a07b4da",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
+      "publishedDateTime": "2021-03-21T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-trump-returning-to-social-media-with-his-own-platform-in-2-3-months-adviser.md",
+      "title": "Trump returning to social media with 'his own platform' in 2-3 months: adviser",
+      "excerpt": "Former President Donald Trump will be back on social media in the near future with his own service, according to one of his senior advisers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bY37miIFR0o/trump-social-media-platform-return-adviser",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bY37miIFR0o/trump-social-media-platform-return-adviser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-social-media-platform-return-adviser.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-platform-return-adviser.amp",
+      "publishedDateTime": "2021-03-21T09:11:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-moncef-slaoui-trumps-vaccine-chief-very-concerned-about-gop-vaccine-hesitancy.md",
+      "title": "Moncef Slaoui, Trump's vaccine chief, \"very concerned\" about GOP vaccine hesitancy",
+      "excerpt": "the former scientific head of Operation Warp Speed during the Trump administration, said he's \"very concerned\" and perplexed by hesitancy among some Republicans to take COVID-19 vaccines, and encouraged former President Donald Trump and GOP leaders to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "originalUrl": "https://www.cbsnews.com/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/21/ba6799a6-7b65-4da7-984d-2a4c936daaab/thumbnail/1200x630/ecff0ddb891220417838e9230d224413/moncef2.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "publishedDateTime": "2021-03-21T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-biden-response-to-border-crisis-isnt-incompetence-but-is-by-design-tom-homan-tells-mark-levin.md",
+      "title": "Biden response to border crisis 'isn't incompetence', but 'is by design', Tom Homan tells Mark Levin",
+      "excerpt": "President Biden \"sold out this country to the progressive left to win an election,\" former Immigration and Customs Enforcement Acting Director Tom Homan told \"Life, Liberty & Levin\" in an interview airing Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJr1aoXS4Kw/biden-border-crisis-response-not-incompetence-tom-homan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJr1aoXS4Kw/biden-border-crisis-response-not-incompetence-tom-homan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85ed63e1-7d08-4ba3-9089-3e3da4c162c2/e8c0aeec-b5ff-47b0-a5e1-9a7358da7637/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-response-not-incompetence-tom-homan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-response-not-incompetence-tom-homan.amp",
+      "publishedDateTime": "2021-03-21T04:30:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-biden-dhs-chief-says-border-is-closed-but-us-wont-expel-children.md",
       "title": "Biden DHS chief says 'border is closed' but U.S. won't expel children",
       "excerpt": "In brief comments Sunday, President Joe Biden said he would visit the border \"at some point,\" adding that \"a lot more\" can be done to ensure migrants don't travel to the border. \"We’re in the process of doing it now, including making sure that we ...",
@@ -1081,279 +1349,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter.md",
-      "title": "Study shows Trump's \"Chinese virus\" tweet sparked increased use of anti-Asian hashtags on Twitter",
-      "excerpt": "A tweet by then-President Trump using the phrase \"Chinese virus\" sparked an increase in the use of anti-Asian hashtags on Twitter, according to a University of California, San Francisco study published on Wednesday. Researchers examined nearly 700,000 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "originalUrl": "https://www.cbsnews.com/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/16/dda11331-c7e4-496d-b559-bc92ae2645e3/thumbnail/1200x630/b560b80e1fded362511a619970848848/cbsn-fusion-twitter-purges-accounts-associated-with-qanon-thumbnail-669403-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/study-shows-trumps-chinese-virus-tweet-sparked-increased-use-of-anti-asian-hashtags-on-twitter/",
-      "publishedDateTime": "2021-03-19T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.md",
-      "title": "Texas wax museum moves Trump statue because visitors kept hitting it: report",
-      "excerpt": "The owner of Louis Tussaud’s Waxworks in San Antonio said the museum removed a statue of former President Trump because too many visitors punched and scratched the figure, a report said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5LHYLgaC0U/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5LHYLgaC0U/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.amp",
-      "publishedDateTime": "2021-03-18T23:44:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-kellyanne-conway-michael-wolff-jonathan-karl-among-those-reportedly-writing-post-white-house-trump-books.md",
-      "title": "Kellyanne Conway, Michael Wolff, Jonathan Karl among those reportedly writing post-White House Trump books",
-      "excerpt": "The era of explosive tell-all books about the Trump presidency is apparently not over, even though the presidency itself has ended.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books",
-      "originalUrl": "https://www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Conway-Wolff-Haberman-Karl.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books.amp",
-      "publishedDateTime": "2021-03-18T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-biden-meets-with-un-security-council-members-to-talk-climate.md",
-      "title": "Biden meets with UN Security Council members to talk climate",
-      "excerpt": "President Joe Biden has told the permanent representatives of the U.N. Security Council that the United States will join the international body’s Group of Friends on Climate and Society ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 605,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_cb93cfce0f6f4c5a8e4aed32c7515b59_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "publishedDateTime": "2021-03-18T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-giroir-accuses-biden-of-playing-fast-and-loose-with-covid-science-taking-credit-for-operation-warp-speed.md",
-      "title": "Giroir accuses Biden of playing 'fast and loose' with COVID science, taking credit for Operation Warp Speed",
-      "excerpt": "President Biden is somehow able to \"stand up and completely rewrite history and go fast and loose with the science and the data,\" former HHS Assistant Secretary Brett Giroir told \"The Story\" Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AoH1GK5IMbU/giroir-biden-fast-and-loose-covid-science-operation-warp-speed",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AoH1GK5IMbU/giroir-biden-fast-and-loose-covid-science-operation-warp-speed",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/giroir-biden-fast-and-loose-covid-science-operation-warp-speed.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giroir-biden-fast-and-loose-covid-science-operation-warp-speed.amp",
-      "publishedDateTime": "2021-03-18T15:29:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -73,22 +73,6 @@ related:
         width: 4717
         height: 3043
         isCached: true
-  - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
-    excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
-    publishedDateTime: 2021-03-22T17:08:00Z
-    webUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.html"
-    ampWebUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 71
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/ff/9fff39ec-8b26-11eb-9974-ebd1af91d058/5fa6d8b7cf982.image.jpg?crop=299%2C487%2C929%2C107"
-        width: 299
-        height: 487
-        isCached: true
   - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
     excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
     publishedDateTime: 2021-03-15T21:35:00Z
@@ -208,20 +192,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
         width: 2048
         height: 1536
-        isCached: true
-  - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
-    excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
-    publishedDateTime: 2021-03-27T17:18:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-got-another-dose-of-16057956.php?src=sthpdesecp"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 50
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/62/33/20653798/11/rawImage.jpg"
-        width: 2048
-        height: 1374
         isCached: true
   - title: "Vice President Kamala Harris’ visit to New Haven will highlight child tax credit long championed by U.S. Rep. Rosa DeLauro"
     excerpt: "Kamala Harris’ visit to New Haven Friday is part of the Biden administration’s “Help is Here’' tour. The trip has already taken her to Las Vegas and Jacksonville, Fla. Biden, First Lady Jill Biden and Second Gentleman Doug Emhoff are also traveling to promote the stimulus package."

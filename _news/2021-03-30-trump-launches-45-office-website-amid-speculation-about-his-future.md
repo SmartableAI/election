@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-launches-45-office-website-am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-launches-45-office-website-amid-speculation-about-future.amp"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Donald Trump launches official post-presidency website"
-    excerpt: "Former President Trump and former First Lady Melania Trump have launched their official website — vowing to “remain a tireless champion” for Americans as the"
-    publishedDateTime: 2021-03-30T12:15:00Z
-    webUrl: "https://nypost.com/2021/03/30/donald-trump-launches-official-post-presidency-website/"
-    ampWebUrl: "https://nypost.com/2021/03/30/donald-trump-launches-official-post-presidency-website/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/30/donald-trump-launches-official-post-presidency-website/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trumps-04.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "FT8HMydDxuyClYY69zf7MHwTwnNF1FCMjGADijxDDkbNGDKWrtq1FuqYwlFeNTx1v9D6RvLZ/1ET/ZDCtf2wtUgkOp0DWwIg/4/fuShtVxsNVume3yFZWFtixebXH5HKPe/EYviFDwsnivpHdBVVIZynND9/dvckdluPH199005ZPyemaWcUQl1v/MqQsEVZJ04j1yvWyvAWwuJWWJYC10jpotJQZWSDsUXyDs/rvL5rVSvelbyAbLOY9mNOtEmXwuqYgyoUhTtf7sd8NjyWyluNTyN+VDW7edy6X4Jbazcd0LoIW9NCc+PiZnpRBs8/eLS5c0wtsWaPbD6QAuxS9hXQroEdRl81jF/ti6luiU8=;8cit+o47oclmuRxFfRJZ6w=="
 ---

@@ -2,6 +2,449 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-30-john-durham-is-looking-at-fbis-launch-of-trump-campaign-probe-sources-say.md",
+      "title": "John Durham is looking at FBI's launch of Trump campaign probe, sources say",
+      "excerpt": "After two years of searching for problems with the investigation into Donald Trump's campaign advisers in 2016 and their ties to Russia, federal prosecutor John Durham hasn't found wrongdoing by Obama-era intelligence officials involved who were outside of the FBI.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSmraMXTWOs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSmraMXTWOs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190514172200-us-attorney-john-durham-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html",
+      "publishedDateTime": "2021-03-30T12:47:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-pavlich-calls-out-vp-harris-stop-laughing-when-youre-asked-serious-questions.md",
+      "title": "Pavlich calls out VP Harris: 'Stop laughing when you're asked serious questions'",
+      "excerpt": "The Biden administration's border policies are creating a catastrophe for everyone, Fox News contributor Katie Pavlich said Tuesday on 'Outnumbered,' in reaction to migrants receiving in-person schooling in San Diego while American students are continuing to learn from home.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ArQxY1XwKlw/kamala-harris-laughs-schools-learning-pavlich",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ArQxY1XwKlw/kamala-harris-laughs-schools-learning-pavlich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e35288a9-c026-45ee-8d2c-04832f5257c9/5c5c0e96-d1f5-4a09-a864-d89efa3afb85/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp",
+      "publishedDateTime": "2021-03-30T12:41:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-blinken-announces-plans-to-roll-back-trump-era-human-rights-initiatives.md",
+      "title": "Blinken announces plans to roll back Trump-era human rights initiatives",
+      "excerpt": "Secretary of State Antony Blinken diverted from the Trump administration’s human rights priorities as he unveiled the 2020 Country Reports on Human Rights Practices. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QznWelcPtvM/blinken-roll-back-trump-era-human-rights-initiatives-conservatives",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QznWelcPtvM/blinken-roll-back-trump-era-human-rights-initiatives-conservatives",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Blinken-AP.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blinken-roll-back-trump-era-human-rights-initiatives-conservatives.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-roll-back-trump-era-human-rights-initiatives-conservatives.amp",
+      "publishedDateTime": "2021-03-30T12:38:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-kamala-harris-events-lack-of-clergy-an-insult-to-the-black-community-pastor-says.md",
+      "title": "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says",
+      "excerpt": "A pastor in Connecticut said the lack of clergy at an event hosted by Vice President Kamala Harris is \"an insult to the Black community.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp",
+      "publishedDateTime": "2021-03-30T12:14:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.md",
+      "title": "Former Pence chief of staff says he would not be advocating for tax increases right now",
+      "excerpt": "Marc Short, former chief of staff to Vice President Mike Pence, discusses the proposed Biden tax hikes. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/03/30/former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/03/30/former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106861725-16171322901617132282-15111908872-1080pnbcnews.jpg?v=1617132289",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-judge-allows-summer-zervos-defamation-lawsuit-against-trump-to-proceed-now-that-hes-out-of-office.md",
+      "title": "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office",
+      "excerpt": "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
+      "publishedDateTime": "2021-03-30T11:13:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-fox-news-hires-lara-trump-and-promotes-former-white-house-press-secretary-kayleigh-mcenany.md",
+      "title": "Fox News hires Lara Trump and promotes former White House press secretary Kayleigh McEnany",
+      "excerpt": "An envelope. It indicates the ability to send an email. Fox News is doubling down on its ties to former President Donald Trump. On Monday, Fox announced it has hired the former president's daughter-in-law, Lara Trump, as a paid contributor. On Tuesday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3",
+      "originalUrl": "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60633eddc9d73b00186e9269?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3?amp",
+      "publishedDateTime": "2021-03-30T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-summer-zervos-lawsuit-against-donald-trump-can-move-forward.md",
+      "title": "Summer Zervos Lawsuit Against Donald Trump Can Move Forward",
+      "excerpt": "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269",
+      "originalUrl": "https://www.wsj.com/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318142/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269",
+      "publishedDateTime": "2021-03-30T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-court-lets-womans-defamation-suit-vs-trump-proceed-again.md",
       "title": "Court lets woman's defamation suit vs. Trump proceed again",
       "excerpt": "Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant’s sexual assault allegations against him after a ruling from New York’s highest court Tuesday in",
@@ -10,7 +453,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -275,63 +718,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows.md",
-      "title": "School districts that backed Trump are returning to in-person classes more quickly, data shows",
-      "excerpt": "School districts in counties where a majority of voters cast their ballots for Donald Trump in the 2020 presidential election are more likely to have students back in classrooms, according to a website that tracks reopenings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows",
-      "originalUrl": "https://www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/school-reopenings-based-on-voting.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows.amp",
-      "publishedDateTime": "2021-03-30T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-pentagon-diversity-chief-reassigned-after-comparing-trump-to-hitler-on-social-media.md",
       "title": "Pentagon diversity chief 'reassigned' after comparing Trump to Hitler on social media",
       "excerpt": "The Pentagon's new diversity chief has been \"reassigned\" amid an investigation of past social media posts including comparing former President Trump to Adolph Hitler, a U.S. defense official confirmed to Fox News on Tuesday.",
@@ -385,62 +771,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-mother-of-police-officer-injured-in-capitol-riot-says-shes-outraged-by-trumps-lie-that-his-supporters-were-hugging-and-kissing-cops-during.md",
-      "title": "Mother of police officer injured in Capitol riot says she's outraged by Trump's lie that his supporters were 'hugging and kissing' cops during attack",
-      "excerpt": "The mother of a DC Police officer who was brutally assaulted while defending the US Capitol during the January 6 insurrection said Monday that she and her family are outraged by former President Donald Trump's claim that his supporters were \"hugging and kissing\" officers during the riot and that the",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bNAOO6U19Jc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bNAOO6U19Jc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311100025-file-capitol-riot-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/dc-police-officer-terry-fanone-trump-capitol-insurrection-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/dc-police-officer-terry-fanone-trump-capitol-insurrection-cnntv/index.html",
-      "publishedDateTime": "2021-03-30T06:16:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -569,7 +899,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 558,
+      "heat": 578,
       "tags": null,
       "images": [
         {
@@ -621,7 +951,7 @@
       "originalUrl": "https://www.charlotteobserver.com/entertainment/tv/article250289770.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -716,7 +1046,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
       "featuredContent": null,
       "highlight": null,
-      "heat": 510,
+      "heat": 590,
       "tags": null,
       "images": [
         {
@@ -881,7 +1211,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1021,326 +1351,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-buttigieg-no-plan-to-increase-gas-or-mileage-tax-in-biden-infrastructure-plan.md",
-      "title": "Buttigieg: No Plan To Increase Gas Or Mileage Tax In Biden Infrastructure Plan",
-      "excerpt": "Secretary of Transportation Pete Buttigieg pledged on Monday that the Biden infrastructure plan will not feature a tax hike on gas or mileage for those with incomes less than $400,000 in an interview with CNN host Jake Tapper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/539105.jpg",
-          "width": 1106,
-          "height": 828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.amp.html",
-      "publishedDateTime": "2021-03-29T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-covid-19-response.md",
-      "title": "Trump accuses Fauci, Birx of 'trying to reinvent history' on COVID-19 response",
-      "excerpt": "Former President Donald Trump slammed Anthony Fauci and Deborah Birx on Monday, accusing the infectious disease experts of “trying to reinvent history” in televised interviews detailing their roles in combating the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5TT_L-m9XI/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5TT_L-m9XI/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb14def2-f6e9-4f0e-88e8-4bb0b38a9ec8/ffc8e1c0-0304-4e43-8d1f-fa39f4ae0ca9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp",
-      "publishedDateTime": "2021-03-29T16:25:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-trump-appointed-28-of-all-the-federal-judges-in-the-us-and-they-could-mold-american-life-for-decades-to-come.md",
-      "title": "Trump appointed 28% of all the federal judges in the US, and they could mold American life for decades to come",
-      "excerpt": "President Donald Trump had an outsize impact on the federal judiciary. Data show his appointees were more male, more white, and less experienced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/federal-judges-trump-appointed-stats-demographics-names-database-2021-3",
-      "originalUrl": "https://www.businessinsider.com/federal-judges-trump-appointed-stats-demographics-names-database-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604a7fb2f196be0018beef23?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-true-local-control-more-than-100-mayors-urge-biden-to-bypass-states-provide-covid-19-vaccines-directly-to-cites.md",
-      "title": "'True local control': More than 100 mayors urge Biden to bypass states, provide COVID-19 vaccines directly to cites",
-      "excerpt": "Over 100 mayors urged President Joe Biden's administration Monday to start sending COVID-19 vaccines directly to cities, bypassing states that have controlled the allocation of doses to local communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/29/over-100-mayors-ask-biden-give-covid-19-vaccines-directly-cities/7047879002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/29/over-100-mayors-ask-biden-give-covid-19-vaccines-directly-cities/7047879002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/a250c0b13543d13feb9fa4cc1fd9381208ddf4bf/c=0-62-3000-1750/local/-/media/2021/03/29/NewBern/gda-covid-19-state-2021-03-29-nc-nsuj.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7047879002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7047879002",
-      "publishedDateTime": "2021-03-29T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-biden-says-90-of-adults-will-be-vaccine-eligible-in-three-weeks.md",
-      "title": "Biden says 90% of adults will be vaccine eligible in three weeks",
-      "excerpt": "President Joe Biden will announce Monday afternoon that 90% of adults will be eligible to get a coronavirus vaccine within the next three weeks, an administration official told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDkK8xG35qk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDkK8xG35qk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html",
-      "publishedDateTime": "2021-03-29T12:27:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-biden-says-90-of-adults-will-be-eligible-for-covid-vaccine-in-3-weeks.md",
-      "title": "Biden says 90% of adults will be eligible for COVID vaccine in 3 weeks",
-      "excerpt": "President Biden announced on Monday that the \"vast majority\" of Americans will be eligible to get their first COVID-19 vaccination shot by April 19.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kIqwgfBsvEw/biden-covid-vaccine-eligibility",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kIqwgfBsvEw/biden-covid-vaccine-eligibility",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-covid-vaccine-eligibility.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccine-eligibility.amp",
-      "publishedDateTime": "2021-03-29T12:16:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
