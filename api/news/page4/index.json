@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-25-lindsey-graham-calls-out-aoc-for-conflicting-border-reactions-under-trump-biden.md",
+      "title": "Lindsey Graham Calls Out AOC for Conflicting Border Reactions Under Trump, Biden",
+      "excerpt": "GOP Senator Lindsey Graham of South Carolina asked, \"Where are you?\" to Democratic Rep. Alexandria Ocasio-Cortez of New York, calling her out for not visiting the Southwest border, where he said conditions are \"worse\" for migrants than those under former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547",
+      "originalUrl": "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 615,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1763089/migrants.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1",
+      "publishedDateTime": "2021-03-24T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-biden-thursday-press-conference-slated-for-115-pm-eastern-in-the-east-room.md",
       "title": "Biden Thursday press conference slated for 1:15 pm Eastern in the East Room",
       "excerpt": "President Biden will hold his first news conference as commander-in-chief Thursday at 1:15 p.m. EST in the East Room.",
@@ -1289,63 +1341,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-msnbcs-brian-williams-touts-ad-from-disgraced-lincoln-project-linking-trump-to-atlanta-spa-shootings.md",
-      "title": "MSNBC's Brian Williams touts ad from disgraced Lincoln Project linking Trump to Atlanta spa shootings",
-      "excerpt": "MSNBC anchor Brian Williams touted a new ad released by the disgraced Lincoln Project last week that tried to tie former President Donald Trump's rhetoric about the coronavirus to the March 16 Atlanta spa shootings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
-      "originalUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
-      "publishedDateTime": "2021-03-22T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

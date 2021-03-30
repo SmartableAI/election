@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden won't throw Washington Nationals opening day pitch, White House says "
+    excerpt: "President Joe Biden is not scheduled to toss out the Opening Day first pitch on Thursday for the Washington Nationals, White House press secretary Jen Psaki said on Tuesday. But she added that baseball fans will be hearing from him in the next few days.\n    \n"
+    publishedDateTime: 2021-03-30T17:24:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nACpfAtd0Rs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-first-pitch-opening-day-nationals/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-first-pitch-opening-day-nationals/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322105445-02-joe-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden raises the bar on vaccines and suggests US will get to 1.5 million a day"
     excerpt: "President Joe Biden said Monday that he expects that the US will soon be able to vaccinate 1.5 million people a day, raising the bar by roughly 500,000 more vaccinations than its target of 1 million per day in his first 100 days in office. He said that the US could surpass that initial target in about"
     publishedDateTime: 2021-01-25T22:46:38Z

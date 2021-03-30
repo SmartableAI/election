@@ -223,6 +223,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden WH claims Trump ‘eschewed’ science, amid criticism for health protocols at border"
+    excerpt: "The White House on Monday announced it will review policies put in place by President Donald Trump \"that eschewed scientific integrity\" – while at the same time coming under fire for health protocols at increasingly packed migrant facilities at the border."
+    publishedDateTime: 2021-03-30T16:07:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fS1uFYVMjY0/biden-white-house-trump-science-health-protocols-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-trump-science-health-protocols-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-trump-science-health-protocols-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac1f70a9-6005-43ab-927f-622438214493/8623ce1b-df84-40ed-815d-3d723d4d84d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden task force to review times Trump administration 'eschewed' science in favor of politics"
     excerpt: "The Biden administration revealed on Monday that it will carry-out an interagency review of scientific policies in place across the federal government, including some implemented by President Donald Trump’s administration that “eschewed scientific integrity.”"
     publishedDateTime: 2021-03-29T23:44:32Z
@@ -460,6 +476,22 @@ related:
     quality: 149
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Migrant-Children-trump-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "CBP warned Biden about overturning Trump immigration policies: Rep. Van Duyne"
+    excerpt: "A Republican congresswoman from Texas has revealed that Border Patrol warned the Biden administration that overturning former President Donald Trump’s immigration policies would spark a"
+    publishedDateTime: 2021-03-30T17:34:00Z
+    webUrl: "https://nypost.com/2021/03/30/cbp-warned-biden-about-overturning-immigration-policies-texas-rep/"
+    ampWebUrl: "https://nypost.com/2021/03/30/cbp-warned-biden-about-overturning-immigration-policies-texas-rep/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/30/cbp-warned-biden-about-overturning-immigration-policies-texas-rep/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/duyne-biden-migrant-center-02.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

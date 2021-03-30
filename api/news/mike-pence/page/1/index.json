@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-30-trumps-heir-pence-reemerges-laying-the-groundwork-for-a-2024-run.md",
-      "title": "Trump’s heir? Pence reemerges, laying the groundwork for a 2024 run",
-      "excerpt": "Trump recently rattled off the names of those he viewed as future leaders of the GOP, including Josh Hawley, Ted Cruz along and Ron DeSantis.",
+      "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
+      "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
+      "excerpt": "Former President Donald Trump recently rattled off the names of those he viewed as future leaders of the Republican Party, including Sens. Josh Hawley and Ted Cruz along with Florida Gov. Ron DeSantis",
       "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
       "featuredContent": null,
       "highlight": null,
-      "heat": 440,
+      "heat": 510,
       "tags": null,
       "images": [
         {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/239b67e/2147483647/strip/true/crop/3375x2204+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff0%2F56%2F4919d64a4a1b9047f9b9077081b4%2Fbiden-82377.jpg",
-          "width": 320,
-          "height": 209,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_8dd217cdefef407ab9354e165aef7d37_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run?_amp=true",
-      "publishedDateTime": "2021-03-30T08:11:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "publishedDateTime": "2021-03-30T02:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,6 +50,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Mike Pence"
       ]
     },
@@ -105,7 +106,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {

@@ -442,7 +442,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -998,7 +998,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1020,
+      "heat": 1060,
       "tags": null,
       "images": [
         {
@@ -1263,6 +1263,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-25-eric-trumps-wife-absolutely-considers-running-for-senate.md",
+      "title": "Eric Trump's Wife 'Absolutely' Considers Running For Senate",
+      "excerpt": "Lara Trump, who married Donald Trump's second son Eric in 2014, first hinted at plans to run for the North Carolina state Senate in an interview with Sean Hannity March 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732",
+      "originalUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/03/27/lara-trump.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732?amp=1",
+      "publishedDateTime": "2021-03-24T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-rolling-back-a-rollback-buttigieg-deletes-some-trump-era-limits-on-regulation.md",
       "title": "Rolling back a rollback: Buttigieg deletes some Trump-era limits on regulation",
       "excerpt": "Transportation Secretary Pete Buttigieg moved Wednesday to undo key deregulatory actions by the Trump administration, an overhaul that department officials said was necessary to address challenges that include climate change, racial injustices, the ...",
@@ -1295,58 +1347,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-lindsey-graham-calls-out-aoc-for-conflicting-border-reactions-under-trump-biden.md",
-      "title": "Lindsey Graham Calls Out AOC for Conflicting Border Reactions Under Trump, Biden",
-      "excerpt": "GOP Senator Lindsey Graham of South Carolina asked, \"Where are you?\" to Democratic Rep. Alexandria Ocasio-Cortez of New York, calling her out for not visiting the Southwest border, where he said conditions are \"worse\" for migrants than those under former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547",
-      "originalUrl": "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1763089/migrants.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1",
-      "publishedDateTime": "2021-03-24T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

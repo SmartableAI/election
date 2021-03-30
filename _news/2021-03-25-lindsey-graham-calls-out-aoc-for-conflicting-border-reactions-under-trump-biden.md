@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-bo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
 type: article
 quality: 135
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555921380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M0MY"
         width: 677
         height: 545
+        isCached: true
+  - title: "Blinken ends Trump rights plan promoting conservative agenda"
+    excerpt: "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons"
+    publishedDateTime: 2021-03-30T16:03:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "California senators calling on Biden to set date for phasing out gasoline cars"
     excerpt: "The two U.S. senators representing California are calling on President Biden Joe Biden AstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's ..."

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-21-trump-will-use-his-own-platform-to-return-to-social-media-after-twitter-ban.md",
+      "title": "Trump will use 'his own platform’ to return to social media after Twitter ban",
+      "excerpt": "Last modified on Sun 21 Mar 2021 13.28 EDT Donald Trump will soon use “his own platform” to return to social media, an adviser said on Sunday, months after the former president was banned from Twitter for inciting the US Capitol riot. 'His new business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b8820e18168688651182ed377b8200453cd4ec97/0_67_3662_2198/master/3662.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddc69c23776ae3fcd0e41fb42a07b4da",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
+      "publishedDateTime": "2021-03-21T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-moncef-slaoui-trumps-vaccine-chief-very-concerned-about-gop-vaccine-hesitancy.md",
+      "title": "Moncef Slaoui, Trump's vaccine chief, \"very concerned\" about GOP vaccine hesitancy",
+      "excerpt": "the former scientific head of Operation Warp Speed during the Trump administration, said he's \"very concerned\" and perplexed by hesitancy among some Republicans to take COVID-19 vaccines, and encouraged former President Donald Trump and GOP leaders to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "originalUrl": "https://www.cbsnews.com/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/21/ba6799a6-7b65-4da7-984d-2a4c936daaab/thumbnail/1200x630/ecff0ddb891220417838e9230d224413/moncef2.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "publishedDateTime": "2021-03-21T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-donald-trump-jr-says-military-politicized-knocks-stunt-against-marjorie-taylor-greene.md",
       "title": "Donald Trump Jr. Says Military 'Politicized,' Knocks Stunt Against Marjorie Taylor Greene",
       "excerpt": "\"It's been politicized like we've never seen before,\" he said in a video released Friday. \"They're literally attacking American civilians.\"",
@@ -114,7 +218,7 @@
       "originalUrl": "https://www.cbsnews.com/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1317,7 +1421,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
       "featuredContent": null,
       "highlight": null,
-      "heat": 560,
+      "heat": 520,
       "tags": null,
       "images": [
         {
@@ -1443,110 +1547,6 @@
       "ampWebUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
       "publishedDateTime": "2021-03-16T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-republicans-are-recycling-trumps-fear-mongering-about-terrorists-entering-the-us-through-mexico.md",
-      "title": "Republicans are recycling Trump's fear-mongering about terrorists entering the US through Mexico",
-      "excerpt": "DOW S&P 500 NASDAQ 100 As record numbers of unaccompanied minors turn up at southern border, congressional Republicans are echoing dubious claims from former President Donald Trump about terrorists attempting to cross into the US from Mexico. House ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
-      "originalUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/605113400347cb00184b61e4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
-      "publishedDateTime": "2021-03-16T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable.md",
-      "title": "Birx: Trump's disinfectant injection moment was 'extraordinarily uncomfortable'",
-      "excerpt": "Deborah Birx, the former White House coronavirus response coordinator, said on Monday that former President Trump’s suggestion to treat COVID-19 by injecting disinfectant and using ultraviolet rays wa",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable",
-      "originalUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_birxdeborah_03242020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable?amp",
-      "publishedDateTime": "2021-03-16T10:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",

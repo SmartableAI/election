@@ -2,6 +2,59 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-01-20-pence-heading-back-to-indiana-hometown-after-biden-inaugural.md",
+      "title": "Pence heading back to Indiana hometown after Biden inaugural",
+      "excerpt": "Vice President Mike Pence will be returning to his southern Indiana hometown Wednesday afternoon following the inauguration of President-elect Joe Biden",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 4730,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-19T18:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.md",
       "title": "Sen. Cotton tears into Biden’s ‘radical immigration agenda’: ‘what you’d expect from the party of open borders",
       "excerpt": "President-elect Joe Biden is expected to unveil a sweeping immigration plan during his early days in office, which will aim to reverse Trump-era policies – but his proactive approach is garnering pushback from both sides of the aisle. ",
@@ -286,7 +339,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 675,
+      "heat": 695,
       "tags": null,
       "images": [
         {
@@ -1265,58 +1318,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus.md",
-      "title": "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus",
-      "excerpt": "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7",
-      "originalUrl": "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548111937&r=LYNXMPEH0G0AL&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-17T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

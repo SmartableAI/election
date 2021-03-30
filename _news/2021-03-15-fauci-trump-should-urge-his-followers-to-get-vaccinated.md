@@ -91,22 +91,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Pro-Trump lawyer says ‘no reasonable person’ would believe her election lies"
-    excerpt: "Lawyers for Sidney Powell argued conspiracies she laid out constituted legally protected first amendment speech Last modified on Tue 23 Mar 2021 11.53 EDT A key member of the legal team that sought to steal the 2020 election for Donald Trump is defending ..."
-    publishedDateTime: 2021-03-23T15:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 137
-    images:
-      - url: "https://i.guim.co.uk/img/media/ba243d6a0d5afdcfd63af6c7a56d2486a5429d93/0_179_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c1367dc23eb00baf4090d0ec38f0b468"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Trump continues to insist that Pence should have 'gone back' after the Capitol riots to overturn the 2020 election results"
     excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump incorrectly claimed that former Vice President Mike Pence could have summarily rejected entire states' Electoral College votes at the January 6 joint session of Congress in a podcast interview with Fox ..."
     publishedDateTime: 2021-03-22T15:41:00Z
@@ -250,22 +234,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/03/a3609d17-d800-4611-b52e-8958068303e6/thumbnail/1200x630/29af8fb43ed2f9bbdcf7f31d66b86712/gettyimages-624664040.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Trump hotels have been dropped by a major luxury travel agency network"
-    excerpt: "Virtuoso, a global network of luxury travel agencies, no longer considers Trump Hotels a preferred partner. The Texas-based company, which includes 20,000 luxury travel advisers, said the change was effective March 8;"
-    publishedDateTime: 2021-03-23T15:57:00Z
-    webUrl: "https://www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/"
-    ampWebUrl: "https://www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PA7RD6YSUVEANOQNJPG5CDXCPM.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "White House would 'support' Trump vaccine effort"
     excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
-excerpt: "President to launch next phase of Build Back Better program, while CDC director Rochelle Walensky says she is ‘scared’ of coronavirus trends"
-publishedDateTime: 2021-03-30T14:20:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-60632c638f0807bf71dde8a0"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-60632c638f0807bf71dde8a0"
+excerpt: "Joe Biden has announced a series of new initiatives to address the recent rise in anti-Asian violence in America. According to a statement released by the White House, the Biden administration will invest nearly $50 million in programs to assist survivors ..."
+publishedDateTime: 2021-03-30T15:26:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
 type: article
@@ -1316,6 +1316,6 @@ related:
         height: 392
         isCached: true
 
-secured: "euIUO42XzYgAcs5bSqogdziDEfpq6pZKXwjGC/PCLe9lIO3X5E40v+OYn/LIRHrPcePJUBddR6XeocRiKVhKywOLCR0AaAvpJW4Lupo6v/Aup7HO7XVDPapmKUofF6ZO/bvSZVVNgp/OWPDL//ZhA0hFmYYmXArq/y6AhVUFNLFYOqkhsPeQfEFonbPDPUgTdpM+funaFixk9tWqHo28ry7YXyLsvqgiMfh0s9qKh6tbEfNPH9B56IlpIQ8pfyAfrb+jJae5253SdoR23x90+L8GlWY2AUA7OtodIsm9km8cFkDMj0/XV1Y2yHxjJKfcpbuJHy6L389QlxVqEFDiBmlfW3+10hMgJ035fD5RbS8=;uIrm2FHX2C3FSM4prGMi0A=="
+secured: "7TfHzxt+I6OxbRagbZX5bw6X+RnkPzLD8BcJrYWVIchaaHQnaTKPQWNO0OnGWkD6r89QAdROqjZae7WzwDgMky7AxV6NiLknm/xDnv6TnVyJsmPLrPo9yXvzGbRwZhi5tqC/xg/fnpMsUflkDzDvBBC0BCE7CStqegXLnoSS8wKActncI3EXgPmjtafPCWMeEPVk2fT1Fr8AktQg8j4vtakiCyzy/UjYeGC+lIi0z4E1P3LDKWzLO/s3FMXI+o9ggVWOQY+CYkGYxNzrVsRfmaLH8/fKZRXo6vnfG/rjYfpVxupqic2orsE2A8tUqiMPJcNUowrEAQcAwAZgnC4qh8cEo3PSyXy6OYOmg+amt+M=;nVKxPJGxwBOxOrQw07RGVg=="
 ---
 

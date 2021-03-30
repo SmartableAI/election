@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's heir? Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "Former President Donald Trump recently rattled off the names of those he viewed as future leaders of the Republican Party, including Sens. Josh Hawley and Ted Cruz along with Florida Gov. Ron DeSantis"
+    publishedDateTime: 2021-03-30T09:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8dd217cdefef407ab9354e165aef7d37_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Mike Pence laying groundwork for 2024 presidential run, but Trump shows no signs of support"
+    excerpt: "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024."
+    publishedDateTime: 2021-03-30T15:37:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/pK3vt5CFRMo4GDiuGwtCYTRxSSw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GUWE3XU23NFN7LBI655ZO27E6Q.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump’s heir? Pence reemerges, laying the groundwork for a 2024 run"
     excerpt: "Trump recently rattled off the names of those he viewed as future leaders of the GOP, including Josh Hawley, Ted Cruz along and Ron DeSantis."
     publishedDateTime: 2021-03-30T15:11:00Z
@@ -46,6 +78,54 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/239b67e/2147483647/strip/true/crop/3375x2204+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff0%2F56%2F4919d64a4a1b9047f9b9077081b4%2Fbiden-82377.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Pro-Trump lawyer says ‘no reasonable person’ would believe her election lies"
+    excerpt: "Lawyers for Sidney Powell argued conspiracies she laid out constituted legally protected first amendment speech Last modified on Tue 23 Mar 2021 11.53 EDT A key member of the legal team that sought to steal the 2020 election for Donald Trump is defending ..."
+    publishedDateTime: 2021-03-23T15:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/ba243d6a0d5afdcfd63af6c7a56d2486a5429d93/0_179_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c1367dc23eb00baf4090d0ec38f0b468"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump hotels have been dropped by a major luxury travel agency network"
+    excerpt: "Virtuoso, a global network of luxury travel agencies, no longer considers Trump Hotels a preferred partner. The Texas-based company, which includes 20,000 luxury travel advisers, said the change was effective March 8;"
+    publishedDateTime: 2021-03-23T15:57:00Z
+    webUrl: "https://www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/"
+    ampWebUrl: "https://www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PA7RD6YSUVEANOQNJPG5CDXCPM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Governor races to test COVID-19 response, Trump influence"
+    excerpt: "Just one Democratic governor, Kansas’s Laura Kelly, faces reelection in a state former President Trump Donald Trump Good luck, Dan Bongino! The Hill's Morning Report - Biden's next act ..."
+    publishedDateTime: 2021-03-23T19:17:00Z
+    webUrl: "https://thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence"
+    ampWebUrl: "https://thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/sununuchris_cuomoandrew_bakercharlie_032321getty_split_gov.jpeg"
+        width: 980
+        height: 551
         isCached: true
   - title: "In Senate race, combative Brooks leans into Trump ties"
     excerpt: "U.S. Rep. Mo Brooks, who came under fire for remarks he made preceding the attack on the U.S. Capitol, says he is better known to voters than when he ran for Senate and lost four years ago"
@@ -63,6 +143,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Rick Scott Asked Trump to Not Get Involved in 2022 Races Until Candidates Win Primaries"
+    excerpt: "U.S. Senator Rick Scott, a Florida Republican who heads the GOP's Senate fundraising arm, wants former President Donald Trump's help in the 2022 election, but he's asking him to hold off a bit. \"I think he wants to win, so I think he's going to work with ..."
+    publishedDateTime: 2021-03-23T21:42:00Z
+    webUrl: "https://www.newsweek.com/rick-scott-asked-trump-not-get-involved-2022-races-until-candidates-win-primaries-1578266"
+    ampWebUrl: "https://www.newsweek.com/rick-scott-asked-trump-not-get-involved-2022-races-until-candidates-win-primaries-1578266?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rick-scott-asked-trump-not-get-involved-2022-races-until-candidates-win-primaries-1578266?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1762709/trump-scott.jpg"
+        width: 2500
+        height: 1904
+        isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "Former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. after leaving office. Pence is steadily re-entering public life as he eyes a potential run for the White House ..."
     publishedDateTime: 2021-03-30T14:23:00Z
@@ -78,22 +174,6 @@ related:
       - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/03/pence.jpg?w=1280"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Trump’s heir? Pence reemerges, lays groundwork for 2024 run"
-    excerpt: "In this Jan. 20, 2021, file photo, former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. AP WASHINGTON ..."
-    publishedDateTime: 2021-03-30T15:57:00Z
-    webUrl: "https://chicago.suntimes.com/2021/3/30/22358466/trumps-heir-pence-reemerges-lays-groundwork-2024-run"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/3/30/22358466/trumps-heir-pence-reemerges-lays-groundwork-2024-run"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/30/22358466/trumps-heir-pence-reemerges-lays-groundwork-2024-run"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 90
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 presidential run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron DeSantis and Sens. Josh"
@@ -111,22 +191,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Mike Pence laying groundwork for 2024 presidential run, but Trump shows no signs of support"
-    excerpt: "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024."
-    publishedDateTime: 2021-03-30T15:37:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 80
-    images:
-      - url: "https://www.baltimoresun.com/resizer/pK3vt5CFRMo4GDiuGwtCYTRxSSw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GUWE3XU23NFN7LBI655ZO27E6Q.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Mo Brooks says he has discussed Senate run with Trump many times"
     excerpt: "Mo Brooks, who helped lead GOP objections to President Donald Trump’s loss and come under fire for remarks he made preceding the attack on the U.S. Capitol, said Wednesday that he is better known to voters this time as he runs for U."
     publishedDateTime: 2021-03-25T03:05:00Z
@@ -142,22 +206,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
         width: 4032
         height: 3024
-        isCached: true
-  - title: "Former Trump adviser takes prominent role in voting battle"
-    excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
-    publishedDateTime: 2021-03-27T04:26:00Z
-    webUrl: "https://www.chron.com/news/article/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Mike Pence laying early groundwork for a 2024 presidential run"
     excerpt: "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024."

@@ -127,6 +127,22 @@ related:
         width: 677
         height: 545
         isCached: true
+  - title: "Blinken ends Trump rights plan promoting conservative agenda"
+    excerpt: "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons"
+    publishedDateTime: 2021-03-30T16:03:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
     excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget ..."
     publishedDateTime: 2021-03-24T00:09:00Z

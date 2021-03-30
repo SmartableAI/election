@@ -29,33 +29,81 @@ images:
     isCached: true
 
 related:
-  - title: "Trump predicted news ratings would ‘tank if I’m not there.’ He wasn’t wrong."
-    excerpt: "Newspapers, television, all forms of media will tank if I’m not there,” he augured in 2017, “because without me, their ratings are going down the tubes.” Barely two months into the post-Trump era, news outlets are indeed losing much of the audience and readership they gained during his chaotic presidency."
-    publishedDateTime: 2021-03-22T19:39:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp"
+  - title: "Court lets woman's defamation suit vs. Trump proceed again"
+    excerpt: "Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant’s sexual assault allegations against him after a ruling from New York’s highest court Tuesday in"
+    publishedDateTime: 2021-03-30T16:36:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3HBE7SU54I6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_bced19e82367424f8f295da3bc4dc4d9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump defends Capitol rioters, says there was 'zero threat'"
-    excerpt: "Trump complained to Fox News Channel’s Laura Ingraham that law enforcement was “persecuting” the Capitol rioters, while “nothing happens” to left-wing protesters. Trump did acknowledge that those who stormed the Capitol “went in and they shouldn’t have done it."
-    publishedDateTime: 2021-03-26T03:51:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-defends-Capitol-rioters-says-there-was-16054587.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-defends-Capitol-rioters-says-there-was-16054587.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-defends-Capitol-rioters-says-there-was-16054587.php"
+  - title: "Donald Trump uses new website to rewrite history of his presidency"
+    excerpt: "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 10.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ..."
+    publishedDateTime: 2021-03-30T13:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
+    excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
+    publishedDateTime: 2021-03-29T21:27:00Z
+    webUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306"
+    ampWebUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 82
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies"
+    excerpt: "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,"
+    publishedDateTime: 2021-03-24T10:29:00Z
+    webUrl: "https://www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160"
+    ampWebUrl: "https://www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trump-was-acquitted-in-his.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Paxton refuses to release messages about attendance at pro-Trump rally before Jan. 6 insurrection"
+    excerpt: "The Texas attorney general's office is attempting to withhold all messages Ken Paxton sent or received while in Washington for the pro-Donald Trump rally that devolved into a riot at the U.S. Capitol."
+    publishedDateTime: 2021-03-25T14:51:00Z
+    webUrl: "https://www.chron.com/politics/article/texas-ken-paxton-trump-insurrection-16051966.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 75
+    quality: 62
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600

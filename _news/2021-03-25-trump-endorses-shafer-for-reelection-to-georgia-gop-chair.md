@@ -183,6 +183,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Former Trump adviser takes prominent role in voting battle"
+    excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
+    publishedDateTime: 2021-03-27T04:26:00Z
+    webUrl: "https://www.chron.com/news/article/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "oSNTblATtQ7Bo0GJos+i1BnrdfwI96iP0SmvCM9ZKFHpuRv8R54W5A14H6oK3fXPnDI9567qbrBfzmps5u0csfvz1vwv2DotBJQqnvZo8VYMYrr2D321fBG8DxlJovFf+hF3a+Bhtiuyi3FMXsO1KvwvuV/G4GCvWFVsUuXrds6b+zSvPRBTjatXUAJSp1IYXsy0ACC2/Cl0ugEmq9Ij2Eqq+ELjHaowKAC164UaS1H2zFeZAgPvuJ8pfAEU1RLeLXlm+WXCpSnAobxPWOdh1krhc7Gx4NIMPfC80MpkhHgbXhPWVGzCzl+X8w/YGK4DLLsgSs92DPMl9BqpLEQ+gOLcQmqi9qggiK5KW7e4JMTkqVGCREV5xLnV2GAD1ilALKHikfgJExAOMjmpO0wgdv7LwKy1bYP7PTeA384M37LcuqBDZ3M9x5qNiKj5QioFBVDf7F9flXnklmFq7KYL1YurRI3Z+18MNjKJLgjX58R4ElZO0sEIJE/h9EyIE9Tj2PiG/XmF21BPpxZOg9kJOg==;agkdHkY30oFnkrhy35wOkQ=="
 ---

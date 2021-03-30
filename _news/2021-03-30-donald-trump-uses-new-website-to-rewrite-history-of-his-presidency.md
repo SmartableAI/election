@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Donald Trump uses new website to rewrite history of his presidency"
-excerpt: "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term"
-publishedDateTime: 2021-03-30T11:18:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR1GR0UPaTAjlfk4PvoYPj6DgD07aFOgoWzNM0WI3jqhThmhbLKVL667L5I"
-webUrl: "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR1GR0UPaTAjlfk4PvoYPj6DgD07aFOgoWzNM0WI3jqhThmhbLKVL667L5I"
+excerpt: "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 10.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ..."
+publishedDateTime: 2021-03-30T13:22:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
 type: article
 quality: 125
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Court lets woman's defamation suit vs. Trump proceed again"
+    excerpt: "Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant’s sexual assault allegations against him after a ruling from New York’s highest court Tuesday in"
+    publishedDateTime: 2021-03-30T16:36:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_bced19e82367424f8f295da3bc4dc4d9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
+    excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
+    publishedDateTime: 2021-03-29T21:27:00Z
+    webUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306"
+    ampWebUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 82
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies"
     excerpt: "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,"
     publishedDateTime: 2021-03-24T10:29:00Z
@@ -47,7 +79,37 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Paxton refuses to release messages about attendance at pro-Trump rally before Jan. 6 insurrection"
+    excerpt: "The Texas attorney general's office is attempting to withhold all messages Ken Paxton sent or received while in Washington for the pro-Donald Trump rally that devolved into a riot at the U.S. Capitol."
+    publishedDateTime: 2021-03-25T14:51:00Z
+    webUrl: "https://www.chron.com/politics/article/texas-ken-paxton-trump-insurrection-16051966.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 62
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "News Media Seeing 'Post-Trump Slump' As Passions Cool"
+    excerpt: "The so-called \"Trump bump\" which boosted viewers and subscriptions at outlets such as CNN and the New York Times now appears to have turned into a slump following the departure of Donald Trump from the presidency. At CNN -- which was at loggerheads with ..."
+    publishedDateTime: 2021-03-24T01:15:00Z
+    webUrl: "https://www.ibtimes.com/news-media-seeing-post-trump-slump-passions-cool-3167936"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/23/some-news-outlets-like-cnn-have-seen-dramatic.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "zicC/muv0QYvinVnDN/7wr6AuoMNdIiYpBzDBPEr8mfXFgrnpj72UZ76mExSQ/YckPUIs3/96TN40xAlkljBa6ewmCvmK3NTi7A5uQUNcleDfjGHvLe6G0oZgQt8IKsmsIK4K7YCxb+iTBOujRDyaQBzZSwA/A9gq3XAEQm4nbMmj0C+QLFvwMhmPdQ0hOHPPffSXo3jZstYh65K+zbF4BV9+Rn8z7tyxxo/gB2z5s3PrdyeQNq9A5nUsw2JOOXWhXRYY155mabVr+MSfyDNBHTn1Ld/urT+Ni40+XJTctSj2iBYfiKKjTmDblxptxkwDKE2TExJlzUDTt9ra9CuKqzAQtGFIWgqLUucekxPFWT8myDi27lol8qPaKMSUz4DnkeG1nYtNeROAd5elWKoxzLBCUhZyBo3CC/bAZRcMpDWsVay4Wv+oVaWeQWcRz6li3g1MCuPLKiS41ViFryQIzrxiaBFxWuQqnhhCR81cG2Cz0TG1cxs/7kxlFAkp1DmqS0LY2BvUBBrZQTsE5vW6g==;8HhxtreWlXVH6mKpzCvN7Q=="
+secured: "UqecMN7scdlePm5dyMK5xqR4l32d5cUpPGT6Z5kJGT1LtsM93J8JQThxBKaSQdMXvTzPHTKGTh1LDdLr6LWhdt9lC/Z2cNWQ9vZ2y/xbXHia7QP/jWhfmkz6NdOZWJN4xt3J64bVOQUy/X6PzVnTHJFzbTKEu3Y/CnpOvTqypCDxFd7li2EOdP4tm/59o3GEaFKNk0oicMgqlXCdmTPt8vHULAbDe2psQEfzlSi6hvQen/dXU5ynjUg0BiOKcB1tK56D8e2Fnni9QwWSb/YVIJfNP7mbgCBY+HNnUPoUzQ5PhNFuwvSIh0n7e1Lj9WfJEuqiUKRF5+Eru9MctT0Yoqs5RRu1UEcw0DqF3g0K+wg=;nuQfsMlEXveCEZL+uR2kjA=="
 ---
 

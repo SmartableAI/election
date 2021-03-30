@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-30-court-lets-womans-defamation-suit-vs-trump-proceed-again.md",
+      "title": "Court lets woman's defamation suit vs. Trump proceed again",
+      "excerpt": "Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant’s sexual assault allegations against him after a ruling from New York’s highest court Tuesday in",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_bced19e82367424f8f295da3bc4dc4d9_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701",
+      "publishedDateTime": "2021-03-30T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-official-blinken-to-reverse-trump-era-global-rights-blueprint-that-promoted-conservative-causes-dismissed-lgbtq-rights.md",
+      "title": "Official: Blinken to reverse Trump-era global rights blueprint that promoted conservative causes, dismissed LGBTQ rights",
+      "excerpt": "Official: Blinken to reverse Trump-era global rights blueprint that promoted conservative causes, dismissed LGBTQ rights",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/official-blinken-to-reverse-trump-era-global-rights-blueprint-that-promoted-conservative-causes-dismissed-lgbtq-rights/2021/03/30/4ee8f7cc-9171-11eb-aadc-af78701a30ca_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/official-blinken-to-reverse-trump-era-global-rights-blueprint-that-promoted-conservative-causes-dismissed-lgbtq-rights/2021/03/30/4ee8f7cc-9171-11eb-aadc-af78701a30ca_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/official-blinken-to-reverse-trump-era-global-rights-blueprint-that-promoted-conservative-causes-dismissed-lgbtq-rights/2021/03/30/4ee8f7cc-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/official-blinken-to-reverse-trump-era-global-rights-blueprint-that-promoted-conservative-causes-dismissed-lgbtq-rights/2021/03/30/4ee8f7cc-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-30T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-who-is-judge-ketanji-brown-jackson-bidens-nominee-to-replace-ag-garland-on-powerful-dc-circuit-court.md",
       "title": "Who is Judge Ketanji Brown Jackson, Biden's nominee to replace AG Garland on powerful DC Circuit Court?",
       "excerpt": "D.C. District Judge Ketanji Brown Jackson is President Biden's nominee to fill the D.C. Circuit Court of Appeals seat of newly-minted Attorney General Merrick Garland, making her the most high-profile choice among the president's first round of judicial nominations.",
@@ -111,58 +215,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-trumps-heir-pence-reemerges-laying-the-groundwork-for-a-2024-run.md",
-      "title": "Trump’s heir? Pence reemerges, laying the groundwork for a 2024 run",
-      "excerpt": "Trump recently rattled off the names of those he viewed as future leaders of the GOP, including Josh Hawley, Ted Cruz along and Ron DeSantis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 440,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/239b67e/2147483647/strip/true/crop/3375x2204+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff0%2F56%2F4919d64a4a1b9047f9b9077081b4%2Fbiden-82377.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run?_amp=true",
-      "publishedDateTime": "2021-03-30T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -561,58 +613,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-donald-trump-uses-new-website-to-rewrite-history-of-his-presidency.md",
-      "title": "Donald Trump uses new website to rewrite history of his presidency",
-      "excerpt": "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR1GR0UPaTAjlfk4PvoYPj6DgD07aFOgoWzNM0WI3jqhThmhbLKVL667L5I",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR1GR0UPaTAjlfk4PvoYPj6DgD07aFOgoWzNM0WI3jqhThmhbLKVL667L5I",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
-      "publishedDateTime": "2021-03-30T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-tv-kamala-harris-kizzmekia-corbett-in-lifetime-special-charlotte-observer.md",
       "title": "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Charlotte Observer",
       "excerpt": "Women Making History (9 p.m., Lifetime) - This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine ...",
@@ -705,6 +705,59 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
+      "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
+      "excerpt": "Former President Donald Trump recently rattled off the names of those he viewed as future leaders of the Republican Party, including Sens. Josh Hawley and Ted Cruz along with Florida Gov. Ron DeSantis",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 510,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_8dd217cdefef407ab9354e165aef7d37_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "publishedDateTime": "2021-03-30T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
       ]
     },
     {
@@ -936,7 +989,7 @@
       "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-blasts-fauci-and-birx-as-self-promoters/article_9547da67-c29a-5bdd-80a2-0d76e7977549.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1107,58 +1160,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-lara-trump-on-fox-news-what-eric-trumps-wife-will-do-amid-fallout-from-2020-election.md",
-      "title": "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election",
-      "excerpt": "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306",
-      "originalUrl": "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1",
-      "publishedDateTime": "2021-03-29T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

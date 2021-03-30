@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-26-twitters-misinformation-problem-is-much-bigger-than-trump-the-crowd-may-help-solve-it.md",
+      "title": "Twitter’s misinformation problem is much bigger than Trump. The crowd may help solve it.",
+      "excerpt": "Twitter's Birdwatch pilot lets selected users write corrections and fact checks on potentially misleading tweets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IA4PZSC7IMI6XILXO5S7FGUVEQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp",
+      "publishedDateTime": "2021-01-25T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-trump-is-threatening-to-form-the-patriot-party-that-name-has-already-been-used-by-hillbilly-socialists.md",
+      "title": "Trump is threatening to form the Patriot Party. That name has already been used — by ‘hillbilly’ socialists.",
+      "excerpt": "The original Patriot Party was a group of socialist radicals who sought to stoke revolutionary fervor among poor and working-class White people, decking themselves out in Confederate flags while taking their political inspiration from the Black Panthers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EJN6TCWUF5GYFMPY24WTPRXZ3M.jpg&w=1440",
+          "width": 1440,
+          "height": 922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/?outputType=amp",
+      "publishedDateTime": "2021-01-25T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-deborah-birx-said-trump-was-being-given-parallel-data-on-covid-19.md",
       "title": "Deborah Birx said Trump was being given ‘parallel data’ on covid-19",
       "excerpt": "Deborax Birx saw Trump presenting graphs that she never made, the former White House coronavirus response coordinator said Sunday.",
@@ -1477,110 +1581,6 @@
         "name": "Detroit Free Press",
         "domain": "freep.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-annika-sorenstam-defends-accepting-award-from-donald-trump.md",
-      "title": "Annika Sörenstam defends accepting award from Donald Trump",
-      "excerpt": "Annika Sörenstam, who received the presidential medal of freedom from Donald Trump the day after US Capitol riot, has defended her decision",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "originalUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4870f7e1cabf35505f3d66840e415c25b5c2c460/0_24_5058_3036/master/5058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=725a944cd02a16e9137eca91996a64c6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "publishedDateTime": "2021-01-19T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-donald-trump-is-first-president-in-modern-history-to-never-reach-50-approval-in-gallup-poll.md",
-      "title": "Donald Trump is First President in Modern History to Never Reach 50% Approval in Gallup Poll",
-      "excerpt": "Trump will also exit the White House with the lowest average approval rating of any president in the Gallup poll. At 41 percent, the president's rating is four points lower than the averages of Jimmy Carter and Harry Truman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
-      "originalUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1710870/donald-trump-border-wall-visit-1-12-2021.jpg",
-          "width": 2500,
-          "height": 1623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1",
-      "publishedDateTime": "2021-01-19T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

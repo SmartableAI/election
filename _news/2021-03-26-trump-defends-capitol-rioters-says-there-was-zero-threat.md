@@ -43,20 +43,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "News Media Seeing 'Post-Trump Slump' As Passions Cool"
-    excerpt: "The so-called \"Trump bump\" which boosted viewers and subscriptions at outlets such as CNN and the New York Times now appears to have turned into a slump following the departure of Donald Trump from the presidency. At CNN -- which was at loggerheads with ..."
-    publishedDateTime: 2021-03-24T01:15:00Z
-    webUrl: "https://www.ibtimes.com/news-media-seeing-post-trump-slump-passions-cool-3167936"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/23/some-news-outlets-like-cnn-have-seen-dramatic.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "+2YoNOU/753xCMMABqm989/FBk+LLOid3uzjNWHQsK/mUN9pWn364hSpoHPQgYZI2MJrHxs+5qG+zScaBAYx1VFdQqNeeCaVodDW1tPACZMjJRLsT3+/S9EXgpXaeea5Db0CBAhQ2zYb1ANAlBzF8m86irHVyAJpTL9EK53A8JKH/wNOD1lyElt8LfNPQKbMDhpR7y2wwo97tuj6W6BUaN2ulRDf6fYEQiA8/5jUoULnJp708ER7B2G3+d4NGDxy4JhaGWVYfBR0zzDx7X8e4Z1m3J8Pm4SQwbT7+Uf8qKZoRIweOaYwC7SHR6obNy3WG72+HM4IiYR0maUusy3JHtsAgm3p93f0SIVosSKOa+qR6ai5wa+BfjY0IIt88NJSJK9sTpYjIq4/WqON1+AoC3U1lFObMZGULkzpTGt5kSMmWdblqn+sHQMJcoLzWpNyBVwKBCxk69/sx6qraWOE7kEJeylwAhkPxUt1uxTohi2A0BO7Wz+lTC5K5XUAYdxuN3uOYEOfLIqoQhIECLWDTA==;SpXmXHvOtjkAsNFje8ke5A=="
 ---

@@ -618,9 +618,9 @@ related:
         height: 545
         isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
-    excerpt: "President to launch next phase of Build Back Better program, while CDC director Rochelle Walensky says she is ‘scared’ of coronavirus trends"
-    publishedDateTime: 2021-03-30T14:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-60632c638f0807bf71dde8a0"
+    excerpt: "Joe Biden has announced a series of new initiatives to address the recent rise in anti-Asian violence in America. According to a statement released by the White House, the Biden administration will invest nearly $50 million in programs to assist survivors ..."
+    publishedDateTime: 2021-03-30T15:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
     type: article

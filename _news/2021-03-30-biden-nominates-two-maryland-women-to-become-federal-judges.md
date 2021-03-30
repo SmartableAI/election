@@ -48,20 +48,20 @@ related:
         height: 545
         isCached: true
   - title: "Biden announces diverse first slate of judicial nominees"
-    excerpt: "WASHINGTON — President Joe Biden on Tuesday announced his intent to nominate a “trailblazing slate” of judicial nominees, a field that includes Black, Muslim American and Asian American Pacific Islander candidates for federal courts and for the ..."
-    publishedDateTime: 2021-03-30T12:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-announces-diverse-first-slate-of-judicial-nominees/2021/03/30/0aeb5850-9156-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-announces-diverse-first-slate-of-judicial-nominees/2021/03/30/0aeb5850-9156-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-announces-diverse-first-slate-of-judicial-nominees/2021/03/30/0aeb5850-9156-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    excerpt: "President Joe Biden has announced his first slate of nominees to serve on federal courts and for the Superior Court of the District of Columbia WASHINGTON -- President Joe Biden on Tuesday ..."
+    publishedDateTime: 2021-03-30T16:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-announces-diverse-slate-judicial-nominees-76766963"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-announces-diverse-slate-judicial-nominees-76766963"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-announces-diverse-slate-judicial-nominees-76766963"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_beec6a6bb7ec4da89043545fdb934b04_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Corporations, wealthy pay in Biden infrastructure plan, not drivers and riders"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden’s plans to spend billions of dollars on the United States’ crumbling roads and mass transit include a novel twist - making companies and wealthy households, rather than drivers and riders, pay the cost."
@@ -78,6 +78,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556726080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T0HY"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden announces first slate of judicial nominees with picks that would make history"
+    excerpt: "Washington — President Biden on Tuesday rolled out his first slate of judicial nominees, announcing candidates with diverse backgrounds and professional qualifications as he begins to make his own stamp on the nation's district and circuit courts."
+    publishedDateTime: 2021-03-30T12:56:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-judicial-nominees-ketanji-brown/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-judicial-nominees-ketanji-brown/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-judicial-nominees-ketanji-brown/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/30/b2d945cd-e047-4ffa-b970-413cef79f12a/thumbnail/1200x630g3/80288d47489a876f86f8847f56983db1/gettyimages-1232007099.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "North Korea's Kim calls U.S. 'our biggest enemy' in challenge to Biden"
     excerpt: "North Korean leader Kim Jong Un called for more advanced nuclear weapons and said the United States is \"our biggest enemy,\" state media said on Saturday, presenting a stark challenge to President-elect Joe Biden just days before he takes office."

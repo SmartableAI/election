@@ -127,6 +127,22 @@ related:
         width: 677
         height: 545
         isCached: true
+  - title: "Blinken ends Trump rights plan promoting conservative agenda"
+    excerpt: "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons"
+    publishedDateTime: 2021-03-30T16:03:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "California senators calling on Biden to set date for phasing out gasoline cars"
     excerpt: "The two U.S. senators representing California are calling on President Biden Joe Biden AstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's ..."
     publishedDateTime: 2021-03-22T11:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-d
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
 type: article
 quality: 125
-heat: 345
+heat: 325
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/3dabdb6797ecd0eac172a64d1dbd3ecd46ef50d6/0_136_6000_3601/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70d7639d69892d667db99b5199d789bc"
         width: 600
         height: 360
-        isCached: true
-  - title: "Governor races to test COVID-19 response, Trump influence"
-    excerpt: "Just one Democratic governor, Kansas’s Laura Kelly, faces reelection in a state former President Trump Donald Trump Good luck, Dan Bongino! The Hill's Morning Report - Biden's next act ..."
-    publishedDateTime: 2021-03-23T19:17:00Z
-    webUrl: "https://thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence"
-    ampWebUrl: "https://thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/sununuchris_cuomoandrew_bakercharlie_032321getty_split_gov.jpeg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Donald Trump's Mar-a-Lago Club Partially Closed Due to COVID-19 Outbreak"
     excerpt: "Former President Donald Trump's club, Mar-a-Lago, has been partially closed due to an outbreak of COVID-19. The golf club and resort is located in Palm Beach, Florida, and now serves as Trump's primary residence. A member of the club's staff tested ..."

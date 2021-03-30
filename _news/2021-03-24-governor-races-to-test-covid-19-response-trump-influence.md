@@ -31,177 +31,289 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 outbreak partially shuts down Trump's Mar-A-Lago"
-    excerpt: "COVID outbreak partially closes Trump's Mar-a... 00:18 Former President Trump's Mar-A-Lago club has been partially shut down because of a COVID-19 outbreak, a receptionist confirmed to CBS News. The extent of the outbreak at the club, where Mr. Trump has ..."
-    publishedDateTime: 2021-03-20T03:49:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-outbreak-partially-shuts-down-trumps-mar-a-lago/"
+  - title: "Trump's heir? Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "Former President Donald Trump recently rattled off the names of those he viewed as future leaders of the Republican Party, including Sens. Josh Hawley and Ted Cruz along with Florida Gov. Ron DeSantis"
+    publishedDateTime: 2021-03-30T09:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/20/b21cbfdc-1834-4ce0-8487-0d051d781d15/thumbnail/1200x630/75efd186fc82f99aeb2092c5fe59fe8c/gettyimages-1301449867.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8dd217cdefef407ab9354e165aef7d37_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Donald Trump's Mar-a-Lago resort partially closed by Covid-19 outbreak"
-    excerpt: "Receptionist says Florida club where Trump moved after leaving White House is closed until further notice"
-    publishedDateTime: 2021-03-19T17:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/19/mar-a-lago-closed-covid-19-outbreak-donald-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/3dabdb6797ecd0eac172a64d1dbd3ecd46ef50d6/0_136_6000_3601/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70d7639d69892d667db99b5199d789bc"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump's Mar-a-Lago Club Partially Closed Due to COVID-19 Outbreak"
-    excerpt: "Former President Donald Trump's club, Mar-a-Lago, has been partially closed due to an outbreak of COVID-19. The golf club and resort is located in Palm Beach, Florida, and now serves as Trump's primary residence. A member of the club's staff tested ..."
-    publishedDateTime: 2021-03-20T09:26:00Z
-    webUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559"
-    ampWebUrl: "https://www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-mar-lago-club-closed-covid-19-outbreak-1577559?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1760135/president-trump-travels-mar-lago.jpg"
-        width: 3998
-        height: 2665
-        isCached: true
-  - title: "COVID-19 outbreak at Trump's Mar-a-Lago club leads to partial closure, per report"
-    excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump's Palm Beach club has partially closed following a COVID-19 outbreak, the Associated Press reported Friday. A Mar-a-Lago club member reportedly received a phone call about the closure Friday and a ..."
-    publishedDateTime: 2021-03-19T21:56:00Z
-    webUrl: "https://www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-outbreak-trump-mar-a-lago-leads-partial-closure-ap-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/60551b69cad7d300183f82a9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
-    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows, the government’s top infectious ..."
-    publishedDateTime: 2021-03-14T12:43:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+  - title: "Mike Pence laying groundwork for 2024 presidential run, but Trump shows no signs of support"
+    excerpt: "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024."
+    publishedDateTime: 2021-03-30T15:37:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 111
+    quality: 140
     images:
-      - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
+      - url: "https://www.chicagotribune.com/resizer/pK3vt5CFRMo4GDiuGwtCYTRxSSw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GUWE3XU23NFN7LBI655ZO27E6Q.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump's Mar-a-Lago partially closed after COVID outbreak"
-    excerpt: "Top News Trump's Mar-a-Lago partially closed after COVID outbreak Posted Parts of Donald Trump’s Florida golf resort Mar-a-Lago have been temporarily closed because of a coronavirus outbreak, according to two sources familiar with the matter."
-    publishedDateTime: 2021-03-20T20:28:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE4W707Z"
+  - title: "Trump’s heir? Pence reemerges, laying the groundwork for a 2024 run"
+    excerpt: "Trump recently rattled off the names of those he viewed as future leaders of the GOP, including Josh Hawley, Ted Cruz along and Ron DeSantis."
+    publishedDateTime: 2021-03-30T15:11:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210320&i=OVE4W707Z&r=OVE4W707Z&t=2"
-        width: 960
-        height: 540
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/239b67e/2147483647/strip/true/crop/3375x2204+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff0%2F56%2F4919d64a4a1b9047f9b9077081b4%2Fbiden-82377.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
-    excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
-    publishedDateTime: 2021-03-14T19:08:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2021/mar/15/morning-mail-women-march4justice-covid-free-streak-ends-silent-echo-of-trump-hotel"
+  - title: "Pro-Trump lawyer says ‘no reasonable person’ would believe her election lies"
+    excerpt: "Lawyers for Sidney Powell argued conspiracies she laid out constituted legally protected first amendment speech Last modified on Tue 23 Mar 2021 11.53 EDT A key member of the legal team that sought to steal the 2020 election for Donald Trump is defending ..."
+    publishedDateTime: 2021-03-23T15:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/23/sidney-powell-trump-election-fraud-claims"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 98
+    quality: 137
     images:
-      - url: "https://i.guim.co.uk/img/media/f4f20a7661ff59a053aa5dd825fc1f75f80afc29/0_302_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3079d7acb36c2746d9ccdbdc47a46f79"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/ba243d6a0d5afdcfd63af6c7a56d2486a5429d93/0_179_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c1367dc23eb00baf4090d0ec38f0b468"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Donald Trump Serious About Launching Own Social Media Platform, Lara Trump Says"
-    excerpt: "Lara Trump said her father-in-law, Donald Trump, wants to launch a social media platform that will give its users the freedom to say whatever they want."
-    publishedDateTime: 2021-03-23T02:02:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-serious-about-launching-own-social-media-platform-lara-trump-says-3167216"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-serious-about-launching-own-social-media-platform-lara-trump-says-3167216?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-serious-about-launching-own-social-media-platform-lara-trump-says-3167216?amp=1"
+  - title: "Trump hotels have been dropped by a major luxury travel agency network"
+    excerpt: "Virtuoso, a global network of luxury travel agencies, no longer considers Trump Hotels a preferred partner. The Texas-based company, which includes 20,000 luxury travel advisers, said the change was effective March 8;"
+    publishedDateTime: 2021-03-23T15:57:00Z
+    webUrl: "https://www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/"
+    ampWebUrl: "https://www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/travel/2021/03/23/trump-hotels-virtuoso-travel-agency/?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/21/donald-trump-appears-to-be-planning-a-return.jpg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PA7RD6YSUVEANOQNJPG5CDXCPM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "In Senate race, combative Brooks leans into Trump ties"
+    excerpt: "U.S. Rep. Mo Brooks, who came under fire for remarks he made preceding the attack on the U.S. Capitol, says he is better known to voters than when he ran for Senate and lost four years ago"
+    publishedDateTime: 2021-03-25T03:26:00Z
+    webUrl: "https://www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump launches website for personal office"
+    excerpt: "Former President Donald Trump and former first lady Melania Trump have launched a website for the couple's personal offices. The site — found at 45office.com — states it is \"committed to preserving the magnificent legacy of the Trump Administration ..."
+    publishedDateTime: 2021-03-30T13:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/30/donald-trump-launches-website-post-white-house-office/7058332002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7058332002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7058332002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/05/USAT/919ad265-fb75-49fb-97ce-5eaeddec5787-Donald_Trump_at_CPAC_AP_pic.jpg?auto=webp&crop=3661,2060,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Rick Scott Asked Trump to Not Get Involved in 2022 Races Until Candidates Win Primaries"
+    excerpt: "U.S. Senator Rick Scott, a Florida Republican who heads the GOP's Senate fundraising arm, wants former President Donald Trump's help in the 2022 election, but he's asking him to hold off a bit. \"I think he wants to win, so I think he's going to work with ..."
+    publishedDateTime: 2021-03-23T21:42:00Z
+    webUrl: "https://www.newsweek.com/rick-scott-asked-trump-not-get-involved-2022-races-until-candidates-win-primaries-1578266"
+    ampWebUrl: "https://www.newsweek.com/rick-scott-asked-trump-not-get-involved-2022-races-until-candidates-win-primaries-1578266?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rick-scott-asked-trump-not-get-involved-2022-races-until-candidates-win-primaries-1578266?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1762709/trump-scott.jpg"
+        width: 2500
+        height: 1904
+        isCached: true
+  - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "Former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. after leaving office. Pence is steadily re-entering public life as he eyes a potential run for the White House ..."
+    publishedDateTime: 2021-03-30T14:23:00Z
+    webUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    type: article
+    provider:
+      name: TexomasHomepage.com
+      domain: texomashomepage.com
+    quality: 90
+    images:
+      - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/03/pence.jpg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 presidential run"
+    excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron DeSantis and Sens. Josh"
+    publishedDateTime: 2021-03-30T11:51:00Z
+    webUrl: "https://www.denverpost.com/2021/03/30/mike-pence-2024-presidential-election/"
+    ampWebUrl: "https://www.denverpost.com/2021/03/30/mike-pence-2024-presidential-election/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/30/mike-pence-2024-presidential-election/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 87
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/03/Pence_09061.jpg?w=1024&h=682"
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump urges supporters to get COVID vaccine, but tells them he also respects ‘freedom’"
-    excerpt: "The ex-president urged Americans late Tuesday to get vaccinated before saying he also “agrees” with their “freedom” to not do it, leaving his supporters with a distinctly mixed message. “I would recommend it and I would recommend it to a lot of people that don’t want to get it and a lot of those people voted for me,"
-    publishedDateTime: 2021-03-17T01:21:00Z
-    webUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html"
-    ampWebUrl: "https://www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ny-covid-vaccine-trump-supporters-20210317-tcla3uvkrrdlbebjyeszjuguru-story.html?outputType=amp"
+  - title: "Mo Brooks says he has discussed Senate run with Trump many times"
+    excerpt: "Mo Brooks, who helped lead GOP objections to President Donald Trump’s loss and come under fire for remarks he made preceding the attack on the U.S. Capitol, said Wednesday that he is better known to voters this time as he runs for U."
+    publishedDateTime: 2021-03-25T03:05:00Z
+    webUrl: "https://www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html?outputType=amp"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 67
+      name: al.com
+      domain: al.com
+    quality: 75
     images:
-      - url: "https://www.nydailynews.com/resizer/7TYSeLx83ZNph4_GAy8P_6__Ya0=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KBNWWBFMRFBS3D3XMPEQ4VYQBY.jpg"
-        width: 1200
-        height: 835
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
+        width: 4032
+        height: 3024
         isCached: true
-  - title: "Republican governor of Arkansas worried about Trump followers’ refusal to get COVID vaccine"
-    excerpt: "Arkansas Gov. Asa Hutchinson on Sunday blamed vaccine hesitancy among Trump supporters on 'a natural resistance to government and skepticism of it.'"
-    publishedDateTime: 2021-03-21T19:42:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-supporters-vaccine-hesitancy-asa-hutchinson-20210321-p6qjx7g5rrbqrlqohjga4us7rq-story.html?outputType=amp"
+  - title: "Mike Pence laying early groundwork for a 2024 presidential run"
+    excerpt: "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024."
+    publishedDateTime: 2021-03-30T12:11:00Z
+    webUrl: "https://www.turnto23.com/news/national-politics/mike-pence-laying-early-groundwork-for-a-2024-presidential-run"
+    ampWebUrl: "https://www.turnto23.com/news/national-politics/mike-pence-laying-early-groundwork-for-a-2024-presidential-run?_amp=true"
+    cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national-politics/mike-pence-laying-early-groundwork-for-a-2024-presidential-run?_amp=true"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 65
+      name: KERO-TV
+      domain: turnto23.com
+    quality: 75
     images:
-      - url: "https://www.nydailynews.com/resizer/5ltuigt-QXtsJ6tI5XgvglovJ2o=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JGPA63GMWFCQ3E2LH3EXNXC7K4.jpg"
-        width: 1200
-        height: 757
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b505188/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F4a%2F31%2F9f69086e41f28365f944f1083846%2Fap20170663669742.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
-    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
-    publishedDateTime: 2021-03-14T18:42:00Z
-    webUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+  - title: "Pence reemerges, appears to lay groundwork for 2024 presidential run"
+    excerpt: "The former vice president is writing op-eds, delivering speeches, preparing trips to key primary states and launching an advocacy group."
+    publishedDateTime: 2021-03-30T15:10:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 61
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
     images:
-      - url: "https://www.nydailynews.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
-        width: 1200
-        height: 675
+      - url: "https://media.khou.com/assets/CCT/images/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "The former vice president is writing op-eds, delivering speeches, preparing trips to key primary states and launching an advocacy group."
+    publishedDateTime: 2021-03-30T15:10:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
+    images:
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Former Vice President Mike Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
+    publishedDateTime: 2021-03-30T10:55:00Z
+    webUrl: "https://www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    type: article
+    provider:
+      name: WTVW
+      domain: tristatehomepage.com
+    quality: 74
+    images:
+      - url: "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/03/pence.jpg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Mike Pence reemerging as presidential candidate, lays groundwork for 2024"
+    excerpt: "Former Vice President Mike Pence and his wife Karen, shown here as Pence leaves office Jan. 21, is writing op-eds, delivering speeches, preparing trips to early voting states and launching an advocacy group as he reenters political life. [ MICHAEL CONROY ..."
+    publishedDateTime: 2021-03-30T13:42:00Z
+    webUrl: "https://www.tampabay.com/news/nation-world/2021/03/30/mike-pence-reemerging-as-presidential-candidate-lays-groundwork-for-2024/"
+    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/03/30/mike-pence-reemerging-as-presidential-candidate-lays-groundwork-for-2024/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/03/30/mike-pence-reemerging-as-presidential-candidate-lays-groundwork-for-2024/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 74
+    images:
+      - url: "https://www.tampabay.com/resizer/2rtt7kysFIYQxxgyYAxIwvbzAcU=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/F2DGY4XWUNAYVN6JVYKFYVDPNA.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Donald Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "The former President lists Ron DeSantis as a potential heir, but left Pence out. The former Vice President is steadily reentering public life as he eyes a potential run for the White House in 2024. He’s joining conservative organizations,"
+    publishedDateTime: 2021-03-30T10:39:00Z
+    webUrl: "https://floridapolitics.com/archives/415992-donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/03/1000-2021-03-30T063132.667.jpeg"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "Mike Pence is laying the groundwork for 2024 presidential run"
+    excerpt: "For someone who built a reputation as one of Trump's most steadfast supporters, Pence is now viewed with suspicion among many Republicans."
+    publishedDateTime: 2021-03-30T09:34:00Z
+    webUrl: "https://bangordailynews.com/2021/03/30/national-politics/mike-pence-is-laying-the-groundwork-for-2024-presidential-run/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/03/Pence.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "ijHu5JRODkwVGtj7w7KA0oMz4VIqiJiaBh4jebWtKDkGRpeqGWdjb4H5sLtFf21uEA8xk/RR5hVjDEZfSiloXJCUEbvjMvbFjdVTQ4zDd5DeSXQ9QR8cJx2ReWg2iWnlwUOvAjRdE0mFOV6WTfmxTMhTqo/fMD2Oha/xXs0YnZkZxIuUIGawCezTjTQRXRudmt3XFLZBq4/ffGYLDg0Qwf/aHnwrLWVdMjBAQLYKfdx2d2GBHep1vuEonc0W2UxUiEJzHqTOc3avR8BBD+eNYEDR7i3+Y04cyWmNOfI270pAw1vIw0kRI0isdElhnMDFTWNrnLklsF9zJ8Sw/xsX4v3r0ohT5k8sije0+GeS2RrP9Lj3GaGhl29b2hGBMmnhmRb49y63k3mjsgemJlBlFMikpm0YqCW8vbVN0e43lu06E6rSYcPkhFQj5zRslAVRxMv7cZOf6K5U9puVTbRnMaACqIqaLGZFnku6LbCRgLHBwye4Bg4J2DE0/Jwnr8hF7GH78F1gkP/42k38/5jzfA==;1q5OnT/EEz9vfT6fjHOg1Q=="

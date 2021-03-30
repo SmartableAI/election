@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Infrastructure timeline emerges as Biden aims to pass sweeping package this summer "
+    excerpt: "President Joe Biden is aiming to pass his sweeping infrastructure and jobs proposal this summer, a senior White House official told CNN, setting an ambitious timeline to achieve his next major legislative goal.\n    \n"
+    publishedDateTime: 2021-03-30T16:18:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KCfvddchbNc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-timeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-timeline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration projects at least 34,100 more beds needed to shelter migrant children"
     excerpt: "The Biden administration could need at least 34,100 additional beds to keep up with the projected number of unaccompanied kids arriving at the US-Mexico border through September, according to internal government estimates obtained by CNN.\n    \n"
     publishedDateTime: 2021-03-27T18:02:00Z
