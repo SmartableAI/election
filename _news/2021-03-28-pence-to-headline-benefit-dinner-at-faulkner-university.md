@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php"
 type: article
 quality: 105
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -65,6 +65,17 @@ related:
     provider:
       name: Miami Herald
       domain: miamiherald.com
+    quality: 55
+  - title: "Pence to headline benefit dinner at Faulkner University"
+    excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University."
+    publishedDateTime: 2021-03-30T07:22:00Z
+    webUrl: "https://www.kentucky.com/entertainment/celebrities/article250270800.html"
+    ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article250270800.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article250270800.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
     quality: 55
 
 secured: "3A362yBj+jYj793AVOLmS5b/39XflSsbPfmTeEyH4Dd3ajMBtBO9a5xU0hJdYr4PaNZOn/lS2JZLYEK9ruAY3VclkNcF1sr5C8oNjFg671+bjSLudxI58+4aSvgFoPMrL+iuUE9vJrtfX+KOQgfehOgT6lMGbEdQwMPDzGla3SQzdHYryO1Uzq7AqkZmOFUAOMXeRA3RW/ykftKvtZKTJK064Xn4zoHbS+bXFYv6wv8iKez0vCYSxVeydsWd5882X/mkJbEy8LC3OPEh+vaWB9QsvAkv/hfqm+jEvis7ET657LRXlRgOg8l5R9OBhiiqZeS8w3oDY4xKpegb12XK+/WPvJbcbwpbjllTTOGbWmg=;dEg94So76ulDG32W/QsF/w=="

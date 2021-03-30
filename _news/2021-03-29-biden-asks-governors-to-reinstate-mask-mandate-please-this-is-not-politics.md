@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting"
-excerpt: "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice."
-publishedDateTime: 2021-03-25T17:03:27Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBRj34gvkN0/vanita-gupta-tie-senate-committee-doj"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBRj34gvkN0/vanita-gupta-tie-senate-committee-doj"
-ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
+title: "Biden Asks Governors To Reinstate Mask Mandate: \"Please, This Is Not Politics\""
+excerpt: "President Joe Biden called on governors that have lifted mask mandates in their states to reimpose them in remarks delivered Monday updating the public on the administration's response to the COVID-19 pandemic. Earlier in March, Biden called the decision ..."
+publishedDateTime: 2021-03-29T00:00:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/03/29/biden_to_governors_reinstate_the_mask_mandate_this_is_not_politics.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/03/29/biden_to_governors_reinstate_the_mask_mandate_this_is_not_politics.html"
 type: article
-quality: 167
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://assets.realclear.com/images/53/539127.jpg"
+    width: 1174
+    height: 880
     isCached: true
 
 related:
@@ -127,6 +122,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting"
+    excerpt: "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice."
+    publishedDateTime: 2021-03-25T17:03:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBRj34gvkN0/vanita-gupta-tie-senate-committee-doj"
+    ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden HHS nominee Rachel Levine becomes first openly transgender federal official confirmed by US Senate"
     excerpt: "Dr. Rachel Levine, Pennsylvania's former top health official, earned confirmation Wednesday in the Senate to become the new assistant secretary at the Department of Health and Human Services (HHS)."
     publishedDateTime: 2021-03-24T21:34:18Z
@@ -171,21 +182,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Asks Governors To Reinstate Mask Mandate: \"Please, This Is Not Politics\""
-    excerpt: "President Joe Biden called on governors that have lifted mask mandates in their states to reimpose them in remarks delivered Monday updating the public on the administration's response to the COVID-19 pandemic. Earlier in March, Biden called the decision ..."
-    publishedDateTime: 2021-03-29T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/biden_to_governors_reinstate_the_mask_mandate_this_is_not_politics.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 61
-    images:
-      - url: "https://assets.realclear.com/images/53/539127.jpg"
-        width: 1174
-        height: 880
-        isCached: true
 
-secured: "pUiLhQeh/jch5Jf2I6T7oDVFBxz6Zo2CZ0TTGng9CC83K4ubR5VzXDabgwBE0bHWefPxqSfH2g9h/LUF8sEEl+frsKkUVadsz8qrLrV7WzkQmZsOuifo0i4vf9YJebLobOZXfSRpmKFBpzwgDGDeDm0lr+R2YtrE9qFG11g4bcuCnOXOjLd7HIr0eHP9rRKweFuIh1+bpOB24zZBynLbgFS1fo/lIjPp66lu9qU3Twhyi205T926jyAKFW4RGtIZqo6qIM+V6Ts7a3HyYGqWq8WhsHUfnddvr8IFAziyWfpIoOLrLNhQF5cTl/ae8VF82IE13sfoF2pVWMPM+cIM7sW8lHBKBZXpbWp4GphhiPM=;JPtAbuSz8cRyUpUG7VKItQ=="
+secured: "TFkrAfcCmx9TSXGMAWWe5sCubmNOVGjdjTV3efBfQGGvJrVssrnODOMxy4qQZzfJqZBxMFdM8cYKnthXvf9VaaNSMkRtTa+d8jeUJbb4psAYye835Gg6Qmm2f2oZgBSMzyJ5bWRt+wwiRWlS4UzGsKXnfZor31aJwTTOVoSYwFmvr3Rk2iWxHpNNs0Bgq927l5khhDozbmPEwBDwuDLTlq0jrbPioo4eJWC7LZL1UYghKfWliGi073fVGAv6O45u5DKLM3uOcStQiPlMfwTFNHYjzMgS3EUrQbFV3bXmLI2tUZvfu4GWaOrhyoFOou4HIu4u9uWOm5/48ozPp/2LrIuii6RQ780JFTmwrP6gkbQ=;vk1h5nU81oZEyuh6VcNANA=="
 ---
 

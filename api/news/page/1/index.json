@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
       "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
-      "excerpt": "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names,",
+      "excerpt": "WASHINGTON (AP) — When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov. Ron DeSantis and Sens. Josh Hawley and Ted Cruz.",
       "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.html",
-      "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.html",
+      "webUrl": "https://www.chron.com/news/article/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php",
+      "originalUrl": "https://www.chron.com/news/article/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/3f/03fab22c-a478-544b-9ed6-e704265cfa8b/6062a9e533214.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.amp.html",
-      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.amp.html",
-      "publishedDateTime": "2021-03-29T21:06:00-07:00",
+      "ampWebUrl": "https://www.chron.com/news/amp/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php",
+      "publishedDateTime": "2021-03-29T21:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,6 +41,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Mike Pence"
       ]
     },
@@ -1126,7 +1127,7 @@
       "originalUrl": "https://www.houstonchronicle.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": null,
       "content": "\r\n",

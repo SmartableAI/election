@@ -2,19 +2,19 @@
 category: news
 title: "Pence to headline benefit dinner at Faulkner University"
 excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University."
-publishedDateTime: 2021-03-29T15:40:00Z
-originalUrl: "https://www.miamiherald.com/entertainment/celebrities/article250270800.html"
-webUrl: "https://www.miamiherald.com/entertainment/celebrities/article250270800.html"
-ampWebUrl: "https://amp.miamiherald.com/entertainment/celebrities/article250270800.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article250270800.html"
+publishedDateTime: 2021-03-30T07:22:00Z
+originalUrl: "https://www.kentucky.com/entertainment/celebrities/article250270800.html"
+webUrl: "https://www.kentucky.com/entertainment/celebrities/article250270800.html"
+ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article250270800.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article250270800.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - Election
@@ -64,16 +64,16 @@ related:
         isCached: true
   - title: "Pence to headline benefit dinner at Faulkner University"
     excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University."
-    publishedDateTime: 2021-03-30T07:22:00Z
-    webUrl: "https://www.kentucky.com/entertainment/celebrities/article250270800.html"
-    ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article250270800.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article250270800.html"
+    publishedDateTime: 2021-03-29T15:40:00Z
+    webUrl: "https://www.miamiherald.com/entertainment/celebrities/article250270800.html"
+    ampWebUrl: "https://amp.miamiherald.com/entertainment/celebrities/article250270800.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article250270800.html"
     type: article
     provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 55
 
-secured: "hrVNLK7Dawlo4+rrUzeEEbHKoKAM+T60snGibTAIGxi+1zCI76yJy8lNTwKYBxTq4U+bqsVxD8d8BlKo/BBPbRCm7rIs8faHlnF0+BQEbnjCybk/MudY1Wa1bqUIxWdTX/CcsPTJTOiWvPSEppVMGtkOodcFrYeDHLlhRrTVAW/QTo2unTbnlR+/Yibf1DF21AvN+TmQMcBrj/wGxvMJIGJkqGHSSPY97LHrGIhVIGNvupDaHFbPbPgwz8ZcBI3JXjLKmZ57Mi/D0EHU4UgBN74BKjhFdHSuV9WfPZP1Slq10jIvY9TsXLvH+xjYn8lUQNFMvobWkM7RW0T5HyxoS0smlaR7u6UmfRp7TbTGJh4=;QDAFCao8EV7AEjvR9v5ziQ=="
+secured: "w62XYN/tNMULkfarDgCHBpCYtILeHtf0i3qyRTFmVDFJp6Wg698yl68j8HJVNiy8s/DeY1xU72svdtCbG59c5J+/cmAJX5SHRadCJbjT0CHUYa2plvv86adEs0lM5UrVqumA2fTVb04w0Arj59AlsPjQzYmIIz1oGlXSIQ4BBiizz3bHmk11R01i0T8tVVEqcFrUDzCWZ9i2CnjUjsikAtkIqLI9B8xDaV4bHyktGWQ0l48fnrS/a5cv9FOQofIogGbKcwc0FqM6xtLFQ1jB3oG4tnfKe+DGqwWNDDc6XwlEOdd0Qvx/t2qX6dk48jTMTKIM1XwXhT690zxvZoolNn6oALe56HvR+0bKGCg3W2k=;sAWvzZbUF7pXB5KeseOpWQ=="
 ---
 

@@ -831,16 +831,16 @@ related:
         height: 439
         isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks on the State of the Covid-19 Vaccine"
-    excerpt: "U.S. Vice President Kamala Harris, left, listens as U.S. President Joe Biden speaks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29,"
+    excerpt: "U.S. President Joe Biden delivers remarks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI Sign up for our daily newsletter"
     publishedDateTime: 2021-03-29T19:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0686771344c278cf7488160ae8dea9da/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4ce3a3e9214d05a5f9c502b1fee10a5e/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0686771344c278cf7488160ae8dea9da/BIDEN-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4ce3a3e9214d05a5f9c502b1fee10a5e/BIDEN-VACCINE.jpg"
         width: 650
         height: 433
         isCached: true

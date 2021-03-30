@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -170,6 +170,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/mike-braun2-thumb.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Asks Governors To Reinstate Mask Mandate: \"Please, This Is Not Politics\""
+    excerpt: "President Joe Biden called on governors that have lifted mask mandates in their states to reimpose them in remarks delivered Monday updating the public on the administration's response to the COVID-19 pandemic. Earlier in March, Biden called the decision ..."
+    publishedDateTime: 2021-03-29T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/biden_to_governors_reinstate_the_mask_mandate_this_is_not_politics.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 61
+    images:
+      - url: "https://assets.realclear.com/images/53/539127.jpg"
+        width: 1174
+        height: 880
         isCached: true
 
 secured: "GHtqSXHcVkLSYYoCSg8fMQIo9nsiEcVAc/V1fmGku8KGqsjKVmE/ErPyeN3aeIA3YYSdZMJNoRr6Ba+L615xpXBe2ZYRHXjMP/Wl1NXf+F+PVk7Ny4y6f+y/WO/kGPNbmBFJftH9p6pxfg+6Iqq4RzSVmnYzRCH3gUkRTGdBGp6yITddSGGbAGpVe1zBHdssTGZdSqrN7d+267msP++Eo9SaSUI/LZABdDqM+SCjkp/WnH9Uh40iDEaDrID6OHKI9SQuxL3geImN4dS9VwZXeFlv1smzPrDV8eboeKkr/vjmVmUEWCRU3y6X8FiLscBCPjEpQhqsO3Uqnxo7FUP4Nyaw/akIwHeyprcHXQQPvr8=;cTYtGDIL0ZEDvPiZYr6U0A=="

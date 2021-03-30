@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. President Joe Biden Delivers Remarks on the State of the Covid-19 Vaccine"
-excerpt: "U.S. Vice President Kamala Harris, left, listens as U.S. President Joe Biden speaks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29,"
+excerpt: "U.S. President Joe Biden delivers remarks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI Sign up for our daily newsletter"
 publishedDateTime: 2021-03-29T19:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/0686771344c278cf7488160ae8dea9da/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/0686771344c278cf7488160ae8dea9da/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4ce3a3e9214d05a5f9c502b1fee10a5e/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4ce3a3e9214d05a5f9c502b1fee10a5e/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/0686771344c278cf7488160ae8dea9da/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4ce3a3e9214d05a5f9c502b1fee10a5e/BIDEN-VACCINE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -856,6 +856,6 @@ related:
         height: 604
         isCached: true
 
-secured: "AhSlA5B5xt6eBW7YKeJyzUT84cPwYnQlJywEO/t6488WASqE9aMg9Fb3XKXqNAVBN1yLphxQ6mG49IW7X+T0nAHsQhVxC7VmYwImqKcW2yfeIbXKNIF8Qqe0viESJWSwuxaTmF9F6SMiGr3Ly0IPQYoP01UI8dLbxwN8wZhGnGMToOsgSWjvJi0oJoUzOfE1zIR/E+486h1uDTZFpGKwm4fAQPvhYLeFR/jzqCfIO9Dx/eWcKaO1jfPWiecqXrE/cG0gU4RuXM08ERjMHCm0TY61Kjqy6GQslcoS06ULA2W3a3mVgZEE71tWK57Mn5/9pHiMS/p7Ox4GQWWI+o60UvOH97BQt8Lqfch9tl7q1H4=;YixHvr/5ng6ZjEDoxSTbUA=="
+secured: "Px0GlTVik/BFClMFQKBHixIva8qIFWVyHWKeabhQ2xBAnZNILX9v0dU/za8Emj4xiM+/KR0C8ELSX6a09nz+kSP6Vw1PrIJMFTDHohTkACBJtjkirZhZJpAbvUyllHR30NTbESpedz4uxcRG0rMVwuHDatAZid1RvyDD1YLvc32RuEKw3Issm4OkiaXFUhe1GljPXCahuSpJN0Vw27yJnNRmsPFAw72c6Zf99J44o+1rK+9SrWuJLDV1MFdMSox3xJngKE/GZs9MUAJXL1DAr0QJ3WxmDfox/wQB9DfewaimbGF/uZJNF/cg+hXG0E3qhRlAL2U74KdeNEG3cm2HYYiw9cpf4tO9VsX8gJDhVPQ=;uSXBn+RM4EuDdj/OC06kxQ=="
 ---
 

@@ -286,6 +286,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden to release his first wave of judicial nominees"
+    excerpt: "President Joe Biden plans to tap 11 nominees for the federal bench, including three Black women, sources said. At least two of those women will be named to the appeals courts, according to allies of his administration briefed on the selections. The list of ..."
+    publishedDateTime: 2021-03-30T03:36:00Z
+    webUrl: "https://www.politico.com/news/2021/03/29/biden-judicial-nominees-478442"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/29/biden-judicial-nominees-478442"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/29/biden-judicial-nominees-478442"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/4b/0a/4b8798d64f8fa9416e1b8c643779/ap21084665086181.jpg"
+        width: 6000
+        height: 3998
+        isCached: true
   - title: "'Sitting on their hands': Biden transition officials say Trump officials delayed action on child migrant surge"
     excerpt: "Trump officials didn't increase capacity for child migrants despite warnings, Biden transition officials say. \"They were sitting on their hands,\" one said."
     publishedDateTime: 2021-03-24T18:53:00Z

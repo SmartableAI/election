@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Trump's heir? Pence reemerges, lays groundwork for 2024 run"
-excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names,"
-publishedDateTime: 2021-03-30T04:06:00Z
-originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.html"
-webUrl: "https://www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.html"
-ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.amp.html"
+excerpt: "WASHINGTON (AP) — When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov. Ron DeSantis and Sens. Josh Hawley and Ted Cruz."
+publishedDateTime: 2021-03-30T04:11:00Z
+originalUrl: "https://www.chron.com/news/article/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php"
+webUrl: "https://www.chron.com/news/article/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php"
+ampWebUrl: "https://www.chron.com/news/amp/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php"
 type: article
-quality: 90
-heat: 110
+quality: 100
+heat: 120
 published: true
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
+  - Donald Trump
   - Mike Pence
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/3f/03fab22c-a478-544b-9ed6-e704265cfa8b/6062a9e533214.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -44,6 +45,6 @@ related:
         height: 663
         isCached: true
 
-secured: "dN0SXBgwJ0kbA9+7lEydiviAyPAjvilmom9yRokDA/hp3ZPctg79u3ZQNAiYD+ws9zKiotYshg7QV9ZKQ0imje4v+6lqCZB02CK9PRmb+0Ba2kC3sLcF77kiEiNACpcj7ZbCJPRom527ECO7VPlVYrlYZsLwhm6YwsfZUYLSIMlRjsqp55yFXus25E8O4MknJX2KfpcKMLWRm/Iw8ZiF0K/MigS7la7N9usNddFrDrhYOEHt9u+y3XibsRD2DBLkqA3qjPvlpCwfGZk+ylUYnk6ZmClRf34bhJ07bXLfqABkdBYe0OzLav2ze7XhDjHK/yvO1Ocuvstqb3ses1HLN6hjGlAgEsvzKSYJpTbM2t0=;vJy6dNK8rMo0Cq7fMleKrQ=="
+secured: "vCmpaFN3oHIHdnuyp3uz1P+kxfsBflmo8AIiCF5xDo4+6YJON6v4fyu5HBiEWpn/a0aYx03ZJbfLxY95XSQ7+b4g0hH4edSyG2bPo5w5Iojd0Wvq/arOiI9a/V4R6yE6JOfnkGy7EKFtFSV5F7tz8aUBnE+ToXEsqgnOSdyR5/0gxIuaBbNvrateG9/qgEL+IQl54AUaW6PpAtL3P7gSRIRMx4/u29kx9T+TTowUl7K1V35/hBECzgnPaCTqLHa4139nVkCyqnagfpStnhpGR2x8tJKpAErO8xgdo8nD6aQS4Tsc/iCdNUahLLif49w3mMb77Kybdwukl+VQn16mBEFhbUKvVYxSMR6LAbD8tY0=;V5BT7v45w8/hFvRtC8UdkA=="
 ---
 

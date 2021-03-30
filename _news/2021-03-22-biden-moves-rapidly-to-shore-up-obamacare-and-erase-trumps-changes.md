@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html"
 type: article
 quality: 190
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/19/world/19biden-amlo-immigration-add1/19biden-amlo-immigration-add1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden to release his first wave of judicial nominees"
+    excerpt: "President Joe Biden plans to tap 11 nominees for the federal bench, including three Black women, sources said. At least two of those women will be named to the appeals courts, according to allies of his administration briefed on the selections. The list of ..."
+    publishedDateTime: 2021-03-30T03:36:00Z
+    webUrl: "https://www.politico.com/news/2021/03/29/biden-judicial-nominees-478442"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/29/biden-judicial-nominees-478442"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/29/biden-judicial-nominees-478442"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/4b/0a/4b8798d64f8fa9416e1b8c643779/ap21084665086181.jpg"
+        width: 6000
+        height: 3998
         isCached: true
   - title: "Trump urges Republicans to double-down on fake election fraud narrative"
     excerpt: "Act on the news with POLITICO Pro. — Former President Donald Trump is urging Republicans to push his election fraud lie, which is showing to be a driving narrative of the party. — Democrats’ sweeping electoral reform bill — the For the People Act ..."

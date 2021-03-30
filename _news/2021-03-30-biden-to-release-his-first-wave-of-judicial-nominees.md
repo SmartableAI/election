@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden says he agrees with Obama that filibuster is 'a relic of the Jim Crow era'"
-excerpt: "Joe Biden told CNN's Kaitlan Collins on Thursday at the first formal news conference of his presidency that he agreed with former President Barack Obama that the filibuster \"was a relic of the Jim Crow era\" but added that his immediate focus was on addressing the abuse of the rule first.\n    \n"
-publishedDateTime: 2021-03-25T18:56:36Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EJ9foi6-l1k/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EJ9foi6-l1k/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/filibuster-biden-obama/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/filibuster-biden-obama/index.html"
+title: "Biden to release his first wave of judicial nominees"
+excerpt: "President Joe Biden plans to tap 11 nominees for the federal bench, including three Black women, sources said. At least two of those women will be named to the appeals courts, according to allies of his administration briefed on the selections. The list of ..."
+publishedDateTime: 2021-03-30T03:36:00Z
+originalUrl: "https://www.politico.com/news/2021/03/29/biden-judicial-nominees-478442"
+webUrl: "https://www.politico.com/news/2021/03/29/biden-judicial-nominees-478442"
+ampWebUrl: "https://www.politico.com/amp/news/2021/03/29/biden-judicial-nominees-478442"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/29/biden-judicial-nominees-478442"
 type: article
-quality: 170
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325143535-joe-biden-march-25-2021-03-super-tease.jpeg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/4b/0a/4b8798d64f8fa9416e1b8c643779/ap21084665086181.jpg"
+    width: 6000
+    height: 3998
     isCached: true
 
 related:
@@ -140,6 +141,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317103228-01-biden-taxes-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says he agrees with Obama that filibuster is 'a relic of the Jim Crow era'"
+    excerpt: "Joe Biden told CNN's Kaitlan Collins on Thursday at the first formal news conference of his presidency that he agreed with former President Barack Obama that the filibuster \"was a relic of the Jim Crow era\" but added that his immediate focus was on addressing the abuse of the rule first.\n    \n"
+    publishedDateTime: 2021-03-25T18:56:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EJ9foi6-l1k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/filibuster-biden-obama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/filibuster-biden-obama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325143535-joe-biden-march-25-2021-03-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
@@ -271,22 +288,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden to release his first wave of judicial nominees"
-    excerpt: "President Joe Biden plans to tap 11 nominees for the federal bench, including three Black women, sources said. At least two of those women will be named to the appeals courts, according to allies of his administration briefed on the selections. The list of ..."
-    publishedDateTime: 2021-03-30T03:36:00Z
-    webUrl: "https://www.politico.com/news/2021/03/29/biden-judicial-nominees-478442"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/29/biden-judicial-nominees-478442"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/29/biden-judicial-nominees-478442"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/4b/0a/4b8798d64f8fa9416e1b8c643779/ap21084665086181.jpg"
-        width: 6000
-        height: 3998
-        isCached: true
   - title: "Trump urges Republicans to double-down on fake election fraud narrative"
     excerpt: "Act on the news with POLITICO Pro. — Former President Donald Trump is urging Republicans to push his election fraud lie, which is showing to be a driving narrative of the party. — Democrats’ sweeping electoral reform bill — the For the People Act ..."
     publishedDateTime: 2021-03-22T14:00:00Z
@@ -348,6 +349,6 @@ related:
         height: 773
         isCached: true
 
-secured: "IBd5jRjvBbXUfwoYAFqeaRWqMXaJVlXXIy7/90aZSv+0U+NKr97YAmTvn94t/9jjzJOKH6SGrVAPVNZ3JipS73hzjXT+q5WX4vR2Ywkvw/9By56jTv1Kpy1oMRWghsX58wYcgIzIr0IDp7y+SSiYHde5HLyzUuoghymnqP/RWIZ7W2I65g7helkWiyj+HCul9FJ0jvANlVgsjySp+UihI4y4uIRGzjUR76HU8aI4XAOh2QVnk6Uv153txtd2keNI07QPBtR//KAd2EP1JJFSSDiNZ78Zuh2SLmj5F93w1HiUvB5nRMp4EWzxyrnkHjbbwR+jznq+B38QfQyG76OnNT7zpAXT2W8JuvUkZezAT2M=;GoXYFzxSU3GAmc4JCHSiGg=="
+secured: "GucwXFwnRvZuZW8nUTnAI7EawSDN8CxlEubEHsF0C6Tc+r8EbZLYVq7FKlULQDmJr8EX2enkziQmpq5eR3rrxXjdH1xk2hzdHYktq1kW7ImnWmNQnwD8TBpNGPd1V2KjrLVEtsULCxWFQ7AdESbOdEddGonT+6toj/+O5QoG89wqaGqTbjyDbL3B9uxrgIWGXYxiZLlasavTF/rdQzQ3HO/beHK/8g/ZgKq0VsJvtNQRqPDFK1vODXM+yrV12WM+B7qxFtcbZ2tmIjTF80GY7Y8t3SAov1vlKNK8GiptzcXI5XaCKKmgGod5vc+bUnxPqTE6ClOupAk6FkSarQ26ZPPZ8nC9Ev6dsk2fZ5xTWYI=;c9X0TVKipCDQoG9E6a/Frw=="
 ---
 

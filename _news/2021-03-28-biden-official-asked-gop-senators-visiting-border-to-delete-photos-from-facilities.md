@@ -171,6 +171,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Asks Governors To Reinstate Mask Mandate: \"Please, This Is Not Politics\""
+    excerpt: "President Joe Biden called on governors that have lifted mask mandates in their states to reimpose them in remarks delivered Monday updating the public on the administration's response to the COVID-19 pandemic. Earlier in March, Biden called the decision ..."
+    publishedDateTime: 2021-03-29T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/biden_to_governors_reinstate_the_mask_mandate_this_is_not_politics.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 61
+    images:
+      - url: "https://assets.realclear.com/images/53/539127.jpg"
+        width: 1174
+        height: 880
+        isCached: true
 
 secured: "U2V82vAxKjCD9jc+yyNTr+Oknsak7NqXP7VsZ4TU1QK62UbKy29e9uRdarQPON33D4NA09kaGZ7BVc1/rM6jkHRBhAy2G7qrrTjL7pVfwVp7a902fYkNlCJ5b34fS5BKoEp2hf5qpDA4Ef58E7nmn1t34ZJYG/VuL9zOcBIR4Xg04ZhAeY10pcY+P3PrBEMtbJJv3jmYFCnya0kGdHieQEKmx64ogOCc+Tf6dpXvMsOkqWqV87zm2y660uoTwZdvZ9NKEEKEwjzef+77jccvEOzcl47QmWOcpC50tQ3EQAnwpqfWpbJVaVYHHzKLCcaihfLGetU3gYKBgKXS8hD3pr/F8R7/Wt7zvrjKQi8Xyxw=;IHw9IkUtkGNszpWHesHcSg=="
 ---
