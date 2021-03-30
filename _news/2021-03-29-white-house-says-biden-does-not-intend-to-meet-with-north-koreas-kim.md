@@ -1,10 +1,10 @@
 ---
 category: news
 title: "White house says Biden does not intend to meet with North Korea's Kim"
-excerpt: "U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday."
+excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday. Asked if Biden’s diplomatic approach to North Korea would include “sitting with President Kim Jong Un” as ..."
 publishedDateTime: 2021-03-29T16:35:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-northkorea-biden/white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim-idUSKBN2BL2GU"
-webUrl: "https://www.reuters.com/article/us-usa-northkorea-biden/white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim-idUSKBN2BL2GU"
+originalUrl: "https://www.reuters.com/article/us-usa-northkorea-biden-idUSKBN2BL2GU"
+webUrl: "https://www.reuters.com/article/us-usa-northkorea-biden-idUSKBN2BL2GU"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 type: article
@@ -90,6 +90,6 @@ related:
         height: 600
         isCached: true
 
-secured: "NZixuVl/dWDBBAu0CQBiSC6hqdgnUNNXwXBwhvZbOqxQ8HNoDHlFZMrEfWi0rnv+yvESc7qGBTyqX6tOjgnorkg/azvrlbIPZ+Gki92pv4rcz6nBytrsW4xK6AgdGYpPl1dC/1TI4ioG6RGSwRF/DisboFWX8VMHzqy/Dnl/yNvmcokH26KZgvlZfI/ygyO4cHtH8lmxCA21bS06REgNcxV4xJYmPWkyfe6jcGLQcy+QAzCcISgL/TWjmT2PTxikt0KmS+AD93yCq10YoNnF3tezwq7AI01ptrvYyImnUFoxMWq6sGi/RB63gA7VPxjKn1ewQaYVN7LTgpaWO7bU/+NTCLTSIJbvLhoGTGoUEQI=;wOY3aXGmZ5Ox67rUWr9atQ=="
+secured: "lNaYOwHQ+M4i6fofV0BGjBsrKEToHwZhxExgtzrkF4yU8Jgf0/wgpTokQtZHoWzIBomasWoikYhaRE0XKRZdcGFSDSeQI1li50YN0QyfzelnLOgGXUGhE53nk8Vow09vNQv8DXSmGl97//PX6mOwV76KEO0x6hXtp9Ste5GuR9ZDWYbC1pQBk8Xw59/4NThx0+rgqgjGse/FBDb4jX2THPLA+TIvhyU3p6BoMKNt33aNWLyJmMBPGSV39G8Mo20v4yzuPeUXpHsBGnJxtuLT5L21K6b7rmFctwFubDuUPXX52amFA4IGrVtz3Dxbuu1jw5MjzmNfpMJkfoeWroPZb1bLgUamjeG6KMazBnxks08=;0ayH6S3JBVaGo+iFesu03g=="
 ---
 

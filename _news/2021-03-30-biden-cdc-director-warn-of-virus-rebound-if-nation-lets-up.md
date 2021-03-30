@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden looks into taking action on 3D printer guns, imported firearms"
-excerpt: "President Joe Biden, weighing executive orders aimed at reducing gun violence following two mass shootings, said on Friday his administration is exploring whether he has the authority to take action on firearms made using 3D printers as well as on imported guns."
-publishedDateTime: 2021-03-27T00:14:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-guns/biden-looks-into-taking-action-on-3d-printer-guns-imported-firearms-idUSKBN2BI384?edition-redirect=uk"
-webUrl: "https://www.reuters.com/article/us-usa-biden-guns/biden-looks-into-taking-action-on-3d-printer-guns-imported-firearms-idUSKBN2BI384?edition-redirect=uk"
+title: "Biden, CDC director warn of virus rebound if nation lets up"
+excerpt: "President Joe Biden and CDC Director Dr. Rochelle Walensky are making impassioned pleas to Americans not to let their guard down in the fight against COVID-19"
+publishedDateTime: 2021-03-30T04:06:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210326&t=2&i=1556395472&r=LYNXMPEH2P1VE&w=800"
-    width: 800
-    height: 533
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -333,22 +335,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden, CDC director warn of virus rebound if nation lets up"
-    excerpt: "President Joe Biden and CDC Director Dr. Rochelle Walensky are making impassioned pleas to Americans not to let their guard down in the fight against COVID-19"
-    publishedDateTime: 2021-03-30T04:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
     publishedDateTime: 2021-03-26T20:19:00Z
@@ -628,6 +614,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden looks into taking action on 3D printer guns, imported firearms"
+    excerpt: "President Joe Biden, weighing executive orders aimed at reducing gun violence following two mass shootings, said on Friday his administration is exploring whether he has the authority to take action on firearms made using 3D printers as well as on imported guns."
+    publishedDateTime: 2021-03-27T00:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-guns/biden-looks-into-taking-action-on-3d-printer-guns-imported-firearms-idUSKBN2BI384?edition-redirect=uk"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210326&t=2&i=1556395472&r=LYNXMPEH2P1VE&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Biden slams Georgia voting law as 'an atrocity'"
     excerpt: "President Joe Biden slams a new Georgia voting law as \"an atrocity.\" The president says \"you don't need anything else to know that this is nothing but punitive, designed to keep people from voting.\" (March 26)"
     publishedDateTime: 2021-03-26T20:32:00Z
@@ -860,6 +860,6 @@ related:
         height: 604
         isCached: true
 
-secured: "KRtjBFqwD1iGsvWgOcphb7A3pFRNgo7gfYC103D5pUBXi78XJWQRwWTw8+S+jQl5pFA+CBXyeiCAQIYBDD/Mza/s8hBKqbFQUqDqaUVjzwg3FkhQQdUa53+LG+/F9hOgIamxXS+93ta2D62YF8CHnBmoeZct43HOhcyo4VYnN9ohJVpdAvQVpneHx5lJuLkrn4pe+JOBBpW97Mo1hkdL0ZfXi4eB2Q4bNCw2SlYKZ0TDchrkUr7nbP7ciFtbn94TPZtOYW+zot2yqQYtrNzuaxuWjUsQ6Y2P8Zj0gOzAFkJTjnqlomUcCT1YdEvYamORBzKIlnr0cr6uRx2Pd3Qdx87sNIgBIR4o8Z3cmHTzk60=;5UOXJGZCcBLvDC7i0/9jww=="
+secured: "eJ2w6m2R9lXsvCvtNJT/ABrQzX55nXgMnyJadkwaLW1huLaP7FINrqMB97UInwNy/SsRTbUv2p2p2Dd6MMRRiWBor8feEu3mmovRHEdX1ZCHhRXhoj8ozZDTGgaiZyCjDmmpkgbTw5xUSYOcqwuPA3TgBvNqAbpAk+MW8lQGLDE+wsCLiPmED1YozSEeeHWfKLVT25Hw7GT7KjlQZWKz4eLVrfefffxHr3L7YJ7kJKPId/HD5LsxKW8rs9Owx3Muh7lDCBwidJoZgJnPmRlVZ4Lc6lIKLg8Ngqx8JtsxnqZYhEL0fyQ4U5GZRS1anFyxK/ErfDDdaX4nRDYn3Yer8wuR0zEsElkWEdpP0n0P9Hk=;3+Yj9RH2c79egx5KwUwFsw=="
 ---
 

@@ -333,6 +333,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden, CDC director warn of virus rebound if nation lets up"
+    excerpt: "President Joe Biden and CDC Director Dr. Rochelle Walensky are making impassioned pleas to Americans not to let their guard down in the fight against COVID-19"
+    publishedDateTime: 2021-03-30T04:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
     publishedDateTime: 2021-03-26T20:19:00Z
@@ -816,16 +832,16 @@ related:
         height: 439
         isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks on the State of the Covid-19 Vaccine"
-    excerpt: "U.S. President Joe Biden delivers remarks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reyno"
+    excerpt: "U.S. Vice President Kamala Harris, left, listens as U.S. President Joe Biden speaks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29,"
     publishedDateTime: 2021-03-29T19:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/1f7bd626ab6e89d959e2b8bd9d634d64/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0686771344c278cf7488160ae8dea9da/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/1f7bd626ab6e89d959e2b8bd9d634d64/BIDEN-VACCINE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0686771344c278cf7488160ae8dea9da/BIDEN-VACCINE.jpg"
         width: 650
         height: 433
         isCached: true

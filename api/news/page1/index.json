@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
+      "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
+      "excerpt": "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names,",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.html",
+      "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/3f/03fab22c-a478-544b-9ed6-e704265cfa8b/6062a9e533214.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.amp.html",
+      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_bc3c2acc-c021-5a64-996f-0d18b3a49aed.amp.html",
+      "publishedDateTime": "2021-03-29T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-trump-will-be-back-in-office-mypillow-ceo-reveals-plan-for-white-house-return.md",
       "title": "Trump 'Will Be Back In Office': MyPillow CEO Reveals Plan For White House Return",
       "excerpt": "Donald Trump will be president again by August, according to a projection made by MyPillow CEO Mike Lindell. The MAGA-supporting pillow maker was on former Trump adviser Steve Bannon’s “War Room: Pandemic” podcast when he made the eyebrow-raising prediction “Donald Trump will be back in office in August,",
@@ -643,10 +686,10 @@
     {
       "path": "_news/2021-03-29-white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim.md",
       "title": "White house says Biden does not intend to meet with North Korea's Kim",
-      "excerpt": "U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday.",
+      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday. Asked if Biden’s diplomatic approach to North Korea would include “sitting with President Kim Jong Un” as ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-northkorea-biden/white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim-idUSKBN2BL2GU",
-      "originalUrl": "https://www.reuters.com/article/us-usa-northkorea-biden/white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim-idUSKBN2BL2GU",
+      "webUrl": "https://www.reuters.com/article/us-usa-northkorea-biden-idUSKBN2BL2GU",
+      "originalUrl": "https://www.reuters.com/article/us-usa-northkorea-biden-idUSKBN2BL2GU",
       "featuredContent": null,
       "highlight": null,
       "heat": 205,
@@ -1283,63 +1326,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-after-two-months-in-office-kamala-harris-is-still-living-out-of-suitcases-and-shes-getting-frustrated-with-it.md",
-      "title": "After two months in office, Kamala Harris is still living out of suitcases -- and she's getting frustrated with it",
-      "excerpt": "It has been more than two months since Kamala Harris was sworn in as vice president of the United States, a historic moment for the country, as Harris is the first woman and the first woman of color to hold the second highest office in the land. Yet, Harris -- along with her husband, Georgetown Law professor",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oT3ai9fm37Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oT3ai9fm37Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210120163806-11-biden-parade-harris-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/27/politics/kamala-harris-vice-presidents-residence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/kamala-harris-vice-presidents-residence/index.html",
-      "publishedDateTime": "2021-03-27T09:36:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

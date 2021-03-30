@@ -3,8 +3,8 @@ category: news
 title: "‘Saturday Night Live’: Maya Rudolph and Martin Short host Passover Seder as Kamala Harris and Doug Emhoff"
 excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback.It didn’t come until a third of the way through the episode,"
 publishedDateTime: 2021-03-28T15:42:00Z
-originalUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
-webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+originalUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
+webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html"
 ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
 type: article
@@ -74,6 +74,6 @@ related:
         height: 1585
         isCached: true
 
-secured: "ChvBq/f6u4TFJXhqiICZ83EI+EqkuTh+T6YaigrnyKmIaPSppPqOnumXKfIsoQWoUMeZaluN/4D/inpghuemtcGn/JmhlvR8aGVX9cB7XHXMFEspKQ2J/IDBnrL3awoE3qp3TCHMxRnoR2E39QlLD/PxU8d5L8/d74Pdt7WYACquJXFeCk+Mb4ulyYocsE6+zfPJvxNe/nMfEIsD6E8jAvmhCWo2LEnlly2HBSwgrKmsOr1dlyyqiH7tHMWphr78tcboYAe5ZQ5FLsf1xgNbH/aD3C32jkpFErdqrqsDE0Bl6GJNb6SUi6XNc3/Gj+5In6K339ciaYnrdDElChid9euAb/ptf2Ca/eYwfPPu+uE=;uGsmqfTa9nmgdwWxemK4Qg=="
+secured: "nGUDTOPEtTlYO02yHTYH5QWLsWS73MCmsaAKVFBgVaKe0U3mgywsQRp4ScG8kvbarPWZguRMb/qT8VxvnYIAW924B6/L3vQ+t7BnBgv18bcAy+cAob0TFSHNSrTKoo21oZH9YS8qoNvbIlostFIubzHj92VT1zuaaOL8JX7uzyrHYx/LPkDDPb2nHJyZ6KzlGbvLK/lINdOfuQKFTKFrvZ9qTiAVe0HFnY3Dtg9PccVqLwNVc35kVRp7+K9wh12ivKO/74ZLNTrIS4VXqwQb8heTb+xpFkHqVWLzoU2tD+ohp0IGkWSCKKKRqjdPe8dEkfoBIdQGCEpasjPG7Jw9s82OU6BZuFIeohn19TTTLe8=;Y+1In8L4aNeTYJsvZ60BZg=="
 ---
 

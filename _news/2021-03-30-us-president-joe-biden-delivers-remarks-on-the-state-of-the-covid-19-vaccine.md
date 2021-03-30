@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. President Joe Biden Delivers Remarks on the State of the Covid-19 Vaccine"
-excerpt: "U.S. President Joe Biden delivers remarks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reyno"
+excerpt: "U.S. Vice President Kamala Harris, left, listens as U.S. President Joe Biden speaks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29,"
 publishedDateTime: 2021-03-29T19:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/1f7bd626ab6e89d959e2b8bd9d634d64/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/1f7bd626ab6e89d959e2b8bd9d634d64/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/0686771344c278cf7488160ae8dea9da/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/0686771344c278cf7488160ae8dea9da/US-President-Joe-Biden-Delivers-Remarks-on-the-State-of-the-Covid-19-Vaccine/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/1f7bd626ab6e89d959e2b8bd9d634d64/BIDEN-VACCINE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/0686771344c278cf7488160ae8dea9da/BIDEN-VACCINE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -328,6 +328,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe2_032521getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden, CDC director warn of virus rebound if nation lets up"
+    excerpt: "President Joe Biden and CDC Director Dr. Rochelle Walensky are making impassioned pleas to Americans not to let their guard down in the fight against COVID-19"
+    publishedDateTime: 2021-03-30T04:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
@@ -840,6 +856,6 @@ related:
         height: 604
         isCached: true
 
-secured: "pIpGRTA/Gf0SSiRksjCrBNtJNM25kyFLicAITrQrH7c+K1T+0OB4FrPb7SJ9IydDecm4pvpExzH6jhlmWXg+yt7aR9P9Se3g9nf9zNrhOIY2GH2LBO7o0d//l1w5SC/aUMdAOILzGoBj7SlOQupTWZtaVuv7Asv701twwfxSWNDOeKeOWKnsYzhA69jJNgvq6P4UUj3oseozZyYcCF21nuZsDoilUlHsj0hkxkJffZ/TzBeJvbEDyyecbicD3IHArKVkKecvP9+sJk1d6lY7BB/j3369s+eupdWrHJ7VfZ9PRcXG7DEC6K2MyU0NXAFfGZtE+lo7SNikD3RtfyLQ1gJ1Quo88tiqlzlZ5lUOPjM=;Zw4i/Z2dJQLi0sK1OUJoBA=="
+secured: "AhSlA5B5xt6eBW7YKeJyzUT84cPwYnQlJywEO/t6488WASqE9aMg9Fb3XKXqNAVBN1yLphxQ6mG49IW7X+T0nAHsQhVxC7VmYwImqKcW2yfeIbXKNIF8Qqe0viESJWSwuxaTmF9F6SMiGr3Ly0IPQYoP01UI8dLbxwN8wZhGnGMToOsgSWjvJi0oJoUzOfE1zIR/E+486h1uDTZFpGKwm4fAQPvhYLeFR/jzqCfIO9Dx/eWcKaO1jfPWiecqXrE/cG0gU4RuXM08ERjMHCm0TY61Kjqy6GQslcoS06ULA2W3a3mVgZEE71tWK57Mn5/9pHiMS/p7Ox4GQWWI+o60UvOH97BQt8Lqfch9tl7q1H4=;YixHvr/5ng6ZjEDoxSTbUA=="
 ---
 

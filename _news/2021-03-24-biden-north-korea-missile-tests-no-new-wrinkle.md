@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "White house says Biden does not intend to meet with North Korea's Kim"
-    excerpt: "U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday."
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday. Asked if Biden’s diplomatic approach to North Korea would include “sitting with President Kim Jong Un” as ..."
     publishedDateTime: 2021-03-29T16:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-northkorea-biden/white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim-idUSKBN2BL2GU"
+    webUrl: "https://www.reuters.com/article/us-usa-northkorea-biden-idUSKBN2BL2GU"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL2GU"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2GU"
     type: article
