@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Governor races to test COVID-19 response, Trump influence"
+    excerpt: "Just one Democratic governor, Kansas’s Laura Kelly, faces reelection in a state former President Trump Donald Trump Good luck, Dan Bongino! The Hill's Morning Report - Biden's next act ..."
+    publishedDateTime: 2021-03-23T19:17:00Z
+    webUrl: "https://thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence"
+    ampWebUrl: "https://thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/544547-governor-races-to-test-covid-19-response-trump-influence?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/sununuchris_cuomoandrew_bakercharlie_032321getty_split_gov.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "COVID-19 outbreak at Trump's Mar-a-Lago club leads to partial closure, per report"
     excerpt: "DOW S&P 500 NASDAQ 100 Former President Donald Trump's Palm Beach club has partially closed following a COVID-19 outbreak, the Associated Press reported Friday. A Mar-a-Lago club member reportedly received a phone call about the closure Friday and a ..."
     publishedDateTime: 2021-03-19T21:56:00Z

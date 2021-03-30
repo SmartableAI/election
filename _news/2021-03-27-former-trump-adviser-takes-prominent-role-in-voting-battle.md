@@ -27,175 +27,242 @@ images:
     isCached: true
 
 related:
-  - title: "House Republicans who backed Trump impeachment warn Dems on Iowa election challenge"
-    excerpt: "A group of nine House Republicans that voted to impeach former President Trump has signed a letter to Speaker Nancy Pelosi (D-Calif.) warning her against pursuing an investigation into the Iowa electi"
-    publishedDateTime: 2021-03-22T17:54:00Z
-    webUrl: "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa"
-    ampWebUrl: "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp"
+  - title: "Trump’s heir? Pence reemerges, laying the groundwork for a 2024 run"
+    excerpt: "Trump recently rattled off the names of those he viewed as future leaders of the GOP, including Josh Hawley, Ted Cruz along and Ron DeSantis."
+    publishedDateTime: 2021-03-30T15:11:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-30/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run?_amp=true"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 134
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/miller-meeksmarianette_hartrita_031921gn-courtesy-rita-hart-camp_iowa.jpg"
-        width: 980
-        height: 551
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/239b67e/2147483647/strip/true/crop/3375x2204+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff0%2F56%2F4919d64a4a1b9047f9b9077081b4%2Fbiden-82377.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "House Dems ask Trump to testify oath for impeachment case"
-    excerpt: "House Democrats have asked former President Donald Trump to testify under oath for his Senate impeachment trial"
-    publishedDateTime: 2021-02-04T18:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+  - title: "In Senate race, combative Brooks leans into Trump ties"
+    excerpt: "U.S. Rep. Mo Brooks, who came under fire for remarks he made preceding the attack on the U.S. Capitol, says he is better known to voters than when he ran for Senate and lost four years ago"
+    publishedDateTime: 2021-03-25T03:26:00Z
+    webUrl: "https://www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-senate-race-combative-brooks-leans-into-trump-ties/2021/03/24/35204b20-8d0b-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Ohio Republican Wants to Rename State Park in Honor of Donald Trump"
-    excerpt: "A bill introduced to the U.S. House of Representatives would prevent Trump's name being added to any federal properties."
-    publishedDateTime: 2021-03-18T10:08:00Z
-    webUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015"
-    ampWebUrl: "https://www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ohio-republican-wants-rename-state-park-honor-donald-trump-1577015?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1758394/former-president-donald-trump-cpac.jpg"
-        width: 3000
-        height: 2031
-        isCached: true
-  - title: "Firebrand Congressman Mo Brooks, a Trump ally, launches U.S. Senate run"
-    excerpt: "U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, announced on Monday he will run for U."
-    publishedDateTime: 2021-03-22T23:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks-idUSKBN2BE2X2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BE2X2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BE2X2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555822052&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M00X"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump ally Brooks due to announce whether he will run for U.S. Senate"
-    excerpt: "WASHINGTON (Reuters) - U.S. Representative Mo Brooks of Alabama, a close ally of former President Donald Trump who helped lead a Republican effort to challenge the 2020 presidential election results in Congress, is expected to announce on Monday whether ..."
-    publishedDateTime: 2021-03-22T19:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-alabama-brooks/trump-ally-brooks-due-to-announce-whether-he-will-run-for-u-s-senate-idUSKBN2BE2X2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BE2X2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BE2X2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555822052&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M00X"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Virginia Republican candidates for governor show grip Trump has on party"
-    excerpt: "The first 2021 statewide election has Republicans relitigating the 2020 election through the topic of \"election integrity.\""
-    publishedDateTime: 2021-03-16T11:47:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-virginia-governors-race-republicans/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/16/989c5cef-0670-40aa-8072-fd3d770d1baf/thumbnail/1200x630/630e0ad1bc2443774b4a5018d77393d5/virginia-race-for-governor-side-by-side.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amid Republican civil war, Trump holds court — and his grip on GOP — at Mar-a-Lago"
-    excerpt: "The question of how much clout former president Donald Trump would retain after leaving office and where he would wield it has been answered."
-    publishedDateTime: 2021-03-15T13:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/donald-trump-holds-court-and-his-grip-gop-mar-lago/4698811001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4698811001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4698811001"
+  - title: "Donald Trump launches website for personal office"
+    excerpt: "Former President Donald Trump and former first lady Melania Trump have launched a website for the couple's personal offices. The site — found at 45office.com — states it is \"committed to preserving the magnificent legacy of the Trump Administration ..."
+    publishedDateTime: 2021-03-30T13:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/30/donald-trump-launches-website-post-white-house-office/7058332002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7058332002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7058332002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/07/NPPP/bea9dd40-3c2d-4ec8-bd5c-bf4858badbd3-IMG-1949_2.jpg?auto=webp&crop=1727,972,x97,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/03/05/USAT/919ad265-fb75-49fb-97ce-5eaeddec5787-Donald_Trump_at_CPAC_AP_pic.jpg?auto=webp&crop=3661,2060,x0,y186&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Wyoming election changes pushed by Donald Trump Jr. fail"
-    excerpt: "Trump Jr. called for Cheney’s defeat after she voted to impeach President Donald Trump over the storming of the U.S. Capitol by a mob of his supporters. A primary runoff for Cheney could have consolidated Republican opposition to her re-election."
-    publishedDateTime: 2021-03-25T17:08:00Z
-    webUrl: "https://www.chron.com/news/article/Wyoming-election-changes-pushed-by-Donald-Trump-16052945.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Wyoming-election-changes-pushed-by-Donald-Trump-16052945.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-election-changes-pushed-by-Donald-Trump-16052945.php"
+  - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "Former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. after leaving office. Pence is steadily re-entering public life as he eyes a potential run for the White House ..."
+    publishedDateTime: 2021-03-30T14:23:00Z
+    webUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: TexomasHomepage.com
+      domain: texomashomepage.com
     quality: 90
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+      - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/03/pence.jpg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump’s heir? Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "In this Jan. 20, 2021, file photo, former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. AP WASHINGTON ..."
+    publishedDateTime: 2021-03-30T15:57:00Z
+    webUrl: "https://chicago.suntimes.com/2021/3/30/22358466/trumps-heir-pence-reemerges-lays-groundwork-2024-run"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/3/30/22358466/trumps-heir-pence-reemerges-lays-groundwork-2024-run"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/30/22358466/trumps-heir-pence-reemerges-lays-groundwork-2024-run"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 90
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
         isCached: true
-  - title: "Brooks, Trump adviser to make campaign announcement"
-    excerpt: "Mo Brooks, a far-right, firebrand Republican and staunch supporter of President Donald Trump, has scheduled a Monday night campaign rally during which he is widely expected to enter the race to replace departing Sen."
-    publishedDateTime: 2021-03-22T22:18:00Z
-    webUrl: "https://www.chron.com/news/article/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Brook-joined-by-Trump-advisor-to-make-campaign-16044186.php"
+  - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 presidential run"
+    excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron DeSantis and Sens. Josh"
+    publishedDateTime: 2021-03-30T11:51:00Z
+    webUrl: "https://www.denverpost.com/2021/03/30/mike-pence-2024-presidential-election/"
+    ampWebUrl: "https://www.denverpost.com/2021/03/30/mike-pence-2024-presidential-election/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/30/mike-pence-2024-presidential-election/amp/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 87
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/03/Pence_09061.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Mike Pence laying groundwork for 2024 presidential run, but Trump shows no signs of support"
+    excerpt: "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024."
+    publishedDateTime: 2021-03-30T15:37:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-president-2024-20210330-unch5s3uejeq5kn7em2vthys2m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 80
+    images:
+      - url: "https://www.baltimoresun.com/resizer/pK3vt5CFRMo4GDiuGwtCYTRxSSw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GUWE3XU23NFN7LBI655ZO27E6Q.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mo Brooks says he has discussed Senate run with Trump many times"
+    excerpt: "Mo Brooks, who helped lead GOP objections to President Donald Trump’s loss and come under fire for remarks he made preceding the attack on the U.S. Capitol, said Wednesday that he is better known to voters this time as he runs for U."
+    publishedDateTime: 2021-03-25T03:05:00Z
+    webUrl: "https://www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/mo-brooks-says-he-has-discussed-senate-run-with-trump-many-times.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
+        width: 4032
+        height: 3024
         isCached: true
-  - title: "GOP 2024 contenders enter Iowa, wary of Trump's long shadow"
-    excerpt: "Their first step is finding out whether activists there have gotten over the last one. Former President Donald Trump remains a hulking presence in Iowa, where he won twice by healthy margins. He's hinted he'll run again, and his false claims that the last ..."
-    publishedDateTime: 2021-03-26T04:28:00Z
-    webUrl: "https://www.chron.com/news/article/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
-    ampWebUrl: "https://www.chron.com/news/amp/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-2024-contenders-enter-Iowa-wary-of-Trump-s-16054635.php"
+  - title: "Mike Pence laying early groundwork for a 2024 presidential run"
+    excerpt: "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024."
+    publishedDateTime: 2021-03-30T12:11:00Z
+    webUrl: "https://www.turnto23.com/news/national-politics/mike-pence-laying-early-groundwork-for-a-2024-presidential-run"
+    ampWebUrl: "https://www.turnto23.com/news/national-politics/mike-pence-laying-early-groundwork-for-a-2024-presidential-run?_amp=true"
+    cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national-politics/mike-pence-laying-early-groundwork-for-a-2024-presidential-run?_amp=true"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: KERO-TV
+      domain: turnto23.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b505188/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F4a%2F31%2F9f69086e41f28365f944f1083846%2Fap20170663669742.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump Endorses Shafer for Reelection to Georgia GOP Chair"
-    excerpt: "Former President Donald Trump has endorsed David Shafer for another term as the chair of the Georgia state Republican Party."
-    publishedDateTime: 2021-03-24T22:28:00Z
-    webUrl: "https://www.usnews.com/news/best-states/georgia/articles/2021-03-24/trump-endorses-shafer-for-reelection-to-georgia-gop-chair"
+  - title: "Pence reemerges, appears to lay groundwork for 2024 presidential run"
+    excerpt: "The former vice president is writing op-eds, delivering speeches, preparing trips to key primary states and launching an advocacy group."
+    publishedDateTime: 2021-03-30T15:10:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 50
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "The former vice president is writing op-eds, delivering speeches, preparing trips to key primary states and launching an advocacy group."
+    publishedDateTime: 2021-03-30T15:10:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
+    images:
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Former Vice President Mike Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
+    publishedDateTime: 2021-03-30T10:55:00Z
+    webUrl: "https://www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    type: article
+    provider:
+      name: WTVW
+      domain: tristatehomepage.com
+    quality: 74
+    images:
+      - url: "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/03/pence.jpg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Mike Pence reemerging as presidential candidate, lays groundwork for 2024"
+    excerpt: "Former Vice President Mike Pence and his wife Karen, shown here as Pence leaves office Jan. 21, is writing op-eds, delivering speeches, preparing trips to early voting states and launching an advocacy group as he reenters political life. [ MICHAEL CONROY ..."
+    publishedDateTime: 2021-03-30T13:42:00Z
+    webUrl: "https://www.tampabay.com/news/nation-world/2021/03/30/mike-pence-reemerging-as-presidential-candidate-lays-groundwork-for-2024/"
+    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/03/30/mike-pence-reemerging-as-presidential-candidate-lays-groundwork-for-2024/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/03/30/mike-pence-reemerging-as-presidential-candidate-lays-groundwork-for-2024/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 74
+    images:
+      - url: "https://www.tampabay.com/resizer/2rtt7kysFIYQxxgyYAxIwvbzAcU=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/F2DGY4XWUNAYVN6JVYKFYVDPNA.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Donald Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "The former President lists Ron DeSantis as a potential heir, but left Pence out. The former Vice President is steadily reentering public life as he eyes a potential run for the White House in 2024. He’s joining conservative organizations,"
+    publishedDateTime: 2021-03-30T10:39:00Z
+    webUrl: "https://floridapolitics.com/archives/415992-donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/03/1000-2021-03-30T063132.667.jpeg"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "Mike Pence is laying the groundwork for 2024 presidential run"
+    excerpt: "For someone who built a reputation as one of Trump's most steadfast supporters, Pence is now viewed with suspicion among many Republicans."
+    publishedDateTime: 2021-03-30T09:34:00Z
+    webUrl: "https://bangordailynews.com/2021/03/30/national-politics/mike-pence-is-laying-the-groundwork-for-2024-presidential-run/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/03/Pence.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "DVIt9S9r7CTJqvySKg0UNhkOvLqpgVsjg8DXDIzF9uRcWX9JllURE567T9UViFhFMZvcwMxR4ZGCd/Db27ZylYgzCL2f1NMiNJrwcJLemNqLrrGyDGNEZXMs32tWhTD1GrefPBHyxavlnzEZtibZz7qi69ihGurjNwu7ZeCiNWmDv0yxI4CYWK2LSljHjo2OkqM86brjhRxLI9lN3GGxDbnRgVfspihadqLl6fkeIq5yiOA91grEYRMJl46iev8uJBN1S4kSYbQvLgnOmEX79xxHns75D2da4Shg78cUMv3t8D91D7qTBuB6iQS4bH8InQ0azDy9vEBOJYihrhEfFh1QxGtk2iIEDVTDRnvhU6Ycf/vbDWuiIYPPdzA/P+/30yl0+a74k8SWTJWtMJzwy9DsX3jaGj9o3sGEEBYyE2FbkWjag0GCw4VR9znxAZmcjnmxNtHiGMEg464z2tXkdh0Hpe/RscR2cCmsIeh2zSN7PmQWr6ygWulB7kiCot98UiD92hA/VZ03zbzzX9NI8A==;veh5td2BjPKybkFTFkoRkg=="
 ---

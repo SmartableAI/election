@@ -282,6 +282,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris MIA during border crisis: Where is she?"
+    excerpt: "According to the Office of the Vice President, Harris had no events this past weekend and no mention of border-related activity. This comes as the Biden administration is now asking for government volunteers to help manage the migrant surge. The Office of ..."
+    publishedDateTime: 2021-03-30T15:26:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-during-this-border-mess"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-during-this-border-mess.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-during-this-border-mess.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Harris-walkoff.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris yet to hold press briefing despite key role in addressing border crisis"
     excerpt: "Vice President Kamala Harris still hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis."
     publishedDateTime: 2021-03-29T22:21:00Z
@@ -361,6 +377,6 @@ related:
         height: 500
         isCached: true
 
-secured: "lmodczIGEul3V1LGJiifc91aQya04vuM+tvunnLNrc9+ubXl94W68O+qmWlA4XCu4In/WUDLLMV5ft+lY8X9BrNAZvdY5FD4fUp8ApepGUbDX5HXEBGhbjx+IN+39IFty5BvwgoWLAZbyZoEQ9ekV/siaPt0VE/VXxBMr/qGYEoTpxoESKxPFB/IcOng9L0Ks4sAXjby8jW2U2xfMAxNOs9yj5KDSHtAcEgqO0t4kRotrRtBQ0VOGa4H9Z9/9D0TlI1IYh07ZGuKwKO9HnabaL8HpgZGPyxF2st8XuLaRpdMGx+On2sncEhsKsgP5wF0EYEJNiQUTnVJ+I5e+iPZ5f5K1qRvigga4CCtdunt6vQ=;nRfpyn3DNX+PYOBVsb6z9w=="
+secured: "owIJ8mpAZTkz+knVQH5vVFGysTuPqTvXwsnp0AX1o1EDBb2Ugb49mlTlQHONGeNjV3uAJI99R8r04q/yvPJKz5z2lK1VyxqvXR35B19Rte8R7Y1bqvJewPWulK5im9kPbqtSRVf3gRLLba5lO21p6E9dAATOiVevQn5IBNfjWzGLZfCgbJc/azZhnki+LJ7iPOLCA6LjvCg1lwZm9CgL2t9zllXsyy+nf4zNOB247rl3sNnf2iWQFUTzQJd/QpuierEXJJZGz1VhLtdfO5PPTA1k2qyCVY3jnHuNM6ItMkB1qkqJ5A5vkHbAxTFe88bkuPac5z/MgXS98dw9yaGEAyQuFCa3Jov9w9YmPq6M4XmgnY6OW+7F+cg9Bh3ekxzgBNHzW49ZUqkFaclonrJ8spHmNCAfgXF7ypO+1dFunHqfcGAsMWdO/ci98blU4M3GfQsQgmGWv0P2f8N7jaRJOXLdxjR7kckPfDxBakfdFYMvZ+/vtLeR/yIVojI/uyBLK2Dp+flqGFkm4zMNtYNtoA==;TbC5ka0Ion3TM4qoEpIGhA=="
 ---
 

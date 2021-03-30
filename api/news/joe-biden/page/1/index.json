@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-30-best-and-brightest-biden-announces-trailblazing-slate-of-judicial-nominees.md",
+      "title": "'Best and brightest': Biden announces 'trailblazing' slate of judicial nominees",
+      "excerpt": "Photograph: Lloyd DeGrane/Wikimedia Commons Last modified on Tue 30 Mar 2021 07.39 EDT Joe Biden has announced a “trailblazing” set of federal judicial nominees, 11 picks including three Black women. Ketanji Brown Jackson, a US district judge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a6d2ab7a2e08976af370ac51bf97b267552399f5/0_147_4403_2934/master/4403.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d96a1e7e4fcd8c9f860f4e8ccf360f96",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
+      "publishedDateTime": "2021-03-30T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-buttigieg-no-plan-to-increase-gas-or-mileage-tax-in-biden-infrastructure-plan.md",
       "title": "Buttigieg: No Plan To Increase Gas Or Mileage Tax In Biden Infrastructure Plan",
       "excerpt": "Secretary of Transportation Pete Buttigieg pledged on Monday that the Biden infrastructure plan will not feature a tax hike on gas or mileage for those with incomes less than $400,000 in an interview with CNN host Jake Tapper.",
@@ -110,7 +162,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-northkorea-biden/white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim-idUSKBN2BL2GU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -276,7 +328,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1240,
+      "heat": 1260,
       "tags": null,
       "images": [
         {
@@ -380,7 +432,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -863,7 +915,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -1535,58 +1587,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-biden-sees-critical-need-to-maintain-good-friday-agreement-for-northern-ireland.md",
-      "title": "Biden sees critical need to maintain Good Friday agreement for Northern Ireland",
-      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden on Wednesday underscored his strong commitment to the landmark 1998 Good Friday peace agreement and the need to maintain the political and economic stability of Northern Ireland. “We strongly support that, ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-ireland/biden-sees-critical-need-to-maintain-good-friday-agreement-for-northern-ireland-idUSKBN2B912F",
-      "originalUrl": "https://www.reuters.com/article/us-usa-ireland/biden-sees-critical-need-to-maintain-good-friday-agreement-for-northern-ireland-idUSKBN2B912F",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555234590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1FO",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B912N",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B912N",
-      "publishedDateTime": "2021-03-17T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

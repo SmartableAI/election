@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-lists-biden-harris-admi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
 type: article
 quality: 200
-heat: 620
+heat: 640
 published: true
 
 provider:
@@ -271,6 +271,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris MIA during border crisis: Where is she?"
+    excerpt: "According to the Office of the Vice President, Harris had no events this past weekend and no mention of border-related activity. This comes as the Biden administration is now asking for government volunteers to help manage the migrant surge. The Office of ..."
+    publishedDateTime: 2021-03-30T15:26:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-during-this-border-mess"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-during-this-border-mess.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-during-this-border-mess.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Harris-walkoff.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Kamala Harris yet to hold press briefing despite key role in addressing border crisis"
     excerpt: "Vice President Kamala Harris still hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis."

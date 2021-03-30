@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI31U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U"
 type: article
 quality: 140
-heat: 1240
+heat: 1260
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe2_032521getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "A look at President Biden's first 11 judicial nominees"
+    excerpt: "President Joe Biden has announced his first slate of judicial nominees. The list released by the White House early Tuesday includes Black, Muslim and Asian American Pacific Islander candidates among the nine women and two men."
+    publishedDateTime: 2021-03-30T14:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/president-bidens-11-judicial-nominees-76768730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-bidens-11-judicial-nominees-76768730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-bidens-11-judicial-nominees-76768730"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_23c8b39bbf97427bb762623b9c3da477_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden, CDC director warn of virus rebound if nation lets up"
     excerpt: "President Joe Biden and CDC Director Dr. Rochelle Walensky are making impassioned pleas to Americans not to let their guard down in the fight against COVID-19 WASHINGTON -- President Joe Biden and ..."

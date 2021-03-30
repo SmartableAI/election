@@ -335,6 +335,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "A look at President Biden's first 11 judicial nominees"
+    excerpt: "President Joe Biden has announced his first slate of judicial nominees. The list released by the White House early Tuesday includes Black, Muslim and Asian American Pacific Islander candidates among the nine women and two men."
+    publishedDateTime: 2021-03-30T14:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/president-bidens-11-judicial-nominees-76768730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-bidens-11-judicial-nominees-76768730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-bidens-11-judicial-nominees-76768730"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_23c8b39bbf97427bb762623b9c3da477_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
     publishedDateTime: 2021-03-26T20:19:00Z

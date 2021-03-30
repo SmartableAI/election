@@ -2,9 +2,9 @@
 category: news
 title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
 excerpt: "President to launch next phase of Build Back Better program, while CDC director Rochelle Walensky says she is ‘scared’ of coronavirus trends"
-publishedDateTime: 2021-03-30T12:21:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
+publishedDateTime: 2021-03-30T14:20:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-60632c638f0807bf71dde8a0"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-60632c638f0807bf71dde8a0"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
 type: article
@@ -1316,6 +1316,6 @@ related:
         height: 392
         isCached: true
 
-secured: "rojrlV1wtfFywwGaseuZHA20HfsKNzQq0+fe1Qx5vMn7e33FXeB1a88J4wsv0tyr6kp3WaZ2kcfl/CqKRKqJ9ISHyHnTQ3r0Kpv4krpHidusW0gKBi6EAMBB1p5E2dmyglZFfx6Ue+cMoKSqSJPPfhyiQ6tF9AKZ5q07Hm7vhBExbHk+O+zYlxOG4N3Bo55vtAxlWipC+JrnoTVPoqJdcFUvVNjgY178+RaqfUdzPSugalgOHdLqFagGY6HpnYRogmgllVO9MTVjea5YIoJmFf9HxrgRj6fNCGbptPLTb1pkOOJq19K8AMQgMroen1x0H0AZeIbY113cP1R6J0HVGqRVDtfW31aJ99Cs0Ml8Jng=;yH/sp6mIR8ptMTyaE1sbXA=="
+secured: "euIUO42XzYgAcs5bSqogdziDEfpq6pZKXwjGC/PCLe9lIO3X5E40v+OYn/LIRHrPcePJUBddR6XeocRiKVhKywOLCR0AaAvpJW4Lupo6v/Aup7HO7XVDPapmKUofF6ZO/bvSZVVNgp/OWPDL//ZhA0hFmYYmXArq/y6AhVUFNLFYOqkhsPeQfEFonbPDPUgTdpM+funaFixk9tWqHo28ry7YXyLsvqgiMfh0s9qKh6tbEfNPH9B56IlpIQ8pfyAfrb+jJae5253SdoR23x90+L8GlWY2AUA7OtodIsm9km8cFkDMj0/XV1Y2yHxjJKfcpbuJHy6L389QlxVqEFDiBmlfW3+10hMgJ035fD5RbS8=;uIrm2FHX2C3FSM4prGMi0A=="
 ---
 

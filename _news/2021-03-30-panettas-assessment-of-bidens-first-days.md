@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Panetta's Assessment of Biden's First Days"
-excerpt: "Joe Biden is off to an auspicious start with passage of his $1.9 trillion COVID Relief bill, has made excellent appointments, and generally has struck the right tone. Now is when trouble is likely."
+excerpt: "RealClearPolitics"
 publishedDateTime: 2021-03-30T13:16:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/03/30/panettas_assessment_of_bidens_first_days_539239.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/03/30/panettas_assessment_of_bidens_first_days_539239.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/03/30/panettas_assessment_of_bidens_first_days_539239.html"
+webUrl: "https://www.realclearpolitics.com/2021/03/30/panettas_assessment_of_bidens_first_days_539239.html"
 type: article
 quality: 65
 heat: -1
@@ -213,6 +213,6 @@ related:
         height: 880
         isCached: true
 
-secured: "u49G7g+DbPhJmIJ87s+MXhZkfggc2PkikEd4oG04GgPA7vn9Jmm/vceMqAA7np7w3yg2ZIvwdn8a9c/P6DwRUOpo7Y/5MQEkKlE74bEt1piTK57Uj39isTjBv5+DTmKhWGmeylKJeGFjP9/kqxMgGmId9xsgOfPO+d6HlOd9LHQqQmCnJPN+keamBTocqq8DodJ9tCvy4rdsD/4uYEGUv0ntntwl1JmlHHCVKvVLMFRYXH/eTaSAb62+x5ai5a2s4Tf6kXRD75sUVbc3glX4r/9FiZIrd8IDg8TPYutzCR8dmZLVmDDxfjaBcSZl44213mkMInH1t40FYyI/WOUO7wAV0O5IYzI3q0vGitCm3BA=;rJ77HGzt7VMwW0jHvCI8eA=="
+secured: "UMyz0uaEQweQ/2ojewJ7ZOJW4rA8k1HCzOdawesNTamoXgNDBwr8fDekNG/NCiSTkpfJQvw9zLqY9IkKhdvqMOhMKyWqLPnaZiewFBd82Avl89E6WYeJQIO6NZu+rpwpDSTd6SHL3Bk4ffejbYYB+tvCoK/zVNMJNcZgJN55b0iR59z9DG6kaF1wetVYEzt4+orgCfhjLVwkcdvQn3CJ099dYFxaBXTenZEZQE8bOApRvdSNMcMYZ+j0cCZg1xrvmpXyoh3nPFT0gTV3E6gunStNGHvWZ59PpVb90poAOPWqIahYsnJ+6vIsLbX17wqi1pG/u/SAWn15ssg2XzHuAPp32pwaMD5qN7XHfo72frA=;LYWSm4b0NpryWV3sTG45Jw=="
 ---
 

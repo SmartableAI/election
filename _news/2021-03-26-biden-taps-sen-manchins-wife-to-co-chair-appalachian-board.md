@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchin
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 834
     height: 308
     isCached: true
+
+related:
+  - title: "Biden to elevate potential Supreme Court nominee to high-profile appeals court"
+    excerpt: "WASHINGTON – President Joe Biden said Tuesday he plans to nominate a prominent judge to the federal appellate bench, a promotion that is sure to stir speculation about her potential future nomination for the Supreme Court. U.S. District Court Judge ..."
+    publishedDateTime: 2021-03-30T13:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/30/supreme-court-biden-name-ketanji-brown-jackson-d-c-circuit/4726081001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4726081001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4726081001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/17/USAT/31c04e62-2732-4336-9a7e-4d48180a412d-GettyImages-1230995190.jpg?auto=webp&crop=4424,2489,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "krfehOBdpS+Y2TCpI+9Oy7V+DJs1uDgtp9spaO30T5PWFvv1SHRo/Cy3ofRzddm5W3ADqxep+UQCiXWDWsmCEsdAxHiFcEaLk9mXu1eqnapspHiNGILtyAXdp1MFwd4kUvsP86x/SnqWjuMDuLDejTU8Bsj6vbgXSHbRMl7dYFquZilhvuCno6Riya0031pMQWZhU5LhrTiInZjSHvtllD7PzQ87I3IkDXDK1C2k68kL+QnsYMMOhJJLHKnHp2jls6ECmKzfQ5zUg1C64pDp+SCAoT9oTNXVMF2ygNJP3FYEhYbUE8H3mTvPWlWxWeY+mLT9LwG51+s3E3ag1MORJpc2hP5uVrY6CUCvb4oKZFs=;5LsX62dqu2zD4BViuxIrIg=="
 ---
