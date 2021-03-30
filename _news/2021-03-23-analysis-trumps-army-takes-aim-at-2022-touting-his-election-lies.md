@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 type: article
 quality: 190
-heat: 1090
+heat: 1110
 published: true
 
 provider:
@@ -332,6 +332,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315212412-yevgeny-vindman-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Trump-backed candidate for Georgia elections chief begins campaign with false claims about 2020 election"
+    excerpt: "Rep. Jody Hice, a Republican, announced last week that he is running for Georgia secretary of state, the state's top elections job. His 2022 campaign was immediately endorsed by former President Donald Trump, who has repeatedly launched dishonest attacks against the Republican currently in the post,"
+    publishedDateTime: 2021-03-30T03:09:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY22Of-EiQY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/fact-check-hice-2020-election-claims-secretary-of-state-newsmax/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/fact-check-hice-2020-election-claims-secretary-of-state-newsmax/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329174241-jody-hice-newsmax-210322-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
-      "title": "Trump’s heir? Pence reemerges, lays groundwork for 2024 run",
-      "excerpt": "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron DeSantis and Sens. Josh",
+      "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
+      "excerpt": "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024. He's joining conservative organizations, writing op-eds, delivering speeches and la",
       "sourceUrl": null,
-      "webUrl": "https://www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html",
-      "originalUrl": "https://www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html",
+      "webUrl": "https://www.detroitnews.com/story/news/politics/2021/03/30/trumps-heir-pence-reemerges-lays-groundwork-2024-run/7058291002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/politics/2021/03/30/trumps-heir-pence-reemerges-lays-groundwork-2024-run/7058291002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 150,
       "tags": null,
       "images": [
         {
-          "url": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2021/03/30/AP-US-Pence-IMG-630x420.jpg",
-          "width": 630,
-          "height": 420,
+          "url": "https://www.gannett-cdn.com/presto/2021/01/06/PDTN/2e6ef268-9355-4076-88fb-83fff3ef79d6-pence010621.jpg?auto=webp&crop=2960,1665,x957,y175&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html/amp",
-      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html/amp",
-      "publishedDateTime": "2021-03-30T02:47:00-07:00",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/7058291002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7058291002",
+      "publishedDateTime": "2021-03-30T04:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Albuquerque Journal",
-        "domain": "abqjournal.com",
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,6 +42,49 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-tv-kamala-harris-kizzmekia-corbett-in-lifetime-special-charlotte-observer.md",
+      "title": "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Charlotte Observer",
+      "excerpt": "Women Making History (9 p.m., Lifetime) - This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/entertainment/tv/article250289770.html",
+      "originalUrl": "https://www.charlotteobserver.com/entertainment/tv/article250289770.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/8e831fcf-b0fe-4821-9639-a1c1dccab51a/b8f21ad2-5b84-4548-b003-1266b304582c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/entertainment/tv/article250289770.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/entertainment/tv/article250289770.html",
+      "publishedDateTime": "2021-03-30T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -1246,62 +1289,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/28/politics/biden-marijuana-policy-analysis/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/biden-marijuana-policy-analysis/index.html",
       "publishedDateTime": "2021-03-28T05:03:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-former-trump-chief-of-staff-calls-ex-presidents-capitol-riot-claims-manifestly-false.md",
-      "title": "Former Trump chief of staff calls ex-President's Capitol riot claims 'manifestly false'",
-      "excerpt": "The former chief of staff to ex-President Donald Trump on Saturday pushed back against his former boss' recent attempt to whitewash the history of the January 6 Capitol riot.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210327183851-mick-mulvaney-january-6-riot-trump-comments-intv-nr-vpx-00001330-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html",
-      "publishedDateTime": "2021-03-27T17:19:34-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

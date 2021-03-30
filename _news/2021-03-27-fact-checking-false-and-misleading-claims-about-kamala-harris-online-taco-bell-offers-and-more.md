@@ -27,35 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris faces political ‘trapdoors’ as she takes lead role on migrant border surge"
-    excerpt: "The humanitarian crisis at the southern border has vexed politicians in both parties for years. Now it’s Vice President Kamala Harris’ problem. President Joe Biden’s administration announced this week that Harris would lead its efforts to reduce the ..."
-    publishedDateTime: 2021-03-26T21:53:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/article250228600.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article250228600.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article250228600.html"
+  - title: "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Charlotte Observer"
+    excerpt: "Women Making History (9 p.m., Lifetime) - This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine ..."
+    publishedDateTime: 2021-03-30T11:03:00Z
+    webUrl: "https://www.charlotteobserver.com/entertainment/tv/article250289770.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/entertainment/tv/article250289770.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/entertainment/tv/article250289770.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 66
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/8e831fcf-b0fe-4821-9639-a1c1dccab51a/b8f21ad2-5b84-4548-b003-1266b304582c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris faces political ‘trapdoors’ as she takes lead role on migrant border surge"
-    excerpt: "The humanitarian crisis at the southern border has vexed politicians in both parties for years. Now it’s Vice President Kamala Harris’ problem. President Joe Biden’s administration announced this week that Harris would lead its efforts to reduce the surge of migrants at the southern border,"
-    publishedDateTime: 2021-03-28T20:07:00Z
-    webUrl: "https://www.thenewstribune.com/news/local/article250228600.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/local/article250228600.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/local/article250228600.html"
+  - title: "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Raleigh News & Observer"
+    excerpt: "This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine for COVID-19."
+    publishedDateTime: 2021-03-30T11:03:00Z
+    webUrl: "https://www.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
+    ampWebUrl: "https://amp.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 66
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/8e831fcf-b0fe-4821-9639-a1c1dccab51a/b8f21ad2-5b84-4548-b003-1266b304582c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

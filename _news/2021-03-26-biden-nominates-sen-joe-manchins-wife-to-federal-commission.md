@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden announces 11 judicial nominees to federal bench, including progressive SCOTUS favorite"
+    excerpt: "President Biden on Tuesday morning announced his first slate of judicial nominees, which includes three judges to the powerful federal courts of appeals, igniting more speculation about possible future nominees to the Supreme Court. "
+    publishedDateTime: 2021-03-30T11:04:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X2COE6ZzDqQ/biden-announces-11-judicial-nominees-to-federal-bench"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-announces-11-judicial-nominees-to-federal-bench.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-announces-11-judicial-nominees-to-federal-bench.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

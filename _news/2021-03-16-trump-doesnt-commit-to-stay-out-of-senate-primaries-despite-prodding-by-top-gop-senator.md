@@ -351,6 +351,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump-backed candidate for Georgia elections chief begins campaign with false claims about 2020 election"
+    excerpt: "Rep. Jody Hice, a Republican, announced last week that he is running for Georgia secretary of state, the state's top elections job. His 2022 campaign was immediately endorsed by former President Donald Trump, who has repeatedly launched dishonest attacks against the Republican currently in the post,"
+    publishedDateTime: 2021-03-30T03:09:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY22Of-EiQY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/fact-check-hice-2020-election-claims-secretary-of-state-newsmax/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/fact-check-hice-2020-election-claims-secretary-of-state-newsmax/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329174241-jody-hice-newsmax-210322-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump lies about Capitol riot by claiming his supporters were 'hugging and kissing' cops"
     excerpt: "Former President Donald Trump on Thursday attempted to whitewash the history of the January 6 Capitol riot by pushing the false suggestion that his supporters were \"hugging and kissing\" police officers and posed \"zero threat\" despite widespread violence, injuries to law enforcement officers and five"
     publishedDateTime: 2021-03-26T13:51:24Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-bo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
 type: article
 quality: 135
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -186,6 +186,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
         width: 1440
         height: 952
+        isCached: true
+  - title: "Joe Biden's southern border challenge: reversing Trumpism"
+    excerpt: "Biden took office promising a more welcoming immigration policy. But Republicans are calling a new wave of migrants at the southern border a ‘crisis’"
+    publishedDateTime: 2021-03-30T01:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2021/mar/30/joe-biden-border-challenge-reversing-trumpism-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/9df3cf067945b89a8e12ac04d491ae5af7a20067/0_105_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c9490725a9c80495c3e65735d0e92b7"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden administration allows access to border facility -- but not ones over capacity"
     excerpt: "Biden holds the first formal, solo news conference of his presidency Thursday. Biden administration allows camera inside border facility The Biden administration on Wednesday -- for the first time ..."

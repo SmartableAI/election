@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
-      "title": "Trump’s heir? Pence reemerges, lays groundwork for 2024 run",
-      "excerpt": "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron DeSantis and Sens. Josh",
+      "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
+      "excerpt": "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024. He's joining conservative organizations, writing op-eds, delivering speeches and la",
       "sourceUrl": null,
-      "webUrl": "https://www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html",
-      "originalUrl": "https://www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html",
+      "webUrl": "https://www.detroitnews.com/story/news/politics/2021/03/30/trumps-heir-pence-reemerges-lays-groundwork-2024-run/7058291002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/politics/2021/03/30/trumps-heir-pence-reemerges-lays-groundwork-2024-run/7058291002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 150,
       "tags": null,
       "images": [
         {
-          "url": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2021/03/30/AP-US-Pence-IMG-630x420.jpg",
-          "width": 630,
-          "height": 420,
+          "url": "https://www.gannett-cdn.com/presto/2021/01/06/PDTN/2e6ef268-9355-4076-88fb-83fff3ef79d6-pence010621.jpg?auto=webp&crop=2960,1665,x957,y175&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html/amp",
-      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html/amp",
-      "publishedDateTime": "2021-03-30T02:47:00-07:00",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/7058291002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7058291002",
+      "publishedDateTime": "2021-03-30T04:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Albuquerque Journal",
-        "domain": "abqjournal.com",
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null
