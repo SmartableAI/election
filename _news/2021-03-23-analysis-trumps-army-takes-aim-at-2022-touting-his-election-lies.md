@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/trump-mo-brooks-election-lie/index.html"
 type: article
 quality: 190
-heat: 1070
+heat: 1090
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How bad a president was Donald Trump?"
+    excerpt: "Donald Trump's presidency is now behind us. But the debate over how bad a president he was has only just begun.\n    \n"
+    publishedDateTime: 2021-03-29T23:46:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RoctOyG-4_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/trump-bad-president-rankings-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/trump-bad-president-rankings-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322161933-primera-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

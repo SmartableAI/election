@@ -316,6 +316,20 @@ related:
         width: 936
         height: 702
         isCached: true
+  - title: "Kamala Harris: Biden \"Has Been Very Generous In Seeking My Input\""
+    excerpt: "USA TODAY: Vice President Kamala Harris shares concern for how the COVID-19 pandemic has impacted women and the importance of addressing that disparity. Carroll: You've been a major part of the American Rescue Plan. The president has said you're the first ..."
+    publishedDateTime: 2021-03-29T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_biden_has_been_very_generous_in_seeking_my_input.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/53/539130.jpg"
+        width: 1114
+        height: 834
+        isCached: true
   - title: "Kamala Harris Has a Message for American Women"
     excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
     publishedDateTime: 2021-03-26T11:19:00Z

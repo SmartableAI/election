@@ -106,6 +106,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris Laughs: Parents Learned The Value Of Educators When They Had To Bring Their Kids Home"
+    excerpt: "Vice President Kamala Harris talked about teachers and parents at the West Haven Child Development Center on Friday: \"More people are seeing that, yeah, affordable child care is a big deal. More parents are seeing the value of educators when they (laughing) had to bring their kids [home] and say we're not paying them nearly enough (laughing)."
+    publishedDateTime: 2021-03-29T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_laughs_parents_learned_the_value_of_educators_when_they_had_to_bring_their_kids_home.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
+    images:
+      - url: "https://assets.realclear.com/images/53/539131.jpg"
+        width: 826
+        height: 618
+        isCached: true
 
 secured: "Fbq6/AF0KLj3D4oGjUBb8pTrjTcMQxA8Ep9fqu194BcJyXZKh7M//P5pR98DAfiI1vvvZsQTOSyHpUAXLTengBYgUmU2/tUDBK+J98yzWcNmg8No8Xun2c+MtsmevXF/floKM37btKj7Vsa/u3f/BTL2FzXbqxmMRs3a6LJDzLkEvDYVGlaXyGa7wgtpiK5dbGz0SwjtITlGYtU+HYrzsaVdz67Fu5qNGiK7KShztktP83A13KYOsdS7aO0kfZjfqz+7maA8V8WkX8i6/ymVvMRVcrFkkDrpjdYiFE+Nh7G//6/jY414l4D0VJ2D4vDrSrrI1y5mGBxJALayxXenXfpXBtsGEeiBzHQTH7O7AoAKI64nzLj+jOR2UcT81orVs0X+nB6ub+ICPFuuVSaQnMRcEFVYSDHUhHtY5KBcANVjIcPeNI+s+o3GBqocbGUCgnY1V6mroJSK6z33lyzymjQRpI6jVs7/NdPGhBJVwY/YT/fbyQ/+7VBmyfsBlsyHa1lQ1CbXze5Fp9zGSLdAOw==;mdwOn9vs7oqWZAz0+uvMhQ=="
 ---

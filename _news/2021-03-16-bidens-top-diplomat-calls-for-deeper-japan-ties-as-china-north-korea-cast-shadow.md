@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to explain funding of $3 trillion infrastructure plan Wednesday - White House"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden will outline how he would pay for his $3 trillion to $4 trillion plan to tackle America’s infrastructure needs on Wednesday, the White House confirmed on Monday, a proposal likely to include tax increases ..."
+    publishedDateTime: 2021-03-29T17:35:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-infrastructure-idUKKBN2BL2KW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BL2KW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BL2KW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210329&t=2&i=1556635544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2S1B7"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Several U.S. states sue Biden administration for revoking permit for Keystone XL pipeline"
     excerpt: "Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday."
     publishedDateTime: 2021-03-18T09:10:00Z

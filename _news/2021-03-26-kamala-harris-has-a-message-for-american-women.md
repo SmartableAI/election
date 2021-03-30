@@ -330,6 +330,20 @@ related:
         width: 936
         height: 702
         isCached: true
+  - title: "Kamala Harris: Biden \"Has Been Very Generous In Seeking My Input\""
+    excerpt: "USA TODAY: Vice President Kamala Harris shares concern for how the COVID-19 pandemic has impacted women and the importance of addressing that disparity. Carroll: You've been a major part of the American Rescue Plan. The president has said you're the first ..."
+    publishedDateTime: 2021-03-29T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_biden_has_been_very_generous_in_seeking_my_input.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/53/539130.jpg"
+        width: 1114
+        height: 834
+        isCached: true
 
 secured: "VSvu9o3z8j4I8c0SNmAVj/CyEae6F/wJIdsr2RRrNyFxEgXsIqHRf8Lx+wznde+cEoRIkBqItt5B+9iA+Y7GHXwA+wdQSMbbV9ee2Y3j3gJf5LJYmVekW88yeGJZ9P88OmgqiNB87Y/v7bHABwzYqmg/ceYaXe6DCgqNulQFPU5M9pFWjeURmhlQo3KgV3Yj6AfbnyMyO/amjBAKmXv1C/JP9GMueykchQaBkNEQJq548ny061p529DpCQxWcv9v4CsvNEEMDBsS3zcDdw2KzpJDEQAWGZIISoRlwyh4SYyk69xCapd0+DvCM2ynbV1ilA9rok6aPfvtFDl3+pBwYM0r6GromPTMvgZLek0BG9iXTYGaLdCAa1kjF9gj6ICpkKxpGdyiY1M8ckoij2PDVuFRGa0kkevKrA9KrBRWv9BtNt4hNl3uIeuZ8sR20I+IiDjddcs5HkPi610zeFvNhf4+8jYjKhp7f9LHsC1s5YYhy/bwQnxfyMEfeof1F0ArCccfcN4s3/aeo04+StPyDg==;683EqzzC97hsCS028EIHkg=="
 ---
