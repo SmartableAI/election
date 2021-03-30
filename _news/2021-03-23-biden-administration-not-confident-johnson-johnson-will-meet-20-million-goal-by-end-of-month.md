@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Bidens' dog Major involved in another biting incident"
+    excerpt: "The Bidens' dog Major has been involved in another biting incident that required medical attention, two people with knowledge of the incident tell CNN.\n    \n"
+    publishedDateTime: 2021-03-30T20:34:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iACSbMYFuao/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/major-biden-dog-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/major-biden-dog-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324142609-01-major-biden-0323-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration will spend nearly $10 billion to expand access to Covid-19 vaccines and build confidence"
     excerpt: "The Biden administration said Thursday it would dedicate nearly $10 billion to expand access to Covid-19 vaccines for the hardest-hit and highest-risk communities and increase vaccine confidence across the country.\n    \n"
     publishedDateTime: 2021-03-25T11:43:30Z

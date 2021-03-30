@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-so
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform"
 type: article
 quality: 122
-heat: 262
+heat: 202
 published: true
 
 provider:
@@ -79,38 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Social Network Users Won't Feel 'Fact Checkers Are Going to Be All Over Them': Lara Trump"
-    excerpt: "A spokesperson for the former president said this week the new social media platform likely will roll out within the next few months."
-    publishedDateTime: 2021-03-23T17:42:00Z
-    webUrl: "https://www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190"
-    ampWebUrl: "https://www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 113
-    images:
-      - url: "https://d.newsweek.com/en/full/1762633/lara-trump-social-networking-platform.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Donald Trump Gearing Up For Social Media Return With Own Platform"
-    excerpt: "After months of being banned from social media sites, he's decided to launch his own site in the next few months."
-    publishedDateTime: 2021-03-21T20:51:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/20/donald-trump-seen-in-this-october-5-file.jpg"
-        width: 1024
-        height: 700
-        isCached: true
   - title: "Bernie Sanders Uncomfortable With Trump's Ban On Twitter: 'It's An Issue'"
     excerpt: "Sanders opens up about his beliefs and opinions on the first amendment and the permanent ban of former President Trump on social media platforms."
     publishedDateTime: 2021-03-24T17:07:00Z
@@ -124,20 +92,6 @@ related:
     quality: 74
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/09/senator-bernie-sanders-has-voiced-strong-support-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Trump To Launch Own Social Media Platform: Ex-aide"
-    excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
-    publishedDateTime: 2021-03-21T19:35:00Z
-    webUrl: "https://www.ibtimes.com/trump-launch-own-social-media-platform-ex-aide-3166480"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/21/donald-trump-appears-to-be-planning-a-return.jpg"
         width: 1024
         height: 682
         isCached: true

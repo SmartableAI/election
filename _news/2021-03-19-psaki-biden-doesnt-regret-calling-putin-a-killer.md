@@ -29,53 +29,149 @@ images:
     isCached: true
 
 related:
-  - title: "Lindsey Graham Calls Out AOC for Conflicting Border Reactions Under Trump, Biden"
-    excerpt: "GOP Senator Lindsey Graham of South Carolina asked, \"Where are you?\" to Democratic Rep. Alexandria Ocasio-Cortez of New York, calling her out for not visiting the Southwest border, where he said conditions are \"worse\" for migrants than those under former President Donald Trump."
-    publishedDateTime: 2021-03-24T21:40:00Z
-    webUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547"
-    ampWebUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
+  - title: "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live"
+    excerpt: "Joe Biden told immigrants making the difficult journey to the US-Mexico border “don’t come over” as the administration attempts to respond to an increase of unaccompanied children seeking asylum. In a wide-ranging interview with ABC News’ George ..."
+    publishedDateTime: 2021-03-17T14:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 135
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
     images:
-      - url: "https://d.newsweek.com/en/full/1763089/migrants.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a"
+        width: 600
+        height: 360
         isCached: true
-  - title: "The 'border-industrial complex' is bigger than Trump or Biden, and it thrives on crisis"
-    excerpt: "How Biden deals with the border remains to be seen, but he will be no less caught up in the border-industrial complex than Trump."
-    publishedDateTime: 2021-03-23T14:18:00Z
-    webUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
+  - title: "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live"
+    excerpt: "President’s comments come after declassified intelligence report bolstered allegations Putin was behind election interference – follow the latest"
+    publishedDateTime: 2021-03-17T18:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-60522b308f0832395ae5867f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 132
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
     images:
-      - url: "https://i.insider.com/5d9b7d95e94e863ec8152851?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/14d2ea4245d94dafbfbd8b571738a91288809a70/0_44_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f663e0882a8ea6e02331c0fc4f1dfbbe"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Exclusive: Biden wants to keep Trump policy that boosted armed drone exports - sources"
-    excerpt: "WASHINGTON (Reuters) - The Biden administration wants to keep a controversial Trump policy that jump-started sales of armed drones to countries whose human rights records are under scrutiny in the United States and elsewhere, according to sources familiar ..."
-    publishedDateTime: 2021-03-25T14:13:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2BH1CA?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BH1CA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BH1CA"
+  - title: "Biden brands Putin a 'killer' and says he will pay for Russian interference in US election – live"
+    excerpt: "Biden’s comments come after declassified intelligence report bolstered allegations Putin was behind election interference"
+    publishedDateTime: 2021-03-17T12:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-6051ed558f0832395ae58239"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210325&t=2&i=1556160112&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2O0QC"
-        width: 968
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/1ec67a1de1482210c42ec256b30874e682d33a38/0_96_3816_2290/master/3816.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6c401fa244460e2db4ab62f03a7792b5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden puts muscle into implementing relief package"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate This ..."
+    publishedDateTime: 2021-03-15T22:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package"
+    ampWebUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030421getty_optimism.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden tells migrants 'don't come over' in ABC News exclusive interview"
+    excerpt: "The president spoke with ABC News' George Stephanopoulos. On Location: March 16, 2021 President Joe Biden said in an exclusive interview with ABC News' George Stephanopoulos on Tuesday that his ..."
+    publishedDateTime: 2021-03-16T23:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Putin points finger at US after Biden's 'killer' remark"
+    excerpt: "Russian President Vladimir Putin says that U.S. President Joe Biden’s remarks about him reflect the United States' own past and current problems Russia cracks down on Putin’s opposition MOSCOW ..."
+    publishedDateTime: 2021-03-18T12:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/russia-warns-scale-response-bidens-statement-76530030"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/russia-warns-scale-response-bidens-statement-76530030"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/russia-warns-scale-response-bidens-statement-76530030"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_91967fa26edc4c13be5abe16085a4238_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Putin wishes Biden 'good health' after killer accusation"
+    excerpt: "Diplomatic spat intensifies after Joe Biden said Russian president would pay price for election meddling Last modified on Thu 18 Mar 2021 09.13 EDT Vladmir Putin has wished Joe Biden “good health” as Kremlin officials lashed out at the “demented ..."
+    publishedDateTime: 2021-03-18T12:13:00Z
+    webUrl: "https://www.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology?fbclid=IwAR2p2axhusLyb7MLzwQB9BP5NCN0u0AXptTuNLKpJtapaSGzoq3fNMG8rpc"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/f3fc03741c62d2842d184e856f13cbfd21d48a53/0_623_5616_3370/master/5616.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e36063787e10c524ed227a1f0bafae79"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Kremlin: Putin's offer of a call with Biden was to save ties"
+    excerpt: "Kremlin: Putin's offer of a call with Biden was to save ties The Kremlin says that President Vladimir Putin’s offer to speak by phone with U.S. President Joe Biden is intended to prevent ..."
+    publishedDateTime: 2021-03-19T16:18:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/kremlin-putins-offer-call-biden-save-ties-76556297"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_7617f5f10e8043a48d45967b73a84d27_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Putin challenges Biden to debate after president calls him a 'killer'"
+    excerpt: "Biden spoke out about the Russian president in an ABC News interview this week. Examined: How Putin keeps power Russian President Vladimir Putin has reacted to President Joe Biden calling him a ..."
+    publishedDateTime: 2021-03-18T18:11:00Z
+    webUrl: "https://abcnews.go.com/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    ampWebUrl: "https://abcnews.go.com/amp/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/putin-challenges-biden-debate-president-calls-killer/story?id=76539031"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/vladimir-putin-debate-challenge-02-rt-llr-210318_1616089376917_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden under pressure over children crossing US-Mexico border – live"
     excerpt: "Biden tells reports he will visit border ‘at some point’ as Mayorkas defends administration record"
@@ -93,317 +189,201 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Border influx of migrants poses political threat to Biden"
-    excerpt: "White house press secretary says there is no crisis at the border When President Joe Biden entered office, he listed what he called \"four historic crises:\" the coronavirus pandemic, the economy ..."
-    publishedDateTime: 2021-03-23T09:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+  - title: "Russia criticizes US refusal to hold quick Putin-Biden call"
+    excerpt: "The Russian Foreign Ministry says Washington rejected President Vladimir Putin’s offer to arrange a quick public call with U.S. President Joe Biden to help defuse tensions raised by Biden’s recent rem"
+    publishedDateTime: 2021-03-22T14:16:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/russia-criticizes-us-refusal-hold-quick-putin-biden-76605445"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/russia-criticizes-us-refusal-hold-quick-putin-biden-76605445"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/russia-criticizes-us-refusal-hold-quick-putin-biden-76605445"
     type: article
     provider:
-      name: ABCNews
+      name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/mexico-us-border-rtr-jc-210309_1615335310890_hpMain_2_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/WNT/210318_wn_bruce_645_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden calls for tighter gun control measures after Colorado shooting"
-    excerpt: "U.S. President Joe Biden on Tuesday called for a ban on assault weapons and tighter gun control measures as he stepped into the familiar role of grief counselor for a traumatized nation after a mass shooting left 10 people dead in Colorado."
-    publishedDateTime: 2021-03-24T03:27:00Z
-    webUrl: "https://www.reuters.com/article/us-colorado-shooting-biden-idUSKBN2BF168"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF168"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF168"
+  - title: "Kremlin says Biden's Putin comment shows he has no interest in mending ties"
+    excerpt: "MOSCOW (Reuters) - The Kremlin said on Thursday that comments by U.S. President Joe Biden that he thought Vladimir Putin was a killer clearly showed that Biden had no interest in mending ties with Moscow and that Russia would now take that into account."
+    publishedDateTime: 2021-03-18T10:54:00Z
+    webUrl: "https://www.reuters.com/article/us-russia-usa-kremlin-idUSKBN2BA166"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA166"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA166"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555921380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M0MY"
-        width: 677
-        height: 545
-        isCached: true
-  - title: "Blinken ends Trump rights plan promoting conservative agenda"
-    excerpt: "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons"
-    publishedDateTime: 2021-03-30T16:03:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "California senators calling on Biden to set date for phasing out gasoline cars"
-    excerpt: "The two U.S. senators representing California are calling on President Biden Joe Biden AstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's ..."
-    publishedDateTime: 2021-03-22T11:32:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
-    images:
-      - url: "https://thehill.com/sites/default/files/california_auto_emissions_09032019_1.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
-    excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget ..."
-    publishedDateTime: 2021-03-24T00:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a49908f08ca309c206435"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden considers executive actions on guns, calls on Congress to pass weapons ban"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden urged Congress to swiftly pass gun control laws and may take action on his own to stop mass violence, the White House said on Tuesday, a day after the second deadly mass shooting in a week. The Democrat ..."
-    publishedDateTime: 2021-03-24T03:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BF2DK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2DK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2DK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555920375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1AU"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555329844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0NN"
         width: 817
         height: 545
         isCached: true
-  - title: "How Obamacare Survived Trump and What Biden Is Doing Now"
-    excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
-    publishedDateTime: 2021-03-23T17:35:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-is-doing-now/2021/03/23/c540ac8c-8bfc-11eb-a33e-da28941cb9ac_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
-        width: 1440
-        height: 952
-        isCached: true
-  - title: "How Obamacare Survived Trump and What Biden Might Do Next"
-    excerpt: "By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump. Joe Biden’s arrival in the White House could blunt any impact of the latest danger -- a case now before the Supreme Court -- and give Obamacare ..."
-    publishedDateTime: 2021-03-23T17:24:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do-next/2021/03/23/c540ac8c-8bfc-11eb-a33e-da28941cb9ac_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
-        width: 1440
-        height: 952
-        isCached: true
-  - title: "Joe Biden's southern border challenge: reversing Trumpism"
-    excerpt: "Biden took office promising a more welcoming immigration policy. But Republicans are calling a new wave of migrants at the southern border a ‘crisis’"
-    publishedDateTime: 2021-03-30T01:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2021/mar/30/joe-biden-border-challenge-reversing-trumpism-podcast"
+  - title: "'Takes one to know one': Putin-Biden spat escalates after 'killer' accusation"
+    excerpt: "Officials in Moscow go on offensive after Biden said Russian president would pay price for election meddling Last modified on Thu 18 Mar 2021 11.30 EDT Vladimir Putin has told Joe Biden that “it takes one to know one”, as Kremlin officials promised ..."
+    publishedDateTime: 2021-03-18T14:30:00Z
+    webUrl: "https://www.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology?via=webuproar"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/18/putin-wishes-biden-good-health-as-officials-demand-us-apology"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 120
+    quality: 122
     images:
-      - url: "https://i.guim.co.uk/img/media/9df3cf067945b89a8e12ac04d491ae5af7a20067/0_105_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c9490725a9c80495c3e65735d0e92b7"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/f3fc03741c62d2842d184e856f13cbfd21d48a53/0_623_5616_3370/master/5616.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e36063787e10c524ed227a1f0bafae79"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Biden administration allows access to border facility -- but not ones over capacity"
-    excerpt: "Biden holds the first formal, solo news conference of his presidency Thursday. Biden administration allows camera inside border facility The Biden administration on Wednesday -- for the first time ..."
-    publishedDateTime: 2021-03-24T23:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+  - title: "Joe Biden administration will devote $650 million to help schools expand testing"
+    excerpt: "During his prime time speech Thursday, President Joe Biden noted his announcement last week to vaccinate teachers and school officials by the end of March will help the majority of K-8 schools reopen within his first 100 days in office, or by the end of ..."
+    publishedDateTime: 2021-03-12T01:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/joe-biden-administration-send-millions-schools-expand-testing/4657459001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4657459001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4657459001"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/Politics/carizzo-springs-1-abc-er-210324_1616623526394_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2021/03/07/USAT/59e31eb1-a074-4387-83f2-c87d0ebf692c-VPC_BIDEN_EXEC_ORDER_desk.jpg?auto=webp&crop=1274,717,x5,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Biden administration missed its own deadline for working out what to do with Trump's half-finished border wall"
-    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden's administration has blown through a 60-day deadline by which it said it would figure out a plan for former President Donald Trump's border wall. Biden signed a proclamation on January 20, his first day in office ..."
-    publishedDateTime: 2021-03-22T17:26:00Z
-    webUrl: "https://www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3?amp"
+  - title: "Putin responds to Biden comment that he’s a killer: ‘I know you are, but what am I?’"
+    excerpt: "MOSCOW — Responding to President Biden’s comments that he thinks Russia’s president is a killer, Vladimir Putin suggested Thursday that the U.S. leader is projecting his own flaws and wished his American counterpart “good health.” Support our ..."
+    publishedDateTime: 2021-03-18T15:01:00Z
+    webUrl: "https://www.washingtonpost.com/world/europe/russia-putin-biden-response/2021/03/18/da5d2a36-87d9-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/europe/russia-putin-biden-response/2021/03/18/da5d2a36-87d9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/russia-putin-biden-response/2021/03/18/da5d2a36-87d9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IRQB6BEH4EI6XAV44WBBHSVDRY.jpg&w=1440"
+        width: 1440
+        height: 1200
+        isCached: true
+  - title: "White House refuses to call Saudi leader MBS a 'killer' after Biden called Putin one"
+    excerpt: "President Joe Biden referred to Russian President Vladimir Putin, whose critics sometimes end up poisoned or dead, as a \"killer\" in a recent interview. When asked if Biden would use the same word to characterize Prince Mohammed, popularly known as MBS ..."
+    publishedDateTime: 2021-03-18T18:18:00Z
+    webUrl: "https://www.businessinsider.com/white-house-wont-call-mbs-killer-biden-called-putin-one-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/white-house-wont-call-mbs-killer-biden-called-putin-one-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-wont-call-mbs-killer-biden-called-putin-one-2021-3?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 118
     images:
-      - url: "https://i.insider.com/6058ca73106eb50019d04ec6?width=1200&format=jpeg"
+      - url: "https://i.insider.com/605396b4fe6a340019acf61c?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
-    excerpt: "White House says president will deliver brief remarks on hooting this afternoon, before leaving for a trip to Ohio"
-    publishedDateTime: 2021-03-23T14:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-6059fcc08f087d1707c11a88"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+  - title: "Russia wants an apology from U.S. after Biden called Putin a killer, says Kremlin ally"
+    excerpt: "Russia wants an apology from the United States after President Joe Biden said he thought Vladimir Putin was a killer and may retaliate against Washington unless it gets one, a senior Russian lawmaker said on Thursday."
+    publishedDateTime: 2021-03-18T09:55:00Z
+    webUrl: "https://www.reuters.com/article/us-russia-usa-reaction-idUSKBN2BA0S1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA0S1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA0S1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 117
     images:
-      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555316536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0FI"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
-    excerpt: "White House says president will deliver brief remarks on shooting this afternoon, before leaving for a trip to Ohio – get all the latest news"
-    publishedDateTime: 2021-03-23T17:04:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a1b4e8f08e6550a16ff4b"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "What’s causing the migrant surge at the U.S. border? Poverty, violence and hopes for Biden."
-    excerpt: "A rising number of migrants are streaming to the U.S. southern border — more than 100,000 were detained in February alone. U.S. officials expected the influx to hit a 20-year high this year, posing a major challenge to Biden and his promise to adopt more humane immigration policies."
-    publishedDateTime: 2021-03-18T22:54:00Z
-    webUrl: "https://www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html?outputType=amp"
+  - title: "‘No end in sight’: Inside the Biden administration’s failure to contain the border surge"
+    excerpt: "(Guillermo Arias/AFP/Getty Images) Shortly before Christmas last year, Susan Rice and Jake Sullivan, two top advisers to President-elect Joe Biden, sat for an interview with EFE, a Spanish wire service, to issue a stark warning to migrants considering ..."
+    publishedDateTime: 2021-03-20T20:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 115
+    quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJ2UUZEIEMI6XP67JU3NVOB2NU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZYRJAT6AII6XM6RTZNKHVJCBQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – as it happened"
-    excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh, Joan E Greve and Martin Belam Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget proposal in the coming ..."
-    publishedDateTime: 2021-03-24T00:16:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a3ad78f08e6550a17010e"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 115
-    images:
-      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "After years of Trump tweets, Republicans are suddenly outraged by mean tweets"
-    excerpt: "After spending years defending President Donald Trump’s at times racist and conspiratorial tweets, Senate Republicans are now criticizing Biden administration nominees for their tweets."
-    publishedDateTime: 2021-03-18T20:33:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/after-years-of-trump-tweets-republicans-are-suddenly-outraged-by-mean-tweets/2021/03/18/207bdfd4-ff5e-4772-8281-cfe9ec54ccb3_video.html"
+  - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
+    excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"
+    publishedDateTime: 2021-03-14T00:35:00Z
+    webUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 102
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-18-2021/t_d3ee9fc30cbc4c7ab0dc1fd590e6c9f7_name_20210317_GOP_TWEETS_V4.png&w=1080"
-        width: 1080
-        height: 608
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZYDDWEELUI6XAO3WAXQHGHUTI.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
-  - title: "Trump Slams Biden's US-Mexico Border Control: 'A National Disaster'"
-    excerpt: "Donald Trump on Sunday slammed President Joe Biden over his response to the influx of migrants at the southern border, calling it a “national disaster.” In his fiery statement"
-    publishedDateTime: 2021-03-22T03:11:00Z
-    webUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612"
-    ampWebUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
+  - title: "Biden defends inaction against Saudi crown prince in killing"
+    excerpt: "President Joe Biden defended his decision to waive any punishment for in the killing of a U.S.-based journalist, claiming that acting against the Saudi royal would have been diplomatically unprecedented for the United States."
+    publishedDateTime: 2021-03-17T14:44:00Z
+    webUrl: "https://www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-defends-inaction-against-saudi-crown-prince-in-killing-2021-3?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 90
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Watch: Trump Uses Wedding Speech To Attack Biden; Asks Crowd 'Do You Miss Me?'"
-    excerpt: "... The wedding reception took place at Trump's Mar-a-Lago golf resort in Florida The former president repeated false claims about widespread fraud during the 2020 election Former President Donald Trump on Saturday used a wedding speech at his Mar-A-Lago ..."
-    publishedDateTime: 2021-03-29T03:59:00Z
-    webUrl: "https://www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820"
-    ampWebUrl: "https://www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820?amp=1"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Putin cites ills in US society after Biden's killer remark"
+    excerpt: "Russian President Vladimir Putin has responded to U.S. President Joe Biden’s description of him as a killer by citing America's own past and current problems MOSCOW -- President Vladimir Putin ..."
+    publishedDateTime: 2021-03-18T15:11:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/russia-warns-scale-response-bidens-statement-76530029"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 105
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-        width: 1024
-        height: 731
+      - url: "https://s.abcnews.com/images/Politics/WireAP_91967fa26edc4c13be5abe16085a4238_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Former Trump Staffer Calls Out Ex-President For False Depiction Of Capitol Riots, 'People Were Killed'"
-    excerpt: "The former chief of staff is calling out the ex-president after spreading false claims about the Jan. 6 riots."
-    publishedDateTime: 2021-03-28T15:02:00Z
-    webUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564"
-    ampWebUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
+  - title: "Russian rouble steadies after Biden comments cause sell-off"
+    excerpt: "The rouble was flat against the dollar on Thursday, steadying after a sell-off in Russian assets triggered by U.S. President Joe Biden saying his Russian counterpart Vladimir Putin would pay for attempted election interference."
+    publishedDateTime: 2021-03-18T07:11:00Z
+    webUrl: "https://www.reuters.com/article/russia-markets/russian-rouble-steadies-after-biden-comments-cause-sell-off-idUSL8N2LG1PV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LG1PV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LG1PV"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/28/gettyimages-1192141132.jpg"
-        width: 1024
-        height: 678
-        isCached: true
-  - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
-    excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
-    publishedDateTime: 2021-03-27T00:59:00Z
-    webUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/"
-    ampWebUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "White House press secretary Jen Psaki says Biden doesn't regret calling Putin a 'killer' after Russia recalls its US ambassador"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden doesn't regret agreeing with ABC News' George Stephanopoulos during recent interview that Russian President Vladimir Putin is \"a killer,\" White House press secretary Jen Psaki said Thursday. In a highly unusual ..."
+    publishedDateTime: 2021-03-18T19:01:00Z
+    webUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-press-secretary-biden-doesnt-regret-calling-putin-killer-2021-3?amp"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
     images:
-      - url: "https://thumbnails.texastribune.org/-mWa9Z9pNCv1H7M3mGZ0k5UJXE8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/72457b5f083d35a5cc2fb98be9f57954/Migrants%20RGV%20REUTERS%20TT.jpg"
+      - url: "https://i.insider.com/60538ffaf75f09001814eabe?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "+oi27MBJGZgTratDgn7+iV//mZK+AZIuB1S55SkyK1J2OzNW3uX91h/MA6cfT1eA0PCj1YkA2z0+aYacgyRnOSdrFEviMaGoK35FzWx2kFO9UxMSaL8fmXVeOMibEoNp4LxpMH0mdC6uNdUG/yuSvReQslgHHWN/KVq4tBd8YqEOvXkNyp2Ai3ogqMvh69K7hxuov2idb866ONsRmwi3DCU7AsnGdudnNaeWHz/D1HdbvZj2FIXnNDqQBTZc4Uvc+zi939Ztz8rG5SO9AtTVANi6hmkSvpRB1kbHoxyYPiFok+g1N+KxfhaUO5vZk90M53PHk4ZRT1a14xuWiwWviExOfJ8qbrbJN3RgbxVv8M4=;IMv1Rai6+t5KnTf1BZSSuA=="

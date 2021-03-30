@@ -31,115 +31,175 @@ images:
     isCached: true
 
 related:
-  - title: "Court lets woman's defamation suit vs. Trump proceed again"
-    excerpt: "Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant’s sexual assault allegations against him after a ruling from New York’s highest court Tuesday in"
-    publishedDateTime: 2021-03-30T16:36:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
+  - title: "Hunter Biden calls Trump 'vile' in new book and denies Ukraine allegations"
+    excerpt: "Last modified on Tue 30 Mar 2021 16.00 EDT In a keenly awaited memoir, Joe Biden’s son Hunter attacks Donald Trump as “a vile man with a vile mission” who plumbed “unprecedented depths” in last year’s US presidential election. Want to book ..."
+    publishedDateTime: 2021-03-30T14:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/30/hunter-biden-book-donald-trump-vile-beautiful-things-ukraine"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/hunter-biden-book-donald-trump-vile-beautiful-things-ukraine"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/hunter-biden-book-donald-trump-vile-beautiful-things-ukraine"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 138
     images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_bced19e82367424f8f295da3bc4dc4d9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Poll: One-third would use a Trump-backed social media platform"
-    excerpt: "One-third of voters said they would use a social media platform that was backed by former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite vaccine ..."
-    publishedDateTime: 2021-03-30T19:27:00Z
-    webUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform"
-    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_010421getty_trump-va.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
-    excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
-    publishedDateTime: 2021-03-29T21:27:00Z
-    webUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306"
-    ampWebUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 82
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies"
-    excerpt: "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,"
-    publishedDateTime: 2021-03-24T10:29:00Z
-    webUrl: "https://www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160"
-    ampWebUrl: "https://www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trump-was-acquitted-in-his.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Trump-Dominated Appeals Court Rules Misgendering Professor Can Sue University"
-    excerpt: "And they have tried not to stifle debate by picking sides.\" Judge Thapar, a Donald Trump appointee, was joined by Judges David McKeague and Joan Larsen. The two judges were appointed by George W. Bush and Trump, respectively. Shawnee State University ..."
-    publishedDateTime: 2021-03-30T16:55:00Z
-    webUrl: "https://www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914"
-    ampWebUrl: "https://www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/15/a-person-waves-a-rainbow-flag-in-front.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Paxton refuses to release messages about attendance at pro-Trump rally before Jan. 6 insurrection"
-    excerpt: "The Texas attorney general's office is attempting to withhold all messages Ken Paxton sent or received while in Washington for the pro-Donald Trump rally that devolved into a riot at the U.S. Capitol."
-    publishedDateTime: 2021-03-25T14:51:00Z
-    webUrl: "https://www.chron.com/politics/article/texas-ken-paxton-trump-insurrection-16051966.php"
-    ampWebUrl: "https://www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 62
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+      - url: "https://i.guim.co.uk/img/media/c33c4d7c1e4524898daba7cb4e222ccf26c43790/0_193_5000_3001/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5389429de94c1bb3a4bda56d39ed26f7"
         width: 600
-        height: 336
+        height: 360
         isCached: true
-  - title: "News Media Seeing 'Post-Trump Slump' As Passions Cool"
-    excerpt: "The so-called \"Trump bump\" which boosted viewers and subscriptions at outlets such as CNN and the New York Times now appears to have turned into a slump following the departure of Donald Trump from the presidency. At CNN -- which was at loggerheads with ..."
-    publishedDateTime: 2021-03-24T01:15:00Z
-    webUrl: "https://www.ibtimes.com/news-media-seeing-post-trump-slump-passions-cool-3167936"
+  - title: "Lindsey Graham Calls Out AOC for Conflicting Border Reactions Under Trump, Biden"
+    excerpt: "GOP Senator Lindsey Graham of South Carolina asked, \"Where are you?\" to Democratic Rep. Alexandria Ocasio-Cortez of New York, calling her out for not visiting the Southwest border, where he said conditions are \"worse\" for migrants than those under former President Donald Trump."
+    publishedDateTime: 2021-03-24T21:40:00Z
+    webUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547"
+    ampWebUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1763089/migrants.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "The 'border-industrial complex' is bigger than Trump or Biden, and it thrives on crisis"
+    excerpt: "How Biden deals with the border remains to be seen, but he will be no less caught up in the border-industrial complex than Trump."
+    publishedDateTime: 2021-03-23T14:18:00Z
+    webUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5d9b7d95e94e863ec8152851?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Exclusive: Biden wants to keep Trump policy that boosted armed drone exports - sources"
+    excerpt: "WASHINGTON (Reuters) - The Biden administration wants to keep a controversial Trump policy that jump-started sales of armed drones to countries whose human rights records are under scrutiny in the United States and elsewhere, according to sources familiar ..."
+    publishedDateTime: 2021-03-25T14:13:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2BH1CA?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BH1CA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BH1CA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210325&t=2&i=1556160112&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2O0QC"
+        width: 968
+        height: 545
+        isCached: true
+  - title: "Donald Trump uses new website to rewrite history of his presidency"
+    excerpt: "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 15.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ..."
+    publishedDateTime: 2021-03-30T18:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Corporations, wealthy pay in Biden infrastructure plan, not drivers and riders"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden’s plans to spend billions of dollars on the United States’ crumbling roads and mass transit include a novel twist - making companies and wealthy households, rather than drivers and riders, pay the cost."
+    publishedDateTime: 2021-03-30T09:18:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-tax-idINKBN2BM14L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BM14D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BM14D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556726080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T0HY"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden considers executive actions on guns, calls on Congress to pass weapons ban"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden urged Congress to swiftly pass gun control laws and may take action on his own to stop mass violence, the White House said on Tuesday, a day after the second deadly mass shooting in a week. The Democrat ..."
+    publishedDateTime: 2021-03-24T03:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BF2DK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2DK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2DK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555920375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1AU"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "How Obamacare Survived Trump and What Biden Is Doing Now"
+    excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
+    publishedDateTime: 2021-03-23T17:35:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-is-doing-now/2021/03/23/c540ac8c-8bfc-11eb-a33e-da28941cb9ac_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 952
+        isCached: true
+  - title: "How Obamacare Survived Trump and What Biden Might Do Next"
+    excerpt: "By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump. Joe Biden’s arrival in the White House could blunt any impact of the latest danger -- a case now before the Supreme Court -- and give Obamacare ..."
+    publishedDateTime: 2021-03-23T17:24:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do-next/2021/03/23/c540ac8c-8bfc-11eb-a33e-da28941cb9ac_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 952
+        isCached: true
+  - title: "Joe Biden's southern border challenge: reversing Trumpism"
+    excerpt: "Biden took office promising a more welcoming immigration policy. But Republicans are calling a new wave of migrants at the southern border a ‘crisis’"
+    publishedDateTime: 2021-03-30T01:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2021/mar/30/joe-biden-border-challenge-reversing-trumpism-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/9df3cf067945b89a8e12ac04d491ae5af7a20067/0_105_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c9490725a9c80495c3e65735d0e92b7"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Watch: Trump Uses Wedding Speech To Attack Biden; Asks Crowd 'Do You Miss Me?'"
+    excerpt: "... The wedding reception took place at Trump's Mar-a-Lago golf resort in Florida The former president repeated false claims about widespread fraud during the 2020 election Former President Donald Trump on Saturday used a wedding speech at his Mar-A-Lago ..."
+    publishedDateTime: 2021-03-29T03:59:00Z
+    webUrl: "https://www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820"
+    ampWebUrl: "https://www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 55
+    quality: 86
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/23/some-news-outlets-like-cnn-have-seen-dramatic.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
         width: 1024
-        height: 682
+        height: 731
         isCached: true
 
 secured: "xMZYqvcd5v+WR0px7afqjID/53E7AWQl8rr3Cs9fPSRvv2Dx5Gem33DIsoe6vqLMnouw+42U26dQqXAtGSOAH5maZbkIFzzL3HFb48Da5k8o2dUzMYtmkOOTTaxD8F3kiwPEJIxsZcG5Azfb1Z8PF+FJH2QMt9LlDYYH6Lqqf4l4werxQvrDg8C6L3qzH5ilJALxGSRpwhESnI0OLhARpat1EtLaNJtlQdhG+ypSrHCveCTbNARyBARUp0f7JkZDmLi7s63skJ7ZgIVqQ2CkYnANTGoAXC71mMkzHIjYZHIuQHi0Ql2+Cs1wptnYSu2hZf5p+aI5imohN3O6FO3IzscEgo0fSv3svP8G5SLh+YgYV09qONqQ8ks7y0FuScNdY2hXsnG1AOCFmI10M9n+kpRtUnbYoXAZQZ4MfZGB7tQ8Ya2hpNLOgqHHapc/V9Si2Ah5FXmd0RRO+MNFfWZHlfeQ9sj2EzfTEv01uOoa7qYs+U1eKBCgER6YI7lVudAgV4ufvfr0wbLeRwkl2US6Cw==;st8n4vN/T7dlP8U3gwVeoA=="

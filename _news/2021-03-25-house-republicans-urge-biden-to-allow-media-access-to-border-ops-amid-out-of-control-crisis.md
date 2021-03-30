@@ -29,149 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "Rick Scott blasts Biden immigration policies: 'Americans don't want open borders'"
-    excerpt: "Sen. Rick Scott, R-Fla., said Thursday that Americans do not want open borders as President Biden's crisis at the border continues. "
-    publishedDateTime: 2021-03-18T17:26:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06EyzqF5Y74/rick-scott-biden-americans-open-borders-immigration-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
+  - title: "Biden's border response blasted as 'half-a--ed gig' by Texas congressman"
+    excerpt: "The Texas Republican then unloaded on the president for his border response, saying the country must “stand firm” on border policies and deportations “or we have no borders in this country.”"
+    publishedDateTime: 2021-03-30T19:55:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d028592-d7ae-487b-8976-c9d8e4e7201e/47f2f8af-1436-4957-b566-7525f5fc4cad/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ea87a8c-9e36-48dc-964c-90e65df5002c/f59f4da5-1c73-4ecf-9d66-81afd1c94004/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Texas congressman, ex-sheriff rips 'no-borders Biden' for continuing to deny crisis"
-    excerpt: "The Biden administration continues to ignore the crisis at the border while the migrant surge worsens, Rep. Troy Nehls told \"Fox & Friends.\"'"
-    publishedDateTime: 2021-03-18T13:45:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIAhOXancSs/texas-congressman-nehls-no-borders-biden-deny-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-congressman-nehls-no-borders-biden-deny-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden celebrates St. Patrick's Day with Irish PM, delivers address to Irish Americans"
-    excerpt: "President Biden celebrated St. Patrick’s Day virtually with Irish Prime Minister Micheál Martin Thursday and reiterated the U.S.’ ‘deep, deep affection’ for Ireland. "
-    publishedDateTime: 2021-03-17T23:47:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmNB-bXH5jo/biden-irish-pm"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-irish-pm.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-irish-pm.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
-    excerpt: "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\""
-    publishedDateTime: 2021-03-15T21:32:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Dan Bongino slams Biden immigration agenda: Without a border, 'you don't have a country'"
-    excerpt: "Fox News contributor Dan Bongino rips Biden's immigration policy on \"Fox & Friends,\" and asserts that we don't have a country without a border."
-    publishedDateTime: 2021-03-16T15:03:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRKdl1linmU/dan-bongino-border-crisis-biden-immigration-fox-friends"
-    ampWebUrl: "https://www.foxnews.com/politics/dan-bongino-border-crisis-biden-immigration-fox-friends.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-bongino-border-crisis-biden-immigration-fox-friends.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43446e6c-352c-4c59-bfa5-2b93b2468473/bdfdbabc-61d5-4370-a3b3-ad549f1d987e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden admin considering flying Latin American migrants to states near Canadian border: report"
-    excerpt: "As crossings along the southern border surge to near-record levels, the Biden administration is considering flying migrants to states near the Canadian border, according to a report. "
-    publishedDateTime: 2021-03-19T21:48:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4bInlyZh5rY/biden-admin-fly-latin-american-migrants-states-canadian-border"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-fly-latin-american-migrants-states-canadian-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-fly-latin-american-migrants-states-canadian-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Border-1-.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden's 'open border' policies enriching drug cartels as migrant crisis escalates: Gov. Abbott"
-    excerpt: "President Biden’s “open border policies” are not only inviting more illegal immigration to the U.S. but also enriching and empowering drug cartels in Mexico who profit from smuggling migrants across the border, Texas Gov. Greg Abbott said Sunday."
-    publishedDateTime: 2021-03-14T17:38:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbAxoxVDSqo/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+  - title: "Ted Cruz details viewing 'Biden Cages' packed with migrant children at the Texas-Mexico border"
+    excerpt: "Senator Ted Cruz, R-Texas, ripped the Biden administration following a visit to the border with 17 other U.S. Senators, telling Fox Business' \"The Evening Edit\" that the conditions in what he called the \"Biden cages\" of young migrants are \"inhumane\" and \"unconscionable.\""
+    publishedDateTime: 2021-03-26T23:50:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yfp8Ft2dE1s/ted-cruz-details-viewing-biden-cages-packed-with-migrant-children-at-the-texas-mexico-border"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-details-viewing-biden-cages-packed-with-migrant-children-at-the-texas-mexico-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-details-viewing-biden-cages-packed-with-migrant-children-at-the-texas-mexico-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/550f6423-a32c-452f-bdfd-b560fe6553e7/7ba82ed6-7af9-448b-8ff7-aa6485e70ef4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Arizona governor hits Biden for poor communication on border: ‘He’s got a big microphone’ and should use it"
-    excerpt: "Arizona Gov. Doug Ducey told ABC News’ \"This Week\" that the president should be more communicative to prevent worsening the crisis at the border."
-    publishedDateTime: 2021-03-21T20:07:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkuUb-GnBOg/arizona-governor-drags-biden-for-poor-communication-at-border-hes-got-a-big-microphone-and-should-use-it"
-    ampWebUrl: "https://www.foxnews.com/politics/arizona-governor-drags-biden-for-poor-communication-at-border-hes-got-a-big-microphone-and-should-use-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-governor-drags-biden-for-poor-communication-at-border-hes-got-a-big-microphone-and-should-use-it.amp"
+  - title: "Texas Sen. Ted Cruz On Border Visit: \"Joe Biden Has Built More Cages\" For More Kids, \"Bigger And More Full\""
+    excerpt: "Sen.Ted Cruz of Texas told FNC's \"Sunday Morning Futures\" about his visit to the border this week as a surge of migrants and asylum-seekers continues. He was not allowed to film his experience visiting the site of a Border Patrol detention facility."
+    publishedDateTime: 2021-03-28T16:41:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/28/texas_sen_ted_cruz_on_border_visit_migrant_surge_joe_biden_has_built_more_cages_bigger_more_full.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 47
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/48d5462d-00b3-4005-99b4-497dbde05f0c/9fd5a85e-a24f-4b21-9fe7-faa49ef12b3b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'"
-    excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border."
-    publishedDateTime: 2021-03-14T07:26:00Z
-    webUrl: "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy"
-    ampWebUrl: "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/114a33b8-ebad-4e1c-8c89-c639c966c2a7/82772f54-2d9d-440a-8640-896b0a23a31d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/52/525465.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "xgvVY6BH1z3Vq6F2BpjQdDH3k4wiqsYIuoJlKw+Yd9mBCtqWDK0LjGhZ1n0SpMesrHfWIhJaxoNwALJeOzGJwc3mbg0Suj1NOkPvZHjk/gkLKITjlbdESl7hB24tqwQAQEQd6yR/i4eJo/++iqqNsA4JkIcAnLIt6Qavvvl2Q4IZqME9Uq/i9cVb80WDW9K0yJJOs7a9Gm41Xjy35VAvwNCmlbKcyzXl4QP/FOQzIA6R2kNCx5fC10GMu6b9MQ1WN70Sdwu+58U3fW1b/ivrr+//kmikN6CUpgm20JLt5ikO9b8cH/jFrekJRyfTE7rRzZDcX4mxrlW34BehS0wGGi9/GcnKyUVPC7iBhdwClac=;YGdQzzlwryFrnsRW/8YOpg=="

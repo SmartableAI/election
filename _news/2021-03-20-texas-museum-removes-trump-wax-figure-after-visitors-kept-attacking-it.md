@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump launches a new website after social media bans"
+    excerpt: "New York (CNN)Donald Trump is back online. The former president and first lady, Melania Trump, have launched a website to serve their personal offices. The website, 45office.com, comes after Trump's ban from social media sites in the aftermath of the ..."
+    publishedDateTime: 2021-03-30T15:40:00Z
+    webUrl: "https://www.cnn.com/2021/03/30/media/donald-trump-website-launch/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/media/donald-trump-website-launch/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/media/donald-trump-website-launch/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "cJE0OWpiss2ySdHINeMSHOdkHMKntvcT0rzK3q6cPik2560VCDyzBeoDAwHZSQxS4hDuUzzv/iw+9i/D5iZRiTucrHQd1VoMQA/W8B1LDdIRMYPDRx1zPtNDqYVjtHLgHJZ/9kgGoc5nvZzUtltQqR5NDbYfNPvhtVceXF31HBU0WhuUKFZa02ENkZCU4wcUrM4G/8OD2o5VBO7qYb3kTwZdWD7EhficS7IuUVQQc+PIljjroaCDiS+Ca2gv4qthoVIwYpgPYM4BH6uyZEsNGdhbLIjNcFXiVI/iOlzBnQcfqWpdg+XtC8Xblif6W67Q6XXHyIUG/Ei7BvMyrSSvKS7mP6xfkojuMXrDDeJQFvWWreb/h5oj34yVdCDJ9PhgXrdGQRbDhz9yaXKKBP1DPrKhErsG/a2rHTh5Z4hMXv/Fg/W+1gIAESWn8iN9kICTXMfBK1vyz139sTI8WPJwf+TD5SPqXi7XQUi287Ul1RMkWMdOAa6f45GcU7tEdDEwW9Io4t80p8GP6Hxw57Q+Vw==;+AwSyyb7KzWAHVUV/xjnyg=="
 ---

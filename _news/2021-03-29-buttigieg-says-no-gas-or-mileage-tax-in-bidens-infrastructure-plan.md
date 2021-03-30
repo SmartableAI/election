@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Bidens' dog Major involved in another biting incident"
+    excerpt: "The Bidens' dog Major has been involved in another biting incident that required medical attention, two people with knowledge of the incident tell CNN.\n    \n"
+    publishedDateTime: 2021-03-30T20:34:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iACSbMYFuao/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/major-biden-dog-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/major-biden-dog-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324142609-01-major-biden-0323-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration not confident Johnson & Johnson will meet 20 million goal by end of month"
     excerpt: "Officials in President Joe Biden's administration are not confident that Johnson & Johnson will meet its self-imposed deadline to deliver 20 million coronavirus vaccines by the end of March, despite optimistic statements from the company.\n    \n"
     publishedDateTime: 2021-03-23T01:52:41Z

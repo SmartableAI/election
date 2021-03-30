@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump launches a new website after social media bans"
+    excerpt: "New York (CNN)Donald Trump is back online. The former president and first lady, Melania Trump, have launched a website to serve their personal offices. The website, 45office.com, comes after Trump's ban from social media sites in the aftermath of the ..."
+    publishedDateTime: 2021-03-30T15:40:00Z
+    webUrl: "https://www.cnn.com/2021/03/30/media/donald-trump-website-launch/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/media/donald-trump-website-launch/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/media/donald-trump-website-launch/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Texas museum removes Trump wax figure after visitors kept attacking it"
     excerpt: "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ..."
     publishedDateTime: 2021-03-19T17:08:00Z

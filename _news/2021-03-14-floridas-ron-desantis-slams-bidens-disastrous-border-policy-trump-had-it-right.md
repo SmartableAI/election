@@ -160,20 +160,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "House Republicans urge Biden to allow media access to border ops amid 'out of control' crisis"
-    excerpt: "EXCLUSIVE: More than 20 House Republicans on Thursday wrote to President Biden urging his administration to stop blocking media access to border facilities amid what they described as an \"out of control\" crisis at the border."
-    publishedDateTime: 2021-03-25T19:09:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mcy1UJGJGtk/house-republicans-biden-media-access-border-facilities"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/795dc737-b1c2-46a7-a833-80bc04f0d8b1/b7365531-e3e7-403e-b1ed-2ebfb455bd6c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "fyT0joZ4vuvapyltxcFZqVKUGGsQlRtpBfjE5FlmTxoVE95vL8pbH/x3eG4ObMDpihzkrjAnYKsjWZL/glk04t0wUBzs3wqOJ/2ceqDy/kEPWMQOzOfmwO6jD+UFD6jfao1RGrclZd4YFoNBtWpYX2TO9/OOQfl+uAZEzpUaKK7V3f+f5hUAJJEypN+7BbcAeEetK9NqGpZc8k3SCItS9q0UInID3cssKcuyefykY7zj/s8QNbrIxi3dV22aIlExJtzRJ+jmXYKiZrfiv1yiMD3Hg0bpUR9E8Z4Kq485MAN9NfXw85BiZKVsYZJFiY1adGz9+BzR0B5CzueAyfdYbPTumTfCCDL7IK8jHnIbyCPCh4PyN25OZLOWMeynrP71ToSPhJ+mTxj/eQtEFLGHUkn+pS/Z56WSrP6Ifmc0AeRChl4aSZdzYMLwEYsHA6UEhuUbtp/CayHoAhIPYOvNkiuLW1+sPSIka1B0vW7Jwp/gQc1Bd2mLF2A2FTrF/HO3kaX+Bo9CFAF/t9T7GvifrQ==;8NV06PLYdCOBVScvpbiiyw=="
 ---

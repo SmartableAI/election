@@ -95,52 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Social Network Users Won't Feel 'Fact Checkers Are Going to Be All Over Them': Lara Trump"
-    excerpt: "A spokesperson for the former president said this week the new social media platform likely will roll out within the next few months."
-    publishedDateTime: 2021-03-23T17:42:00Z
-    webUrl: "https://www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190"
-    ampWebUrl: "https://www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 113
-    images:
-      - url: "https://d.newsweek.com/en/full/1762633/lara-trump-social-networking-platform.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Donald Trump Gearing Up For Social Media Return With Own Platform"
-    excerpt: "After months of being banned from social media sites, he's decided to launch his own site in the next few months."
-    publishedDateTime: 2021-03-21T20:51:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/20/donald-trump-seen-in-this-october-5-file.jpg"
-        width: 1024
-        height: 700
-        isCached: true
-  - title: "Trump To Launch Own Social Media Platform: Ex-aide"
-    excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
-    publishedDateTime: 2021-03-21T19:35:00Z
-    webUrl: "https://www.ibtimes.com/trump-launch-own-social-media-platform-ex-aide-3166480"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/21/donald-trump-appears-to-be-planning-a-return.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "kcsFyTtlKDYt6jdNfzMWziRIZg6QAWgT7u1DHImfBu3/emuO/KF8YCEOU+U3WHvOfIM++RO68LL+uBRCo03TMG4B8d7TxA9mIZJylEq0PO18/aAHs9GRCtc+M8xhJqzLXZlvjtGR48bZ0YWkBBs21WKgQjXgdu5rbEmD50u4zmzukncUpVUbmBALUdT2e0/I4j2KSs3pW/KHmbyOqIhakAlQyQ8R93W0MiBVJUQsckr3YmOcMFW8liYWRPgOO61Nd3kW3aRM1Apo9qstWc8mLL5AI/NiBb0Etg73mQVb0JjUsv57YmsAYFtqJEMqx7+0+tydDKxl0mvNcP5Mswsf8E3sFkVlxXzbToKhbg1v0+5I56bClGzcXecspjTrfHkjTwXGKuEN91vITIUUjewlegVRbUXaCyTz+JbQuBny4HUZ6a6Dc5jY5E1pLvm0rBNnk9qDhqVoe0ZcXVZ5YVshe01Oo0IJteLsV/j8NpJIVHIrH2MJm766dkBy97AP+Nw5fr/vLeRG++Qdx7j8bBuIVw==;82G09NrNryqjd+1FrKFwQg=="
 ---

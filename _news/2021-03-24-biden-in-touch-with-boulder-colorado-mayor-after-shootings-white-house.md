@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
+    excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget ..."
+    publishedDateTime: 2021-03-24T00:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a49908f08ca309c206435"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden Demanded The Senate Act On Gun Control After 10 People Were Killed In Colorado"
     excerpt: "The president called on Congress to close background check loopholes and ban assault weapons after shootings in Boulder, Colorado, and Atlanta."
     publishedDateTime: 2021-03-23T17:40:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-03/22/20/campaign_images/260b3070742b/now-this-is-weird-but-we-can-guess-your-eye-color-2-8505-1616446033-32_dblbig.jpg"
         width: 625
         height: 415
+        isCached: true
+  - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – as it happened"
+    excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh, Joan E Greve and Martin Belam Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget proposal in the coming ..."
+    publishedDateTime: 2021-03-24T00:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a3ad78f08e6550a17010e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
         isCached: true
   - title: "'We have to act’ on gun control: Biden reacts to Colorado"
     excerpt: "Biden reacts to Colorado. Posted . U.S. President Joe Biden on Tuesday called for a ban on assault weapons and tighter gun control meas"

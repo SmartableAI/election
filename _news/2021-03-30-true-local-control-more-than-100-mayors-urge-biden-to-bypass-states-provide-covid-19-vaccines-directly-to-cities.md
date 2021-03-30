@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "California senators calling on Biden to set date for phasing out gasoline cars"
+    excerpt: "The two U.S. senators representing California are calling on President Biden Joe Biden AstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's ..."
+    publishedDateTime: 2021-03-22T11:32:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/california_auto_emissions_09032019_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "High-carbon communities hope for Biden relief to ease pain of green shift"
     excerpt: "When Lacy Davidson Ferguson and her husband moved back to Wayne County in rural West Virginia to start a family about five years ago, they ran smack into an economic catastrophe."
     publishedDateTime: 2021-03-26T13:17:00Z

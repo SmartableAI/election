@@ -207,6 +207,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
+    excerpt: "White House says president will deliver brief remarks on hooting this afternoon, before leaving for a trip to Ohio"
+    publishedDateTime: 2021-03-23T14:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-6059fcc08f087d1707c11a88"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
+    excerpt: "White House says president will deliver brief remarks on shooting this afternoon, before leaving for a trip to Ohio – get all the latest news"
+    publishedDateTime: 2021-03-23T17:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a1b4e8f08e6550a16ff4b"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden administration says $122 billion of COVID relief will go to schools: \"This spring, we want our students back in school\""
     excerpt: "The Biden administration is ramping up efforts to support schools reopening, announcing Wednesday that schools will receive $122 billion in COVID-19 relief funding. \"My priority right now is to safely reopen as many schools right now,"
     publishedDateTime: 2021-03-17T21:23:00Z

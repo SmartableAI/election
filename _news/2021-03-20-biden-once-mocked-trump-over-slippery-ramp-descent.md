@@ -428,6 +428,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Republicans form conservative coalition to fight Biden's tax hikes in $3T infrastructure project"
+    excerpt: "Top GOP figures launched a new group to fight back against proposed tax hikes under President Biden and pressure politicians to vote against his anticipated $3 trillion infrastructure plan."
+    publishedDateTime: 2021-03-30T19:53:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dKIKDGg5Irc/republicans-conservative-coalition-fight-bidens-tax-hikes-infrastructure-project"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-conservative-coalition-fight-bidens-tax-hikes-infrastructure-project.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-conservative-coalition-fight-bidens-tax-hikes-infrastructure-project.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Marc-Short.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump says Biden has turned southern border into ‘national disaster’"
     excerpt: "Former President Donald Trump said Sunday that the Biden administration has turned the migrant crisis at the southern border into a full-fledged “national disaster.” In the statement released"
     publishedDateTime: 2021-03-21T23:35:00Z

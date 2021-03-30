@@ -79,22 +79,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Corporations, wealthy pay in Biden infrastructure plan, not drivers and riders"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden’s plans to spend billions of dollars on the United States’ crumbling roads and mass transit include a novel twist - making companies and wealthy households, rather than drivers and riders, pay the cost."
-    publishedDateTime: 2021-03-30T09:18:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-tax-idINKBN2BM14L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BM14D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BM14D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556726080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T0HY"
-        width: 817
-        height: 545
-        isCached: true
   - title: "North Korea's Kim calls U.S. 'our biggest enemy' in challenge to Biden"
     excerpt: "North Korean leader Kim Jong Un called for more advanced nuclear weapons and said the United States is \"our biggest enemy,\" state media said on Saturday, presenting a stark challenge to President-elect Joe Biden just days before he takes office."
     publishedDateTime: 2021-01-09T09:02:00Z

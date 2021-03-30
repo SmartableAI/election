@@ -903,6 +903,20 @@ related:
         width: 350
         height: 439
         isCached: true
+  - title: "President Joe Biden signs the PPP Extension Act of 2021 at the White House"
+    excerpt: "President Joe Biden signs the PPP Extension Act of 2021 into law in the Oval Office with Vice President Kamala Harris, left and SBA Administrator Isabel Guzman, right, looking on, at the White House in Washington, DC on Tuesday, March, 30 2021. Pool Photo ..."
+    publishedDateTime: 2021-03-30T21:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/087a31067f4991d9d4cc49acdbb41394/President-Joe-Biden-signs-the-PPP-Extension-Act-of-2021-at-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/087a31067f4991d9d4cc49acdbb41394/BIDEN-PPP-EXTENSION.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Biden looking at imported weapons and those made with ‘3D equipment’ for potential executive actions"
     excerpt: "President Joe Biden is “looking” at what executive actions he can take on guns, particularly when it comes to regulating imported weapons and those made with “3D equipment,” he told reporters on the tarmac in Delaware on Friday."
     publishedDateTime: 2021-03-29T04:43:00Z

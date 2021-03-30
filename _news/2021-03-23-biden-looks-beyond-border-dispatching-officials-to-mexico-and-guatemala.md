@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-03-22/biden-officials-im
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true"
 type: article
 quality: 124
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.insider.com/6058d661106eb50019d04ef9?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump Slams Biden's US-Mexico Border Control: 'A National Disaster'"
+    excerpt: "Donald Trump on Sunday slammed President Joe Biden over his response to the influx of migrants at the southern border, calling it a “national disaster.” In his fiery statement"
+    publishedDateTime: 2021-03-22T03:11:00Z
+    webUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612"
+    ampWebUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Democratic frustration is boiling over as Biden administration staffing slogs along, and 2020 staffers tell Insider they feel 'left out in the cold'"
     excerpt: "But not everyone who wants a job on Team Biden — or thinks they deserve one — has landed a gig working for the new president. Some feel like they've been left in limbo. Several described President Joe Biden's hiring process as opaque. And even time ..."

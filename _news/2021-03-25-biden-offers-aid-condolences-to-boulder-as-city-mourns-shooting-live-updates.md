@@ -111,6 +111,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden calls for tighter gun control measures after Colorado shooting"
+    excerpt: "U.S. President Joe Biden on Tuesday called for a ban on assault weapons and tighter gun control measures as he stepped into the familiar role of grief counselor for a traumatized nation after a mass shooting left 10 people dead in Colorado."
+    publishedDateTime: 2021-03-24T03:27:00Z
+    webUrl: "https://www.reuters.com/article/us-colorado-shooting-biden-idUSKBN2BF168"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF168"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF168"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555921380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M0MY"
+        width: 677
+        height: 545
+        isCached: true
   - title: "Duckworth, Hirono vow to oppose Biden picks over diversity concerns"
     excerpt: "say they will vote against President Biden Joe Biden The Hill's Morning Report - Biden leans heavily into gun control Justice Dept. faces risks, rewards with riot sedition charges Dems plan to ..."
     publishedDateTime: 2021-03-23T23:29:00Z
@@ -174,6 +190,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_030521getty_memo.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden administration allows access to border facility -- but not ones over capacity"
+    excerpt: "Biden holds the first formal, solo news conference of his presidency Thursday. Biden administration allows camera inside border facility The Biden administration on Wednesday -- for the first time ..."
+    publishedDateTime: 2021-03-24T23:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/carizzo-springs-1-abc-er-210324_1616623526394_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "North Korea Missiles Seriously Concern U.S. Allies, But Joe Biden Downplays Threat"
     excerpt: "Pyongyang has conducted two weapons tests in a week amid speculation North Korea is trying to apply pressure on the White House."

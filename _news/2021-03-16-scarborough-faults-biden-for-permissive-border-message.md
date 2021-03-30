@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/543365-scarborough-manchin-correc
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/543365-scarborough-manchin-correct-biden-sending-permissive-message-to-migrants-at?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Border influx of migrants poses political threat to Biden"
+    excerpt: "White house press secretary says there is no crisis at the border When President Joe Biden entered office, he listed what he called \"four historic crises:\" the coronavirus pandemic, the economy ..."
+    publishedDateTime: 2021-03-23T09:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/mexico-us-border-rtr-jc-210309_1615335310890_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Eye Opener: GOP slams Biden for handling of border crisis"
     excerpt: "Republicans are criticizing the Biden administration for its handling of the border crisis. Also, more European nations are pausing their rollout of the AstraZeneca vaccine over reports of blood clotting."
     publishedDateTime: 2021-03-16T12:08:00Z

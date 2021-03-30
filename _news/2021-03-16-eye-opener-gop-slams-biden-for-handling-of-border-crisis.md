@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Border influx of migrants poses political threat to Biden"
+    excerpt: "White house press secretary says there is no crisis at the border When President Joe Biden entered office, he listed what he called \"four historic crises:\" the coronavirus pandemic, the economy ..."
+    publishedDateTime: 2021-03-23T09:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/mexico-us-border-rtr-jc-210309_1615335310890_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "I2+FNZk88MvoFgyoewarxElP7/sK2gbf8Xd2laj4N8bmcQAO9qaDP/ZJkIi63lSHNFwCkEo824Q+6XnYiIGOPdE91GzOlG0IIFUq1olP20QgipRduHtgydTwE/KNceWd5v3dwkfTLTuvpIveNcN81Vng4aoaQerkXBEsTjWxr1AMPPD8whETMrq+hB304GqZ77LfOcgpUQM8yGjw2YyQXrCWmLe1Czg9yMqpW+HRXL9BICgbKbdD614Tk5i9DUF8ijklZbMrTbPA0Yd/jH1HnoJHkd5gaQJ6OYeZCvhI7vOrCRXHdQOibTCGFOXSAFRUeFfEZH904el8b5NpOfIx/p+EppQ3WBlwHSMlAWQlM71SbYqdZtjF9ex/t/aZVmVIysnEd0mPNg7V0zpvUfLq26m4HLPCCcFjrMNG7iGJ1CpOt6XFMBMdCpoYxURPiaqdn+xIXr6k0v1u/YNoxBcDxkT1vQdXYYprhCB3SxnfQM+TOjJkg9zNX9fkpczj5AeQ3zSSQZqtMX1Ejj+UB7NZvw==;YBaHv91ooMB5XdAJ4V1Dsw=="
 ---

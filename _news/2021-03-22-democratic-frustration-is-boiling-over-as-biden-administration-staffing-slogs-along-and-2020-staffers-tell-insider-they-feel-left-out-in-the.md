@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Slams Biden's US-Mexico Border Control: 'A National Disaster'"
+    excerpt: "Donald Trump on Sunday slammed President Joe Biden over his response to the influx of migrants at the southern border, calling it a “national disaster.” In his fiery statement"
+    publishedDateTime: 2021-03-22T03:11:00Z
+    webUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612"
+    ampWebUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "Rgh4DJFBW9gi6ywe0mrH9awJ0XI+VGVN1W2pyh1JMjChomVRIf/NBHWwOy0gyOjsMS6ep1GLFNwtbHlRi+dCSmHVar2VnOvNArTzq2q0xt2qth84I++8/W67SNqO2iHSxFrY4qUWqWWHMQUBOcT4PLJSQAjVeDJC02f3Ymb2lQTw1KU5p70cEseILL1az0IFz4CteigyUiZuQoGuJP2vCDzWBN6ZWidO3s/WK7wNQO7B3YFBbCxDz0FvOGtNv4/ZxDVckgaFduvMJRpOpsGahvAGRzV2mwTq9Zr1p/SgIbTD3veLGv6jLm89nt5tAz7utrMe+0msklRhiAQVwwudvggZGiggU1x4gvJL7cruFThcKaEUCClJJdj6n39QYy3MKkCoATnFvdJCOnGcV+IPrlY1wAJM+72th4fA9EkfSc9zOPX06vnte5WLlZy7MdjbHdbIawm4A8RGx+9CLiDXyAXBy9V3oAfkaPaahFs77AnuBmG4fw/mZU/8QYFoS+NI8CoPOoOL8Ii8ozQ+UqxMIQ==;+lXp7BfpGBC36MnouyJThQ=="
 ---

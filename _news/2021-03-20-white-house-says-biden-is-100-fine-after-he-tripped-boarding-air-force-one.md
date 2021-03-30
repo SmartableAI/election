@@ -206,6 +206,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Major is still adjusting': New White House trouble hounds Biden's dog"
+    excerpt: "President Joe Biden's dog Major has been involved in a second biting incident at the White House, NBC News has confirmed. “Major is still adjusting to his new surroundings and he nipped someone while on a walk. Out of an abundance of caution, the ..."
+    publishedDateTime: 2021-03-30T21:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/major-still-adjusting-new-white-house-trouble-hounds-biden-s-n1262527"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262527"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262527"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_13/3460867/210330-major-biden-dog-ac-435p_33990fb7823b6d94d4f5c4411ad7b697.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
 
 secured: "qmlDrmAxUFpKIlSrsUZ9WhxQqbGILSzLlJjVFqipBKUSBSpWNDCfhyg3Sd0bV84nT6q6rZD6IyFSoU4AFDfRDprOio8NHh5zDblbVMhIn4MMzG+zI9pH3WBPmt6MLJeegTgOPdQns4DsnoLOkDyj/9WNRbeOQQHuIe+N2oJAv9053sY4WFutHGQ7GNvgQ4zlXRIJmfLhjggbvomA4hDrNApv8DOfpeJQFr8mDbjq9wyEKq2pJqXGn6sADUKOMflD/uWChbGmBrYnSLslkkOYcb3gwCn47qGz6eGXyVKifcMWD8kXqnGZx89WbjPtMU2WQXDYuUoWsCDgJn21y6+YehIwdRpKWrE5jcphhkadv8ACfkfz5ymFJnV52utZDG4hMc6dIVOmlqKDLp9+SrprepCfrV8n16sQIpCBMdFuOWfg9+0uBq3b8ne36ir2qWHXOnr0P73VhZqYsKzwkieCw56QsgSJYrab2e71yekyARnKiYaq6E6kW/ErrgVGolyI1/R9mDZ8Noas94KukOgX5g==;2CN3gLY+fkPWRQPYRnLkbQ=="
 ---

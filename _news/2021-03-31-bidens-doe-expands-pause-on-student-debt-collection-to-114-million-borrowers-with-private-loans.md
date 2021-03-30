@@ -893,6 +893,20 @@ related:
         width: 350
         height: 439
         isCached: true
+  - title: "President Joe Biden signs the PPP Extension Act of 2021 at the White House"
+    excerpt: "President Joe Biden signs the PPP Extension Act of 2021 into law in the Oval Office with Vice President Kamala Harris, left and SBA Administrator Isabel Guzman, right, looking on, at the White House in Washington, DC on Tuesday, March, 30 2021. Pool Photo ..."
+    publishedDateTime: 2021-03-30T21:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/087a31067f4991d9d4cc49acdbb41394/President-Joe-Biden-signs-the-PPP-Extension-Act-of-2021-at-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/087a31067f4991d9d4cc49acdbb41394/BIDEN-PPP-EXTENSION.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks on the State of the Covid-19 Vaccine"
     excerpt: "U.S. President Joe Biden delivers remarks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI Sign up for our daily newsletter"
     publishedDateTime: 2021-03-29T19:47:00Z
@@ -922,6 +936,6 @@ related:
         height: 604
         isCached: true
 
-secured: "S8PGVK2UX9w32bmemzpOAR3es86gbQymmCnkRNroVdlh1MF3qgAs8bwlr5THFa7DHjwn/cTIwclSxiI0NMvROQgtMKva0sD/HzzAg+gSnx2sGgB3Jpp+LsUwFJ9f5+9d+EVcq8ZXnd6lFGtO3DJkKiiCJ/jocul18+BsXPWQpwW40Wr1IY80jZ2UYTQAno2SP2ZSPKK+0QoDA/TwBIlvyRwOV7uOzR+F7AZaYwD0L8jxzzuHTq3BT6nbwYK4kccALI+JF7kiku+65QWBdY/o1NspZdJjVDaisgVVqkU/+V/SZ//OjqeS9gHR+shvJazSTdU12079u72JLkx3nZh6IgQOc6aLQQXkM214bTZ8rQU=;lN2ZHBapziCa/frsUGRsVw=="
+secured: "d1wurO4cFCWm+d1mj5tFDF2sLxNV5+GPm/m+3AImwX4UU1rpvjuDRiZbhPPCAx8wph9YaHd6b7NzHLSw0Pj3UdoS1Sax0ictz2aMI6NopqCAkpPU5D4qnQCFJxTfi5MVpFUZX8aeT+00qM1A+aLTzX02jSPrSe3cQ3lkfAXTIfEO6FUXUt2v0TpI/LF/+I0fdoYl5ML1fRpS5ZAmzYOPpv83CfRNssN00WUG2TyZxXY1O5bw8AeKdwMLRBJH7/LSAcRwAWLiTlSqX2/VKSeWGOnUtZY46Q5v1YE8yDvgHEk15TPqdeqCvOirFnuxjYeXdBy3Fu9FQgXT58r5pSRW7vW8ZcN0rF27dZsuxRQFjWm1Fyf4q+fI2YAk/Oz679z86oLTiEsMIvzcY1HUtMW6pOvb+P0hEnymCXbxEAztWUA9xNCusbqQOg7arn5El+AVyd8m9DLz7yTuCqSQJYjk4nz/POCkkN6orG977yeybEZherGr14TTduWD4CedL71Ih8aOAS1nLOpI5eMoElkIyQ==;KfVVReNhR/4mdGdMeANf6Q=="
 ---
 

@@ -31,108 +31,60 @@ images:
     isCached: true
 
 related:
-  - title: "Lindsey Graham Calls Out AOC for Conflicting Border Reactions Under Trump, Biden"
-    excerpt: "GOP Senator Lindsey Graham of South Carolina asked, \"Where are you?\" to Democratic Rep. Alexandria Ocasio-Cortez of New York, calling her out for not visiting the Southwest border, where he said conditions are \"worse\" for migrants than those under former President Donald Trump."
-    publishedDateTime: 2021-03-24T21:40:00Z
-    webUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547"
-    ampWebUrl: "https://www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-calls-out-aoc-conflicting-border-reactions-under-trump-biden-1578547?amp=1"
+  - title: "Biden eyes $3T package for infrastructure, schools, families"
+    excerpt: "Fresh off passage of COVID-19 relief, President Joe Biden is eyeing the next big White House priority — a sweeping $3 trillion package of investments on infrastructure and domestic needs"
+    publishedDateTime: 2021-03-23T04:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-eyes-3t-package-infrastructure-schools-families-76622153"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 135
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1763089/migrants.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cafc315039ed4d92b9ad1b8b8df846ca_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "The 'border-industrial complex' is bigger than Trump or Biden, and it thrives on crisis"
-    excerpt: "How Biden deals with the border remains to be seen, but he will be no less caught up in the border-industrial complex than Trump."
-    publishedDateTime: 2021-03-23T14:18:00Z
-    webUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 132
-    images:
-      - url: "https://i.insider.com/5d9b7d95e94e863ec8152851?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Exclusive: Biden wants to keep Trump policy that boosted armed drone exports - sources"
-    excerpt: "WASHINGTON (Reuters) - The Biden administration wants to keep a controversial Trump policy that jump-started sales of armed drones to countries whose human rights records are under scrutiny in the United States and elsewhere, according to sources familiar ..."
-    publishedDateTime: 2021-03-25T14:13:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN2BH1CA?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BH1CA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BH1CA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210325&t=2&i=1556160112&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2O0QC"
-        width: 968
-        height: 545
-        isCached: true
-  - title: "Biden under pressure over children crossing US-Mexico border – live"
-    excerpt: "Biden tells reports he will visit border ‘at some point’ as Mayorkas defends administration record"
-    publishedDateTime: 2021-03-22T13:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates?page=with:block-6058a1598f0824e5cc4fce39"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates"
+  - title: "Joe Biden invites 40 world leaders to virtual summit on climate crisis"
+    excerpt: "Xi Jinping and Vladimir Putin among invitees as US heralds return to forefront of climate fight"
+    publishedDateTime: 2021-03-27T15:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/65901ba675efc8d5e99ceb04cf1d52f68988985a/0_398_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9cfb0f78ea12ea23fd7e0fc973ffafd"
+      - url: "https://i.guim.co.uk/img/media/e6c958c526157d1a10e5316775bc12cbe46cc82b/0_136_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=256e3a07f20a163935f4e236b466c95f"
         width: 600
         height: 360
         isCached: true
-  - title: "Border influx of migrants poses political threat to Biden"
-    excerpt: "White house press secretary says there is no crisis at the border When President Joe Biden entered office, he listed what he called \"four historic crises:\" the coronavirus pandemic, the economy ..."
-    publishedDateTime: 2021-03-23T09:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+  - title: "Ilhan Omar Blames Joe Biden for 'Failed' $15 Minimum Wage Push"
+    excerpt: "Representative Ilhan Omar said the White House pursued a \"failed strategy\" as she blamed President Joe Biden for the $15 minimum wage not passing with the rest of the $1.9 trillion COVID-19 relief bill. She also argued that the $1.9 trillion COVID-19 ..."
+    publishedDateTime: 2021-03-29T08:28:00Z
+    webUrl: "https://www.newsweek.com/ilhan-omar-blames-joe-biden-failed-15-minimum-wage-1579366"
+    ampWebUrl: "https://www.newsweek.com/ilhan-omar-blames-joe-biden-failed-15-minimum-wage-1579366?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ilhan-omar-blames-joe-biden-failed-15-minimum-wage-1579366?amp=1"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/mexico-us-border-rtr-jc-210309_1615335310890_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1765977/rep-ilhan-omar-minnesota.jpg"
+        width: 1024
+        height: 726
         isCached: true
-  - title: "Biden calls for tighter gun control measures after Colorado shooting"
-    excerpt: "U.S. President Joe Biden on Tuesday called for a ban on assault weapons and tighter gun control measures as he stepped into the familiar role of grief counselor for a traumatized nation after a mass shooting left 10 people dead in Colorado."
-    publishedDateTime: 2021-03-24T03:27:00Z
-    webUrl: "https://www.reuters.com/article/us-colorado-shooting-biden-idUSKBN2BF168"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF168"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF168"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555921380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M0MY"
-        width: 677
-        height: 545
-        isCached: true
-  - title: "Blinken ends Trump rights plan promoting conservative agenda"
-    excerpt: "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons"
-    publishedDateTime: 2021-03-30T16:03:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+  - title: "Biden wants $4T infrastructure package approved over summer"
+    excerpt: "WASHINGTON — President Joe Biden is aiming for summer passage of his sweeping $4 trillion infrastructure plan, and the White House hopes to take a more deliberate and collaborative approach with the contentious Congress than it did on the COVID-19 rescue ..."
+    publishedDateTime: 2021-03-29T22:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-wants-4t-infrastructure-package-approved-over-summer/2021/03/29/b5fb3ce4-90e1-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-wants-4t-infrastructure-package-approved-over-summer/2021/03/29/b5fb3ce4-90e1-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-wants-4t-infrastructure-package-approved-over-summer/2021/03/29/b5fb3ce4-90e1-11eb-aadc-af78701a30ca_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -143,127 +95,117 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "California senators calling on Biden to set date for phasing out gasoline cars"
-    excerpt: "The two U.S. senators representing California are calling on President Biden Joe Biden AstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's ..."
-    publishedDateTime: 2021-03-22T11:32:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/544264-california-senators-call-on-biden-to-set-date-for-phasing-out-gasoline?amp"
+  - title: "Biden wants infrastructure package approved over summer"
+    excerpt: "President Joe Biden is set to unveil the first part of his sweeping multitrillion-dollar infrastructure plan, aiming for passage over the summer"
+    publishedDateTime: 2021-03-30T00:24:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-infrastructure-package-approved-summer-76758548"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-infrastructure-package-approved-summer-76758548"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-infrastructure-package-approved-summer-76758548"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/california_auto_emissions_09032019_1.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/WireAP_beec6a6bb7ec4da89043545fdb934b04_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – live"
-    excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget ..."
-    publishedDateTime: 2021-03-24T00:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a49908f08ca309c206435"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+  - title: "Biden forced to confront 2nd mass shooting in a week amid COVID relief tour"
+    excerpt: "For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant tone in the wake of tragedy. Biden is set to visit Columbus,"
+    publishedDateTime: 2021-03-23T19:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-forced-confront-2nd-mass-shooting-week-amid/story?id=76628730"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
-        width: 600
-        height: 360
+      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-ap-jef-210323_1616522339491_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden considers executive actions on guns, calls on Congress to pass weapons ban"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden urged Congress to swiftly pass gun control laws and may take action on his own to stop mass violence, the White House said on Tuesday, a day after the second deadly mass shooting in a week. The Democrat ..."
-    publishedDateTime: 2021-03-24T03:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BF2DK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2DK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2DK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555920375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1AU"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "How Obamacare Survived Trump and What Biden Is Doing Now"
-    excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
-    publishedDateTime: 2021-03-23T17:35:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-is-doing-now/2021/03/23/c540ac8c-8bfc-11eb-a33e-da28941cb9ac_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
-        width: 1440
-        height: 952
-        isCached: true
-  - title: "How Obamacare Survived Trump and What Biden Might Do Next"
-    excerpt: "By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump. Joe Biden’s arrival in the White House could blunt any impact of the latest danger -- a case now before the Supreme Court -- and give Obamacare ..."
-    publishedDateTime: 2021-03-23T17:24:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do-next/2021/03/23/c540ac8c-8bfc-11eb-a33e-da28941cb9ac_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
-        width: 1440
-        height: 952
-        isCached: true
-  - title: "Joe Biden's southern border challenge: reversing Trumpism"
-    excerpt: "Biden took office promising a more welcoming immigration policy. But Republicans are calling a new wave of migrants at the southern border a ‘crisis’"
-    publishedDateTime: 2021-03-30T01:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2021/mar/30/joe-biden-border-challenge-reversing-trumpism-podcast"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/9df3cf067945b89a8e12ac04d491ae5af7a20067/0_105_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c9490725a9c80495c3e65735d0e92b7"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden administration allows access to border facility -- but not ones over capacity"
-    excerpt: "Biden holds the first formal, solo news conference of his presidency Thursday. Biden administration allows camera inside border facility The Biden administration on Wednesday -- for the first time ..."
-    publishedDateTime: 2021-03-24T23:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+  - title: "For 2nd time in a week, a mass shooting overshadows Biden's COVID relief tour"
+    excerpt: "On Location: March 23, 2021 For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant ..."
+    publishedDateTime: 2021-03-23T15:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-time-week-mass-shooting-overshadows-bidens-covid/story?id=76628730"
     type: article
     provider:
       name: ABCNews
       domain: abcnews.go.com
-    quality: 119
+    quality: 122
     images:
-      - url: "https://s.abcnews.com/images/Politics/carizzo-springs-1-abc-er-210324_1616623526394_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-m_hpMain_20210321-182421_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "The Biden administration missed its own deadline for working out what to do with Trump's half-finished border wall"
-    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden's administration has blown through a 60-day deadline by which it said it would figure out a plan for former President Donald Trump's border wall. Biden signed a proclamation on January 20, his first day in office ..."
-    publishedDateTime: 2021-03-22T17:26:00Z
-    webUrl: "https://www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-admin-missed-60-day-deadline-plan-trumps-border-wall-2021-3?amp"
+  - title: "Biden's top diplomat calls for deeper Japan ties, as China, North Korea cast shadow"
+    excerpt: "U.S. Secretary of State Antony Blinken on Tuesday called for deeper economic and security ties with Japan, as he and Defence Secretary Lloyd Austin seek to use their first trip abroad to strengthen Asian alliances in the face of China's assertiveness."
+    publishedDateTime: 2021-03-16T06:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-asia-blinken-japan-idUSKBN2B71C9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B71C9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B71C9"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
+      name: Reuters
+      domain: reuters.com
+    quality: 119
     images:
-      - url: "https://i.insider.com/6058ca73106eb50019d04ec6?width=1200&format=jpeg"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555035634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0E8"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Biden says he supports reforming Senate filibuster in ABC News exclusive interview"
+    excerpt: "President Joe Biden said he supports reforming the Senate filibuster in an ABC News exclusive interview Tuesday."
+    publishedDateTime: 2021-03-17T00:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/US/president-joe-biden-interview-04-exclusive-abc-jc-210316_1615931643517_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "What's next for Biden? A $3 trillion package for infrastructure, schools, families"
+    excerpt: "President Joe Biden assembles the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs."
+    publishedDateTime: 2021-03-23T01:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/22/president-joe-biden-3-trillion-package-infrastructure-schools-families/6959566002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6959566002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6959566002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/40d5e14f-2757-465a-a169-3748694cc692-AP_Biden_9.jpg?auto=webp&crop=5322,2994,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Biden to explain funding of $3 trillion infrastructure plan Wednesday - White House"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden will outline how he would pay for his $3 trillion to $4 trillion plan to tackle America’s infrastructure needs on Wednesday, the White House confirmed on Monday, a proposal likely to include tax increases ..."
+    publishedDateTime: 2021-03-29T17:35:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-infrastructure-idUKKBN2BL2KW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BL2KW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BL2KW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210329&t=2&i=1556635544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2S1B7"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden orders White House flags flown at half-staff for Boulder shooting victims – live"
     excerpt: "White House says president will deliver brief remarks on hooting this afternoon, before leaving for a trip to Ohio"
@@ -281,127 +223,127 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "What’s causing the migrant surge at the U.S. border? Poverty, violence and hopes for Biden."
-    excerpt: "A rising number of migrants are streaming to the U.S. southern border — more than 100,000 were detained in February alone. U.S. officials expected the influx to hit a 20-year high this year, posing a major challenge to Biden and his promise to adopt more humane immigration policies."
-    publishedDateTime: 2021-03-18T22:54:00Z
-    webUrl: "https://www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html?outputType=amp"
+  - title: "Several U.S. states sue Biden administration for revoking permit for Keystone XL pipeline"
+    excerpt: "Texas and several other U.S. states have sued the administration of President Joe Biden over his decision to revoke a key permit for the Keystone XL pipeline, Texas Attorney General Ken Paxton said in a statement late on Wednesday."
+    publishedDateTime: 2021-03-18T09:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-keystone-lawsuit-idUKKBN2BA04S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BA04S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BA04S"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
+      name: Reuters
+      domain: reuters.com
+    quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJ2UUZEIEMI6XP67JU3NVOB2NU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555316907&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H02R"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – as it happened"
-    excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh, Joan E Greve and Martin Belam Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget proposal in the coming ..."
-    publishedDateTime: 2021-03-24T00:16:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates?page=with:block-605a3ad78f08e6550a17010e"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/23/joe-biden-infrasturcture-bill-covid-coronavirus-vaccine-live-updates"
+  - title: "Biden administration says $122 billion of COVID relief will go to schools: \"This spring, we want our students back in school\""
+    excerpt: "The Biden administration is ramping up efforts to support schools reopening, announcing Wednesday that schools will receive $122 billion in COVID-19 relief funding. \"My priority right now is to safely reopen as many schools right now,"
+    publishedDateTime: 2021-03-17T21:23:00Z
+    webUrl: "https://www.cbsnews.com/news/jen-psaki-miguel-cardona-white-house-briefing-press-conference-live-stream-today-2021-03-17/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jen-psaki-miguel-cardona-white-house-briefing-press-conference-live-stream-today-2021-03-17/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jen-psaki-miguel-cardona-white-house-briefing-press-conference-live-stream-today-2021-03-17/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 115
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
     images:
-      - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/17/c21930ce-b819-4df5-966d-40c459597957/thumbnail/1200x630/716189a7fc4eb05e0e487e02e595a19c/cbsn-fusion-education-secretary-miguel-cardona-students-in-school-thumbnail-671036-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Path from Clinton to Biden takes U-turn on debt, trade, more"
+    excerpt: "When Bill Clinton spoke of how to build a bridge to the 21st century, it was to be constructed with balanced budgets, welfare recipients who found jobs and expanded global trade. Three decades later,"
+    publishedDateTime: 2021-03-28T11:57:00Z
+    webUrl: "https://www.michigansthumb.com/news/article/Path-from-Clinton-to-Biden-takes-U-turn-on-debt-16058878.php"
+    ampWebUrl: "https://www.michigansthumb.com/news/amp/Path-from-Clinton-to-Biden-takes-U-turn-on-debt-16058878.php"
+    cdnAmpWebUrl: "https://www-michigansthumb-com.cdn.ampproject.org/c/s/www.michigansthumb.com/news/amp/Path-from-Clinton-to-Biden-takes-U-turn-on-debt-16058878.php"
+    type: article
+    provider:
+      name: Huron Daily Tribune
+      domain: michigansthumb.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
-        height: 360
+        height: 336
         isCached: true
-  - title: "Psaki: Biden doesn't regret calling Putin a killer"
-    excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
-    publishedDateTime: 2021-03-18T19:14:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
+  - title: "Biden economic plan to focus 1st on infrastructure this week"
+    excerpt: "WASHINGTON (AP) — President Joe Biden will lay out the first part of his multitrillion-dollar economic recovery package this week, focusing on rebuilding roads, bridges and other infrastructure, followed by a separate plan later in April addressing child ..."
+    publishedDateTime: 2021-03-28T17:32:00Z
+    webUrl: "https://www.theintelligencer.com/news/article/Biden-economic-plan-to-focus-1st-on-16059241.php"
+    ampWebUrl: "https://www.theintelligencer.com/news/amp/Biden-economic-plan-to-focus-1st-on-16059241.php"
+    cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Biden-economic-plan-to-focus-1st-on-16059241.php"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Edwardsville Intelligencer
+      domain: theintelligencer.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "After years of Trump tweets, Republicans are suddenly outraged by mean tweets"
-    excerpt: "After spending years defending President Donald Trump’s at times racist and conspiratorial tweets, Senate Republicans are now criticizing Biden administration nominees for their tweets."
-    publishedDateTime: 2021-03-18T20:33:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/after-years-of-trump-tweets-republicans-are-suddenly-outraged-by-mean-tweets/2021/03/18/207bdfd4-ff5e-4772-8281-cfe9ec54ccb3_video.html"
+  - title: "Biden economic plan to focus on infrastructure this week"
+    excerpt: "President Biden will lay out the first part of his $1.9T recovery package this week, focusing on rebuilding roads, bridges and other infrastructure"
+    publishedDateTime: 2021-03-29T00:48:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/03/28/biden-economic-plan-focus-infrastructure-week/115648752/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/115648752"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/115648752"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-18-2021/t_d3ee9fc30cbc4c7ab0dc1fd590e6c9f7_name_20210317_GOP_TWEETS_V4.png&w=1080"
-        width: 1080
-        height: 608
+      - url: "https://www.gannett-cdn.com/presto/2021/03/29/PDTN/29340395-4fc3-4270-94ee-0eec04890769-AP21085109957898.jpeg?auto=webp&crop=2542,1430,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump Slams Biden's US-Mexico Border Control: 'A National Disaster'"
-    excerpt: "Donald Trump on Sunday slammed President Joe Biden over his response to the influx of migrants at the southern border, calling it a “national disaster.” In his fiery statement"
-    publishedDateTime: 2021-03-22T03:11:00Z
-    webUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612"
-    ampWebUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
+  - title: "Inside Joe Biden's different kind of stimulus plan: A big-bucks job for a key senator's wife"
+    excerpt: "President Biden intends to appoint the wife of the Senate’s top swing vote, West Virginia Democrat Joe Manchin III, to a plum federal position that pays upwards of $160,000 annually."
+    publishedDateTime: 2021-03-27T16:08:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/27/joe-bidens-different-kind-stimulus-plan-big-bucks-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/27/joe-bidens-different-kind-stimulus-plan-big-bucks-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/27/joe-bidens-different-kind-stimulus-plan-big-bucks-/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 90
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 64
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
-        width: 1024
-        height: 682
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/25/Biden_13661.jpg-5132c_c0-226-5432-3394_s1200x700.jpg?d164df303dea178910c03125d2692e585fbb1280"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "Watch: Trump Uses Wedding Speech To Attack Biden; Asks Crowd 'Do You Miss Me?'"
-    excerpt: "... The wedding reception took place at Trump's Mar-a-Lago golf resort in Florida The former president repeated false claims about widespread fraud during the 2020 election Former President Donald Trump on Saturday used a wedding speech at his Mar-A-Lago ..."
-    publishedDateTime: 2021-03-29T03:59:00Z
-    webUrl: "https://www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820"
-    ampWebUrl: "https://www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/watch-trump-uses-wedding-speech-attack-biden-asks-crowd-do-you-miss-me-3170820?amp=1"
+  - title: "WATCH: President Joe Biden holds his first formal press conference"
+    excerpt: "President Biden answered questions from White House reporters at 12:15 p.m., Thursday March 25. Watch a live stream here."
+    publishedDateTime: 2021-03-27T12:24:00Z
+    webUrl: "https://www.mitchellrepublic.com/news/nation/6953038-LIVE-President-Joe-Biden-holds-his-first-formal-press-conference"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
+      name: Mitchell Daily Republic
+      domain: mitchellrepublic.com
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-        width: 1024
-        height: 731
+      - url: "https://www.fccnn.com/incoming/6953062-5cod1q-President-Biden-returns-to-the-podium-for-his-mask-after-signing-an-Equal-Pay-Day-for-women-proclamation-at-the-White-House-in-Washington/alternates/BASE_LANDSCAPE/President%20Biden%20returns%20to%20the%20podium%20for%20his%20mask%20after%20signing%20an%20Equal%20Pay%20Day%20for%20women%20proclamation%20at%20the%20White%20House%20in%20Washington"
+        width: 1140
+        height: 712
         isCached: true
-  - title: "Former Trump Staffer Calls Out Ex-President For False Depiction Of Capitol Riots, 'People Were Killed'"
-    excerpt: "The former chief of staff is calling out the ex-president after spreading false claims about the Jan. 6 riots."
-    publishedDateTime: 2021-03-28T15:02:00Z
-    webUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564"
-    ampWebUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
+  - title: "North Korea snaps back at Biden over criticism of launches"
+    excerpt: "SEOUL, South Korea — North Korea on Saturday snapped back at President Joe Biden's criticism of its ballistic missile tests, calling his comments a provocation and encroachment on the North's right to self-defense and vowing to continuously expand its ..."
+    publishedDateTime: 2021-03-28T05:00:00Z
+    webUrl: "https://www.decaturdaily.com/news/other_news/international/north-korea-snaps-back-at-biden-over-criticism-of-launches/article_789b6c35-3496-59ec-90fd-28e9a5673862.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
+      name: Decatur Daily
+      domain: decaturdaily.com
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/28/gettyimages-1192141132.jpg"
-        width: 1024
-        height: 678
-        isCached: true
-  - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
-    excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
-    publishedDateTime: 2021-03-27T00:59:00Z
-    webUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/"
-    ampWebUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 53
-    images:
-      - url: "https://thumbnails.texastribune.org/-mWa9Z9pNCv1H7M3mGZ0k5UJXE8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/72457b5f083d35a5cc2fb98be9f57954/Migrants%20RGV%20REUTERS%20TT.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/custom/image/fc789116-dbde-11e5-a5bf-7b346753e730.jpg"
         width: 1200
         height: 630
         isCached: true

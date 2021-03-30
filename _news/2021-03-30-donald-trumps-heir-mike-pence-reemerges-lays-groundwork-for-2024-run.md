@@ -153,6 +153,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Trump Family Clamor to Define Donald's Divisive Legacy"
+    excerpt: "For all his detractors, former President Donald Trump has also inspired staunch defenders throughout his political career. And the strongest advocates in Trump's campaigns and presidency were closest to home: Him and his immediate family. Post-White House ..."
+    publishedDateTime: 2021-03-30T13:43:00Z
+    webUrl: "https://www.newsweek.com/trump-family-donald-legacy-1579702"
+    ampWebUrl: "https://www.newsweek.com/trump-family-donald-legacy-1579702?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-family-donald-legacy-1579702?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1766812/donald-trump-boards-marine-one.jpg"
+        width: 2500
+        height: 1566
+        isCached: true
   - title: "Rick Scott Asked Trump to Not Get Involved in 2022 Races Until Candidates Win Primaries"
     excerpt: "U.S. Senator Rick Scott, a Florida Republican who heads the GOP's Senate fundraising arm, wants former President Donald Trump's help in the 2022 election, but he's asking him to hold off a bit. \"I think he wants to win, so I think he's going to work with ..."
     publishedDateTime: 2021-03-23T21:42:00Z
@@ -182,6 +198,22 @@ related:
     quality: 90
     images:
       - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/03/pence.jpg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump’s heir? Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "Pence’s allies see him as the natural Trump heir, someone who can keep his base engaged while winning back suburban voters who left the party in droves during the Trump era."
+    publishedDateTime: 2021-03-30T19:06:00Z
+    webUrl: "https://www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    type: article
+    provider:
+      name: WPRI 12
+      domain: wpri.com
+    quality: 90
+    images:
+      - url: "https://www.wpri.com/wp-content/uploads/sites/23/2021/03/pence.jpg?w=1280"
         width: 1024
         height: 683
         isCached: true
@@ -345,20 +377,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Trump's heir? Pence reemerges, lays groundwork for 2024 run"
-    excerpt: "WASHINGTON • When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron"
-    publishedDateTime: 2021-03-30T19:32:00Z
-    webUrl: "https://www.djournal.com/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/article_1334214e-587e-5fb5-8482-eea6a51c99c0.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 70
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/5c/95c9e354-e673-5445-8fd7-8911b7f2e18c/60637d670543d.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Mike Pence is laying the groundwork for 2024 presidential run"
     excerpt: "For someone who built a reputation as one of Trump's most steadfast supporters, Pence is now viewed with suspicion among many Republicans."
     publishedDateTime: 2021-03-30T09:34:00Z
@@ -374,6 +392,6 @@ related:
         height: 683
         isCached: true
 
-secured: "iv+iuSzMVUlF/AA384T0rp6wyn726OfTRDNKMSYUWcbXKlbL223UrfrrVIhiLQfgGOA2PbvWsoKmS0o7AFvjDwk44hwxsmXuLX22dgsCO7MHAr553Z6rGPIvUwNm758aYIQ/WA0vCDka25gKaEjFmhDG+KL+r6r5LOqjHbr5Aqp3UJmvGwa2qQgO/ci8C4r3NledKk4gSngcEJzGJ8gx3cOqwdyrpV30K8PpxqnsajUrqGRA8e1+BL2F/IDaV59oJLQaljL56xHX88YREIMrglWuglq285rlJjO89J6vyOOQbVBYmxO25mAdEL4V9Kup/PhJT/DdsrvAYnZC2tA3FfmXth5F5aZ3gYA5u5MM8CE=;mGx4Ctj1X7DVCW2cJTOSQg=="
+secured: "Kw48lY2DvkhXN1Q9ovPOZDIkT0jvNpbnFwXAHz2R0D2zoXXA++byjd1EwPp85Q4BVGqNhaycUlFRkgO5Uv0FiuCFkgk5UBmKqQGZtTTY0LB/JtEovQHyyUdD+hRoOHwzRcp38x/r2MlHgwSfyFPFIG8KBz2nZWWJiGI2cqPcpToTXy94mIs1vHa2thVkcGLYpbsUusu6f4CVHU2MT6jF7S558A/rT7Ys7b8u/8jstpLjK1BpKUxS5aJKHcD6err5ECAA0KX4e6h+1KH2/OORdt9v8cTpg+jRxNR4zYymDMDELa6Afeo/nUta42V+bta3LOnavIlH/HMwVgqRofsK0Vso1xJCSlxPqn/nA1kateb9j+BXou0UO9Dsp5uQ0uNMKWaTAN8IjjNKmfVTzKeDAS2mz0QYRTF6ydkpvJJe5hk4r704jZxDQkyuQUjP4PB1OuLy9JcC58Co8ZEffHUrM27+pfuvq31qRflO8NM6yrn6M/6ym4jBN5ARobKWsvfsP1JRPZuODw55014GyxDTqw==;DbNIzyqlpu5/uA4XGNxAsg=="
 ---
 

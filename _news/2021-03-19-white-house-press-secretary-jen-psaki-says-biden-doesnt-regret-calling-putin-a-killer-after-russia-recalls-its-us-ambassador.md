@@ -175,6 +175,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden under pressure over children crossing US-Mexico border – live"
+    excerpt: "Biden tells reports he will visit border ‘at some point’ as Mayorkas defends administration record"
+    publishedDateTime: 2021-03-22T13:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates?page=with:block-6058a1598f0824e5cc4fce39"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/65901ba675efc8d5e99ceb04cf1d52f68988985a/0_398_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9cfb0f78ea12ea23fd7e0fc973ffafd"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Russia criticizes US refusal to hold quick Putin-Biden call"
     excerpt: "The Russian Foreign Ministry says Washington rejected President Vladimir Putin’s offer to arrange a quick public call with U.S. President Joe Biden to help defuse tensions raised by Biden’s recent rem"
     publishedDateTime: 2021-03-22T14:16:00Z
@@ -355,6 +371,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Psaki: Biden doesn't regret calling Putin a killer"
+    excerpt: "White House press secretary Jen Psaki said Thursday President Joe Biden did not regret referring to Russian President Vladimir Putin as a killer in a television interview and pushed back against suggestions that the rhetoric was unhelpful."
+    publishedDateTime: 2021-03-18T19:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/18/psaki-biden-doesnt-regret-calling-putin-killer/4753658001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d5e1fc4a-9091-4bf5-bfd3-16b8dc9ea93c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "KabJ9egztRhCJRa8o83KUDAF76AMnVP9gVhs5WJjK7TnUCpGZxNc/+SMU0qVTCBtORtndRTQmwGEKUvU6c1A7eXGRW94CRoWcZRlfhQDxgA99LBBqmbZtxTofhILuA9X4wfu4LccxxmtyeT5kH1EGITAZ2sECcWq+MjYDQgozj5I1HL8r0PTiJQX7N/WpdrtvEap4UtMzzXAFkq8rY7c2J+UZ3BNKu+jkDPUIkZWMnl7RCtHbKnSNfiOVUrDyRCf5iifxFOqAyM6y+DSBeBfBuRX9nUdGmcbG736F8IrkvIGnb4ktzFpIpfCK7KmCZhJ7CKKFXf9iL5BkrJtQDGeaZDHHQhrcVFbsjViL/O4w10=;jX0AyOra9ANXZzYGh/ZCag=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-tr
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f951585d-1e2c-4820-b736-c3d5188c7fff/9c37fc46-b54b-4522-a271-887cac9b5adf/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Critics Who Called Vaccine Timetable Reckless Now Say It's Reckless NOT to Take the Vaccine"
+    excerpt: "Dr. Anthony Fauci wants former President Donald Trump to tell his supporters to take the COVID-19 vaccine. It is true that a March 2021 NPR/PBS"
+    publishedDateTime: 2021-03-25T10:25:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 72
+    images:
+      - url: "https://assets.realclear.com/images/53/538668_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "PMDEwpMFMduEI1hk5dQ+xttM7FnxNBXzKihesMAqc8xJ0m5GILEv+6XN9mjQF1UWTJopR0aCrb5c+DKEZLverxgo65/aqiJLwetI6DQkWbxUepxTBIi3u1uVsGQol7LUVk/BdJEO0EMqZGjKjl9RlvTspCvdOc2oRbhDayxzW7o2kIhx0ylsHSlcJoyEk9u3mVjeJKIBRiGE4Co3zukaA51lpR7cQSX1d2EgAP12CuW0dD7jlb805++1Wfqhws57KPbrVfKD1X1sqbvfxiT2GMBc5HLQarXc1Sclj5HT79yTpqdFg5JTvDux7L7Q7fszJPE1Vzu/EKSLf0E+kB5rpf2DNz667mTx/6SVd6Np6SltEOJcp9kdRsRKMu2ORgs1vMGnz5YnzYXvU367MWU0C8jkgL+l8cJAe/bgZNuZMtK195SyjstO+UHqjQqXq+fSoKfjS+cUP2kWFzCiF30RKnFhJVKAbnMSOFz8SkzB4k/t6Gu11O6wNHC3XtzjgmYQU3UdpeQij9rLMYNgjqJQgg==;xb35m/T8TTINrAlY/8T4qA=="

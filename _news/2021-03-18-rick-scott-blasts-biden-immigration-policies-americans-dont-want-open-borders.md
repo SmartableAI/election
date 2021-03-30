@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rick-scott-biden-americans-open-bor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-biden-americans-open-borders-immigration-crisis.amp"
 type: article
 quality: 170
-heat: 350
+heat: 330
 published: true
 
 provider:
@@ -140,20 +140,6 @@ related:
     quality: 157
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/48d5462d-00b3-4005-99b4-497dbde05f0c/9fd5a85e-a24f-4b21-9fe7-faa49ef12b3b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House Republicans urge Biden to allow media access to border ops amid 'out of control' crisis"
-    excerpt: "EXCLUSIVE: More than 20 House Republicans on Thursday wrote to President Biden urging his administration to stop blocking media access to border facilities amid what they described as an \"out of control\" crisis at the border."
-    publishedDateTime: 2021-03-25T19:09:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mcy1UJGJGtk/house-republicans-biden-media-access-border-facilities"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/795dc737-b1c2-46a7-a833-80bc04f0d8b1/b7365531-e3e7-403e-b1ed-2ebfb455bd6c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

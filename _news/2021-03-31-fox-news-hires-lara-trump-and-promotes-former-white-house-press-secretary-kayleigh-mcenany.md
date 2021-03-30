@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-m
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3?amp"
 type: article
 quality: 115
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 600
     isCached: true
 
-secured: "LX6CaBdSw+HtFzItnkJawHA72gYOTvn6Cv5ZPdD1oBr6qX9qSMD+kopdDZaBHwMohRcXT4PaBQToLO8v3eN8UCyuLojYslE+49HEINuYdcltNJiTvWtj6Abt3J/vVoajRQeakDTWMLMUCQ+WJW2I1sTiGqiOAVDB8tolUkwmcMlmwj7kKMPuxyvNoPmNA7EyTN7ldD5cZN9Q+KqS/U90n/nASPL6W1Cmwza1AIuriJ776Vt6gHIcRb0pqyycAiKo8KmmmsVXY5jX8OGdJ8PWlMMxNcVSEI9cTUZnrl829VimodzjDcC2THY/ILKFlLQWlLS+JH9I4RvqufK2wQlpPNzeueKxIIwUMBKyPjw6GiY=;pXxelfoMrp41zBgYKYxh+g=="
+related:
+  - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
+    excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
+    publishedDateTime: 2021-03-29T21:27:00Z
+    webUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306"
+    ampWebUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 82
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+
+secured: "AebMha/xdyERQ5wF0Fq+9Cb+8owm00u2YYUzl5U7Oskc7RMXnuNLJ/vG4Rlhd98Z1RIGmOwFjX792AEyQsrWdkpE5MGmML7EpS/GZC7Ek6/r/0kaj3CWxPgrkHafpPGw/u4iB6j1t9QfI0t7ETkgbgOEsLYAZG17zyXPjGEfErl/XM+aHvVneWjsk5hsTRtoecGyd9BuSbFRGBThY8EdtJROXhsNV0hYJnPJm0UECBjtgSGAzsWl6rGSXY/sebE7lzW4+IuKGPpPW92Z1fVoxhY6WIOvUms1Bb6qF8uok6MvWSmXraz3RuxGReL2ppwo6ufVr+jAJInheBow0Iew7sfVWy6p7awkfVJ8VlEigYJxxSXF/GsEePNDaPdD25dQ8KMlUkDrWnrNvQTdlJ+rONEpuakiM4lxYyylJUcCrG95AHc2UUvi24mOzXSPd0DgGUlYzLQwksC36j5d+TowWri21vfW2qhxPKOoqNwNcA2fBjRS0mwf9NjKgauxK3/Mz+w8VcZXWrr/UZc70KBtIA==;y23xSYTSwe39cI2Hgxm3NQ=="
 ---
 

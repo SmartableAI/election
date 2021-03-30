@@ -31,69 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump will use 'his own platform’ to return to social media after Twitter ban"
-    excerpt: "Last modified on Sun 21 Mar 2021 13.28 EDT Donald Trump will soon use “his own platform” to return to social media, an adviser said on Sunday, months after the former president was banned from Twitter for inciting the US Capitol riot. 'His new business ..."
-    publishedDateTime: 2021-03-21T16:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform"
+  - title: "Poll: One-third would use a Trump-backed social media platform"
+    excerpt: "One-third of voters said they would use a social media platform that was backed by former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite vaccine ..."
+    publishedDateTime: 2021-03-30T19:27:00Z
+    webUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform"
+    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/b8820e18168688651182ed377b8200453cd4ec97/0_67_3662_2198/master/3662.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddc69c23776ae3fcd0e41fb42a07b4da"
-        width: 600
-        height: 360
+      - url: "https://thehill.com/sites/default/files/trumpdonald_010421getty_trump-va.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Bernie Sanders against Donald Trump Twitter ban: 'Tomorrow it could be somebody else'"
-    excerpt: "It’s Twitter’s turn to feel the bern. Sen. Bernie Sanders is not a fan of Donald Trump, but that doesn’t mean he thinks the former president should have been banned from the social media platform after the deadly Capitol siege. “Look, you have a ..."
-    publishedDateTime: 2021-03-24T21:12:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2021/03/24/twitter-sanders-trump-ban-censorship-capitol-riots/6987757002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6987757002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6987757002"
+  - title: "Rolling back a rollback: Buttigieg deletes some Trump-era limits on regulation"
+    excerpt: "Transportation Secretary Pete Buttigieg moved Wednesday to undo key deregulatory actions by the Trump administration, an overhaul that department officials said was necessary to address challenges that include climate change, racial injustices, the ..."
+    publishedDateTime: 2021-03-24T23:46:00Z
+    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/buttigieg-transportation-regulation/2021/03/24/8bfc8d76-8cb3-11eb-a6bd-0eb91c03305a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/buttigieg-transportation-regulation/2021/03/24/8bfc8d76-8cb3-11eb-a6bd-0eb91c03305a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/buttigieg-transportation-regulation/2021/03/24/8bfc8d76-8cb3-11eb-a6bd-0eb91c03305a_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/06/USAT/30617d1d-f2bd-4d56-8edf-9bb23a12437d-bernie_sanders.jpg?auto=webp&crop=3725,2096,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IFSSTYTH3II6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 1086
         isCached: true
-  - title: "Donald Trump's Social Media Platform Will 'Suck' Proud Boys Say in Message Shared by Gab"
-    excerpt: "Far-right social media account TheWesternChauvinist, which is linked to the Proud Boys hate group, has said Donald Trump's planned social media network \"is going to suck,\" and competing network Gab has shared the message. Jason Miller, an adviser and ..."
-    publishedDateTime: 2021-03-22T11:36:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-social-media-network-suck-proud-boys-gab-1577719?amp=1"
+  - title: "Donald Trump's Team Sought Stake in Gab But Was Rejected, CEO Andrew Torba Claims"
+    excerpt: "The CEO of social media site Gab has claimed he rejected a proposal in January to have former president Donald Trump on the platform. Andrew Torba, who founded the service in 2016, said that representatives of the former president's senior adviser and son ..."
+    publishedDateTime: 2021-03-24T10:36:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 116
+    quality: 120
     images:
-      - url: "https://d.newsweek.com/en/full/1760852/donald-trump-speaking.jpg"
+      - url: "https://d.newsweek.com/en/full/1762774/donald-trump-cpac.jpg"
         width: 3000
-        height: 2000
-        isCached: true
-  - title: "'Everybody wants him': Trump to launch social media platform in coming months, aide says"
-    excerpt: "Former President Donald Trump is planning to return to social media with his own social network, according to spokesman Jason Miller. \"I do think that we're going to see President Trump returning to social media, probably in about two or three months here ..."
-    publishedDateTime: 2021-03-21T19:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/21/trump-launch-social-media-platform-coming-months-aide-says/4791721001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4791721001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4791721001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/3b00c057-9a08-4f94-97fd-87a281d4baf3-AP_Trump-Social_Media_Bans.jpg?auto=webp&crop=4089,2301,x0,y208&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+        height: 2147
         isCached: true
   - title: "Donald Trump Gearing Up For Social Media Return With Own Platform"
     excerpt: "After months of being banned from social media sites, he's decided to launch his own site in the next few months."
@@ -111,22 +95,6 @@ related:
         width: 1024
         height: 700
         isCached: true
-  - title: "Bernie Sanders Uncomfortable With Trump's Ban On Twitter: 'It's An Issue'"
-    excerpt: "Sanders opens up about his beliefs and opinions on the first amendment and the permanent ban of former President Trump on social media platforms."
-    publishedDateTime: 2021-03-24T17:07:00Z
-    webUrl: "https://www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442"
-    ampWebUrl: "https://www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bernie-sanders-uncomfortable-trumps-ban-twitter-its-issue-3168442?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/09/senator-bernie-sanders-has-voiced-strong-support-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Trump To Launch Own Social Media Platform: Ex-aide"
     excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
     publishedDateTime: 2021-03-21T19:35:00Z
@@ -138,6 +106,20 @@ related:
     quality: 55
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/21/donald-trump-appears-to-be-planning-a-return.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "News Media Seeing 'Post-Trump Slump' As Passions Cool"
+    excerpt: "The so-called \"Trump bump\" which boosted viewers and subscriptions at outlets such as CNN and the New York Times now appears to have turned into a slump following the departure of Donald Trump from the presidency. At CNN -- which was at loggerheads with ..."
+    publishedDateTime: 2021-03-24T01:15:00Z
+    webUrl: "https://www.ibtimes.com/news-media-seeing-post-trump-slump-passions-cool-3167936"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/23/some-news-outlets-like-cnn-have-seen-dramatic.jpg"
         width: 1024
         height: 682
         isCached: true

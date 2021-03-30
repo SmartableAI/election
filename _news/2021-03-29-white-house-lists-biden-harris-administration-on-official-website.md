@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-lists-biden-harris-admi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
 type: article
 quality: 200
-heat: 640
+heat: 680
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Psaki explains ‘Biden-Harris administration’ branding meant to emphasize VP’s 'important role'"
+    excerpt: "Press secretary Jen Psaki said the current White House website refers to the \"Biden-Harris\" administration to underscore the vice president’s \"important role.\" "
+    publishedDateTime: 2021-03-30T20:31:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R7MOPFPGGdA/psaki-biden-harris-administration-branding-emphasize-vps-important-role"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-harris-administration-branding-emphasize-vps-important-role.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-harris-administration-branding-emphasize-vps-important-role.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Harris-Administration.png?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Nikki Haley hits Kamala Harris over past comparison of ICE to KKK"
     excerpt: "Former U.N. Ambassador Nikki Haley on Friday took aim at Vice President Kamala Harris, saying that she can’t be trusted to deal with the border crisis, citing a 2018 comparison the then-senator made between Immigration and Customs Enforcement (ICE) and the Ku Klux Klan."
@@ -143,6 +159,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21080583251227-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden's dog Major bites another White House employee"
+    excerpt: "President Biden’s dog Major on Monday afternoon bit another employee, who then required medical attention."
+    publishedDateTime: 2021-03-30T20:56:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnHspLYEgKc/bidens-dog-major-bites-white-house-employee"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-dog-major-bites-white-house-employee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-dog-major-bites-white-house-employee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1232008114.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
     excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."

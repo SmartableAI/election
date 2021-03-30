@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "After years of Trump tweets, Republicans are suddenly outraged by mean tweets"
+    excerpt: "After spending years defending President Donald Trump’s at times racist and conspiratorial tweets, Senate Republicans are now criticizing Biden administration nominees for their tweets."
+    publishedDateTime: 2021-03-18T20:33:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/after-years-of-trump-tweets-republicans-are-suddenly-outraged-by-mean-tweets/2021/03/18/207bdfd4-ff5e-4772-8281-cfe9ec54ccb3_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-18-2021/t_d3ee9fc30cbc4c7ab0dc1fd590e6c9f7_name_20210317_GOP_TWEETS_V4.png&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Wyoming election changes pushed by Donald Trump Jr. fail"
     excerpt: "Trump Jr. called for Cheney’s defeat after she voted to impeach President Donald Trump over the storming of the U.S. Capitol by a mob of his supporters. A primary runoff for Cheney could have consolidated Republican opposition to her re-election."
     publishedDateTime: 2021-03-25T17:08:00Z
