@@ -272,6 +272,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden handed Harris a political grenade. Can she defuse it?"
+    excerpt: "When Joe Biden tapped Kamala Harris to help resolve some of the roots of the current migrant crisis, he was placing her squarely on the third rail of modern national politics. The question of what to do about the flow of migrants overwhelming border ..."
+    publishedDateTime: 2021-03-30T00:50:00Z
+    webUrl: "https://www.politico.com/news/2021/03/29/kamala-harris-border-immigration-478435"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/29/kamala-harris-border-immigration-478435"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/29/kamala-harris-border-immigration-478435"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 160
+    images:
+      - url: "https://static.politico.com/e9/dd/76a3a6424d92803c5b57d18068aa/210329-harris-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Joe Biden's legislative priorities: Gun control and five other issues fight to move forward in Congress"
     excerpt: "In the opening months of Joe Biden's presidency, Congress' job was crystal clear: Pass a relief bill and get it signed into law.\n    \n"
     publishedDateTime: 2021-03-23T15:40:13Z

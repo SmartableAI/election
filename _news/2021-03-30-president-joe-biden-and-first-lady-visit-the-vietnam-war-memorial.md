@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden and First Lady Visit the Vietnam War Memorial"
-excerpt: "A staff member walks Major, the dog of U.S. President Joe Biden and First Lady Dr. Jill Biden, on the South Lawn of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI Sign up for our daily newsletter"
+excerpt: "U.S. President Joe Biden etches the name of Vietnam Veteran Dennis F. Shine at the Vietnam War Memorial in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI Sign up for our daily newsletter"
 publishedDateTime: 2021-03-29T22:14:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/3c79c99a189edd5f6ae54ec83fb89aa4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/3c79c99a189edd5f6ae54ec83fb89aa4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/422fa2c1f24551ea6538505da6abe3f7/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/422fa2c1f24551ea6538505da6abe3f7/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/3c79c99a189edd5f6ae54ec83fb89aa4/BIDEN-WAR-MEMORIAL.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/422fa2c1f24551ea6538505da6abe3f7/BIDEN-WAR-MEMORIAL.jpg"
     width: 650
-    height: 433
+    height: 812
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ctyKLgvaDdXw/PchzetIlAr/foQmGf7SAPmMkTRtYVX09XWx1ES/JE106m8JLKBVZiPlLB/m1c6ELrUFk+clLi0E7j+0G6Rf+pFzoY8M22ka1tmz0ciUD2YDCOdZWisIWdMk7+RMhSsO6ECnJp4mzJnH/iur4ZZ9S3N9Yksvq9Y6B6D8cp6Tf8EM+1Fv+Q7gdkPGeZvZUNc6f/4ZC1Jf9T2hRU6oYC9q1/Ei9FV1pj3KRG50+iCNwU749ls3iMgA1LTg9xr1Y9sqOm3BeWM9sYg2HgJDt8nXwNK8t/cevJPqwVgjE29zj9aJkxAlTGCXfVW1rp3N07JPKNV+b9NIJ1lZ23Inus5v/qTSrzCr8vk=;tM8Plo+0RPVvjzD/H6H4vA=="
+secured: "/i542CHXopx+/FkTNAzu9HaL5DcaZ5MiC8sF+swq+Wn72kkkuIoH1GU49nSFC8AadRvTtk4Vxbipdu9uAeuViKj8MCmywLQE/d5xLqiZdVs+JVUODqkmttUIvVnTAEn2l3JgJlktVPWl5XBOWpUF71fRmYBEcaXVFkg+6Uoe2VxQeEN9FnEISZM93BDKWLyCmq4IZbH9oXCX7rauGm5TCCraptrcJ3TMxsKG6991ykgtlzc5fHJ8oRY+n5YZoM+jJj7jJcQwbTHhKhEJWqxnoTNtNTuyaUQTnDTRJDdaqohergZkojSgM2wRFT1XDOx2m3lX6QrjC2JMKe3ZwhJb5aR30TZ3SQRp9QNVqP6Ksq8=;WObUEOVKmWkGmTDhdwCydA=="
 ---
 

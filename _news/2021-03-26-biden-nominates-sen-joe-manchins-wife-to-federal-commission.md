@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/mike-braun2-thumb.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden marks National Vietnam War Veterans Day with impromptu visit to war memorial"
+    excerpt: "President Joe Biden made an impromptu visit to the Vietnam Veterans Memorial late Monday afternoon in Washington to pay tribute to National Vietnam War Veterans Day."
+    publishedDateTime: 2021-03-30T00:08:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6XblY-XvExg/biden-arrived-to-vietnam-veterans-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-arrived-to-vietnam-veterans-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-arrived-to-vietnam-veterans-memorial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting"
     excerpt: "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice."

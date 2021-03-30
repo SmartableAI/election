@@ -271,6 +271,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden handed Harris a political grenade. Can she defuse it?"
+    excerpt: "When Joe Biden tapped Kamala Harris to help resolve some of the roots of the current migrant crisis, he was placing her squarely on the third rail of modern national politics. The question of what to do about the flow of migrants overwhelming border ..."
+    publishedDateTime: 2021-03-30T00:50:00Z
+    webUrl: "https://www.politico.com/news/2021/03/29/kamala-harris-border-immigration-478435"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/29/kamala-harris-border-immigration-478435"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/29/kamala-harris-border-immigration-478435"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 160
+    images:
+      - url: "https://static.politico.com/e9/dd/76a3a6424d92803c5b57d18068aa/210329-harris-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Joe Biden and Kamala Harris plan to visit with Asian-American leaders in Atlanta."
     excerpt: "President Biden and Vice President Kamala Harris at the White House last week. They plan to travel to Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris will meet in Atlanta on Friday with community ..."
     publishedDateTime: 2021-03-18T14:40:00Z
