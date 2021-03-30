@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "White house says Biden does not intend to meet with North Korea's Kim"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday. Asked if Biden’s diplomatic approach to North Korea would include “sitting with President Kim Jong Un” as ..."
+    excerpt: "U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday."
     publishedDateTime: 2021-03-29T16:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-northkorea-biden-idUSKBN2BL2GU"
+    webUrl: "https://www.reuters.com/article/us-usa-northkorea-biden/white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim-idUSKBN2BL2GU"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL2GU"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2GU"
     type: article
@@ -86,6 +86,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f626a6e0-bb31-4516-999a-a00cd6e13644_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "White House: Biden watching Floyd trial 'closely'"
+    excerpt: "White House Press Secretary Jen Psaki says President Joe Biden is \"closely\" watching the George Floyd murder trial in Minneapolis. She also said the U.S. government is currently reviewing the WHO report on the origin of the virus in China."
+    publishedDateTime: 2021-03-29T20:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/29/white-house-biden-watching-floyd-trial-closely/7052900002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5344f306-8284-475b-bb7d-0961bd06a008_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

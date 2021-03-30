@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
-      "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
-      "excerpt": "WASHINGTON (AP) — When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov. Ron DeSantis and Sens. Josh Hawley and Ted Cruz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php",
-      "originalUrl": "https://www.chron.com/news/article/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php",
-      "publishedDateTime": "2021-03-29T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-trump-will-be-back-in-office-mypillow-ceo-reveals-plan-for-white-house-return.md",
       "title": "Trump 'Will Be Back In Office': MyPillow CEO Reveals Plan For White House Return",
       "excerpt": "Donald Trump will be president again by August, according to a projection made by MyPillow CEO Mike Lindell. The MAGA-supporting pillow maker was on former Trump adviser Steve Bannon’s “War Room: Pandemic” podcast when he made the eyebrow-raising prediction “Donald Trump will be back in office in August,",
@@ -760,6 +716,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-trump-says-china-laughs-at-the-us-for-woke-politics.md",
+      "title": "Trump Says China Laughs At The US For 'Woke' Politics",
+      "excerpt": "The former president shared his thoughts and opinions on the Biden administration, as well as what he believes other countries think of the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134",
+      "originalUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg",
+          "width": 1024,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1",
+      "publishedDateTime": "2021-03-22T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {

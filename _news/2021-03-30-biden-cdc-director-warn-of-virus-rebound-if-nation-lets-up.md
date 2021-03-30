@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Biden, CDC director warn of virus rebound if nation lets up"
-excerpt: "President Joe Biden and CDC Director Dr. Rochelle Walensky are making impassioned pleas to Americans not to let their guard down in the fight against COVID-19"
-publishedDateTime: 2021-03-30T04:06:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+excerpt: "President Joe Biden and CDC Director Dr. Rochelle Walensky are making impassioned pleas to Americans not to let their guard down in the fight against COVID-19 WASHINGTON -- President Joe Biden and ..."
+publishedDateTime: 2021-03-30T04:05:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/biden-cdc-director-warn-virus-rebound-nation-lets-76762180"
+webUrl: "https://abcnews.go.com/Health/wireStory/biden-cdc-director-warn-virus-rebound-nation-lets-76762180"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-cdc-director-warn-virus-rebound-nation-lets-76762180"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-cdc-director-warn-virus-rebound-nation-lets-76762180"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Health/WireAP_6e4a080bf0e244bd9862497a110fef89_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -860,6 +860,6 @@ related:
         height: 604
         isCached: true
 
-secured: "eJ2w6m2R9lXsvCvtNJT/ABrQzX55nXgMnyJadkwaLW1huLaP7FINrqMB97UInwNy/SsRTbUv2p2p2Dd6MMRRiWBor8feEu3mmovRHEdX1ZCHhRXhoj8ozZDTGgaiZyCjDmmpkgbTw5xUSYOcqwuPA3TgBvNqAbpAk+MW8lQGLDE+wsCLiPmED1YozSEeeHWfKLVT25Hw7GT7KjlQZWKz4eLVrfefffxHr3L7YJ7kJKPId/HD5LsxKW8rs9Owx3Muh7lDCBwidJoZgJnPmRlVZ4Lc6lIKLg8Ngqx8JtsxnqZYhEL0fyQ4U5GZRS1anFyxK/ErfDDdaX4nRDYn3Yer8wuR0zEsElkWEdpP0n0P9Hk=;3+Yj9RH2c79egx5KwUwFsw=="
+secured: "hcoDHSlj0E5K2eIhU6kXI2HkmQK70VFDB3+XVT99+sIT1ewkpxa39evSWY5Ui8+f0k7yF8upi/pR0tsbgb33zlUgkTpKQ7fGjy+72JdDONnn5wLGtWEA2vMlPCB5k9GaW+vsSQsxcniNmgLEALed39PrpB8QhmIv/+yRMXiVrqUBOy6dhooU6NOzVP8vkADiAFgQJ4jNnol/+X0oRR8khSplykM6WBN8yzSgaWkgGIViPnmMJfcOL17YrzU4EQ6mQKKMCwgemdKBXVAR2Wj0QpislgwOHuS5MsBbzJH1A/EtcpxmLlR3z116hvfzEDHepnmCdjrCY5SeT/hwKiW+ppo86L2pvIiD8X+d/z3VA/k=;7YSg/hxU2JBvftCvPk0bgA=="
 ---
 

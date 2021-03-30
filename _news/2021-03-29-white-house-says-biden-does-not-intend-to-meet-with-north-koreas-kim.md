@@ -1,15 +1,15 @@
 ---
 category: news
 title: "White house says Biden does not intend to meet with North Korea's Kim"
-excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday. Asked if Biden’s diplomatic approach to North Korea would include “sitting with President Kim Jong Un” as ..."
+excerpt: "U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday."
 publishedDateTime: 2021-03-29T16:35:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-northkorea-biden-idUSKBN2BL2GU"
-webUrl: "https://www.reuters.com/article/us-usa-northkorea-biden-idUSKBN2BL2GU"
+originalUrl: "https://www.reuters.com/article/us-usa-northkorea-biden/white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim-idUSKBN2BL2GU"
+webUrl: "https://www.reuters.com/article/us-usa-northkorea-biden/white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim-idUSKBN2BL2GU"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "White House: Biden watching Floyd trial 'closely'"
+    excerpt: "White House Press Secretary Jen Psaki says President Joe Biden is \"closely\" watching the George Floyd murder trial in Minneapolis. She also said the U.S. government is currently reviewing the WHO report on the origin of the virus in China."
+    publishedDateTime: 2021-03-29T20:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/29/white-house-biden-watching-floyd-trial-closely/7052900002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5344f306-8284-475b-bb7d-0961bd06a008_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "North Korea responds to Biden's criticism of ballistic-missile test, accusing administration of 'gangster-like logic'"
     excerpt: "DOW S&P 500 NASDAQ 100 North Korea on Friday issued a scathing statement in response to President Joe Biden's recent condemnation of North Korea's recent missile tests. North Korea's state media quoted top North Korean military official Ri Pyong Chol ..."
     publishedDateTime: 2021-03-27T00:49:00Z
@@ -90,6 +104,6 @@ related:
         height: 600
         isCached: true
 
-secured: "lNaYOwHQ+M4i6fofV0BGjBsrKEToHwZhxExgtzrkF4yU8Jgf0/wgpTokQtZHoWzIBomasWoikYhaRE0XKRZdcGFSDSeQI1li50YN0QyfzelnLOgGXUGhE53nk8Vow09vNQv8DXSmGl97//PX6mOwV76KEO0x6hXtp9Ste5GuR9ZDWYbC1pQBk8Xw59/4NThx0+rgqgjGse/FBDb4jX2THPLA+TIvhyU3p6BoMKNt33aNWLyJmMBPGSV39G8Mo20v4yzuPeUXpHsBGnJxtuLT5L21K6b7rmFctwFubDuUPXX52amFA4IGrVtz3Dxbuu1jw5MjzmNfpMJkfoeWroPZb1bLgUamjeG6KMazBnxks08=;0ayH6S3JBVaGo+iFesu03g=="
+secured: "oAAzR0mtH8yURLrZKKNN3GQ/FFc8Pfh7IWsZ80HTAqAKQPvbpUIWSt44rCJ83r1Wzf/8bs6NjWrqLTtfMRPzYA1MqCnvdxVTp7heudcJB8u09qptKePwhOExa6SUf91DlL2FQ/tqQFs8v20ioslwlrK1KXyiXYjOrTOM4YWZvqs1OdhhzL61FqD2Aki3gmCqeDw25VDou3CvYTJdNBpun529ISctuv9wgIxeca3FL/AvqgQB64+uR94f2AwdU1q18bSN6dL8NsZudMD86amZcXCstIzJTa5WiCZWtdz+r4GqXCM69lm0G6g4qXYsL26/1Fm5cK+oRXm/81FZt9Pguh5Ab5IYMhlk/Jq8MxrQV9Q=;Xi/lBCE7CFw+4+G+kC/4KA=="
 ---
 

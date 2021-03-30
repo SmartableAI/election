@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Pence to headline benefit dinner at Faulkner University"
-excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University."
-publishedDateTime: 2021-03-30T07:22:00Z
-originalUrl: "https://www.kentucky.com/entertainment/celebrities/article250270800.html"
-webUrl: "https://www.kentucky.com/entertainment/celebrities/article250270800.html"
-ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article250270800.html"
-cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article250270800.html"
+excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur ..."
+publishedDateTime: 2021-03-30T08:07:00Z
+originalUrl: "https://www.theolympian.com/entertainment/celebrities/article250270800.html"
+webUrl: "https://www.theolympian.com/entertainment/celebrities/article250270800.html"
+ampWebUrl: "https://amp.theolympian.com/entertainment/celebrities/article250270800.html"
+cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/entertainment/celebrities/article250270800.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Lexington Herald Leader
-  domain: kentucky.com
+  name: The Olympian
+  domain: theolympian.com
 
 topics:
   - Election
@@ -74,6 +74,6 @@ related:
       domain: miamiherald.com
     quality: 55
 
-secured: "w62XYN/tNMULkfarDgCHBpCYtILeHtf0i3qyRTFmVDFJp6Wg698yl68j8HJVNiy8s/DeY1xU72svdtCbG59c5J+/cmAJX5SHRadCJbjT0CHUYa2plvv86adEs0lM5UrVqumA2fTVb04w0Arj59AlsPjQzYmIIz1oGlXSIQ4BBiizz3bHmk11R01i0T8tVVEqcFrUDzCWZ9i2CnjUjsikAtkIqLI9B8xDaV4bHyktGWQ0l48fnrS/a5cv9FOQofIogGbKcwc0FqM6xtLFQ1jB3oG4tnfKe+DGqwWNDDc6XwlEOdd0Qvx/t2qX6dk48jTMTKIM1XwXhT690zxvZoolNn6oALe56HvR+0bKGCg3W2k=;sAWvzZbUF7pXB5KeseOpWQ=="
+secured: "f/LlmumcMO16mKjsHWLKeCCnud0c+QqlWlSShoI6ZcswTBJXSA7J5hvK4SM9AzcMNgO3FB3kwBmp1+izICcGWA915ubmNQFB+aYubzmcepHjn/9BNCUX3iwiVKl1n/138mIWOpGuHWL4d6hxFZamMWXllL16Lmywa54ELrdcbK1JXwWhI5ht75j/VvTgbabZ8+ugYD1V5i8ceZwO88cczwMQ1AwVMGrVVsRcY2jX/LZezrEodeTDvaOOi5FFtwnFGJHNrdyV/d0Za54wtNSCariRmjngcDcKGDnEkGN9mwUkCbp0A0C9lUMBi1rXT0MMWdJB/O6W35hMsvzxr/HAmQj+/n6s2bHtVrUXOG3tlRQ=;FmWtyll3LyaZdCdn84Xa4g=="
 ---
 

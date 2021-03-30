@@ -1,50 +1,47 @@
 ---
 category: news
-title: "Trump's heir? Pence reemerges, lays groundwork for 2024 run"
-excerpt: "WASHINGTON (AP) — When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov. Ron DeSantis and Sens. Josh Hawley and Ted Cruz."
-publishedDateTime: 2021-03-30T04:11:00Z
-originalUrl: "https://www.chron.com/news/article/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php"
-webUrl: "https://www.chron.com/news/article/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php"
-ampWebUrl: "https://www.chron.com/news/amp/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-heir-Pence-reemerges-lays-groundwork-16062628.php"
+title: "Trump’s heir? Pence reemerges, lays groundwork for 2024 run"
+excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron DeSantis and Sens. Josh"
+publishedDateTime: 2021-03-30T09:47:00Z
+originalUrl: "https://www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html"
+webUrl: "https://www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html"
+ampWebUrl: "https://www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html/amp"
+cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/2374920/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.html/amp"
 type: article
-quality: 100
-heat: 120
+quality: 90
+heat: 110
 published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Albuquerque Journal
+  domain: abqjournal.com
 
 topics:
   - Election
-  - Donald Trump
   - Mike Pence
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2021/03/30/AP-US-Pence-IMG-630x420.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
-  - title: "Trump Says China Laughs At The US For 'Woke' Politics"
-    excerpt: "The former president shared his thoughts and opinions on the Biden administration, as well as what he believes other countries think of the U.S."
-    publishedDateTime: 2021-03-22T21:50:00Z
-    webUrl: "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134"
-    ampWebUrl: "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1"
+  - title: "Mike Pence is laying the groundwork for 2024 presidential run"
+    excerpt: "For someone who built a reputation as one of Trump's most steadfast supporters, Pence is now viewed with suspicion among many Republicans."
+    publishedDateTime: 2021-03-30T09:34:00Z
+    webUrl: "https://bangordailynews.com/2021/03/30/national-politics/mike-pence-is-laying-the-groundwork-for-2024-presidential-run/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/03/Pence.jpg?fit=1024%2C683&#038;ssl=1"
         width: 1024
-        height: 663
+        height: 683
         isCached: true
 
-secured: "vCmpaFN3oHIHdnuyp3uz1P+kxfsBflmo8AIiCF5xDo4+6YJON6v4fyu5HBiEWpn/a0aYx03ZJbfLxY95XSQ7+b4g0hH4edSyG2bPo5w5Iojd0Wvq/arOiI9a/V4R6yE6JOfnkGy7EKFtFSV5F7tz8aUBnE+ToXEsqgnOSdyR5/0gxIuaBbNvrateG9/qgEL+IQl54AUaW6PpAtL3P7gSRIRMx4/u29kx9T+TTowUl7K1V35/hBECzgnPaCTqLHa4139nVkCyqnagfpStnhpGR2x8tJKpAErO8xgdo8nD6aQS4Tsc/iCdNUahLLif49w3mMb77Kybdwukl+VQn16mBEFhbUKvVYxSMR6LAbD8tY0=;V5BT7v45w8/hFvRtC8UdkA=="
+secured: "2B83vGMjdTg9Fbtf4uRcnQFbzz6VzcOas7Ealf+WK77Zv+KHI25t/MGsIbItBGcqC6AjKHa+8aRmt82O+kGB6zlqahX3tO/Z7w4JaFJ90uJVjo0QS25XuU0B+6vz+xnR0F2eCKhHl9CzsKEaXcczUs/kHR5O2d0Q5USQ/oUKWlfkSakCSDC9LuI81X8KqIKp7kCwOfujaPen9M2KGJqIpLEdL47+iHYMn2GfZygiWH6epSnbnFNIWzDIMtA/Uzgzg9gTl2OFZ51jKLzdyC2IPD9s8lH1XB2WtjKGofR1HhFMRNKFwOR2s4oOZWhsy97+DvXM5EeY79uYprZaSXegdkPzSEtePCpRCSAnBU/FvL8=;Lxus10GMdOfF6b8dJd//pw=="
 ---
 

@@ -330,20 +330,20 @@ related:
         height: 551
         isCached: true
   - title: "Biden, CDC director warn of virus rebound if nation lets up"
-    excerpt: "President Joe Biden and CDC Director Dr. Rochelle Walensky are making impassioned pleas to Americans not to let their guard down in the fight against COVID-19"
-    publishedDateTime: 2021-03-30T04:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cdc-director-warn-of-virus-rebound-if-nation-lets-up/2021/03/30/5de56490-910d-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    excerpt: "President Joe Biden and CDC Director Dr. Rochelle Walensky are making impassioned pleas to Americans not to let their guard down in the fight against COVID-19 WASHINGTON -- President Joe Biden and ..."
+    publishedDateTime: 2021-03-30T04:05:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-cdc-director-warn-virus-rebound-nation-lets-76762180"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-cdc-director-warn-virus-rebound-nation-lets-76762180"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-cdc-director-warn-virus-rebound-nation-lets-76762180"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Health/WireAP_6e4a080bf0e244bd9862497a110fef89_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
@@ -856,6 +856,6 @@ related:
         height: 604
         isCached: true
 
-secured: "Px0GlTVik/BFClMFQKBHixIva8qIFWVyHWKeabhQ2xBAnZNILX9v0dU/za8Emj4xiM+/KR0C8ELSX6a09nz+kSP6Vw1PrIJMFTDHohTkACBJtjkirZhZJpAbvUyllHR30NTbESpedz4uxcRG0rMVwuHDatAZid1RvyDD1YLvc32RuEKw3Issm4OkiaXFUhe1GljPXCahuSpJN0Vw27yJnNRmsPFAw72c6Zf99J44o+1rK+9SrWuJLDV1MFdMSox3xJngKE/GZs9MUAJXL1DAr0QJ3WxmDfox/wQB9DfewaimbGF/uZJNF/cg+hXG0E3qhRlAL2U74KdeNEG3cm2HYYiw9cpf4tO9VsX8gJDhVPQ=;uSXBn+RM4EuDdj/OC06kxQ=="
+secured: "GrobOySLjvLIr/teU4OIE+Se5FC0dBc6S6UnZcwNJVXGfZyqGAvy4SDchDQ63uE6ni2DAbw4nrQUmVJ9rNjjhnQc8fYtnW/aO2Kxm/1v8HIa0FuoaPggHQp5vd6itVnZDS4OygglxZO8z+mzyXbeFU3DckXpvuXDFg8ydW9CRwLMSLBPenJnm6wSQhVo/+YbIBOrtJUMyOVTxEbgLJNgbVA7dYgVWzYslVv6aTjLMAEsnetI+wKrwWOL5IaL4tOB2eYColo2OZGl+xLFOaskryxMzBTt6+87GKyD75nFg9cOaJFep1TTZBTFZ7ULlHTD1MmV9lLFGGznkz1GbxSjfCxXZcfNxQ64llznBX8CxuVok7goGgajuBIZMXwD0C5ywAAMIAxzBnGGOzc0R85zUG9y1Nl6h9SWQOeByKiEgCrbKXtcUFCjhLAT1Y9hajVodtr7ZGwluUwGLlRXvdNFBSdM5ShS4EkwiJS1QN/UlmquWASXt31AynuLdHT/t2keiCB6XrTJi6Hnq+W1i6uFAA==;JppcDabDyDQj5/xssifqtg=="
 ---
 

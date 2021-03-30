@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-contro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html"
 type: article
 quality: 200
-heat: 720
+heat: 740
 published: true
 
 provider:
@@ -415,6 +415,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-kamala/17atlanta-shooting-briefing-kamala-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "CALIFORNIA’S RECALL FEVER — HARRIS’ role tested — GOP targets BIDEN nominees with TECH ties — UBER reopens SF office"
+    excerpt: "From Shasta to San Diego, California voters have recall fever. The possible recall of Gov. Gavin Newsom has generated national attention, but it’s only the most prominent example of ouster attempts across the state."
+    publishedDateTime: 2021-03-29T13:13:00Z
+    webUrl: "https://www.politico.com/newsletters/california-playbook/2021/03/29/californias-recall-fever-harris-role-tested-gop-targets-biden-nominees-with-tech-ties-uber-reopens-sf-office-492273"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 117
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Same old Joe: Rebuffing staff who smoked pot fits Biden’s MO"
     excerpt: "Anyone surprised that Joe Biden would scrutinize the weed-smoking habits of his White House staff hasn't paid attention to one of the more consistent policy threads of his decades-long career. He’s just not ready to embrace cannabis. Despite a shift in ..."

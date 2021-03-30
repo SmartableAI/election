@@ -430,6 +430,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "CALIFORNIA’S RECALL FEVER — HARRIS’ role tested — GOP targets BIDEN nominees with TECH ties — UBER reopens SF office"
+    excerpt: "From Shasta to San Diego, California voters have recall fever. The possible recall of Gov. Gavin Newsom has generated national attention, but it’s only the most prominent example of ouster attempts across the state."
+    publishedDateTime: 2021-03-29T13:13:00Z
+    webUrl: "https://www.politico.com/newsletters/california-playbook/2021/03/29/californias-recall-fever-harris-role-tested-gop-targets-biden-nominees-with-tech-ties-uber-reopens-sf-office-492273"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 117
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Man arrested outside Vice President Kamala Harris' official residence and had rifle and ammunition in car"
     excerpt: "(CNN)Washington, DC, police arrested a Texas man outside Vice President Kamala Harris' official residence, the US Naval Observatory, in the nation's capital on Wednesday and he's now facing weapons and ammunition charges. A spokesperson for Washington's ..."
     publishedDateTime: 2021-03-17T22:43:00Z

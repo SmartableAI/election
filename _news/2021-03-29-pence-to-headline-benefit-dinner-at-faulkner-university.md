@@ -63,15 +63,15 @@ related:
         height: 1680
         isCached: true
   - title: "Pence to headline benefit dinner at Faulkner University"
-    excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University."
-    publishedDateTime: 2021-03-30T07:22:00Z
-    webUrl: "https://www.kentucky.com/entertainment/celebrities/article250270800.html"
-    ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article250270800.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article250270800.html"
+    excerpt: "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur ..."
+    publishedDateTime: 2021-03-30T08:07:00Z
+    webUrl: "https://www.theolympian.com/entertainment/celebrities/article250270800.html"
+    ampWebUrl: "https://amp.theolympian.com/entertainment/celebrities/article250270800.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/entertainment/celebrities/article250270800.html"
     type: article
     provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
+      name: The Olympian
+      domain: theolympian.com
     quality: 55
 
 secured: "hrVNLK7Dawlo4+rrUzeEEbHKoKAM+T60snGibTAIGxi+1zCI76yJy8lNTwKYBxTq4U+bqsVxD8d8BlKo/BBPbRCm7rIs8faHlnF0+BQEbnjCybk/MudY1Wa1bqUIxWdTX/CcsPTJTOiWvPSEppVMGtkOodcFrYeDHLlhRrTVAW/QTo2unTbnlR+/Yibf1DF21AvN+TmQMcBrj/wGxvMJIGJkqGHSSPY97LHrGIhVIGNvupDaHFbPbPgwz8ZcBI3JXjLKmZ57Mi/D0EHU4UgBN74BKjhFdHSuV9WfPZP1Slq10jIvY9TsXLvH+xjYn8lUQNFMvobWkM7RW0T5HyxoS0smlaR7u6UmfRp7TbTGJh4=;QDAFCao8EV7AEjvR9v5ziQ=="

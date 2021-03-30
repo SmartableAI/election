@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-26-biden-in-2005-said-nixing-the-filibuster-upsets-the-constitutional-design-and-would-eviscerate-the-senate.md",
+      "title": "Biden in 2005 said nixing the filibuster 'upsets the constitutional design' and would 'eviscerate the Senate'",
+      "excerpt": "Sen. Ben Sasse, R-Neb., spent over an hour on the Senate Wednesday night reading a 2005 speech from President Biden verbatim  where he said eliminating the filibuster would “eviscerate the Senate.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hFYZ77RF_p0/sen-ben-sasse-reads-bidens-filibuster-defense",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hFYZ77RF_p0/sen-ben-sasse-reads-bidens-filibuster-defense",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21036581973148.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-ben-sasse-reads-bidens-filibuster-defense.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ben-sasse-reads-bidens-filibuster-defense.amp",
+      "publishedDateTime": "2021-03-25T17:02:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-trump-quizzed-four-ohio-gop-senate-prospects-at-fundraiser-report.md",
       "title": "Trump quizzed four Ohio GOP Senate prospects at fundraiser: Report",
       "excerpt": "Former President Donald Trump spoke Wednesday night with four GOP candidates running to fill retiring Ohio Sen. Rob Portman’s seat in an intense meeting that one onlooker likened to the “Hunger Games,” according to a report.",
@@ -1319,58 +1375,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-biden-says-100-million-relief-checks-to-be-distributed-by-wednesday.md",
-      "title": "Biden says 100 million relief checks to be distributed by Wednesday",
-      "excerpt": "The Biden administration will have distributed 100 million relief checks by Wednesday as part of a $1.9 trillion coronavirus stimulus package, President Joe Biden said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555951880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1N6",
-          "width": 737,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BF2ZZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2ZZ",
-      "publishedDateTime": "2021-03-23T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
