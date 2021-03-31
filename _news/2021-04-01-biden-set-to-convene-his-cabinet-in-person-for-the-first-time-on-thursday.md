@@ -1,0 +1,150 @@
+---
+category: news
+title: "Biden set to convene his Cabinet in-person for the first time on Thursday"
+excerpt: "(CNN)President Joe Biden is set to convene his Cabinet in-person for the first time Thursday at the White House. The meeting comes one day after he rolls out the first piece of his sweeping infrastructure proposal focused on investments in transportation ..."
+publishedDateTime: 2021-03-31T19:10:00Z
+originalUrl: "https://www.cnn.com/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+webUrl: "https://www.cnn.com/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+type: article
+quality: 134
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Biden says 90% of adults will be vaccine eligible in three weeks"
+    excerpt: "President Joe Biden will announce Monday afternoon that 90% of adults will be eligible to get a coronavirus vaccine within the next three weeks, an administration official told CNN.\n    \n"
+    publishedDateTime: 2021-03-29T19:27:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDkK8xG35qk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Buttigieg says no gas or mileage tax in Biden's infrastructure plan"
+    excerpt: "Transportation Secretary Pete Buttigieg said Monday that neither a gas tax nor a mileage tax would be part of President Joe Biden's sweeping infrastructure plan to be detailed on Wednesday.\n    \n"
+    publishedDateTime: 2021-03-29T22:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JiEMJuGc5Fk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/buttigieg-no-gas-tax-mileage-tax-biden-infrastructure-plan-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/buttigieg-no-gas-tax-mileage-tax-biden-infrastructure-plan-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222162224-pete-buttigieg-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Bidens' dog Major involved in another biting incident"
+    excerpt: "The Bidens' dog Major has been involved in another biting incident that required medical attention, two people with knowledge of the incident tell CNN.\n    \n"
+    publishedDateTime: 2021-03-30T20:34:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iACSbMYFuao/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/major-biden-dog-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/major-biden-dog-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324142609-01-major-biden-0323-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to convene his Cabinet in-person for the first time on Thursday"
+    excerpt: "President Joe Biden is set to convene his Cabinet in-person for the first time Thursday at the White House.\n    \n"
+    publishedDateTime: 2021-03-31T19:09:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VrTFF_y7efA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration not confident Johnson & Johnson will meet 20 million goal by end of month"
+    excerpt: "Officials in President Joe Biden's administration are not confident that Johnson & Johnson will meet its self-imposed deadline to deliver 20 million coronavirus vaccines by the end of March, despite optimistic statements from the company.\n    \n"
+    publishedDateTime: 2021-03-23T01:52:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NIi7skwaHek/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-19-vaccine-supply-delays/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-concerns-jj-covid-19-vaccine-supply-delays/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306211510-02-johnson-and-johnson-covid-19-vaccine-colorado-0306-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration will spend nearly $10 billion to expand access to Covid-19 vaccines and build confidence"
+    excerpt: "The Biden administration said Thursday it would dedicate nearly $10 billion to expand access to Covid-19 vaccines for the hardest-hit and highest-risk communities and increase vaccine confidence across the country.\n    \n"
+    publishedDateTime: 2021-03-25T11:43:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93N1isuo8vE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's multitrillion-dollar infrastructure jam"
+    excerpt: "WASHINGTON — President Joe Biden is signaling that his next big push in Congress will be for legislation implementing the transportation, infrastructure and green-energy elements of his \"Build Back Better\" campaign platform, with a reported potential ..."
+    publishedDateTime: 2021-03-22T20:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-multi-trillion-dollar-infrastructure-jam-n1261613"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261613"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261613"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3458698/210322-joe-biden-jm-1425_7abadd79f5ccc05ffd45fa790b666e5f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+
+secured: "ttsvtP3L2C3Ve2hq1FB/bKUnTqebtJMaGqrpU6zbUobQYRVGxHjMrWAq0ll8wLFBS+RO9DvRB/STQ0w0GWHi0vqtYq5FkAHFMTM+KBRKNDEAyrdQt6QINxQgMGpwmvhp7SPsfFD2X74KpTAnkfAUasziyaOIT1bL5p0RtkGYmgcmofTJ7eSCBDMHIpMROP7o3Cxc7FrMYtSqniP0LOiJDF17mvP8T+yC/hpJQ6UueZBMS/a5bDqbtr+4bbsJSDe6u+kyISbYNtd9L1ZBhbr9SvaofyF7/PHbj6fNCEGZ5JYjOUpcKQJ0T4LqwKfzpM8FZXynCWLSncTjyNCGFSumgYmPJd1ROndQaeZ3dnaUnqs=;QhhkNbrR9X9nffvA5EBJfQ=="
+---
+

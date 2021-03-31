@@ -1,0 +1,85 @@
+---
+category: news
+title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
+excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
+publishedDateTime: 2021-03-31T17:59:00Z
+originalUrl: "https://abcnews.go.com/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+webUrl: "https://abcnews.go.com/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+type: article
+quality: 116
+heat: -1
+published: false
+
+provider:
+  name: ABCNews
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/International/trump-jan6-gty-rc-210305_1614953461904_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+related:
+  - title: "2 U.S. Capitol Police officers sue Trump over January 6 assault"
+    excerpt: "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ..."
+    publishedDateTime: 2021-03-31T13:02:00Z
+    webUrl: "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/31/34ce156b-e05d-4c89-9c44-357ee445df67/thumbnail/1200x630/fc37e7ded2812eec9cbc2bb9a2a11390/gettyimages-1230457837.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots"
+    excerpt: "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-03-31T04:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Paxton refuses to release messages about attendance at pro-Trump rally before Jan. 6 insurrection"
+    excerpt: "The Texas attorney general's office is attempting to withhold all messages Ken Paxton sent or received while in Washington for the pro-Donald Trump rally that devolved into a riot at the U.S. Capitol."
+    publishedDateTime: 2021-03-25T14:51:00Z
+    webUrl: "https://www.chron.com/politics/article/texas-ken-paxton-trump-insurrection-16051966.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 62
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+
+secured: "V1LEo7GfEJeBxz3Fjq5LmB1McUqJRlWvL6EJ4tOX7YJucS/yBofg5TEe6NWID8ZImjgJnAblruAbfSfweAIUZ3ApFhi+cFYO/WkZHU5zMymsptZSNriGtitpI++Ge4NCn03stJUBxo2oSjSGsRO1iwy+g+AZJcOiWf4qrk7TSkFTwiQ4edyX/yxiA+8jp2UWjYViytdWMop3f4LDQi3n3CjFdRHELeZx5sEz8kAkDjSMkfcdpwDYtPRO17ddmXEMyrCCtGwKmaJhVjNSYEuMg5CtHREDS1d57VzQN0X9TFdmvtRglv7Cv7GLmoUlmW64Ru+tjY9lWSGRRrmfMUmq5UguSzd/IXx/lwwbzKBaLn0=;wbjWE1ZcUEi7Dzwa8Ykbhw=="
+---
+

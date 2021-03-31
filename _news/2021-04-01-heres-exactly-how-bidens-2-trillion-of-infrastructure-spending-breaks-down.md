@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ruh roh! Biden pooch drops doggie doo in White House hallway"
+    excerpt: "WASHINGTON — Doggie doo in the White House? One of President Joe Biden’s dogs apparently deposited the pile of poo in the hallway outside the Diplomatic Reception Room, just off the South Lawn, on Wednesday. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-03-31T19:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway/2021/03/31/dfecc12a-923b-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway/2021/03/31/dfecc12a-923b-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway/2021/03/31/dfecc12a-923b-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden announces first slate of judicial nominees with picks that would make history"
     excerpt: "Washington — President Biden on Tuesday rolled out his first slate of judicial nominees, announcing candidates with diverse backgrounds and professional qualifications as he begins to make his own stamp on the nation's district and circuit courts."
     publishedDateTime: 2021-03-30T12:56:00Z
@@ -211,6 +227,6 @@ related:
         height: 600
         isCached: true
 
-secured: "JbrUGbyrW7uuJGYd7Iun5Sey4Er+efjECJagNQYoDt8Jhgo+UORgDDTWwe60QyOTyGZRXnt7MQWJ14rkyjluCmfoYGV57Y68LWbgBHB+BPjGimEGsmxTsn06itZRzYW28a2yjeTmDoFYNddMcIbgJqxBXLZTtccBsQCy+KmLcDJdkBXa7+z3N/7L2rP0h5zhaS4NhI/DQMFn47mAaujHb3rjXtPckid2urJ5Fg6jF9Jbc64YAGL9VtV7yk9wQW04iK8rwyVWuMKdTeKJ1UtGpakedAH/3MeazMKyL/8yrfcdDvBdyQwE3/etqsw4H6x9iV4hZGIoMtGzmUKPGT6NAl3rM1eUKXjB8oAWXa9XFJo=;YMKTl/NwGKVFDhHGfyHYNw=="
+secured: "fDx4SOTxGhiQPZ1KzBJFzvAzr4ZO0PkVCMOQ06Kho2jQgckYwqRtFrc/sBO6lXoibnQv1kjosLUDSP8FJ22mGtaKEiQA0QwqrQJc0iN96A2jDgJDb3yWInJPXmRyWJflCg0kr7C5iPVRCNu9O6XczJwlCQZULoYDFKnBR21faCApXx7z1yiJYdIOAa4f4RSo6G+8+LCy82xZrEBoaXKsHk6QG9TGdSvT17eLAur4mKnG+j/YWXO7wbzlysNYZi6tQtUVvL3v8k2q7qQIA/mpQGakPkQ4kO7tAK9WGBxMdqcb0uJ30wgKmSMuBjwqZv6hNMN5Sz2Ki1UkJpcfAeeQ5DVbd5RAC9MaSGOl9O8QCKDBnIr+Kc/EVFa1j+qRb2gaJGfEjFpofn+UMJ6FoC1HHvN9/JlZEV3MXnqUUYLSVpJ5HXAV3dF+Y0gQDU2vEHxj+yur35NGzUUXgDV/QwXh4YxPkxUTdo9FcHvGPIeXqrSEcf180Kgw5KHHWCdYWnXELHM9inDry7piHJ2/lEjOfw==;kpeU05rRWYgBdQ1eh+cgGA=="
 ---
 

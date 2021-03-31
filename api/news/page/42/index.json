@@ -2,6 +2,62 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-01-21-biden-has-bigger-issues-to-worry-about-than-following-own-mask-mandate-psaki.md",
+      "title": "Biden has ‘bigger issues’ to worry about than following own mask mandate: Psaki",
+      "excerpt": "President Biden has “bigger issues” to worry about than wearing a face mask at the Lincoln Memorial as he celebrated his Inauguration, according to White House press secretary Jennifer Psaki. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5vQSz5NDYeI/biden-bigger-issues-mask-mandate-psaki",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5vQSz5NDYeI/biden-bigger-issues-mask-mandate-psaki",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61d66044-90f8-4a82-aabe-24289c39d458/6fed3822-1f48-4aa4-b3bc-3bf2469a72e4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-bigger-issues-mask-mandate-psaki.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bigger-issues-mask-mandate-psaki.amp",
+      "publishedDateTime": "2021-01-21T15:00:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-biden-order-seeks-stronger-workplace-safety-rules-signaling-a-more-worker-friendly-approach.md",
       "title": "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach",
       "excerpt": "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic.",
@@ -1277,62 +1333,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-inaugural-address-heartfelt-unity-rove.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inaugural-address-heartfelt-unity-rove.amp",
       "publishedDateTime": "2021-01-20T13:02:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-biden-reversing-travel-ban-for-muslim-countries-very-disappointing-chad-wolf.md",
-      "title": "Biden reversing travel ban for Muslim countries ‘very disappointing’: Chad Wolf",
-      "excerpt": "Former Acting Homeland Security Secretary Chad Wolf argued on Wednesday that President Biden’s intention to revoke Donald Trump's travel bans for majority-Muslim countries is \"going to make the American people less safe.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m0P_qb4MKb8/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m0P_qb4MKb8/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp",
-      "publishedDateTime": "2021-01-20T12:58:27-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -268,6 +268,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
         width: 1024
         height: 731
+        isCached: true
+  - title: "Facebook reportedly removed a video interview with Donald Trump for violating its ban on the former president"
+    excerpt: "DOW S&P 500 NASDAQ 100 Facebook has removed a video that featured an interview with former President Donald Trump because it violated its current ban on him, according to Trump's daughter-in-law. Lara Trump, the wife of Eric Trump, posted on Instagram ..."
+    publishedDateTime: 2021-03-31T19:28:00Z
+    webUrl: "https://www.businessinsider.com/facebook-removed-trump-interview-video-violates-ban-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/6064c47edaf0f10018f994c5?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "Biden economic plan to focus 1st on infrastructure this week"
     excerpt: "WASHINGTON (AP) — President Joe Biden will lay out the first part of his multitrillion-dollar economic recovery package this week, focusing on rebuilding roads, bridges and other infrastructure, followed by a separate plan later in April addressing child ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/arizonas-ducey-calls-harris-the-wor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizonas-ducey-calls-harris-the-worst-possible-choice-to-fix-border.amp"
 type: article
 quality: 185
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e88d0f84-283e-413a-b2d6-b3bea025b33e/d69dc25c-4233-41f0-8a90-a37da60d1669/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris has gone 7 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S."
+    publishedDateTime: 2021-03-31T19:13:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRD1nTfgEN0/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "VP Harris thanks Guatemalan President Giammattei after his crackdown on migrants, doesn't visit border"
     excerpt: "Vice President Kamala Harris shared a call with Guatemalan President Alejandro Giammattei Tuesday to discuss immigration amid a surging crisis and despite declining to visit the U.S.-Mexico border herself since taking office."

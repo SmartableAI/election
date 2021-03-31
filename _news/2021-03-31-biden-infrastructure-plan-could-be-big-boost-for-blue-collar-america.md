@@ -269,6 +269,20 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Facebook reportedly removed a video interview with Donald Trump for violating its ban on the former president"
+    excerpt: "DOW S&P 500 NASDAQ 100 Facebook has removed a video that featured an interview with former President Donald Trump because it violated its current ban on him, according to Trump's daughter-in-law. Lara Trump, the wife of Eric Trump, posted on Instagram ..."
+    publishedDateTime: 2021-03-31T19:28:00Z
+    webUrl: "https://www.businessinsider.com/facebook-removed-trump-interview-video-violates-ban-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/6064c47edaf0f10018f994c5?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Biden economic plan to focus 1st on infrastructure this week"
     excerpt: "WASHINGTON (AP) — President Joe Biden will lay out the first part of his multitrillion-dollar economic recovery package this week, focusing on rebuilding roads, bridges and other infrastructure, followed by a separate plan later in April addressing child ..."
     publishedDateTime: 2021-03-28T17:32:00Z
@@ -302,6 +316,6 @@ related:
         height: 675
         isCached: true
 
-secured: "bXMkxGGiMWZymKsIGwjX01wJ/63cxntvKQqIZVKZgACaaKOq2Hwm3lPoJVTwwTS/ndGQ8TifCjJCBP93xGYzkz7OCW73lkZ8HkXwl5C3CqbuwOiNrCJyqGw8nH4GtylsCKJWg4zRFOz2/vQN6nutSrqkw9squhzuXO3Txo3R2W36WRyRbBHcPt4ywD+yDqALx3w/D7KFhl0QRzsBZLJZWLfcCNV2EYTsxr1LArVVyfbnRdvqyamJbsGovhyu+fb926PIORkfStFsH8c/sYr+iiowPZQDZjg18cQVcLzcH/pRTOS98L425NG05AKPSPLDkuxvyo6jEd0/7eWaT5bAwaxCv5dGw/2HVOSn0W2AgBY=;o12FyhI9xoVwxI/rlC8ukg=="
+secured: "Yt5YIJXrofnyKp28oWRy0QCYqLoqTQFIOvQPKuYsTPoo3UXufyOJcnGKX6CHerE1iPV4L7kGp798SDXnNTD/6gJXMzDfJih8Y23tYDnFIo2mv0azXBFghgs9DkJ3Q+1v8v/tVFfPwJw1avtzfVn4X8GV8gDPga3JLmQ6CBpWRWuuq7WzVuSD9L2TpxKSMKdx/XgTJRvfpTODs5FJs2T9Zf/5jQOuGnm7nnMQCJ5djpzgqqeglxw4QU5HchyVAtwXpEKfCC5vuxg8rk+aHbaeDNIbr02g4feiR8ko6VYxv0ZqyoWT+tQKsUnKg878TCKrkTlQA9Fg5bIzfxfrfNvEkiK/49680k1h1Q/vYyxUesFLSDLstdiADTU2r/ibTcrl0Gg89yfdPoizIrZxf+LGgpuT7yIfCJ2ofZJY961IsC9U85vq8ts4P/CNnBu1kEAyi8V2vC+SYm4XbGwQAe2c2CPejg5nQvPzUsoKrR/u+Y6gRM2r+etcakM6PaujO/7p5ApGpBIKj44toMoEZ+9Mlw==;mgXsRba8EtebdioScrlcgw=="
 ---
 

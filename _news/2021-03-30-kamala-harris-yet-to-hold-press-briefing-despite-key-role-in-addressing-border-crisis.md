@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden dog poops on White House floor"
+    excerpt: "A pool report on Wednesday detailed a rather unusual event at the White House, which the late painter Bob Ross would not refer to as a \"happy little accident.\""
+    publishedDateTime: 2021-03-31T18:48:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3h4pzUUeDI/biden-dogs-major-champ-poop-white-house-floor"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dogs-major-champ-poop-white-house-floor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dogs-major-champ-poop-white-house-floor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cca4008a-2a4d-4d2e-bc85-ae6be0f4aa54/91363c3b-dcac-4a27-8d1e-db22371f392e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
     excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
     publishedDateTime: 2021-03-26T20:38:06Z

@@ -41,6 +41,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "AP-NORC poll: Biden bolstered by strong marks on pandemic"
+    excerpt: "Americans are broadly supportive of President Joe Biden’s early handling of the coronavirus pandemic, and approval of his stewardship of the economy has ticked up following passage of a ..."
+    publishedDateTime: 2021-03-31T18:02:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-norc-poll-biden-bolstered-strong-marks-pandemic-76794014"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-norc-poll-biden-bolstered-strong-marks-pandemic-76794014"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-norc-poll-biden-bolstered-strong-marks-pandemic-76794014"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b0fc93c7806145b3b9426ac3ff33b679_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z

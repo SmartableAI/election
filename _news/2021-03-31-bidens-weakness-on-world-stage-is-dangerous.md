@@ -74,6 +74,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden should keep dog Major away from people after 2nd bite: lawyers"
+    excerpt: "President Biden has a duty to keep his German Shepherd, Major, away from people after the dog bit a second employee, a personal injury lawyer told Fox News."
+    publishedDateTime: 2021-03-31T18:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EjKAKvN9JU/biden-dog-major-bite-white-house-legal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/2021-03-23T172225Z_739678050_RC25HM9L4A90_RTRMADP_3_USA-BIDEN.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden to hold first Cabinet meeting Thursday"
+    excerpt: "President Biden will hold his first Cabinet meeting Thursday, one week after the full group was confirmed. "
+    publishedDateTime: 2021-03-31T19:25:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NWtzQKL-j1s/biden-to-hold-first-cabinet-meeting-thursday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-first-cabinet-meeting-thursday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-first-cabinet-meeting-thursday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/a28ec76d-AP21078563714221.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden judicial nominee would be first Muslim federal judge in US history"
     excerpt: "President Biden on Tuesday nominated Judge Zahid N. Quraishi to be a federal judge on the U.S. District Court for the District of New Jersey, a move that would make the Army veteran the first-ever lifetime-appointed Muslim federal judge if confirmed. "
     publishedDateTime: 2021-03-30T18:43:35Z
@@ -202,6 +234,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
+    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
+    publishedDateTime: 2021-03-31T19:13:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pd3yOTcRUpQ/biden-break-up-voting-bill-manchin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cruz demands Biden allow media access to border facilities, after seeing 'inhumane' conditions"
     excerpt: "EXCLUSIVE: Sen. Ted Cruz, R-Texas, on Sunday called on President Biden to open up media access to border facilities where unaccompanied migrant children are being held, after no reporters were allowed on a lawmakers' tour of a facility – and Cruz himself was challenged for taking pictures."
     publishedDateTime: 2021-03-28T17:07:44Z
@@ -230,22 +278,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden says he wouldn’t repeat work for Ukrainian firm"
-    excerpt: "President Joe Biden’s son Hunter says his service on the board of a Ukrainian gas company, which Republicans tried to turn into a negative during the 2020 presidential campaign, wasn’t unethical and didn’t represent a lack of judgment on his part."
-    publishedDateTime: 2021-03-31T08:35:00Z
-    webUrl: "https://www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31559d35-d060-4ac4-85d0-c5cf2e57997e/cea027d4-af7e-4165-9019-bb52722f5b11/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden judicial nominee would be first Muslim federal judge in US history"
     excerpt: "Some Republicans, meanwhile, have broadly criticized Biden's nominees. \"It's payback time -- we know that liberal dark money organizations spent millions of dollars to put President Joe Biden in the White House in terms of contributing to his campaign."
     publishedDateTime: 2021-03-30T18:47:00Z
@@ -259,6 +291,22 @@ related:
     quality: 134
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/joe-biden-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
+    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
+    publishedDateTime: 2021-03-31T19:18:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jen-Psaki-Biden-Tax-Hike-Infrastructure-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -290,15 +338,6 @@ related:
         width: 1174
         height: 880
         isCached: true
-  - title: "As Biden Stands Down at the Border, America Suffers"
-    excerpt: "President Joe Biden is ceasing the execution of federal immigration laws, and the worst crisis in 20 years (by his own Department of Homeland Security secretary's admission) is likely to reach an unprecedented level."
-    publishedDateTime: 2021-03-31T10:54:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/31/as_biden_stands_down_at_the_border_america_suffers_539409.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "m3ycAdapJ09P0sEy2aEM4LQ0pqPxR41H1/wd6p3GNI7w/YPDhBWzzJCA4M2wB/hX9DD+yZc2hTYqlk4QE9TI+DOXgFi3QKREoLH4FOBjaHOhevxWg4mSWv+UWqPi6mzwrmgjs4qcEHkZes5MqQ/Eq6tQq8PtiNMsnDzpbixIxGLTiW0vOOzTlb68UzZMQsshBt8t4vAmrTjp7UZDtMqqebxfqH8rW4Fp8Xint4kEv3LYUhieg8jXNzX3ugreEnL5V1xGduwisFJjMEvr7VvUnO2PSXd4qjNsi2Va1GvRhgOAVqq3kxNKNete6kYD9DmAY6e6p49h31lm1apIfH8Uxu6TtJCiBCK5+OfVye0adXM=;5BARJGiRo1U9tTRlmO78kA=="
 ---

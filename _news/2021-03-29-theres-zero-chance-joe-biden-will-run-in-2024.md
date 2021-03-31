@@ -554,6 +554,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump rips Biden’s ‘globalist’ tax hikes ahead of official infrastructure announcement"
+    excerpt: "Former President Donald Trump on Wednesday slammed the Biden administration’s “globalist” multi-trillion infrastructure package, calling it a"
+    publishedDateTime: 2021-03-31T19:01:00Z
+    webUrl: "https://nypost.com/2021/03/31/trump-bashes-biden-tax-hikes-before-official-announcement/"
+    ampWebUrl: "https://nypost.com/2021/03/31/trump-bashes-biden-tax-hikes-before-official-announcement/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-bashes-biden-tax-hikes-before-official-announcement/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 142
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-biden-tax.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CNN, MSNBC erupted over Trump's ramp walk -- but virtually ignore Biden's staircase stumble"
     excerpt: "After sounding the alarm over President Trump's use of a ramp at the U.S. Military Academy during the 2020 presidential election, both CNN and MSNBC on Friday virtually ignored President Biden's intense fall while climbing the stairs onto Air Force One."
     publishedDateTime: 2021-03-20T06:37:00Z
@@ -757,6 +773,20 @@ related:
       - url: "https://assets.realclear.com/images/51/514557.jpg"
         width: 1098
         height: 822
+        isCached: true
+  - title: "With Infrastructure Plan, Biden Focuses on National Rebuild"
+    excerpt: "Using a carpenters training facility in Pittsburgh as a backdrop for his speech Wednesday, President Joe Biden will propose a $2 trillion investment in..."
+    publishedDateTime: 2021-03-31T18:55:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/31/with_infrastructure_plan_biden_focuses_on_national_rebuild_539464.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539327_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster"
     excerpt: "Three. Trillion. Dollars. Maybe four: That's how much President Joe Biden wants for his next installment of Let's Remake America. Think of it as pumping gasoline by the shipload onto a wildfire. Fr…"

@@ -3060,6 +3060,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden admin scraps Trump's restrictions on transgender troops"
+    excerpt: "The move restores Pentagon policy on transgender troops to where it stood before Donald Trump entered office in 2017, Kirby said. The Trump administration largely banned transgender people from serving openly in the military. The announcement followed a ..."
+    publishedDateTime: 2021-03-31T19:12:00Z
+    webUrl: "https://www.nbcnews.com/news/military/biden-admin-scraps-trump-s-restrictions-transgender-troops-n1262646"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_04/3444880/210125-joe-biden-ew-332p_5e6880a971cd852c03eff3d4462fac5a.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Palm Beach County, Girl Scouts are latest organizations seeking to end leases with Trump"
     excerpt: "The list of companies and organizations looking to cut business ties with President Donald Trump after last week’s attack on the Capitol is getting longer. Palm Beach County in Florida said Thursday that it is exploring ending its lease with the president's prized West Palm Beach."
     publishedDateTime: 2021-01-15T21:55:00Z

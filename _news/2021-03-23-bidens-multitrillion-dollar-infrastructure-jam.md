@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to convene his Cabinet in-person for the first time on Thursday"
+    excerpt: "President Joe Biden is set to convene his Cabinet in-person for the first time Thursday at the White House.\n    \n"
+    publishedDateTime: 2021-03-31T19:09:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VrTFF_y7efA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration not confident Johnson & Johnson will meet 20 million goal by end of month"
     excerpt: "Officials in President Joe Biden's administration are not confident that Johnson & Johnson will meet its self-imposed deadline to deliver 20 million coronavirus vaccines by the end of March, despite optimistic statements from the company.\n    \n"
     publishedDateTime: 2021-03-23T01:52:41Z
@@ -109,6 +125,22 @@ related:
     quality: 156
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to convene his Cabinet in-person for the first time on Thursday"
+    excerpt: "(CNN)President Joe Biden is set to convene his Cabinet in-person for the first time Thursday at the White House. The meeting comes one day after he rolls out the first piece of his sweeping infrastructure proposal focused on investments in transportation ..."
+    publishedDateTime: 2021-03-31T19:10:00Z
+    webUrl: "https://www.cnn.com/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/biden-first-cabinet-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "AP-NORC poll: Biden bolstered by strong marks on pandemic"
+    excerpt: "Americans are broadly supportive of President Joe Biden’s early handling of the coronavirus pandemic, and approval of his stewardship of the economy has ticked up following passage of a ..."
+    publishedDateTime: 2021-03-31T18:02:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-norc-poll-biden-bolstered-strong-marks-pandemic-76794014"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-norc-poll-biden-bolstered-strong-marks-pandemic-76794014"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-norc-poll-biden-bolstered-strong-marks-pandemic-76794014"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b0fc93c7806145b3b9426ac3ff33b679_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden faces the challenge of highlighting progress without relaxing restrictions"
     excerpt: "President Joe Biden faces the challenge of highlighting progress without relaxing restrictions in the face of a potential fourth coronavirus surge."
     publishedDateTime: 2021-03-31T09:02:00Z

@@ -204,6 +204,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden dog poops on White House floor"
+    excerpt: "A pool report on Wednesday detailed a rather unusual event at the White House, which the late painter Bob Ross would not refer to as a \"happy little accident.\""
+    publishedDateTime: 2021-03-31T18:48:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3h4pzUUeDI/biden-dogs-major-champ-poop-white-house-floor"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dogs-major-champ-poop-white-house-floor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dogs-major-champ-poop-white-house-floor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cca4008a-2a4d-4d2e-bc85-ae6be0f4aa54/91363c3b-dcac-4a27-8d1e-db22371f392e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
     excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
     publishedDateTime: 2021-03-26T20:38:06Z
@@ -441,6 +457,6 @@ related:
         height: 500
         isCached: true
 
-secured: "c4L96G117Q6EeJEuY7EvBKpkB5F2gS36ysGvVgDfdYTz0RuMsnqPQHGfHEjcMGYteiohajPoLXU5M7JwCNrZlm9b8WvMcE1tF11ml8wN+LghbUkdUXhD9iY7Wmvn3teBfOy+i3SunZDErhGiTHNwgAbMOcxgmlE1ZASvrr7SqUOEMR8pIK2dRxOkLLYKCZ5HgR23sOZ7JfOjP1SItmZswkBIUi9SPmxXd1GALeBwc3tnU/PTq1cErwup1FSivcpufepmbSlfnTP0RCJH65eh5elDGLHaHBifAyuozTk7xW0POndOK80SXTEvESp+0f8P0Gf9VYYnacNswOamG9IR3D0CV5Ut7ABip9C2kNyJ6ks=;FXtNFwsQ6Rm5ioLpKeE/KQ=="
+secured: "ByU5THJR9B3htODmZ8QJYYnXD+aEovDfmTKLnoVKcZY32ggvDSlLjHBkaH1NjUi+zFwiedzgQ3Htvo73LaZ0zrZ8b4BKAlynRT+ailbiWs/8avvxUkFFGl1TVSINEcJwUm1aqcar+0IRdeNskTU54RFRTUkUGnLuEuZoZziJZGviIy9AmotRGvRwbLkngUEBkRqXzBky3uK82BiggTcdeyjJEthlTmB2aZdLYplNpuepttJHzfjuBEPvoNAECIewz2AHQsverig5mi3tg1H3vAUQnzf4qpMQz0TPCGj99lSP7d4l9eSyT0pWC5FAfjZFL9k8JX6RJGsd4TIN3fmXH4mwh1KHkXgzrIR+bWXZ6Swybf4XahiZDA/a1KS7jGGyEdq9zBXqGjZtG1yIJlh/PpDGly4uKMsOlBJUni8hX0eDI2jUjHCwLKtmpIhL2CUWY0pnguKtcuYlVl2iVK7Nl0yqjKjExbiN6CoQx/aFm2CKBwX9LQJ10PMrnhenTt63qoPE1hgcbPMw3vqmm+6SqQ==;XnwVDB/CAV/l5P0azryfbw=="
 ---
 

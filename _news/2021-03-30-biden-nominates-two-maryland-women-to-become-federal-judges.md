@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ruh roh! Biden pooch drops doggie doo in White House hallway"
+    excerpt: "WASHINGTON — Doggie doo in the White House? One of President Joe Biden’s dogs apparently deposited the pile of poo in the hallway outside the Diplomatic Reception Room, just off the South Lawn, on Wednesday. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-03-31T19:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway/2021/03/31/dfecc12a-923b-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway/2021/03/31/dfecc12a-923b-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway/2021/03/31/dfecc12a-923b-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Here's exactly how Biden's $2 trillion of infrastructure spending breaks down"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden is set to announce the first part of his two-part infrastructure package this afternoon. It's called the American Jobs Plan, and it will cost about $2 trillion. The package is focused on job creation, traditional ..."
     publishedDateTime: 2021-03-31T17:48:00Z

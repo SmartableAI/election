@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to unveil $2 trillion infrastructure and climate plan"
+    excerpt: "President Joe Biden is set to unveil a roughly $2 trillion jobs proposal focused on infrastructure and the climate crisis in a speech in Pittsburgh on Wednesday.\n    \n"
+    publishedDateTime: 2021-03-31T18:37:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-trfG7QLJn0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/infrastructure-joe-biden-jobs-climate-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/infrastructure-joe-biden-jobs-climate-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden takes his time filling out diplomatic corps"
     excerpt: "More than two months into his term, President Joe Biden has yet to name a single ambassador to send overseas, putting him behind the pace set by his most recent predecessors and leading to early frustrations among some career State Department officials and big-time Democratic donors.\n    \n"
     publishedDateTime: 2021-03-31T10:05:38Z

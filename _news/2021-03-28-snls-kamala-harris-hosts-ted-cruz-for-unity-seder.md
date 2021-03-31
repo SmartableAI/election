@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-t
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -180,6 +180,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
         width: 2048
         height: 1536
+        isCached: true
+  - title: "Kamala Harris has Discussion with Faith Leaders at the White House"
+    excerpt: "U.S. Vice President Kamala Harris holds a roundtable discussion with faith leaders on their efforts to encourage communities to take the COVID-19 vaccine at the White House on Wednesday, March 31, 2021 in Washington, DC. Photo by Yuri Gripas/UPI Featured ..."
+    publishedDateTime: 2021-03-31T19:12:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/HARRIS-FAITH.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Vice President Kamala Harris Touts St. Louis’ Mass COVID-19 Vaccination Site"
     excerpt: "The Vice President spoke with St. Louis Public Radio's Jason Rosenbaum about how the Biden administration is handling the COVID-19 vaccination effort in St. Louis and elsewhere."

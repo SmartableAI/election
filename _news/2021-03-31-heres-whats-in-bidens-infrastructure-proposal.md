@@ -2,7 +2,7 @@
 category: news
 title: "Here's what's in Biden's infrastructure proposal"
 excerpt: "Now that his massive coronavirus relief package is law, President Joe Biden is laying out his next big proposal: A roughly $2 trillion plan for improving the nation's infrastructure and shifting to greener energy over the next 8 years.\n    \n"
-publishedDateTime: 2021-03-31T09:02:00Z
+publishedDateTime: 2021-03-31T15:05:39Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NKOlQY671x0/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NKOlQY671x0/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/infrastructure-proposal-biden-explainer/index.html"
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330225314-biden-infrastructure-plan-0317-restricted-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331093841-01-infrastructure-proposal-restricted-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -1710,6 +1710,6 @@ related:
         height: 907
         isCached: true
 
-secured: "j+tMIjtJWCFNAdwp+VTqcn5aRYJD1/tqajwMmYPwrwGdF/kTOaSaAJPZvzWZzE28v/NUVdFTCJkO7RDT1GCf0bDAV0MWvQL50M1xl3ycRfWZoxcraEjfdmpjax1rhvJmFpcnll48vxRsE+V4LyR6quTe3VD2G8FIXyDBDi3N5Z9craWzroOxtytQ4OZmNmYgfE0X27wzvytHL7H20+QL5Te9riV1XzReiXW/Y1ZaNqXdoDP1vuZ9NyIXknyCGot+rlCrE15/RjewULYWXBQ6ZR8g2tVIZlZPzZbpYXi/30EOkmsASnMzYGEm8qLcvB3nFPrVYBybF2IPk8+ROCE3CwJWDDzhkMKGaJc6npKrWvs=;WrHM91CGq5fwh2SvMdi9jg=="
+secured: "Bt2RsYdnQWKe22RFtj5z/v7m7lWNcakBXid69PYSJbUiwtIJQkX5ShPL0zzuBVli7S94GOdotti6n6mKcPhyLjKPhA6lqFes2CX/QOIB8um8J/2ItRWAYN5vI6YyvlHP7jclN7n1YN3ZH3N9rIYTmAMdkMg4F5czpfMDiLUnIRF6K9YNZ/9ET2A+ZOQtA0Fpa+3PRpk3IHYGvSYTUIiyWwpxHhbZ9GvrE3hJy7EWsA5o1KZzlWopDiNA3tvDx6Gw3qqS2e8nCJGKvGYwyQDhAnlpMmYh/DvjTKSceQXEL9avs7FexLivK1cOavzYvNZ2QFRtrTKgd7gIfp477ClOYVaQsn6KE4KNY8jgkeTUn1o=;kkJEyp7Klr40YOobDbQPvw=="
 ---
 
