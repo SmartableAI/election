@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigatio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 136
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311100025-file-capitol-riot-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Two US Capitol Police officers sue Trump and say he should be held responsible for January 6 attack"
+    excerpt: "(CNN)Two US Capitol Police officers who say they were injured during the January 6 insurrection are suing former President Donald Trump for inciting the crowd. The officers -- the first police to sue in court following the riot -- say they suffered ..."
+    publishedDateTime: 2021-03-30T23:16:00Z
+    webUrl: "https://www.cnn.com/2021/03/30/politics/us-capitol-police-sue-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 101
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326163722-01-us-capitol-riots-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

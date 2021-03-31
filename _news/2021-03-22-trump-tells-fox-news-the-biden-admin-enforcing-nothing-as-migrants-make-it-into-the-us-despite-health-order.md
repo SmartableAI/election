@@ -383,6 +383,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hannity, Lara Trump slam Biden administration, Democrats as migrant children prioritized over US students"
+    excerpt: "In his \"Opening Monologue\" on Tuesday, \"Hannity\" host Sean Hannity ripped the Biden administration over the illegal immigration crisis, going on to slam the San Diego school district for providing in-person teaching to illegal immigrants while American citizens in the California city remain mostly stuck"
+    publishedDateTime: 2021-03-31T02:39:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-1z0JfzMB0/hannity-lara-trump-slam-biden-administration-as-migrant-children-prioritized-over-us-students-in-calif"
+    ampWebUrl: "https://www.foxnews.com/politics/hannity-lara-trump-slam-biden-administration-as-migrant-children-prioritized-over-us-students-in-calif.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hannity-lara-trump-slam-biden-administration-as-migrant-children-prioritized-over-us-students-in-calif.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Graham blasts Biden’s lack of  ‘situational awareness’ on southern border surge"
     excerpt: "Republicans were not happy with President Biden’s assertion that his policies were not to blame for the surge in migrants at the southern border. "
     publishedDateTime: 2021-03-25T19:08:33Z

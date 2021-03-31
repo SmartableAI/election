@@ -399,6 +399,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden decides to shelve Warren’s wealth tax"
+    excerpt: "President Joe Biden will not call for a wealth tax to help pay for his multitrillion-dollar Build Back Better initiative, according to multiple people familiar with the White House’s thinking. In doing so, he will sidestep a proposal that progressive ..."
+    publishedDateTime: 2021-03-30T23:58:00Z
+    webUrl: "https://www.politico.com/news/2021/03/30/biden-elizabeth-warren-wealth-tax-478642"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/30/biden-elizabeth-warren-wealth-tax-478642"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/30/biden-elizabeth-warren-wealth-tax-478642"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/52/6d/7843f4e645c691ceb78696d89ffb/gettyimages-1304776018-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘Kamala Harris says the Atlanta attacks have ‘frightened and shocked and outraged all people.’"
     excerpt: "Vice President Kamala Harris, the first woman and the first Asian-American to hold the office, expressed condolences for the families of the victims during a meeting with Irish officials on Wednesday. “This speaks to a larger issue which is the issue of ..."
     publishedDateTime: 2021-03-17T09:40:00Z

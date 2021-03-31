@@ -159,6 +159,22 @@ related:
         width: 2500
         height: 1566
         isCached: true
+  - title: "Judge rules Trump campaign's nondisclosure agreement is invalid"
+    excerpt: "A federal judge on Tuesday ruled that a non-disclosure agreement (NDA) that employees on former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite ..."
+    publishedDateTime: 2021-03-31T02:51:00Z
+    webUrl: "https://thehill.com/legal/545685-judge-rules-trump-campaigns-nondisclosure-agreement-is-invalid"
+    ampWebUrl: "https://thehill.com/legal/545685-judge-rules-trump-campaigns-nondisclosure-agreement-is-invalid?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/legal/545685-judge-rules-trump-campaigns-nondisclosure-agreement-is-invalid?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumprally4_06202020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Rick Scott Asked Trump to Not Get Involved in 2022 Races Until Candidates Win Primaries"
     excerpt: "U.S. Senator Rick Scott, a Florida Republican who heads the GOP's Senate fundraising arm, wants former President Donald Trump's help in the 2022 election, but he's asking him to hold off a bit. \"I think he wants to win, so I think he's going to work with ..."
     publishedDateTime: 2021-03-23T21:42:00Z
@@ -302,6 +318,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/03/sjm-937101.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Pence re-emerges, appears to lay groundwork for 2024 presidential run"
+    excerpt: "The former vice president is writing op-eds, delivering speeches, preparing trips to key primary states and launching an advocacy group."
+    publishedDateTime: 2021-03-31T02:04:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Pence reemerges, lays groundwork for 2024 run"
     excerpt: "Ron DeSantis and Sens. Josh Hawley and Ted Cruz. Conspicuously absent from the list: Mike Pence. The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024. He’s joining conservative organizations ..."

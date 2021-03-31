@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI31U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U"
 type: article
 quality: 140
-heat: 1420
+heat: 1440
 published: true
 
 provider:
@@ -526,6 +526,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/2a4a2aa4200ed189b6e4b6ca32b7a26cd094559b/0_112_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=14a1abf7884aa37bb04e187deea03eb7"
         width: 600
         height: 360
+        isCached: true
+  - title: "White House says Major Biden was involved in another biting incident while on a walk"
+    excerpt: "DOW S&P 500 NASDAQ 100 Major, President Joe Biden's younger dog, bit someone while out on a walk Monday afternoon, CNN reported. The first dog went after a National Park Service employee, according to CNN. First lady Jill Biden's press secretary confirmed ..."
+    publishedDateTime: 2021-03-30T21:38:00Z
+    webUrl: "https://www.businessinsider.com/biden-dog-major-biting-incident-again-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-dog-major-biting-incident-again-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-dog-major-biting-incident-again-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/6063842221887500193e8400?width=1200&format=jpeg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Biden attacks Georgia's new voting limits as 'an atrocity,' civil rights groups sue state"
     excerpt: "(Reuters) -Georgia’s sweeping new voting restrictions came under attack on Friday, with civil rights groups challenging them in court and President Joe Biden saying the U.S. Justice Department was examining what he called an “atrocity” of a law."

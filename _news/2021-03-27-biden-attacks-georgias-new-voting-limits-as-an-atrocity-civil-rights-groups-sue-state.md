@@ -543,6 +543,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "White House says Major Biden was involved in another biting incident while on a walk"
+    excerpt: "DOW S&P 500 NASDAQ 100 Major, President Joe Biden's younger dog, bit someone while out on a walk Monday afternoon, CNN reported. The first dog went after a National Park Service employee, according to CNN. First lady Jill Biden's press secretary confirmed ..."
+    publishedDateTime: 2021-03-30T21:38:00Z
+    webUrl: "https://www.businessinsider.com/biden-dog-major-biting-incident-again-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-dog-major-biting-incident-again-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-dog-major-biting-incident-again-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/6063842221887500193e8400?width=1200&format=jpeg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Joe Biden condemns Georgia voting law: 'This is Jim Crow in the 21st century' – as it happened"
     excerpt: "Maanvi Singh (now), Joan E Greve and Martin Belam (earlier) Jen Psaki was asked about Joe Biden’s opinion on the comments from Dr Robert Redfield, the former director of the Centers for Disease Control and Prevention. Redfield recently told CNN that he ..."
     publishedDateTime: 2021-03-26T23:14:00Z

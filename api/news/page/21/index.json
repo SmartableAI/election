@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-24-georgia-counties-seek-legal-fees-for-frivolous-trump-voter-fraud-lawsuit.md",
+      "title": "Georgia counties seek legal fees for 'frivolous' Trump voter-fraud lawsuit ",
+      "excerpt": "Two counties in Georgia are seeking to recoup attorneys' fees from former President Donald Trump and Georgia Republican Party Chairman David Shafer stemming from their lawsuit that made \"frivolous\" and \"baseless\" claims of voter fraud in Georgia's count during the presidential election, according to",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JjsoBqE3i18/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JjsoBqE3i18/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210111151027-01-trump-0104-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/24/politics/georgia-counties-trump-legal-fees/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/georgia-counties-trump-legal-fees/index.html",
+      "publishedDateTime": "2021-02-24T12:03:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-bidens-100-day-deportation-moratorium-indefinitely-banned-by-judge.md",
       "title": "Biden’s 100-day deportation moratorium indefinitely banned by judge",
       "excerpt": "The Biden administration’s efforts to impose a 100-day pause on deportations were dealt another blow on Tuesday when a district judge extended a ban on its imposition in response to a lawsuit from Texas.",
@@ -1297,62 +1353,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-warns-biden-immigration-policies-will-restart-migrant-caravans-into-us.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-warns-biden-immigration-policies-will-restart-migrant-caravans-into-us.amp",
       "publishedDateTime": "2021-02-22T20:45:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-cruz-opposes-xavier-becerra-as-absurd-biden-pick-for-hhs-secretary-hes-not-a-doctor.md",
-      "title": "Cruz opposes Xavier Becerra as 'absurd' Biden pick for HHS secretary: 'He's not a doctor'",
-      "excerpt": "Attorney General nominee Merrick Garland repeatedly \"dodged\" questions from Republican senators during his confirmation hearing before the Senate Judiciary Committee, Sen. Ted Cruz, R-Texas, told \"Hannity\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts_PjIFcvTM/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts_PjIFcvTM/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bd54b59-efda-450f-ac9c-2f7f53926495/1d8ab2cb-01ff-40f7-9614-c89cbd108e6c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp",
-      "publishedDateTime": "2021-02-22T20:13:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

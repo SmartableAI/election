@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-contro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html"
 type: article
 quality: 200
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -397,6 +397,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/77/ab/f22165254afe8b2366370843bae2/3-23-21-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden decides to shelve Warren’s wealth tax"
+    excerpt: "President Joe Biden will not call for a wealth tax to help pay for his multitrillion-dollar Build Back Better initiative, according to multiple people familiar with the White House’s thinking. In doing so, he will sidestep a proposal that progressive ..."
+    publishedDateTime: 2021-03-30T23:58:00Z
+    webUrl: "https://www.politico.com/news/2021/03/30/biden-elizabeth-warren-wealth-tax-478642"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/30/biden-elizabeth-warren-wealth-tax-478642"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/30/biden-elizabeth-warren-wealth-tax-478642"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/52/6d/7843f4e645c691ceb78696d89ffb/gettyimages-1304776018-1.jpg"
         width: 1160
         height: 773
         isCached: true

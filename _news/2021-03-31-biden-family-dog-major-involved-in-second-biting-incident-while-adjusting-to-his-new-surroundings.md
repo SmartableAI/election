@@ -543,6 +543,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "White House says Major Biden was involved in another biting incident while on a walk"
+    excerpt: "DOW S&P 500 NASDAQ 100 Major, President Joe Biden's younger dog, bit someone while out on a walk Monday afternoon, CNN reported. The first dog went after a National Park Service employee, according to CNN. First lady Jill Biden's press secretary confirmed ..."
+    publishedDateTime: 2021-03-30T21:38:00Z
+    webUrl: "https://www.businessinsider.com/biden-dog-major-biting-incident-again-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-dog-major-biting-incident-again-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-dog-major-biting-incident-again-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/6063842221887500193e8400?width=1200&format=jpeg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Biden attacks Georgia's new voting limits as 'an atrocity,' civil rights groups sue state"
     excerpt: "(Reuters) -Georgia’s sweeping new voting restrictions came under attack on Friday, with civil rights groups challenging them in court and President Joe Biden saying the U.S. Justice Department was examining what he called an “atrocity” of a law."
     publishedDateTime: 2021-03-27T07:54:00Z
@@ -995,6 +1011,6 @@ related:
         height: 604
         isCached: true
 
-secured: "xCYfpUkLEr9DvN/coARzLebnH7F0nLajm+3lcN6I5fRbade91ROO2CpvISv5s74A3F+k5E2vdgoLjfLMFlrvGX/TqcnyKzb+ZJPOmRbkeJR0VesDju0wWOtCDk6YBV8Y86uJsHqFg0hnLiUIkEkEPAg9YPWJbjJ5gx1dNDuLH9W0WvSfNuUGv+iYQMm+WK23T/FKjA0orFc9MU6jGZifzIKho+2zZCLzXW1qpD4g3L03BS/E4tvccPPnRMxx1GHLP1rb0m6PCM41bcctmpDRFi7UGjONG77xXJ2VCdH+NmLtiUIrXjXBTZwrke/r42yhX6LztSU8eSu0Pse9MgCwltU20apBT07OwckihvNkkI0=;Srs4HLaBf6nbzOKkA14vKA=="
+secured: "L8zcAgTQxDKPlqJvXlr70eaNjnZKDSsc1SUaZGVuHHd7Sjd3deYXTJ+AwXGOsoTUPnwur8AUCvR8uihF4w/AbSGJ4q68eXe293ErxnzBln75RPSpwpMH9YWkJiKbxHxqCodopGOgU7cyai/37Hhd9kuZ6mh2amlETlV4wJtdiz/T9J9ngrzedi5YmebevBC3hKskB0i81MxouvJGQ3t1RKkp/SWhbk4brGPIn8c0m7bzRbzwSBCZQKF/S0Q1uLht5NdsONh/CPO/bvzTgvsUT6rpOSSU0Hlq+fQ/jXCwE/CQNyT3b92pXMSQGDYRbUrGrhsrlfztiTFx9ebmG6BQi6Rkoif8wAPLm+HQMY+WVmB3n6rmpYWgEoz5TV9hp0kuE306SDSMsSpQk2uuFPAVm57g9Fwq8ug+US8pIjT9qVxv5cyI55hf2b0o1Wlz79jHYlKcRtSrQa85AuLAW1X/DGOunS5pbtHN5+mUpa0Zl41dZB7IJah9SkQvVazsE1yUzBqBDTmUTFfIbohJm3C8tQ==;6lwZjAkLdY4zoLc51pqY/Q=="
 ---
 
