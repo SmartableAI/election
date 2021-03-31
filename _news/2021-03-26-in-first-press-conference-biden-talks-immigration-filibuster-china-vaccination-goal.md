@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6984142002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002"
 type: article
 quality: 117
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,35 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "President Joe Biden and First Lady Visit the Vietnam War Memorial"
-    excerpt: "U.S. President Joe Biden and First Lady Dr. Jill Biden visit the Vietnam War Memorial in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI"
-    publishedDateTime: 2021-03-29T22:14:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/3690f6ef0605b6b938b0be16c5a07fb4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/"
+  - title: "Biden faces the challenge of highlighting progress without relaxing restrictions"
+    excerpt: "President Joe Biden faces the challenge of highlighting progress without relaxing restrictions in the face of a potential fourth coronavirus surge."
+    publishedDateTime: 2021-03-31T09:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
     images:
-      - url: "https://cdnph.upi.com/pv/upi/3690f6ef0605b6b938b0be16c5a07fb4/BIDEN-WAR-MEMORIAL.jpg"
-        width: 650
-        height: 433
+      - url: "https://s.abcnews.com/images/Politics/biden-gty-er-210323_1616541488590_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Boulder Congressman Joe Neguse leads over 60 Lawmakers in calling for Biden Administration to ban importation of Military-Style Assault Weapons"
-    excerpt: "Colorado Congressman Joe Neguse and Illinois Congresswoman Robin Kelly led a letter signed by over 60 lawmakers to President Joe Biden, calling for him to issue an executive order to ban"
-    publishedDateTime: 2021-03-25T22:06:00Z
-    webUrl: "https://www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/"
-    ampWebUrl: "https://www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/amp/"
-    cdnAmpWebUrl: "https://www-eptrail-com.cdn.ampproject.org/c/s/www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/amp/"
+  - title: "Joe Biden Said 'Nothing Has Changed' about Border Crisis, but Child Surge Is Higher"
+    excerpt: "President Joe Biden said \"nothing has changed\" at the U.S. border with Mexico since he took office, but the surge in unaccompanied child migrants is higher than in former President Donald Trump's final pre-pandemic year. U.S. Customs and Border Protection ..."
+    publishedDateTime: 2021-03-26T16:01:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1"
     type: article
     provider:
-      name: Estes Park Trail-Gazette
-      domain: eptrail.com
-    quality: 39
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
     images:
-      - url: "https://www.eptrail.com/wp-content/uploads/2021/03/TDP-L-CANDLELIGHT_VIGIL__HHR9492.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://d.newsweek.com/en/full/1764866/president-joe-biden-first-press-conference.jpg"
+        width: 963
+        height: 612
         isCached: true
 
 secured: "ji0CwitNvcXVUGsZNl4FP68RraocuXYPIvBkYrPxUWGa40Oehkffh+hpgtZ6rteCuAlhB0c4kyU/N/Uvc30Uc7bf1+vg8i4hEziKkjaa6GO+FnJN3Y0+GKNwNUKODx748SNB3f13kADe+FAoh1EtQNyBRnoBiIpChp03GIEfCMVsux4xW2MGj6pYUnMzLBayJUe7cJ3JwvQhyUIyNSnHMVJZ8Gu4k825PmWdZOZJcjInDp5lbSft8eeItuWdqnFXjSgunLuq6IDQf73jlN0OxxmV1X93ubLG38d/Gh0YyIbusTo89cAiuu47K32ludXe6i0LLY7tz8QVPjl7vAsT/2f2Lug0fO2BjC2Dg6XR0K5MzlxlJg/jv1vMO7olLIx5CdqlMKj3bTrmscnwRXaV/5utAW5SRnhkQO+BUrF7XDPvbvh1VvQWE+5rGfbIQKpJcu0IaTtp0GUk56AisaUN3KXtrDaAm6rF22P5tUwpExt/2P4JZvyBo9ADvSaHEyvdNvfCQg7YF7ZdyM86SuK+qw==;xNnO1sAZ7c+FZzqYqms7bA=="

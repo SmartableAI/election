@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-r
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden promises 'historic' $2tn spending in infrastructure – but Capitol Hill fight awaits"
+    excerpt: "President hopes to ‘unify and mobilize the country’ but his plan faces challenges from Democrats as well as Republicans Last modified on Wed 31 Mar 2021 05.14 EDT Joe Biden will unveil an expansive $2tn proposal to rebuild the country’s ..."
+    publishedDateTime: 2021-03-31T08:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/ee16b9cd080f21af7765df0f263b58afbd4aa081/31_306_3868_2321/master/3868.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ba607b0123aaccec9255bc658b0396bf"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to host first press conference under pressure on immigration and guns – US politics live"
     excerpt: "But Joe Biden still hasn’t had a formal news conference since his inauguration on 20 January. The stretch is the longest a new president has gone without meeting the press in the past 100 years, dating back to when Calvin Coolidge, a man known as ..."
     publishedDateTime: 2021-03-25T10:31:00Z

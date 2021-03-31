@@ -304,6 +304,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden faces first Covid surge as allies brush off warnings"
+    excerpt: "That’s left President Joe Biden fighting two battles: speeding up the vaccine rollout while pushing crisis-weary states to tamp down infections through mask mandates, social distancing and other measures in the meantime. Losing either could not only ..."
+    publishedDateTime: 2021-03-30T23:36:00Z
+    webUrl: "https://www.politico.com/news/2021/03/30/biden-first-covid-surge-478623"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/30/biden-first-covid-surge-478623"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/30/biden-first-covid-surge-478623"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/4b/9d66a8ca4a0e8e33362cd04ee081/gettyimages-1232023308-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
     excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."
     publishedDateTime: 2021-03-27T11:15:00Z

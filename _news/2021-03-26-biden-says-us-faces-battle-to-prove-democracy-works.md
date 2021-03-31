@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/biden-autocracies-versus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-autocracies-versus-democracies/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324172937-01-hhs-children-facility-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden in no rush to pick new FDA chief"
+    excerpt: "(CNN)More than two months into his presidency, President Joe Biden has yet to name someone to lead an agency at the forefront of the coronavirus fight: the US Food and Drug Administration. Although two candidates have been in the running for the top job ..."
+    publishedDateTime: 2021-03-30T21:11:00Z
+    webUrl: "https://www.cnn.com/2021/03/30/health/fda-commissioner-biden/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/health/fda-commissioner-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/health/fda-commissioner-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118004047-fda-headquarters-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

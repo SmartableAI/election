@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden in no rush to pick new FDA chief"
+    excerpt: "(CNN)More than two months into his presidency, President Joe Biden has yet to name someone to lead an agency at the forefront of the coronavirus fight: the US Food and Drug Administration. Although two candidates have been in the running for the top job ..."
+    publishedDateTime: 2021-03-30T21:11:00Z
+    webUrl: "https://www.cnn.com/2021/03/30/health/fda-commissioner-biden/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/health/fda-commissioner-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/health/fda-commissioner-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118004047-fda-headquarters-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to nominate 3 prosecutors to head U.S. attorneys' offices in New York"
     excerpt: "WASHINGTON — President Joe Biden is expected to nominate three prosecutors to run the U.S. attorney’s offices in New York state, including the first Black man to run the Southern District of New York in Manhattan and the first Black woman to head the ..."
     publishedDateTime: 2021-03-24T13:41:00Z

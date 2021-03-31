@@ -2,26 +2,26 @@
 category: news
 title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
 excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-publishedDateTime: 2021-03-30T12:10:00Z
-originalUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+publishedDateTime: 2021-03-30T14:23:00Z
+originalUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+webUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+ampWebUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: WTVO
-  domain: mystateline.com
+  name: TexomasHomepage.com
+  domain: texomashomepage.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
+  - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/03/pence.jpg?w=1280"
     width: 1024
     height: 683
     isCached: true
@@ -438,6 +438,6 @@ related:
         height: 683
         isCached: true
 
-secured: "eITwChefWLWBlXTjiq8fM2HUT7JWXa7eWouAZw3yaMJL5k4J6X1im6Jxu5WVpPsDl2lLQ04FN+8hE1ULzwxUMy5kbADSeXW/eJmx3ZR1wzB6RmD/p4mKnlrypAqn7AM+7NJKLrZ9sAlcRxYLgHike9/pLdnVhc/DgQFVdbfTPncCW+PK6onEc+nJ4IubzrkoODEBMbL7qsIRL7dBuMBAk+ey3n4UIjrgbof5rIp4GenzCFDSUoLjl2yp0fFLXEFoADK+GgfBcjYCtlrgcv5qI4MViivrRzOpzrHr9YmqXtvX4ji1u3upwIcbNOuYUoQiYUNZmNlqNGEIBuhbyBWGyDX/2rJ0iI1SfhZh46NCmOU=;smN1gIFUAJf6XfIzgR6NQg=="
+secured: "jy4KhSLzoAfuo5bL+saSxo2BgcjKwR9AhjHerLqspfZBhMcBL1cEY97uHPp5bddIzRDwHtX1KpoXUmC8FzT4JxVb8zZRKxP7jl9COU/raAxkix8BiM7VI3y8VG9SpzDjCl6S6+nY7D0V1A/uHQ9GGHhCf9XHoRvrIc7WvbipMlU+99S86+Wnh1KtAYn5mhIdfP2kOMMmGHrbbZ5u6EbRCndOhtIs3oIcmiRqFJhh6XAkEGf0hNFqPiagzy+6Gv0iVBIeANaM3Kltavv7zQWC6JZyClagq4aM+fi5Y9RV/7kbRC27UWdHOFByzORh1uDSkUyaNIKObTO+abhkwucKR8BSZnbfwptTwbe1ZsD/aog=;iMMHvTY4HlQtkqIYnHxn7w=="
 ---
 

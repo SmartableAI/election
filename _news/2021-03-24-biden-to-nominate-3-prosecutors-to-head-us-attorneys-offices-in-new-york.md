@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden in no rush to pick new FDA chief"
+    excerpt: "(CNN)More than two months into his presidency, President Joe Biden has yet to name someone to lead an agency at the forefront of the coronavirus fight: the US Food and Drug Administration. Although two candidates have been in the running for the top job ..."
+    publishedDateTime: 2021-03-30T21:11:00Z
+    webUrl: "https://www.cnn.com/2021/03/30/health/fda-commissioner-biden/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/health/fda-commissioner-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/health/fda-commissioner-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118004047-fda-headquarters-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats push Biden to take on Pharma to boost global vaccine supplies"
     excerpt: "President Joe Biden is facing growing pressure from Democrats to ensure that billions of people in poor countries have access to Covid-19 vaccines as the United States steps up its production and distribution of the shots. Biden has taken some first steps ..."
     publishedDateTime: 2021-03-21T07:00:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.upi.com/News_Photos/view/upi/3690f6ef0605b6b938b0be16c
 webUrl: "https://www.upi.com/News_Photos/view/upi/3690f6ef0605b6b938b0be16c5a07fb4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: UPI.com
@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "In first press conference, Biden talks immigration, filibuster, China, vaccination goal"
-    excerpt: "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office."
-    publishedDateTime: 2021-03-26T09:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6984142002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002"
+  - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
+    excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
+    publishedDateTime: 2021-03-27T00:59:00Z
+    webUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/"
+    ampWebUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 53
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/25/USAT/207eaa26-a590-4f9b-b833-309b77367412-AP_Biden.jpg?auto=webp&crop=5637,3171,x0,y286&format=pjpg&width=1200"
+      - url: "https://thumbnails.texastribune.org/-mWa9Z9pNCv1H7M3mGZ0k5UJXE8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/72457b5f083d35a5cc2fb98be9f57954/Migrants%20RGV%20REUTERS%20TT.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Boulder Congressman Joe Neguse leads over 60 Lawmakers in calling for Biden Administration to ban importation of Military-Style Assault Weapons"
-    excerpt: "Colorado Congressman Joe Neguse and Illinois Congresswoman Robin Kelly led a letter signed by over 60 lawmakers to President Joe Biden, calling for him to issue an executive order to ban"
-    publishedDateTime: 2021-03-25T22:06:00Z
-    webUrl: "https://www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/"
-    ampWebUrl: "https://www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/amp/"
-    cdnAmpWebUrl: "https://www-eptrail-com.cdn.ampproject.org/c/s/www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/amp/"
-    type: article
-    provider:
-      name: Estes Park Trail-Gazette
-      domain: eptrail.com
-    quality: 39
-    images:
-      - url: "https://www.eptrail.com/wp-content/uploads/2021/03/TDP-L-CANDLELIGHT_VIGIL__HHR9492.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+        height: 630
         isCached: true
 
 secured: "qj5wnHBn7KXMdl8KfvyOSSsecTZcOsFsqempMmncC7np2WcoYxuKdlTD0MgV2wm4akwOVo6PAuRKvb8hJIuPgQZsuMKdzyhryMCOry4gkejTZUZK2HBVT4ZutjIacwSmJfqjwR19MiF26/ZKdd53vXg8Ft1SNNfv70DBDNRQP7GoOTh8Euc6540ooFWqD4P4kLGpcSFaisQhkFMTPl9EFWa9vyeu8kNfJFacnG7DfmCB2sdHVwG43ziu2NJRJ6R8lVBRHMHL7Z/mmKXQ6irvjvRO04mc8Mx/dr/01Hgd4HHsEaRKi6KkIJpx5hFnmvKSfDvXef5PfLqaudO9y2P4r7PXb73x0gGP3mfmLJ8FmOY=;WaonOwgmA1clcDQLbdwdRQ=="
