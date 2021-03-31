@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-30-new-mexico-rancher-encountering-migrants-near-her-house-biden-admin-gave-green-light.md",
+      "title": "New Mexico rancher encountering migrants near her house: Biden admin gave 'green light'",
+      "excerpt": "A rancher from New Mexico, Amanda Adame, told “Fox & Friends” on Tuesday that migrants have been getting “fairly close” to her house and have been asking her for food and water amid the surge at the U.S. southern border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fJw1OxSy79Y/new-mexico-rancher-migrants-house-food-water-biden-green-light",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fJw1OxSy79Y/new-mexico-rancher-migrants-house-food-water-biden-green-light",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/new-mexico-rancher-migrants-house-food-water-biden-green-light.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-mexico-rancher-migrants-house-food-water-biden-green-light.amp",
+      "publishedDateTime": "2021-03-30T06:04:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-kamala-harris-stepson-cole-emhoff-calls-out-snl-for-omitting-him-from-family-skit.md",
       "title": "Kamala Harris' stepson Cole Emhoff calls out 'SNL' for omitting him from family skit",
       "excerpt": "Kamala Harris' stepson Cole Emhoff was disappointed \"Saturday Night Live\" left him out of a sketch portraying his family.",
@@ -586,7 +642,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1022,7 +1078,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1290,49 +1346,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-snl-maya-rudolph-martin-short-play-kamala-harris-doug-emhoff.md",
-      "title": "'SNL:' Maya Rudolph, Martin Short play Kamala Harris, Doug Emhoff",
-      "excerpt": "Saturday Night Live alum Maya Rudolph returned to guest host the sketch-comedy series this weekend. Rudolph reprised her role of Kamala Harris, vice president of the United States, while comedian and former SNL star Martin Short made a surprise appearance as Harris' shy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
-      "originalUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/5701616939292/2021/1/f2b1a89417fc11cd4b17e790312cb091/v1.5/SNL-Maya-Rudolph-Martin-Short-play-Kamala-Harris-Doug-Emhoff.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
-      "publishedDateTime": "2021-03-28T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

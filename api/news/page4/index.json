@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-26-schiff-aide-moves-to-white-house-as-biden-rounds-out-press-team.md",
+      "title": "Schiff aide moves to White House as Biden rounds out press team ",
+      "excerpt": "The White House is rounding out its press operation, adding a veteran Capitol Hill aide as President Joe Biden prepares to launch his next major agenda push.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xANsBiIK0Tk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xANsBiIK0Tk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325200615-emilie-simons-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html",
+      "publishedDateTime": "2021-03-26T03:03:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-in-first-press-conference-biden-talks-immigration-filibuster-china-vaccination-goal.md",
       "title": "In first press conference, Biden talks immigration, filibuster, China, vaccination goal",
       "excerpt": "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office.",
@@ -1310,62 +1366,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-gop-colorado-rep-boebert-accuses-biden-of-politicizing-boulder-shooting.md",
-      "title": "GOP Colorado Rep. Boebert accuses Biden of 'politicizing' Boulder shooting",
-      "excerpt": "Rep. Lauren Boebert, R-Colo., accused President Biden on Tuesday of “politicizing” the mass shooting at a Boulder, Colorado grocery store that left 10 people dead after he called for a nationwide ban on assault weapons.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iey3Q1m3slk/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iey3Q1m3slk/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6211072-992a-4ecc-8a90-aec4ee25b5ba/70143626-86b7-45ff-aef5-2783f9b0a8ee/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting.amp",
-      "publishedDateTime": "2021-03-23T17:33:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

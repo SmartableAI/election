@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp"
 type: article
 quality: 171
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Dr. Scott Atlas blasts 'despicable' Birx and Fauci 'trying to overtly rewrite history' on coronavirus, Trump"
+    excerpt: "Dr. Scott Atlas, a member of former President Trump's coronavirus task force, blasted his ex-colleagues Drs. Anthony Fauci and Deborah Birx, after they went on CNN and tried to 'rewrite history'"
+    publishedDateTime: 2021-03-31T04:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4jiTKbgihc/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9425dea-559a-4dae-a3d4-0827e74f47de/9da07aed-eee1-4d47-bd13-f536575751fb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8OUesc2Wj4rkQyqtv7yBEn9iOTwcin0O5P55THvluHqlWtrYbg1Ovv/B1duGYsMysZbLQNu6LBvWePgmOZoGoz7ErrfeYpXDMLtBxZRCC++xDvTnVkP4EhieY2+sKHkdfyhGmt9hclOOU1injnIv8C33Sp/naG2afqrImiXDY5vUwkP9uzBTbu1uGwQ9GTmvPEavjpAfayEPUzYpOh3OdhHyYCtr4Y9snJO78nXL5dkztQ8rpo0T42pT5kAbtzx1dlhe82FQmm5IqqiFB3SScplQv7LWrCXqF4pBHPGTfsBEOCdArSTDU5AnyreO6alkCh+r7CvW73emms2h7ESEVlFlXJxStHNAzPOFKnQVk8I=;B5sqHwYvh+dtM7q0k0w0oQ=="
 ---

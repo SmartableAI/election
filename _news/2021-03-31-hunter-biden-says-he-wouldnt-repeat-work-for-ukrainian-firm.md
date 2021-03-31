@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Joe Biden stumbles on steps of Air Force One – video"
-excerpt: "Biden tripped on the steps up to the plane, before recovering and carrying on unaided, turning to salute at the top. The 78-year-old fractured his right foot in November 2020 while playing with his dog Major"
-publishedDateTime: 2021-03-19T16:45:00Z
-originalUrl: "https://www.theguardian.com/us-news/video/2021/mar/19/joe-biden-stumbles-on-steps-of-air-force-one-video"
-webUrl: "https://www.theguardian.com/us-news/video/2021/mar/19/joe-biden-stumbles-on-steps-of-air-force-one-video"
+title: "Hunter Biden says he wouldn’t repeat work for Ukrainian firm"
+excerpt: "WASHINGTON — President Joe Biden’s son Hunter says his service on the board of a Ukrainian gas company, which Republicans tried to turn into a negative during the 2020 presidential campaign, wasn’t unethical and didn’t represent a lack of judgment ..."
+publishedDateTime: 2021-03-31T05:13:00Z
+originalUrl: "https://www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html"
+webUrl: "https://www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/d6ef58a7b181b9644d28d4dfdb226084793193af/383_225_1330_798/master/1330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc86c28c013057900cc2754db6dbee37"
-    width: 1200
-    height: 630
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -413,22 +415,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Hunter Biden says he wouldn’t repeat work for Ukrainian firm"
-    excerpt: "WASHINGTON — President Joe Biden’s son Hunter says his service on the board of a Ukrainian gas company, which Republicans tried to turn into a negative during the 2020 presidential campaign, wasn’t unethical and didn’t represent a lack of judgment ..."
-    publishedDateTime: 2021-03-31T05:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
     publishedDateTime: 2021-03-26T20:19:00Z
@@ -636,6 +622,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/24/USAT/779adc61-27e0-41c5-9938-dc23ea32e59a-VPC_WHITE_HOUSE_DOGS_GO_BACK_TO_DELAWARE_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x2,y2&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden stumbles on steps of Air Force One – video"
+    excerpt: "Biden tripped on the steps up to the plane, before recovering and carrying on unaided, turning to salute at the top. The 78-year-old fractured his right foot in November 2020 while playing with his dog Major"
+    publishedDateTime: 2021-03-19T16:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/19/joe-biden-stumbles-on-steps-of-air-force-one-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/d6ef58a7b181b9644d28d4dfdb226084793193af/383_225_1330_798/master/1330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc86c28c013057900cc2754db6dbee37"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden administration tries to get control of border, story"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — As at the U.S.-Mexico border, President Joe Biden’s administration has been caught on its heels and is now scrambling to manage a humanitarian and political ..."
@@ -1027,6 +1027,6 @@ related:
         height: 604
         isCached: true
 
-secured: "u3PfhfGZC+t/0bdYBz3en7csGsxiEkP18GEIrRwZzNBZ20w1Mf4IR1moHjdf93Y82LWr6zOaY+unB9Wx4MNSmV/UweiBRewlHBBEZpIGNtp5CKn+Vts7pHMPdXt+OtwXIqFUetBR9EAQ9TR8WLPSrNuh9sBgFTqtgWcCP8jxjZOuKYnM2tZ1SMXJS/OUVgFdGCAzQHMwVzzj/KdJXe0jr+y+glsDGy+q/lBKokUW84v3U2oaFGU2pF6WPzwMfQdUu2jvmATt9YmbSXu9VgtffhqBnf+BeuIZoApRsfikBAyT/kvpda43tgNCjiv8Ll9VsxOHdmP86O7c5fTdDxfnbYrLhZ22PsCcTKLWtuzV1GOnGeeOTzzVOUUqdfUS2KirMvyE0qyQh09s+emkHz/JiUnYGEdeIWCsTkIAwrC1SWNOrrOJqyWDSe6tQahj4LC3QG8L4FDSXPUyk+C4QYYsJf1r6uGlFKJLJ78Q6Df4In0Iuzz2SfLYjmwWRWqW8yP+6HmXJZyk7mqwBBzyAKWgSw==;WVA55MHrDl5kxk6QK8H8cQ=="
+secured: "1AvE4GdSPBAKgE+3I7s9RVA2rFsUcQ2yKurnQ4d6d12kT6DP7VQl6amElzCSsMtENF4Ql7hzwSuf3zMSYwe6XDIkY/nKdPM3Us5xihQkqVT2dPyjZJxrjCZE0xn1EIgC/XKKxwdaHXPMdsZMqHNt3tQ60usbs5JIS7ZJsG1gMF3vWzPhhaanQYoBd+Fe8GhSvILppqWQBXb7tWU2pz2ghR/ppjLvyZW/kHQimbJt+/LOS5Ob67IKbJppfiOqG7IirEurDlcI2H4WbfUeksiC5XuI7VfmPi3h0yvWWpcW03ORhglxUQa1K/wRnwDlTaJY9AjuUq3PMhyggTX3hWMXMb80Og39bXAMILk0MbN4YxE=;/w/g8zDHTTuQXoDD0RfNwg=="
 ---
 

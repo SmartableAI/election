@@ -415,6 +415,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Hunter Biden says he wouldn’t repeat work for Ukrainian firm"
+    excerpt: "WASHINGTON — President Joe Biden’s son Hunter says his service on the board of a Ukrainian gas company, which Republicans tried to turn into a negative during the 2020 presidential campaign, wasn’t unethical and didn’t represent a lack of judgment ..."
+    publishedDateTime: 2021-03-31T05:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
     publishedDateTime: 2021-03-26T20:19:00Z
@@ -1011,6 +1027,6 @@ related:
         height: 604
         isCached: true
 
-secured: "GPGQwqXun5axyYC3qWNjMPwAVZKJ6QlLKV8xr2JyBPRYkexO/1CF5MzIPwLG9aD/2/VJg0zhVOdNWBIJX3PygK37LpEb/CVRfQBv1c6PMX3XZ18H9r8aAKcFozVMNJOFMGxAdeINCqQ8/4/+c4L8Gmbpe4eIB2aXwIg5Hi/EDRUCeeoOPaN1sjhXsWMXesdphb0p20TO7bBify5Ng5jfTQVCIAfJgl9WleTONt1KyY92wQsZl05R7p3V4McqbzVNNOv+WqhhMurd5u3jpue46VFF2z1nEW5i+yHj4qIavZu+EFTJA3JCv3DPkzbJqoEfDUV1VIBGSRSpMul6LAUDGEi+VEWg44odlNxg1nz0jr4=;PPBSLGIyHdGA1uzfN1EgeA=="
+secured: "kPK34C67iAbAebq0PZrPfydJroYZvHqBvtzuT/MOTCqwaQ4YxBz9aKH1p2JCaEtD0wjOCMhmWhBbuNnzR3Aq1bC5xVl11FYg7gC+5iBXSCy15ekme/sBubU3N0H+5nr4VrgEVOTcpmmXlnu7lvBmt3TFiWgxW7rz4SIsVr14e8FbZV232l3sqWuXgBGp8taXVrzraeRbgqdgvbyL1bWvf5qNhgXfRsjB0z/5BOodb1g1apZLd7ENQCVaHzitG3haquJOEYzi/ha5hV8KTUcbBwzMRXdSq/MchdVXdLt9OhET1XvBBcbLQetn4T7/LYDNAfvygHNLLfq82kFLV22U/ZyfG9ym4hN3SZuHiPsEIuNyjtfZ8Hj1bOar6g5SyZnNE2hnD5pbXSNC2I1v3EKrFFpxYUqgmxBWDMqiPyQbf7A8d6jpIN9Z0V69mI+L1rpho73TRlfQPw9Tr7uZGuLHgcSHS9vh8OBUdyiQaHCRpX4h1ZdU2IWXWn/VoEAKmrRZTZTFiLY1ozurAAacIXQPkw==;UqYZXyDkc3QOBn9zY3vHyg=="
 ---
 

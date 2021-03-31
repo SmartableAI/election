@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-apprentice-contestants-lawsuit-against-trump-can-resume-ny-court-says.md",
+      "title": "‘Apprentice’ contestant’s lawsuit against Trump can resume, N.Y. court says",
+      "excerpt": "NEW YORK — The New York State Court of Appeals on Tuesday ruled that a defamation case against former president Donald Trump, brought by an \"Apprentice\" contestant who alleged he sexually assaulted her years ago, can go forward as the immunity claim he ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/summer-zervos-trump-lawsuit/2021/03/30/a0c55060-918d-11eb-a74e-1f4cf89fd948_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/summer-zervos-trump-lawsuit/2021/03/30/a0c55060-918d-11eb-a74e-1f4cf89fd948_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WZNE3XERSEI6XJ2OD5GPRH6ZJA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/summer-zervos-trump-lawsuit/2021/03/30/a0c55060-918d-11eb-a74e-1f4cf89fd948_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/summer-zervos-trump-lawsuit/2021/03/30/a0c55060-918d-11eb-a74e-1f4cf89fd948_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-30T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-poll-one-third-would-use-a-trump-backed-social-media-platform.md",
       "title": "Poll: One-third would use a Trump-backed social media platform",
       "excerpt": "One-third of voters said they would use a social media platform that was backed by former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite vaccine ...",
@@ -1496,58 +1548,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-cpac-2014-trump-compares-obamas-disapproval-rating-to-carters.md",
-      "title": "CPAC 2014: Trump compares Obama's disapproval rating to Carter's",
-      "excerpt": "Addressing CPAC in Oxon Hill, Maryland, real estate magnate-turned-reality TV star Donald Trump claimed that President Obama is turning out to be worse than former President Jimmy Carter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/cpac-2014-trump-compares-obamas-disapproval-rating-to-carters/",
-      "originalUrl": "https://www.cbsnews.com/video/cpac-2014-trump-compares-obamas-disapproval-rating-to-carters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/4e23eae5-a7fb-4320-80a7-d9b4d25ca390/thumbnail/1200x630/5246c015c4d1c805406987e92c06bee6/politics-trump-306-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

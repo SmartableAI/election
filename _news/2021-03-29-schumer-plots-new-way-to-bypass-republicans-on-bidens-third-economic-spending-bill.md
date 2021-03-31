@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/schumer-reconciliation-biden-third-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-reconciliation-biden-third-economic-spending-bill.amp"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f951585d-1e2c-4820-b736-c3d5188c7fff/9c37fc46-b54b-4522-a271-887cac9b5adf/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sen. Ron Johnson: Biden border policies facilitating business of the 'most evil people on the planet'"
+    excerpt: "Sen. Ron Johnson, R-Wis., slammed the Biden administration’s immigration plan as \"misguided\" telling \"Fox News Primetime\" it is going to lead to \"greater inhumanity.\""
+    publishedDateTime: 2021-03-31T04:28:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pu62k5rxjm0/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "Q/sNaLLNCde02tYvn96Fpyk3LDHwn4HqXYTwLVWMlOp1+X1Aymrn+x9xchY6GmGD2H3j+nuQ/oQxeMdhDKXFHkgNKb9dy9EeB6YhayBDqJFKOKwCmjXCVHahGUToxX3vqFOThhoeaus7EV5rbv875pLrJkj0vUmZdiyjq2QMsctsKCB6wPsKoYEHf+IodIWHGPhvYMtWEB0DmZt2hb/DKHvyS9svnPwSgVShYefGZGkdO9/SYscBU1gIXUeCO9hZUznd52tDYlvr2yfpeXwgp1Np01dNK4olxjh+rLHiSUnNJyEVYtHangCksLEfgncPqI1k1hmFbDvLWqLZ11pc2tapVPThh1etu93D/XaMbXs=;kKu9QR/yKkn2eP+Fs4dcrQ=="

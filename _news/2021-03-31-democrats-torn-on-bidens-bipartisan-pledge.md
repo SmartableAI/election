@@ -399,6 +399,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Hunter Biden says he wouldn’t repeat work for Ukrainian firm"
+    excerpt: "WASHINGTON — President Joe Biden’s son Hunter says his service on the board of a Ukrainian gas company, which Republicans tried to turn into a negative during the 2020 presidential campaign, wasn’t unethical and didn’t represent a lack of judgment ..."
+    publishedDateTime: 2021-03-31T05:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm/2021/03/31/c98c7fbc-91df-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
     publishedDateTime: 2021-03-26T20:19:00Z

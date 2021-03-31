@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Sen. Ron Johnson: Biden border policies facilitating business of the 'most evil people on the planet'"
+    excerpt: "Sen. Ron Johnson, R-Wis., slammed the Biden administration’s immigration plan as \"misguided\" telling \"Fox News Primetime\" it is going to lead to \"greater inhumanity.\""
+    publishedDateTime: 2021-03-31T04:28:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pu62k5rxjm0/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "wZy9zjp1QDAPgkap/qTjHo6cRffr1G8qE/8yID0lO3l+KhPZkmYz0Q5T0H5pU4aG8NnjX55Px6Rf+dU5uzA5xfk4rxIXDc1pxjzUGRd0HpTARwX2zvbyv23uyiwk8Jnsc9UAEg8eHTGvp/RYitJetGPehR4PekndL7HAV1reXBsJ64imgVO2tvopJOjVxAg/9xzdCwPALdjNFIULpiJGEJOd7RgTMMVj5TyEdhFaMCkdit91EGZCWSXBvANRanw1qQ40oBcga9DaT7o2JLtgMlqlsB8EWjjNrAdK+u+46nUAMugLwafL7dPRibOIxrts+MJDGAt4u9b4ewnmOOshf7ePgzJ31iyGYxyT1goXrO0=;Xx0UxllOZjlbKESo+95pgA=="
 ---
