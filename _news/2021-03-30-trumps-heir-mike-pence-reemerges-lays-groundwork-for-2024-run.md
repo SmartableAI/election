@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
-excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-publishedDateTime: 2021-03-30T12:10:00Z
-originalUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+excerpt: "Former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. after leaving office. Pence is steadily re-entering public life as he eyes a potential run for the White House ..."
+publishedDateTime: 2021-03-30T12:58:00Z
+originalUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+webUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+ampWebUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+cdnAmpWebUrl: "https://www-conchovalleyhomepage-com.cdn.ampproject.org/c/s/www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: WTVO
-  domain: mystateline.com
+  name: Concho Valley Homepage
+  domain: conchovalleyhomepage.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
+  - url: "https://www.conchovalleyhomepage.com/wp-content/uploads/sites/83/2021/03/pence.jpg?w=1280"
     width: 1024
     height: 683
     isCached: true
@@ -438,6 +438,6 @@ related:
         height: 683
         isCached: true
 
-secured: "r9ljsVJviHqPC2LL5iaqjH4usKSAY8NLTh/iJSlsVNQBGuo6zPHZSbi9y2X4rCaT0ieTf5xeUitAnbIyqiwJhioq/Cm3maDFkNL5ZMt7zgtwFVIU5C4HbE48mFWOc6j7tvCepsvj4Jh0EDqvvymL0LATqZBfYgSzabWoJ8V2O1kPxk7eMMIc0ydFqeYS7TgWreWwcJyw4kka6O8VHeHZWDDvbl8JiQxXlX3YRBCdWd/5k+0il/bDWJ6D3NpsOwKRBB1RlzbAsLPPQFb22rI4jpHdxGjQOnPPAj8BRttkSvXi0Yv9w+jxFxlJoz9qHOp07AZJb8uEN5OkC6jXgb24+BnW5mW8pMgBlC8+QtLMI9I=;XLkrBzkhTwmJF01v3+zQEA=="
+secured: "C+E3iG9me4eLN/fJXoCfE8gFasB9UE7nvpqF+0qXRN11oXbngq6RwQNX1LouOxDapaLi7YsIoyDfRYtYH0HBoPhTeEfvIZG5FD2xBPR3Ao0M2AVtrpwwLRxyPD4CJ50megwdkm0UHlgqZ1JKcQEYkXh36P1gAL8T1pS89GlAZMx92TjaVA0eaNo9UqqF7S/FAnCqR/SNlXe1Etz7Jo/pqfE1enCmROqcbrYQn0iwIgCrjIKaIlN4VsJKiXcaVshLuKQqVSvCOHvfgaGT9vmzLw0G4AeXyPJQuZqn3RB0f9cN4Ky2e/J/oib082G9b13N+98yR5CUw7r8liGw4TAAejHBpCoZG6bcktYHDOkg/oQ=;eUmKUj8uSNht1aPFjfGhiA=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 3000
         height: 2147
         isCached: true
+  - title: "Top Trump adviser pushed controversial COVID-19 medical supply deals, documents show"
+    excerpt: "A top adviser to former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle ..."
+    publishedDateTime: 2021-03-31T13:22:00Z
+    webUrl: "https://thehill.com/policy/healthcare/545706-top-Trump-white-house-advisor-pushed-controversial-covid-medical-supply-deals-Navarro"
+    ampWebUrl: "https://thehill.com/policy/healthcare/545706-top-Trump-white-house-advisor-pushed-controversial-covid-medical-supply-deals-Navarro?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/545706-top-Trump-white-house-advisor-pushed-controversial-covid-medical-supply-deals-Navarro?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/navarro_051720getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump Gearing Up For Social Media Return With Own Platform"
     excerpt: "After months of being banned from social media sites, he's decided to launch his own site in the next few months."
     publishedDateTime: 2021-03-21T20:51:00Z

@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-30-judge-allows-summer-zervos-defamation-lawsuit-against-trump-to-proceed-now-that-hes-out-of-office.md",
+      "title": "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office",
+      "excerpt": "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
+      "publishedDateTime": "2021-03-30T11:13:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-fox-news-hires-lara-trump-and-promotes-former-white-house-press-secretary-kayleigh-mcenany.md",
+      "title": "Fox News hires Lara Trump and promotes former White House press secretary Kayleigh McEnany",
+      "excerpt": "An envelope. It indicates the ability to send an email. Fox News is doubling down on its ties to former President Donald Trump. On Monday, Fox announced it has hired the former president's daughter-in-law, Lara Trump, as a paid contributor. On Tuesday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3",
+      "originalUrl": "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60633eddc9d73b00186e9269?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3?amp",
+      "publishedDateTime": "2021-03-30T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-summer-zervos-lawsuit-against-donald-trump-can-move-forward.md",
       "title": "Summer Zervos Lawsuit Against Donald Trump Can Move Forward",
       "excerpt": "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims.",
@@ -110,7 +218,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -274,7 +382,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/hunter-biden-book-donald-trump-vile-beautiful-things-ukraine",
       "featuredContent": null,
       "highlight": null,
-      "heat": 378,
+      "heat": 398,
       "tags": null,
       "images": [
         {
@@ -372,58 +480,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-schumer-mulls-obscure-procedural-maneuver-to-pass-bidens-infrastructure-bill.md",
-      "title": "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill",
-      "excerpt": "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/",
-      "originalUrl": "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/25/9cae5818-8a59-4895-b7b3-043827db64f5/thumbnail/1200x630/715b9965c2cc7d60f9872aee9b90ad30/gettyimages-1231927141.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/",
-      "publishedDateTime": "2021-03-30T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1173,49 +1229,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-president-joe-biden-and-first-lady-visit-the-vietnam-war-memorial.md",
-      "title": "President Joe Biden and First Lady Visit the Vietnam War Memorial",
-      "excerpt": "U.S. President Joe Biden and First Lady Dr. Jill Biden visit the Vietnam War Memorial in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/News_Photos/view/upi/3690f6ef0605b6b938b0be16c5a07fb4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/",
-      "originalUrl": "https://www.upi.com/News_Photos/view/upi/3690f6ef0605b6b938b0be16c5a07fb4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/pv/upi/3690f6ef0605b6b938b0be16c5a07fb4/BIDEN-WAR-MEMORIAL.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

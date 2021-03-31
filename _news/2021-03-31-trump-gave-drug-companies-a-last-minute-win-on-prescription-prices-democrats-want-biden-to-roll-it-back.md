@@ -127,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "'Major' pain: Biden's dog involved in 2nd biting incident"
+    excerpt: "President Joe Biden’s dog Major on Monday was involved in his second biting incident this month WASHINGTON -- President Joe Biden's younger dog Major this week was involved in his second biting ..."
+    publishedDateTime: 2021-03-31T04:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/major-pain-bidens-dog-involved-2nd-biting-incident-76777615"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/major-pain-bidens-dog-involved-2nd-biting-incident-76777615"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/major-pain-bidens-dog-involved-2nd-biting-incident-76777615"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_985375203bdb4cbd87e4a4c5f7165a0d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Corporations, wealthy pay in Biden infrastructure plan, not drivers and riders"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden’s plans to spend billions of dollars on the United States’ crumbling roads and mass transit include a novel twist - making companies and wealthy households, rather than drivers and riders, pay the cost."
     publishedDateTime: 2021-03-30T09:18:00Z
@@ -218,6 +234,6 @@ related:
         height: 731
         isCached: true
 
-secured: "4aCx11Ce+V9Vz8zM1IWLgNHRABp9y4HOX86aoEiThDkLs/50zlWrBZ2MN3BduU/onQhdwNxhlS7KKCip3v9pXjbDTWyvAaeyvQyE2rm5b0PnhGqliN0moximD9kNSYWVGUJEYo18SnjD/38r5uWJQjKoc/6x5EEBaO8PeWI05sdKrtD/sDNVfATXmpZivTTMKswHfc92B3uHTy8UUfyPh+BpD03ElbHYP9ierX4GGqIQtFPL6dvyPOr0KQlcteAaUUOqmQeIf+no30Easm61udxUZwMTD9pF35Oe3wXShuZcRXjz83lMyJD5Gc33E9CarVGgn6Jn6IyDzAYNIeT6CVclOe3W+NEh08tIILg0KII=;W/PE7houNLeo46wSrB8kFg=="
+secured: "IbKehtlW3SIJzH+UfR3eR4i7gKOeSTU1F7gaSeEc6zJbvoDVX/E80CjEPCmUHJHKHWWxO1IAq0dPOo2zfXgwnb0l3dMmCQku/uiWw2E8+R+1HJjS++CivqNXbD88wwsfYz7otPcSDhlWQsTQyWEYE4WQn/YUOUz8RZxF9aFKb8dFrF4/CQO+kCJGXBCfDDj9YyxF+uLzQmHdB5LHNcUS/ELsIwUnvhg3yMokIyqiYv+WkBVvz/wlt/pLMz0ilQaSGG0cOaLDAkKnqUJATRAkt9YUDW7rpnBp07T9QBmt31hF4fVRz4vN8Rd909Zw3+0nTrAORp4u0floyFaTTC++iZO6Bu/I/04jADjZFqtsz/mnVcl9WiNIj3gqryEJAjbmtmH97Hw3I++34u2e9kFtvnSGztYKPeZxNnX/fyL7OSAns6qV+g/mw0Y9r4mb5idjvxsC0swQ7psILYfoDK9hV8pwv8JOa1toegA51YvusBZOTodq6+VCs0sHt08ui+7pLxvoCacXwF/xnpv+COx4jw==;o2B/7BlsLaD8qMLY4EHZ1A=="
 ---
 

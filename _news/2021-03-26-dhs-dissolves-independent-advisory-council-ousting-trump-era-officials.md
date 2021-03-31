@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/homeland-security-adviso
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static.politico.com/2d/73/9200ef2a4405836a379b04214f27/ap19064520411313-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Two Capitol Police Officers Sue Trump Over January Riot"
+    excerpt: "Former President Donald J. Trump “inflamed, encouraged, incited, directed, and aided and abetted” the Capitol Riot on Jan. 6, the officers’ lawsuit said. By Mike Ives Two Capitol Police officers who were on duty during the deadly Jan. 6 riot at the U ..."
+    publishedDateTime: 2021-03-31T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/03/31/us/politics/capitol-police-lawsuit-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/31/us/politics/capitol-police-lawsuit-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/capitol-police-lawsuit-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/world/31xp-trumpsuit-01/31xp-trumpsuit-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Texas museum removes Trump wax figure after visitors kept attacking it"
     excerpt: "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ..."

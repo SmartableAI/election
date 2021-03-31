@@ -347,7 +347,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 680,
+      "heat": 700,
       "tags": null,
       "images": [
         {
@@ -655,7 +655,7 @@
       "originalUrl": "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1316,7 +1316,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {

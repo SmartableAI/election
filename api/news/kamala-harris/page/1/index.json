@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-31-texas-gov-greg-abbott-wants-answers-from-harris-about-migrant-surge.md",
+      "title": "Texas Gov. Greg Abbott wants answers from Harris about migrant surge",
+      "excerpt": "The governor of Texas is demanding answers from Vice President Kamala Harris about the surge of unaccompanied children to the southern border, warning in a letter this week that the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/",
+      "originalUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-harris-border-03.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/",
+      "publishedDateTime": "2021-03-31T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-pavlich-calls-out-vp-harris-stop-laughing-when-youre-asked-serious-questions.md",
       "title": "Pavlich calls out VP Harris: 'Stop laughing when you're asked serious questions'",
       "excerpt": "The Biden administration's border policies are creating a catastrophe for everyone, Fox News contributor Katie Pavlich said Tuesday on 'Outnumbered,' in reaction to migrants receiving in-person schooling in San Diego while American students are continuing to learn from home.",
@@ -228,7 +276,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 680,
+      "heat": 700,
       "tags": null,
       "images": [
         {
@@ -324,7 +372,7 @@
       "originalUrl": "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1562,54 +1610,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-kamala-harris-tweet-about-dr-seuss-resurfaces-amid-racial-controversy.md",
-      "title": "Kamala Harris’ tweet about Dr. Seuss resurfaces amid racial controversy",
-      "excerpt": "Harris was a senator when she sent out the tweet, dated March 2, 2017, in which she wished the famed children’s book author a happy birthday.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
-      "originalUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-seuss-02.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
-      "publishedDateTime": "2021-03-03T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

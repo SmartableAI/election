@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-r
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
 type: article
 quality: 122
-heat: 162
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
+    excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
+    publishedDateTime: 2021-03-31T10:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-stocks-idUSKBN2BN1MD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1MD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1MD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556886083&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0SL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden faces the challenge of highlighting progress without relaxing restrictions"
+    excerpt: "President Joe Biden faces the challenge of highlighting progress without relaxing restrictions in the face of a potential fourth coronavirus surge."
+    publishedDateTime: 2021-03-31T09:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-gty-er-210323_1616541488590_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden promises 'historic' $2tn spending in infrastructure – but Capitol Hill fight awaits"
     excerpt: "President hopes to ‘unify and mobilize the country’ but his plan faces challenges from Democrats as well as Republicans Last modified on Wed 31 Mar 2021 05.14 EDT Joe Biden will unveil an expansive $2tn proposal to rebuild the country’s ..."
     publishedDateTime: 2021-03-31T08:14:00Z
@@ -47,21 +79,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden to host first press conference under pressure on immigration and guns – US politics live"
-    excerpt: "But Joe Biden still hasn’t had a formal news conference since his inauguration on 20 January. The stretch is the longest a new president has gone without meeting the press in the past 100 years, dating back to when Calvin Coolidge, a man known as ..."
-    publishedDateTime: 2021-03-25T10:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates?page=with:block-605c37b78f08a9515e8370b5"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates"
+  - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
+    excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
+    publishedDateTime: 2021-03-31T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
     images:
-      - url: "https://i.guim.co.uk/img/media/7d267c42fe0ca5906d541d0f55a58fc671e63bfa/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9bc03ce464544f0e6f608fe824ad872"
-        width: 600
-        height: 360
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "q4xI2d1VrSfkjqkLE5NQJpIFC0rIneaOU5OQl0SqkDAwy1p7/iQ4DmR+quPGjC2+WKA97fuJbWfiazx6vtacg3HiltJP+5034CwXMWFWwU27ewEx22p79Ly8pGYu0XI++K47ijPUrmacOIRFOpa2zARMPjtDiwsu7dWH+gwBpkHXYvgADqkHCtuD3C4SOBQgkEdsHvB5CrcO6Qn4B/iEaT/OjkQwJb74m8Pcb2o3FZK1Ta+hHP83lGIRhWvrXw4VGJPOsXEJ/Hw7sUx9iqzNu1yzCYnvhh1pmkbUtXxNVzJL4svFobvG6T6wDEuzQ8YueL5EHDUaibaJNkGcWtusmiJTgxo+h2GEFGG4UJcwyt4=;j2TjoJgOJtBPS0xVDI78kw=="

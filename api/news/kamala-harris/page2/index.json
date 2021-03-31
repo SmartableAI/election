@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-kamala-harris-tweet-about-dr-seuss-resurfaces-amid-racial-controversy.md",
+      "title": "Kamala Harris’ tweet about Dr. Seuss resurfaces amid racial controversy",
+      "excerpt": "Harris was a senator when she sent out the tweet, dated March 2, 2017, in which she wished the famed children’s book author a happy birthday.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
+      "originalUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-seuss-02.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
+      "publishedDateTime": "2021-03-03T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-inside-the-progressives-push-to-use-kamala-harris-presidential-ambitions-for-policy-leverage-in-the-biden-administration.md",
       "title": "Inside the progressives' push to use Kamala Harris' presidential ambitions for policy leverage in the Biden administration",
       "excerpt": "Progressives are pretty sure Kamala Harris will run for president again. Here's how they plan to use it to their advantage.",
@@ -1568,63 +1616,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-biden-harris-partake-in-arlington-wreath-laying-ceremony.md",
-      "title": "Biden, Harris partake in Arlington wreath laying ceremony",
-      "excerpt": "President Joe Biden and Vice President Kamala Harris, after being sworn in at the Capitol, traveled to Arlington National Cemetery for a ceremony at the Tomb of the Unknown Soldier. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGCJkdoT_Lc/biden-harris-arlington-wreath-laying-ceremony",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGCJkdoT_Lc/biden-harris-arlington-wreath-laying-ceremony",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 760,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Arlington-Wreath-Biden-Harris-AP-2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp",
-      "publishedDateTime": "2021-01-20T12:38:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

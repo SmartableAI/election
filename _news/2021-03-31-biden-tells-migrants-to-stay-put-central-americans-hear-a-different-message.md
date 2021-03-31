@@ -2,9 +2,9 @@
 category: news
 title: "Biden tells migrants to stay put. Central Americans hear a different message"
 excerpt: "The review revealed pervasive myths about immigration policy changes under U.S. President Joe Biden. “There’s 100 days of free passage across the border,” a Guatemalan smuggler told Reuters. The truth is much more complex. U.S. Customs and Border ..."
-publishedDateTime: 2021-03-31T09:03:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-immigration-messaging-insight/biden-tells-migrants-to-stay-put-central-americans-hear-a-different-message-idUSKBN2BN1BB"
-webUrl: "https://www.reuters.com/article/us-usa-immigration-messaging-insight/biden-tells-migrants-to-stay-put-central-americans-hear-a-different-message-idUSKBN2BN1BB"
+publishedDateTime: 2021-03-31T09:08:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-immigration-messaging-insight-idUSKBN2BN1BB"
+webUrl: "https://www.reuters.com/article/us-usa-immigration-messaging-insight-idUSKBN2BN1BB"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1BB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1BB"
 type: article
@@ -247,6 +247,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "C+iRAtWaLKZDrzTICj+BiZHirVxOMzCPVHRMqTe/fZLhtdqmoVCOtxsDBpIotaqqvc0Pvh7czxx8VCn/Ee5dccLdSCOt+5OT6SCyn4fDlH90hm3QPsSYrwNf8KiTPmK9icK+M1NTeclE9BwZvWBMX1seBa+kd4d5HG9nXD+5KDUcGfeRGnfaqb3/2ZgsGaJ8kTejLaylaQRRgPRSOCu7qawcFBmNewBYT66rA7P2d4BStsgRhTSlt65Rcj/sKpnSVeVYVk4T3SYSvAWuQHEhUG3/xI7iwi37Y+U8cM3CMsasHRy1Fw3RMNu4iHeRPfDpe0pfHe51bbr663NQ4SoRq/wRUsUGl9npGDUsTneSvAY=;7LXzH3Fe9VDwYTlG7UWU/g=="
+secured: "35KhrxGbGXs1gdzf4AuPJ5+sY4vplnc2GR+QNLF9fxHMzujs8Gy8cC40rugRJKVvRqUin/doVOX2Y1r9Mj4wvg/MJ5FCnVLZYB3jAGxtuOkyuAd6pKJ3zqunskQYHM3vUojVWIkzHZRhUMzJjUS/IlDsH/s7giHU8KVFu3Btz2oedIfrJLhloUevsn9Hvtckoi5xQ0DkZ7IZDHEA1XkO4fkhrDZN0LAL3v9mTyW7Jvw/JgYQ1Wyoc+SWKwOu/0+obTaY+Y+BABMJlyGkMoDsU9RjOnjmQ9dXYHPYKYC8jHxDVZh25NYQ5J5LTSlmG+g9hxyr+Iel+1A14JZNfmglGXi34aBRXQMTluPVPYZmUiY=;P7N2TiHGAywphu/yLbCYlg=="
 ---
 

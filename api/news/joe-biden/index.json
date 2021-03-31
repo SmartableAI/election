@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-31-biden-returns-to-pennsylvania-to-rally-swing-state-voters-for-massive-new-spending-on-roads-and-bridges.md",
-      "title": "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges",
-      "excerpt": "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition.",
+      "path": "_news/2021-03-31-sp-futures-flat-ahead-of-funding-details-on-bidens-infrastructure-plan.md",
+      "title": "S&P futures flat ahead of funding details on Biden's infrastructure plan",
+      "excerpt": "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/",
+      "webUrl": "https://www.reuters.com/article/us-usa-stocks-idUSKBN2BN1MD",
+      "originalUrl": "https://www.reuters.com/article/us-usa-stocks-idUSKBN2BN1MD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 204,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556886083&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0SL",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp",
-      "publishedDateTime": "2021-03-31T03:00:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BN1MD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1MD",
+      "publishedDateTime": "2021-03-31T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -106,21 +106,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-biden-faces-the-challenge-of-highlighting-progress-without-relaxing-restrictions.md",
-      "title": "Biden faces the challenge of highlighting progress without relaxing restrictions",
-      "excerpt": "President Joe Biden faces the challenge of highlighting progress without relaxing restrictions in the face of a potential fourth coronavirus surge.",
+      "path": "_news/2021-03-31-live-updates-biden-to-reveal-2-trillion-infrastructure-plan.md",
+      "title": "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan",
+      "excerpt": "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929",
+      "webUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
+      "originalUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/biden-gty-er-210323_1616541488590_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,16 +132,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929",
-      "publishedDateTime": "2021-03-31T02:02:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
+      "publishedDateTime": "2021-03-31T01:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -154,7 +158,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -190,58 +195,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-schumer-mulls-obscure-procedural-maneuver-to-pass-bidens-infrastructure-bill.md",
-      "title": "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill",
-      "excerpt": "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/",
-      "originalUrl": "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/25/9cae5818-8a59-4895-b7b3-043827db64f5/thumbnail/1200x630/715b9965c2cc7d60f9872aee9b90ad30/gettyimages-1231927141.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/",
-      "publishedDateTime": "2021-03-30T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -359,49 +312,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-president-joe-biden-and-first-lady-visit-the-vietnam-war-memorial.md",
-      "title": "President Joe Biden and First Lady Visit the Vietnam War Memorial",
-      "excerpt": "U.S. President Joe Biden and First Lady Dr. Jill Biden visit the Vietnam War Memorial in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/News_Photos/view/upi/3690f6ef0605b6b938b0be16c5a07fb4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/",
-      "originalUrl": "https://www.upi.com/News_Photos/view/upi/3690f6ef0605b6b938b0be16c5a07fb4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/pv/upi/3690f6ef0605b6b938b0be16c5a07fb4/BIDEN-WAR-MEMORIAL.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -675,6 +585,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-26-joe-biden-said-nothing-has-changed-about-border-crisis-but-child-surge-is-higher.md",
+      "title": "Joe Biden Said 'Nothing Has Changed' about Border Crisis, but Child Surge Is Higher",
+      "excerpt": "President Joe Biden said \"nothing has changed\" at the U.S. border with Mexico since he took office, but the surge in unaccompanied child migrants is higher than in former President Donald Trump's final pre-pandemic year. U.S. Customs and Border Protection ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096",
+      "originalUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1764866/president-joe-biden-first-press-conference.jpg",
+          "width": 963,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1",
+      "publishedDateTime": "2021-03-26T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-biden-taps-sen-manchins-wife-to-co-chair-appalachian-board.md",
       "title": "Biden taps Sen. Manchin's wife to co-chair Appalachian board",
       "excerpt": "President Joe Biden is nominating Gayle Manchin, the wife of West Virginia Sen. Joe Manchin, to be the co-chair of the Appalachian Regional Commission WASHINGTON -- President Joe Biden is ...",
@@ -707,6 +669,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-in-first-press-conference-biden-talks-immigration-filibuster-china-vaccination-goal.md",
+      "title": "In first press conference, Biden talks immigration, filibuster, China, vaccination goal",
+      "excerpt": "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/25/USAT/207eaa26-a590-4f9b-b833-309b77367412-AP_Biden.jpg?auto=webp&crop=5637,3171,x0,y286&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6984142002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002",
+      "publishedDateTime": "2021-03-26T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

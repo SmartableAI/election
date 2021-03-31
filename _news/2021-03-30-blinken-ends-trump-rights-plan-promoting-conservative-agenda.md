@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1767637/antony-blinken-secretary-state.jpg"
         width: 2500
         height: 1639
+        isCached: true
+  - title: "Top Trump adviser warned then-president on virus supply shortage, then pursued controversial deals"
+    excerpt: "A top adviser privately urged President Donald Trump to acquire critical medical supplies in the early days of the coronavirus outbreak — and after the warning was ignored, pursued his own ad hoc strategy that committed more than $1 billion in federal ..."
+    publishedDateTime: 2021-03-31T13:07:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/03/31/navarro-pandemic-supply-contracts-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/03/31/navarro-pandemic-supply-contracts-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/31/navarro-pandemic-supply-contracts-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4IDRPHTVJII6VLM3EVHMTGMTXQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Official: Blinken to reverse Trump-era global rights blueprint that promoted conservative causes, dismissed LGBTQ rights"
     excerpt: "Official: Blinken to reverse Trump-era global rights blueprint that promoted conservative causes, dismissed LGBTQ rights"

@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-faces-challenge-highlighti
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929"
 type: article
 quality: 120
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,37 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Said 'Nothing Has Changed' about Border Crisis, but Child Surge Is Higher"
-    excerpt: "President Joe Biden said \"nothing has changed\" at the U.S. border with Mexico since he took office, but the surge in unaccompanied child migrants is higher than in former President Donald Trump's final pre-pandemic year. U.S. Customs and Border Protection ..."
-    publishedDateTime: 2021-03-26T16:01:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1"
+  - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
+    excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
+    publishedDateTime: 2021-03-31T10:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-stocks-idUSKBN2BN1MD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1MD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1MD"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
+      name: Reuters
+      domain: reuters.com
+    quality: 124
     images:
-      - url: "https://d.newsweek.com/en/full/1764866/president-joe-biden-first-press-conference.jpg"
-        width: 963
-        height: 612
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556886083&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0SL"
+        width: 817
+        height: 545
         isCached: true
-  - title: "In first press conference, Biden talks immigration, filibuster, China, vaccination goal"
-    excerpt: "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office."
-    publishedDateTime: 2021-03-26T09:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6984142002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002"
+  - title: "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill"
+    excerpt: "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ..."
+    publishedDateTime: 2021-03-30T14:20:00Z
+    webUrl: "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/25/USAT/207eaa26-a590-4f9b-b833-309b77367412-AP_Biden.jpg?auto=webp&crop=5637,3171,x0,y286&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/25/9cae5818-8a59-4895-b7b3-043827db64f5/thumbnail/1200x630/715b9965c2cc7d60f9872aee9b90ad30/gettyimages-1231927141.jpg"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "Biden promises 'historic' $2tn spending in infrastructure – but Capitol Hill fight awaits"
+    excerpt: "President hopes to ‘unify and mobilize the country’ but his plan faces challenges from Democrats as well as Republicans Last modified on Wed 31 Mar 2021 05.14 EDT Joe Biden will unveil an expansive $2tn proposal to rebuild the country’s ..."
+    publishedDateTime: 2021-03-31T08:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/ee16b9cd080f21af7765df0f263b58afbd4aa081/31_306_3868_2321/master/3868.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ba607b0123aaccec9255bc658b0396bf"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
+    excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
+    publishedDateTime: 2021-03-31T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "GX+tlo9wCvA2oSXZQ80pmNSbOovzVeia88Offz3jAFKKi4KxwM2kFVinwNjmjD0IT6Zg9s2hWNaEzWOK9filWa9QoPOFuIOSpxF/BvjpgoWoCArHa5W7dyNj5k3VL+ogIDnZPLygEK8nKBKbADu7JMMF4qaN/ETCGfyGyqgXY5NL6vWiX3hz+4lwJt3PlMU1rKrpb3Z3FG601Ff1A4YoElaNpZmWfW9UKsabwVc5ducS7OtwWFJ7gcrpeglGaeDWQIBaSAI3taCTEMe4Dxy+OX8iHHFY7gXg5QAGkZEKgk2Eihw4zsk0xLe5rmGVknOhCcF6H2QDVr8SoQwnQ0+BwYP0z2IbzHmRQxn7/lm1DXc8d2UgCvo0koeCPaNG4+7fFyxKuhxk6Kqve4pMFdbwsGXlCcFqsztrzjEPqghs0yErKj6iRL6iUrNhgBi6IiMVtwITmCraU1/bTm1bI7mwfKhPToqgtwx+XCJMlPPFAT2AvRzk6bCbfBODSW+ZZsbT3QIqdIiLcU9fkcBiInTkdQ==;eDjwBHqkZD2f8Y5CHs7L3A=="

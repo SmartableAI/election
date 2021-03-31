@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-10-marcia-fudge-confirmed-as-bidens-hud-secretary.md",
+      "title": "Marcia Fudge confirmed as Biden's HUD secretary",
+      "excerpt": "The Senate on Wednesday confirmed Marcia Fudge to be President Biden's new secretary of Housing and Urban Development (HUD).",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NB-3hIYgcwU/marcia-fudge-confirmed-to-be-hud-secretary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NB-3hIYgcwU/marcia-fudge-confirmed-to-be-hud-secretary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp",
+      "publishedDateTime": "2021-03-10T09:39:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-homan-says-biden-should-be-embarrassed-after-inheriting-most-secure-border-in-decades.md",
       "title": "Homan says Biden should be 'embarrassed' after inheriting most secure border in decades",
       "excerpt": "The Biden administration should be \"embarrassed\" about their immigration policies after \"inheriting the most secure border\" in decades,\" Fox News contributor Tom Homan said on Wednesday.",
@@ -1603,62 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp",
       "publishedDateTime": "2021-03-05T04:05:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-biden-told-union-leaders-im-all-for-natural-gas-report.md",
-      "title": "Biden told union leaders ‘I’m all for natural gas’: report",
-      "excerpt": "President Biden personally promised union leaders his support for natural gas, United Association General Mark McManus said. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hzJUUJxPhU/biden-union-leaders-natural-gas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hzJUUJxPhU/biden-union-leaders-natural-gas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-union-leaders-natural-gas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-union-leaders-natural-gas.amp",
-      "publishedDateTime": "2021-03-04T17:19:37-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

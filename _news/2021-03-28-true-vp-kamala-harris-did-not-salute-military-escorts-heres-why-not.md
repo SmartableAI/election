@@ -59,6 +59,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Essential Politics: Kamala Harris is taking on the migrant problem, but staying away from the border"
+    excerpt: "The vice president has her first solo assignment, but she's struggling to clarify exactly what she's responsible for."
+    publishedDateTime: 2021-03-31T13:29:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-31/essential-politics-kamala-harris-immigration-border-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 90
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/56c9880/2147483647/strip/true/crop/5112x2684+0+362/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc7%2F1b%2F0acb0b124b44bebb593bdd517a66%2Fvice-presidential-assignments-20286.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris launches diplomatic effort in bid to reduce border surge"
     excerpt: "Vice President Kamala Harris spoke Tuesday with Guatemala’s president as she dived into her new role as point person for trying to solve the conditions that push migrants to flee Central America."
     publishedDateTime: 2021-03-30T23:10:00Z

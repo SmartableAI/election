@@ -80,6 +80,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Two Capitol Police Officers Sue Trump Over January Riot"
+    excerpt: "Former President Donald J. Trump “inflamed, encouraged, incited, directed, and aided and abetted” the Capitol Riot on Jan. 6, the officers’ lawsuit said. By Mike Ives Two Capitol Police officers who were on duty during the deadly Jan. 6 riot at the U ..."
+    publishedDateTime: 2021-03-31T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/03/31/us/politics/capitol-police-lawsuit-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/31/us/politics/capitol-police-lawsuit-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/capitol-police-lawsuit-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/world/31xp-trumpsuit-01/31xp-trumpsuit-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Texas museum removes Trump wax figure after visitors kept attacking it"
     excerpt: "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ..."
     publishedDateTime: 2021-03-19T17:08:00Z

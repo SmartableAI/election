@@ -2,6 +2,149 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-31-texas-gov-greg-abbott-wants-answers-from-harris-about-migrant-surge.md",
+      "title": "Texas Gov. Greg Abbott wants answers from Harris about migrant surge",
+      "excerpt": "The governor of Texas is demanding answers from Vice President Kamala Harris about the surge of unaccompanied children to the southern border, warning in a letter this week that the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/",
+      "originalUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-harris-border-03.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/",
+      "publishedDateTime": "2021-03-31T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-2-us-capitol-police-officers-sue-trump-over-january-6-assault.md",
+      "title": "2 U.S. Capitol Police officers sue Trump over January 6 assault",
+      "excerpt": "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/",
+      "originalUrl": "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/31/34ce156b-e05d-4c89-9c44-357ee445df67/thumbnail/1200x630/fc37e7ded2812eec9cbc2bb9a2a11390/gettyimages-1230457837.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/",
+      "publishedDateTime": "2021-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-russia-keeps-bribing-foreign-politicians-is-trump-different.md",
+      "title": "Russia Keeps Bribing Foreign Politicians. Is Trump Different?",
+      "excerpt": "In the United States, Donald Trump became a subject of suspicion in 2016 because his relationship to Russia bore many of the obvious hallmarks of these other illicit ties. Here was a right-wing ...",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "originalUrl": "https://nymag.com/intelligencer/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/d50/1a5/1a71bafd2392354ec0f03bc027ece4b6e2-trump-putin.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "publishedDateTime": "2021-03-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-capitol-officers-sue-trump-over-physical-and-emotional-injuries-from-jan-6-attack.md",
       "title": "Capitol officers sue Trump over 'physical and emotional injuries' from Jan. 6 attack",
       "excerpt": "WASHINGTON — Two Capitol Police officers are suing former President Donald Trump over “physical and emotional injuries” they suffered during the attack on the Capitol Jan. 6, which they say was incited by the former president. Officers James ...",
@@ -111,21 +254,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-biden-returns-to-pennsylvania-to-rally-swing-state-voters-for-massive-new-spending-on-roads-and-bridges.md",
-      "title": "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges",
-      "excerpt": "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition.",
+      "path": "_news/2021-03-31-sp-futures-flat-ahead-of-funding-details-on-bidens-infrastructure-plan.md",
+      "title": "S&P futures flat ahead of funding details on Biden's infrastructure plan",
+      "excerpt": "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/",
+      "webUrl": "https://www.reuters.com/article/us-usa-stocks-idUSKBN2BN1MD",
+      "originalUrl": "https://www.reuters.com/article/us-usa-stocks-idUSKBN2BN1MD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 204,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556886083&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0SL",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -133,16 +276,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp",
-      "publishedDateTime": "2021-03-31T03:00:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BN1MD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1MD",
+      "publishedDateTime": "2021-03-31T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -215,21 +358,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-biden-faces-the-challenge-of-highlighting-progress-without-relaxing-restrictions.md",
-      "title": "Biden faces the challenge of highlighting progress without relaxing restrictions",
-      "excerpt": "President Joe Biden faces the challenge of highlighting progress without relaxing restrictions in the face of a potential fourth coronavirus surge.",
+      "path": "_news/2021-03-31-live-updates-biden-to-reveal-2-trillion-infrastructure-plan.md",
+      "title": "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan",
+      "excerpt": "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929",
+      "webUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
+      "originalUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/biden-gty-er-210323_1616541488590_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -237,16 +384,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929",
-      "publishedDateTime": "2021-03-31T02:02:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
+      "publishedDateTime": "2021-03-31T01:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -263,7 +410,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -355,58 +503,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-two-capitol-police-officers-sue-trump-for-physical-and-emotional-injuries-suffered-in-riots.md",
-      "title": "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots",
-      "excerpt": "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
-      "publishedDateTime": "2021-03-30T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1027,7 +1123,7 @@
       "originalUrl": "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1229,114 +1325,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-judge-allows-summer-zervos-defamation-lawsuit-against-trump-to-proceed-now-that-hes-out-of-office.md",
-      "title": "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office",
-      "excerpt": "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
-      "publishedDateTime": "2021-03-30T11:13:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-fox-news-hires-lara-trump-and-promotes-former-white-house-press-secretary-kayleigh-mcenany.md",
-      "title": "Fox News hires Lara Trump and promotes former White House press secretary Kayleigh McEnany",
-      "excerpt": "An envelope. It indicates the ability to send an email. Fox News is doubling down on its ties to former President Donald Trump. On Monday, Fox announced it has hired the former president's daughter-in-law, Lara Trump, as a paid contributor. On Tuesday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3",
-      "originalUrl": "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60633eddc9d73b00186e9269?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3?amp",
-      "publishedDateTime": "2021-03-30T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

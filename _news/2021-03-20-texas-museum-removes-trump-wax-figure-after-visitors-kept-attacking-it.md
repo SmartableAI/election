@@ -94,6 +94,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Two Capitol Police Officers Sue Trump Over January Riot"
+    excerpt: "Former President Donald J. Trump “inflamed, encouraged, incited, directed, and aided and abetted” the Capitol Riot on Jan. 6, the officers’ lawsuit said. By Mike Ives Two Capitol Police officers who were on duty during the deadly Jan. 6 riot at the U ..."
+    publishedDateTime: 2021-03-31T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/03/31/us/politics/capitol-police-lawsuit-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/31/us/politics/capitol-police-lawsuit-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/capitol-police-lawsuit-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/world/31xp-trumpsuit-01/31xp-trumpsuit-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "cJE0OWpiss2ySdHINeMSHOdkHMKntvcT0rzK3q6cPik2560VCDyzBeoDAwHZSQxS4hDuUzzv/iw+9i/D5iZRiTucrHQd1VoMQA/W8B1LDdIRMYPDRx1zPtNDqYVjtHLgHJZ/9kgGoc5nvZzUtltQqR5NDbYfNPvhtVceXF31HBU0WhuUKFZa02ENkZCU4wcUrM4G/8OD2o5VBO7qYb3kTwZdWD7EhficS7IuUVQQc+PIljjroaCDiS+Ca2gv4qthoVIwYpgPYM4BH6uyZEsNGdhbLIjNcFXiVI/iOlzBnQcfqWpdg+XtC8Xblif6W67Q6XXHyIUG/Ei7BvMyrSSvKS7mP6xfkojuMXrDDeJQFvWWreb/h5oj34yVdCDJ9PhgXrdGQRbDhz9yaXKKBP1DPrKhErsG/a2rHTh5Z4hMXv/Fg/W+1gIAESWn8iN9kICTXMfBK1vyz139sTI8WPJwf+TD5SPqXi7XQUi287Ul1RMkWMdOAa6f45GcU7tEdDEwW9Io4t80p8GP6Hxw57Q+Vw==;+AwSyyb7KzWAHVUV/xjnyg=="
 ---

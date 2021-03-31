@@ -95,6 +95,22 @@ related:
         width: 3000
         height: 2147
         isCached: true
+  - title: "Top Trump adviser pushed controversial COVID-19 medical supply deals, documents show"
+    excerpt: "A top adviser to former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle ..."
+    publishedDateTime: 2021-03-31T13:22:00Z
+    webUrl: "https://thehill.com/policy/healthcare/545706-top-Trump-white-house-advisor-pushed-controversial-covid-medical-supply-deals-Navarro"
+    ampWebUrl: "https://thehill.com/policy/healthcare/545706-top-Trump-white-house-advisor-pushed-controversial-covid-medical-supply-deals-Navarro?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/545706-top-Trump-white-house-advisor-pushed-controversial-covid-medical-supply-deals-Navarro?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/navarro_051720getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump Social Network Users Won't Feel 'Fact Checkers Are Going to Be All Over Them': Lara Trump"
     excerpt: "A spokesperson for the former president said this week the new social media platform likely will roll out within the next few months."
     publishedDateTime: 2021-03-23T17:42:00Z

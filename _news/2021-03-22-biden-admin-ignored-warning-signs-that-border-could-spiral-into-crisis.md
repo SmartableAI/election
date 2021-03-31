@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Christian minister sues Pelosi, Harris for access to Capitol grounds for Good Friday"
+    excerpt: "A Presbyterian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the U.S. Capitol Police Board, and the Senate Sergeant at Arms, claiming that the continued presence of a fence blocking off the area surrounding the Capitol building is violating his First Amendment rights."
+    publishedDateTime: 2021-03-31T12:50:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gy3YWWVrIs0/christian-minister-sues-pelosi-harris-for-access-to-capitol-grounds-for-good-friday"
+    ampWebUrl: "https://www.foxnews.com/politics/christian-minister-sues-pelosi-harris-for-access-to-capitol-grounds-for-good-friday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christian-minister-sues-pelosi-harris-for-access-to-capitol-grounds-for-good-friday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's dog Major bites another White House employee"
     excerpt: "President Biden’s dog Major on Monday afternoon bit another employee, who then required medical attention."
     publishedDateTime: 2021-03-30T20:56:40Z

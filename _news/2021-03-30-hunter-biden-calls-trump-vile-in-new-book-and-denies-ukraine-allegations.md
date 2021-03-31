@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/hunter-biden-book-do
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/hunter-biden-book-donald-trump-vile-beautiful-things-ukraine"
 type: article
 quality: 138
-heat: 378
+heat: 398
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35"
         width: 600
         height: 360
+        isCached: true
+  - title: "'Major' pain: Biden's dog involved in 2nd biting incident"
+    excerpt: "President Joe Biden’s dog Major on Monday was involved in his second biting incident this month WASHINGTON -- President Joe Biden's younger dog Major this week was involved in his second biting ..."
+    publishedDateTime: 2021-03-31T04:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/major-pain-bidens-dog-involved-2nd-biting-incident-76777615"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/major-pain-bidens-dog-involved-2nd-biting-incident-76777615"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/major-pain-bidens-dog-involved-2nd-biting-incident-76777615"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_985375203bdb4cbd87e4a4c5f7165a0d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."

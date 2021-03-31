@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-31-texas-gov-greg-abbott-wants-answers-from-harris-about-migrant-surge.md",
+      "title": "Texas Gov. Greg Abbott wants answers from Harris about migrant surge",
+      "excerpt": "The governor of Texas is demanding answers from Vice President Kamala Harris about the surge of unaccompanied children to the southern border, warning in a letter this week that the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/",
+      "originalUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-harris-border-03.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/",
+      "publishedDateTime": "2021-03-31T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-biden-grants-michigans-whitmer-66k-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report.md",
       "title": "Biden grants Michigan’s Whitmer 66K more vaccine doses, in seeming shift from population-based US plan: report",
       "excerpt": "President Biden is boosting Michigan’s coronavirus vaccine allotment by more than 66,000 doses for next week after receiving a call for help from Gov. Gretchen Whitmer, according to reports.",
@@ -1300,7 +1348,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 680,
+      "heat": 700,
       "tags": null,
       "images": [
         {
@@ -1622,63 +1670,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-harris-acknowledges-major-new-social-welfare-spending-as-part-of-19t-covid-relief-bill-was-intentional.md",
-      "title": "Harris acknowledges major new social welfare spending as part of $1.9T COVID relief bill was ‘intentional’",
-      "excerpt": "Vice President Kamala Harris on Friday acknowledged that part of the purpose of the Democrats’ $1.9 trillion American Rescue Plan, which did not receive any Republican support, was to pass social policies to address problems like child care.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJt4e3SphUA/harris-major-child-care-program-covid-relief-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJt4e3SphUA/harris-major-child-care-program-covid-relief-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e7912ca-8569-4f8f-abec-17e93dbba260/8d52141f-954a-4cff-9341-12ab9f67fa27/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-major-child-care-program-covid-relief-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-major-child-care-program-covid-relief-bill.amp",
-      "publishedDateTime": "2021-03-26T16:52:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

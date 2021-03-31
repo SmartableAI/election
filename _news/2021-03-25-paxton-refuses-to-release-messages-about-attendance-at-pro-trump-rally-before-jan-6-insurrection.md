@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/politics/amp/texas-ken-paxton-trump-insurrecti
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
 type: article
 quality: 62
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,40 @@ images:
     width: 600
     height: 336
     isCached: true
+
+related:
+  - title: "2 U.S. Capitol Police officers sue Trump over January 6 assault"
+    excerpt: "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ..."
+    publishedDateTime: 2021-03-31T13:02:00Z
+    webUrl: "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/31/34ce156b-e05d-4c89-9c44-357ee445df67/thumbnail/1200x630/fc37e7ded2812eec9cbc2bb9a2a11390/gettyimages-1230457837.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots"
+    excerpt: "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-03-31T04:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "HuN3qyCNWhMJoXvprRwqVKUVi/y7Yj5DFnvUxytP8r7jq8gdfAnjvr0G9wjFw+SkE1wF8DLD7JmoWnNeG5U3/7yMPubtAjEJ76muTPZS7M/ec3EPHKQe8fAdN2PLyFOyNt6IAp9rI77B6q3mFcA3xLJVLZZ28WVa86fgBe77Njm0Zdpkhpvm7GmmWuV4eWizwBzPbXOsoLBlS1CFD8NTDMQoBR9p5nLAdCoeX15WS282aUePIU01+PDbojRhNfBK49DmQTrWaniETSxs9A9O+OuSQadI2AaFJrXUM0+tvrKEggBD5Z48HDs9+TuQPLCx9RqBB4tVvTrjYdyML1EZD5SCwx9K7d1NTPaBCSLlIgvu7vZ51M3D6+xNx5tfe6O5/ZgNNR2C/FG2Mp36ARbSPYYIZWzmFb0v/y2S2SIg/smBbOXIu6sdehj9JynJBumDISSvEbwbskz0XCkcIcbO/58uF9oup0U4aHTfD6Argxla6YR/zWxPaMuIpHEUKg0aIpp5UfJCb/aSxnql8X05Rg==;gRrXLA95bIjnlgi1TvNhSQ=="
 ---
