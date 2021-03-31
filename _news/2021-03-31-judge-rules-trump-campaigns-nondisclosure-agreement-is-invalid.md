@@ -175,6 +175,22 @@ related:
         width: 2500
         height: 1566
         isCached: true
+  - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
+    excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
+    publishedDateTime: 2021-03-31T04:05:00Z
+    webUrl: "https://www.newsweek.com/capitol-cops-sue-donald-trump-physical-emotional-injuries-riot-1579986"
+    ampWebUrl: "https://www.newsweek.com/capitol-cops-sue-donald-trump-physical-emotional-injuries-riot-1579986?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/capitol-cops-sue-donald-trump-physical-emotional-injuries-riot-1579986?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1767734/donald-trump-capitol-police-riots-lawsuit.jpg"
+        width: 2500
+        height: 1623
+        isCached: true
   - title: "Rick Scott Asked Trump to Not Get Involved in 2022 Races Until Candidates Win Primaries"
     excerpt: "U.S. Senator Rick Scott, a Florida Republican who heads the GOP's Senate fundraising arm, wants former President Donald Trump's help in the 2022 election, but he's asking him to hold off a bit. \"I think he wants to win, so I think he's going to work with ..."
     publishedDateTime: 2021-03-23T21:42:00Z
@@ -192,18 +208,18 @@ related:
         height: 1904
         isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
-    excerpt: "Former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. after leaving office. Pence is steadily re-entering public life as he eyes a potential run for the White House ..."
-    publishedDateTime: 2021-03-30T14:23:00Z
-    webUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-    ampWebUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-    cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
+    publishedDateTime: 2021-03-30T12:10:00Z
+    webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
     type: article
     provider:
-      name: TexomasHomepage.com
-      domain: texomashomepage.com
+      name: WTVO
+      domain: mystateline.com
     quality: 90
     images:
-      - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/03/pence.jpg?w=1280"
+      - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
         width: 1024
         height: 683
         isCached: true
@@ -426,6 +442,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Wvj6Q0fMhfKyahW5ACHi6khQNO1bjUe3NHwxqETzWawJJe/5YEIyqApfQiwfvF9252f10SfhlAt0avGPbjDPPH16i24VSuWyOmcgONkwhTUGAQdNKcRVUQNHQ86gqITuWX4st0PQTyLS03zXvfUBJhR4yo5+fXMcBz6bCvmtVdQrpW6MPY5QHW0E7Rz8Aqr/dyBKTBLD6TnuDvNUzIHv8eHGCdFAg0TOy1RcXgwk4aqurQiEQfZi2Na5f/2kerF8zrA2zAsXKxMAmle+pHhAbyfUZ6WeQzHeTGMspbluSl/0qHko6b8BRdj0q3ZhIYj63wgyUM+30JI0EqUaMz3clUm5TBqR/ekKGJI8uW8H2lc=;yNszEDxYP2dleiHkqn1+2A=="
+secured: "RpbzL8sVpAD+CweztE0EHPnfDUUHS3XZLT52++TDKiMC2Z1F0QuTH5LtcNsDI4d0zMVAEvNHFqZrW2ybfRU56EOB+7Y57iXlFDxK8vn3V4EWmDvsYojsYiln0G39vxfK99IV6z98TSVYxjbcGCJan2uIUjBwHgNDBNaAu/J2dbaeo0/L1vqwguRYklXtGS9BnMD4pQxpYZb8OiUfgbSU25NkxMzojRmQ0qv9mmT4JZHKtlbmF2ApszSfpcAidaIAX/aK5JPPQWl9dFgDGMTR65XO9b+gOMU5OjRV37TBXOQJ0LVS2Oqjsk3JTWE/hiNOwzsu29wOdSlfTjxzfItm9eDEToZ1vgdKyGAXWYYcaUUkvS6pO9Y3YVAO+ZUv2QWNTTwatFKcnhcHplpc5mv4Oijxr3NRkIJdtCZCGXM1YQ6TY+yB0EadL+u8R8ugy4SVnfk+sraM02ZwPFD3QpesFQQ6vI9kgwT3WIb0DxWSbHgPsNLj0emKeczx42gxT/iDySkf5UPhU1oQkpcwC6u2/w==;hq2DhFfga+cuIl1u0xXyKA=="
 ---
 

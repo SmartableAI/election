@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Be at peace, meditate, Trump Buddha statue designer tells former president"
+    excerpt: "XIAMEN, China (Reuters) - Chinese furniture maker Hong Jinshi first created a couple of pint-sized statues of former U.S. President Donald Trump meditating in a Buddhist pose as a fun project for himself last year. Slideshow ( 4 images ) Six months on ..."
+    publishedDateTime: 2021-03-31T06:22:00Z
+    webUrl: "https://www.reuters.com/article/us-china-trump-statue/be-at-peace-meditate-trump-buddha-statue-designer-tells-former-president-idUSKBN2BN0RU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN0RU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN0RU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556845100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0DT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Rolling back a rollback: Buttigieg deletes some Trump-era limits on regulation"
     excerpt: "Transportation Secretary Pete Buttigieg moved Wednesday to undo key deregulatory actions by the Trump administration, an overhaul that department officials said was necessary to address challenges that include climate change, racial injustices, the ..."
     publishedDateTime: 2021-03-24T23:46:00Z

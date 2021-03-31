@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Be at peace, meditate, Trump Buddha statue designer tells former president"
+    excerpt: "XIAMEN, China (Reuters) - Chinese furniture maker Hong Jinshi first created a couple of pint-sized statues of former U.S. President Donald Trump meditating in a Buddhist pose as a fun project for himself last year. Slideshow ( 4 images ) Six months on ..."
+    publishedDateTime: 2021-03-31T06:22:00Z
+    webUrl: "https://www.reuters.com/article/us-china-trump-statue/be-at-peace-meditate-trump-buddha-statue-designer-tells-former-president-idUSKBN2BN0RU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN0RU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN0RU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556845100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0DT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Donald Trump's Team Sought Stake in Gab But Was Rejected, CEO Andrew Torba Claims"
     excerpt: "The CEO of social media site Gab has claimed he rejected a proposal in January to have former president Donald Trump on the platform. Andrew Torba, who founded the service in 2016, said that representatives of the former president's senior adviser and son ..."
     publishedDateTime: 2021-03-24T10:36:00Z

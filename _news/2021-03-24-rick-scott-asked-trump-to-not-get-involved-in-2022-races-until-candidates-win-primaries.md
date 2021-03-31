@@ -191,19 +191,35 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
-    excerpt: "Former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. after leaving office. Pence is steadily re-entering public life as he eyes a potential run for the White House ..."
-    publishedDateTime: 2021-03-30T14:23:00Z
-    webUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-    ampWebUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-    cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+  - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
+    excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
+    publishedDateTime: 2021-03-31T04:05:00Z
+    webUrl: "https://www.newsweek.com/capitol-cops-sue-donald-trump-physical-emotional-injuries-riot-1579986"
+    ampWebUrl: "https://www.newsweek.com/capitol-cops-sue-donald-trump-physical-emotional-injuries-riot-1579986?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/capitol-cops-sue-donald-trump-physical-emotional-injuries-riot-1579986?amp=1"
     type: article
     provider:
-      name: TexomasHomepage.com
-      domain: texomashomepage.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1767734/donald-trump-capitol-police-riots-lawsuit.jpg"
+        width: 2500
+        height: 1623
+        isCached: true
+  - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
+    publishedDateTime: 2021-03-30T12:10:00Z
+    webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    type: article
+    provider:
+      name: WTVO
+      domain: mystateline.com
     quality: 90
     images:
-      - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/03/pence.jpg?w=1280"
+      - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
         width: 1024
         height: 683
         isCached: true

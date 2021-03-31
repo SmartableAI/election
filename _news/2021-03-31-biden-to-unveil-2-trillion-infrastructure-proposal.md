@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's infrastructure plan estimated to cost $2 trillion over 8 years"
+    excerpt: "It's not just Republicans Mr. Biden must win over. Democratic Senator Joe Manchin of West Virginia says he wants to see Republican input, so that the Senate won't have to rely on reconciliation to pass. Senate Majority Leader Chuck Schumer said last week ..."
+    publishedDateTime: 2021-03-31T01:32:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-infrastructure-plan-cost-2-trillion/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-infrastructure-plan-cost-2-trillion/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-infrastructure-plan-cost-2-trillion/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/29/5554d97a-360f-4557-8196-8ad37b042c74/thumbnail/1200x630/149a82eda696ca4b8b57ad9e38346233/gettyimages-1132669405.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ohio attorney general sues Biden administration over $1.9 trillion stimulus"
     excerpt: "Ohio Attorney General Dave Yost sued the Biden administration Wednesday over its $1.9 trillion coronavirus relief package, alleging the federal government sought to impose “unconstitutional” limits on states’ ability to access some of the aid."
     publishedDateTime: 2021-03-17T23:39:00Z
