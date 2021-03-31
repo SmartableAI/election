@@ -203,22 +203,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump’s heir? Pence reemerges, lays groundwork for 2024 run"
-    excerpt: "Pence’s allies see him as the natural Trump heir, someone who can keep his base engaged while winning back suburban voters who left the party in droves during the Trump era."
-    publishedDateTime: 2021-03-30T19:06:00Z
-    webUrl: "https://www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/"
-    ampWebUrl: "https://www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-    cdnAmpWebUrl: "https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-    type: article
-    provider:
-      name: WPRI 12
-      domain: wpri.com
-    quality: 90
-    images:
-      - url: "https://www.wpri.com/wp-content/uploads/sites/23/2021/03/pence.jpg?w=1280"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 presidential run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron DeSantis and Sens. Josh"
     publishedDateTime: 2021-03-30T11:51:00Z
@@ -377,6 +361,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Trump's heir? Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "FILE - In this Jan. 20, 2021, file photo, former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. Pence is steadily re-entering public life as he eyes a potential run ..."
+    publishedDateTime: 2021-03-30T23:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/mar/30/trumps-heir-pence-reemerges-lays-groundwork-2024-run/544217/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 70
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/03/30/ap210887234090611995366499_t1070_h2db21c899cfc2ae6a18b209177d13689e8ba2f1e.jpg"
+        width: 1070
+        height: 713
+        isCached: true
   - title: "Mike Pence is laying the groundwork for 2024 presidential run"
     excerpt: "For someone who built a reputation as one of Trump's most steadfast supporters, Pence is now viewed with suspicion among many Republicans."
     publishedDateTime: 2021-03-30T09:34:00Z
@@ -392,6 +390,6 @@ related:
         height: 683
         isCached: true
 
-secured: "XAeZiHeiK1wltNw4CHNvmOJYs5Y+W45xGCHmuzI4pLFDQ1d81P93qqp4zKL08mDaT061Yqx5qJFONJonDoyajapg7ZlAm5GD96art5CEhwSNVt+Tes/7Orlc7klhu603p0b7aXB2D6RB2fD9FSPf3tQX/4BJ8g1k8FxveLRcE5f0YeXwDFkyYRav8Vyy8Ur9N2VutgEZeLnLRtbLj4ijEW3YZG0uCZvzMBQJj9qpcdZGB+haYIu2s/H3dh0qsVoujzT0HGA8VyuUvds2yIfSN2Z45YXHnf6TfCGOtsb5FFijUgRscw/liNMEvSTN8tGgqwBvOP8MLhj1qw31XjSkog1GPII1ZF+ZcgW2GSAx1Pw=;msoV37iQKmt06b/IwVCwYA=="
+secured: "T1KPOQ3hb2/rjDhIp+q/ZpK0nmFdBfaYQCpX+WbcY0/DwD3rjLDHog9HiDYKr0M/lLUkk5RxNHOFXDvNXaOOMviteuoE9uGxg8666nGpkembCIyLwk8m9tLpeM9qiFNnj+W9tV4qCxf+dnGmIULfD1maIvWD+ObjAxt2Vou1MBuD0ve7LnU7enrEQSSEvKMU6cbdTyvaIfKYLCJsTbWWynNLs7HeRqSOV5sqTWyFAXbQdDNrOInAa9mvav89ZA0JZtdGQoxVPLOEXbORN4q05J+3oa1GGtUr8NN2ZX8EjLVVwPgSTyOAv8Q+5ugBB7MvRP4wC64YHvI6jxlzhGqHZuHlupiw1xxJ7pKYXSdyqNewkCvpJbet/a/b/nI0vWbf+keDQDeDfZozsOwiyMaa550fYfKrccy0lCux9dRXwVMQv5UBiX/lIPawDLsK0JCh/WasZAJy/K2GdM1Vn4JQtpYPIUO4hUSnLT5oYL7i1ZKOwdgDstuhBVZnAqflcFQggjNMQsNfzG7zR8DSjbPPEw==;NobTAeSuAoHPG3F73jZ4mQ=="
 ---
 

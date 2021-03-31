@@ -2,6 +2,118 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-25-trump-quizzed-four-ohio-gop-senate-prospects-at-fundraiser-report.md",
+      "title": "Trump quizzed four Ohio GOP Senate prospects at fundraiser: Report",
+      "excerpt": "Former President Donald Trump spoke Wednesday night with four GOP candidates running to fill retiring Ohio Sen. Rob Portman’s seat in an intense meeting that one onlooker likened to the “Hunger Games,” according to a report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C28XxG-7i7w/trump-met-four-ohio-gop-senate-candidates-fundraiser-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C28XxG-7i7w/trump-met-four-ohio-gop-senate-candidates-fundraiser-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03acda1a-8240-4be3-ba2c-f06b0db5e49d/7b11ea64-b085-4e5e-9260-066c41c33a79/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-met-four-ohio-gop-senate-candidates-fundraiser-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-met-four-ohio-gop-senate-candidates-fundraiser-report.amp",
+      "publishedDateTime": "2021-03-25T16:29:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-us-to-resume-diplomatic-ties-with-palestinians-that-were-cut-under-trump.md",
+      "title": "US to resume diplomatic ties with Palestinians that were cut under Trump",
+      "excerpt": "The US will resume diplomatic ties with Palestinians that were cut under the Trump administration, the US ambassador to the United Nations, Linda Thomas-Greenfield, told the Security Council Thursday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DZvE_ovFllw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DZvE_ovFllw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319143652-linda-thomas-greenfield-0301-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/us-palestinians-diplomatic-ties-two-states/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/us-palestinians-diplomatic-ties-two-states/index.html",
+      "publishedDateTime": "2021-03-25T13:07:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-biden-warns-north-korea-of-responses-if-they-continue-to-test-ballistic-missiles.md",
       "title": "Biden warns North Korea of 'responses' if they continue to test ballistic missiles",
       "excerpt": "President Joe Biden warned that there would be \"responses\" if North Korea continues to fire ballistic missiles following the hermit kingdom's second launch in less than a week.\n    \n",
@@ -842,7 +954,7 @@
       "originalUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -946,7 +1058,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1256,106 +1368,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-fired-yale-doc-says-her-tweet-diagnosing-trump-dershowitz-as-psychotic-was-free-speech.md",
-      "title": "Fired Yale doc says her tweet diagnosing Trump, Dershowitz as psychotic was free speech",
-      "excerpt": "who defended former President Donald Trump at his first impeachment trial. Bandy Lee, in a complaint filed in Connecticut federal court on Monday, accused Yale of breach of contract and wrongful termination, and said her tweet claiming Dershowitz had ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/employment-yale-idUSL1N2LL2BR",
-      "originalUrl": "https://www.reuters.com/article/employment-yale-idUSL1N2LL2BR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LL2BR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LL2BR",
-      "publishedDateTime": "2021-03-23T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-live-updates-in-the-shadow-of-another-mass-shooting-biden-heads-to-ohio-on-stimulus-promotion-tour.md",
-      "title": "Live Updates: In the Shadow of Another Mass Shooting, Biden Heads to Ohio on Stimulus Promotion Tour",
-      "excerpt": "Young on Tuesday afternoon as deputy director of the Office of Management and Budget. Biden is expected to address the shooting in Boulder as he heads to Ohio. Signs of a partisan divide on guns re-emerged hours after the shooting. Shalanda Young is set to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/03/23/us/biden-news-today",
-      "originalUrl": "https://www.nytimes.com/live/2021/03/23/us/biden-news-today",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/23/multimedia/23washington-briefing-biden/23washington-briefing-biden-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/23/us/biden-news-today.amp.html",
-      "publishedDateTime": "2021-03-23T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

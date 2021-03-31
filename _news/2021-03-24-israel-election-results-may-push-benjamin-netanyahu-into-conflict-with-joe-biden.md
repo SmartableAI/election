@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/israel-election-results-push-benjamin-netan
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319?amp=1"
 type: article
 quality: 135
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/netanyahubenjamin_05252020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden creates Supreme Court buzz with judicial nominees"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize on voting rights ..."
+    publishedDateTime: 2021-03-30T22:28:00Z
+    webUrl: "https://thehill.com/regulation/court-battles/545646-biden-creates-supreme-court-buzz-with-judicial-nominees"
+    ampWebUrl: "https://thehill.com/regulation/court-battles/545646-biden-creates-supreme-court-buzz-with-judicial-nominees?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/545646-biden-creates-supreme-court-buzz-with-judicial-nominees?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/scotussupremecourt.jpg"
         width: 980
         height: 551
         isCached: true

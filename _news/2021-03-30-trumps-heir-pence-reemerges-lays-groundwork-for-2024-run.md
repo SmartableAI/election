@@ -192,22 +192,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump’s heir? Pence reemerges, lays groundwork for 2024 run"
-    excerpt: "Pence’s allies see him as the natural Trump heir, someone who can keep his base engaged while winning back suburban voters who left the party in droves during the Trump era."
-    publishedDateTime: 2021-03-30T19:06:00Z
-    webUrl: "https://www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/"
-    ampWebUrl: "https://www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-    cdnAmpWebUrl: "https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-    type: article
-    provider:
-      name: WPRI 12
-      domain: wpri.com
-    quality: 90
-    images:
-      - url: "https://www.wpri.com/wp-content/uploads/sites/23/2021/03/pence.jpg?w=1280"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 presidential run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron DeSantis and Sens. Josh"
     publishedDateTime: 2021-03-30T11:51:00Z
@@ -381,6 +365,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/03/1000-2021-03-30T063132.667.jpeg"
         width: 1000
         height: 666
+        isCached: true
+  - title: "Trump's heir? Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "FILE - In this Jan. 20, 2021, file photo, former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. Pence is steadily re-entering public life as he eyes a potential run ..."
+    publishedDateTime: 2021-03-30T23:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/mar/30/trumps-heir-pence-reemerges-lays-groundwork-2024-run/544217/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 70
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/03/30/ap210887234090611995366499_t1070_h2db21c899cfc2ae6a18b209177d13689e8ba2f1e.jpg"
+        width: 1070
+        height: 713
         isCached: true
   - title: "Mike Pence is laying the groundwork for 2024 presidential run"
     excerpt: "For someone who built a reputation as one of Trump's most steadfast supporters, Pence is now viewed with suspicion among many Republicans."

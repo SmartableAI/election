@@ -25,37 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Harris will travel to Jacksonville Monday for 'Help is Here' tour touting relief bill"
-    excerpt: "American Rescue Plan will bring about $17 billion to Florida, according to estimates Vice President Kamala Harris will travel to Jacksonville, Florida, on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an ..."
-    publishedDateTime: 2021-03-21T21:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/21/vice-president-kamala-harris-jacksonville-florida-visit/4792761001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4792761001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4792761001"
+  - title: "SNL's Kamala Harris hosts Ted Cruz for 'Unity Seder'"
+    excerpt: "and Kamala Harris Kamala Harris 5 immediate migration management steps for Kamala Harris White House names members of environmental justice panel Biden 'doesn't care' what Trump does at border ..."
+    publishedDateTime: 2021-03-28T13:47:00Z
+    webUrl: "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder"
+    ampWebUrl: "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PFRE/2aeae88e-c268-47e8-8a18-dcb9c85b20e8-kamala_harris.jpg?auto=webp&crop=4500,2532,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/mayarudolph_0811.png"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Live coverage: Vice President Kamala Harris visits Jacksonville"
-    excerpt: "Live coverage of Vice President Kamala Harris's \"Help is Here\" tour in Jacksonville at COVID-19 vaccination site and Feeding Northeast Florida."
-    publishedDateTime: 2021-03-22T21:54:00Z
-    webUrl: "https://www.jacksonville.com/story/news/nation-world/2021/03/22/live-coverage-vice-president-kamala-harris-jacksonville/4797724001/"
-    ampWebUrl: "https://amp.jacksonville.com/amp/4797724001"
-    cdnAmpWebUrl: "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/4797724001"
+  - title: "SNL invites Maya Rudolph’s Kamala Harris and Martin Short’s Doug Emhoff to host a Passover Seder"
+    excerpt: "Maya Rudolph returned to host \"Saturday Night Live,\" where she was joined in sketches by fellow SNL alumni Martin Short, Tina Fey and Rachel Dratch."
+    publishedDateTime: 2021-03-28T19:09:00Z
+    webUrl: "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp"
     type: article
     provider:
-      name: The Florida Times-Union
-      domain: jacksonville.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/22/NFTU/0944aaf1-23ab-4398-ada4-e64751062ea2-image0_1.jpeg?auto=webp&crop=1491,838,x26,y193&format=pjpg&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZIY2IYX2FZCPTOYNWPMUJZFOD4.jpeg&w=1440"
+        width: 1000
+        height: 667
         isCached: true
   - title: "True, VP Kamala Harris did not salute military escorts; here’s why not"
     excerpt: "The video, viewed more than 900,000 times on Twitter, was shared widely by conservative social media accounts in an attempt to paint the vice president as unpatriotic and disrespectful to service members."
@@ -73,83 +73,53 @@ related:
         width: 4717
         height: 3043
         isCached: true
-  - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
-    excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
-    publishedDateTime: 2021-03-15T21:35:00Z
-    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
-    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 70
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Kamala Harris, Bill Clinton to hold discussion on women empowerment, sparking #MeToo concerns"
-    excerpt: "Vice President Kamala Harris will join former President Bill Clinton for a discussion about “empowering women and girls” Friday, the Clinton Foundation announced."
-    publishedDateTime: 2021-03-24T15:15:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
+  - title: "Kamala Harris launches diplomatic effort in bid to reduce border surge"
+    excerpt: "Vice President Kamala Harris spoke Tuesday with Guatemala’s president as she dived into her new role as point person for trying to solve the conditions that push migrants to flee Central America."
+    publishedDateTime: 2021-03-30T23:10:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/30/kamala-harris-speaks-guatemala-president-alejandro/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/30/kamala-harris-speaks-guatemala-president-alejandro/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/30/kamala-harris-speaks-guatemala-president-alejandro/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 64
+    quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/24/Harris_95658.jpg-862a7_c0-146-3501-2188_s1200x700.jpg?48b26a44ee0afff558bd6bd8148cd126de8be506"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/26/harris_52781_c0-201-4818-3011_s1200x700.jpg?97c38a3d17abb54762c2d7a94833dc6c210281d2"
         width: 1200
         height: 700
         isCached: true
-  - title: "Vice President Kamala Harris will visit Connecticut Friday to promote coronavirus stimulus plan"
-    excerpt: "Vice President Kamala Harris will come to Connecticut this week to promote the administration’s $1.9 trillion “American Rescue Plan,” her office confirmed Tuesday. Harris will appear in New Haven on Friday with Reps. Rosa DeLauro and Jahana Hayes."
-    publishedDateTime: 2021-03-23T12:34:00Z
-    webUrl: "https://www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html"
-    ampWebUrl: "https://www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html?outputType=amp"
+  - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
+    excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
+    publishedDateTime: 2021-03-28T04:38:00Z
+    webUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7035466002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7035466002"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/28/USAT/93b27ee4-d78f-4524-9dad-efc75379eb67-NUP_193635_0022.JPG?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact-checking false and misleading claims about Kamala Harris, online Taco Bell offers and more"
+    excerpt: "Associated Press writer Jude Joffe-Block in Phoenix contributed this report. CLAIM: Vice President Kamala Harris disrespected the military when she failed to salute the military escorts when boarding Air Force Two on March 19 in Georgia. THE FACTS ..."
+    publishedDateTime: 2021-03-26T23:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/fact-checking-false-and-misleading-claims-about-kamala-harris-online-taco-bell-offers-and-more/article_ebc9ea55-a4dc-551c-babb-0452e553abd9.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/fact-checking-false-and-misleading-claims-about-kamala-harris-online-taco-bell-offers-and-more/article_ebc9ea55-a4dc-551c-babb-0452e553abd9.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/fact-checking-false-and-misleading-claims-about-kamala-harris-online-taco-bell-offers-and-more/article_ebc9ea55-a4dc-551c-babb-0452e553abd9.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 63
     images:
-      - url: "https://www.courant.com/resizer/OydHhXMO9ouGr-SuRC0poanDxCQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MYFEJUWAFVAFDERI7YRFQRMB3E.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "5-year-old girl shows off Kamala Harris' project while during vice president's Jacksonville visit"
-    excerpt: "The girl made the sign as part of a school project during Black History Month. JACKSONVILLE, Fla. — As Vice President Kamala Harris toured the Gateway Mall COVID-19 vaccination site, 30 to 40 people stood outside to show their support for the vice president."
-    publishedDateTime: 2021-03-23T01:46:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 62
-    images:
-      - url: "https://media.firstcoastnews.com/assets/WTLV/images/59b438eb-49f5-4014-aefe-12d22dc5b46f/59b438eb-49f5-4014-aefe-12d22dc5b46f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Vice President Harris Visits a Food Bank in Jacksonville, Florida"
-    excerpt: "Vice President Kamala Harris participates in a roundtable discussion on food insecurity in the wake of the COVID-19 pandemic at Feeding Northeast Florida, in Jacksonville, Florida on Monday, March 22, 2021. Vice President Harris highlighted the effects of ..."
-    publishedDateTime: 2021-03-22T21:05:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/f164b91e362ed1488dfbcb68df0ba0e3/Vice-President-Harris-Visits-a-Food-Bank-in-Jacksonville-Florida/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/f164b91e362ed1488dfbcb68df0ba0e3/HARRIS-JACKSONVILLE.jpg"
-        width: 650
-        height: 432
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/07/30754044-ee64-5908-89be-bd9d8f26fa7c/605e3da0156bc.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
     excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
@@ -193,21 +163,33 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "Vice President Kamala Harris’ visit to New Haven will highlight child tax credit long championed by U.S. Rep. Rosa DeLauro"
-    excerpt: "Kamala Harris’ visit to New Haven Friday is part of the Biden administration’s “Help is Here’' tour. The trip has already taken her to Las Vegas and Jacksonville, Fla. Biden, First Lady Jill Biden and Second Gentleman Doug Emhoff are also traveling to promote the stimulus package."
-    publishedDateTime: 2021-03-26T10:00:00Z
-    webUrl: "https://www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html"
-    ampWebUrl: "https://www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html?outputType=amp"
+  - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
+    excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
+    publishedDateTime: 2021-03-27T17:18:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-got-another-dose-of-16057956.php?src=sthpdesecp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 49
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 50
     images:
-      - url: "https://www.courant.com/resizer/Uq4A22_jaA7xoDm6J7BcU6sBO8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2675KIP57DE3RCW6GDNDKRK3XQ.aspx"
-        width: 1200
-        height: 782
+      - url: "https://s.hdnux.com/photos/01/16/62/33/20653798/11/rawImage.jpg"
+        width: 2048
+        height: 1374
+        isCached: true
+  - title: "New Haven pastor says clergy, others should have been at Kamala Harris appearance"
+    excerpt: "The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association, said Monday it was inappropriate for him and other officials not to have been invited to Vice President Kamala Harris’ recent appearance at the Boys & Girls Club of New Haven,"
+    publishedDateTime: 2021-03-29T22:38:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/New-Haven-pastor-says-clergy-others-should-have-16062047.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 50
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/26/15/19489630/32/rawImage.jpg"
+        width: 2048
+        height: 1585
         isCached: true
   - title: "WATCH: Vice President Kamala Harris Under Fire For Failing to Salute Honor Guard Before Boarding Air Force Two"
     excerpt: "Vice President Kamala Harris is facing criticism for appearing to break with precedent and failing to salute the honor guard when boarding Air Force Two. Video reviewed by Fox News showed that her predecessors,"

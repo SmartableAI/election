@@ -2141,6 +2141,22 @@ related:
         width: 2500
         height: 1678
         isCached: true
+  - title: "Biden’s Judicial Counterpunch to Trump Begins"
+    excerpt: "Biden has already issued a slew of executive orders and enacted legislation seeking to turn back many of President Donald Trump’s conservative policies, but there may be no area in which Trump had a stronger effect than the courts. Trump installed almost ..."
+    publishedDateTime: 2021-03-30T22:45:00Z
+    webUrl: "https://www.nytimes.com/2021/03/30/us/politics/biden-judges-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/30/us/politics/biden-judges-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/30/us/politics/biden-judges-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/30/us/politics/30onpolitics-pm-05/30onpolitics-pm-05-facebookJumbo-v2.jpg"
+        width: 998
+        height: 522
+        isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."
     publishedDateTime: 2021-01-19T03:23:00Z

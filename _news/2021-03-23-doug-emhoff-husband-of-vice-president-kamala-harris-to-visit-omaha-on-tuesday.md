@@ -27,83 +27,131 @@ images:
     isCached: true
 
 related:
-  - title: "SNL invites Maya Rudolph’s Kamala Harris and Martin Short’s Doug Emhoff to host a Passover Seder"
-    excerpt: "Maya Rudolph returned to host \"Saturday Night Live,\" where she was joined in sketches by fellow SNL alumni Martin Short, Tina Fey and Rachel Dratch."
-    publishedDateTime: 2021-03-28T19:09:00Z
-    webUrl: "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/"
-    ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp"
+  - title: "Vice President Harris will travel to Jacksonville Monday for 'Help is Here' tour touting relief bill"
+    excerpt: "American Rescue Plan will bring about $17 billion to Florida, according to estimates Vice President Kamala Harris will travel to Jacksonville, Florida, on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an ..."
+    publishedDateTime: 2021-03-21T21:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/21/vice-president-kamala-harris-jacksonville-florida-visit/4792761001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4792761001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4792761001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZIY2IYX2FZCPTOYNWPMUJZFOD4.jpeg&w=1440"
-        width: 1000
-        height: 667
+      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PFRE/2aeae88e-c268-47e8-8a18-dcb9c85b20e8-kamala_harris.jpg?auto=webp&crop=4500,2532,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "'SNL:' Maya Rudolph, Martin Short play Kamala Harris, Doug Emhoff"
-    excerpt: "Saturday Night Live alum Maya Rudolph returned to guest host the sketch-comedy series this weekend. Rudolph reprised her role of Kamala Harris, vice president of the United States, while comedian and former SNL star Martin Short made a surprise appearance as Harris' shy,"
-    publishedDateTime: 2021-03-28T16:43:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+  - title: "Live coverage: Vice President Kamala Harris visits Jacksonville"
+    excerpt: "Live coverage of Vice President Kamala Harris's \"Help is Here\" tour in Jacksonville at COVID-19 vaccination site and Feeding Northeast Florida."
+    publishedDateTime: 2021-03-22T21:54:00Z
+    webUrl: "https://www.jacksonville.com/story/news/nation-world/2021/03/22/live-coverage-vice-president-kamala-harris-jacksonville/4797724001/"
+    ampWebUrl: "https://amp.jacksonville.com/amp/4797724001"
+    cdnAmpWebUrl: "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/4797724001"
+    type: article
+    provider:
+      name: The Florida Times-Union
+      domain: jacksonville.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/22/NFTU/0944aaf1-23ab-4398-ada4-e64751062ea2-image0_1.jpeg?auto=webp&crop=1491,838,x26,y193&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
+    excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
+    publishedDateTime: 2021-03-15T21:35:00Z
+    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
+    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 70
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris, Bill Clinton to hold discussion on women empowerment, sparking #MeToo concerns"
+    excerpt: "Vice President Kamala Harris will join former President Bill Clinton for a discussion about “empowering women and girls” Friday, the Clinton Foundation announced."
+    publishedDateTime: 2021-03-24T15:15:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 64
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/24/Harris_95658.jpg-862a7_c0-146-3501-2188_s1200x700.jpg?48b26a44ee0afff558bd6bd8148cd126de8be506"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Vice President Kamala Harris will visit Connecticut Friday to promote coronavirus stimulus plan"
+    excerpt: "Vice President Kamala Harris will come to Connecticut this week to promote the administration’s $1.9 trillion “American Rescue Plan,” her office confirmed Tuesday. Harris will appear in New Haven on Friday with Reps. Rosa DeLauro and Jahana Hayes."
+    publishedDateTime: 2021-03-23T12:34:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 63
+    images:
+      - url: "https://www.courant.com/resizer/OydHhXMO9ouGr-SuRC0poanDxCQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MYFEJUWAFVAFDERI7YRFQRMB3E.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "5-year-old girl shows off Kamala Harris' project while during vice president's Jacksonville visit"
+    excerpt: "The girl made the sign as part of a school project during Black History Month. JACKSONVILLE, Fla. — As Vice President Kamala Harris toured the Gateway Mall COVID-19 vaccination site, 30 to 40 people stood outside to show their support for the vice president."
+    publishedDateTime: 2021-03-23T01:46:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 62
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/59b438eb-49f5-4014-aefe-12d22dc5b46f/59b438eb-49f5-4014-aefe-12d22dc5b46f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Vice President Harris Visits a Food Bank in Jacksonville, Florida"
+    excerpt: "Vice President Kamala Harris participates in a roundtable discussion on food insecurity in the wake of the COVID-19 pandemic at Feeding Northeast Florida, in Jacksonville, Florida on Monday, March 22, 2021. Vice President Harris highlighted the effects of ..."
+    publishedDateTime: 2021-03-22T21:05:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f164b91e362ed1488dfbcb68df0ba0e3/Vice-President-Harris-Visits-a-Food-Bank-in-Jacksonville-Florida/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 75
+    quality: 55
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5701616939292/2021/1/f2b1a89417fc11cd4b17e790312cb091/v1.5/SNL-Maya-Rudolph-Martin-Short-play-Kamala-Harris-Doug-Emhoff.jpg"
-        width: 800
-        height: 531
+      - url: "https://cdnph.upi.com/pv/upi/f164b91e362ed1488dfbcb68df0ba0e3/HARRIS-JACKSONVILLE.jpg"
+        width: 650
+        height: 432
         isCached: true
-  - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
-    excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
-    publishedDateTime: 2021-03-28T04:38:00Z
-    webUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7035466002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7035466002"
+  - title: "Vice President Kamala Harris’ visit to New Haven will highlight child tax credit long championed by U.S. Rep. Rosa DeLauro"
+    excerpt: "Kamala Harris’ visit to New Haven Friday is part of the Biden administration’s “Help is Here’' tour. The trip has already taken her to Las Vegas and Jacksonville, Fla. Biden, First Lady Jill Biden and Second Gentleman Doug Emhoff are also traveling to promote the stimulus package."
+    publishedDateTime: 2021-03-26T10:00:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html?outputType=amp"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 64
+      name: Hartford Courant
+      domain: courant.com
+    quality: 49
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/28/USAT/93b27ee4-d78f-4524-9dad-efc75379eb67-NUP_193635_0022.JPG?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.courant.com/resizer/Uq4A22_jaA7xoDm6J7BcU6sBO8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2675KIP57DE3RCW6GDNDKRK3XQ.aspx"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "‘Saturday Night Live’: Maya Rudolph and Martin Short host Passover Seder as Kamala Harris and Doug Emhoff"
-    excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback.It didn’t come until a third of the way through the episode,"
-    publishedDateTime: 2021-03-28T15:42:00Z
-    webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
-    ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 58
-    images:
-      - url: "https://www.baltimoresun.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
-        width: 1200
-        height: 613
-        isCached: true
-  - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
-    excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
-    publishedDateTime: 2021-03-27T17:18:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-got-another-dose-of-16057956.php?src=sthpdesecp"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 50
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/62/33/20653798/11/rawImage.jpg"
-        width: 2048
-        height: 1374
+        height: 782
         isCached: true
 
 secured: "1E8aFrTothr0hmPnCXz5nQM3sCuiHEt4Ccfh8Mp1Gjr/RVEUke0fyksT3v/PA1mO3XV4fJRYL6z9PeBhAsHZW+yIoalutfBz+DVuylM+8sCX9VMATYAsQvovfZxVeYVdJp5TzdC95cq9g/9ijRlv+DjImLD28ZjMPtZA7gn1dTsEeX+eH4KrNzKgGKIMrYQ3KeZtXOLvZlTOy4tyz9Yb6okVtPZzq8QtyUO4/qV3tpCuMFJgTbKlEDxuUJer26bAD76TbV/XnMj+sVom/ocqjv3MXJj41+lNb3zMQY/MypijOvq96JEckNO0rgcGzYc1wqDcdDYblwcVLZVr0kNYEEzJ+XacyunqELrAVxN6gnOqEjOslrZ3wO6Ztwmxgud8vfe8yWpdkX4FT1kSZ5B1Z59QBZ2SI9BYJyDe/Si1BqTL590FtuMb+MaON/qeLUWoGTLON+FMe5T6DcL9Vkmn/BroNi2B/aoueN5tQR1bnQ65xiGRapSL8Uf46z6eSMuw0+1SpxN+mV/PC7csvg7JeA==;plr9FMy+XdZfevN1SzmwOA=="

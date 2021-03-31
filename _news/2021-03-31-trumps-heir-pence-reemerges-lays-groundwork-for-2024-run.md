@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Trump’s heir? Pence reemerges, lays groundwork for 2024 run"
-excerpt: "Pence’s allies see him as the natural Trump heir, someone who can keep his base engaged while winning back suburban voters who left the party in droves during the Trump era."
-publishedDateTime: 2021-03-30T19:06:00Z
-originalUrl: "https://www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/"
-webUrl: "https://www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/"
-ampWebUrl: "https://www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-cdnAmpWebUrl: "https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/news/washington-dc/trumps-heir-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+title: "Trump's heir? Pence reemerges, lays groundwork for 2024 run"
+excerpt: "FILE - In this Jan. 20, 2021, file photo, former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. Pence is steadily re-entering public life as he eyes a potential run ..."
+publishedDateTime: 2021-03-30T23:00:00Z
+originalUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/mar/30/trumps-heir-pence-reemerges-lays-groundwork-2024-run/544217/"
+webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/mar/30/trumps-heir-pence-reemerges-lays-groundwork-2024-run/544217/"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: WPRI 12
-  domain: wpri.com
+  name: Times Free Press
+  domain: timesfreepress.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.wpri.com/wp-content/uploads/sites/23/2021/03/pence.jpg?w=1280"
-    width: 1024
-    height: 683
+  - url: "https://media.timesfreepress.com/img/photos/2021/03/30/ap210887234090611995366499_t1070_h2db21c899cfc2ae6a18b209177d13689e8ba2f1e.jpg"
+    width: 1070
+    height: 713
     isCached: true
 
 related:
@@ -392,6 +390,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ga+QjbX067wUR9/4rEbiRuldkRrUx3FAqQR7KkzF7JhV9KkAIiNoNhWX/dWyqQ8+KZ+AzQI8RVXoELWCVy8oa6Pt6PqgDHejmuRY0nbc/moNCj+288mBgvSvG/IvE1Or8EU3xI3qrFyCzjFDuWMXuIQf5XQYPDjaxDIzsPzfDGiOfNe5rwskngP6xWy8Yh1XvqqqNG7GbEjLGq9tb+SkmBRu8CV4ssfQ3tx2CzgmqGxdIE0sxSzu9B2SQkK9EffgpSgSPPhehuIWgjrNEcT1KKgA7NIR//VqoDLKPrdV/VaVTHNZrP8o3eK+TgmNsEmGpAiJXFuhlBcCCkGwM96AoEwKip7ES43VwJb6/mWJLRc=;v7drRmDdF0Ap5RUQaQMjGQ=="
+secured: "iABQLMtRz3pQ5VgMjctNDHCaFkcc8aRP0YzV4BIecEdLeVU/s45x0hENJO3ayp5eL5METhjpY3ynEYYoM3BqQm2+sN9bJKvCQmxoeLXQtupqfqbgtBEHpYNo3BNZU41wZmfuAgn9tSGzIn+MPQj0a0cS6eSloyLwSGGC9AyezVCE4lyB3ZFreTgmMQ8pInh3I8JKsAa6raNyGvHxcYo/2IAUlDf8NoQt8RjPq+C5EIcGomwpM/Ewbx9B4k7BfM1CoN/eRc78BHTLcTGR4Xksped5huJEyjGvsLrukiCVwSylQkIkvDvBL92J5VC7ChjschqMjyPM++OPdc1FWaXo9/lBe10Fug15Jz/Jy11Ni0M=;aGypEDUMWJqpLWKcrkOLSw=="
 ---
 

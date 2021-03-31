@@ -181,7 +181,7 @@
       "originalUrl": "https://www.charlotteobserver.com/entertainment/tv/article250289770.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -273,21 +273,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-29-snl-invites-maya-rudolphs-kamala-harris-and-martin-shorts-doug-emhoff-to-host-a-passover-seder.md",
-      "title": "SNL invites Maya Rudolph’s Kamala Harris and Martin Short’s Doug Emhoff to host a Passover Seder",
-      "excerpt": "Maya Rudolph returned to host \"Saturday Night Live,\" where she was joined in sketches by fellow SNL alumni Martin Short, Tina Fey and Rachel Dratch.",
+      "path": "_news/2021-03-28-snl-maya-rudolph-martin-short-play-kamala-harris-doug-emhoff.md",
+      "title": "'SNL:' Maya Rudolph, Martin Short play Kamala Harris, Doug Emhoff",
+      "excerpt": "Saturday Night Live alum Maya Rudolph returned to guest host the sketch-comedy series this weekend. Rudolph reprised her role of Kamala Harris, vice president of the United States, while comedian and former SNL star Martin Short made a surprise appearance as Harris' shy,",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/",
-      "originalUrl": "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/",
+      "webUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
+      "originalUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZIY2IYX2FZCPTOYNWPMUJZFOD4.jpeg&w=1440",
-          "width": 1000,
-          "height": 667,
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/5701616939292/2021/1/f2b1a89417fc11cd4b17e790312cb091/v1.5/SNL-Maya-Rudolph-Martin-Short-play-Kamala-Harris-Doug-Emhoff.jpg",
+          "width": 800,
+          "height": 531,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -295,16 +295,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp",
-      "publishedDateTime": "2021-03-28T12:09:00-07:00",
+      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/",
+      "publishedDateTime": "2021-03-28T09:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-snls-kamala-harris-hosts-ted-cruz-for-unity-seder.md",
+      "title": "SNL's Kamala Harris hosts Ted Cruz for 'Unity Seder'",
+      "excerpt": "and Kamala Harris Kamala Harris 5 immediate migration management steps for Kamala Harris White House names members of environmental justice panel Biden 'doesn't care' what Trump does at border ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder",
+      "originalUrl": "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/mayarudolph_0811.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp",
+      "publishedDateTime": "2021-03-28T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -661,7 +704,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/21/vice-president-kamala-harris-jacksonville-florida-visit/4792761001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 370,
+      "heat": 270,
       "tags": null,
       "images": [
         {
@@ -1567,58 +1610,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-inside-the-progressives-push-to-use-kamala-harris-presidential-ambitions-for-policy-leverage-in-the-biden-administration.md",
-      "title": "Inside the progressives' push to use Kamala Harris' presidential ambitions for policy leverage in the Biden administration",
-      "excerpt": "Progressives are pretty sure Kamala Harris will run for president again. Here's how they plan to use it to their advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kamala-harris-biden-2024-minimum-wage-white-house-progressives-2021-3",
-      "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-2024-minimum-wage-white-house-progressives-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/603d7f1d87d37600190d08cd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

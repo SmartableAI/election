@@ -361,6 +361,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Women dominate Biden's first slate of judicial nominees"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden released his first slate of 11 federal judicial nominations on Tuesday, nine of them women of diverse backgrounds including several Black candidates and an Asian American. “This trailblazing slate of nominees ..."
+    publishedDateTime: 2021-03-30T15:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-judicial-idUSKBN2BM1GJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BM1GJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1GJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556741242&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T0O9"
+        width: 701
+        height: 545
+        isCached: true
   - title: "Biden rolls out diverse first slate of judicial nominees"
     excerpt: "President Joe Biden has named a racially diverse and overwhelmingly female group to federal and other judgeships"
     publishedDateTime: 2021-03-30T19:20:00Z
@@ -903,6 +919,17 @@ related:
         width: 350
         height: 439
         isCached: true
+  - title: "Joe Biden’s dog Major reportedly involved in second biting incident"
+    excerpt: "President Biden’s rescue dog, Major, was involved in a second “biting incident” on Monday, according to CNN. According to the network, a National Parks Service employee sought medical attention after the incident on the White House South lawn."
+    publishedDateTime: 2021-03-30T20:53:00Z
+    webUrl: "https://www.bostonglobe.com/2021/03/30/nation/joe-bidens-dog-major-reportedly-involved-second-biting-incident/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/03/30/nation/joe-bidens-dog-major-reportedly-involved-second-biting-incident/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/03/30/nation/joe-bidens-dog-major-reportedly-involved-second-biting-incident/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "U.S. President Joe Biden Delivers Remarks on the State of the Covid-19 Vaccine"
     excerpt: "U.S. President Joe Biden delivers remarks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI Sign up for our daily newsletter"
     publishedDateTime: 2021-03-29T19:47:00Z
