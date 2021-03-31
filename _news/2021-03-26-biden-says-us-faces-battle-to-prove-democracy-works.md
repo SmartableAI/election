@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/biden-autocracies-versus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-autocracies-versus-democracies/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's massive infrastructure push sets up critical test for Democratic unity"
+    excerpt: "As President Joe Biden prepares to announce his own infrastructure plan Wednesday, Democrats on Capitol Hill are bracing for a months-long push that will challenge the dynamics of a party that has shown few cracks in unity over the first several months of a new administration.\n    \n"
+    publishedDateTime: 2021-03-31T00:12:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V92-SUPOSzk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/democratic-unity-infrastructure-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/democratic-unity-infrastructure-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208121628-ocasio-cortez-schumer-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says access will be provided to border facilities, but doesn't give timeline"
     excerpt: "President Joe Biden said plans are underway to provide journalists access to border facilities, but didn't provide a timeline on when that would happen.\n    \n"
     publishedDateTime: 2021-03-25T18:48:12Z

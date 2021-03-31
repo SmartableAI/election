@@ -1580,6 +1580,15 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "Biden Expected to End Trump Ban on Temporary Foreign Workers"
+    excerpt: "U.S. President Joe Biden is expected to allow a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday,"
+    publishedDateTime: 2021-03-31T00:24:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-03-30/biden-expected-to-end-trump-ban-on-temporary-foreign-workers"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Trump Says Meghan Markle Is 'No Good' Following Oprah Interview, Sides Piers Morgan: Miller"
     excerpt: "Donald Trump has previously clashed with Meghan Markle after she and Prince Harry endorsed Joe Biden in the 2020 presidential race."
     publishedDateTime: 2021-03-15T05:31:00Z

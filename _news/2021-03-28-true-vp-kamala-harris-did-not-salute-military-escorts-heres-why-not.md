@@ -163,6 +163,20 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Vice President Kamala Harris Touts St. Louis’ Mass COVID-19 Vaccination Site"
+    excerpt: "The Vice President spoke with St. Louis Public Radio's Jason Rosenbaum about how the Biden administration is handling the COVID-19 vaccination effort in St. Louis and elsewhere."
+    publishedDateTime: 2021-03-30T23:58:00Z
+    webUrl: "https://news.stlpublicradio.org/government-politics-issues/2021-03-30/vice-president-kamala-harris-touts-st-louis-mass-covid-19-vaccination-site"
+    type: article
+    provider:
+      name: KWMU
+      domain: stlpublicradio.org
+    quality: 52
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/ae4d079/2147483647/strip/true/crop/1600x840+0+113/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F05%2Fe89c908c4a13892a8c8afb804079%2F50987557866-7aa59531bc-o.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
     excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
     publishedDateTime: 2021-03-27T17:18:00Z

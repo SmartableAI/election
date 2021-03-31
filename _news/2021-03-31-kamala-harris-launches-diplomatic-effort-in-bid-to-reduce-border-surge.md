@@ -163,6 +163,20 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Vice President Kamala Harris Touts St. Louis’ Mass COVID-19 Vaccination Site"
+    excerpt: "The Vice President spoke with St. Louis Public Radio's Jason Rosenbaum about how the Biden administration is handling the COVID-19 vaccination effort in St. Louis and elsewhere."
+    publishedDateTime: 2021-03-30T23:58:00Z
+    webUrl: "https://news.stlpublicradio.org/government-politics-issues/2021-03-30/vice-president-kamala-harris-touts-st-louis-mass-covid-19-vaccination-site"
+    type: article
+    provider:
+      name: KWMU
+      domain: stlpublicradio.org
+    quality: 52
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/ae4d079/2147483647/strip/true/crop/1600x840+0+113/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F05%2Fe89c908c4a13892a8c8afb804079%2F50987557866-7aa59531bc-o.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
     excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
     publishedDateTime: 2021-03-27T17:18:00Z
@@ -206,6 +220,6 @@ related:
         height: 331
         isCached: true
 
-secured: "XOAhkK5j/KzuYAI1jDpOgrlmEIAQMw4A4VWVtGLfikgDtQoevUZ0uuXfLrZERU6gnRuA7eqWaROmebUmkw02gZJXuXiEuIg3utLoeHHxshUqseONiZwUDhBpvVbKtzAxvjTvX++Y1PGOSQirbjaqSueZiDsC1Q4Z0VZEhkAYmZpQvSVpwA0QkGpPSGY4IU766T/rjDbzQRIBSlI0vCyCH0TTvF/muwwgUGHXgAnLCiqhAJx8hPyaDZjZRFINmEFhUX6DZ/BAB9amolGDtzA6o+FC4jkNa+9z4S5jyZs4Bc47oJwW5gt8oH+WTl5icdvm87wXZ+1Ls1LKF/LO0VyagdzfpnuoSTS0JWqi/0s2/Z4=;lbjWIP9ho+XFGHg6teFCqQ=="
+secured: "Y1MBB3DHOFaLj2Cpgk8nooHRTUUokl9N40T6PF4mKg22vYbkNbECI+U2FZQK6eK0NkBOQ/Ka96H+VQjRTussZNt3XRuhOqttC9eHaozdDhgcQiXwTIQoxQwxRbCH3ig9RYi0VvRfwl7b2oUrOJJ11P74dF0SEcdTQqt9tAwmLymBF4s1uGeiWOzemUdPJd8guJlqA2inyNiL7xqbF4Y4C+8bUbY4lqeeethIekYfFYoLvaYifoYraTwhvwoXtPYoJ5G7Mx1ikHbrmxkS6zRBsj8n90ldH1ZUkWhXVfG44j/QJZafHVxE0N7RCJfT6tZqcM8RurIioJ7x3ytoDx7NH0onGoIi/Pp/lA/pyLGPt/VaoMXydrG8ykmOJ84gvP19nPI6ecayyr6IeMdewfzwiRJSG2jD9z/9fSBTrsm4indF9KluOaZqTVOuh/I0LNZlF6F5oY/ovajDk1Eq3ixe+ZKH4MmNuaSSSB5y+V5cgqCST9gW1Zrzkhgbeap4O/jdy6YwTJx7PKL2yYM5Ie+K0A==;uhElZgFMhJZjbYoOvzHi3A=="
 ---
 

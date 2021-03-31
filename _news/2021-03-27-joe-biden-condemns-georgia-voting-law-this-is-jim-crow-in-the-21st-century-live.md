@@ -399,6 +399,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Democrats torn on Biden's bipartisan pledge"
+    excerpt: "Democrats are torn between President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize ..."
+    publishedDateTime: 2021-03-31T00:17:00Z
+    webUrl: "https://thehill.com/homenews/senate/545672-democrats-torn-on-bidens-bipartisan-pledge"
+    ampWebUrl: "https://thehill.com/homenews/senate/545672-democrats-torn-on-bidens-bipartisan-pledge?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/545672-democrats-torn-on-bidens-bipartisan-pledge?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_harriskamala_033021getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
     publishedDateTime: 2021-03-26T20:19:00Z
@@ -558,6 +574,22 @@ related:
       - url: "https://i.insider.com/60635d78c9d73b00186e933b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden family dog Major involved in second biting incident while 'adjusting to his new surroundings'"
+    excerpt: "LaRosa added that Major, a 3-year-old German Shepherd the Bidens adopted in 2018, is \"still adjusting to his new surroundings\" in Washington, D.C. The dog had been seen by reporters on a walk around the White House South Lawn before President Joe Biden ..."
+    publishedDateTime: 2021-03-30T23:25:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/03/30/major-biden-dog-second-biting-incident-white-house/4811855001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4811855001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4811855001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/24/USAT/779adc61-27e0-41c5-9938-dc23ea32e59a-VPC_WHITE_HOUSE_DOGS_GO_BACK_TO_DELAWARE_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x2,y2&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden stumbles on steps of Air Force One – video"
     excerpt: "Biden tripped on the steps up to the plane, before recovering and carrying on unaided, turning to salute at the top. The 78-year-old fractured his right foot in November 2020 while playing with his dog Major"

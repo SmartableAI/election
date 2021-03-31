@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Harris thanks Guatemalan President Giammattei after his crackdown on migrants, doesn't visit border"
+    excerpt: "Vice President Kamala Harris shared a call with Guatemalan President Alejandro Giammattei Tuesday to discuss immigration amid a surging crisis and despite declining to visit the U.S.-Mexico border herself since taking office."
+    publishedDateTime: 2021-03-31T01:39:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0pXFkn-dGk/vice-president-harris-guatemalan-president-giammattei-illegal-immigants"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21089772700299.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris Laughs: Parents Learned The Value Of Educators When They Had To Bring Their Kids Home"
     excerpt: "Vice President Kamala Harris talked about teachers and parents at the West Haven Child Development Center on Friday: \"More people are seeing that, yeah, affordable child care is a big deal. More parents are seeing the value of educators when they (laughing) had to bring their kids [home] and say we're not paying them nearly enough (laughing)."
     publishedDateTime: 2021-03-29T00:00:00Z

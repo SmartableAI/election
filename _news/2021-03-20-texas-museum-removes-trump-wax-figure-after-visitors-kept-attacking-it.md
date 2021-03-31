@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Court voids Trump campaign's non-disclosure agreement"
+    excerpt: "A federal judge ruled Tuesday that a broad non-disclosure agreement that Donald Trump’s 2016 presidential campaign required employees to sign is unenforceable. U.S. District Court Judge Paul Gardephe’s ruling generally steered clear of the ..."
+    publishedDateTime: 2021-03-31T00:44:00Z
+    webUrl: "https://www.politico.com/news/2021/03/30/trump-campaign-non-disclosure-agreement-478648"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/30/trump-campaign-non-disclosure-agreement-478648"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/30/trump-campaign-non-disclosure-agreement-478648"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/2d/73/9200ef2a4405836a379b04214f27/ap19064520411313-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "cJE0OWpiss2ySdHINeMSHOdkHMKntvcT0rzK3q6cPik2560VCDyzBeoDAwHZSQxS4hDuUzzv/iw+9i/D5iZRiTucrHQd1VoMQA/W8B1LDdIRMYPDRx1zPtNDqYVjtHLgHJZ/9kgGoc5nvZzUtltQqR5NDbYfNPvhtVceXF31HBU0WhuUKFZa02ENkZCU4wcUrM4G/8OD2o5VBO7qYb3kTwZdWD7EhficS7IuUVQQc+PIljjroaCDiS+Ca2gv4qthoVIwYpgPYM4BH6uyZEsNGdhbLIjNcFXiVI/iOlzBnQcfqWpdg+XtC8Xblif6W67Q6XXHyIUG/Ei7BvMyrSSvKS7mP6xfkojuMXrDDeJQFvWWreb/h5oj34yVdCDJ9PhgXrdGQRbDhz9yaXKKBP1DPrKhErsG/a2rHTh5Z4hMXv/Fg/W+1gIAESWn8iN9kICTXMfBK1vyz139sTI8WPJwf+TD5SPqXi7XQUi287Ul1RMkWMdOAa6f45GcU7tEdDEwW9Io4t80p8GP6Hxw57Q+Vw==;+AwSyyb7KzWAHVUV/xjnyg=="
 ---

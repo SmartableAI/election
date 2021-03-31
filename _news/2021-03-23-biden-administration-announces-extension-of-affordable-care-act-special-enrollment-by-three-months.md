@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "With an eye on history, Biden moves on big, bold and progressive infrastructure package"
+    excerpt: "Every day he works from the Oval Office, President Joe Biden stares across from his desk at the portrait of Franklin Delano Roosevelt he selected to hang above his fireplace.\n    \n"
+    publishedDateTime: 2021-03-30T23:57:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KVamK9H6VnM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-history/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-history/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330143553-01-biden-signs-ppp-extension-0330-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Lawmakers ask Biden to issue waiver to make Covid-19 vaccination mandatory for members of military"
     excerpt: "A group of Democratic lawmakers sent a letter to President Joe Biden requesting that he issue a \"waiver of informed consent\" to make getting vaccinated against Covid-19 mandatory for all US military service members.\n    \n"
     publishedDateTime: 2021-03-24T21:30:20Z

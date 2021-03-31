@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Court voids Trump campaign's non-disclosure agreement"
+    excerpt: "A federal judge ruled Tuesday that a broad non-disclosure agreement that Donald Trump’s 2016 presidential campaign required employees to sign is unenforceable. U.S. District Court Judge Paul Gardephe’s ruling generally steered clear of the ..."
+    publishedDateTime: 2021-03-31T00:44:00Z
+    webUrl: "https://www.politico.com/news/2021/03/30/trump-campaign-non-disclosure-agreement-478648"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/30/trump-campaign-non-disclosure-agreement-478648"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/30/trump-campaign-non-disclosure-agreement-478648"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/2d/73/9200ef2a4405836a379b04214f27/ap19064520411313-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Texas museum removes Trump wax figure after visitors kept attacking it"
     excerpt: "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ..."
     publishedDateTime: 2021-03-19T17:08:00Z
