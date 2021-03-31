@@ -43,7 +43,23 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Indiana Senate congratulates Mike Pence on his 'retirement'"
+    excerpt: "Mike Pence reportedly is considering a 2024 run for president. But the Republican-controlled Senate in Pence's home state has adopted a resolution congratulating the former vice president and Indiana"
+    publishedDateTime: 2021-03-31T17:05:00Z
+    webUrl: "https://madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.html"
+    ampWebUrl: "https://madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/de/adef85fc-3eb9-5d23-90a3-d52cb6c0052d/6064acf687908.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "JgAIZjOcOcDumnqQ9cKf//arN42N+0trUP10s1zFXO9Z4icgkApf4QKRkYwuoKYeVs2egoHPeDodzfeWZ36b3NyFApYb2SxUd6eZWNRSfj8H91SXpSGyHtwj+vNT2hu59mOVQ3qV8N8LoNk0Bo2LgDd2bNmP1D1aA2TTnjsHB8tYMqK2ZRZ6QkKpJINxGXA36BFkAkiSlN/Ij1okN5CfBe5CKQDH6bclE3Y6MqW9EpGb2BBLVRk2cpb5uSd0DHkZcowCsINA/NBNRy+ma3OS5TYtThipIOMkJczU2aBx3pN/9MxGCgHrq9gVOh540rwdzUr3X9u9bh4dGUPR1FiKerE3f+sBSfmtheQ4lkGgfvI=;h1V+axNcY0irJzxjd7GLYg=="
+secured: "q1yav242eilgCUpLZoLb2wAYHw9SaoeNa0KJMUZH50L1mygX/lBefDJXOKZgI5tCsoabgdPevfh6fpJZ+heGynWzVXXefh+Lg5uSILDCGo7ppNIySk+L5IAT6Sbb7jsi+4JS2HCKnQtYbVMybZVB0+40/Z787ybtzfgTyMoVLe4DPbis0zANPJgAxTGirW5T263dEM68s7g9WE1epps9CNdOFBrq4fGptLcwt4GA/tvTXzWzelvWvhDevboH41vjvaO7E1vVL1sReFJGC4WEgMMky94LGlyDeVq6l9ipmLsKlJlb35vVyhHWrQjJqv6JNdE1lej3KyY0JndL2pMcgobvk7muwU/2YeGZ0HFMV9MwEf8VcbPQBJCeiKFoLBf2zvr+bNQY17kYh5jT3Jpd5yXJVnVrrbx935cCB6WiQ4FDmraKaZbTqb3wcLPNIEb8f/cbHc5cWTBFvNz6PPNptSg1GUoLLsTlyMO/mkV/6CQwOiX13njyznTmO1oT0LlGHQKIjljw0pysy4dt/+lmkw==;7SHSTrpjv/s1AXYQCZn5GQ=="
 ---
 

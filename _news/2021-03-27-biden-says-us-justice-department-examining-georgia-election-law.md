@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI31U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U"
 type: article
 quality: 140
-heat: 1460
+heat: 1480
 published: true
 
 provider:
@@ -413,6 +413,22 @@ related:
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_harriskamala_033021getty_lead.jpg"
         width: 980
+        height: 551
+        isCached: true
+  - title: "Lawmakers call on Biden to put $10 billion toward coastal restoration"
+    excerpt: "called on President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden ..."
+    publishedDateTime: 2021-03-31T17:37:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/545789-representatives-call-on-biden-to-put-10-billion-toward-coastal"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/545789-representatives-call-on-biden-to-put-10-billion-toward-coastal?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/545789-representatives-call-on-biden-to-put-10-billion-toward-coastal?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/coastline10272020.jpg"
+        width: 827
         height: 551
         isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"

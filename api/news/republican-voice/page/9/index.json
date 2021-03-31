@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-17-biden-israeli-pm-netanyahu-have-warm-and-friendly-talk.md",
+      "title": "Biden, Israeli PM Netanyahu have 'warm and friendly' talk",
+      "excerpt": "President Biden spoke with Israeli Prime Minister Benjamin Netanyahu on Wednesday, Netanyahu’s office confirmed to Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW57TVY8N6k/biden-netanyahu-warm-friendly-talk",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW57TVY8N6k/biden-netanyahu-warm-friendly-talk",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127716685001_6127717881001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-netanyahu-warm-friendly-talk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-netanyahu-warm-friendly-talk.amp",
+      "publishedDateTime": "2021-02-17T13:27:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.md",
       "title": "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot",
       "excerpt": "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January.",
@@ -1607,62 +1663,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-border-patrol-stephen-miller-illegal-immigration.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-patrol-stephen-miller-illegal-immigration.amp",
       "publishedDateTime": "2021-02-11T06:49:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-bidens-keystone-pipeline-cancellation-was-political-reward-for-left-wing-supporters-georgia-ag.md",
-      "title": "Biden's Keystone pipeline cancellation was 'political reward' for left-wing supporters: Georgia AG",
-      "excerpt": "Georgia Attorney General Chris Carr argued on “Fox & Friends” on Thursday that President Biden's move to cancel the Keystone XL oil pipeline project was a “political reward for those that supported the Biden-Harris administration.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DvxBr8346i8/biden-keystone-xl-cancellation-real-world-impact-georgia-ag",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DvxBr8346i8/biden-keystone-xl-cancellation-real-world-impact-georgia-ag",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-keystone-xl-cancellation-real-world-impact-georgia-ag.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-cancellation-real-world-impact-georgia-ag.amp",
-      "publishedDateTime": "2021-02-11T06:41:58-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

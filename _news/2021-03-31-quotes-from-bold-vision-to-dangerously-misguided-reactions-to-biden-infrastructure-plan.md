@@ -3,8 +3,8 @@ category: news
 title: "QUOTES-From 'bold' vision to 'dangerously misguided' - reactions to Biden infrastructure plan"
 excerpt: "March 31 (Reuters) - U.S. President Joe Biden is asking Congress to pass a $2.3 trillion jobs and infrastructure plan that fixes roads and bridges and boosts social services like care for the elderly. To pay for it, Biden is seeking to raise corporate tax ..."
 publishedDateTime: 2021-03-31T14:37:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-infrastructure-reaction/quotes-from-bold-vision-to-dangerously-misguided-reactions-to-biden-infrastructure-plan-idUSL1N2LT1TF"
-webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-reaction/quotes-from-bold-vision-to-dangerously-misguided-reactions-to-biden-infrastructure-plan-idUSL1N2LT1TF"
+originalUrl: "https://www.reuters.com/article/usa-biden-infrastructure-reaction-idUSL1N2LT1TF"
+webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-reaction-idUSL1N2LT1TF"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LT1TF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LT1TF"
 type: article
@@ -120,6 +120,6 @@ related:
         height: 433
         isCached: true
 
-secured: "UdhKP2Rwf5Vg1664HrLg/Uy53nbzxT5yAqhGJ++GWwfTfr9KUg40bCqTrm6YzV614tw1pMtAhIFuxo2nfhgQxscHD/yqvuE+TP/YBCDKzOTZll2x/sVZM3kZOf1qSPar3wQiJW70hOEy9kEbTHaON6qMK1viqu6eAo3kflLkaQ/4KaMDgaCaw2MXh/Uy7Bzd3JaoYxmj+kfjC+nuKbourakPuA2oO/UriR13UXncnk7jSZCW+4wOlLZ+i5CVl6l+DNz9CzCV8LjZtTMRayu2/Pibw4EhYXnrUHCvGh5Ohs64Kf0Tl/s4+OLfI0l4B6PJeybUhqWG9v+TZLZWVeElAz5l8znE17skH5bVDTg3qiE=;sfPH7BuJaf24L9AypNdKoQ=="
+secured: "GnfCU6ujt/WJ0ZwMheqga0FnMUS1QAIVeRJZ5zFJ51taBmbgEzz7vwkSlj0NmAvM1y3VlEroc0yKm8eMBsH5T+1YnBg5dpmqrnEHL6R/tgv/p9G7l6MrFdQvc75NNYaovIJDI2IvlQso9K7DKUNsOqCrvMLUqWU1zQQlef2D1XweyZhl+WVwVi36CBrOO/4o2Oeq+2Sl/v+D+2gfO37AEDQRdnfweYBKwjnDGeu14CaCM3yEgTzIsYfquxlvTNxsuZ1HecJ5hUte62NhEBS/Rhsy7kADu8I2WCOrMn96WAKHV0opZvlniKBSxghEWxUk/RoF9buvEYenFEIRz45PEd6fM8/E7iwuO4Zv4iCc/yA=;sIrw+aOdK++0VbR6h53DoA=="
 ---
 

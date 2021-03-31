@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Blinken reaffirms Trump-era ruling on Hong Kong autonomy"
+    excerpt: "Secretary of State Antony Blinken has reaffirmed a determination made last year by the Trump administration that Hong Kong is no longer autonomous and remains undeserving of special treatment by the U"
+    publishedDateTime: 2021-03-31T17:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/blinken-reaffirms-trump-era-ruling-hong-kong-autonomy-76792365"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/blinken-reaffirms-trump-era-ruling-hong-kong-autonomy-76792365"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/blinken-reaffirms-trump-era-ruling-hong-kong-autonomy-76792365"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0da79fe716294ab78d70e81bd1af02f8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Top Trump adviser warned then-president on virus supply shortage, then pursued controversial deals"
     excerpt: "A top adviser privately urged President Donald Trump to acquire critical medical supplies in the early days of the coronavirus outbreak — and after the warning was ignored, pursued his own ad hoc strategy that committed more than $1 billion in federal ..."
     publishedDateTime: 2021-03-31T13:07:00Z

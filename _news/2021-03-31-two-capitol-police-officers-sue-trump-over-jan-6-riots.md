@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Blinken reaffirms Trump-era ruling on Hong Kong autonomy"
+    excerpt: "Secretary of State Antony Blinken has reaffirmed a determination made last year by the Trump administration that Hong Kong is no longer autonomous and remains undeserving of special treatment by the U"
+    publishedDateTime: 2021-03-31T17:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/blinken-reaffirms-trump-era-ruling-hong-kong-autonomy-76792365"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/blinken-reaffirms-trump-era-ruling-hong-kong-autonomy-76792365"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/blinken-reaffirms-trump-era-ruling-hong-kong-autonomy-76792365"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0da79fe716294ab78d70e81bd1af02f8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Blinken Restores LGBTQ Protections, Abortion Rights Support With Removal of Trump-Era Policies"
     excerpt: "U.S. Secretary of State Antony Blinken disavowed some foreign policy positions established by Donald Trump's administration on Tuesday. During remarks to present the State Department's latest human rights report, an annual review of human rights conditions ..."
     publishedDateTime: 2021-03-30T20:02:00Z

@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-11-bidens-keystone-pipeline-cancellation-was-political-reward-for-left-wing-supporters-georgia-ag.md",
+      "title": "Biden's Keystone pipeline cancellation was 'political reward' for left-wing supporters: Georgia AG",
+      "excerpt": "Georgia Attorney General Chris Carr argued on “Fox & Friends” on Thursday that President Biden's move to cancel the Keystone XL oil pipeline project was a “political reward for those that supported the Biden-Harris administration.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DvxBr8346i8/biden-keystone-xl-cancellation-real-world-impact-georgia-ag",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DvxBr8346i8/biden-keystone-xl-cancellation-real-world-impact-georgia-ag",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-keystone-xl-cancellation-real-world-impact-georgia-ag.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-cancellation-real-world-impact-georgia-ag.amp",
+      "publishedDateTime": "2021-02-11T06:41:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-rep-nunes-republicans-could-possibly-face-pressure-to-impeach-biden-if-they-take-back-house-in-2022.md",
       "title": "Rep. Nunes: Republicans could possibly face 'pressure' to impeach Biden if they take back House in 2022",
       "excerpt": "California Rep. Devin Nunes, R-Calif., believes that Republicans might face pressure to impeach President Biden should the party gain control of the House in the 2022 midterms.",
@@ -1596,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/meadows-biden-administration-policies-america-last.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-biden-administration-policies-america-last.amp",
       "publishedDateTime": "2021-02-07T10:56:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-rand-paul-kids-missing-school-is-disaster-says-biden-beholden-to-teachers-unions.md",
-      "title": "Rand Paul: Kids missing school is 'disaster,' says Biden 'beholden' to teachers unions",
-      "excerpt": "President Biden's hands-off approach to reopening schools amid the coronavirus pandemic is hurting America's children, Sen. Rand Paul, R-Ky., told \"Justice with Judge Jeanine\" Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMET7vSBSD4/rand-paul-kids-missing-school-biden-beholden-to-unions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMET7vSBSD4/rand-paul-kids-missing-school-biden-beholden-to-unions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6ff4554-cb7b-431a-a61b-7dc4f0df80ea/7bcb469e-db26-4dc7-b49d-f84eb9a67300/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp",
-      "publishedDateTime": "2021-02-07T07:43:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

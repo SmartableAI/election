@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-27-frustrated-trump-demands-to-know-if-special-counsel-durham-is-still-living.md",
+      "title": "Frustrated Trump demands to know if Special Counsel Durham is still 'living'",
+      "excerpt": "Former President Donald Trump called Friday for an update on the status of Special Counsel John Durham’s probe into the origins of the FBI’s “Crossfire Hurricane” investigation of his administration’s alleged ties to Russia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WWaKh709Bbw/trump-demands-update-durham-probe-fbi-russia-investigation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WWaKh709Bbw/trump-demands-update-durham-probe-fbi-russia-investigation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39dd222a-d322-45e7-bd09-6009a95f1639/848f8402-eccc-440b-a27c-f69be2babefe/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-demands-update-durham-probe-fbi-russia-investigation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-demands-update-durham-probe-fbi-russia-investigation.amp",
+      "publishedDateTime": "2021-03-26T17:20:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-harris-acknowledges-major-new-social-welfare-spending-as-part-of-19t-covid-relief-bill-was-intentional.md",
       "title": "Harris acknowledges major new social welfare spending as part of $1.9T COVID relief bill was ‘intentional’",
       "excerpt": "Vice President Kamala Harris on Friday acknowledged that part of the purpose of the Democrats’ $1.9 trillion American Rescue Plan, which did not receive any Republican support, was to pass social policies to address problems like child care.",
@@ -1588,62 +1644,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-response-not-incompetence-tom-homan.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-response-not-incompetence-tom-homan.amp",
       "publishedDateTime": "2021-03-21T04:30:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-trump-boosts-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.md",
-      "title": "Trump boosts Julia Letlow in Louisiana House race to succeed her late husband",
-      "excerpt": "Former President Trump urged his supporters to back Julia Letlow Saturday in the special election House race in Louisana to succeed her late husband, Luke, who died after contracting coronavirus. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9EPRWC7E-wk/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9EPRWC7E-wk/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/dww.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.amp",
-      "publishedDateTime": "2021-03-20T14:10:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

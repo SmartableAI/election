@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-30-blinken-announces-plans-to-roll-back-trump-era-human-rights-initiatives.md",
+      "title": "Blinken announces plans to roll back Trump-era human rights initiatives",
+      "excerpt": "Secretary of State Antony Blinken diverted from the Trump administration’s human rights priorities as he unveiled the 2020 Country Reports on Human Rights Practices. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QznWelcPtvM/blinken-roll-back-trump-era-human-rights-initiatives-conservatives",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QznWelcPtvM/blinken-roll-back-trump-era-human-rights-initiatives-conservatives",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Blinken-AP.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blinken-roll-back-trump-era-human-rights-initiatives-conservatives.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-roll-back-trump-era-human-rights-initiatives-conservatives.amp",
+      "publishedDateTime": "2021-03-30T12:38:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-poll-one-third-would-use-a-trump-backed-social-media-platform.md",
       "title": "Poll: One-third would use a Trump-backed social media platform",
       "excerpt": "One-third of voters said they would use a social media platform that was backed by former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite vaccine ...",
@@ -322,7 +378,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -967,7 +1023,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
       "featuredContent": null,
       "highlight": null,
-      "heat": 710,
+      "heat": 750,
       "tags": null,
       "images": [
         {
@@ -1276,62 +1332,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-covid-19-response.md",
-      "title": "Trump accuses Fauci, Birx of 'trying to reinvent history' on COVID-19 response",
-      "excerpt": "Former President Donald Trump slammed Anthony Fauci and Deborah Birx on Monday, accusing the infectious disease experts of “trying to reinvent history” in televised interviews detailing their roles in combating the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5TT_L-m9XI/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5TT_L-m9XI/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb14def2-f6e9-4f0e-88e8-4bb0b38a9ec8/ffc8e1c0-0304-4e43-8d1f-fa39f4ae0ca9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp",
-      "publishedDateTime": "2021-03-29T16:25:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

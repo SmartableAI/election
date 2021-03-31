@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Biden expected to allow Trump-era guest worker pause to expire"
-excerpt: "President Biden is expected to allow a guest worker visa pause – first signed by former President Donald Trump last year – to expire on Wednesday, a move welcomed by big businesses who opposed the ban but opposed by immigration hawks who warn it will hurt American workers. "
-publishedDateTime: 2021-03-31T14:38:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSgx4JUWWXA/biden-trump-era-guest-worker-pause-expire"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSgx4JUWWXA/biden-trump-era-guest-worker-pause-expire"
+excerpt: "President Biden is expected to allow a guest worker visa pause -- first signed by former President Donald Trump last year -- to expire on Wednesday, a move welcomed by big businesses who opposed the ban but opposed by immigration hawks who warn it will ..."
+publishedDateTime: 2021-03-31T14:43:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire"
+webUrl: "https://www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire"
 ampWebUrl: "https://www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire.amp"
 type: article
-quality: 190
+quality: 150
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -771,6 +772,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "MaVHZzRgvVxOW8Py6m0jbqHCj+nZGPcz8r2ZgJyyPZ1Cd50fQQ0Cf4xd01yMrOFuaczrEn1WS8uOa4FkR9cC66S6Mlv6A9JHo/EwOP5394rs9/GJXZ/mTgp+InelwccmbVNcX2jPMFRQDVKBm83OnO5sZpaflYHze3swsiYHGCEmzK51H11X/fY/ZHQgFngB7UGi1H0wcwlDfXTNawzXuC+KkGctGd6q7092F5VGk8nFC+GXkqz5xX/F696GVL7Kz5Cg87Ked9SruycN0Rg55UCCb38E7fEezaSxJdXR55Y+sWewDGOrvCaPHeJTZ5bJigu+LBJ91Iohgtrclk9rFw+d3EDb/rQmcZsZ6KLdxA0=;kDxcInSKAzxrSDFEa0WF+w=="
+secured: "7RGY6j9BpFsauEL82i7ycjPyXfmYil+7kolUzDjwYBzGd5wIJrP7FNexwpNv7j8al6OlCyig9162TNUgnXjXIP8zwGTOnTZxK7fqS1dUHMBb62W96J9ejjHJ+rNFevVg4yQ6/wbFTyHqjQWqWq5P2D/VCpo4omBYEKk/fsOKzyA2ShqbLEUy7x5VP5ifNLYCfWbC75UxEFUJvoXTOrrEhAd1Y/uiQ4dck5aXW/SK4Nf1i1+HgcBkn6DXWFs3Qjdivq5Ro1hBhVHra7BLeNuuH7ARH9f4lZ1J3kF86KitHAl7jhvTXGF/wlyta/uBhu3fGYcXR2xo7gpIsZq/ea2noDywy3WolFR3N18EHAnIQQM=;HOeegYMWvGsw6AYU5ICowQ=="
 ---
 

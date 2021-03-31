@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Here's exactly how Biden's $2 trillion of infrastructure spending breaks down"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden is set to announce the first part of his two-part infrastructure package this afternoon. It's called the American Jobs Plan, and it will cost about $2 trillion. The package is focused on job creation, traditional ..."
+    publishedDateTime: 2021-03-31T17:48:00Z
+    webUrl: "https://www.businessinsider.com/what-is-in-bidens-infrastructure-bill-package-american-jobs-plan-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/what-is-in-bidens-infrastructure-bill-package-american-jobs-plan-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-is-in-bidens-infrastructure-bill-package-american-jobs-plan-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/603a39e413b221001876ab44?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden announces first slate of judicial nominees with picks that would make history"
     excerpt: "Washington — President Biden on Tuesday rolled out his first slate of judicial nominees, announcing candidates with diverse backgrounds and professional qualifications as he begins to make his own stamp on the nation's district and circuit courts."
     publishedDateTime: 2021-03-30T12:56:00Z
@@ -183,6 +199,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "1 of Biden's pooches drops doggie doo in White House hallway"
+    excerpt: "DOW S&P 500 NASDAQ 100 WASHINGTON (AP) — Doggie doo in the White House? One of President Joe Biden's dogs apparently deposited the pile of poo in the hallway outside the Diplomatic Reception Room, just off the South Lawn, on Wednesday. Reporters ..."
+    publishedDateTime: 2021-03-31T16:10:00Z
+    webUrl: "https://www.businessinsider.com/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "Uw6J0D4yI0aCkOphTWHemQ6chYj2yabBO43IklnnfYP3XLhJMumR4NTgSUGhX66cSMXuWBX+582PqUm0KuiA7CbBVFQLYu5q329aQShLpldaYyNIp/IFbIyqQQXWvMmgxA/UCU4d5ugTmW1ykgofMkeQZzY9vJRnGd8e/7J1FqdHryIDumP8D/DrQh0UV8A1bFQBZmMEXs9pUtUDcrMFh+wo8cRH+azsN0BDE/k3E3fxe6JCO5KeAYxOTzdpRa8xD5cNUSolG0EJmswhLolc96BDN5EyVq5tFdIbbZjLU/Vf4PEmwrck1WoyE67YwGyYBkVYvBwW9Y/W7zMxHqwPPEAvwZDC+Fl8LjKxzV+1WbQ=;4DJ1VNOBPhVSqUFCtBnrSA=="
 ---

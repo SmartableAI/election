@@ -111,22 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden expected to allow Trump-era guest worker pause to expire"
-    excerpt: "President Biden is expected to allow a guest worker visa pause – first signed by former President Donald Trump last year – to expire on Wednesday, a move welcomed by big businesses who opposed the ban but opposed by immigration hawks who warn it will hurt American workers. "
-    publishedDateTime: 2021-03-31T14:38:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSgx4JUWWXA/biden-trump-era-guest-worker-pause-expire"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31559d35-d060-4ac4-85d0-c5cf2e57997e/cea027d4-af7e-4165-9019-bb52722f5b11/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden offers veiled criticism of Trump in visit to CDC, says 'science is back'"
     excerpt: "President Biden visited the Centers for Disease Control and Prevention in Georgia on Friday, touting health officials for having “changed things” in a way to “make everyone healthier\" amid the coronavirus pandemic. "
     publishedDateTime: 2021-03-19T19:49:54Z
@@ -510,6 +494,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-biden-letter-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden expected to allow Trump-era guest worker pause to expire"
+    excerpt: "President Biden is expected to allow a guest worker visa pause -- first signed by former President Donald Trump last year -- to expire on Wednesday, a move welcomed by big businesses who opposed the ban but opposed by immigration hawks who warn it will ..."
+    publishedDateTime: 2021-03-31T14:43:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31559d35-d060-4ac4-85d0-c5cf2e57997e/cea027d4-af7e-4165-9019-bb52722f5b11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump says migrants will be ‘flowing in by the millions’ because of Biden"
     excerpt: "Trump attributed the surge to Biden’s policies, including his termination last month of the “Remain in Mexico” policy that required Central Americans to await US asylum decisions"

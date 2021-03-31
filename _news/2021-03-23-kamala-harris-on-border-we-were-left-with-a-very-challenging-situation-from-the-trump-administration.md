@@ -348,6 +348,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
+    excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"
+    publishedDateTime: 2021-03-31T16:51:00Z
+    webUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/"
+    ampWebUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/rev-mahoney-suing-harris-pelosi-fences-hp2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris yet to hold press briefing despite key role in addressing border crisis"
     excerpt: "Vice President Kamala Harris still hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis."
     publishedDateTime: 2021-03-29T22:21:00Z

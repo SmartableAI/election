@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
-excerpt: "Former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. after leaving office. Pence is steadily re-entering public life as he eyes a potential run for the White House ..."
-publishedDateTime: 2021-03-30T12:58:00Z
-originalUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-webUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-ampWebUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-cdnAmpWebUrl: "https://www-conchovalleyhomepage-com.cdn.ampproject.org/c/s/www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
+publishedDateTime: 2021-03-30T12:10:00Z
+originalUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Concho Valley Homepage
-  domain: conchovalleyhomepage.com
+  name: WTVO
+  domain: mystateline.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.conchovalleyhomepage.com/wp-content/uploads/sites/83/2021/03/pence.jpg?w=1280"
+  - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
     width: 1024
     height: 683
     isCached: true
@@ -235,6 +235,22 @@ related:
         width: 2500
         height: 1623
         isCached: true
+  - title: "Police officers sue Donald Trump for injuries resulting from Capitol riot"
+    excerpt: "Lawsuit seeks damages for ‘physical and emotional injuries caused by Trump’s wrongful conduct inciting a riot’ on 6 January Last modified on Wed 31 Mar 2021 09.58 EDT Two US Capitol Police officers have filed a lawsuit against Donald Trump ..."
+    publishedDateTime: 2021-03-31T12:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/f9deca06bc771f86b15d1cd4d7c3b878b1231361/0_65_2060_1236/master/2060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=365c112e893b7e1d1a06ca9e28be9071"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Rick Scott Asked Trump to Not Get Involved in 2022 Races Until Candidates Win Primaries"
     excerpt: "U.S. Senator Rick Scott, a Florida Republican who heads the GOP's Senate fundraising arm, wants former President Donald Trump's help in the 2022 election, but he's asking him to hold off a bit. \"I think he wants to win, so I think he's going to work with ..."
     publishedDateTime: 2021-03-23T21:42:00Z
@@ -250,6 +266,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1762709/trump-scott.jpg"
         width: 2500
         height: 1904
+        isCached: true
+  - title: "U.S. Capitol police officers sue former President Donald Trump for inciting Capitol riot"
+    excerpt: "WASHINGTON - Two Capitol Police officers, repeatedly assaulted during the deadly Capitol siege, have sued former President Donald Trump for inciting the deadly riots that left five dead and injured more than 100 officers. James Blassingame and Sidney ..."
+    publishedDateTime: 2021-03-31T15:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/31/two-u-s-capitol-police-officers-sue-trump-inciting-riot/4819740001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4819740001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4819740001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/18/USAT/30ad6a4e-8eb8-46f2-bb4d-051cdf2e2c44-police_protesters.jpg?auto=webp&crop=5008,2817,x0,y315&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 presidential run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron DeSantis and Sens. Josh"
@@ -470,6 +502,6 @@ related:
         height: 683
         isCached: true
 
-secured: "KjMU2cU7cQLi5K8hEVqaXVzY9+8qnZlDAjAc0723HWQzmgL7Yr3xCp0aWK0g86r0xxJx4M56O0dLaZFF/Z5GVNasYqguKmpprAvsefOZD1lkW5xkWCUhEChNy5Pidw3qkMwOO0E7ERSR2/PoO7h43O3waEJqatTxqk8x1HnKv9KbZvmJtWyxZvfR4fO5yFwEOZAPe5SCU/rCuqOgUMhbOf/M6A86ZX6+ytHXM7w2toMLhLRK8wjeqELYGqhet8DZkqMnpnnXDvhyxBaj8ksEfouuZp3qWx24hgfCdNbE8k3L6Bx5YhWZpQn5C/BQ6E/oW4AQuUAN6+BS5E22nCaBZ0PU49prs38rEXJ7y5qlIJq8kMN0SeA0GDbrsLymmJ/6n0Qgy5pwZJPY01+xqF74/M39AcCWSlYQbOphCmaPBoR+RWtJu04kHlJi8iCJVql3ivlkagVufS5fDFH30pAWlwcDd79erUoCK3nwgSG/GnPOZrEBb42vPsNO7w4XJymJ+ob6lQBELH/HFpq1UO2JQA==;bIMffBeIHbQY1d0FYuXz0A=="
+secured: "OUDdpwYRfdj91dPXhQHTnXK/bww8abbcx4lmZjUsW5Yj6nh0ZsmY+09IoU2c48XWpziWGsodDjGSKm0gsjPBMUCHjTMaN0AJJY0MLR9PYUSiiQ1PpiTOY++Vuzrx9JahKY+YsxILgEDmPrrmtuOhaPgyLWqoyTD62QjyDqpn5U4jEM+PB1wn2OBXJ6aTnr2fe00C00pzdf6OAnqhZ9Pj5mtkjy12k+oW6WVC9rU6eC37pbkav3kzffoJ+k8tGD6ncLg++X84W7y2GnN/MgbCVdRVMqzsOb2s30W7IyoCco2JIzzHMXGVeQ31jG7ZlKn65SBrtsJoxzWRE79QAGIaOZ7U83ipLO0E5hSkxME00hg=;6zd7mmH0i92ws7AA+46zgA=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-02-06-harris-flexes-power-as-senate-tiebreaker.md",
+      "title": "Harris flexes power as Senate tiebreaker",
+      "excerpt": "Early Friday morning, Vice President Kamala Harris did something Joe Biden never did in his eight years as vice president -- cast a tie-breaking vote.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205191617-harris-breaks-tie-screengrab-0205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html",
+      "publishedDateTime": "2021-02-06T06:58:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-illinois-judge-finds-trump-hotel-in-chicago-liable-for-violating-environmental-laws.md",
       "title": "Illinois judge finds Trump hotel in Chicago liable for violating environmental laws",
       "excerpt": "The hotel has been sucking in millions of gallons of Chicago River water for its air-conditioning systems, without renewing a permit to do so.",
@@ -1298,63 +1355,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-pence-reveals-his-post-white-house-plans.md",
-      "title": "Pence reveals his post-White House plans",
-      "excerpt": "Former Vice President Mike Pence is joining the Heritage Foundation as a distinguished fellow, according to three people familiar with the matter. The move comes a day after the former vice president launched his transition office and announced plans to relocate to his home state of Indiana this summer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/04/pence-heritage-foundation-fellow-465884",
-      "originalUrl": "https://www.politico.com/news/2021/02/04/pence-heritage-foundation-fellow-465884",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/bf/e0/c41b2f7042f88a0644c8730922ae/210204-pence-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-01-trump-moving-forward-with-plans-to-start-social-media-platform-sources.md",
+      "title": "Trump 'moving forward' with plans to start social media platform: sources",
+      "excerpt": "EXCLUSIVE: Former President Donald Trump and his team are \"moving forward\" with plans to start their own social media platform, sources familiar with the matter told Fox News. \"We're moving forward,\" one source said Tuesday. \"And President Trump will have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-new-social-media-platform-facebook-ban",
+      "originalUrl": "https://www.foxnews.com/politics/trump-new-social-media-platform-facebook-ban",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-new-social-media-platform-facebook-ban.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-new-social-media-platform-facebook-ban.amp",
+      "publishedDateTime": "2021-03-31T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-2-us-capitol-police-officers-sue-trump-over-january-6-assault.md",
       "title": "2 U.S. Capitol Police officers sue Trump over January 6 assault",
       "excerpt": "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ...",
@@ -465,7 +522,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -626,7 +683,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
       "featuredContent": null,
       "highlight": null,
-      "heat": 710,
+      "heat": 750,
       "tags": null,
       "images": [
         {
@@ -1497,59 +1554,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-trump-didnt-include-mike-pence-in-his-list-of-very-good-republicans-and-possible-2024-presidential-candidates.md",
-      "title": "Trump didn't include Mike Pence in his list of 'very good' Republicans and possible 2024 presidential candidates",
-      "excerpt": "During the interview, Trump also repeated his false claims that Pence could have rejected certain states' Electoral College votes during the Jan. 6 joint session of Congress. \"It's too bad Mike Pence didn't go back, because you would have had a much ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
-      "originalUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6058bad6138e680019ad92eb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp",
-      "publishedDateTime": "2021-03-22T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Donald Trump"
       ]
     }

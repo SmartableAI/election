@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Here's exactly how Biden's $2 trillion of infrastructure spending breaks down"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden is set to announce the first part of his two-part infrastructure package this afternoon. It's called the American Jobs Plan, and it will cost about $2 trillion. The package is focused on job creation, traditional ..."
+    publishedDateTime: 2021-03-31T17:48:00Z
+    webUrl: "https://www.businessinsider.com/what-is-in-bidens-infrastructure-bill-package-american-jobs-plan-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/what-is-in-bidens-infrastructure-bill-package-american-jobs-plan-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-is-in-bidens-infrastructure-bill-package-american-jobs-plan-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/603a39e413b221001876ab44?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden announces first slate of judicial nominees with picks that would make history"
     excerpt: "Washington — President Biden on Tuesday rolled out his first slate of judicial nominees, announcing candidates with diverse backgrounds and professional qualifications as he begins to make his own stamp on the nation's district and circuit courts."
     publishedDateTime: 2021-03-30T12:56:00Z
@@ -167,6 +183,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "1 of Biden's pooches drops doggie doo in White House hallway"
+    excerpt: "DOW S&P 500 NASDAQ 100 WASHINGTON (AP) — Doggie doo in the White House? One of President Joe Biden's dogs apparently deposited the pile of poo in the hallway outside the Diplomatic Reception Room, just off the South Lawn, on Wednesday. Reporters ..."
+    publishedDateTime: 2021-03-31T16:10:00Z
+    webUrl: "https://www.businessinsider.com/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/1-of-bidens-pooches-drops-doggie-doo-in-white-house-hallway-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "North Korea responds to Biden's criticism of ballistic-missile test, accusing administration of 'gangster-like logic'"
     excerpt: "DOW S&P 500 NASDAQ 100 North Korea on Friday issued a scathing statement in response to President Joe Biden's recent condemnation of North Korea's recent missile tests. North Korea's state media quoted top North Korean military official Ri Pyong Chol ..."
     publishedDateTime: 2021-03-27T00:49:00Z
@@ -184,6 +211,6 @@ related:
         height: 600
         isCached: true
 
-secured: "91B0ZPrRYMXINicP7SXX0MkU3q0tH2/KY2N4YqKu7lCQsppSNm9xd9lXbBT9Q6jIcScDXHJLGBDr4iAkBHf3S3NaB5+pebiWq0eKCqdQmBT9z0haXse/a+HxeCEOuWe+xes3FBApbKB1eR/Gro76k/58ESkEl1YFfr5SlASbR7bGSRTGJfFm0Cybp82WH/TAMQ878P7eb1GlyW5bzTUK4i/fiI9Ie0daBQWX32H4Yq0Vt/hsGl3CoDCNXwlcuNwWbQ1zxIRXOuI7790Vy6cpL5TEXTG9k/8kAlkQWLhFxdKcrxkoKx7jXAU+pLtRd168Mxq4cfU8GgIt0odZLVOFbe7JDPvGE3db1D/E37fYeK0=;fJEqeXuR/AQHaURWWhK8+w=="
+secured: "CnCVP+QEi7Gyt6B/7y3TqibqNA8UAJbYnmjIc2ocPlLx5gORcHAX3dRjR4lGIlhHkdUq0Zow+qj8gQi5sAJA+IzM9Hxk8CsGZKtwsno+P2/T8EOdf7fEdvkYyCAdna4XcB16/r1rTDyr6Cy4UNoBnBsRb2/hOH4IzpWRKc+t06TEnvZALedrYtWDVHxpNfovovFQOEUGv1ccp4zwLiWMrE2N+sAG0nuPBJyfoz93kPc8vFSveVjqebNZPO9iwcIPQSA+uc5YJxkT5mtLSNKlTvdEL7jffGLa9+BfNZ/PEm83jleCFOsnJ0owqOlvovCwpR6d3UyinqEZ7hAFAV6xzGPAZ836NkpbLHdK1Hw2nQj6zr7hL1yHhXGUDSoF4a9ZCuBWHpnIJVla2N8G8zbZkmcttijcCWop+wQu1jaaK+ra7YLFWDEFFLCZq+WLMwXubk8ryAmO9k3WGofMBR9zsSjdAj/K47UmIwcPXoC+WcEgZs5bQPFWJLjQO2uyGNB04sLqB8ECX13O5J/FwyOorQ==;RIpDC6MlFtZyP/EAnsg31w=="
 ---
 

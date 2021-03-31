@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Infrastructure is President Biden's next focus. Here's what that means"
+    excerpt: "President Biden's jobs and infrastructure proposal will be a key part of his \"Build Back Better\" economic agenda and is expected to face opposition in the Senate.\n    \n"
+    publishedDateTime: 2021-03-31T12:38:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t2RF0W8Sdjc/biden-infrastructure-bill-buttigieg-taxes-mcconnell-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/03/30/biden-infrastructure-bill-buttigieg-taxes-mcconnell-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/03/30/biden-infrastructure-bill-buttigieg-taxes-mcconnell-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102150701-03-video-play-button-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration considering 6-month extension for US troops in Afghanistan"
     excerpt: "The Biden administration is considering a six-month extension for American troops in Afghanistan, just weeks before the May 1 deadline that the Trump administration had negotiated with the Taliban to withdraw all US forces from the country, according to a defense official.\n    \n"
     publishedDateTime: 2021-03-18T23:46:18Z

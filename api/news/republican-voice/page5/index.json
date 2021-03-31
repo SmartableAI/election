@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-10-biden-adviser-admits-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.md",
+      "title": "Biden adviser admits immigration policy 'may have driven' migrant surge, encouraged 'smugglers'",
+      "excerpt": "Southern Border Coordinator Roberta Jacobson said Wednesday that it was not a “coincidence” border crossing attempts spiked after President Biden took office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ap18060626927363.jpg",
+          "width": 1920,
+          "height": 1301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
+      "publishedDateTime": "2021-03-10T11:28:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-marcia-fudge-confirmed-as-bidens-hud-secretary.md",
       "title": "Marcia Fudge confirmed as Biden's HUD secretary",
       "excerpt": "The Senate on Wednesday confirmed Marcia Fudge to be President Biden's new secretary of Housing and Urban Development (HUD).",
@@ -1627,62 +1683,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.md",
-      "title": "Supreme Court drops 'sanctuary city' cases following Biden DOJ request",
-      "excerpt": "The Supreme Court on Thursday dismissed a number of cases testing the Trump administration’s plan to withhold law-enforcement grants from cities that refused to cooperate with Department of Homeland Security efforts to deport noncitizens arrested by local police.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bt_Pwo4TdGQ/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bt_Pwo4TdGQ/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73a31f1b-5496-4fac-92aa-f14680e8400e/00b723da-5a8b-4620-9849-ab36e52a42dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp",
-      "publishedDateTime": "2021-03-05T04:05:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

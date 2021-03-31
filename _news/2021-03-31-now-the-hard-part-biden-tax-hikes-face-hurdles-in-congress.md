@@ -98,7 +98,7 @@ related:
   - title: "QUOTES-From 'bold' vision to 'dangerously misguided' - reactions to Biden infrastructure plan"
     excerpt: "March 31 (Reuters) - U.S. President Joe Biden is asking Congress to pass a $2.3 trillion jobs and infrastructure plan that fixes roads and bridges and boosts social services like care for the elderly. To pay for it, Biden is seeking to raise corporate tax ..."
     publishedDateTime: 2021-03-31T14:37:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-reaction/quotes-from-bold-vision-to-dangerously-misguided-reactions-to-biden-infrastructure-plan-idUSL1N2LT1TF"
+    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-reaction-idUSL1N2LT1TF"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LT1TF"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LT1TF"
     type: article

@@ -159,6 +159,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden infrastructure plan could be big boost for blue-collar America"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden’s massive infrastructure plan would create millions of jobs, undoing some of the economic damage inflicted by the coronavirus pandemic, economists said, with lower middle-income workers and minorities possibly ..."
+    publishedDateTime: 2021-03-31T15:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-jobs/update-1-biden-infrastructure-plan-could-be-big-boost-for-blue-collar-america-idUSL1N2LT1VS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LT1VS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LT1VS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556888502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U10Q"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "82 unions and liberal groups call on Biden to create wealth tax"
+    excerpt: "Scores of unions and liberal advocacy groups pressed President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure ..."
+    publishedDateTime: 2021-03-31T17:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/545784-82-unions-and-liberal-groups-call-on-biden-to-create-wealth-tax-on"
+    ampWebUrl: "https://thehill.com/homenews/administration/545784-82-unions-and-liberal-groups-call-on-biden-to-create-wealth-tax-on?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545784-82-unions-and-liberal-groups-call-on-biden-to-create-wealth-tax-on?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_031821getty_czar.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z

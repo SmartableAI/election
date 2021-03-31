@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "EPA removes dozens of Trump-appointed advisers from two advisory panels"
+    excerpt: "The Biden administration will remove dozens of Trump-appointed advisers from two Environmental Protection Agency panels.\n    \n"
+    publishedDateTime: 2021-03-31T17:51:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cktgnPXLQDs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/environmental-protection-agency-trump-appointees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/environmental-protection-agency-trump-appointees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170629172604-epa-environmental-protection-agency-logo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How the current US-Mexico border crisis compares with the peak of the Trump era in 2019"
     excerpt: "President Joe Biden is not the first US president to face a growing number of migrants at the US-Mexico border -- and he won't be the last. Fluctuations in migration flows are common, regardless of which party is in power, as was evident in 2019 during the border crisis under then-President Donald Trump.\n"
     publishedDateTime: 2021-03-24T00:10:13Z

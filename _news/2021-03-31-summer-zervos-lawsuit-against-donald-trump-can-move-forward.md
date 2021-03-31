@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
+    excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"
+    publishedDateTime: 2021-03-31T16:18:00Z
+    webUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/"
+    ampWebUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "xUuabFKatU6xOuajrPJE20f6VznUSjmTsfUqye0+vXByZjJehRscFw9NGv6UfMDUgiRs/ZvgdAOyX0vV6tUincHeeHi56bjQ0TdrVqqH1+LO2sXZCOmoXsiGcQLPYt6x4LZMahdiHW0TInz8jTNej9kkSggexdfQZEYL8eB3nV47lCMDfk08DIn9schOhWN/QkIq62iVcI4wvv02/e7ytZXjSlCyxLBuZe3R0KSDiHfAE6wBWmXQPKxGzAQ0vPuNOZ8mlGn1zsEWH/ZWtYY9sQy/4CCt/wDq60FoYEDJCdKNrGAIX1GFLP1JTmsuhG9PVgY/yOJl1uZfgdD+xxNGkVpLnFtnHCC1iQTZR8gXEkZbdAbK5a5Wa99ThL8rCTFhVa89Ckk8i+5zxNWQv+x1bmr7hGv474QqylZljMcTdZbaOiehlHKqThhCq3jt/0twc3MKjzfT5SI2R4/OD3YmXgWf/xlhLs/01jDiOMjuXZVNo9nVO+mZODe8GHpn0Mxr7FDu3C5mcueoQ0GbWpmr4w==;hz7R+BrO4LGvlaXB+S47FA=="
 ---
