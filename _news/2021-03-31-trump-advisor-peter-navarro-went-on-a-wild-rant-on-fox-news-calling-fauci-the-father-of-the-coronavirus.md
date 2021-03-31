@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fa
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
+    excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
+    publishedDateTime: 2021-03-29T21:27:00Z
+    webUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306"
+    ampWebUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 82
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "The Latest: Trump blasts Fauci and Birx as 'self-promoters'"
     excerpt: "Former President Donald Trump is slamming two of his most prominent coronavirus advisers. He says Dr. Anthony Fauci and Dr. Deborah Birx are “two self-promoters trying to reinvent"
     publishedDateTime: 2021-03-30T00:19:00Z
@@ -48,6 +64,6 @@ related:
         height: 682
         isCached: true
 
-secured: "GvQodGA7WoqqJEfZ1KI7ZKF/sFlf2ysl422r3Arthx/DQEX38Q1P9WXVYle9BcP00hbNga4EVYZPfgvHT6Yr0s4WtRxCqPdtoEtZTEOk3jy7KHN+7/RtDMnRieP2qz+rZDtRk5MINdywm8//A3XF0b77GbA3wBZVLgtRiKrytE92vLrtoAbtezMWFzegiN5G8RKQu2CYBWWws8B1xF59DZTXN900TQ2D8pMe5sIG9M35bIWHLITKlgFG+ed//m0APUm5z/nAhIWM8VOFzk/P4mhPrQk1UJR8y+HKQf7MvAqxAKBTdI3kPthQNwBkSGCbKA4QMAoRWiCX23NtrG1eBuG0HqDwIXbXS9U/2596pHM=;95aYhZ+KTSNM74a78odVOg=="
+secured: "L+bY2NkAtdCQbhwRIJgCmNblMsxdR6v7/bi7G/Os66SuAwJZR9lZIBMfiHrhDHLQKrq3RJ3tAkygtjW7pO1/qWBwcr7dhf7tQ7HhfW7CQPER/9P+q3ubb8wrvUjY4NT01qzqnZM9ie5lV+tswLWiP4MiJWguVCV3bl+aEwp+YXkzxGWPY5xTyJVhe7QGqh1zlFmebVNBRDz34guPx7ixJYcjKsU/DBBYA6k08nEr/VLpc7DiLU7+H2I88AM3uYmiF/j9RVi1dCPGMSoPSLD4WO5BW1hOCkAY9oFaoqS6lGJKbWDWABsHTazhey5oRUD/ufVAxSwpsqYMg9bI6CRSR7//UkaQ/z/p5JgFGsPFiDkzi2WyHfEFjOdnlpsHC8tj1FLdqbPT1nYBxV5AX+1eUJ6JE3kWUopdNf8nSHXG110mFR+f3mVH7Vud2a312C/3t+M2E0B7HUzKWhMneFq8kRgDKMyAu7z4l+4VgMu7PKtMpCTSV5XZ4Fiah1LKlGi5hMQmdQIuolu0P+YN9QX72A==;m3PBuepRkgVs/9Sf7q1qkg=="
 ---
 

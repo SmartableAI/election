@@ -169,22 +169,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden under pressure over children crossing US-Mexico border – live"
-    excerpt: "Biden tells reports he will visit border ‘at some point’ as Mayorkas defends administration record"
-    publishedDateTime: 2021-03-22T13:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates?page=with:block-6058a1598f0824e5cc4fce39"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/65901ba675efc8d5e99ceb04cf1d52f68988985a/0_398_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9cfb0f78ea12ea23fd7e0fc973ffafd"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Russia criticizes US refusal to hold quick Putin-Biden call"
     excerpt: "The Russian Foreign Ministry says Washington rejected President Vladimir Putin’s offer to arrange a quick public call with U.S. President Joe Biden to help defuse tensions raised by Biden’s recent rem"
     publishedDateTime: 2021-03-22T14:16:00Z
@@ -296,22 +280,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555316536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0FI"
         width: 817
         height: 545
-        isCached: true
-  - title: "‘No end in sight’: Inside the Biden administration’s failure to contain the border surge"
-    excerpt: "(Guillermo Arias/AFP/Getty Images) Shortly before Christmas last year, Susan Rice and Jake Sullivan, two top advisers to President-elect Joe Biden, sat for an interview with EFE, a Spanish wire service, to issue a stark warning to migrants considering ..."
-    publishedDateTime: 2021-03-20T20:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZYRJAT6AII6XM6RTZNKHVJCBQ.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
     excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"

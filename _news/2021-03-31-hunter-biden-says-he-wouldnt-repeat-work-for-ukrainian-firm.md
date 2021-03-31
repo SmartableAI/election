@@ -2,13 +2,13 @@
 category: news
 title: "Hunter Biden says he wouldn’t repeat work for Ukrainian firm"
 excerpt: "President Joe Biden’s son Hunter says his service on the board of a Ukrainian gas company, which Republicans tried to turn into a negative during the 2020 presidential campaign, wasn’t unethical and didn’t represent a lack of judgment on his part."
-publishedDateTime: 2021-03-31T08:31:34Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/okMUEYcpbV0/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/okMUEYcpbV0/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm"
+publishedDateTime: 2021-03-31T08:35:00Z
+originalUrl: "https://www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm"
+webUrl: "https://www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm"
 ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -303,6 +304,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "AmNfmM7cFQ+uuuII3d5kWTdvyrfBdRX5i8Vq1Gx8X82kPc68PtGGwPEahMfe2LWDYu7Ws+LGuOOqPx9qHa/IeCpVqYz3N51lGyLIsvrK3ZzXM905EoYLWXmZ2kwoJ4mRTEjNKL/BpssMMMK9Nr4rSvH4x83l2L5DI0b0g8GVJa3xNnGGZ8oepp6bqmk9bPRYZstwCTZyWhvczlKUQQjTTl0awg9yzIwdMCTdJvs2sS8VrsHGkqJuoxT1yIW360KhJzdpmd58i0iJNB+NgT1eMNMz0monwdFeZHrk+zg9i5/tJZmgOrc3d/NJ0ayP4I8bFuwaswmoUt3foMa0yefkYuSWI8lzThcHhWraVHQo7d0=;LQNYgGIFkG9la/+jZQd+Gw=="
+secured: "kpw0/UdpwQfHp6bR343mmciBXzFaBt5xX3OZZmn5klB0BW+1c2rwNUuP/TW0UuAmevIS3Ep7J+VBpskBPPQ3un2CF78+aY0gWsBYUIEqz1wjz9iTzmsbWNaI/eQHyHNTsqEZXk2lqviyTNV3qQM7XmpJyPxKmwjhbTM076jNamP2f2hfwbg3GD5LwdF6/TZSmcWc2eUaBolvlBoWi1Jl/yJZ4Zc66C/wRpfRdW/hLtU0aUtVPajXhN9Dxvfe+4v6awEDxfudWsIQkkgkjVTKnnvi57xULBbay1ZPF9L5zD2fk1n2gJkbv+luACkBVOwlbjmg8zVGzWRSZMYB/FflW3svj3VJDkS7nKHoDGxQ8iY=;otE1V8DXmTAYfSLBdr0Psw=="
 ---
 

@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-26-chad-wolf-slams-tragic-biden-border-policies-there-is-no-enforcement-along-southern-border.md",
+      "title": "Chad Wolf slams 'tragic' Biden border policies: 'There is no enforcement' along southern border",
+      "excerpt": "The Biden administration's decision to roll back its predecessor's border policies with no contingency in place is a \"tragedy\" and the \"direct cause\" of the border crisis, former acting Homeland Security Secretary Chad Wolf told \"Your World\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mM6WpTlnbO8/biden-border-crisis-tragic-policies-chad-wolf-cartels",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mM6WpTlnbO8/biden-border-crisis-tragic-policies-chad-wolf-cartels",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-tragic-policies-chad-wolf-cartels.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-tragic-policies-chad-wolf-cartels.amp",
+      "publishedDateTime": "2021-03-26T15:57:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-kamala-harris-faces-political-trapdoors-as-she-takes-lead-role-on-migrant-border-surge.md",
+      "title": "Kamala Harris faces political ‘trapdoors’ as she takes lead role on migrant border surge",
+      "excerpt": "The humanitarian crisis at the southern border has vexed politicians in both parties for years. Now it’s Vice President Kamala Harris’ problem. President Joe Biden’s administration announced this week that Harris would lead its efforts to reduce the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/news/politics-government/article250228600.html",
+      "originalUrl": "https://www.sacbee.com/news/politics-government/article250228600.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.sacbee.com/news/politics-government/article250228600.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article250228600.html",
+      "publishedDateTime": "2021-03-26T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-dhs-dissolves-independent-advisory-council-ousting-trump-era-officials.md",
+      "title": "DHS dissolves independent advisory council, ousting Trump-era officials",
+      "excerpt": "Department of Homeland Security Secretary Alejandro Mayorkas on Friday dissolved the Homeland Security Advisory Council, according to a letter obtained by CNN, ousting a board of independent advisers that included Trump-era officials and setting up a plan to reconfigure the council.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ynEP8Ps1OU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ynEP8Ps1OU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301130049-02-mayorkas-wh-briefing-0301-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html",
+      "publishedDateTime": "2021-03-26T14:24:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-biden-calls-new-georgia-voting-law-jim-crow-in-the-21st-century.md",
       "title": "Biden calls new Georgia voting law 'Jim Crow in the 21st Century'",
       "excerpt": "President Joe Biden on Friday called a sweeping elections bill signed into law in Georgia \"Jim Crow in the 21st Century\" and a \"blatant attack on the Constitution and good conscience.\"\n    \n",
@@ -178,7 +333,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1440,
+      "heat": 1460,
       "tags": null,
       "images": [
         {
@@ -275,58 +430,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-joe-biden-said-nothing-has-changed-about-border-crisis-but-child-surge-is-higher.md",
-      "title": "Joe Biden Said 'Nothing Has Changed' about Border Crisis, but Child Surge Is Higher",
-      "excerpt": "President Joe Biden said \"nothing has changed\" at the U.S. border with Mexico since he took office, but the surge in unaccompanied child migrants is higher than in former President Donald Trump's final pre-pandemic year. U.S. Customs and Border Protection ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096",
-      "originalUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1764866/president-joe-biden-first-press-conference.jpg",
-          "width": 963,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1",
-      "publishedDateTime": "2021-03-26T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -547,58 +650,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-in-first-press-conference-biden-talks-immigration-filibuster-china-vaccination-goal.md",
-      "title": "In first press conference, Biden talks immigration, filibuster, China, vaccination goal",
-      "excerpt": "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/25/USAT/207eaa26-a590-4f9b-b833-309b77367412-AP_Biden.jpg?auto=webp&crop=5637,3171,x0,y286&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6984142002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002",
-      "publishedDateTime": "2021-03-26T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1006,7 +1057,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1120,
+      "heat": 1140,
       "tags": null,
       "images": [
         {
@@ -1226,7 +1277,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1320,62 +1371,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-biden-thursday-press-conference-slated-for-115-pm-eastern-in-the-east-room.md",
-      "title": "Biden Thursday press conference slated for 1:15 pm Eastern in the East Room",
-      "excerpt": "President Biden will hold his first news conference as commander-in-chief Thursday at 1:15 p.m. EST in the East Room.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvZgD5yaY3c/biden-press-conference-slated-for-115-p-m-in-the-east-room",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvZgD5yaY3c/biden-press-conference-slated-for-115-p-m-in-the-east-room",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 313,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548baca2-6495-4342-be7b-a3d92deb8ed5/a5205ecc-af6d-40ac-a48a-0bec1c62ae40/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp",
-      "publishedDateTime": "2021-03-24T13:27:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

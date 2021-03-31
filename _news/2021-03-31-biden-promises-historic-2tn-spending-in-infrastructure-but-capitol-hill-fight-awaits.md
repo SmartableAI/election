@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Now the hard part: Biden tax hikes face hurdles in Congress"
+    excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden’s plan to pay for his $2 trillion infrastructure plan with higher corporate taxes faces hurdles in Congress from Republicans who say it will kill jobs and some of his fellow Democrats who want a bigger write ..."
+    publishedDateTime: 2021-03-31T14:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-taxes/now-the-hard-part-biden-tax-hikes-face-hurdles-in-congress-idUSKBN2BN24Y?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN24Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN24Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556903424&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U1CB"
+        width: 817
+        height: 545
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556886083&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0SL"
         width: 817
         height: 545
-        isCached: true
-  - title: "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill"
-    excerpt: "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ..."
-    publishedDateTime: 2021-03-30T14:20:00Z
-    webUrl: "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/25/9cae5818-8a59-4895-b7b3-043827db64f5/thumbnail/1200x630/715b9965c2cc7d60f9872aee9b90ad30/gettyimages-1231927141.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden faces the challenge of highlighting progress without relaxing restrictions"
     excerpt: "President Joe Biden faces the challenge of highlighting progress without relaxing restrictions in the face of a potential fourth coronavirus surge."
@@ -79,21 +79,46 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
-    excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
-    publishedDateTime: 2021-03-31T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+  - title: "In first press conference, Biden talks immigration, filibuster, China, vaccination goal"
+    excerpt: "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office."
+    publishedDateTime: 2021-03-26T09:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/25/president-joe-biden-holds-first-press-conference/6984142002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6984142002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6984142002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2021/03/25/USAT/207eaa26-a590-4f9b-b833-309b77367412-AP_Biden.jpg?auto=webp&crop=5637,3171,x0,y286&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "QUOTES-From 'bold' vision to 'dangerously misguided' - reactions to Biden infrastructure plan"
+    excerpt: "March 31 (Reuters) - U.S. President Joe Biden is asking Congress to pass a $2.3 trillion jobs and infrastructure plan that fixes roads and bridges and boosts social services like care for the elderly. To pay for it, Biden is seeking to raise corporate tax ..."
+    publishedDateTime: 2021-03-31T14:37:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-reaction/quotes-from-bold-vision-to-dangerously-misguided-reactions-to-biden-infrastructure-plan-idUSL1N2LT1TF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LT1TF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LT1TF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 94
+  - title: "President Joe Biden and First Lady Visit the Vietnam War Memorial"
+    excerpt: "U.S. President Joe Biden and First Lady Dr. Jill Biden visit the Vietnam War Memorial in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI"
+    publishedDateTime: 2021-03-29T22:14:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3690f6ef0605b6b938b0be16c5a07fb4/President-Joe-Biden-and-First-Lady-Visit-the-Vietnam-War-Memorial/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3690f6ef0605b6b938b0be16c5a07fb4/BIDEN-WAR-MEMORIAL.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "tvOjinK2eE7OpQkw7u3+8CINmJtrI2mwjtvZs6/s86RudgtsS7L6+2cNaFKNRt3TDZadRMlVg+2AP+UuWfH9NVReMUSOqw4vCeieiwAQSwNP2DjhzhbiOPyCdoRkV2bOKMhKrHeVClo9f8dW/LlZw70J5oerzGQn9Ghg/6mUEgm8yu864IrmktWMQ5kzdQZ5lcdknVdsUOGeKhZvOjDtyfkhTCNVoEyf5Reza/ESCKvO7+psHV6xhRkpVzToh9GRhz/yZItC0NcBM6VdK47mnqBF/ME3Upj/Ek3ORnkNpeLB3S7JWU4c+UkexvUSxHozi0bqR/jZYCpVzEo59DpauRTyZ+e1PTo85FDajM5RxQr426KSX9wNc/gfQ9DHLVI7PAlHHIClGvpnfesOmz3DLTr8R9lDz5jkTiteggMF6PiI4d8frfSITNO9paXubiOi9divYOA/K9wb47807jtU9OWFuKY8Ra0kSF5tnNvaYJ0NMdctcw/UQ0yC5LwAig0GVRZ3N/Xij7LihyTi0q1QNA==;H1nDmzwZiEj75IhfcO4ryQ=="

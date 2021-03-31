@@ -169,6 +169,22 @@ related:
         width: 2500
         height: 1566
         isCached: true
+  - title: "How Donald Trump hurt female representation in federal courts"
+    excerpt: "DOW S&P 500 NASDAQ 100 After four years in office, President Donald Trump left America's judiciary — an institution already steeped in gender homogeneity — significantly more male. During his one-term presidency, Trump appointed more than 230 lifetime ..."
+    publishedDateTime: 2021-03-31T14:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-appointed-way-more-male-judges-than-female-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trump-appointed-way-more-male-judges-than-female-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-appointed-way-more-male-judges-than-female-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/6055053fcad7d300183f8233?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Judge rules Trump campaign's nondisclosure agreement is invalid"
     excerpt: "A federal judge on Tuesday ruled that a non-disclosure agreement (NDA) that employees on former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite ..."
     publishedDateTime: 2021-03-31T02:51:00Z
@@ -184,6 +200,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumprally4_06202020_gettyimages.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Reversing Trump, Pentagon to release new transgender policy"
+    excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that ..."
+    publishedDateTime: 2021-03-31T15:24:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/reversing-trump-pentagon-release-transgender-policy-76790248"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/reversing-trump-pentagon-release-transgender-policy-76790248"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/reversing-trump-pentagon-release-transgender-policy-76790248"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_6d25e353906f4ba08ccaf8e70fe1e0ae_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."

@@ -396,6 +396,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden unveils his infrastructure vision"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden unveils his infrastructure agenda today, which makes an ambitious push for a national clean energy standard, major stimulus for electric vehicles and a revamped power grid, and new jobs to help ..."
+    publishedDateTime: 2021-03-31T13:59:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/03/31/biden-unveils-his-infrastructure-vision-794357"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Legislature votes to legalize marijuana — Biden administration green lights congestion pricing — Deal close on relief fund"
     excerpt: "New York will become the latest state to legalize marijuana, after a years-long push culminated in a vote by the state Legislature to approve a bill ending the prohibition of the drug. The legislation passed the state Senate by a vote of 40-23 Tuesday night,"
     publishedDateTime: 2021-03-31T11:14:00Z

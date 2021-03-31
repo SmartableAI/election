@@ -43,22 +43,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden invites 40 world leaders to virtual summit on climate crisis"
-    excerpt: "Xi Jinping and Vladimir Putin among invitees as US heralds return to forefront of climate fight"
-    publishedDateTime: 2021-03-27T15:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/e6c958c526157d1a10e5316775bc12cbe46cc82b/0_136_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=256e3a07f20a163935f4e236b466c95f"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Ilhan Omar Blames Joe Biden for 'Failed' $15 Minimum Wage Push"
     excerpt: "Representative Ilhan Omar said the White House pursued a \"failed strategy\" as she blamed President Joe Biden for the $15 minimum wage not passing with the rest of the $1.9 trillion COVID-19 relief bill. She also argued that the $1.9 trillion COVID-19 ..."
     publishedDateTime: 2021-03-29T08:28:00Z
@@ -74,38 +58,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1765977/rep-ilhan-omar-minnesota.jpg"
         width: 1024
         height: 726
-        isCached: true
-  - title: "Biden wants $4T infrastructure package approved over summer"
-    excerpt: "WASHINGTON — President Joe Biden is aiming for summer passage of his sweeping $4 trillion infrastructure plan, and the White House hopes to take a more deliberate and collaborative approach with the contentious Congress than it did on the COVID-19 rescue ..."
-    publishedDateTime: 2021-03-29T22:54:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-wants-4t-infrastructure-package-approved-over-summer/2021/03/29/b5fb3ce4-90e1-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-wants-4t-infrastructure-package-approved-over-summer/2021/03/29/b5fb3ce4-90e1-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-wants-4t-infrastructure-package-approved-over-summer/2021/03/29/b5fb3ce4-90e1-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden wants infrastructure package approved over summer"
-    excerpt: "President Joe Biden is set to unveil the first part of his sweeping multitrillion-dollar infrastructure plan, aiming for passage over the summer"
-    publishedDateTime: 2021-03-30T00:24:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-infrastructure-package-approved-summer-76758548"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-infrastructure-package-approved-summer-76758548"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-infrastructure-package-approved-summer-76758548"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_beec6a6bb7ec4da89043545fdb934b04_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden forced to confront 2nd mass shooting in a week amid COVID relief tour"
     excerpt: "For the second time in just a week, President Joe Biden will need to address a mass shooting while traveling to promote his COVID relief plan, tempering his triumphant tone in the wake of tragedy. Biden is set to visit Columbus,"
@@ -282,38 +234,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Biden economic plan to focus 1st on infrastructure this week"
-    excerpt: "WASHINGTON (AP) — President Joe Biden will lay out the first part of his multitrillion-dollar economic recovery package this week, focusing on rebuilding roads, bridges and other infrastructure, followed by a separate plan later in April addressing child ..."
-    publishedDateTime: 2021-03-28T17:32:00Z
-    webUrl: "https://www.theintelligencer.com/news/article/Biden-economic-plan-to-focus-1st-on-16059241.php"
-    ampWebUrl: "https://www.theintelligencer.com/news/amp/Biden-economic-plan-to-focus-1st-on-16059241.php"
-    cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Biden-economic-plan-to-focus-1st-on-16059241.php"
-    type: article
-    provider:
-      name: Edwardsville Intelligencer
-      domain: theintelligencer.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Biden economic plan to focus on infrastructure this week"
-    excerpt: "President Biden will lay out the first part of his $1.9T recovery package this week, focusing on rebuilding roads, bridges and other infrastructure"
-    publishedDateTime: 2021-03-29T00:48:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/03/28/biden-economic-plan-focus-infrastructure-week/115648752/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/115648752"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/115648752"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/29/PDTN/29340395-4fc3-4270-94ee-0eec04890769-AP21085109957898.jpeg?auto=webp&crop=2542,1430,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "WATCH: President Joe Biden holds his first formal press conference"
     excerpt: "President Biden answered questions from White House reporters at 12:15 p.m., Thursday March 25. Watch a live stream here."

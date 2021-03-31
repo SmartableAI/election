@@ -64,22 +64,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Texas Gov. Abbott writes to VP Kamala Harris, demanding answers on border crisis"
-    excerpt: "Texas Gov. Greg Abbott says he wants answers regarding the crisis along the U.S.-Mexico border – and he’s seeking them from Vice President Kamala Harris."
-    publishedDateTime: 2021-03-31T09:14:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K-p7nPZXf8M/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/SPLIT-ABBOTT-HARRIS-452a.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Kamala Harris supports change to filibuster in Senate to limit minority party power"
     excerpt: "Vice President Kamala Harris supports changing the filibuster practice in the Senate in order to limit the ability of the minority party to easily block legislation, her office confirmed to Fox News Wednesday. "
     publishedDateTime: 2021-03-17T14:54:42Z
@@ -112,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Texas Gov. Abbott writes to VP Kamala Harris, demanding answers on border crisis"
+    excerpt: "Texas Gov. Greg Abbott says he wants answers regarding the crisis along the U.S.-Mexico border – and he’s seeking them from Vice President ."
+    publishedDateTime: 2021-03-31T09:15:00Z
+    webUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/SPLIT-ABBOTT-HARRIS-452a.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris laughs after reporter asks if she plans to visit border: 'Not today!'"
     excerpt: "Vice President Kamala Harris laughed while responding to a question from a reporter who asked Monday if she would be visiting the border amid the growing migrant crisis. While taking questions from reporters outside of Air Force One, Harris was asked if ..."
     publishedDateTime: 2021-03-22T22:48:00Z
@@ -128,10 +128,26 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Media allowing Kamala Harris to ‘get away with hiding’ from questions about border crisis, experts say"
+    excerpt: "Vice President Kamala Harris hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis, but the mainstream media has been oddly silent and doesn’t appear eager to hear what she thinks about the issues."
+    publishedDateTime: 2021-03-31T14:59:00Z
+    webUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding"
+    ampWebUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Kamala-Harris.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris Laughs: Parents Learned The Value Of Educators When They Had To Bring Their Kids Home"
     excerpt: "Vice President Kamala Harris talked about teachers and parents at the West Haven Child Development Center on Friday: \"More people are seeing that, yeah, affordable child care is a big deal. More parents are seeing the value of educators when they (laughing) had to bring their kids [home] and say we're not paying them nearly enough (laughing)."
     publishedDateTime: 2021-03-29T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_laughs_parents_learned_the_value_of_educators_when_they_had_to_bring_their_kids_home.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_laughs_parents_learned_the_value_of_educators_when_they_had_to_bring_their_kids_home.html"
     type: article
     provider:
       name: RealClearPolitics

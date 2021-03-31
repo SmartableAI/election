@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262581"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262581"
 type: article
 quality: 128
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -31,6 +31,24 @@ images:
     height: 1663
     isCached: true
 
-secured: "6Zd/lB/79pM009IBpeic29Hv6yFtw3VBQUd+MFE0jA+RJrWk2mrERrHL2uW0mbjUZSgq1NCRh03odzIOrGJiaD9Cfq1PjVLGxmjS2UIRp9SfBmnAFmQh+OdOPmKp4/UmYjn15H8jUw4UvwY1uvkmwq5Q8XqCEi3c0ozLFgnRegw25+S+uPJy4ktYXXp4DWE5wZcWu9tSvt0xrbG77DLrL4X1UUf89lf+t2py1U2srGg8Z/sZQ0sbxMlO/6KFtqYfhygUto0bMBaC/oClwN7D3dhsHyjH0kmApoYGok21Q27PBGRQdd2EC3vw6FdyFU7yzvFQ+IBuR+YQALxzmSFavT5ipUgnMrYnyoDA7rIFfyE=;s6jPW1VE0ujv+6BjLowZEQ=="
+related:
+  - title: "James Blassingame and Sidney Hemby’s Lawsuit Against Donald Trump"
+    excerpt: "Case No.: DONALD J. TRUMP : : : Defendant. COMPLAINT 1. This is a complaint for damages by U.S. Capitol Police officers for physical and emotional injuries caused by the defendant Donald Trump's wrongful conduct inciting a riot on January 6, 2021 ..."
+    publishedDateTime: 2021-03-31T10:55:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.html"
+    ampWebUrl: "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/doc-1302982-blassingame-20210330-complaint-redacted1-promo/doc-1302982-blassingame-20210330-complaint-redacted1-promo-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
+
+secured: "z+X9gDO/+9qlJ/Np1et4kZESPg1l6aKohMdyWN2z/nYWFfKslaILnPRV9JN7yRJgb1+eG8pCmQu2E72bDlxGLHUd2q3lhGuAO5jy0gtHB/0+eJNMFDEqAMR3fh69s83gavMFCpMyQdyIsxblyRLH3COldBg/mF8mNScribQXB5fl9ESh5f8lpYJn5bS1I0d8Wc3mshhBH3O96UooobDa/x0zS6O5UeCrUQ+7lIpNKYiTIA/KW/TUca/mkyXB4NCLlHuAiwOysJMwyHDAnIyVBEd8rRfwdMwNghzDU8SZyC7JK5cNxPMtWF3P+hyo5roD/lSKaShMiUepG0kLrem0HoPYdirRQqf3Z+xxgM9mjgO2fMnh/SOi5eud/kiX+FmLu6IR6kcoI1fNydwW6fKbDbxOTM6OVB4+nElNWHH2l+EHX27g6bm4AiiU8+ljR/Pba8SHVCMMk9AViJaEfpsMB2o45rUexkhfH6CR2L4ZLRuzf4kBXtcu8jTqwBQSvShspjLATzskYcGVFiGA8dukAQ==;zd+1VMU+i/wZZhVEr8NlnQ=="
 ---
 

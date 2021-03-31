@@ -321,7 +321,7 @@ related:
         isCached: true
   - title: "Infrastructure was a Trump punchline but is a window into Biden's soul"
     excerpt: "President Joe Biden's infrastructure plan is no joke.\n    \n"
-    publishedDateTime: 2021-03-31T10:34:36Z
+    publishedDateTime: 2021-03-31T14:22:08Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w5fTeM5uN4g/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donal
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Facebook removes video of Trump interview with daughter-in-law Lara Trump"
+    excerpt: "Facebook removed a video of an interview with former President Trump conducted by his daughter-in-law Lara Trump, saying any content “in the voice of Donald Trump” would be scrubbed from the social media platform."
+    publishedDateTime: 2021-03-31T14:23:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzqlRWb8SEU/facebook-removes-trump-interview-video-daughter-in-law-lara-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "xUuabFKatU6xOuajrPJE20f6VznUSjmTsfUqye0+vXByZjJehRscFw9NGv6UfMDUgiRs/ZvgdAOyX0vV6tUincHeeHi56bjQ0TdrVqqH1+LO2sXZCOmoXsiGcQLPYt6x4LZMahdiHW0TInz8jTNej9kkSggexdfQZEYL8eB3nV47lCMDfk08DIn9schOhWN/QkIq62iVcI4wvv02/e7ytZXjSlCyxLBuZe3R0KSDiHfAE6wBWmXQPKxGzAQ0vPuNOZ8mlGn1zsEWH/ZWtYY9sQy/4CCt/wDq60FoYEDJCdKNrGAIX1GFLP1JTmsuhG9PVgY/yOJl1uZfgdD+xxNGkVpLnFtnHCC1iQTZR8gXEkZbdAbK5a5Wa99ThL8rCTFhVa89Ckk8i+5zxNWQv+x1bmr7hGv474QqylZljMcTdZbaOiehlHKqThhCq3jt/0twc3MKjzfT5SI2R4/OD3YmXgWf/xlhLs/01jDiOMjuXZVNo9nVO+mZODe8GHpn0Mxr7FDu3C5mcueoQ0GbWpmr4w==;hz7R+BrO4LGvlaXB+S47FA=="
 ---

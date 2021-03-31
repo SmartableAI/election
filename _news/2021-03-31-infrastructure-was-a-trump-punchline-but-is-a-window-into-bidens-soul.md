@@ -2,7 +2,7 @@
 category: news
 title: "Infrastructure was a Trump punchline but is a window into Biden's soul"
 excerpt: "President Joe Biden's infrastructure plan is no joke.\n    \n"
-publishedDateTime: 2021-03-31T10:34:36Z
+publishedDateTime: 2021-03-31T14:22:08Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w5fTeM5uN4g/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w5fTeM5uN4g/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
@@ -3164,6 +3164,6 @@ related:
         height: 773
         isCached: true
 
-secured: "8LHoNwzim/1bkQuJlui2EcrkSNvlwSYIeixb7eYGsdL+xoaRS6bTm/5w3Im8uEjKAmaeYBamUFNLzHayxHXDinv+DrY/w+TmCHCDnAP6pj07vUJCVqwtAz+bQGv/t78QuS/ULP3gQsc/L/Qa2s9ZBWF6Sf2x5mXQejqWtFxa5UKvC7RggjKbHs1fSqaJNwz9FXmBQkp3Ik6BWxLHzIRaoB1b8Ehp2Yz9sKesP/BFwYvh2JG0Ool/Z38QFZjK5qfCaWgACOLogkgcQjwcnDWAKZyer0F9g2Nbws9xHbV0hLgpdQf52oaef+7Wrm8Pg30Yok6pTOLTQgXber85+75nDp219OlN68N94g/y4UsHTD0=;dIpNb6O1lwaeXb78t7QAOQ=="
+secured: "qbey37mBTXXVVcurPSbpTEbfqMPmExSc5wc1BqEZyQaHykMZwCgsEbj0P4XTFLLcK+aREyNtRUB8UuvC8Hnra6K7BaIVN7Wo5ARX2XloggfJCAaQmND3bbdh3LbB/lvEkzfpaDe+KlPkM9QebkIxKwRuMs8RJevWBOBUm7mExeIOyNS4YKlPLCyHrSZ4JH4dX3oIXU+FZ/GuKEAeOpX6xAkWXAq15KYcYyu4UyrNh9ibeDBgI2+NDo43j3N34888ksqiQ6MMoPrhiQox7fqtT4g/4PzjHFFdQ6WVZU8J+k40b6IUitj47xkdhIO2iWkJpzyodnJG/AYUT5VeVu3JjCPjcl+qz2gnXlmvVmOdNXY=;j86CkTB1fN7XkErEVgNHsg=="
 ---
 

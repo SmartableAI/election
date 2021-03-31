@@ -159,22 +159,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "N Korea confirms missile tests as Biden warns of response"
-    excerpt: "North Korea on Friday confirmed it had tested a new guided missile, as President Joe Biden warned of consequences if Pyongyang escalates tensions amid stalled nuclear negotiations. The North’s official Korean Central News Agency said the two “new-type tactical guided projectiles” accurately hit the target off the eastern coast on Thursday."
-    publishedDateTime: 2021-03-26T05:19:00Z
-    webUrl: "https://www.washingtonpost.com/world/the_americas/n-korea-confirms-missile-tests-as-biden-warns-of-response/2021/03/25/f316d9f0-8dd3-11eb-a33e-da28941cb9ac_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/the_americas/n-korea-confirms-missile-tests-as-biden-warns-of-response/2021/03/25/f316d9f0-8dd3-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/n-korea-confirms-missile-tests-as-biden-warns-of-response/2021/03/25/f316d9f0-8dd3-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden to affirm support for Good Friday Agreement in meeting with Irish PM"
     excerpt: "President Biden on Wednesday will speak via video with the prime minister of Ireland to mark St. Patrick's Day in a virtual version of what is typically an annual in-person celebration."
     publishedDateTime: 2021-03-17T10:00:00Z
@@ -191,21 +175,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden administration allows access to border facility -- but not ones over capacity"
-    excerpt: "Biden holds the first formal, solo news conference of his presidency Thursday. Biden administration allows camera inside border facility The Biden administration on Wednesday -- for the first time ..."
-    publishedDateTime: 2021-03-24T23:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+  - title: "Biden considers executive actions on guns, calls on Congress to pass weapons ban"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden urged Congress to swiftly pass gun control laws and may take action on his own to stop mass violence, the White House said on Tuesday, a day after the second deadly mass shooting in a week. The Democrat ..."
+    publishedDateTime: 2021-03-24T03:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BF2DK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2DK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2DK"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 119
+      name: Reuters
+      domain: reuters.com
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/Politics/carizzo-springs-1-abc-er-210324_1616623526394_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555920375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1AU"
+        width: 817
+        height: 545
         isCached: true
   - title: "North Korea Missiles Seriously Concern U.S. Allies, But Joe Biden Downplays Threat"
     excerpt: "Pyongyang has conducted two weapons tests in a week amid speculation North Korea is trying to apply pressure on the White House."
@@ -318,22 +302,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I37U2VEB7YI6XLBXIOB7O4E2XY.jpg&w=1440"
         width: 1440
         height: 979
-        isCached: true
-  - title: "Biden and Congress want to fix US roads, bridges and airports, but competing forces could stall the plan"
-    excerpt: "With Congress' recent passage of the COVID-19 stimulus bill known as the American Rescue Plan, President Joe Biden met with Republican and Democratic lawmakers in recent weeks to discuss how to move forward on with an infrastructure plan. He's expected ..."
-    publishedDateTime: 2021-03-22T09:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/22/joe-bidens-plan-roads-bridges-airports-may-hit-snag-congress/4757270001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4757270001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4757270001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/19/USAT/62a78305-acb5-4bc1-9386-b14c314423e0-GTY_1300538337.jpg?auto=webp&crop=6123,3444,x0,y312&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Top Biden immigration officials to head to Mexico for talks"
     excerpt: "White House border coordinator Roberta Jacobson and other senior Biden administration diplomats will travel to Mexico to discuss migration and development, a senior Mexican official said on Monday."

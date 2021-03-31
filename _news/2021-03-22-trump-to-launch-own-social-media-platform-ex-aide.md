@@ -45,22 +45,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Be at peace, meditate, Trump Buddha statue designer tells former president"
-    excerpt: "XIAMEN, China (Reuters) - Chinese furniture maker Hong Jinshi first created a couple of pint-sized statues of former U.S. President Donald Trump meditating in a Buddhist pose as a fun project for himself last year. Slideshow ( 4 images ) Six months on ..."
-    publishedDateTime: 2021-03-31T06:22:00Z
-    webUrl: "https://www.reuters.com/article/us-china-trump-statue/be-at-peace-meditate-trump-buddha-statue-designer-tells-former-president-idUSKBN2BN0RU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN0RU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN0RU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556845100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0DT"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Rolling back a rollback: Buttigieg deletes some Trump-era limits on regulation"
     excerpt: "Transportation Secretary Pete Buttigieg moved Wednesday to undo key deregulatory actions by the Trump administration, an overhaul that department officials said was necessary to address challenges that include climate change, racial injustices, the ..."
     publishedDateTime: 2021-03-24T23:46:00Z
@@ -76,38 +60,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IFSSTYTH3II6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 1086
-        isCached: true
-  - title: "Donald Trump's Team Sought Stake in Gab But Was Rejected, CEO Andrew Torba Claims"
-    excerpt: "The CEO of social media site Gab has claimed he rejected a proposal in January to have former president Donald Trump on the platform. Andrew Torba, who founded the service in 2016, said that representatives of the former president's senior adviser and son ..."
-    publishedDateTime: 2021-03-24T10:36:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1762774/donald-trump-cpac.jpg"
-        width: 3000
-        height: 2147
-        isCached: true
-  - title: "Top Trump adviser pushed controversial COVID-19 medical supply deals, documents show"
-    excerpt: "A top adviser to former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle ..."
-    publishedDateTime: 2021-03-31T13:22:00Z
-    webUrl: "https://thehill.com/policy/healthcare/545706-top-Trump-white-house-advisor-pushed-controversial-covid-medical-supply-deals-Navarro"
-    ampWebUrl: "https://thehill.com/policy/healthcare/545706-top-Trump-white-house-advisor-pushed-controversial-covid-medical-supply-deals-Navarro?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/545706-top-Trump-white-house-advisor-pushed-controversial-covid-medical-supply-deals-Navarro?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 118
-    images:
-      - url: "https://thehill.com/sites/default/files/navarro_051720getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Trump Social Network Users Won't Feel 'Fact Checkers Are Going to Be All Over Them': Lara Trump"
     excerpt: "A spokesperson for the former president said this week the new social media platform likely will roll out within the next few months."

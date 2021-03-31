@@ -171,6 +171,22 @@ related:
         width: 2500
         height: 1566
         isCached: true
+  - title: "How Donald Trump hurt female representation in federal courts"
+    excerpt: "DOW S&P 500 NASDAQ 100 After four years in office, President Donald Trump left America's judiciary — an institution already steeped in gender homogeneity — significantly more male. During his one-term presidency, Trump appointed more than 230 lifetime ..."
+    publishedDateTime: 2021-03-31T14:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-appointed-way-more-male-judges-than-female-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trump-appointed-way-more-male-judges-than-female-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-appointed-way-more-male-judges-than-female-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/6055053fcad7d300183f8233?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Judge rules Trump campaign's nondisclosure agreement is invalid"
     excerpt: "A federal judge on Tuesday ruled that a non-disclosure agreement (NDA) that employees on former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite ..."
     publishedDateTime: 2021-03-31T02:51:00Z
@@ -186,6 +202,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumprally4_06202020_gettyimages.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Reversing Trump, Pentagon to release new transgender policy"
+    excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that ..."
+    publishedDateTime: 2021-03-31T15:24:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/reversing-trump-pentagon-release-transgender-policy-76790248"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/reversing-trump-pentagon-release-transgender-policy-76790248"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/reversing-trump-pentagon-release-transgender-policy-76790248"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_6d25e353906f4ba08ccaf8e70fe1e0ae_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
@@ -438,6 +470,6 @@ related:
         height: 683
         isCached: true
 
-secured: "C+E3iG9me4eLN/fJXoCfE8gFasB9UE7nvpqF+0qXRN11oXbngq6RwQNX1LouOxDapaLi7YsIoyDfRYtYH0HBoPhTeEfvIZG5FD2xBPR3Ao0M2AVtrpwwLRxyPD4CJ50megwdkm0UHlgqZ1JKcQEYkXh36P1gAL8T1pS89GlAZMx92TjaVA0eaNo9UqqF7S/FAnCqR/SNlXe1Etz7Jo/pqfE1enCmROqcbrYQn0iwIgCrjIKaIlN4VsJKiXcaVshLuKQqVSvCOHvfgaGT9vmzLw0G4AeXyPJQuZqn3RB0f9cN4Ky2e/J/oib082G9b13N+98yR5CUw7r8liGw4TAAejHBpCoZG6bcktYHDOkg/oQ=;eUmKUj8uSNht1aPFjfGhiA=="
+secured: "KjMU2cU7cQLi5K8hEVqaXVzY9+8qnZlDAjAc0723HWQzmgL7Yr3xCp0aWK0g86r0xxJx4M56O0dLaZFF/Z5GVNasYqguKmpprAvsefOZD1lkW5xkWCUhEChNy5Pidw3qkMwOO0E7ERSR2/PoO7h43O3waEJqatTxqk8x1HnKv9KbZvmJtWyxZvfR4fO5yFwEOZAPe5SCU/rCuqOgUMhbOf/M6A86ZX6+ytHXM7w2toMLhLRK8wjeqELYGqhet8DZkqMnpnnXDvhyxBaj8ksEfouuZp3qWx24hgfCdNbE8k3L6Bx5YhWZpQn5C/BQ6E/oW4AQuUAN6+BS5E22nCaBZ0PU49prs38rEXJ7y5qlIJq8kMN0SeA0GDbrsLymmJ/6n0Qgy5pwZJPY01+xqF74/M39AcCWSlYQbOphCmaPBoR+RWtJu04kHlJi8iCJVql3ivlkagVufS5fDFH30pAWlwcDd79erUoCK3nwgSG/GnPOZrEBb42vPsNO7w4XJymJ+ob6lQBELH/HFpq1UO2JQA==;bIMffBeIHbQY1d0FYuXz0A=="
 ---
 

@@ -79,6 +79,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden's infrastructure plan met with skepticism from some lawmakers"
+    excerpt: "Biden's dog Major involved in second nipping incident 2 Capitol ... Democratic leadership will also have to hold onto moderates in order for the legislation to pass. Senator Joe Manchin, a moderate Democrat and one of the key swing votes in the Senate ..."
+    publishedDateTime: 2021-03-31T14:02:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-infrastructure-plan-congress-skeptical/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-infrastructure-plan-congress-skeptical/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-infrastructure-plan-congress-skeptical/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/31/7d160ae9-b41c-4d32-9e90-7d73d1d7ee11/thumbnail/1200x630/19c83d3d53c1739b5408ac1b6c77d7f0/ap21090456948486.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'Major' pain: Biden's dog involved in 2nd biting incident"
+    excerpt: "President Joe Biden’s dog Major on Monday was involved in his second biting incident this month WASHINGTON -- President Joe Biden's younger dog Major this week was involved in his second biting ..."
+    publishedDateTime: 2021-03-31T04:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/major-pain-bidens-dog-involved-2nd-biting-incident-76777615"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/major-pain-bidens-dog-involved-2nd-biting-incident-76777615"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/major-pain-bidens-dog-involved-2nd-biting-incident-76777615"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_985375203bdb4cbd87e4a4c5f7165a0d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "North Korea's Kim calls U.S. 'our biggest enemy' in challenge to Biden"
     excerpt: "North Korean leader Kim Jong Un called for more advanced nuclear weapons and said the United States is \"our biggest enemy,\" state media said on Saturday, presenting a stark challenge to President-elect Joe Biden just days before he takes office."
     publishedDateTime: 2021-01-09T09:02:00Z

@@ -47,22 +47,6 @@ related:
         width: 737
         height: 545
         isCached: true
-  - title: "Biden to unveil $2 trillion infrastructure proposal"
-    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize on voting rights ..."
-    publishedDateTime: 2021-03-30T23:54:00Z
-    webUrl: "https://thehill.com/homenews/administration/545663-biden-to-unveil-2-trillion-infrastructure-proposal"
-    ampWebUrl: "https://thehill.com/homenews/administration/545663-biden-to-unveil-2-trillion-infrastructure-proposal?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545663-biden-to-unveil-2-trillion-infrastructure-proposal?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_33021_gettyimages.png"
-        width: 826
-        height: 551
-        isCached: true
   - title: "Biden's infrastructure plan estimated to cost $2 trillion over 8 years"
     excerpt: "It's not just Republicans Mr. Biden must win over. Democratic Senator Joe Manchin of West Virginia says he wants to see Republican input, so that the Senate won't have to rely on reconciliation to pass. Senate Majority Leader Chuck Schumer said last week ..."
     publishedDateTime: 2021-03-31T01:32:00Z

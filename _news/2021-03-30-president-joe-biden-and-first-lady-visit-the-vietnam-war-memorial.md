@@ -25,6 +25,54 @@ images:
     isCached: true
 
 related:
+  - title: "Now the hard part: Biden tax hikes face hurdles in Congress"
+    excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden’s plan to pay for his $2 trillion infrastructure plan with higher corporate taxes faces hurdles in Congress from Republicans who say it will kill jobs and some of his fellow Democrats who want a bigger write ..."
+    publishedDateTime: 2021-03-31T14:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-taxes/now-the-hard-part-biden-tax-hikes-face-hurdles-in-congress-idUSKBN2BN24Y?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN24Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN24Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556903424&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U1CB"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
+    excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
+    publishedDateTime: 2021-03-31T10:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-stocks-idUSKBN2BN1MD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1MD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1MD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556886083&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0SL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden faces the challenge of highlighting progress without relaxing restrictions"
+    excerpt: "President Joe Biden faces the challenge of highlighting progress without relaxing restrictions in the face of a potential fourth coronavirus surge."
+    publishedDateTime: 2021-03-31T09:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-challenge-highlighting-progress-relaxing-restrictions/story?id=76769929"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-gty-er-210323_1616541488590_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In first press conference, Biden talks immigration, filibuster, China, vaccination goal"
     excerpt: "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office."
     publishedDateTime: 2021-03-26T09:13:00Z
@@ -41,38 +89,33 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden to host first press conference under pressure on immigration and guns – US politics live"
-    excerpt: "But Joe Biden still hasn’t had a formal news conference since his inauguration on 20 January. The stretch is the longest a new president has gone without meeting the press in the past 100 years, dating back to when Calvin Coolidge, a man known as ..."
-    publishedDateTime: 2021-03-25T10:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates?page=with:block-605c37b78f08a9515e8370b5"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates"
+  - title: "Biden promises 'historic' $2tn spending in infrastructure – but Capitol Hill fight awaits"
+    excerpt: "President hopes to ‘unify and mobilize the country’ but his plan faces challenges from Democrats as well as Republicans Last modified on Wed 31 Mar 2021 05.14 EDT Joe Biden will unveil an expansive $2tn proposal to rebuild the country’s ..."
+    publishedDateTime: 2021-03-31T08:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 113
+    quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/7d267c42fe0ca5906d541d0f55a58fc671e63bfa/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9bc03ce464544f0e6f608fe824ad872"
+      - url: "https://i.guim.co.uk/img/media/ee16b9cd080f21af7765df0f263b58afbd4aa081/31_306_3868_2321/master/3868.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ba607b0123aaccec9255bc658b0396bf"
         width: 600
         height: 360
         isCached: true
-  - title: "Boulder Congressman Joe Neguse leads over 60 Lawmakers in calling for Biden Administration to ban importation of Military-Style Assault Weapons"
-    excerpt: "Colorado Congressman Joe Neguse and Illinois Congresswoman Robin Kelly led a letter signed by over 60 lawmakers to President Joe Biden, calling for him to issue an executive order to ban"
-    publishedDateTime: 2021-03-25T22:06:00Z
-    webUrl: "https://www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/"
-    ampWebUrl: "https://www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/amp/"
-    cdnAmpWebUrl: "https://www-eptrail-com.cdn.ampproject.org/c/s/www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/amp/"
+  - title: "QUOTES-From 'bold' vision to 'dangerously misguided' - reactions to Biden infrastructure plan"
+    excerpt: "March 31 (Reuters) - U.S. President Joe Biden is asking Congress to pass a $2.3 trillion jobs and infrastructure plan that fixes roads and bridges and boosts social services like care for the elderly. To pay for it, Biden is seeking to raise corporate tax ..."
+    publishedDateTime: 2021-03-31T14:37:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-reaction/quotes-from-bold-vision-to-dangerously-misguided-reactions-to-biden-infrastructure-plan-idUSL1N2LT1TF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LT1TF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LT1TF"
     type: article
     provider:
-      name: Estes Park Trail-Gazette
-      domain: eptrail.com
-    quality: 39
-    images:
-      - url: "https://www.eptrail.com/wp-content/uploads/2021/03/TDP-L-CANDLELIGHT_VIGIL__HHR9492.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 94
 
 secured: "qj5wnHBn7KXMdl8KfvyOSSsecTZcOsFsqempMmncC7np2WcoYxuKdlTD0MgV2wm4akwOVo6PAuRKvb8hJIuPgQZsuMKdzyhryMCOry4gkejTZUZK2HBVT4ZutjIacwSmJfqjwR19MiF26/ZKdd53vXg8Ft1SNNfv70DBDNRQP7GoOTh8Euc6540ooFWqD4P4kLGpcSFaisQhkFMTPl9EFWa9vyeu8kNfJFacnG7DfmCB2sdHVwG43ziu2NJRJ6R8lVBRHMHL7Z/mmKXQ6irvjvRO04mc8Mx/dr/01Hgd4HHsEaRKi6KkIJpx5hFnmvKSfDvXef5PfLqaudO9y2P4r7PXb73x0gGP3mfmLJ8FmOY=;WaonOwgmA1clcDQLbdwdRQ=="
 ---

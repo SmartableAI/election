@@ -31,133 +31,239 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Net Worth Dropped By $700 Million During Presidency: Report"
-    excerpt: "Former President Donald Trump lost about a quarter of his overall wealth during the four years he served in the White House, according to the latest estimate from the Bloomberg Billionaire Index. When Trump took office in 2017, his net worth was estimated ..."
-    publishedDateTime: 2021-03-17T15:02:00Z
-    webUrl: "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845"
-    ampWebUrl: "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1"
+  - title: "The 'border-industrial complex' is bigger than Trump or Biden, and it thrives on crisis"
+    excerpt: "How Biden deals with the border remains to be seen, but he will be no less caught up in the border-industrial complex than Trump."
+    publishedDateTime: 2021-03-23T14:18:00Z
+    webUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/border-industrial-complex-bigger-than-trump-biden-thrives-on-crisis-2021-3?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5d9b7d95e94e863ec8152851?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden under pressure over children crossing US-Mexico border – live"
+    excerpt: "Biden tells reports he will visit border ‘at some point’ as Mayorkas defends administration record"
+    publishedDateTime: 2021-03-22T13:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates?page=with:block-6058a1598f0824e5cc4fce39"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/22/joe-biden-covid-coronavirus-vaccine-immigration-us-mexico-border-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1758105/donald-trump.jpg"
-        width: 1024
-        height: 690
+      - url: "https://i.guim.co.uk/img/media/65901ba675efc8d5e99ceb04cf1d52f68988985a/0_398_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9cfb0f78ea12ea23fd7e0fc973ffafd"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump's net worth dropped by $700 million during presidency: report"
-    excerpt: "Former President Trump’s net worth dropped by approximately $700 million during his presidency, according to an analysis from"
-    publishedDateTime: 2021-03-17T19:39:00Z
-    webUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency"
-    ampWebUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency?amp"
+  - title: "Border influx of migrants poses political threat to Biden"
+    excerpt: "White house press secretary says there is no crisis at the border When President Joe Biden entered office, he listed what he called \"four historic crises:\" the coronavirus pandemic, the economy ..."
+    publishedDateTime: 2021-03-23T09:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-influx-poses-political-threat-biden/story?id=76606028"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump hotels dropped as preferred partner by luxury travel agency"
-    excerpt: "The luxury travel agency Virtuoso will no longer list Trump Organization properties on its website, a spokesperson for the company said. A Virtuoso spokeswoman confirmed in a statement reported ..."
-    publishedDateTime: 2021-03-23T22:59:00Z
-    webUrl: "https://thehill.com/business-a-lobbying/544604-luxury-travel-agency-drops-trump-hotels-as-preferred-partner"
-    ampWebUrl: "https://thehill.com/business-a-lobbying/544604-luxury-travel-agency-drops-trump-hotels-as-preferred-partner?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/business-a-lobbying/544604-luxury-travel-agency-drops-trump-hotels-as-preferred-partner?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumphotel618289268.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
-    excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
-    publishedDateTime: 2021-03-12T02:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    type: article
-    provider:
-      name: ABC
+      name: ABCNews
       domain: abcnews.go.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/president-psa-vaccine-02-ht-jt-210311_1615493485600_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/mexico-us-border-rtr-jc-210309_1615335310890_hpMain_2_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "The 30-second, post-presidency speech about dogs that perfectly summarizes Donald Trump"
-    excerpt: "Donald Trump was the first president since Andrew Johnson to have not had any pets while living in the White House. In 2019, after singer Barbra Streisand criticized the then-president for not having a dog,"
-    publishedDateTime: 2021-03-15T14:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
+  - title: "Joe Biden invites 40 world leaders to virtual summit on climate crisis"
+    excerpt: "Xi Jinping and Vladimir Putin among invitees as US heralds return to forefront of climate fight"
+    publishedDateTime: 2021-03-27T15:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/26/joe-biden-climate-change-virtual-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e6c958c526157d1a10e5316775bc12cbe46cc82b/0_136_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=256e3a07f20a163935f4e236b466c95f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "How Obamacare Survived Trump and What Biden Is Doing Now"
+    excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
+    publishedDateTime: 2021-03-23T17:35:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-is-doing-now/2021/03/23/c540ac8c-8bfc-11eb-a33e-da28941cb9ac_story.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 117
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOJSJBQPWII6VESMWNGQTO6JJA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 952
+        isCached: true
+  - title: "How Obamacare Survived Trump and What Biden Might Do Next"
+    excerpt: "By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump. Joe Biden’s arrival in the White House could blunt any impact of the latest danger -- a case now before the Supreme Court -- and give Obamacare ..."
+    publishedDateTime: 2021-03-23T17:24:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do-next/2021/03/23/c540ac8c-8bfc-11eb-a33e-da28941cb9ac_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQKXYNEL7QI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 952
+        isCached: true
+  - title: "Biden administration allows access to border facility -- but not ones over capacity"
+    excerpt: "Biden holds the first formal, solo news conference of his presidency Thursday. Biden administration allows camera inside border facility The Biden administration on Wednesday -- for the first time ..."
+    publishedDateTime: 2021-03-24T23:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-access-border-facility-capacity/story?id=76662203"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/carizzo-springs-1-abc-er-210324_1616623526394_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden Said 'Nothing Has Changed' about Border Crisis, but Child Surge Is Higher"
+    excerpt: "President Joe Biden said \"nothing has changed\" at the U.S. border with Mexico since he took office, but the surge in unaccompanied child migrants is higher than in former President Donald Trump's final pre-pandemic year. U.S. Customs and Border Protection ..."
+    publishedDateTime: 2021-03-26T16:01:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-nothing-changed-border-child-surge-higher-1579096?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1764866/president-joe-biden-first-press-conference.jpg"
+        width: 963
+        height: 612
+        isCached: true
+  - title: "‘No end in sight’: Inside the Biden administration’s failure to contain the border surge"
+    excerpt: "(Guillermo Arias/AFP/Getty Images) Shortly before Christmas last year, Susan Rice and Jake Sullivan, two top advisers to President-elect Joe Biden, sat for an interview with EFE, a Spanish wire service, to issue a stark warning to migrants considering ..."
+    publishedDateTime: 2021-03-20T20:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-border-surge/2021/03/20/21824e94-8818-11eb-8a8b-5cf82c3dffe4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZYRJAT6AII6XM6RTZNKHVJCBQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support"
-    excerpt: "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs."
-    publishedDateTime: 2021-03-10T20:03:00Z
-    webUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794"
-    ampWebUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
+  - title: "What’s causing the migrant surge at the U.S. border? Poverty, violence and hopes for Biden."
+    excerpt: "A rising number of migrants are streaming to the U.S. southern border — more than 100,000 were detained in February alone. U.S. officials expected the influx to hit a 20-year high this year, posing a major challenge to Biden and his promise to adopt more humane immigration policies."
+    publishedDateTime: 2021-03-18T22:54:00Z
+    webUrl: "https://www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/migrant-surge-border-biden-unaccompanied-minors/2021/03/18/c2a48ab0-87ed-11eb-82bc-e58213caa38e_story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg"
-        width: 1200
-        height: 949
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJ2UUZEIEMI6XP67JU3NVOB2NU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump's Prediction About His Presidency Comes True: 'Their Ratings Are Going Down'"
-    excerpt: "Former President Donald Trump’s prediction about his presidency and news ratings come true just two months after he left the White House. During his tenure as the president, Trump made several prophecies and predictions,"
-    publishedDateTime: 2021-03-23T03:32:00Z
-    webUrl: "https://ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276"
-    ampWebUrl: "https://www.ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-prediction-about-his-presidency-comes-true-their-ratings-are-going-down-3167276?amp=1"
+  - title: "President Biden tells potential migrants: 'Don't come' to the US amid surge at southern border"
+    excerpt: "WASHINGTON — President Joe Biden sent a direct message to potential migrants hoping to enter the United States: \"Don't come.\" His message comes as the administration is dealing with a surge of unaccompanied minors at the U.S.-Mexico border and criticism ..."
+    publishedDateTime: 2021-03-17T01:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/16/president-joe-biden-migrants-border-surge-unaccompanied-minors/4726104001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4726104001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4726104001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/16de7515-7d64-427b-995f-372f068eca9f-AP21071052665404.jpg?auto=webp&crop=5999,3374,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden and Congress want to fix US roads, bridges and airports, but competing forces could stall the plan"
+    excerpt: "With Congress' recent passage of the COVID-19 stimulus bill known as the American Rescue Plan, President Joe Biden met with Republican and Democratic lawmakers in recent weeks to discuss how to move forward on with an infrastructure plan. He's expected ..."
+    publishedDateTime: 2021-03-22T09:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/22/joe-bidens-plan-roads-bridges-airports-may-hit-snag-congress/4757270001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4757270001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4757270001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/19/USAT/62a78305-acb5-4bc1-9386-b14c314423e0-GTY_1300538337.jpg?auto=webp&crop=6123,3444,x0,y312&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Eye Opener: GOP slams Biden for handling of border crisis"
+    excerpt: "Republicans are criticizing the Biden administration for its handling of the border crisis. Also, more European nations are pausing their rollout of the AstraZeneca vaccine over reports of blood clotting."
+    publishedDateTime: 2021-03-16T12:08:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-gop-slams-biden-for-handling-of-border-crisis/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/16/241f6ca3-426c-4c7a-ab40-98dbd0a467c3/thumbnail/1200x630/e8535078541b312badaf5e3d06164871/cbsn-fusion-eye-opener-gop-slams-biden-for-handling-of-border-crisis-thumbnail-669374-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Slams Biden's US-Mexico Border Control: 'A National Disaster'"
+    excerpt: "Donald Trump on Sunday slammed President Joe Biden over his response to the influx of migrants at the southern border, calling it a “national disaster.” In his fiery statement"
+    publishedDateTime: 2021-03-22T03:11:00Z
+    webUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612"
+    ampWebUrl: "https://www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-bidens-us-mexico-border-control-national-disaster-3166612?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 69
+    quality: 90
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/16/until-speaking-on-fox-news-former-us-president.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump Is Losing Money: Net Worth Down $700 Million As COVID-19, Riot Batter His Wealth"
-    excerpt: "Donald Trump's days as president are over, and his return to the business world is greeted with a dwindling net worth and the falling income of his businesses amid the pandemic."
-    publishedDateTime: 2021-03-19T10:23:00Z
-    webUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350"
-    ampWebUrl: "https://www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-losing-money-net-worth-down-700-million-covid-19-riot-batter-his-wealth-3165350?amp=1"
+  - title: "Department of Homeland Security chief defends U.S. handling of border crisis, blames Trump administration for surge"
+    excerpt: "In a lengthy statement, Homeland Security Secretary Alejandro Mayorkas revealed that the migration surge is heading towards a 20-year high — and partially blamed the former Trump administration for the tricky situation."
+    publishedDateTime: 2021-03-16T16:50:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-migrants-mexico-border-surge-20210316-ejwrionwwbczjnf5cswavbs6xu-story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 53
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
-        width: 1024
-        height: 663
+      - url: "https://www.nydailynews.com/resizer/OT8iCaWUuwg2Jezx-pa8tXH6XL0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A4X7LXFMHVGDXHY4UR6NHUX3TQ.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "j15/92Hph2dhtNJxwFUpcb3Hhs52ci5M61bm4Tsbl/g6cK1PJ/d6jj3VOthIr8RpKWVylG3anIzPa16OScjqoUHW3CiLdk0Ul+fZ2xYQR+/gAl+JbGAzkEjA35wqeSnzr1I24xQMcSiEdxY55UhxL6mvmH7MsWMyL5XHah6UL99R8gQiG8lytWrcJeILuuR6Gqch8u99abH2+7ek/G3xikNDM8XSygG5yaBEGBFjtgYRkwqjQ0K9vV/ZAmiufsA0gN3d5N40QMYbLNvm+IP7VYO3ncTJkpMu9vmQHCEtqYuiFFJx+v30hF6C7VajBM4Cpi+YZaUQSEMXda2VIe/7ZDuEaQ3AjFYSwBM6P4KSumM=;LoUykKyra4MCBBGc/5Xw9g=="

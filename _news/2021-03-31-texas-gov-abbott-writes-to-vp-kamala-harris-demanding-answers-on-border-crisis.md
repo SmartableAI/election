@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Texas Gov. Abbott writes to VP Kamala Harris, demanding answers on border crisis"
-excerpt: "Texas Gov. Greg Abbott says he wants answers regarding the crisis along the U.S.-Mexico border – and he’s seeking them from Vice President Kamala Harris."
-publishedDateTime: 2021-03-31T09:14:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K-p7nPZXf8M/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K-p7nPZXf8M/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis"
+excerpt: "Texas Gov. Greg Abbott says he wants answers regarding the crisis along the U.S.-Mexico border – and he’s seeking them from Vice President ."
+publishedDateTime: 2021-03-31T09:15:00Z
+originalUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis"
+webUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis"
 ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
 type: article
-quality: 180
+quality: 130
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/SPLIT-ABBOTT-HARRIS-452a.jpg?ve=1&tl=1"
@@ -128,10 +128,26 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Media allowing Kamala Harris to ‘get away with hiding’ from questions about border crisis, experts say"
+    excerpt: "Vice President Kamala Harris hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis, but the mainstream media has been oddly silent and doesn’t appear eager to hear what she thinks about the issues."
+    publishedDateTime: 2021-03-31T14:59:00Z
+    webUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding"
+    ampWebUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Kamala-Harris.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris Laughs: Parents Learned The Value Of Educators When They Had To Bring Their Kids Home"
     excerpt: "Vice President Kamala Harris talked about teachers and parents at the West Haven Child Development Center on Friday: \"More people are seeing that, yeah, affordable child care is a big deal. More parents are seeing the value of educators when they (laughing) had to bring their kids [home] and say we're not paying them nearly enough (laughing)."
     publishedDateTime: 2021-03-29T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_laughs_parents_learned_the_value_of_educators_when_they_had_to_bring_their_kids_home.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_laughs_parents_learned_the_value_of_educators_when_they_had_to_bring_their_kids_home.html"
     type: article
     provider:
       name: RealClearPolitics
@@ -157,6 +173,6 @@ related:
         height: 562
         isCached: true
 
-secured: "p1qFUxXfC5QykHqUAuqGtm+UCMmHZ5gJnWPvt9fcRjzULsvrMP39U890TVHjn/1f57u8ptDETww9JyrbOilyihKPcbCjASnI9WLeNFM9cU1wOSKS7IgoxCYNemrFsul/bY/UIi5GnAMNDROz85B/ISQ5S9vqEGqIK01ByAx7MJPTZBOxE1oyEGxYtBoZeZ9hQ8oEqVB4R2SVoBrS0mzPfWHh+UMDl7u22JswCC2CkEWyN+Yls/YegmhXpUJdhvlLuPlHRH85lGtCYWb2e0kxQBhsXcaoSoF9blPHHvNwOp+Lyi3TBn44mXO7+T+x0H236bMVC4nDPLjCZ44PR5mPpKqpIMFg/yhRyJZZUFFRVCI=;KA0ms+3mUGr/J46c1Q3kdQ=="
+secured: "eUtAN9HvsSXmO2OC4Ksr4FThyFWf0NmilgqryD7jADNuhmm4p+08+Ac9+sJ/gn3mFsqr3122zRwuMeIhfHpMEHLYGGVnNYt6ALQeWeAS5dmcDBgVXowQGl4xuTMM/2+rO9o6dqmDU3SrqY5lAJUc/Is+tqD0L7v88n+0RJruT3aawmUs/Psj0aS5d7IuR4FqmohzykyuCSRaHi1R3rzbtWziXh9j7zHOzt04EelicduWYN5bwywT3yq5VnzErDSyTh4eR0W9g8mkSlqQ9O8Rq3T8KKYdONMk/tECbOmFvXxiHcwBwKR5moZWApqe1FMMIAIBY4h+fvmUC+ieR3dnVmz5IuGHyuun7oGxhXztxpk=;YRBCS2gTm1AGdyDOrAjGdg=="
 ---
 

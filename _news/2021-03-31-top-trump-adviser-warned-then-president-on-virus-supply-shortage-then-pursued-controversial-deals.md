@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
+    excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
+    publishedDateTime: 2021-03-31T12:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Blinken Restores LGBTQ Protections, Abortion Rights Support With Removal of Trump-Era Policies"
     excerpt: "U.S. Secretary of State Antony Blinken disavowed some foreign policy positions established by Donald Trump's administration on Tuesday. During remarks to present the State Department's latest human rights report, an annual review of human rights conditions ..."
     publishedDateTime: 2021-03-30T20:02:00Z
@@ -128,6 +144,6 @@ related:
         height: 681
         isCached: true
 
-secured: "QKsUubHvd1vAVGvYxJZhPNQIDudNJb9qzh3c8uduT7EjO3cnEkQuHfbMpwyYer8TyN5Ol3ii619eeBrgzLeF/g89L/8aGUU9/+LS05+KWE0/jAuAKvfm1mF9w17gVBRLiC9nIVhgo+bgcEs6TOI/Rku8ZRJQpHo17Geh8hq/Y9FMeHE1ND4aeBNhr8fRQCsWd2EjVHGtsr8fSP1kfMaFN6A1v2FPyFhMhaKimwmMljVoQueGbzBqBpS0BtP6bgCYXQq6Z4g8/DTh2t+Rhoruszh2yDHV7G/CMnJIyx0Zp/11q5cGVIIzQuJLck48MtCV6x2Wex3YDlLr2OB/IYAfZEWeOg4dgtyuHcAdHkw4lt0=;P/tNu9dWmmYkrRZZ/TLWlg=="
+secured: "xPyVhjHsTiXiEI/65oQiMUtZseetBVFGCCX9JhK47gWthJ0f6ujPmwA31Ocu358PBTHbCUMNP7ljLrPbrx0suuT4tn07WZQhM5oriIVKCJ3YYA2B2wuNjYaWbVnP49GkM8oLfVi+nFoWvTCFy1HcZ9gKylrEEAmgE3ZcKjek5u/8XgP2pov/AgBJlkueZZcn29/T5aF33FxsDBacD8+XxgruyTjKkdtB3fkGY5oWhPgE/Kw6m/pdF953ecM9F+lKaRzhL8GXdEMZJ4kCkFOqDAfcqNBTdec3bJGAnKzdBKLQ6/+/vslh6BgmgEk6zF15KAZQ88hPQk9haPLxZy/OuHJQ0z/341H3ImpFq5PC0jQwA4g/dh3G5taeCV+R7jLD2p5PZtHKDVIWQw9jMeziHwhT/lZKx9l/bfMoiTVs/1QNEyY+Wp2fvdejXpamuI++2VgKn8cD7OHM5WWV+PvKeL5lGMa2K/aBm2gOcqjJ8uS0SvQr/FbvksivIVn/ZaaRrGsQuRpf2u7S4nvDJVMpFw==;Bo+jKpofvc05fFI1D5tquA=="
 ---
 

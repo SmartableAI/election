@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
 type: article
 quality: 200
-heat: 1120
+heat: 1140
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 190
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20334644546013-e1606925054815.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden expected to allow Trump-era guest worker pause to expire"
+    excerpt: "President Biden is expected to allow a guest worker visa pause – first signed by former President Donald Trump last year – to expire on Wednesday, a move welcomed by big businesses who opposed the ban but opposed by immigration hawks who warn it will hurt American workers. "
+    publishedDateTime: 2021-03-31T14:38:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSgx4JUWWXA/biden-trump-era-guest-worker-pause-expire"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-era-guest-worker-pause-expire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31559d35-d060-4ac4-85d0-c5cf2e57997e/cea027d4-af7e-4165-9019-bb52722f5b11/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -746,9 +762,9 @@ related:
         height: 500
         isCached: true
   - title: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster"
-    excerpt: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster | RealClearPolitics"
+    excerpt: "Three. Trillion. Dollars. Maybe four: That's how much President Joe Biden wants for his next installment of Let's Remake America. Think of it as pumping gasoline by the shipload onto a wildfire. Fr…"
     publishedDateTime: 2021-03-31T10:54:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/31/bidens_insane_new_spend-fest_is_a_recipe_for_national_disaster_539416.html"
+    webUrl: "https://www.realclearpolitics.com/2021/03/31/bidens_insane_new_spend-fest_is_a_recipe_for_national_disaster_539416.html#!"
     type: article
     provider:
       name: RealClearPolitics

@@ -399,6 +399,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden's dog Major involved in second nipping incident"
+    excerpt: "President Biden's rescue dog, Major, \"nipped\" someone while on a walk, and that person received medical attention out of an abundance of caution, the first lady's spokesperson confirmed on Tuesday. The nipping incident comes a few weeks after the dog caused a minor injury to someone else at the White House."
+    publishedDateTime: 2021-03-31T11:21:00Z
+    webUrl: "https://www.cbsnews.com/news/major-biden-dog-second-biting-incident/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/major-biden-dog-second-biting-incident/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/major-biden-dog-second-biting-incident/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/94b89822-f344-47b7-967d-615b354a1fb6/thumbnail/1200x630/7cbaa4775f35a51f52a4b46748a12a7d/image2-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Democrats torn on Biden's bipartisan pledge"
     excerpt: "Democrats are torn between President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize ..."
     publishedDateTime: 2021-03-31T00:17:00Z
