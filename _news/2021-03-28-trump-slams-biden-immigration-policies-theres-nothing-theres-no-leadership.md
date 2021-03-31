@@ -745,6 +745,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster"
+    excerpt: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster | RealClearPolitics"
+    publishedDateTime: 2021-03-31T10:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/31/bidens_insane_new_spend-fest_is_a_recipe_for_national_disaster_539416.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "1nOjihGlL7C0Uj7fpooQqSq/ntsdItFw0ID3ZfOaJKa66PO4bCeuJFy+yK/ncSewpvVUKbU1JNhfl05YWiFi/sjYBbBz0TYLn9BY+PPa6xNOE3NF2PG9Ozo92p9XffEAESOQUEemRWPIgbkgyRHWbkcQlDpym0RJqmJxlEjhF2R9Gzf4zacvW5U3q3MkKlNEz3nKgyrXUBmOa3sb09MDtKFBpMGmFRZRfHZj+ci4pUEMQqzT11tORlQ3rjg0g1WcGQZ1Cn5dEPpdBbPuVXIve2IqeZ88J2lpHzJOOHEQWBzufCNhQlHaA5GchDjMt1cW7o+fE/R7lZU+bXX8YTSHRfIEOiI9SEylB4jCh0TiXHw=;gA61v7sbFh4CpFcKuEFg0Q=="
 ---

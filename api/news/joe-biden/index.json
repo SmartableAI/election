@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-31-biden-returns-to-pennsylvania-to-rally-swing-state-voters-for-massive-new-spending-on-roads-and-bridges.md",
+      "title": "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges",
+      "excerpt": "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/",
+      "originalUrl": "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp",
+      "publishedDateTime": "2021-03-31T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-joe-biden-wants-to-heal-after-capitol-attack-but-americans-cant-even-agree-it-was-serious.md",
       "title": "Joe Biden Wants to Heal After Capitol Attack but Americans Can't Even Agree it Was Serious",
       "excerpt": "Republicans and Democrats are starkly divided on the severity of the attack, how harsh sentencing should be for those involved, and where future threats lie.",
@@ -579,7 +631,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1460,
+      "heat": 1440,
       "tags": null,
       "images": [
         {
@@ -1520,58 +1572,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-biden-celebrates-meeting-100m-vaccine-dose-goal-weeks-early-pizzeria-owner-in-jail-for-violating-virus-rules-live-covid-19-updates.md",
-      "title": "Biden celebrates meeting 100M vaccine dose goal weeks early; pizzeria owner in jail for violating virus rules: Live COVID-19 updates",
-      "excerpt": "Vaccine supply continues to increase, but U.S. cases are plateauing as more contagious variants spread. Latest COVID-19 news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2021/03/20/covid-updates-march-madness-during-pandemic-cdc-student-guidelines/4768684001/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2021/03/20/covid-updates-march-madness-during-pandemic-cdc-student-guidelines/4768684001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/15/USAT/851345d5-de6c-4a98-9500-56714c7c44f3-AP_Virus_Outbreak_California_Vaccine.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4768684001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4768684001",
-      "publishedDateTime": "2021-03-20T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

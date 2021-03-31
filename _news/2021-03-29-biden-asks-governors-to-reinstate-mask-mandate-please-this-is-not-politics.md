@@ -290,6 +290,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "As Biden Stands Down at the Border, America Suffers"
+    excerpt: "President Joe Biden is ceasing the execution of federal immigration laws, and the worst crisis in 20 years (by his own Department of Homeland Security secretary's admission) is likely to reach an unprecedented level."
+    publishedDateTime: 2021-03-31T10:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/31/as_biden_stands_down_at_the_border_america_suffers_539409.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "TFkrAfcCmx9TSXGMAWWe5sCubmNOVGjdjTV3efBfQGGvJrVssrnODOMxy4qQZzfJqZBxMFdM8cYKnthXvf9VaaNSMkRtTa+d8jeUJbb4psAYye835Gg6Qmm2f2oZgBSMzyJ5bWRt+wwiRWlS4UzGsKXnfZor31aJwTTOVoSYwFmvr3Rk2iWxHpNNs0Bgq927l5khhDozbmPEwBDwuDLTlq0jrbPioo4eJWC7LZL1UYghKfWliGi073fVGAv6O45u5DKLM3uOcStQiPlMfwTFNHYjzMgS3EUrQbFV3bXmLI2tUZvfu4GWaOrhyoFOou4HIu4u9uWOm5/48ozPp/2LrIuii6RQ780JFTmwrP6gkbQ=;vk1h5nU81oZEyuh6VcNANA=="
 ---

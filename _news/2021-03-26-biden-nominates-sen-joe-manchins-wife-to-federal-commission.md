@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -293,6 +293,15 @@ related:
         width: 1174
         height: 880
         isCached: true
+  - title: "As Biden Stands Down at the Border, America Suffers"
+    excerpt: "President Joe Biden is ceasing the execution of federal immigration laws, and the worst crisis in 20 years (by his own Department of Homeland Security secretary's admission) is likely to reach an unprecedented level."
+    publishedDateTime: 2021-03-31T10:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/31/as_biden_stands_down_at_the_border_america_suffers_539409.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "GHtqSXHcVkLSYYoCSg8fMQIo9nsiEcVAc/V1fmGku8KGqsjKVmE/ErPyeN3aeIA3YYSdZMJNoRr6Ba+L615xpXBe2ZYRHXjMP/Wl1NXf+F+PVk7Ny4y6f+y/WO/kGPNbmBFJftH9p6pxfg+6Iqq4RzSVmnYzRCH3gUkRTGdBGp6yITddSGGbAGpVe1zBHdssTGZdSqrN7d+267msP++Eo9SaSUI/LZABdDqM+SCjkp/WnH9Uh40iDEaDrID6OHKI9SQuxL3geImN4dS9VwZXeFlv1smzPrDV8eboeKkr/vjmVmUEWCRU3y6X8FiLscBCPjEpQhqsO3Uqnxo7FUP4Nyaw/akIwHeyprcHXQQPvr8=;cTYtGDIL0ZEDvPiZYr6U0A=="
 ---

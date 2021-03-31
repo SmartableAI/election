@@ -2,13 +2,13 @@
 category: news
 title: "Biden keeps Trump's National Space Council"
 excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."
-publishedDateTime: 2021-03-31T02:11:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w6AWWSlMDaI/biden-keeps-trumps-national-space-council"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w6AWWSlMDaI/biden-keeps-trumps-national-space-council"
+publishedDateTime: 2021-03-31T02:16:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-keeps-trumps-national-space-council"
+webUrl: "https://www.foxnews.com/politics/biden-keeps-trumps-national-space-council"
 ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-trumps-national-space-council.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-trumps-national-space-council.amp"
 type: article
-quality: 190
+quality: 150
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -3572,6 +3573,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "2aaxlG33pk5ylwiaAxfdeqXEs5iISrg96VwM8GRymTlwwlgNEMl0CrOjtjue0FED7DcD9wu91RxyYp8QOKfPsk8vsnPF46+LwES7RWkSneQ6aaOshtaMDP3bMNZfMAS2K+3H7kdAEsR92nwdyE1XvzHKdDWsVpvICA8Lmav4YMQLfePhPa7mQ59nzn31FWauEWxZMuLtpiFYABNffvBcMPpXet4IphuQVNsZBAeKE88pnrMKGsLwQOPcmoPE3CCC22efLYx/jeMiyWIrBcIjKnif8gV3cxxmkzLzUJfpbvUoBmB0iyBtivpA/VcX07TTBAtjUrLkZ5V/YJ/JFUG418AAvwuLnjA7818RWw/jEJA=;hmzPn4rIuymZvjLAuQo7Jw=="
+secured: "7DzKfIui+V73B1ml+ljRSsn5lhonD+QJV+DMx8MptZMeUiNxZpm3z6jkA03/vtWF+Qih4V/53UQGDVppolMtsZDJkAdLgxGMXauyf/8o+LB5OBOxxWqxdGA+n/rZUhn0FuxdrIZN26eUYdDY+TT5yDjDOvbE5IAelOpQjGUi19up7wVEv4iR+iQrjSetmHY0oG9lG5yV3239TR8x/iPw7StBZmmLlQ82o4iJH9A5D9PQXwTolQ72x/bZD5aQ3u1NVHlRvUX3eJ7bvcKhHFjsXlBgcLC6sIl+mwSvEE3EsvgvHwfj/Z6LVXegpvgk9cirpnF6b4TZw68eZAz2SLuOHJt5b7CFmGbNp+Ac7nWbNl4=;47SAMJsPa/qlSIOO3OuH2A=="
 ---
 

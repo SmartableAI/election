@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden takes his time filling out diplomatic corps"
+    excerpt: "More than two months into his term, President Joe Biden has yet to name a single ambassador to send overseas, putting him behind the pace set by his most recent predecessors and leading to early frustrations among some career State Department officials and big-time Democratic donors.\n    \n"
+    publishedDateTime: 2021-03-31T10:05:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n4QL3J97EZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/biden-ambassadors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/biden-ambassadors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden announces new vaccination goal: 200 million shots in first 100 days"
     excerpt: "President Joe Biden is scheduled to participate in his first presidential news conference on Thursday, where he's expected face a wide-ranging set of questions about the most pressing issues, including the federal response to the coronavirus pandemic, the state of the economy, immigration and gun control.\n"
     publishedDateTime: 2021-03-25T17:37:10Z
@@ -378,6 +394,20 @@ related:
       - url: "https://media1.s-nbcnews.com/j/newscms/2021_13/3460693/210330-joe-biden-mc-1124_3ea1bea13febd9466baa5af5de8fa77b.nbcnews-fp-1200-630.JPG"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Legislature votes to legalize marijuana — Biden administration green lights congestion pricing — Deal close on relief fund"
+    excerpt: "New York will become the latest state to legalize marijuana, after a years-long push culminated in a vote by the state Legislature to approve a bill ending the prohibition of the drug. The legislation passed the state Senate by a vote of 40-23 Tuesday night,"
+    publishedDateTime: 2021-03-31T11:14:00Z
+    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2021/03/31/legislature-votes-to-legalize-marijuana-biden-administration-green-lights-congestion-pricing-deal-close-on-relief-fund-492305"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 89
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "5AY57eWpH1PVgc+eyEvVQ/HeNj9HENmResT9qdJpmwkA2xCcpjHhJ8VPt5kt7ySeoYb7UrM6RZ0YwrW6BGg6C0ghMUxbOU8BXze6DBsa5RO8r9sC8Io0f2eAvHiYpDhHzXewkec4duuMso1sNrkThGJWCaV67H7BtnI9c094ZTrWym7GBv/XdGhPfVYnyyR+Ln6tlBxm5QsL6DgXivdhJ9df1SXlea9Aq1xkUeQBiqNLhahqWu9jYsqvwMhITGL8GpSSKJyOvUxANbpspPi8UoS+Vw5aOQpJdna61hjo7axSSN5ZDcfdWb4qQroPUOcOK42r0V2FQ6t+wWF4QMxAIyR+ZKIL6Nk/atXf2oTaTlo=;Sq1FJqh90as1pFB83LXCYA=="

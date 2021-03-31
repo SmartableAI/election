@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
 type: article
 quality: 200
-heat: 1100
+heat: 1120
 published: true
 
 provider:
@@ -745,6 +745,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster"
+    excerpt: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster | RealClearPolitics"
+    publishedDateTime: 2021-03-31T10:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/31/bidens_insane_new_spend-fest_is_a_recipe_for_national_disaster_539416.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "r5z2gzIpqXmoNQRxdkkUtsnuEq65liA5t3IuPcgKmj96PqNtHN6nJGkcThTepDqeW3jxAbDBknhDK1LLvCDX8fyQ+wMJp4snA+NeBdd84DVsmqFfY7cCs65asj8cukI/JNBRM5JToTdPdlcJI/4yMfZ7Xr9f/SC7Jd4VvJZ0V2kBiyXWgVyv/o+zSKQ0q4Vufa6lZwRzYwNfUDpBTtPbA/5rR7qfeiW8q+y6daPOK83U2J8GdcmjfcNagqqPP3qplRnIUuG0O5eKOqiH/1PiXFwNv6aMslC2zE23IJCA1qH/jhG1ftIRQJt8Xl3DOCEYCNOnlEskHVBj67yFsLuLUdFe+Cz1wAcKhyrXnx1yzKM=;6mucGLWM2+1qTnrOwgAKaA=="
 ---

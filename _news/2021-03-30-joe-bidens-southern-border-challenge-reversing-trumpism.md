@@ -125,6 +125,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
+    excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
+    publishedDateTime: 2021-03-31T10:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/03/31/biden-drug-prices-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/03/31/biden-drug-prices-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/31/biden-drug-prices-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUO5QKTBJYI6TPZE3NFZ7NRKUI.jpg&w=1440"
+        width: 1440
+        height: 944
+        isCached: true
   - title: "Corporations, wealthy pay in Biden infrastructure plan, not drivers and riders"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden’s plans to spend billions of dollars on the United States’ crumbling roads and mass transit include a novel twist - making companies and wealthy households, rather than drivers and riders, pay the cost."
     publishedDateTime: 2021-03-30T09:18:00Z

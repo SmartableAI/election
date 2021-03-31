@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Two US Capitol Police officers sue Trump and say he should be held responsible for January 6 attack"
-excerpt: "(CNN)Two US Capitol Police officers who say they were injured during the January 6 insurrection are suing former President Donald Trump for inciting the crowd. The officers -- the first police to sue in court following the riot -- say they suffered ..."
-publishedDateTime: 2021-03-30T23:16:00Z
-originalUrl: "https://www.cnn.com/2021/03/30/politics/us-capitol-police-sue-trump/index.html"
-webUrl: "https://www.cnn.com/2021/03/30/politics/us-capitol-police-sue-trump/index.html"
+excerpt: "Two US Capitol Police officers who say they were injured during the January 6 insurrection are suing former President Donald Trump for inciting the crowd.\n    \n"
+publishedDateTime: 2021-03-31T11:02:08Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fG4p2ZDgw1Q/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fG4p2ZDgw1Q/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/us-capitol-police-sue-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/us-capitol-police-sue-trump/index.html"
 type: article
-quality: 101
+quality: 161
 heat: -1
 published: false
 
@@ -20,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
@@ -63,6 +64,6 @@ related:
         height: 619
         isCached: true
 
-secured: "Jfnh9nOjY1oXR/akA/zZajOhKoEWTW8tupaOyhqHpB2BAN4oJwaA9DYZ8KLsshSXt+3t3HGXAX9zMhmN8D5/5nwz/5i0nHlEKVBTgPRK4+eS0mc6gFFrKLQi5wAb4W0uklA54HCOyDPU7cOGiw9ekv0HpACaNhLa10gYpxy1WL5oU2V/mcDE0wAGjOkFMtc1hvE8uj1XEgCX2UrzIno1s2W+ALGw487Niz6XeUQSbBsKmwX0zOu+puBsAcCxgkf9HYoeMfkQ9FM7NyA5qLqmphECH/QjoTMK8mWoWk3paSsA4F/F2+8YSG/GQaSeqw404L38RLLry35UnrGEKD3J049GhYIEUxPAwKncek7x/9A=;zlzYweXQvR8YABLfVwtBpg=="
+secured: "WsMPaUeAQdHRfH7AanBtWxJ+X2w1AvbuaZtJJUexohzAk4A8SUg4Glw3BfYiZZIA9OAmL0uERGjOqx+itExNmXvehQ+6rZlRe1xF7EVp6tiKWuOU71dKGTj05W4XgpX6alt1j1grByGpbts1TRDiAElgtU/eIAjkJHBRDzY+u3mMKQ0pekuhA0gu0bzNfQfMDJ40gxQBt3sCNzUgts6CBsp/gJSSXo1E+F4XQMHF/dHWqmXAG6DykFoX0coan5xYSNeDe3MCwIJYmqxDk6iTyxK1xA4nvK2nCvQapqkNB8QByiq+VaKk4Z8qV68tbVrSXeWvmFUGQkdSfgrP0BAU/lblyH63aDBnTNR6v6uCC/Y=;9pex6lJM8ZFbA5dFC/nkgQ=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-14-the-disgraceful-acquittal-of-donald-trump.md",
+      "title": "The ‘Disgraceful Acquittal’ of Donald Trump",
+      "excerpt": "A sad, sad day for democracy,” one reader writes. “It was craven cowardice for Republicans to put Mr. Trump before country,” writes another.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/13/us/politics/13impeachment-briefing-acquital-defining-moment2/13impeachment-briefing-acquital-defining-moment2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.amp.html",
+      "publishedDateTime": "2021-02-13T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-this-is-trumps-heaping-list-of-legal-problems-post-impeachment.md",
       "title": "This is Trump's heaping list of legal problems post-impeachment  ",
       "excerpt": "After averting a conviction in his second impeachment trial, former President Donald Trump faces significant new legal threats as prosecutors in Georgia have joined those in New York to conduct criminal investigations into his actions.\n    \n",
@@ -1638,63 +1695,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-weve-learned-to-love-the-guy-how-biden-charmed-the-left.md",
-      "title": "‘We’ve learned to love the guy:’ How Biden charmed the left",
-      "excerpt": "It’s early, but progressive say they’re being included, heard and respected by the Biden White House. But rocky roads are still ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/04/biden-white-house-progressives-466044",
-      "originalUrl": "https://www.politico.com/news/2021/02/04/biden-white-house-progressives-466044",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/57/d3/d68d32e34b518c1e55ce0b85b078/20210204-sanders-biden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

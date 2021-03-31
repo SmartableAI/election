@@ -48,14 +48,16 @@ related:
         height: 619
         isCached: true
   - title: "Two US Capitol Police officers sue Trump and say he should be held responsible for January 6 attack"
-    excerpt: "(CNN)Two US Capitol Police officers who say they were injured during the January 6 insurrection are suing former President Donald Trump for inciting the crowd. The officers -- the first police to sue in court following the riot -- say they suffered ..."
-    publishedDateTime: 2021-03-30T23:16:00Z
-    webUrl: "https://www.cnn.com/2021/03/30/politics/us-capitol-police-sue-trump/index.html"
+    excerpt: "Two US Capitol Police officers who say they were injured during the January 6 insurrection are suing former President Donald Trump for inciting the crowd.\n    \n"
+    publishedDateTime: 2021-03-31T11:02:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fG4p2ZDgw1Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/us-capitol-police-sue-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/us-capitol-police-sue-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 101
+    quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326163722-01-us-capitol-riots-file-super-tease.jpg"
         width: 1100

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/hunter-biden-book-do
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/hunter-biden-book-donald-trump-vile-beautiful-things-ukraine"
 type: article
 quality: 138
-heat: 358
+heat: 378
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
+    excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
+    publishedDateTime: 2021-03-31T10:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/03/31/biden-drug-prices-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/03/31/biden-drug-prices-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/31/biden-drug-prices-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUO5QKTBJYI6TPZE3NFZ7NRKUI.jpg&w=1440"
+        width: 1440
+        height: 944
         isCached: true
   - title: "Corporations, wealthy pay in Biden infrastructure plan, not drivers and riders"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden’s plans to spend billions of dollars on the United States’ crumbling roads and mass transit include a novel twist - making companies and wealthy households, rather than drivers and riders, pay the cost."

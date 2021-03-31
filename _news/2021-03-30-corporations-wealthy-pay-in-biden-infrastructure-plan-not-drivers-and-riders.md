@@ -127,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
+    excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
+    publishedDateTime: 2021-03-31T10:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/03/31/biden-drug-prices-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/03/31/biden-drug-prices-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/31/biden-drug-prices-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUO5QKTBJYI6TPZE3NFZ7NRKUI.jpg&w=1440"
+        width: 1440
+        height: 944
+        isCached: true
   - title: "Biden considers executive actions on guns, calls on Congress to pass weapons ban"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden urged Congress to swiftly pass gun control laws and may take action on his own to stop mass violence, the White House said on Tuesday, a day after the second deadly mass shooting in a week. The Democrat ..."
     publishedDateTime: 2021-03-24T03:33:00Z

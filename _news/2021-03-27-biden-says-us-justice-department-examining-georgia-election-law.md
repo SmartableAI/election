@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI31U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U"
 type: article
 quality: 140
-heat: 1460
+heat: 1440
 published: true
 
 provider:
@@ -396,22 +396,6 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_harriskamala_033021getty_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Here's what's in Biden's infrastructure proposal"
-    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize on voting rights ..."
-    publishedDateTime: 2021-03-31T09:00:00Z
-    webUrl: "https://thehill.com/homenews/administration/545682-heres-whats-in-bidens-infrastructure-proposal"
-    ampWebUrl: "https://thehill.com/homenews/administration/545682-heres-whats-in-bidens-infrastructure-proposal?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545682-heres-whats-in-bidens-infrastructure-proposal?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_032421getty_biden-gopvoters.jpg"
         width: 980
         height: 551
         isCached: true

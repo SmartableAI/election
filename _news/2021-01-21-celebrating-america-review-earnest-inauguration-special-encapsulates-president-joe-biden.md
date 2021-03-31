@@ -159,6 +159,22 @@ related:
         width: 786
         height: 545
         isCached: true
+  - title: "Biden tells migrants to stay put. Central Americans hear a different message"
+    excerpt: "The review revealed pervasive myths about immigration policy changes under U.S. President Joe Biden. “There’s 100 days of free passage across the border,” a Guatemalan smuggler told Reuters. The truth is much more complex. U.S. Customs and Border ..."
+    publishedDateTime: 2021-03-31T09:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-messaging-insight/biden-tells-migrants-to-stay-put-central-americans-hear-a-different-message-idUSKBN2BN1BB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1BB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1BB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556862709&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0N8"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Live politics updates: 69% of Americans approve of Biden's plan to tackle pandemic, poll finds"
     excerpt: "Fifty-seven percent of Americans believe Biden can follow-through on his promise to unite a divided America, according to a recent ABC News poll."
     publishedDateTime: 2021-01-24T17:48:00Z

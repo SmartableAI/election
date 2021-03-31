@@ -399,22 +399,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Here's what's in Biden's infrastructure proposal"
-    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize on voting rights ..."
-    publishedDateTime: 2021-03-31T09:00:00Z
-    webUrl: "https://thehill.com/homenews/administration/545682-heres-whats-in-bidens-infrastructure-proposal"
-    ampWebUrl: "https://thehill.com/homenews/administration/545682-heres-whats-in-bidens-infrastructure-proposal?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545682-heres-whats-in-bidens-infrastructure-proposal?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_032421getty_biden-gopvoters.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
     publishedDateTime: 2021-03-26T20:19:00Z
