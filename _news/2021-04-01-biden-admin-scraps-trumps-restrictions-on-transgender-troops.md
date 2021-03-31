@@ -574,6 +574,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration asks for more time to decide whether to turn Trump's taxes over to the House"
+    excerpt: "Lawyers for the Department of Justice have asked a judge for additional time to decide whether to turn former President Donald Trump's taxes over to the House Ways and Means Committee.\n    \n"
+    publishedDateTime: 2021-03-31T21:26:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3lqErU6Rzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/trump-taxes-house-committee-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/trump-taxes-house-committee-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200709172441-trump-reaction-taxes-supreme-court-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Diversity visa lottery winners from countries blocked by Trump hope for another chance under Biden"
     excerpt: "In 2016, Belqees Al-Doais won a lottery that she was sure would change her life: the chance at a visa to come to the United States.\n    \n"
     publishedDateTime: 2021-02-28T19:57:54Z
@@ -3179,6 +3195,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Lx4oZ/7Bi9235SkGsRHm4qyo6OcQXC6FqYZtM7BAc2nwOUOaAYISK9x4aB5TvHGCjEuEbEKfdbKnwnzop271d01vkOLO14/3b0NtnYH+BDaa+SM6I2InBbviE8eKcykPDXQLV22/j4pdf467TgMwK0zrTdW5M8V8guXp/wSQgftbavhxCxZpB2DnheqsDP5VTiWK1yu0UrsoPyLbi4iUQPUFSSjd0UcIFiLKX/jwww2F9/J8CWplStj+TE0zvKk2Fag401dblVhAA7vYIcODfHhhHLf/ENCD8o4h3bsAGGNpBGicsNqHNOmY/tVK3Q0iPIe7Iofjy//RLxbEVnbV4tf3U934bUrP1TTZ7PJF9nY=;VyjlXTGfmbepRH7E1gkbag=="
+secured: "dgfp+Sdsuc2aSAmeGU4GD/p8f16nTFFU61dQne2fy3UAWQr4bmQf6+mNW/4LQWiamJA6Svh4ly6Zcj+naV0PUHFCRtUfNMkbixLm0HSU0xpBxrc8eXjJd1r0lbHW8YJX749/b7i+VeiyO2qvmuF2ZWt3B2PEF5Oo0WQJgkHESzPbEDomHVnOHLXTV4TK6OeKFbXy+sa24H80WV3TmScNyza9aFPAW0UV3Ridp5ioJ1/wFHD6ddALEznYf4YFPeAYEubKrVjUxqhNNYnPk6on+jJMj6GfG3E0B5YsseK5tC1f9YDiK4XNwvBuy8Dhkg26xOU4oq3i+5vPWOSfbrJRzkEN0dCfQx/gMX4BXsnYhrQ17drKHBYTI3plRc8gNQg2NDUemDo3Q32Eq/dpYzREvoNhdADF7YfwQULPvjmc5O7nyUKOHEOztpCCzp4ddrRK1aMQbMJ9LRVut2aMZ+qphFrfwUzJR6SpWJlocXtzb9us3/W8bRWH4jp59nefE/YEt7wPz7pRb/x8vYbhwLd4YQ==;mR7Yn21GuIQW1b9isTyUdA=="
 ---
 

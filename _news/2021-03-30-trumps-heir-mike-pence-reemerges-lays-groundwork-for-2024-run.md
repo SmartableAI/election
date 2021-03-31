@@ -2,26 +2,26 @@
 category: news
 title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
 excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-publishedDateTime: 2021-03-30T12:10:00Z
-originalUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+publishedDateTime: 2021-03-30T12:58:00Z
+originalUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+webUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+ampWebUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+cdnAmpWebUrl: "https://www-conchovalleyhomepage-com.cdn.ampproject.org/c/s/www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: WTVO
-  domain: mystateline.com
+  name: Concho Valley Homepage
+  domain: conchovalleyhomepage.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
+  - url: "https://www.conchovalleyhomepage.com/wp-content/uploads/sites/83/2021/03/pence.jpg?w=1280"
     width: 1024
     height: 683
     isCached: true
@@ -250,6 +250,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f9deca06bc771f86b15d1cd4d7c3b878b1231361/0_65_2060_1236/master/2060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=365c112e893b7e1d1a06ca9e28be9071"
         width: 600
         height: 360
+        isCached: true
+  - title: "Pentagon announces new policies on transgender troops, reversing Trump-era ban"
+    excerpt: "President Joe Biden in an executive order in January reversed the Trump-era ban on transgender troops serving ... The ban on transgender troops was announced by former President Donald Trump in 2017 and took effect in 2019. Secretary of Defense Lloyd ..."
+    publishedDateTime: 2021-03-31T19:31:00Z
+    webUrl: "https://www.cbsnews.com/news/transgender-troops-military-policies-updated/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2017/08/29/5ad04d6c-19bf-4652-9788-f4356df1cb3c/thumbnail/1200x630/42323df4d9d19fb6da5aa88315d66253/gettyimages-823246288.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Rick Scott Asked Trump to Not Get Involved in 2022 Races Until Candidates Win Primaries"
     excerpt: "U.S. Senator Rick Scott, a Florida Republican who heads the GOP's Senate fundraising arm, wants former President Donald Trump's help in the 2022 election, but he's asking him to hold off a bit. \"I think he wants to win, so I think he's going to work with ..."
@@ -502,6 +518,6 @@ related:
         height: 683
         isCached: true
 
-secured: "GKKfAz/KbUfPsqPJoxV27lWiIGBNSaJ/JYCQ59cP0BEdlkXe2rIVbkqbupy8v44KiiHgvDjtrx/ogWSCNtVD6u0ME12bgOeAYtQAbbv+hYiQRaTt03e0Fj7oMulxXzGE74nejPbsJrQrEocklmywSQ3hjLb13bfrDfbsPNeRfXFvbIc+66XG6wf8gz6y2bSZGEyRr3gCug13NrAuJ038rirXvfcjDQGYmS0ki4pR2/AV7SsUGqHlRTWjx2adP5DbsUKBKrejiEOTkAQAfWyCK1gIwNl9lZwthOBt/odOPRktKwJGdMTWXYlXb34JUvGBmzerbM2G+J5RJq2iTNwGrnB8G4WK6gVMAQ7uobua35gkCHOQjRPUWfSwhqYW4xt4CEw/1N+ez/4Gi7Nol38WDSAz+Yv+XP6wuG21QJxlEVXqLHXuPvgXzBmXSxfsRc8+7PrqlKYLC1ptIPP9YJwqFb+15JU/Z8stoLTg3b0pDNzEEWxqbNPRc2q8ngwGQ6u/4JQcEFAflQXVqMX9ISMqAQ==;vzdqRJmdoWzh67Z62Ee6hQ=="
+secured: "QmU4R5p76ygkygCLN/3me98Y9k9Y16wZGXMyOJ3rZceKG863ekD3nu1wE30Sdr3IG/MIUMPukJXq1NFAh1CVuiXTJkytME/aetacQVNjvX+Zd2ewUarmeJgfa1wZ6lYvzIs5rwG2oNQ8DyBX+45RfiOebJ/ZtRbWXjoc513/UU0ozF6o8t4d5a9x14smxwMB6iXO41tHs8eKc00L390Khad6Po/h8ISTv6xc5jc8btuIbXOzaSkmUfXKhrzKsJu5WpVLbVuQg1bQO+iNOiQJxRjc6Aw//XPTkabeXzXJ8nmBfFcLLD6Incf4MLz/hq7ImnEv8sZI9lqZJdx3O71riqA1dFC0uuqe92x2uO20cNc=;WzxmZ2wX6mMX4L1QKmI0lA=="
 ---
 

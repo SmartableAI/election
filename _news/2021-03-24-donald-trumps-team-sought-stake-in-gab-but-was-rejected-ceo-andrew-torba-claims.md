@@ -111,6 +111,15 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "U.S. Republican House Leader Resists Pressure to Punish Trump Ally Gaetz"
+    excerpt: "U.S. Republican House Leader Resists Pressure to Punish Trump Ally Gaetz WASHINGTON (Reuters) - The top Republican in the U.S. House of Representatives on Wednesday resisted calls to punish a staunch ally of President Donald Trump who, according to a U.S ..."
+    publishedDateTime: 2021-03-31T21:21:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-31/us-republican-house-leader-resists-pressure-to-punish-trump-ally-gaetz"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "I3Mtt+DHo5BJNL36leoQKmOv+zgRyvVB8SrOOmiVGAMzrW8L9kvbX3/v1DVHoPNKdGuV3hEoxrTHXjxCUj92e00BNTbqFpJiB+LBCezuw1BvEsU1okP0wCPvdc/c11VVkwAutSVioTMzx/YXBgaq/Zri9RKk8Arv1ul3Ni2S9FirTt89HrBLSBALR0mj21fFC1Y2LZ2X6QT87V9+S4FXwlweCi1RDDAMKiigIBcXD1CZfc2B0tPEBqEahQGeskKpZKadJFcfhDnj8BOezxcPGxDoUneGiSdSz4F/YxS4RWFbJ7l10HjySNfhRkvMJejhmXICXEeF6X9ro+QPXElBvVa4pjr7unUHxEGhOsqLcU4=;vCyTNUL5JW7I7SfyOoFQSQ=="
 ---

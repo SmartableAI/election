@@ -103,6 +103,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris heads to Chicago Tuesday to focus on vaccine equity"
+    excerpt: "Vice President Kamala Harris will visit Chicago Tuesday to focus on COVID-19 vaccine equity, the Chicago Sun-Times has learned. Harris comes to Chicago as city and state officials — all Democrats committed to the various equity issues associated with the coronavirus pandemic — continue to try to overcome a variety of problems to actually achieve equity goals and overcome vaccine hesitancy."
+    publishedDateTime: 2021-03-31T21:22:00Z
+    webUrl: "https://chicago.suntimes.com/2021/3/31/22360884/vice-president-kamala-harris-travels-chicago-tuesday-visit-focus-covid-vaccine-equity"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/3/31/22360884/vice-president-kamala-harris-travels-chicago-tuesday-visit-focus-covid-vaccine-equity"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/31/22360884/vice-president-kamala-harris-travels-chicago-tuesday-visit-focus-covid-vaccine-equity"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
     excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
     publishedDateTime: 2021-03-28T04:38:00Z
@@ -248,6 +264,6 @@ related:
         height: 331
         isCached: true
 
-secured: "nZM6TW1V3VruOkIkUhV+gdbjl39WnJ6kklTMgz7maKP242A+LRDsb6XlCpoNAXNo5UOA0KLrTsTEprtJU8G5PsnDHlI3yfN6U4oaRxuXYKNTq+lQ01V30kWkXb53Sc4aXpMFKXYxu+oTd/7XfR8rywAWssXEYkjfCzgqcSNDaMEXBCk47wNtNWjajJA2bzvugheIDflTc5Z7OhalzxwYAAD+uwwDNSS66dpYLn8ITwh9qkOK4T9tFwgv9G0wGYzBwLoz5SC/WHGffEW9zoLqMz2WrUE+Pa7RhFwKZ6pky0q92CNX2NqU0gBqUI1iZCvEmSGQQ8yMVdB5r8M6JUYxlg5/IP1ZDt0h8UrsNaFySLs=;Y3DogulMrOBHMVUUOHoYqw=="
+secured: "6M6PIYKNHgXtlQ4dA6DBwm8dnAYnoCzyZxhI42Un6QYdsCEAvgbDH7+uNkSsVXGPF0rj3KQXLzv9OUuj1DSKrgdMbsmR2q8oo1IcKbqllwWDME+pt6Vk989kAoo/iRuXXTOTgnOlA0Sgz9A5fBDuCc+FCQfpkvf2V8Z+iKWYf3M04sIOIUp3gKqyqPeK4JAR5/TsjX8zhyPSnuGqQ4u6psnEI3cAT0kt2Z22JTDnart7HjGUbXkVGtcUjfNwbC1orbfWInbkZKfgRpfkwk0RWAklbzdCHT8gzXuTZrwLz4R2yVfMweI2RUnfzyGFiQZXuXbcoyKjMzCDhYWeFNV5lS75ggnW8vUKQsOY95AOQxazB6Mm5bDinOt4ggWZdpq/q4fLOUK+ns9Vb0M4mrbuK+XjvMIMjxBW7wpQIpgkSU+rrfv7Dm9nNVVLhT3dXQBqLuHkaNFrLuA072QMRwicgqijyJyq2KQ2oJ/jjNn2qtxLY1bsdsqpeyN5NSkqgHtSoNMh9CE5HDE92nzeOwqVzA==;OwTimZtQ6W6wXnKena0aMg=="
 ---
 

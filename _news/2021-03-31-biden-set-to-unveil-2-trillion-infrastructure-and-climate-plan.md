@@ -287,6 +287,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden marks International Transgender Day of Visibility with first-ever presidential proclamation of its kind"
+    excerpt: "President Joe Biden marked International Transgender Day of Visibility on Wednesday by issuing the first-ever presidential proclamation of its kind in recognition of the day, which aims to celebrate the achievements of trans rights activists and increase awareness about ongoing challenges transgender"
+    publishedDateTime: 2021-03-31T21:31:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kXytEm75iU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/biden-proclamation-international-transgender-day-visibility/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/biden-proclamation-international-transgender-day-visibility/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191016112317-transgender-flag-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Duckworth backs off threat to oppose Biden nominees over lack of diversity after White House agrees to add senior AAPI adviser"
     excerpt: "Sen. Tammy Duckworth of Illinois on Tuesday backed off her threat to vote against any of President Joe Biden's nominees who aren't minorities, after going public with her anger that the Cabinet lacks Asian Americans and saying she felt insulted by the White House's attempts to brush off her concerns.\n"
     publishedDateTime: 2021-03-24T03:56:30Z
@@ -382,6 +398,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222182145-05-vaccine-passports-commonpass-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Four Latinas in the Biden White House reflect on their personal trajectories, historic roles"
+    excerpt: "The White House officials were asked about their interactions with President Joe Biden and first lady Jill Biden. “Obviously there is deference, respect but, in reality, they are both very casual and that is not just now. Throughout their entire lives ..."
+    publishedDateTime: 2021-03-31T21:13:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/four-latinas-biden-white-house-reflect-personal-trajectories-historic-rcna558"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna558"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna558"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-03/771/210331-4-latinas-mb-1851-b7b303_9014b10af132135b32485c6e7d62a57935a04b13.jpg"
+        width: 2500
+        height: 1407
         isCached: true
   - title: "Biden faces few great options for SolarWinds, Exchange retaliation"
     excerpt: "The United States’ unique digital vulnerabilities and the pressure to protect the intelligence community’s prized hacking tools will make it hard for President Joe Biden to punish Russia and China for their massive cyberattacks."

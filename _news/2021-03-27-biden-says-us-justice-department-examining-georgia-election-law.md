@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI31U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U"
 type: article
 quality: 140
-heat: 1480
+heat: 1500
 published: true
 
 provider:
@@ -870,6 +870,22 @@ related:
     quality: 75
     images:
       - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/11/Vote-here.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Joe Biden Won’t Stop Lying about His Tax Plan"
+    excerpt: "President Joe Biden speaks about his $2 trillion infrastructure plan at Carpenters Pittsburgh Training Center in Pittsburgh, Pa., March 31, 2021. (Jonathan Ernst/Reuters) Making the pitch for his infrastructure and tax hike plan on Wednesday, President ..."
+    publishedDateTime: 2021-03-31T21:37:00Z
+    webUrl: "https://www.nationalreview.com/corner/joe-biden-wont-stop-lying-about-his-tax-plan/"
+    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-wont-stop-lying-about-his-tax-plan/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-wont-stop-lying-about-his-tax-plan/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/joe-biden-intrastructure-plan.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
         isCached: true

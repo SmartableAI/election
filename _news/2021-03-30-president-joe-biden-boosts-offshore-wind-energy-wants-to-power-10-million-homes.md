@@ -885,6 +885,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden Won’t Stop Lying about His Tax Plan"
+    excerpt: "President Joe Biden speaks about his $2 trillion infrastructure plan at Carpenters Pittsburgh Training Center in Pittsburgh, Pa., March 31, 2021. (Jonathan Ernst/Reuters) Making the pitch for his infrastructure and tax hike plan on Wednesday, President ..."
+    publishedDateTime: 2021-03-31T21:37:00Z
+    webUrl: "https://www.nationalreview.com/corner/joe-biden-wont-stop-lying-about-his-tax-plan/"
+    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-wont-stop-lying-about-his-tax-plan/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-wont-stop-lying-about-his-tax-plan/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/joe-biden-intrastructure-plan.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "President Biden is assembling a $3 trillion package of investments on infrastructure and domestic needs"
     excerpt: "Fresh off passage of the COVID-19 relief bill, President Joe Biden is assembling the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs."
     publishedDateTime: 2021-03-22T20:28:00Z

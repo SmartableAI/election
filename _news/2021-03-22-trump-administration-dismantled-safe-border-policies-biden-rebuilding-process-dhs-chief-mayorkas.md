@@ -720,6 +720,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Full Interview: Former President Donald Trump Talks To Lara Trump About China, Biden, 2024 & More"
+    excerpt: "President Trump is interviewed by daughter-in-law Lara Trump and discuss social media censorship, China, Joe Biden, fake news, and a potential 2024 run. Trump on running in 2024: \"You do have hope. We love our country—this country."
+    publishedDateTime: 2021-03-31T21:03:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/31/full_interview_former_president_donald_trump_talks_to_lara_trump_about_china_biden_2024__more.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/31/full_interview_former_president_donald_trump_talks_to_lara_trump_about_china_biden_2024__more.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/31/full_interview_former_president_donald_trump_talks_to_lara_trump_about_china_biden_2024__more.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 87
+    images:
+      - url: "https://assets.realclear.com/images/53/539341.jpg"
+        width: 732
+        height: 548
+        isCached: true
   - title: "Biden Needs to Talk Tough on Immigration -- Fast"
     excerpt: "Undocumented immigrants have been surging to the U.S. border, some wearing T-shirts with the Biden campaign logo and the words"
     publishedDateTime: 2021-03-23T10:33:00Z

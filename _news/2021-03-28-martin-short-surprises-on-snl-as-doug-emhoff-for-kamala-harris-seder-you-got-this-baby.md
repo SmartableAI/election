@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris heads to Chicago Tuesday to focus on vaccine equity"
+    excerpt: "Vice President Kamala Harris will visit Chicago Tuesday to focus on COVID-19 vaccine equity, the Chicago Sun-Times has learned. Harris comes to Chicago as city and state officials — all Democrats committed to the various equity issues associated with the coronavirus pandemic — continue to try to overcome a variety of problems to actually achieve equity goals and overcome vaccine hesitancy."
+    publishedDateTime: 2021-03-31T21:22:00Z
+    webUrl: "https://chicago.suntimes.com/2021/3/31/22360884/vice-president-kamala-harris-travels-chicago-tuesday-visit-focus-covid-vaccine-equity"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/3/31/22360884/vice-president-kamala-harris-travels-chicago-tuesday-visit-focus-covid-vaccine-equity"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/31/22360884/vice-president-kamala-harris-travels-chicago-tuesday-visit-focus-covid-vaccine-equity"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Fact-checking false and misleading claims about Kamala Harris, online Taco Bell offers and more"
     excerpt: "Associated Press writer Jude Joffe-Block in Phoenix contributed this report. CLAIM: Vice President Kamala Harris disrespected the military when she failed to salute the military escorts when boarding Air Force Two on March 19 in Georgia. THE FACTS ..."
     publishedDateTime: 2021-03-26T23:30:00Z

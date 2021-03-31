@@ -576,6 +576,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration asks for more time to decide whether to turn Trump's taxes over to the House"
+    excerpt: "Lawyers for the Department of Justice have asked a judge for additional time to decide whether to turn former President Donald Trump's taxes over to the House Ways and Means Committee.\n    \n"
+    publishedDateTime: 2021-03-31T21:26:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3lqErU6Rzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/trump-taxes-house-committee-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/trump-taxes-house-committee-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200709172441-trump-reaction-taxes-supreme-court-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Diversity visa lottery winners from countries blocked by Trump hope for another chance under Biden"
     excerpt: "In 2016, Belqees Al-Doais won a lottery that she was sure would change her life: the chance at a visa to come to the United States.\n    \n"
     publishedDateTime: 2021-02-28T19:57:54Z

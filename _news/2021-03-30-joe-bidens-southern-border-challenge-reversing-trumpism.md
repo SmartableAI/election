@@ -205,6 +205,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden makes case for infrastructure proposal: 'We have to move now'"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden economic ..."
+    publishedDateTime: 2021-03-31T21:37:00Z
+    webUrl: "https://thehill.com/homenews/administration/545851-biden-makes-case-for-far-reaching-infrastructure-proposal"
+    ampWebUrl: "https://thehill.com/homenews/administration/545851-biden-makes-case-for-far-reaching-infrastructure-proposal?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545851-biden-makes-case-for-far-reaching-infrastructure-proposal?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe4_03312021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Fact check: Meme misrepresents Biden's actions on border and schools"
+    excerpt: "The claim: Photo shows 'open borders' in 'Biden's America' The Biden administration has recently come under fire for the surge in migrants arriving at the U.S.-Mexico border – the number of unaccompanied minors more than tripled in the first two ..."
+    publishedDateTime: 2021-03-31T21:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/03/31/fact-check-photo-open-borders-shows-israel-west-bank/7054945002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7054945002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7054945002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/17/USAT/0c1b4654-094c-4e5b-b148-e429874cdc03-Day_in_pictures_Aug._17_2020_09.JPG?auto=webp&crop=6455,3631,x1,y429&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z

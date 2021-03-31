@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immig
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 153
+published: true
 
 provider:
   name: The Guardian
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill"
-    excerpt: "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ..."
-    publishedDateTime: 2021-03-30T14:20:00Z
-    webUrl: "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
+  - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
+    excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
+    publishedDateTime: 2021-03-27T00:59:00Z
+    webUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/"
+    ampWebUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 53
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/25/9cae5818-8a59-4895-b7b3-043827db64f5/thumbnail/1200x630/715b9965c2cc7d60f9872aee9b90ad30/gettyimages-1231927141.jpg"
+      - url: "https://thumbnails.texastribune.org/-mWa9Z9pNCv1H7M3mGZ0k5UJXE8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/72457b5f083d35a5cc2fb98be9f57954/Migrants%20RGV%20REUTERS%20TT.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Boulder Congressman Joe Neguse leads over 60 Lawmakers in calling for Biden Administration to ban importation of Military-Style Assault Weapons"
+    excerpt: "Colorado Congressman Joe Neguse and Illinois Congresswoman Robin Kelly led a letter signed by over 60 lawmakers to President Joe Biden, calling for him to issue an executive order to ban"
+    publishedDateTime: 2021-03-25T22:06:00Z
+    webUrl: "https://www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/"
+    ampWebUrl: "https://www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/amp/"
+    cdnAmpWebUrl: "https://www-eptrail-com.cdn.ampproject.org/c/s/www.eptrail.com/2021/03/25/boulder-congressman-joe-neguse-leads-over-60-lawmakers-in-calling-for-biden-administration-to-ban-importation-of-military-style-assault-weapons/amp/"
+    type: article
+    provider:
+      name: Estes Park Trail-Gazette
+      domain: eptrail.com
+    quality: 39
+    images:
+      - url: "https://www.eptrail.com/wp-content/uploads/2021/03/TDP-L-CANDLELIGHT_VIGIL__HHR9492.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "iYR6GLwQVOEeYM09fqvZlLGzbd6kBYIoMlCOzVTJn+na1Shy3mJ8pNHFimy9CYJeZlGethM1h0M8Fne9Hphi0WsrxC1aHI5rNgkWeJoPoYWST6H7mKJPopHaJ36XlTXhAZD9N1igZFcAWIQJJ7g9ORTr2choS4rL9y5sQ4XwB4wO2eWCRlibtXPuyV2cbbztt+Ej3RvTwuBByeQyY4m0vb05HhcIvzoe8aYi5ROuqDqKo2wvCBb4hNaciISU5E/YEBqRu0A3c8w/Zq6adosCi3CknZXvrQqWvnB9mAuKYXBE2ewIoFdaN4iTFmmpq3GHXJPw/t8dvTPRVKYrkVquEchsn4cFrd6AIZmSKIGb7N1oRJE3KRNGhtbm28rmuZzuDnn5xu/9inKLhzFAMV9W4BjsqDJqbjf8O6on4oyaiL0AfBII0qhfBUcIQZmxZEdKzXBy2P5SeLjbRn9xmkOdY7dl2+2ATL4nvI7o8rL2EBGGJx1Xf6r1z340YGS2Bwg0ROf3/Wnuusg+5imW4ZM2jg==;TB7WHSJ4VxSkPK6f8tWTPA=="

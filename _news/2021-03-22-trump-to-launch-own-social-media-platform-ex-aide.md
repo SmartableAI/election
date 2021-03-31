@@ -107,6 +107,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Ex-Trump Backer Wins Massachusetts House Special Election"
+    excerpt: "Democrat Jeffrey Turco, who voted for Donald Trump in 2016, won the low-turnout special election, according to unofficial results posted by the city of Revere. The district spans parts of Revere and Winthrop. Turco told the Boston Herald that he’d use ..."
+    publishedDateTime: 2021-03-31T21:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/massachusetts/articles/2021-03-31/ex-trump-backer-wins-massachusetts-house-special-election"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
 
 secured: "U4rLDRB9k1yBvzktPHuCM4afnN87JPfXtLRPlMgu1QihgvfvVnGUCjb+a/vTXV7EMuv3k3BWxyxPsLJOEIKRdLwoNpxJSOylQHwk3F9VtDws3iUI4R8kgVVYUGL+/Sj9oUk50E4LpAhE9sB7wpSVsLbuHbl/B6WnVrglFuxEVZ7faLOdk8Nre2qjCPEhXZW8JOtvYFjGdQt5j2Wbs6RX+CMZZXlqLSlXsJMI4Iur7Hycrw5BR8ZN6rAegQwyhCANDImQjTozJJvRDZoIV/5Ev04U+6vHrIUojfyBLUIOuNSa2f2/PyLxKuCMqSWSEQu3Cc1u9FbKANHbX8Z0CcB21owjgafhP26krk+YG3Na+wzSDr+BBVVB0OeOcD+VpWPEYLe+dz/aHMlfsAgnma2XBfHfJe/NeVsaHEcmwY20Jom5lc0WJUX9D22Xeepd43SDCqF3wnXYTHMC0YPUDvl7vkIp5tqbb8hkTJY1EJhKFY+x7yfXp69YFXdM0K0d6AVI2Ta/MzL/9GnqTnQF21ItIg==;FNhttKsjzC78SsSib3HSxg=="
 ---

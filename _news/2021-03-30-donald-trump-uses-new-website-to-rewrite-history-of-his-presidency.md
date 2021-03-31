@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-ne
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "U.S. Republican House Leader Resists Pressure to Punish Trump Ally Gaetz"
+    excerpt: "U.S. Republican House Leader Resists Pressure to Punish Trump Ally Gaetz WASHINGTON (Reuters) - The top Republican in the U.S. House of Representatives on Wednesday resisted calls to punish a staunch ally of President Donald Trump who, according to a U.S ..."
+    publishedDateTime: 2021-03-31T21:21:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-31/us-republican-house-leader-resists-pressure-to-punish-trump-ally-gaetz"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "xMZYqvcd5v+WR0px7afqjID/53E7AWQl8rr3Cs9fPSRvv2Dx5Gem33DIsoe6vqLMnouw+42U26dQqXAtGSOAH5maZbkIFzzL3HFb48Da5k8o2dUzMYtmkOOTTaxD8F3kiwPEJIxsZcG5Azfb1Z8PF+FJH2QMt9LlDYYH6Lqqf4l4werxQvrDg8C6L3qzH5ilJALxGSRpwhESnI0OLhARpat1EtLaNJtlQdhG+ypSrHCveCTbNARyBARUp0f7JkZDmLi7s63skJ7ZgIVqQ2CkYnANTGoAXC71mMkzHIjYZHIuQHi0Ql2+Cs1wptnYSu2hZf5p+aI5imohN3O6FO3IzscEgo0fSv3svP8G5SLh+YgYV09qONqQ8ks7y0FuScNdY2hXsnG1AOCFmI10M9n+kpRtUnbYoXAZQZ4MfZGB7tQ8Ya2hpNLOgqHHapc/V9Si2Ah5FXmd0RRO+MNFfWZHlfeQ9sj2EzfTEv01uOoa7qYs+U1eKBCgER6YI7lVudAgV4ufvfr0wbLeRwkl2US6Cw==;st8n4vN/T7dlP8U3gwVeoA=="
 ---

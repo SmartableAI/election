@@ -240,6 +240,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Pentagon announces new policies on transgender troops, reversing Trump-era ban"
+    excerpt: "President Joe Biden in an executive order in January reversed the Trump-era ban on transgender troops serving ... The ban on transgender troops was announced by former President Donald Trump in 2017 and took effect in 2019. Secretary of Defense Lloyd ..."
+    publishedDateTime: 2021-03-31T19:31:00Z
+    webUrl: "https://www.cbsnews.com/news/transgender-troops-military-policies-updated/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2017/08/29/5ad04d6c-19bf-4652-9788-f4356df1cb3c/thumbnail/1200x630/42323df4d9d19fb6da5aa88315d66253/gettyimages-823246288.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rick Scott Asked Trump to Not Get Involved in 2022 Races Until Candidates Win Primaries"
     excerpt: "U.S. Senator Rick Scott, a Florida Republican who heads the GOP's Senate fundraising arm, wants former President Donald Trump's help in the 2022 election, but he's asking him to hold off a bit. \"I think he wants to win, so I think he's going to work with ..."
     publishedDateTime: 2021-03-23T21:42:00Z
@@ -274,17 +290,17 @@ related:
         isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-    publishedDateTime: 2021-03-30T12:10:00Z
-    webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-    ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-    cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    publishedDateTime: 2021-03-30T12:58:00Z
+    webUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-conchovalleyhomepage-com.cdn.ampproject.org/c/s/www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
     type: article
     provider:
-      name: WTVO
-      domain: mystateline.com
+      name: Concho Valley Homepage
+      domain: conchovalleyhomepage.com
     quality: 90
     images:
-      - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
+      - url: "https://www.conchovalleyhomepage.com/wp-content/uploads/sites/83/2021/03/pence.jpg?w=1280"
         width: 1024
         height: 683
         isCached: true

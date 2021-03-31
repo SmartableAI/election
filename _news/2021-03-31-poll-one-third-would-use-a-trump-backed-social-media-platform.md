@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-th
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Ex-Trump Backer Wins Massachusetts House Special Election"
+    excerpt: "Democrat Jeffrey Turco, who voted for Donald Trump in 2016, won the low-turnout special election, according to unofficial results posted by the city of Revere. The district spans parts of Revere and Winthrop. Turco told the Boston Herald that he’d use ..."
+    publishedDateTime: 2021-03-31T21:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/massachusetts/articles/2021-03-31/ex-trump-backer-wins-massachusetts-house-special-election"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
 
 secured: "LKR7AEI/eQ0+Lu4wPJJICHSy5yq/RZyIemN2L3qCSYOjddv7jmsuMI9rs5l2b/0skQ82sTFi+w/CvCy3DrpMNx4xsZHy8x2oPcXU+S2evjGpBHSFfkRLXemkXKFEJRXSyGNy9DYR9Xt2IXgYloDtDYWfJ1c8IlsdOuQjPBdzIy1bziTTGwU1mZ9VvhKphHsozqlj0KY7cNgzaX4GpyAz5B0751LaNwixoFDijCszRWa17B6mfqL03PzNBW31fqx2R+CVWry0vBItZELShrpDlR2vx+gQVzda7WZfUTqX6+5bPI2lufLsYDO2e0ck8v9t5oCn6M2C5qMNniIRSymlkdv1YUW9FYbMqSeDjBj2SaY=;quH+AqlZlkQvPp+5NR6uHA=="
 ---

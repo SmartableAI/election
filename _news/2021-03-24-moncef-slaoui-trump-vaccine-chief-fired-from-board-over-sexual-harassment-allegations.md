@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261914"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261914"
 type: article
 quality: 127
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -30,6 +30,24 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Ivanka Trump's flagship policy program slammed by government auditors"
+    excerpt: "The Government Accountability Office has issued a damning report about Ivanka Trump’s pet project during her time as an adviser to her father, President Donald Trump. As Ivanka Trump traveled the world talking up the Women’s Global Development and ..."
+    publishedDateTime: 2021-03-31T17:34:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c8/c4/dd2581fb4799a6a66ebf77333c62/20210331-ivanka-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "aXz4do5/SkOJNpU+WI1Vy6EAskOs0to2uDBWfn+ufrZT9n6LHnnS9WFMCRXfMNOzQeuzgGHCBQ06VqUeOxJNloc2/OKpDlEJ8oZ2LGd2WekDEgEG8d13fR/0I5pHUiagRzagxt3+y3+dPHkUvR7THsEfjgRBBHN1UAuZ0atwq0kWwppEWQhF6TALXcpqPDQoGv30x4mpQX5UyZqQZ0mpYU1QJk5dkcuFbrkIIa/QJXMKXKLzTpF0tK5TBRLccASIsj/o6l/P2XlnkD/gzHZhirhzmthJew0Svbou6/gbOBUX4zuTNXVWI3U95NEDGwGGguub+pTwxuSeDW7ziiQnOBMn8Rd4J7DZMODenIcdDd4=;8pe50TY9k+hfD8rZbaSoXg=="
 ---
