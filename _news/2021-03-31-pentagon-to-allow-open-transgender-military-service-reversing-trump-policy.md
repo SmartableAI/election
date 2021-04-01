@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-milit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
 type: article
 quality: 173
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "14c0XQ9xeBD/PXm7SQd9tCk9oTTzkqGluNqbEHvySnN9AByOoh246z5WffOCgbszfCp5UXdsOQc12jfM0C77bvypkfTdebAkpxsCOMYyQjg5Vl4Cx07MMOo0RcILNzv9GO52+L+WJkKSfc1rl5Dg21uzjPtdk1MSXyxd0A5cgQ8sFP5HOx9PEXLs4cC7V7OLy2/cct5bJ7vSACRdtietsNYrys4NRhWvZpvLAFB3vc/GCZr2Q4/TDNE73Sn3WMY9c2lIwhini61PMEofMVaJ7RpdvTc479Vn07CXyTTprWE1Xn9xLV6Bbqb6tQPNCDqzqjtlEIT8E4fq1om7TgPThEFq5mFRO2V2syJIbWKndTQ=;fOoW06bvnjNgRaEkhTI6lg=="

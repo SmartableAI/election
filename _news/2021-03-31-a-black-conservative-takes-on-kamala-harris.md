@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Essential Politics: Kamala Harris enters a supermarket — and a security bubble"
-excerpt: "A press event at a grocery store underscores the new reality of Vice President Kamala Harris' protective bubble."
-publishedDateTime: 2021-03-03T14:31:00Z
-originalUrl: "https://www.latimes.com/politics/newsletter/2021-03-03/kamala-harris-supermarket-coronavirus-essential-politics"
-webUrl: "https://www.latimes.com/politics/newsletter/2021-03-03/kamala-harris-supermarket-coronavirus-essential-politics"
+title: "A Black conservative takes on Kamala Harris"
+excerpt: "A leading Black conservative is troubled by President Biden‘s decision to place Vice President Kamala Harris in charge of immigration policy. “Our greatest concern about her appointment to such a crucial task is not just the spread of the COVID-19 ..."
+publishedDateTime: 2021-03-31T00:00:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
+webUrl: "https://www.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
 type: article
-quality: 101
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/04cdae2/2147483647/strip/true/crop/3401x1786+0+241/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa7%2F075fdbcc4db8910446ec56ee751a%2Fgettyimages-1231375480.jpg"
+  - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/31/3_312021_beltway-autry-pruit8202_c0-2-950-556_s1200x700.jpg?8b92e6e44f42e0bcd0a9021d97d4e96cab46d2b1"
     width: 1200
-    height: 630
+    height: 700
     isCached: true
 
 related:
@@ -179,6 +177,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Essential Politics: Kamala Harris enters a supermarket — and a security bubble"
+    excerpt: "A press event at a grocery store underscores the new reality of Vice President Kamala Harris' protective bubble."
+    publishedDateTime: 2021-03-03T14:31:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-03/kamala-harris-supermarket-coronavirus-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 101
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/04cdae2/2147483647/strip/true/crop/3401x1786+0+241/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa7%2F075fdbcc4db8910446ec56ee751a%2Fgettyimages-1231375480.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Vice President Kamala Harris is Keynote Speaker at NOBLE Annual Executive Symposium, March 8"
     excerpt: "NOBLE, an organization at the forefront of providing solutions to law enforcement issues and concerns, excitedly announces Vice President Kamala Harris as the keynote speaker for its 2021 William R. Bracey Winter CEO Symposium."
     publishedDateTime: 2021-03-03T07:02:00Z
@@ -304,22 +316,6 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/vQL0Pc2lGf46uSug5fkjUvxOXaI=/570x321/media/img/mt/2021/03/0321_Nora_Katie_Kamala/original.jpg"
         width: 570
         height: 321
-        isCached: true
-  - title: "A Black conservative takes on Kamala Harris"
-    excerpt: "A leading Black conservative is troubled by President Biden‘s decision to place Vice President Kamala Harris in charge of immigration policy. “Our greatest concern about her appointment to such a crucial task is not just the spread of the COVID-19 ..."
-    publishedDateTime: 2021-03-31T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/31/3_312021_beltway-autry-pruit8202_c0-2-950-556_s1200x700.jpg?8b92e6e44f42e0bcd0a9021d97d4e96cab46d2b1"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
     excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
@@ -611,6 +607,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "3gTPcWx/ft0MU2aqV52CJiIIVUyaixDaKuksM5Q61WQgq3zGr0ZJQxR6VhRQTsYSEbsmonJLyp9LtCRIA4tlmiAr5bbVv1BGOzPuaEiA4J+8BwzyUWlpqKW2uxJObWC0FkimapsCqRBzVvnKTuWl9QIRxdPA3cmVJS0qAEPOfGXKmOWRasnFSr/UH+bcwpuvVPcPeE3eXI9xwwvnH8BnpRGZl9H/4dFdyS72eyDf2piB7Op+RJdm3Nn5yk2EBllZyuwrBidtRgBTIfiu8FObqzN2pQkU3peaQrcjZi6s+N91XQG9CfBTwTmwe682KhHE3AB/cuDEDATzpoj7WMBKwGaTBsRf4EyKryF2HRQfTuLdFKuKNZYRSCwfZFSI6D1CLSlOdrIBxaoCSmNq7uIRYqmomKbt/tCe/t4TdybNW0Muym/VpugjasnBkKhAQv+C3B44HmM3f3HftlOR4OItuLla/70qYUnnd35MKLV6yjtUUDFGIbm0hEQdx0FD35a/3PMqdofp4QKlLfRqsCDGkQ==;808zfBWTfjj4rHyxhIACZA=="
+secured: "NAspEqoz7JGV4+GbPkJSpww1M4q4DFC0UR6UL1Ey7FIi2abkBUu11vBXywhOYMB5GbECzDx8i4Ike0cKtOAdZrW6VA4YBy/4J1tvoZu+W98thABTuVODQELEab9TZH/XbLMl3eFPITyHBXxQk10Hn0qRR1rzFalaVFGP+N8Hn2SKCbmXINXI036krDE1tEgaaRItHCScA522gtUQVs37pTlSszg8x0V+AQ24t8ptT/tnqOVgjciZaXYZwAoquKq96byWcz4WUvGNokJlHu7DS8KoTKCy/v5tG3Ch5Who+KiwuIbnIaCKHaw3PLvJh5OiRV9Rik8rMCJaCbzQMygkV4cfJdBK8EpqsSvLoyf4BHs=;7a2qB4DaBzVm+K6EeEEupQ=="
 ---
 

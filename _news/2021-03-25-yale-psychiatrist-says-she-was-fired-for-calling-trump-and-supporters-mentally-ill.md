@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "vj7n31P+Z+kxC28qVEF5ZGRIBuUC1tssDTVwLVKLiHlAwBy0UQbKBxEhDXS67QcUegS2tqgUeqfNgdscxI+MJ/MZuNZyZMp5JRbjrvDTk6n8Q2Ivkk9OWMFCeXhLesd9ud9yPBcZpnXEHroF4lyZ6iw3nAB/e76QW5+2FShiEH1APCNsTHwrjrorR0N7Ioas4xqoEnad3uvfAS27ZxorfkWoc0ohNaip5DwYLC3psVJK9AenJYsVwAoDpqrx9SR+3WrbJGoRKuz+CjyiOvy5dm9ld56H8l3cJdRVrbQhqetnTpmX39YmMM02VZ3sHpSdrFQhw5GdnvNDABL/0IpbzWPOUtnNsfcjsQkD0qCYAHc=;GvRCAjYp9A7FXXJqNSoWBA=="
 ---

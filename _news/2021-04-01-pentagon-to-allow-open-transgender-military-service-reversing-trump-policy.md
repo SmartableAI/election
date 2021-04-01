@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Pentagon diversity chief 'reassigned' after comparing Trump to Hitler on social media"
-excerpt: "The Pentagon's new diversity chief has been \"reassigned\" amid an investigation of past social media posts including comparing former President Trump to Adolph Hitler, a U.S. defense official confirmed to Fox News on Tuesday."
-publishedDateTime: 2021-03-30T13:58:09Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhGjo-Tv3Js/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhGjo-Tv3Js/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media"
-ampWebUrl: "https://www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+title: "Pentagon to allow open transgender military service, reversing Trump policy"
+excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+publishedDateTime: 2021-03-31T20:50:00Z
+originalUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
 type: article
-quality: 168
+quality: 133
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -63,23 +64,23 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
-    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
-    publishedDateTime: 2021-03-31T20:50:00Z
-    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+  - title: "Pentagon diversity chief 'reassigned' after comparing Trump to Hitler on social media"
+    excerpt: "The Pentagon's new diversity chief has been \"reassigned\" amid an investigation of past social media posts including comparing former President Trump to Adolph Hitler, a U.S. defense official confirmed to Fox News on Tuesday."
+    publishedDateTime: 2021-03-30T13:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhGjo-Tv3Js/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media"
+    ampWebUrl: "https://www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 133
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
-secured: "dmldOlddzfxbM5XftBYGY+oRhelHxlxsuMzu7ExzRkUNN1xf4pnEB7/Ysqq9cJ6BNU9434fHepQoosIo2ox3vnIXKooyqrvG2iMUerqXNlCX8c/cCDWUhaD1hBy7vdJ6/UO14DvRR/mIDxWzTyRBA3NRY5mZDkLTcLLaniJA8+byrwJoM8cSvZ6iJLZD2BY4va8y4d4OTe8ObkpEOUOZJ2DGSsXA0xLflSa4n/4DniXBVXsnAD+0RshpTbVTNivgKeIi4T3461xAKzVwJVtpUd9KjAJDUBAjJO3arH24oMua1IS6JTGMqJsOAzuQyGw8Gv+RQAwWUbZNk1Lk4Nx3PfCVacF2NPz20g6OEgpYmug=;hNfySLCNu5lVi5gkXRRx0w=="
+secured: "/1T4j4R1iKNvDMGaZGX2FDo36CpeT+Q/D3ZsSRCriouQ+7MVOpURXNbuQ06pyW6n+aSCRNed79ypLevc0tly4/A8GfWzgSVcDc/n3pLV9MVM3TYFUX0crfrkViR9XnUHtqufMxrYnMbGGZHn7bdEjLX0HLQdCuN/Jahx0mmnwn2aRE9o+Em5h85r+O3LZDZDPgRgnnsUmiql8Ge+gVrYy4fRLiZhJz5/OVN+Q8xuEkLt1OLuGWpIGrTQGBgpPDnUg3G2Kd+Pf1K3ATABoQcgf71adKJXfxkUOI5MZy0OxZZ2zK3WME20MTz7XJi1WIBkj5rMYjS55ME8xfMJL0spkNrbjZp6fY5xJwnhP6VE/5U=;OWaaE5zCNoWAFWpB9g3VAw=="
 ---
 

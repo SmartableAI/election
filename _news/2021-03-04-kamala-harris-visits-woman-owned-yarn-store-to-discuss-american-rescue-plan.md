@@ -317,6 +317,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "A Black conservative takes on Kamala Harris"
+    excerpt: "A leading Black conservative is troubled by President Biden‘s decision to place Vice President Kamala Harris in charge of immigration policy. “Our greatest concern about her appointment to such a crucial task is not just the spread of the COVID-19 ..."
+    publishedDateTime: 2021-03-31T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/31/3_312021_beltway-autry-pruit8202_c0-2-950-556_s1200x700.jpg?8b92e6e44f42e0bcd0a9021d97d4e96cab46d2b1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "VP Kamala Harris' Berkeley childhood home may gain historic landmark status"
     excerpt: "A pale yellow, two-story duplex in Berkeley with a powerful political connection may soon be eligible to receive historic status. That’s because as a child, Kamala Harris — who is the first woman and first Black and Southeast Asian woman to hold the office of vice president — lived on the top floor of the home on Bancroft Way."
     publishedDateTime: 2021-03-07T19:46:00Z
