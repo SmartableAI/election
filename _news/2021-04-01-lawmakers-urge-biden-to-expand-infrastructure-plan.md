@@ -445,6 +445,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Hunter Biden details lifelong addiction struggle in memoir"
+    excerpt: "President Joe Biden’s son Hunter has detailed his lifelong struggle with alcoholism and drug abuse in a memoir titled “Beautiful Things.” WASHINGTON -- President Joe Biden’s son Hunter ..."
+    publishedDateTime: 2021-03-31T22:31:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_3529860b94214771a1acb9f5daaff829_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Lawmakers call on Biden to put $10 billion toward coastal restoration"
     excerpt: "called on President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden ..."
     publishedDateTime: 2021-03-31T17:37:00Z
@@ -844,6 +860,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Biden pitches $2 trillion infrastructure and jobs plan"
+    excerpt: "The White House is comparing President Joe Biden's infrastructure proposal to the construction of interstate highways and the Space Race."
+    publishedDateTime: 2021-04-01T00:05:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/03/31/bidens-infrastructure-plan-2-trillion-bill/4829756001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/31/USAT/6cfcbc7c-69ba-4962-8067-76886464632f-VPC_USAT_BIDEN_INFRASTRUCTURE_BILLWIDE_GETTY.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."
     publishedDateTime: 2021-03-24T16:46:00Z
@@ -1089,6 +1119,6 @@ related:
         height: 604
         isCached: true
 
-secured: "vlUHx24aHVgQ2S+lUqqIAHMBjmV/qWlmc8RxyM/QD4Pe0XBbGQ4G6vT5qR+HqScXb+92Z9lXyZnxks14HGtGNZptIDMaT7JjXw6haGuSJm4g7ZpFnV8U3v1IreGKdzqVQFUnzyQm3KdhTPa7qEqrrP2YWBC6/9WEcUhUWdDmEpV6SVwVuQ/2fJ1CmL5x4AsgouOLyD1y5udrYcVJv3lZNCBCGSUDfDYVhVOQSXkjat4FG8kboHDik2AC90oCRnkI/fyXrUbZLaE7LP8WoWJBrXnZ3IwrsRIr6gmNAblPUelESJ8sJSKcvp4fjCPTMun8syANXgfSbll2O6iKgOzESnZFOcS9gHNpWlU7x31PM9w=;b77B8JyTrtUbWorCI2w84g=="
+secured: "tvElPSumJppkWJY4HWGszuLBy7Reekz51MDs066+6CfJC67sDmm9O0zc+buOFaubxgdfzS0r8IarvN4vC2f1p+WpAQ7aIyD++icnvOVU3UTlnumrDT2PeRRwG+acXT1w8FFOFyCumSO9rFUtQDrsXGiT0sx3qdv9pzlrGY4ttzNlbqKFEIMMnxWesBID7T4lh6cS36qhn8lc1MtoxY43H6jXN70zP7tVyBBOv2TTKoJpJbXoOQ9XcOatuWa/f0CzbZGlYnQAKFysYB+jIZ9TuFdDG74LCNYebIDTSzwiLdw2teUVITVRCxcn2SPA/9IrNcZx8moGY4YyM83Tl5CAsZvY5FEdkp1tvNSiywnMzMTKgrRaWsaulSovc4W9ovgYdh5ndvOMhF35euaTPyTLSdQjt0o/D1mdoIu9xs6A8HKEjgwpyHi7BLM4FYfWdNz3CZcQHCSkU1Z6WxX1A7p7y4Zt65XYEx1H0jNAkIG17suc18lbTMdRm/gloxYoqNpXcHS7cbHm4JuGYRldfOP8hw==;VjEsg+COb+DT4ismGtf0Hw=="
 ---
 

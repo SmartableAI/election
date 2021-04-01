@@ -432,6 +432,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Will Joe Biden take his place alongside FDR and LBJ?"
+    excerpt: "(CNN)Will JRB take his place alongside FDR and LBJ? President Joseph Robinette Biden just unveiled the latest move in his quest to transform the US economy to boost working Americans rather than the wealthy. His $2 trillion infrastructure plan follows a $1 ..."
+    publishedDateTime: 2021-04-01T09:13:00Z
+    webUrl: "https://www.cnn.com/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331171614-04-biden-infrastucture-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration working to develop a system for people to prove they've been vaccinated"
     excerpt: "President Joe Biden has predicted that life in the US could be back to normal by Christmas, and as more Americans are vaccinated each day, these vaccine credentials -- commonly called \"vaccine passports\" -- could be key to a return to normalcy by the end ..."
     publishedDateTime: 2021-03-28T19:07:00Z

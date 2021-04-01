@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden names diverse slate of judicial nominees in first effort to reshape federal courts"
-excerpt: "Biden plans to nominate Judge Ketanji Brown Jackson for the U.S. Circuit Court of Appeals for the District of Columbia, filling Attorney General Merrick Garland's former seat."
-publishedDateTime: 2021-03-30T11:58:00Z
-originalUrl: "https://www.nbcnews.com/politics/white-house/biden-names-diverse-slate-judicial-nominees-first-effort-reshape-federal-n1262436"
-webUrl: "https://www.nbcnews.com/politics/white-house/biden-names-diverse-slate-judicial-nominees-first-effort-reshape-federal-n1262436"
+title: "Will Joe Biden take his place alongside FDR and LBJ?"
+excerpt: "(CNN)Will JRB take his place alongside FDR and LBJ? President Joseph Robinette Biden just unveiled the latest move in his quest to transform the US economy to boost working Americans rather than the wealthy. His $2 trillion infrastructure plan follows a $1 ..."
+publishedDateTime: 2021-04-01T09:13:00Z
+originalUrl: "https://www.cnn.com/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+webUrl: "https://www.cnn.com/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
 type: article
-quality: 106
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media1.s-nbcnews.com/j/newscms/2021_13/3460693/210330-joe-biden-mc-1124_3ea1bea13febd9466baa5af5de8fa77b.nbcnews-fp-1200-630.JPG"
-    width: 1200
-    height: 630
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331171614-04-biden-infrastucture-0331-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -430,22 +432,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Will Joe Biden take his place alongside FDR and LBJ?"
-    excerpt: "(CNN)Will JRB take his place alongside FDR and LBJ? President Joseph Robinette Biden just unveiled the latest move in his quest to transform the US economy to boost working Americans rather than the wealthy. His $2 trillion infrastructure plan follows a $1 ..."
-    publishedDateTime: 2021-04-01T09:13:00Z
-    webUrl: "https://www.cnn.com/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331171614-04-biden-infrastucture-0331-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
     excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."
     publishedDateTime: 2021-03-27T11:15:00Z
@@ -536,6 +522,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden names diverse slate of judicial nominees in first effort to reshape federal courts"
+    excerpt: "Biden plans to nominate Judge Ketanji Brown Jackson for the U.S. Circuit Court of Appeals for the District of Columbia, filling Attorney General Merrick Garland's former seat."
+    publishedDateTime: 2021-03-30T11:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-names-diverse-slate-judicial-nominees-first-effort-reshape-federal-n1262436"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 106
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2021_13/3460693/210330-joe-biden-mc-1124_3ea1bea13febd9466baa5af5de8fa77b.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Legislature votes to legalize marijuana — Biden administration green lights congestion pricing — Deal close on relief fund"
     excerpt: "New York will become the latest state to legalize marijuana, after a years-long push culminated in a vote by the state Legislature to approve a bill ending the prohibition of the drug. The legislation passed the state Senate by a vote of 40-23 Tuesday night,"
     publishedDateTime: 2021-03-31T11:14:00Z
@@ -551,6 +551,6 @@ related:
         height: 629
         isCached: true
 
-secured: "3i1WHATfXu/JSCFhZCVh8WBl5sc924zRbPFCmFat/gzd+OdCtTjwTCcYBzaNeLaZt2uguTAKMXPIX3sMUC4DFqCXy3gaELhCe1YLP7bdVDS/mirlDwymdDA+h4Jyfb1aqd8QiXFGdQWSbe9AJREL0O7S/QbJhO9oOpz9366GFVFeX63RRGjChBg5wLwxbNOQ2IY+r3FOUXnRS2JRKYjvEd+1++nqkpM0KjMSZyRAfKv3zlfRcxKB4tl/vqsET1ORiF+wk4dLlRoOCzz05HiGUmWnV1dAA+E796KiVui1zs7pWmbDZpJ1taG4Q/t45Jn6zI1+Ri8rFSBBgYtyaFpbnXG8LLMQUPwxtHXTSKFYk+JQ/7hYZumsm9IarUrmUxTfhfgfy+yFtn0JQ9XZd+jUSAhqEznXeNZZBRp/qO//6VjXrV9iH+vEn/Dill6ZGuRtlRnwMcwptAKodJARqXXM2U2oONUvuZTCGlBTFXI2Slx7ehOLCX2MD3wxfVciK5y8TQ1dVuaClk+nPbyn+Z+rqg==;C0UxCOYvV44rx80Lsz31Zg=="
+secured: "6xKyjTjz8ZMHXGXhCjBpNiPd9NlaNc8Qwdohy6EtsaP1iJLLd4EFbnbDd64TCwDTTZbXq7E8VkkPPCNr5HzNPozxsojwiQV7n55JirvV94pxAnMpRGJFKckyfGq5LlRgQteHtqkrCG2ew0dy+16uH1dKSoNK8zB4VaICiPc4/lvVzebdvlvD60T3PxmXugsLZds+bAABLx0FM722rfBomj4zlncInYDrm2fE8XTPM0tcM5YbPrbO9/96le1ygT4sjMWzxgKXpfilpO1BfeVR+8mK9m+7i3VeqQAvwzzPJ8xuGj1WpNKxrov2R+vas35fzek7vCAu2RXup8PKb51QIGDhCOFFG2sJssXEPhj56ZA=;Uged3rWyUAn7RTwvjWVAJw=="
 ---
 

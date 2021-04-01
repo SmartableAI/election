@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
-excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed lawsuits on Wednesday against President Joe Biden's administration, challenging his pause on new oil and gas leasing on federal lands and waters."
-publishedDateTime: 2021-03-24T20:42:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
-webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BG2KG"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BG2KG"
+title: "Hunter Biden details lifelong addiction struggle in memoir"
+excerpt: "President Joe Biden’s son Hunter has detailed his lifelong struggle with alcoholism and drug abuse in a memoir titled “Beautiful Things.” WASHINGTON -- President Joe Biden’s son Hunter ..."
+publishedDateTime: 2021-03-31T22:31:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
 type: article
-quality: 122
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556088085&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1MS"
-    width: 816
-    height: 545
+  - url: "https://s.abcnews.com/images/Entertainment/WireAP_3529860b94214771a1acb9f5daaff829_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -447,22 +447,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Hunter Biden details lifelong addiction struggle in memoir"
-    excerpt: "President Joe Biden’s son Hunter has detailed his lifelong struggle with alcoholism and drug abuse in a memoir titled “Beautiful Things.” WASHINGTON -- President Joe Biden’s son Hunter ..."
-    publishedDateTime: 2021-03-31T22:31:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_3529860b94214771a1acb9f5daaff829_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Lawmakers call on Biden to put $10 billion toward coastal restoration"
     excerpt: "called on President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden ..."
     publishedDateTime: 2021-03-31T17:37:00Z
@@ -526,6 +510,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/8953951b-8480-4aa9-bd02-06c6ebe10ae8-VPC_JILL_BIDEN_PSA_PUPPY_BOWL_DESK_THUMB.00_00_20_18.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
+    excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed lawsuits on Wednesday against President Joe Biden's administration, challenging his pause on new oil and gas leasing on federal lands and waters."
+    publishedDateTime: 2021-03-24T20:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BG2KG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BG2KG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556088085&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1MS"
+        width: 816
+        height: 545
         isCached: true
   - title: "Lawmakers press Biden administration to grant media access to border facilities"
     excerpt: "A growing chorus of lawmakers from both sides of the aisle have called on the Biden administration to allow reporters and journalists into facilities housing unaccompanied migrant children who have sought asylum at the U.S.-Mexico border. The appeal for ..."
@@ -1119,6 +1119,6 @@ related:
         height: 604
         isCached: true
 
-secured: "110Ja/eHKtTQxvrW/XgaMCGbZejzFv7EQBgFGxa0oMj8KQjZUMIlXS8gwKrmtlQcuxwp+vcMKeNbR8fwTeAqF5Lkksl1FfveJbxxye66pU4ij33qMWQ99zKGXLaKekiHR3hSXlteS/8qJqA0uhiu8W5jzQ5XypYNkfSVC7d5MAZnM0TmHmpfy1oooFC1vueGYNNTiHWlTKkTIC1EaWamWFrbA2mag/p80uAwfg87+ZFW3K4C1OjNrChhrvLZ/fQ2YQJg6Pfp99jCbZvJU1E13VTWskSiq0eMZ3qQI36GKpFwHFI/p01BR7i2yOdl15NpRReAkbnFuPyLrz85hfi1+xGDgpe425AVwfjcR3zpebPWKCBNJQfPzQHdzUe/OBy4Av9aQn/YQHgMjmcR2y2XAH0VBjrsofd0o8WDmp5Cs8NM2h5CFbXJBqx2bxAjbSy67dufAIFKS+BH+dSL9zqNiR+GzcKINSTHlQw+ZIL0aFh3fIdAkfZLeRD9DGAf4JEtdxJvdDGGWjhZO2HDC9ys4Q==;CGFD9S4oqRhqTLOQjAXhRQ=="
+secured: "ENEQ+y1bDwvYLQxas8zNVfvidcMuxsEYKr/i6pivAerqfpH0PRxYhRUU44haZNc6YYPxuHvaTC/CGf7h4ihBJsKhGH+QiN4067TVc2plXgRoal7nXGMpZ9ZyEYMvxMIM5axZsO7b7IeIM7JMwCNn/9uDLfg4hY4VKxfs9i+erbLOf6ZtXKbVgnFKar1eHkdNYIj9gYhypg+RF3waOaFGGStQlu3Inc8+sJu7kwEEpuIPoB6cDzrFalfnU6qPuPlmnOF2RCYDsjtwPItAdaANi12YpIWtjWJgnCpEfNLRCaNaR1zPwalidj/Dxr4j6BVziqLQ+7EFZGcnBrXbpWY163kez1j9kSASHohGlGskIzU=;DUApj5kome9zDweLympeqg=="
 ---
 

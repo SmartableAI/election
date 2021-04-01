@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI31U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U"
 type: article
 quality: 140
-heat: 1540
+heat: 1580
 published: true
 
 provider:
@@ -431,6 +431,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Hunter Biden details lifelong addiction struggle in memoir"
+    excerpt: "President Joe Biden’s son Hunter has detailed his lifelong struggle with alcoholism and drug abuse in a memoir titled “Beautiful Things.” WASHINGTON -- President Joe Biden’s son Hunter ..."
+    publishedDateTime: 2021-03-31T22:31:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-repeat-work-ukrainian-firm-76785487"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_3529860b94214771a1acb9f5daaff829_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Lawmakers call on Biden to put $10 billion toward coastal restoration"
     excerpt: "called on President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden ..."
     publishedDateTime: 2021-03-31T17:37:00Z
@@ -841,6 +857,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7deb2f3f-ec71-470f-a378-e791dc2e6914_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "President Biden pitches $2 trillion infrastructure and jobs plan"
+    excerpt: "The White House is comparing President Joe Biden's infrastructure proposal to the construction of interstate highways and the Space Race."
+    publishedDateTime: 2021-04-01T00:05:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/03/31/bidens-infrastructure-plan-2-trillion-bill/4829756001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/31/USAT/6cfcbc7c-69ba-4962-8067-76886464632f-VPC_USAT_BIDEN_INFRASTRUCTURE_BILLWIDE_GETTY.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

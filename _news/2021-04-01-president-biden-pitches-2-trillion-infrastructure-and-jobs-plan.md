@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
-excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed lawsuits on Wednesday against President Joe Biden's administration, challenging his pause on new oil and gas leasing on federal lands and waters."
-publishedDateTime: 2021-03-24T20:42:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
-webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BG2KG"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BG2KG"
+title: "President Biden pitches $2 trillion infrastructure and jobs plan"
+excerpt: "The White House is comparing President Joe Biden's infrastructure proposal to the construction of interstate highways and the Space Race."
+publishedDateTime: 2021-04-01T00:05:00Z
+originalUrl: "https://www.usatoday.com/videos/news/politics/2021/03/31/bidens-infrastructure-plan-2-trillion-bill/4829756001/"
+webUrl: "https://www.usatoday.com/videos/news/politics/2021/03/31/bidens-infrastructure-plan-2-trillion-bill/4829756001/"
 type: article
-quality: 122
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556088085&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1MS"
-    width: 816
-    height: 545
+  - url: "https://www.gannett-cdn.com/presto/2021/03/31/USAT/6cfcbc7c-69ba-4962-8067-76886464632f-VPC_USAT_BIDEN_INFRASTRUCTURE_BILLWIDE_GETTY.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -527,6 +525,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
+    excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed lawsuits on Wednesday against President Joe Biden's administration, challenging his pause on new oil and gas leasing on federal lands and waters."
+    publishedDateTime: 2021-03-24T20:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-wyoming-idINKBN2BG2KG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BG2KG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BG2KG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556088085&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1MS"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Lawmakers press Biden administration to grant media access to border facilities"
     excerpt: "A growing chorus of lawmakers from both sides of the aisle have called on the Biden administration to allow reporters and journalists into facilities housing unaccompanied migrant children who have sought asylum at the U.S.-Mexico border. The appeal for ..."
     publishedDateTime: 2021-03-22T11:10:00Z
@@ -860,20 +874,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "President Biden pitches $2 trillion infrastructure and jobs plan"
-    excerpt: "The White House is comparing President Joe Biden's infrastructure proposal to the construction of interstate highways and the Space Race."
-    publishedDateTime: 2021-04-01T00:05:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2021/03/31/bidens-infrastructure-plan-2-trillion-bill/4829756001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/31/USAT/6cfcbc7c-69ba-4962-8067-76886464632f-VPC_USAT_BIDEN_INFRASTRUCTURE_BILLWIDE_GETTY.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."
     publishedDateTime: 2021-03-24T16:46:00Z
@@ -1119,6 +1119,6 @@ related:
         height: 604
         isCached: true
 
-secured: "110Ja/eHKtTQxvrW/XgaMCGbZejzFv7EQBgFGxa0oMj8KQjZUMIlXS8gwKrmtlQcuxwp+vcMKeNbR8fwTeAqF5Lkksl1FfveJbxxye66pU4ij33qMWQ99zKGXLaKekiHR3hSXlteS/8qJqA0uhiu8W5jzQ5XypYNkfSVC7d5MAZnM0TmHmpfy1oooFC1vueGYNNTiHWlTKkTIC1EaWamWFrbA2mag/p80uAwfg87+ZFW3K4C1OjNrChhrvLZ/fQ2YQJg6Pfp99jCbZvJU1E13VTWskSiq0eMZ3qQI36GKpFwHFI/p01BR7i2yOdl15NpRReAkbnFuPyLrz85hfi1+xGDgpe425AVwfjcR3zpebPWKCBNJQfPzQHdzUe/OBy4Av9aQn/YQHgMjmcR2y2XAH0VBjrsofd0o8WDmp5Cs8NM2h5CFbXJBqx2bxAjbSy67dufAIFKS+BH+dSL9zqNiR+GzcKINSTHlQw+ZIL0aFh3fIdAkfZLeRD9DGAf4JEtdxJvdDGGWjhZO2HDC9ys4Q==;CGFD9S4oqRhqTLOQjAXhRQ=="
+secured: "+Rn3E5TuteaIc4oP5poc0mz4KzHH66DNglP1LmpT0MlsbjcZlVN0rjIBdAIUUeZuJoUHlXVBQhX5BGjulnsmJE5kV5Zp/r4Ehe0jUS8Ar1MeXc7mqkJlqohIAiUwRfiWl5Sm13CnJoKiYMXJDIXtbpUUEhlq25MgFpTP4EQ0zbGpSIiCFkV1KZqafttix36jTP77Ve5JPf03r2LM32oVp23czme+GfU3/hkgdnaVggvYOArZwu33yRDvNxpUUWpM3U4xWndncwhvnZdRxrG0FwKUDUMIENxktQM+irOixD8/IP+pqmpH54WvyNVTT2vXrSZlMqN30pHGIEiAkfDDqqpkCEkLmmk+A/e4BOKifHA=;t3Ftu3WqAXYKUXAqV6VS4A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nomin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
 type: article
 quality: 178
-heat: 818
+heat: 838
 published: true
 
 provider:
@@ -414,6 +414,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/31/admin/31onpolitics-pm-newsletter/31onpolitics-pm-newsletter-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Will Joe Biden take his place alongside FDR and LBJ?"
+    excerpt: "(CNN)Will JRB take his place alongside FDR and LBJ? President Joseph Robinette Biden just unveiled the latest move in his quest to transform the US economy to boost working Americans rather than the wealthy. His $2 trillion infrastructure plan follows a $1 ..."
+    publishedDateTime: 2021-04-01T09:13:00Z
+    webUrl: "https://www.cnn.com/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331171614-04-biden-infrastucture-0331-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
     excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."
