@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump elevates a loyal Florida operative to shore up his post-presidency political operation"
+    excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. Former President Donald Trump has tapped longtime Florida political operative Susie Wiles to help lead his post-White House political operation, Trump advisors ..."
+    publishedDateTime: 2021-03-31T22:28:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-susie-wiles-florida-bill-stepien-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/6064f60b6183e10019819a50?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. Republican House Leader Resists Pressure to Punish Trump Ally Gaetz"
     excerpt: "U.S. Republican House Leader Resists Pressure to Punish Trump Ally Gaetz WASHINGTON (Reuters) - The top Republican in the U.S. House of Representatives on Wednesday resisted calls to punish a staunch ally of President Donald Trump who, according to a U.S ..."
     publishedDateTime: 2021-03-31T21:21:00Z

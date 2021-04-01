@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e7e899c3c4b95fc765480083d26702cad37c3d40/0_196_5711_3429/master/5711.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86d75d50e45b90f18327e352646dc71a"
         width: 600
         height: 360
+        isCached: true
+  - title: "More than 100 lawmakers call on Biden to regulate weapon used in Colorado shooting"
+    excerpt: "WASHINGTON – More than 100 lawmakers called on President Joe Biden to take executive action and enforce regulations regarding the AR-556 pistol, according to a letter obtained by USA TODAY. The weapon was used in the recent shooting in a Boulder ..."
+    publishedDateTime: 2021-03-31T21:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/31/lawmakers-call-biden-regulate-gun-used-boulder-shooting/4823342001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4823342001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4823342001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/31/USAT/acab7455-2724-4b38-bf1d-cde06d4cc163-AFP_547138811.JPG?auto=webp&crop=4927,2772,x0,y328&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden Demanded The Senate Act On Gun Control After 10 People Were Killed In Colorado"
     excerpt: "The president called on Congress to close background check loopholes and ban assault weapons after shootings in Boulder, Colorado, and Atlanta."

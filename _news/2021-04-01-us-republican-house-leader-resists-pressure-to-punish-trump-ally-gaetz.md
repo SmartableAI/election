@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump elevates a loyal Florida operative to shore up his post-presidency political operation"
+    excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. Former President Donald Trump has tapped longtime Florida political operative Susie Wiles to help lead his post-White House political operation, Trump advisors ..."
+    publishedDateTime: 2021-03-31T22:28:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-susie-wiles-florida-bill-stepien-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/6064f60b6183e10019819a50?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump's New Website Mocked On Twitter: 'One Of The Wackiest Websites'"
     excerpt: "Donald and Melania Trump launched their new personal website, 45office.com Some Twitter users were not impressed with the new website Trump's supporters were happy about the announcement and have begun leaving him messages on the new site Former President ..."
     publishedDateTime: 2021-03-31T05:55:00Z

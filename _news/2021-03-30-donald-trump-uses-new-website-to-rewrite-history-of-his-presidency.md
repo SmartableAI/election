@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-ne
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
     quality: 115
     images:
       - url: "https://i.insider.com/60633eddc9d73b00186e9269?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump elevates a loyal Florida operative to shore up his post-presidency political operation"
+    excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. Former President Donald Trump has tapped longtime Florida political operative Susie Wiles to help lead his post-White House political operation, Trump advisors ..."
+    publishedDateTime: 2021-03-31T22:28:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-susie-wiles-florida-bill-stepien-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/6064f60b6183e10019819a50?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden wants to give the nation hope. But a jump in Covid cases is complicating things."
+    excerpt: "The Biden administration is struggling over how to portray a burst of new coronavirus cases, even taking pains to avoid saying publicly that the country is experiencing a “surge,” according to three senior administration officials. President Joe Biden ..."
+    publishedDateTime: 2021-03-31T17:51:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/biden-coronavirus-case-increase-478718"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/biden-coronavirus-case-increase-478718"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/biden-coronavirus-case-increase-478718"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 127
+    images:
+      - url: "https://static.politico.com/aa/aa/3191d25746b589b1ba936156dd5d/210321-walensky-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "U4aqAbGjMUwTFCk2AJcn4bBgl824eYxnOzQT4qTSGQxbmbEZHyBVv2RWb6RbJijQDgzqJ1k9agU5QUkSfpmm/sxLwE16J4VUcqvJKgAMdjXBKqKqAElrpIiaV3akpOaPpP7y10Eq+E7DPOV4c9Xpa4yfgDOdBj2to0kNtRYNZ6bADeueJFLLEV6sFcg8zW1X3abgFIhgP3vG/hGPbyEaBOQ4XrA21nG26xAvvE/QsExR/ijDGWePiGSBsWQAxtQJgUNarM3ak1/i/05MUiYImnsDzmCDzSvegM6ftUreGZH66krQR8WeqS+T58S2RPSHETr81ogBjK3wVSvrittqasLA6XVoeikv/GuvNmahvlQ=;4/P/TV50xawDqTubjPoZJg=="

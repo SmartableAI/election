@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Migrants stream through gaps in border wall following Biden's order to halt construction"
+    excerpt: "Thousands of tons of steel and heavy equipment stand idle along the border as highways of migrants exploit holes in the fence left by President Biden’s decision to halt construction."
+    publishedDateTime: 2021-03-31T22:57:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZY2QwwUj5XA/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction"
+    ampWebUrl: "https://www.foxnews.com/politics/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

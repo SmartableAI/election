@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "More than 100 lawmakers call on Biden to regulate weapon used in Colorado shooting"
+    excerpt: "WASHINGTON – More than 100 lawmakers called on President Joe Biden to take executive action and enforce regulations regarding the AR-556 pistol, according to a letter obtained by USA TODAY. The weapon was used in the recent shooting in a Boulder ..."
+    publishedDateTime: 2021-03-31T21:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/31/lawmakers-call-biden-regulate-gun-used-boulder-shooting/4823342001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4823342001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4823342001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/31/USAT/acab7455-2724-4b38-bf1d-cde06d4cc163-AFP_547138811.JPG?auto=webp&crop=4927,2772,x0,y328&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden calls on Congress to pass assault weapons ban after Boulder shooting – as it happened"
     excerpt: "President also urges Senate to pass bills to close background checks loopholes Maanvi Singh, Joan E Greve and Martin Belam Joe Biden plans to release his initial 2022 spending requests next week, with a plan to release a full budget proposal in the coming ..."
     publishedDateTime: 2021-03-24T00:16:00Z

@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden wants to give the nation hope. But a jump in Covid cases is complicating things."
+    excerpt: "The Biden administration is struggling over how to portray a burst of new coronavirus cases, even taking pains to avoid saying publicly that the country is experiencing a “surge,” according to three senior administration officials. President Joe Biden ..."
+    publishedDateTime: 2021-03-31T17:51:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/biden-coronavirus-case-increase-478718"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/biden-coronavirus-case-increase-478718"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/biden-coronavirus-case-increase-478718"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 127
+    images:
+      - url: "https://static.politico.com/aa/aa/3191d25746b589b1ba936156dd5d/210321-walensky-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "MZMhe1HWkNBwj8wujr0dIK1EbU6jXdAXkph6XQtGj2Hnj/w15oqFwtBcR5IUyRiMDA/U5R6jsOilqAFcxLgK2LB7VobHtNv9PN5Hnh/AsP4GCUXJF+ToMrCPc4G57VbjBwTfG/Lu3C6guFU2/faN15mu4mBYTAq+bv0a9OnchFAIp5J3u2p7fkroqYMjnST/xXo6Gm7Y8injiFC03xteXKw+2Vh0GSXrmb2s0ULV966hiGRmC/codpPGKNljxF9sYzAe+V69WAknR3WP+NTpJO29UiJ4+pQtjb1JB784fYK5+wremIu+ryxCRHBrmMBnpc1xmYSs49U+MWaSdPuprQXv9jXCCOwV3S85Ca2qOoU=;02K9YVv7DKeW9nDvZf8/EA=="
 ---

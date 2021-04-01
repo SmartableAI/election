@@ -239,6 +239,22 @@ related:
         width: 1440
         height: 944
         isCached: true
+  - title: "The hard part: Biden infrastructure-linked tax hikes face hurdles in Congress"
+    excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden’s plan to pay for his $2 trillion infrastructure plan with higher corporate taxes faces hurdles in Congress from Republicans who say it will kill jobs and from some of his fellow Democrats who want a bigger ..."
+    publishedDateTime: 2021-03-31T18:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-taxes-idUSKBN2BN24Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN24Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN24Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556945081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U1M0"
+        width: 821
+        height: 545
+        isCached: true
   - title: "Corporations, wealthy pay in Biden infrastructure plan, not drivers and riders"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden’s plans to spend billions of dollars on the United States’ crumbling roads and mass transit include a novel twist - making companies and wealthy households, rather than drivers and riders, pay the cost."
     publishedDateTime: 2021-03-30T09:18:00Z

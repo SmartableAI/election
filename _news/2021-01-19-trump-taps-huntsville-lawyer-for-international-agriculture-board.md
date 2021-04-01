@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
+    excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
+    publishedDateTime: 2021-03-31T19:25:00Z
+    webUrl: "https://www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722"
+    ampWebUrl: "https://www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Facebook 'Supreme Court' To Judge Trump Suspension"
     excerpt: "Facebook and Instagram suspended Trump after his supporters stormed the US Capitol on January 6, an attack on the seat of democracy that led to Trump's second impeachment. The leading social network is referring the decision to its independent oversight board -- known informally as the Facebook \"supreme court\" -- with the authority to make binding rulings even chief executive Mark Zuckerberg must abide by."
     publishedDateTime: 2021-01-22T01:11:00Z

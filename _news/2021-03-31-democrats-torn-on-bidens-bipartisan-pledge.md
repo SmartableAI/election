@@ -415,6 +415,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "13 attorneys general sue Biden admin over stimulus tax rule"
+    excerpt: "Attorneys general from 13 states sued the Biden administration on Wednesday over a provision in the federal stimulus that bars tax cuts from being offset with relief money"
+    publishedDateTime: 2021-03-31T22:49:00Z
+    webUrl: "https://www.washingtonpost.com/national/13-attorneys-general-sue-biden-admin-over-stimulus-tax-rule/2021/03/31/52dad4ec-9273-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/13-attorneys-general-sue-biden-admin-over-stimulus-tax-rule/2021/03/31/52dad4ec-9273-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/13-attorneys-general-sue-biden-admin-over-stimulus-tax-rule/2021/03/31/52dad4ec-9273-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Lawmakers call on Biden to put $10 billion toward coastal restoration"
     excerpt: "called on President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden ..."
     publishedDateTime: 2021-03-31T17:37:00Z
