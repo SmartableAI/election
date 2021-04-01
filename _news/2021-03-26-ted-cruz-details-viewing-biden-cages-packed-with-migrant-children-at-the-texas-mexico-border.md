@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz"
+    excerpt: "Sen. Ted Cruz, R-Texas, argued on \"America Reports\" Thursday that President Biden \"caused the border crisis we are seeing right now\" through his immigration actions during his first week in office."
+    publishedDateTime: 2021-04-01T20:40:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7ZyQ1_wTGc/border-crisis-critical-decisions-biden-president-cruz"
+    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "House Republicans urge Biden to allow media access to border ops amid 'out of control' crisis"
     excerpt: "EXCLUSIVE: More than 20 House Republicans on Thursday wrote to President Biden urging his administration to stop blocking media access to border facilities amid what they described as an \"out of control\" crisis at the border."
     publishedDateTime: 2021-03-25T19:09:22Z

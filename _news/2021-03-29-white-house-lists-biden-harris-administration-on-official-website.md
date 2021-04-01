@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-lists-biden-harris-admi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
 type: article
 quality: 200
-heat: 780
+heat: 800
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris to finally move into VP mansion after renovations"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff are set to move into Number One Observatory Circle at the U.S. Naval Observatory next week, following a two-month delay for \"home repairs,\" Harris’ chief spokeswoman Symone Sanders said Thursday."
+    publishedDateTime: 2021-04-01T21:46:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IujFlOv-QKk/kamala-harris-to-finally-move-into-vp-mansion-after-renovations"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

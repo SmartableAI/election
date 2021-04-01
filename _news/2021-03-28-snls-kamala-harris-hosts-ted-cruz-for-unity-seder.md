@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-t
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/6031617291181/2021/1/e2f90b0ca4dc9c6fcad28b5e47f57802/v1.5/VP-Kamala-Harris-HHS-open-drive-to-inspire-Americans-to-take-COVID-19-vaccine.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Kamala Harris moving into residence at Naval Observatory next week, spokeswoman says"
+    excerpt: "Vice President Kamala Harris and her husband, second gentlemen Doug Emhoff, will move next week into their new home at the U.S. Naval Observatory in Washington, D.C., her spokeswoman said Thursday. Symone D. Sanders, the vice president’s senior adviser ..."
+    publishedDateTime: 2021-04-01T20:17:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/1/kamala-harris-moving-next-week-into-official-resid/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/1/kamala-harris-moving-next-week-into-official-resid/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/1/kamala-harris-moving-next-week-into-official-resid/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2017/02/24/pence_governors_meeting_20270_c0-78-4887-2928_s1200x700.jpg?92a2fda3de6b0bc16984b01d64f55f594e9ea11a"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
     excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."

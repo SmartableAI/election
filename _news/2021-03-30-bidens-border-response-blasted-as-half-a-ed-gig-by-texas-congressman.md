@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-border-immigration-republican
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
 type: article
 quality: 174
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz"
+    excerpt: "Sen. Ted Cruz, R-Texas, argued on \"America Reports\" Thursday that President Biden \"caused the border crisis we are seeing right now\" through his immigration actions during his first week in office."
+    publishedDateTime: 2021-04-01T20:40:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7ZyQ1_wTGc/border-crisis-critical-decisions-biden-president-cruz"
+    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ted Cruz details viewing 'Biden Cages' packed with migrant children at the Texas-Mexico border"
     excerpt: "Senator Ted Cruz, R-Texas, ripped the Biden administration following a visit to the border with 17 other U.S. Senators, telling Fox Business' \"The Evening Edit\" that the conditions in what he called the \"Biden cages\" of young migrants are \"inhumane\" and \"unconscionable.\""
     publishedDateTime: 2021-03-26T23:50:53Z

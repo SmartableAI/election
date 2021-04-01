@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Big Tech is out to ‘erase’ former President Trump: daughter-in-law"
+    excerpt: "Big Tech wants to “erase” former President Donald Trump, daughter-in-law Lara Trump said Thursday, adding that her father-in-law is “very upset” by the effort. Lara Trump spoke out one day ..."
+    publishedDateTime: 2021-04-01T20:35:00Z
+    webUrl: "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/"
+    ampWebUrl: "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/lara-trump-donald-interview-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
     excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"
     publishedDateTime: 2021-03-31T16:18:00Z

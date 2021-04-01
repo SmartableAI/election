@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-bill.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-bill.amp"
 type: article
 quality: 185
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60884bb9-5954-4384-8606-86e798a73628/9d915939-10db-4690-ab41-5672c07a1a93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Psaki doubles down on Biden's Georgia voting comments after major fact-check"
+    excerpt: "White House press secretary Jen Psaki furthered the president's criticism of Georgia's new voting law even after a fact check determined his line of attack was false."
+    publishedDateTime: 2021-04-01T21:11:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X6OjPWE3G5Y/psaki-doubles-down-georgia-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-doubles-down-georgia-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-doubles-down-georgia-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2243c03-5c7f-410c-809b-82da3252a441/df7fc185-1eb1-4326-96d2-1af4b0d06388/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

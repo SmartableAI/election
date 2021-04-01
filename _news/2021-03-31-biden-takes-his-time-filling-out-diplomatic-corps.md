@@ -335,6 +335,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Loyalty or loyal opposition? Democrats test fealty to Biden in special elections"
+    excerpt: "CLEVELAND — Nina Turner, the perpetual public face of Sen. Bernie Sanders' unsuccessful presidential campaigns, once compared voting for Joe Biden to eating a bowl of fecal matter. Now Turner is a top contender for Congress. And her Democratic opponents ..."
+    publishedDateTime: 2021-04-01T08:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262618"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262618"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3460821/210330-joe-biden-ew-244p_e7721de5d900180188761ee588df2bac.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden Seeks Assault Weapons Ban and Background Checks"
     excerpt: "Mr. Biden, who had helped pass the landmark Brady Handgun Violence ... even modest gun legislation this year were on display on Tuesday on Capitol Hill. Senator Joe Manchin III, Democrat of West Virginia, has a longstanding bipartisan proposal — written ..."
     publishedDateTime: 2021-03-23T23:54:00Z
@@ -446,6 +462,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331171614-04-biden-infrastucture-0331-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Unions demand Biden cancel student debt for public service workers"
+    excerpt: "On the campaign trail, President Joe Biden vowed to fix the Public Service Loan Forgiveness program, and he backed legislation that would expand the benefits. Now the unions are pressing the Biden administration to go further and use executive action to ..."
+    publishedDateTime: 2021-04-01T17:27:00Z
+    webUrl: "https://www.politico.com/news/2021/04/01/student-loan-debt-unions-478833"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/01/student-loan-debt-unions-478833"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/01/student-loan-debt-unions-478833"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c4/c0/a800a9524fe28d47d2a3462f2bb6/biden-nea-773-getty.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
     excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."

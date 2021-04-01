@@ -43,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Kinzinger raises $2.2 million for reelection fund, anti-Trump PAC"
+    excerpt: "Kinzinger faces several potential primary opponents due to his vote to impeach former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo ..."
+    publishedDateTime: 2021-04-01T14:37:00Z
+    webUrl: "https://thehill.com/homenews/campaign/545948-kinzinger-raises-22-million-for-reelection-fund-anti-trump-pac"
+    ampWebUrl: "https://thehill.com/homenews/campaign/545948-kinzinger-raises-22-million-for-reelection-fund-anti-trump-pac?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/545948-kinzinger-raises-22-million-for-reelection-fund-anti-trump-pac?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/kinzinger_adam030921.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Hunter Biden calls Trump 'vile' in new book and denies Ukraine allegations"
     excerpt: "Last modified on Tue 30 Mar 2021 16.00 EDT In a keenly awaited memoir, Joe Biden’s son Hunter attacks Donald Trump as “a vile man with a vile mission” who plumbed “unprecedented depths” in last year’s US presidential election. Want to book ..."
     publishedDateTime: 2021-03-30T14:59:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210325&t=2&i=1556160112&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2O0QC"
         width: 968
         height: 545
+        isCached: true
+  - title: "Jill Biden Speech Prompts Melania Trump Comparisons As Video Watched Over 1 Million Times"
+    excerpt: "Melania Trump began trending on Twitter today after Jill Biden made a speech that led to comparisons between the two first ladies. The former first lady has been keeping a low profile since she and her husband Donald Trump left the White House in January."
+    publishedDateTime: 2021-04-01T17:01:00Z
+    webUrl: "https://www.newsweek.com/jill-biden-speech-spanish-melania-trump-comparison-first-lady-1580462"
+    ampWebUrl: "https://www.newsweek.com/jill-biden-speech-spanish-melania-trump-comparison-first-lady-1580462?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jill-biden-speech-spanish-melania-trump-comparison-first-lady-1580462?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1768815/jill-biden.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "N Korea confirms missile tests as Biden warns of response"
     excerpt: "North Korea on Friday confirmed it had tested a new guided missile, as President Joe Biden warned of consequences if Pyongyang escalates tensions amid stalled nuclear negotiations. The North’s official Korean Central News Agency said the two “new-type tactical guided projectiles” accurately hit the target off the eastern coast on Thursday."

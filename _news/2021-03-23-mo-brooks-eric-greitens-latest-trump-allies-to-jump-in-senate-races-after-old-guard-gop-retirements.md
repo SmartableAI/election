@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "First-quarter fundraising numbers showed high-profile support - or opposition - for Trump"
+    excerpt: "Miller announced his campaign against Gonzalez after the incumbent joined 10 other Republicans to vote to impeach former President Donald Trump for incitement of an insurrection over the Jan. 6 attack on the U.S. Capitol. Shortly after Miller entered the ..."
+    publishedDateTime: 2021-04-01T20:24:00Z
+    webUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach"
+    ampWebUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Trump-Max-Miller-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "Zyip/S/KMeXv6fFHAJN22aCo4/+C90NOU108GNND3f88dQUH7C75dzYGfmMCcKgCdAGvjvGmld4lsQMHgDIt8ehyFF7KAL0oM+pdQ6orqOA3OD5oWmnwwpk8oGtzsoYIhsIIs4NZshHEqyPTY8UqiTQ7hjhlDEm+YoDSeZl/JcNYIBd9kufb7bdN84BBeEw6Ouf9JJ6PY5tWPbeJsYQuUGNPtcN7Q8QuLjPwkgm+yystLqKYNnrnZq32CVvFGM21BPECJCzviev5XUOi+lKipNHkxwiht3B8bbg3SMRKBzDpklm0bwXbMsXcL/xjUk54m6NmLCfAz2dVqutek+HLL5R/KUzQZn+6MnsG/w2k/So=;Ww7SL0Yczl69cLpX1fUgLw=="
 ---

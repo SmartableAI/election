@@ -140,6 +140,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "First-quarter fundraising numbers showed high-profile support - or opposition - for Trump"
+    excerpt: "Miller announced his campaign against Gonzalez after the incumbent joined 10 other Republicans to vote to impeach former President Donald Trump for incitement of an insurrection over the Jan. 6 attack on the U.S. Capitol. Shortly after Miller entered the ..."
+    publishedDateTime: 2021-04-01T20:24:00Z
+    webUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach"
+    ampWebUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Trump-Max-Miller-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
     excerpt: "Mo Brooks of Alabama showcased his support and loyalty for former President Donald Trump as he launched his Senate campaign. To hammer home the point, he was accompanied by Stephen Miller, a top adviser to Trump during his tenure in the White House and the architect of the administration's hard line on illegal immigration."
     publishedDateTime: 2021-03-23T15:51:00Z
@@ -157,6 +173,6 @@ related:
         height: 340
         isCached: true
 
-secured: "SnZsu8Qz/FRiOj2l0RQBe3L8Jenk6EjJTn/rJCQYTgFazN2LmpIlqjCKwPAlWFJfO4Yn7fb0J4T/yHTdpMgEoOT2COc9nyLdkpRv9ENW46MkCQmXcrgE6TLTofS0tNDQQfFuvlQc6tsXEag60JAMUdff2FQPJZSkSoJrfsE6413881M6dDYT47+kFSNTr/spOTvBrvoY0veUXMNeVH+RwvM8yjSIYobUfhS9SDarEZtJV7PTiNJodpSxIwe2DxEXA2+Jx2Py6+ZumA+SWlj+5sALPxXW6ihVfyrhXLqoOXEWLAgAFvbYozlxdB6+whH8vud7s6f62AtwjK/BY+Mhreygl0W1TKh/a0q3SDelLm0=;4CxM7c+PMLZdzFcdk5Vhjw=="
+secured: "ylwGSCNftlqx9bs6z8EnzTLCZfYCk6T4PgJF4Hwblwl0KmBAXoDCW3lsIgQpeH7w0ksY3wZr2KHwu0VSiiVeVQk/AIMPAzO+O693kUiqqp71tCycibSZT9st+6TQKttXxq91NVzBqxQrWvDowUubKo45atCUOM1H0fAKLQoz6Dj0hfi1IyokQr92sctqSSVddlz3eCz7cO6WQxeDw0q1y7t+FzYnu04fO8/u3FWplTxRcGIJIFel0FFu47qJmDW2rpQJyKHhanOUhG4hwKPv5sEm9vzBZajIslBGy47Ufv2al3UfOo4h9nGrJeLFjHZmYRzwbKzPyTFl/Ve+4kRCeWK5UeApkrhlDudOPjXnquTYPQG2hgCCWbIznDytujkOxP/WUBzf1M9lA7lurU2To3N0hQgDvQMp+a93zIGbgj2LlF018kybPbm8JlOLXjnOY8eQDHCujeDp/4mkFkP6XO1fVAR/6abtm7ZGXEsN1L8BzO5C0kTssBm6AWOKbmytqX6b9mx7S0pgsyD1NWYbfQ==;j5NrgusCOMTcJvcwVbsakA=="
 ---
 

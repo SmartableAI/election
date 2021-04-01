@@ -317,6 +317,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Kamala Harris embraces role of representing American women"
+    excerpt: "for women, especially women of color, Vice President Kamala Harris said in an interview with USA TODAY. Female entrepreneurs find their shops shuttered or empty. Women are leaving the workforce in alarming numbers. Burdened with the brunt of child care ..."
+    publishedDateTime: 2021-04-01T20:27:00Z
+    webUrl: "https://www.usatoday.com/web-stories/covid-kamala-harris-says-pandemic-has-magnified-gender-inequalities/"
+    ampWebUrl: "https://www.usatoday.com/web-stories/covid-kamala-harris-says-pandemic-has-magnified-gender-inequalities/"
+    cdnAmpWebUrl: "https://www-usatoday-com.cdn.ampproject.org/c/s/www.usatoday.com/web-stories/covid-kamala-harris-says-pandemic-has-magnified-gender-inequalities/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288797929%2Fkharris%2520portrait.jpeg/fill/300/300/"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
     excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
     publishedDateTime: 2021-01-20T16:50:00Z

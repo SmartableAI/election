@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/biden-harris-offer-solace-deno
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2230
+heat: 2250
 published: true
 
 provider:
@@ -301,6 +301,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/22/PFRE/2aeae88e-c268-47e8-8a18-dcb9c85b20e8-kamala_harris.jpg?auto=webp&crop=4500,2532,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Kamala Harris embraces role of representing American women"
+    excerpt: "for women, especially women of color, Vice President Kamala Harris said in an interview with USA TODAY. Female entrepreneurs find their shops shuttered or empty. Women are leaving the workforce in alarming numbers. Burdened with the brunt of child care ..."
+    publishedDateTime: 2021-04-01T20:27:00Z
+    webUrl: "https://www.usatoday.com/web-stories/covid-kamala-harris-says-pandemic-has-magnified-gender-inequalities/"
+    ampWebUrl: "https://www.usatoday.com/web-stories/covid-kamala-harris-says-pandemic-has-magnified-gender-inequalities/"
+    cdnAmpWebUrl: "https://www-usatoday-com.cdn.ampproject.org/c/s/www.usatoday.com/web-stories/covid-kamala-harris-says-pandemic-has-magnified-gender-inequalities/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288797929%2Fkharris%2520portrait.jpeg/fill/300/300/"
+        width: 300
+        height: 300
         isCached: true
   - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
     excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
