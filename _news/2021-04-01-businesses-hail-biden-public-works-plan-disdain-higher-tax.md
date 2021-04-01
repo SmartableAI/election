@@ -363,6 +363,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Amtrak vows grand expansion under Biden's infrastructure plan. Check the proposed routes"
+    excerpt: "Amtrak late Wednesday released a proposed map of new and expanded service if it can land the $80 billion President Joe Biden proposed for the rail service as part of his American Jobs Plan, a massive $2 trillion plan to rebuild the nation's aging ..."
+    publishedDateTime: 2021-04-01T17:30:00Z
+    webUrl: "https://www.usatoday.com/story/travel/news/2021/04/01/biden-infrastructure-plan-amtrak-vows-new-routes-american-jobs-plan/4834427001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4834427001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4834427001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/00bb77714be3d1a1bd84d0f6aec80a1d11b9c882/c=0-18-2166-1242/local/-/media/2015/12/15/Rochester/Rochester/635857591312276137-TY-121415-AMTRAK-LUGGAGE.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Watch: Trump Uses Wedding Speech To Attack Biden; Asks Crowd 'Do You Miss Me?'"
     excerpt: "... The wedding reception took place at Trump's Mar-a-Lago golf resort in Florida The former president repeated false claims about widespread fraud during the 2020 election Former President Donald Trump on Saturday used a wedding speech at his Mar-A-Lago ..."
     publishedDateTime: 2021-03-29T03:59:00Z

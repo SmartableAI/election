@@ -121,6 +121,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden only wants to raise taxes on the wealthy, but he's misleading families with $400,000-plus income"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden has repeatedly hinged his massive spending plans on a series of tax hikes with the single rule that \"no one making under $400,000 will see their federal taxes go up.\" The assertion is true, depending on your ..."
+    publishedDateTime: 2021-04-01T17:05:00Z
+    webUrl: "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/6065e9f652f11d001943196a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Joe Biden and First Lady Visit the Vietnam War Memorial"
     excerpt: "U.S. President Joe Biden and First Lady Dr. Jill Biden visit the Vietnam War Memorial in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI"
     publishedDateTime: 2021-03-29T22:14:00Z

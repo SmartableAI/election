@@ -47,6 +47,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "House Republicans reveal game plan to fight Biden's massive spending bill"
+    excerpt: "EXCLUSIVE: The biggest conservative caucus in the House has already released a game plan to fight President Biden's $2 trillion spending package and accompanying tax hikes, signaling just how tough it will be for Democrats to garner bipartisan support for the massive bill."
+    publishedDateTime: 2021-04-01T17:28:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WJFOpx0j7KQ/house-republicans-game-plan-fight-bidens-massive-spending-bill"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Joe-Biden.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump calls Biden jobs plan 'massive giveaway to China,' says it will 'crush American workers'"
     excerpt: "Former President Donald Trump called President Biden's jobs plan a \"monstrosity\" that \"would be among the largest self-inflicted economic wounds in history.\""
     publishedDateTime: 2021-03-31T18:45:00Z

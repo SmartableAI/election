@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election
 ampWebUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
 type: article
-quality: 139
+quality: 149
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Mike Pence
+  - Donald Trump
 
 images:
   - url: "https://d.newsweek.com/en/full/1768451/former-vice-president-pence-karen-pence.jpg"
@@ -335,6 +336,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Reversing Trump, Pentagon Releases Inclusive New Transgender Policies"
+    excerpt: "Trump tweeted that the government wouldn’t accept or allow transgender people to serve “in any capacity” in the military"
+    publishedDateTime: 2021-04-01T15:54:00Z
+    webUrl: "https://time.com/5951868/trump-pentagon-new-transgender-policies/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/04/AP21090725361874.jpg"
+        width: 5596
+        height: 3730
+        isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
     publishedDateTime: 2021-03-30T12:10:00Z
@@ -586,6 +601,6 @@ related:
         height: 683
         isCached: true
 
-secured: "axvlPESmFkn30Xt9BuI7AxyY2Albe8HoJjaCiyFtso7Atlq4hEOqPWEr27uEOVm5QI+/bJIGevf6EzJ/ddwpirLlG/xnKRvwABWiYhZUCpg0I7pbpAZkAPj5/sUJwPMaIHo1XRr5mwO5BwJASUdUZOKNm/YHYQE5wechxkto3cqUyxUb5RS12z7Cezt/C4Y9zO3jvSQdO7r9U2uYjK4Eu1ttzGzMC2xCNfLvkbYeCBpVmEmHQbihVdUqxKnmafKH33YMeFphlk4/ZVeq4gA5WfYi7Uy69rpRG+Ko+u0onjYQ57I8vOAjr8Y/yEEfK+EubBi8SFmLfvg/hx2+/xPmiGGOfpGB4XYZjTFqZcsh6RQ=;YvP9gLOSSHgWIQg6Q9lGUQ=="
+secured: "EBliKuLmu4ZktoCAPvXjBwDUCdiDt0ecqnzjguAS6F0MHet7Bii9n3T0UOH/gf55To9ifOEl8Bipbq+t9ai30He2lDEQlnI0IuTuKaiciwqfzNjyjTffww6FEzYcQhXrorkOA9R4ZIDOtJHYoh/xNJIg4lbgrdg7RxckMdHHsl3zpbYn6Ut6bg+z3BA3/t+sRHzJkJxgGLLv6xmOjwc7hNWqfVHqGLQvjKRSDR4LR2fBvlGi9rMspIwdgQjpYhntWOtmOcevpTuKsDIjv4HXVQt+CRaNcLc1zHhQxlp7zYoK89+7nCyOZSrdjESjLzl+5EmCXS67xO+JZPwnnCB681Ewh335XthndTq/qQezE5sZxZ8qLpM91l0bWXlR4nRSgryWUqDgbZsYsNjDl6l0ckIRWSiZihTpP8D3kN9e58Vbq21SPGpheLMZ9pQGTN+jwDXNm1ApA+AX3tv6NdR/dgtylQecoNiJ2AmLRai7Fel2/d9muNoh83Wa+F79F1rj2JfjLJ8JHI0HL05HoxIwiA==;KU9UJz8Bf/JH2Z6Z2WMqTw=="
 ---
 

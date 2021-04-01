@@ -637,6 +637,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Here's what Biden's DOE has done so far to tackle the $1.7 trillion student-debt crisis"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden has started to act on the $1.7 trillion student debt crisis in the country. His Department of Education has already canceled student debt for about 72,000 defrauded borrowers, and for over 41,000 borrowers with ..."
+    publishedDateTime: 2021-04-01T17:26:00Z
+    webUrl: "https://www.businessinsider.com/what-biden-has-done-to-tackle-student-debt-crisis-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/what-biden-has-done-to-tackle-student-debt-crisis-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-biden-has-done-to-tackle-student-debt-crisis-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/6065e5c352f11d001943193e?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Biden attacks Georgia's new voting limits as 'an atrocity,' civil rights groups sue state"
     excerpt: "(Reuters) -Georgia’s sweeping new voting restrictions came under attack on Friday, with civil rights groups challenging them in court and President Joe Biden saying the U.S. Justice Department was examining what he called an “atrocity” of a law."
     publishedDateTime: 2021-03-27T07:54:00Z

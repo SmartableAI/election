@@ -137,6 +137,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "VP Kamala Harris, HHS open drive to inspire Americans to take COVID-19 vaccine"
+    excerpt: "RELATED Pfizer says COVID-19 vaccine 91% effective after 6 months As part of the launch, Vice President Kamala Harris and Surgeon General Vivek Murthy met with founding members on Thursday. The campaign will include public health experts such as the ..."
+    publishedDateTime: 2021-04-01T17:09:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/01/hhs-covid-vaccines-campaign/6031617291181/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/01/hhs-covid-vaccines-campaign/6031617291181/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/01/hhs-covid-vaccines-campaign/6031617291181/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 71
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6031617291181/2021/1/e2f90b0ca4dc9c6fcad28b5e47f57802/v1.5/VP-Kamala-Harris-HHS-open-drive-to-inspire-Americans-to-take-COVID-19-vaccine.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Fact-checking false and misleading claims about Kamala Harris, online Taco Bell offers and more"
     excerpt: "Associated Press writer Jude Joffe-Block in Phoenix contributed this report. CLAIM: Vice President Kamala Harris disrespected the military when she failed to salute the military escorts when boarding Air Force Two on March 19 in Georgia. THE FACTS ..."
     publishedDateTime: 2021-03-26T23:30:00Z

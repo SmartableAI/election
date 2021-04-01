@@ -121,6 +121,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "VP Kamala Harris, HHS open drive to inspire Americans to take COVID-19 vaccine"
+    excerpt: "RELATED Pfizer says COVID-19 vaccine 91% effective after 6 months As part of the launch, Vice President Kamala Harris and Surgeon General Vivek Murthy met with founding members on Thursday. The campaign will include public health experts such as the ..."
+    publishedDateTime: 2021-04-01T17:09:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/01/hhs-covid-vaccines-campaign/6031617291181/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/01/hhs-covid-vaccines-campaign/6031617291181/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/01/hhs-covid-vaccines-campaign/6031617291181/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 71
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6031617291181/2021/1/e2f90b0ca4dc9c6fcad28b5e47f57802/v1.5/VP-Kamala-Harris-HHS-open-drive-to-inspire-Americans-to-take-COVID-19-vaccine.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
     excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
     publishedDateTime: 2021-03-28T04:38:00Z

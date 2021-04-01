@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump Fans Say Mike Pence 'Betraying' Him With Potential 2024 Run"
+    excerpt: "Some prominent pro-Trump social media users have offered harsh criticism of former Vice President Mike Pence amid suggestions that the Republican may be looking at a presidential run in 2024. Though former President Donald Trump remains the favorite to win ..."
+    publishedDateTime: 2021-04-01T13:32:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 149
+    images:
+      - url: "https://d.newsweek.com/en/full/1768451/former-vice-president-pence-karen-pence.jpg"
+        width: 2037
+        height: 1358
+        isCached: true
   - title: "Mike Pence laying groundwork for 2024 presidential run, but Trump shows no signs of support"
     excerpt: "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024."
     publishedDateTime: 2021-03-30T15:37:00Z
@@ -74,22 +90,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/239b67e/2147483647/strip/true/crop/3375x2204+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff0%2F56%2F4919d64a4a1b9047f9b9077081b4%2Fbiden-82377.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Donald Trump Fans Say Mike Pence 'Betraying' Him With Potential 2024 Run"
-    excerpt: "Some prominent pro-Trump social media users have offered harsh criticism of former Vice President Mike Pence amid suggestions that the Republican may be looking at a presidential run in 2024. Though former President Donald Trump remains the favorite to win ..."
-    publishedDateTime: 2021-04-01T13:32:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 139
-    images:
-      - url: "https://d.newsweek.com/en/full/1768451/former-vice-president-pence-karen-pence.jpg"
-        width: 2037
-        height: 1358
         isCached: true
   - title: "Pro-Trump lawyer says ‘no reasonable person’ would believe her election lies"
     excerpt: "Lawyers for Sidney Powell argued conspiracies she laid out constituted legally protected first amendment speech Last modified on Tue 23 Mar 2021 11.53 EDT A key member of the legal team that sought to steal the 2020 election for Donald Trump is defending ..."
@@ -347,6 +347,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Reversing Trump, Pentagon Releases Inclusive New Transgender Policies"
+    excerpt: "Trump tweeted that the government wouldn’t accept or allow transgender people to serve “in any capacity” in the military"
+    publishedDateTime: 2021-04-01T15:54:00Z
+    webUrl: "https://time.com/5951868/trump-pentagon-new-transgender-policies/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/04/AP21090725361874.jpg"
+        width: 5596
+        height: 3730
+        isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 presidential run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off names including Florida Gov. Ron DeSantis and Sens. Josh"
     publishedDateTime: 2021-03-30T11:51:00Z
@@ -582,6 +596,6 @@ related:
         height: 683
         isCached: true
 
-secured: "esZLYvcMAcD2JiqkqhNEbSvvhoWXMN/YOGBAUyhs76Bcd8hJ4aopQdHYwokTzgedzdQ1Vueh6wSewlxb6C0hIPNTkJJrN9MW76sALW0CdRcsb76uybm6Zi0ke+LiVOVVV+NYrQ61yzjOuKji27BrajAbi07Qwyf3KBxBnDP2ANufvtFavj5cBfLeMsG5NHs43kjfHSvMTm7dNfwaui82J0YOljX+SmC2EX9e3HQfyNo00Nzv3dZaBnghyyzqeoTtsM16pQ861rD6PjvGSfPjA4fdkwHCB/sq4UzS9oQSJxi8n6/5KcDCahZECN9oqND79baHaliJtecdV2sEoYnzPCtj8/+XNfMMaayLZ+2BSPk=;M5l7Y42V24u7ufcNXG7scg=="
+secured: "45ffj/KVhNL6dnxFIptHuHJ9MzPYFlJ2xIIWDoGZryDnPr4WTXAxkZ8F0nBTt2B3AC/8F9Bv9fdfhBhgPeKLCjsJ05Qq4JsqCuvbAAZ1b7c1xXsHsH2KseKzR/05EQdDHzxo2aknLzZLN41Vbtg8pstRCNRrFmqlgYLXkJDb0UwK+x9UXj7lvkDALN68gugcLaUtQ5rlWKz/bejpOpFhnMmWEzNiTSafz3UH+AnAkB3kycSNhJM5J306dyaEW8fa0hYOgCZABgsPu3kB6Qa2ch9XL1kb/8pr1C9UzlWYN9jqxJQJntzN1ptJilO5IGZdmafDFNGGOCs3sjKHJrbMdrFdC4NK0xdJuw3I4fVqn+HrH9Amkx2x5i1tzT9FeETVDG/2fElLJmLIcvY1NyAY+sDTb2iNBSKBC0LY1dgF2acSXLjqAz7jrH5y/L0QHoLw/SkTBYgBhvMQlxXx+86/o7vZkSG6eGmzS3JRn/6WMz8onTiIVpon3zX0W0/lhRFQ+M8n+rktSJkvFQHgQAnkcA==;vo73LG/48OKUpaJsDnruEQ=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump Fans Say Mike Pence 'Betraying' Him With Potential 2024 Run"
+    excerpt: "Some prominent pro-Trump social media users have offered harsh criticism of former Vice President Mike Pence amid suggestions that the Republican may be looking at a presidential run in 2024. Though former President Donald Trump remains the favorite to win ..."
+    publishedDateTime: 2021-04-01T13:32:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 149
+    images:
+      - url: "https://d.newsweek.com/en/full/1768451/former-vice-president-pence-karen-pence.jpg"
+        width: 2037
+        height: 1358
+        isCached: true
   - title: "Mike Pence laying groundwork for 2024 presidential run, but Trump shows no signs of support"
     excerpt: "The former vice president is steadily reentering public life as he eyes a potential run for the White House in 2024."
     publishedDateTime: 2021-03-30T15:37:00Z
@@ -78,22 +94,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/239b67e/2147483647/strip/true/crop/3375x2204+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff0%2F56%2F4919d64a4a1b9047f9b9077081b4%2Fbiden-82377.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Donald Trump Fans Say Mike Pence 'Betraying' Him With Potential 2024 Run"
-    excerpt: "Some prominent pro-Trump social media users have offered harsh criticism of former Vice President Mike Pence amid suggestions that the Republican may be looking at a presidential run in 2024. Though former President Donald Trump remains the favorite to win ..."
-    publishedDateTime: 2021-04-01T13:32:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 139
-    images:
-      - url: "https://d.newsweek.com/en/full/1768451/former-vice-president-pence-karen-pence.jpg"
-        width: 2037
-        height: 1358
         isCached: true
   - title: "Pro-Trump lawyer says ‘no reasonable person’ would believe her election lies"
     excerpt: "Lawyers for Sidney Powell argued conspiracies she laid out constituted legally protected first amendment speech Last modified on Tue 23 Mar 2021 11.53 EDT A key member of the legal team that sought to steal the 2020 election for Donald Trump is defending ..."
@@ -334,6 +334,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/18/USAT/30ad6a4e-8eb8-46f2-bb4d-051cdf2e2c44-police_protesters.jpg?auto=webp&crop=5008,2817,x0,y315&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Reversing Trump, Pentagon Releases Inclusive New Transgender Policies"
+    excerpt: "Trump tweeted that the government wouldn’t accept or allow transgender people to serve “in any capacity” in the military"
+    publishedDateTime: 2021-04-01T15:54:00Z
+    webUrl: "https://time.com/5951868/trump-pentagon-new-transgender-policies/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/04/AP21090725361874.jpg"
+        width: 5596
+        height: 3730
         isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
