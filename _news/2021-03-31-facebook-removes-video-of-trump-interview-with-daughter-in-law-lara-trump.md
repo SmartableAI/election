@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-removes-trump-interview-vi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
 type: article
 quality: 174
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lara Trump on Facebook removing her interview with father-in-law: Big Tech wants to 'erase' Donald Trump"
+    excerpt: "Lara Trump said that Big Tech is trying to 'erase' Donald Trump on Thursday after Facebook removed a video of her interviewing the former President. "
+    publishedDateTime: 2021-04-01T13:48:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gOEAdNKw4Z8/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Summer Zervos Lawsuit Against Donald Trump Can Move Forward"
     excerpt: "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims."
     publishedDateTime: 2021-03-30T17:51:00Z

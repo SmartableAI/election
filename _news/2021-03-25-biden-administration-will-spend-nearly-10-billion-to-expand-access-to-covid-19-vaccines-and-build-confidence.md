@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration launches $10 million ad campaign, leaders' network to encourage vaccination"
+    excerpt: "The Biden administration on Thursday unveiled a large-scale effort to encourage Americans to get vaccinated against the coronavirus, rolling out its first national ad campaign and announcing a national network of community organizations, sports leagues and other leaders to boost confidence in the vaccines.\n"
+    publishedDateTime: 2021-04-01T12:32:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CR8DKTRjhbU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/vaccine-confidence-advertising-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/vaccine-confidence-advertising-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401062950-01-johnson-and-johnson-covid-19-vaccine-kentucky-0315-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's multitrillion-dollar infrastructure jam"
     excerpt: "WASHINGTON — President Joe Biden is signaling that his next big push in Congress will be for legislation implementing the transportation, infrastructure and green-energy elements of his \"Build Back Better\" campaign platform, with a reported potential ..."
     publishedDateTime: 2021-03-22T20:53:00Z

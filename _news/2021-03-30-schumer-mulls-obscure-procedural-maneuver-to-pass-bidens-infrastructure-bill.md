@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden to hold first cabinet meeting as he pitches $2tn infrastructure plan – live"
+    excerpt: "Transportation secretary Pete Buttigieg pledged that he would work diligently to gain bipartisan support for Joe Biden’s $2tn infrastructure package. “I’m not going to give up on earning Republican support for this because we know that Republicans ..."
+    publishedDateTime: 2021-04-01T13:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/eb6bbb7ec0b177d77ad5b6a505e140a89ab29f13/0_0_2670_1780/master/2670.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58798c67a46cf1bcb8b85d8f3a7f9f06"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Economist Defends $2 Trillion Price Tag of Biden's Infrastructure Plan: 'The Need Is Very Large'"
     excerpt: "The chief economist at Moody's Analytics has come to the defense of President Joe Biden on the cost of his infrastructure plan, which could fall somewhere between $2 trillion and $3 trillion. \"It's large, but we've got a large problem,\" Mark Zandi told CNN ..."
     publishedDateTime: 2021-03-31T18:02:00Z

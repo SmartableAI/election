@@ -2,6 +2,114 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-12-biden-fills-his-primetime-remarks-on-covid-19-with-jabs-at-trump.md",
+      "title": "Biden fills his primetime remarks on COVID-19 with jabs at Trump",
+      "excerpt": "In his first primetime address to the nation Thursday night, President Biden lobbed barely-conceal criticism at Donald Trump for his handling of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8382acb7-c09b-4e8e-a27d-19150c65075b/3cfe5695-e576-41ec-bf4b-ab25d5900187/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
+      "publishedDateTime": "2021-03-11T18:49:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-the-latest-biden-says-we-all-lost-something-to-pandemic.md",
+      "title": "The Latest: Biden says ‘we all lost something’ to pandemic",
+      "excerpt": "President Joe Biden is delivering a somber but optimistic message on the one-year anniversary of the coronavirus pandemic",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-11T17:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-biden-is-deeply-concerned-highly-engaged-on-ethiopia-white-house.md",
       "title": "Biden is deeply concerned, highly engaged on Ethiopia: White House",
       "excerpt": "U.S. President Joe Biden is deeply concerned and highly engaged on the humanitarian situation in Ethiopia, White House press secretary Jen Psaki told reporters on Thursday.",
@@ -1261,110 +1369,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-pennsylvania-sen-pat-toomey-censured-for-his-vote-to-impeach-trump.md",
-      "title": "Pennsylvania Sen. Pat Toomey censured for his vote to impeach Trump",
-      "excerpt": "Lehigh County Republicans censured Sen. Pat Toomey, the most powerful Republican elected official in the region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-gop-censures-toomey-20210310-f5444sh4fzgfhbkxlwhml23bn4-story.html?outputType=amp",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-gop-censures-toomey-20210310-f5444sh4fzgfhbkxlwhml23bn4-story.html?outputType=amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/Nu6aiq0mA3FpEAX8-dWRtRERC8A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEYQFYBIBDRW6JISVX7DQDOEQM.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-gop-censures-toomey-20210310-f5444sh4fzgfhbkxlwhml23bn4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-gop-censures-toomey-20210310-f5444sh4fzgfhbkxlwhml23bn4-story.html?outputType=amp",
-      "publishedDateTime": "2021-03-10T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-bidens-19-trillion-coronavirus-aid-bill-gets-enough-votes-to-pass-house.md",
-      "title": "Biden's $1.9 trillion coronavirus aid bill gets enough votes to pass House",
-      "excerpt": "WASHINGTON, March 10 (Reuters) - President Joe Biden’s $1.9 trillion COVID-19 relief bill secured enough votes in the U.S. House of Representatives to pass on Wednesday. The Senate has already approved the legislation. The next step will be the White ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554436201&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291I2",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B22IG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22IG",
-      "publishedDateTime": "2021-03-10T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

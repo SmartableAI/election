@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden to hold first cabinet meeting as he pitches $2tn infrastructure plan – live"
+    excerpt: "Transportation secretary Pete Buttigieg pledged that he would work diligently to gain bipartisan support for Joe Biden’s $2tn infrastructure package. “I’m not going to give up on earning Republican support for this because we know that Republicans ..."
+    publishedDateTime: 2021-04-01T13:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/eb6bbb7ec0b177d77ad5b6a505e140a89ab29f13/0_0_2670_1780/master/2670.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58798c67a46cf1bcb8b85d8f3a7f9f06"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "z0mJ2LaWH970CrUHSNQYKE07MePXUKniNg2OExTo2+t/rubhcvmKRf8XaEsOrDXMdAIvvH27qaY4IGNVdpNo+rnIF9ao6Cc7jDxxgMTiYkhEi1vmS74cY5kzMcQjnyma1633TPZaZHhanhXNtleLaDzsXFhmra7+7lQtGWz/+wJOj7z3skkb8W0y8ym7sWQnpQv0i+6MS9g76lPjJq2xvXxgOTrhZBzp+qf4q9SHn9g3Ai5P+NiKJZUzR8rFbuKoRn8IifogXqBEUdMmOl/MxI/4SB1e4e474DDbmp5NY3msFx7LvE0xEdB25S2OO6zj/Z5pvOC8pOnXipJBr61dlu48lPkR1xXaYfM49HIkP7Yd6y3XQXKdUm2ehNylgMuIT+AUJBmZf5S+4cZLgbHK3eCsYWiX4+3EvNuoVn2jlGmC2mlqmEzTmegzKGseeVjhv/F9yrdOZ5d9xtJGudFlDZHPDLi4Y0XujLggQqK3CYHfGoGtRhOxqohMoF4Z8OVn4qfCKi13ht7MVcjS1+Sbjw==;2Qd4Xn2PY7wti0p3oxEBhw=="
 ---

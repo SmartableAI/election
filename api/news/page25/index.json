@@ -2,6 +2,114 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-02-19-south-carolina-heartbeat-ban-marks-next-era-of-abortion-battle-under-biden.md",
+      "title": "South Carolina heartbeat ban marks next era of abortion battle under Biden",
+      "excerpt": "South Carolina on Thursday became the first state in 2021 to enact a restrictive abortion law known as a \"heartbeat ban,\" an opening salvo underscoring a potentially perilous situation for President Joe Biden's administration as anti-abortion supporters look for a Supreme Court fight over reproductive",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WNG5K4QL7UU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WNG5K4QL7UU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210217211554-02-biden-immigration-legislation-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/19/politics/abortion-biden-south-carolina/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/abortion-biden-south-carolina/index.html",
+      "publishedDateTime": "2021-02-19T03:01:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge.md",
+      "title": "Biden's message to G7, Munich events: Allies should work together on China challenge",
+      "excerpt": "President Joe Biden will seek on Friday to rally global democracies and European allies to work together to address a range of concerns about China, but is not looking for a \"new Cold War,\" a senior administration official said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-g7-meeting-biden/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge-idUSKBN2AJ11Y",
+      "originalUrl": "https://www.reuters.com/article/us-g7-meeting-biden/bidens-message-to-g7-munich-events-allies-should-work-together-on-china-challenge-idUSKBN2AJ11Y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552136171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0KK",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AJ11Y",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ11Y",
+      "publishedDateTime": "2021-02-19T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-trump-praising-rush-revives-his-stolen-election-claims-on-tv.md",
       "title": "Trump, praising Rush, revives his ‘stolen election’ claims on TV",
       "excerpt": "Donald Trump has taken to the airwaves to praise the late Rush Limbaugh and declare that he still believes the election was stolen.",
@@ -1222,118 +1330,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html",
       "publishedDateTime": "2021-02-17T13:44:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-biden-israeli-pm-netanyahu-have-warm-and-friendly-talk.md",
-      "title": "Biden, Israeli PM Netanyahu have 'warm and friendly' talk",
-      "excerpt": "President Biden spoke with Israeli Prime Minister Benjamin Netanyahu on Wednesday, Netanyahu’s office confirmed to Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW57TVY8N6k/biden-netanyahu-warm-friendly-talk",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW57TVY8N6k/biden-netanyahu-warm-friendly-talk",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127716685001_6127717881001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-netanyahu-warm-friendly-talk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-netanyahu-warm-friendly-talk.amp",
-      "publishedDateTime": "2021-02-17T13:27:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-new-york-times-trump-pentagon-officials-delayed-promotions-of-female-generals-due-to-fear-over-trumps-reaction.md",
-      "title": "New York Times: Trump Pentagon officials delayed promotions of female generals due to fear over Trump's reaction",
-      "excerpt": "Promotions of two female generals were delayed by Pentagon officials until after the 2020 presidential election out of fear of \"turmoil\" from President Donald Trump's White House, The New York Times reported Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210217123321-us-army-gen-laura-richardson-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
-      "publishedDateTime": "2021-02-17T12:20:32-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
