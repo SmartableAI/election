@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "House Freedom Caucus chair writes to Biden objecting to infrastructure proposal"
+    excerpt: "House Freedom Caucus chairman Andy Biggs (R-Ariz.) on Wednesday wrote to President Biden expressing his opposition to the White House's $2 trillion infrastructure proposal, joining other congressional"
+    publishedDateTime: 2021-04-01T02:14:00Z
+    webUrl: "https://thehill.com/homenews/house/545901-house-freedom-caucus-chair-writes-to-biden-objecting-to-infrastructure"
+    ampWebUrl: "https://thehill.com/homenews/house/545901-house-freedom-caucus-chair-writes-to-biden-objecting-to-infrastructure?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/545901-house-freedom-caucus-chair-writes-to-biden-objecting-to-infrastructure?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/biggsandy_120919gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden announces first slate of judicial nominees with picks that would make history"
     excerpt: "Washington — President Biden on Tuesday rolled out his first slate of judicial nominees, announcing candidates with diverse backgrounds and professional qualifications as he begins to make his own stamp on the nation's district and circuit courts."
     publishedDateTime: 2021-03-30T12:56:00Z

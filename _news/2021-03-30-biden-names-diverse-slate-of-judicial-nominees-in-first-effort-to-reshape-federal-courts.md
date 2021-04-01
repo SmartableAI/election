@@ -398,6 +398,22 @@ related:
         width: 2500
         height: 1664
         isCached: true
+  - title: "Climate activists on Biden infrastructure plan: Go bigger"
+    excerpt: "President Joe Biden's $2 trillion climate and infrastructure plan is too modest to address a global emergency, some environmental advocates say. The plan to splurge on transitioning the nation to clean energy,"
+    publishedDateTime: 2021-03-31T20:40:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/climate-activists-biden-infrastructure-478749"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/climate-activists-biden-infrastructure-478749"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/climate-activists-biden-infrastructure-478749"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ca/c5/af2ac63644afbb5195ce8d9f82c7/gettyimages-1231793272-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "The Infrastructure Crisis That Biden Is Confronting"
     excerpt: "One big advantage for Biden: Senator Joe Manchin of West Virginia, the most conservative Democrat in the chamber, has said that he supports making large-scale investments in infrastructure. But there’s also one big possible hangup: Manchin, more than ..."
     publishedDateTime: 2021-03-31T22:37:00Z

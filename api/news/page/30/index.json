@@ -2,6 +2,106 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-02-11-impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video.md",
+      "title": "Impeachment video shows Mike Pence and Mitt Romney fleeing Capitol attack – video",
+      "excerpt": "Security footage shows how police officer led Romney away from attackers",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/video/2021/feb/10/impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2021/feb/10/impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b4caae2389a10c622ac25f5928f1c2163c7dc572/68_0_2262_1358/master/2262.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8092439908523761374469cb580ee245",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T15:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney.md",
+      "title": "New Capitol riot footage shows cop Eugene Goodman protect Pence, Romney",
+      "excerpt": "Security footage broadcast for the first time Wednesday at former President Donald Trump’s impeachment trial shows how close Capitol rioters got to officials on Jan. 6 — with a sole police",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/",
+      "originalUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/capitol-stills-2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/amp/",
+      "publishedDateTime": "2021-02-10T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-chilling-new-security-footage-shows-pence-and-family-rushed-to-safety.md",
       "title": "Chilling new security footage shows Pence and family rushed to safety",
       "excerpt": "House impeachment managers show never-before-seen security footage from the Capitol riot at former President Donald Trump's second impeachment trial.\n    \n",
@@ -1248,114 +1348,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-biden-omb-pick-tanden-called-out-during-confirmation-hearing-for-anti-gop-tweets-says-im-sorry.md",
-      "title": "Biden OMB pick Tanden called out during confirmation hearing for anti-GOP tweets, says 'I'm sorry'",
-      "excerpt": "Minutes into her confirmation hearing, President Biden's nominee for director of the White House Office of Management and Budget Neera Tanden had to address concerns over hostile tweets she has posted against various Republican lawmakers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Neera-Tanden-Biden-OMB-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
-      "publishedDateTime": "2021-02-09T08:33:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-huawei-founder-says-hopes-biden-administration-will-have-open-policy.md",
-      "title": "Huawei founder says hopes Biden administration will have 'open policy'",
-      "excerpt": "Huawei Technologies' founder Ren Zhengfei said on Tuesday it would be \"extremely difficult\" for the United States to end the sanctions that have crippled its phone business, but that he hoped the new U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-huawei-tech-idUSKBN2A90AY",
-      "originalUrl": "https://www.reuters.com/article/us-usa-huawei-tech-idUSKBN2A90AY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550827940&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH18068",
-          "width": 801,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A90AY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90AY",
-      "publishedDateTime": "2021-02-09T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

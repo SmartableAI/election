@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-26-trump-supporters-want-to-blow-up-capitol-police-chief.md",
+      "title": "Trump supporters want to 'blow up' Capitol - police chief",
+      "excerpt": "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVE15CYXR",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVE15CYXR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-nikki-haley-iced-out-of-cpac-after-underestimating-donald-trumps-influence.md",
       "title": "Nikki Haley Iced Out Of CPAC After Underestimating Donald Trump's Influence",
       "excerpt": "The former ambassador hasn't been invited to speak, another blow to any presidential ambitions she may harbor.",
@@ -1539,58 +1591,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-ivanka-trump-tells-sen-marco-rubio-she-will-not-run-for-his-senate-seat-in-2022.md",
-      "title": "Ivanka Trump tells Sen. Marco Rubio she will not run for his Senate seat in 2022",
-      "excerpt": "Ivanka Trump will not be running for Sen. Marco Rubio’s U.S. Senate seat in 2022.The ex-senior White House adviser spoke with Rubio several weeks ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/t_d161UjJTSv1JSV136IImAvrtU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A3GTOAJ4C5SSVFF5ZTJXNQAYGU.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp",
-      "publishedDateTime": "2021-02-18T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

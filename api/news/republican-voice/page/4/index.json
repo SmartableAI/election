@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-17-ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.md",
+      "title": "Ohio GOP state lawmaker wants Trump’s name on state park; Dem blasts idea",
+      "excerpt": "A Republican state lawmaker in Ohio says he plans to introduce a bill to rename a state park after former President Donald Trump – but at least one state Democrat quickly criticized the idea.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wJQzZU-u0g4/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wJQzZU-u0g4/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2164743d-ee61-424b-a072-1570ef79a357/1d24269b-4351-4317-b59f-df2cb1834ee6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp",
+      "publishedDateTime": "2021-03-17T02:20:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.md",
       "title": "Michigan man, 21, threatened Biden, Pelosi, Whitmer, authorities say",
       "excerpt": "A western Michigan man was arraigned Tuesday with allegedly making death threats against President Biden, House Speaker Nancy Pelosi and Michigan Gov. Gretchen Whitmer, according to reports.",
@@ -1614,62 +1670,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-trump-calls-on-former-nfl-player-herschel-walker-to-run-for-senate-in-georgia.md",
-      "title": "Trump calls on former NFL player Herschel Walker to run for Senate in Georgia",
-      "excerpt": "Former President Trump surpassed his usual endorsements Wednesday, this time instead calling on former NFL player Herschel Walker to run for Senate in Georgia. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ahryDbgJr0/trump-former-nfl-player-herschel-walker-senate-georgia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ahryDbgJr0/trump-former-nfl-player-herschel-walker-senate-georgia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 252,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a3b9981-65cb-4390-b809-4794e0a3be2d/2d52dade-2ecc-4f24-a1ff-c184491dcef7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp",
-      "publishedDateTime": "2021-03-10T15:23:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }
