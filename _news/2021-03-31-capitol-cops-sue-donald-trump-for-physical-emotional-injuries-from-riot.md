@@ -223,6 +223,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "EPA dismisses dozens of key science advisers picked under Trump"
+    excerpt: "The Biden administration says it needs to restore trust in the agency by “resetting” membership on two key science advisory panels."
+    publishedDateTime: 2021-03-31T17:22:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HAV34QEHMAI6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Police officers sue Donald Trump for injuries resulting from Capitol riot"
     excerpt: "Lawsuit seeks damages for ‘physical and emotional injuries caused by Trump’s wrongful conduct inciting a riot’ on 6 January Last modified on Wed 31 Mar 2021 09.58 EDT Two US Capitol Police officers have filed a lawsuit against Donald Trump ..."
     publishedDateTime: 2021-03-31T12:58:00Z

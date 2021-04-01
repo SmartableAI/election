@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-01-vice-president-kamala-harris-to-visit-chicago-next-week-to-discuss-equitable-distribution-of-covid-19-vaccine.md",
+      "title": "Vice President Kamala Harris to visit Chicago next week to discuss equitable distribution of COVID-19 vaccine",
+      "excerpt": "Vice President Kamala Harris will visit Chicago on Tuesday to talk about equitable distribution of the COVID-19 vaccine, according to the White House. It’s her first official visit here since she and President Joe Biden were inaugurated. In rolling out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html",
+      "originalUrl": "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/w4JNZVIqZX0LrYozGoPmn2UnRig=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WI5A4JNE2CBALGRAM2V4LHPXRY.aspx",
+          "width": 1200,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp",
+      "publishedDateTime": "2021-03-31T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.md",
+      "title": "San Diego county official rips Biden, Newsom as migrant children prioritized over Calif. students",
+      "excerpt": "San Diego County Supervisor Jim Desmond sounded off on \"Hannity\" Wednesday, after the Biden administration sent hundreds of Central American migrant children to be housed and formally educated by local teachers at the San Diego Convention Center, while Gov. Gavin Newsom continues to prohibit in-person",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8WSCQHdLdIY/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8WSCQHdLdIY/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e162a72f-61f2-4cb6-a307-213bc8dc6f7d/9e440e21-ca35-453e-8c97-44ed1006db4d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
+      "publishedDateTime": "2021-03-31T19:42:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-jill-biden-mocked-for-botched-spanish-attempt.md",
       "title": "Jill Biden mocked for botched Spanish attempt",
       "excerpt": "First Lady Dr. Jill Biden’s California speech garnered attention on social media on Wednesday for what users perceived as a botched attempt to pronounce a phrase in Spanish.",
@@ -1236,119 +1344,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-live-updates-biden-to-reveal-2-trillion-infrastructure-plan.md",
-      "title": "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan",
-      "excerpt": "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
-      "originalUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
-      "publishedDateTime": "2021-03-31T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-biden-grants-michigans-whitmer-66k-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report.md",
-      "title": "Biden grants Michigan’s Whitmer 66K more vaccine doses, in seeming shift from population-based US plan: report",
-      "excerpt": "President Biden is boosting Michigan’s coronavirus vaccine allotment by more than 66,000 doses for next week after receiving a call for help from Gov. Gretchen Whitmer, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KAdpyEGpiLY/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KAdpyEGpiLY/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Whitmer.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report.amp",
-      "publishedDateTime": "2021-03-30T23:53:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

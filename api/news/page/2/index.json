@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-31-live-updates-biden-to-reveal-2-trillion-infrastructure-plan.md",
+      "title": "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan",
+      "excerpt": "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
+      "originalUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
+      "publishedDateTime": "2021-03-31T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-biden-grants-michigans-whitmer-66k-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report.md",
+      "title": "Biden grants Michigan’s Whitmer 66K more vaccine doses, in seeming shift from population-based US plan: report",
+      "excerpt": "President Biden is boosting Michigan’s coronavirus vaccine allotment by more than 66,000 doses for next week after receiving a call for help from Gov. Gretchen Whitmer, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KAdpyEGpiLY/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KAdpyEGpiLY/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Whitmer.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report.amp",
+      "publishedDateTime": "2021-03-30T23:53:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-indiana-senate-congratulates-pence-on-his-retirement.md",
       "title": "Indiana Senate congratulates Pence on his 'retirement'",
       "excerpt": "Mike Pence’s political career is over. That at least is the opinion of the Republican-controlled Indiana Senate, which unanimously adopted a resolution Tuesday congratulating the former vice president and Indiana governor on his “retirement.”",
@@ -1232,119 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-kamala-harris-stepson-cole-emhoff-calls-out-snl-for-omitting-him-from-family-skit.md",
-      "title": "Kamala Harris' stepson Cole Emhoff calls out 'SNL' for omitting him from family skit",
-      "excerpt": "Kamala Harris' stepson Cole Emhoff was disappointed \"Saturday Night Live\" left him out of a sketch portraying his family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit",
-      "originalUrl": "https://www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/maya-rudolph-snl.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit.amp",
-      "publishedDateTime": "2021-03-30T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-biden-unveils-first-slate-of-judicial-nominees-featuring-diverse-and-history-making-selections.md",
-      "title": "Biden unveils first slate of judicial nominees featuring diverse and history-making selections",
-      "excerpt": "President Joe Biden on Tuesday unveiled a diverse slate of 11 judicial nominees, including three African American women for Circuit Court vacancies and a candidate who, if confirmed, would be the first Muslim American federal judge in US history.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z6yG8H8V__s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z6yG8H8V__s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 798,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210330072136-01-ketanji-brown-jackson-file-restricted-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html",
-      "publishedDateTime": "2021-03-30T05:16:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

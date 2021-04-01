@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reem
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
 type: article
 quality: 150
-heat: 770
+heat: 790
 published: true
 
 provider:
@@ -207,6 +207,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_6d25e353906f4ba08ccaf8e70fe1e0ae_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "EPA dismisses dozens of key science advisers picked under Trump"
+    excerpt: "The Biden administration says it needs to restore trust in the agency by “resetting” membership on two key science advisory panels."
+    publishedDateTime: 2021-03-31T17:22:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HAV34QEHMAI6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Police officers sue Donald Trump for injuries resulting from Capitol riot"
-excerpt: "Lawsuit seeks damages for ‘physical and emotional injuries caused by Trump’s wrongful conduct inciting a riot’ on 6 January Last modified on Wed 31 Mar 2021 09.58 EDT Two US Capitol Police officers have filed a lawsuit against Donald Trump ..."
-publishedDateTime: 2021-03-31T12:58:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
-webUrl: "https://www.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
+title: "EPA dismisses dozens of key science advisers picked under Trump"
+excerpt: "The Biden administration says it needs to restore trust in the agency by “resetting” membership on two key science advisory panels."
+publishedDateTime: 2021-03-31T17:22:00Z
+originalUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/"
+webUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/"
+ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/f9deca06bc771f86b15d1cd4d7c3b878b1231361/0_65_2060_1236/master/2060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=365c112e893b7e1d1a06ca9e28be9071"
-    width: 600
-    height: 360
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HAV34QEHMAI6XPSKES4J6YLPFQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -223,22 +223,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "EPA dismisses dozens of key science advisers picked under Trump"
-    excerpt: "The Biden administration says it needs to restore trust in the agency by “resetting” membership on two key science advisory panels."
-    publishedDateTime: 2021-03-31T17:22:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HAV34QEHMAI6XPSKES4J6YLPFQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
     publishedDateTime: 2021-03-31T04:05:00Z
@@ -254,6 +238,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1767734/donald-trump-capitol-police-riots-lawsuit.jpg"
         width: 2500
         height: 1623
+        isCached: true
+  - title: "Police officers sue Donald Trump for injuries resulting from Capitol riot"
+    excerpt: "Lawsuit seeks damages for ‘physical and emotional injuries caused by Trump’s wrongful conduct inciting a riot’ on 6 January Last modified on Wed 31 Mar 2021 09.58 EDT Two US Capitol Police officers have filed a lawsuit against Donald Trump ..."
+    publishedDateTime: 2021-03-31T12:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/f9deca06bc771f86b15d1cd4d7c3b878b1231361/0_65_2060_1236/master/2060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=365c112e893b7e1d1a06ca9e28be9071"
+        width: 600
+        height: 360
         isCached: true
   - title: "Pentagon announces new policies on transgender troops, reversing Trump-era ban"
     excerpt: "President Joe Biden in an executive order in January reversed the Trump-era ban on transgender troops serving ... The ban on transgender troops was announced by former President Donald Trump in 2017 and took effect in 2019. Secretary of Defense Lloyd ..."
@@ -538,6 +538,6 @@ related:
         height: 683
         isCached: true
 
-secured: "tRJrZbRqtg1+wzYrP/Hr0ZtmShhhNz4C1nyr9y8H0Q9dQ+p056XhjF5SEx8OQk6ht6fJDlq2uWUkZS8fV2aq/tOYbCQyduUxCPEr+sPucXvAFvO2usk/MYoqXhnXZxv3KYWn7ZAOXgNLZkwDSWMQ1kP30UWa8vGmj7kG8dP8QiTAEoiRpVilZ6rwjgJoMaWfsjByWTQ4qo5/oHHxLu3o5lmlXT00vaSMUQYzmD5h5BzAJkDUeajq6BkC7vhv3DhFIp1KGE3R0I6xE+MQc2vNoD35hNskAmwdXfpcbXwWZHCB3bOKv0p2sec90xM9k+ZZQae4kffUUvhAQI6eo9du0NspxNprMvOFZ4Y8E6J47CEWDzarBjejNe7y0YpLpsgC6eXbGQEVwsm66aLSgis5yxLKhMFZZks3rJ3jvgaEj/B7xPXhrUPXqoKC2zbWYEMRCxebHzkPHCwNQYV2GtMdmJBsaN9sEnvWaEpyu7tISclt+ooIwRjh6zlmvBKt67IF+wkyyQL2b9RHkmLgmhV5Fw==;7mep5KpAzkgR/Dl+RvZjww=="
+secured: "PPnRLJBlZaRtsWhYK3xyZoCOrcgBSsAUfOZVGp1nHOgfZ2vlFTsVjj6TX/jCfMMhgCbUEKVfOfpwkcYF0ijjmLbfI/sODpdTCDLh1jkoG89Ip9i63pgkRpFhll7Ik2v/ZwnhxEYt7lrpK+SLBP3hkxXnS34sO+RiDXMBU9qdR53GJi8flTPH1HvlIAae0SC1IUwNVIcHcP0DOofqf5qvc9DH8cBWl+ir8Ze1YVgwnEjc8TnhEgkkmxl+4//5vgzB+35tWiCWqbqTUaIuDzzJaX4+cy9eIcKROvySCNtxgb3yYahZXAWvtukxTIeXyRl3EbLRZVkzIjepd1BBSUfwcgC/f/wXWTnZTEs6hVFRnHQ=;e6lroVrR7T2Oa8Zh/6WmPg=="
 ---
 
