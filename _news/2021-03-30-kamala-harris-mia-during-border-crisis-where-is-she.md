@@ -336,6 +336,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McConnell: Biden is a ‘first-rate person’ but he’s running a ‘bold left-wing administration’"
+    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., signaled Thursday that President Joe Biden’s $2 trillion spending bill will not be getting any Republican support – as he described the administration as boldly “left wing.”"
+    publishedDateTime: 2021-04-01T19:12:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4LhMpo4Ffig/mcconnell-biden-first-rate-person-bold-left-wing-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-first-rate-person-bold-left-wing-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-first-rate-person-bold-left-wing-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris’ niece takes heat for presuming Boulder shooter was white"
     excerpt: "Vice President Kamala Harris’ niece is under fire for presuming the gunman in Monday’s Colorado mass shooting was white — because he was taken into custody alive. “The Atlanta shooting was ..."
     publishedDateTime: 2021-03-23T19:50:00Z

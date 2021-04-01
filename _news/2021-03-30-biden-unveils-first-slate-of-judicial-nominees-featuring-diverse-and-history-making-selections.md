@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nomin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
 type: article
 quality: 178
-heat: 878
+heat: 898
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden taps five Cabinet members to lead infrastructure messaging"
+    excerpt: "President Joe Biden announced on Thursday that he would be assigning five Cabinet secretaries to serve as his messengers in working with Congress and engaging with the public on the administration's infrastructure proposal.\n    \n"
+    publishedDateTime: 2021-04-01T18:38:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C0AMe2RYROY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/joe-biden-infrastructure-cabinet-members/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/joe-biden-infrastructure-cabinet-members/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401140929-07-biden-cabinet-meeting-0401-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -363,17 +363,17 @@ related:
         isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-    publishedDateTime: 2021-03-30T12:10:00Z
-    webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-    ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-    cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    publishedDateTime: 2021-03-30T14:23:00Z
+    webUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
     type: article
     provider:
-      name: WTVO
-      domain: mystateline.com
+      name: TexomasHomepage.com
+      domain: texomashomepage.com
     quality: 90
     images:
-      - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
+      - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/03/pence.jpg?w=1280"
         width: 1024
         height: 683
         isCached: true
@@ -520,6 +520,22 @@ related:
       - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/03/web1_AP21088723409061.jpg"
         width: 760
         height: 507
+        isCached: true
+  - title: "Donald Trump Jr. buys mansion 20 miles from Mar-a-Lago"
+    excerpt: "JUPITER, Fla. (AP) — Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are now Florida home owners. The Palm Beach Post reports that the couple spent $9.7 million this week to buy a 11,000-square-foot (1,000-square-meter), six-bedroom, 11-bath ..."
+    publishedDateTime: 2021-04-01T16:52:00Z
+    webUrl: "https://www.chron.com/news/article/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Former Vice President Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."

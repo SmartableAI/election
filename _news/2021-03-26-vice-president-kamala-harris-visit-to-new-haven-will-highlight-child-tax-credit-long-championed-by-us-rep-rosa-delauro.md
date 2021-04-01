@@ -27,37 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Harris will travel to Jacksonville Monday for 'Help is Here' tour touting relief bill"
-    excerpt: "American Rescue Plan will bring about $17 billion to Florida, according to estimates Vice President Kamala Harris will travel to Jacksonville, Florida, on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an ..."
-    publishedDateTime: 2021-03-21T21:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/21/vice-president-kamala-harris-jacksonville-florida-visit/4792761001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4792761001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4792761001"
+  - title: "Kamala Harris and Doug Emhoff to move into vice president's residence after two-month delay"
+    excerpt: "Vice President Kamala Harris is finally moving into the Naval Observatory next week according to chief spokesperson Symone Sanders, over two months after Inauguration Day. Harris and her husband, second gentleman Doug Emhoff, couldn't immediately settle in ..."
+    publishedDateTime: 2021-04-01T18:16:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PFRE/2aeae88e-c268-47e8-8a18-dcb9c85b20e8-kamala_harris.jpg?auto=webp&crop=4500,2532,x0,y228&format=pjpg&width=1200"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/148495a4-3240-4dc0-8427-641d12f7e7a7/thumbnail/1200x630/991e9902f84e80b7f0fe3aeb916af9b7/ap-18075519617702.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Live coverage: Vice President Kamala Harris visits Jacksonville"
-    excerpt: "Live coverage of Vice President Kamala Harris's \"Help is Here\" tour in Jacksonville at COVID-19 vaccination site and Feeding Northeast Florida."
-    publishedDateTime: 2021-03-22T21:54:00Z
-    webUrl: "https://www.jacksonville.com/story/news/nation-world/2021/03/22/live-coverage-vice-president-kamala-harris-jacksonville/4797724001/"
-    ampWebUrl: "https://amp.jacksonville.com/amp/4797724001"
-    cdnAmpWebUrl: "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/4797724001"
+  - title: "Vice President Kamala Harris to visit Chicago next week to discuss equitable distribution of COVID-19 vaccine"
+    excerpt: "Vice President Kamala Harris will visit Chicago on Tuesday to talk about equitable distribution of the COVID-19 vaccine, according to the White House. It’s her first official visit here since she and President Joe Biden were inaugurated. In rolling out ..."
+    publishedDateTime: 2021-04-01T03:24:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
     type: article
     provider:
-      name: The Florida Times-Union
-      domain: jacksonville.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/w4JNZVIqZX0LrYozGoPmn2UnRig=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WI5A4JNE2CBALGRAM2V4LHPXRY.aspx"
+        width: 1200
+        height: 759
+        isCached: true
+  - title: "'SNL:' Maya Rudolph, Martin Short play Kamala Harris, Doug Emhoff"
+    excerpt: "Saturday Night Live alum Maya Rudolph returned to guest host the sketch-comedy series this weekend. Rudolph reprised her role of Kamala Harris, vice president of the United States, while comedian and former SNL star Martin Short made a surprise appearance as Harris' shy,"
+    publishedDateTime: 2021-03-28T16:43:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/22/NFTU/0944aaf1-23ab-4398-ada4-e64751062ea2-image0_1.jpeg?auto=webp&crop=1491,838,x26,y193&format=pjpg&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5701616939292/2021/1/f2b1a89417fc11cd4b17e790312cb091/v1.5/SNL-Maya-Rudolph-Martin-Short-play-Kamala-Harris-Doug-Emhoff.jpg"
+        width: 800
+        height: 531
         isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
     excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
@@ -75,83 +91,51 @@ related:
         width: 299
         height: 487
         isCached: true
-  - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
-    excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
-    publishedDateTime: 2021-03-15T21:35:00Z
-    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
-    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+  - title: "‘Saturday Night Live’: Maya Rudolph and Martin Short host Passover Seder as Kamala Harris and Doug Emhoff"
+    excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback.It didn’t come until a third of the way through the episode,"
+    publishedDateTime: 2021-03-28T15:42:00Z
+    webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+    ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-snl-maya-rudolph-martin-short-kamala-harris-seder-20210328-3qzqhz72cnakljntclboxzs7ni-story.html?outputType=amp"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 70
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 58
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Kamala Harris, Bill Clinton to hold discussion on women empowerment, sparking #MeToo concerns"
-    excerpt: "Vice President Kamala Harris will join former President Bill Clinton for a discussion about “empowering women and girls” Friday, the Clinton Foundation announced."
-    publishedDateTime: 2021-03-24T15:15:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/24/kamala-harris-bill-clinton-to-hold-discussion-on-w/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 64
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/24/Harris_95658.jpg-862a7_c0-146-3501-2188_s1200x700.jpg?48b26a44ee0afff558bd6bd8148cd126de8be506"
+      - url: "https://www.baltimoresun.com/resizer/AGAWepUvHxJhLU24heDbG8xWRQY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RMXS3A7IOVA5NM7YEZ4VDDZOHI.png"
         width: 1200
-        height: 700
+        height: 613
         isCached: true
-  - title: "Vice President Kamala Harris will visit Connecticut Friday to promote coronavirus stimulus plan"
-    excerpt: "Vice President Kamala Harris will come to Connecticut this week to promote the administration’s $1.9 trillion “American Rescue Plan,” her office confirmed Tuesday. Harris will appear in New Haven on Friday with Reps. Rosa DeLauro and Jahana Hayes."
-    publishedDateTime: 2021-03-23T12:34:00Z
-    webUrl: "https://www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html"
-    ampWebUrl: "https://www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-vp-harris-connecticut-child-poverty-20210323-n2pdeg5qw5ffjpqfb7mzjxjgo4-story.html?outputType=amp"
+  - title: "Vice President Kamala Harris calls Springfield Vietnam War veteran Gumersindo Gomez, thanks him for his service"
+    excerpt: "Vietnam veteran Gumersindo Gomez received a phone call from the US vice president on National Vietnam War Veterans Day."
+    publishedDateTime: 2021-03-29T20:13:00Z
+    webUrl: "https://www.masslive.com/news/2021/03/vice-president-kamala-harris-calls-springfield-vietnam-war-veteran-gumersindo-gomez-thanks-him-for-his-service.html"
+    ampWebUrl: "https://www.masslive.com/news/2021/03/vice-president-kamala-harris-calls-springfield-vietnam-war-veteran-gumersindo-gomez-thanks-him-for-his-service.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/03/vice-president-kamala-harris-calls-springfield-vietnam-war-veteran-gumersindo-gomez-thanks-him-for-his-service.html?outputType=amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 63
-    images:
-      - url: "https://www.courant.com/resizer/OydHhXMO9ouGr-SuRC0poanDxCQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MYFEJUWAFVAFDERI7YRFQRMB3E.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "5-year-old girl shows off Kamala Harris' project while during vice president's Jacksonville visit"
-    excerpt: "The girl made the sign as part of a school project during Black History Month. JACKSONVILLE, Fla. — As Vice President Kamala Harris toured the Gateway Mall COVID-19 vaccination site, 30 to 40 people stood outside to show their support for the vice president."
-    publishedDateTime: 2021-03-23T01:46:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/5-year-old-girl-shows-off-kamala-harris-project-while-during-vice-presidents-jacksonville-florida-visit/77-658617e1-2a64-4e63-971b-0c2de87b259c"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 62
-    images:
-      - url: "https://media.firstcoastnews.com/assets/WTLV/images/59b438eb-49f5-4014-aefe-12d22dc5b46f/59b438eb-49f5-4014-aefe-12d22dc5b46f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Vice President Harris Visits a Food Bank in Jacksonville, Florida"
-    excerpt: "Vice President Kamala Harris participates in a roundtable discussion on food insecurity in the wake of the COVID-19 pandemic at Feeding Northeast Florida, in Jacksonville, Florida on Monday, March 22, 2021. Vice President Harris highlighted the effects of ..."
-    publishedDateTime: 2021-03-22T21:05:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/f164b91e362ed1488dfbcb68df0ba0e3/Vice-President-Harris-Visits-a-Food-Bank-in-Jacksonville-Florida/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
+      name: MassLive
+      domain: masslive.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/f164b91e362ed1488dfbcb68df0ba0e3/HARRIS-JACKSONVILLE.jpg"
-        width: 650
-        height: 432
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OJLCPEZCYND5PAYTKFFOWKUHRU.jpg"
+        width: 4316
+        height: 3237
+        isCached: true
+  - title: "Vice President Kamala Harris: CT 'courageous and innovative' in COVID response"
+    excerpt: "Landing in Connecticut Friday for the first time, Vice President Kamala Harris hailed the state for being “courageous and innovative” in helping children during a pandemic that has underscored the need to fight poverty and boost education."
+    publishedDateTime: 2021-03-27T00:12:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-to-visit-New-Haven-16055501.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 51
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/32/20792993/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "2cXxCS1L8V8MwjmFHqnx71odCv4xJaHVRq8DXs5ZHON4rdIS0v0xIklF/w7GQcf2J9IVwZQFbitRPsAArW/dYrk1XbRuYhVCDivD66+EF8Pp4UZpLRD+KeAg0WgBxag5suUIwwYphQDUbf+OBZ613VpG5JxokzDcGwle2arrXxQVRhEMIcJuF+p//GeAARXZX3W8zBVmnW99Y1sAZ/JsjHXHvytOVd77lxcWZZf2yolNyNvHbYu2KmgEkY0w5NbhapLfVw1npZLJ1zoxhuoAMRHlTRG0pODOkQ5frKNSoB5AWFv2eB2qfDjKFNasNnfIdbNQQB8JnelSFQdA/bA29ZF+5sapEQv2zU9xxGCBvEJJGSGE2nHuVylA7MoKMf5AG8RV2z66asKGvvgIVhlCgB45L31idjEDbIO8d9V4Es63K31YAWnpwlUepHS6Jap5ZlWwlu5ZjrCLNuwk7Zrb/qSgtikz4rap0BiV3s6kTt3+/SLybBsbJ7D+ht/9ThbC+LMr4OcDaDJuFu0dWbInXQ==;E3T9IkLDwTsbHmjJyUQ6bA=="

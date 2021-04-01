@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/border-access-media-biden-administr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-access-media-biden-administration-kayleigh-mcenany.amp"
 type: article
 quality: 163
-heat: 203
+heat: 183
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Ari Fleischer rips Biden over border access comments: Like a 'co-conspirator hiding evidence' from police"
-    excerpt: "President Biden made stunning comments defending the administration's purported transparency when it comes to access to federal border facilities says former White House Press Secretary Ari Fleischer on 'The Story'"
-    publishedDateTime: 2021-03-25T20:44:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3eSENFVnUc/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police"
-    ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd742417-0277-4ffa-bd4d-9af9bfdb3da2/9d6078a7-a336-465e-a188-c328ab15256f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "0HK9XcLxlCcOhOMl8LUVLSMAn4IcJ8pzyp2kkAJikP8gNXEcnsVk7Su4fZFL1qDKw9hhOJw6e87Dg1pXIdFhBbslAIVU/Ko6pggyOUYn42Oo8efcEsl4p3FX6oPfd0wGj1k7FEB/QgbPb5qgky6fPVKEC0QTG/VAsVGuIcgDjVEbSH1IFMwFuYb/OFgtoQ55GVF70136teorHEZU0zf+HM2eKZg9a5YqVO+s51xB1cr5gYHbgIE+dZLa6NxkNJP1wuurFkc+slhUo36Pkdq1VaxBK4FOc67jGySw1HwY2Qgpv8kAlVBzCsIRDVfqClLLiC8HKo2jNw1C8f6qiOO3jYQzjrCk+gOD5v215BCewRM=;tVq9m1hSH9GFnMyiCAidRw=="

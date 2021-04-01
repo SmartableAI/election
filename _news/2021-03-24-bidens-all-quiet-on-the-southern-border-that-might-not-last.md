@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he would 'strongly support' moving the MLB All-Star Game out of Georgia over new voting law"
+    excerpt: "President Joe Biden said he would \"strongly support\" moving this year's Major League Baseball All-Star Game out of Georgia following the passage of a sweeping elections bill that brings a wave of new voting restrictions to the state.\n    \n"
+    publishedDateTime: 2021-04-01T19:25:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vByaSye9Tms/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/biden-mlb-all-star-game-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/biden-mlb-all-star-game-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200114121528-truist-park-atlanta-aerial-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Outrageous': Biden condemns new Georgia law as a 'blatant attack' on voting rights"
     excerpt: "President Joe Biden on Friday condemned the sweeping new voting restrictions in Georgia as \"outrageous,\" \"un-American\" and \"Jim Crow in the 21st Century.\" \"This law, like so many others being pursued by Republicans in statehouses across the country is a ..."
     publishedDateTime: 2021-03-26T18:11:00Z

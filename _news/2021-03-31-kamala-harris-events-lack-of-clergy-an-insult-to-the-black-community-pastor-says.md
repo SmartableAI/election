@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pastor calls for Black community to 'reevaluate' stance on Democratic Party after no invite to Harris event"
+    excerpt: "In a Thursday statement to Fox News, the Rev. Boise Kimber said he believes the Black community needs to \"reevaluate\" their political stance on the Democratic Party after the vice president held an education roundtable in New Haven this week."
+    publishedDateTime: 2021-04-01T19:03:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2m9c_iL9d9w/kamala-harris-black-community-reevaluate-pastor-kimber"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-black-community-reevaluate-pastor-kimber.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-reevaluate-pastor-kimber.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Rev.-Boise-Kimbe.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Watch: VP Kamala Harris Visits Child Development Center In Connecticut"
     excerpt: "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon."
     publishedDateTime: 2021-03-26T20:47:00Z

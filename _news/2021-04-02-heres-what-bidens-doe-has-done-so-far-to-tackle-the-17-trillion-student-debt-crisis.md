@@ -981,6 +981,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "President Joe Biden deputizes Marcia Fudge to sell his infrastructure plan"
+    excerpt: "WASHINGTON, D.C. - The day after unveiling details of a $2 trillion infrastructure plan he hopes Congress will approve, President Joe Biden announced that he’ll deputize five members of his Cabinet including Housing and Urban Development Secretary Marcia ..."
+    publishedDateTime: 2021-04-01T19:20:00Z
+    webUrl: "https://www.cleveland.com/open/2021/04/president-joe-biden-deputizes-marcia-fudge-to-sell-his-infrastructure-plan.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/04/president-joe-biden-deputizes-marcia-fudge-to-sell-his-infrastructure-plan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/04/president-joe-biden-deputizes-marcia-fudge-to-sell-his-infrastructure-plan.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/S3IZRQGBCFH6RNFXYDPW3JJU7A.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "President Joe Biden boosts offshore wind energy, wants to power 10 million homes"
     excerpt: "The Biden administration is moving to sharply increase offshore wind energy along the East Coast, saying Monday it is taking initial steps toward approving a huge wind farm off the New Jersey coast as part of an effort to generate electricity for more than 10 million homes nationwide by 2030."
     publishedDateTime: 2021-03-29T21:27:00Z
@@ -1151,6 +1167,6 @@ related:
         height: 604
         isCached: true
 
-secured: "5xor9gFUJu3q/8sbEnmkaXuwFInaK5VEf0GJ6Ot7N9D7sYa0RvsyaH0EAqok5HuB2L2mdRezUoELYFqilH0R5K/3TTGiaEj3gyOPeu3wCzR0yBfDRTH9U9qIVZJlPxTqMl3tk+f8sGewv9IO0TLO0iYG/+ywGAZFuXbkgo3TSPnYH6ImTRtxedwZJjOzKfdeyrTt1fa38P5PsuPKaQLbpas8XeeBEa+AAThjtVBuHfDq6sTwmVwQbu1kvr6YkLYxWauw0VpH8Q80M6CUWZ9OQ6p5e+vXf8lH5WQW5N9yp47m+oWxBxzz7mzwDwenHmA+svm2joLaCZPSnRf3IXwFI7HR25eBxUHdFy/SiFmqAcM=;i5xhMlKCh7epmM41wqg/zg=="
+secured: "ve3wcZ8+HgMk4a1Xdhv6pl4v+ckDZb1szKkGMF6dEzVv24fagmfIRk5j6ZMusmo98b2bNsK9AXBB2QNgOsCBXYnp+GuZ9gU/zmJwynH9zQCue7ko6/1m+jImy3ZPphmIhUolCwTDl16EIgP3SSzWhxDggPPm4OMJ0blp3+D2dJWDb//Z2adcRGxm5mpAdwFnPoz9BdPKDNVrPi1xLIWxtqWrFKRxo5UjkTbs0JedpX55ebIwUzlVN3p7VpQ5ArTz53/92xW7fYdX48ZuNf0mrlZ0OPACbE/OX7VNm8L8pfwgI3Q4TAvcYgR5OMOl3IbNHtvbdE6mD265EqDH+MdLVTyCUkS/2BDk1uwG5NEqaBJMShPc1T9RounoJWbJsA/4Exg1QW0/mxYsSiMgOmqaAv3pIGVxQxtgMBmvXY/Db0HZk80v/bUn2pMjYnxMxHVbziV5mi7IytKSkFmDNLFEuZw1PbxJC1sgPeOWZNC4GNi/QAJ5UWgXfzD3Egx8JATsVZkgWI3IaEISqTTJ82tD2Q==;4O88YgknguPKnAYPO7LYZA=="
 ---
 

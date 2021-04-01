@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris to move into Naval Observatory residence next week after renovations delay"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff will move into the vice president's official residence next week after their move was delayed for more than two months because of \"repairs to the home,\" Harris' chief spokeswoman Symone Sanders said on Thursday.\n    \n"
+    publishedDateTime: 2021-04-01T18:04:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvWuUhnDvJs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris dives into migration diplomacy as GOP aims to make her the face of the border crisis"
     excerpt: "Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one of the administration's most divisive issues.\n   "
     publishedDateTime: 2021-04-01T10:38:29Z

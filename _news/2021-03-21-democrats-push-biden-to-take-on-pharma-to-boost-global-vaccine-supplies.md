@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to review executive authority to cancel student debt"
+    excerpt: "WASHINGTON — President Joe Biden has asked Education Secretary Miguel Cardona to prepare a memo on the president's legal authority to cancel student debt, White House chief of staff Ron Klain said Thursday, amid growing pressure for the administration to ..."
+    publishedDateTime: 2021-04-01T18:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-review-executive-authority-cancel-student-debt-n1262791"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262791"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262791"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3461408/210401-joe-biden-jm-1235_65f2c83b254f421ff81907d3f5ec3103.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden to nominate 3 prosecutors to head U.S. attorneys' offices in New York"
     excerpt: "WASHINGTON — President Joe Biden is expected to nominate three prosecutors to run the U.S. attorney’s offices in New York state, including the first Black man to run the Southern District of New York in Manhattan and the first Black woman to head the ..."
     publishedDateTime: 2021-03-24T13:41:00Z

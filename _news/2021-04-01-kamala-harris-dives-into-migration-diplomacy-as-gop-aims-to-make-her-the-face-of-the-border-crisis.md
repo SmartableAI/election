@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
 type: article
 quality: 171
-heat: 191
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris to move into Naval Observatory residence next week after renovations delay"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff will move into the vice president's official residence next week after their move was delayed for more than two months because of \"repairs to the home,\" Harris' chief spokeswoman Symone Sanders said on Thursday.\n    \n"
+    publishedDateTime: 2021-04-01T18:04:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvWuUhnDvJs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "After two months in office, Kamala Harris is still living out of suitcases -- and she's getting frustrated with it"
     excerpt: "It has been more than two months since Kamala Harris was sworn in as vice president of the United States, a historic moment for the country, as Harris is the first woman and the first woman of color to hold the second highest office in the land. Yet, Harris -- along with her husband, Georgetown Law professor"
     publishedDateTime: 2021-03-27T16:36:14Z
@@ -49,6 +65,6 @@ related:
         height: 619
         isCached: true
 
-secured: "jFx0GgPI1iZL4KTjA9vmx9+4WvuHpu6iaA4eb0a/ur3pL1LQYzvcp+XuEEmAG0Tdewqb7myClbCZx2IHNCAMSEcVhNWpHRghApZ+XcEHRtJJ18/pMBvO/9LE5S5SqlcanehA6u1sxWnkVW2/6LCOZZWeG4sx+iaDi4wPwD1041rv3h+O9qd+Shf8HjWYqi+ShawvSSp6KZ2Rqu9vd9E0Fn69qLwsh3kYQcaB3qIMGWS73oCcch6TLSrOHcH2NGe3UqIVEXBY7JOlyOi8h8vMIqiDypxPoUsknNr4N9dncC13x/BZuB2AWIpSMso/EMDlMHNMTy491Dpc+d7pMNvxuOhgsxiMSofTsdS8s4iF1V8=;r1AhuUpltXNL1FhSB8EVug=="
+secured: "zDNjaUwUIRfGKWgkrWOTIvct8e6ffdgjNjekqaYmisULdI5RoJN9fb/ygfx+MbN5fay6ibxHbxub2bn0hazmysVJiEEY1PS0XZEEKncEmVIzR2LkQJgQpOzxjyPGYAOlOsvzFPEXxcF67eJbKQPTxwfuqhg6uTQP551FLyrL8b3Ti97YvcAskayFlClSWBoSVTWxanHgvL3M6HWd9nUlroeaauubRA55ui7HT6h54MC2lg138lCuX8SekrA29hHS/ADTeGUXubYZe7BPfg1G9g6qs+W7uRQ0vV1tyJ+p1HJQOGBlktErLyVjSjcxOC4RZjv6/bYJUSRiyXyxhPZcmsER3qn5DmBxyX0vAbxXtzc=;mZFX0g9j9q9Bya2yJ7g1pw=="
 ---
 

@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-01-biden-supports-vaccines-for-undocumented-immigrants-psaki.md",
+      "title": "Biden supports vaccines for undocumented immigrants: Psaki",
+      "excerpt": "White House press secretary Jen Psaki said during Thursday's press briefing that President Biden supports coronavirus vaccines for undocumented immigrants.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/COVID-Vaccine-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
+      "publishedDateTime": "2021-04-01T12:48:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-aoc-claims-surge-plays-into-white-supremacist-philosophy-but-biden-obama-have-used-word-in-border-debates.md",
+      "title": "AOC claims 'surge' plays into White supremacist philosophy – but Biden, Obama have used word in border debates",
+      "excerpt": "The two most recent Democratic presidents have used militaristic language regarding the border crisis that plays into a White supremacist philosophy, according to a standard laid out by Rep. Alexandria Ocasio-Cortez, D-N.Y.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qb3RVGq13X8/aoc-surge-white-supremacy-obama-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qb3RVGq13X8/aoc-surge-white-supremacy-obama-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b32b3df-5cdc-41fa-9dfd-8625bc30b072/126de96c-2963-44ef-8c95-2ce0875c116b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-surge-white-supremacy-obama-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-surge-white-supremacy-obama-biden.amp",
+      "publishedDateTime": "2021-04-01T12:01:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-trump-gop-candidates-embrace-new-digital-platform-to-protect-from-cancel-culture.md",
       "title": "Trump, GOP candidates embrace new digital platform to protect from 'cancel culture'",
       "excerpt": "Former President Donald Trump and a number of Republican candidates and organizations are now using Campaign Nucleus, a platform created by former Trump campaign manager Brad Parscale and his team, to \"protect\" conservatives against \"cancel culture,\" Fox News has learned.",
@@ -604,62 +716,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-biden-grants-michigans-whitmer-66k-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report.md",
-      "title": "Biden grants Michigan’s Whitmer 66K more vaccine doses, in seeming shift from population-based US plan: report",
-      "excerpt": "President Biden is boosting Michigan’s coronavirus vaccine allotment by more than 66,000 doses for next week after receiving a call for help from Gov. Gretchen Whitmer, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KAdpyEGpiLY/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KAdpyEGpiLY/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Whitmer.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-grants-michigans-whitmer-66000-more-vaccine-doses-in-seeming-shift-from-population-based-us-plan-report.amp",
-      "publishedDateTime": "2021-03-30T23:53:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-trump-endorses-drew-mckissick-over-lin-wood-for-south-carolina-gop-chair.md",
       "title": "Trump endorses Drew McKissick over Lin Wood for South Carolina GOP chair",
       "excerpt": "Former President Donald Trump affirmed his endorsement of longtime ally Drew McKissick in his bid for re-election as South Carolina GOP chairman on Tuesday, shortly after attorney Lin Wood announced his intent to challenge him for the position.",
@@ -953,7 +1009,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 218,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -1612,63 +1668,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-dan-bongino-slams-biden-admin-on-migrant-facilities-why-are-you-treating-people-like-animals.md",
-      "title": "Dan Bongino slams Biden admin on migrant facilities: 'Why are you treating people like animals?'",
-      "excerpt": "We own this, it’s our country. It’s not Joe Biden’s, okay? It’s ours. Are we not entitled to see this? And think of the nonsense from that press person or whoever she was. She’s a government employee, which is scary. Your tax dollars are paying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration",
-      "originalUrl": "https://www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d7ea957-13c3-4ecf-8e06-25e17ea64b56/f3dbbcb2-2930-4460-8550-a6f727e9c4d8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration.amp",
-      "publishedDateTime": "2021-03-29T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

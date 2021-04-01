@@ -993,6 +993,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "President Joe Biden deputizes Marcia Fudge to sell his infrastructure plan"
+    excerpt: "WASHINGTON, D.C. - The day after unveiling details of a $2 trillion infrastructure plan he hopes Congress will approve, President Joe Biden announced that he’ll deputize five members of his Cabinet including Housing and Urban Development Secretary Marcia ..."
+    publishedDateTime: 2021-04-01T19:20:00Z
+    webUrl: "https://www.cleveland.com/open/2021/04/president-joe-biden-deputizes-marcia-fudge-to-sell-his-infrastructure-plan.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/04/president-joe-biden-deputizes-marcia-fudge-to-sell-his-infrastructure-plan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/04/president-joe-biden-deputizes-marcia-fudge-to-sell-his-infrastructure-plan.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/S3IZRQGBCFH6RNFXYDPW3JJU7A.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "President Biden is assembling a $3 trillion package of investments on infrastructure and domestic needs"
     excerpt: "Fresh off passage of the COVID-19 relief bill, President Joe Biden is assembling the next big White House priority, a sweeping $3 trillion package of investments on infrastructure and domestic needs."
     publishedDateTime: 2021-03-22T20:28:00Z

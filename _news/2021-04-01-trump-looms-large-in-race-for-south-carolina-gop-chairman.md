@@ -107,6 +107,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump looms large in race for South Carolina GOP chairman"
+    excerpt: "COLUMBIA, S.C. — In South Carolina — where Donald Trump’s 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state’s Republican Party is ..."
+    publishedDateTime: 2021-04-01T19:01:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Extent of Trump's Usefulness to GOP Questioned by WSJ Editorial Board After CPAC"
     excerpt: "\"If CPAC represented America, Mr. Trump would still reside in the White House, not Mar-a-Lago,\" the board wrote."
     publishedDateTime: 2021-03-02T16:51:00Z

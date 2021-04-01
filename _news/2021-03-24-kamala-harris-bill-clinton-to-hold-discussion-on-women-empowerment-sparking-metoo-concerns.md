@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
-    excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
-    publishedDateTime: 2021-03-22T17:08:00Z
-    webUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.html"
-    ampWebUrl: "https://omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/local/govt-and-politics/doug-emhoff-husband-of-vice-president-kamala-harris-to-visit-omaha-on-tuesday/article_239b6072-8b23-11eb-8448-13e7539c33e8.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 71
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/ff/9fff39ec-8b26-11eb-9974-ebd1af91d058/5fa6d8b7cf982.image.jpg?crop=299%2C487%2C929%2C107"
-        width: 299
-        height: 487
-        isCached: true
   - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
     excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
     publishedDateTime: 2021-03-15T21:35:00Z
@@ -136,22 +120,6 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/f164b91e362ed1488dfbcb68df0ba0e3/HARRIS-JACKSONVILLE.jpg"
         width: 650
         height: 432
-        isCached: true
-  - title: "Vice President Kamala Harris’ visit to New Haven will highlight child tax credit long championed by U.S. Rep. Rosa DeLauro"
-    excerpt: "Kamala Harris’ visit to New Haven Friday is part of the Biden administration’s “Help is Here’' tour. The trip has already taken her to Las Vegas and Jacksonville, Fla. Biden, First Lady Jill Biden and Second Gentleman Doug Emhoff are also traveling to promote the stimulus package."
-    publishedDateTime: 2021-03-26T10:00:00Z
-    webUrl: "https://www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html"
-    ampWebUrl: "https://www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-harris-connecticut-federal-help-20210326-w3pt7ica5bcsfc5pj6f7mnhbxi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 49
-    images:
-      - url: "https://www.courant.com/resizer/Uq4A22_jaA7xoDm6J7BcU6sBO8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2675KIP57DE3RCW6GDNDKRK3XQ.aspx"
-        width: 1200
-        height: 782
         isCached: true
 
 secured: "3qrC4Yy7eoMBS9NS27w4USzT7MOm/XyEMZ/hr7U4j03ewbY/fSJgq5kvX0VuzgzgfcPn4YiDfc53xBsWhv1be/VQlzkUSgsmNBMyfMUPUJqRnS1DW/Hx0+1jNGBtu4M1TIREB5XiuNNgfdOa35X58tvH0V+Mi6igHKfMo0Pf5xWf4vX/NsWmsyCUDg5XeXogcuSNH40QldgCk5FZI8ArzG4O7oNdW8jcuc+CPiuzSJTova+6VTpgfjEeSKMx54QbgnmMeHhJR5cr/vLwV/NWiW+nREg2MVed1LPO5kUCdJlVwaLWRtRhShvngQW7//fB85/KRLO+iVvya3fZs1e1C7TLhcJkD09T030vwbeD06Y=;hZkHfr8GZvo80dZLR23R7w=="

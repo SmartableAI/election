@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/joe-biden-georgia-voting
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/joe-biden-georgia-voting-rights-bill/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says he would 'strongly support' moving the MLB All-Star Game out of Georgia over new voting law"
+    excerpt: "President Joe Biden said he would \"strongly support\" moving this year's Major League Baseball All-Star Game out of Georgia following the passage of a sweeping elections bill that brings a wave of new voting restrictions to the state.\n    \n"
+    publishedDateTime: 2021-04-01T19:25:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vByaSye9Tms/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/biden-mlb-all-star-game-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/biden-mlb-all-star-game-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200114121528-truist-park-atlanta-aerial-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's all quiet on the southern border. That might not last."
     excerpt: "WASHINGTON — President Joe Biden's response to an influx of migrants at the U.S.-Mexico border has been muted so far. But a tightening political squeeze may force him to act more aggressively soon. Biden's Republican critics say that he's failing to ..."
     publishedDateTime: 2021-03-24T08:31:00Z

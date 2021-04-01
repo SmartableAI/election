@@ -2,26 +2,26 @@
 category: news
 title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
 excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-publishedDateTime: 2021-03-30T12:10:00Z
-originalUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+publishedDateTime: 2021-03-30T14:23:00Z
+originalUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+webUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+ampWebUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: WTVO
-  domain: mystateline.com
+  name: TexomasHomepage.com
+  domain: texomashomepage.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
+  - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/03/pence.jpg?w=1280"
     width: 1024
     height: 683
     isCached: true
@@ -505,6 +505,22 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Donald Trump Jr. buys mansion 20 miles from Mar-a-Lago"
+    excerpt: "JUPITER, Fla. (AP) — Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are now Florida home owners. The Palm Beach Post reports that the couple spent $9.7 million this week to buy a 11,000-square-foot (1,000-square-meter), six-bedroom, 11-bath ..."
+    publishedDateTime: 2021-04-01T16:52:00Z
+    webUrl: "https://www.chron.com/news/article/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Wisconsin governor seeks legal fees from Trump, Republicans"
     excerpt: "MADISON, Wis. (AP) — Wisconsin Democratic Gov. Tony Evers is seeking more than $250,000 in legal fees from former President Donald Trump and a Republican Party official related to fighting a pair of election lawsuits filed last year. Evers made the ..."
     publishedDateTime: 2021-04-01T15:45:00Z
@@ -596,6 +612,6 @@ related:
         height: 683
         isCached: true
 
-secured: "45ffj/KVhNL6dnxFIptHuHJ9MzPYFlJ2xIIWDoGZryDnPr4WTXAxkZ8F0nBTt2B3AC/8F9Bv9fdfhBhgPeKLCjsJ05Qq4JsqCuvbAAZ1b7c1xXsHsH2KseKzR/05EQdDHzxo2aknLzZLN41Vbtg8pstRCNRrFmqlgYLXkJDb0UwK+x9UXj7lvkDALN68gugcLaUtQ5rlWKz/bejpOpFhnMmWEzNiTSafz3UH+AnAkB3kycSNhJM5J306dyaEW8fa0hYOgCZABgsPu3kB6Qa2ch9XL1kb/8pr1C9UzlWYN9jqxJQJntzN1ptJilO5IGZdmafDFNGGOCs3sjKHJrbMdrFdC4NK0xdJuw3I4fVqn+HrH9Amkx2x5i1tzT9FeETVDG/2fElLJmLIcvY1NyAY+sDTb2iNBSKBC0LY1dgF2acSXLjqAz7jrH5y/L0QHoLw/SkTBYgBhvMQlxXx+86/o7vZkSG6eGmzS3JRn/6WMz8onTiIVpon3zX0W0/lhRFQ+M8n+rktSJkvFQHgQAnkcA==;vo73LG/48OKUpaJsDnruEQ=="
+secured: "nmT/y7c4kDWTtzUJcPrrjmQ4ZxJHSu/BMgHgVVWFXmqnH2dHOj94NnalV3g/QOQp/6YF9FH1cUym/Y1P61BtAKpyLKEHqtqoKRpLQkNN9dtKchsqDXcXeTRwk2cmWAaTpjpx6ecHfZTKZ6TPDtuOzQKcygf49K25yUtlKfJ9Z+rzoKaDWY2dHVQis6WQGfHFcTVeQAd3FLlRA+oIBmGmw1WW9JU+jbwKPj5CKmom/r0S9LdGNRc0jzkdUPdipQyqQZn3qDdG0OjpGV9Evn1XU2Uz+LdeQx1X9/ahvSUG9XbunRTLZRBbdIr/RJ8orzUpo5kuRaaMkMRwaV3esRIbRHwzIS/i6wEqk+AGtCQO678=;tKy/Ikdk9T1p/y1vt6zU0w=="
 ---
 

@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Ari Fleischer rips Biden over border access comments: Like a 'co-conspirator hiding evidence' from police"
-    excerpt: "President Biden made stunning comments defending the administration's purported transparency when it comes to access to federal border facilities says former White House Press Secretary Ari Fleischer on 'The Story'"
-    publishedDateTime: 2021-03-25T20:44:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3eSENFVnUc/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police"
-    ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd742417-0277-4ffa-bd4d-9af9bfdb3da2/9d6078a7-a336-465e-a188-c328ab15256f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "g/pYz/VyDqw5qDRYav/yihpM2k3+b29qysGyXJf1pv6L8D4BlrhvJ2tE5Vj3QQgZpBZ0a4b5Jnw9S2WFIQnlP2pUeuOCuJLQu0/E4Am4D4khvaAf0ZfzOPWWa1oudZ1uKPNF4RHwzq/43ybrUSqbCaPiDRB2s7poMj4H9PWD/L8f8zmIrlyS+pVHxbCq+HSM4fi4dQM8H5Az3sRq0X4Ygr2CCmJ1nUo2hV7qbUpo1ziWdjGMhvkFPMDdydDzJPqY380Q8xrk5kgzLByQ+RoVQQ8kv+PA5k+nsiWsMrxtIXSGMwl9BEmye9/eaEuNxuPJZpiYlZi0Z3Xgy5Mj7y7qFyUCVHN8wChPL6p1XmQrfxM=;GJhM+i9HqipLuPrF+NHc2Q=="
 ---

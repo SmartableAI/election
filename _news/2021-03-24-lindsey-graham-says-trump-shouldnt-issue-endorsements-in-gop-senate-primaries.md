@@ -128,6 +128,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "New website shielding against ‘cancel culture’ attracts Trump, GOP: report"
+    excerpt: "Former President Donald Trump and some GOP candidates and organizations are migrating to an online platform created by the Trump campaign’s former manager​ to protect conservative campaigns"
+    publishedDateTime: 2021-04-01T19:12:00Z
+    webUrl: "https://nypost.com/2021/04/01/website-combating-cancel-culture-attracts-trump-gop-report/"
+    ampWebUrl: "https://nypost.com/2021/04/01/website-combating-cancel-culture-attracts-trump-gop-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/01/website-combating-cancel-culture-attracts-trump-gop-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/campaign-nucleus-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
     excerpt: "Mo Brooks of Alabama showcased his support and loyalty for former President Donald Trump as he launched his Senate campaign. To hammer home the point, he was accompanied by Stephen Miller, a top adviser to Trump during his tenure in the White House and the architect of the administration's hard line on illegal immigration."
     publishedDateTime: 2021-03-23T15:51:00Z
