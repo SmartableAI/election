@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-ne
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35"
         width: 600
         height: 360
+        isCached: true
+  - title: "DOJ asks for more time to make decision on turning over Trump taxes"
+    excerpt: "Justice Department (DOJ) lawyers have reportedly requested additional time to determine their response to House Democrats’ request for former President Trump Donald Trump The Hill's Morning ..."
+    publishedDateTime: 2021-04-01T01:19:00Z
+    webUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes"
+    ampWebUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_8_1.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Be at peace, meditate, Trump Buddha statue designer tells former president"
     excerpt: "XIAMEN, China (Reuters) - Chinese furniture maker Hong Jinshi first created a couple of pint-sized statues of former U.S. President Donald Trump meditating in a Buddhist pose as a fun project for himself last year. Slideshow ( 4 images ) Six months on ..."

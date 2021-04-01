@@ -61,6 +61,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "DOJ asks for more time to make decision on turning over Trump taxes"
+    excerpt: "Justice Department (DOJ) lawyers have reportedly requested additional time to determine their response to House Democrats’ request for former President Trump Donald Trump The Hill's Morning ..."
+    publishedDateTime: 2021-04-01T01:19:00Z
+    webUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes"
+    ampWebUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_8_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Be at peace, meditate, Trump Buddha statue designer tells former president"
     excerpt: "XIAMEN, China (Reuters) - Chinese furniture maker Hong Jinshi first created a couple of pint-sized statues of former U.S. President Donald Trump meditating in a Buddhist pose as a fun project for himself last year. Slideshow ( 4 images ) Six months on ..."
     publishedDateTime: 2021-03-31T06:22:00Z
@@ -135,6 +151,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "Jr0Wq8qkd+k4Dw2jE/6sLld4t69a8fm3I92kVmBePerqJNkVItF1geOWj34Bqhm4RRigEp/EEPgALtepgJKgJqO8rthqDgT3GeCXh/k6ysJanmZaZSLfeZtXwjywNQ7KdB4ktiaXMUAQ7VNL+AGkcam5aF0w33z5UMDhkm3YUHd7Ruytwm1fNl98J2dAwcZc00me53gwN7bMXmAfNkVy5kscaQ2GbYjuvlR/hT8PPfa/1X5HHu6CVg35msEpiup5ex2NxqwX798NZhyr01VKQ9kX2IfsF6Y7GhFqH6xJFu4wItSlzGNCdNQaAFRV07YsHUNG8sg8f7qlaLcfG7g//3rIvSv2jpiq8FTnjpiF/94=;f4GAgQre9yEyFARLVutLjw=="
+secured: "cTY7h6n+yCQpe/VCcNZWIqeT+xq+zWMJCngZjqg4uhmDFagFdOVRlpLEqTFDxTDkQXny9kS7oIilKBTh2dwB3/yAX+3WaAcr56MZtinYAQiXVA7zjH8klAZzJVl0z6pLQeqKGpAEL4W6sxmy2xR1IP0L5fYEZwf7TKNV98YrZdwDYbpdT87IS38a8WfMXYQWOufBfZ9hyzUlHS0h90gTeLHOHNobzHSFG4aKx/SVTT86ermqMjIeBwKz3cn1pgFXsmnq1bgem6OrS6u1mZcIpt2p12ZQUwy172PpH4vRuwTUxktI0eVGgX7YSoRLhc3SX+ewWmAIkRLia7ytzZ9BZ95QEKb/Ptj7qRCgFUppANRy4eEfgdUxAg0vVA3EOdexGoG9k5i9NxSvXc9b2PZmJaST8m8AJLKug0k3FDxivYYGW3Egst9lbqimUeGs0v/D+0jC9f852OVKu5RhEmtW+s/VgFqht6csxxxn3oNXUat5XJ8C5bsLz+raoQeB/sYZbPT3gkuq5IKiws0IIPi/OQ==;eBEYKY2thg7w7vLiKMLMNw=="
 ---
 

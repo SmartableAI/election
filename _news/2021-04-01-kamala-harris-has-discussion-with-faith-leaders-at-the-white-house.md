@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris has Discussion with Faith Leaders at the White House"
 excerpt: "U.S. Vice President Kamala Harris holds a roundtable discussion with faith leaders on their efforts to encourage communities to take the COVID-19 vaccine at the White House on Wednesday, March 31, 2021 in Washington, DC. Photo by Yuri Gripas/UPI Featured ..."
 publishedDateTime: 2021-03-31T19:12:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/32788222d146dfcba89ede67f3567c55/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/32788222d146dfcba89ede67f3567c55/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/HARRIS-FAITH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/32788222d146dfcba89ede67f3567c55/HARRIS-FAITH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -118,6 +118,22 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Kamala Harris returning to Oakland for first time as vice president"
+    excerpt: "Kamala Harris will return to Oakland on Monday for the first time as vice president, her office says. Harris is is scheduled to talk about a range of topics during her stop, including water infrastructure and small business. No other details about her ..."
+    publishedDateTime: 2021-04-01T00:13:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-returning-to-Oakland-for-first-time-16068232.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-returning-to-Oakland-for-first-time-16068232.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-returning-to-Oakland-for-first-time-16068232.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/10/50/20744724/7/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
     excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
@@ -264,6 +280,6 @@ related:
         height: 331
         isCached: true
 
-secured: "6M6PIYKNHgXtlQ4dA6DBwm8dnAYnoCzyZxhI42Un6QYdsCEAvgbDH7+uNkSsVXGPF0rj3KQXLzv9OUuj1DSKrgdMbsmR2q8oo1IcKbqllwWDME+pt6Vk989kAoo/iRuXXTOTgnOlA0Sgz9A5fBDuCc+FCQfpkvf2V8Z+iKWYf3M04sIOIUp3gKqyqPeK4JAR5/TsjX8zhyPSnuGqQ4u6psnEI3cAT0kt2Z22JTDnart7HjGUbXkVGtcUjfNwbC1orbfWInbkZKfgRpfkwk0RWAklbzdCHT8gzXuTZrwLz4R2yVfMweI2RUnfzyGFiQZXuXbcoyKjMzCDhYWeFNV5lS75ggnW8vUKQsOY95AOQxazB6Mm5bDinOt4ggWZdpq/q4fLOUK+ns9Vb0M4mrbuK+XjvMIMjxBW7wpQIpgkSU+rrfv7Dm9nNVVLhT3dXQBqLuHkaNFrLuA072QMRwicgqijyJyq2KQ2oJ/jjNn2qtxLY1bsdsqpeyN5NSkqgHtSoNMh9CE5HDE92nzeOwqVzA==;OwTimZtQ6W6wXnKena0aMg=="
+secured: "Y5iSkvbZ296xeLZjctZ1sa2JCc3JI2h2lWTa9Y+C8+HRN2W9MIA4HkShJAYIDZCw98WVvvUFgm6FlWCOJQW3l283/nQDJS53xjlJegc1rLzc4SN5bnrGCsGztH7iKY4WTk9+5tUws8PniN5Rys38xnbLK3i5DmXofqFJYHM4xE67B6G4DyNZSYqbO6mbVV0bUPBiJajxaL8p/thunOG/PgXiBicyITAE4t1bSmEdWkazaOz3tlyeWQ5feyAMibDDg7ynELzRDy7gKWNNdor3D98WRZIl69F0IbtJjnMyscwrCf1TWAai4rLF7NMp+epEr1yBhOcIEbb1q0mOWNV80Cak84WSYZbjFV5yhsf3Q/0=;zLEUodXJZfpiULeCOM/wYA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-gop-demand-second-hearing-fo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.amp"
 type: article
 quality: 163
-heat: -1
-published: false
+heat: 183
+published: true
 
 provider:
   name: Fox News
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Schumer plots new way to bypass Republicans on Biden's third economic spending bill"
-    excerpt: "Senate Majority Leader Chuck Schumer, D-N.Y., is exploring how to pass President Biden's third economic spending bill later this year without any Republican votes via an obscure Senate rule that would allow Democrats to use reconciliation again.  "
-    publishedDateTime: 2021-03-29T16:20:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCbvF0CQpIQ/schumer-reconciliation-biden-third-economic-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/schumer-reconciliation-biden-third-economic-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-reconciliation-biden-third-economic-spending-bill.amp"
+  - title: "Vanita Gupta could be Biden's 'most dangerous' DOJ pick, GOP senator argues, while Dem leader decries 'smears'"
+    excerpt: "The Senate Judiciary Committee met Wednesday to discuss President Biden's nominations of Lisa Monaco to be the next deputy attorney general and Vanita Gupta as associate attorney general."
+    publishedDateTime: 2021-03-18T15:57:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yy9Q6YK9c_A/vanita-gupta-biden-doj-pick-john-cornyn"
+    ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-biden-doj-pick-john-cornyn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-biden-doj-pick-john-cornyn.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/schumer.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Sen. Ron Johnson: Biden border policies facilitating business of the 'most evil people on the planet'"
-    excerpt: "Sen. Ron Johnson, R-Wis., slammed the Biden administration’s immigration plan as \"misguided\" telling \"Fox News Primetime\" it is going to lead to \"greater inhumanity.\""
-    publishedDateTime: 2021-03-31T04:28:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pu62k5rxjm0/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

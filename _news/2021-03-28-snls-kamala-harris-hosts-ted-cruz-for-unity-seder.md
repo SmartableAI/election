@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-t
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Kamala Harris returning to Oakland for first time as vice president"
+    excerpt: "Kamala Harris will return to Oakland on Monday for the first time as vice president, her office says. Harris is is scheduled to talk about a range of topics during her stop, including water infrastructure and small business. No other details about her ..."
+    publishedDateTime: 2021-04-01T00:13:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-returning-to-Oakland-for-first-time-16068232.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-returning-to-Oakland-for-first-time-16068232.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-returning-to-Oakland-for-first-time-16068232.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/10/50/20744724/7/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
     excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
     publishedDateTime: 2021-03-28T04:38:00Z
@@ -200,14 +216,14 @@ related:
   - title: "Kamala Harris has Discussion with Faith Leaders at the White House"
     excerpt: "U.S. Vice President Kamala Harris holds a roundtable discussion with faith leaders on their efforts to encourage communities to take the COVID-19 vaccine at the White House on Wednesday, March 31, 2021 in Washington, DC. Photo by Yuri Gripas/UPI Featured ..."
     publishedDateTime: 2021-03-31T19:12:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/32788222d146dfcba89ede67f3567c55/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/HARRIS-FAITH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/32788222d146dfcba89ede67f3567c55/HARRIS-FAITH.jpg"
         width: 650
         height: 433
         isCached: true

@@ -430,20 +430,20 @@ related:
         height: 551
         isCached: true
   - title: "13 attorneys general sue Biden admin over stimulus tax rule"
-    excerpt: "Attorneys general from 13 states sued the Biden administration on Wednesday over a provision in the federal stimulus that bars tax cuts from being offset with relief money"
-    publishedDateTime: 2021-03-31T22:49:00Z
-    webUrl: "https://www.washingtonpost.com/national/13-attorneys-general-sue-biden-admin-over-stimulus-tax-rule/2021/03/31/52dad4ec-9273-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/13-attorneys-general-sue-biden-admin-over-stimulus-tax-rule/2021/03/31/52dad4ec-9273-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/13-attorneys-general-sue-biden-admin-over-stimulus-tax-rule/2021/03/31/52dad4ec-9273-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    excerpt: "Attorneys general from 13 states sued President Joe Biden's administration on Wednesday over a rule in the federal stimulus that bars states from using relief money to offset tax cuts. The filing ..."
+    publishedDateTime: 2021-03-31T22:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/13-attorneys-general-sue-biden-admin-stimulus-tax-76799042"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/13-attorneys-general-sue-biden-admin-stimulus-tax-76799042"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/13-attorneys-general-sue-biden-admin-stimulus-tax-76799042"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Lawmakers call on Biden to put $10 billion toward coastal restoration"
     excerpt: "called on President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden ..."
@@ -829,6 +829,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09bzmbr.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Lawmakers urge Biden to expand infrastructure plan"
+    excerpt: "President Joe Biden outlined a huge $2.3 trillion plan Wednesday to reengineer the nation’s infrastructure in what he billed as “a once in a generation investment in America. (March 31)"
+    publishedDateTime: 2021-04-01T01:32:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/01/lawmakers-urge-biden-expand-infrastructure-plan/4830960001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7deb2f3f-ec71-470f-a378-e791dc2e6914_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."

@@ -317,6 +317,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Businesses Hail Biden Public Works Plan, Disdain Higher Tax"
+    excerpt: "U.S. business groups say they are thrilled that President Joe Biden is proposing massive new investment to upgrade crumbling U.S. infrastructure, but they’ll be lobbying against raising the corporate tax rate to pay for it. Support our journalism."
+    publishedDateTime: 2021-03-31T22:05:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/businesses-hail-biden-public-works-plan-disdain-higher-tax/2021/03/31/6efe5588-9253-11eb-aadc-af78701a30ca_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MHH57RUSKMI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Facebook reportedly removed a video interview with Donald Trump for violating its ban on the former president"
     excerpt: "DOW S&P 500 NASDAQ 100 Facebook has removed a video that featured an interview with former President Donald Trump because it violated its current ban on him, according to Trump's daughter-in-law. Lara Trump, the wife of Eric Trump, posted on Instagram ..."
     publishedDateTime: 2021-03-31T19:28:00Z

@@ -384,6 +384,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The Infrastructure Crisis That Biden Is Confronting"
+    excerpt: "One big advantage for Biden: Senator Joe Manchin of West Virginia, the most conservative Democrat in the chamber, has said that he supports making large-scale investments in infrastructure. But there’s also one big possible hangup: Manchin, more than ..."
+    publishedDateTime: 2021-03-31T22:37:00Z
+    webUrl: "https://www.nytimes.com/2021/03/31/us/politics/infrastructure-crisis-united-states-projects.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/31/us/politics/infrastructure-crisis-united-states-projects.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/infrastructure-crisis-united-states-projects.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/admin/31onpolitics-pm-newsletter/31onpolitics-pm-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
     excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."
     publishedDateTime: 2021-03-27T11:15:00Z
@@ -460,6 +476,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden's plan is pocked with potholes"
+    excerpt: "BRIDGES TO NOWHERE — Infrastructure is often described as the ultimate bipartisan policy, so Republican opposition to President Joe Biden’s new $2 trillion infrastructure plan will inevitably be described as the latest proof that bipartisanship is dead."
+    publishedDateTime: 2021-04-01T00:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/31/bidens-plan-is-pocked-with-potholes-492311"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden names diverse slate of judicial nominees in first effort to reshape federal courts"
     excerpt: "Biden plans to nominate Judge Ketanji Brown Jackson for the U.S. Circuit Court of Appeals for the District of Columbia, filling Attorney General Merrick Garland's former seat."
     publishedDateTime: 2021-03-30T11:58:00Z
@@ -489,6 +519,6 @@ related:
         height: 629
         isCached: true
 
-secured: "LF02jnVSFgIUrdiGmmoTeEaNNAZklJYf3JfJD2DBQz3/IwPKmib3lPCPrfcRKkOExJAD5q0k27u4GMF9yusdWMq7Qa9EJzdavV4uxG1tKeA3N9+f4rcZEuFHdh6WF1abvvBY7sU32h9Mo2aGcWLrg8s9vmPVl7+OJh/weC6DXfVA8E2GZe9oDZceIYxmsfUrpgemfxdAB3jbpITl9e55221cfb6dRwNTXO9ML+Vx17cXas9nKJA4hcXbyOqGnO9qGdidEWGzfXutBe9EWfHczPIa/pLjyy5eCiKfUs8oRrPUqtRzzuYH3vWlCwQU454Mo9N7QJpIlKmaHwRuYRBAbMtC2lMhnbJjo9Fh3WqzX8Y=;aOuOUizNZWU1k7ZljoGuFQ=="
+secured: "MkbB8RJEJvlH+FcQ4Q/X+bltD/82AmzYTqUjw4/XP/YSFkUeEQ4PcvhOKrsbHGsZS6mZQyq2BOl44A5MnbfL666waBJy5rcHMYaLHmYKx6ao0eehP61HDnjkXr+g0UNbwwfueXmoLOv59akHrL/E/RfwKdrZTvYt7NVM0DeiFdfehr3NBoPjxLPDveVS4JVUNQQIgfz0dmhlmtapMln5GKteFfc5fQFLN9HH8zcVsH6WXVqjRdQlly0eukVtuopvReQAjZ+j7wyvGjgpklv+kCrh5+9jMOINXcP1IQXIWIZw5TIXSZNvHPE+9KyDqtR7vLokRUsldzeu7EIY81CZlBqDqoNUc9B+7M/CMAZBeD3IBaCgDw31rQa0cpEjpvB83if22tmcmK+a2zVOe63/7C4gCvilYDtbrivN/mgzeXJgAPEjEKLr7NKfCuNXEXF3BYDcKtux1CJwecaYGweK5aldj9rQfk0gszCvtwQOwUZsFNMxSm71r/f2PREUBUtdd+E7QG92djS5B/x0K03Dug==;VY5mwoO84aQMkQQ0kF5I9Q=="
 ---
 

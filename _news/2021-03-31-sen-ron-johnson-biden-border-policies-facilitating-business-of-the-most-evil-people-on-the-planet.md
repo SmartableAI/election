@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Schumer plots new way to bypass Republicans on Biden's third economic spending bill"
-    excerpt: "Senate Majority Leader Chuck Schumer, D-N.Y., is exploring how to pass President Biden's third economic spending bill later this year without any Republican votes via an obscure Senate rule that would allow Democrats to use reconciliation again.  "
-    publishedDateTime: 2021-03-29T16:20:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCbvF0CQpIQ/schumer-reconciliation-biden-third-economic-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/schumer-reconciliation-biden-third-economic-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-reconciliation-biden-third-economic-spending-bill.amp"
+  - title: "Ron Johnson: Biden admin seems 'deaf, dumb and blind' to border crisis, dangers to migrants"
+    excerpt: "The Biden administration is \"deaf, dumb, and blind\" to the dangers posed on the migrants as they attempt to cross the southern border, Sen. Ron Johnson, R-Wis., told \"Fox & Friends\" on Thursday, addressing the crisis that prompted GOP lawmakers to visit the border."
+    publishedDateTime: 2021-03-25T15:01:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M7Ml25ArZkc/biden-border-crisis-dangers-to-migrants-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-dangers-to-migrants-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-dangers-to-migrants-ron-johnson.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/schumer.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Senate Republicans demand second hearing for Biden DOJ pick Gupta after 'misleading' comments’"
-    excerpt: "Republicans on the Senate Judiciary Committee have called for President Biden’s pick for associate attorney general, Vanita Gupta, to return for a second round of hearings to answer for \"misleading statements.\""
-    publishedDateTime: 2021-03-23T23:17:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gt82kthzyoM/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.amp"
+  - title: "McEnany questions whether Biden is 'decision-maker' or 'abdicating responsibility' on border crisis"
+    excerpt: "Former White House press secretary Kayleigh McEnany slammed the Biden administration on \"The Story\" Wednesday over its management of the southern border crisis, saying they have failed to make good on their \"transparency promise.\""
+    publishedDateTime: 2021-03-24T20:53:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UPJJGmh3e88/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-questions-if-biden-is-decision-maker-or-abdicating-responsibility-on-managing-the-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f951585d-1e2c-4820-b736-c3d5188c7fff/9c37fc46-b54b-4522-a271-887cac9b5adf/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8253857f-4b01-47f7-80ce-5ef872abead0/8f71d700-0198-4b34-a857-db543ac49bb4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

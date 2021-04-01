@@ -400,6 +400,22 @@ related:
         width: 2500
         height: 1664
         isCached: true
+  - title: "The Infrastructure Crisis That Biden Is Confronting"
+    excerpt: "One big advantage for Biden: Senator Joe Manchin of West Virginia, the most conservative Democrat in the chamber, has said that he supports making large-scale investments in infrastructure. But there’s also one big possible hangup: Manchin, more than ..."
+    publishedDateTime: 2021-03-31T22:37:00Z
+    webUrl: "https://www.nytimes.com/2021/03/31/us/politics/infrastructure-crisis-united-states-projects.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/31/us/politics/infrastructure-crisis-united-states-projects.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/infrastructure-crisis-united-states-projects.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/admin/31onpolitics-pm-newsletter/31onpolitics-pm-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden administration working to develop a system for people to prove they've been vaccinated"
     excerpt: "President Joe Biden has predicted that life in the US could be back to normal by Christmas, and as more Americans are vaccinated each day, these vaccine credentials -- commonly called \"vaccine passports\" -- could be key to a return to normalcy by the end ..."
     publishedDateTime: 2021-03-28T19:07:00Z
@@ -450,6 +466,20 @@ related:
     excerpt: "Act on the news with POLITICO Pro. — President Joe Biden unveils his infrastructure agenda today, which makes an ambitious push for a national clean energy standard, major stimulus for electric vehicles and a revamped power grid, and new jobs to help ..."
     publishedDateTime: 2021-03-31T13:59:00Z
     webUrl: "https://www.politico.com/newsletters/morning-energy/2021/03/31/biden-unveils-his-infrastructure-vision-794357"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden's plan is pocked with potholes"
+    excerpt: "BRIDGES TO NOWHERE — Infrastructure is often described as the ultimate bipartisan policy, so Republican opposition to President Joe Biden’s new $2 trillion infrastructure plan will inevitably be described as the latest proof that bipartisanship is dead."
+    publishedDateTime: 2021-04-01T00:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/31/bidens-plan-is-pocked-with-potholes-492311"
     type: article
     provider:
       name: Politico

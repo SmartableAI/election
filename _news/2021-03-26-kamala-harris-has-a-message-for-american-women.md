@@ -42,6 +42,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "McEnany blasts VP Harris for not visiting border, tossing 'political grenade' back to Biden"
+    excerpt: "Former White House press secretary Kayleigh McEnany condemned Vice President Kamala Harris on \"Fox News Primetime\" Wednesday for not yet visiting the southern border after Joe Biden called her the \"most qualified\" person to stop the flow of illegal immigration."
+    publishedDateTime: 2021-04-01T01:55:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePZKGnAcHF0/kayleigh-mcenany-kamala-harris-not-visiting-border"
+    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-kamala-harris-not-visiting-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-kamala-harris-not-visiting-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki: Biden, Harris don’t have to restrict nonessential travel because they use private planes"
     excerpt: "White House press secretary Jen Psaki on Monday said President Biden and Vice President Kamala Harris are not required to restrict nonessential travel, as recommended by the Centers for Disease Control and Prevention, because they travel on private planes."
     publishedDateTime: 2021-03-29T18:24:37Z

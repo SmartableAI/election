@@ -1,22 +1,22 @@
 ---
 category: news
 title: "13 attorneys general sue Biden admin over stimulus tax rule"
-excerpt: "Attorneys general from 13 states sued the Biden administration on Wednesday over a provision in the federal stimulus that bars tax cuts from being offset with relief money"
-publishedDateTime: 2021-03-31T22:49:00Z
-originalUrl: "https://www.washingtonpost.com/national/13-attorneys-general-sue-biden-admin-over-stimulus-tax-rule/2021/03/31/52dad4ec-9273-11eb-aadc-af78701a30ca_story.html"
-webUrl: "https://www.washingtonpost.com/national/13-attorneys-general-sue-biden-admin-over-stimulus-tax-rule/2021/03/31/52dad4ec-9273-11eb-aadc-af78701a30ca_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/13-attorneys-general-sue-biden-admin-over-stimulus-tax-rule/2021/03/31/52dad4ec-9273-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/13-attorneys-general-sue-biden-admin-over-stimulus-tax-rule/2021/03/31/52dad4ec-9273-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+excerpt: "Attorneys general from 13 states sued President Joe Biden's administration on Wednesday over a rule in the federal stimulus that bars states from using relief money to offset tax cuts. The filing ..."
+publishedDateTime: 2021-03-31T22:53:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/13-attorneys-general-sue-biden-admin-stimulus-tax-76799042"
+webUrl: "https://abcnews.go.com/Politics/wireStory/13-attorneys-general-sue-biden-admin-stimulus-tax-76799042"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/13-attorneys-general-sue-biden-admin-stimulus-tax-76799042"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/13-attorneys-general-sue-biden-admin-stimulus-tax-76799042"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -830,6 +830,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Lawmakers urge Biden to expand infrastructure plan"
+    excerpt: "President Joe Biden outlined a huge $2.3 trillion plan Wednesday to reengineer the nation’s infrastructure in what he billed as “a once in a generation investment in America. (March 31)"
+    publishedDateTime: 2021-04-01T01:32:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/01/lawmakers-urge-biden-expand-infrastructure-plan/4830960001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7deb2f3f-ec71-470f-a378-e791dc2e6914_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."
     publishedDateTime: 2021-03-24T16:46:00Z
@@ -1075,6 +1089,6 @@ related:
         height: 604
         isCached: true
 
-secured: "C0z92YGznQW0vRPg8rw1Y+3AUFC2icmm0VSY0voYxbbLIP7Wkp2pF0wv05tDcGnZt6HryuohX5rQZgbSZkxAQFQjE7+GDVddeNQXQuJqoaCFrr9HTwiWzFsGPiwNKUM32UU6Jv+OorwpQKCyswesKcnbDecv2PV54pfQBRn1jEr0WTpvFJeIXcu1psp+2XX1gKZ/a+xPYj/4uzIy3nSflPWVrtsIgfI/BgcVX0Dov2BcR14tVi18hKNbkcISqHTEjhevlxE/EmANlYmqYyrg+EsGv184aM89dtV1+0owTGqUa0S0y8cn9ZT6KfPBSPhHxFviTzJkejC3yyeOlIAHZwuK116PT7x5pH/n6pmH3ZI=;laGu8QLLIqaDYGH6OfcPLg=="
+secured: "5+p/Nv1OAQEBmK/gZK1MKcs/ROjgRv2rEjRJxp7WUlfxjKziOBOGeNusr6LQmNenO9sBsfbz5YsvjkZ+MMHB83aS81Nu4D330kYMecApOJ1KpPuse/gaN+XyrVmRYIrBaOCrJHbcDh6ug26io9m25T0KJpF1D89gPn/gkEtBD8g+OrkTi0xfwiv3bwfQ0GDeKWkYQsQPtxhoE4iNK1/TPbGdYElTrPEHTFxiHO30onLriBwD7AviEEha19exAZpmgifhEeqGwEtlDkMpkYe2QBF2aEbiESIqSw+PAD0u3dS6aMqdwqEcnEKsg5Mx5ar+s8c8/3QwnB2mHeGUQGHmGanBOj0PlXzDUOm5N5nJI2k=;4wbL8odSBOtRg/PZ+q6gCA=="
 ---
 
