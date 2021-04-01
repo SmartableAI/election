@@ -125,6 +125,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Theatre project lets Trump accusers tell their stories"
+    excerpt: "The Pussy Grabber Plays – eight short pieces premiering in New York on Monday – humanise the people behind sexual misconduct allegations against the president Lucia Graves Journalist and writer Natasha Stoynoff has co-written a play about Donald Trump ..."
+    publishedDateTime: 2021-04-01T11:00:00Z
+    webUrl: "https://www.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
+    ampWebUrl: "https://amp.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "Donald Trump's New Website Mocked On Twitter: 'One Of The Wackiest Websites'"
     excerpt: "Donald and Melania Trump launched their new personal website, 45office.com Some Twitter users were not impressed with the new website Trump's supporters were happy about the announcement and have begun leaving him messages on the new site Former President ..."
     publishedDateTime: 2021-03-31T05:55:00Z

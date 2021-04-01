@@ -536,6 +536,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Northeast governors need Biden to deliver on offshore wind"
+    excerpt: "President Joe Biden walks on the South Lawn of the White House in Washington. | Patrick Semansky/AP Photo President Joe Biden has signaled he intends to do just that. On Monday, the White House announced it was opening up new tracts of ocean for leasing ..."
+    publishedDateTime: 2021-03-31T23:55:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/governors-battle-washington-over-wind-energy-478511"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/59/2d/73b906af40bdb04bdd85ebf816af/ap21050552112172.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden names diverse slate of judicial nominees in first effort to reshape federal courts"
     excerpt: "Biden plans to nominate Judge Ketanji Brown Jackson for the U.S. Circuit Court of Appeals for the District of Columbia, filling Attorney General Merrick Garland's former seat."
     publishedDateTime: 2021-03-30T11:58:00Z

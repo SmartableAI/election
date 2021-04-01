@@ -536,6 +536,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Northeast governors need Biden to deliver on offshore wind"
+    excerpt: "President Joe Biden walks on the South Lawn of the White House in Washington. | Patrick Semansky/AP Photo President Joe Biden has signaled he intends to do just that. On Monday, the White House announced it was opening up new tracts of ocean for leasing ..."
+    publishedDateTime: 2021-03-31T23:55:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/governors-battle-washington-over-wind-energy-478511"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/59/2d/73b906af40bdb04bdd85ebf816af/ap21050552112172.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Legislature votes to legalize marijuana — Biden administration green lights congestion pricing — Deal close on relief fund"
     excerpt: "New York will become the latest state to legalize marijuana, after a years-long push culminated in a vote by the state Legislature to approve a bill ending the prohibition of the drug. The legislation passed the state Senate by a vote of 40-23 Tuesday night,"
     publishedDateTime: 2021-03-31T11:14:00Z

@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Memo: The mystery of post-presidency Trump"
+    excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle rages over vaccine ..."
+    publishedDateTime: 2021-04-01T09:59:00Z
+    webUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump"
+    ampWebUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The hard part: Biden infrastructure-linked tax hikes face hurdles in Congress"
     excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden’s plan to pay for his $2 trillion infrastructure plan with higher corporate taxes faces hurdles in Congress from Republicans who say it will kill jobs and from some of his fellow Democrats who want a bigger ..."
     publishedDateTime: 2021-03-31T18:04:00Z

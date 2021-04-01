@@ -127,6 +127,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Theatre project lets Trump accusers tell their stories"
+    excerpt: "The Pussy Grabber Plays – eight short pieces premiering in New York on Monday – humanise the people behind sexual misconduct allegations against the president Lucia Graves Journalist and writer Natasha Stoynoff has co-written a play about Donald Trump ..."
+    publishedDateTime: 2021-04-01T11:00:00Z
+    webUrl: "https://www.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
+    ampWebUrl: "https://amp.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "Donald Trump elevates a loyal Florida operative to shore up his post-presidency political operation"
     excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. Former President Donald Trump has tapped longtime Florida political operative Susie Wiles to help lead his post-White House political operation, Trump advisors ..."
     publishedDateTime: 2021-03-31T22:28:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/27/politics/kamala-harris-vice-presi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/kamala-harris-vice-presidents-residence/index.html"
 type: article
 quality: 163
-heat: 163
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -30,6 +30,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Kamala Harris dives into migration diplomacy as GOP aims to make her the face of the border crisis"
+    excerpt: "Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one of the administration's most divisive issues.\n   "
+    publishedDateTime: 2021-04-01T10:38:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310102406-01-kamala-harris-0302-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "yy1avAorBzlLdg2n9kuE0PYiB5VdRXf2D/cBfTXjY17mf8KlOALBI/3Y36rcJLca5NCnLhobDu9tuutKzyyc4RxSluaCfM38p5EoupoJ9Bc/rqE8S70FgMLgAOyLHX7dFkTAVZ7kCFmdXVUfI6Z8RuyyT3sgNEcPtV7hcIIbAVYTVVJ/e0mtbov+jvJ+NB0DX9A/UMOg6I2Mi5i1cdj2cgo/MJE/n8IHiIpVjo7eTRHmcMpJFJPgu30IEIxylYeKHt7CvbcWbFL+P38KfSqE8NOfvFSPDcrmszsxdoF4Jgqc8dn/M22xMaXf1QR5YRXvqhinXHgOPp31Axa8JbYXsqu8eWGxnShvuEPsVAaY9mU=;dVjvnHYzPfiqRWTUEKBrOQ=="
 ---

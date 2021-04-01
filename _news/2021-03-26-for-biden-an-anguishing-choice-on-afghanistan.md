@@ -74,6 +74,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Evoking FDR, Biden Spending Push Is a Tightrope Walk"
+    excerpt: "One week before the election, Joe Biden went south. He was headed for Franklin Delano Roosevelt’s familiar Georgia getaway at the foot of Pine Mountain in Meriwether County. Known as “the Little White House,” it was FDR’s frequent retreat of during ..."
+    publishedDateTime: 2021-04-01T11:46:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/01/evoking_fdr_biden_spending_push_is_a_tightrope_walk_145517.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/01/evoking_fdr_biden_spending_push_is_a_tightrope_walk_145517.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/01/evoking_fdr_biden_spending_push_is_a_tightrope_walk_145517.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/539383_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "S254sBUlzdQrExWIHjG5JUZ5RbqfroQFvxQgRB/W08p3s6mRM19Xa9nXeaB85T3rjBQNRzexTfmzJyS2MFeW676cdeXZyoDLC1YCgEj9Fzs0nqV3g8K70quw/NzqUbZ9EWYB1y4UkZbwN3OtJI/x0+Tl2rey409te/JJITB2Dx/RXVFTZlSfsxiOiI4uMVrS9y/H+dxr3ZvewZdmwvUbGkzd6v2WE4ovWCAbL3pwX9VMZrSJOJl++bI5Xs4Sb7srBUIXRFmb+AXkist+grhR+zSB45QKPvJ8J715KsL2eRR7T3jubolRe4KZ/jloOmsEq6v/UAqVQI/Czb3GcrFrk1h+LB7IxSP28vJQeid3sOo=;Tb1PDvwY0oOhCMCAbvdvqw=="
 ---

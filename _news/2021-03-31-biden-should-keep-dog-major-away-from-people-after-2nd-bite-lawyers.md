@@ -357,6 +357,15 @@ related:
         width: 1174
         height: 880
         isCached: true
+  - title: "Joe Biden Is About to Lock Up a Lot of Black People"
+    excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial"
+    publishedDateTime: 2021-04-01T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "5aLMSIJtohBuJxNvfv4lHcZ74upJfP8a6kYoKSoBxoUd2+8r1p61IgcLfnQKb3DvwVP6pOZVfdaHWoQaoNVDTmUiylAAkDzhRsqFPLl4ePck1l/+twyh16LeRSNOLWRklwiKSz9xC6F4/1WYxmgUw8WLx6vnQdduefA73Ig7bPWC5f/YjdHL5LskI1sNnOkkZNvoMuKMdmmWv8foez5o20iq5QKyQGsi4+ZDprnR7m/biPbn63CkIzyfNxUVocPxe5Wp+GURbG6aJmjXJoHK4THO4DFdZA2tuCaGyi4NbfSyxsGKoij7NVmqW0zVkuSmDgFJaM+SpfPXxKwCZpxiyDO6QW18LufcmF14ipqIMLM=;Zu7BblmBJXJBu+3sGtD4bQ=="
 ---

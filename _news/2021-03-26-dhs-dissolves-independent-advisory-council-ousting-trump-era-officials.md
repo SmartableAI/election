@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/homeland-security-adviso
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 375
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170629172604-epa-environmental-protection-agency-logo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's own statements in old lawsuit could haunt him in any future criminal case"
+    excerpt: "Donald Trump once said he calculated his net worth, to a degree, on his \"feelings,\" and that he put the \"best spin\" on some of the assets.\n    \n"
+    publishedDateTime: 2021-04-01T11:23:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iskEb54P2R0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -126,6 +142,38 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/31/world/31xp-trumpsuit-01/31xp-trumpsuit-01-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump sued by two Capitol Police officers"
+    excerpt: "Two officers accuse Donald Trump of inciting the January 6 riot, during which they were injured, and have sued him for damages. Brian Todd reports."
+    publishedDateTime: 2021-04-01T04:14:00Z
+    webUrl: "https://www.cnn.com/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401000836-exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot-00001323-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's own statements in old lawsuit could haunt him in a future criminal case"
+    excerpt: "New York (CNN)Donald Trump once said he calculated his net worth, to a degree, on his \"feelings,\" and that he put the \"best spin\" on some of the assets. \"I think everybody\" exaggerates about the value of their properties. \"Who wouldn't?\" Did he inflate values?"
+    publishedDateTime: 2021-04-01T06:47:00Z
+    webUrl: "https://www.cnn.com/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Texas museum removes Trump wax figure after visitors kept attacking it"
     excerpt: "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ..."

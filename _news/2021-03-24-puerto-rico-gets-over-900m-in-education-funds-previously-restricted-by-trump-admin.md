@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "EPA empties out science panels stacked with Trump picks"
+    excerpt: "This is the latest attempt by the Biden administration to reverse what officials have described as rampant political interference in key decisions under Trump and distortion of good data and evidence."
+    publishedDateTime: 2021-03-31T17:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/epa-empties-out-science-panels-stacked-trump-picks-n1262615"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262615"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262615"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3461085/210331-michael-regan-se-1152a_a21758672e7ef354318c90435886231b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "4RqelrVll1SwL0wf9C/PCGu8DxDJDzHIlF92VlTIShMcPlP4pbZDVnmAoX2a9pNY+541BJYu3ft8bMjJ8nncxLRffgYNboWkwTsqVZfR9qytlOpTbvkpDYOTeAkyeOx8SSFW10ncSYQcm2hoULG8Kczhss44Ig6bVj0J90CI38DXB2zjlY38YTjWIW6x+nviderqoMvA+goLcqJbwOEpPeeGOCcbU7Kn5EUZy3U6hvOD2oQz1IvIe3h0dsjgUmN941IoAMqm6oeo/zkMzvIyk9iTFS3+hUlvSj/8VCntPb66JfUSo+7RTe/nQszJmdwwUKEOWJQVejmZrl5DL1diNEPoFtXs2+aM8p0gHFhCmxnVnOoGXX0zMNSyU8GOM/FFm8Oki4XgaKvfSsgvvr//W5ElJIkrxGItQMmWhR7FUobKfBCd7AG19KQTuF6K9wvivMoOPBhmA3jpr134slwCbCGmC2TGcx52pVReAh6euMMAKMIgMZtoFT2kpcjNEQ9W83/JSV7wC04zlBMI0tAH/g==;zdRfT7t6NJWefnD1GpoFbw=="
 ---

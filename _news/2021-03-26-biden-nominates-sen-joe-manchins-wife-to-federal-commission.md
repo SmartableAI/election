@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -357,6 +357,15 @@ related:
         width: 1174
         height: 880
         isCached: true
+  - title: "Joe Biden Is About to Lock Up a Lot of Black People"
+    excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial"
+    publishedDateTime: 2021-04-01T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "GHtqSXHcVkLSYYoCSg8fMQIo9nsiEcVAc/V1fmGku8KGqsjKVmE/ErPyeN3aeIA3YYSdZMJNoRr6Ba+L615xpXBe2ZYRHXjMP/Wl1NXf+F+PVk7Ny4y6f+y/WO/kGPNbmBFJftH9p6pxfg+6Iqq4RzSVmnYzRCH3gUkRTGdBGp6yITddSGGbAGpVe1zBHdssTGZdSqrN7d+267msP++Eo9SaSUI/LZABdDqM+SCjkp/WnH9Uh40iDEaDrID6OHKI9SQuxL3geImN4dS9VwZXeFlv1smzPrDV8eboeKkr/vjmVmUEWCRU3y6X8FiLscBCPjEpQhqsO3Uqnxo7FUP4Nyaw/akIwHeyprcHXQQPvr8=;cTYtGDIL0ZEDvPiZYr6U0A=="
 ---

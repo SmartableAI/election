@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/17/USAT/0c1b4654-094c-4e5b-b148-e429874cdc03-Day_in_pictures_Aug._17_2020_09.JPG?auto=webp&crop=6455,3631,x1,y429&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Memo: The mystery of post-presidency Trump"
+    excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle rages over vaccine ..."
+    publishedDateTime: 2021-04-01T09:59:00Z
+    webUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump"
+    ampWebUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."

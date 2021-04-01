@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nomin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
 type: article
 quality: 178
-heat: 838
+heat: 858
 published: true
 
 provider:
@@ -520,6 +520,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Northeast governors need Biden to deliver on offshore wind"
+    excerpt: "President Joe Biden walks on the South Lawn of the White House in Washington. | Patrick Semansky/AP Photo President Joe Biden has signaled he intends to do just that. On Monday, the White House announced it was opening up new tracts of ocean for leasing ..."
+    publishedDateTime: 2021-03-31T23:55:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/governors-battle-washington-over-wind-energy-478511"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/59/2d/73b906af40bdb04bdd85ebf816af/ap21050552112172.JPG"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden names diverse slate of judicial nominees in first effort to reshape federal courts"
     excerpt: "Biden plans to nominate Judge Ketanji Brown Jackson for the U.S. Circuit Court of Appeals for the District of Columbia, filling Attorney General Merrick Garland's former seat."
