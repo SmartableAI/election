@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gov. Kemp: Biden trying to distract from border crisis with call to pull MLB All-Star Game from Georgia"
+    excerpt: "Georgia Governor Brian Kemp slammed President Joe Biden's attempt to pull the MLB all-star game from Georgia as a 'distraction' from his administration's handling of the crisis at the southern border. "
+    publishedDateTime: 2021-04-01T15:45:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fOp5SrTZlRM/biden-all-star-game-georgia-brian-kemp-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-all-star-game-georgia-brian-kemp-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-all-star-game-georgia-brian-kemp-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "NGjDYZnWhrvCT8gBkI7IDxbVnc6UszRcv6d2WTGNkui7riTKoi4dhtDkh6+jUhDeq7cjudAjF3+KWpk8MfAERnTwguDYo2mjeWKESP6ticNeloRmwIKh/FwyJcLeNsmMMfR07omeY+nOX1E1lLKqnTQhdOBVHR6bZdq3nX0jk7nBopxaLsln7mV3BrQJIzBNF96/Bb6qg3O1YR6McSeS3bFdK1hxd5EsZs44mobKTyo2s4UhYqVXSvC31iGJznlSH94qViw3pMSsOvCeG+3Yl5sOCfrFCABOhzhhaucZQu6YcN95O9ww2L192zqZ3N8WjxHrAOMu2Mv38Tg+PnQQZ1HSjFMePDnN3GxFGkEa4lE=;TQYTRqMO5WiX+3SUUpok1A=="
 ---

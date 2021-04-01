@@ -304,6 +304,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's halt of border wall construction sends migrants streaming into US"
+    excerpt: "Biden's halt of border wall construction sends migrants streaming into US Thousands of tons of steel and heavy equipment stand idle along the U.S.-Mexico border as legions of migrants exploit holes in the fence left by President Biden’s decision to halt construction."
+    publishedDateTime: 2021-04-01T09:08:00Z
+    webUrl: "https://www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us"
+    ampWebUrl: "https://www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Border-Agent-Split.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
     excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
     publishedDateTime: 2021-03-31T19:18:00Z

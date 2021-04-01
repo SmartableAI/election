@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-31-texas-gov-greg-abbott-wants-answers-from-harris-about-migrant-surge.md",
+      "title": "Texas Gov. Greg Abbott wants answers from Harris about migrant surge",
+      "excerpt": "The governor of Texas is demanding answers from Vice President Kamala Harris about the surge of unaccompanied children to the southern border, warning in a letter this week that the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/",
+      "originalUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-harris-border-03.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/",
+      "publishedDateTime": "2021-03-31T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-2-us-capitol-police-officers-sue-trump-over-january-6-assault.md",
       "title": "2 U.S. Capitol Police officers sue Trump over January 6 assault",
       "excerpt": "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ...",
@@ -1277,62 +1325,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-judge-allows-summer-zervos-defamation-lawsuit-against-trump-to-proceed-now-that-hes-out-of-office.md",
-      "title": "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office",
-      "excerpt": "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
-      "publishedDateTime": "2021-03-30T11:13:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

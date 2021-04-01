@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -296,6 +296,22 @@ related:
     quality: 134
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/joe-biden-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden's halt of border wall construction sends migrants streaming into US"
+    excerpt: "Biden's halt of border wall construction sends migrants streaming into US Thousands of tons of steel and heavy equipment stand idle along the U.S.-Mexico border as legions of migrants exploit holes in the fence left by President Biden’s decision to halt construction."
+    publishedDateTime: 2021-04-01T09:08:00Z
+    webUrl: "https://www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us"
+    ampWebUrl: "https://www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Border-Agent-Split.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

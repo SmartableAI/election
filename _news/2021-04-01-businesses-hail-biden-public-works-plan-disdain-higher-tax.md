@@ -253,6 +253,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump adds veteran organizer to help run political operations: report"
+    excerpt: "Former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo 'regrets' not making more progress with North Korea Biden sets off Capitol Hill ..."
+    publishedDateTime: 2021-04-01T11:57:00Z
+    webUrl: "https://thehill.com/homenews/campaign/545913-trump-adds-veteran-organizer-to-help-run-political-operation-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/545913-trump-adds-veteran-organizer-to-help-run-political-operation-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/545913-trump-adds-veteran-organizer-to-help-run-political-operation-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_010421getty_trump-va.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z
@@ -283,6 +299,22 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556945081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U1M0"
         width: 821
+        height: 545
+        isCached: true
+  - title: "U.S. House tax chief offers partial support for Biden infrastructure tax plan"
+    excerpt: "WASHINGTON (Reuters) - U.S. Representative Richard Neal, the top Democrat for tax policy in the House, offered only partial support on Thursday for President Joe Biden’s plan to finance his $2 trillion infrastructure plan by raising taxes on corporations."
+    publishedDateTime: 2021-04-01T15:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-neal-idUSKBN2BO5Y9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO5Y9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO5Y9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557045576&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3033H"
+        width: 817
         height: 545
         isCached: true
   - title: "Corporations, wealthy pay in Biden infrastructure plan, not drivers and riders"

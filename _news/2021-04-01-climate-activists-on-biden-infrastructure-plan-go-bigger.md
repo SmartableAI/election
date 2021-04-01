@@ -508,6 +508,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden sells his infrastructure package"
+    excerpt: "Act on the news with POLITICO Pro. — The fight begins to push through President Joe Biden's multitrillion dollar agenda, and Republicans and environmentalists are making it clear they won't be keeping quiet. — Biden convenes his first full Cabinet ..."
+    publishedDateTime: 2021-04-01T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/04/01/biden-sells-his-infrastructure-package-794388"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden's plan is pocked with potholes"
     excerpt: "BRIDGES TO NOWHERE — Infrastructure is often described as the ultimate bipartisan policy, so Republican opposition to President Joe Biden’s new $2 trillion infrastructure plan will inevitably be described as the latest proof that bipartisanship is dead."
     publishedDateTime: 2021-04-01T00:00:00Z
@@ -565,6 +579,6 @@ related:
         height: 629
         isCached: true
 
-secured: "g5Wtu1I0iebc3SAoLY11YE4zBj86rcu0HX7TbScXaLmyWqDZHWiY6hlbkQz0QP0QlQ01suQmFFs0J5kpcBVWGiHLIw8vuam+Tb2Hq307SQkcdWgBy8RLkmpIPPMU+a0HIkAf94Zh/xtVjdUOlRclNITpnMbzlcToHN+ArmZfSaFjaN5F7yqg/je+b9u/fSQI/7FG4sdt7HWm5T1r/2WpwPV17Sf4l9v2Mg/W79V/ElBzKWsjUHbC+RqCELkyF39BM25n3S8lFj061A8fjp6jk/F96W0r1JVA878HtHur3Y43HBU6KlZYg9inCxdi7xvSIg5nUIidfxPVnDDzWiD3OxYHqo5iiayn0LQY+ppvohQ=;IkIVJRjGq4Fsz7ydgD2eBw=="
+secured: "1wCNXv0NQb2WfjBT3ZDn/93DrDt64nng4Emh8LoTli0jaV8B8AhTvMdogZy3qQOkWNsYzOayjN1Nc8O0LaVX+cga5QkyGgh4kH88qMLFfVLP3rze/+rbS9TIvaBMG6Xd9hNkeouI0qpldSJnqhZI2j/pRVC8CcpLdriCyOEzrPjLSonpybMW1+kU7Bam+HkQAxh1nElZV1rkRQwjmtgrExn51uQdvIBnq9aUK9qK2PGEbxFsQ2JV8W8lNfhyViu8o4vR7YUfj+Xh9Vzehbrd93dTuKOyw9cvIKHcafS55Cu97KUJp6Gn3BSpxvwBcMEZU4Fll6wgn8zDR+VCvFPtYrC76sQi3mdJnpPoth9Gyv+LZ6ZAFVWz5WzlhGQgzouf65drDa1Q4i2y2ZOK9AvDyLk8znisxNv7q5ftZLCJfQmeaxCrXurd3Wqqj1Hmud8NZU237zktztEO51rcO4Y5d4HXWjZN6Ws9M+Q+BESmcwglmLVDAgQNu5XqOXroS3Jbl0/r/jNLQ2agOW2QNuq2tg==;TX6tN13LDiaua0cyXmdamw=="
 ---
 

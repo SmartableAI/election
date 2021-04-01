@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-bill.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-bill.amp"
 type: article
 quality: 185
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/AP20199501948533.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Gov. Kemp: Biden trying to distract from border crisis with call to pull MLB All-Star Game from Georgia"
+    excerpt: "Georgia Governor Brian Kemp slammed President Joe Biden's attempt to pull the MLB all-star game from Georgia as a 'distraction' from his administration's handling of the crisis at the southern border. "
+    publishedDateTime: 2021-04-01T15:45:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fOp5SrTZlRM/biden-all-star-game-georgia-brian-kemp-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-all-star-game-georgia-brian-kemp-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-all-star-game-georgia-brian-kemp-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "vzm7uLhm8mRxY0wN2n3QsnULDeZvCjqwCjCofuPuLbd1Juevnb4eOuh2apj88a18iTZTqC1OQYjUMO2tVMV2lhbvoWIT1rR3zusrN3fpCP1UA3MI+jr+BwXFZlIbnDWXihYon7Lr/tOMwTWv2/2FreZwsN6/zWxk1EghDMovA1qpXlYcpK+CJlwKaZjYR8HqJIvEs+LufZWteXdRRvF1sJ4nQ1rAtVE4ApXxRklF0lk8fgnbM1XLAIsEJE+vHFL0oqTGkBCvdE9ofIYNfKu4bAvXLdJfkVWiIpWbGnCGyhuYJfKDvthQ4at2BIz8rsEp2uU7yWaO5yksSbleJ/svQiB/KXBFxY06cvQF9gIyTJ8=;uZ/6bu7pnnaDVqV+oAt7ig=="

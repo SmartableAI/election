@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-01-biden-is-looking-into-his-legal-authority-to-cancel-student-loan-debt-white-house-chief-of-staff-ron-klain-told-politico.md",
+      "title": "Biden is looking into his 'legal authority' to cancel student loan debt, White House Chief of Staff Ron Klain told Politico",
+      "excerpt": "DOW S&P 500 NASDAQ 100 President Joe Biden is looking into his \"legal authority\" to cancel student loan debt up to $50,000, White House Chief of Staff Ron Klain said at a POLITICO Playbook event on Thursday. This is a developing story. Please check back ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4",
+      "originalUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6065e8c752f11d001943195a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4?amp",
+      "publishedDateTime": "2021-04-01T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-a-warning-to-biden-the-number-of-federal-government-breakdowns-has-been-accelerating-and-there-are-bound-to-be-more-on-his-watch.md",
       "title": "A warning to Biden: The number of federal government breakdowns has been accelerating, and there are bound to be more on his watch",
       "excerpt": "Research by New York University professor Paul Light found an increasing number of government failures in recent years, driven by “decades of neglect.”",
@@ -337,7 +389,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -441,7 +493,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
       "featuredContent": null,
       "highlight": null,
-      "heat": 600,
+      "heat": 640,
       "tags": null,
       "images": [
         {
@@ -747,54 +799,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-buttigieg-no-plan-to-increase-gas-or-mileage-tax-in-biden-infrastructure-plan.md",
-      "title": "Buttigieg: No Plan To Increase Gas Or Mileage Tax In Biden Infrastructure Plan",
-      "excerpt": "Secretary of Transportation Pete Buttigieg pledged on Monday that the Biden infrastructure plan will not feature a tax hike on gas or mileage for those with incomes less than $400,000 in an interview with CNN host Jake Tapper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/539105.jpg",
-          "width": 1106,
-          "height": 828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.amp.html",
-      "publishedDateTime": "2021-03-29T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {

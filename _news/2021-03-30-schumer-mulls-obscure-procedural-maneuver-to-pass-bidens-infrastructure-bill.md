@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden unveils 'once-in-a generation' $2tn infrastructure investment plan"
+    excerpt: "American Jobs Plan would rebuild roads, highways and bridges; confront the climate crisis and curb wealth inequality First published on Wed 31 Mar 2021 05.13 EDT Joe Biden on Wednesday unveiled what he called a “once-in-a-generation” investment in ..."
+    publishedDateTime: 2021-04-01T14:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/bde4502fafa0ea923009147e68eea8005587272e/0_0_3500_2289/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d41c19f69897c3e5615b8f01fc78ebf"
+        width: 600
+        height: 392
+        isCached: true
   - title: "Joe Biden to hold first cabinet meeting as he pitches $2tn infrastructure plan – live"
     excerpt: "Transportation secretary Pete Buttigieg pledged that he would work diligently to gain bipartisan support for Joe Biden’s $2tn infrastructure package. “I’m not going to give up on earning Republican support for this because we know that Republicans ..."
     publishedDateTime: 2021-04-01T13:39:00Z

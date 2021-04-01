@@ -79,6 +79,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Donald Trump Fans Say Mike Pence 'Betraying' Him With Potential 2024 Run"
+    excerpt: "Some prominent pro-Trump social media users have offered harsh criticism of former Vice President Mike Pence amid suggestions that the Republican may be looking at a presidential run in 2024. Though former President Donald Trump remains the favorite to win ..."
+    publishedDateTime: 2021-04-01T13:32:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 139
+    images:
+      - url: "https://d.newsweek.com/en/full/1768451/former-vice-president-pence-karen-pence.jpg"
+        width: 2037
+        height: 1358
+        isCached: true
   - title: "Pro-Trump lawyer says ‘no reasonable person’ would believe her election lies"
     excerpt: "Lawyers for Sidney Powell argued conspiracies she laid out constituted legally protected first amendment speech Last modified on Tue 23 Mar 2021 11.53 EDT A key member of the legal team that sought to steal the 2020 election for Donald Trump is defending ..."
     publishedDateTime: 2021-03-23T15:53:00Z
@@ -223,6 +239,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Why tech experts are skeptical about plans for a Trump social network"
+    excerpt: "After being banned by most large social networks in January, former President Donald Trump is planning a dramatic return to social media. According to his close advisers, the former president is on the verge of launching a Trump-branded social network to ..."
+    publishedDateTime: 2021-04-01T13:12:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-social-network-tech-experts/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-social-network-tech-experts/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-social-network-tech-experts/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/d554aec0-4142-4565-a805-539b25336856/thumbnail/1200x630/35224ea24c8814699aa27412a09cf737/gettyimages-1230468115.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
     publishedDateTime: 2021-03-31T04:05:00Z
@@ -305,17 +337,17 @@ related:
         isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-    publishedDateTime: 2021-03-30T14:23:00Z
-    webUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-    ampWebUrl: "https://www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-    cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    publishedDateTime: 2021-03-30T12:10:00Z
+    webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
     type: article
     provider:
-      name: TexomasHomepage.com
-      domain: texomashomepage.com
+      name: WTVO
+      domain: mystateline.com
     quality: 90
     images:
-      - url: "https://www.texomashomepage.com/wp-content/uploads/sites/41/2021/03/pence.jpg?w=1280"
+      - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
         width: 1024
         height: 683
         isCached: true
@@ -462,6 +494,22 @@ related:
       - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/03/web1_AP21088723409061.jpg"
         width: 760
         height: 507
+        isCached: true
+  - title: "Wisconsin governor seeks legal fees from Trump, Republicans"
+    excerpt: "MADISON, Wis. (AP) — Wisconsin Democratic Gov. Tony Evers is seeking more than $250,000 in legal fees from former President Donald Trump and a Republican Party official related to fighting a pair of election lawsuits filed last year. Evers made the ..."
+    publishedDateTime: 2021-04-01T15:45:00Z
+    webUrl: "https://www.chron.com/news/article/Wisconsin-governor-seeks-legal-fees-from-Trump-16069816.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wisconsin-governor-seeks-legal-fees-from-Trump-16069816.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wisconsin-governor-seeks-legal-fees-from-Trump-16069816.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Former Vice President Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
