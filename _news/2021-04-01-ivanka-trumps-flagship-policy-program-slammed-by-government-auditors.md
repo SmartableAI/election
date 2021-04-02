@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-ini
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
 type: article
 quality: 135
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "A global aid program championed by Ivanka Trump has serious problems, a report finds."
+    excerpt: "So haphazard was management of the program that an independent watchdog was unable to determine whether it actually worked."
+    publishedDateTime: 2021-04-01T19:54:00Z
+    webUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/01/us/01new-washington-briefing-IvankaGAO/01new-washington-briefing-IvankaGAO-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Moncef Slaoui, Trump vaccine chief, fired from board over sexual harassment allegations"
     excerpt: "WASHINGTON — The man who led former President Donald Trump’s effort to produce Covid-19 vaccines, Moncef Slaoui, has been fired from a bioelectronics company’s board of directors over sexual harassment allegations. Slaoui, who was in charge of Trump ..."
     publishedDateTime: 2021-03-24T16:33:00Z

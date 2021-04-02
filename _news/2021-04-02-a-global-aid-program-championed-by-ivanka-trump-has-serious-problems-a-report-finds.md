@@ -1,0 +1,84 @@
+---
+category: news
+title: "A global aid program championed by Ivanka Trump has serious problems, a report finds."
+excerpt: "So haphazard was management of the program that an independent watchdog was unable to determine whether it actually worked."
+publishedDateTime: 2021-04-01T19:54:00Z
+originalUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.html"
+webUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.html"
+ampWebUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.amp.html"
+type: article
+quality: 128
+heat: -1
+published: false
+
+provider:
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+  - Democratic Voice
+
+images:
+  - url: "https://static01.nyt.com/images/2021/04/01/us/01new-washington-briefing-IvankaGAO/01new-washington-briefing-IvankaGAO-facebookJumbo.jpg"
+    width: 1050
+    height: 550
+    isCached: true
+
+related:
+  - title: "Ivanka Trump's flagship policy program slammed by government auditors"
+    excerpt: "The Government Accountability Office has issued a damning report about Ivanka Trump’s pet project during her time as an adviser to her father, President Donald Trump. As Ivanka Trump traveled the world talking up the Women’s Global Development and ..."
+    publishedDateTime: 2021-03-31T17:34:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c8/c4/dd2581fb4799a6a66ebf77333c62/20210331-ivanka-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Moncef Slaoui, Trump vaccine chief, fired from board over sexual harassment allegations"
+    excerpt: "WASHINGTON — The man who led former President Donald Trump’s effort to produce Covid-19 vaccines, Moncef Slaoui, has been fired from a bioelectronics company’s board of directors over sexual harassment allegations. Slaoui, who was in charge of Trump ..."
+    publishedDateTime: 2021-03-24T16:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/moncef-slaoui-ex-trump-vaccine-chief-fired-board-over-sexual-n1261914"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261914"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261914"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459180/210324-moncef-slaoui-jm-0934_dda6551a87edc9aa2311df3b313f08ce.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Donald Trump's weird post-presidency shouldn't surprise you"
+    excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
+    publishedDateTime: 2021-04-01T15:17:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/01/trump-post-presidency-tmz-video-cillizza-the-point.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401105556-the-point-trump-post-presidency-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "vD5gguqT3ZIIoz6Nzzwnl/n0wApQqkbahbM8hkXR6Y1vMEZ+3f+VeuP5xUiKWiqIpi+vkkBJtbVLxSv4ESmiUeIqsNGQkb4nxSIXknlhFmBhSCev3IdU0E7j5mxWhZ4ds8LeKhraSjIgI/z0WFq7fsG5GzNF48u8qt09madyVA5Wv8YESqPzw12wXh5Ykvzyf+RkF/+DqXll9teWByT+gqkPtRuIP2xpjbJ8oBeENJTp9KoS3apUG5t1N60MvTG532dIGVfMIcsF+3XpFEU4d99L/Y9DbwGXYu1+CgDKCJbw+DM7aAMuuLJ5UUG1kdHfFmyJ1piu0j81js78OFxjyfAwhMbis/LuYH5wA9x3FNs=;Yb6L+ckk3/djPawrsRebKQ=="
+---
+

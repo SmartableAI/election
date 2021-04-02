@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/dan-bongino-biden-migrant-facilitie
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-bongino-biden-migrant-facilities-animals-border-immigration.amp"
 type: article
 quality: 122
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Abbott claims Biden admin 'clearly in violation' of federal law by overcrowding migrant facilities"
+    excerpt: "Texas Republican Gov. Greg Abbott called out the Biden administration on \"Hannity\" Thursday over what Abbott described as \"outrageous\" conditions in migrant holding facilities near the southern border."
+    publishedDateTime: 2021-04-02T03:14:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bvCg8L8H04/greg-abbott-texas-biden-violating-federal-law-migrant-shelters"
+    ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-texas-biden-violating-federal-law-migrant-shelters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-texas-biden-violating-federal-law-migrant-shelters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "UNigsxld7/twy0U+z3JJjwYPMy/lEaV5I/U8oF4BjIQG5wTCA+YxGhtO93QYWOc4jB8k7ph43iZH79JdsDoxivLqEwqpPn82rmRmH8dnJEY1rYocdpdJ5Icxhr6Hh0kXmj6VhhBOw+yqDXhfCIh2QeJP23TmshprSo32ks/cz1Xpu29YWye0qs1J16bQusECODk+bpGhqC2QmYaVB8LrXoLboxTb3kzS8v5KioM4WSsk6VQ5xYauv9fPGOQ0TmfwBLqe2SGi/NBfQoeyo5k94nSXPNpIE9lXr876qdTJSzUgQY3U7xAi3bFvSiyA+scfGFDej/1K6Jr5ndCilU/m4a4XcIFlgVit60qx3Js1L588pSs7UNOFB+/0XP5dgnmaI757ki9wGx1Ogq1rTJp54uA8UCEW6g5h5qtd3yaFexRuaxTJ7ip8gy0+oPi69lcnZynv0JWjsqqeNHP2NDNx7vLdTu/mpSWbnEd3Ht+hUPIPXoBS+73cNJxM2ezuUO/IBdHgiG0hSMvKZLdb8Y1zig==;gsytqnb0wejqCNoBtpZg/w=="
 ---

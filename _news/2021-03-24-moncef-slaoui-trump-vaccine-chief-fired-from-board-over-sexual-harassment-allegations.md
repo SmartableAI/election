@@ -48,6 +48,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "A global aid program championed by Ivanka Trump has serious problems, a report finds."
+    excerpt: "So haphazard was management of the program that an independent watchdog was unable to determine whether it actually worked."
+    publishedDateTime: 2021-04-01T19:54:00Z
+    webUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/01/us/01new-washington-briefing-IvankaGAO/01new-washington-briefing-IvankaGAO-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Donald Trump's weird post-presidency shouldn't surprise you"
     excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
     publishedDateTime: 2021-04-01T15:17:00Z

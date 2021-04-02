@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 720
+heat: 740
 published: true
 
 provider:
@@ -205,6 +205,22 @@ related:
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_33021_gettyimages.png"
         width: 826
+        height: 551
+        isCached: true
+  - title: "33 Democrats urge Biden to shut down Dakota Access Pipeline"
+    excerpt: "A group of 33 Democratic lawmakers is asking President Biden Joe Biden The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Biden administration unveils network of community ..."
+    publishedDateTime: 2021-04-01T16:19:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/545991-33-democrats-urge-biden-to-shut-down-dakota-access-pipeline"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/545991-33-democrats-urge-biden-to-shut-down-dakota-access-pipeline?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/545991-33-democrats-urge-biden-to-shut-down-dakota-access-pipeline?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/dakotaaccesspipeline_protest_020817gn_lead.jpg"
+        width: 980
         height: 551
         isCached: true
   - title: "82 unions and liberal groups call on Biden to create wealth tax"
