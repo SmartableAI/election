@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-31-mike-pences-fame-is-both-his-2024-gift-and-curse.md",
+      "title": "Mike Pence's Fame Is Both His 2024 Gift and Curse",
+      "excerpt": "Former Vice President Mike Pence's fame has its benefits should he choose to pursue any presidential ambitions. But it also comes with downsides. Pence has long been touted as a potential 2024 candidate and after a period of quiet, he looks to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019",
+      "originalUrl": "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1767764/mike-pence-inauguration.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019?amp=1",
+      "publishedDateTime": "2021-03-31T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-russia-keeps-bribing-foreign-politicians-is-trump-different.md",
+      "title": "Russia Keeps Bribing Foreign Politicians. Is Trump Different?",
+      "excerpt": "In the United States, Donald Trump became a subject of suspicion in 2016 because his relationship to Russia bore many of the obvious hallmarks of these other illicit ties. Here was a right-wing ...",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "originalUrl": "https://nymag.com/intelligencer/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/d50/1a5/1a71bafd2392354ec0f03bc027ece4b6e2-trump-putin.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "publishedDateTime": "2021-03-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-james-blassingame-and-sidney-hembys-lawsuit-against-donald-trump.md",
       "title": "James Blassingame and Sidney Hemby’s Lawsuit Against Donald Trump",
       "excerpt": "Case No.: DONALD J. TRUMP : : : Defendant. COMPLAINT 1. This is a complaint for damages by U.S. Capitol Police officers for physical and emotional injuries caused by the defendant Donald Trump's wrongful conduct inciting a riot on January 6, 2021 ...",
@@ -1228,119 +1323,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-duckworth-on-biden-hesitance-to-complete-troop-withdrawal-we-need-to-do-our-jobs-in-congress.md",
-      "title": "Duckworth on Biden hesitance to complete troop withdrawal: 'We need to do our jobs' in Congress",
-      "excerpt": "Sen. Tammy Duckworth, D-Ill., said that 'we need to do our jobs in the Senate and the House in order to provide transparency for the American people on why and how long troops are in the Middle East.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kEyKXzjtsyc/duckworth-biden-withdrawal-troop-afghanistan-middle-east",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kEyKXzjtsyc/duckworth-biden-withdrawal-troop-afghanistan-middle-east",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/duckworth-biden-withdrawal-troop-afghanistan-middle-east.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/duckworth-biden-withdrawal-troop-afghanistan-middle-east.amp",
-      "publishedDateTime": "2021-03-30T08:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-hillary-clinton-john-kerry-repeatedly-attacked-trump-administration-after-leaving-state-department.md",
-      "title": "Hillary Clinton, John Kerry repeatedly attacked Trump administration after leaving State Department",
-      "excerpt": "The New York Times came under fierce criticism Monday for claiming Mike Pompeo stood out as a former secretary of state for his open partisanship, given the outspoken criticisms of the Trump administration by Hillary Clinton and John Kerry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93d6d9ec-ae27-481e-84f7-422080f3e2eb/d669044e-5520-48e2-9a64-2e55a44b5141/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "publishedDateTime": "2021-03-30T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

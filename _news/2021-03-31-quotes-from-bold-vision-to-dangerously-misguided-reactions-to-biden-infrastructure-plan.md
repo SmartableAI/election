@@ -121,6 +121,22 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Why green initiatives count as infrastructure, from Biden's top climate officials"
+    excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. The first $2 trillion of President Joe Biden's up to $4 trillion infrastructure package includes not only funding for roads and bridges, but also for climate ..."
+    publishedDateTime: 2021-04-02T15:27:00Z
+    webUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/606723ac52f11d0019431bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "In first press conference, Biden talks immigration, filibuster, China, vaccination goal"
     excerpt: "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office."
     publishedDateTime: 2021-03-26T09:13:00Z

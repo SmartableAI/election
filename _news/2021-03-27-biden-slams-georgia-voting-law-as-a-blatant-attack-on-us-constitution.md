@@ -495,6 +495,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "Hunter Biden says he doesn't know if Delaware laptop was his"
+    excerpt: "Hunter Biden, the son of President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of ..."
+    publishedDateTime: 2021-04-02T14:26:00Z
+    webUrl: "https://thehill.com/homenews/administration/546148-hunter-biden-doesnt-know-if-delaware-laptop-was-his"
+    ampWebUrl: "https://thehill.com/homenews/administration/546148-hunter-biden-doesnt-know-if-delaware-laptop-was-his?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546148-hunter-biden-doesnt-know-if-delaware-laptop-was-his?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/hunter_biden.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "US to house some migrant families in hotels in shift by Biden administration"
     excerpt: "Plan is to move away from detention centers as nonprofit will oversee sites at hotels in Texas and Arizona"
     publishedDateTime: 2021-03-21T12:05:00Z

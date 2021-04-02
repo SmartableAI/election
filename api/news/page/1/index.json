@@ -2,19 +2,71 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-02-us-open-to-first-direct-talks-with-iran-since-trump-left-nuclear-deal-3-years-ago.md",
+      "title": "U.S. 'Open' to First Direct Talks With Iran Since Trump Left Nuclear Deal 3 Years Ago",
+      "excerpt": "The United States has said it is open to holding its first official, direct talks with Iran since former President Donald Trump left a nuclear deal between the Islamic Republic and major world powers three years ago. Following virtual discussions on Friday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687",
+      "originalUrl": "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1770282/us-iran-flags-united-nations.jpg",
+          "width": 2500,
+          "height": 1779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1",
+      "publishedDateTime": "2021-04-02T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-biden-set-to-talk-up-economic-resurgence-after-promising-jobs-news-us-politics-live.md",
       "title": "Biden set to talk up economic resurgence after promising jobs news – US politics live",
-      "excerpt": "The White House coronavirus response team will also hold a briefing this morning to provide an update on vaccine distribution and case numbers. The data on vaccine distribution in the US has been very encouraging, with 30% of Americans now having received ...",
+      "excerpt": "Fully vaccinated Americans can now travel domestically without self-quarantining, the Centers for Disease Control and Prevention announced today. Vaccinated people also do not need to take a coronavirus test before traveling, although the CDC has asked ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606737a38f087a7cbd51e124",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606737a38f087a7cbd51e124",
       "featuredContent": null,
       "highlight": null,
       "heat": 158,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/176064405949fa47869bf8b2d8d6addd72a2d402/0_139_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d007810a85981ba1f24cdfeee729517e",
+          "url": "https://i.guim.co.uk/img/media/feae15e77874dcf2a9333884cefa19fb252611a1/154_0_4441_2665/master/4441.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca77fe79f82dc139431483804c61be64",
           "width": 600,
           "height": 360,
           "title": null,
@@ -26,7 +78,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news",
-      "publishedDateTime": "2021-04-02T05:28:00-07:00",
+      "publishedDateTime": "2021-04-02T07:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -51,6 +103,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-fact-check-biden-and-kemp-misleadingly-describe-parts-of-georgia-elections-law.md",
+      "title": "Fact check: Biden and Kemp misleadingly describe parts of Georgia elections law",
+      "excerpt": "There are a lot of misleading claims being made about Georgia's controversial elections law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 286,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210401182037-kemp-biden-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html",
+      "publishedDateTime": "2021-04-02T07:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -282,7 +390,7 @@
       "originalUrl": "https://www.bbc.com/news/business-56611977",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -766,7 +874,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -1244,114 +1352,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-republican-senators-line-up-against-bidens-massive-22t-spending-bill-far-cry-away-from-infrastructure.md",
-      "title": "Republican senators line up against Biden's massive $2.2T spending bill: 'Far cry away from' infrastructure",
-      "excerpt": "The opposition is coming even from moderates who attempted to work with Biden on the coronavirus stimulus plan.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/53yiLDIzkjM/republicans-bidens-spending-bill-far-cry-away-infrastructure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/53yiLDIzkjM/republicans-bidens-spending-bill-far-cry-away-infrastructure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp",
-      "publishedDateTime": "2021-04-01T06:52:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-chinese-sculptor-makes-trump-buddha-statues-orders-pour-in.md",
-      "title": "Chinese Sculptor Makes Trump Buddha Statues; Orders Pour In",
-      "excerpt": "The statue by furniture maker Hong Jinshi has Trump with his legs crossed, hands folded in his laps, thumbs pointing outwards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056",
-      "originalUrl": "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg",
-          "width": 1024,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056?amp=1",
-      "publishedDateTime": "2021-04-01T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

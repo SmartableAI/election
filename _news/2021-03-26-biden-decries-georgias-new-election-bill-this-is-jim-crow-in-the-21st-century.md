@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-bill.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-bill.amp"
 type: article
 quality: 185
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60884bb9-5954-4384-8606-86e798a73628/9d915939-10db-4690-ab41-5672c07a1a93/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Georgia Sen. Ossoff rejects Biden's baseball boycott over new voting law"
+    excerpt: "Sen. Jon Ossoff, D-Ga., said he won't support moving Major League Baseball's All-Star game out of Georgia in protest of the state's new divisive voting law. "
+    publishedDateTime: 2021-04-02T15:10:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPZfP92R3dk/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21004855298319.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Psaki doubles down on Biden's Georgia voting comments after major fact-check"
     excerpt: "White House press secretary Jen Psaki furthered the president's criticism of Georgia's new voting law even after a fact check determined his line of attack was false."
@@ -114,7 +130,7 @@ related:
   - title: "How Biden Could Get His Call For National Unity Back"
     excerpt: "President Joe Biden began his presidency with an inaugural call for national unity. Since that time, his greatest legislative achievement is a COVID-19"
     publishedDateTime: 2021-04-02T10:47:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html#!"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
     type: article

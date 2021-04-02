@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: Biden and Kemp misleadingly describe parts of Georgia elections law"
+    excerpt: "There are a lot of misleading claims being made about Georgia's controversial elections law.\n    \n"
+    publishedDateTime: 2021-04-02T14:00:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401182037-kemp-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden calls new Georgia voting law 'Jim Crow in the 21st Century'"
     excerpt: "President Joe Biden on Friday called a sweeping elections bill signed into law in Georgia \"Jim Crow in the 21st Century\" and a \"blatant attack on the Constitution and good conscience.\"\n    \n"
     publishedDateTime: 2021-03-26T21:03:30Z
@@ -47,21 +63,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's all quiet on the southern border. That might not last."
-    excerpt: "WASHINGTON — President Joe Biden's response to an influx of migrants at the U.S.-Mexico border has been muted so far. But a tightening political squeeze may force him to act more aggressively soon. Biden's Republican critics say that he's failing to ..."
-    publishedDateTime: 2021-03-24T08:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-all-quiet-southern-border-might-not-last-n1261857"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261857"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261857"
+  - title: "Biden administration expanding pause on student loan interest and collections"
+    excerpt: "The Biden administration is expanding the pause on student loan interest and collections to the more than a million borrowers who are in default on loans made by private lenders, White House press secretary Jen Psaki said Tuesday.\n    \n"
+    publishedDateTime: 2021-03-30T18:10:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pRx6SlrQTbw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/student-loans-collections-pause-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/student-loans-collections-pause-biden/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 172
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459016/210323-joe-biden-podium-ac-446p_0740f7e5d27241f32d4e6a030a00a6cd.jpg"
-        width: 2500
-        height: 1517
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005171032-01-parents-college-students-kids-safely-wellness-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "'Outrageous': Biden condemns new Georgia law as a 'blatant attack' on voting rights"
     excerpt: "President Joe Biden on Friday condemned the sweeping new voting restrictions in Georgia as \"outrageous,\" \"un-American\" and \"Jim Crow in the 21st Century.\" \"This law, like so many others being pursued by Republicans in statehouses across the country is a ..."
@@ -78,6 +94,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3460045/210326-joe-biden-se-305p_8eceef510d30a283446830dfceed5b6e.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden warned of defense budget test"
+    excerpt: "Act on the news with POLITICO Pro. — A top Republican is making a final plea to President Joe Biden: Don’t shortchange the Pentagon in its upcoming budget request. — The Marine Corps is working on an ambitious plan to remake the entire service by 2030."
+    publishedDateTime: 2021-04-02T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/02/biden-warned-of-defense-budget-test-794432"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "dg5YwDzKpFB2MudALcKmBk2KgWOutlKz+Lj5aC3l1R8Ce17NneUgBvhaZ3agvJh8qe32mMjptSIYtxB7NzbwniNzOeLVu3XquTioVzj+30Rl9gI6t+FR3sxK/HPD+MoR6ZR4kwACFVeNPFYFaIYnY5/znqtrUhTLxf4db/P+7q1mtiakEviO5hu9GW0pLAOfPXEItA2roZgRlirBJ2f3hMfWQDKzsTXJxo4weUpPG/5uUzWl7JcxCRauKeKq497Rq+u2lOo6DEwAMiH8TadZKNsSl02+hFaryoRCyp7iA3t+nSIPsZYa0aNOdA3zBCDUEg3l1ewkCsg0J8i5n4JswBoQv68GVVNLTbeVpNX0TtM=;l9nKPSeCiVFenCBvLcQXfw=="

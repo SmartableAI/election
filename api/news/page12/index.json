@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-16-undocumented-immigrants-see-light-of-hope-in-biden-relief-plan-which-gives-aid-to-their-us-born-children.md",
+      "title": "Undocumented immigrants see 'light of hope' in Biden relief plan which gives aid to their U.S.-born children",
+      "excerpt": "Undocumented workers were mostly left out of past COVID relief. Biden's $1.9 trillion plan would open that door through payments to their children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/11/PNJM/56b66752-bcca-4b40-b322-99f5b37ab7d2-jl_MORENO_FAMILY_31121_01.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4709977001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4709977001",
+      "publishedDateTime": "2021-03-15T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-trumps-cfos-ex-daughter-in-law-is-cooperating-with-prosecutors-and-refuses-to-be-silenced-her-lawyer-says.md",
       "title": "Trump's CFO's ex-daughter-in-law is cooperating with prosecutors and 'refuses to be silenced,' her lawyer says",
       "excerpt": "Allen Weisselberg holds the keys to Donald Trump's personal finances, as well as his company's financial details.",
@@ -1298,58 +1350,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-trumps-twitter-ban-hurt-him-more-than-losing-the-election-to-biden-his-niece-mary-says.md",
-      "title": "Trump's Twitter ban hurt him more than losing the election to Biden, his niece Mary says",
-      "excerpt": "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Donald Trump's Twitter ban will have upset him more than losing November's presidential election to Joe Biden, his niece Mary has told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
-      "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604ba442fea127001886a77d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp",
-      "publishedDateTime": "2021-03-13T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: Biden and Kemp misleadingly describe parts of Georgia elections law"
+    excerpt: "There are a lot of misleading claims being made about Georgia's controversial elections law.\n    \n"
+    publishedDateTime: 2021-04-02T14:00:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401182037-kemp-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden calls new Georgia voting law 'Jim Crow in the 21st Century'"
     excerpt: "President Joe Biden on Friday called a sweeping elections bill signed into law in Georgia \"Jim Crow in the 21st Century\" and a \"blatant attack on the Constitution and good conscience.\"\n    \n"
     publishedDateTime: 2021-03-26T21:03:30Z
@@ -45,6 +61,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325160346-biden-press-conference-0325-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration expanding pause on student loan interest and collections"
+    excerpt: "The Biden administration is expanding the pause on student loan interest and collections to the more than a million borrowers who are in default on loans made by private lenders, White House press secretary Jen Psaki said Tuesday.\n    \n"
+    publishedDateTime: 2021-03-30T18:10:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pRx6SlrQTbw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/student-loans-collections-pause-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/student-loans-collections-pause-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005171032-01-parents-college-students-kids-safely-wellness-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,21 +96,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's all quiet on the southern border. That might not last."
-    excerpt: "WASHINGTON — President Joe Biden's response to an influx of migrants at the U.S.-Mexico border has been muted so far. But a tightening political squeeze may force him to act more aggressively soon. Biden's Republican critics say that he's failing to ..."
-    publishedDateTime: 2021-03-24T08:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-all-quiet-southern-border-might-not-last-n1261857"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261857"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261857"
+  - title: "Biden warned of defense budget test"
+    excerpt: "Act on the news with POLITICO Pro. — A top Republican is making a final plea to President Joe Biden: Don’t shortchange the Pentagon in its upcoming budget request. — The Marine Corps is working on an ambitious plan to remake the entire service by 2030."
+    publishedDateTime: 2021-04-02T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/02/biden-warned-of-defense-budget-test-794432"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459016/210323-joe-biden-podium-ac-446p_0740f7e5d27241f32d4e6a030a00a6cd.jpg"
-        width: 2500
-        height: 1517
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "4v6S7Hh+v2kA4WJOdBokwr6aQUBgW5acKrBOocgA5UwdWsWsdYZS446w1qGUq1YnScWlb2uW/MOQ1P+hfgPLQZsoQrSLn7e+vkeg4vrMR4eK7lB9MQtPBT/OwkRqxf1tJNnrFqSDA+hxFIMBE+CXlTuMCB+L7JIOXbHcvCXSY673CsnpQWheIY9boT4imWJBneF1RjVIDHXitQfdu2bERk2E3iqIqZ/HUeYIStUmnkt9nsztt4E8gN3J5nd4x2ETgv5s0lIHdyD5WaZd0YWdzPT3wEt/OT2GvR4bgQryipRXgfHwxp5L7NaJpRSGHxG8TsX19WnD3mPQz5Srx2PIraMFp+qbXETduXHj257qDeNR6cFI+cO4JVS6eseAubJdTeir0Ra+ZnpBuQHhrKnr+WP0bNEa+TMsbHcvzBLUXmxn0ugo26uEG7hT+S0oQYZoNYe5XfA1UT22suOnlTYPvG47K4BX+4Ek1XPO63ZZb1lSR/0JLlOZEXhu77snnbs3BZwIAg17FRTkE7iK9Jcw8g==;IlAfA355M3boRUr0JvVqTQ=="

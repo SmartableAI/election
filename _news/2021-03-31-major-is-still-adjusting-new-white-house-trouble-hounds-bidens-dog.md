@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's all quiet on the southern border. That might not last."
+    excerpt: "WASHINGTON — President Joe Biden's response to an influx of migrants at the U.S.-Mexico border has been muted so far. But a tightening political squeeze may force him to act more aggressively soon. Biden's Republican critics say that he's failing to ..."
+    publishedDateTime: 2021-03-24T08:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-all-quiet-southern-border-might-not-last-n1261857"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261857"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261857"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459016/210323-joe-biden-podium-ac-446p_0740f7e5d27241f32d4e6a030a00a6cd.jpg"
+        width: 2500
+        height: 1517
+        isCached: true
   - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
     excerpt: "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ..."
     publishedDateTime: 2021-03-19T17:41:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Donald Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
 excerpt: "The former President lists Ron DeSantis as a potential heir, but left Pence out. The former Vice President is steadily reentering public life as he eyes a potential run for the White House in 2024. He’s joining conservative organizations,"
-publishedDateTime: 2021-03-30T11:04:00Z
-originalUrl: "https://floridapolitics.com/2021/03/30/donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-webUrl: "https://floridapolitics.com/2021/03/30/donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+publishedDateTime: 2021-03-30T10:39:00Z
+originalUrl: "https://floridapolitics.com/archives/415992-donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+webUrl: "https://floridapolitics.com/archives/415992-donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
 type: article
 quality: 70
 heat: -1
@@ -628,6 +628,6 @@ related:
         height: 683
         isCached: true
 
-secured: "YrIFcty51vUE5a2dN4P06La5xE9YE035zZneDNRRxib4t6LCMN8Lc3uAHZM6Inh1ldN7qgv9/DuMtJxxBW7x5T3pS1WnqcePz6cF44Fukx59F/XexnNKTWcZ0vC//wro0+yn8Ss/VstZSs9LDiP40Yu5wb//LFVzWfCZRM3rx/6E+E6AnLibOwb7mhScV4ONMRtLScRDFTD8vG2NPioeQ6HCPi/h4K2EBL4+LfEJadpWoC/Mqe+ci18ZWhHSZZ9kpu7ujF0K0p7/22+oiBiRk0mBwiRPVX56IapgZl7ykYmjJBQs9YR3IXaVrnK2cD2dwcjjIRulrtel3IjQrBnpm07ovQ14yuV1jPu5Gs9kvu8=;+i5Ol2jG/T5QclYIPaNUIg=="
+secured: "93aLm+wS/QHCXmBncIqJFq8b26BjpEnZUimu5PGK2xshPMqN47D7g1BosW2n7dhkQ0X6dQLUTIVAUxBMD/jS09bTp7Ev7K/kNev3h+JnIaMJUpzMMSCugBPl80JUXLGgn1fjeU+3P224wbqqAf8L9BxULYWga2P7WAhxY5R7x0qwnP/NZ/qGOKaKJxgKvQwYSrkrgsFFUxrYupcvpy3DeB9R7MoC5XogDji7eBcKoyi028ku2/raFGTc2CsNUsudqRztYRHa9kro8T8tPn7uu4jnOwb+SpL4jNrLMP6aEAbviWDpvxEfNe6rxRy2zfU3CzpxDNSCtA8VgeGpKOdFOWcR7KJnuFYhsmxhxBCcPBM=;YglFodCKdNsf2wq52zPq9Q=="
 ---
 

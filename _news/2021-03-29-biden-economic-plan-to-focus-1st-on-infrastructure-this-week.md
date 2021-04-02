@@ -315,6 +315,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden holds first phone call with Ukraine president"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden ..."
+    publishedDateTime: 2021-04-02T15:40:00Z
+    webUrl: "https://thehill.com/homenews/administration/546171-biden-holds-first-phone-call-with-ukraine-president"
+    ampWebUrl: "https://thehill.com/homenews/administration/546171-biden-holds-first-phone-call-with-ukraine-president?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546171-biden-holds-first-phone-call-with-ukraine-president?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/zelenskyvolodymyr_092419getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "New York attorney general probes Trump Organization's CFO"
     excerpt: "who has handled former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo 'regrets' not making more progress with North Korea Biden sets off ..."
     publishedDateTime: 2021-04-02T01:12:00Z
@@ -500,6 +516,22 @@ related:
       - url: "https://i.insider.com/6064c47edaf0f10018f994c5?width=700"
         width: 700
         height: 525
+        isCached: true
+  - title: "Twitter Compares Melania Trump, Jill Biden After First Lady’s Botched Spanish Attempt"
+    excerpt: "Melania Trump and Jill Biden were compared after the first lady butchered a Spanish motto during a speech Some Twitter users claimed Trump is better than Biden because she can speak five languages Other netizens preferred Biden over Trump because they ..."
+    publishedDateTime: 2021-04-02T05:31:00Z
+    webUrl: "https://www.ibtimes.com/twitter-compares-melania-trump-jill-biden-after-first-ladys-botched-spanish-attempt-3173660"
+    ampWebUrl: "https://www.ibtimes.com/twitter-compares-melania-trump-jill-biden-after-first-ladys-botched-spanish-attempt-3173660?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-compares-melania-trump-jill-biden-after-first-ladys-botched-spanish-attempt-3173660?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 83
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden economic plan to focus on infrastructure this week"
     excerpt: "President Biden will lay out the first part of his $1.9T recovery package this week, focusing on rebuilding roads, bridges and other infrastructure"

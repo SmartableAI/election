@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-02-fact-check-biden-and-kemp-misleadingly-describe-parts-of-georgia-elections-law.md",
+      "title": "Fact check: Biden and Kemp misleadingly describe parts of Georgia elections law",
+      "excerpt": "There are a lot of misleading claims being made about Georgia's controversial elections law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 286,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210401182037-kemp-biden-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html",
+      "publishedDateTime": "2021-04-02T07:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-harris-to-move-into-naval-observatory-residence-next-week-after-renovations-delay.md",
       "title": "Harris to move into Naval Observatory residence next week after renovations delay",
       "excerpt": "Vice President Kamala Harris and second gentleman Doug Emhoff will move into the vice president's official residence next week after their move was delayed for more than two months because of \"repairs to the home,\" Harris' chief spokeswoman Symone Sanders said on Thursday.\n    \n",
@@ -1129,62 +1185,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-26-biden-calls-new-georgia-voting-law-jim-crow-in-the-21st-century.md",
-      "title": "Biden calls new Georgia voting law 'Jim Crow in the 21st Century'",
-      "excerpt": "President Joe Biden on Friday called a sweeping elections bill signed into law in Georgia \"Jim Crow in the 21st Century\" and a \"blatant attack on the Constitution and good conscience.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4RSvf6eCsvI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4RSvf6eCsvI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325160346-biden-press-conference-0325-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/26/politics/joe-biden-georgia-voting-rights-bill/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/joe-biden-georgia-voting-rights-bill/index.html",
-      "publishedDateTime": "2021-03-26T14:03:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-26-biden-says-he-wants-vladimir-putin-and-xi-jinping-at-virtual-climate-change-summit-next-month.md",
       "title": "Biden says he wants Vladimir Putin and Xi Jinping at virtual climate change summit next month",
       "excerpt": "Chinese President Xi Jinping and Russian President Vladimir Putin \"know they're invited\" to join a US-hosted virtual summit on climate, President Joe Biden told reporters on Friday.\n    \n",
@@ -1253,7 +1253,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 415,
+      "heat": 435,
       "tags": null,
       "images": [
         {

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-02-us-open-to-first-direct-talks-with-iran-since-trump-left-nuclear-deal-3-years-ago.md",
+      "title": "U.S. 'Open' to First Direct Talks With Iran Since Trump Left Nuclear Deal 3 Years Ago",
+      "excerpt": "The United States has said it is open to holding its first official, direct talks with Iran since former President Donald Trump left a nuclear deal between the Islamic Republic and major world powers three years ago. Following virtual discussions on Friday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687",
+      "originalUrl": "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1770282/us-iran-flags-united-nations.jpg",
+          "width": 2500,
+          "height": 1779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1",
+      "publishedDateTime": "2021-04-02T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-italian-restaurant-wrongly-targeted-by-trump-sanctions.md",
       "title": "Italian restaurant wrongly targeted by Trump sanctions",
       "excerpt": "One of Donald Trump's last sanctions before he left office was mistakenly on a restaurant owner in Verona, Italy. The error happened as part of the Trump administration's crackdown on blacklisted Venezuelan crude oil.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.bbc.com/news/business-56611977",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1506,54 +1558,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-bernie-sanders-not-comfortable-with-trump-twitter-ban.md",
-      "title": "Bernie Sanders not ‘comfortable’ with Trump Twitter ban",
-      "excerpt": "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/",
-      "originalUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/sanders-on-trump-twitter-ban-882.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/",
-      "publishedDateTime": "2021-03-23T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

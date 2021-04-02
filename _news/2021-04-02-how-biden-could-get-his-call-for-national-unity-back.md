@@ -3,8 +3,8 @@ category: news
 title: "How Biden Could Get His Call For National Unity Back"
 excerpt: "President Joe Biden began his presidency with an inaugural call for national unity. Since that time, his greatest legislative achievement is a COVID-19"
 publishedDateTime: 2021-04-02T10:47:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
 type: article
@@ -59,6 +59,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60884bb9-5954-4384-8606-86e798a73628/9d915939-10db-4690-ab41-5672c07a1a93/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Georgia Sen. Ossoff rejects Biden's baseball boycott over new voting law"
+    excerpt: "Sen. Jon Ossoff, D-Ga., said he won't support moving Major League Baseball's All-Star game out of Georgia in protest of the state's new divisive voting law. "
+    publishedDateTime: 2021-04-02T15:10:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPZfP92R3dk/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21004855298319.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Psaki doubles down on Biden's Georgia voting comments after major fact-check"
     excerpt: "White House press secretary Jen Psaki furthered the president's criticism of Georgia's new voting law even after a fact check determined his line of attack was false."
@@ -125,6 +141,6 @@ related:
         height: 340
         isCached: true
 
-secured: "04R2VMOFv4m9IZhwiLmBbuLaKkgPG5HT7NNNfUoShUp3cXamuaWAw40w8dgY1+qYJZ6jtlMM8OTJLPKQv0VMyzGHBvUBmcjJFhzRJkumaCRcY1oyFLGiumYYLzGYl1ixr6rMJ+greJzJcfrqKZhD+NrXXq13SSMAKHZ6WZjM92WekENjJD/4xFAgsNj+rg+48pUzZl9Q5uukQdh4jucTynjhZd+04huy/tSFiCXWLznn0AU0wLbXiPe8ovEWm4Btm99hOyjIShXDzMDgoBVRNmJYQQiK/djRvs0RsT3UBr+EFv4ORGIQGxNdzUktESkO1iAxMiZJK1N4GdM7aBNJ2DikR6/A9ViUe6VGFAW28G0=;EaA1YYGzjIrOYF8Cpgl+qQ=="
+secured: "aINk89uloSwlcAB8ulzZyhisIQ7S78+LfEpqLOBj2N9Ub3BQqxfgmHBNdGMTaiKHIWyqPsiINXDMPdRv2FQWjR2r2VyPopeWfpFdN2Zd6kIrcZl9hTaztkqwPWgNlIcfUELbg34HDNr8pgWSuVjaLsLxYs8AYQUqaKItMWA3kN3yWHWCblLk6YvifLxgH7j9EImg5rd59bz9YhbtHcNLDNy99DxIaz2BayKAmeaDhVtUapmNziNr4OmOyj/4eP0/KMsxWpXsh9wKLcXvtsqjn7QEdvlusTyNhXWzekge+nP6QLSxoXGcayefKKkHr4X7LgXqWqe469R2GrlRcdRdnN8ibT2taTWwt7HtgwHb2nw=;11+tTg+MmIQvEtpot77sAw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-12-trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt.md",
+      "title": "Trump dropped by biggest lender Deutsche Bank for future business: NYT",
+      "excerpt": "Deutsche Bank will not do business in the future with U.S. President Donald Trump or his companies in the wake of his supporters' assault on the U.S. Capitol, the New York Times reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-deutsche-bank/trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt-idUSKBN29H0PM",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-deutsche-bank/trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt-idUSKBN29H0PM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547458224&r=LYNXMPEH0B0CB&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-inside-the-remarkable-rift-between-donald-trump-and-mike-pence.md",
       "title": "Inside the remarkable rift between Donald Trump and Mike Pence",
       "excerpt": "The rupture between the president and his No. 2 is a startling capstone to a relationship long defined by Pence’s loyalty and subservience.",
@@ -1487,58 +1539,6 @@
         "name": "al.com",
         "domain": "al.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-book-of-the-moment-audience-of-one-donald-trump-television-and-the-fracturing-of-america.md",
-      "title": "Book of the moment: ‘Audience of One: Donald Trump, Television, and the Fracturing of America’",
-      "excerpt": "For a deeper understanding of this week's insurrection at the Capitol and the end of Donald Trump's presidency, read \"Audience of One: Donald Trump, Television, and the Fracturing of America\" by James Poniewozik.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html",
-      "originalUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/9PlWtEXNk4DY1O9DRVS8lVcYtQU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JA6MQWUKONA63D6TTER66S3O4Y.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-07T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

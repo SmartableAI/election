@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "Biden set to talk up economic resurgence after promising jobs news – US politics live"
-    excerpt: "The White House coronavirus response team will also hold a briefing this morning to provide an update on vaccine distribution and case numbers. The data on vaccine distribution in the US has been very encouraging, with 30% of Americans now having received ..."
-    publishedDateTime: 2021-04-02T12:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
+    excerpt: "Fully vaccinated Americans can now travel domestically without self-quarantining, the Centers for Disease Control and Prevention announced today. Vaccinated people also do not need to take a coronavirus test before traveling, although the CDC has asked ..."
+    publishedDateTime: 2021-04-02T14:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606737a38f087a7cbd51e124"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
     type: article
@@ -43,7 +43,7 @@ related:
       domain: theguardian.com
     quality: 118
     images:
-      - url: "https://i.guim.co.uk/img/media/176064405949fa47869bf8b2d8d6addd72a2d402/0_139_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d007810a85981ba1f24cdfeee729517e"
+      - url: "https://i.guim.co.uk/img/media/feae15e77874dcf2a9333884cefa19fb252611a1/154_0_4441_2665/master/4441.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca77fe79f82dc139431483804c61be64"
         width: 600
         height: 360
         isCached: true

@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-18-twitter-refuses-to-remove-melania-trumps-nude-photo-shared-by-cardi-b-report.md",
+      "title": "Twitter Refuses To Remove Melania Trump's Nude Photo Shared By Cardi B: Report",
+      "excerpt": "Twitter said Melania Trump's nude photo does not violate its rules The microblogging site has a non-consensual nudity policy Twitter users agreed that the picture should not be deleted Cardi B posted a nude photo of former first lady Melania Trump ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-refuses-remove-melania-trumps-nude-photo-shared-cardi-b-report-3164324",
+      "originalUrl": "https://www.ibtimes.com/twitter-refuses-remove-melania-trumps-nude-photo-shared-cardi-b-report-3164324",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-refuses-remove-melania-trumps-nude-photo-shared-cardi-b-report-3164324?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-refuses-remove-melania-trumps-nude-photo-shared-cardi-b-report-3164324?amp=1",
+      "publishedDateTime": "2021-03-17T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-donald-trump-jr-calls-john-kerry-liberal-hypocrite-for-maskless-photo-on-flight.md",
       "title": "Donald Trump Jr. Calls John Kerry 'Liberal Hypocrite' for Maskless Photo on Flight",
       "excerpt": "If I dropped my mask to one ear on a flight, it was momentary,\" U.S. climate envoy John Kerry said in response to criticism of a photo appearing to show him not wearing his face mask on an American Airlines flight Wednesday.",
@@ -1305,62 +1357,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-new-us-intel-report-shows-russia-trump-and-gop-acolytes-have-same-goals.md",
-      "title": "New US intel report shows Russia, Trump and GOP acolytes have same goals",
-      "excerpt": "A new US intelligence report that finds Russia interfered in the 2020 election to help Donald Trump and hurt Joe Biden also underscores a fundamental truth: The gravest threat to US democracy comes from within.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l_bcpu7-1uU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l_bcpu7-1uU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301201624-donald-trump-210228-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/17/politics/trump-russia-elections/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/trump-russia-elections/index.html",
-      "publishedDateTime": "2021-03-17T04:19:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

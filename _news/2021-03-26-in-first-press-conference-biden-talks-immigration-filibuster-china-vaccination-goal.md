@@ -127,6 +127,22 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Why green initiatives count as infrastructure, from Biden's top climate officials"
+    excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. The first $2 trillion of President Joe Biden's up to $4 trillion infrastructure package includes not only funding for roads and bridges, but also for climate ..."
+    publishedDateTime: 2021-04-02T15:27:00Z
+    webUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/606723ac52f11d0019431bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden introduced his infrastructure plan. How does he plan to get it through Congress?"
     excerpt: "WASHINGTON – President Joe Biden called his infrastructure plan \"bold\" on Wednesday and insisted the massive piece of legislation is necessary. \"Put simply, these are investments we have to make,\" he said during a speech in Pittsburgh. \"Put another ..."
     publishedDateTime: 2021-04-01T21:11:00Z

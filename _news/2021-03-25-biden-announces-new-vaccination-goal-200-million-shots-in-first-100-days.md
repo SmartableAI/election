@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hunter Biden dodges questions on laptop seized by FBI"
+    excerpt: "President Joe Biden's son Hunter dodged several questions in a new interview about a controversial laptop that is tied to him and was seized by the FBI in 2019.\n    \n"
+    publishedDateTime: 2021-04-02T14:48:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q0YgExzfDzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/hunter-biden-laptop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/hunter-biden-laptop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209204808-hunter-biden-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden calls state GOP voting restrictions efforts 'sick' and 'un-American'"
     excerpt: "President Joe Biden said he will \"do everything\" in his power to halt efforts to restrict voting rights, saying during Thursday's news conference at the White House that the efforts underway in state legislatures are \"un-American.\"\n    \n"
     publishedDateTime: 2021-03-25T19:35:48Z
@@ -156,22 +172,6 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration expanding pause on student loan interest and collections"
-    excerpt: "The Biden administration is expanding the pause on student loan interest and collections to the more than a million borrowers who are in default on loans made by private lenders, White House press secretary Jen Psaki said Tuesday.\n    \n"
-    publishedDateTime: 2021-03-30T18:10:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pRx6SlrQTbw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/student-loans-collections-pause-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/student-loans-collections-pause-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005171032-01-parents-college-students-kids-safely-wellness-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

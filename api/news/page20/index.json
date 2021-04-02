@@ -2,6 +2,62 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-03-02-fbi-director-wray-knocks-down-conspiracy-theory-that-january-6-rioters-were-fake-trump-protesters.md",
+      "title": "FBI Director Wray knocks down conspiracy theory that January 6 rioters were 'fake Trump protesters'",
+      "excerpt": "FBI Director Chris Wray will finally have to answer questions about the January 6 insurrection when he appears before the Senate Judiciary Committee Tuesday, his first public testimony since the deadly riot occurred nearly two months ago.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V7Ea4-8OVv8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V7Ea4-8OVv8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216092212-01-christopher-wray-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/02/politics/fbi-director-chris-wray-january-6-riot-hearing/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/fbi-director-chris-wray-january-6-riot-hearing/index.html",
+      "publishedDateTime": "2021-03-02T08:40:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-stephen-colbert-on-trump-he-isnt-going-to-start-a-new-party-he-already-owns-one.md",
       "title": "Stephen Colbert on Trump: 'He isn’t going to start a new party – he already owns one'",
       "excerpt": "Late-night hosts recap the rightwing CPAC summit, which featured Ted Cruz Cancun jokes and a peculiar gold statue",
@@ -1286,58 +1342,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-biden-supports-an-independent-review-into-sexual-harassment-allegations-against-new-york-gov-cuomo-press-secretary-says.md",
-      "title": "Biden supports an 'independent review' into sexual harassment allegations against New York Gov. Cuomo, press secretary says",
-      "excerpt": "Two women have alleged that New York Gov. Andrew Cuomo acted inappropriately in the workplace and created a culture of sexual harassment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-supports-independent-review-into-allegations-cuomo-2021-2",
-      "originalUrl": "https://www.businessinsider.com/biden-supports-independent-review-into-allegations-cuomo-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/603bbf1a13b221001876abf3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-supports-independent-review-into-allegations-cuomo-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-supports-independent-review-into-allegations-cuomo-2021-2?amp",
-      "publishedDateTime": "2021-02-28T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
