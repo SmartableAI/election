@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 4170
+heat: 4190
 published: true
 
 provider:
@@ -1692,6 +1692,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214020153-doctor-jill-biden-file-0419-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration announces end to Trump-era rule that rejected certain immigration applications with blank spaces"
+    excerpt: "The Biden administration announced Thursday it will not automatically reject certain applications for asylum or immigration benefits when a blank space is left on the forms, a reversal from a Trump-era policy that critics said was a blatant attempt to further crack down on legal immigration.\n    \n"
+    publishedDateTime: 2021-04-01T22:50:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g5ALqbrwOFY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/blank-spaces-immigration-applications/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/blank-spaces-immigration-applications/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200709204349-us-inmigration-uscis-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

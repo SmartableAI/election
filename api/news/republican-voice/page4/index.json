@@ -2,6 +2,175 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-18-china-plans-to-ask-us-to-roll-back-trump-policies-in-alaska-meeting.md",
+      "title": "China Plans to Ask U.S. to Roll Back Trump Policies in Alaska Meeting",
+      "excerpt": "Photo: Adam Chapman for The Wall Street Journal Beijing plans to press Washington to reverse many of the policies targeting China introduced during the Trump presidency in the first face-to-face meeting of senior U.S. and China officials since President ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995",
+      "originalUrl": "https://www.wsj.com/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-312834/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995",
+      "publishedDateTime": "2021-03-17T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-russia-recalls-us-ambassador-after-biden-calls-putin-a-killer.md",
+      "title": "Russia recalls US ambassador after Biden calls Putin a 'killer'",
+      "excerpt": "Russia recalled its ambassador to the United States on Wednesday after President Biden said he agreed that Russian President Vladimir Putin was a “killer” and threatened further sanctions during a televised interview, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UnOodRKIaHc/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UnOodRKIaHc/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39041886-9779-4d90-b746-af3b50921d47/222f1f6b-7e21-46cc-ad7c-95efdbee56f8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling.amp",
+      "publishedDateTime": "2021-03-17T12:29:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-biden-border-wall-freeze-unlawful-40-gop-senators-tell-gao-in-letter.md",
+      "title": "Biden border wall freeze unlawful, 40 GOP senators tell GAO in letter",
+      "excerpt": "A group of 40 GOP senators on Wednesday asked the Government Accountability Office to decide whether President Biden's decision to freeze more than $1 billion in congressionally approved border wall funding violates federal law.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5shomOtuZQ/biden-border-wall-freeze-unlawful-senators-gao",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5shomOtuZQ/biden-border-wall-freeze-unlawful-senators-gao",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021726310142-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp",
+      "publishedDateTime": "2021-03-17T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-may-not-be-tough-enough-to-stand-up-to-aoc-bernie-sanders-on-filibuster-tom-cotton.md",
       "title": "Biden 'may not be tough enough' to stand up to AOC, Bernie Sanders on filibuster: Tom Cotton",
       "excerpt": "On Wednesday, Sen. Tom Cotton R-Ark., warned against ending the filibuster and said that President Biden may not be tough enough to stand up against far-left Democrats like Alexandria Ocasio-Cortez and Bernie Sanders.",
@@ -1509,176 +1678,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-white-house-increasingly-run-by-vp-harris-schumer-and-pelosi-newt-gingrich.md",
-      "title": "White House 'increasingly run' by VP Harris, Schumer and Pelosi: Newt Gingrich",
-      "excerpt": "Newt Gingrich said Thursday that Kamala Harris, Nancy Pelosi, and Chuck Schumer appear to be the ones running the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich",
-      "originalUrl": "https://www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/706511fd-0850-4b23-925f-140152735c3c/e5e419f5-4f88-46b3-81ac-8226a8591775/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich.amp",
-      "publishedDateTime": "2021-03-11T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-biden-civil-rights-pick-promoted-jussie-smollett-hoax-criticized-police-handling-of-case.md",
-      "title": "Biden civil rights pick promoted Jussie Smollett hoax, criticized police handling of case",
-      "excerpt": "President of the Lawyers’ Committee for Civil Rights Under Law and Biden nominee Kristen Clarke made multiple posts on Twitter pushing the alleged hate crimes Smollett claimed had occurred.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N2ZhijyCaHw/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N2ZhijyCaHw/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e44f447d-9d5c-4dd4-b7d0-4f603076760c/e8afdea2-e6fc-4921-b58e-8afbc3890817/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax.amp",
-      "publishedDateTime": "2021-03-11T15:50:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-silence-on-cuomo-continues-for-kamala-harris-who-crusaded-against-brett-kavanaugh.md",
-      "title": "Silence on Cuomo continues for Kamala Harris, who crusaded against Brett Kavanaugh",
-      "excerpt": "Vice President Kamala Harris has not weighed in on the swelling sexual misconduct allegations against New York Gov. Andrew Cuomo. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5e96535-8049-4a95-9d9c-69ba9b304ef5/573d402d-aa19-4ae7-b06f-a22eb03424e7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp",
-      "publishedDateTime": "2021-03-11T12:18:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "UPDATE 1-Biden aides to host meeting on supply chain issues -White House"
+    excerpt: "White House press secretary Jen Psaki said the meeting would be hosted by President Joe Biden’s national security adviser, Jake Sullivan, and a top economic aide, Brian Deese. The meeting will be held on April 12 and include chipmakers and automakers ..."
+    publishedDateTime: 2021-04-01T23:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-manufacturing/update-1-biden-aides-to-host-meeting-on-supply-chain-issues-white-house-idUSL1N2LU2U7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6HH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6HH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557065429&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303DH"
+        width: 844
+        height: 545
+        isCached: true
   - title: "House Freedom Caucus chair writes to Biden objecting to infrastructure proposal"
     excerpt: "House Freedom Caucus chairman Andy Biggs (R-Ariz.) on Wednesday wrote to President Biden expressing his opposition to the White House's $2 trillion infrastructure proposal, joining other congressional"
     publishedDateTime: 2021-04-01T02:14:00Z

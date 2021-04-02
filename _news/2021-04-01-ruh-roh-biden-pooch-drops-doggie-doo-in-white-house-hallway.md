@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "UPDATE 1-Biden aides to host meeting on supply chain issues -White House"
+    excerpt: "White House press secretary Jen Psaki said the meeting would be hosted by President Joe Biden’s national security adviser, Jake Sullivan, and a top economic aide, Brian Deese. The meeting will be held on April 12 and include chipmakers and automakers ..."
+    publishedDateTime: 2021-04-01T23:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-manufacturing/update-1-biden-aides-to-host-meeting-on-supply-chain-issues-white-house-idUSL1N2LU2U7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6HH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6HH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557065429&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303DH"
+        width: 844
+        height: 545
+        isCached: true
   - title: "Here's exactly how Biden's $2 trillion of infrastructure spending breaks down"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden is set to announce the first part of his two-part infrastructure package this afternoon. It's called the American Jobs Plan, and it will cost about $2 trillion. The package is focused on job creation, traditional ..."
     publishedDateTime: 2021-03-31T17:48:00Z
