@@ -219,22 +219,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump looms large in race for South Carolina GOP chairman"
-    excerpt: "COLUMBIA, S.C. (AP) — In South Carolina — where Donald Trump's 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state's Republican Party ..."
-    publishedDateTime: 2021-04-01T14:58:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "South Carolina Lawmaker: Trump Can Be Buried at Our Capitol"
     excerpt: "A South Carolina Republican lawmaker says he is filing a bill that would allow former President Donald Trump to buried on the grounds of the state Capitol if Trump is banned from being buried at Arlington National Cemetery."
     publishedDateTime: 2021-02-25T22:07:00Z
@@ -246,6 +230,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Looms Large in Race for South Carolina GOP Chairman"
+    excerpt: "The contest to lead South Carolina's Republican Party is turning into a debate over whose support for former President Donald Trump is highest."
+    publishedDateTime: 2021-04-01T14:58:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-01/trump-looms-large-in-race-for-south-carolina-gop-chairman"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "y4Jms2uSpnkZ1rLOjZJv3/PT4HgkVly8SEDdNIwVZm7sEII2H28UudA6tPuFknuLhrffJhCRZqiw9Rr8dl15GT1XbgDtNM8stFE0zcrfjijT5TiQWrGpkrB70mMXSm8VUsiEUTtP7h+b34+Yccwy3Ro/bRoFGMgg8LjWmkw5ta0VLFITkHf4wEPoXwouWJrMU2CWecMXVYa1XshCsgqgOCsxUnG5XSshjk5gQXjbGKEn6iduVGU4VREQ2IUNgdxGuU47ToU75pSn44nOatq5lXz9Xsst/dop5HJBVZLV9XnFpfOyAK/WfciXFNTgzxza/TJt1cPHhOD3SjR2FuN6/QpRF4nF74uHZxoNc6YMsc4ugIPM30CTTTt3tu3HDPO+Oo14RxQV/tNyr0D6upCst2k/9MvId50RDbnx9YJ/tXrdQlaFBXmlG7bu9eJo98HubJSjF2WbCJDSJDk8ISbhXjfg/ccu9PfNsDoSh3oPyZO2nWtcpkKtigSXYJpogAoLuGVCQL7d1RKBhJeXGRREcA==;NCDwaJ+xBC5c4PFAyB/FBw=="
 ---

@@ -303,6 +303,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "New York attorney general probes Trump Organization's CFO"
+    excerpt: "who has handled former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo 'regrets' not making more progress with North Korea Biden sets off ..."
+    publishedDateTime: 2021-04-02T01:12:00Z
+    webUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo"
+    ampWebUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z
@@ -506,6 +522,6 @@ related:
         height: 675
         isCached: true
 
-secured: "9ytlhwOTrmqLHSCRLqUSQ7KmPng/7wsjCtYL94q8WNd53T08XCSR2jMYkH+rabSPk4jYOwuVccZXxcFKT7NufdC0ywt3HfAL9oVAncyc2rc5ZXxuIW/J9QTAZKCFbEb/OTqiWBt3JQaqLMEboFc99yUzhgyphsicwegaPjWnWgd0YKhVZ5vu4jZwVdlm67cMUZSFQcaTEggLu7vwcf/WybKwBPjIzxAzyjT1SndARXNh2SkK0mx9aQmfSkQwjqwpmp2ihQgcIr2Gb/IdZMnIuROn4iu9pp6EhQrSXbrkIlgg7U5k3HK9Q5xY/xS8slsqomIn2zLvsTTOBdEIiQK1bpaCx0MKsgjk+MmA3ny7ymc=;y5RWoUg7xQ69dw2diVzg8Q=="
+secured: "/T5OJJI3UIoI1zCzUnae+bhvr2/7mxoN5LXVw4+PhSDr7wtwQLEE2UUqAZc/YYuvkmoc+/buEeuSDjp4oCVcsBfyhWKR1+tB8r9ABKf7l181J1fRnS6EAidDJHSeFEafOK/XXXjkUIIaxNIT8pr40boREEfsHbu4G7L3OI32hbQQNBratjznqhxgpy/nnM8S4p5kifOS3TVpl3ka3fAyjtykU5qBh5neXcnED3WqdtW4ry1sDeJKWMXeB333Qx745iTxomikuOr8/KK04+EnJyyTrI8BYJ59m1rdQBfBuSBBsvDWW+SUelzAaNC7RB49ENbnNYxiYsgiXspUPwSoQ2dTauu079crq0eFUk6mu+sm3UBYXA0a5NUE0N0PYNHbgBYfmKX4OpkxW/iWu+r0WwlAo/1xuejGKks7Y8JI142kzpn03FsKjVazZS4nhV3zTIIP/3GLF+yUoQTTHKVpoXPyxmK0MPxtuPj5iPjihd9PoGsJxLtZaxDlfIBdpTFo6/r1mBS8woc8HB3nxY8zVg==;JjXH6CUB3pi+wzl/kSTd2Q=="
 ---
 

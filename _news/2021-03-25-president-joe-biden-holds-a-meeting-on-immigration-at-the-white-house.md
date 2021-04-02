@@ -941,6 +941,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 102
+  - title: "White House adviser lays out President Biden's $2 trillion infrastructure proposal"
+    excerpt: "President Joe Biden unveiled his $2 trillion infrastructure bill, which will include funding for public transit, roads, utilities and efforts to fight climate change. Heather Boushey of the Council of Economic Advisers joined CBSN to break down how the White House is proposing to pay for the measure."
+    publishedDateTime: 2021-04-01T20:13:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-unveils-2-trillion-infrastructure-proposal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/01/224f25af-e129-4d1f-acd9-0306c3c2caee/thumbnail/1200x630/b99b8888c090aaf9bf2e6e89593706cf/cbsn-fusion-president-biden-unveils-2-trillion-infrastructure-proposal-thumbnail-683147-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alert: President Joe Biden says during news conference: 'My plan is to run for reelection' in 2024"
     excerpt: "President Joe Biden says during news conference: 'My plan is to run for reelection' in 2024."
     publishedDateTime: 2021-03-25T23:20:00Z

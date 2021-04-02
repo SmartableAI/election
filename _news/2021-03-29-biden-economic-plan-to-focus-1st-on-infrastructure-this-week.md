@@ -315,6 +315,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "New York attorney general probes Trump Organization's CFO"
+    excerpt: "who has handled former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo 'regrets' not making more progress with North Korea Biden sets off ..."
+    publishedDateTime: 2021-04-02T01:12:00Z
+    webUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo"
+    ampWebUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z

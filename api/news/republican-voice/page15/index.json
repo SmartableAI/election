@@ -2,6 +2,62 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-21-house-expected-to-approve-waiver-for-bidens-defense-secretary-nominee-lloyd-austin.md",
+      "title": "House expected to approve waiver for Biden's Defense Secretary nominee Lloyd Austin",
+      "excerpt": "President Biden's nominee for Secretary of Defense is expected to clear an important hurdle Thursday in his pathway to confirmation of the new cabinet.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCtQWjpjxJA/house-waiver-biden-secretary-defense-nominee-lloyd-austin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCtQWjpjxJA/house-waiver-biden-secretary-defense-nominee-lloyd-austin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Gen.-Lloyd-Austin-III.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp",
+      "publishedDateTime": "2021-01-21T10:57:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-logan-media-institutions-wont-admit-they-were-wrong-about-so-many-stories-during-trump-era.md",
       "title": "Logan: Media institutions won't 'admit they were wrong about so many stories' during Trump era",
       "excerpt": "Affiliates of the mainstream media will not admit they were wrong about how they conducted journalism during the Trump administration, Fox Nation host Lara Logan said on Thursday.",
@@ -1606,62 +1662,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-report-schools-should-reject-activist-proganda.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-report-schools-should-reject-activist-proganda.amp",
       "publishedDateTime": "2021-01-18T18:03:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-biden-aims-to-make-america-california-again-paper.md",
-      "title": "Biden aims to 'Make America California Again': paper",
-      "excerpt": "The Los Angeles Times ran a headline Sunday that is sure to grab the attention of Trump supporters everywhere: “Make America California Again? That’s Biden’s plan.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IscsvpwQ7CU/biden-aims-to-make-america-california-again-paper",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IscsvpwQ7CU/biden-aims-to-make-america-california-again-paper",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-aims-to-make-america-california-again-paper.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-aims-to-make-america-california-again-paper.amp",
-      "publishedDateTime": "2021-01-17T21:18:01-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

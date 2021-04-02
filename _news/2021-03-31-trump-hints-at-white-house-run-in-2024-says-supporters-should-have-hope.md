@@ -92,6 +92,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump blasts big tech ‘censorship’ after interview pulled by Facebook"
+    excerpt: "Former President Donald Trump on Thursday night decried big tech “censorship” after an interview he gave to his daughter-in-law, Lara Trump, was taken off Facebook. “I did a very nice interview"
+    publishedDateTime: 2021-04-02T04:39:00Z
+    webUrl: "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/"
+    ampWebUrl: "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/F9071EBA-D99C-4F65-A1BA-BBA41328E98D.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "84/jlXs/PEEH26yTcpsATANd84z6p621q4czTA2FFipwAjKWqLkqiBiREkcZsmVUMR0/m9aLgNH4JV0DHHCTVRHm5W99IO0VsN4dKfehgeAKWNvjWOac4+ww6LgGW3daxIh9t1eQP+A1UBTOf8PH3/2pUFhBcPGuy5ZuVVzlARyby1Z8Pzl4FnCzC56FiTOdz3BJNkHp5j7G6CmpPyV+d62i84PDz67RYR8+G7J4OV0kNLHFRt77tSux3quWzf+7g0Q9Tka1zG8EW5Tybtj4YcDc5a/4r2JEZatxIc6ekGvdEg7hxTICdvMvm225AJJj/tgERX/+Xjh49sHxl0o19m9GpOAaLv6adDPPQRdCaJc=;7Uw5mcSuyYbSQUQWj0dfjg=="
 ---

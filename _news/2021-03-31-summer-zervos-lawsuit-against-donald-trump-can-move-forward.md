@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump blasts big tech ‘censorship’ after interview pulled by Facebook"
+    excerpt: "Former President Donald Trump on Thursday night decried big tech “censorship” after an interview he gave to his daughter-in-law, Lara Trump, was taken off Facebook. “I did a very nice interview"
+    publishedDateTime: 2021-04-02T04:39:00Z
+    webUrl: "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/"
+    ampWebUrl: "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/F9071EBA-D99C-4F65-A1BA-BBA41328E98D.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
     excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"
     publishedDateTime: 2021-03-31T16:18:00Z

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-22-vice-president-harris-will-travel-to-jacksonville-monday-for-help-is-here-tour-touting-relief-bill.md",
+      "title": "Vice President Harris will travel to Jacksonville Monday for 'Help is Here' tour touting relief bill",
+      "excerpt": "American Rescue Plan will bring about $17 billion to Florida, according to estimates Vice President Kamala Harris will travel to Jacksonville, Florida, on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/21/vice-president-kamala-harris-jacksonville-florida-visit/4792761001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/21/vice-president-kamala-harris-jacksonville-florida-visit/4792761001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/22/PFRE/2aeae88e-c268-47e8-8a18-dcb9c85b20e8-kamala_harris.jpg?auto=webp&crop=4500,2532,x0,y228&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4792761001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4792761001",
+      "publishedDateTime": "2021-03-21T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-cpac-2014-trump-compares-obamas-disapproval-rating-to-carters.md",
       "title": "CPAC 2014: Trump compares Obama's disapproval rating to Carter's",
       "excerpt": "Addressing CPAC in Oxon Hill, Maryland, real estate magnate-turned-reality TV star Donald Trump claimed that President Obama is turning out to be worse than former President Jimmy Carter.",
@@ -1292,63 +1344,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-ex-wife-of-trump-org-executive-has-spoken-to-investigators-multiple-times.md",
-      "title": "Ex-wife of Trump Org executive has spoken to investigators 'multiple times'",
-      "excerpt": "Jennifer Weisselberg said it appears investigators have been seeking information about her former father-in-law, Allen Weisselberg, the company’s CFO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/ex-wife-trump-org-executive-has-spoken-investigators-multiple-times-n1261459",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/ex-wife-trump-org-executive-has-spoken-investigators-multiple-times-n1261459",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2021_11/3457725/jennifer_weisselberg_in_nbc_shoot_1ef0ed08c49c730c7165a4ebc83b86f8.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261459",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261459",
-      "publishedDateTime": "2021-03-19T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

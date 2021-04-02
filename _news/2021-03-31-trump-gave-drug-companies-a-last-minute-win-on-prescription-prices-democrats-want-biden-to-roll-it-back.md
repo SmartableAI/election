@@ -319,6 +319,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "New York attorney general probes Trump Organization's CFO"
+    excerpt: "who has handled former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo 'regrets' not making more progress with North Korea Biden sets off ..."
+    publishedDateTime: 2021-04-02T01:12:00Z
+    webUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo"
+    ampWebUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pelosi 'hopeful' Democrats can reform SALT tax in Biden infrastructure bill"
     excerpt: "said Thursday that she's hoping to reform the tax code to help high-income states as part of President Biden Joe Biden The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Biden ..."
     publishedDateTime: 2021-04-01T21:00:00Z
