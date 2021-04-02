@@ -1,0 +1,69 @@
+---
+category: news
+title: "In new memoir, Hunter Biden seeks to reframe some political scandals, but omits others"
+excerpt: "In \"Beautiful Things,\" out next week, Hunter Biden charts a life defined by tragedy, addiction and scandal -- all in the shadow of a doting and concerned father, Joe Biden, whose ascent to the ..."
+publishedDateTime: 2021-04-02T09:05:00Z
+originalUrl: "https://abcnews.go.com/Politics/memoir-hunter-biden-seeks-reframe-political-scandals-omits/story?id=76813811"
+webUrl: "https://abcnews.go.com/Politics/memoir-hunter-biden-seeks-reframe-political-scandals-omits/story?id=76813811"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/memoir-hunter-biden-seeks-reframe-political-scandals-omits/story?id=76813811"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/memoir-hunter-biden-seeks-reframe-political-scandals-omits/story?id=76813811"
+type: article
+quality: 117
+heat: 157
+published: true
+
+provider:
+  name: ABCNews
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/hunter-biden-memoir-president-joe-biden-04-ap-llr-2100401_1617302578198_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+related:
+  - title: "Joe Biden Wants to Heal After Capitol Attack but Americans Can't Even Agree it Was Serious"
+    excerpt: "Republicans and Democrats are starkly divided on the severity of the attack, how harsh sentencing should be for those involved, and where future threats lie."
+    publishedDateTime: 2021-03-31T09:40:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1767772/protesters-capitol-january-6.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
+  - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
+    excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
+    publishedDateTime: 2021-03-27T00:59:00Z
+    webUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/"
+    ampWebUrl: "https://www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/26/texas-mexico-border-apprehensions-joe-biden-officials/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 53
+    images:
+      - url: "https://thumbnails.texastribune.org/-mWa9Z9pNCv1H7M3mGZ0k5UJXE8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/72457b5f083d35a5cc2fb98be9f57954/Migrants%20RGV%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "ou6Tkss5G0RqfjHqxmD1u6UfTThJWrF+CXSx4uZVZ5ml5bmlvJQh8jFe/RJDp2Ec+phLPcRhmlK0oNWyDVp0jXUWe2IbVqWOTTw0lOnY24mgqKJaArCuwm9A+JAvXj+jjHbIYxPtYFSTiEFF1UK4wGO28PX0C2diRYAkaZmkSOxTsH6JWKCwiJ8N34dWlqdfNOOueRhEiNhjLZMrnp1BF7bvCd/gipL57V6CGQBZ2ovUHpI31JfFagnOiLrvBjq+ikREiGbm7K5Nb6vMkUQAHsxHTb1OlIIHbpXk7hCPb8Jw7bsGNbmLUIHKV7whVIkhENRon5ZLuCSLHkSWaQ501WKE0SmeSj3BQryitluT0nw=;+sEyepH4I5HchxY3tvexxQ=="
+---
+

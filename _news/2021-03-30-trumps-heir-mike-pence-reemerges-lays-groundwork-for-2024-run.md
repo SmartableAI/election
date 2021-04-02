@@ -2,26 +2,26 @@
 category: news
 title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
 excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-publishedDateTime: 2021-03-30T12:10:00Z
-originalUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+publishedDateTime: 2021-03-30T12:58:00Z
+originalUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+webUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+ampWebUrl: "https://www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+cdnAmpWebUrl: "https://www-conchovalleyhomepage-com.cdn.ampproject.org/c/s/www.conchovalleyhomepage.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: WTVO
-  domain: mystateline.com
+  name: Concho Valley Homepage
+  domain: conchovalleyhomepage.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
+  - url: "https://www.conchovalleyhomepage.com/wp-content/uploads/sites/83/2021/03/pence.jpg?w=1280"
     width: 1024
     height: 683
     isCached: true
@@ -628,6 +628,6 @@ related:
         height: 683
         isCached: true
 
-secured: "xWO7Z5wGva7K2V2xRer7+xYewtG62c2+QVFP2kJiPtsjoPgv6oJCZ3VH+hF0hk8YBfrO0xWCtvIgoAnsfHZkos+GEAHY1Oao/xJ2DleaavuKokuQIDSYXDFZVdpd/eoBKwPdWuvu1XJgE1QUmUn7dTS2XcuDMFA6RiFKRTsysFsZylqgdMaFZ19WsPFCR0tJH69byhrCfPO4THboZ6T991dOynCCI+RdwbRUTqW/jeCV+ucfY2+Ag81Cn8DHj2wAzeAISB1niiB476qrrtZ2xBF++1OoT9u6TbtIMFuG+sjRCH6tjB/bPKHjj2ArHRgKDnfwNcr0YwWEmFSmEl+L5ia+72xAKD+IJaWX6WemSoJiKVy3FD85eUDmtdUEVdbh0xq2KUGbdGIWaZqthXJ7N42nKFv+udVQIrHqwg/WtdB7qdYPNXtXWU+j3Uyr366I8Jvptx9jhldzgas4R2Exzdc7h4T6nLjGxCE0tG5gNAuUGf+RIzz1YTCxng7wIe286RWhfiuH/JVseumqdrx9/A==;SglS7d7u9YTme1R7d4HmpQ=="
+secured: "5qP75vZQ/T7UAb9dBagBR/gudeC6BazRuy/+B0sTlaDJuQMVo3lkBpjzcrQJvspSVvBO8N+669NeXOVO9Pm9QxRwOAtOxYhsfnbawz6COyUBXeGKGxGcyQy6FfAg3P5kgDBYpRl678qEHq4OjXrO6OO4vPSVb5oI8fuhuvz83+UhApnO3wDHWNl46yf9AEkDZivAC7rmZ0+m0NgCzXargr/ccgYbrMxPVypaZjIxfsB5CfPY6WG2+dzBI8Bcge+Uum2rxPuKb8un4nsGF+1UgdSCVM9mTbeieH2W7wkD4xgWLTsUbH0ik8/cYoxkwD+3LNq8/VN9IoLTWaH1U7uf9sXRFLaW7qSb9O/JWj/tdrE=;RS8j+AP6oDeIEe9+vE3qGQ=="
 ---
 

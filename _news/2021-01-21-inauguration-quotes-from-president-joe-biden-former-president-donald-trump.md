@@ -2146,6 +2146,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Washington moves of the week: A top Trump White House staffer lands a TV gig and a former Kamala Harris aide heads to a lobbying firm"
+    excerpt: "Advocacy groups and lobbying firms are also hiring new talent, including a former policy adviser to then-Sen. Kamala Harris, to help shape policies in Washington. Here's Insider's rundown of the biggest staff moves for the week of March 29. Capitol Hill ..."
+    publishedDateTime: 2021-04-02T08:01:00Z
+    webUrl: "https://www.businessinsider.com/heres-who-got-hired-in-washington-this-week-kayleigh-mcenany-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/6025a9632edd0f001a8d564e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Vice President Pence says farewell to White House, will skip Trump's sendoff"
     excerpt: "WASHINGTON — Outgoing Vice President Mike Pence bid farewell to the White House on Tuesday, one day before President-elect Joe Biden is set to take the oath of office. In a tweet, Pence ..."
     publishedDateTime: 2021-01-20T07:12:00Z

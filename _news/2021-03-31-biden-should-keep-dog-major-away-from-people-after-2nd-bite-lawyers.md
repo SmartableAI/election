@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden admin. reassigns Interior Dept. staffer who planned 50-person indoor party"
+    excerpt: "The White House is reassigning an Interior Department official after she recently planned a 50-person indoor party during the coronavirus pandemic, according to reports. "
+    publishedDateTime: 2021-04-02T08:48:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YJ3aQp610NA/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-82776258.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden official asked GOP senators visiting border to delete photos from facilities"
     excerpt: "Sen. Mike Braun, R-Ind., told Fox News that a Biden official asked Republican senators to delete photos they took at a border facility they were touring on Friday. "
     publishedDateTime: 2021-03-28T00:21:43Z
