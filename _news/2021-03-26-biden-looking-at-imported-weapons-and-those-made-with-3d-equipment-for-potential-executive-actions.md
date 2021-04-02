@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hunter Biden details his struggle with addiction -- and his dad's love -- in new memoir"
+    excerpt: "In a new memoir, Hunter Biden reveals his staggering slide into crack addiction and how he was buoyed by his father, President Joe Biden. \"Beautiful Things\" details the younger Biden's lifelong struggles with drugs and alcohol; his first drink was aged 8, downing a glass of champagne at a family event.\n"
+    publishedDateTime: 2021-04-02T16:31:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xqkdZovoyJE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/hunter-biden-book-memoir-addiction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/hunter-biden-book-memoir-addiction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191007185533-joe-hunter-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration announces extension of Affordable Care Act special enrollment by three months"
     excerpt: "The Centers for Medicare & Medicaid Services is extending the Affordable Care Act special enrollment period by three months to August 15, the Biden administration announced Tuesday.\n    \n"
     publishedDateTime: 2021-03-23T21:20:29Z
@@ -596,6 +612,20 @@ related:
       - url: "https://static.politico.com/59/2d/73b906af40bdb04bdd85ebf816af/ap21050552112172.JPG"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How good news could complicate the Biden agenda"
+    excerpt: "After more than a year of pandemic, death and economic calamity, indicators of good news in the U.S. are arriving more quickly and more convincingly these days. But the positive headlines pose their own challenges — especially around communication — for the Biden White House,"
+    publishedDateTime: 2021-04-02T17:33:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/02/how-good-news-could-complicate-the-biden-agenda-492345"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3c/c7/a6d0c0ff4f0b9e35139b3adfe8c0/gettyimages-1232071723.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden names diverse slate of judicial nominees in first effort to reshape federal courts"
     excerpt: "Biden plans to nominate Judge Ketanji Brown Jackson for the U.S. Circuit Court of Appeals for the District of Columbia, filling Attorney General Merrick Garland's former seat."

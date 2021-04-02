@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-02-donald-trump-called-on-to-pay-144000-in-legal-fees-for-meritless-wisconsin-election-lawsuit.md",
+      "title": "Donald Trump Called on to Pay $144,000 in Legal Fees for 'Meritless' Wisconsin Election Lawsuit",
+      "excerpt": "Wisconsin Governor Tony Evers has called on former President Donald Trump and others to foot the bill for their failed legal challenges to overturn the state's 2020 election results. In motions filed Wednesday by Evers' attorneys, Trump and La Crosse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714",
+      "originalUrl": "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1770284/donald-trump-leaving-trump-tower-3-9-2021.jpg",
+          "width": 2978,
+          "height": 1820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714?amp=1",
+      "publishedDateTime": "2021-04-02T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-us-open-to-first-direct-talks-with-iran-since-trump-left-nuclear-deal-3-years-ago.md",
       "title": "U.S. 'Open' to First Direct Talks With Iran Since Trump Left Nuclear Deal 3 Years Ago",
       "excerpt": "The United States has said it is open to holding its first official, direct talks with Iran since former President Donald Trump left a nuclear deal between the Islamic Republic and major world powers three years ago. Following virtual discussions on Friday ...",
@@ -1283,58 +1335,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-biden-is-looking-into-his-legal-authority-to-cancel-student-loan-debt-white-house-chief-of-staff-ron-klain-told-politico.md",
-      "title": "Biden is looking into his 'legal authority' to cancel student loan debt, White House Chief of Staff Ron Klain told Politico",
-      "excerpt": "DOW S&P 500 NASDAQ 100 President Joe Biden is looking into his \"legal authority\" to cancel student loan debt up to $50,000, White House Chief of Staff Ron Klain said at a POLITICO Playbook event on Thursday. This is a developing story. Please check back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4",
-      "originalUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6065e8c752f11d001943195a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4?amp",
-      "publishedDateTime": "2021-04-01T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

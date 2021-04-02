@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 1086
         isCached: true
+  - title: "In 2016, Trump activated low-turnout Whites. In 2020, he may have done the same with Latinos."
+    excerpt: "Florida was one of the first states to report results, and the numbers in heavily Hispanic Miami-Dade County, which Hillary Clinton won by nearly 30 points in 2016, showed Joe Biden leading Donald Trump by a much narrower margin. The shift held ..."
+    publishedDateTime: 2021-04-02T14:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/02/2016-trump-activated-low-turnout-whites-2020-he-may-have-done-same-with-latinos/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/02/2016-trump-activated-low-turnout-whites-2020-he-may-have-done-same-with-latinos/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/2016-trump-activated-low-turnout-whites-2020-he-may-have-done-same-with-latinos/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P2GLBCQ2GUI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump Gearing Up For Social Media Return With Own Platform"
     excerpt: "After months of being banned from social media sites, he's decided to launch his own site in the next few months."
     publishedDateTime: 2021-03-21T20:51:00Z

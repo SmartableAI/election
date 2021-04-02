@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gingrich: Biden lied about Georgia election law and he owes the people an apology"
+    excerpt: "Former Speaker of the House Newt Gingrich joined Bill Hemmer on \"America's Newsroom\" on Friday to discuss the H.R. 1 election reform bill, accusing President Biden of \"flatly false\" statements about a new Georgia voting law. "
+    publishedDateTime: 2021-04-02T15:59:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m1VSqC8GU5s/gingrich-biden-lied-georgia-election-law"
+    ampWebUrl: "https://www.foxnews.com/politics/gingrich-biden-lied-georgia-election-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-biden-lied-georgia-election-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Graham: 'Sick' for Biden to 'play the race card' on Georgia election law, filibuster"
     excerpt: "Sen. Lindsey Graham R-S.C., said Sunday it was \"sick\" that President Biden is playing the \"race card\" regarding the GOP-led Georgia election law and the legislative filibuster."
     publishedDateTime: 2021-03-28T15:02:44Z

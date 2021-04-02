@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House tells Democratic investigators it no longer has Trump White House Capitol attack documents"
+    excerpt: "The White House says it no longer has custody of the documents House Democratic investigators sought to shed light on the inner workings of then President Donald Trump's top aides in the lead up to, and on the day of, the January 6 attack on the US Capitol, according to a letter obtained by CNN.\n   "
+    publishedDateTime: 2021-04-02T16:26:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3kn0o3FK3wY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/trump-capitol-attack-documents/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/trump-capitol-attack-documents/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Court voids Trump campaign's non-disclosure agreement"
     excerpt: "A federal judge ruled Tuesday that a broad non-disclosure agreement that Donald Trump’s 2016 presidential campaign required employees to sign is unenforceable. U.S. District Court Judge Paul Gardephe’s ruling generally steered clear of the ..."
     publishedDateTime: 2021-03-31T00:44:00Z

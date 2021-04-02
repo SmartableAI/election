@@ -94,6 +94,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump takes shot at Hunter Biden, says kids must stay from drugs, booze, cigs"
+    excerpt: "Father Trump knows best. Former President Donald Trump took a thinly veiled shot at his White House successor, saying the key to good parenting is keeping kids away from drugs, cigarettes and"
+    publishedDateTime: 2021-04-02T16:51:00Z
+    webUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/"
+    ampWebUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-family-biden-hp-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump calls Biden jobs plan 'massive giveaway to China,' says it will 'crush American workers'"
     excerpt: "Former President Donald Trump called President Biden's jobs plan a \"monstrosity\" that \"would be among the largest self-inflicted economic wounds in history.\""
     publishedDateTime: 2021-03-31T18:45:00Z

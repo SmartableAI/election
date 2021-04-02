@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-01-biden-is-looking-into-his-legal-authority-to-cancel-student-loan-debt-white-house-chief-of-staff-ron-klain-told-politico.md",
+      "title": "Biden is looking into his 'legal authority' to cancel student loan debt, White House Chief of Staff Ron Klain told Politico",
+      "excerpt": "DOW S&P 500 NASDAQ 100 President Joe Biden is looking into his \"legal authority\" to cancel student loan debt up to $50,000, White House Chief of Staff Ron Klain said at a POLITICO Playbook event on Thursday. This is a developing story. Please check back ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4",
+      "originalUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6065e8c752f11d001943195a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4?amp",
+      "publishedDateTime": "2021-04-01T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-republican-senators-line-up-against-bidens-massive-22t-spending-bill-far-cry-away-from-infrastructure.md",
       "title": "Republican senators line up against Biden's massive $2.2T spending bill: 'Far cry away from' infrastructure",
       "excerpt": "The opposition is coming even from moderates who attempted to work with Biden on the coronavirus stimulus plan.",
@@ -613,7 +665,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -830,7 +882,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 298,
+      "heat": 318,
       "tags": null,
       "images": [
         {
@@ -1155,7 +1207,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 274,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -1296,58 +1348,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-2-us-capitol-police-officers-sue-trump-over-january-6-assault.md",
-      "title": "2 U.S. Capitol Police officers sue Trump over January 6 assault",
-      "excerpt": "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/",
-      "originalUrl": "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/31/34ce156b-e05d-4c89-9c44-357ee445df67/thumbnail/1200x630/fc37e7ded2812eec9cbc2bb9a2a11390/gettyimages-1230457837.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/",
-      "publishedDateTime": "2021-03-31T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

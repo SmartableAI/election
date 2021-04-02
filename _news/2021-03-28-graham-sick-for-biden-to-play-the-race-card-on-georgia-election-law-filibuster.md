@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gingrich: Biden lied about Georgia election law and he owes the people an apology"
+    excerpt: "Former Speaker of the House Newt Gingrich joined Bill Hemmer on \"America's Newsroom\" on Friday to discuss the H.R. 1 election reform bill, accusing President Biden of \"flatly false\" statements about a new Georgia voting law. "
+    publishedDateTime: 2021-04-02T15:59:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m1VSqC8GU5s/gingrich-biden-lied-georgia-election-law"
+    ampWebUrl: "https://www.foxnews.com/politics/gingrich-biden-lied-georgia-election-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-biden-lied-georgia-election-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Georgia Sen. Ossoff rejects Biden's baseball boycott over new voting law"
     excerpt: "Sen. Jon Ossoff, D-Ga., said he won't support moving Major League Baseball's All-Star game out of Georgia in protest of the state's new divisive voting law. "
     publishedDateTime: 2021-04-02T15:10:23Z

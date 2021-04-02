@@ -1589,6 +1589,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Biden Allows Trump Ban on Temporary Foreign Workers to Expire"
+    excerpt: "President Joe Biden allowed a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday, according to a related court filing on Thursday."
+    publishedDateTime: 2021-04-01T22:54:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-04-01/biden-allows-trump-ban-on-temporary-foreign-workers-to-expire"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Trump Says Meghan Markle Is 'No Good' Following Oprah Interview, Sides Piers Morgan: Miller"
     excerpt: "Donald Trump has previously clashed with Meghan Markle after she and Prince Harry endorsed Joe Biden in the 2020 presidential race."
     publishedDateTime: 2021-03-15T05:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-removes-trump-interview-vi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
 type: article
 quality: 174
-heat: 274
+heat: 294
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Fresh Data Reveal How Trump Made Inroads With Latinos"
+    excerpt: "A new analysis of U.S. voters suggests — counterintuitively — that the coronavirus pandemic may have helped drive former President Donald Trump's surprising increase in support from Latinos last November."
+    publishedDateTime: 2021-04-02T16:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/02/fresh_data_reveal_how_trump_made_inroads_with_latinos_539593.html?mc_cid=15b3dd0249&mc_eid=848bcee76a#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/526159_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "7IdAQuqJeXVIVoRS/cUkPYeJyXgP3Eph8vhy+gLvqMZkdLyH/FkXBUngaIoEyUKmebC2zgmHD6HMSlse5KnhF764/BfYCd3GV+QDTKDMRfswBAHjUoFNRedhyFZhXeFWMMUTsPOG2IsMP4YpmDLN56uRZnWAzt8ZYChTRMrgebInqMKXh1XfV8/U4DTIWsBKmsan1wTuGuhpU052blROF4rEL+pxmsgkKM6+yp90Ru1ZHTHKqifIAZ30IDySECaWiPdOQm6GhpQWE/G/cd+4YWLO0kPDhTtClrTUnb9hfqWz/7sd8+y8Ct4mdIodWU/gjJL0FfXNyQeo7NXWQy/4JJauFuWTZo2ygqihjzsh5YE=;zRSOGj4mHgFF8y5EqjCUiQ=="

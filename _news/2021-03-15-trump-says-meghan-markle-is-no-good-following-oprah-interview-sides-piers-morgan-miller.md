@@ -1595,6 +1595,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Biden Allows Trump Ban on Temporary Foreign Workers to Expire"
+    excerpt: "President Joe Biden allowed a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday, according to a related court filing on Thursday."
+    publishedDateTime: 2021-04-01T22:54:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-04-01/biden-allows-trump-ban-on-temporary-foreign-workers-to-expire"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Biden Seeks U.S. Supreme Court Dismissal of Trump Immigration Rule Dispute"
     excerpt: "Biden, who has criticized Trump's immigration approach, is widely expected to dump the policy known as the \"public charge\" rule. The justices on Feb. 22 had agreed to hear an appeal filed by Trump's administration of a lower court ruling that found the rule likely violated federal immigration and administrative law by impermissibly expanding the definition of who counts as a \"public charge\" and greatly increasing the number of people who would be rejected for residency."
     publishedDateTime: 2021-03-09T11:37:00Z
