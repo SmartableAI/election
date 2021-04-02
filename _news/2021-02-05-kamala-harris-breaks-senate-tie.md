@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republicans try to make Kamala Harris the face of the border crisis"
+    excerpt: "Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one of the administration's most divisive issues.\n   "
+    publishedDateTime: 2021-04-01T10:38:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310102406-01-kamala-harris-0302-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House reached out to Manchin after Harris' West Virginia interview"
     excerpt: "The White House called Democratic Sen. Joe Manchin after Vice President Kamala Harris conducted interviews with West Virginia media, according to a person with knowledge of the conversation.\n    \n"
     publishedDateTime: 2021-02-01T18:24:41Z

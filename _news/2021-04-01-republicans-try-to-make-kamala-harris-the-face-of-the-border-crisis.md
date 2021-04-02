@@ -1,34 +1,34 @@
 ---
 category: news
-title: "How Kamala Harris Rose — and Rose"
-excerpt: "Kamala’s Way” is the story of Harris’s dramatic political career, as told by the longtime California journalist Dan Morain."
-publishedDateTime: 2021-02-01T19:00:00Z
-originalUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.html"
-webUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+title: "Republicans try to make Kamala Harris the face of the border crisis"
+excerpt: "Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one of the administration's most divisive issues.\n   "
+publishedDateTime: 2021-04-01T10:38:29Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
 type: article
-quality: 135
+quality: 185
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Democratic Voice
+  - Kamala Harris
 
 images:
-  - url: "https://static01.nyt.com/images/2021/01/27/books/review/McGirr/McGirr-facebookJumbo.jpg"
-    width: 1050
-    height: 549
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310102406-01-kamala-harris-0302-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -45,22 +45,6 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205191617-harris-breaks-tie-screengrab-0205-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Republicans try to make Kamala Harris the face of the border crisis"
-    excerpt: "Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one of the administration's most divisive issues.\n   "
-    publishedDateTime: 2021-04-01T10:38:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310102406-01-kamala-harris-0302-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,6 +95,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310102631-01-kamala-harris-0210-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "How Kamala Harris Rose — and Rose"
+    excerpt: "Kamala’s Way” is the story of Harris’s dramatic political career, as told by the longtime California journalist Dan Morain."
+    publishedDateTime: 2021-02-01T19:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/books/review/McGirr/McGirr-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Kamala Harris Casts Her First Tie-Breaking Vote"
     excerpt: "It was, somehow, a setting simultaneously dramatic and anticlimactic for Vice President Kamala Harris’s first tiebreaking vote in the Senate: just before dawn in a sparsely filled chamber, at the end of a 15-hour session in which senators voted on dozens of amendments to one of the largest stimulus packages in American history."
@@ -203,6 +203,6 @@ related:
         height: 550
         isCached: true
 
-secured: "o97CJ8PLZl6atZF6F10asem0rLV6GmvT4cgNfQuyjBjst5jMRmHr/pig9tbNOmOcmj/gTpe/ecOwcU9TegfOsl35+ojRGZBDKGCYSHRwXEluZOibuBRxinrUxDpkDUSQ20qqwQ0BaJ/v9G/U8cO1Zqx9czq3DhM7XbTvO3jKoEQwcXpRT52ChfBlJfQeHdgapMD33Ltsa/YXFzigYMuXVHNYYDkT1+xt3qygumk6KAW3jjzxrTiqi8QCEYp0l8Ps9TePoAS2pL8f5E/u5/vyaHuN3kwtB0pI6y32DnKjykDcjsq+TxUzXZTsX8lfuNnSqdZX4C1toF7muDLQ1m/80YKGQE+xts2bHXxsaT5asgFkEmjZRfVqq1C9KFxprNRIrc3hN5LIX74vyppZyEHaduGdN9J++r7QDtOkMVv8ntc/c5sD97PoACI4ch/IPAbm9rYlajnV2BsJ6M+y/g6C/FzkdeurOgXSbcniVj2C7CiwiqgAO2MNFACN/X9NTgZWxXBjLR6HCJ+2QNBeA9gDGQ==;SwTFIsQirbq+ej6PCYsqkA=="
+secured: "iFhbznRqlmAorDzpp0JbezdGHV9R4C5s9cUKApz2nFgPJkoewoiKwvgZxRsnSq7eOCAqUmMDOomLvPz7BpXrhzFvENe9iZd85YmxaljL2wVcaAVIW4cTwKzKdRcel+9dTPxouIbGmU86XZdHk616uBhcN9YiqHUk0NV9Nnh0mLUhBPQyieHA67OAzVa56ev7FVICeInEsxIgP924TG3kgzDdBgCxrSbOGkXDU+Vc2rzRf07ys27u8fLm/ryJ7HYub3ymFc4Xpe7ERnWlk2eCQ27zY6szLBYSS2tAVJVw+BGjKbXjElSMVUfSNWVQaPM0u4fMzDqtdZJzb5qccfpXtzHM/vp/y6jPDFxU00RUS9c=;pt37KXbbW5//FuY0URPWig=="
 ---
 

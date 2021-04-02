@@ -1,34 +1,23 @@
 ---
 category: news
-title: "Biden admin asks for government volunteers at the border amid crisis"
-excerpt: "The Office of Personnel Management (OPM) has sent a memo to various heads of government agencies seeking \"volunteer deployments\" for up to 120 days to help border officials deal with the surge of unaccompanied children crossing the border. "
-publishedDateTime: 2021-03-28T21:02:53Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMPdgAY2v0U/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMPdgAY2v0U/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis"
-ampWebUrl: "https://www.foxnews.com/politics/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis.amp"
+title: "President Trillion: Biden's Eye-Watering, Wasteful Spending"
+excerpt: "So far the defining word of the Biden era is trillion. The Joe Biden who portrayed himself as a moderate deal-maker during the presidential campaign is a distant memory, replaced by the Joe Biden…"
+publishedDateTime: 2021-04-02T10:55:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/04/02/president_trillion_bidens_eye-watering_wasteful_spending_539554.html"
+webUrl: "https://www.realclearpolitics.com/2021/04/02/president_trillion_bidens_eye-watering_wasteful_spending_539554.html"
 type: article
-quality: 175
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac0b456d-c256-4ab3-a240-0477a7b63203/89443988-d43c-4bc3-8baa-27237d0dce4a/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Biden nominates Sen. Joe Manchin's wife to federal commission"
@@ -46,6 +35,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Gayle-Conelly-Manchin-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden admin asks for government volunteers at the border amid crisis"
+    excerpt: "The Office of Personnel Management (OPM) has sent a memo to various heads of government agencies seeking \"volunteer deployments\" for up to 120 days to help border officials deal with the surge of unaccompanied children crossing the border. "
+    publishedDateTime: 2021-03-28T21:02:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMPdgAY2v0U/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac0b456d-c256-4ab3-a240-0477a7b63203/89443988-d43c-4bc3-8baa-27237d0dce4a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden approval numbers on immigration sink amid border crisis: poll"
     excerpt: "A new poll indicates that Americans are giving President Biden a big thumbs up on dealing with the coronavirus pandemic. But when it comes to the divisive issue of immigration and border security, the survey suggests that the president’s approval rating plummets."
@@ -414,16 +419,7 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
-  - title: "President Trillion: Biden's Eye-Watering, Wasteful Spending"
-    excerpt: "So far the defining word of the Biden era is trillion. The Joe Biden who portrayed himself as a moderate deal-maker during the presidential campaign is a distant memory, replaced by the Joe Biden…"
-    publishedDateTime: 2021-04-02T10:55:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/02/president_trillion_bidens_eye-watering_wasteful_spending_539554.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "sQ0YxUbGR5aQ7YWYCEMu31mYGqcs2JWbYlcENeQDz9vubrDm3hXGlx1wsgzomb/J01M9EgacRGLuvzx7Q3OCLAQRVKo6B0k/gCtU+B272DF98HR+Ac4+Ng3To3T9QssKzw16/xAZTjB3B5pk+H33vwKbANXLY5Bvyn7XTYDE1i4sn9+28D5CbLptYTwq4wglJk2mUdIxKGUuCVLwSRoobfaZ9FAyMKX0KgmmPLY2TwRz/yA2W2uMM7MUqeAbi2v1IhSREwK50WLgBa/0LKiAQGGh34WCkYyDK0vyl4W8HXGik4koJMXHkwaqBJ0+2CT0PZlL2XhOHSRqoCSNSwfkbHAaCJeuAOM60q2gwHOpM04=;T29qO8r2kzr16ZBJQsSLTQ=="
+secured: "k5xqY8mLNRm1sc+NfHMTS9ARDyDrRgT1TxC/59kdP/7dF3Et7r0k76/ECY9YOeiWNAiGtDw4hsGKa05p8gj2yJvEmqJ3g5LQEakqtmgdLBnbxBWPmRPXG+WWJkSLAqeyeXWPZx6atrJZ4RJt2yPqzD5ZG+W0KDFlFiU8eRr4IoUWcvHjcrH3Sxm1s+YOD0IRc2msApZEfEWoyb/dd823Ro7Cb2Vg6dIanyj4ge5FXBVFu80ebPMstW4jMGHyTDJCQnC493XzMLOi6LY/efmoz71vCuyXx3XGtRKhGGvZ+J0/17uKgqmKLIIXVqgSiNKcZi4N7RcmAX5vJsAo3Bb6wWSPMMA8ZqvX41e4w0cXFTw=;HYoazeNfLoOg4v0STCe/Jw=="
 ---
 

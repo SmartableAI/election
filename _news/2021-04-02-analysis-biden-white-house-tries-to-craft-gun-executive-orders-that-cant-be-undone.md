@@ -1,22 +1,22 @@
 ---
 category: news
-title: "House Freedom Caucus chair writes to Biden objecting to infrastructure proposal"
-excerpt: "House Freedom Caucus chairman Andy Biggs (R-Ariz.) on Wednesday wrote to President Biden expressing his opposition to the White House's $2 trillion infrastructure proposal, joining other congressional"
-publishedDateTime: 2021-04-01T02:14:00Z
-originalUrl: "https://thehill.com/homenews/house/545901-house-freedom-caucus-chair-writes-to-biden-objecting-to-infrastructure"
-webUrl: "https://thehill.com/homenews/house/545901-house-freedom-caucus-chair-writes-to-biden-objecting-to-infrastructure"
-ampWebUrl: "https://thehill.com/homenews/house/545901-house-freedom-caucus-chair-writes-to-biden-objecting-to-infrastructure?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/545901-house-freedom-caucus-chair-writes-to-biden-objecting-to-infrastructure?amp"
+title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
+excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
+publishedDateTime: 2021-04-02T10:12:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-guns-analysis-idUSKBN2BP0QI"
+webUrl: "https://www.reuters.com/article/us-usa-guns-analysis-idUSKBN2BP0QI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP0QI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP0QI"
 type: article
-quality: 121
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/biggsandy_120919gn_lead.jpg"
-    width: 980
-    height: 551
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557130342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310C3"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "House Freedom Caucus chair writes to Biden objecting to infrastructure proposal"
+    excerpt: "House Freedom Caucus chairman Andy Biggs (R-Ariz.) on Wednesday wrote to President Biden expressing his opposition to the White House's $2 trillion infrastructure proposal, joining other congressional"
+    publishedDateTime: 2021-04-01T02:14:00Z
+    webUrl: "https://thehill.com/homenews/house/545901-house-freedom-caucus-chair-writes-to-biden-objecting-to-infrastructure"
+    ampWebUrl: "https://thehill.com/homenews/house/545901-house-freedom-caucus-chair-writes-to-biden-objecting-to-infrastructure?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/545901-house-freedom-caucus-chair-writes-to-biden-objecting-to-infrastructure?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/biggsandy_120919gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden announces first slate of judicial nominees with picks that would make history"
     excerpt: "Washington — President Biden on Tuesday rolled out his first slate of judicial nominees, announcing candidates with diverse backgrounds and professional qualifications as he begins to make his own stamp on the nation's district and circuit courts."
     publishedDateTime: 2021-03-30T12:56:00Z
@@ -174,22 +190,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/30/b2d945cd-e047-4ffa-b970-413cef79f12a/thumbnail/1200x630g3/80288d47489a876f86f8847f56983db1/gettyimages-1232007099.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
-    excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
-    publishedDateTime: 2021-04-02T10:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-guns-analysis-idUSKBN2BP0QI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP0QI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP0QI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557130342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310C3"
-        width: 817
-        height: 545
         isCached: true
   - title: "North Korea's Kim calls U.S. 'our biggest enemy' in challenge to Biden"
     excerpt: "North Korean leader Kim Jong Un called for more advanced nuclear weapons and said the United States is \"our biggest enemy,\" state media said on Saturday, presenting a stark challenge to President-elect Joe Biden just days before he takes office."
@@ -275,6 +275,6 @@ related:
         height: 600
         isCached: true
 
-secured: "au3weW73xbcqVKACGxQsr7if/fJeRyXHGdICs3x96mUXcX4OT/CAObHhVnE2/FvQPpa1mjoKlxCpVArT090vnLiZZ3f7Mm8TnfMze2BrdOWj36crjB7Igj7R3m/e+fs5eWj2rTByDnfHufwTqUKUjFgAxs1blpmc/jOnFPxusNPnwGc38pwsmsRu5JkactDKof010HgxZ5A6JW/Vq1yFEyG5jQ2mcsWaIlPSFZL3iWcUQeKYWzh8WrbSv8M9Px/W/qlqO4t6hF1q0sKVcHtyLjD4OPRNe99xzibiM9JtP13Rg2Jhl5zeBViNroF4sJ68JDjUTjamW1QppgvGJ1h+neH/O63B+yOM/vLFW4Nc/7U=;On06/vbkG3KWQbn1LrSByg=="
+secured: "WzTSX0t+ORsaDWjItk998QqqJ5qJaR8qfmK596vOO5UuVp0d+UAAlH04+innH+bihf73dFjShp6FNW3Rzu7HFcWoJG6UgJukFzUjVLl00z8r2qWjwZcNav2mPQY4/DHWlX1a2/LFnKhDom7yru8zlGAsFnWCdFiEgFvIVMuZ9p1lZJgjMh0a/qOHPtDyIP3V6sCIeVmXd4z+b3+xpLIsmELt9p5N4Co75zvXE4wNgTiJbs3Pj/lUgymgpxQqDRs/beOsDsZ6nMmTlxfhUuHoKxWcfAL47RMWbnGysZUkCLSmLiYDAe4KuPkPy4xL+rDF6qwQPyy/gcD5+cK+TLAem6v9M8fpBnEJMSELKg2KFYo=;KZA+gMtZmrkQFyfx9LlT3g=="
 ---
 

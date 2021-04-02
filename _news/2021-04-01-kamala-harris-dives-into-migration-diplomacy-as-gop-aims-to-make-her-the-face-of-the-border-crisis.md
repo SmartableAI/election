@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Kamala Harris dives into migration diplomacy as GOP aims to make her the face of the border crisis"
-excerpt: "Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one of the administration's most divisive issues.\n   "
-publishedDateTime: 2021-04-01T10:38:29Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html"
+excerpt: "(CNN)Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one ..."
+publishedDateTime: 2021-04-01T06:38:00Z
+originalUrl: "https://www.cnn.com/2021/04/01/politics/kamala-harris-migration-border/index.html"
+webUrl: "https://www.cnn.com/2021/04/01/politics/kamala-harris-migration-border/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
 type: article
-quality: 171
+quality: 121
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Democratic Voice
   - Kamala Harris
+  - Democratic Voice
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310102406-01-kamala-harris-0302-super-tease.jpg"
@@ -65,6 +65,6 @@ related:
         height: 619
         isCached: true
 
-secured: "oWAQ9kS/8T1j7tb9NDzh36VZQ4IaztZ4Foylb3NwO7wNMS+oiCMtVspOnBooB7/xEjIokGRMjDZLNwA9GeDErLLyFIF+C3kZiTCxt64UFnlrT1rHgpEm1BZ6EwlAC407mBBo1HL8kfN956sP6CO4yIp9rofrbW/IlS2KdSkeV2h9g5iYIf9ve28JCbRHGS+oxEJ7rAQUKFjZmXSkEeENMC0XSDCLR/3sNp591kf4jDepVl7nsGW3oJdD2qAA8fCKNGwKGJg3iCpzan2E39hdBOV50MkIm3ORQQCckkbWtGBBP3iuTng/6a4+FAizxz0At3UohVG+AClZ59lgPVurs4m2Cr7Pla2O6lB8elIQYYY=;n12eSgF8CuENZtl42zEsyA=="
+secured: "SjDoEF/kFpsZ0Wx2RM1XpamSywkT8GsxQA4lhOx7R2W2RbElDLHgjO7XR2xTalPSKzaAo9OMOWDUnTmhwK1tqjgld274S1lODR1+EFIS8lF/8sV71Bxzgezl9HNJXOmICUjGmp7WzLzsaRGJ3yhombhj5rMcapJpZ13nfM0aOAGJMiTTouQITqs/1qN6BuFOLmNa9SkOYBIBKyF5rQih8rgmyASdDltGZN31NZbax6ZRx6nH8rHb1C0J6ZXYBzAB4d6x1QJi8+2rHpf39O00eYmqC8jxkrANMfItXo9mBSi5rEKH9Y1OivTZEyjfsMOdpFfEWyUStixXAJ198NhTCwCCh9n7xF2U2eSMfMpF1bY=;52o5Iv/kSoK2OmCE3jDtTQ=="
 ---
 

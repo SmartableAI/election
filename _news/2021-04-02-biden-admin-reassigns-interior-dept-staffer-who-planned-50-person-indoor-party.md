@@ -414,6 +414,15 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
+  - title: "President Trillion: Biden's Eye-Watering, Wasteful Spending"
+    excerpt: "So far the defining word of the Biden era is trillion. The Joe Biden who portrayed himself as a moderate deal-maker during the presidential campaign is a distant memory, replaced by the Joe Biden…"
+    publishedDateTime: 2021-04-02T10:55:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/02/president_trillion_bidens_eye-watering_wasteful_spending_539554.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "UhIgkG4F4DEk3y0HlGteG2kKmPxMwdrHhstJ2CRmA7I1Y82Nm1iSoN1omcoUx6noAK0t5dXLSjXe/VQyDpl7zWDDeOsCL3b0EN77t2p6HU8iU+y19KYoGcuENF3ziTZqaRn6u4kNn2Ddq9Km9BXXD+j6jvD5SXg5vKSHALUoipbWhxQqtvDH7vjIeFpxYLVjuSEEngpJAN0aOOYNxh1eP3XusH0z2f6GHQFDn6trQWoqNFuiUDterbLWroKwsGVatIwObZjPSjo32KYF9n5Bsq2hO5FNlsUODk0IPRkDy7QhNNweTDSzHSviprJ6DYK7/YZCs8hNCaUMeCGBVajQpUfQbAklwVvjGDQhI/azDJ4=;Ke6R5vAhXtssjsjmmhmf7w=="
 ---

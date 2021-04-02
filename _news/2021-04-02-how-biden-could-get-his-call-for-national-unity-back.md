@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Graham: 'Sick' for Biden to 'play the race card' on Georgia election law, filibuster"
-excerpt: "Sen. Lindsey Graham R-S.C., said Sunday it was \"sick\" that President Biden is playing the \"race card\" regarding the GOP-led Georgia election law and the legislative filibuster."
-publishedDateTime: 2021-03-28T15:02:44Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5aqAPY0GLQs/graham-sick-biden-race-card-georgia-election-bill-legislation-for-the-people-act"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5aqAPY0GLQs/graham-sick-biden-race-card-georgia-election-bill-legislation-for-the-people-act"
-ampWebUrl: "https://www.foxnews.com/politics/graham-sick-biden-race-card-georgia-election-bill-legislation-for-the-people-act.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-sick-biden-race-card-georgia-election-bill-legislation-for-the-people-act.amp"
+title: "How Biden Could Get His Call For National Unity Back"
+excerpt: "President Joe Biden began his presidency with an inaugural call for national unity. Since that time, his greatest legislative achievement is a COVID-19"
+publishedDateTime: 2021-04-02T10:47:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
 type: article
-quality: 183
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60884bb9-5954-4384-8606-86e798a73628/9d915939-10db-4690-ab41-5672c07a1a93/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/53/539497_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -44,6 +41,22 @@ related:
     quality: 185
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20302627306817-e1603909536701.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Graham: 'Sick' for Biden to 'play the race card' on Georgia election law, filibuster"
+    excerpt: "Sen. Lindsey Graham R-S.C., said Sunday it was \"sick\" that President Biden is playing the \"race card\" regarding the GOP-led Georgia election law and the legislative filibuster."
+    publishedDateTime: 2021-03-28T15:02:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5aqAPY0GLQs/graham-sick-biden-race-card-georgia-election-bill-legislation-for-the-people-act"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-sick-biden-race-card-georgia-election-bill-legislation-for-the-people-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-sick-biden-race-card-georgia-election-bill-legislation-for-the-people-act.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60884bb9-5954-4384-8606-86e798a73628/9d915939-10db-4690-ab41-5672c07a1a93/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -95,23 +108,7 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "How Biden Could Get His Call For National Unity Back"
-    excerpt: "President Joe Biden began his presidency with an inaugural call for national unity. Since that time, his greatest legislative achievement is a COVID-19"
-    publishedDateTime: 2021-04-02T10:47:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/539497_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "Rlhe05F5Hf+fqysumUL9Cs4rmyinaZf19sIM0c6vn03NnbfgacYTMpp0U90IhIym95xQtMy0XcsfyotAoN4YAfXp9r1wIy2AQjeBxcktaU0w+INTgnTmd1TGxXy4HZ9KckAw/tnqhQaekVe4na48YDAixL9ecFgpZFTE6w+t5IDWYtXEa1/7K5Os1f+5UxYf345R/sc88fTC4aJUE/wfKckmbyF4PlLzxn8t2EBv96OItcxmnxcNIPvvcXp7MnuNrsvPPs5wrQnspmYsHj4sJlPvVudwoLDjoDYCSjipW4YuyCFhxvRUZOqAMKE3hbmEctieg4T/J3VMeYteRFekTWlyfuD/2eAFdCBZAoSIgac=;z91rZAt2cKH06QmesqVB5Q=="
+secured: "X83tFTxNTNLV/MVZoyMA7DW+q49TIUVS3FXq5NpzxWQr3/DFNtUMPbAczzAlqkApY4AY7fMAIJEYDE1AndM0qLXjvuAnNR9ttN1MRXzzChdfcW6Qr8e7se9Fqu2gk2NCMPmpwV827Bj14UkS1FJtOau2o3+0buTORggqGrMMXSCZJF912uaj58cMCVcy2aWIvBR46qTo6Q1Dwy3zbfmP9VfJ0LV+Hqle8ltS39HeBOxsaJv8gaK8KCkiuaXDAe4L6zP0UX/kuQH9kOOMGJlu7VBUExWMrCRXp8IOjpamd3K90EproWu8HeOMsnsyMxkREJC4ATfll4tUNx7QN2BWW2tAI/06CHP4viyvfUUTGmI=;7ZeoXKSO3MObxoyWgrYwgA=="
 ---
 

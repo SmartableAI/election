@@ -137,6 +137,20 @@ related:
         width: 1200
         height: 782
         isCached: true
+  - title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
+    excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
+    publishedDateTime: 2021-04-02T11:19:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/attachment/air-force-two-carrying-vice-president-kamala-harris-prepares-to-land-at-mccarran-internationa/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 43
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "aoG36NXrQMW0b/70sn4aFG5KC4JeoV24Df2OKuWqw7FQyIzmkvyMyNQ9IiC4pPyJv82zknHuUMZabMCoI4nv21rTtxzFIzFFy4SnUnHYg478E5TRRNi/bvwIXxxdARov6NCeF8u/N1X5x3Pa/2vL6IS+ZlAth8sYwphsY8o+B66J0W9Bt2ySXgD83P+h6+togR1XGRgan0G7Nmtx5Vv1G0lWrKWpDnNkjSoMd/t3/y47dHnbH6WPJ9PVggf9+2z5dJzDHnnBq67BGCpWGgWx+UGMAGOSJ4xJrguF+sBXguxW16stGinl6n2n4p1NVnf9JYadJxfNnT2q/p5gOyvihT85r+LQ53WcI28xre3ttV0yoNmD3ajx3vOhJOZUhye1fxrHImdHQxgLYjztRWQf7w3ERCun+4LQQkzJPxv8oFeIK4kboJ/VRmqh4ghOozJ5nccXbb9HXEXRCfomN5nvRnYUHwq1LisSuflRT7huvvkRgT/NVRI4fvjjKwsVDBfYnDozYd4aiplRgKP23ubJ7A==;/0dzENDUMLqkG4byqgsh0g=="
 ---

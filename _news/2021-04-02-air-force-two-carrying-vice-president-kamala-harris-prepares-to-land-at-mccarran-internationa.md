@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Vice President Kamala Harris calls Springfield Vietnam War veteran Gumersindo Gomez, thanks him for his service"
-excerpt: "Vietnam veteran Gumersindo Gomez received a phone call from the US vice president on National Vietnam War Veterans Day."
-publishedDateTime: 2021-03-29T20:13:00Z
-originalUrl: "https://www.masslive.com/news/2021/03/vice-president-kamala-harris-calls-springfield-vietnam-war-veteran-gumersindo-gomez-thanks-him-for-his-service.html"
-webUrl: "https://www.masslive.com/news/2021/03/vice-president-kamala-harris-calls-springfield-vietnam-war-veteran-gumersindo-gomez-thanks-him-for-his-service.html"
-ampWebUrl: "https://www.masslive.com/news/2021/03/vice-president-kamala-harris-calls-springfield-vietnam-war-veteran-gumersindo-gomez-thanks-him-for-his-service.html?outputType=amp"
-cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/03/vice-president-kamala-harris-calls-springfield-vietnam-war-veteran-gumersindo-gomez-thanks-him-for-his-service.html?outputType=amp"
+title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
+excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
+publishedDateTime: 2021-04-02T11:19:00Z
+originalUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/attachment/air-force-two-carrying-vice-president-kamala-harris-prepares-to-land-at-mccarran-internationa/"
+webUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/attachment/air-force-two-carrying-vice-president-kamala-harris-prepares-to-land-at-mccarran-internationa/"
 type: article
-quality: 55
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: Las Vegas Review-Journal
+  domain: reviewjournal.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OJLCPEZCYND5PAYTKFFOWKUHRU.jpg"
-    width: 4316
-    height: 3237
+  - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -107,6 +105,22 @@ related:
         width: 1200
         height: 613
         isCached: true
+  - title: "Vice President Kamala Harris calls Springfield Vietnam War veteran Gumersindo Gomez, thanks him for his service"
+    excerpt: "Vietnam veteran Gumersindo Gomez received a phone call from the US vice president on National Vietnam War Veterans Day."
+    publishedDateTime: 2021-03-29T20:13:00Z
+    webUrl: "https://www.masslive.com/news/2021/03/vice-president-kamala-harris-calls-springfield-vietnam-war-veteran-gumersindo-gomez-thanks-him-for-his-service.html"
+    ampWebUrl: "https://www.masslive.com/news/2021/03/vice-president-kamala-harris-calls-springfield-vietnam-war-veteran-gumersindo-gomez-thanks-him-for-his-service.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/03/vice-president-kamala-harris-calls-springfield-vietnam-war-veteran-gumersindo-gomez-thanks-him-for-his-service.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 55
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OJLCPEZCYND5PAYTKFFOWKUHRU.jpg"
+        width: 4316
+        height: 3237
+        isCached: true
   - title: "Vice President Kamala Harris: CT 'courageous and innovative' in COVID response"
     excerpt: "Landing in Connecticut Friday for the first time, Vice President Kamala Harris hailed the state for being “courageous and innovative” in helping children during a pandemic that has underscored the need to fight poverty and boost education."
     publishedDateTime: 2021-03-27T00:12:00Z
@@ -137,21 +151,7 @@ related:
         width: 1200
         height: 782
         isCached: true
-  - title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
-    excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
-    publishedDateTime: 2021-04-02T11:19:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/attachment/air-force-two-carrying-vice-president-kamala-harris-prepares-to-land-at-mccarran-internationa/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 43
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "uLXw6oPOqRCZ1fPiJYLsckw49rXW0ANanpy/HDzc6vZCL76vxqSTonwLWseW0oPrU/nw6f7n4+1vD2SUxg3i/IA5tV6pq3C8LVPXXn1zEIIQuwJ6f56CSi4kMt+GhWaVP4gEPgtS+ikNBEpPJ1/zC4K/ay8i8tr2SKsRt+jcdkFNmmN3kvy3x47vvN+uY1FZ3feaSy7EIcw3VStnID1oa0zxj9qex367FnuxEE+iXVWQ3z7ZTrDO1Iy07K3iTPHXXMFz9vNYI25LxXNIsNC73S4AxETEYjT/iFh7Si3dNA/LfNR67RQ3vaj1xnm5DT0wv791FU6M77JZxjB6y3FTqNUa8DOTk8+1Xx3D/QP0EGRU9rD1Z/wmwooqz0PH2FaVaMZZMiFQkkMmC45WmYGZQBWKeAvImu3i7YRiU8uDqaPlypA6I1MDFKb+R9RVL7VCUnftLMKmHc+Q+qEJWazueWZvtQPynXUx8dpnwoTX3hxLQXLv9XgC//rTbJRZXpu+oDi/E3ec8kaxrJatKVnRlA==;w0MjKepuVkybXeZYmtdcjw=="
+secured: "qsEi1EnihVvjrC8Q5DEdt5Wm9tked54ZK9tmqZz+v08vwu+XOE5u2J72TQpiPrFPzyUsHFvuI4578LrA23vmGPByGOj3d0vuQPssUqbyn/gUXX/bTQhXYd6BudIhpRuNdsfAezSN5bGgXXLLGb8f4g+CyYwkEH+jqXqFrcqqbeRUCZDO60T/n4B81r2TP5rYfXrAqN2d7IMqO4BmZRW6YwVfXRyCJsMib/pDIQOdb4XsDnwFF7X/jPd5Iz5MhXl/gQXdFqn+JlnZH6kFc+FCOlk6xlSFuGDSRBVgrb+bPDXISyR9h0sSeLfPqTb6+utkxoHq9W7oWoLltM1KE5A7ltWCJWVW1CxbD7nk9UlSyko=;WEHRMnJr5xR3MQNWogfbVA=="
 ---
 

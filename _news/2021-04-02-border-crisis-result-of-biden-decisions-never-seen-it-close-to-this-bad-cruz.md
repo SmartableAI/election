@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden's border response blasted as 'half-a--ed gig' by Texas congressman"
-excerpt: "The Texas Republican then unloaded on the president for his border response, saying the country must “stand firm” on border policies and deportations “or we have no borders in this country.”"
-publishedDateTime: 2021-03-30T19:55:40Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response"
-ampWebUrl: "https://www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
+title: "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz"
+excerpt: "Cruz said \"this year, we have the worst illegal immigration in 20 years … and it occurred when Joe Biden became president and it occurred because of decisions he made.\" A Biden spokesperson did not immediately respond to Fox News’ request for comment."
+publishedDateTime: 2021-04-01T20:44:00Z
+originalUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz"
+webUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz"
+ampWebUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
 type: article
-quality: 174
-heat: 274
-published: true
+quality: 130
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,15 +22,32 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ea87a8c-9e36-48dc-964c-90e65df5002c/f59f4da5-1c73-4ecf-9d66-81afd1c94004/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
+  - title: "Biden's border response blasted as 'half-a--ed gig' by Texas congressman"
+    excerpt: "The Texas Republican then unloaded on the president for his border response, saying the country must “stand firm” on border policies and deportations “or we have no borders in this country.”"
+    publishedDateTime: 2021-03-30T19:55:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ea87a8c-9e36-48dc-964c-90e65df5002c/f59f4da5-1c73-4ecf-9d66-81afd1c94004/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz"
     excerpt: "Sen. Ted Cruz, R-Texas, argued on \"America Reports\" Thursday that President Biden \"caused the border crisis we are seeing right now\" through his immigration actions during his first week in office."
     publishedDateTime: 2021-04-01T20:40:03Z
@@ -77,22 +94,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz"
-    excerpt: "Cruz said \"this year, we have the worst illegal immigration in 20 years … and it occurred when Joe Biden became president and it occurred because of decisions he made.\" A Biden spokesperson did not immediately respond to Fox News’ request for comment."
-    publishedDateTime: 2021-04-01T20:44:00Z
-    webUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz"
-    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Texas Sen. Ted Cruz On Border Visit: \"Joe Biden Has Built More Cages\" For More Kids, \"Bigger And More Full\""
     excerpt: "Sen.Ted Cruz of Texas told FNC's \"Sunday Morning Futures\" about his visit to the border this week as a surge of migrants and asylum-seekers continues. He was not allowed to film his experience visiting the site of a Border Patrol detention facility."
     publishedDateTime: 2021-03-28T16:41:00Z
@@ -108,6 +109,6 @@ related:
         height: 562
         isCached: true
 
-secured: "AQ3P3SddMuEkLvdgvhJQUNGKGCeELW1dt9Zk6dkmgXqbHy5Nv1y9Pn73aAIHOOsaNt2yo+dpLb7syIA6pKN8wAiFf45Nl1s4d9/zV64e9EQtBvPmrfBrtBktUKNvtZsoupX/QmryMOtdZyVDB3WMBSRXqOlroe5YGJDowNCwFU7zLQlP1Vl9F8EMvBFFNOf+YtrHPPq7gTQwVuNjSZL+Iy+iBcg38X2u65F1nYQF0Q7Jb8pHLw4mY9Y23vhmqfHwjb6KQFuiNP1XU10a9OSZPQ/O5mGPJOhixyzRWps/rWYMTtarnXwgrMsLyte37MB1MeWVHt1RdX+JEebMFWa/BYAPDRGXkT/2c8Rk/NFNkVA=;ux+hf0BSeXhhMf8sYOJF5A=="
+secured: "TOhmBrmVM7fAIdrW3MYNkRf1iE9ejb608Pfg4Dgc2iPWI3AigwO51PEAevsNr1cEpSY7G2g9L9uVAVDd+3WXFvqJfcE0TOm2pf5fb2d1I9xgSe0fS3zP6zO3V76RfbXvlMtdWbTpks+7JhMHjpcyNMSxAciiXumrSc3mWFKOr4NaBy7mKv2fMXQpUb+B5VmzUBpCyRROqEEc7uRLV4ZzFkFZh3Zhv3LWDcNUYSLI9ExJf0WfDLM+ABfQHSGYXVJne8ymFLKr/XwNHBh41VhJh5EZFAKQ0Lu0ZuuPwIYYmivyom82ecHEHKopZSGRARvs0Qog2iuoqy6kgPg8q/rpsAokfgsLl7nFFQEPuG5mmPM=;/lxCWhOmP0LfFJz1NUacPw=="
 ---
 

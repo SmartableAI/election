@@ -77,6 +77,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz"
+    excerpt: "Cruz said \"this year, we have the worst illegal immigration in 20 years … and it occurred when Joe Biden became president and it occurred because of decisions he made.\" A Biden spokesperson did not immediately respond to Fox News’ request for comment."
+    publishedDateTime: 2021-04-01T20:44:00Z
+    webUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz"
+    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas Sen. Ted Cruz On Border Visit: \"Joe Biden Has Built More Cages\" For More Kids, \"Bigger And More Full\""
     excerpt: "Sen.Ted Cruz of Texas told FNC's \"Sunday Morning Futures\" about his visit to the border this week as a surge of migrants and asylum-seekers continues. He was not allowed to film his experience visiting the site of a Border Patrol detention facility."
     publishedDateTime: 2021-03-28T16:41:00Z

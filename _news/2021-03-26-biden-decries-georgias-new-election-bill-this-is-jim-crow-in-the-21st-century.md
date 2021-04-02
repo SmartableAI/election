@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-bill.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-bill.amp"
 type: article
 quality: 185
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "How Biden Could Get His Call For National Unity Back"
+    excerpt: "President Joe Biden began his presidency with an inaugural call for national unity. Since that time, his greatest legislative achievement is a COVID-19"
+    publishedDateTime: 2021-04-02T10:47:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/539497_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "vzm7uLhm8mRxY0wN2n3QsnULDeZvCjqwCjCofuPuLbd1Juevnb4eOuh2apj88a18iTZTqC1OQYjUMO2tVMV2lhbvoWIT1rR3zusrN3fpCP1UA3MI+jr+BwXFZlIbnDWXihYon7Lr/tOMwTWv2/2FreZwsN6/zWxk1EghDMovA1qpXlYcpK+CJlwKaZjYR8HqJIvEs+LufZWteXdRRvF1sJ4nQ1rAtVE4ApXxRklF0lk8fgnbM1XLAIsEJE+vHFL0oqTGkBCvdE9ofIYNfKu4bAvXLdJfkVWiIpWbGnCGyhuYJfKDvthQ4at2BIz8rsEp2uU7yWaO5yksSbleJ/svQiB/KXBFxY06cvQF9gIyTJ8=;uZ/6bu7pnnaDVqV+oAt7ig=="

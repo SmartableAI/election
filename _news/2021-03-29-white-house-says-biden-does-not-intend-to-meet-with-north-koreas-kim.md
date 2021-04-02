@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/30/b2d945cd-e047-4ffa-b970-413cef79f12a/thumbnail/1200x630g3/80288d47489a876f86f8847f56983db1/gettyimages-1232007099.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
+    excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
+    publishedDateTime: 2021-04-02T10:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-guns-analysis-idUSKBN2BP0QI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP0QI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP0QI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557130342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310C3"
+        width: 817
+        height: 545
         isCached: true
   - title: "North Korea's Kim calls U.S. 'our biggest enemy' in challenge to Biden"
     excerpt: "North Korean leader Kim Jong Un called for more advanced nuclear weapons and said the United States is \"our biggest enemy,\" state media said on Saturday, presenting a stark challenge to President-elect Joe Biden just days before he takes office."

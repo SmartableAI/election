@@ -88,6 +88,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz"
+    excerpt: "Cruz said \"this year, we have the worst illegal immigration in 20 years … and it occurred when Joe Biden became president and it occurred because of decisions he made.\" A Biden spokesperson did not immediately respond to Fox News’ request for comment."
+    publishedDateTime: 2021-04-01T20:44:00Z
+    webUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz"
+    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "XR+PPYeRyDXAZBfoFg9+/6mxLuA8QQDDu6IFtrvFWB1Qj36WP9DBfxxJkKcUKPTTz5xmRqgSdY3XeVeBIg4TSzPUqnAE++bgwAaaBJ/yHy2y0UGa7CFQFCwo8hQU8SzenoRmHYXNQmCgPJIMlPL73IwsgxvGyq75ICEJ4ydKmn3faHNIG7ttypNKIzWSWeKy9D0Lt4EW7JTiPKbtZZZec9IAqtlC6V4e69qvCAu3yiCRmSacvZ8ZIv0BqkdQ6TViiT2+rNpVaVbyR9B6zXfBC/wopT953gpNJ58llHJtDneItAOCp2IXi2YEwdzY+VG0SgE5M6rgjhoxCfiybJv6lmUVfJ/qGbKpy2UHAORNfZKmiv0WSzIVq185RwymsvR4/S604ZI4n6tE5OuOracE8uwDxgcOeQA4zoaBhK3Wd6Uw5OqfVxblmmIscmamqRnFxzL+eflh9RM7HRrU4Yrk1N24uqgOJNj3Sbt4ozpyFaKf8eN9YN1HrYbgtyRRtnK324y8EWQewvKVUerdC+ULiA==;PJBpkfmZVy/iR6sJ2gAWOQ=="
 ---
