@@ -2,6 +2,170 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-03-president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support.md",
+      "title": "President Joe Biden Continues Hard Line Against Russia, Offers Ukraine 'Unwavering Support'",
+      "excerpt": "President Joe Biden on Friday offered \"unwavering support\" to Ukraine and reiterated his strong stance against Russian aggression amid reports of Russian actions near the Ukrainian border. After the president's Friday call with Ukrainian President Volodymyr Zelenskiy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775",
+      "originalUrl": "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1771203/president-joe-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1",
+      "publishedDateTime": "2021-04-02T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-iran-nuclear-deal-politicians-former-hostage-decry-biden-admins-efforts-to-rejoin.md",
+      "title": "Iran nuclear deal: Politicians, former hostage decry Biden admin's efforts to rejoin",
+      "excerpt": "The Biden administration is reportedly set to have indirect negotiations about rejoining the Iran nuclear deal next week, prompting a wave of backlash from critics.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F3Z8S2bDPoA/iran-nuclear-deal-biden-backlash",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F3Z8S2bDPoA/iran-nuclear-deal-biden-backlash",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d42e77b-e95b-4cc3-a816-7923e0981b59/9080e0ae-e76a-44dc-a31c-176730833c1f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iran-nuclear-deal-biden-backlash.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-nuclear-deal-biden-backlash.amp",
+      "publishedDateTime": "2021-04-02T11:13:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.md",
+      "title": "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his",
+      "excerpt": "Hunter Biden in an interview clip released on Friday said that the laptop first reported on last fall by the New York Post \"could\" be his, potentially casting doubt on past comments from President Biden that he thought the laptop was Russian disinformation. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QE6WfES1MXM/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QE6WfES1MXM/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp",
+      "publishedDateTime": "2021-04-02T11:01:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-donald-trump-called-on-to-pay-144000-in-legal-fees-for-meritless-wisconsin-election-lawsuit.md",
       "title": "Donald Trump Called on to Pay $144,000 in Legal Fees for 'Meritless' Wisconsin Election Lawsuit",
       "excerpt": "Wisconsin Governor Tony Evers has called on former President Donald Trump and others to foot the bill for their failed legal challenges to overturn the state's 2020 election results. In motions filed Wednesday by Evers' attorneys, Trump and La Crosse ...",
@@ -1188,170 +1352,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-kennedy-blasts-bidens-massive-spending-plans-moving-toward-the-china-model-of-capitalism.md",
-      "title": "Kennedy blasts Biden's massive spending plans: Moving toward the 'China model of capitalism'",
-      "excerpt": "Republican Louisiana Sen. John Kennedy told \"America's Newsroom\" on Thursday that the Biden administration's infrastructure plan is a \"bold-neo socialist experiment\" that is similar to the \"Chinese model of capitalism.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rTcl9v4xcFs/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rTcl9v4xcFs/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure.amp",
-      "publishedDateTime": "2021-04-01T09:58:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-trump-gop-candidates-embrace-new-digital-platform-to-protect-from-cancel-culture.md",
-      "title": "Trump, GOP candidates embrace new digital platform to protect from 'cancel culture'",
-      "excerpt": "Former President Donald Trump and a number of Republican candidates and organizations are now using Campaign Nucleus, a platform created by former Trump campaign manager Brad Parscale and his team, to \"protect\" conservatives against \"cancel culture,\" Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jNZasyikfZk/trump-gop-candidates-new-digital-platform-cancel-culture",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jNZasyikfZk/trump-gop-candidates-new-digital-platform-cancel-culture",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-gop-candidates-new-digital-platform-cancel-culture.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gop-candidates-new-digital-platform-cancel-culture.amp",
-      "publishedDateTime": "2021-04-01T09:00:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-christian-pastor-claims-biden-surrounded-by-demonic-hedge-of-protection.md",
-      "title": "Christian Pastor Claims Biden Surrounded By 'Demonic Hedge of Protection'",
-      "excerpt": "Pastor Mario Murillo claimed this week that President Joe Biden is surrounded by a \"demonic hedge of protection,\" urging fellow Christians to pray for a \"powerful move of God\" to bring it down. \"War has been declared on your faith,\" Murillo said during the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476",
-      "originalUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1768836/mario-murillo.png",
-          "width": 1439,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1",
-      "publishedDateTime": "2021-04-01T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

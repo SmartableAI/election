@@ -2,6 +2,114 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-11-i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief.md",
+      "title": "'I Was Speechless': Law Firm Investigated Its Own Ex-Client For Trump VOA Chief",
+      "excerpt": "McGuireWoods earned well over $2 million in taxpayer money to investigate The Open Technology Fund at the behest of Trump-appointed CEO Michael Pack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
+      "originalUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2021/03/09/libby-liu_wide-fa5bf3a19e647452de52145ba3a5db9f98a64ecf.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-homan-says-biden-should-be-embarrassed-after-inheriting-most-secure-border-in-decades.md",
+      "title": "Homan says Biden should be 'embarrassed' after inheriting most secure border in decades",
+      "excerpt": "The Biden administration should be \"embarrassed\" about their immigration policies after \"inheriting the most secure border\" in decades,\" Fox News contributor Tom Homan said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-WCFa2sza4/homan-biden-embarrassed-border-crisis-trump-secure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-WCFa2sza4/homan-biden-embarrassed-border-crisis-trump-secure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/homan-biden-embarrassed-border-crisis-trump-secure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-embarrassed-border-crisis-trump-secure.amp",
+      "publishedDateTime": "2021-03-10T06:56:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-polls-find-most-americans-support-bidens-covid-19-stimulus-package.md",
       "title": "Polls find most Americans support Biden's COVID-19 stimulus package",
       "excerpt": "President Joe Biden is also enjoying a positive approval rating as the package heads to his desk. A FiveThirtyEight aggregate of polls finds Biden's approval rating sits at 53.4% approving and 38.8% disapproving. Specifically, on his response to the ...",
@@ -1260,115 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-trump-critic-rep-kinzinger-hopes-to-be-good-part-of-history.md",
-      "title": "Trump critic Rep. Kinzinger hopes to be 'good part of history'",
-      "excerpt": "CNN's Jeff Zeleny speaks to Rep. Adam Kinzinger (R-IL), an outspoken critic of former President Donald Trump, about some of the backlash he has received since voting to impeach Trump and his political future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
-      "originalUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308193714-adam-kinzinger-zeleny-dnt-03082021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
-      "publishedDateTime": "2021-03-08T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-donald-trump-greeted-by-lone-supporter-and-angry-protesters-as-he-returns-to-new-york.md",
-      "title": "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York",
-      "excerpt": "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618",
-      "originalUrl": "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1751781/donald-trump-suv.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618?amp=1",
-      "publishedDateTime": "2021-03-08T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

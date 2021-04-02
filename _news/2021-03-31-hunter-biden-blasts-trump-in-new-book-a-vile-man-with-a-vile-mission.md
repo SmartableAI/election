@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/00bb77714be3d1a1bd84d0f6aec80a1d11b9c882/c=0-18-2166-1242/local/-/media/2015/12/15/Rochester/Rochester/635857591312276137-TY-121415-AMTRAK-LUGGAGE.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Republicans say Biden's not focused on infrastructure, but their voters like some of his proposals"
+    excerpt: "DOW S&P 500 NASDAQ 100 A new debate is brewing over President Joe Biden's infrastructure package: What, exactly, is infrastructure? According to the $2 trillion plan Biden unveiled this week, infrastructure encompasses everything from broadband access to ..."
+    publishedDateTime: 2021-04-02T18:14:00Z
+    webUrl: "https://www.businessinsider.com/what-do-republican-voters-think-of-bidens-infrastructure-proposals-poll-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/what-do-republican-voters-think-of-bidens-infrastructure-proposals-poll-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-do-republican-voters-think-of-bidens-infrastructure-proposals-poll-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/606745a1856cd700198a2e4a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Businesses Hail Biden Public Works Plan, Disdain Higher Tax"
     excerpt: "U.S. business groups say they are thrilled that President Joe Biden is proposing massive new investment to upgrade crumbling U.S. infrastructure, but they’ll be lobbying against raising the corporate tax rate to pay for it. Support our journalism."

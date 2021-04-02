@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-02-iran-nuclear-deal-politicians-former-hostage-decry-biden-admins-efforts-to-rejoin.md",
+      "title": "Iran nuclear deal: Politicians, former hostage decry Biden admin's efforts to rejoin",
+      "excerpt": "The Biden administration is reportedly set to have indirect negotiations about rejoining the Iran nuclear deal next week, prompting a wave of backlash from critics.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F3Z8S2bDPoA/iran-nuclear-deal-biden-backlash",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F3Z8S2bDPoA/iran-nuclear-deal-biden-backlash",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d42e77b-e95b-4cc3-a816-7923e0981b59/9080e0ae-e76a-44dc-a31c-176730833c1f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iran-nuclear-deal-biden-backlash.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-nuclear-deal-biden-backlash.amp",
+      "publishedDateTime": "2021-04-02T11:13:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.md",
+      "title": "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his",
+      "excerpt": "Hunter Biden in an interview clip released on Friday said that the laptop first reported on last fall by the New York Post \"could\" be his, potentially casting doubt on past comments from President Biden that he thought the laptop was Russian disinformation. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QE6WfES1MXM/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QE6WfES1MXM/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp",
+      "publishedDateTime": "2021-04-02T11:01:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way.md",
       "title": "McConnell says Biden's infrastructure package won't get GOP support, will oppose it 'every step of the way'",
       "excerpt": "Senate Minority Leader Mitch McConnell on Thursday told reporters President Biden’s proposed $2.3 trillion infrastructure package \"is not going to get support\" from Republicans and said he plans to oppose it \"every step of the way.\"",
@@ -1554,119 +1666,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-duckworth-on-biden-hesitance-to-complete-troop-withdrawal-we-need-to-do-our-jobs-in-congress.md",
-      "title": "Duckworth on Biden hesitance to complete troop withdrawal: 'We need to do our jobs' in Congress",
-      "excerpt": "Sen. Tammy Duckworth, D-Ill., said that 'we need to do our jobs in the Senate and the House in order to provide transparency for the American people on why and how long troops are in the Middle East.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kEyKXzjtsyc/duckworth-biden-withdrawal-troop-afghanistan-middle-east",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kEyKXzjtsyc/duckworth-biden-withdrawal-troop-afghanistan-middle-east",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/duckworth-biden-withdrawal-troop-afghanistan-middle-east.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/duckworth-biden-withdrawal-troop-afghanistan-middle-east.amp",
-      "publishedDateTime": "2021-03-30T08:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-hillary-clinton-john-kerry-repeatedly-attacked-trump-administration-after-leaving-state-department.md",
-      "title": "Hillary Clinton, John Kerry repeatedly attacked Trump administration after leaving State Department",
-      "excerpt": "The New York Times came under fierce criticism Monday for claiming Mike Pompeo stood out as a former secretary of state for his open partisanship, given the outspoken criticisms of the Trump administration by Hillary Clinton and John Kerry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93d6d9ec-ae27-481e-84f7-422080f3e2eb/d669044e-5520-48e2-9a64-2e55a44b5141/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "publishedDateTime": "2021-03-30T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

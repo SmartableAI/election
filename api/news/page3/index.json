@@ -2,6 +2,106 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-31-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission.md",
+      "title": "Hunter Biden blasts Trump in new book: 'A vile man with a vile mission'",
+      "excerpt": "President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden economic ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
+      "originalUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 820,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp",
+      "publishedDateTime": "2021-03-31T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-texas-gov-greg-abbott-wants-answers-from-harris-about-migrant-surge.md",
+      "title": "Texas Gov. Greg Abbott wants answers from Harris about migrant surge",
+      "excerpt": "The governor of Texas is demanding answers from Vice President Kamala Harris about the surge of unaccompanied children to the southern border, warning in a letter this week that the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/",
+      "originalUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-harris-border-03.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/",
+      "publishedDateTime": "2021-03-31T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-2-us-capitol-police-officers-sue-trump-over-january-6-assault.md",
       "title": "2 U.S. Capitol Police officers sue Trump over January 6 assault",
       "excerpt": "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ...",
@@ -1225,101 +1325,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-the-latest-trump-blasts-fauci-and-birx-as-self-promoters.md",
-      "title": "The Latest: Trump blasts Fauci and Birx as ‘self-promoters’",
-      "excerpt": "WASHINGTON — Former President Donald Trump is slamming two of his most prominent coronavirus advisers. He says Dr. Anthony Fauci and Dr. Deborah Birx are “two self-promoters trying to reinvent history.” Fauci is the chief medical adviser to President ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/article250283305.html",
-      "originalUrl": "https://www.miamiherald.com/news/article250283305.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/8f137469-cf5d-422d-8be6-eafce27a3d46/b3810ed2-9fe2-46d9-a692-71fb4e4ae035/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/article250283305.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/article250283305.html",
-      "publishedDateTime": "2021-03-30T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-blinken-ends-trump-rights-plan-promoting-conservative-agenda.md",
-      "title": "Blinken ends Trump rights plan promoting conservative agenda",
-      "excerpt": "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-30T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

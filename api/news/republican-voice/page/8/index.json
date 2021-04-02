@@ -2,6 +2,118 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-25-blackburn-warns-biden-admin-china-is-our-adversary-threatens-supply-chain.md",
+      "title": "Blackburn warns Biden admin China is 'our adversary,' threatens supply chain",
+      "excerpt": "EXCLUSIVE: Republican Sen. Marsha Blackburn is warning the Biden administration that China is \"our adversary,\" saying Beijing threatens our supply chain and urging the White House to \"step up their game.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
+      "publishedDateTime": "2021-02-25T10:27:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-removing-nuclear-launch-powers-from-president-biden-would-be-wildly-unconstitutional-mike-lee.md",
+      "title": "Removing nuclear launch powers from President Biden would be 'wildly unconstitutional': Mike Lee",
+      "excerpt": "Sen. Mike Lee R-UT. said Thursday that it is 'really weird' and 'unconstitutional' that Democrats want to change the nuclear launch code policy, which places sole power in the hands of the president. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3JFtgu1yQho/nuclear-launch-code-power-changed-joe-biden-mike-lee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3JFtgu1yQho/nuclear-launch-code-power-changed-joe-biden-mike-lee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a50ef65-defc-425f-8ddc-058fef21e866/f33db3e8-44d1-4d65-952b-a22d51ef049c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nuclear-launch-code-power-changed-joe-biden-mike-lee.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuclear-launch-code-power-changed-joe-biden-mike-lee.amp",
+      "publishedDateTime": "2021-02-25T06:25:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-harris-acknowledges-righteous-skepticism-over-covid-19-vaccine-but-says-it-will-save-your-life.md",
       "title": "Harris acknowledges 'righteous skepticism' over COVID-19 vaccine, but says 'it will save your life'",
       "excerpt": "Vice President Kamala Harris is urging Americans to get vaccinated for coronavirus while acknowledging the mistrust some have for medical research and development.",
@@ -1547,118 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
       "publishedDateTime": "2021-02-19T14:58:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-biden-says-he-is-planning-on-visiting-texas-amid-weather-crisis.md",
-      "title": "Biden says he is planning on visiting Texas amid weather crisis",
-      "excerpt": "President Biden on Friday said he is planning to visit Texas as the state grapples with a weather crisis that has left hundreds of thousands of residents without power, prompting him to declare an emergency declaration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
-      "publishedDateTime": "2021-02-19T09:51:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-mark-morgan-blasts-bidens-new-guidelines-on-ice-arrests-defies-law-and-order-common-sense.md",
-      "title": "Mark Morgan blasts Biden's new guidelines on ICE arrests: 'Defies law and order, common sense'",
-      "excerpt": "The Biden administration's immigration reform \"defies law and order and common sense,\" former acting DHS Secretary Mark Morgan said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp",
-      "publishedDateTime": "2021-02-19T09:46:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

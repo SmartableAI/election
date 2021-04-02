@@ -125,6 +125,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Kamala Harris to move into VP residence after months-long delay"
+    excerpt: "The Vice President and Second Gentleman will move in to the Vice President’s residence at the Naval Observatory residence next week."
+    publishedDateTime: 2021-04-02T18:38:00Z
+    webUrl: "https://thegrio.com/2021/04/02/kamala-harris-move-into-vp-residence-after-delay/"
+    ampWebUrl: "https://thegrio.com/2021/04/02/kamala-harris-move-into-vp-residence-after-delay/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/02/kamala-harris-move-into-vp-residence-after-delay/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 75
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/04/020420211617381109-1-scaled.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "VP Kamala Harris, HHS open drive to inspire Americans to take COVID-19 vaccine"
     excerpt: "RELATED Pfizer says COVID-19 vaccine 91% effective after 6 months As part of the launch, Vice President Kamala Harris and Surgeon General Vivek Murthy met with founding members on Thursday. The campaign will include public health experts such as the ..."
     publishedDateTime: 2021-04-01T17:09:00Z

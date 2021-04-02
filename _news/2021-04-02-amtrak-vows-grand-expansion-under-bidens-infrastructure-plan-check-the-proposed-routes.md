@@ -461,6 +461,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Republicans say Biden's not focused on infrastructure, but their voters like some of his proposals"
+    excerpt: "DOW S&P 500 NASDAQ 100 A new debate is brewing over President Joe Biden's infrastructure package: What, exactly, is infrastructure? According to the $2 trillion plan Biden unveiled this week, infrastructure encompasses everything from broadband access to ..."
+    publishedDateTime: 2021-04-02T18:14:00Z
+    webUrl: "https://www.businessinsider.com/what-do-republican-voters-think-of-bidens-infrastructure-proposals-poll-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/what-do-republican-voters-think-of-bidens-infrastructure-proposals-poll-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-do-republican-voters-think-of-bidens-infrastructure-proposals-poll-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/606745a1856cd700198a2e4a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Businesses Hail Biden Public Works Plan, Disdain Higher Tax"
     excerpt: "U.S. business groups say they are thrilled that President Joe Biden is proposing massive new investment to upgrade crumbling U.S. infrastructure, but they’ll be lobbying against raising the corporate tax rate to pay for it. Support our journalism."
     publishedDateTime: 2021-03-31T22:05:00Z

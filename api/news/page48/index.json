@@ -2,6 +2,120 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-01-15-pence-calls-harris-while-trump-continues-to-stew-in-denial.md",
+      "title": "Pence calls Harris while Trump continues to stew in denial",
+      "excerpt": "One is dropping in on the White House phone operators, addressing troops at bases across the country, paying a visit to national guardsmen in place for the inauguration and speaking by phone with his successor.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/87pFCeuctSI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/87pFCeuctSI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 2265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html",
+      "publishedDateTime": "2021-01-15T11:48:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-cuomo-takes-parting-shot-at-trump-admin-targets-reclamation-of-salt-funds.md",
+      "title": "Cuomo takes parting shot at Trump admin, targets 'reclamation' of SALT funds",
+      "excerpt": "The SALT cap has been one of the bigger thorns in Cuomo's side in recent years.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JshLzdDxQyQ/cuomo-parting-shot-trump-admin-reclamation-salt-money",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JshLzdDxQyQ/cuomo-parting-shot-trump-admin-reclamation-salt-money",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011644645511.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-parting-shot-trump-admin-reclamation-salt-money.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-parting-shot-trump-admin-reclamation-salt-money.amp",
+      "publishedDateTime": "2021-01-15T11:40:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-vp-elect-harris-compares-capitol-riots-to-2017-unite-the-right-rally.md",
       "title": "VP-elect Harris compares Capitol riots to 2017 'Unite the Right' rally",
       "excerpt": "Vice President-Elect Kamala Harris said Thursday that last week's assault on the U.S. Capitol reminded her of the 2017 \"Unite the Right\" rally in Charlottesville, Va.",
@@ -1226,114 +1340,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-pence-receives-inauguration-security-briefing.md",
-      "title": "Pence receives Inauguration security briefing...",
-      "excerpt": "Watch \"Vice President Mike Pence receives Inauguration security briefing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/live/video/20210114213955-vice-president-mike-pence-receives-inauguration-security-briefing/",
-      "originalUrl": "https://www.cbsnews.com/live/video/20210114213955-vice-president-mike-pence-receives-inauguration-security-briefing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images-cbsn.cbsnews.com/prod/2021/01/14/story_08556034_1610661484.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-wyoming-gop-rips-rep-liz-cheney-for-voting-to-impeach-trump.md",
-      "title": "Wyoming GOP rips Rep. Liz Cheney for voting to impeach Trump",
-      "excerpt": "Wyoming Republican leaders said Cheney’s decision led to a “whirlwind” of criticism in her home state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EJtMBnZ6JXQ/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EJtMBnZ6JXQ/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp",
-      "publishedDateTime": "2021-01-14T13:08:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
