@@ -267,6 +267,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New York attorney general probes finances of key Trump aide"
+    excerpt: "Allen Weisselberg, center, stands between President-elect Donald Trump, left, and Donald Trump Jr. at a news conference in the lobby of Trump Tower in New York on Jan. 11, 2017. The New York attorney general recently obtained personal financial records ..."
+    publishedDateTime: 2021-04-01T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RMYIHQCLFYI6TFTDACWHH5EWMI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
     publishedDateTime: 2021-03-31T04:05:00Z
@@ -571,8 +587,8 @@ related:
         isCached: true
   - title: "Donald Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "The former President lists Ron DeSantis as a potential heir, but left Pence out. The former Vice President is steadily reentering public life as he eyes a potential run for the White House in 2024. He’s joining conservative organizations,"
-    publishedDateTime: 2021-03-30T10:39:00Z
-    webUrl: "https://floridapolitics.com/archives/415992-donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run"
+    publishedDateTime: 2021-03-30T11:04:00Z
+    webUrl: "https://floridapolitics.com/2021/03/30/donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
     type: article
     provider:
       name: Florida Politics
@@ -612,6 +628,6 @@ related:
         height: 683
         isCached: true
 
-secured: "56khOUNOQ/lf0IFFoO5fXf304yA++13HNOPUt4Fi0gHGPIQcEY/hR8vrJacmBNYUc0Ede4dpRvqWJ00SfPLjj10RMsFYub1/wdoJAQ/f28n1WbHQGZ9A7AqdB4dD1R4KawzgHmq2FghA8yFmSoaVaaWHyF35H7ftLsKqfFXgg+/TPOT84pZyXzT/4KrigzTVLx0FFLVNSjz56nogHkT5cwydqwRE1bOiIreNwK4iQ0QvyuKFpTNV/1ATHK6XNotwjE6bFwFzs04odjwhQ5U1yAmoznLODEdFFGUQnNM+MBiXkFThG9JuwbbfGiOeCDqJpYizWI7cUSzee22DOrU77Pwo2oMWpyUiFIMHVkhijKM=;GzWKLKsTlc4YzMknqdvILg=="
+secured: "xWO7Z5wGva7K2V2xRer7+xYewtG62c2+QVFP2kJiPtsjoPgv6oJCZ3VH+hF0hk8YBfrO0xWCtvIgoAnsfHZkos+GEAHY1Oao/xJ2DleaavuKokuQIDSYXDFZVdpd/eoBKwPdWuvu1XJgE1QUmUn7dTS2XcuDMFA6RiFKRTsysFsZylqgdMaFZ19WsPFCR0tJH69byhrCfPO4THboZ6T991dOynCCI+RdwbRUTqW/jeCV+ucfY2+Ag81Cn8DHj2wAzeAISB1niiB476qrrtZ2xBF++1OoT9u6TbtIMFuG+sjRCH6tjB/bPKHjj2ArHRgKDnfwNcr0YwWEmFSmEl+L5ia+72xAKD+IJaWX6WemSoJiKVy3FD85eUDmtdUEVdbh0xq2KUGbdGIWaZqthXJ7N42nKFv+udVQIrHqwg/WtdB7qdYPNXtXWU+j3Uyr366I8Jvptx9jhldzgas4R2Exzdc7h4T6nLjGxCE0tG5gNAuUGf+RIzz1YTCxng7wIe286RWhfiuH/JVseumqdrx9/A==;SglS7d7u9YTme1R7d4HmpQ=="
 ---
 

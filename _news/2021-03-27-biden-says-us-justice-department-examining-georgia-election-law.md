@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BI31U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U"
 type: article
 quality: 140
-heat: 1640
+heat: 1660
 published: true
 
 provider:
@@ -905,6 +905,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/31/USAT/6cfcbc7c-69ba-4962-8067-76886464632f-VPC_USAT_BIDEN_INFRASTRUCTURE_BILLWIDE_GETTY.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "How Biden Would Corral Billions in Overseas Profits"
+    excerpt: "How would the global minimum tax work? Biden would put a 21% levy on the profits U.S. companies earn in each country where they operate abroad. That compares with as little as 10.5% to 13% that companies pay on their foreign earnings now,"
+    publishedDateTime: 2021-04-01T20:40:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-biden-would-corral-billions-in-overseas-profits/2021/04/01/806a9412-932a-11eb-aadc-af78701a30ca_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Fourteen U.S. states sue Biden administration over oil and gas leasing pause"
     excerpt: "Fourteen U.S. states including Louisiana and Wyoming filed suit on Wednesday against President Joe Biden's administration to challenge his pause on new oil and gas leasing on federal lands and waters."

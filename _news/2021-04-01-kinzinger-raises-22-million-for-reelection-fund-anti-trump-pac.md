@@ -303,6 +303,22 @@ related:
         width: 1440
         height: 944
         isCached: true
+  - title: "Pelosi 'hopeful' Democrats can reform SALT tax in Biden infrastructure bill"
+    excerpt: "said Thursday that she's hoping to reform the tax code to help high-income states as part of President Biden Joe Biden The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Biden ..."
+    publishedDateTime: 2021-04-01T21:00:00Z
+    webUrl: "https://thehill.com/policy/finance/546067-pelosi-hopeful-dems-can-reform-salt-tax-in-biden-infrastructure-bill"
+    ampWebUrl: "https://thehill.com/policy/finance/546067-pelosi-hopeful-dems-can-reform-salt-tax-in-biden-infrastructure-bill?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/546067-pelosi-hopeful-dems-can-reform-salt-tax-in-biden-infrastructure-bill?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/pelosinancy_031821gn8_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The hard part: Biden infrastructure-linked tax hikes face hurdles in Congress"
     excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden’s plan to pay for his $2 trillion infrastructure plan with higher corporate taxes faces hurdles in Congress from Republicans who say it will kill jobs and from some of his fellow Democrats who want a bigger ..."
     publishedDateTime: 2021-03-31T18:04:00Z
@@ -474,6 +490,6 @@ related:
         height: 675
         isCached: true
 
-secured: "gN/Rp8CUX1d2KM8/3157XYM0S/MQ+iSjztyfDlSUSI34C2QAg1k+mHAh7gh4l8PyBYS8CWc/9gl6p3rBjOKkE37ShxsqtisSaAcHjsaOofzRSFi8tz/2d6rtQhYs4qpHkTqRPU69koizliPXjkkuZDGIDqgMvf/UQN/s4h0CXarr8pqShnYhN6XIBKumiYFTfjy5Sw2VqweUEgeDST2RlfEYHA4sMEgTo9+zBkiYAAhgkPSUjqMXEy5O28ro5EvXHwz/8mvl1js0YH3SJFMXM9u5NIc/VIgiIzxmbhjWxFfEQbB4/VqlqkM5ZAynIVHmuBI9chQa1pAMztX1227CN6u6Wb4HTXbyX8zvctyO6Nk=;jvISQaokQf0rhBkvxK6FMA=="
+secured: "Thr3uJPM1MgNYuyhPdKk6z7f+uDOFEvt83Ki6rUelm2hQUKDU+vIGqaoxPIgWWoWzzVxiX8IHpJgriXCTK+7n0geYt5JhcRNY8ne3AWI0iX5mxRcAipo/6d+9P9xH3eNekbKRGlQdxwPAdE23FFri3o9oC1HFum+/ZZ/+jAh51IbU7WFs7PQxHxYs1UY6lKo6FX07MAIXHmv6F3Mjk4YickJgyoCUhKT0ra1Z+XVtoQfPcJr/uEHVkdmlg0w3jYzVZHDUaPgY+Hh/XXS8+3LHXXcX3kENRsOJJwuw/+yLnFouWXp/Hxgph0mInIUpGWz9AEgPMbrgFMxKPNMu8T5pErbq+jSwuZVekbX+UJvcdVK7g0UzY6vzDjR5bP5HHcqv+MeIM77UgeGgu6+BBgBf2N6GJOmCubLeeggYRNe7EtY8/pkNyqubDnvClxdQwnYq1anWaWHCtLXHX3V+mKbdFAhAo47F5CY4TrZNNGHwDswh3LdME7mojZYFS1jvvaOjpGUi3hRsnlo7w7q6MoQ9g==;31iEFzUjsb4t+tEhVFqebA=="
 ---
 

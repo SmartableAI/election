@@ -2,9 +2,9 @@
 category: news
 title: "Donald Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
 excerpt: "The former President lists Ron DeSantis as a potential heir, but left Pence out. The former Vice President is steadily reentering public life as he eyes a potential run for the White House in 2024. He’s joining conservative organizations,"
-publishedDateTime: 2021-03-30T10:39:00Z
-originalUrl: "https://floridapolitics.com/archives/415992-donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run"
-webUrl: "https://floridapolitics.com/archives/415992-donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run"
+publishedDateTime: 2021-03-30T11:04:00Z
+originalUrl: "https://floridapolitics.com/2021/03/30/donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+webUrl: "https://floridapolitics.com/2021/03/30/donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
 type: article
 quality: 70
 heat: -1
@@ -264,6 +264,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/d554aec0-4142-4565-a805-539b25336856/thumbnail/1200x630/35224ea24c8814699aa27412a09cf737/gettyimages-1230468115.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "New York attorney general probes finances of key Trump aide"
+    excerpt: "Allen Weisselberg, center, stands between President-elect Donald Trump, left, and Donald Trump Jr. at a news conference in the lobby of Trump Tower in New York on Jan. 11, 2017. The New York attorney general recently obtained personal financial records ..."
+    publishedDateTime: 2021-04-01T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RMYIHQCLFYI6TFTDACWHH5EWMI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
@@ -612,6 +628,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Kw48lY2DvkhXN1Q9ovPOZDIkT0jvNpbnFwXAHz2R0D2zoXXA++byjd1EwPp85Q4BVGqNhaycUlFRkgO5Uv0FiuCFkgk5UBmKqQGZtTTY0LB/JtEovQHyyUdD+hRoOHwzRcp38x/r2MlHgwSfyFPFIG8KBz2nZWWJiGI2cqPcpToTXy94mIs1vHa2thVkcGLYpbsUusu6f4CVHU2MT6jF7S558A/rT7Ys7b8u/8jstpLjK1BpKUxS5aJKHcD6err5ECAA0KX4e6h+1KH2/OORdt9v8cTpg+jRxNR4zYymDMDELa6Afeo/nUta42V+bta3LOnavIlH/HMwVgqRofsK0Vso1xJCSlxPqn/nA1kateb9j+BXou0UO9Dsp5uQ0uNMKWaTAN8IjjNKmfVTzKeDAS2mz0QYRTF6ydkpvJJe5hk4r704jZxDQkyuQUjP4PB1OuLy9JcC58Co8ZEffHUrM27+pfuvq31qRflO8NM6yrn6M/6ym4jBN5ARobKWsvfsP1JRPZuODw55014GyxDTqw==;DbNIzyqlpu5/uA4XGNxAsg=="
+secured: "kIr6Wy79WHwgoo13Pwu8cPjOQwIoROzDXBc0T8iuU8DJXlx6oO+rrltBcbyXnBprfbF/M6oatzdKKqQBxITvOxEYGzIbYQZmntCkDlIhme87LQ59o8hVI29J88h8O1CeivNv918o5+pahf1NNMz3XKvcYelyMXUgKgLn07Y2lBr/XYvh/JO1JYbk0YOOgtCJOE5gCAXWhbfsZO5b9wljG3pmKGKTR4r+CBJ7uOWL/LAgkbQQboukFdj5BXfQ+/DuOude1TIOGbd2sIj8mR6ewT+NbmRSPlGJXhxtqpWHvYECyEosPSh+9mmcaFmsaQJ1J8hAYkfO+TmeXWfQfKZwSG606dIOPHwcO12DRxKWowQ=;rEVf4UeSCcOeMGaE8UfuMA=="
 ---
 

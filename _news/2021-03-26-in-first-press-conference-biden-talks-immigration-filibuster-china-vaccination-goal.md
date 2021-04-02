@@ -95,6 +95,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Every step of the way': McConnell pledges battle over Biden infrastructure plan"
+    excerpt: "WASHINGTON (Reuters) -President Joe Biden on Thursday faced the prospect of all-out political war with Republicans over his $2 trillion blueprint to revitalize America’s infrastructure, with a top Democrat also offering only partial support over how to ..."
+    publishedDateTime: 2021-04-01T23:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-mcconnell-idUSKBN2BO68D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO68D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO68D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557086703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH30381"
+        width: 796
+        height: 545
+        isCached: true
+  - title: "Biden introduced his infrastructure plan. How does he plan to get it through Congress?"
+    excerpt: "WASHINGTON – President Joe Biden called his infrastructure plan \"bold\" on Wednesday and insisted the massive piece of legislation is necessary. \"Put simply, these are investments we have to make,\" he said during a speech in Pittsburgh. \"Put another ..."
+    publishedDateTime: 2021-04-01T21:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/01/president-joe-biden-infrastructure-plan-how-pass-congress/4823282001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4823282001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4823282001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/cf70ab61-d90d-4cb4-828d-675a5725e375-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden promises 'historic' $2tn spending in infrastructure – but Capitol Hill fight awaits"
     excerpt: "President hopes to ‘unify and mobilize the country’ but his plan faces challenges from Democrats as well as Republicans Last modified on Wed 31 Mar 2021 05.14 EDT Joe Biden will unveil an expansive $2tn proposal to rebuild the country’s ..."
     publishedDateTime: 2021-03-31T08:14:00Z

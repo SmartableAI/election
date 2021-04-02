@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reem
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
 type: article
 quality: 150
-heat: 890
+heat: 910
 published: true
 
 provider:
@@ -255,6 +255,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/d554aec0-4142-4565-a805-539b25336856/thumbnail/1200x630/35224ea24c8814699aa27412a09cf737/gettyimages-1230468115.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "New York attorney general probes finances of key Trump aide"
+    excerpt: "Allen Weisselberg, center, stands between President-elect Donald Trump, left, and Donald Trump Jr. at a news conference in the lobby of Trump Tower in New York on Jan. 11, 2017. The New York attorney general recently obtained personal financial records ..."
+    publishedDateTime: 2021-04-01T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RMYIHQCLFYI6TFTDACWHH5EWMI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
@@ -576,8 +592,8 @@ related:
         isCached: true
   - title: "Donald Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "The former President lists Ron DeSantis as a potential heir, but left Pence out. The former Vice President is steadily reentering public life as he eyes a potential run for the White House in 2024. He’s joining conservative organizations,"
-    publishedDateTime: 2021-03-30T10:39:00Z
-    webUrl: "https://floridapolitics.com/archives/415992-donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run"
+    publishedDateTime: 2021-03-30T11:04:00Z
+    webUrl: "https://floridapolitics.com/2021/03/30/donald-trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
     type: article
     provider:
       name: Florida Politics

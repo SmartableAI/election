@@ -901,6 +901,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Former Trump budget director on Biden's infrastructure plan"
+    excerpt: "President Biden's infrastructure and jobs plan is already facing opposition from Republican lawmakers. Russ Vought, former director of the Office of Management and Budget under President Trump, spoke to \"Red and Blue\" host Elaine Quijano about his oppositon to the proposal."
+    publishedDateTime: 2021-04-01T22:55:00Z
+    webUrl: "https://www.cbsnews.com/video/former-trump-budget-director-on-bidens-infrastructure-plan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/01/cc27df09-ad20-4574-abe5-c45c1b7f9188/thumbnail/1200x630/59c808e861e8a10c12ab50a848a3918c/0401-rb-trumpbudget-683271-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump resigns from SAG-AFTRA: Read his full letter, actors' guild's response"
     excerpt: "Donald Trump is resigning from SAG-AFTRA after facing expulsion from the actors' union for inciting the Capitol riots Jan. 6."
     publishedDateTime: 2021-02-05T04:16:00Z

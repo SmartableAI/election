@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/first-lady-jill-biden-mocked-spanis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-jill-biden-mocked-spanish.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "'For better, for worse': Joe and Jill Biden united in use of bad Spanish"
+    excerpt: "First Lady Dr. Jill Biden was in the social media spotlight on Wednesday after mispronouncing a phrase in Spanish, but it appears she and President Biden may have taken the same language classes."
+    publishedDateTime: 2021-04-01T22:36:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LX9F5Z2JOU0/jill-joe-biden-spanish-mishaps"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-joe-biden-spanish-mishaps.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-joe-biden-spanish-mishaps.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78be5ddc-eff3-49e3-af24-4de9268c32f6/aaabe641-0014-4947-ae44-0fffc87a28e7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Schumer plots new way to bypass Republicans on Biden's third economic spending bill"
     excerpt: "Senate Majority Leader Chuck Schumer, D-N.Y., is exploring how to pass President Biden's third economic spending bill later this year without any Republican votes via an obscure Senate rule that would allow Democrats to use reconciliation again.  "

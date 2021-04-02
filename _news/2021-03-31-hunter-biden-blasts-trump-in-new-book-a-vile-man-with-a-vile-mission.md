@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 700
+heat: 720
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUO5QKTBJYI6TPZE3NFZ7NRKUI.jpg&w=1440"
         width: 1440
         height: 944
+        isCached: true
+  - title: "Pelosi 'hopeful' Democrats can reform SALT tax in Biden infrastructure bill"
+    excerpt: "said Thursday that she's hoping to reform the tax code to help high-income states as part of President Biden Joe Biden The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Biden ..."
+    publishedDateTime: 2021-04-01T21:00:00Z
+    webUrl: "https://thehill.com/policy/finance/546067-pelosi-hopeful-dems-can-reform-salt-tax-in-biden-infrastructure-bill"
+    ampWebUrl: "https://thehill.com/policy/finance/546067-pelosi-hopeful-dems-can-reform-salt-tax-in-biden-infrastructure-bill?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/546067-pelosi-hopeful-dems-can-reform-salt-tax-in-biden-infrastructure-bill?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/pelosinancy_031821gn8_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "The hard part: Biden infrastructure-linked tax hikes face hurdles in Congress"
     excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden’s plan to pay for his $2 trillion infrastructure plan with higher corporate taxes faces hurdles in Congress from Republicans who say it will kill jobs and from some of his fellow Democrats who want a bigger ..."
