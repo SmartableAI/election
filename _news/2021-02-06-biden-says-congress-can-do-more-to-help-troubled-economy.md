@@ -2042,6 +2042,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Kamala Harris to move into official VP residence next week"
+    excerpt: "After more than two months of living in temporary housing, Vice President Kamala Harris will soon be able to unpack and unwind at her official residence on the grounds of the U.S. Naval Observatory."
+    publishedDateTime: 2021-04-02T12:03:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/kamala-harris-to-move-into-official-vp-residence-next-week/VSFTUJRGYRGNZMB5Z7H3ZSPZDQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/ICH-AyhZtiVdmdcZJG6xd6Q3t4g=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-13-2020/t_18f2ff7753ca46fba98a6ccbf49281ee_name_f27c365edffb439ca8e81a4fb9aedc7d.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Kamala Harris will stay here until official home is ready"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
     publishedDateTime: 2021-01-28T17:35:00Z

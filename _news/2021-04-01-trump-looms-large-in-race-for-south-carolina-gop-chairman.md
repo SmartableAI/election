@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Trump Looms Large in Race for South Carolina GOP Chairman"
-excerpt: "The contest to lead South Carolina's Republican Party is turning into a debate over whose support for former President Donald Trump is highest."
+title: "Trump looms large in race for South Carolina GOP chairman"
+excerpt: "COLUMBIA, S.C. (AP) — In South Carolina — where Donald Trump's 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state's Republican Party ..."
 publishedDateTime: 2021-04-01T14:58:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-01/trump-looms-large-in-race-for-south-carolina-gop-chairman"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-04-01/trump-looms-large-in-race-for-south-carolina-gop-chairman"
+originalUrl: "https://www.chron.com/news/article/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "In backing South Carolina GOP chair, Trump remains active"
@@ -239,6 +243,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "WjK2AK3FXb3+FbVMxZvnAhWuwP8OIG+XuAecJSUi+1wCSFMsjCgYi5UesA96B6lnqF1L3CBm54Y2QFim9yUDMF8ypt9oGRrZlaiQgXvGCnMgN7wgk1te9hjwKgWn1dnhwm88aZ6utH78K6y0BojhO+Y2cx1bXZg/gnryXQGr55LqZqdaHzEMTkiBEhTYjcUDTOuv8GbDxsPJqrO0Sj8ZrMuNXnbjLHwIfeFD523GV63w4FG6j3qh5MoCaHlrXfbFp6+PzCS+sPCZ/Zk7SQL5AQBXXFPUQcNHzP+MVmpWbdtZUwLL29HA7YfJtruMa090vgDyrUiGjQWebn0Ks2DI2YB5d/wDGmCpQOUIqsnT+c5ecKQoXIQh9qG26cyZbYMpO9vydJzhPBlR4U2fF+dgwm8VvxvwIFdj8Lnb3E5J3NcMatzmSlTezmPxPaz+hA4SMmXFSEKNYU93GB5ArhN1WYG6Z2WqPRplU4FmLwFuwUyy6CeHdF+IKe8NWOcrEhsdmmhS9h8cJQnXuFLd167y4w==;GgFoWcgjq4sWZKn7mWIkXw=="
+secured: "EcZ69Hrm+LYW1KfaXXRpFjCnFdFRF6eNRhCl/jMLsHBe8qrsEwtclw6h+Ap0gR3Fp3McM2CuXWQSYOSZUTKzBP4Xt4QZN7txz07vGmCaIs9BlubLgDoteapdlUfmg4DIpfUqptdr2fPzb7c4KG030wwAqNfTokUnFS2NoPPDSJkJYHEsEDrnPyOhiY8KfJfIii5MOkjfUtepnoNbnRxnDqOkuhTJunUmc8nHjuE8zzg40Mf60xn9Mrf9hpj1IaYCdrIukw6XO1Q9zgvB/pyZX4xLAWP7T5dgAoiJZKidx0z781Bd6t5betuTQ2BUUHyjrmEGJb3tGnE8dGtKGzkLltKVa82Fdwa3xZI83uBrcDY=;QZAYPvRW3Yn7eVRdywM6fA=="
 ---
 

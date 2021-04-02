@@ -205,6 +205,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump looms large in race for South Carolina GOP chairman"
+    excerpt: "COLUMBIA, S.C. (AP) — In South Carolina — where Donald Trump's 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state's Republican Party ..."
+    publishedDateTime: 2021-04-01T14:58:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "The GOP's first 2024 cattle call is almost here. By the looks of the CPAC speaking roster, it's gearing up to be a very Trump-friendly affair."
     excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
     publishedDateTime: 2021-02-17T10:02:00Z
@@ -230,15 +246,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump Looms Large in Race for South Carolina GOP Chairman"
-    excerpt: "The contest to lead South Carolina's Republican Party is turning into a debate over whose support for former President Donald Trump is highest."
-    publishedDateTime: 2021-04-01T14:58:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-01/trump-looms-large-in-race-for-south-carolina-gop-chairman"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "5ojTMMUQfEzvl5KztUzJftqUoZjuakahENy0X25/zrnsq+FbOx0oyEVROOKf1kYQ2/bBPEtPMhJD4fQn2kPkO+zsb0X14+/I+KarBvepGipfOzunCoTT0Ox7+NSFOYB9wFnkjBIUw19cOJuwiv4L3zODtkQuInvk0HLbY5AJSoMuvH9X6BVmsxqX4akva/8kCSyMunfon8jRAR8o7SN+2ZB1gYU2OEHms1EEOCQpyAKWo2gNWrYIZEGeleZr6SsGugCA4a8hcwnYmR2E/HcinT8qHkP3JFsLBFzWTFRWYZKgt7R0vwVFqTJpaL0rUVSq2ty4j8clhLAL3itb/YT9/wbfvQc04E+6FmKtp4A+dK5nYXnFcUpunYlv5mQjGHUf4ywXvUe1acYJebiF4X7eH6a2kjL9CznqRAXgSN99TZlVJ83ON1KYx9l+WllKv/SEf2GriIFWKRarq/0WY1iocQalUxNHErBFNFBp81XYv/WkC62qIy0D9Ku/5S7VGg5DKvz5yjExZ+11AfJLHrkSTw==;+C/UKG+rTpWAbg9QBkH9/w=="
 ---

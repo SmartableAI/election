@@ -3,8 +3,8 @@ category: news
 title: "How Biden Could Get His Call For National Unity Back"
 excerpt: "President Joe Biden began his presidency with an inaugural call for national unity. Since that time, his greatest legislative achievement is a COVID-19"
 publishedDateTime: 2021-04-02T10:47:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
 type: article
@@ -92,6 +92,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's $2T spending plan, billed as infrastructure bill, spends less than half on infrastructure"
+    excerpt: "President Biden's $2.2 trillion spending plan, which is being promoted largely as a bill to address infrastructure, directs well under half of its total money to things traditionally defined as infrastructure, according to a Fox News analysis. "
+    publishedDateTime: 2021-04-02T12:18:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AAPrbiCKMGY/biden-spending-plan-billed-as-infrastructure-bill-spends-non-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spending-plan-billed-as-infrastructure-bill-spends-non-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-plan-billed-as-infrastructure-bill-spends-non-infrastructure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Gov. Kemp: Biden trying to distract from border crisis with call to pull MLB All-Star Game from Georgia"
     excerpt: "Georgia Governor Brian Kemp slammed President Joe Biden's attempt to pull the MLB all-star game from Georgia as a 'distraction' from his administration's handling of the crisis at the southern border. "
     publishedDateTime: 2021-04-01T15:45:45Z
@@ -109,6 +125,6 @@ related:
         height: 340
         isCached: true
 
-secured: "X83tFTxNTNLV/MVZoyMA7DW+q49TIUVS3FXq5NpzxWQr3/DFNtUMPbAczzAlqkApY4AY7fMAIJEYDE1AndM0qLXjvuAnNR9ttN1MRXzzChdfcW6Qr8e7se9Fqu2gk2NCMPmpwV827Bj14UkS1FJtOau2o3+0buTORggqGrMMXSCZJF912uaj58cMCVcy2aWIvBR46qTo6Q1Dwy3zbfmP9VfJ0LV+Hqle8ltS39HeBOxsaJv8gaK8KCkiuaXDAe4L6zP0UX/kuQH9kOOMGJlu7VBUExWMrCRXp8IOjpamd3K90EproWu8HeOMsnsyMxkREJC4ATfll4tUNx7QN2BWW2tAI/06CHP4viyvfUUTGmI=;7ZeoXKSO3MObxoyWgrYwgA=="
+secured: "04R2VMOFv4m9IZhwiLmBbuLaKkgPG5HT7NNNfUoShUp3cXamuaWAw40w8dgY1+qYJZ6jtlMM8OTJLPKQv0VMyzGHBvUBmcjJFhzRJkumaCRcY1oyFLGiumYYLzGYl1ixr6rMJ+greJzJcfrqKZhD+NrXXq13SSMAKHZ6WZjM92WekENjJD/4xFAgsNj+rg+48pUzZl9Q5uukQdh4jucTynjhZd+04huy/tSFiCXWLznn0AU0wLbXiPe8ovEWm4Btm99hOyjIShXDzMDgoBVRNmJYQQiK/djRvs0RsT3UBr+EFv4ORGIQGxNdzUktESkO1iAxMiZJK1N4GdM7aBNJ2DikR6/A9ViUe6VGFAW28G0=;EaA1YYGzjIrOYF8Cpgl+qQ=="
 ---
 

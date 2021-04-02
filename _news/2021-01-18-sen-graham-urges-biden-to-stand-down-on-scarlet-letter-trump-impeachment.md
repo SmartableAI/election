@@ -2766,6 +2766,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden WH keeps Trump's National Space Council despite mocking Space Force"
+    excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."
+    publishedDateTime: 2021-04-02T00:16:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-keeps-trumps-national-space-council"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-trumps-national-space-council.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-trumps-national-space-council.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077770966304.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden Administration to Ask Dozens of Trump-Appointed U.S. Attorneys to Resign"
     excerpt: "Exempt from the decision are two top prosecutors overseeing politically sensitive inquiries, including the U.S. attorney leading the Hunter Biden tax probe."
     publishedDateTime: 2021-02-09T04:48:00Z

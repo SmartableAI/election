@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Indiana Senate congratulates Mike Pence on his 'retirement'"
-    excerpt: "Mike Pence reportedly is considering a 2024 run for president. But the Republican-controlled Senate in Pence's home state has adopted a resolution congratulating the former vice president and Indiana"
+    excerpt: "Mike Pence’s political career is over. That at least is the opinion of the Republican-controlled Indiana Senate, which unanimously adopted a resolution Tuesday congratulating the former vice president and Indiana governor on his “retirement.”"
     publishedDateTime: 2021-03-31T17:05:00Z
-    webUrl: "https://madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.html"
-    ampWebUrl: "https://madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.amp.html"
+    webUrl: "https://www.pantagraph.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_c2d1635d-b389-5bb8-81f3-077dba7883d7.html"
+    ampWebUrl: "https://www.pantagraph.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_c2d1635d-b389-5bb8-81f3-077dba7883d7.amp.html"
+    cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_c2d1635d-b389-5bb8-81f3-077dba7883d7.amp.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: The Pantagraph
+      domain: pantagraph.com
     quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/de/adef85fc-3eb9-5d23-90a3-d52cb6c0052d/6064acf687908.image.jpg?resize=1024%2C682"
+      - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/a/e9/ae90d334-c904-582a-90a9-01ede089e7c2/6064acfe59529.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
         isCached: true

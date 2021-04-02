@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-28-bidens-1st-100-days-live-updates-fema-seeks-us-troops-to-help-with-vaccinations.md",
+      "title": "Biden's 1st 100 days live updates: FEMA seeks US troops to help with vaccinations",
+      "excerpt": "A draft request for assistance between FEMA and the Department of Defense is under discussion that would seek as many as 10,000 service members to support administering COVID-19 vaccine shots up to 100 sites nationwide,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
+      "originalUrl": "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/national-guard-vaccine-reut_hpMain_20210127-205858_16x9_1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
+      "publishedDateTime": "2021-01-27T18:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-fact-check-biden-family-bible-used-during-his-oath-is-historically-roman-catholic-not-connected-to-illuminati-or-freemasons-as-posts-claim.md",
       "title": "Fact check: Biden Family Bible used during his oath is historically Roman Catholic, not connected to Illuminati or freemasons as posts claim",
       "excerpt": "In the days following U.S. President Joe Biden’s inauguration on Jan. 20, posts on social media claimed that the Bible he used during his swearing-in ceremony is connected to the Masonic Order or the Illuminati.",
@@ -1491,58 +1543,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus.md",
-      "title": "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus",
-      "excerpt": "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7",
-      "originalUrl": "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548111937&r=LYNXMPEH0G0AL&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-17T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "White House investigating Biden's authority to cancel student debt"
-excerpt: "President Joe Biden's Education Secretary is reportedly investigating the administration's legal authority to cancel some of the $1.7 trillion student loan debt, but the White House says the President still does not support debt relief above $10,000 for all borrowers."
-publishedDateTime: 2021-04-02T02:51:01Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U7NuOMB1ok4/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U7NuOMB1ok4/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000"
+excerpt: "President Joe Biden's Education Secretary is reportedly investigating the administration's legal authority to cancel some of the $1.7 trillion student loan debt, but the White House says the President still does not support debt relief above $10,000 for ..."
+publishedDateTime: 2021-04-02T02:53:00Z
+originalUrl: "https://www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000"
+webUrl: "https://www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000"
 ampWebUrl: "https://www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -524,6 +525,6 @@ related:
         height: 500
         isCached: true
 
-secured: "z/Gh11Ir7FW6dxOIFElCTKYJkJwQNiq1qdlHqSueJsq38T0cfu1+JctY7WtP8Km9DSow/HjkGmqdEAr1L/nnevQh8kBZmX6EPxMGsM+m1xGf+BCbaITcNE8cl1fLKLeHvmFKifbBL2nnAkSBXvKMI58DGCF1l6GGa/j9QI4lgmwzGUc1sXqfFy603YfrwYNwAkDjZ54O+wcCHSrpYt0/Yc5FLJ/Ry1EM0pxi1frdbCcnHfuUbQQ1+i+l4X1EOYg5DmF0ys3DHavcRW9e7J/tp8idNrO9JoWI4DZnH3mRVItMx+pkGsNHTM41UoZF5yezcmBQ0tLV0Mb6r6kvfpfLHK4LINp8P30YQSk3pBqNQ3k=;hjvz0N7CJOpR0U/MVRhgCg=="
+secured: "vhWYCrdBm49cwSM4kxelzvjuD1bStFvEIEG6EzBluGYtSsEtTYbWEse0gCKWPhGjRg5Y6Dt2O4E524FYAhawIapqKvgAgfi+v4rxzMpx31xh0Fzi1V9jB0QQuQszBLUbEYfPGAGfsShd7ZS9Jxh/+LWaIFHBvK1dbrOvKtOvF1s5om5QiPC/SzmeQfCPyEGeGEea2SBspAUEP0BhR/MWK+rNveV1iv+uRcZ5PKuCywezTUVNoFMAwbPmpJ6MsFNSolOxTtBLLarAHO5d43rRjuscTTga/LqSxFflJcpQFKhPn7H5Z3/FME0gNNkKbcKM9JQuFa8xag2grl/WAc/iUHr+f4h+yWA4t4tg3Dnb8Sc=;gHcSqnBNa26FqpS8pgjM+A=="
 ---
 

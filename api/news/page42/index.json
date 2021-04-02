@@ -2,6 +2,62 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-01-24-two-former-trump-officials-to-be-investigated-for-posting-papers-denying-climate-change.md",
+      "title": "Two former Trump officials to be investigated for posting papers denying climate change",
+      "excerpt": "The Commerce Department's Office of Inspector General said it will investigate how two former Trump officials posted dubious papers questioning man-made climate change using government logos but without the approval of the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mrd_OGlmG_4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mrd_OGlmG_4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200914175952-david-legates-todd-pkg-tsr-0914-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/23/politics/david-legates-ryan-maue-trump-officials-climate-change-mazie-hirono/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/david-legates-ryan-maue-trump-officials-climate-change-mazie-hirono/index.html",
+      "publishedDateTime": "2021-01-23T16:21:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-24-biden-to-mayors-things-are-going-to-get-worse.md",
       "title": "Biden to mayors: “Things are going to get worse”",
       "excerpt": "President Joe Biden warned the pandemic will get worse in the next several months, and he urged more personal responsibility. NBC News confirmed former President Trump engaged in a plan to upend the Justice Department to overturn the election.",
@@ -1324,63 +1380,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-facebook-refers-trump-account-suspension-to-oversight-board.md",
-      "title": "Facebook Refers Trump Account Suspension to Oversight Board",
-      "excerpt": "The social-media company said a decision from its independent panel on the matter—the biggest issue it has tackled since being set up last year—would be binding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
-      "originalUrl": "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-282048/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506",
-      "publishedDateTime": "2021-01-21T18:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

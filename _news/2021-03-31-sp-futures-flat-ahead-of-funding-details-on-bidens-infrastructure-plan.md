@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's infrastructure plan tests Democratic unity in Congress"
+    excerpt: "Biden commerce secretary: Infrastructure plan a ‘historic’ investment President Joe Biden unveiled his sweeping infrastructure proposal to expected opposition from Republicans. But before he ..."
+    publishedDateTime: 2021-04-02T13:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-infrastructure-plan-tests-democratic-unity-congress/story?id=76810133"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-infrastructure-plan-tests-democratic-unity-congress/story?id=76810133"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-infrastructure-plan-tests-democratic-unity-congress/story?id=76810133"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/aoc-gty-er-210401_1617292096960_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden faces the challenge of highlighting progress without relaxing restrictions"
     excerpt: "President Joe Biden faces the challenge of highlighting progress without relaxing restrictions in the face of a potential fourth coronavirus surge."
     publishedDateTime: 2021-03-31T09:02:00Z

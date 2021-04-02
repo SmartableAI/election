@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Indiana Senate congratulates Mike Pence on his 'retirement'"
-excerpt: "Mike Pence reportedly is considering a 2024 run for president. But the Republican-controlled Senate in Pence's home state has adopted a resolution congratulating the former vice president and Indiana"
+excerpt: "Mike Pence’s political career is over. That at least is the opinion of the Republican-controlled Indiana Senate, which unanimously adopted a resolution Tuesday congratulating the former vice president and Indiana governor on his “retirement.”"
 publishedDateTime: 2021-03-31T17:05:00Z
-originalUrl: "https://madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.html"
-webUrl: "https://madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.html"
-ampWebUrl: "https://madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.amp.html"
+originalUrl: "https://www.pantagraph.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_c2d1635d-b389-5bb8-81f3-077dba7883d7.html"
+webUrl: "https://www.pantagraph.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_c2d1635d-b389-5bb8-81f3-077dba7883d7.html"
+ampWebUrl: "https://www.pantagraph.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_c2d1635d-b389-5bb8-81f3-077dba7883d7.amp.html"
+cdnAmpWebUrl: "https://www-pantagraph-com.cdn.ampproject.org/c/s/www.pantagraph.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_c2d1635d-b389-5bb8-81f3-077dba7883d7.amp.html"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: The Pantagraph
+  domain: pantagraph.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/de/adef85fc-3eb9-5d23-90a3-d52cb6c0052d/6064acf687908.image.jpg?resize=1024%2C682"
+  - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/a/e9/ae90d334-c904-582a-90a9-01ede089e7c2/6064acfe59529.image.jpg?resize=1024%2C682"
     width: 1024
     height: 682
     isCached: true
@@ -60,6 +60,6 @@ related:
         height: 675
         isCached: true
 
-secured: "tZTKE14sp7iebi+BgPzPUgRwv4OIfa7tVUno5TTfHDul1f4Hs75mQX5/0J0B7jD/RccmLxc2MnL0mRK5yyMUwx94Myrx3WAxjPdF10pMT69nAFjNJ6Gzz2hYH/+AdVPSjII9FLqXa5iTUVVOkLy+t+XzqzvKPb9M9AlMmfcgHVkEyMyor8zB5suhUh3QKBt9ira6kw9RyHLeHN+w8jDGGpHTQR5hUIN/CCdlJzNOuFi8WJnpHpscVELp3Nz5u9fbgEkpgqalJWVj0WotRsN+arm/NSRYUJdJB+8G8cltW6xYoevGiGxpxbzu1zoEo0f16VQFYM8T73UMN2SppWD+SrOPsTzccRAiSF+Nqp+cVix9z50s0+i5uM7WnXMvGiiDJcRdDY7Phn6aYMj5BXylf1eAEZ4oRXlN1XbN7w3zq2vkQNVRMNk0jhE4iFutRcuQrBaALwPS7ZLCMS7L3IXVOAmkaCsgpJ5S4RegzNBaZz+NFVHDO+/1KQpuDyI2beTlP+KVhsHM81epFswmHR28LQ==;X3joVKIwg9rchudXxzTneg=="
+secured: "S+OJtr1vE6/qfkI+bICzI+tLUga9ojLN9L286/5WNp7O3uf5CSScxivIlHFjxQ0CUd631N/mbh47rgZs/PKgqujVpouT8EcU9kEQNZdAtabXk/MCohRKQhvYpwmCIupdiFZxSxkTRRFIpcRxBeGV+CXhdXcbticu1Pbg0SUGKMyJwW8L/u0iZymjQbnoQ7E26vqiHd+2vCghG3JJR+fSvhAD88XARrxaFsx/3+0mt/dq04jAGg61brvK1qSPE/3mxHEDzlP1C0G7DK07/DmI8mn5RvzR8C2LapU4Dv0pgTfyWwVXQ8+3Ft+3SBWtdgWpXA7i51R3avNaoanQD3W/0BVq5kRU7XQLSoL80lXVOPo=;b/HBXQXJ1hvvnJDjJS271Q=="
 ---
 

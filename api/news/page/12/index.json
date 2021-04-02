@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-16-trumps-cfos-ex-daughter-in-law-is-cooperating-with-prosecutors-and-refuses-to-be-silenced-her-lawyer-says.md",
+      "title": "Trump's CFO's ex-daughter-in-law is cooperating with prosecutors and 'refuses to be silenced,' her lawyer says",
+      "excerpt": "Allen Weisselberg holds the keys to Donald Trump's personal finances, as well as his company's financial details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3",
+      "originalUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/604fc60dfe6a340019acec9e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jennifer-weisselberg-refuses-to-be-silenced-trump-investigation-manhattan-da-2021-3?amp",
+      "publishedDateTime": "2021-03-15T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor.md",
       "title": "Pence endorses Sarah Huckabee Sanders for Arkansas governor",
       "excerpt": "Former Vice President Mike Pence Michael (Mike) Richard Pence In 'restoring America's soul,' Biden can become a hero for the persecuted Pences announce birth of first grandchild White House faces ...",
@@ -1281,58 +1333,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off-stage-report.md",
-      "title": "Trump rally organizer claims Alex Jones threatened to throw her off stage: report",
-      "excerpt": "Women for America First had been planning an event to support then-President Trump Donald Trump The Memo: Nation rallies for Biden on his COVID-19 response Maryland GOP governor applauds Biden ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off",
-      "originalUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/jonesalex_stoneroger_121118gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off?amp",
-      "publishedDateTime": "2021-03-12T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

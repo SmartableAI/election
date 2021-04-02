@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-10-polls-find-most-americans-support-bidens-covid-19-stimulus-package.md",
+      "title": "Polls find most Americans support Biden's COVID-19 stimulus package",
+      "excerpt": "President Joe Biden is also enjoying a positive approval rating as the package heads to his desk. A FiveThirtyEight aggregate of polls finds Biden's approval rating sits at 53.4% approving and 38.8% disapproving. Specifically, on his response to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 825,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/05/USAT/650f7c42-3bb7-4281-951e-aa870f369b46-AP_Biden_8.jpg?auto=webp&crop=4964,2793,x0,y251&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6936053002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002",
+      "publishedDateTime": "2021-03-10T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-this-cant-be-the-end-of-the-matter-advocates-lawmakers-press-biden-to-punish-saudi-crown-prince.md",
       "title": "'This can't be the end of the matter': Advocates, lawmakers press Biden to punish Saudi crown prince",
       "excerpt": "WASHINGTON – Several prominent human rights advocates blasted President Joe Biden on Tuesday for failing to directly penalize Saudi Arabia's crown prince for his role in the murder of Washington Post columnist Jamal Khashoggi. It comes as Democrats in ...",
@@ -1525,63 +1577,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-biden-tells-town-hall-not-all-minorities-know-how-to-get-online.md",
-      "title": "Biden tells town hall not all minorities 'know how to get online'",
-      "excerpt": "But the arrival of the Chinese virus followed by the idiotic lockdown policies of Blue State Governors and then, of course, the defeats of Donald Trump led to a less free, less prosperous, less optimistic America and listening to Joe Biden speaking today in Michigan you couldn't help but think that Biden and Fauci are going to keep us under their thumbs for as long as possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online",
-      "originalUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a17db8b-72da-45f1-ac74-3f11135bb3b6/600bca1e-bafc-4923-ac66-753f6027ed5a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online.amp",
-      "publishedDateTime": "2021-02-21T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

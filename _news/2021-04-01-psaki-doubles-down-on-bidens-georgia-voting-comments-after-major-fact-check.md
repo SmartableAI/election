@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's $2T spending plan, billed as infrastructure bill, spends less than half on infrastructure"
+    excerpt: "President Biden's $2.2 trillion spending plan, which is being promoted largely as a bill to address infrastructure, directs well under half of its total money to things traditionally defined as infrastructure, according to a Fox News analysis. "
+    publishedDateTime: 2021-04-02T12:18:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AAPrbiCKMGY/biden-spending-plan-billed-as-infrastructure-bill-spends-non-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spending-plan-billed-as-infrastructure-bill-spends-non-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-plan-billed-as-infrastructure-bill-spends-non-infrastructure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Gov. Kemp: Biden trying to distract from border crisis with call to pull MLB All-Star Game from Georgia"
     excerpt: "Georgia Governor Brian Kemp slammed President Joe Biden's attempt to pull the MLB all-star game from Georgia as a 'distraction' from his administration's handling of the crisis at the southern border. "
     publishedDateTime: 2021-04-01T15:45:45Z
@@ -98,7 +114,7 @@ related:
   - title: "How Biden Could Get His Call For National Unity Back"
     excerpt: "President Joe Biden began his presidency with an inaugural call for national unity. Since that time, his greatest legislative achievement is a COVID-19"
     publishedDateTime: 2021-04-02T10:47:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
     type: article

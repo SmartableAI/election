@@ -256,22 +256,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "White House investigating Biden's authority to cancel student debt"
-    excerpt: "President Joe Biden's Education Secretary is reportedly investigating the administration's legal authority to cancel some of the $1.7 trillion student loan debt, but the White House says the President still does not support debt relief above $10,000 for all borrowers."
-    publishedDateTime: 2021-04-02T02:51:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U7NuOMB1ok4/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/211fe5e9-dbf0-4716-8289-ff66de929765/a08def23-c5fe-4fc6-91d5-aff03d0882ec/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
     excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
     publishedDateTime: 2021-03-26T20:38:06Z
@@ -415,6 +399,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "White House investigating Biden's authority to cancel student debt"
+    excerpt: "President Joe Biden's Education Secretary is reportedly investigating the administration's legal authority to cancel some of the $1.7 trillion student loan debt, but the White House says the President still does not support debt relief above $10,000 for ..."
+    publishedDateTime: 2021-04-02T02:53:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/211fe5e9-dbf0-4716-8289-ff66de929765/a08def23-c5fe-4fc6-91d5-aff03d0882ec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
     excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"

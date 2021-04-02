@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "10 Things in Politics: Trump sees legal danger ahead"
+    excerpt: "THEY MAY STILL SEE HIM IN COURT: Former President Donald Trump doesn't think he's out of the woods yet. His advisors tell him that's he's unlikely to face legal repercussions over the deadly Capitol Riot, but they are increasingly worried about prosecutors ..."
+    publishedDateTime: 2021-04-02T11:14:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/604a96919942cf001865dec9?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
   - title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
     excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
     publishedDateTime: 2021-03-31T17:59:00Z

@@ -163,6 +163,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-joe-biden-wants-to-heal-after-capitol-attack-but-americans-cant-even-agree-it-was-serious.md",
+      "title": "Joe Biden Wants to Heal After Capitol Attack but Americans Can't Even Agree it Was Serious",
+      "excerpt": "Republicans and Democrats are starkly divided on the severity of the attack, how harsh sentencing should be for those involved, and where future threats lie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031",
+      "originalUrl": "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1767772/protesters-capitol-january-6.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1",
+      "publishedDateTime": "2021-03-31T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-live-updates-biden-to-reveal-2-trillion-infrastructure-plan.md",
       "title": "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan",
       "excerpt": "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,",
@@ -1290,58 +1342,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-donald-trump-uses-new-website-to-rewrite-history-of-his-presidency.md",
-      "title": "Donald Trump uses new website to rewrite history of his presidency",
-      "excerpt": "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 10.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
-      "publishedDateTime": "2021-03-30T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
