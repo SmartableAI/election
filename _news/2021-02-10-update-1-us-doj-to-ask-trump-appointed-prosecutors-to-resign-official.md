@@ -1759,6 +1759,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "US lifts Trump administration's sanctions on top ICC prosecutor"
+    excerpt: "Mike Pompeo had imposed sanctions and refused visas after Fatou Bensouda launched investigation into alleged war crimes"
+    publishedDateTime: 2021-04-02T19:28:00Z
+    webUrl: "https://www.theguardian.com/law/2021/apr/02/us-lifts-sanctions-icc-prosecutor-fatou-bensouda-pompeo-blinken"
+    ampWebUrl: "https://amp.theguardian.com/law/2021/apr/02/us-lifts-sanctions-icc-prosecutor-fatou-bensouda-pompeo-blinken"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2021/apr/02/us-lifts-sanctions-icc-prosecutor-fatou-bensouda-pompeo-blinken"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7097f9ffc902b6790248f7494080ba34823b3aa9/0_546_5841_3506/master/5841.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d753bfc94d5173666ba7e2af219e104d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "If Senate does not convict Trump, 'he can do this again,' Democrats warn"
     excerpt: "Democratic prosecutors making the case that Donald Trump incited a deadly insurrection by encouraging his supporters to march on the U.S. Capitol warned the Senate on Thursday that if it fails to convict the former president,"
     publishedDateTime: 2021-02-12T08:16:00Z

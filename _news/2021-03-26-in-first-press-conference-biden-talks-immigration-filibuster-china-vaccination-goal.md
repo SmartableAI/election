@@ -202,6 +202,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 94
+  - title: "Here are 9 hurdles Biden's infrastructure plan would have to overcome in Congress before it can become law"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% President Joe Biden this week released his opening bid for an infrastructure overhaul, and now the White House and Democratic leaders face the arduous task of getting enough lawmakers on board to get a bill to ..."
+    publishedDateTime: 2021-04-02T20:36:00Z
+    webUrl: "https://www.businessinsider.com/issues-that-could-tank-bidens-infrastructure-plan-congress-salt-taxes-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/60676384a7d803001963e885?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Joe Biden and First Lady Visit the Vietnam War Memorial"
     excerpt: "U.S. President Joe Biden and First Lady Dr. Jill Biden visit the Vietnam War Memorial in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI"
     publishedDateTime: 2021-03-29T22:14:00Z

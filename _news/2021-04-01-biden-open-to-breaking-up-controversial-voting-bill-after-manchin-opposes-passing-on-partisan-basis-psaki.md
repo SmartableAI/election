@@ -192,6 +192,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden CDC struggles to give consistent messaging on what vaccinated people can do"
+    excerpt: "The Centers for Disease Control and Prevention (CDC) is struggling to give consistent messaging on what vaccinated people should and should not do."
+    publishedDateTime: 2021-04-02T21:30:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dmepz-AKcg8/cdc-coronavirus-vaccine-travel-guidelines-messaging"
+    ampWebUrl: "https://www.foxnews.com/politics/cdc-coronavirus-vaccine-travel-guidelines-messaging.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cdc-coronavirus-vaccine-travel-guidelines-messaging.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a94115f3-c6de-43fb-a66c-8f489774beb8/a166619d-431f-4247-a45e-14bb3fe81e95/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden official asked GOP senators visiting border to delete photos from facilities"
     excerpt: "Sen. Mike Braun, R-Ind., told Fox News that a Biden official asked Republican senators to delete photos they took at a border facility they were touring on Friday. "
     publishedDateTime: 2021-03-28T00:21:43Z

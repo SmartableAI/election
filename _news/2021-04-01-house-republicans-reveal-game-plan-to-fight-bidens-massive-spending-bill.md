@@ -77,6 +77,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden reversing Trump policy, quietly ramping up Palestinian aid"
+    excerpt: "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy. The State Department, along"
+    publishedDateTime: 2021-04-02T21:27:00Z
+    webUrl: "https://nypost.com/2021/04/02/biden-quietly-ramping-up-palestinian-aid/"
+    ampWebUrl: "https://nypost.com/2021/04/02/biden-quietly-ramping-up-palestinian-aid/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/biden-quietly-ramping-up-palestinian-aid/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/biden-palestinians-us-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump takes shot at Hunter Biden, says kids must stay from drugs, booze, cigs"
     excerpt: "Father Trump knows best. Former President Donald Trump took a thinly veiled shot at his White House successor, saying the key to good parenting is keeping kids away from drugs, cigarettes and"
     publishedDateTime: 2021-04-02T16:51:00Z

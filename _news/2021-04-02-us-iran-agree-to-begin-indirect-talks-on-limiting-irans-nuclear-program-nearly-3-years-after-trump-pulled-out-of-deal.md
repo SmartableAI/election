@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Italian restaurant owner mistakenly sanctioned by Trump"
+    excerpt: "Verona restaurant and pizzeria owner Alessandro Bazzoni sanctioned in crackdown on blacklisted Venezuelan crude oil"
+    publishedDateTime: 2021-04-02T15:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/56faf8fd3e0c9237d3b553828e9f294cf21c37e3/0_263_7936_4765/master/7936.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=18b9d2746f6fc35fe6c131cbebd7e80a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Italian restaurant wrongly targeted by Trump sanctions"
     excerpt: "One of Donald Trump's last sanctions before he left office was mistakenly on a restaurant owner in Verona, Italy. The error happened as part of the Trump administration's crackdown on blacklisted Venezuelan crude oil."
     publishedDateTime: 2021-04-02T02:12:00Z

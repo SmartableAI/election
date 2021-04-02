@@ -511,6 +511,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden 'heartbroken' at officer's death in U.S. Capitol incident"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Friday he was heartbroken that a U.S. Capitol police officer was killed in a violent incident at a security checkpoint on the U.S. Capitol grounds, the White House said in a statement. Biden said he ..."
+    publishedDateTime: 2021-04-02T20:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-biden-idUSKBN2BP1IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP1IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP1IQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557167707&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310R6"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Joe Biden Speaks Out on Capitol Police Officer Killed in Attack"
+    excerpt: "President Joe Biden said that he first lady Jill Biden were \"heartbroken\" to learn of Friday's deadly attack at the U.S. Capitol that left one police officer dead and injured another. Capitol Police Officer William \"Billy\" Evans was killed after 25-year ..."
+    publishedDateTime: 2021-04-02T21:09:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-speaks-out-capitol-police-officer-killed-attack-1580806"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-speaks-out-capitol-police-officer-killed-attack-1580806?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-speaks-out-capitol-police-officer-killed-attack-1580806?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1771249/capitol-police-attack-joe-biden.jpg"
+        width: 3589
+        height: 2393
+        isCached: true
   - title: "Biden slams Georgia voting law as 'a blatant attack' on U.S. constitution"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden on Friday condemned a new voting law in Georgia as “a blatant attack on the constitution and good conscience.” In a statement, Biden described the law, which the state’s Republican-dominated legislature ..."
     publishedDateTime: 2021-03-26T20:19:00Z

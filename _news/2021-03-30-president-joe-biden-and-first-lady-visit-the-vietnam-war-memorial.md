@@ -212,6 +212,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 94
+  - title: "Here are 9 hurdles Biden's infrastructure plan would have to overcome in Congress before it can become law"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% President Joe Biden this week released his opening bid for an infrastructure overhaul, and now the White House and Democratic leaders face the arduous task of getting enough lawmakers on board to get a bill to ..."
+    publishedDateTime: 2021-04-02T20:36:00Z
+    webUrl: "https://www.businessinsider.com/issues-that-could-tank-bidens-infrastructure-plan-congress-salt-taxes-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/60676384a7d803001963e885?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "qj5wnHBn7KXMdl8KfvyOSSsecTZcOsFsqempMmncC7np2WcoYxuKdlTD0MgV2wm4akwOVo6PAuRKvb8hJIuPgQZsuMKdzyhryMCOry4gkejTZUZK2HBVT4ZutjIacwSmJfqjwR19MiF26/ZKdd53vXg8Ft1SNNfv70DBDNRQP7GoOTh8Euc6540ooFWqD4P4kLGpcSFaisQhkFMTPl9EFWa9vyeu8kNfJFacnG7DfmCB2sdHVwG43ziu2NJRJ6R8lVBRHMHL7Z/mmKXQ6irvjvRO04mc8Mx/dr/01Hgd4HHsEaRKi6KkIJpx5hFnmvKSfDvXef5PfLqaudO9y2P4r7PXb73x0gGP3mfmLJ8FmOY=;WaonOwgmA1clcDQLbdwdRQ=="
 ---

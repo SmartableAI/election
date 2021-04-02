@@ -349,6 +349,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden orders flags flown at half-staff in the wake of Capitol attack"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden ..."
+    publishedDateTime: 2021-04-02T21:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack"
+    ampWebUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_04022021getty_0.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z

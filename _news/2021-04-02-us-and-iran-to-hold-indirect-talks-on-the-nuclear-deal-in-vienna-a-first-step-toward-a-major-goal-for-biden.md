@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. 'Open' to First Direct Talks With Iran Since Trump Left Nuclear Deal 3 Years Ago"
-    excerpt: "The United States has said it is open to holding its first official, direct talks with Iran since former President Donald Trump left a nuclear deal between the Islamic Republic and major world powers three years ago. Following virtual discussions on Friday ..."
-    publishedDateTime: 2021-04-02T15:25:00Z
-    webUrl: "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687"
-    ampWebUrl: "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1"
+  - title: "Biden affirms support for Ukraine in first call to leader"
+    excerpt: "President Joe Biden has underscored U.S. support for Ukraine in his first call to that country's leader President Joe Biden underscored U.S. support for Ukraine on Friday in his first call to that ..."
+    publishedDateTime: 2021-04-02T16:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_407719467cc74e3dac8c0f95498cfa84_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "President Joe Biden Continues Hard Line Against Russia, Offers Ukraine 'Unwavering Support'"
+    excerpt: "President Joe Biden on Friday offered \"unwavering support\" to Ukraine and reiterated his strong stance against Russian aggression amid reports of Russian actions near the Ukrainian border. After the president's Friday call with Ukrainian President Volodymyr Zelenskiy,"
+    publishedDateTime: 2021-04-02T19:40:00Z
+    webUrl: "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775"
+    ampWebUrl: "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 118
+    quality: 115
     images:
-      - url: "https://d.newsweek.com/en/full/1770282/us-iran-flags-united-nations.jpg"
+      - url: "https://d.newsweek.com/en/full/1771203/president-joe-biden.jpg"
         width: 2500
-        height: 1779
+        height: 1667
         isCached: true
 
 secured: "FEzfqWZymkWZGU03k/MH/BEy51lPWdczee6cuFtzhSOE/p8RdL9NkylXRX3Zmtm5oy4sqrheEEhpCgY24umtYFH1KJPi9c1wtkH/urx0bnSw45+X9DkGOA4Kaw7ERYtaZ8EneT64aOs+wus/9r0ZdTwlV0yUA+D/OcomTSKuM1oi/JQatCVOntMNvVyv9ckXzbDu/j5HpS2JOIRVQWWPtOzZBQuCjRutqc5ctQitXI9/xmp3SDZM7KsF+QxBmMc2v1+l5tEAMS0wVcP9SqQFFki77rq1geAc7xS7rblN/NTX7+HpPjXA4uEY2cjfIj++BPwEgNKWpXuSDD3IDvx3M57BwDjuc/A4/BDjTVdp8SA=;dKU9y5Hb7CfPRtMK5AsVYQ=="

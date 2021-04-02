@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden is about to send $1 billion more in food stamps to the 25 million neediest Americans"
+    excerpt: "An estimated 25 million people will get a boost in their food stamp benefits starting this month, the Biden administration announced Thursday evening.\n    \n"
+    publishedDateTime: 2021-04-02T19:57:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SVqqhGocgOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/food-stamps-hunger-americans-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/food-stamps-hunger-americans-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -90,6 +90,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden reversing Trump policy, quietly ramping up Palestinian aid"
+    excerpt: "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy. The State Department, along"
+    publishedDateTime: 2021-04-02T21:27:00Z
+    webUrl: "https://nypost.com/2021/04/02/biden-quietly-ramping-up-palestinian-aid/"
+    ampWebUrl: "https://nypost.com/2021/04/02/biden-quietly-ramping-up-palestinian-aid/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/biden-quietly-ramping-up-palestinian-aid/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/biden-palestinians-us-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump calls Biden jobs plan 'massive giveaway to China,' says it will 'crush American workers'"
     excerpt: "Former President Donald Trump called President Biden's jobs plan a \"monstrosity\" that \"would be among the largest self-inflicted economic wounds in history.\""
     publishedDateTime: 2021-03-31T18:45:00Z

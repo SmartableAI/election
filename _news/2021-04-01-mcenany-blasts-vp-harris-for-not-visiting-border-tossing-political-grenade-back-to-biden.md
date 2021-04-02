@@ -352,6 +352,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to welcome Japan's prime minister as administration's first foreign leader at the White House"
+    excerpt: "The White House will welcome Japanese Prime Minister Yoshihide Suga in April as the first foreign leader to meet with President Biden, officials announced Friday."
+    publishedDateTime: 2021-04-02T20:12:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mue2bsqok4/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china"
+    ampWebUrl: "https://www.foxnews.com/politics/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/48f841fb-7cb2-4b62-999c-d97ce997c685/f67795c4-1e9d-4c54-982f-b15482476701/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris’ niece takes heat for presuming Boulder shooter was white"
     excerpt: "Vice President Kamala Harris’ niece is under fire for presuming the gunman in Monday’s Colorado mass shooting was white — because he was taken into custody alive. “The Atlanta shooting was ..."
     publishedDateTime: 2021-03-23T19:50:00Z

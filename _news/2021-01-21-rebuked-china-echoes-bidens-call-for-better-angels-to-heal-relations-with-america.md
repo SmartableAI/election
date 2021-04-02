@@ -481,6 +481,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden revokes Trump executive order sanctioning International Criminal Court officials"
+    excerpt: "President Joe Biden revoked a Trump executive order that authorized sanctions on International Criminal Court officials and lifted sanctions on two officials, Secretary of State Antony Blinken said in a statement Friday.\n    \n"
+    publishedDateTime: 2021-04-02T20:04:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5swPaAIhM4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/biden-trump-icc-eo-revoked/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/biden-trump-icc-eo-revoked/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161116120435-international-criminal-court-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's solicitor general will play critical role in early efforts to undo Trump policies"
     excerpt: "President Joe Biden will name a powerhouse lawyer, Elizabeth Prelogar, to serve as acting solicitor general, in an acknowledgment that the office charged with representing the government before the Supreme Court will face an enormous workload both reversing Trump administration legal positions and developing"
     publishedDateTime: 2021-01-21T17:41:59Z

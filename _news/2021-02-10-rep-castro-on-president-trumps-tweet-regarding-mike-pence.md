@@ -1749,6 +1749,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "US lifts Trump administration's sanctions on top ICC prosecutor"
+    excerpt: "Mike Pompeo had imposed sanctions and refused visas after Fatou Bensouda launched investigation into alleged war crimes"
+    publishedDateTime: 2021-04-02T19:28:00Z
+    webUrl: "https://www.theguardian.com/law/2021/apr/02/us-lifts-sanctions-icc-prosecutor-fatou-bensouda-pompeo-blinken"
+    ampWebUrl: "https://amp.theguardian.com/law/2021/apr/02/us-lifts-sanctions-icc-prosecutor-fatou-bensouda-pompeo-blinken"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2021/apr/02/us-lifts-sanctions-icc-prosecutor-fatou-bensouda-pompeo-blinken"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7097f9ffc902b6790248f7494080ba34823b3aa9/0_546_5841_3506/master/5841.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d753bfc94d5173666ba7e2af219e104d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "UPDATE 1-U.S. DOJ to ask Trump-appointed prosecutors to resign -official"
     excerpt: "The U.S. Department of Justice on Tuesday is expected to ask most federal prosecutors appointed by former President Donald Trump to submit their resignations, a Justice Department official said."
     publishedDateTime: 2021-02-09T20:26:00Z

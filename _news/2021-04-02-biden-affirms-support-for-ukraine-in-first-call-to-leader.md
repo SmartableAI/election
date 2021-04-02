@@ -1,0 +1,69 @@
+---
+category: news
+title: "Biden affirms support for Ukraine in first call to leader"
+excerpt: "President Joe Biden has underscored U.S. support for Ukraine in his first call to that country's leader President Joe Biden underscored U.S. support for Ukraine on Friday in his first call to that ..."
+publishedDateTime: 2021-04-02T16:26:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+type: article
+quality: 125
+heat: 165
+published: true
+
+provider:
+  name: ABCNews
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_407719467cc74e3dac8c0f95498cfa84_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+related:
+  - title: "President Joe Biden Continues Hard Line Against Russia, Offers Ukraine 'Unwavering Support'"
+    excerpt: "President Joe Biden on Friday offered \"unwavering support\" to Ukraine and reiterated his strong stance against Russian aggression amid reports of Russian actions near the Ukrainian border. After the president's Friday call with Ukrainian President Volodymyr Zelenskiy,"
+    publishedDateTime: 2021-04-02T19:40:00Z
+    webUrl: "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775"
+    ampWebUrl: "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1771203/president-joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "US and Iran to hold indirect talks on the nuclear deal in Vienna, a first step toward a major goal for Biden"
+    excerpt: "\"Unnecessary,\" Zarif said. Regardless, this marks a major step toward one of President Joe Biden's top foreign policy goals. The talks in Vienna are set to begin on Tuesday."
+    publishedDateTime: 2021-04-02T14:11:00Z
+    webUrl: "https://www.businessinsider.com/us-iran-hold-indirect-talks-nuclear-deal-vienna-biden-goal-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/us-iran-hold-indirect-talks-nuclear-deal-vienna-biden-goal-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-iran-hold-indirect-talks-nuclear-deal-vienna-biden-goal-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/606724fd52f11d0019431be1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "3sdQbqB6jw3R3b4PooWtsjDJ52+2N0GdCvEqDVWDm+nJucYmyURdWCShnxGDI3QV8g+Mk3UrcStj8/pI31Ru+ZQeyrysO945ZL3d+2i8uK0cH4Y8SW+J79jyT7UIP+j/kIKIG1hCfKB0Dbn/dZj54WxDpRefQQT4pE5oxP7g3xsyJHPPDYlfPChcTyJoYoYBe15mIiBTQjKwOq9m7tenHlJkJykLwdKsu6uAMgf34SLI0NumsCfjgnsz1+LW6V6E9YK7vkBfyhc60lnHF3V/AC4wIWz+T5NKXKJ0y2+zTBsyG4Ue3fmc75Z/Mwve9acrknlCkVS2tMzoX8Vs6UUXY7qH/0kgVGT0lOCPjK2qizU=;Soavc2eDLy2E/Bfpk4oekQ=="
+---
+

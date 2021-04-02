@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-lists-biden-harris-admi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
 type: article
 quality: 200
-heat: 820
+heat: 840
 published: true
 
 provider:
@@ -349,6 +349,22 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to welcome Japan's prime minister as administration's first foreign leader at the White House"
+    excerpt: "The White House will welcome Japanese Prime Minister Yoshihide Suga in April as the first foreign leader to meet with President Biden, officials announced Friday."
+    publishedDateTime: 2021-04-02T20:12:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mue2bsqok4/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china"
+    ampWebUrl: "https://www.foxnews.com/politics/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/48f841fb-7cb2-4b62-999c-d97ce997c685/f67795c4-1e9d-4c54-982f-b15482476701/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
