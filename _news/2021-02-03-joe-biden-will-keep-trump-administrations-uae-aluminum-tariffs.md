@@ -220,22 +220,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden Keeps Aluminum Tariffs on UAE, Reversing Trump Policy"
-    excerpt: "The exemption to the UAE would have gone into effect Feb. 3, but Monday night President Biden blocked it."
-    publishedDateTime: 2021-02-02T01:49:00Z
-    webUrl: "https://www.wsj.com/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-293457/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Biden Vows to Revive Alliances After ‘Years of Neglect’ Under Trump"
     excerpt: "Faced with a range of early foreign-policy challenges, the president described his vision for an expansion of multilateral engagement with the world and an emphasis on human rights."
     publishedDateTime: 2021-02-04T22:37:00Z

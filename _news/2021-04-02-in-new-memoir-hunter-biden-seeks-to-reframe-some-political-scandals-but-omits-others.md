@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/memoir-hunter-biden-seeks-refram
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/memoir-hunter-biden-seeks-reframe-political-scandals-omits/story?id=76813811"
 type: article
 quality: 117
-heat: -1
-published: false
+heat: 177
+published: true
 
 provider:
   name: ABCNews
@@ -31,22 +31,33 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden Wants to Heal After Capitol Attack but Americans Can't Even Agree it Was Serious"
+    excerpt: "Republicans and Democrats are starkly divided on the severity of the attack, how harsh sentencing should be for those involved, and where future threats lie."
+    publishedDateTime: 2021-03-31T09:40:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1767772/protesters-capitol-january-6.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Biden set to talk up economic resurgence after promising jobs news – US politics live"
     excerpt: "Fully vaccinated Americans can now travel domestically without self-quarantining, the Centers for Disease Control and Prevention announced today. Vaccinated people also do not need to take a coronavirus test before traveling, although the CDC has asked ..."
     publishedDateTime: 2021-04-02T14:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606737a38f087a7cbd51e124"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606736d48f083302090e2e1f"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 118
-    images:
-      - url: "https://i.guim.co.uk/img/media/feae15e77874dcf2a9333884cefa19fb252611a1/154_0_4441_2665/master/4441.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca77fe79f82dc139431483804c61be64"
-        width: 600
-        height: 360
-        isCached: true
+    quality: 98
   - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
     excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
     publishedDateTime: 2021-03-27T00:59:00Z

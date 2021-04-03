@@ -3,14 +3,14 @@ category: news
 title: "Biden set to talk up economic resurgence after promising jobs news – US politics live"
 excerpt: "Fully vaccinated Americans can now travel domestically without self-quarantining, the Centers for Disease Control and Prevention announced today. Vaccinated people also do not need to take a coronavirus test before traveling, although the CDC has asked ..."
 publishedDateTime: 2021-04-02T14:45:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606737a38f087a7cbd51e124"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606737a38f087a7cbd51e124"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606736d48f083302090e2e1f"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606736d48f083302090e2e1f"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
 type: article
-quality: 118
-heat: 158
-published: true
+quality: 98
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://i.guim.co.uk/img/media/feae15e77874dcf2a9333884cefa19fb252611a1/154_0_4441_2665/master/4441.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca77fe79f82dc139431483804c61be64"
-    width: 600
-    height: 360
-    isCached: true
 
 related:
   - title: "In new memoir, Hunter Biden seeks to reframe some political scandals, but omits others"
@@ -47,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Wants to Heal After Capitol Attack but Americans Can't Even Agree it Was Serious"
+    excerpt: "Republicans and Democrats are starkly divided on the severity of the attack, how harsh sentencing should be for those involved, and where future threats lie."
+    publishedDateTime: 2021-03-31T09:40:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1767772/protesters-capitol-january-6.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
     excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
     publishedDateTime: 2021-03-27T00:59:00Z
@@ -64,6 +74,6 @@ related:
         height: 630
         isCached: true
 
-secured: "T0dPP+gbB6NRcUjpsHg2+Sder1s/sto9nI31Ynw9HUkE5+VIUyaDU/HFyXxYchGMYQije5L1+0sU0AM+tNDh+OXTf29JJtbJjHeZ2hTftoUJsqa/M9FzvNa2TWF2IHFnRPtvf6SsGxvcB/wikTuy+QgK6TgXFAwL+f9TKbNF83pdEqSY6GAJhZ2bOOtgRZGSS9LcMES/CXnf1v4gk0sAdf0g1qcL3t2bTtgWyDGLKfI8E4CObgsfvBZXUe3Fv/xlwS9dIXzUeO5cjDG8QMCKmZTnZxXesyR8BOxEYVht7gf3kqzuEUEKauZZUOQqLquVpAocTwTuX55nNVdm3K3QEQOI0xOxGVkf4enr3Q9dwyA=;TKg51X/p8bBBmc6Zdyo1Jw=="
+secured: "E1d8htXzdiVxk1qvbeTq1d/JrC8hyhosPjhqejkhEmUolY9xpIDhjfA/+vHWyD4mhL+P8ngumkHcclRv5EloV1fUGGqCyh4vtrYuatfCmY2c0kGQ67FCwKdQkZMqO7t0gdSdnsPKq4OEVRmZMC535gyUFvQTCpOew1+lI16ltrdIrqoSu/Zzqb+EoTDMOOfBrjk1dbUyjT/hhEZ7s8OtHo5ZQlf47atIjFO6PA1gseKNENeuYPYkPHXR4SJJVPkoqDOySpCnvSI86EJ0ytt3x322kHq/ZFABfSZt1LVBL+zvfYFd8XePxh7mM4BIKuhqHpNhRnl7qEHUZg3Mt2OClFerHFFl3GAH/4eSI2XAKic=;4wLg0Ss+jNfwQaoJErKe6g=="
 ---
 

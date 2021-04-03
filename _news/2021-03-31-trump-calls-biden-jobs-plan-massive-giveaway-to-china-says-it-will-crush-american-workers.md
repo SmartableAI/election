@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
 type: article
 quality: 178
-heat: 338
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Sean Hannity: Biden administration waging ‘all-out assault’ on American principles"
-    excerpt: "President Biden and the Democrats are attempting to destroy American values, \"Hannity\" host Sean Hannity said."
-    publishedDateTime: 2021-04-02T02:58:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t0ElbHltqwY/sean-hannity-biden-administration-waging-all-out-assault-on-american-principles"
-    ampWebUrl: "https://www.foxnews.com/politics/sean-hannity-biden-administration-waging-all-out-assault-on-american-principles.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-hannity-biden-administration-waging-all-out-assault-on-american-principles.amp"
+  - title: "Biden reversing Trump policy, quietly ramping up Palestinian aid"
+    excerpt: "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy."
+    publishedDateTime: 2021-04-03T12:37:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0HOZgQU4pd0/biden-reversing-trump-policy-ramping-palestinian-aid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa8c3316-6632-4082-a9a7-44390366678c/5ef799d3-b2dc-47aa-aad3-b9c8865eb279/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden spokeswoman calls record migrant surge a 'cyclical issue,' denies it's worse than prior years"
-    excerpt: "President Biden's communications director Kate Bedingfield sparred with ABC's Jonathan Karl over a surge in unaccompanied minors trying to cross the U.S. southern border."
-    publishedDateTime: 2021-03-28T18:37:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RMgmCIf2g2Q/biden-kate-bedingfield-migrant-surge-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-kate-bedingfield-migrant-surge-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-kate-bedingfield-migrant-surge-psaki.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Donna-TX-migrant-facility.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21085720002259.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden convenes Cabinet meeting amid border crisis, spending bill push"
+    excerpt: "President Biden held his first Cabinet meeting on Thursday from the East Room at the White House as his administration grapples with the crisis at the U.S. southern border and as officials push a $2 trillion spending bill through Congress."
+    publishedDateTime: 2021-04-01T18:15:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5IVfWQ2FvLY/biden-first-cabinet-meeting-border-crisis-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "House Republicans reveal game plan to fight Biden's massive spending bill"
     excerpt: "EXCLUSIVE: The biggest conservative caucus in the House has already released a game plan to fight President Biden's $2 trillion spending package and accompanying tax hikes, signaling just how tough it will be for Democrats to garner bipartisan support for the massive bill."
@@ -77,21 +93,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden reversing Trump policy, quietly ramping up Palestinian aid"
-    excerpt: "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy. The State Department, along"
-    publishedDateTime: 2021-04-02T21:27:00Z
-    webUrl: "https://nypost.com/2021/04/02/biden-quietly-ramping-up-palestinian-aid/"
-    ampWebUrl: "https://nypost.com/2021/04/02/biden-quietly-ramping-up-palestinian-aid/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/biden-quietly-ramping-up-palestinian-aid/amp/"
+  - title: "Biden Keeps Aluminum Tariffs on UAE, Reversing Trump Policy"
+    excerpt: "The exemption to the UAE would have gone into effect Feb. 3, but Monday night President Biden blocked it."
+    publishedDateTime: 2021-02-02T01:49:00Z
+    webUrl: "https://www.wsj.com/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 150
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/biden-palestinians-us-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-293457/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump takes shot at Hunter Biden, says kids must stay from drugs, booze, cigs"
     excerpt: "Father Trump knows best. Former President Donald Trump took a thinly veiled shot at his White House successor, saying the key to good parenting is keeping kids away from drugs, cigarettes and"
@@ -141,15 +157,38 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "As Biden Stands Down at the Border, America Suffers"
-    excerpt: "President Joe Biden is ceasing the execution of federal immigration laws, and the worst crisis in 20 years (by his own Department of Homeland Security secretary's admission) is likely to reach an unprecedented level."
-    publishedDateTime: 2021-03-31T10:54:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/31/as_biden_stands_down_at_the_border_america_suffers_539409.html#!"
+  - title: "Reversing Trump, Pentagon to release new transgender policy"
+    excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that the government wouldn’t accept or allow transgender ..."
+    publishedDateTime: 2021-03-31T18:41:00Z
+    webUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy"
+    ampWebUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/military-battlefield.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ZiT0AeUcDaYEGIfWguoZi24h5UzpB3SB9Fy7LQPdqp/XmEEZUOBiQcacgaXOon89+QlJ3pWuVjdzODqfI5812YdAaZC7LffVMJ8T5RJPOEsojB76YO99sL4r/Q12gfa6LHc/0t2XP2Ouub+8SaPuosICzBJoD2Di5aEr6LAoPKvYfBc49/yJrvucUIChRp+4vIo7oRZ7+j5CSFrlKfA/NvC6t7y3EGvjWcHEv52JOuiR2XtRNZlQq1VyCCskYTVjwv5Xag7Fb3obldfQGhDORPDEdqPs6XXiO6PNBbO5yhfjgnx5hUWRbMcVDPzSzZi3mYT3gNhetptm0WwZt3PVgAsFgyAlD9r+EETCeKT2WNA=;s8CI4T0oPL052qDj6DYJGA=="
 ---

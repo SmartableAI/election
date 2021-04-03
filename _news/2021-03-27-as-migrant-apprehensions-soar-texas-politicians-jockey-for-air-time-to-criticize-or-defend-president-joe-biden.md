@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden set to talk up economic resurgence after promising jobs news – US politics live"
-    excerpt: "Fully vaccinated Americans can now travel domestically without self-quarantining, the Centers for Disease Control and Prevention announced today. Vaccinated people also do not need to take a coronavirus test before traveling, although the CDC has asked ..."
-    publishedDateTime: 2021-04-02T14:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606737a38f087a7cbd51e124"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 118
-    images:
-      - url: "https://i.guim.co.uk/img/media/feae15e77874dcf2a9333884cefa19fb252611a1/154_0_4441_2665/master/4441.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca77fe79f82dc139431483804c61be64"
-        width: 600
-        height: 360
-        isCached: true
   - title: "In new memoir, Hunter Biden seeks to reframe some political scandals, but omits others"
     excerpt: "In \"Beautiful Things,\" out next week, Hunter Biden charts a life defined by tragedy, addiction and scandal -- all in the shadow of a doting and concerned father, Joe Biden, whose ascent to the ..."
     publishedDateTime: 2021-04-02T09:05:00Z
@@ -59,6 +43,33 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Wants to Heal After Capitol Attack but Americans Can't Even Agree it Was Serious"
+    excerpt: "Republicans and Democrats are starkly divided on the severity of the attack, how harsh sentencing should be for those involved, and where future threats lie."
+    publishedDateTime: 2021-03-31T09:40:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-wants-heal-capitol-attack-americans-cant-even-agree-wrong-1580031?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1767772/protesters-capitol-january-6.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
+  - title: "Biden set to talk up economic resurgence after promising jobs news – US politics live"
+    excerpt: "Fully vaccinated Americans can now travel domestically without self-quarantining, the Centers for Disease Control and Prevention announced today. Vaccinated people also do not need to take a coronavirus test before traveling, although the CDC has asked ..."
+    publishedDateTime: 2021-04-02T14:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606736d48f083302090e2e1f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
 
 secured: "VHgswpdofFX2vTgBS3pqrbvYhzXN/ZNLw0GksJeBPK1HxL78rT6eHp/LppMTFavVKHf3oJiGboY7wwBWiMLMBh/EoNLDxEqCyY7SJiXIPGW0aWrXgw0y5f1Q+6mPR+Emxvy41gT4gXkpic8bhyeL0jYMAn5c8uJZlmzq80iE/V3HBJE4kXehgMdMxyaerxvSh35sVGo1WzGIRmax1i8D9Bkwyzfb8lJ07uBuDo0GpAjKtZG63n4tHoGZlX9Pyi6sF5U0Xp2oVnQ9KzLuHEpW6Pxjtvvqg/wJIrdoQNYfwIMToNBaWZYYtuoQ40KpHQsWAbDXKDtwXcwiY3yf+rE9fTg1vwtfVD33Z2ZhyBnEZJm47KWvD5xhSxvwwibsbRbkp2l74yirdLcNEUE6hiiZ2MnC35JyclX9wuE6pC/OD/sNiF2iHhjkICYdmryAv6j8jVlTOaHoP3YRMyVLvR4d1TktZPPPWrL4ZpUsLte2XmQxMipx+40QJwDsoCrJ3RCbNyabmLoQaL4HfJTTxzt+Fw==;6X1KPYbzasNG79QqPAMiSg=="
 ---

@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Yale psychiatrist says she was fired for calling Trump and supporters mentally ill"
+    excerpt: "A high-profile psychiatrist says she was fired by Yale University after repeatedly calling then-President Trump and his supporters mentally ill — and is now suing the college for unlawful termination."
+    publishedDateTime: 2021-03-25T23:16:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ssa94xvLqgI/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill"
+    ampWebUrl: "https://www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b7693d9-a98e-450f-b0e5-2ca8da7bbbbb/ad0ab322-d7ad-46ba-9f0c-337c6a6ae7d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "cy669E5i+K9xoGWqc55WN2N54qEytuzdwxco78XH2LU9Ve18cuywJIcZE8Evwu5SwDlxg+HIjzBh9SvTJawL3Uf/U11uiIKFyQVWuLQf5H+bw/BvL9m5z798C6wIgWa0CMZOYwGVkIKh3aU8GFPPq3vMgrIkmjK32O4DzoGfe8iAY3sqZlcm+naCNkiZSTENqoP6Dqw9s6BtVywi9q9DgrUpkrd5+T4b4F+HeR1S5ntHiBJ3+jrcAIGfzXy8iXh48XmDR1R7ShD+I4LZNEmhnCe/HYjCyVYPftj951spddYHhtlxh5lG5EVN0hEbOk3s9+b8B/TGzMw+BIydq7YWjgkQhkDr9W0I2juDzy9vaWiNigIsrXDc6BfLU2Vxwx9T7/2vStw7uF3W3vp+jmbTuxSY7kYsN2dtPjiYQMlvev+s5W9kozrLX9OPsjXwKAPsZbs38dWf/UN+h3DvWgc3ev7tZGtfLEiR6ANspd17qxsYIGI31mqifykas4qNzX9qkRNCjgIr5QuQXrqSTEjCfQ==;KHYIqj8IS3sjf/srFDMVDg=="
 ---

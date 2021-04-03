@@ -44,22 +44,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Reversing Trump, Pentagon to release new transgender policy"
-    excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that the government wouldn’t accept or allow transgender ..."
-    publishedDateTime: 2021-03-31T18:41:00Z
-    webUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy"
-    ampWebUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/military-battlefield.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "School districts that backed Trump are returning to in-person classes more quickly, data shows"
     excerpt: "School districts in counties where a majority of voters cast their ballots for Donald Trump in the 2020 presidential election are more likely to have students back in classrooms, according to a website that tracks reopenings."
     publishedDateTime: 2021-03-30T14:22:00Z
