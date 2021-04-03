@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden wants to give the nation hope. But a jump in Covid cases is complicating things."
-excerpt: "The Biden administration is struggling over how to portray a burst of new coronavirus cases, even taking pains to avoid saying publicly that the country is experiencing a “surge,” according to three senior administration officials. President Joe Biden ..."
-publishedDateTime: 2021-03-31T17:51:00Z
-originalUrl: "https://www.politico.com/news/2021/03/31/biden-coronavirus-case-increase-478718"
-webUrl: "https://www.politico.com/news/2021/03/31/biden-coronavirus-case-increase-478718"
-ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/biden-coronavirus-case-increase-478718"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/biden-coronavirus-case-increase-478718"
+title: "How high speed trains got railroaded in Biden's infrastructure plan"
+excerpt: "So it’s no surprise that the infrastructure plan he proposed this week includes $80 billion for national and intercity rail over eight years, or $10 billion a year — five times the annual $2 billion in subsidies Amtrak gets."
+publishedDateTime: 2021-04-02T22:53:00Z
+originalUrl: "https://www.politico.com/newsletters/transition-playbook/2021/04/02/the-three-words-not-in-bidens-infrastructure-plan-492348"
+webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/04/02/the-three-words-not-in-bidens-infrastructure-plan-492348"
 type: article
-quality: 127
+quality: 115
 heat: -1
 published: false
 
@@ -26,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/aa/aa/3191d25746b589b1ba936156dd5d/210321-walensky-getty-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -192,21 +190,23 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How high speed trains got railroaded in Biden's infrastructure plan"
-    excerpt: "So it’s no surprise that the infrastructure plan he proposed this week includes $80 billion for national and intercity rail over eight years, or $10 billion a year — five times the annual $2 billion in subsidies Amtrak gets."
-    publishedDateTime: 2021-04-02T22:53:00Z
-    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/04/02/the-three-words-not-in-bidens-infrastructure-plan-492348"
+  - title: "Biden wants to give the nation hope. But a jump in Covid cases is complicating things."
+    excerpt: "The Biden administration is struggling over how to portray a burst of new coronavirus cases, even taking pains to avoid saying publicly that the country is experiencing a “surge,” according to three senior administration officials. President Joe Biden ..."
+    publishedDateTime: 2021-03-31T17:51:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/biden-coronavirus-case-increase-478718"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/biden-coronavirus-case-increase-478718"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/biden-coronavirus-case-increase-478718"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 127
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static.politico.com/aa/aa/3191d25746b589b1ba936156dd5d/210321-walensky-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
-secured: "JMvW8LfDrNKMDiKeDjn6sICbwIhvT4H7Hpbvh07OKdO6FZ1msiBDAsCRcz4Z2j5fW+ZxD4ecknRWQrnhBf/kVG3BDlLsgEWjnwdwr8xUsqq99XO61+dYtbGTRqzFIa82dLm1MWYqk8bQv5xumZiBIijTXtwUOshn8e+QBbkcDoSCj5URNPZwAHLNeLTLY3tvuPRPLJ9kf77C4uwgTLJ404hJKQFVXh/wvfAVlHy5vOW7fhw5vvjDQehqUaSAhd1YSIDbo9T4toGXft1NBBpDAGAJ0DFrAAxjVr+g+EbFD/ejlIDmK7IfhHby3A8uKTsE6mfz3sFH9lgLaZdIrCAwzMksH/GLRnyBN8e+LJZlI7Y=;abxubZtKlElRs3z2wpeS/A=="
+secured: "wjj96PrBstMvqCzbH+KVJNhwuMSV4+EvRx3Bb8hASXcJRjPw9ice6PdC/SLezSgR0hQtseLzifJ/HJL/rJknR2/aOFtMu/aS7wLA5b6cVBZhCUrHV+e6xR3ec9oKa3lYl/u9uBOctJoRPgOdvitBPgRzIKNM8SLCafSTDocOQn+HYwoNzRzsWc67HzP9QL2DJ9FUDQXk6Rm278FGN3Z5Vezp7oc4xg/62GWMg6iDSPeOu++O01IwFYZwuYjbOQtHjhVMwle1zjRW8egdbioraLKLah0tFfMPyZ+MzXD5jNtHf9Sw/3a+/O1a4rfxVjkEFpWI8DC9L0/Yq4eKqo/KmMjB22sWlD46nw2X10FBdvk=;3mLuOjAW3k6LhCNwZzoYZQ=="
 ---
 

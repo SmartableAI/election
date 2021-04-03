@@ -496,6 +496,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Is Biden Missing His Chance on Guns?"
+    excerpt: "President Biden spent decades pushing for gun control. In the early days of his presidency, he’s taking a far less aggressive approach."
+    publishedDateTime: 2021-04-03T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/03/us/politics/biden-gun-control.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/03/us/politics/biden-gun-control.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/03/us/politics/biden-gun-control.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/03/us/politics/03onpolitics-pm-newsletter/03onpolitics-pm-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
     excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."
     publishedDateTime: 2021-03-27T11:15:00Z

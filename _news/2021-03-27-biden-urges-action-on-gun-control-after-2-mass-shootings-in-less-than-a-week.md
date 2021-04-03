@@ -512,6 +512,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Is Biden Missing His Chance on Guns?"
+    excerpt: "President Biden spent decades pushing for gun control. In the early days of his presidency, he’s taking a far less aggressive approach."
+    publishedDateTime: 2021-04-03T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/03/us/politics/biden-gun-control.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/03/us/politics/biden-gun-control.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/03/us/politics/biden-gun-control.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/03/us/politics/03onpolitics-pm-newsletter/03onpolitics-pm-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden administration working to develop a system for people to prove they've been vaccinated"
     excerpt: "President Joe Biden has predicted that life in the US could be back to normal by Christmas, and as more Americans are vaccinated each day, these vaccine credentials -- commonly called \"vaccine passports\" -- could be key to a return to normalcy by the end ..."
     publishedDateTime: 2021-03-28T19:07:00Z

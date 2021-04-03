@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-schools-learni
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp"
 type: article
 quality: 180
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Kamala Harris has gone 9 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U."
+    publishedDateTime: 2021-04-02T09:26:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "7X5fRJm9+hocF9g/KTxzvbJzaGRXlVUEmel4I6QdPe46LP6fxf2nPyIHatZsSmCEfSsBpg4s5s+e8+5XzcCAg8Px1Ud2r/fLH4b/pgazUO5EiFvX2om/Imie6OU3lBajhMlqf7lcKVz8hiS54//IjWMnp0tbGSLH46iyOlg0Dxdh+SuGyyk8CMni9qG4oQr0RKppTEMVYBHd3+FymHpZGngGO6eiY+8y7DKGT/Q4rwhUOvWV3Tclvw7POKjE/an3cDwlG+XlkqgSOkOSyVz+iqngqMutOilGDszbXpL0ZslflOWUS30ZO067VBkb/LMAjicjWfWXypf7M8rYKnGqWY/8SM6hFhpUro+QlNHAews=;BmLbbAe3ZIt9zcxw4/+Bbg=="
 ---

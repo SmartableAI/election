@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -190,6 +190,20 @@ related:
       - url: "https://static.politico.com/aa/aa/3191d25746b589b1ba936156dd5d/210321-walensky-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "How high speed trains got railroaded in Biden's infrastructure plan"
+    excerpt: "So it’s no surprise that the infrastructure plan he proposed this week includes $80 billion for national and intercity rail over eight years, or $10 billion a year — five times the annual $2 billion in subsidies Amtrak gets."
+    publishedDateTime: 2021-04-02T22:53:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/04/02/the-three-words-not-in-bidens-infrastructure-plan-492348"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "U4aqAbGjMUwTFCk2AJcn4bBgl824eYxnOzQT4qTSGQxbmbEZHyBVv2RWb6RbJijQDgzqJ1k9agU5QUkSfpmm/sxLwE16J4VUcqvJKgAMdjXBKqKqAElrpIiaV3akpOaPpP7y10Eq+E7DPOV4c9Xpa4yfgDOdBj2to0kNtRYNZ6bADeueJFLLEV6sFcg8zW1X3abgFIhgP3vG/hGPbyEaBOQ4XrA21nG26xAvvE/QsExR/ijDGWePiGSBsWQAxtQJgUNarM3ak1/i/05MUiYImnsDzmCDzSvegM6ftUreGZH66krQR8WeqS+T58S2RPSHETr81ogBjK3wVSvrittqasLA6XVoeikv/GuvNmahvlQ=;4/P/TV50xawDqTubjPoZJg=="

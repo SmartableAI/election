@@ -191,6 +191,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How high speed trains got railroaded in Biden's infrastructure plan"
+    excerpt: "So it’s no surprise that the infrastructure plan he proposed this week includes $80 billion for national and intercity rail over eight years, or $10 billion a year — five times the annual $2 billion in subsidies Amtrak gets."
+    publishedDateTime: 2021-04-02T22:53:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/04/02/the-three-words-not-in-bidens-infrastructure-plan-492348"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "B+hjtyoh3y+ZyJI0v+aZV+TcLD0m64sGS9vPowvfigjdFu99xxVCGUDQ6hh0ZBXPrHCzyB/FuUlqDLp1AaK5v9QidQdxRS+dLvz5T4lid6bWr1NrW8IajaMgG0XrTk2C4CR6HTzmyVKLcL7FOPv5626xUjoT5aWO7qx/fb7cCanFU9pupQ+g0vPWIP+vV5Co59WqRAtoXkZfMQTL4QnDKWuZU4zCyR+DiAHguEO54s+hrpAOVAjOQDgetvrXCFA10RfNNguYshXtW52RCQ9keC/t9VcqR32oNjTUHJmmDjLns0PhNqPeiKthqRrfvftEPotiOHBuE+7h7BXM/C2ZzEJWCrJjGCCoR8iKeUPtkZw=;oUf2RpC3gwjAJy5xcIYxfQ=="
 ---

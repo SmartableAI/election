@@ -1,36 +1,53 @@
 ---
 category: news
-title: "Biden unveils first slate of judicial nominees featuring diverse and history-making selections"
-excerpt: "President Joe Biden on Tuesday unveiled a diverse slate of 11 judicial nominees, including three African American women for Circuit Court vacancies and a candidate who, if confirmed, would be the first Muslim American federal judge in US history.\n    \n"
-publishedDateTime: 2021-03-30T12:16:41Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z6yG8H8V__s/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z6yG8H8V__s/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
+title: "Is Biden Missing His Chance on Guns?"
+excerpt: "President Biden spent decades pushing for gun control. In the early days of his presidency, he’s taking a far less aggressive approach."
+publishedDateTime: 2021-04-03T09:00:00Z
+originalUrl: "https://www.nytimes.com/2021/04/03/us/politics/biden-gun-control.html"
+webUrl: "https://www.nytimes.com/2021/04/03/us/politics/biden-gun-control.html"
+ampWebUrl: "https://www.nytimes.com/2021/04/03/us/politics/biden-gun-control.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/03/us/politics/biden-gun-control.amp.html"
 type: article
-quality: 178
-heat: 998
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330072136-01-ketanji-brown-jackson-file-restricted-2019-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/04/03/us/politics/03onpolitics-pm-newsletter/03onpolitics-pm-newsletter-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
+  - title: "Biden unveils first slate of judicial nominees featuring diverse and history-making selections"
+    excerpt: "President Joe Biden on Tuesday unveiled a diverse slate of 11 judicial nominees, including three African American women for Circuit Court vacancies and a candidate who, if confirmed, would be the first Muslim American federal judge in US history.\n    \n"
+    publishedDateTime: 2021-03-30T12:16:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z6yG8H8V__s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330072136-01-ketanji-brown-jackson-file-restricted-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Regular Joes: Biden and Manchin, whose old relationship faces new test"
     excerpt: "When President Barack Obama was in office and the White House needed to reach Sen. Joe Manchin, one person was always tasked with making the call: then-Vice President Joe Biden.\n    \n"
     publishedDateTime: 2021-03-24T14:45:54Z
@@ -495,22 +512,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Is Biden Missing His Chance on Guns?"
-    excerpt: "President Biden spent decades pushing for gun control. In the early days of his presidency, he’s taking a far less aggressive approach."
-    publishedDateTime: 2021-04-03T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/04/03/us/politics/biden-gun-control.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/03/us/politics/biden-gun-control.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/03/us/politics/biden-gun-control.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/03/us/politics/03onpolitics-pm-newsletter/03onpolitics-pm-newsletter-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
     excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."
     publishedDateTime: 2021-03-27T11:15:00Z
@@ -672,6 +673,6 @@ related:
         height: 629
         isCached: true
 
-secured: "I7fwiifFNfl+c3y6FekUjnenBvrBF8HdsXMixO+sTaUmDkH3oKGuDyYmWap14TA17prHFsXWwcb/AZsUrw/FXK5v1GbUZLqGCcPB5a1HEKZ8kzsTASNh1+xg9SnkqhTsewuBJ7yOkQe0byVbCcniVFRnKug50hAosUBdpLqwmNxPqv1odDFHZJLYfBkqUsJGaxFw4EIA0g8oiDZ3BerUFAoS8ZhdZLKkP7XUoI/7iEAnrNQ2epvO+6JHinTORfX45lD3OSYXFYYyhtQaSdVz5uKHEFg0vbJ1eaJY7c+d2etxuSwyPN0ENsZJvHu4NxgOUx0kSTo1xWOADBZprmlYmw8p25bwOuVCdmMUuXFD9J4=;8tMRmK7CHToO8QZW4FPniw=="
+secured: "U9U7NZkWVCcS0z7Ik98HGAv59X/6f82FvQwJF5+m25Fn9gf+SIKz3HuH5lqM6bzCSP4qf2fgc9RNdbwmcQf9is449gUDV+KdOd5GYhpJTmglujnZblwlagFlsjTzKhnclY1H+HnGd42ZzWpQtkLajX9onnuzlJc5NH0zgnbgJ1nuZgE6nV55b/ESHQ1/a9HYT4OVjCaE9quhc5Ll4FPnekIwai9HSHDhG2eZXA8M7u+/mIojYkDalECfIa0Xq8uKSNoOEOKrkAMhjBu+fWluodcXtZvfWQTBqFz5L/OkIQp/Q1KqeDvRvDsSv0jdN39xj/jX+eN3wxeQSvgfvQWWePtIfuvvmD88DExy1Bq3X+k=;ABpAsUmbtwmb1CfonSb6EA=="
 ---
 
