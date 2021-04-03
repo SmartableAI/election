@@ -47,22 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Court lets woman's defamation suit vs. Trump proceed again"
-    excerpt: "Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant’s sexual assault allegations against him after a ruling from New York’s highest court Tuesday in"
-    publishedDateTime: 2021-03-30T16:36:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_bced19e82367424f8f295da3bc4dc4d9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
     excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
     publishedDateTime: 2021-03-31T12:03:00Z
@@ -204,6 +188,6 @@ related:
         height: 682
         isCached: true
 
-secured: "ZqtEszDnyLpFhoSM6zlillvJkDk/YC5EpZksqQtDxMIKfuxdFvfd+Mk7Kr7dc5t/Ec4ZqQAXniXBus9CuNFQ0zKYyzuo1ZXFKLIAaIMoxYTJKAFBnxo1n2R3R7ZVA4mcccfRHLLCgTmQu+maRz3jKG3VZuWrABkYTw4TvrMhcW9+jVu8dvrZI6TM5dwI3eKqI78cdCjxztA2/cdfYCFQFap1g4jOwormVhGcQrNg4n18ygnNxy942gWwRG03Xqvv2AxdoPSnhksdPlSX6yfhmfvOkKlJ/h7Pp+8EBMKeeGRpPwmCVh7f0l6VAeYnNiZjuDTGYZkWFXhSDGNNbq0JAplCtTs8rRWvobscWW735tE=;ScheBmOk3rtNhmF+TKX4Nw=="
+secured: "3gr+lbWejaAulTWtq6j5Oblgi2GhTIrnuZBF1l92fiPyym00LLU8soUh2Y360MJQJEcew4CFDxExk21tVvSPujCtGFCauOzo75umHU0Gf1XxyhTlvAfwkbSGINGjaacGcWKnlkAd40H8t/H89wshfzu23z+3fhe/izVeRG4eZQmtEtEjnkGOUN+Oaurc1KpAUS15qgfBbs926Gztxx+vVQTKRivlWCboWuvWjjRDn4ey9z+w7CRsdKl55Ps7tyqx2NWUZB60tQagFG6jPg+09Z15v8D/DjI48s6QIDKGG0q4/NFchY3r2Qfa8OdphsPNHafVs0N16gx8ZdO+5lcP76SPC4yePp3VlXtgwMiEttE5PE8Ser5PuyoycrNbx1zJ5MENl6k4dTeiUJdPg7IEEelHLHKiHSwQewCx1jKWkKuLBvUIC/nyY7/C4cncVP4bPOWOrbOdSJEyiUOVaG90DOszRsNWSCW8oT3tO1XTVoVdh2VX+6PTMJ+r/aLNvOhGDMSsXcpqCnOPZSg8HuhkZA==;HPk2j0lHqtk1+DKXDs8Ivg=="
 ---
 

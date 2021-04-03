@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden orders White House flags lowered to half-staff after Capitol Police officer killed"
+    excerpt: "President Joe Biden has been receiving ongoing briefings from his homeland security adviser following an attack on the US Capitol that killed Capitol Police Officer William Evans and injured another, the White House announced Friday.\n    \n"
+    publishedDateTime: 2021-04-02T22:04:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NuzvXGo-ZYM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/biden-capitol-attack-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/biden-capitol-attack-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130224-01-white-house-flag-half-staff-0323-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How the border problem caught the Biden team off guard, and how they've scrambled to fix it "
     excerpt: "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n"
     publishedDateTime: 2021-03-21T00:41:58Z
@@ -222,6 +238,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_13/3460867/210330-major-biden-dog-ac-435p_33990fb7823b6d94d4f5c4411ad7b697.jpg"
         width: 2500
         height: 1668
+        isCached: true
+  - title: "The three words not in Biden's infrastructure plan"
+    excerpt: "We all know JOE BIDEN likes — okay, loooooooves — trains. So it’s no surprise that the infrastructure plan he proposed this week includes $80 billion for national and intercity rail over eight years, or $10 billion a year — five times the annual $2 ..."
+    publishedDateTime: 2021-04-02T22:53:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/04/02/the-three-words-not-in-bidens-infrastructure-plan-492348"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
     excerpt: "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ..."

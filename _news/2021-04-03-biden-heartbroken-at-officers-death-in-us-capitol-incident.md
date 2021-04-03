@@ -495,6 +495,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "Biden affirms U.S. 'unwavering support' for Ukraine in call: statement"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden on Friday expressed the United States’ strong support for Ukraine in a call with the country’s president, Volodymyr Zelenskiy, the White House said. “President Biden affirmed the United States ..."
+    publishedDateTime: 2021-04-02T14:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-ukraine-biden-idUSKBN2BP14C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP14C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP14C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557158938&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310OJ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Hunter Biden says he doesn't know if Delaware laptop was his"
     excerpt: "Hunter Biden, the son of President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of ..."
     publishedDateTime: 2021-04-02T14:26:00Z
@@ -510,6 +526,22 @@ related:
       - url: "https://thehill.com/sites/default/files/hunter_biden.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "7 governors call on Biden to lift $10K cap on tax deductions"
+    excerpt: "Seven Democratic governors are calling on President Joe Biden to lift the $10,000 cap on state and local tax deductions that was a part of former President Donald Trump’s massive 2017 tax law ..."
+    publishedDateTime: 2021-04-02T22:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Joe Biden Speaks Out on Capitol Police Officer Killed in Attack"
     excerpt: "President Joe Biden said that he first lady Jill Biden were \"heartbroken\" to learn of Friday's deadly attack at the U.S. Capitol that left one police officer dead and injured another. Capitol Police Officer William \"Billy\" Evans was killed after 25-year ..."

@@ -31,136 +31,70 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump uses new website to rewrite history of his presidency"
-    excerpt: "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 10.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ..."
-    publishedDateTime: 2021-03-30T13:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump uses new website to rewrite history of his presidency"
-    excerpt: "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 15.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ..."
-    publishedDateTime: 2021-03-30T18:23:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Be at peace, meditate, Trump Buddha statue designer tells former president"
-    excerpt: "XIAMEN, China (Reuters) - Chinese furniture maker Hong Jinshi first created a couple of pint-sized statues of former U.S. President Donald Trump meditating in a Buddhist pose as a fun project for himself last year. Slideshow ( 4 images ) Six months on ..."
-    publishedDateTime: 2021-03-31T06:22:00Z
-    webUrl: "https://www.reuters.com/article/us-china-trump-statue/be-at-peace-meditate-trump-buddha-statue-designer-tells-former-president-idUSKBN2BN0RU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN0RU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN0RU"
+  - title: "Wisconsin seeks $145,000 in fees for Trump's 'bad faith' election lawsuit"
+    excerpt: "Wisconsin's Democratic Governor Tony Evers has asked a federal judge to order Donald Trump to cover $145,000 in legal fees the state spent to defend against the former Republican president's unsuccessful effort to overturn its 2020 election results."
+    publishedDateTime: 2021-04-02T00:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2BO6M8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6M8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6M8"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 123
+    quality: 139
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556845100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0DT"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557071923&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303G2"
         width: 817
         height: 545
         isCached: true
-  - title: "Donald Trump's Team Sought Stake in Gab But Was Rejected, CEO Andrew Torba Claims"
-    excerpt: "The CEO of social media site Gab has claimed he rejected a proposal in January to have former president Donald Trump on the platform. Andrew Torba, who founded the service in 2016, said that representatives of the former president's senior adviser and son ..."
-    publishedDateTime: 2021-03-24T10:36:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323?amp=1"
+  - title: "Donald Trump Called on to Pay $144,000 in Legal Fees for 'Meritless' Wisconsin Election Lawsuit"
+    excerpt: "Wisconsin Governor Tony Evers has called on former President Donald Trump and others to foot the bill for their failed legal challenges to overturn the state's 2020 election results. In motions filed Wednesday by Evers' attorneys, Trump and La Crosse ..."
+    publishedDateTime: 2021-04-02T16:52:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 120
+    quality: 128
     images:
-      - url: "https://d.newsweek.com/en/full/1762774/donald-trump-cpac.jpg"
-        width: 3000
-        height: 2147
+      - url: "https://d.newsweek.com/en/full/1770284/donald-trump-leaving-trump-tower-3-9-2021.jpg"
+        width: 2978
+        height: 1820
         isCached: true
-  - title: "Fox News hires Lara Trump and promotes former White House press secretary Kayleigh McEnany"
-    excerpt: "An envelope. It indicates the ability to send an email. Fox News is doubling down on its ties to former President Donald Trump. On Monday, Fox announced it has hired the former president's daughter-in-law, Lara Trump, as a paid contributor. On Tuesday ..."
-    publishedDateTime: 2021-03-30T18:08:00Z
-    webUrl: "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-hires-lara-trump-kayleigh-mcenany-outnumbered-2021-3?amp"
+  - title: "Court lets woman's defamation suit vs. Trump proceed again"
+    excerpt: "Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant’s sexual assault allegations against him after a ruling from New York’s highest court Tuesday in"
+    publishedDateTime: 2021-03-30T16:36:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/60633eddc9d73b00186e9269?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_bced19e82367424f8f295da3bc4dc4d9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Theatre project lets Trump accusers tell their stories"
-    excerpt: "The Pussy Grabber Plays – eight short pieces premiering in New York on Monday – humanise the people behind sexual misconduct allegations against the president Lucia Graves Journalist and writer Natasha Stoynoff has co-written a play about Donald Trump ..."
-    publishedDateTime: 2021-04-01T11:00:00Z
-    webUrl: "https://www.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
-    ampWebUrl: "https://amp.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
+  - title: "Former Trump adviser takes prominent role in voting battle"
+    excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
+    publishedDateTime: 2021-03-27T04:26:00Z
+    webUrl: "https://www.chron.com/news/article/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-  - title: "Donald Trump elevates a loyal Florida operative to shore up his post-presidency political operation"
-    excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. Former President Donald Trump has tapped longtime Florida political operative Susie Wiles to help lead his post-White House political operation, Trump advisors ..."
-    publishedDateTime: 2021-03-31T22:28:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-susie-wiles-florida-bill-stepien-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://i.insider.com/6064f60b6183e10019819a50?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Donald Trump's New Website Mocked On Twitter: 'One Of The Wackiest Websites'"
-    excerpt: "Donald and Melania Trump launched their new personal website, 45office.com Some Twitter users were not impressed with the new website Trump's supporters were happy about the announcement and have begun leaving him messages on the new site Former President ..."
-    publishedDateTime: 2021-03-31T05:55:00Z
-    webUrl: "https://www.ibtimes.com/donald-trumps-new-website-mocked-twitter-one-wackiest-websites-3172272"
-    ampWebUrl: "https://www.ibtimes.com/donald-trumps-new-website-mocked-twitter-one-wackiest-websites-3172272?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trumps-new-website-mocked-twitter-one-wackiest-websites-3172272?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-        width: 1024
-        height: 731
-        isCached: true
-  - title: "U.S. Republican House Leader Resists Pressure to Punish Trump Ally Gaetz"
-    excerpt: "U.S. Republican House Leader Resists Pressure to Punish Trump Ally Gaetz WASHINGTON (Reuters) - The top Republican in the U.S. House of Representatives on Wednesday resisted calls to punish a staunch ally of President Donald Trump who, according to a U.S ..."
-    publishedDateTime: 2021-03-31T21:21:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-31/us-republican-house-leader-resists-pressure-to-punish-trump-ally-gaetz"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
 
 secured: "jQFs3uS5AipijyM5qOYaGZjbx2SDRqbhNkiammjboN2J+bkEXJC1HkFhxKNuMFrFHpidA/s7vWvqwa8hmoUIg3ssugBJgr1RPQnK16ANNNu9L+nNXiyF3rBuLJEWSbPdLvqv8GI7ChLEquvKUQbBfIn5GntN25szjPTYxtRTUmPTWmwPTWVzMC12ItXYJttRk/+ArTqQ/otYbi6uvgn7ONxhdyBowJTUimbQ4EHaCe2TsYzAXSEJKUhmPBplEivLtYpzZhrxbojjuvkNR3QgufAdnO1zdDPqYS5TurUnVaCFVbL30HeHuUSH1dVEjYPl6kT6rKyz6KaDo0r5FaicPqGD78Sn8Ns8EE4x2GRgZS5kYnDFT7/07RYYH2Wi3RcOJHMpIOhD1TKdokxQKO7TdGWOgwOdo3jnJ20dGPpjos4AX+OrvchwoDu3dG94mFFVYPdN6NzXgFXV3Ln6XbZuWfSmVt2GJgxENlx6NcR3/SgBky9xZDw2HVmpbxy14hSewNRWuQAz5NdCT2KC6JSSXQ==;H/89eWHpP4Pp7laTx+yvnQ=="
 ---

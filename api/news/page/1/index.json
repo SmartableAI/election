@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-02-hunter-biden-says-in-memoir-he-wouldnt-take-burisma-job-again-but-insists-it-wasnt-unethical.md",
+      "title": "Hunter Biden says in memoir he wouldn’t take Burisma job again but insists it wasn’t ‘unethical’",
+      "excerpt": "Hunter Biden wrote in his new tell-all memoir “Beautiful Things” that he does not regret taking a seat on the board of Burisma Holdings, but he would not do it again. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmlFy4KIdSA/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmlFy4KIdSA/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/HunterBidenNEW.jpg",
+          "width": 722,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical.amp",
+      "publishedDateTime": "2021-04-02T16:25:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan.md",
+      "title": "More Raleigh-to-Richmond Amtrak runs proposed in Biden plan",
+      "excerpt": "CHARLOTTE, N.C. — More direct train service between Raleigh and Richmond and passenger service to Asheville and Wilmington are included in Amtrak’s plan for $80 billion in federal funds, proposed as part of President Joe Biden’s $2 trillion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-02T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-iran-nuclear-deal-politicians-former-hostage-decry-biden-admins-efforts-to-rejoin.md",
       "title": "Iran nuclear deal: Politicians, former hostage decry Biden admin's efforts to rejoin",
       "excerpt": "The Biden administration is reportedly set to have indirect negotiations about rejoining the Iran nuclear deal next week, prompting a wave of backlash from critics.",
@@ -55,114 +163,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.md",
-      "title": "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his",
-      "excerpt": "Hunter Biden in an interview clip released on Friday said that the laptop first reported on last fall by the New York Post \"could\" be his, potentially casting doubt on past comments from President Biden that he thought the laptop was Russian disinformation. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QE6WfES1MXM/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QE6WfES1MXM/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp",
-      "publishedDateTime": "2021-04-02T11:01:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-donald-trump-called-on-to-pay-144000-in-legal-fees-for-meritless-wisconsin-election-lawsuit.md",
-      "title": "Donald Trump Called on to Pay $144,000 in Legal Fees for 'Meritless' Wisconsin Election Lawsuit",
-      "excerpt": "Wisconsin Governor Tony Evers has called on former President Donald Trump and others to foot the bill for their failed legal challenges to overturn the state's 2020 election results. In motions filed Wednesday by Evers' attorneys, Trump and La Crosse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714",
-      "originalUrl": "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1770284/donald-trump-leaving-trump-tower-3-9-2021.jpg",
-          "width": 2978,
-          "height": 1820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714?amp=1",
-      "publishedDateTime": "2021-04-02T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -226,7 +226,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -278,7 +278,7 @@
       "originalUrl": "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -682,6 +682,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-wisconsin-seeks-145000-in-fees-for-trumps-bad-faith-election-lawsuit.md",
+      "title": "Wisconsin seeks $145,000 in fees for Trump's 'bad faith' election lawsuit",
+      "excerpt": "Wisconsin's Democratic Governor Tony Evers has asked a federal judge to order Donald Trump to cover $145,000 in legal fees the state spent to defend against the former Republican president's unsuccessful effort to overturn its 2020 election results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2BO6M8",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2BO6M8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557071923&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303G2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BO6M8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6M8",
+      "publishedDateTime": "2021-04-01T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1146,7 +1198,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1294,63 +1346,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-harris-to-move-into-naval-observatory-residence-next-week-after-renovations-delay.md",
-      "title": "Harris to move into Naval Observatory residence next week after renovations delay",
-      "excerpt": "Vice President Kamala Harris and second gentleman Doug Emhoff will move into the vice president's official residence next week after their move was delayed for more than two months because of \"repairs to the home,\" Harris' chief spokeswoman Symone Sanders said on Thursday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvWuUhnDvJs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvWuUhnDvJs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html",
-      "publishedDateTime": "2021-04-01T11:04:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Kamala Harris"
       ]
     }

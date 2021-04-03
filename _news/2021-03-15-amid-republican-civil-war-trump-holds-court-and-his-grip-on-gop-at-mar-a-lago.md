@@ -189,22 +189,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Former Trump adviser takes prominent role in voting battle"
-    excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
-    publishedDateTime: 2021-03-27T04:26:00Z
-    webUrl: "https://www.chron.com/news/article/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Trump Endorses Shafer for Reelection to Georgia GOP Chair"
     excerpt: "Former President Donald Trump has endorsed David Shafer for another term as the chair of the Georgia state Republican Party."
     publishedDateTime: 2021-03-24T22:28:00Z

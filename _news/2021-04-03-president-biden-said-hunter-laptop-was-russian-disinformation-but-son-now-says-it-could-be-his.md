@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hunter Biden says in memoir he wouldn’t take Burisma job again but insists it wasn’t ‘unethical’"
+    excerpt: "Hunter Biden wrote in his new tell-all memoir “Beautiful Things” that he does not regret taking a seat on the board of Burisma Holdings, but he would not do it again. "
+    publishedDateTime: 2021-04-02T23:25:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmlFy4KIdSA/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/HunterBidenNEW.jpg"
+        width: 722
+        height: 426
+        isCached: true
   - title: "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his"
     excerpt: "Hunter Biden in an interview clip released on Friday said that the laptop first reported on last fall by the New York Post \"could\" be his, potentially casting doubt on past comments from President Biden that he thought the laptop was Russian disinformation. "
     publishedDateTime: 2021-04-02T18:01:45Z

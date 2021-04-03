@@ -367,6 +367,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Shocking video of sisters dropped over border wall fuels criticism of Biden immigration policy"
+    excerpt: "A shocking video of two little girls dropped over a border barrier in New Mexico is fueling criticism of the Biden administration’s handling of the crisis at the southern border -- with critics saying the administration is encouraging smugglers and illegal immigrants."
+    publishedDateTime: 2021-04-02T22:34:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AFEqbrD8u4A/video-of-sisters-border-wall-criticism-of-biden-immigration-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/gloria-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris’ niece takes heat for presuming Boulder shooter was white"
     excerpt: "Vice President Kamala Harris’ niece is under fire for presuming the gunman in Monday’s Colorado mass shooting was white — because he was taken into custody alive. “The Atlanta shooting was ..."
     publishedDateTime: 2021-03-23T19:50:00Z

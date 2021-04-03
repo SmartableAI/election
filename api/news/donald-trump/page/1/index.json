@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-02-donald-trump-called-on-to-pay-144000-in-legal-fees-for-meritless-wisconsin-election-lawsuit.md",
-      "title": "Donald Trump Called on to Pay $144,000 in Legal Fees for 'Meritless' Wisconsin Election Lawsuit",
-      "excerpt": "Wisconsin Governor Tony Evers has called on former President Donald Trump and others to foot the bill for their failed legal challenges to overturn the state's 2020 election results. In motions filed Wednesday by Evers' attorneys, Trump and La Crosse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714",
-      "originalUrl": "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1770284/donald-trump-leaving-trump-tower-3-9-2021.jpg",
-          "width": 2978,
-          "height": 1820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714?amp=1",
-      "publishedDateTime": "2021-04-02T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-02-italian-restaurant-owner-mistakenly-sanctioned-by-trump.md",
       "title": "Italian restaurant owner mistakenly sanctioned by Trump",
       "excerpt": "Verona restaurant and pizzeria owner Alessandro Bazzoni sanctioned in crackdown on blacklisted Venezuelan crude oil",
@@ -62,7 +10,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -114,7 +62,7 @@
       "originalUrl": "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -190,6 +138,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-wisconsin-seeks-145000-in-fees-for-trumps-bad-faith-election-lawsuit.md",
+      "title": "Wisconsin seeks $145,000 in fees for Trump's 'bad faith' election lawsuit",
+      "excerpt": "Wisconsin's Democratic Governor Tony Evers has asked a federal judge to order Donald Trump to cover $145,000 in legal fees the state spent to defend against the former Republican president's unsuccessful effort to overturn its 2020 election results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2BO6M8",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2BO6M8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557071923&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303G2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BO6M8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6M8",
+      "publishedDateTime": "2021-04-01T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1147,7 +1147,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1256,7 +1256,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 285,
       "tags": null,
       "images": [
         {

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigra
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 155
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Whitmer.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Shocking video of sisters dropped over border wall fuels criticism of Biden immigration policy"
+    excerpt: "\"The reason why we’re seeing the Biden border crisis is because Joe Biden said to the world, if you’re a kid or teenager or you purport to be a teeenager or you show up with a kid, we’ll let you into our country -- what did he expect would happen?\""
+    publishedDateTime: 2021-04-02T22:38:00Z
+    webUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/gloria-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

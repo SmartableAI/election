@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Italian pizza shop owner mistakenly sanctioned by Trump: ‘I thought it was a joke’"
+    excerpt: "On the very last day President Donald Trump was in office in January, his administration announced new sanctions targeting a catering company in Verona, Italy. According to the U.S. Treasury, the measures were designed to defeat a “network attempting to ..."
+    publishedDateTime: 2021-04-02T14:36:00Z
+    webUrl: "https://www.washingtonpost.com/world/2021/04/02/alessandro-bazzoni-sanctions-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/world/2021/04/02/alessandro-bazzoni-sanctions-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/04/02/alessandro-bazzoni-sanctions-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T6BUOQEQZUI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "9xvgVJ3hR9I/Iy0UPVrj9aCB6LkUeL8lcj/eKhe7IFov8U51b2Ims7BL6NvzxPktQmL1hVIYK4CnHtRxg9MQ1wGXG+byoMdMqLEzNS6ZB42obmCyx4baZg8UUvI/7uVo+keRKX2V0kjc3kC+LcYLPjDugalp8O86j1avZDdS7pr+uXt8EX9Y3e/SER2FER+WM8IJ1XEMAzRlP7EltrakOTEBewWjLVUSaTp40hdkVN8FYkClRfLqTcNZpRe5kgrjVnC4JiGXw/CdxiE191pRDFqNsHefjQOlTfQB44gRkaTj1la6o7o153X2NGitdK+XqchN5CnL4bzxDtB2iK0GDXgMv2OzMPKRcet0y6NeiK8=;MBViMRpcMujyGDTCjMKfjg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/president-biden-said-hunter-laptop-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp"
 type: article
 quality: 162
-heat: 182
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hunter Biden says in memoir he wouldn’t take Burisma job again but insists it wasn’t ‘unethical’"
+    excerpt: "Hunter Biden wrote in his new tell-all memoir “Beautiful Things” that he does not regret taking a seat on the board of Burisma Holdings, but he would not do it again. "
+    publishedDateTime: 2021-04-02T23:25:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmlFy4KIdSA/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/HunterBidenNEW.jpg"
+        width: 722
+        height: 426
+        isCached: true
   - title: "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his"
     excerpt: "And we also know that Putin is trying very hard to spread disinformation about Joe Biden,\" the then-candidate said. He added: \"When you put the combination of Russia, Giuliani, the president together, that's just what it is. It's a smear campaign.\""
     publishedDateTime: 2021-04-02T18:04:00Z
@@ -48,6 +64,6 @@ related:
         height: 320
         isCached: true
 
-secured: "GONQE5pv0Fg3v8p/razY/pacvdSEO7pf121zlMsLnojwaYJXlhv1t5wnfEeMRVm2bHu/A8sLyiY/uuoWwza/Zl9EpgIXxfMvFe05lgVSs1zvGQOXgOS4l76pbym0Jcx75qNkUHYLkvssQXhrtQdI91xtQ0+aukMWbT5Vu2TgAzLCQJyIg9+nrOVh7KzGwfxAAouRNu5rXFxlZNRRJAvYaALWeLu225R20Eo6s8NWgg63DH7YXw06E0B/b+p5iMf8Y1Fm1/6euef339A0HmjdBTH8A98A9pAC76sUoePj0oo3pkqVn7s+Md4VB2XlVknF8olYkGENHHadZ9HULWMa0yvb//i1ZF+YINRRacBqmIg=;j5VQxB/Me5e8ggXzcHu4OA=="
+secured: "n2L5OsQZlCVfZYgYm5YjdS9INvpHPcRYKUX2HYMj+may1gMA7UEqku6AXsSd5bCfgEhvbSOuhxwbeQEqCbwgn592fPLGPXdg7S2L1pDkTH4kpBLZVtYNfpzdTzTQbxAfWq90zDGTe1iiIEWnJd5BMhcMn3+mbUGre2FXKW59Mw2rCIbO9KFb7PqgjZbPjRXGLTvbdPExO0i/x4tXUpAl9EsdIsh+kHoW6R2ZOrwua2GfJH9bkvzqaK9a//K70wLXVe68hvdtCPRDk4CZNVSNtfe6/16FNmhcDov0aeBls8BoeWr8K6NjAXyglpbEW8Sg+fWHVCNur1gJyB+BQm+JWGev7OVZWNFnyf8h1rRhm7U=;8L70k6t21uh44MMcxjHJ8w=="
 ---
 

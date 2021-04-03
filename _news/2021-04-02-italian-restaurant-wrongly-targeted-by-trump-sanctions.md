@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Italian pizza shop owner mistakenly sanctioned by Trump: ‘I thought it was a joke’"
+    excerpt: "On the very last day President Donald Trump was in office in January, his administration announced new sanctions targeting a catering company in Verona, Italy. According to the U.S. Treasury, the measures were designed to defeat a “network attempting to ..."
+    publishedDateTime: 2021-04-02T14:36:00Z
+    webUrl: "https://www.washingtonpost.com/world/2021/04/02/alessandro-bazzoni-sanctions-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/world/2021/04/02/alessandro-bazzoni-sanctions-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/04/02/alessandro-bazzoni-sanctions-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T6BUOQEQZUI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "US, Iran agree to begin indirect talks on limiting Iran's nuclear program, nearly 3 years after Trump pulled out of deal"
     excerpt: "US, Iran agree to begin indirect talks on limiting Iran's nuclear program, nearly 3 years after Trump pulled out of deal WASHINGTON -- US, Iran agree to begin indirect talks on limiting Iran's ..."
     publishedDateTime: 2021-04-02T14:06:00Z

@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Shocking video of sisters dropped over border wall fuels criticism of Biden immigration policy"
+    excerpt: "\"The reason why we’re seeing the Biden border crisis is because Joe Biden said to the world, if you’re a kid or teenager or you purport to be a teeenager or you show up with a kid, we’ll let you into our country -- what did he expect would happen?\""
+    publishedDateTime: 2021-04-02T22:38:00Z
+    webUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/gloria-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "bcnYiis0DSdK6Vs5iXGXbwDPQ8Zxy49/NqZhsWGVnAybFbRjpZyMxY+a08bTlA7QsThN/+pBFfSapF8C0JPLP7l0TkW1ZWh2sr6NRXvDkyE0IvpoRcaOCvsQfcxlxtS3aGreILOYLa+qFi4LMz1uwlaLFTwNtL5YhxSVYhAr6OgtNHkYJ/x/bbKoTlaEU3QCGHeWSxowAGuIy9a9fw72dwXlutTU2uCD9YWGBwsp3CDVhy8YDU7eBYasv9q4fWBlypO1DCQOKxM4DRESm9KKBKUgKwqc1RG0p1oJszybK4RQOzSb83NU+ADndma7uwdGqYpkBpiMpEzXr8Lt89uyZs9eIRJbcE2ErxMqK+U+Azg=;8wItL+4WPtBt6M718wh3jA=="
 ---
