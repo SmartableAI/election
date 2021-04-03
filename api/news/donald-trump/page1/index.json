@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-03-trump-rages-over-election-coverage-other-than-that-happy-easter.md",
+      "title": "Trump rages over election coverage: 'Other than that, Happy Easter'",
+      "excerpt": "Former President Trump included a brief Easter message in a statement defending his unproven claims of fraud in the 2020 election. In the statement, released by Trump's Save America PAC on Friday ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter",
+      "originalUrl": "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp",
+      "publishedDateTime": "2021-04-03T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-trump-on-the-ballot-again-daughter-in-law-lara-ponders-senate-run.md",
       "title": "Trump on the ballot again? Daughter-in-law Lara ponders Senate run",
       "excerpt": "Photograph: Chip Somodevilla/Getty Images The Trump flags and yard signs are still up. Flags that shout “Impeach Biden” fly on the back of pickup trucks. “Most people here believe Donald Trump is still the president,” says Nancy Allen of her ...",
@@ -51,6 +103,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-trump-calls-for-boycott-of-mlb-coke-delta-after-they-opposed-georgia-voting-law.md",
+      "title": "Trump calls for boycott of MLB, Coke, Delta after they opposed Georgia voting law",
+      "excerpt": "Former President Trump called Friday night for a boycott of Major League Baseball, Coke and Delta Airlines — and all other companies that have pulled out of Georgia or otherwise protested",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/03/trump-calls-for-boycott-of-mlb-coke-and-delta-airlines/",
+      "originalUrl": "https://nypost.com/2021/04/03/trump-calls-for-boycott-of-mlb-coke-and-delta-airlines/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-urges-boycot-companies-criticizing-georgia-86.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/03/trump-calls-for-boycott-of-mlb-coke-and-delta-airlines/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/03/trump-calls-for-boycott-of-mlb-coke-and-delta-airlines/amp/",
+      "publishedDateTime": "2021-04-02T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -1011,58 +1111,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-2-us-capitol-police-officers-sue-trump-over-january-6-assault.md",
-      "title": "2 U.S. Capitol Police officers sue Trump over January 6 assault",
-      "excerpt": "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/",
-      "originalUrl": "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/31/34ce156b-e05d-4c89-9c44-357ee445df67/thumbnail/1200x630/fc37e7ded2812eec9cbc2bb9a2a11390/gettyimages-1230457837.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/",
-      "publishedDateTime": "2021-03-31T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-31-russia-keeps-bribing-foreign-politicians-is-trump-different.md",
       "title": "Russia Keeps Bribing Foreign Politicians. Is Trump Different?",
       "excerpt": "In the United States, Donald Trump became a subject of suspicion in 2016 because his relationship to Russia bore many of the obvious hallmarks of these other illicit ties. Here was a right-wing ...",
@@ -1215,6 +1263,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-two-capitol-police-officers-sue-trump-for-physical-and-emotional-injuries-suffered-in-riots.md",
+      "title": "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots",
+      "excerpt": "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
+      "publishedDateTime": "2021-03-30T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-trump-ally-matt-gaetz-say-he-faces-federal-investigation-regarding-sexual-conduct.md",
       "title": "Trump ally Matt Gaetz say he faces federal investigation 'regarding sexual conduct'",
       "excerpt": "Florida Republican congressman says he has never had sexual relationship with underage girl Matt Gaetz, a prominent Republican in Congress and a close ally of Donald Trump, said on Tuesday he was being investigated by the justice department over a former ...",
@@ -1275,7 +1375,7 @@
       "originalUrl": "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1422,7 +1522,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1446,115 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-hillary-clinton-john-kerry-repeatedly-attacked-trump-administration-after-leaving-state-department.md",
-      "title": "Hillary Clinton, John Kerry repeatedly attacked Trump administration after leaving State Department",
-      "excerpt": "The New York Times came under fierce criticism Monday for claiming Mike Pompeo stood out as a former secretary of state for his open partisanship, given the outspoken criticisms of the Trump administration by Hillary Clinton and John Kerry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93d6d9ec-ae27-481e-84f7-422080f3e2eb/d669044e-5520-48e2-9a64-2e55a44b5141/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "publishedDateTime": "2021-03-30T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-donald-trump-uses-new-website-to-rewrite-history-of-his-presidency.md",
-      "title": "Donald Trump uses new website to rewrite history of his presidency",
-      "excerpt": "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 10.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
-      "publishedDateTime": "2021-03-30T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

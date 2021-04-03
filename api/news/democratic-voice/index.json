@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-03-obama-congratulates-mlb-for-taking-a-stand-against-georgia-election-law-as-trump-calls-for-boycott.md",
+      "title": "Obama congratulates MLB for 'taking a stand' against Georgia election law as Trump calls for boycott",
+      "excerpt": "Former Presidents Barack Obama and Donald Trump have weighed in on Major League Baseball's decision to move its All-Star Game out of Atlanta in response to Georgia's new sweeping election law that imposes significant new obstacles to voting.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ie8gzsDKxz4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ie8gzsDKxz4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/03/politics/obama-trump-mlb-all-star-game-georgia-voting-law/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/03/politics/obama-trump-mlb-all-star-game-georgia-voting-law/index.html",
+      "publishedDateTime": "2021-04-03T10:14:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-watch-trump-was-right-biden-is-a-trojan-horse-for-progressives.md",
       "title": "WATCH: 'Trump was right, Biden is a Trojan horse for progressives'",
       "excerpt": "During his first televised response over allegations of sex trafficking a minor, Rep. Matt Gaetz claimed his family was working with the FBI over an alleged extortion plot organized by former federal prosecutor David McGee. Gaetz attempted to change the ...",
@@ -1609,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/north-korea-joe-biden-warning/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/north-korea-joe-biden-warning/index.html",
       "publishedDateTime": "2021-03-25T12:38:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-biden-says-he-cant-picture-us-troops-being-in-afghanistan-next-year.md",
-      "title": "Biden says he 'can't picture' US troops being in Afghanistan next year",
-      "excerpt": "President Joe Biden said he \"can't picture\" US troops being in Afghanistan next year.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MEdkK3g2TPU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MEdkK3g2TPU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325134844-10-biden-presser-0325-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html",
-      "publishedDateTime": "2021-03-25T11:44:26-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

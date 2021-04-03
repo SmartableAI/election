@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump calls for MLB boycott, warns 'woke' corporations after All-Star Game pullout"
+title: "Trump calls for MLB boycott, warns ‘woke’ corporations after All-Star Game pullout"
 excerpt: "Former President Donald Trump fired a high, hard fastball at Major League Baseball on Friday night, urging fans to boycott the \"national pastime\" over its decision to pull this year’s All-Star Game from the Atlanta area."
-publishedDateTime: 2021-04-03T03:14:47Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWznfVogbfg/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWznfVogbfg/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout"
+publishedDateTime: 2021-04-03T03:21:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout"
+webUrl: "https://www.foxnews.com/politics/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout"
 ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout.amp"
 type: article
-quality: 169
-heat: 189
-published: true
+quality: 129
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -48,6 +49,6 @@ related:
         height: 800
         isCached: true
 
-secured: "lvGp9QDHY9+60aqmjXXsGtgSO05ftH1O5cAX4t6VZRdiKhpitwTK3IUB27D77Siqldg2Oagj9AIYMZptWPebT4VG0EjoG9fxUctXKS/6eyFjsN3u+h/upfV+JN3/WTnqWD0CzC6PXj3TNzDqoBowzZqMVa3bIYIVOFo2TtEdcmpyUCng2DZXTlA1UnyZUyyIqtGPReHCJEJJ1RWkdo54M4JsnmKr+Nd8CMTwZH+iwd/7uKu3ADjNVoSuKlUexNKx2XbGy6rDXefpBp/zXeVKgn9ouiHsppjBxCFoiEy+bYxGHnKcS+1ul8UWWYBQ+NZlmHu+kNslXV1ey9kNDX6uXB73RZlpGE1k/W+l7TSgS60=;a1Ba7VSl3vsC4ZDS5+sAEQ=="
+secured: "J70jsKDdrRluxmelx7U4K3sNGWBkjW+OaCs2x579f9CHaUdpVt+dttqCF8T8ZhTXzohTO3dZ3zozkFc1OqokzJlLD63taEs9bJC0Q/u8FGTaxtzpk88r7WtZak0IwACGHqV6PBoq/71Bxs1CYoTHs7ImTKFNeZ7uWlY7AdJilpTrh8672qaKc2CYnFTDU6IDO7Q8q7NpciW7mk22mbkEs3uai+09xFHSU0k8qcjPtVIb7jSbzrAc+NTCU7EJDXh2ems0HjJdvhMVK0aB25l7M1hiQAVfYtWUInVRlEKcpF7zbIZ8KmS9eO5jWmlMr/H5Tgz+X7h0sJjPNVoRPiKm8nfn+wygCv0F38RLnQ6uUWY=;Djti8U+I7nSkT/BDymLBSg=="
 ---
 

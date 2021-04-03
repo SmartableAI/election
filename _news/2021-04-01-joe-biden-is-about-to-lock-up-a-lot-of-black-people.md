@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Joe Biden Is About to Lock Up a Lot of Black People"
-excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial"
+excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial \"equity\" it's been hyping."
 publishedDateTime: 2021-04-01T11:25:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html"
+webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/53/539402_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Biden nominates Sen. Joe Manchin's wife to federal commission"
@@ -429,6 +435,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "rrbf97wh4mjHM9UKzlLnvJWDYTEpZrMRJztVgGNjeylF9iGSC+XKVJIicZxyNnaxdMmVE74X3rAF/tJS7OOpEMJifbRMkX8Xj3vCz5bdIOum+RrFtX2Edzs8HsoYn91BFiRWC05OxJJuvznpbgE0h+LdRJNRh94fefQ57hhZJ5hbRXtG1MGh9fc+mkkla5vHOgPVFqSK7rT0EqUICNVSzJo0jS/YaSxFfLkMBnImUDZx+nk1vHJDPZGRIHdixIW1SfrcFSJ/3fTwiA2+fppB6mtX01iJo0N/nggiHi93CwO9mtqE3GI35fRb+lAgUsd1bxhNwDQKu3qi8yulT/SEusEREoLdCkl7+skHzuazHXg=;0rZDxTrZPDUiBEkY6wTnwg=="
+secured: "E71fghCSYvvcC/ZNtMdSg1rRNk994qT9dV43+mYZdaViHPQ5r29pXeUyBPADXmDJzY6WyQ9t8Rt+/l1ZGTxGbKrOc4QTTuJwko+DoX4QklTx83MsKJ/xBGFvl0siFXCTvnVyG68JABDGCLVfmL9u7Y+Pp+Bt9x02TPABM+jHoFudY6yAX7InJ2W6+yIDcag3IE3Us0AbU+FpQoYSjeuKrevi92e3UpUxOGoY7fHuH6MhEwZk52egSHK/Kfdm19stvkUt0Iw1C2aA5ygCRuOM3sc4WtfX5iBwbDAhrKzVY3+MUphBoAa4J+JKyBE8JkS40I7tLr1GMPH92OTpLa9wQItg450hGnflWgD3GwrpHRQ=;EsFpnZJzHPD4ErboRUJdlA=="
 ---
 

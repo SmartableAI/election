@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-14-rep-marjorie-taylor-greene-accused-of-threatening-gop-colleague-with-warning-that-millions-of-trump-supporters-are-watching-her.md",
+      "title": "Rep. Marjorie Taylor Greene accused of threatening GOP colleague with warning that millions of Trump supporters 'are watching' her",
+      "excerpt": "\"The Trump loyal 75 million are watching\" Rep. Greene tweeted about Rep. Herrera Beutler after it emerged she had evidence damaging to Trump's defense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
+      "originalUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602909702edd0f001a8d5ba4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
+      "publishedDateTime": "2021-02-14T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-rep-jaime-herrera-beutler-would-have-testified-under-oath-if-subpoenaed-at-trump-impeachment-trial-spokesman-says.md",
+      "title": "Rep. Jaime Herrera Beutler would have 'testified under oath' if subpoenaed at Trump impeachment trial, spokesman says",
+      "excerpt": "\"She’s already offered all the information she has, and she would have testified under oath,\" Rep. Jaime Herrera Beutler's office said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/13/herrera-beutler-would-have-testified-trump-trial-spokesman-says/4477859001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/13/USAT/dba8a0f4-281d-44ed-bc91-f2660c2a5b4b-AP_Trump_Impeachment_Herrera_Beutler.jpg?auto=webp&crop=5930,3336,x0,y301&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4477859001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4477859001",
+      "publishedDateTime": "2021-02-14T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-the-disgraceful-acquittal-of-donald-trump.md",
       "title": "The ‘Disgraceful Acquittal’ of Donald Trump",
       "excerpt": "A sad, sad day for democracy,” one reader writes. “It was craven cowardice for Republicans to put Mr. Trump before country,” writes another.",
@@ -1500,110 +1604,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may.md",
-      "title": "How Donald Trump's hand-holding led to panicky call home by Theresa May",
-      "excerpt": "A remarkable BBC documentary reveals the startling reality of meeting the president",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may?CMP=oth_b-aplnews_d-1",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may?CMP=oth_b-aplnews_d-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/52c9efc5eb94b4ad66f48b556fdd3110f713e776/194_189_3962_2377/master/3962.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=61685925b23d35c19fcfba70c1e4b138",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may",
-      "publishedDateTime": "2021-02-07T03:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump.md",
-      "title": "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump",
-      "excerpt": "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7ad5429ff5a0055cef8af2fe8a17aae778dfa887/0_40_4775_2866/master/4775.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da3e5b5ded9ac0ca87fea35415042fc0",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump",
-      "publishedDateTime": "2021-02-06T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

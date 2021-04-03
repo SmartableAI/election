@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/"
 type: article
 quality: 125
-heat: 205
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,69 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "10 Things in Politics: Trump sees legal danger ahead"
-    excerpt: "THEY MAY STILL SEE HIM IN COURT: Former President Donald Trump doesn't think he's out of the woods yet. His advisors tell him that's he's unlikely to face legal repercussions over the deadly Capitol Riot, but they are increasingly worried about prosecutors ..."
-    publishedDateTime: 2021-04-02T11:14:00Z
-    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york"
-    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
+  - title: "Trump rages over election coverage: 'Other than that, Happy Easter'"
+    excerpt: "Former President Trump included a brief Easter message in a statement defending his unproven claims of fraud in the 2020 election. In the statement, released by Trump's Save America PAC on Friday ..."
+    publishedDateTime: 2021-04-03T14:43:00Z
+    webUrl: "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter"
+    ampWebUrl: "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 140
     images:
-      - url: "https://i.insider.com/604a96919942cf001865dec9?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
+      - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
-    excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
-    publishedDateTime: 2021-03-31T17:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/International/trump-jan6-gty-rc-210305_1614953461904_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots"
-    excerpt: "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today."
-    publishedDateTime: 2021-03-31T04:09:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+  - title: "Top Trump adviser warned then-president on virus supply shortage, then pursued controversial deals"
+    excerpt: "A top adviser privately urged President Donald Trump to acquire critical medical supplies in the early days of the coronavirus outbreak — and after the warning was ignored, pursued his own ad hoc strategy that committed more than $1 billion in federal ..."
+    publishedDateTime: 2021-03-31T13:07:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/03/31/navarro-pandemic-supply-contracts-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/03/31/navarro-pandemic-supply-contracts-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/31/navarro-pandemic-supply-contracts-trump/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 114
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4IDRPHTVJII6VLM3EVHMTGMTXQ.jpg&w=1440"
         width: 1440
-        height: 810
-        isCached: true
-  - title: "Paxton refuses to release messages about attendance at pro-Trump rally before Jan. 6 insurrection"
-    excerpt: "The Texas attorney general's office is attempting to withhold all messages Ken Paxton sent or received while in Washington for the pro-Donald Trump rally that devolved into a riot at the U.S. Capitol."
-    publishedDateTime: 2021-03-25T14:51:00Z
-    webUrl: "https://www.chron.com/politics/article/texas-ken-paxton-trump-insurrection-16051966.php"
-    ampWebUrl: "https://www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 62
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+        height: 960
         isCached: true
 
 secured: "k1F9YwLmViddZCWdPL+tEeaecN2ocg1QrqgW4wVK9BgskbjbYbIQaGPegyvglYDkXt0dWj7pr3MA8ZERybupelnlMbedW0zWTizK2Ey03sGh3NgLNLuBgco3KfRVZAyuvwslWZvDQT4dYDEjC0m36YQTw9xHar5yL6lKzL3cu39992T9pmARrS/IIVaJf4UG68ZChtBz/JhJJnELKKz4SMJHiK1Gx1saI/3AfJGxP38uqBihY4dKNhOTvPDqiAmdMWGtNzb9ITQ3pNyy/CRzjnQfKxoQQ2eQ2i4tPix+lk0ELgRH2ikhgOpbz2U0GWi0JNI8VbkBOMqjzpfbJCs2RRh9YilfUMUBWINTM3WUoexJrZ/IvHzSIBXpAXI++7zMjfP4vAdjiS9noAdBw8WOAxsgtVQUwhglJX835VAlIDa1OgEIMXzyd7WA4B/jTFU6zNVzKnOYe5vo2kJIINuLHQXSGlRtxD6D6byaerYFBRt77KEbCZzHr3iB8iC6WZm3BnECAKgTjXzuqpiIxFnvCQ==;7ImPe9S3+bNk72+2t5dpBw=="

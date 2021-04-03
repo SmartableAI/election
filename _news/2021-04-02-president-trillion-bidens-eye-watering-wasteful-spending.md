@@ -396,6 +396,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden Is About to Lock Up a Lot of Black People"
+    excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial \"equity\" it's been hyping."
+    publishedDateTime: 2021-04-01T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539402_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Biden Asks Governors To Reinstate Mask Mandate: \"Please, This Is Not Politics\""
     excerpt: "President Joe Biden called on governors that have lifted mask mandates in their states to reimpose them in remarks delivered Monday updating the public on the administration's response to the COVID-19 pandemic. Earlier in March, Biden called the decision ..."
     publishedDateTime: 2021-03-29T00:00:00Z
@@ -414,15 +428,6 @@ related:
     excerpt: "President Joe Biden is ceasing the execution of federal immigration laws, and the worst crisis in 20 years (by his own Department of Homeland Security secretary's admission) is likely to reach an unprecedented level."
     publishedDateTime: 2021-03-31T10:54:00Z
     webUrl: "https://www.realclearpolitics.com/2021/03/31/as_biden_stands_down_at_the_border_america_suffers_539409.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
-  - title: "Joe Biden Is About to Lock Up a Lot of Black People"
-    excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial"
-    publishedDateTime: 2021-04-01T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html#!"
     type: article
     provider:
       name: RealClearPolitics

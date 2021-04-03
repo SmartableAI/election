@@ -402,19 +402,24 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "As Biden Stands Down at the Border, America Suffers"
-    excerpt: "President Joe Biden is ceasing the execution of federal immigration laws, and the worst crisis in 20 years (by his own Department of Homeland Security secretary's admission) is likely to reach an unprecedented level."
-    publishedDateTime: 2021-03-31T10:54:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/31/as_biden_stands_down_at_the_border_america_suffers_539409.html#!"
+  - title: "Joe Biden Is About to Lock Up a Lot of Black People"
+    excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial \"equity\" it's been hyping."
+    publishedDateTime: 2021-04-01T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
-  - title: "Joe Biden Is About to Lock Up a Lot of Black People"
-    excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial"
-    publishedDateTime: 2021-04-01T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html#!"
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539402_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "As Biden Stands Down at the Border, America Suffers"
+    excerpt: "President Joe Biden is ceasing the execution of federal immigration laws, and the worst crisis in 20 years (by his own Department of Homeland Security secretary's admission) is likely to reach an unprecedented level."
+    publishedDateTime: 2021-03-31T10:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/31/as_biden_stands_down_at_the_border_america_suffers_539409.html#!"
     type: article
     provider:
       name: RealClearPolitics

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-bill.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-bill.amp"
 type: article
 quality: 185
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://assets.realclear.com/images/53/539497_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Does Joe Biden Believe He is The Next FDR or LBJ? And the Politics of Georgia's New Voting Laws"
+    excerpt: "A.B Stoddard joins the panel to discuss whether President Joe Biden really sees himself as a transformational president, and why that matters to his agenda. Also, a look at the reaction to the new voting laws in Georgia, including the President's support ..."
+    publishedDateTime: 2021-04-02T20:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/02/does_joe_biden_believe_he_is_the_next_fdr_or_lbj_and_the_politics_of_georgias_new_voting_laws.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 53
+    images:
+      - url: "https://assets.realclear.com/images/53/539562.jpg"
+        width: 336
+        height: 280
         isCached: true
 
 secured: "vzm7uLhm8mRxY0wN2n3QsnULDeZvCjqwCjCofuPuLbd1Juevnb4eOuh2apj88a18iTZTqC1OQYjUMO2tVMV2lhbvoWIT1rR3zusrN3fpCP1UA3MI+jr+BwXFZlIbnDWXihYon7Lr/tOMwTWv2/2FreZwsN6/zWxk1EghDMovA1qpXlYcpK+CJlwKaZjYR8HqJIvEs+LufZWteXdRRvF1sJ4nQ1rAtVE4ApXxRklF0lk8fgnbM1XLAIsEJE+vHFL0oqTGkBCvdE9ofIYNfKu4bAvXLdJfkVWiIpWbGnCGyhuYJfKDvthQ4at2BIz8rsEp2uU7yWaO5yksSbleJ/svQiB/KXBFxY06cvQF9gIyTJ8=;uZ/6bu7pnnaDVqV+oAt7ig=="

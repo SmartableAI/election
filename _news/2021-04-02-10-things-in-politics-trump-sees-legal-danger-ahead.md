@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "2 U.S. Capitol Police officers sue Trump over January 6 assault"
-    excerpt: "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ..."
-    publishedDateTime: 2021-03-31T13:02:00Z
-    webUrl: "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/"
+  - title: "Poll: One-third would use a Trump-backed social media platform"
+    excerpt: "One-third of voters said they would use a social media platform that was backed by former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite vaccine ..."
+    publishedDateTime: 2021-03-30T19:27:00Z
+    webUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform"
+    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/31/34ce156b-e05d-4c89-9c44-357ee445df67/thumbnail/1200x630/fc37e7ded2812eec9cbc2bb9a2a11390/gettyimages-1230457837.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thehill.com/sites/default/files/trumpdonald_010421getty_trump-va.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Rolling back a rollback: Buttigieg deletes some Trump-era limits on regulation"
+    excerpt: "Transportation Secretary Pete Buttigieg moved Wednesday to undo key deregulatory actions by the Trump administration, an overhaul that department officials said was necessary to address challenges that include climate change, racial injustices, the ..."
+    publishedDateTime: 2021-03-24T23:46:00Z
+    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/buttigieg-transportation-regulation/2021/03/24/8bfc8d76-8cb3-11eb-a6bd-0eb91c03305a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/buttigieg-transportation-regulation/2021/03/24/8bfc8d76-8cb3-11eb-a6bd-0eb91c03305a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/buttigieg-transportation-regulation/2021/03/24/8bfc8d76-8cb3-11eb-a6bd-0eb91c03305a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IFSSTYTH3II6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 1086
         isCached: true
   - title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
     excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
@@ -63,38 +79,91 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots"
-    excerpt: "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today."
-    publishedDateTime: 2021-03-31T04:09:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+  - title: "In 2016, Trump activated low-turnout Whites. In 2020, he may have done the same with Latinos."
+    excerpt: "Florida was one of the first states to report results, and the numbers in heavily Hispanic Miami-Dade County, which Hillary Clinton won by nearly 30 points in 2016, showed Joe Biden leading Donald Trump by a much narrower margin. The shift held ..."
+    publishedDateTime: 2021-04-02T14:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/02/2016-trump-activated-low-turnout-whites-2020-he-may-have-done-same-with-latinos/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/02/2016-trump-activated-low-turnout-whites-2020-he-may-have-done-same-with-latinos/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/2016-trump-activated-low-turnout-whites-2020-he-may-have-done-same-with-latinos/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 114
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P2GLBCQ2GUI6XC62QFGKK3QTRM.jpg&w=1440"
         width: 1440
-        height: 810
+        height: 960
         isCached: true
-  - title: "Paxton refuses to release messages about attendance at pro-Trump rally before Jan. 6 insurrection"
-    excerpt: "The Texas attorney general's office is attempting to withhold all messages Ken Paxton sent or received while in Washington for the pro-Donald Trump rally that devolved into a riot at the U.S. Capitol."
-    publishedDateTime: 2021-03-25T14:51:00Z
-    webUrl: "https://www.chron.com/politics/article/texas-ken-paxton-trump-insurrection-16051966.php"
-    ampWebUrl: "https://www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/texas-ken-paxton-trump-insurrection-16051966.php"
+  - title: "Trump Social Network Users Won't Feel 'Fact Checkers Are Going to Be All Over Them': Lara Trump"
+    excerpt: "A spokesperson for the former president said this week the new social media platform likely will roll out within the next few months."
+    publishedDateTime: 2021-03-23T17:42:00Z
+    webUrl: "https://www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190"
+    ampWebUrl: "https://www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-social-network-users-wont-feel-fact-checkers-are-going-all-over-them-lara-trump-1578190?amp=1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 62
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://d.newsweek.com/en/full/1762633/lara-trump-social-networking-platform.jpg"
+        width: 2500
+        height: 1667
         isCached: true
+  - title: "Donald Trump Gearing Up For Social Media Return With Own Platform"
+    excerpt: "After months of being banned from social media sites, he's decided to launch his own site in the next few months."
+    publishedDateTime: 2021-03-21T20:51:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-gearing-social-media-return-own-platform-3166484?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/20/donald-trump-seen-in-this-october-5-file.jpg"
+        width: 1024
+        height: 700
+        isCached: true
+  - title: "Trump To Launch Own Social Media Platform: Ex-aide"
+    excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
+    publishedDateTime: 2021-03-21T19:35:00Z
+    webUrl: "https://www.ibtimes.com/trump-launch-own-social-media-platform-ex-aide-3166480"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/21/donald-trump-appears-to-be-planning-a-return.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "News Media Seeing 'Post-Trump Slump' As Passions Cool"
+    excerpt: "The so-called \"Trump bump\" which boosted viewers and subscriptions at outlets such as CNN and the New York Times now appears to have turned into a slump following the departure of Donald Trump from the presidency. At CNN -- which was at loggerheads with ..."
+    publishedDateTime: 2021-03-24T01:15:00Z
+    webUrl: "https://www.ibtimes.com/news-media-seeing-post-trump-slump-passions-cool-3167936"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/23/some-news-outlets-like-cnn-have-seen-dramatic.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Ex-Trump Backer Wins Massachusetts House Special Election"
+    excerpt: "Democrat Jeffrey Turco, who voted for Donald Trump in 2016, won the low-turnout special election, according to unofficial results posted by the city of Revere. The district spans parts of Revere and Winthrop. Turco told the Boston Herald that he’d use ..."
+    publishedDateTime: 2021-03-31T21:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/massachusetts/articles/2021-03-31/ex-trump-backer-wins-massachusetts-house-special-election"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
 
 secured: "LhvpJv4ZgdOjrhVl5pUAjfHbrw0kEsV46K6a1YXKkOsmwP/lRp82ouBhEgOKMJRNYHWgLj0wA84RXE10NdTJ5+PMbzFNd+M9QEjuvStQAl60EDvmHy5w3lvgYJ89vE6VDS8GGvegN3yB2I0cIoVK6QVBpsdWqo5jhUJVwKhHnRV41wt0HYLVLaRIo1Mt9AWdikBRt0THj+2FPJoFMonjUCPJCA4fN/XqOrslGLqlR4TfIHvZgL7gDaHQc2+XvBTTPf2NoYXcabcQVil34QaXi/FHRwcinIaege+zRfOrur1IQOSwV+AAU7Lkxuo5p6kkX1gxczESmZuGtBWmN63yjvOOY5lPy4a74fu/xD1AQquLgnM0dgKimMF601BH6OHZRClJ12JnwmHtc37gIQkR0Odjvj7mYgyAzwFhXMVc1wet1Z+jkkPvmL5dPsfbeSi9nMv3pRDl1aNROKOc890W7wCNWZXQKYEpwP8p0bHOnw6W4T+fW4Ymsup16zucc2ufBGClGhcRdl15enEo4myePQ==;bavFPYJuPYP+doLtwdAVxw=="
 ---

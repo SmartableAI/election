@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-hed-strongly-support-mlb
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta.amp"
 type: article
 quality: 175
-heat: 175
+heat: 215
 published: true
 
 provider:
@@ -29,6 +29,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Crenshaw, Rubio slam Biden, MLB over Georgia boycott, ask if China will be next"
+    excerpt: "Republican Sen. Marco Rubio, R-Fla., and Rep. Dan Crenshaw, R-Texas, hit President Biden and Major League Baseball for the league's decision to boycott Georgia over its election law -- and asking if that hard stance will be extended to the Chinese Communist regime."
+    publishedDateTime: 2021-04-03T17:16:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ALFqQhMUo8/crenshaw-rubio-biden-mlb-georgia-boycott-china"
+    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-rubio-biden-mlb-georgia-boycott-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-rubio-biden-mlb-georgia-boycott-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12203dad-15f4-42e5-9f2f-cd88b2139cdf/cd09a844-6f4a-48cf-96bc-23def1df14d0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Georgia Gov. Kemp hits MLB, Biden after election law prompts All-Star move: Nothing more than 'political play'"
+    excerpt: "Georgia Gov. Brian Kemp on Saturday said the decision to pull the Major League Baseball All-Star Game over objections to changes to his state's voting laws was a \"political play.\" "
+    publishedDateTime: 2021-04-03T16:45:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hy2klk-B9pM/georgia-kemp-mlb-biden-election-law-all-star-move"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-kemp-mlb-biden-election-law-all-star-move.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-kemp-mlb-biden-election-law-all-star-move.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/KEMP-CROP-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "xTFh3zINLnZWSPMKPNo5sX8Acc5D7uJx1Yh4prgGYWCRrNvmaMnu6E4vqKhzZULdnimQNdW1xjJDIcTrMjc35E2mlsfRZZBXUoSHqhSjr+rTWDXJ1wCfpatL/epA3ghxSEsvkG9hRov2sXU6c8zD/K1u78TxDoMeq0eB42MQHnrM9+ZOLzwQd/24wE7XSpsX5Hp+hOJSZAdHtKWC5oVeu1W6j7nA8lCgHv2+NduhvecIqut0Cb8fUf7+wnMy14ahImudt+aLzPcHMj/xeB1VtJa7W2wgVscHbyzCwkAMyzAhBCZAmelulznV30km46VRW0Ge9PbT5uxORDy/ovCSrWcgTvuDxdWxq2VlsimS5fk=;KBHY34JUdKd2np+q4s712A=="
 ---

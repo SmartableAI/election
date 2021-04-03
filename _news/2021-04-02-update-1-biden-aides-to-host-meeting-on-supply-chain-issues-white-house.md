@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "2024 GOP White House hopefuls lead opposition to Biden Cabinet"
+    excerpt: "A slate of potential 2024 White House hopefuls are leading the opposition among Republican senators to President Biden Joe Biden Jobs report adds to Biden momentum White House says bills are ..."
+    publishedDateTime: 2021-04-03T15:21:00Z
+    webUrl: "https://thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet"
+    ampWebUrl: "https://thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/hawleyjosh_cruzted_cottontom_02262021_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Here's exactly how Biden's $2 trillion of infrastructure spending breaks down"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden is set to announce the first part of his two-part infrastructure package this afternoon. It's called the American Jobs Plan, and it will cost about $2 trillion. The package is focused on job creation, traditional ..."
     publishedDateTime: 2021-03-31T17:48:00Z

@@ -159,6 +159,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Does Joe Biden Believe He is The Next FDR or LBJ? And the Politics of Georgia's New Voting Laws"
+    excerpt: "A.B Stoddard joins the panel to discuss whether President Joe Biden really sees himself as a transformational president, and why that matters to his agenda. Also, a look at the reaction to the new voting laws in Georgia, including the President's support ..."
+    publishedDateTime: 2021-04-02T20:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/02/does_joe_biden_believe_he_is_the_next_fdr_or_lbj_and_the_politics_of_georgias_new_voting_laws.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 53
+    images:
+      - url: "https://assets.realclear.com/images/53/539562.jpg"
+        width: 336
+        height: 280
+        isCached: true
 
 secured: "ZsNfnWf6HfIVoOtsQhypucFu77hjrt4D/5/Zrzdenfv7IhZFqn5TxaL0sBEAEq6wHKXcucmSEhA6EEznGWP7eJN7fLvo8oQOeUABfHcOgRGSJ6U9mAVK7POJLWImyUU2V1qCjgGPUQUXorI2X6eBxNvACEDcWGB2m+0wMGAurmECPfi314O3rex2xQXkaolRw1WrCK+CLu8csTNn13GO/lT+oGQMV6Fd3XDawQ3WQUhK3kVVVbUI2HrWXlm4SGRma5E8EugE9BNDv+e6nNK0gC9alSr2YUKQh1LalRmSyG8JUh93LTFsDcgYKE2TfimNL+7DyNRipCZrS50kiX4gfww6dDeEAB1oaOPpXMi0PBk=;aoVB4914TD11dyQiw+v0Sw=="
 ---

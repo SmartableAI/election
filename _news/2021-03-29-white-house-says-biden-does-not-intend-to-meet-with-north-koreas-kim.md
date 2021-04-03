@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "2024 GOP White House hopefuls lead opposition to Biden Cabinet"
+    excerpt: "A slate of potential 2024 White House hopefuls are leading the opposition among Republican senators to President Biden Joe Biden Jobs report adds to Biden momentum White House says bills are ..."
+    publishedDateTime: 2021-04-03T15:21:00Z
+    webUrl: "https://thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet"
+    ampWebUrl: "https://thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/hawleyjosh_cruzted_cottontom_02262021_getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "UPDATE 1-Biden aides to host meeting on supply chain issues -White House"
     excerpt: "White House press secretary Jen Psaki said the meeting would be hosted by President Joe Biden’s national security adviser, Jake Sullivan, and a top economic aide, Brian Deese. The meeting will be held on April 12 and include chipmakers and automakers ..."

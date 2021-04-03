@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/04/03/trump-calls-for-boycott-of-mlb-coke-an
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/03/trump-calls-for-boycott-of-mlb-coke-and-delta-airlines/amp/"
 type: article
 quality: 130
-heat: -1
-published: false
+heat: 150
+published: true
 
 provider:
   name: New York Post
@@ -28,17 +28,17 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls for MLB boycott, warns 'woke' corporations after All-Star Game pullout"
+  - title: "Trump calls for MLB boycott, warns ‘woke’ corporations after All-Star Game pullout"
     excerpt: "Former President Donald Trump fired a high, hard fastball at Major League Baseball on Friday night, urging fans to boycott the \"national pastime\" over its decision to pull this year’s All-Star Game from the Atlanta area."
-    publishedDateTime: 2021-04-03T03:14:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWznfVogbfg/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout"
+    publishedDateTime: 2021-04-03T03:21:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout"
     ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 129
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/MLB-Trump-Red-Sox.jpg?ve=1&tl=1"
         width: 640

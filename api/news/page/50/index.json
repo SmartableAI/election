@@ -2,6 +2,114 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-01-14-live-impeachment-updates-gop-house-leader-trump-bears-responsibility-for-riot-but-impeachment-a-mistake.md",
+      "title": "Live impeachment updates: GOP House leader: Trump 'bears responsibility' for riot, but impeachment a 'mistake'",
+      "excerpt": "A vote to impeach will further divide the nation. A vote to impeach will further fan the flames of partisan division,\" Rep. Kevin McCarthy said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/13/USAT/364bda46-7631-4195-8825-20cfb2fad595-AP_Trump_Impeachment_2.jpg?auto=webp&crop=4121,2319,x0,y209&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6644827002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6644827002",
+      "publishedDateTime": "2021-01-13T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-trump-calls-on-americans-big-tech-to-help-ensure-peaceful-transition-no-violence.md",
+      "title": "Trump calls on Americans, Big Tech to help ensure peaceful transition: 'NO violence'",
+      "excerpt": "EXCLUSIVE: President Trump on Wednesday is calling for \"all Americans\" to help \"ease tensions and calm tempers,\" saying he does \"not\" stand for violence \"of any kind\" -- and he's asking Big Tech to join the effort.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tN2G7lwC_Bs/trump-statement-peaceful-transition-no-violence-exclusive",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tN2G7lwC_Bs/trump-statement-peaceful-transition-no-violence-exclusive",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp",
+      "publishedDateTime": "2021-01-13T10:26:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-squad-member-accuses-vp-of-cowardice-for-not-using-25th-amendment-to-remove-trump.md",
       "title": "'Squad' member accuses VP of 'cowardice' for not using 25th Amendment to remove Trump",
       "excerpt": "Rep. Ayanna Pressley, D-Mass., said Vice President Mike Pence's decision not to invoke the 25th Amendment to remove President Trump from office is a show of \"pure cowardice.\" ",
@@ -1268,111 +1376,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-inside-the-remarkable-rift-between-donald-trump-and-mike-pence.md",
-      "title": "Inside the remarkable rift between Donald Trump and Mike Pence",
-      "excerpt": "The rupture between the president and his No. 2 is a startling capstone to a relationship long defined by Pence’s loyalty and subservience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 6130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XNR7QFCRFQI6XA7DGITEJWBDKY.jpg&w=1440",
-          "width": 1440,
-          "height": 1004,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-12T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-is-fake-report.md",
-      "title": "Barack Obama Alleged 'Tweet' Mocking Donald Trump's Twitter Ban Is Fake: Report",
-      "excerpt": "A tweet allegedly made by former President Barack Obama that pokes fun at the permanent suspension of President Donald Trump's Twitter account is circulating on social media. However, reports confirme",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646",
-      "originalUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/10/exactly-four-years-ago-us-president-barack-obama.jpg",
-          "width": 1024,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646?amp=1",
-      "publishedDateTime": "2021-01-12T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-31-biden-officials-urge-states-to-buckle-down-amid-virus-resurgence-but-avoid-issuing-federal-guidance.md",
+      "title": "Biden officials urge states to 'buckle down' amid virus resurgence but avoid issuing federal guidance",
+      "excerpt": "Biden administration officials are increasingly urging governors and local officials to reinstate or avoid relaxing public health restrictions as coronavirus cases continue to rise and the US stares down the prospect of another surge.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oLpsm8IoqlA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oLpsm8IoqlA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210318215626-01-florida-spring-break-2021-miami-beach-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/31/politics/biden-coronavirus-guidance/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/biden-coronavirus-guidance/index.html",
+      "publishedDateTime": "2021-03-31T15:41:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-analysis-bumpy-road-ahead-for-bidens-infrastructure-plan.md",
+      "title": "Analysis: Bumpy road ahead for Biden's infrastructure plan",
+      "excerpt": "But Joe Biden believes he can use it to drive America to the future after a dozen years of false starts. The trip is unlikely to be smooth. Biden's $2.3 trillion infrastructure package ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_321a78dd44454ce7b60608ca3d71101e_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947",
+      "publishedDateTime": "2021-03-31T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-gaetz-runs-the-trump-playbook-for-scandal-keep-talking-and-talking.md",
       "title": "Gaetz runs the Trump playbook for scandal: Keep talking, and talking",
       "excerpt": "One thing the former president proved is that unless you're Donald Trump and sit in the White House, his strategy doesn't work as well.",
@@ -532,58 +640,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-2-us-capitol-police-officers-sue-trump-over-january-6-assault.md",
-      "title": "2 U.S. Capitol Police officers sue Trump over January 6 assault",
-      "excerpt": "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/",
-      "originalUrl": "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/31/34ce156b-e05d-4c89-9c44-357ee445df67/thumbnail/1200x630/fc37e7ded2812eec9cbc2bb9a2a11390/gettyimages-1230457837.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/",
-      "publishedDateTime": "2021-03-31T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-31-mike-pences-fame-is-both-his-2024-gift-and-curse.md",
       "title": "Mike Pence's Fame Is Both His 2024 Gift and Curse",
       "excerpt": "Former Vice President Mike Pence's fame has its benefits should he choose to pursue any presidential ambitions. But it also comes with downsides. Pence has long been touted as a potential 2024 candidate and after a period of quiet, he looks to be ...",
@@ -894,6 +950,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-two-capitol-police-officers-sue-trump-for-physical-and-emotional-injuries-suffered-in-riots.md",
+      "title": "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots",
+      "excerpt": "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
+      "publishedDateTime": "2021-03-30T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1209,118 +1317,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-bidens-border-response-blasted-as-half-a-ed-gig-by-texas-congressman.md",
-      "title": "Biden's border response blasted as 'half-a--ed gig' by Texas congressman",
-      "excerpt": "The Texas Republican then unloaded on the president for his border response, saying the country must “stand firm” on border policies and deportations “or we have no borders in this country.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ea87a8c-9e36-48dc-964c-90e65df5002c/f59f4da5-1c73-4ecf-9d66-81afd1c94004/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp",
-      "publishedDateTime": "2021-03-30T12:55:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-john-durham-is-looking-at-fbis-launch-of-trump-campaign-probe-sources-say.md",
-      "title": "John Durham is looking at FBI's launch of Trump campaign probe, sources say",
-      "excerpt": "After two years of searching for problems with the investigation into Donald Trump's campaign advisers in 2016 and their ties to Russia, federal prosecutor John Durham hasn't found wrongdoing by Obama-era intelligence officials involved who were outside of the FBI.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSmraMXTWOs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSmraMXTWOs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190514172200-us-attorney-john-durham-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html",
-      "publishedDateTime": "2021-03-30T12:47:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

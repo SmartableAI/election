@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-29-fauci-says-bidens-push-to-reopen-schools-in-100-days-may-not-happen.md",
+      "title": "Fauci says Biden's push to reopen schools in 100 days 'may not happen'",
+      "excerpt": "Dr. Anthony Fauci, the nation's leading infectious disease expert, cautioned Thursday that President Joe Biden's push to reopen most schools within 100 days \"may not happen\" as the US continues to grapple with high Covid-19 transmission.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dXJvEDuyIMg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dXJvEDuyIMg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121183810-03-white-house-covid-presser-0121-fauci-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/28/politics/fauci-biden-schools-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/fauci-biden-schools-coronavirus/index.html",
+      "publishedDateTime": "2021-01-28T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-matt-gaetz-to-rally-trump-faithful-to-boost-maga-backlash-in-liz-cheneys-backyard.md",
       "title": "Matt Gaetz to rally Trump faithful to boost MAGA backlash in Liz Cheney's backyard",
       "excerpt": "Republican Rep. Matt Gaetz of Florida will rally the Trump faithful in Wyoming on Thursday, hoping to bring a MAGA backlash to GOP Rep. Liz Cheney's backyard after she voted to impeach the former President for his role in inciting the riot at the Capitol.\n    \n",
@@ -1633,62 +1689,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-melania-trump-outsourced-writing-her-own-thank-you-notes-to-white-house-residence-staff.md",
-      "title": "Melania Trump outsourced writing her own 'thank you' notes to White House residence staff",
-      "excerpt": "First lady Melania Trump did not write her own \"thank you\" notes to the White House residence staff who have cared for her and her family for the last four years, according to two sources with knowledge of the notes and Trump's handling of them.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/41uLoHDN-ws/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/41uLoHDN-ws/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210117140135-file-melania-trump-november-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/20/politics/melania-trump-thank-you-notes/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/melania-trump-thank-you-notes/index.html",
-      "publishedDateTime": "2021-01-20T04:15:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-th
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
 type: article
 quality: 125
-heat: 265
+heat: 305
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "10 Things in Politics: Trump sees legal danger ahead"
+    excerpt: "THEY MAY STILL SEE HIM IN COURT: Former President Donald Trump doesn't think he's out of the woods yet. His advisors tell him that's he's unlikely to face legal repercussions over the deadly Capitol Riot, but they are increasingly worried about prosecutors ..."
+    publishedDateTime: 2021-04-02T11:14:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/604a96919942cf001865dec9?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Rolling back a rollback: Buttigieg deletes some Trump-era limits on regulation"
     excerpt: "Transportation Secretary Pete Buttigieg moved Wednesday to undo key deregulatory actions by the Trump administration, an overhaul that department officials said was necessary to address challenges that include climate change, racial injustices, the ..."
     publishedDateTime: 2021-03-24T23:46:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IFSSTYTH3II6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 1086
+        isCached: true
+  - title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
+    excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
+    publishedDateTime: 2021-03-31T17:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/International/trump-jan6-gty-rc-210305_1614953461904_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "In 2016, Trump activated low-turnout Whites. In 2020, he may have done the same with Latinos."
     excerpt: "Florida was one of the first states to report results, and the numbers in heavily Hispanic Miami-Dade County, which Hillary Clinton won by nearly 30 points in 2016, showed Joe Biden leading Donald Trump by a much narrower margin. The shift held ..."
