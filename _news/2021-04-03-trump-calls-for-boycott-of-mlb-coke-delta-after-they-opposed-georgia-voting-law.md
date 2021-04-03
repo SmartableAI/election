@@ -28,7 +28,7 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls for MLB boycott, warns ‘woke’ corporations after All-Star Game pullout"
+  - title: "Trump calls for MLB boycott, warns 'woke' corporations after All-Star Game pullout"
     excerpt: "Former President Donald Trump fired a high, hard fastball at Major League Baseball on Friday night, urging fans to boycott the \"national pastime\" over its decision to pull this year’s All-Star Game from the Atlanta area."
     publishedDateTime: 2021-04-03T03:14:47Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWznfVogbfg/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout"

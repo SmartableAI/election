@@ -1242,6 +1242,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Joe Biden Makes Remarks on A Good Jobs Report"
+    excerpt: "U.S. President Joe Biden and first lady Jill Biden walk from the White House in Washington before their departure to Camp David for Easter weekend on Friday, April 2, 2021. The economy added a robust 916,"
+    publishedDateTime: 2021-04-02T16:37:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/265af8b929ae68841dd7f2e2814f1991/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/265af8b929ae68841dd7f2e2814f1991/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "U.S. President Joe Biden Delivers Remarks on the State of the Covid-19 Vaccine"
     excerpt: "U.S. President Joe Biden delivers remarks on the state of the Covid-19 vaccine in the South Court Auditorium of the White House in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI Sign up for our daily newsletter"
     publishedDateTime: 2021-03-29T19:47:00Z

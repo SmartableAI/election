@@ -1,6 +1,6 @@
 ---
 category: news
-title: "Trump calls for MLB boycott, warns ‘woke’ corporations after All-Star Game pullout"
+title: "Trump calls for MLB boycott, warns 'woke' corporations after All-Star Game pullout"
 excerpt: "Former President Donald Trump fired a high, hard fastball at Major League Baseball on Friday night, urging fans to boycott the \"national pastime\" over its decision to pull this year’s All-Star Game from the Atlanta area."
 publishedDateTime: 2021-04-03T03:14:47Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWznfVogbfg/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout"
@@ -48,6 +48,6 @@ related:
         height: 800
         isCached: true
 
-secured: "t6jq6dl/fUNHU4qXiJpe/T7nqKU+wa97II41GGDZRNCEx9jmDXBELemk2eB0jmfJBdDfccnojMi9TkCFJtxZ5JVGFDqXl8Bp1KxUdh4zmVIVfxmgugsv+MQFx6cgDdkvIN7iLN+Obd6RoG7uwIXDosnJu8KDB/5DwiJcPj+r01/Q7Y7Sb/Ju4CmgIpkEQWdobKsLd0Ku7VYyDCHlNHxLzwsU7Gv3N421fPViXT4Yq+Eel5k7AhJ7U+Wm2bPR8T1vrtORt1+Est4lmigxrpn95+h/m1/F0NfpoQFwXa+uTyL479hWn9Nfz/enjfRC1cib8VrGIXXLsaoXYq/zXjKXC3ksqOC6XibyrrQtgldh5QQ=;Dl9Bjai9TkBNtzowjVO72g=="
+secured: "lvGp9QDHY9+60aqmjXXsGtgSO05ftH1O5cAX4t6VZRdiKhpitwTK3IUB27D77Siqldg2Oagj9AIYMZptWPebT4VG0EjoG9fxUctXKS/6eyFjsN3u+h/upfV+JN3/WTnqWD0CzC6PXj3TNzDqoBowzZqMVa3bIYIVOFo2TtEdcmpyUCng2DZXTlA1UnyZUyyIqtGPReHCJEJJ1RWkdo54M4JsnmKr+Nd8CMTwZH+iwd/7uKu3ADjNVoSuKlUexNKx2XbGy6rDXefpBp/zXeVKgn9ouiHsppjBxCFoiEy+bYxGHnKcS+1ul8UWWYBQ+NZlmHu+kNslXV1ey9kNDX6uXB73RZlpGE1k/W+l7TSgS60=;a1Ba7VSl3vsC4ZDS5+sAEQ=="
 ---
 

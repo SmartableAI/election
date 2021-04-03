@@ -1,33 +1,27 @@
 ---
 category: news
-title: "U.S. senators want Biden to speed sanctions over Nord Stream 2 pipeline"
-excerpt: "Two senior U.S. Senate Democrats urged President Joe Biden's administration on Tuesday to make a full diplomatic push to stop the Nord Stream 2 natural gas pipeline from Russia to Europe, increasing pressure on the issue from members of his party."
-publishedDateTime: 2021-03-23T21:53:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-nord-stream-2-senate-idUKKBN2BF2JI"
-webUrl: "https://www.reuters.com/article/us-usa-nord-stream-2-senate-idUKKBN2BF2JI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BF2JI"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BF2JI"
+title: "Joe Biden Makes Remarks on A Good Jobs Report"
+excerpt: "U.S. President Joe Biden and first lady Jill Biden walk from the White House in Washington before their departure to Camp David for Easter weekend on Friday, April 2, 2021. The economy added a robust 916,"
+publishedDateTime: 2021-04-02T16:37:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/265af8b929ae68841dd7f2e2814f1991/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/265af8b929ae68841dd7f2e2814f1991/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555933167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1DU"
-    width: 806
-    height: 545
+  - url: "https://cdnph.upi.com/pv/upi/265af8b929ae68841dd7f2e2814f1991/BIDEN-JOBS.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -222,6 +216,22 @@ related:
       - url: "https://thehill.com/sites/default/files/newsletter-open_032421getty.jpg"
         width: 580
         height: 386
+        isCached: true
+  - title: "U.S. senators want Biden to speed sanctions over Nord Stream 2 pipeline"
+    excerpt: "Two senior U.S. Senate Democrats urged President Joe Biden's administration on Tuesday to make a full diplomatic push to stop the Nord Stream 2 natural gas pipeline from Russia to Europe, increasing pressure on the issue from members of his party."
+    publishedDateTime: 2021-03-23T21:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-nord-stream-2-senate-idUKKBN2BF2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BF2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BF2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555933167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1DU"
+        width: 806
+        height: 545
         isCached: true
   - title: "Biden readies for 1st news conference, White House tradition"
     excerpt: "I hope that doesn’t prove to be a disturbing influence.” It was the first presidential news conference captured for broadcast by television. In the scratchy black and white of 1955 TV sets, Americans saw those trademark Ike grins and heard him beef about being asked a “loaded question."
@@ -1232,20 +1242,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
-  - title: "Joe Biden Makes Remarks on A Good Jobs Report"
-    excerpt: "U.S. President Joe Biden and first lady Jill Biden walk from the White House in Washington before their departure to Camp David for Easter weekend on Friday, April 2, 2021. The economy added a robust 916,"
-    publishedDateTime: 2021-04-02T16:37:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/265af8b929ae68841dd7f2e2814f1991/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/265af8b929ae68841dd7f2e2814f1991/BIDEN-JOBS.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "President Joe Biden signs the PPP Extension Act of 2021 at the White House"
     excerpt: "President Joe Biden signs the PPP Extension Act of 2021 into law in the Oval Office with Vice President Kamala Harris, left and SBA Administrator Isabel Guzman, right, looking on, at the White House in Washington, DC on Tuesday, March, 30 2021. Pool Photo ..."
     publishedDateTime: 2021-03-30T21:08:00Z
@@ -1289,6 +1285,6 @@ related:
         height: 604
         isCached: true
 
-secured: "LZRZBW448W3LqXzzaJ/ognbTh6vE9IsIOldtDd0yDG89EHpLU3pf4VjolNx7CwTfCrv4g7cGu1OUIk6EiALVDK51WZS1gJBK360zVcyjH11m7openCVB7vaEPLTqlCGCTHAgjUlAEM+dBIi2OPRpVngxIE20YxjzTEBDatZmQNJs32kFf1Q85bAmykLtbBdyWYPeT5SM0zTemkV3BROEwv4FyTqC9a0Qog0a8HGpqNG15maVpP6NvZ4hC2xaojy2qaJdqagBamhlCdnl+3lqetBYS70et6JBohc4hEy7bfGZVz5SLc/n23fUswzzGHO0/AtGPnpi2BqSUCbJGjpFw5UQ7EBD5fx4x9NREo2qdLIj135pTouDZ/jTymbS4r8ZSL0Lu6Xsh5vDBCkuuhhSgkdbbBW0COgOrF+7qlJXraBfIgZeejByn1nBAC6tfSiX8UvGVP0BtRw8fc6ekuVaXVRLYA8sRAdCoeExYZcRPXqEkXtfcevQ8bnE4vmyBMOeltYwMXvo73R3VQwgmzbosw==;/aoQ8b+Js1v2IPWds0Z+sQ=="
+secured: "2sHeF+b+GO7qDMH8qJJL29VJi+taEP89o2lfZu0wkjehjwx117KLg6CRVjoO5I36751PVJz6B+TmpIZxK8PsTgxg7UfgNhc0XRv4lQuJWKxxU5d6LgEHNR60o0RzWdWct8C4D+qBCrTsG4ufw1FeJ+7/7FecDzMXQDLX3chADT/LniGVZIf2ujpfQYutLRvmbkxMXVCAzYLrAEy/eNMrnJD4SVPt3CnpqiXcbVG0ryGlIG10T8G9i8SV2PzJAqckf9trBndN8mbYIiXa0FElkkaG0WYd1L6sll0nQk/VVkpxA7k4Uqd4aky//TTbnt6Sg/1rLD27EmdPbmKLRR4TpA2Zn/E7c3+iVVQy3qdaTb0=;CYvCuAs8Hfi5pUxZwO896Q=="
 ---
 

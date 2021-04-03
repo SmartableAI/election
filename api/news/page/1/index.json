@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-03-bidens-quest-to-pass-a-multitrillion-dollar-spending-bill-could-be-imperiled-by-legislative-fatigue.md",
+      "title": "Biden's quest to pass a multitrillion-dollar spending bill could be imperiled by 'legislative fatigue'",
+      "excerpt": "President Biden and Congressional Democrats are prepping trillions of dollars in new spending.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sTZ2qcybLXw/bidens-quest-multitrillion-spending-bill-legislative-fatigue",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sTZ2qcybLXw/bidens-quest-multitrillion-spending-bill-legislative-fatigue",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-quest-multitrillion-spending-bill-legislative-fatigue.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-quest-multitrillion-spending-bill-legislative-fatigue.amp",
+      "publishedDateTime": "2021-04-03T07:13:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-biden-reversing-trump-policy-quietly-ramping-up-palestinian-aid.md",
       "title": "Biden reversing Trump policy, quietly ramping up Palestinian aid",
       "excerpt": "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy.",
@@ -111,7 +167,7 @@
     },
     {
       "path": "_news/2021-04-03-trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout.md",
-      "title": "Trump calls for MLB boycott, warns ‘woke’ corporations after All-Star Game pullout",
+      "title": "Trump calls for MLB boycott, warns 'woke' corporations after All-Star Game pullout",
       "excerpt": "Former President Donald Trump fired a high, hard fastball at Major League Baseball on Friday night, urging fans to boycott the \"national pastime\" over its decision to pull this year’s All-Star Game from the Atlanta area.",
       "sourceUrl": null,
       "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWznfVogbfg/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout",
@@ -1302,58 +1358,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-suicides-fell-by-2600-in-2020-despite-donald-trumps-lockdown-warnings.md",
-      "title": "Suicides Fell by 2,600 in 2020, Despite Donald Trump's Lockdown Warnings",
-      "excerpt": "Suicides dropped in 2020 amid the COVID-19 pandemic despite former President Donald Trump warning that lockdowns would inspire \"suicides by the thousands\" and cause deaths \"in far greater numbers than the numbers that we're talking about with regard to the virus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585",
-      "originalUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1769526/covid-19-lockdowns-suicide-rate-donald-trump.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585?amp=1",
-      "publishedDateTime": "2021-04-01T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

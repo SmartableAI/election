@@ -1242,6 +1242,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Joe Biden Makes Remarks on A Good Jobs Report"
+    excerpt: "U.S. President Joe Biden and first lady Jill Biden walk from the White House in Washington before their departure to Camp David for Easter weekend on Friday, April 2, 2021. The economy added a robust 916,"
+    publishedDateTime: 2021-04-02T16:37:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/265af8b929ae68841dd7f2e2814f1991/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/265af8b929ae68841dd7f2e2814f1991/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden signs the PPP Extension Act of 2021 at the White House"
     excerpt: "President Joe Biden signs the PPP Extension Act of 2021 into law in the Oval Office with Vice President Kamala Harris, left and SBA Administrator Isabel Guzman, right, looking on, at the White House in Washington, DC on Tuesday, March, 30 2021. Pool Photo ..."
     publishedDateTime: 2021-03-30T21:08:00Z

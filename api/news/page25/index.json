@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-02-22-trump-wants-us-to-make-it-wild-six-more-oath-keepers-associates-charged-in-capitol-riot-conspiracy-case.md",
+      "title": "Trump 'wants us to make it WILD': Six more Oath Keepers' associates charged in Capitol riot conspiracy case",
+      "excerpt": "Six people, including two husband-and-wife pairs, were added to a federal conspiracy case Friday for alleged coordinated efforts in the Capitol attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/19/6-more-oath-keepers-associates-charged-capitol-riot-conspiracy-case/4512038001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/19/6-more-oath-keepers-associates-charged-capitol-riot-conspiracy-case/4512038001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/19/USAT/bede0245-a240-401f-a4ad-9fb1ba8ed9af-XXX__JC31911.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4512038001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4512038001",
+      "publishedDateTime": "2021-02-22T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-biden-to-mark-covid-death-milestone-with-candle-ceremony-at-white-house-live-updates.md",
       "title": "Biden to mark Covid death milestone with candle ceremony at White House – live updates",
       "excerpt": "President will address nation this evening on the American lives lost to the pandemic",
@@ -1291,62 +1343,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-biden-says-he-is-planning-on-visiting-texas-amid-weather-crisis.md",
-      "title": "Biden says he is planning on visiting Texas amid weather crisis",
-      "excerpt": "President Biden on Friday said he is planning to visit Texas as the state grapples with a weather crisis that has left hundreds of thousands of residents without power, prompting him to declare an emergency declaration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
-      "publishedDateTime": "2021-02-19T09:51:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
