@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump Steered Supporters Into Unwitting Donations"
+    excerpt: "Demands for refunds spiked. Complaints to banks and credit card companies soared. But the money helped keep Donald Trump’s struggling campaign afloat. Recurring donations swelled former President Donald J. Trump’s campaign coffers in September and ..."
+    publishedDateTime: 2021-04-03T20:28:00Z
+    webUrl: "https://www.nytimes.com/2021/04/03/us/politics/trump-donations.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/03/us/politics/trump-donations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/03/us/politics/trump-donations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/01/us/politics/00donations1/merlin_179465994_5a708364-8923-4b31-9068-df4d5c86e084-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "7Zpx2qc+csup5pxjOC9dr/KQAq2TDxclVvn5E7XQf7ihqq4wePLwUvwHjYhz5/rG5W2q/C9WVxHokbUWGw5Zu7WbTNThN75xnkjDj4IemNbPn3txof04jCAEoiglka1BZ9sUlTTu1zkgsHcwQ93dp5onIAalmXTnhBrmOdWtGXYhUTYcuk3hL+GLfdfp/OR55aiTYOXEbNjIKjBGVXOPeZdEeNeTuX62y4EtXjs7DeiacglYQtzGPrVVkRRP+f4Qj8VfE+fYcn/GlyabANHen7WaNZuaxI+bkAlOpQXGW5+mY24k2t5L7fLZsJ/o4Bt0K4QJPn9t/NrtAOv8zTs+KDEGnKJB8QRcHxXxwuI4Y5I=;3W5bq+mcdi2OIqje6RF6cA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-rampin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -189,7 +189,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden's Bait-and-Switch Presidency"
+    excerpt: "Joe Biden was elected as a moderate-left Democrat, but he is not governing as one. He pledged repeatedly to work across party lines, but he is ramming through the biggest, most expensive progressive agenda in American history without any Republican votes."
+    publishedDateTime: 2021-04-01T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_bidens_bait-and-switch_presidency_539483.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539407_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "Pn2TeEQ1CBz2t/vKCNPGhZtuGX72PJCaBuWFKyAfinYF2r/t7pQMIcz3pDYD3ajhxo876vN9qX5hSQDcwm/cABIkUv4BrTXsGY9PkwrTSnAEjyKvKHWMD8z5hPFVGOoOddxHZqRO+03nDXR5ChamAnghPgjzmvJUFhjrNBkdz4ZjwoqZRK2LJMjwGXl/4/WUDSgfghe1Qd0VGhtfbyUDcj0WXkZqUTEAtsGg2xQxI77bBsdTqQlc2yP9tVkmKwzMecMvbIXJ/fEhh0tLlt6huzOZ2JX/MT9+KwJY/Gjvyp3cHSvJ0EPSDG8VyAV7XxJ/fYS1SXSzSrJZegjAsDDNVCuCnRptV+T2IAFCFmsx928=;YpNxYIt2P2gtFbNwuynqjA=="
+secured: "mOAcPiUhkzErNrCCGvVB/9ojZ0hPEmrXbRExvfRj1ATqCOR+KKAWwyb572q6DQpHPLzE8gDpfQpOlK2LGNgjLJ9Mit7GiMaY6t6XbPGY/9/hpcTael6XgYXgl1bw8zTeO3KFGYmnlRUqQeFKBiwgaNQ6RndZnkVJxsuhWm/wcVxJ+m1kDhRhlwucVLA+jsD4gjt0UzsU1a2hXkDd3mHmT85mLTr5yHhis/BS0xyWSIjRPa/x+Bo9GKaATcNZBwPZWJt9Dowa24mHTT70PqVJ3FTM+S4ipFlGAUsKrBN1pOyT5MMevQKelBpvWpKXo5Dqc2+Jf+XAHO6SD8goCJNRstDBvslNNbnl+rCLUTbFmqU=;xMvpuGlNOBERCoMos1Q8eg=="
 ---
 

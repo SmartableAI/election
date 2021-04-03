@@ -189,6 +189,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden's Bait-and-Switch Presidency"
+    excerpt: "Joe Biden was elected as a moderate-left Democrat, but he is not governing as one. He pledged repeatedly to work across party lines, but he is ramming through the biggest, most expensive progressive agenda in American history without any Republican votes."
+    publishedDateTime: 2021-04-01T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_bidens_bait-and-switch_presidency_539483.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539407_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "14c0XQ9xeBD/PXm7SQd9tCk9oTTzkqGluNqbEHvySnN9AByOoh246z5WffOCgbszfCp5UXdsOQc12jfM0C77bvypkfTdebAkpxsCOMYyQjg5Vl4Cx07MMOo0RcILNzv9GO52+L+WJkKSfc1rl5Dg21uzjPtdk1MSXyxd0A5cgQ8sFP5HOx9PEXLs4cC7V7OLy2/cct5bJ7vSACRdtietsNYrys4NRhWvZpvLAFB3vc/GCZr2Q4/TDNE73Sn3WMY9c2lIwhini61PMEofMVaJ7RpdvTc479Vn07CXyTTprWE1Xn9xLV6Bbqb6tQPNCDqzqjtlEIT8E4fq1om7TgPThEFq5mFRO2V2syJIbWKndTQ=;fOoW06bvnjNgRaEkhTI6lg=="
 ---

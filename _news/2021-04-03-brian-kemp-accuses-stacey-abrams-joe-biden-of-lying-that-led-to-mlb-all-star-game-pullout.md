@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885?amp=1"
 type: article
 quality: 115
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/9f6f5b55-21ac-4590-bd74-7f1541104454-AP_Biden.jpg?auto=webp&crop=4886,2748,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Joe Biden says he would 'strong support' moving the MLB All-Star Game out of Atlanta"
+    excerpt: "In an interview on ESPN's \"SportsCenter\" on Wednesday night, President Joe Biden said that he would \"strongly support\" moving the 2021 MLB All-Star Game out of Atlanta. That was in response to a question about Major League Baseball Players Association ..."
+    publishedDateTime: 2021-04-01T03:59:00Z
+    webUrl: "https://www.indystar.com/story/sports/mlb/2021/03/31/joe-biden-would-support-moving-atlanta-mlb-all-star-game/4831725001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4831725001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4831725001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 63
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/9f6f5b55-21ac-4590-bd74-7f1541104454-AP_Biden.jpg?auto=webp&crop=4886,2748,x0,y0&format=pjpg&width=1200"
         width: 1200

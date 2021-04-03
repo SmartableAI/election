@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/03/politics/obama-trump-mlb-all-star
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/03/politics/obama-trump-mlb-all-star-game-georgia-voting-law/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "See difference between Obama's and Trump's statements on MLB decision"
+    excerpt: "Former Presidents Barack Obama and Donald Trump weigh in on Major League Baseball's decision to move its All-Star Game out of Atlanta in response to Georgia's new sweeping election law that imposes significant new obstacles to voting."
+    publishedDateTime: 2021-04-03T17:12:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/03/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/03/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/03/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
-secured: "o1g46Vr5oNEhIKbHOJYwZJHgJswHMuwnPVRuL9JsQzvvo9BrmTRVgMRD4QFnHV+puKpSCFWxjR7g+Mm9Slu8BJ91fkkrjYjm4srr7CX11kDQ5Me+BayOWuuD7y/SWY78OrXPjdTHr3BrnXBCpDksM3hWe+GlaVdtoPsDKPQtyNSCJzE55DKM1ZYBi+3O30XtQPcmmjH6ipbynvwbV2GIgt/zl//kAmB59dNDdx+SUWNTdGPmKKuXcGicsSzLmFp3yTukh6/61yzrJtlqQaMTXcnDlMTMsScXcbYFNXrSndYcgaU/DwTyqbIZ/FzSHviSydMVykXQWKTfpcB8rt9RVHN0/npW7xPRRXBOPXNOSto=;jQa0pKGxb6iRlU9Ww9xdJg=="
+secured: "P6bqjtQyL2xXv79tZ3fWAqJRfBsfAxRiiMAlZyk8KMJsRqcmGXZpOGBZV91LXa55MrVsSl2pgzHtoaeaWhvBaJSWhAiC3YQxocPc813Qlf8UJzFZm3guhnaIOYaautjVLzCvAtKMg5jaZpzBgnKR7hz0lRYjQT7gPr5P0QsphZjfCsLGXex5PiaMh2yDnIzM3lrnmACe2qJ2HtkoiEWTpdWwWf4CvrOHGjRxHL0fhM6RY6fS2W4zaKupm/LKW9XTrha+oIeKVCmxdArtFqHZDBsMnbHsYfhsj7sFP5WK/e3KSjL8vHkr0icQ9rwEAZRLATdt3FwFYiMhhiVHbafyBp0yjhG0ZmD5e+B6q3J2p10=;9ua8KkEIsDdocljpF6K4YQ=="
 ---
 

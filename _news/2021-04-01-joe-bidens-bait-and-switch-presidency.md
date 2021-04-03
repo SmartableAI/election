@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Reversing Trump, Pentagon to release new transgender policy"
-excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that the government wouldn’t accept or allow transgender ..."
-publishedDateTime: 2021-03-31T18:41:00Z
-originalUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy"
-webUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy"
-ampWebUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
+title: "Joe Biden's Bait-and-Switch Presidency"
+excerpt: "Joe Biden was elected as a moderate-left Democrat, but he is not governing as one. He pledged repeatedly to work across party lines, but he is ramming through the biggest, most expensive progressive agenda in American history without any Republican votes."
+publishedDateTime: 2021-04-01T00:00:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/04/01/joe_bidens_bait-and-switch_presidency_539483.html"
+webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_bidens_bait-and-switch_presidency_539483.html"
 type: article
-quality: 135
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/military-battlefield.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://assets.realclear.com/images/53/539407_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -174,6 +168,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Reversing Trump, Pentagon to release new transgender policy"
+    excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that the government wouldn’t accept or allow transgender ..."
+    publishedDateTime: 2021-03-31T18:41:00Z
+    webUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy"
+    ampWebUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/military-battlefield.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pentagon to allow open transgender military service, reversing Trump policy"
     excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
     publishedDateTime: 2021-03-31T20:50:00Z
@@ -190,21 +200,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden's Bait-and-Switch Presidency"
-    excerpt: "Joe Biden was elected as a moderate-left Democrat, but he is not governing as one. He pledged repeatedly to work across party lines, but he is ramming through the biggest, most expensive progressive agenda in American history without any Republican votes."
-    publishedDateTime: 2021-04-01T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_bidens_bait-and-switch_presidency_539483.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539407_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "CPHaWXVy4HH15o75qdVM8i17vHwOphuT3M6ywp0ec5UM/j5lmHWX26OkA0R19JM0TAEw9QTv8vf15+OpdXSLEexLja/Z4+HVhW5Vw3lcpbRGIN/hwdlcRj5hBcOCY/irq51nMsCHu15gxFFZFHVq3nBHsRI8gIcU+U0c1Ib26U2LRZ9RonMfIwhC+1qdXBcEDmXionvKVlXNOTUQZ0z8+PPwSJSPpEcrbw+/SqMjdcTRpRS2vWOV8xsJ/iw4Wivr7wDCbiCd0S0ekPp9wPdi06DDvCBk4kAVNRByN+Gi/NZzbTM01k+u3HHeQXtp4r3sYmYndtArYbvtAAvzgId2QgZe+3tW8l5DeT7v6SITVjNfct+/8nMZmwk74OVRe3BMXm9zEuNYpcQ41AcPT32gasetWxVKceOVc1Rtgfk8EmUJdqBSH1yGWV/+oyvokZfqYYq9CJoMLPeMq8BPjUqkp10HnQfpteY19zXVZZZ9UjaK8Wva7TxqIvh0l+UelWQbGcb0D04gHzBVSDJZqcL3Pw==;IhbYNg8Ble5VP2iTMM/dFA=="
+secured: "YbBlHdSifUZ6FUTeJXrkcQQ5YsOtERQ7I7ibNrLvxDpqJooA0h92OSZCshVrNl45PrdVmBm4J6cqazJSlC4joNlTsaK1oEwDLvqYE05kFqEE2zN+VIOAWwr7mF5VzFX66XyHUkcuVKGtk94jhnWZ6XTv0YoL6KDCSyOCP20LKyEJMumOMauDntYukZZaZq89d5eDGx+6cUChWBTNYhdJ7/DoU6NOzwdTZJ3M/A7DN/zmJBUuNoiIXy9r8eerJVab1Kd83GqudZfblysmB0ArZ+4evL3rm8CNDKUJHQwR1FSRG2MLWt4Pn05R6VylSYqBakCDVg+D3d91jSTblgaGVsvINof2RMqX8R9hf1cYj64=;WX59CRmWW9FSUH7B8+bHtg=="
 ---
 

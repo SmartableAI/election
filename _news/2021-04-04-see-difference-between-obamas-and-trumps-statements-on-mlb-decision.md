@@ -1,14 +1,14 @@
 ---
 category: news
 title: "See difference between Obama's and Trump's statements on MLB decision"
-excerpt: "Former Presidents Barack Obama and Donald Trump weigh in on Major League Baseball's decision to move its All-Star Game out of Atlanta in response to Georgia's new sweeping election law that imposes significant new obstacles to voting.\n    \n"
-publishedDateTime: 2021-04-03T17:13:44Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MOGyXAlgA9s/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MOGyXAlgA9s/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
+excerpt: "Former Presidents Barack Obama and Donald Trump weigh in on Major League Baseball's decision to move its All-Star Game out of Atlanta in response to Georgia's new sweeping election law that imposes significant new obstacles to voting."
+publishedDateTime: 2021-04-03T17:12:00Z
+originalUrl: "https://www.cnn.com/videos/politics/2021/04/03/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
+webUrl: "https://www.cnn.com/videos/politics/2021/04/03/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
 ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/03/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/03/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -48,22 +49,22 @@ related:
         height: 619
         isCached: true
   - title: "See difference between Obama's and Trump's statements on MLB decision"
-    excerpt: "Former Presidents Barack Obama and Donald Trump weigh in on Major League Baseball's decision to move its All-Star Game out of Atlanta in response to Georgia's new sweeping election law that imposes significant new obstacles to voting."
-    publishedDateTime: 2021-04-03T17:12:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/03/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
+    excerpt: "Former Presidents Barack Obama and Donald Trump weigh in on Major League Baseball's decision to move its All-Star Game out of Atlanta in response to Georgia's new sweeping election law that imposes significant new obstacles to voting.\n    \n"
+    publishedDateTime: 2021-04-03T17:13:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MOGyXAlgA9s/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
     ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/03/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/03/obama-and-trump-statements-on-mlb-moving-all-star-game-from-georgia-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
 
-secured: "FJgeRjvHuahFjOoraAzhN7zbnfHzetCPh5pbvvY5W0+Hw5eMAO+TAyEeUBUdjM3TuuHGyehcsk+SBGAlpgSWrLwx4ksErB/ckenxYTpaiNk3oGVjTI2KRA8d3p+0e2HkNu7PdniiDU1b+lzm5tVuYJlafZ2Nak6+ejxSyxxYdvtXw1/ni2EUkiETZIORdC0+BfQ6Dq1VBdKKRubhh2UY+6pZgqa9srFsSc7SeVmfnmHD4a6mAZE6goPtEj27yHJyiSnZHnr1s49Ta67C970XLuG6Rg5DOTyjneDQy3Ffd5UOoUWJTvvi+1Sq2jN/mtxyVeB2DrK//+dfrc8w6UVJVt9GDHlhm2CDMHVj/gP+XzI=;f+8tvwULBSXr3w5cTSUUkQ=="
+secured: "62eYnJ5RE+zy4Hgra0ysrKsSjuIRKfma4CPFo5skr6qpXr3Qvi9E0xsnhivO6HqEhl6C7Rk0VQRmhH/2inzGMkxptVWPj47k2kfiOLam8N1zl35Sxipip1nri/YGHy2P0IobcrKc+ICbg4olyNaJdYoNPsE7X/4rhpLMIrTz5Nyhr/Dp4FN1YnE6ZyJOgC8UucKoaloP4AAZCNiI9gdollUlX1+uqzWr74TEPy2tcl+KcAFepZ9DMS/vmUDl5D6rlN4Hvjidwd2XXpVk9F1GwKOkiZzklPOezgMDDc5nxN/JSzKqV5SBkvj3kZOgR29tq0pUo5jUl2gfQykeN7Lt+eurebh9cqf8qIbMhDAW0TU=;IPz+uLP78dSdc7coItJI6g=="
 ---
 
