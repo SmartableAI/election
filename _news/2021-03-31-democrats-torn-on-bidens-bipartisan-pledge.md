@@ -530,7 +530,7 @@ related:
   - title: "Biden 'heartbroken' at officer's death in U.S. Capitol incident"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Friday he was heartbroken that a U.S. Capitol police officer was killed in a violent incident at a security checkpoint on the U.S. Capitol grounds, the White House said in a statement. Biden said he ..."
     publishedDateTime: 2021-04-02T20:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-capitol-biden-idUSKBN2BP1IQ"
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-biden/biden-heartbroken-at-officers-death-in-u-s-capitol-incident-idUSKBN2BP1IQ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP1IQ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP1IQ"
     type: article

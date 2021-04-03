@@ -239,6 +239,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden allows Trump ban on temporary foreign workers to expire"
+    excerpt: "The Democratic president has rolled back some of former President Donald Trump’s immigration policies since taking office on Jan. 20 including last month revoking a proclamation that had blocked many immigrant visa applicants from entering the United States."
+    publishedDateTime: 2021-04-02T02:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-visas-int-idUSKBN2BO6VE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6VG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6VG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557087524&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303L1"
+        width: 783
+        height: 545
+        isCached: true
   - title: "Manhattan prosecutor who is investigating Trump will not seek re-election"
     excerpt: "(Reuters) - Manhattan District Attorney Cyrus Vance Jr said on Friday he will not seek re-election in November, making it likely that his criminal investigation into former U.S. President Donald Trump will be left for his successor. The decision by Vance ..."
     publishedDateTime: 2021-03-12T15:46:00Z
@@ -1576,15 +1592,6 @@ related:
     excerpt: "U.S. President Joe Biden is expected to allow a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday,"
     publishedDateTime: 2021-03-31T00:24:00Z
     webUrl: "https://www.usnews.com/news/us/articles/2021-03-30/biden-expected-to-end-trump-ban-on-temporary-foreign-workers"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 50
-  - title: "Biden Allows Trump Ban on Temporary Foreign Workers to Expire"
-    excerpt: "President Joe Biden allowed a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday, according to a related court filing on Thursday."
-    publishedDateTime: 2021-04-01T22:54:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-04-01/biden-allows-trump-ban-on-temporary-foreign-workers-to-expire"
     type: article
     provider:
       name: U.S. News & World Report

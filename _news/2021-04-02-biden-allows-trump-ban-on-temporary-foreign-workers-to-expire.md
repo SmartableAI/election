@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Biden Allows Trump Ban on Temporary Foreign Workers to Expire"
-excerpt: "President Joe Biden allowed a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday, according to a related court filing on Thursday."
-publishedDateTime: 2021-04-01T22:54:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-04-01/biden-allows-trump-ban-on-temporary-foreign-workers-to-expire"
-webUrl: "https://www.usnews.com/news/us/articles/2021-04-01/biden-allows-trump-ban-on-temporary-foreign-workers-to-expire"
+title: "Biden allows Trump ban on temporary foreign workers to expire"
+excerpt: "The Democratic president has rolled back some of former President Donald Trump’s immigration policies since taking office on Jan. 20 including last month revoking a proclamation that had blocked many immigrant visa applicants from entering the United States."
+publishedDateTime: 2021-04-02T02:51:00Z
+originalUrl: "https://www.reuters.com/article/usa-immigration-visas-int-idUSKBN2BO6VE"
+webUrl: "https://www.reuters.com/article/usa-immigration-visas-int-idUSKBN2BO6VE"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6VG"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6VG"
 type: article
-quality: 50
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557087524&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303L1"
+    width: 783
+    height: 545
+    isCached: true
 
 related:
   - title: "Trump's Twitter ban hurt him more than losing the election to Biden, his niece Mary says"
@@ -1613,6 +1621,6 @@ related:
         height: 663
         isCached: true
 
-secured: "xdGTn/Q5nKoNrfKmla2d5bphhSpoRJDLJKYeWmBk2pJR3rK03dEeINPr+rp623i4Z1U3p/y6tbGrfHltwrT8ajtRP1/smTMbBCTOWvYkdvxavAxwFbIHlLXBFE7Zv+lzn3YIf8a2F4VnBx8n49o3ydiHKP9pu0PjydpKFIRarX0XX3YIsazT/UqZsG2f46L1AtbOVq1putvOXZyLEWxjrOJi75uy7ENT8OEu1ewwRk271oGJabW+g6KLyB2QI8+gH/BrsSU6FLTO3+yLJciFtjJfJ9Nc8IlzH0ZPSEHCDqDGvyBbI9t5RAvvskCiBFp4vB+Ri1Wpn67xmfDUV0S2Mi680WHIVonhulYk/1cCmG2bRU6HFuC8OvLOufAwG8kck1wp9oKw/q+xAU3eKHdTJUsy+53n2XVNLrUZtb5m6eieEuuvlcKovDmWuxSlwD66zMi0vZJQyWUj3Ni/YZLqMPpsbHWJenaWjHAn1xHV0fmJwpr8YDKmnP4Fh7VOn1ls5mIFCMTBP9G/M7pXDdVf+Q==;U+bqWyrlGHvAA2tzAOtDRA=="
+secured: "YsbcLwV5swyATwu4CifgDASvATbyMNUVGtwTNzaxH2TO1qGKibHY1oYoyNEbVVpd+abNWxFY4go4TOJCelPGwm8HF9JEF1DxQbuJjyA9NDmnHg+H3a+LkFSIm4YsJ7LwnMeDJ+B2JXwkuTU039XRdyVa4d9ZKzSzgtdbXjcGUMMIKxJPvb9gCcS+IjU2vIJvHJ+U0QlN5Bxmcz4iTaYHCda5XU0UfAAO6uK4VaU8fO5TkItK6Wr1alfYB0yvWvtYISY+YZf8jUzXQwbywwx9jAaYgpLsVDPR2P2Ayspz4cC2TsWFCm2X01BT8hcq+y1ulKgT2bQ+D3sG75VebiNvFN0ixeb6tOHcpjMsZTL088w=;3aTtAiBVUyRNuR2PfSMAlQ=="
 ---
 

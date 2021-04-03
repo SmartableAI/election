@@ -479,6 +479,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden reverses Trump, lifts sanctions on International Criminal Court"
+    excerpt: "President Biden on Friday reversed Trump-era foreign policies by lifting sanctions and removing visa restrictions on officials of the International Criminal Court (ICC)."
+    publishedDateTime: 2021-04-03T00:21:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGPm2re3qU/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91d04a2f-0fcc-4e80-a4db-39df11088247/3c84e3f6-2c0a-488c-93d2-6bbf39b4ec59/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House pressed on Biden's unity message amid Trump impeachment push"
     excerpt: "President Biden began his term in office with a message of unity, expressing a desire to move past the rancorous division in the United States and bring people together, while Congress remains set to carry out an impeachment trial for former President Donald Trump."
     publishedDateTime: 2021-01-21T13:59:20Z

@@ -231,6 +231,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden allows Trump ban on temporary foreign workers to expire"
+    excerpt: "The Democratic president has rolled back some of former President Donald Trump’s immigration policies since taking office on Jan. 20 including last month revoking a proclamation that had blocked many immigrant visa applicants from entering the United States."
+    publishedDateTime: 2021-04-02T02:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-visas-int-idUSKBN2BO6VE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6VG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6VG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557087524&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303L1"
+        width: 783
+        height: 545
+        isCached: true
   - title: "Lucky review: how Biden beat Trump – and doubters like Obama and Hillary"
     excerpt: "Jonathan Allen and Amie Parnes deliver a clear-eyed account of an election which could not cure a country’s wounds"
     publishedDateTime: 2021-03-07T05:02:00Z
@@ -1580,15 +1596,6 @@ related:
         width: 570
         height: 321
         isCached: true
-  - title: "Biden Allows Trump Ban on Temporary Foreign Workers to Expire"
-    excerpt: "President Joe Biden allowed a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday, according to a related court filing on Thursday."
-    publishedDateTime: 2021-04-01T22:54:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-04-01/biden-allows-trump-ban-on-temporary-foreign-workers-to-expire"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 50
   - title: "Biden Seeks U.S. Supreme Court Dismissal of Trump Immigration Rule Dispute"
     excerpt: "Biden, who has criticized Trump's immigration approach, is widely expected to dump the policy known as the \"public charge\" rule. The justices on Feb. 22 had agreed to hear an appeal filed by Trump's administration of a lower court ruling that found the rule likely violated federal immigration and administrative law by impermissibly expanding the definition of who counts as a \"public charge\" and greatly increasing the number of people who would be rejected for residency."
     publishedDateTime: 2021-03-09T11:37:00Z
