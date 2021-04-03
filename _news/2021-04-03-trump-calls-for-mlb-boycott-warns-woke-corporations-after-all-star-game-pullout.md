@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-mlb-boycott-warns-w
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-mlb-boycott-warns-woke-corporations-after-all-star-game-pullout.amp"
 type: article
 quality: 169
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 320
     isCached: true
 
-secured: "2YzHAYuWB8jimIZecskX69L7zfdVpWwvsuhNUkz29mCWjoKaLQVVg7nlw7Pyz4prCQ7McrMwpT3DsxNfKpUhJwyybW2ednfwVsFOnkHR8zwJtLWKoyj9mrDTqAuk9B/AZJnPUPSjdkNvXHoDaVUvN2hYCegjosgDdR4sWcyNQ8zAuu74+XK1b6wEEieNW0nO1qktw9Fow2jxYMTgkJ+Ddb7ehLhFeeS7apWd+pbAg4taR8T55VUmkDnVioga6eKQU+N7CAoldCVdyt5IkprK105xjkLAAoEA/ELhsxYMRIiPRFp5zt8UakEAQ+zkF0inUsqnFNpbjbPyDU/ET6POO0+L7PUR6hiQ9BwKaw9uWVc=;FbDYS7TPJzT4mmh9NLykpA=="
+related:
+  - title: "Trump calls for boycott of MLB, Coke, Delta after they opposed Georgia voting law"
+    excerpt: "Former President Trump called Friday night for a boycott of Major League Baseball, Coke and Delta Airlines — and all other companies that have pulled out of Georgia or otherwise protested"
+    publishedDateTime: 2021-04-03T04:56:00Z
+    webUrl: "https://nypost.com/2021/04/03/trump-calls-for-boycott-of-mlb-coke-and-delta-airlines/"
+    ampWebUrl: "https://nypost.com/2021/04/03/trump-calls-for-boycott-of-mlb-coke-and-delta-airlines/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/03/trump-calls-for-boycott-of-mlb-coke-and-delta-airlines/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-urges-boycot-companies-criticizing-georgia-86.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "GHSUik1sT9QT1CYGSJrrTl907teELZz1boBeDOlbG5d47lMMqLGLEPNGmCzE6zGem48mkK3unzpKp7sxmy9Jr3cHhL6cZ6j2Zz6ZU2KNVqHr2Jxbm0i50Qss4WN77ZKRapzPNq6Q2rJIsJosf7+BAzyLDSryCliRY/UwCjbvsveCcIistwBPVmrEnaKyeXM3zT5274adiPCKKn+6UBIhvGeTDptFv2bXNITmGMEdvMIK7Of3k9uLQI+GwUW5BNs84GF0RShhlnJUae/Vwj4kZHgB2c7CP0IenUlmTTm8WzhAtApzdkz2DvR57h3EdRLcS8u4BAJsUNGLVkuFx+5KIfedY5obIyQ6JkH5tKOMZdA=;6XCO1T7sGFfYSVSksUy0cg=="
 ---
 
