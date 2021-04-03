@@ -111,6 +111,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Las Vegas, Nashville, Phoenix and more: Amtrak would expand, connect new cities under Joe Biden's infrastructure plan"
+    excerpt: "Amtrak late Wednesday released a proposed map of new and expanded service if it can land the $80 billion proposed by President Joe Biden."
+    publishedDateTime: 2021-04-01T18:15:00Z
+    webUrl: "https://www.indystar.com/story/travel/news/2021/04/01/biden-infrastructure-plan-amtrak-vows-new-routes-american-jobs-plan/4834427001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4834427001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4834427001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/cef02fc1-56cb-4463-a665-f7dca0a14e69-amtrak_routes.PNG?auto=webp&crop=1375,774,x119,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Joe Biden's $2 trillion jobs and climate change plan would improve internet access, upgrade power grids and make road improvements"
+    excerpt: "President Joe Biden's $2 trillion jobs and infrastructure plan calls for improving roads, internet access and electricity grids. Credit: Spencer Selvidge for The Texas Tribune Sign up for The Brief, our daily newsletter that keeps readers up to speed on ..."
+    publishedDateTime: 2021-03-31T21:43:00Z
+    webUrl: "https://www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/"
+    ampWebUrl: "https://www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 40
+    images:
+      - url: "https://thumbnails.texastribune.org/M_OWpqBYfVtAzMrXWG5y9_zsXiM=/640x429/smart/filters:quality(75)/https://static.texastribune.org/media/files/4f162e4fd0e8410452f896d2911d930a/Infrastructure%20FIle%20SS%20.jpg"
+        width: 640
+        height: 429
+        isCached: true
 
 secured: "WeLpqeWmbGro/UCNPD6tDQdddwMdN61I1m4PYK4ckapFgb+nd6lFWJOw4ExA3lZQdikSvA/yySq98nUtYyPHSXZBNAqvL5ZeS5uiz4FAyjf/GZx2qTuce/Ah5S4ZQgG+PiY13b1sGLstcRr0OvoTl0gjVyTIi81b4mrziu/2t59W+/RJ0jmASzj5qDPkTq17d2JhWppo3P1n15pBRSLyfrguyn8vIr9O9rAYSp5dHR4xU9tsTNKH6olKsZ3PT1YadGZr37F4/OT8Y79QoAY9qzJVGTd1xZWvo2ADIIk08exvihyZjvH8VHk1beGfHGs/siTOxAD2lIRaIJXlfu2mvsEt7wO+tQ/gMDmWI/MAOfd22SeJP2uBE60OrRAZ1FgG4NLxhI3XE+oc/EJq3e4VAnOlqiaGpLbYdqvwvdlFbr379pyKH5bGjoBMxYD6hckmMCH/PUNw/K1jV3xJVNGaVCwxWZVZI/DoZrCFvrOEjh1rDcRLO3pFUBORpgyiNZ9XOGMII1HBaCxsZYzE0zchIg==;ihHw+SMs/y8uny7BA0/W8g=="
 ---

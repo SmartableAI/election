@@ -493,6 +493,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "For 100 days, religious scholars sent Trump letters about scripture and modern life. Now they’re writing to Biden."
+    excerpt: "On Easter four years ago, Christianity scholar Gay Byron sent a letter to the newly-elected President Donald Trump. “I hope you will find time to reflect on the mystery of the cross, the meaning of the resurrection, and the enduring power of God’s ..."
+    publishedDateTime: 2021-04-02T21:58:00Z
+    webUrl: "https://www.washingtonpost.com/religion/2021/04/02/trump-biden-first-100-days-religious-scholars-letters-christian-jewish-muslim-hindu-buddhist/"
+    ampWebUrl: "https://www.washingtonpost.com/religion/2021/04/02/trump-biden-first-100-days-religious-scholars-letters-christian-jewish-muslim-hindu-buddhist/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/04/02/trump-biden-first-100-days-religious-scholars-letters-christian-jewish-muslim-hindu-buddhist/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RASQ6WETZEI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Republicans say Biden's not focused on infrastructure, but their voters like some of his proposals"
     excerpt: "DOW S&P 500 NASDAQ 100 A new debate is brewing over President Joe Biden's infrastructure package: What, exactly, is infrastructure? According to the $2 trillion plan Biden unveiled this week, infrastructure encompasses everything from broadband access to ..."
     publishedDateTime: 2021-04-02T18:14:00Z

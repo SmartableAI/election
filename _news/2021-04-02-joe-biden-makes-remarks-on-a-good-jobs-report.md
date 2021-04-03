@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden Makes Remarks on A Good Jobs Report"
-excerpt: "U.S. President Joe Biden and first lady Jill Biden walk from the White House in Washington before their departure to Camp David for Easter weekend on Friday, April 2, 2021. The economy added a robust 916,"
+excerpt: "U.S. President Joe Biden replies to questions from reporters after delivering remarks on the March jobs report at the White House in Washington on Friday, April 2, 2021. The economy added a robust 916,"
 publishedDateTime: 2021-04-02T16:37:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/265af8b929ae68841dd7f2e2814f1991/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/265af8b929ae68841dd7f2e2814f1991/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/7165ae55513736e78a7f7831aab79a78/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/7165ae55513736e78a7f7831aab79a78/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/265af8b929ae68841dd7f2e2814f1991/BIDEN-JOBS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/7165ae55513736e78a7f7831aab79a78/BIDEN-JOBS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1285,6 +1285,6 @@ related:
         height: 604
         isCached: true
 
-secured: "n9UQGwG6Mimakta2ybH++pKgiaQAkTB7ZllYuZBwpL6lx0Mtlbm3ybOWKbpOTx7S9i1xKyauViF4H0yK3jrvp8iJDCeWjRKTwi5T/w9RHK6FiBccCb4LSQG31kfXLtWcf8rTAJH8WOrZfiw/8qdX9tbjNzeyLtt10H6VKLS5nUdJGW5vgHDYOwOTEahqHvfeonp6sCEyypGiEmQC6YEx1o9ndUXsn7k6GdXnV+TdlvmfFKjOlplVXDGPLNZbVF9CY829e+ybTU0eEJAP8C/TuUJLWteboRoGWrdvyBxNzAFmOWLoGP4e3iqCjluNH9MzZPJGh1dDSw5wDbll/SHC/0wRN++3Xu2Y/Lrwfo/SrNysJj6a+tSsHrliU2LzXOxTR5FCOUsa04QdNepTgZeQS3i9EslyziDVVvf2QQlyVym+txcdYEw3pUd3jORR2MPgeaH/iwsJMT06ENZvpucFVSn3RPxAUk3pi1SgEr5xAtJvNRB3lgScUF5KTY4OEXUBurtkENJqhWTmXMvcU61pVQ==;sDZ+PbpIfxPFopWCpImSXw=="
+secured: "faat1BgV1ZqDZ+C/d7DLtRBbX9GPpgAfoIs/m7jq0rStg1vgOvJyIed4UBfZaACY802fb8RhvtlFZit/PIWgOi9rU3b/QYRtGBLqjIp+Y90ycVZjVCupIgTlWB02GVI2HiUGH2oyypFtZEtO+AEJKlSK9w3LFG0aT3o7Dv3qdeFBvQ8bVejkDgOoT1KY7vaNZobQkRTE9T1ALFGJCm0Rcj1K1mpYrgWL1RAf/r4kkg0O/hM6PnaMMxR/ADUkaYZzNz05xR0betpRBtyqaKSjA5w7KVu+qK1lzouTYp5RIVv4ncyzjg0zvq14uxjqi+yHigAQNz2fx0ODZeUE8WWjsj0dwtIOqvl+NmMdOi6byZs=;sq8ocPe6Jxp6pyh1QMwyxg=="
 ---
 

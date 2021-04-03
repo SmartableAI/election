@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ah
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -110,6 +110,38 @@ related:
       - url: "https://d.newsweek.com/en/full/1768186/joe-biden-infrastructure-overhaul-proposal.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Las Vegas, Nashville, Phoenix and more: Amtrak would expand, connect new cities under Joe Biden's infrastructure plan"
+    excerpt: "Amtrak late Wednesday released a proposed map of new and expanded service if it can land the $80 billion proposed by President Joe Biden."
+    publishedDateTime: 2021-04-01T18:15:00Z
+    webUrl: "https://www.indystar.com/story/travel/news/2021/04/01/biden-infrastructure-plan-amtrak-vows-new-routes-american-jobs-plan/4834427001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4834427001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4834427001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/cef02fc1-56cb-4463-a665-f7dca0a14e69-amtrak_routes.PNG?auto=webp&crop=1375,774,x119,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Joe Biden's $2 trillion jobs and climate change plan would improve internet access, upgrade power grids and make road improvements"
+    excerpt: "President Joe Biden's $2 trillion jobs and infrastructure plan calls for improving roads, internet access and electricity grids. Credit: Spencer Selvidge for The Texas Tribune Sign up for The Brief, our daily newsletter that keeps readers up to speed on ..."
+    publishedDateTime: 2021-03-31T21:43:00Z
+    webUrl: "https://www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/"
+    ampWebUrl: "https://www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 40
+    images:
+      - url: "https://thumbnails.texastribune.org/M_OWpqBYfVtAzMrXWG5y9_zsXiM=/640x429/smart/filters:quality(75)/https://static.texastribune.org/media/files/4f162e4fd0e8410452f896d2911d930a/Infrastructure%20FIle%20SS%20.jpg"
+        width: 640
+        height: 429
         isCached: true
 
 secured: "d4OzyzlAjyHB9y04lbZbmUa8bVlNYSYSkKbn8GEk243dXLeaoPucwq7NPJQQWLzqOZLKwbinwO3sH8kJBlzA50Re0yRDPsk+hQtWAilwL3td7BmeLTR0IfKxE5Zp09SwdeGGkzcZsZrEsd3Kldyz8ToxuqsX9nb98ghcdz6PCE2Tix07unZaG8dAs4iWPsm9S0mCK88KpEPctwtqz2Q3B9mtneT+TT7hXB2uSYXxukR2gr8uRmp1VI6GsRetZLtRC+Dxn9Dfro7KCeyQLmXpTbOk3r6B0ymxIQeFOj2XhmMskfpR71B3FDXNQzUwtu0kt5PwUwXCc3yJT+675AFTJlityf9OCx7Nk0lg+Vfeimk=;x6rE41PPBlpTtIRQtNk+Iw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 860
+heat: 880
 published: true
 
 provider:
@@ -476,6 +476,22 @@ related:
       - url: "https://thehill.com/sites/default/files/navarro_051720getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "For 100 days, religious scholars sent Trump letters about scripture and modern life. Now they’re writing to Biden."
+    excerpt: "On Easter four years ago, Christianity scholar Gay Byron sent a letter to the newly-elected President Donald Trump. “I hope you will find time to reflect on the mystery of the cross, the meaning of the resurrection, and the enduring power of God’s ..."
+    publishedDateTime: 2021-04-02T21:58:00Z
+    webUrl: "https://www.washingtonpost.com/religion/2021/04/02/trump-biden-first-100-days-religious-scholars-letters-christian-jewish-muslim-hindu-buddhist/"
+    ampWebUrl: "https://www.washingtonpost.com/religion/2021/04/02/trump-biden-first-100-days-religious-scholars-letters-christian-jewish-muslim-hindu-buddhist/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/04/02/trump-biden-first-100-days-religious-scholars-letters-christian-jewish-muslim-hindu-buddhist/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RASQ6WETZEI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Amtrak vows grand expansion under Biden's infrastructure plan. Check the proposed routes"
     excerpt: "Amtrak late Wednesday released a proposed map of new and expanded service if it can land the $80 billion President Joe Biden proposed for the rail service as part of his American Jobs Plan, a massive $2 trillion plan to rebuild the nation's aging ..."

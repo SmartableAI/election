@@ -2,7 +2,7 @@
 category: news
 title: "Obama congratulates MLB for 'taking a stand' against Georgia election law as Trump calls for boycott"
 excerpt: "Former Presidents Barack Obama and Donald Trump have weighed in on Major League Baseball's decision to move its All-Star Game out of Atlanta in response to Georgia's new sweeping election law that imposes significant new obstacles to voting.\n    \n"
-publishedDateTime: 2021-04-03T17:14:57Z
+publishedDateTime: 2021-04-03T19:16:51Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ie8gzsDKxz4/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ie8gzsDKxz4/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/03/politics/obama-trump-mlb-all-star-game-georgia-voting-law/index.html"
@@ -48,6 +48,6 @@ related:
         height: 619
         isCached: true
 
-secured: "AuxnZV0O51iqpylSwkgDjFmYNzA2SuQfAX/FdUtOlSUT0gtqJ7CGS7FsDrfojcDRGJTpgmQJkh1P2dpyh4pbQQV0/CaW9uWVu+2AysGWeDXqiT/EjedSJ4blHVEWMVWZtb1gqsjsti4ZRVAFOkRLE66z9qSo9V9y0hj+V08NSilpdc/rMYZCk9B/HWyT8NFqfDEVCK6kGVAt12eCwnV1WCEV5WCEcewj0OeqS+zj+cF89mtah5WXpILgJdkIitCIbEJznb1YfJb1jbo21+gKfsN9n7vBAizu1B+Qhao3EyMe5+LmqH4oQqzfpU2UmyFwp0+P7FvxvfO2wNwvtzErH1OoYX2JKYTz2qls5I6VmM0=;mc3FieOWhPHfKYc8FHF4BA=="
+secured: "o1g46Vr5oNEhIKbHOJYwZJHgJswHMuwnPVRuL9JsQzvvo9BrmTRVgMRD4QFnHV+puKpSCFWxjR7g+Mm9Slu8BJ91fkkrjYjm4srr7CX11kDQ5Me+BayOWuuD7y/SWY78OrXPjdTHr3BrnXBCpDksM3hWe+GlaVdtoPsDKPQtyNSCJzE55DKM1ZYBi+3O30XtQPcmmjH6ipbynvwbV2GIgt/zl//kAmB59dNDdx+SUWNTdGPmKKuXcGicsSzLmFp3yTukh6/61yzrJtlqQaMTXcnDlMTMsScXcbYFNXrSndYcgaU/DwTyqbIZ/FzSHviSydMVykXQWKTfpcB8rt9RVHN0/npW7xPRRXBOPXNOSto=;jQa0pKGxb6iRlU9Ww9xdJg=="
 ---
 

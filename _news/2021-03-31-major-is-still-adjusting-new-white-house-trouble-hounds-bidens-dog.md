@@ -240,6 +240,22 @@ related:
         width: 2500
         height: 1517
         isCached: true
+  - title: "Wall Street wants to know who will pay for Joe Biden's infrastructure bonanza"
+    excerpt: "The Dow fell 30 points, 0.09%. The S&P 500 is 0.01% higher. A new report from the World Economic Forum estimates that attaining global gender parity will take nearly 136 years, up from its previous estimate of almost 100 years."
+    publishedDateTime: 2021-03-31T20:03:00Z
+    webUrl: "https://www.cnn.com/business/live-news/stock-market-news-033121/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/stock-market-news-033121/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/stock-market-news-033121/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 132
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329125221-07-nyse-0323-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The three words not in Biden's infrastructure plan"
     excerpt: "We all know JOE BIDEN likes — okay, loooooooves — trains. So it’s no surprise that the infrastructure plan he proposed this week includes $80 billion for national and intercity rail over eight years, or $10 billion a year — five times the annual $2 ..."
     publishedDateTime: 2021-04-02T22:53:00Z

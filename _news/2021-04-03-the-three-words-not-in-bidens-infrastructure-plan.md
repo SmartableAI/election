@@ -254,6 +254,22 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Wall Street wants to know who will pay for Joe Biden's infrastructure bonanza"
+    excerpt: "The Dow fell 30 points, 0.09%. The S&P 500 is 0.01% higher. A new report from the World Economic Forum estimates that attaining global gender parity will take nearly 136 years, up from its previous estimate of almost 100 years."
+    publishedDateTime: 2021-03-31T20:03:00Z
+    webUrl: "https://www.cnn.com/business/live-news/stock-market-news-033121/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/stock-market-news-033121/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/stock-market-news-033121/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 132
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329125221-07-nyse-0323-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
     excerpt: "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ..."
     publishedDateTime: 2021-03-19T17:41:00Z
