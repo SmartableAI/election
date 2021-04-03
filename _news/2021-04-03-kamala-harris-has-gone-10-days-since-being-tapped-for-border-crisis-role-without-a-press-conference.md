@@ -1,8 +1,8 @@
 ---
 category: news
-title: "Kamala Harris has gone 9 days since being tapped for border crisis role without a press conference"
-excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U."
-publishedDateTime: 2021-04-02T09:26:00Z
+title: "Kamala Harris has gone 10 days since being tapped for border crisis role without a press conference"
+excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S. Her assigned efforts ..."
+publishedDateTime: 2021-04-03T10:22:00Z
 originalUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis"
 webUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
@@ -48,9 +48,9 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris has gone 10 days since being tapped for border crisis role without a press conference"
-    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S. Her assigned efforts ..."
-    publishedDateTime: 2021-04-03T10:22:00Z
+  - title: "Kamala Harris has gone 9 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U."
+    publishedDateTime: 2021-04-02T09:26:00Z
     webUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis"
     ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
@@ -65,6 +65,6 @@ related:
         height: 320
         isCached: true
 
-secured: "a69j50GGiGgp5jG+fAgBGfRMryxduWkSlq7aZRpsfmCqZ/vaJZtf8mzNI+APZXV8i0gQvtLLjaNybhopxHdfGbuoYxFuf+g66dtXzLKgY8jFTeJfjxjQkVbsjBlibz1Vu9QuN1K7pFCO5VlJFhZ0B10GuYVXy6NbxaXX33939HXWr1Gj1G64kIZWUEpRylm0LXxzJDjHfajh1VLxLDjHs004izZrQ0N+8AzDEyrn+3ndcCtRx/3Vi4EmHjxscFPXBxRN+samB2EEr79zsmn6KMu+Eiv2Snd05LUAYzIsuo3z86uNMcCOOHxXDBpE16224p9WDMKqvZ3iPgTfPfU5oO+C+tlp8pXXSFYsULaOqkI=;mMAGY0kp4gzpqqGrsOoD5Q=="
+secured: "h+F4wsR9U3u/4mEjMVJmd8C+wtJ+Vrd+57Pt4PbQIy6nnT41Ud3dTrszHRT80aKXTAZjSahWUqVQzAzqSD5AO+j/+Q/njB//dgz1L8GRhKzbtdFsthZu+G6a79rXsmzp8CJ/vNMgCkOgCQXLq+8nhTin+jWnYQDKKRXaWuHcWVoUC2G2gSDQsjNxAfgIGspfDNwTI3PjOmTg5yd27z7obY6Wp0tpletZJsQ+Lpa8bQhOrM6njtvr+TMOy3GfPky8GhZ8fPsMwT4tSs8/AylksFdC0zKKDbZUVWikE9NmNuCLEHRqhtTb1WLRaRZBwrMY05P1HElH2aQwZs2h1cC4R8/Rrwq4rMLFKN6E2hKlpvs=;HharjG4nXzex38XVHCqTrA=="
 ---
 

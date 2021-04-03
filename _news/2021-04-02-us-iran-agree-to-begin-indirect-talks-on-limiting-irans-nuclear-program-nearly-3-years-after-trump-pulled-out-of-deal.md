@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump's last blunder. Small pizzeria in Italy sanctioned instead of a Venezuelan oil exporter."
+    excerpt: "Two Italian businesses, a Verona pizzeria and a graphic design studio in Sardinia, were put on a Venezuela sanctions list by mistake."
+    publishedDateTime: 2021-04-03T10:36:00Z
+    webUrl: "https://www.businessinsider.com/italy-trump-sanctioned-a-pizzeria-in-final-blunder-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/italy-trump-sanctioned-a-pizzeria-in-final-blunder-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/italy-trump-sanctioned-a-pizzeria-in-final-blunder-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/60683301a7d803001963e9fe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "9xvgVJ3hR9I/Iy0UPVrj9aCB6LkUeL8lcj/eKhe7IFov8U51b2Ims7BL6NvzxPktQmL1hVIYK4CnHtRxg9MQ1wGXG+byoMdMqLEzNS6ZB42obmCyx4baZg8UUvI/7uVo+keRKX2V0kjc3kC+LcYLPjDugalp8O86j1avZDdS7pr+uXt8EX9Y3e/SER2FER+WM8IJ1XEMAzRlP7EltrakOTEBewWjLVUSaTp40hdkVN8FYkClRfLqTcNZpRe5kgrjVnC4JiGXw/CdxiE191pRDFqNsHefjQOlTfQB44gRkaTj1la6o7o153X2NGitdK+XqchN5CnL4bzxDtB2iK0GDXgMv2OzMPKRcet0y6NeiK8=;MBViMRpcMujyGDTCjMKfjg=="
 ---
