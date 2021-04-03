@@ -1,12 +1,12 @@
 ---
 category: news
-title: "The Memo: The mystery of post-presidency Trump"
-excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle rages over vaccine ..."
-publishedDateTime: 2021-04-01T09:59:00Z
-originalUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump"
-webUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump"
-ampWebUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump?amp"
+title: "Biden orders White House flags flown at half-staff after Capitol attack"
+excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden ..."
+publishedDateTime: 2021-04-02T21:16:00Z
+originalUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack"
+webUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack"
+ampWebUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
 type: article
 quality: 125
 heat: -1
@@ -22,10 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
+  - url: "https://thehill.com/sites/default/files/bidenjoe2_04022021getty_0.png"
     width: 980
     height: 551
     isCached: true
@@ -287,6 +287,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Memo: The mystery of post-presidency Trump"
+    excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle rages over vaccine ..."
+    publishedDateTime: 2021-04-01T09:59:00Z
+    webUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump"
+    ampWebUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump adds veteran organizer to help run political operations: report"
     excerpt: "Former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo 'regrets' not making more progress with North Korea Biden sets off Capitol Hill ..."
     publishedDateTime: 2021-04-01T11:57:00Z
@@ -336,22 +352,6 @@ related:
         height: 551
         isCached: true
   - title: "Biden orders flags flown at half-staff in the wake of Capitol attack"
-    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden ..."
-    publishedDateTime: 2021-04-02T21:16:00Z
-    webUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack"
-    ampWebUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_04022021getty_0.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden orders White House flags flown at half-staff after Capitol attack"
     excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden ..."
     publishedDateTime: 2021-04-02T21:16:00Z
     webUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack"
@@ -602,6 +602,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Mb4i8F7HHyN7S/XNQs0yhKFEME1KzQgwkg0T+dJPjdDmt5QAv0XHNpqBSUFV1yq88b+6AtEvmLQD7oIKnGSIFfuPhINbe7S9Az4ZFuob8jupwYBRKufuPkgmT9uztkpOqMkhI6RGqch5oNxxoADhsOjSMvqbj2wgHqJOx2q8ywfud4xOXaxUsZd1p+Kdk0FompNwYF8ocQDmOOB4QWoQmKAFl07TwvF2Bk8lEMoc4by/KwMaoI/mvJvzvA6I4q8He+FWVmDquJW6PaXhvPUkflXHQVJfD4D4fSDoS5cBl/mFHhZTYDOqbTuAeHvE2Ta0bq0RqPWBA+7HDBK3misSJBuuSrAFBjsn/TYqg3Z0dv8BT0cY43CrYyW5B13EUbTiBdR1QMQTCkCB7wtC/CbySOjSviSgTApDgFFlzlw5FwysG7PiIpMw9kAjtWuARGgwsesOHdFeSqd09cno2DY7T7Y86VgFam4DcrIP6QbTgILwUJSMHgVXcFz51LahGfExuw0jcc+SXkSMsOZ0tIERrA==;fNzJx8/uHuIiibJXIP/vRQ=="
+secured: "NI4M/XQ/ufmKrWzzIiYuE5ymEdDdYbUWCNyE1dtrhjGtsIgdCdS5p2qvDf8+L4pYyT1KC4T7sNnrEItPoyXfl0DRhnXgODgo/EPLvb2SlHoCqrRiZY3M9zF39ImHzOtNhxn7UYub4W5p2NBOx0oAkoarKcdTysk0nDBZV9w6/hA6EyGPP/lWrjY/OqHN8HpdULwwi48AjsfDMKR6enqXtnXxK21XE4jPNuUi23fnMAPO9usHDr3zvZzu/WijWs336q54qnZJwqR8+ygKQB2JkvqGiEcnNctLgu7DjrGRleV2Md7z4QexnNIq3USUevv6E+1DPZp8R8s3po6KkkCFHx8z+GmCcMwwzIPgj+KEsro=;LMWAtdGaHiZhRC/sxVVYMw=="
 ---
 

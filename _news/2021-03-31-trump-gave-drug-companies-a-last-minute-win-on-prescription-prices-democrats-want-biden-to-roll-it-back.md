@@ -367,6 +367,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden orders White House flags flown at half-staff after Capitol attack"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden ..."
+    publishedDateTime: 2021-04-02T21:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack"
+    ampWebUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_04022021getty_0.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pelosi 'hopeful' Democrats can reform SALT tax in Biden infrastructure bill"
     excerpt: "said Thursday that she's hoping to reform the tax code to help high-income states as part of President Biden Joe Biden The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Biden ..."
     publishedDateTime: 2021-04-01T21:00:00Z

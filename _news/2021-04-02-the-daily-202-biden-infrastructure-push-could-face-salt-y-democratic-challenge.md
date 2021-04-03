@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Why green initiatives count as infrastructure, from Biden's top climate officials"
-excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. The first $2 trillion of President Joe Biden's up to $4 trillion infrastructure package includes not only funding for roads and bridges, but also for climate ..."
-publishedDateTime: 2021-04-02T15:27:00Z
-originalUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4"
-webUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4"
-ampWebUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+title: "The Daily 202: Biden infrastructure push could face SALT-y Democratic challenge"
+excerpt: "Welcome to The Daily 202 newsletter! T ell your friends to sign up here. Support our journalism. Subscribe today. As President Biden tries to corral the votes to muscle through his $2 trillion infrastructure package,"
+publishedDateTime: 2021-04-02T15:30:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/"
+webUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/?outputType=amp"
 type: article
-quality: 120
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/606723ac52f11d0019431bdc?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5PUJJUMEEI6XIZ63IUJIHFZVQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -95,22 +95,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "The Daily 202: Biden infrastructure push could face SALT-y Democratic challenge"
-    excerpt: "Welcome to The Daily 202 newsletter! T ell your friends to sign up here. Support our journalism. Subscribe today. As President Biden tries to corral the votes to muscle through his $2 trillion infrastructure package,"
-    publishedDateTime: 2021-04-02T15:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5PUJJUMEEI6XIZ63IUJIHFZVQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden faces the challenge of highlighting progress without relaxing restrictions"
     excerpt: "President Joe Biden faces the challenge of highlighting progress without relaxing restrictions in the face of a potential fourth coronavirus surge."
     publishedDateTime: 2021-03-31T09:02:00Z
@@ -142,6 +126,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557086703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH30381"
         width: 796
         height: 545
+        isCached: true
+  - title: "Why green initiatives count as infrastructure, from Biden's top climate officials"
+    excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. The first $2 trillion of President Joe Biden's up to $4 trillion infrastructure package includes not only funding for roads and bridges, but also for climate ..."
+    publishedDateTime: 2021-04-02T15:27:00Z
+    webUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/606723ac52f11d0019431bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "In first press conference, Biden talks immigration, filibuster, China, vaccination goal"
     excerpt: "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office."
@@ -247,6 +247,6 @@ related:
         height: 433
         isCached: true
 
-secured: "FImKnjyu/OuSxMrkZegBLByzvVMybF146MajX5M7nONMUg3KaKjedLMZz6s9Ig71scccIZKvjnI8+NUnVEK7nNfV3mMmaSgQs4/luj3dPYyVm1znCxPUyGcR/j7pEtL0DbXCWD1mrhh04ndLv34sQvZdAR0Q/dbJcJq7y80Jfg3tS6stypGWeFqmK/eGfaAGNzil5VHbWulZ8DRP2aR/Y3oHkkZ3cXCK6bA3FGmbKuAKLACuYaEGrlHdu1fMZK6t8F7AV7AlGXydNV749QpplQfZ2R6Vx5mAntHrMAYyOfYDTk1mf2r4kwKh4MbIR5tkS9i7Nn2pP28jbjPxpNaV2Ng6vo/3Z3HtkjJcL/KO7lxL0mDxQFoqhlt30UVT+j1FB5oMJ48OtWJuAkzJN9MsMjkL6lwZMqcsS1DhxyI8EUXzCYP6aYoRykp+EtDvCydg2XVGeCMP3H3HuuGRd4X/1MstBWgQOtRoRcWvz1bZ3py7+Z8oU04PuLNSU8fXVUYKHNfvPwVwTfDAln1KdRYp7w==;s0M95d2g7foqrwVOwcmb2A=="
+secured: "pFGYwUoOzZ7A1awD7j+WDXKTQiw1hCT8czFjxpslVMtZUcvEaA2YkfoexGtMkbaVd8u73JwIGR8OVSsPbczfCXiA6rZIGDvSnReAr07kxgjqWyAaaHRyhD/Wej4mkHuyr1i26m8fnViWE30e71td/zJizl3Lgygq+holUD+aHdg9WcyMZUUqbgaKSfOCbqrsEDTM15Fr6qvTcWAS8CysraAiDWxH7n+wQNQHrAdzFLffBE460k0D7EP+eFA1kWU5H7mpGfS+pYuARQul5W1lN0seQSa6M50LrMhLE3JFqot7my68tz7sQ1xg9B03fDQX+p/Q9ew0inr4aoNxwCcEhYw+0aE/AMpVKfBSr9tK3ww=;psLXUeT4Q0t1KvMokz4/Tg=="
 ---
 

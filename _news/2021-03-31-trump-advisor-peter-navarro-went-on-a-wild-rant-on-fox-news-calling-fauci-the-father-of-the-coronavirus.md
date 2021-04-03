@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fa
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp"
 type: article
 quality: 107
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
-    excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
-    publishedDateTime: 2021-03-29T21:27:00Z
-    webUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306"
-    ampWebUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 82
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "The Latest: Trump blasts Fauci and Birx as 'self-promoters'"
     excerpt: "Former President Donald Trump is slamming two of his most prominent coronavirus advisers. He says Dr. Anthony Fauci and Dr. Deborah Birx are “two self-promoters trying to reinvent"
     publishedDateTime: 2021-03-30T00:19:00Z
