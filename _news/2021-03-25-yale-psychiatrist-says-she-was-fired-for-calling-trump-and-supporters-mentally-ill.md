@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/yale-psychiatrist-says-she-was-fire
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
 type: article
 quality: 169
-heat: -1
-published: false
+heat: 229
+published: true
 
 provider:
   name: Fox News
@@ -31,65 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
-    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
-    publishedDateTime: 2021-03-31T20:45:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+  - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
+    excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"
+    publishedDateTime: 2021-03-31T16:18:00Z
+    webUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/"
+    ampWebUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
+      name: New York Post
+      domain: nypost.com
+    quality: 133
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Pentagon diversity chief 'reassigned' after comparing Trump to Hitler on social media"
-    excerpt: "The Pentagon's new diversity chief has been \"reassigned\" amid an investigation of past social media posts including comparing former President Trump to Adolph Hitler, a U.S. defense official confirmed to Fox News on Tuesday."
-    publishedDateTime: 2021-03-30T13:58:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhGjo-Tv3Js/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media"
-    ampWebUrl: "https://www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+  - title: "Liberal media need to wait for facts before blaming Atlanta shootings on Trump and racism, critics say"
+    excerpt: "While authorities continue to investigate the Atlanta shootings, media watchdogs feel pundits and journalists should wait for the facts before casting racism as the motive."
+    publishedDateTime: 2021-03-18T19:48:00Z
+    webUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say"
+    ampWebUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 119
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
-    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
-    publishedDateTime: 2021-03-31T20:50:00Z
-    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Fresh Data Reveal How Trump Made Inroads With Latinos"
-    excerpt: "A new analysis of U.S. voters suggests — counterintuitively — that the coronavirus pandemic may have helped drive former President Donald Trump's surprising increase in support from Latinos last November."
-    publishedDateTime: 2021-04-02T16:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/02/fresh_data_reveal_how_trump_made_inroads_with_latinos_539593.html?mc_cid=15b3dd0249&mc_eid=848bcee76a"
+  - title: "Trump Critics Who Called Vaccine Timetable Reckless Now Say It's Reckless NOT to Take the Vaccine"
+    excerpt: "Dr. Anthony Fauci wants former President Donald Trump to tell his supporters to take the COVID-19 vaccine. It is true that a March 2021 NPR/PBS"
+    publishedDateTime: 2021-03-25T10:25:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
+    quality: 72
     images:
-      - url: "https://assets.realclear.com/images/52/526159_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/538668_5_.jpg"
         width: 750
         height: 500
         isCached: true

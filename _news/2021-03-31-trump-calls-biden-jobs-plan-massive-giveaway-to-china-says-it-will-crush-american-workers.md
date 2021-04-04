@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
 type: article
 quality: 178
-heat: 338
+heat: 318
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Joe-Biden.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden reversing Trump policy, quietly ramping up Palestinian aid"
-    excerpt: "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy."
-    publishedDateTime: 2021-04-03T12:41:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21085720002259.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Trump takes shot at Hunter Biden, says kids must stay from drugs, booze, cigs"
     excerpt: "Father Trump knows best. Former President Donald Trump took a thinly veiled shot at his White House successor, saying the key to good parenting is keeping kids away from drugs, cigarettes and"

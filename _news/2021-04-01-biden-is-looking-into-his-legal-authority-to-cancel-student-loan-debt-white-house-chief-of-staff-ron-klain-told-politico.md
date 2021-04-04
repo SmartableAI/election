@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-d
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4?amp"
 type: article
 quality: 99
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Progressives' Calls Growing for Biden to Cancel $50K of Student Loan Debt: 'Do It!'"
+    excerpt: "Calls from progressive Democratic lawmakers for President Joe Biden to cancel $50,000 of student loan debt continue to mount in recent days. Although Biden has previously pushed back against the idea publicly, White House Chief of Staff Ron Klain told ..."
+    publishedDateTime: 2021-04-04T13:21:00Z
+    webUrl: "https://www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937"
+    ampWebUrl: "https://www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1771446/democrats-cancelstudentdebt.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "VkLZQPK2/rffuxxzxbWwSLNruYd95UwLZGRpTHLO3OpdkT1HuVi5mx0nVBEbY1nYUtRFdK1sCNbGHBojMP+T7Kt8wunjB3vnHddD5c6X4Tvk/BvYyoEZQIlRLpBZWMz3cJtGGGRlyxEfqBW/f8MwBf9fb3WII9znlLGj/XsBz0NG/y3WWL+dq6bjq62kjl6OIPIj9CnOcWC/MtlffWJPFc5hJ1f9XD0a6KeH/4caB82JPu0a2IOU+2POln8pBxbXs9dQXMFq4xRoOzOn9B+t5Cwj5Bh4eZTJ0Y0AZFROLmH/CLz8xDtCF/IZTgQR0cKrBhkZIQ+ggzM85J8EYeqmuAVOV0sm7KHk+vpWMi5im8lWcG2l1L4LUw2Y9l0uNtoR/O6ZPZIzgfHwuHnJX6xmQu34mJopITeXdziNOILC2XzNpmq3Rn3p5zbG8rZpTmkVQ2zeWN3GHmGLXrvKpmmvLGevDFI1At3qjkFuDHX9LbxXqC3ZYNnwtBwWyQmt+dv1umvjS5DDtP3lsi8KiOz1hg==;DAJZw8vgaJEO3iLB2tqDGw=="
 ---

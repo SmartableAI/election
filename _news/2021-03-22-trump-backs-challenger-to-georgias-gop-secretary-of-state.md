@@ -128,22 +128,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "First-quarter fundraising numbers showed high-profile support - or opposition - for Trump"
-    excerpt: "Miller announced his campaign against Gonzalez after the incumbent joined 10 other Republicans to vote to impeach former President Donald Trump for incitement of an insurrection over the Jan. 6 attack on the U.S. Capitol. Shortly after Miller entered the ..."
-    publishedDateTime: 2021-04-01T20:24:00Z
-    webUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach"
-    ampWebUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Trump-Max-Miller-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
     excerpt: "Mo Brooks of Alabama showcased his support and loyalty for former President Donald Trump as he launched his Senate campaign. To hammer home the point, he was accompanied by Stephen Miller, a top adviser to Trump during his tenure in the White House and the architect of the administration's hard line on illegal immigration."
     publishedDateTime: 2021-03-23T15:51:00Z

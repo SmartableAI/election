@@ -143,6 +143,22 @@ related:
         width: 2500
         height: 1639
         isCached: true
+  - title: "The Trump campaign reportedly cheated donors who thought they were making a one-time contribution, collecting recurring donations"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In what seemed to be an effort to bolster political contributions in the heat of the 2020 election against now President Joe Biden, the Trump 2020 campaign reportedly duped supporters into making recurring ..."
+    publishedDateTime: 2021-04-03T20:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/6068bbc8856cd700198a30e4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies"
     excerpt: "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,"
     publishedDateTime: 2021-03-24T10:29:00Z

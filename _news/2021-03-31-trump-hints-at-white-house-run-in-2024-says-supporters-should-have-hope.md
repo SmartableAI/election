@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
 type: article
 quality: 133
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -26,6 +26,56 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Yale psychiatrist says she was fired for calling Trump and supporters mentally ill"
+    excerpt: "A high-profile psychiatrist says she was fired by Yale University after repeatedly calling then-President Trump and his supporters mentally ill — and is now suing the college for unlawful termination."
+    publishedDateTime: 2021-03-25T23:16:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ssa94xvLqgI/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill"
+    ampWebUrl: "https://www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b7693d9-a98e-450f-b0e5-2ca8da7bbbbb/ad0ab322-d7ad-46ba-9f0c-337c6a6ae7d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Liberal media need to wait for facts before blaming Atlanta shootings on Trump and racism, critics say"
+    excerpt: "While authorities continue to investigate the Atlanta shootings, media watchdogs feel pundits and journalists should wait for the facts before casting racism as the motive."
+    publishedDateTime: 2021-03-18T19:48:00Z
+    webUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say"
+    ampWebUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump Critics Who Called Vaccine Timetable Reckless Now Say It's Reckless NOT to Take the Vaccine"
+    excerpt: "Dr. Anthony Fauci wants former President Donald Trump to tell his supporters to take the COVID-19 vaccine. It is true that a March 2021 NPR/PBS"
+    publishedDateTime: 2021-03-25T10:25:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 72
+    images:
+      - url: "https://assets.realclear.com/images/53/538668_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "84/jlXs/PEEH26yTcpsATANd84z6p621q4czTA2FFipwAjKWqLkqiBiREkcZsmVUMR0/m9aLgNH4JV0DHHCTVRHm5W99IO0VsN4dKfehgeAKWNvjWOac4+ww6LgGW3daxIh9t1eQP+A1UBTOf8PH3/2pUFhBcPGuy5ZuVVzlARyby1Z8Pzl4FnCzC56FiTOdz3BJNkHp5j7G6CmpPyV+d62i84PDz67RYR8+G7J4OV0kNLHFRt77tSux3quWzf+7g0Q9Tka1zG8EW5Tybtj4YcDc5a/4r2JEZatxIc6ekGvdEg7hxTICdvMvm225AJJj/tgERX/+Xjh49sHxl0o19m9GpOAaLv6adDPPQRdCaJc=;7Uw5mcSuyYbSQUQWj0dfjg=="
 ---

@@ -44,22 +44,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Liberal media need to wait for facts before blaming Atlanta shootings on Trump and racism, critics say"
-    excerpt: "While authorities continue to investigate the Atlanta shootings, media watchdogs feel pundits and journalists should wait for the facts before casting racism as the motive."
-    publishedDateTime: 2021-03-18T19:48:00Z
-    webUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say"
-    ampWebUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "SIw55Uo7jur4kKwlGFarM8Lao7U+ABpzG53k+bo8DaJZv8982gQuT3PwJoWIravHbLvCHnQGnwwXQDzllKm34EpnRTg6OxcD4vMuSQNLkU7fnpFbqb8SYfUgwpNEveOflRb6zcShfyXPD73knCkRYvLWITowkZZ4ns5KJdHRHR2+4iTpCk/yYyFy379Dtr9rLt9IocskntbPpAW7tQv+KuWQe/l9cA+pL7lREEepSsJcKPwgIlv/3ctdCc05WFvoN2F33RNTfoQsNaNGOytPnKTx6WnVtlh8rgD5y/l6s1Ok48/lFcXv1C88xaDzQ3/xipAqbmilQiPgPBCLNx7Lb4UZZHFG3pIRw6IBsmD5+uEjHaINwvd9+S0zAZ0WAe3CtS3Z201m+tA8BELppFNhmzOi6/W8s2sgJ5PvHSdLmKaUCy8eLHq/VBgSd0/RIKubFnZYoet/thtEeeiWRccs+djp0sVs+sed5TfmnjNcWBrsk3fgljfFPIDrDSKETdb0nq1conP4tCHspxey0kE6ig==;+6JpoISCvTpXc/jH0J5BhQ=="
 ---

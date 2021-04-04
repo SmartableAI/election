@@ -3,8 +3,8 @@ category: news
 title: "Biden 'heartbroken' at officer's death in U.S. Capitol incident"
 excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Friday he was heartbroken that a U.S. Capitol police officer was killed in a violent incident at a security checkpoint on the U.S. Capitol grounds, the White House said in a statement. Biden said he ..."
 publishedDateTime: 2021-04-02T20:11:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-capitol-biden/biden-heartbroken-at-officers-death-in-u-s-capitol-incident-idUSKBN2BP1IQ"
-webUrl: "https://www.reuters.com/article/us-usa-capitol-biden/biden-heartbroken-at-officers-death-in-u-s-capitol-incident-idUSKBN2BP1IQ"
+originalUrl: "https://www.reuters.com/article/us-usa-capitol-biden-idUSKBN2BP1IQ"
+webUrl: "https://www.reuters.com/article/us-usa-capitol-biden-idUSKBN2BP1IQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP1IQ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP1IQ"
 type: article
@@ -528,20 +528,20 @@ related:
         height: 551
         isCached: true
   - title: "7 governors call on Biden to lift $10K cap on tax deductions"
-    excerpt: "Seven Democratic governors are calling on President Joe Biden to lift the $10,000 cap on state and local tax deductions that was a part of former President Donald Trump’s massive 2017 tax law ..."
-    publishedDateTime: 2021-04-02T22:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
+    excerpt: "Seven Democratic governors are calling on President Joe Biden to lift the $10,000 cap on state and local tax deductions that was a part of former President Donald Trump’s massive 2017 tax law"
+    publishedDateTime: 2021-04-02T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/national/7-governors-call-on-biden-to-lift-10k-cap-on-tax-deductions/2021/04/02/2e420a4a-9400-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/7-governors-call-on-biden-to-lift-10k-cap-on-tax-deductions/2021/04/02/2e420a4a-9400-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/7-governors-call-on-biden-to-lift-10k-cap-on-tax-deductions/2021/04/02/2e420a4a-9400-11eb-aadc-af78701a30ca_story.html?outputType=amp"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Joe Biden Speaks Out on Capitol Police Officer Killed in Attack"
     excerpt: "President Joe Biden said that he first lady Jill Biden were \"heartbroken\" to learn of Friday's deadly attack at the U.S. Capitol that left one police officer dead and injured another. Capitol Police Officer William \"Billy\" Evans was killed after 25-year ..."
@@ -1289,6 +1289,6 @@ related:
         height: 604
         isCached: true
 
-secured: "6040hqG0VDrqpwK0/kVnk7T8CO4t/9D8d2IL0fVnZ27gY2Q8f/Dhp23buI+1j03wZWS52Bzbahg+rGBiLdm/oJFND9DcOfN2kKZU8Wi2M64CEGu9qpusr9C6v/Olq8Ux/9d9PRBav8DgEawF8FcosT3g4GfRIw4wMlpcusmU6mDPQzk24ufH4ka2rTydRO7tRStHae65th0r1bXmd2mfuOCMgu6mByBSPPuE7zf4azRHXo3hlgE6Q8g4OjjNA271+KVRCWf469Q+i3V55rlCip5TUyiiAMPrLiqtP1PD/91+1JyNEg//MZTLjt48dnYhwhtzul+wsSoyUv22Y3TpAOWIAi4a6wiQGGPLnOUm6os=;kG8KiaEr+lk2p6SIh1mKMw=="
+secured: "4o0fT5cEFsbFUl6XpY5S31ajMaq2Utp3jQ1lRSl5s6mE1I9G4V5srT+L8CQAMpuG0pkAyytpfi+Z+tbOJNUcwpeIluP3Rd/y//ZQn/VojVNbcuRFdV9AWVIwHjV4oKcvlxjjO037J17afCEp7nIGEs0SgIy/p7jei72WHdLyC9PuTbyhrA5rr4uTLw7nm0nUgwLu5sr4E/hwB4fVv+hv1Tm6DneVpcLgQuAyxZZo535MGmMQPam79Iep7uPDXEyq3VFjmy/ERRdbtsEd1iAXQQWDLUjwaACvk3QGusxiQOiBHXTgfridwScrp6lxubcSZC81LVMh7je4bvwkjIVZoMrAhlBzGqDpP4MysMEpj3Q=;I3D4zWkD4AxjcuJCEoQA1A=="
 ---
 

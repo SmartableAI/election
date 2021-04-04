@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/02/italian-restaurant-o
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/97EB/production/_117819883_gettyimages-184373545.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "MLB Boycott Calls Grow After Donald Trump Hits Out Over All-Star Game"
+    excerpt: "An effort to boycott Major League Baseball (MLB) has gained some traction on social media after former President Donald Trump urged people to punish MLB for its decision to move its All-Star Game out of Georgia. The move was in response to the state's new ..."
+    publishedDateTime: 2021-04-03T07:51:00Z
+    webUrl: "https://www.newsweek.com/mlb-boycott-calls-grow-after-donald-trump-hits-out-over-all-star-game-1580840"
+    ampWebUrl: "https://www.newsweek.com/mlb-boycott-calls-grow-after-donald-trump-hits-out-over-all-star-game-1580840?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mlb-boycott-calls-grow-after-donald-trump-hits-out-over-all-star-game-1580840?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1771300/former-president-donald-trump-throws-baseball.jpg"
+        width: 2526
+        height: 1684
         isCached: true
   - title: "‘Apprentice’ contestant’s lawsuit against Trump can resume, N.Y. court says"
     excerpt: "NEW YORK — The New York State Court of Appeals on Tuesday ruled that a defamation case against former president Donald Trump, brought by an \"Apprentice\" contestant who alleged he sexually assaulted her years ago, can go forward as the immunity claim he ..."

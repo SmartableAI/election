@@ -2,6 +2,171 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-02-trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.md",
+      "title": "Trump peeled away Latino voters nationwide in 2020, a new analysis found.",
+      "excerpt": "A post-mortem analysis of the 2020 election has found that Latino voters played a meaningful role in tipping the Senate and the presidency to the Democrats, but that former President Donald J. Trump’s concerted effort to peel away Latino support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/02/us/politics/02new-washington-briefing-latino-voters/02new-washington-briefing-latino-voters-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html",
+      "publishedDateTime": "2021-04-02T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-fact-check-biden-and-kemp-misleadingly-describe-parts-of-georgia-elections-law.md",
+      "title": "Fact check: Biden and Kemp misleadingly describe parts of Georgia elections law",
+      "excerpt": "There are a lot of misleading claims being made about Georgia's controversial elections law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 286,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210401182037-kemp-biden-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html",
+      "publishedDateTime": "2021-04-02T07:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-a-perverted-rule-how-joe-biden-evolved-from-supporting-the-filibuster-to-trying-to-change-it.md",
+      "title": "A ‘perverted’ rule: How Joe Biden evolved from supporting the filibuster to trying to change it",
+      "excerpt": "Over his 36 years in the Senate, Joe Biden personally threatened to filibuster legislation twice. The first came in 1993 during a debate on the funding and organizational structure for Radio Free Europe and Radio Liberty. Biden eventually reached a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-01-2021/t_efd6404ddd9b44afb7f96591793d9aed_name_20210331_BIDEN_FILIBUSTER_V4.png&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/?outputType=amp",
+      "publishedDateTime": "2021-04-02T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-in-new-memoir-hunter-biden-seeks-to-reframe-some-political-scandals-but-omits-others.md",
       "title": "In new memoir, Hunter Biden seeks to reframe some political scandals, but omits others",
       "excerpt": "In \"Beautiful Things,\" out next week, Hunter Biden charts a life defined by tragedy, addiction and scandal -- all in the shadow of a doting and concerned father, Joe Biden, whose ascent to the ...",
@@ -106,54 +271,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-trump-blasts-big-tech-censorship-after-interview-pulled-by-facebook.md",
-      "title": "Trump blasts big tech ‘censorship’ after interview pulled by Facebook",
-      "excerpt": "Former President Donald Trump on Thursday night decried big tech “censorship” after an interview he gave to his daughter-in-law, Lara Trump, was taken off Facebook. “I did a very nice interview",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/",
-      "originalUrl": "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/F9071EBA-D99C-4F65-A1BA-BBA41328E98D.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/",
-      "publishedDateTime": "2021-04-01T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -746,6 +863,54 @@
       ]
     },
     {
+      "path": "_news/2021-04-02-big-tech-is-out-to-erase-former-president-trump-daughter-in-law.md",
+      "title": "Big Tech is out to ‘erase’ former President Trump: daughter-in-law",
+      "excerpt": "Big Tech wants to “erase” former President Donald Trump, daughter-in-law Lara Trump said Thursday, adding that her father-in-law is “very upset” by the effort. Lara Trump spoke out one day ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/",
+      "originalUrl": "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/lara-trump-donald-interview-01.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/",
+      "publishedDateTime": "2021-04-01T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-former-trump-aide-max-miller-raised-500k-in-one-month-in-house-race-vs-gop-member-who-voted-to-impeach.md",
       "title": "Former Trump aide Max Miller raised 500K in one month in House race vs GOP member who voted to impeach",
       "excerpt": "Max Miller, the former Trump aide mounting a primary challenge to Ohio Republican Rep. Anthony Gonzalez, raised more than $500,000 in approximately the first month of his campaign, Fox News has learned. ",
@@ -1167,166 +1332,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-biden-is-looking-into-his-legal-authority-to-cancel-student-loan-debt-white-house-chief-of-staff-ron-klain-told-politico.md",
-      "title": "Biden is looking into his 'legal authority' to cancel student loan debt, White House Chief of Staff Ron Klain told Politico",
-      "excerpt": "DOW S&P 500 NASDAQ 100 President Joe Biden is looking into his \"legal authority\" to cancel student loan debt up to $50,000, White House Chief of Staff Ron Klain said at a POLITICO Playbook event on Thursday. This is a developing story. Please check back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4",
-      "originalUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6065e8c752f11d001943195a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-wants-to-cancel-student-loan-debt-ron-klain-says-2021-4?amp",
-      "publishedDateTime": "2021-04-01T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-republican-senators-line-up-against-bidens-massive-22t-spending-bill-far-cry-away-from-infrastructure.md",
-      "title": "Republican senators line up against Biden's massive $2.2T spending bill: 'Far cry away from' infrastructure",
-      "excerpt": "The opposition is coming even from moderates who attempted to work with Biden on the coronavirus stimulus plan.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/53yiLDIzkjM/republicans-bidens-spending-bill-far-cry-away-infrastructure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/53yiLDIzkjM/republicans-bidens-spending-bill-far-cry-away-infrastructure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp",
-      "publishedDateTime": "2021-04-01T06:52:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-a-warning-to-biden-the-number-of-federal-government-breakdowns-has-been-accelerating-and-there-are-bound-to-be-more-on-his-watch.md",
-      "title": "A warning to Biden: The number of federal government breakdowns has been accelerating, and there are bound to be more on his watch",
-      "excerpt": "Research by New York University professor Paul Light found an increasing number of government failures in recent years, driven by “decades of neglect.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/federal-government-breakdowns/2021/04/01/03e68e72-91a5-11eb-9af7-fd0822ae4398_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/federal-government-breakdowns/2021/04/01/03e68e72-91a5-11eb-9af7-fd0822ae4398_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TMEH7VESPEI6XO2JLSZKSX2M5Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/federal-government-breakdowns/2021/04/01/03e68e72-91a5-11eb-9af7-fd0822ae4398_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/federal-government-breakdowns/2021/04/01/03e68e72-91a5-11eb-9af7-fd0822ae4398_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-01T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-milit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
 type: article
 quality: 173
-heat: 253
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Yale psychiatrist says she was fired for calling Trump and supporters mentally ill"
-    excerpt: "A high-profile psychiatrist says she was fired by Yale University after repeatedly calling then-President Trump and his supporters mentally ill — and is now suing the college for unlawful termination."
-    publishedDateTime: 2021-03-25T23:16:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ssa94xvLqgI/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill"
-    ampWebUrl: "https://www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
+  - title: "Democrats still searching for answers on Trump's appeal to Latinos in 2020 election"
+    excerpt: "Former President Donald Trump's appeal to Latino voters may have been more widespread than originally thought, according to new research."
+    publishedDateTime: 2021-04-04T12:18:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YmZWZxyXjWQ/trump-latino-2020-election-democrats-conservative"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 184
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b7693d9-a98e-450f-b0e5-2ca8da7bbbbb/ad0ab322-d7ad-46ba-9f0c-337c6a6ae7d1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20303618251253.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Pentagon diversity chief 'reassigned' after comparing Trump to Hitler on social media"
-    excerpt: "The Pentagon's new diversity chief has been \"reassigned\" amid an investigation of past social media posts including comparing former President Trump to Adolph Hitler, a U.S. defense official confirmed to Fox News on Tuesday."
-    publishedDateTime: 2021-03-30T13:58:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhGjo-Tv3Js/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media"
-    ampWebUrl: "https://www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+  - title: "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays"
+    excerpt: "The House Progressive Caucus on Tuesday called for the removal of Trump administration holdover officials they say are responsible for delaying the latest round of stimulus checks to 30 million Americans. "
+    publishedDateTime: 2021-03-30T20:55:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bg53eh9eE6E/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Durham taking his time to probe origins of Russia investigation, as Trump vents frustration"
+    excerpt: "Special Counsel John Durham's probe into the origins of the Russia investigation is ongoing, but critics, including former President Trump, have vented their frustration with his timeline and questioned whether he'll bring any additional charges."
+    publishedDateTime: 2021-03-29T16:24:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tGTx9nXPR0c/durham-probe-status-trump-frustration"
+    ampWebUrl: "https://www.foxnews.com/politics/durham-probe-status-trump-frustration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durham-probe-status-trump-frustration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden reversing Trump policy, quietly ramping up Palestinian aid"
+    excerpt: "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy."
+    publishedDateTime: 2021-04-03T12:41:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21085720002259.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Donald Trump launches official post-presidency website"
+    excerpt: "Former President Trump and former First Lady Melania Trump have launched their official website — vowing to “remain a tireless champion” for Americans as the"
+    publishedDateTime: 2021-03-30T12:15:00Z
+    webUrl: "https://nypost.com/2021/03/30/donald-trump-launches-official-post-presidency-website/"
+    ampWebUrl: "https://nypost.com/2021/03/30/donald-trump-launches-official-post-presidency-website/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/30/donald-trump-launches-official-post-presidency-website/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trumps-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Summer Zervos Lawsuit Against Donald Trump Can Move Forward"
+    excerpt: "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims."
+    publishedDateTime: 2021-03-30T17:51:00Z
+    webUrl: "https://www.wsj.com/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
+    ampWebUrl: "https://www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-318142/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Reversing Trump, Pentagon to release new transgender policy"
+    excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that the government wouldn’t accept or allow transgender ..."
+    publishedDateTime: 2021-03-31T18:41:00Z
+    webUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy"
+    ampWebUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/military-battlefield.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Pentagon to allow open transgender military service, reversing Trump policy"
     excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
@@ -78,6 +158,54 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays"
+    excerpt: "The lawmakers blamed Saul -- who was nominated by former President Donald Trump -- for the delays, which they said defied congressional intent and imposed needless anxiety on taxpayers. Saul, in a statement Thursday night, attributed the delay to a lack of ..."
+    publishedDateTime: 2021-03-30T20:58:00Z
+    webUrl: "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "First-quarter fundraising numbers showed high-profile support - or opposition - for Trump"
+    excerpt: "Miller announced his campaign against Gonzalez after the incumbent joined 10 other Republicans to vote to impeach former President Donald Trump for incitement of an insurrection over the Jan. 6 attack on the U.S. Capitol. Shortly after Miller entered the ..."
+    publishedDateTime: 2021-04-01T20:24:00Z
+    webUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach"
+    ampWebUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Trump-Max-Miller-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "School districts that backed Trump are returning to in-person classes more quickly, data shows"
+    excerpt: "School districts in counties where a majority of voters cast their ballots for Donald Trump in the 2020 presidential election are more likely to have students back in classrooms, according to a website that tracks reopenings."
+    publishedDateTime: 2021-03-30T14:22:00Z
+    webUrl: "https://www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows"
+    ampWebUrl: "https://www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/school-reopenings-based-on-voting.png?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Fresh Data Reveal How Trump Made Inroads With Latinos"
     excerpt: "A new analysis of U.S. voters suggests — counterintuitively — that the coronavirus pandemic may have helped drive former President Donald Trump's surprising increase in support from Latinos last November."

@@ -159,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Trump campaign reportedly cheated donors who thought they were making a one-time contribution, collecting recurring donations"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In what seemed to be an effort to bolster political contributions in the heat of the 2020 election against now President Joe Biden, the Trump 2020 campaign reportedly duped supporters into making recurring ..."
+    publishedDateTime: 2021-04-03T20:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/6068bbc8856cd700198a30e4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump-Dominated Appeals Court Rules Misgendering Professor Can Sue University"
     excerpt: "And they have tried not to stifle debate by picking sides.\" Judge Thapar, a Donald Trump appointee, was joined by Judges David McKeague and Joan Larsen. The two judges were appointed by George W. Bush and Trump, respectively. Shawnee State University ..."
     publishedDateTime: 2021-03-30T16:55:00Z

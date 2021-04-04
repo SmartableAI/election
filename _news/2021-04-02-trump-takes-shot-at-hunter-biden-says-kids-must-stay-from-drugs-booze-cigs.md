@@ -90,22 +90,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden reversing Trump policy, quietly ramping up Palestinian aid"
-    excerpt: "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy."
-    publishedDateTime: 2021-04-03T12:41:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21085720002259.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump calls Biden jobs plan 'massive giveaway to China,' says it will 'crush American workers'"
     excerpt: "Former President Donald Trump called President Biden's jobs plan a \"monstrosity\" that \"would be among the largest self-inflicted economic wounds in history.\""
     publishedDateTime: 2021-03-31T18:45:00Z

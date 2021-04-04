@@ -32,133 +32,195 @@ images:
     isCached: true
 
 related:
-  - title: "Trump quizzed four Ohio GOP Senate prospects at fundraiser: Report"
-    excerpt: "Former President Donald Trump spoke Wednesday night with four GOP candidates running to fill retiring Ohio Sen. Rob Portman’s seat in an intense meeting that one onlooker likened to the “Hunger Games,” according to a report."
-    publishedDateTime: 2021-03-25T23:29:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C28XxG-7i7w/trump-met-four-ohio-gop-senate-candidates-fundraiser-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-met-four-ohio-gop-senate-candidates-fundraiser-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-met-four-ohio-gop-senate-candidates-fundraiser-report.amp"
+  - title: "Democrats still searching for answers on Trump's appeal to Latinos in 2020 election"
+    excerpt: "Former President Donald Trump's appeal to Latino voters may have been more widespread than originally thought, according to new research."
+    publishedDateTime: 2021-04-04T12:18:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YmZWZxyXjWQ/trump-latino-2020-election-democrats-conservative"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 184
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03acda1a-8240-4be3-ba2c-f06b0db5e49d/7b11ea64-b085-4e5e-9260-066c41c33a79/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20303618251253.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Mo Brooks spotlights support for Trump as he launches Alabama Senate bid"
-    excerpt: "Rep. Mo Brooks is showcasing his support for former President Trump as he jumps into the race to succeed retiring longtime Republican Sen. Richard Shelby of Alabama."
-    publishedDateTime: 2021-03-22T23:51:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Uq_Nux5LF4/brooks-spotlights-support-for-trump-in-launching-senate-bid-in-alabama"
-    ampWebUrl: "https://www.foxnews.com/politics/brooks-spotlights-support-for-trump-in-launching-senate-bid-in-alabama.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brooks-spotlights-support-for-trump-in-launching-senate-bid-in-alabama.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Missouri Senate race sees second Trump supporter, AG Eric Schmitt, jump in"
-    excerpt: "Showcasing his support for former President Trump and taking aim at President Biden, Missouri GOP Attorney General Eric Schmitt on Wednesday announced his candidacy in the 2022 race to succeed retiring Republican Sen. Roy Blunt."
-    publishedDateTime: 2021-03-24T16:23:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W4E6aAAUlLY/missouri-senate-race-ag-eric-schmitt"
-    ampWebUrl: "https://www.foxnews.com/politics/missouri-senate-race-ag-eric-schmitt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-senate-race-ag-eric-schmitt.amp"
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
-    excerpt: "Sen. Lindsey Graham, R-S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
-    publishedDateTime: 2021-03-23T20:13:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8AnsHGyNlMk/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+  - title: "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays"
+    excerpt: "The House Progressive Caucus on Tuesday called for the removal of Trump administration holdover officials they say are responsible for delaying the latest round of stimulus checks to 30 million Americans. "
+    publishedDateTime: 2021-03-30T20:55:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bg53eh9eE6E/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Ex-Missouri Gov. Eric Greitens back in arena as pro-Trump Senate candidate, aims to replace retiring Blunt"
-    excerpt: "Former Missouri Gov. Eric Greitens is stepping back into the political arena after announcing last week that he will run for Senate in Missouri to replace the retiring Sen. Roy Blunt. "
-    publishedDateTime: 2021-03-29T16:33:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/atZcpCSnUEM/eric-greitens-senate-candidate-missouri-blunt"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-greitens-senate-candidate-missouri-blunt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-greitens-senate-candidate-missouri-blunt.amp"
+  - title: "Durham taking his time to probe origins of Russia investigation, as Trump vents frustration"
+    excerpt: "Special Counsel John Durham's probe into the origins of the Russia investigation is ongoing, but critics, including former President Trump, have vented their frustration with his timeline and questioned whether he'll bring any additional charges."
+    publishedDateTime: 2021-03-29T16:24:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tGTx9nXPR0c/durham-probe-status-trump-frustration"
+    ampWebUrl: "https://www.foxnews.com/politics/durham-probe-status-trump-frustration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durham-probe-status-trump-frustration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump backs challenger to Georgia's GOP secretary of state"
-    excerpt: "Former President Donald Trump's endorsing a bid by Rep. Jody Hice to oust Georgia Secretary of State Brad Raffensperger in next year's Republican primary."
-    publishedDateTime: 2021-03-22T15:30:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-secretary-of-state-raffensperger-jody-hice.amp"
+  - title: "Biden reversing Trump policy, quietly ramping up Palestinian aid"
+    excerpt: "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy."
+    publishedDateTime: 2021-04-03T12:41:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21085720002259.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Donald Trump launches official post-presidency website"
+    excerpt: "Former President Trump and former First Lady Melania Trump have launched their official website — vowing to “remain a tireless champion” for Americans as the"
+    publishedDateTime: 2021-03-30T12:15:00Z
+    webUrl: "https://nypost.com/2021/03/30/donald-trump-launches-official-post-presidency-website/"
+    ampWebUrl: "https://nypost.com/2021/03/30/donald-trump-launches-official-post-presidency-website/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/30/donald-trump-launches-official-post-presidency-website/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trumps-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Summer Zervos Lawsuit Against Donald Trump Can Move Forward"
+    excerpt: "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims."
+    publishedDateTime: 2021-03-30T17:51:00Z
+    webUrl: "https://www.wsj.com/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
+    ampWebUrl: "https://www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-318142/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Reversing Trump, Pentagon to release new transgender policy"
+    excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that the government wouldn’t accept or allow transgender ..."
+    publishedDateTime: 2021-03-31T18:41:00Z
+    webUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy"
+    ampWebUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Getty-Jody-Hice.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/military-battlefield.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Lindsey Graham says Trump shouldn't issue endorsements in GOP Senate primaries"
-    excerpt: "S.C., said Tuesday that former President Donald Trump should sit out the GOP primaries in Alabama and Missouri."
-    publishedDateTime: 2021-03-23T20:15:00Z
-    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-shouldnt-issue-endorsements-gop-senate-primaries.amp"
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays"
+    excerpt: "The lawmakers blamed Saul -- who was nominated by former President Donald Trump -- for the delays, which they said defied congressional intent and imposed needless anxiety on taxpayers. Saul, in a statement Thursday night, attributed the delay to a lack of ..."
+    publishedDateTime: 2021-03-30T20:58:00Z
+    webUrl: "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 131
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1295096238.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Mo Brooks, Eric Greitens latest Trump allies to jump in Senate races after old guard GOP retirements"
-    excerpt: "Mo Brooks of Alabama showcased his support and loyalty for former President Donald Trump as he launched his Senate campaign. To hammer home the point, he was accompanied by Stephen Miller, a top adviser to Trump during his tenure in the White House and the architect of the administration's hard line on illegal immigration."
-    publishedDateTime: 2021-03-23T15:51:00Z
-    webUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements"
-    ampWebUrl: "https://www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mo-brooks-eric-greitens-trump-allies-senate-races-old-guard-gop-retirements.amp"
+  - title: "School districts that backed Trump are returning to in-person classes more quickly, data shows"
+    excerpt: "School districts in counties where a majority of voters cast their ballots for Donald Trump in the 2020 presidential election are more likely to have students back in classrooms, according to a website that tracks reopenings."
+    publishedDateTime: 2021-03-30T14:22:00Z
+    webUrl: "https://www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows"
+    ampWebUrl: "https://www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/school-districts-that-backed-trump-are-returning-to-in-person-classes-more-quickly-data-shows.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 120
+    quality: 123
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/school-reopenings-based-on-voting.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Fresh Data Reveal How Trump Made Inroads With Latinos"
+    excerpt: "A new analysis of U.S. voters suggests — counterintuitively — that the coronavirus pandemic may have helped drive former President Donald Trump's surprising increase in support from Latinos last November."
+    publishedDateTime: 2021-04-02T16:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/02/fresh_data_reveal_how_trump_made_inroads_with_latinos_539593.html?mc_cid=15b3dd0249&mc_eid=848bcee76a"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/526159_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "NezHK4wVDJgceAZwdUBr8PMvfUW4VspSwsuPIcraiZ7p3+OqzqLVbqYlM/KLulUYNf27HVUuC+kcUnXqhEPYnh2G7qRDuWhhwYfG3Ehbnr2s+TgEvGQgUrw3ty3jfHIJkgTE7Nc8ksBnoG7mrBhQUvUrsXnJRoOJnxvtDdnYwVStF94Xp00LIO0OPA5nOSVEAtL6NmUDR7t5sQzzp3/BddiFTXw+9Gqx76W9vBAQZ5OoSfbzvPKMo2vczVJfxqbT8OP50uhOZUxSKYFtD/5d7DHDpsqMdx2CwjhCxc4Is7F9TSxk8XQ26SDDT3OVUcM6ii6/5jikhzbuFf8DB2uS9G8copMfr6iMZvxmn0Rro08zZKBrfeFp1v7VO44vM10KsPVpCYA+U/yNZlDqSASwm2QlSVBrfnyOmmclGZBB2hLvOtb56YGpWDbsJ4j4CPkaXOgpg1H8NKHgNmiJdJ1icnEYQOSWvR90KLroAkStJC4S0Y+jOwQlBsaOhS4bS793iFmJr6SjWVH+D0/8TQVebQ==;6WBBISHQmC3Y2DaBEFe1GA=="

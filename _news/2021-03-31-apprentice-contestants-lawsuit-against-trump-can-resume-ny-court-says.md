@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "MLB Boycott Calls Grow After Donald Trump Hits Out Over All-Star Game"
+    excerpt: "An effort to boycott Major League Baseball (MLB) has gained some traction on social media after former President Donald Trump urged people to punish MLB for its decision to move its All-Star Game out of Georgia. The move was in response to the state's new ..."
+    publishedDateTime: 2021-04-03T07:51:00Z
+    webUrl: "https://www.newsweek.com/mlb-boycott-calls-grow-after-donald-trump-hits-out-over-all-star-game-1580840"
+    ampWebUrl: "https://www.newsweek.com/mlb-boycott-calls-grow-after-donald-trump-hits-out-over-all-star-game-1580840?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mlb-boycott-calls-grow-after-donald-trump-hits-out-over-all-star-game-1580840?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1771300/former-president-donald-trump-throws-baseball.jpg"
+        width: 2526
+        height: 1684
+        isCached: true
   - title: "Italian pizza shop owner mistakenly sanctioned by Trump: ‘I thought it was a joke’"
     excerpt: "On the very last day President Donald Trump was in office in January, his administration announced new sanctions targeting a catering company in Verona, Italy. According to the U.S. Treasury, the measures were designed to defeat a “network attempting to ..."
     publishedDateTime: 2021-04-02T14:36:00Z

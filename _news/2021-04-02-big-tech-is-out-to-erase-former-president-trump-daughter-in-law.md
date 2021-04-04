@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: New York Post
@@ -28,35 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Summer Zervos Lawsuit Against Donald Trump Can Move Forward"
-    excerpt: "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims."
-    publishedDateTime: 2021-03-30T17:51:00Z
-    webUrl: "https://www.wsj.com/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
-    ampWebUrl: "https://www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-318142/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Donald Trump ‘moving forward’ with plans for own social media platform"
-    excerpt: "Former President Donald Trump and his team are “moving forward” with plans to create their own social media platform, a report published Wednesday said. “We’re moving forward,”"
-    publishedDateTime: 2021-03-31T18:49:00Z
-    webUrl: "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/"
-    ampWebUrl: "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/amp/"
+  - title: "Trump blasts big tech ‘censorship’ after interview pulled by Facebook"
+    excerpt: "Former President Donald Trump on Thursday night decried big tech “censorship” after an interview he gave to his daughter-in-law, Lara Trump, was taken off Facebook. “I did a very nice interview"
+    publishedDateTime: 2021-04-02T04:39:00Z
+    webUrl: "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/"
+    ampWebUrl: "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-social-media.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/F9071EBA-D99C-4F65-A1BA-BBA41328E98D.jpeg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

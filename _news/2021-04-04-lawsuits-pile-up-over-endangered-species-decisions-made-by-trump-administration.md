@@ -143,6 +143,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Trump campaign reportedly cheated donors who thought they were making a one-time contribution, collecting recurring donations"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In what seemed to be an effort to bolster political contributions in the heat of the 2020 election against now President Joe Biden, the Trump 2020 campaign reportedly duped supporters into making recurring ..."
+    publishedDateTime: 2021-04-03T20:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/6068bbc8856cd700198a30e4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies"
     excerpt: "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,"
     publishedDateTime: 2021-03-24T10:29:00Z
@@ -204,6 +220,6 @@ related:
         height: 682
         isCached: true
 
-secured: "ERbTwVcvvn7jZw2/jdsu1t/e10coRqLVsHv+tWFbjJWcR9TYR2vZpOEmFpTLLV66Z6wTg94jvbmIsLYi9sQyCiajvp4ZRat+X9u7S505gmCStBZqzbgTV3AYWIiNLOp/xgWbAuVCqt8adAKhCKZlXBkno36J1EsG1IY/pD/pBKPOFr1BZQ87LrIbzyY2uETRLL94QiSJtCd0oRQ/k7Pd9CdMwmHZl6Udr+FfDFLvAVCTy29aSS/M7xZqkPG7hjh5DI5T8q1sSdXS7yL1oLKYCh1XCnLQALn7/BxXKYgK1/aKOtC1VlaXtX0kkU64in4Bp+cE9Pic3eks+FoMhjXgOowGiabfcDs+j+VDqeMTS+M=;VWLzQXr9qxCs9SogeeITXg=="
+secured: "wvVX2TG5XYDHMGsIptbXfbR1j+g4ovFSSKxSjbnJDWeIANVCkseB30bIo2Ovb9TcGSIRE+tt2pAi1k3CVyo9jEOQ3oAtNQ7lZlNDRBtaJUSxJB+FaQW2oXnNB1q3+KYES2LkpNqmgiTmLJGKUepKo6fpBA2QPm69uAJUjNCNv+V4kAGcKEvhZpqkNXop5Qi+xT/ymncX8SqGMfMaIUnLzVWArNfpcjUjxQyO0ILA3U8M+pNfJwSLEbu6nKMi9b0Hg/ZuToIkGJ5h8Rn1hygWcfzq3/+nhVcCuPZCBZvjWoR0BaMkD6RGIJ5ZO4AOEH8TjqzcjUOPgpVbYsZH+MvN+izNNye4zlFQdyahxaR4qKFQFOBfqtuvc1XS26RvuCAN2T+P0lYMZqXgKpz9EPo11x18fNEDLqb7JsIko6Ti5Yn+pWhwrQIPxJyHEU4cYxm4I49PA2yVCQCzFuzt1XMUX/YNKsrC9UL8mBDgHzjQihFoJi1uMIvDYFlmzw92sTUJp/in3Kd1q4XH8yHpVw0FGg==;QJAayIrGnF5qs1+r+IKQ4w=="
 ---
 
