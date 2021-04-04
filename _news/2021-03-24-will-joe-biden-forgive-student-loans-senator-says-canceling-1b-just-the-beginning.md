@@ -528,20 +528,20 @@ related:
         height: 551
         isCached: true
   - title: "7 governors call on Biden to lift $10K cap on tax deductions"
-    excerpt: "Seven Democratic governors are calling on President Joe Biden to lift the $10,000 cap on state and local tax deductions that was a part of former President Donald Trump’s massive 2017 tax law"
-    publishedDateTime: 2021-04-02T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/national/7-governors-call-on-biden-to-lift-10k-cap-on-tax-deductions/2021/04/02/2e420a4a-9400-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/7-governors-call-on-biden-to-lift-10k-cap-on-tax-deductions/2021/04/02/2e420a4a-9400-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/7-governors-call-on-biden-to-lift-10k-cap-on-tax-deductions/2021/04/02/2e420a4a-9400-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    excerpt: "Seven Democratic governors are calling on President Joe Biden to lift the $10,000 cap on state and local tax deductions that was a part of former President Donald Trump’s massive 2017 tax law ..."
+    publishedDateTime: 2021-04-02T22:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Biden 'heartbroken' at officer's death in U.S. Capitol incident"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Friday he was heartbroken that a U.S. Capitol police officer was killed in a violent incident at a security checkpoint on the U.S. Capitol grounds, the White House said in a statement. Biden said he ..."

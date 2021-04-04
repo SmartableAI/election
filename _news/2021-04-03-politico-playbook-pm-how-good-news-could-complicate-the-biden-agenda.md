@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Infrastructure timeline emerges as Biden aims to pass sweeping package this summer "
-excerpt: "President Joe Biden is aiming to pass his sweeping infrastructure and jobs proposal this summer, a senior White House official told CNN, setting an ambitious timeline to achieve his next major legislative goal.\n    \n"
-publishedDateTime: 2021-03-30T16:18:53Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KCfvddchbNc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KCfvddchbNc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-timeline/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-timeline/index.html"
+title: "POLITICO Playbook PM: How good news could complicate the Biden agenda"
+excerpt: "President JOE BIDEN summed up the contradictions neatly in his remarks this morning, touting the progress and hope but warning that the work is not done as the coronavirus surges in some parts of the country. “Too many Americans are acting like this ..."
+publishedDateTime: 2021-04-02T17:33:00Z
+originalUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/02/how-good-news-could-complicate-the-biden-agenda-492345"
+webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/02/how-good-news-could-complicate-the-biden-agenda-492345"
 type: article
-quality: 169
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/3c/c7/a6d0c0ff4f0b9e35139b3adfe8c0/gettyimages-1232071723.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -124,6 +123,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205121011-07-chuck-schumer-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Infrastructure timeline emerges as Biden aims to pass sweeping package this summer "
+    excerpt: "President Joe Biden is aiming to pass his sweeping infrastructure and jobs proposal this summer, a senior White House official told CNN, setting an ambitious timeline to achieve his next major legislative goal.\n    \n"
+    publishedDateTime: 2021-03-30T16:18:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KCfvddchbNc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-timeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-timeline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -255,20 +270,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "POLITICO Playbook PM: How good news could complicate the Biden agenda"
-    excerpt: "President JOE BIDEN summed up the contradictions neatly in his remarks this morning, touting the progress and hope but warning that the work is not done as the coronavirus surges in some parts of the country. “Too many Americans are acting like this ..."
-    publishedDateTime: 2021-04-02T17:33:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/02/how-good-news-could-complicate-the-biden-agenda-492345"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/3c/c7/a6d0c0ff4f0b9e35139b3adfe8c0/gettyimages-1232071723.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "The three words not in Biden's infrastructure plan"
     excerpt: "We all know JOE BIDEN likes — okay, loooooooves — trains. So it’s no surprise that the infrastructure plan he proposed this week includes $80 billion for national and intercity rail over eight years, or $10 billion a year — five times the annual $2 ..."
     publishedDateTime: 2021-04-02T22:53:00Z
@@ -298,6 +299,6 @@ related:
         height: 619
         isCached: true
 
-secured: "XA1SgyB3OGgnwinQUmxneboSuNgCJFCcaIqiIbRcl4D7uwGhUAGBpOm6aFbs5iniH7hUhTcT1zfVgJLU8jRYjapeSHlvqaPJlpscaJocL9lqUYVviD8HPJ2O+iYNym7xwo4UF71axXD/O26l5eB7FZUPRQUcy4axtaCbcHnsRr/EIBM55zUiMC7H8R3pxk1U3hAJoeHCTdUmmJNNftx4MVGLjM6pIp0eBGEoLWiqIseGsF4TDGPN+xOlXOc9GHHrGJJXoPjSQUsu5CtzKhClZKg0gBtbHDc6rRKPNz90YcM0A8/fX3oj8Yh1Cj+m3T9Vl++6Q+dFTFbJnK4HJ4bRLRz7cq6JcOmV2pF5JFJ0SpE=;PKW7VcoEfP2ZTGlGA9Q3aQ=="
+secured: "yfcbDcnPIdz4GZ+3KL934T6pagcLcpfJ10sPzA4BYupGNSs2ffbXwvFzS1gxUXR788NtaWDAj89kBtuAs/DRr+2MfH2R7w3dtLcdjeZcV4KmEEj1qa5s3hKsJ9ogbDsfVEMQJTPi5S3mjCulcLazWvXN3b8dkPXdzB7dit9adM/c/T/FS89spqSM0q5FSBbiVxf8sbXybSHrlzb3Cp6DEckP3PapTXRIh2DdRpS/QejH6Yp72IOFe1MzX84to9Z1rWT/roTWwg94hzqzh38vBsD1KxUeTa8C9ldCmG8fEwlniGrr1FOUzl9Qy7qo+htEvp5XhQM8AwYQXmtMIog39xzrL0UsGlMEVcsJe4oWuxY=;Of7Dmjn4ebzfOKoIWmKM/A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -254,6 +254,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329125221-07-nyse-0323-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "POLITICO Playbook PM: How good news could complicate the Biden agenda"
+    excerpt: "President JOE BIDEN summed up the contradictions neatly in his remarks this morning, touting the progress and hope but warning that the work is not done as the coronavirus surges in some parts of the country. “Too many Americans are acting like this ..."
+    publishedDateTime: 2021-04-02T17:33:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/02/how-good-news-could-complicate-the-biden-agenda-492345"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3c/c7/a6d0c0ff4f0b9e35139b3adfe8c0/gettyimages-1232071723.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The three words not in Biden's infrastructure plan"
     excerpt: "We all know JOE BIDEN likes — okay, loooooooves — trains. So it’s no surprise that the infrastructure plan he proposed this week includes $80 billion for national and intercity rail over eight years, or $10 billion a year — five times the annual $2 ..."

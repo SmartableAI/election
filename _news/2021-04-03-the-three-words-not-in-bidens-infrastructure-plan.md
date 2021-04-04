@@ -270,6 +270,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "POLITICO Playbook PM: How good news could complicate the Biden agenda"
+    excerpt: "President JOE BIDEN summed up the contradictions neatly in his remarks this morning, touting the progress and hope but warning that the work is not done as the coronavirus surges in some parts of the country. “Too many Americans are acting like this ..."
+    publishedDateTime: 2021-04-02T17:33:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/02/how-good-news-could-complicate-the-biden-agenda-492345"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3c/c7/a6d0c0ff4f0b9e35139b3adfe8c0/gettyimages-1232071723.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
     excerpt: "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ..."
     publishedDateTime: 2021-03-19T17:41:00Z

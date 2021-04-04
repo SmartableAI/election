@@ -1,22 +1,22 @@
 ---
 category: news
 title: "7 governors call on Biden to lift $10K cap on tax deductions"
-excerpt: "Seven Democratic governors are calling on President Joe Biden to lift the $10,000 cap on state and local tax deductions that was a part of former President Donald Trump’s massive 2017 tax law"
-publishedDateTime: 2021-04-02T22:10:00Z
-originalUrl: "https://www.washingtonpost.com/national/7-governors-call-on-biden-to-lift-10k-cap-on-tax-deductions/2021/04/02/2e420a4a-9400-11eb-aadc-af78701a30ca_story.html"
-webUrl: "https://www.washingtonpost.com/national/7-governors-call-on-biden-to-lift-10k-cap-on-tax-deductions/2021/04/02/2e420a4a-9400-11eb-aadc-af78701a30ca_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/7-governors-call-on-biden-to-lift-10k-cap-on-tax-deductions/2021/04/02/2e420a4a-9400-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/7-governors-call-on-biden-to-lift-10k-cap-on-tax-deductions/2021/04/02/2e420a4a-9400-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+excerpt: "Seven Democratic governors are calling on President Joe Biden to lift the $10,000 cap on state and local tax deductions that was a part of former President Donald Trump’s massive 2017 tax law ..."
+publishedDateTime: 2021-04-02T22:09:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
+webUrl: "https://abcnews.go.com/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/governors-call-biden-lift-10k-cap-tax-deductions-76843102"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -1289,6 +1289,6 @@ related:
         height: 604
         isCached: true
 
-secured: "1UPjGhv8sPAkCgCR2P0JmqkaxI805wl/w6uBmnFc0YSxY9HTxs26v6xnrQCrDro5OpqE6a4G1qEY0bdLF6y3PQXJnUvepWYRaEaRl/i3maugvOtDJkrwH5w/8oAKzZXmNUoT6dVGpt9u+aiKIx9YQ+rqoAvPPIJeKusBcDHNHHv13v13O6E46jIErp49i/0Olj/I8WtHTfDxk04gksGOMiZcuKt1QFb4oxZ9Bqv9UDGloqTuE5odiVjPI6NWrFUjsBk/J35PgxRFk1sHdD0YAp7ArMl+1CGA6eGuQ3PS7vljUlFXJ9+eUIQSWQBn3ZPsLDaQl8L6R9N5Ea4DZbxsofKIpt7J0rdRKuIzoaXAwd0=;BoB9EZoTyTP8sUuhQx43tw=="
+secured: "s6Hn3ydih3mF/+AE/a3Dzqb7rfVqyBiRH9Jry5l70tf473snD9A2hjC27oEwsJOK2MmoE8rs6FGryE7OxqCdC6Cbs6/I99Lvpy5kCvMWdiMjayjUkyS45ktjHYJz8/7FcpWakh8RQCpIGbCtrY8yVJtUTj15ci676sde1jLwe/Jgtx+M6W6nhf4mqTx6Bv8ykprENmjl6pkhiz7I5n4z85xDedUrF2u7f+y4TLWTdUQiUoGyYqT6BR1LeomuwNXnct6HRhjftXydUC2Yb5NVcAB0Z5/+KoiB9zOC9BKateIiqqNVLpEMluwkucLsaWS+XqJ3bYupzXld6pIMdF0ISiA0xuzI6YY2QsFoj6M8PYg=;bho1Bul4Ve3pMHaAiGYjYQ=="
 ---
 
