@@ -95,6 +95,22 @@ related:
         width: 890
         height: 545
         isCached: true
+  - title: "Conservative writer says Trump's Save America PAC is hurting his supporters"
+    excerpt: "Pedro Gonzalez, assistant editor of the conservative website American Greatness, told Hill.TV that former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls ..."
+    publishedDateTime: 2021-04-04T16:00:00Z
+    webUrl: "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters"
+    ampWebUrl: "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
     excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
     publishedDateTime: 2021-04-04T02:23:00Z
@@ -220,6 +236,6 @@ related:
         height: 682
         isCached: true
 
-secured: "hHpR87b06fUmW+k0wH1lFQ1OXWXvcsbue/IcYrXQZkDPkIc3/ggCq/b+vxuvM3IzAMqz8026e/00hDfgH/BYMSz+B6/z7txnOMkv0e4VW0gM5JWK5fFjqStbmMDUf4FDO2+J+buF5JnloSQOTmYn84Zd0eKQGvCJHSSLgtRBa+JXSRvabcYDwZT0KWH2wN5yLnwOUDs4Nk5gX/DyCOiR+sLo5CN1XkK0Lq9hQX/aiFwzLFO9zFs9zNUFskHQd60Jjr16cA8FwTpkTKsHGaogfzwL9EW7k7h4hr8Y5aEZwPl/FJdq81VqeWkP9HAyZ7eiZa9npdsptgL39IpQv+KjIyLaje1xLpMfjKrMyPDbUv8=;Ut6wQcrxkW9V7hh/hkYVMA=="
+secured: "CoL+OW6hrBP7mvFIPc2PmIHbU4q5s6CqhjEHEYk/T9uyKs9UiN35JtL5gwi7GnqlljTXHSESL2AA5vvqrMTBtSngqoyoVO2CU7Lw9YZUIKC3c5yUB0CSYcvht47TrLV7f5krPI72LcZ7aKpbkBRlA+QXFfHP+Stm+qcR8CCDepzVjyO21frV5zF2ydSOJDDornn3YWHdBsK7kat4R/czNXKKPO4tjZLXmestYLaCaXxOoywK5JleDL5yLZATcTmv5SROkTyIYiqVkBP/Tyi49f20RAjGmUJioVfRqoYIgRUcn+RH0B6HKPrIMA1P3W4ZPzsew2p8PoTOdduAjn3/VtpazfzUOOnlLNnohhuaIZNZ3clTl2T6obEYEnwXvlL3crF79djH+NkAik9/J+lp8LUDl2bg2+RTXLjVX6Iui4db6PoM0QNh6zKD0z7mx/Gy5ZsEzKqscV3N0uaWxyrYY1q6cYzRVMhe+5Aw4AJrIxOVgyNjHUsmfWs/RuWf/W0lqyClYp4fZxptESPx1jRVvQ==;cKvT3CN00i62+pmySEKhzw=="
 ---
 

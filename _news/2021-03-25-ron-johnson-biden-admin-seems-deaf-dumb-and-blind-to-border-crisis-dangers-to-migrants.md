@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-dangers-to-migr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-dangers-to-migrants-ron-johnson.amp"
 type: article
 quality: 165
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8253857f-4b01-47f7-80ce-5ef872abead0/8f71d700-0198-4b34-a857-db543ac49bb4/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Sen. Ron Johnson: Biden border policies facilitating business of the 'most evil people on the planet'"
-    excerpt: "Sen. Ron Johnson, R-Wis., slammed the Biden administration’s immigration plan as \"misguided\" telling \"Fox News Primetime\" it is going to lead to \"greater inhumanity.\""
-    publishedDateTime: 2021-03-31T04:28:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pu62k5rxjm0/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "vlz/Hh29iufExDV1RH0IYnpSdooMJVwFfS+GTtHQP53iTf9/WO03KGF2IeI8zgrfOuKq2cGaMbNFVhw4FXLaIBTSmBsXHgxORtsq05v7W6Mpj+Pv6twueRi9PsxYco8DIQK9JfwZfBDB1jtUumMHll65CAkTesiG7VL/MejPs5oq1VD7K3rQd/zjGnxSIMbTAW4vrTDvx69HslUDDG0FM+58DpQ4MFIyFJVc917v/RLPT64Tg38uGjWyE10d+BM2FMeTCVTebBLxGMC0ws5aejh5zVC4HtAv2lBmiwH47BniLe0Vkc+ToO/taKbZw8tmTw1RaRu3d+MzuX05QXfy4Ybpz19WxOOGeO/thBw2bCg=;GwN2h/ganlA5rQMwjgsJUQ=="

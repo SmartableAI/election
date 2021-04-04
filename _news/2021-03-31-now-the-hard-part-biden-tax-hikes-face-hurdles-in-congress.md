@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN24Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN24Y"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556886083&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0SL"
         width: 817
         height: 545
+        isCached: true
+  - title: "Democrat: Biden infrastructure plan needs more funding for affordable housing"
+    excerpt: "Democratic Rep. Ritchie Torres (N.Y.) on Sunday criticized President Biden Joe Biden Lawmakers say fixing border crisis is Biden's job Trump calls for Republicans to boycott companies amid voting ..."
+    publishedDateTime: 2021-04-04T16:15:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/546375-democratic-rep-criticizes-biden-infrastructure-plan-for-not-enough"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/546375-democratic-rep-criticizes-biden-infrastructure-plan-for-not-enough?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/546375-democratic-rep-criticizes-biden-infrastructure-plan-for-not-enough?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/torresritchie_ny15.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "The Daily 202: Biden infrastructure push could face SALT-y Democratic challenge"
     excerpt: "Welcome to The Daily 202 newsletter! T ell your friends to sign up here. Support our journalism. Subscribe today. As President Biden tries to corral the votes to muscle through his $2 trillion infrastructure package,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-texas-biden-violating-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-texas-biden-violating-federal-law-migrant-shelters.amp"
 type: article
 quality: 161
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Barrasso slams Biden over kids in 'captivity,' says he was told to delete photos of border facilities"
+    excerpt: "Senate Republican Conference Chair Sen. John Barrasso on Sunday slammed the Biden administration over minors in \"captivity\" at the border being packed \"in like sardines\" as Republicans continue to hammer the president over what they say is a border crisis."
+    publishedDateTime: 2021-04-04T16:29:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gM2vxO6zN0c/barrasso-biden-border-kids-in-captivity-delete-photos"
+    ampWebUrl: "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Dan Bongino slams Biden admin on migrant facilities: 'Why are you treating people like animals?'"
     excerpt: "We own this, it’s our country. It’s not Joe Biden’s, okay? It’s ours. Are we not entitled to see this? And think of the nonsense from that press person or whoever she was. She’s a government employee, which is scary. Your tax dollars are paying ..."
     publishedDateTime: 2021-03-29T14:45:00Z
