@@ -59,6 +59,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-04-dominion-will-one-canadian-company-bring-down-trumps-empire-of-disinformation.md",
+      "title": "Dominion: will one Canadian company bring down Trump's empire of disinformation?",
+      "excerpt": "Dominion has filed defamation lawsuits against several Trump allies for pushing election ‘radioactive falsehoods’ – could it triumph? Last modified on Sun 4 Apr 2021 02.01 EDT When Donald Trump and his allies pushed the “big lie” of voter fraud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/52126a829e901e0c283655aa51405cf255bfb0fc/0_79_2350_1410/master/2350.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f64f72dd689637d64f85025eabe68e81",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "publishedDateTime": "2021-04-03T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-trump-money-bomb-scheme-raised-millions-from-unwitting-donors-report.md",
       "title": "Trump 'money bomb' scheme raised millions from unwitting donors – report",
       "excerpt": "Practice that used pre-checked boxes and obscure design on fundraising emails condemned as ‘unethical and inappropriate’ Last modified on Sat 3 Apr 2021 15.45 EDT Donald Trump’s 2020 presidential campaign used pre-checked boxes and obscure design on ...",
@@ -143,6 +195,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-is-mlb-losing-tremendous-numbers-of-fans-as-donald-trump-claims.md",
+      "title": "Is MLB Losing 'Tremendous Numbers of Fans,' as Donald Trump Claims?",
+      "excerpt": "Former President Donald Trump called for a boycott of Major League Baseball (MLB) on Friday in response to their decision to move the All-Star Game out of Georgia due to the state's controversial new election law. \"Baseball is already losing tremendous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852",
+      "originalUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1771314/los-angeles-dodgers-celebrate-their-victory.jpg",
+          "width": 3413,
+          "height": 2275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852?amp=1",
+      "publishedDateTime": "2021-04-03T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1461,110 +1565,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-trump-ally-matt-gaetz-say-he-faces-federal-investigation-regarding-sexual-conduct.md",
-      "title": "Trump ally Matt Gaetz say he faces federal investigation 'regarding sexual conduct'",
-      "excerpt": "Florida Republican congressman says he has never had sexual relationship with underage girl Matt Gaetz, a prominent Republican in Congress and a close ally of Donald Trump, said on Tuesday he was being investigated by the justice department over a former ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e19abbddbb06134f5509b2b4af66e4186711a8d8/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b3f2957a9a90f90582890cf4af0d18a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "publishedDateTime": "2021-03-30T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-poll-one-third-would-use-a-trump-backed-social-media-platform.md",
-      "title": "Poll: One-third would use a Trump-backed social media platform",
-      "excerpt": "One-third of voters said they would use a social media platform that was backed by former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite vaccine ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform",
-      "originalUrl": "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_010421getty_trump-va.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp",
-      "publishedDateTime": "2021-03-30T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-23-in-backing-south-carolina-gop-chair-trump-remains-active.md",
+      "title": "In backing South Carolina GOP chair, Trump remains active",
+      "excerpt": "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-23T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-biden-trudeau-meeting-canadians-glad-to-get-beyond-trump-but-new-administration-brings-new-friction.md",
+      "title": "Biden-Trudeau meeting: Canadians glad to get beyond Trump, but new administration brings new friction",
+      "excerpt": "Relations between the leaders are likely to be more harmonious, but they differ on pipeline projects, Biden's \"Buy American\" policies and, possibly, vaccine cooperation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/",
+      "originalUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AKLUKDAAYI6XILXO5S7FGUVEQ.jpg&w=1440",
+          "width": 1440,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp",
+      "publishedDateTime": "2021-02-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-one-question-for-manhattan-da-candidates-will-you-prosecute-trump.md",
       "title": "One Question for Manhattan D.A. Candidates: Will You Prosecute Trump?",
       "excerpt": "The investigation into Donald J. Trump has been the focus of enormous attention, but candidates have mostly avoided talking about the case.",
@@ -1511,111 +1615,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-trump-and-giuliani-sued-by-democratic-congressman-over-deadly-capitol-riot-live.md",
-      "title": "Trump and Giuliani sued by Democratic congressman over deadly Capitol riot – live",
-      "excerpt": "Bennie Thompson accuses Trump and allies of violating 1871 act that prohibits violence that disrupts work of Congress – follow all the latest",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 430,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/af1d76d3db59aaf37cdf030c990b71e6d58dc183/0_39_4393_2635/master/4393.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=506d4603234fc6be44766f4013f3d6ce",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
-      "publishedDateTime": "2021-02-16T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-gop-sen-richard-burr-facing-censure-at-home-over-vote-to-convict-trump.md",
-      "title": "GOP Sen. Richard Burr facing censure at home over vote to convict Trump",
-      "excerpt": "The North Carolina GOP is set to vote on a censure on retiring Sen. Richard Burr in an emergency meeting Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
-      "originalUrl": "https://abcnews.go.com/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/burr-impeachment-5-ap-ps-210213_1613251643612_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
-      "publishedDateTime": "2021-02-15T18:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

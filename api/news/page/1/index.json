@@ -59,6 +59,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-04-dominion-will-one-canadian-company-bring-down-trumps-empire-of-disinformation.md",
+      "title": "Dominion: will one Canadian company bring down Trump's empire of disinformation?",
+      "excerpt": "Dominion has filed defamation lawsuits against several Trump allies for pushing election ‘radioactive falsehoods’ – could it triumph? Last modified on Sun 4 Apr 2021 02.01 EDT When Donald Trump and his allies pushed the “big lie” of voter fraud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/52126a829e901e0c283655aa51405cf255bfb0fc/0_79_2350_1410/master/2350.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f64f72dd689637d64f85025eabe68e81",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "publishedDateTime": "2021-04-03T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-where-is-kamala-not-at-the-southern-border-lara-trump-reacts.md",
       "title": "Where is Kamala? Not at the southern border; Lara Trump reacts",
       "excerpt": "Fox News Contributor Lara Trump slammed Kamala Harris Saturday on \"Watters' World\" for refusing to visit the southern border more than a week after the Vice President was tasked with managing the crisis, and as the influx of migrants continues to grow. ",
@@ -436,6 +488,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-is-mlb-losing-tremendous-numbers-of-fans-as-donald-trump-claims.md",
+      "title": "Is MLB Losing 'Tremendous Numbers of Fans,' as Donald Trump Claims?",
+      "excerpt": "Former President Donald Trump called for a boycott of Major League Baseball (MLB) on Friday in response to their decision to move the All-Star Game out of Georgia due to the state's controversial new election law. \"Baseball is already losing tremendous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852",
+      "originalUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1771314/los-angeles-dodgers-celebrate-their-victory.jpg",
+          "width": 3413,
+          "height": 2275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852?amp=1",
+      "publishedDateTime": "2021-04-03T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1243,110 +1347,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way.md",
-      "title": "McConnell says Biden's infrastructure package won't get GOP support, will oppose it 'every step of the way'",
-      "excerpt": "Senate Minority Leader Mitch McConnell on Thursday told reporters President Biden’s proposed $2.3 trillion infrastructure package \"is not going to get support\" from Republicans and said he plans to oppose it \"every step of the way.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wo4Vg7aR8tI/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wo4Vg7aR8tI/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Mcconnell-Biden-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way.amp",
-      "publishedDateTime": "2021-04-01T22:54:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-trump-blasts-big-tech-censorship-after-interview-pulled-by-facebook.md",
-      "title": "Trump blasts big tech ‘censorship’ after interview pulled by Facebook",
-      "excerpt": "Former President Donald Trump on Thursday night decried big tech “censorship” after an interview he gave to his daughter-in-law, Lara Trump, was taken off Facebook. “I did a very nice interview",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/",
-      "originalUrl": "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/F9071EBA-D99C-4F65-A1BA-BBA41328E98D.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/",
-      "publishedDateTime": "2021-04-01T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

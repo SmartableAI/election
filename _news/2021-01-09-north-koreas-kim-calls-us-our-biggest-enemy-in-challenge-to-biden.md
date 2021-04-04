@@ -189,6 +189,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Just Under 6 Percent of Biden's Infrastructure Plan Goes to Roads and Bridges"
+    excerpt: "President Joe Biden's new infrastructure and jobs plan has received criticism from some opponents since he unveiled the proposal earlier this week, partly because of the amount it would spend on improving roads and bridges. According to a White House fact ..."
+    publishedDateTime: 2021-04-02T20:24:00Z
+    webUrl: "https://www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783"
+    ampWebUrl: "https://www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1771223/joe-biden-infrastructure-bill.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "House Freedom Caucus chair writes to Biden objecting to infrastructure proposal"
     excerpt: "House Freedom Caucus chairman Andy Biggs (R-Ariz.) on Wednesday wrote to President Biden expressing his opposition to the White House's $2 trillion infrastructure proposal, joining other congressional"
     publishedDateTime: 2021-04-01T02:14:00Z

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-02-mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way.md",
+      "title": "McConnell says Biden's infrastructure package won't get GOP support, will oppose it 'every step of the way'",
+      "excerpt": "Senate Minority Leader Mitch McConnell on Thursday told reporters President Biden’s proposed $2.3 trillion infrastructure package \"is not going to get support\" from Republicans and said he plans to oppose it \"every step of the way.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wo4Vg7aR8tI/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wo4Vg7aR8tI/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Mcconnell-Biden-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way.amp",
+      "publishedDateTime": "2021-04-01T22:54:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-trump-blasts-big-tech-censorship-after-interview-pulled-by-facebook.md",
+      "title": "Trump blasts big tech ‘censorship’ after interview pulled by Facebook",
+      "excerpt": "Former President Donald Trump on Thursday night decried big tech “censorship” after an interview he gave to his daughter-in-law, Lara Trump, was taken off Facebook. “I did a very nice interview",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/",
+      "originalUrl": "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/F9071EBA-D99C-4F65-A1BA-BBA41328E98D.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/",
+      "publishedDateTime": "2021-04-01T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-abbott-claims-biden-admin-clearly-in-violation-of-federal-law-by-overcrowding-migrant-facilities.md",
       "title": "Abbott claims Biden admin 'clearly in violation' of federal law by overcrowding migrant facilities",
       "excerpt": "Texas Republican Gov. Greg Abbott called out the Biden administration on \"Hannity\" Thursday over what Abbott described as \"outrageous\" conditions in migrant holding facilities near the southern border.",
@@ -1243,115 +1347,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-jill-biden-urges-farmworkers-to-get-vaccinated-in-california.md",
-      "title": "Jill Biden urges farmworkers to get vaccinated in California",
-      "excerpt": "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_582476d4c83f4a849953260173f0be01_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T21:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.md",
-      "title": "San Diego county official rips Biden, Newsom as migrant children prioritized over Calif. students",
-      "excerpt": "San Diego County Supervisor Jim Desmond sounded off on \"Hannity\" Wednesday, after the Biden administration sent hundreds of Central American migrant children to be housed and formally educated by local teachers at the San Diego Convention Center,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students",
-      "originalUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e162a72f-61f2-4cb6-a307-213bc8dc6f7d/9e440e21-ca35-453e-8c97-44ed1006db4d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
-      "publishedDateTime": "2021-03-31T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

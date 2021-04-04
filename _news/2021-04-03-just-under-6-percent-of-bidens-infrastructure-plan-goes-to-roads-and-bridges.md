@@ -1,22 +1,22 @@
 ---
 category: news
-title: "North Korea responds to Biden's criticism of ballistic-missile test, accusing administration of 'gangster-like logic'"
-excerpt: "DOW S&P 500 NASDAQ 100 North Korea on Friday issued a scathing statement in response to President Joe Biden's recent condemnation of North Korea's recent missile tests. North Korea's state media quoted top North Korean military official Ri Pyong Chol ..."
-publishedDateTime: 2021-03-27T00:49:00Z
-originalUrl: "https://www.businessinsider.com/north-korea-accuses-biden-admin-of-gangster-like-logic-2021-3"
-webUrl: "https://www.businessinsider.com/north-korea-accuses-biden-admin-of-gangster-like-logic-2021-3"
-ampWebUrl: "https://www.businessinsider.com/north-korea-accuses-biden-admin-of-gangster-like-logic-2021-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-korea-accuses-biden-admin-of-gangster-like-logic-2021-3?amp"
+title: "Just Under 6 Percent of Biden's Infrastructure Plan Goes to Roads and Bridges"
+excerpt: "President Joe Biden's new infrastructure and jobs plan has received criticism from some opponents since he unveiled the proposal earlier this week, partly because of the amount it would spend on improving roads and bridges. According to a White House fact ..."
+publishedDateTime: 2021-04-02T20:24:00Z
+originalUrl: "https://www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783"
+webUrl: "https://www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783"
+ampWebUrl: "https://www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783?amp=1"
 type: article
-quality: 102
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/605e797b8e71b3001851920f?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://d.newsweek.com/en/full/1771223/joe-biden-infrastructure-bill.jpg"
+    width: 2500
+    height: 1663
     isCached: true
 
 related:
@@ -191,22 +191,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Just Under 6 Percent of Biden's Infrastructure Plan Goes to Roads and Bridges"
-    excerpt: "President Joe Biden's new infrastructure and jobs plan has received criticism from some opponents since he unveiled the proposal earlier this week, partly because of the amount it would spend on improving roads and bridges. According to a White House fact ..."
-    publishedDateTime: 2021-04-02T20:24:00Z
-    webUrl: "https://www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783"
-    ampWebUrl: "https://www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1771223/joe-biden-infrastructure-bill.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
   - title: "House Freedom Caucus chair writes to Biden objecting to infrastructure proposal"
     excerpt: "House Freedom Caucus chairman Andy Biggs (R-Ariz.) on Wednesday wrote to President Biden expressing his opposition to the White House's $2 trillion infrastructure proposal, joining other congressional"
     publishedDateTime: 2021-04-01T02:14:00Z
@@ -322,7 +306,23 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "North Korea responds to Biden's criticism of ballistic-missile test, accusing administration of 'gangster-like logic'"
+    excerpt: "DOW S&P 500 NASDAQ 100 North Korea on Friday issued a scathing statement in response to President Joe Biden's recent condemnation of North Korea's recent missile tests. North Korea's state media quoted top North Korean military official Ri Pyong Chol ..."
+    publishedDateTime: 2021-03-27T00:49:00Z
+    webUrl: "https://www.businessinsider.com/north-korea-accuses-biden-admin-of-gangster-like-logic-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/north-korea-accuses-biden-admin-of-gangster-like-logic-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-korea-accuses-biden-admin-of-gangster-like-logic-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/605e797b8e71b3001851920f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "Uw6J0D4yI0aCkOphTWHemQ6chYj2yabBO43IklnnfYP3XLhJMumR4NTgSUGhX66cSMXuWBX+582PqUm0KuiA7CbBVFQLYu5q329aQShLpldaYyNIp/IFbIyqQQXWvMmgxA/UCU4d5ugTmW1ykgofMkeQZzY9vJRnGd8e/7J1FqdHryIDumP8D/DrQh0UV8A1bFQBZmMEXs9pUtUDcrMFh+wo8cRH+azsN0BDE/k3E3fxe6JCO5KeAYxOTzdpRa8xD5cNUSolG0EJmswhLolc96BDN5EyVq5tFdIbbZjLU/Vf4PEmwrck1WoyE67YwGyYBkVYvBwW9Y/W7zMxHqwPPEAvwZDC+Fl8LjKxzV+1WbQ=;4DJ1VNOBPhVSqUFCtBnrSA=="
+secured: "U6lNbF5W8emHIley5AjLZa6BiNDzM8h82ZCcEoxRQ4hc/dvbhCk7cGzhV5YshyK4/om2sXVI8613FS1Inv9VMiblZaAyeMiocu+qnnpXkWr0Mcf/HOWJ95TGafrkNPnBPQjwJN+xhuH/l/RetF0OvePD8gux599r+uNPU+g1He6WSbeY3jKTKjBTZxaexOgQcF5CU0D73fdBBTurCyUXaWT0oCpPXLVerIieTAAPLAFi7MhaSRuiavkkJ46JTpEaNvK+Ad2uT6dzP0w253oJ5Gm3JEDTUjFXmD3195PTBGp78M4iXNbwAcNVYD0/WAbm7Hb5yXVDrjkLBVv68CUhMlOhTRxQKN6ZPlU2XrLws4g=;cBr8dAJunoTS4hM0iBX6wQ=="
 ---
 

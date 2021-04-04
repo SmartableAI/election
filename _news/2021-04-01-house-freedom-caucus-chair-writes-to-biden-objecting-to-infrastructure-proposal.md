@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Just Under 6 Percent of Biden's Infrastructure Plan Goes to Roads and Bridges"
+    excerpt: "President Joe Biden's new infrastructure and jobs plan has received criticism from some opponents since he unveiled the proposal earlier this week, partly because of the amount it would spend on improving roads and bridges. According to a White House fact ..."
+    publishedDateTime: 2021-04-02T20:24:00Z
+    webUrl: "https://www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783"
+    ampWebUrl: "https://www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/just-under-6-percent-bidens-infrastructure-plan-goes-roads-bridges-1580783?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1771223/joe-biden-infrastructure-bill.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Biden announces first slate of judicial nominees with picks that would make history"
     excerpt: "Washington — President Biden on Tuesday rolled out his first slate of judicial nominees, announcing candidates with diverse backgrounds and professional qualifications as he begins to make his own stamp on the nation's district and circuit courts."
     publishedDateTime: 2021-03-30T12:56:00Z

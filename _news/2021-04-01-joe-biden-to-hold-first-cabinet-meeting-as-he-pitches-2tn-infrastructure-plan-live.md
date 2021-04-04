@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden to hold first cabinet meeting as he pitches $2tn infrastructure plan – live"
 excerpt: "Transportation secretary Pete Buttigieg pledged that he would work diligently to gain bipartisan support for Joe Biden’s $2tn infrastructure package. “I’m not going to give up on earning Republican support for this because we know that Republicans ..."
 publishedDateTime: 2021-04-01T13:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live?page=with:block-6065cbe38f08611d06d89112"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live?page=with:block-6065cbe38f08611d06d89112"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/eb6bbb7ec0b177d77ad5b6a505e140a89ab29f13/0_0_2670_1780/master/2670.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58798c67a46cf1bcb8b85d8f3a7f9f06"
+  - url: "https://i.guim.co.uk/img/media/d7fc9d365c6cae174da2f0bfcd8a4f488e1fb19d/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f1cfddb394322bdd9cbbf705e0cfbb0"
     width: 600
     height: 400
     isCached: true
@@ -144,6 +144,6 @@ related:
         height: 429
         isCached: true
 
-secured: "060ixFd22QSAAo8LrY2e6wKZDrcX7lzSWvbbvtsX/mFDPfqAEUlGRnewKgqGW7/mMicj6jsOnDeshi4tpjfUSU2JLeAyCTBjjeOlJ/ou17Nxj/tO8+C8j4gVphycSLZUD0wYdHe836SnEu/fWcBla/ISe+eGGwtaR6EOHRhszlOCFjGjt/qjyP8RiTItxmDrAT1/BfoWBLsUvyiqrSdbekLsbdvhEbKTgxa8NGqLz2RdN2YgvySidghuZsC3FGjR5MkQPwpRvYwBeiClzbjNaA9zd5D7LTQCaPmiUx9FT0rW/1UzXqq1qAKx9iviCFLa6NMHEzd0vPoIPRzrsQRbolchAItrCT7mZ6rUdtrFQKM=;cXJZ53ttu6z21GA51M2jeQ=="
+secured: "ovkMpsQZhP1qQeP/9Unrhp/FK2bTbtLK2i7dQ7yDeR1jM1T6+u/LOV2h/hQgCmZxPSWEC1PJ3BYGjpTLO/tlGV1PR6P587+xCA6Nr+rBzGTxBrlolZYd7P9ZtnOlgwShyAawiCfQJEESOguxJtnsbNKD+33OMkDNQmSa8u9IgWciXANymw71aHtfOawRrFr5sY3v1bvVGJplst8ukajpEgRyUYk/kzuKEep44/TtHfd3i4SuNLjcQpuv8IDTHfiwG5R4RfkFJIw/Fg7UNWTamdvO18CXUZ1zmE6mAdN8kKfaTXxwnLciQVeDgLTg/nraBt3x4Mo2Y+2rdARZTPodjxQUtOYV9mUBozO0lASLA+s=;rZ67KjyLrWJJFtXppTZ0vA=="
 ---
 
