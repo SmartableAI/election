@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/former-trump-staffer-calls-out-ex-president-
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/former-trump-staffer-calls-out-ex-president-false-depiction-capitol-riots-people-were-3170564?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 678
     isCached: true
+
+related:
+  - title: "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme"
+    excerpt: "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ..."
+    publishedDateTime: 2021-04-04T15:23:00Z
+    webUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952"
+    ampWebUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "W3DHTkddsA8pyW56OINUuHHSLfYkSGcsw1pXG8c+4yr3DOBiPWGVSb5glRqPakQlZGSb9RH+7eXXCYcfWEOnpffF9z0vwoaA1518QU+fSuh7ZyTX0P/KWZdRPfY1umsk2znfM5hVrGO92N/Q8j/ArB00/eJZVNe91HbMZLPFsystafafnMewq6VT6EYKgRpHLvpZRRXc/n9NMDoM2SEfJQcstHRjYhKxwp9HVDTKfR1Ngrlml67RXdUNiJFi4Mi7tSwUGfhbWxf7yv0wCBjOhlquph9gX5B1Zp1QFSydVOuJAVkTEqB+aFQHn3dV560nVDJnIWrZTsU4IXgO51HVe28t6DfOUR+AW+H1ov8UHbu9uPH7l3E/tBsPh/0K1k7Sv+LA3lP+WxZfc1RxPdkBB7f7E/W6gI47aOBUREuWpLsvVrMOLnPMCP3dff4MToibjeY3c2b2UjVukEmeUFjw654jdpwcq5ONBZRkAVGlpGA27GpUFrect70tUZ/UgCGZZhui+zCz//2my2t4UTc9sQ==;7yBvoPzywyfmcsarRM0vUA=="
 ---

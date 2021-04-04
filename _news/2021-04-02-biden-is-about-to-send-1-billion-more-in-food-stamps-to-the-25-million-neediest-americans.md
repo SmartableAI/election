@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden calls his infrastructure plan bold. Bernie Sanders says more work must be done"
+    excerpt: "President Joe Biden's roughly $2 trillion jobs proposal that is focused on infrastructure and the climate crisis is a \"serious proposal,\" Sen. Bernie Sanders said Sunday, but more work must be done on the plan to ensure it addresses major issues concerning the nation's \"human infrastructure.\"\n    \n"
+    publishedDateTime: 2021-04-04T14:53:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i_L_c91A-g0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/04/politics/bernie-sanders-jennifer-granholm-infrastructure-plan-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/bernie-sanders-jennifer-granholm-infrastructure-plan-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324150649-bernie-sanders-donald-trump-twitter-ban-stelter-sot-nr-vpx-00001404-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration not confident Johnson & Johnson will meet 20 million goal by end of month"
     excerpt: "Officials in President Joe Biden's administration are not confident that Johnson & Johnson will meet its self-imposed deadline to deliver 20 million coronavirus vaccines by the end of March, despite optimistic statements from the company.\n    \n"
     publishedDateTime: 2021-03-23T01:52:41Z

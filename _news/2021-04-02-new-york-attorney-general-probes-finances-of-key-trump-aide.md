@@ -557,6 +557,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Donald Trump Jr. buys mansion 20 miles from Mar-a-Lago"
+    excerpt: "Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are now Florida home owners. The Palm Beach Post reports that the couple spent $9.7 million this week to buy a 11,000-square-foot (1,000-square-meter),"
+    publishedDateTime: 2021-04-01T21:28:00Z
+    webUrl: "https://www.chron.com/news/article/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Former Vice President Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
     publishedDateTime: 2021-03-30T10:55:00Z

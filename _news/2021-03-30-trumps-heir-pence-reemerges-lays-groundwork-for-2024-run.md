@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reem
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
 type: article
 quality: 150
-heat: 930
+heat: 950
 published: true
 
 provider:
@@ -548,6 +548,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Wisconsin-governor-seeks-legal-fees-from-Trump-16069816.php"
     ampWebUrl: "https://www.chron.com/news/amp/Wisconsin-governor-seeks-legal-fees-from-Trump-16069816.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wisconsin-governor-seeks-legal-fees-from-Trump-16069816.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Donald Trump Jr. buys mansion 20 miles from Mar-a-Lago"
+    excerpt: "Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are now Florida home owners. The Palm Beach Post reports that the couple spent $9.7 million this week to buy a 11,000-square-foot (1,000-square-meter),"
+    publishedDateTime: 2021-04-01T21:28:00Z
+    webUrl: "https://www.chron.com/news/article/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
     type: article
     provider:
       name: Houston Chronicle

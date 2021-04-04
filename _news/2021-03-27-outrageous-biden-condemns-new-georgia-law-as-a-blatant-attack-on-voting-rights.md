@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's latest big sell won't be easy"
+    excerpt: "(CNN)It's no April Fool's joke: Infrastructure week is, at last, here. Unveiling the plan on Wednesday, it's yet another sign President Joe Biden is thinking big -- like ... legacy-defining big, and not just when it comes to the multi-trillion dollar price ..."
+    publishedDateTime: 2021-04-02T22:32:00Z
+    webUrl: "https://www.cnn.com/2021/04/02/politics/biden-infrastructure-plan-covid-19-easter/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/biden-infrastructure-plan-covid-19-easter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/biden-infrastructure-plan-covid-19-easter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331165045-02-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden warned of defense budget test"
     excerpt: "Act on the news with POLITICO Pro. — A top Republican is making a final plea to President Joe Biden: Don’t shortchange the Pentagon in its upcoming budget request. — The Marine Corps is working on an ambitious plan to remake the entire service by 2030."
     publishedDateTime: 2021-04-02T14:00:00Z

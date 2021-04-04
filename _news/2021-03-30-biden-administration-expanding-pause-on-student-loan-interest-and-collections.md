@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's latest big sell won't be easy"
+    excerpt: "(CNN)It's no April Fool's joke: Infrastructure week is, at last, here. Unveiling the plan on Wednesday, it's yet another sign President Joe Biden is thinking big -- like ... legacy-defining big, and not just when it comes to the multi-trillion dollar price ..."
+    publishedDateTime: 2021-04-02T22:32:00Z
+    webUrl: "https://www.cnn.com/2021/04/02/politics/biden-infrastructure-plan-covid-19-easter/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/biden-infrastructure-plan-covid-19-easter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/biden-infrastructure-plan-covid-19-easter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331165045-02-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Outrageous': Biden condemns new Georgia law as a 'blatant attack' on voting rights"
     excerpt: "President Joe Biden on Friday condemned the sweeping new voting restrictions in Georgia as \"outrageous,\" \"un-American\" and \"Jim Crow in the 21st Century.\" \"This law, like so many others being pursued by Republicans in statehouses across the country is a ..."
     publishedDateTime: 2021-03-26T18:11:00Z

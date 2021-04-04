@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Christie on GA Voting Law: Biden Is \"Lying To Cause Racial Division... That's What He Accused Trump Of Doing\""
+    excerpt: "During ABC's \"This Week\" roundtable, former N.J. Gov. Chris Christie would not let go accusations that Georgia's new election law is racist or reminiscent of Jim Crow laws. Christie accused President Biden and Democrats of \"lying to cause racial divisions,"
+    publishedDateTime: 2021-04-04T14:24:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/04/christie_on_ga_voting_law_biden_is_lying_to_cause_racial_division_thats_what_he_accused_trump_of_doing.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 61
+    images:
+      - url: "https://assets.realclear.com/images/49/498710.jpg"
+        width: 500
+        height: 375
+        isCached: true
 
 secured: "3KSJ1p9pC6B6HnCbjDkdLdLr9NqKz/29wY3jIZOaa0z+fJQBJUtyCho3jXHt4OMq3zn6tHfjoCM7uvxbxFvhxeLD4XWx/lXthWiDXGTNvxrYPLIretTF4N2pQA4BGKyAfKyxd2zdn/kZlY8h4UBH+S/dJZ0e2FKSQNxP2dO3eN8Ewp1O2PrisCOZABbsgcdt3DD/KUnOWCrSyyod9hsp4bK7yZIzn/VVcLfbZ279ANBGW7iRB9Xi8LcG7jK7DHiIaabe2pG60311Dm+y5iusPmKx246N5yEHw68nuMtbd0ag+aJEBGYBrToW1HZUOA3wuSrfXl4XFClbA69loBVKqzDs9XGGhZkO0jjiihpO9kg=;vHsvxNXKxWTLV2SmOChnUw=="
 ---

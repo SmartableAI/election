@@ -338,6 +338,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Can Joe Biden recreate the U.S. economy he grew up with?"
+    excerpt: "U.S. President Joe Biden is flanked by Secretary of State Antony Blinken and Defense Secretary Lloyd Austin as he holds a Cabinet meeting in the East Room at the White House in Washington, U.S., April"
+    publishedDateTime: 2021-04-02T16:24:00Z
+    webUrl: "https://www.reuters.com/news/picture/can-joe-biden-recreate-the-us-economy-he-idUSKBN2BO50O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557085547&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH303LY"
+        width: 810
+        height: 522
+        isCached: true
 
 secured: "Uw6J0D4yI0aCkOphTWHemQ6chYj2yabBO43IklnnfYP3XLhJMumR4NTgSUGhX66cSMXuWBX+582PqUm0KuiA7CbBVFQLYu5q329aQShLpldaYyNIp/IFbIyqQQXWvMmgxA/UCU4d5ugTmW1ykgofMkeQZzY9vJRnGd8e/7J1FqdHryIDumP8D/DrQh0UV8A1bFQBZmMEXs9pUtUDcrMFh+wo8cRH+azsN0BDE/k3E3fxe6JCO5KeAYxOTzdpRa8xD5cNUSolG0EJmswhLolc96BDN5EyVq5tFdIbbZjLU/Vf4PEmwrck1WoyE67YwGyYBkVYvBwW9Y/W7zMxHqwPPEAvwZDC+Fl8LjKxzV+1WbQ=;4DJ1VNOBPhVSqUFCtBnrSA=="
 ---

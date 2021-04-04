@@ -2382,6 +2382,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Tapper examines why Biden admin may be hesitant to credit Trump for vaccine success"
+    excerpt: "CNN's Jake Tapper shares his experience receiving the Covid-19 vaccine and looks back at how former President Donald Trump's actions affected the nation's pandemic response."
+    publishedDateTime: 2021-04-04T15:01:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/tapper-ender-vaccine-trump-handling-of-covid-19-pandemic-sotu-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/tapper-ender-vaccine-trump-handling-of-covid-19-pandemic-sotu-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/tapper-ender-vaccine-trump-handling-of-covid-19-pandemic-sotu-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404102152-tapper-ender-sotu-0404-vpx-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to take immediate steps to undo key Trump initiatives, unveil immigration plan"
     excerpt: "Joe Biden will sign more than a dozen executive actions Wednesday when he arrives at the White House as the 46th president."
     publishedDateTime: 2021-01-20T10:00:00Z

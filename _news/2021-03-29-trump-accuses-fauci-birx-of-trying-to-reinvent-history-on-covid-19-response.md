@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9425dea-559a-4dae-a3d4-0827e74f47de/9da07aed-eee1-4d47-bd13-f536575751fb/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Christie on GA Voting Law: Biden Is \"Lying To Cause Racial Division... That's What He Accused Trump Of Doing\""
+    excerpt: "During ABC's \"This Week\" roundtable, former N.J. Gov. Chris Christie would not let go accusations that Georgia's new election law is racist or reminiscent of Jim Crow laws. Christie accused President Biden and Democrats of \"lying to cause racial divisions,"
+    publishedDateTime: 2021-04-04T14:24:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/04/christie_on_ga_voting_law_biden_is_lying_to_cause_racial_division_thats_what_he_accused_trump_of_doing.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 61
+    images:
+      - url: "https://assets.realclear.com/images/49/498710.jpg"
+        width: 500
+        height: 375
         isCached: true
 
 secured: "8OUesc2Wj4rkQyqtv7yBEn9iOTwcin0O5P55THvluHqlWtrYbg1Ovv/B1duGYsMysZbLQNu6LBvWePgmOZoGoz7ErrfeYpXDMLtBxZRCC++xDvTnVkP4EhieY2+sKHkdfyhGmt9hclOOU1injnIv8C33Sp/naG2afqrImiXDY5vUwkP9uzBTbu1uGwQ9GTmvPEavjpAfayEPUzYpOh3OdhHyYCtr4Y9snJO78nXL5dkztQ8rpo0T42pT5kAbtzx1dlhe82FQmm5IqqiFB3SScplQv7LWrCXqF4pBHPGTfsBEOCdArSTDU5AnyreO6alkCh+r7CvW73emms2h7ESEVlFlXJxStHNAzPOFKnQVk8I=;B5sqHwYvh+dtM7q0k0w0oQ=="

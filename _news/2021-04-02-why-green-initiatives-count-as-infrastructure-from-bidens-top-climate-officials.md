@@ -143,6 +143,22 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Hunter Biden on his memoir \"Beautiful Things\" and his struggles with substance abuse"
+    excerpt: "And all I can do is cooperate, and trust in the process.\" From the time he was a toddler, Hunter Biden and his older brother, Beau, were fixtures in Joe Biden's public life, and when they were both hurt in the 1972 car crash that killed their mother and ..."
+    publishedDateTime: 2021-04-04T14:01:00Z
+    webUrl: "https://www.cbsnews.com/news/hunter-biden-on-his-memoir-beautiful-things-and-his-struggles-with-substance-abuse/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-on-his-memoir-beautiful-things-and-his-struggles-with-substance-abuse/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-on-his-memoir-beautiful-things-and-his-struggles-with-substance-abuse/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/03/2b8c7c7c-d809-427c-a3b7-dc4534ca8698/thumbnail/1200x630/33f94a8bd914937e2677cd90ba531051/hunter-biden-sm-1920.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In first press conference, Biden talks immigration, filibuster, China, vaccination goal"
     excerpt: "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office."
     publishedDateTime: 2021-03-26T09:13:00Z

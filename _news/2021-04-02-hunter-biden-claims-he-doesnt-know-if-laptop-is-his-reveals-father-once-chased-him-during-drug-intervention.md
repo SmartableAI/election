@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Former Georgia Rep. Doug Collins hits back at Biden on voter suppression claims: 'Learn to read'"
-    excerpt: "Former Georgia Congressman Doug Collins told \"America Reports\" on Thursday that the Biden administration and private companies need to \"read the election reform bill\" before spewing criticisms."
-    publishedDateTime: 2021-04-01T20:20:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gM3wkfGKY7o/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read"
-    ampWebUrl: "https://www.foxnews.com/politics/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read.amp"
+  - title: "Hunter Biden ‘100% certain’ he’ll be cleared of wrongdoing in DOJ investigation"
+    excerpt: "Hunter Biden said he is \"100% certain\" he will be cleared of any wrongdoing in a Department of Justice investigation into his finances."
+    publishedDateTime: 2021-04-04T14:55:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9s6V8uKcGnE/hunter-biden-doj-investigation-finances-interview"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-doj-investigation-finances-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-doj-investigation-finances-interview.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/HunterBiden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "DMs6NOA9Q7j51QGTDVDIU7QxEUAabrANbyzQjjvQJWhnM/7Hc5WVS+paNCW5NmgvPd/hkVO6+ZMgJKxDCfH7rlokbPFNAIdTe4ZPiWwJqakweWWHpTrPUOtSEAqSuJZRqvsWUf9almN6kKc0EvmPTYfOoZRo6XdMLi5oJMBQbvaelNeW8pbzAFs9xAGbNal72n3d6cUE1YT0bOdbH3/48Ah8Ca1Fi4lcd080foqnRyl3UBEewMC5pyblCyPZJvBbvOHdNXjN4Q6lag8zFABwORLg/DGShL5op8EvmBXOURBJ16N6dWlVuqYBhe95yk01lXMt8NCxuhDEhNnh4mpBiXcvH7mDXu/UtTv5t2oKhvE=;XvZbV9fV3SIrzQOt3cQKBQ=="
