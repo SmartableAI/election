@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden's border response blasted as 'half-a--ed gig' by Texas congressman"
-excerpt: "The Texas Republican then unloaded on the president for his border response, saying the country must “stand firm” on border policies and deportations “or we have no borders in this country.”"
-publishedDateTime: 2021-03-30T19:55:40Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response"
-ampWebUrl: "https://www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
+title: "Texas AG defends 'public charge' rule on immigrants, public assistance dropped by Biden"
+excerpt: "Texas Attorney General Ken Paxton is defending a rule that limits entry for immigrants and their likely use of public benefits. "
+publishedDateTime: 2021-04-04T20:02:32Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhy-9FZB3L0/texas-ag-paxton-public-charge-rule-immigrants-public-assistance"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhy-9FZB3L0/texas-ag-paxton-public-charge-rule-immigrants-public-assistance"
+ampWebUrl: "https://www.foxnews.com/politics/texas-ag-paxton-public-charge-rule-immigrants-public-assistance.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-ag-paxton-public-charge-rule-immigrants-public-assistance.amp"
 type: article
-quality: 174
-heat: 294
-published: true
+quality: 167
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ea87a8c-9e36-48dc-964c-90e65df5002c/f59f4da5-1c73-4ecf-9d66-81afd1c94004/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/migrants.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
+  - title: "Biden's border response blasted as 'half-a--ed gig' by Texas congressman"
+    excerpt: "The Texas Republican then unloaded on the president for his border response, saying the country must “stand firm” on border policies and deportations “or we have no borders in this country.”"
+    publishedDateTime: 2021-03-30T19:55:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ea87a8c-9e36-48dc-964c-90e65df5002c/f59f4da5-1c73-4ecf-9d66-81afd1c94004/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz"
     excerpt: "Sen. Ted Cruz, R-Texas, argued on \"America Reports\" Thursday that President Biden \"caused the border crisis we are seeing right now\" through his immigration actions during his first week in office."
     publishedDateTime: 2021-04-01T20:40:03Z
@@ -46,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Texas AG defends 'public charge' rule on immigrants, public assistance dropped by Biden"
-    excerpt: "Texas Attorney General Ken Paxton is defending a rule that limits entry for immigrants and their likely use of public benefits. "
-    publishedDateTime: 2021-04-04T20:02:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhy-9FZB3L0/texas-ag-paxton-public-charge-rule-immigrants-public-assistance"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-ag-paxton-public-charge-rule-immigrants-public-assistance.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-ag-paxton-public-charge-rule-immigrants-public-assistance.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/migrants.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Ted Cruz details viewing 'Biden Cages' packed with migrant children at the Texas-Mexico border"
     excerpt: "Senator Ted Cruz, R-Texas, ripped the Biden administration following a visit to the border with 17 other U.S. Senators, telling Fox Business' \"The Evening Edit\" that the conditions in what he called the \"Biden cages\" of young migrants are \"inhumane\" and \"unconscionable.\""
@@ -124,6 +124,6 @@ related:
         height: 562
         isCached: true
 
-secured: "AQ3P3SddMuEkLvdgvhJQUNGKGCeELW1dt9Zk6dkmgXqbHy5Nv1y9Pn73aAIHOOsaNt2yo+dpLb7syIA6pKN8wAiFf45Nl1s4d9/zV64e9EQtBvPmrfBrtBktUKNvtZsoupX/QmryMOtdZyVDB3WMBSRXqOlroe5YGJDowNCwFU7zLQlP1Vl9F8EMvBFFNOf+YtrHPPq7gTQwVuNjSZL+Iy+iBcg38X2u65F1nYQF0Q7Jb8pHLw4mY9Y23vhmqfHwjb6KQFuiNP1XU10a9OSZPQ/O5mGPJOhixyzRWps/rWYMTtarnXwgrMsLyte37MB1MeWVHt1RdX+JEebMFWa/BYAPDRGXkT/2c8Rk/NFNkVA=;ux+hf0BSeXhhMf8sYOJF5A=="
+secured: "7/eDz0GGz/I8CSOcnuF5HLSLg5CSX2oRXPa5U8voPoqfWnjuSt5sUcc8Y2yp5to5/yifpmC8em6DXegADocYMixtCPhK5ztHzKGp+0EZKhyJ4KhLquDYdCcWGRxtX08+9QllrLJAT9LGIby++EYrdTn9paSjHuK/fBUUl1yUNVjuPu4co57CO1Xmv5mZ64y7Pp0KUgGqjzozkUbZJpGVkti4cZgpRww5yk8msjOGv3EutB89UBDEu8Hij1iWlpgiYbhVWwpWAWF5xtt63AgdP1l53XjcwILPpHJ0r+EbMPERXoV7iJVmEMcEaF0l7PxJ0qMDI41BK7FfHPUUKNeVgU3+FDUHLX8KYDcw6Fpmz8Y=;jZ9PwZ8hDS72R3skKwQdXA=="
 ---
 

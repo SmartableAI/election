@@ -271,21 +271,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "How Trump steered supporters into unwitting donations"
-    excerpt: "Facing a cash crunch, the Trump campaign had begun last September to set up recurring donations by default for online donors for every week until the election."
-    publishedDateTime: 2021-04-03T21:18:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-supporter-donations-20210403-diz6ucnxwjc7tbtrzmloygt2am-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-supporter-donations-20210403-diz6ucnxwjc7tbtrzmloygt2am-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-supporter-donations-20210403-diz6ucnxwjc7tbtrzmloygt2am-story.html?outputType=amp"
+  - title: "Trump campaign issued $122 million in refunds to donors in 2020"
+    excerpt: "Former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls for Republicans to boycott companies amid voting law controversy Georgia county says removal of ..."
+    publishedDateTime: 2021-04-03T19:07:00Z
+    webUrl: "https://thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020"
+    ampWebUrl: "https://thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/3EmPGZj7liGrSNiu6HXXyd40Y8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QOYMUZBWNXY6GRCH5YXJCGQNFQ.jpg"
-        width: 1200
-        height: 800
+      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."

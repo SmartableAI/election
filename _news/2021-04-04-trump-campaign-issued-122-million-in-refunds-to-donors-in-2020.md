@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Pence reemerges, lays groundwork for 2024 run"
-excerpt: "The former vice president is writing op-eds, delivering speeches, preparing trips to key primary states and launching an advocacy group."
-publishedDateTime: 2021-03-30T15:10:00Z
-originalUrl: "https://www.firstcoastnews.com/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
-webUrl: "https://www.firstcoastnews.com/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
-ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
-cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+title: "Trump campaign issued $122 million in refunds to donors in 2020"
+excerpt: "Former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls for Republicans to boycott companies amid voting law controversy Georgia county says removal of ..."
+publishedDateTime: 2021-04-03T19:07:00Z
+originalUrl: "https://thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020"
+webUrl: "https://thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020"
+ampWebUrl: "https://thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020?amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: First Coast News
-  domain: firstcoastnews.com
+  name: The Hill
+  domain: thehill.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://media.firstcoastnews.com/assets/CCT/images/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -283,22 +287,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump campaign issued $122 million in refunds to donors in 2020"
-    excerpt: "Former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls for Republicans to boycott companies amid voting law controversy Georgia county says removal of ..."
-    publishedDateTime: 2021-04-03T19:07:00Z
-    webUrl: "https://thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020"
-    ampWebUrl: "https://thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
     publishedDateTime: 2021-03-31T04:05:00Z
@@ -489,6 +477,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "The former vice president is writing op-eds, delivering speeches, preparing trips to key primary states and launching an advocacy group."
+    publishedDateTime: 2021-03-30T15:10:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/pence-lays-groundwork-for-2024-run/507-5840ab6e-66e0-47c9-9e86-f986c059fad0"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
+    images:
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3/fd43dc50-d335-4d0d-ba6e-b7193c17ebb3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Pence emerges, lays groundwork for 2024 White House run"
     excerpt: "New York City Mayor Bill de Blasio called the video of the attack “absolutely disgusting and outrageous” and said it was “absolutely unacceptable” that witnesses did not"
     publishedDateTime: 2021-03-30T18:12:00Z
@@ -653,6 +657,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "DDTNhzWx7RFb7Gyp76Vda0rZ34CqZPfuAbqkrZiEYX63kpZckJ7Z6aSPCzGYMlCYYOAh7Njb/ZTfdb3eJcYHWwVxlt+mSyDPlM4kwuRoqhCRfEmlAC5oTIgMRbiTnkEpmPMN2s1stFD2eRdFcCnXasZuPAAc3rX9337yDPcOBIqSUbpH6eqXCj840EjPKFDZZlKUJky/1X9E6b838JiAsXGRbOeMP1w0WZlFjc6crtzpEIOeNsVTatPuW3mJ2p/XRiv/S0g9zI9KZgli+xHgqDvATTIDmZlKxtnum042gdsJmt2Flu1olxDqHT7psGL29QjWDovEJyzXq9hrzoYyNWjKibDp4rNYcUC8BE/eqFeK0CjC0sRSqDGrw+Q8BPJycssQYgKbQ1AvNiK/rlTsy7EyrokGEeS/BCISF2FHjoSWZ7elZiZF4ctDLBEorZM5dP4Z2X4Aw/QzQ1HxLb8nTou/JA4gikHnxLFw9Zu6Bi8toKOXLM1URotzSHJExmmJAIoaDplCJvs7p1/qTMv3MA==;J/MD0bC/4y4yizGHaD7yOA=="
+secured: "j1NwIF1CYIzJkUEWCifkeBRpQ9GqfCzlSzgKnFxEKOrw+lEfsJ8AdduWDLaVNPaYnZFfKhnPFPD8NpXJzrUEKG/XpbN73Spiiva+tfebm1VYR3n50zXS65Am2TB9OoFLkal32vkoV4Fi29IPzmmAQI8MvFzHqdnWa1O3Srxa9Z6BfqmML0+gjRWasLVHVQ5/V2LccDLfBO1qdDasXHt8MzNoq5x2NTsFDa/T2sOVnYHGvHFHhGJhNIIMbaGR1KoJzG1EDN6o5CSLetRrAYBf2AA6/gmE+hl7A6ELsRUCnNn0dNP/4c5EuIZ8Mmk+pu+hqc73UU52DzjOQx21NyY0z6IxdCySLEpNMi6PdsxY6Ik=;wIaGSubhmBBZ6sOyMZTZGA=="
 ---
 

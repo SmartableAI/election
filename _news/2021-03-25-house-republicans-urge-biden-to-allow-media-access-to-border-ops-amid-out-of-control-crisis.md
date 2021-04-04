@@ -61,6 +61,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Texas AG defends 'public charge' rule on immigrants, public assistance dropped by Biden"
+    excerpt: "Texas Attorney General Ken Paxton is defending a rule that limits entry for immigrants and their likely use of public benefits. "
+    publishedDateTime: 2021-04-04T20:02:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhy-9FZB3L0/texas-ag-paxton-public-charge-rule-immigrants-public-assistance"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-ag-paxton-public-charge-rule-immigrants-public-assistance.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-ag-paxton-public-charge-rule-immigrants-public-assistance.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/migrants.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Ted Cruz details viewing 'Biden Cages' packed with migrant children at the Texas-Mexico border"
     excerpt: "Senator Ted Cruz, R-Texas, ripped the Biden administration following a visit to the border with 17 other U.S. Senators, telling Fox Business' \"The Evening Edit\" that the conditions in what he called the \"Biden cages\" of young migrants are \"inhumane\" and \"unconscionable.\""
     publishedDateTime: 2021-03-26T23:50:53Z
