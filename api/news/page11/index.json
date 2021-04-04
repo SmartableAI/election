@@ -2,62 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-03-18-biden-defense-secretary-warns-us-forces-ready-to-fight-tonight-after-north-korea-warning.md",
-      "title": "Biden defense secretary warns US forces ready to 'fight tonight' after North Korea warning",
-      "excerpt": "Defense Secretary Lloyd Austin on Thursday warned North Korea that U.S. forces are ready to \"fight tonight\" after the dictatorship condemned military drills taking place in South Korea.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0e0cad0-33bc-446b-9db5-16102b405c1a/af3c1e50-36bb-43f0-9294-7cb7dcad73ef/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp",
-      "publishedDateTime": "2021-03-18T06:32:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-18-biden-pandering-to-coastal-elite-friends-with-keystone-pipeline-shutdown-montana-ag.md",
       "title": "Biden 'pandering to coastal elite friends' with Keystone pipeline shutdown: Montana AG",
       "excerpt": "Montana Attorney General Austin Knudsen said Thursday that President Biden's shutdown of the Keystone pipeline is really just \"pandering to his coastal elite friends.\"",
@@ -1349,6 +1293,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-chad-wolf-warns-migrants-wont-listen-to-bidens-dont-come-plea.md",
+      "title": "Chad Wolf warns migrants won't listen to Biden's 'don't come' plea",
+      "excerpt": "Former Acting DHS Secretary Chad Wolf warned on Wednesday that the surge of migrants to the southern border won't stop as long as those making the journey \"see other individuals\" being allowed to stay in the U.S.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb9ZgLr97Ho/joe-biden-dont-come-migrants-border-chad-wolf",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb9ZgLr97Ho/joe-biden-dont-come-migrants-border-chad-wolf",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp",
+      "publishedDateTime": "2021-03-17T06:31:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

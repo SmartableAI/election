@@ -2,63 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-03-19-baltimore-prosecutor-marilyn-mosby-once-championed-by-vp-harris-now-target-of-federal-investigation.md",
-      "title": "Baltimore prosecutor Marilyn Mosby, once championed by VP Harris, now target of federal investigation",
-      "excerpt": "State's Attorney for Baltimore Marilyn Mosby, whose career was boosted by Vice President Kamala Harris, is now facing a federal investigation with a wide breadth of subpoenas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0_2R-nNr3M/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0_2R-nNr3M/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2016/05/24/694940094001_4909632080001_a376b9cf-2e77-4305-9624-7e4df3ceef33.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/baltimore-marilyn-mosby-nick-federal-investigation-kamala-harris.amp",
-      "publishedDateTime": "2021-03-19T15:08:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-03-19-glory-days-of-trumps-gold-plated-757-seem-far-away-as-plane-sits-idle-at-a-sleepy-airport.md",
       "title": "Glory days of Trump's gold-plated 757 seem far away as plane sits idle at a sleepy airport  ",
       "excerpt": "Trump's personal Boeing 757 was always the crown jewel of his wealth -- the ultimate sign that he had made it. He's used it as a backdrop for sleek photo shoots, campaign rallies, VIP tours, for shots of him eating his Big Macs and KFC, plated, with a knife and fork. Trump loved to show it off -- the",
@@ -1354,6 +1297,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-biden-defense-secretary-warns-us-forces-ready-to-fight-tonight-after-north-korea-warning.md",
+      "title": "Biden defense secretary warns US forces ready to 'fight tonight' after North Korea warning",
+      "excerpt": "Defense Secretary Lloyd Austin on Thursday warned North Korea that U.S. forces are ready to \"fight tonight\" after the dictatorship condemned military drills taking place in South Korea.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpGPDNfvxrw/biden-defense-secretary-north-korea-warning",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0e0cad0-33bc-446b-9db5-16102b405c1a/af3c1e50-36bb-43f0-9294-7cb7dcad73ef/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defense-secretary-north-korea-warning.amp",
+      "publishedDateTime": "2021-03-18T06:32:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 920
+heat: 940
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe2_04022021getty_0.png"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Battle lines drawn on Biden's infrastructure plan"
+    excerpt: "Republican lawmakers and White House officials on Sunday came out swinging over President Biden Joe Biden Lawmakers say fixing border crisis is Biden's job Trump calls for Republicans to boycott ..."
+    publishedDateTime: 2021-04-04T18:57:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/546389-battle-lines-drawn-on-bidens-infrastructure-plan"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/546389-battle-lines-drawn-on-bidens-infrastructure-plan?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/546389-battle-lines-drawn-on-bidens-infrastructure-plan?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_033121getty_infrastructure_0.jpg"
         width: 980
         height: 551
         isCached: true

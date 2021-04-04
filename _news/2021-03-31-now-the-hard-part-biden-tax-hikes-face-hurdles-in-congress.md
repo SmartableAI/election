@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN24Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN24Y"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/aoc-gty-er-210401_1617292096960_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Republicans claim Biden $2tn infrastructure plan a partisan tax hike"
+    excerpt: "Last modified on Sun 4 Apr 2021 13.50 EDT Republicans opposed to Joe Biden’s proposed $2tn infrastructure bill claimed on Sunday that it was effectively a partisan tax hike that allocated too much money to electric vehicles and other environmental ..."
+    publishedDateTime: 2021-04-04T12:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/04/biden-2tn-infrastructure-plan-republicans-senate-tax-green-new-deal"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/04/biden-2tn-infrastructure-plan-republicans-senate-tax-green-new-deal"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/04/biden-2tn-infrastructure-plan-republicans-senate-tax-green-new-deal"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9ea173ef4c27cbe27721a8a570f260a6408c0786/0_35_4618_2771/master/4618.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7ff6b88b8a58f4ed3a1fc20844fccbda"
+        width: 600
+        height: 360
         isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."

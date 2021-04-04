@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
 type: article
 quality: 135
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede/31dc-biden-HP-videoSixteenByNineJumbo1600-v3.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Sanders: Biden has given a serious proposal based on a serious problem"
+    excerpt: "Sen. Bernie Sanders (I-VT) discusses President Joe Biden's infrastructure plan and tells CNN's Jake Tapper that the US needs to address its \"human infrastructure\" as well."
+    publishedDateTime: 2021-04-04T14:15:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404095914-sanders-sotu-0404-vpx-super-tease.jpeg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Live Updates: Biden to Speak on Economy Hours After Senate Approves Relief Package"
     excerpt: "President Biden and Vice President Harris plan to meet with House Democratic leaders Friday morning to discuss the stimulus package. The Senate approved Mr. Biden’s plan but knocked out the $15 minimum wage."

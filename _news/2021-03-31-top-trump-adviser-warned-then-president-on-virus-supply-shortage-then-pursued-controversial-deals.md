@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Easter Message 'Very Nice,' Insists Adviser Amid Criticism It Was Angry, Resentful"
+    excerpt: "Hogan Gidley, adviser to former President Donald Trump, appeared on Fox News Sunday morning to defend a series of Easter statements from Trump that his critics have accused of being political rants capped off with a friendly holiday salutation. A Friday ..."
+    publishedDateTime: 2021-04-04T18:58:00Z
+    webUrl: "https://www.newsweek.com/trump-easter-message-very-nice-insists-adviser-amid-criticism-it-was-angry-resentful-1580967"
+    ampWebUrl: "https://www.newsweek.com/trump-easter-message-very-nice-insists-adviser-amid-criticism-it-was-angry-resentful-1580967?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-easter-message-very-nice-insists-adviser-amid-criticism-it-was-angry-resentful-1580967?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1436477/screen-shot-2019-05-27-10.png"
+        width: 1245
+        height: 698
+        isCached: true
 
 secured: "xPyVhjHsTiXiEI/65oQiMUtZseetBVFGCCX9JhK47gWthJ0f6ujPmwA31Ocu358PBTHbCUMNP7ljLrPbrx0suuT4tn07WZQhM5oriIVKCJ3YYA2B2wuNjYaWbVnP49GkM8oLfVi+nFoWvTCFy1HcZ9gKylrEEAmgE3ZcKjek5u/8XgP2pov/AgBJlkueZZcn29/T5aF33FxsDBacD8+XxgruyTjKkdtB3fkGY5oWhPgE/Kw6m/pdF953ecM9F+lKaRzhL8GXdEMZJ4kCkFOqDAfcqNBTdec3bJGAnKzdBKLQ6/+/vslh6BgmgEk6zF15KAZQ88hPQk9haPLxZy/OuHJQ0z/341H3ImpFq5PC0jQwA4g/dh3G5taeCV+R7jLD2p5PZtHKDVIWQw9jMeziHwhT/lZKx9l/bfMoiTVs/1QNEyY+Wp2fvdejXpamuI++2VgKn8cD7OHM5WWV+PvKeL5lGMa2K/aBm2gOcqjJ8uS0SvQr/FbvksivIVn/ZaaRrGsQuRpf2u7S4nvDJVMpFw==;Bo+jKpofvc05fFI1D5tquA=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Hunter Biden convinced 'reluctant' Joe to publicly support his relationship with Beau's widow Hallie"
+    excerpt: "Hunter Biden convinced his father Joe in early 2017 to put out a statement approving of the affair he was having with his deceased brother Beau's widow, Hallie Biden, telling Joe that if he didn't, the relationship would \"seem wrong.\""
+    publishedDateTime: 2021-04-04T19:15:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OdceAXBzgQ/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec65f932-ba5e-46fc-90fb-78616b81afbe/db300423-7131-4072-90c4-e18e48b5851d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his"
     excerpt: "And we also know that Putin is trying very hard to spread disinformation about Joe Biden,\" the then-candidate said. He added: \"When you put the combination of Russia, Giuliani, the president together, that's just what it is. It's a smear campaign.\""
     publishedDateTime: 2021-04-02T18:04:00Z

@@ -64,6 +64,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Sanders: Biden has given a serious proposal based on a serious problem"
+    excerpt: "Sen. Bernie Sanders (I-VT) discusses President Joe Biden's infrastructure plan and tells CNN's Jake Tapper that the US needs to address its \"human infrastructure\" as well."
+    publishedDateTime: 2021-04-04T14:15:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404095914-sanders-sotu-0404-vpx-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "yGKlf/fftdRye4HoU54iwHuQho9qv60xKmjnGUK9tTgPGplzT6IXRp1n9F8s3rlVc+S04K+cXz2N7Gi64ItRnWL3g0MsTdTfiM5IL0swGK6rtpzdzA96l00elWmtPzMMy3tqR155oPbqvrdv2MNhCGP7k2hbhbA2u3foVfKFdH84l1rH2NGGbc4K8I8AAjZ67Jgch8Vw2tJ2wakmX/XGIWtHSw7fi2txmqKCvQq+s+qQ2ZNmCyEiW+KzbBRlGPNzlHDGJAf8wygV184U6MqFNIOSZ8/YRwKtv90HWgrNTLK4iki4ym8nG1gofwN5fTOXwLxR1XuPmSTclLfn0lL0wjPJ78uGwv8sv5uUN7d9k9I=;uFzq1YFPVntNBWRh8fjPWA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/yale-psychiatrist-says-she-was-fire
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
 type: article
 quality: 169
-heat: 229
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,53 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
-    excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"
-    publishedDateTime: 2021-03-31T16:18:00Z
-    webUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/"
-    ampWebUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Liberal media need to wait for facts before blaming Atlanta shootings on Trump and racism, critics say"
-    excerpt: "While authorities continue to investigate the Atlanta shootings, media watchdogs feel pundits and journalists should wait for the facts before casting racism as the motive."
-    publishedDateTime: 2021-03-18T19:48:00Z
-    webUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say"
-    ampWebUrl: "https://www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-facts-blaming-atlanta-shootings-trump-critics-say.amp"
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 119
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pentagon diversity chief 'reassigned' after comparing Trump to Hitler on social media"
+    excerpt: "The Pentagon's new diversity chief has been \"reassigned\" amid an investigation of past social media posts including comparing former President Trump to Adolph Hitler, a U.S. defense official confirmed to Fox News on Tuesday."
+    publishedDateTime: 2021-03-30T13:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhGjo-Tv3Js/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media"
+    ampWebUrl: "https://www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump Critics Who Called Vaccine Timetable Reckless Now Say It's Reckless NOT to Take the Vaccine"
-    excerpt: "Dr. Anthony Fauci wants former President Donald Trump to tell his supporters to take the COVID-19 vaccine. It is true that a March 2021 NPR/PBS"
-    publishedDateTime: 2021-03-25T10:25:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/25/trump_critics_who_called_vaccine_timetable_reckless_now_say_its_reckless_not_to_take_the_vaccine_145475.amp.html"
+  - title: "Democrats still searching for answers on Trump's appeal to Latinos in 2020 election"
+    excerpt: "Former President Donald Trump's appeal to Latino voters may have been more widespread than originally thought, according to new research. Democrats touted their focus on increasing turnout among minority voters for the 2020 elections, but Latino voters ..."
+    publishedDateTime: 2021-04-04T12:33:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 72
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
     images:
-      - url: "https://assets.realclear.com/images/53/538668_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20303618251253.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "vj7n31P+Z+kxC28qVEF5ZGRIBuUC1tssDTVwLVKLiHlAwBy0UQbKBxEhDXS67QcUegS2tqgUeqfNgdscxI+MJ/MZuNZyZMp5JRbjrvDTk6n8Q2Ivkk9OWMFCeXhLesd9ud9yPBcZpnXEHroF4lyZ6iw3nAB/e76QW5+2FShiEH1APCNsTHwrjrorR0N7Ioas4xqoEnad3uvfAS27ZxorfkWoc0ohNaip5DwYLC3psVJK9AenJYsVwAoDpqrx9SR+3WrbJGoRKuz+CjyiOvy5dm9ld56H8l3cJdRVrbQhqetnTpmX39YmMM02VZ3sHpSdrFQhw5GdnvNDABL/0IpbzWPOUtnNsfcjsQkD0qCYAHc=;GvRCAjYp9A7FXXJqNSoWBA=="

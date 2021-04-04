@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump Easter Message 'Very Nice,' Insists Adviser Amid Criticism It Was Angry, Resentful"
+    excerpt: "Hogan Gidley, adviser to former President Donald Trump, appeared on Fox News Sunday morning to defend a series of Easter statements from Trump that his critics have accused of being political rants capped off with a friendly holiday salutation. A Friday ..."
+    publishedDateTime: 2021-04-04T18:58:00Z
+    webUrl: "https://www.newsweek.com/trump-easter-message-very-nice-insists-adviser-amid-criticism-it-was-angry-resentful-1580967"
+    ampWebUrl: "https://www.newsweek.com/trump-easter-message-very-nice-insists-adviser-amid-criticism-it-was-angry-resentful-1580967?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-easter-message-very-nice-insists-adviser-amid-criticism-it-was-angry-resentful-1580967?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1436477/screen-shot-2019-05-27-10.png"
+        width: 1245
+        height: 698
+        isCached: true
   - title: "Top Trump adviser warned then-president on virus supply shortage, then pursued controversial deals"
     excerpt: "A top adviser privately urged President Donald Trump to acquire critical medical supplies in the early days of the coronavirus outbreak — and after the warning was ignored, pursued his own ad hoc strategy that committed more than $1 billion in federal ..."
     publishedDateTime: 2021-03-31T13:07:00Z

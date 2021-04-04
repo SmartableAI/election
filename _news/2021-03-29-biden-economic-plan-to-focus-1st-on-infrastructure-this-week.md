@@ -379,6 +379,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Battle lines drawn on Biden's infrastructure plan"
+    excerpt: "Republican lawmakers and White House officials on Sunday came out swinging over President Biden Joe Biden Lawmakers say fixing border crisis is Biden's job Trump calls for Republicans to boycott ..."
+    publishedDateTime: 2021-04-04T18:57:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/546389-battle-lines-drawn-on-bidens-infrastructure-plan"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/546389-battle-lines-drawn-on-bidens-infrastructure-plan?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/546389-battle-lines-drawn-on-bidens-infrastructure-plan?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_033121getty_infrastructure_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z

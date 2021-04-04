@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-04-trump-campaign-and-allies-refund-122m-to-winred-donors-report.md",
+      "title": "Trump campaign and allies refund $122M to WinRed donors: report",
+      "excerpt": "The Trump campaign and allies including the Republican National Committee refunded more than $120 million to online donors in 2020.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JfAUQ3Q_bUQ/trump-campaign-refund-winred-donors-2020",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JfAUQ3Q_bUQ/trump-campaign-refund-winred-donors-2020",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288723563703.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp",
+      "publishedDateTime": "2021-04-04T11:01:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-biden-economic-adviser-says-she-supports-corporate-tax-increases-because-its-the-right-thing-to-do.md",
       "title": "Biden economic adviser says she supports corporate tax increases because it's the 'right thing to do'",
       "excerpt": "President Biden's economic adviser Cecilia Rouse on Sunday said the president proposes corporate tax increases because it's the \"right thing to do.\"",
@@ -126,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 230,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -330,62 +386,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-04-democrats-still-searching-for-answers-on-trumps-appeal-to-latinos-in-2020-election.md",
-      "title": "Democrats still searching for answers on Trump's appeal to Latinos in 2020 election",
-      "excerpt": "Former President Donald Trump's appeal to Latino voters may have been more widespread than originally thought, according to new research.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YmZWZxyXjWQ/trump-latino-2020-election-democrats-conservative",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YmZWZxyXjWQ/trump-latino-2020-election-democrats-conservative",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 424,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20303618251253.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp",
-      "publishedDateTime": "2021-04-04T05:18:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-04-biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region.md",
       "title": "Biden holds first call with Ukrainian president amid Russian 'aggression' in the region",
       "excerpt": "President Biden spoke with Ukrainian President Volodymyr Zelensky on Friday in their first conversation since Biden took office.",
@@ -495,62 +495,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-where-is-kamala-not-at-the-southern-border-lara-trump-reacts.md",
-      "title": "Where is Kamala? Not at the southern border; Lara Trump reacts",
-      "excerpt": "Fox News Contributor Lara Trump slammed Kamala Harris Saturday on \"Watters' World\" for refusing to visit the southern border more than a week after the Vice President was tasked with managing the crisis, and as the influx of migrants continues to grow. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HKDLsKP3zbg/where-is-kamala-not-at-the-southern-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HKDLsKP3zbg/where-is-kamala-not-at-the-southern-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/where-is-kamala-not-at-the-southern-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-is-kamala-not-at-the-southern-border.amp",
-      "publishedDateTime": "2021-04-03T18:42:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1055,54 +999,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-big-tech-is-out-to-erase-former-president-trump-daughter-in-law.md",
-      "title": "Big Tech is out to ‘erase’ former President Trump: daughter-in-law",
-      "excerpt": "Big Tech wants to “erase” former President Donald Trump, daughter-in-law Lara Trump said Thursday, adding that her father-in-law is “very upset” by the effort. Lara Trump spoke out one day ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/",
-      "originalUrl": "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/lara-trump-donald-interview-01.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/",
-      "publishedDateTime": "2021-04-01T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1665,6 +1561,110 @@
       "topics": [
         "Election",
         "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-pentagon-to-allow-open-transgender-military-service-reversing-trump-policy.md",
+      "title": "Pentagon to allow open transgender military service, reversing Trump policy",
+      "excerpt": "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp",
+      "publishedDateTime": "2021-03-31T13:45:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-donald-trump-moving-forward-with-plans-for-own-social-media-platform.md",
+      "title": "Donald Trump ‘moving forward’ with plans for own social media platform",
+      "excerpt": "Former President Donald Trump and his team are “moving forward” with plans to create their own social media platform, a report published Wednesday said. “We’re moving forward,”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/",
+      "originalUrl": "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-social-media.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/amp/",
+      "publishedDateTime": "2021-03-31T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }
