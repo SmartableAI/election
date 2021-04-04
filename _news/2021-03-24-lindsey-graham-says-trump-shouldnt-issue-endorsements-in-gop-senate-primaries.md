@@ -128,22 +128,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "New website shielding against ‘cancel culture’ attracts Trump, GOP: report"
-    excerpt: "Former President Donald Trump and some GOP candidates and organizations are migrating to an online platform created by the Trump campaign’s former manager​ to protect conservative campaigns"
-    publishedDateTime: 2021-04-01T19:12:00Z
-    webUrl: "https://nypost.com/2021/04/01/website-combating-cancel-culture-attracts-trump-gop-report/"
-    ampWebUrl: "https://nypost.com/2021/04/01/website-combating-cancel-culture-attracts-trump-gop-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/01/website-combating-cancel-culture-attracts-trump-gop-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/campaign-nucleus-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "First-quarter fundraising numbers showed high-profile support - or opposition - for Trump"
     excerpt: "Miller announced his campaign against Gonzalez after the incumbent joined 10 other Republicans to vote to impeach former President Donald Trump for incitement of an insurrection over the Jan. 6 attack on the U.S. Capitol. Shortly after Miller entered the ..."
     publishedDateTime: 2021-04-01T20:24:00Z

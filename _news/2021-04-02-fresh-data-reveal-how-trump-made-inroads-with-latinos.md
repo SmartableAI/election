@@ -26,101 +26,69 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook removes video of Trump interview with daughter-in-law Lara Trump"
-    excerpt: "Facebook removed a video of an interview with former President Trump conducted by his daughter-in-law Lara Trump, saying any content “in the voice of Donald Trump” would be scrubbed from the social media platform."
-    publishedDateTime: 2021-03-31T14:23:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzqlRWb8SEU/facebook-removes-trump-interview-video-daughter-in-law-lara-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Lara Trump on Facebook removing her interview with father-in-law: Big Tech wants to 'erase' Donald Trump"
-    excerpt: "Lara Trump said that Big Tech is trying to 'erase' Donald Trump on Thursday after Facebook removed a video of her interviewing the former President. "
-    publishedDateTime: 2021-04-01T13:48:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gOEAdNKw4Z8/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Summer Zervos Lawsuit Against Donald Trump Can Move Forward"
-    excerpt: "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims."
-    publishedDateTime: 2021-03-30T17:51:00Z
-    webUrl: "https://www.wsj.com/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
-    ampWebUrl: "https://www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-318142/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Big Tech is out to ‘erase’ former President Trump: daughter-in-law"
-    excerpt: "Big Tech wants to “erase” former President Donald Trump, daughter-in-law Lara Trump said Thursday, adding that her father-in-law is “very upset” by the effort. Lara Trump spoke out one day ..."
-    publishedDateTime: 2021-04-01T20:35:00Z
-    webUrl: "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/"
-    ampWebUrl: "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/"
+  - title: "Yale psychiatrist says she was fired for calling Trump and supporters mentally ill"
+    excerpt: "A high-profile psychiatrist says she was fired by Yale University after repeatedly calling then-President Trump and his supporters mentally ill — and is now suing the college for unlawful termination."
+    publishedDateTime: 2021-03-25T23:16:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ssa94xvLqgI/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill"
+    ampWebUrl: "https://www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/lara-trump-donald-interview-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b7693d9-a98e-450f-b0e5-2ca8da7bbbbb/ad0ab322-d7ad-46ba-9f0c-337c6a6ae7d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump blasts big tech ‘censorship’ after interview pulled by Facebook"
-    excerpt: "Former President Donald Trump on Thursday night decried big tech “censorship” after an interview he gave to his daughter-in-law, Lara Trump, was taken off Facebook. “I did a very nice interview"
-    publishedDateTime: 2021-04-02T04:39:00Z
-    webUrl: "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/"
-    ampWebUrl: "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/"
+  - title: "Pentagon diversity chief 'reassigned' after comparing Trump to Hitler on social media"
+    excerpt: "The Pentagon's new diversity chief has been \"reassigned\" amid an investigation of past social media posts including comparing former President Trump to Adolph Hitler, a U.S. defense official confirmed to Fox News on Tuesday."
+    publishedDateTime: 2021-03-30T13:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhGjo-Tv3Js/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media"
+    ampWebUrl: "https://www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/F9071EBA-D99C-4F65-A1BA-BBA41328E98D.jpeg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
-    excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"
-    publishedDateTime: 2021-03-31T16:18:00Z
-    webUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/"
-    ampWebUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Fox News
+      domain: foxnews.com
     quality: 133
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "wC0xkSig4rwtFoCQM2rSp4nR9bPmCWEEYEDtBQ5/F87gqeJBYwlqJBdTqC2fLC3dNrwO1rv+7NqIUAsEmnGu5EIfroQqsIEwYVKXB8/eskykaFD8cYzRqg0S7FeDs5IFYjIW2odrJkYaZ58IY4CkRcYHa/2YUBjCWzx6OD9LSDIIJF9mjlJppH3VmIdnurPRe1taduaVOLJMOrpiPvG69sV1cMFXcLmugda8/nvp7v6nm95lOPUVCWGoFDqkYpisgO0TzRPwySpmTRuxT0xDMe1fku8Ro8hRTKlTmrBio+eeqpECNw/68Q43Qp1TtJ8SYjPGaQEydni0K6jd7MypP+OthRpLSZN7q+WWD6896GU=;MqS17NSBEwqEUFZZet0hLA=="

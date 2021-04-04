@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 880
+heat: 900
 published: true
 
 provider:
@@ -538,6 +538,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MHH57RUSKMI6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden's infrastructure plan gets mixed review: poll"
+    excerpt: "President Joe Biden’s $2 trillion infrastructure plan is loaded with road repairs, internet upgrades and other initiatives that are widely popular on their own, according to a Reuters/Ipsos poll, but U.S. public support declines when the initiatives are ..."
+    publishedDateTime: 2021-04-03T22:11:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE6Z3X0F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210403&i=OVE6Z3X0F&r=OVE6Z3X0F&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Watch: Trump Uses Wedding Speech To Attack Biden; Asks Crowd 'Do You Miss Me?'"
     excerpt: "... The wedding reception took place at Trump's Mar-a-Lago golf resort in Florida The former president repeated false claims about widespread fraud during the 2020 election Former President Donald Trump on Saturday used a wedding speech at his Mar-A-Lago ..."

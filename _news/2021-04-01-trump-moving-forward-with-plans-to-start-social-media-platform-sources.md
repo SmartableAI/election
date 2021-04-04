@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-new-social-media-platform-fac
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-new-social-media-platform-facebook-ban.amp"
 type: article
 quality: 134
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Fox News
@@ -30,24 +30,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Donald Trump ‘moving forward’ with plans for own social media platform"
-    excerpt: "Former President Donald Trump and his team are “moving forward” with plans to create their own social media platform, a report published Wednesday said. “We’re moving forward,”"
-    publishedDateTime: 2021-03-31T18:49:00Z
-    webUrl: "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/"
-    ampWebUrl: "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-social-media.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "s71j9WyEC0mpBLLEVgxRRyYYF2Muc+o+pLGetRhc9ZBMXpDGEOkQ3HjF1qAoHxrBxGatn+kT7uu5nXqgLdbydFTHn/hVClOPmssuCCZBPa9xAGXVNO4/CMXuSS0ccPa+qHeldEAIEiPt7uxnLKphmop+RbyreTpvoLfVvLa8GVSxRqZ9mKAGuKPVotZ/BazM0ZRdUAIef08AUrqZ1iWA1KjREZg4wJZpbnBxbYNdVuhfoW3RnSIeW085Ivt9YtJAb/gpC/5BebmxPKheqbJOOAjgMpOytEFUDMuM+7e+iflJJR6w6lGsKaklRu2rZKYuvDMrbVHOJ12Gograf29ndcZ3kEWRFxVx4+/rshvuR1Y=;K7W2VDL6Fgqpj6iKwNU/0w=="
 ---

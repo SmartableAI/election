@@ -555,6 +555,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden's infrastructure plan gets mixed review: poll"
+    excerpt: "President Joe Biden’s $2 trillion infrastructure plan is loaded with road repairs, internet upgrades and other initiatives that are widely popular on their own, according to a Reuters/Ipsos poll, but U.S. public support declines when the initiatives are ..."
+    publishedDateTime: 2021-04-03T22:11:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE6Z3X0F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210403&i=OVE6Z3X0F&r=OVE6Z3X0F&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Facebook reportedly removed a video interview with Donald Trump for violating its ban on the former president"
     excerpt: "DOW S&P 500 NASDAQ 100 Facebook has removed a video that featured an interview with former President Donald Trump because it violated its current ban on him, according to Trump's daughter-in-law. Lara Trump, the wife of Eric Trump, posted on Instagram ..."
     publishedDateTime: 2021-03-31T19:28:00Z

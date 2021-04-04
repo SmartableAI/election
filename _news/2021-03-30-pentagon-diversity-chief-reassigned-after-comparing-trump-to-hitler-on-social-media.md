@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fresh Data Reveal How Trump Made Inroads With Latinos"
+    excerpt: "A new analysis of U.S. voters suggests — counterintuitively — that the coronavirus pandemic may have helped drive former President Donald Trump's surprising increase in support from Latinos last November."
+    publishedDateTime: 2021-04-02T16:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/02/fresh_data_reveal_how_trump_made_inroads_with_latinos_539593.html?mc_cid=15b3dd0249&mc_eid=848bcee76a"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/526159_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "dmldOlddzfxbM5XftBYGY+oRhelHxlxsuMzu7ExzRkUNN1xf4pnEB7/Ysqq9cJ6BNU9434fHepQoosIo2ox3vnIXKooyqrvG2iMUerqXNlCX8c/cCDWUhaD1hBy7vdJ6/UO14DvRR/mIDxWzTyRBA3NRY5mZDkLTcLLaniJA8+byrwJoM8cSvZ6iJLZD2BY4va8y4d4OTe8ObkpEOUOZJ2DGSsXA0xLflSa4n/4DniXBVXsnAD+0RshpTbVTNivgKeIi4T3461xAKzVwJVtpUd9KjAJDUBAjJO3arH24oMua1IS6JTGMqJsOAzuQyGw8Gv+RQAwWUbZNk1Lk4Nx3PfCVacF2NPz20g6OEgpYmug=;hNfySLCNu5lVi5gkXRRx0w=="
 ---
