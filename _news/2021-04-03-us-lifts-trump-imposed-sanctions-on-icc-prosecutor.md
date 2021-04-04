@@ -109,6 +109,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Lawsuits pile up over endangered species decisions made by Trump administration"
+    excerpt: "The Center sued the USFWS on March 25 to challenge the Trump administration's downlisting ... delaying a rule finalized in the last weeks of Donald Trump's presidency to eliminate long-standing ..."
+    publishedDateTime: 2021-04-04T09:59:00Z
+    webUrl: "https://abcnews.go.com/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
+    ampWebUrl: "https://abcnews.go.com/amp/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/US/monarch-butterfly-gty-jt-210401_1617294269969_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Blinken Restores LGBTQ Protections, Abortion Rights Support With Removal of Trump-Era Policies"
     excerpt: "U.S. Secretary of State Antony Blinken disavowed some foreign policy positions established by Donald Trump's administration on Tuesday. During remarks to present the State Department's latest human rights report, an annual review of human rights conditions ..."
     publishedDateTime: 2021-03-30T20:02:00Z

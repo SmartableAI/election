@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Joe Biden, Hunter's Laptop & Media Lapdogs"
+    excerpt: "They date back to last October and are part of the scandalous information contained on a laptop abandoned by"
+    publishedDateTime: 2021-04-04T10:50:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/04/joe_biden_hunters_laptop_amp_media_lapdogs_539674.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "R3w4drRW/OSb589yKS4rPTxH3kDB9V3kvFLP7ISsMGfeWWdZl5B/v5RS+pwjZtaFpI5ATYeSzTMcavMqfCBfCalhWI1iihZNdseXaxN6sl2zMh90dbiqeHJ7m2qqyFpbKi407Vm80J+00Sd6NMxcK7//Og4BYXyj6iXI3DALvXL8rGMRM44t0zP1uq+PUuihXPFzL+Ggj3YP4BZabzNjgxPZcfKJI9irI/AvdSi6iJABBj9UF6eOHgojMGCEVXxEDneNiRxzjq2Jku4rD3QIBRE7w2vk1iGcHzUIB5rhv+iR7wlCRioipcB14D7JLO54cj91k+lfErTo/Hxu3Bs4wKtPgBYD8kN4eWxqBW840IY=;GkVrqJP8XCSLt5fsbxFo/A=="
 ---

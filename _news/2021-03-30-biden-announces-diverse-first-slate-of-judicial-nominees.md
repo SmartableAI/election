@@ -143,6 +143,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Lawmakers say fixing border crisis is Biden's job"
+    excerpt: "Lawmakers on Capitol Hill say Congress has little role to play in fixing the border crisis, arguing the responsibility falls largely on President Biden Joe Biden Jobs report adds to Biden momentum ..."
+    publishedDateTime: 2021-04-04T11:01:00Z
+    webUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job"
+    ampWebUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/testerjon_021221gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "UPDATE 1-Biden aides to host meeting on supply chain issues -White House"
     excerpt: "White House press secretary Jen Psaki said the meeting would be hosted by President Joe Biden’s national security adviser, Jake Sullivan, and a top economic aide, Brian Deese. The meeting will be held on April 12 and include chipmakers and automakers ..."
     publishedDateTime: 2021-04-01T23:49:00Z

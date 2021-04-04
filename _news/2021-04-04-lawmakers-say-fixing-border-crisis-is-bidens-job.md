@@ -1,12 +1,12 @@
 ---
 category: news
-title: "2024 GOP White House hopefuls lead opposition to Biden Cabinet"
-excerpt: "A slate of potential 2024 White House hopefuls are leading the opposition among Republican senators to President Biden Joe Biden Jobs report adds to Biden momentum White House says bills are ..."
-publishedDateTime: 2021-04-03T15:21:00Z
-originalUrl: "https://thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet"
-webUrl: "https://thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet"
-ampWebUrl: "https://thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet?amp"
+title: "Lawmakers say fixing border crisis is Biden's job"
+excerpt: "Lawmakers on Capitol Hill say Congress has little role to play in fixing the border crisis, arguing the responsibility falls largely on President Biden Joe Biden Jobs report adds to Biden momentum ..."
+publishedDateTime: 2021-04-04T11:01:00Z
+originalUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job"
+webUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job"
+ampWebUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/hawleyjosh_cruzted_cottontom_02262021_getty.jpg"
+  - url: "https://thehill.com/sites/default/files/testerjon_021221gn_lead.jpg"
     width: 980
     height: 551
     isCached: true
@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "2024 GOP White House hopefuls lead opposition to Biden Cabinet"
+    excerpt: "A slate of potential 2024 White House hopefuls are leading the opposition among Republican senators to President Biden Joe Biden Jobs report adds to Biden momentum White House says bills are ..."
+    publishedDateTime: 2021-04-03T15:21:00Z
+    webUrl: "https://thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet"
+    ampWebUrl: "https://thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546233-2024-gop-white-house-hopefuls-lead-opposition-to-biden-cabinet?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/hawleyjosh_cruzted_cottontom_02262021_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "How Joe Biden tamed the left — at least for now"
     excerpt: "President Biden gives remarks in the State Dining Room of the White House on Friday. (Demetrius Freeman/The Washington Post) Joe Biden launched the early months of his presidency with a one-two combination that’s gone a long way toward taming the party ..."
     publishedDateTime: 2021-04-04T05:26:00Z
@@ -142,22 +158,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4R774HUT2UI6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Lawmakers say fixing border crisis is Biden's job"
-    excerpt: "Lawmakers on Capitol Hill say Congress has little role to play in fixing the border crisis, arguing the responsibility falls largely on President Biden Joe Biden Jobs report adds to Biden momentum ..."
-    publishedDateTime: 2021-04-04T11:01:00Z
-    webUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job"
-    ampWebUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/testerjon_021221gn_lead.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "UPDATE 1-Biden aides to host meeting on supply chain issues -White House"
     excerpt: "White House press secretary Jen Psaki said the meeting would be hosted by President Joe Biden’s national security adviser, Jake Sullivan, and a top economic aide, Brian Deese. The meeting will be held on April 12 and include chipmakers and automakers ..."
@@ -339,6 +339,6 @@ related:
         height: 600
         isCached: true
 
-secured: "EtdCTeUDUwitxia3WR7P+CXR/sFeMnQKhe5G+qZcqUW4bEzHRE7JtDhd2yolH6ln/OQRXtEP8YVBKPkRLTKxUqskS+Lv4cOCDHJJeEqmTqpnkHVg/+ONc8qJjubyIeR+m5k1QSdwRzq7aAflSjYRlYr2bITsAt/lC3htdqQwgeVE0wwqLrSAPKoRazVdY6d0FRjEShhozvPOsJfrqx3KIcQOvrY30LJOKhps82mLBX6UqEZ+it91jco8fEjsdkhYLz+egoajdz39Xnec+GMR1PtoINKkePkWNH40hod1AJv4kMvuzU4fhvmDcgQykST0xeQBIhHA8GGV0Q/xUfHDmb9V+p1GJWcbO7gaJrVgiIhOoIZ5tsCMEUVh0/DWMm7ZHiaWCE6Qr1cqJz6/931PRfdphNp9GJWrk5ThR68aJZt8S9LbqRrVLKF+9WPAlmMhmeif8yU3jQcRGF6cIVOqFV2VtSbnrIfwgLOsqz54tiZW6ssr1Rl2ozfG1qrV3AYqyNl1WFGPFjRwjP44ci7TzA==;j2zad1b4kHBwTAREpJC8Cw=="
+secured: "JpuRVa40g5wxC+U+9RWPBcpxW7RxzUh/sfaoCrARoLT9cDE+r/RimrbKFey0L6tpgDuWCUAkDFs6Ra6xDEW9gg1a+aW8EVxrc7WWDQs2IMsrvMuQZo9+2RVDM5i10vO75YHsPrmqMrLngpjf+zj+SPoyjYrRaie9IWXSVhIAaB3OUVePwQyz75IDI3/BkkZdWjPflt8sVJ2cDsJBG7TFErC+lXcLWLI73tzMfG0EeyySpk8a0UTDk3+DQlp3PVmKd5w3y1kr4c9OzPFmwOAyxHs14fO6qzj5BfeXTFeUH5MAqCXJ05OuljdW+Ip/WV+KU8ARvnHeiv7XN2EXm10hCtdDvzqpLxCD1VdajgaiWYc=;rIRoIWCK249ORMdP6zfQMg=="
 ---
 
