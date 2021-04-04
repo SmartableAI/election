@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 900
+heat: 920
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/9df3cf067945b89a8e12ac04d491ae5af7a20067/0_105_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c9490725a9c80495c3e65735d0e92b7"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden administration reverses Trump decision, will provide $1 billion a month more in emergency food assistance"
+    excerpt: "The Biden administration has abandoned the Trump administration’s opposition to emergency nutrition assistance going to the lowest income households already at the maximum benefit levels. In two lawsuits in Pennsylvania and California, plaintiffs argued ..."
+    publishedDateTime: 2021-04-02T22:51:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WO6AMYB7A4I6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Top Trump adviser pushed controversial COVID-19 medical supply deals, documents show"
     excerpt: "A top adviser to former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle ..."

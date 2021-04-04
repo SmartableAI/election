@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigatio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 213
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311100025-file-capitol-riot-0106-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "How Trump Steered Supporters Into Unwitting Donations"
-    excerpt: "Demands for refunds spiked. Complaints to banks and credit card companies soared. But the money helped keep Donald Trump’s struggling campaign afloat. Recurring donations swelled former President Donald J. Trump’s campaign coffers in September and ..."
-    publishedDateTime: 2021-04-03T20:28:00Z
-    webUrl: "https://www.nytimes.com/2021/04/03/us/politics/trump-donations.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/03/us/politics/trump-donations.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/03/us/politics/trump-donations.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/01/us/politics/00donations1/merlin_179465994_5a708364-8923-4b31-9068-df4d5c86e084-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "TND7U34ZyEvfutflq/KkR8XugOyAajwiihjtXoP9+nsT/C7y2EhXijK1eqkqzdeKP9V1uaDp5ncUavUqSRzeQZG6IDHdcCgWA3BM+bdd9NqFfhrQNjA9nUC57VtKrXaLuIgzcFhY4WKslxiJVi9K/RRR+MHGQOwNPCrhpQNLTpK6ayrJahC6cxAxjLuM8fe3cXAwTVIXC83A1vyAoUuFWUPxZnd4xUdV0tCF9Bqcf4rN2Ngc/YTtN6RGNjUVC0XwGqamQKpdYXulKc4koIlh7TV2AA1o2NTEE1ykcE3xv2CR8sgoyYVvvOfm2HR9s9K+kfAi88//1McjvPPnmJNhHsnxM34OULNffnfx4emcjpo=;kMZ/1+1n/3N/dJs6xDl+CQ=="

@@ -477,6 +477,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration reverses Trump decision, will provide $1 billion a month more in emergency food assistance"
+    excerpt: "The Biden administration has abandoned the Trump administration’s opposition to emergency nutrition assistance going to the lowest income households already at the maximum benefit levels. In two lawsuits in Pennsylvania and California, plaintiffs argued ..."
+    publishedDateTime: 2021-04-02T22:51:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WO6AMYB7A4I6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "For 100 days, religious scholars sent Trump letters about scripture and modern life. Now they’re writing to Biden."
     excerpt: "On Easter four years ago, Christianity scholar Gay Byron sent a letter to the newly-elected President Donald Trump. “I hope you will find time to reflect on the mystery of the cross, the meaning of the resurrection, and the enduring power of God’s ..."
     publishedDateTime: 2021-04-02T21:58:00Z

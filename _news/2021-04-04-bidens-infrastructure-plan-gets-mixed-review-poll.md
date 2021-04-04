@@ -475,6 +475,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration reverses Trump decision, will provide $1 billion a month more in emergency food assistance"
+    excerpt: "The Biden administration has abandoned the Trump administration’s opposition to emergency nutrition assistance going to the lowest income households already at the maximum benefit levels. In two lawsuits in Pennsylvania and California, plaintiffs argued ..."
+    publishedDateTime: 2021-04-02T22:51:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WO6AMYB7A4I6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Top Trump adviser pushed controversial COVID-19 medical supply deals, documents show"
     excerpt: "A top adviser to former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle ..."
     publishedDateTime: 2021-03-31T13:22:00Z
@@ -632,6 +648,6 @@ related:
         height: 675
         isCached: true
 
-secured: "uPxM17rfYiAcKGbQUZ48uinCrW5+N+ziOJDN1aOIFU01oYtA/WiPZOi74ySYJVmIqYt9ByJac/B0Fcc8fUoj2mcOXAqwH/3Mm9M5BkNGFv+PZz4Pthye2Opk78KneA6bnSJJ2ZB6I6HJ0yMxHrCVmtkOuR7gMFx1IxfrhIIwlNNS6NmHSUvaUeeTj8V72QgwMS85dUVl3+VpbWMiYMXxy3hdvIrVvvLG1ft9ML0P98bhQAjKrvjEkOV+iKLL0KrHrc3F2sv7EqUJnAzll2YkA5Y/lyTvY8LHU6M9Mrz45sGcmIeLkrjKffwIc9o9cdVpDlzzKvYxbOj0HsUOMVH8UqCRB3iE5tSyfAwEHlUnFLE=;PytPIxaMCBMqb3FpmiWQvg=="
+secured: "ac9SzJiPDmq5fx/1BCfedv0ZmhKNavZx3+bUJQYGBDBbbxKLWIAsz5XsZx6ROuKf8L1MOzHuCbAfKgTQWg7pulSNMa/EeifDZGpqJG51YSD49+Lj6PQ785mm4SoM1VJnRz9xlz16/2hc2vMxIBnjahEIteNuElqQmt3H+gP009a3boH43dVAS34M7JvkRugtkQ9dSErpM2CmPbu6irmWCieQ+e1+YvWMOPU48QVZIfcrSvBmTH5x4fwMOsc5UvHQ2fzWs4ylOtkTnJAVE0tang4CZHJ2TV4Y6ybfnxXVQ5YRXGtxIY8HV6e2pR6NBdOEezIdAEz7s8x4K5KCt7Rton53FqZbklaxOfVc7hr5uIoIZZ69ANHc8lyXBROQbJdn3tPhHgtkAZALEFcDNeg+ULETzfmgcYMODcTFGsHkNWgnS2CTsLyhSFcCBptkE48BXBohzWkVUEdsrb73I9XXFzfG0Uh40v6kazdIN2ubK5hfq650M0f78THQBN1R1zhn3Lw6IVYOJvLXQ19fNmEKtA==;3ALGs6bvZXg2sWn2GEJ1ag=="
 ---
 

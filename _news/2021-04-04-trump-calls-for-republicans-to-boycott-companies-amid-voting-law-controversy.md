@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Blinken ends Trump rights plan promoting conservative agenda"
-excerpt: "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons"
-publishedDateTime: 2021-03-30T16:03:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+title: "Trump calls for Republicans to boycott companies amid voting law controversy"
+excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
+publishedDateTime: 2021-04-04T02:23:00Z
+originalUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting"
+webUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting"
+ampWebUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
 type: article
-quality: 125
-heat: 325
-published: true
+quality: 122
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
+  - title: "Blinken ends Trump rights plan promoting conservative agenda"
+    excerpt: "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons"
+    publishedDateTime: 2021-03-30T16:03:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
     excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
     publishedDateTime: 2021-03-31T12:03:00Z
@@ -78,22 +94,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557161752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310PN"
         width: 890
         height: 545
-        isCached: true
-  - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
-    excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
-    publishedDateTime: 2021-04-04T02:23:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Blinken Restores LGBTQ Protections, Abortion Rights Support With Removal of Trump-Era Policies"
     excerpt: "U.S. Secretary of State Antony Blinken disavowed some foreign policy positions established by Donald Trump's administration on Tuesday. During remarks to present the State Department's latest human rights report, an annual review of human rights conditions ..."
@@ -188,6 +188,6 @@ related:
         height: 682
         isCached: true
 
-secured: "0ljQQlzHMQrkkIsubdwUDN/uTPkQ4zm2euUFfIQR7RSn4Ob/LjvCQa/cxi5j5qjT9MGpPbDSXPozfo9nQj/HfmDozY9wapB0kNdjEzbgH2vPCzDEmuGsVZjtB5jwXcQMxtDiWlmeifT1R7gATucVXvuYGaU5l5GQQGXOHKEAPvKb+uqFXjX9Tkw11kDU3Wvjq859/mKth/5J0YUVhTMqs2UuHX+DGHIV02zWI2xh802BKr4zvBcSwy+DNL2upE6zz6xyQkcrPKlx33QAVvl/4cHMOvifv36eqrq0swELk46QgX8JLCq/8OtNzyvHPpQBKTfpwN7BF8onBbE4EwXsKNO8SLjOBTonDK2g9+EJ8uY=;//ntQDfIKUdoXQnDdYG6IQ=="
+secured: "7sDBH/VlUqWWbL8BCaxPXCoqVtIOzmq0C+/JRHVX2igUPzLpKmNH5CV6MI9AMmn1EdYMmeao88xB+LNTVTfq2wLLHHl/nZqnV6lywZ4+MgJI8bt9gPA7tp6fOpIxwhSwnafT8K1LrPNkGCKhoTcBlnMrpxMllWclljtvlJgpavhAbm8JWn6/iZRvjcuETdfJga6CaeYk6gTUC/wrbfXdPGanSsxlbXlKhY3AKKzn5pPPNeZSpWPJE9H50025uZL8wY3O2tTaVdTWu02ecIcewMMaTd34GAUoFuYvBxa7Hma/6pPW1DrEcSL7TAebSejJt2ErtJiZBe5O//FFskfnYF4GSWn3ru/zDfS+zKOduow=;y+2qX0xsV0f4wIl91bn9qw=="
 ---
 

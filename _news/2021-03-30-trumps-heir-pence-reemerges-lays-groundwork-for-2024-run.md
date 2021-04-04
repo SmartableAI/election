@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reem
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
 type: article
 quality: 150
-heat: 910
+heat: 930
 published: true
 
 provider:
@@ -271,6 +271,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RMYIHQCLFYI6TFTDACWHH5EWMI.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "How Trump steered supporters into unwitting donations"
+    excerpt: "Facing a cash crunch, the Trump campaign had begun last September to set up recurring donations by default for online donors for every week until the election."
+    publishedDateTime: 2021-04-03T21:18:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-supporter-donations-20210403-diz6ucnxwjc7tbtrzmloygt2am-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-supporter-donations-20210403-diz6ucnxwjc7tbtrzmloygt2am-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-supporter-donations-20210403-diz6ucnxwjc7tbtrzmloygt2am-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/3EmPGZj7liGrSNiu6HXXyd40Y8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QOYMUZBWNXY6GRCH5YXJCGQNFQ.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."

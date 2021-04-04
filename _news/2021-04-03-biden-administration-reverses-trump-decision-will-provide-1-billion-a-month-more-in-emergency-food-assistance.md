@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden orders White House flags flown at half-staff after Capitol attack"
-excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden ..."
-publishedDateTime: 2021-04-02T21:16:00Z
-originalUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack"
-webUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack"
-ampWebUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
+title: "Biden administration reverses Trump decision, will provide $1 billion a month more in emergency food assistance"
+excerpt: "The Biden administration has abandoned the Trump administration’s opposition to emergency nutrition assistance going to the lowest income households already at the maximum benefit levels. In two lawsuits in Pennsylvania and California, plaintiffs argued ..."
+publishedDateTime: 2021-04-02T22:51:00Z
+originalUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/"
+webUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/"
+ampWebUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/?outputType=amp"
 type: article
-quality: 125
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/bidenjoe2_04022021getty_0.png"
-    width: 980
-    height: 551
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WO6AMYB7A4I6XNMLCYR7MJTZMA.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -367,6 +367,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden orders White House flags flown at half-staff after Capitol attack"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden ..."
+    publishedDateTime: 2021-04-02T21:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack"
+    ampWebUrl: "https://thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546243-biden-orders-flags-flown-at-half-staff-in-the-wake-of-capitol-attack?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_04022021getty_0.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z
@@ -460,22 +476,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/9df3cf067945b89a8e12ac04d491ae5af7a20067/0_105_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c9490725a9c80495c3e65735d0e92b7"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden administration reverses Trump decision, will provide $1 billion a month more in emergency food assistance"
-    excerpt: "The Biden administration has abandoned the Trump administration’s opposition to emergency nutrition assistance going to the lowest income households already at the maximum benefit levels. In two lawsuits in Pennsylvania and California, plaintiffs argued ..."
-    publishedDateTime: 2021-04-02T22:51:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/02/biden-usda-snap-relief/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WO6AMYB7A4I6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Top Trump adviser pushed controversial COVID-19 medical supply deals, documents show"
     excerpt: "A top adviser to former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle ..."
@@ -648,6 +648,6 @@ related:
         height: 675
         isCached: true
 
-secured: "NI4M/XQ/ufmKrWzzIiYuE5ymEdDdYbUWCNyE1dtrhjGtsIgdCdS5p2qvDf8+L4pYyT1KC4T7sNnrEItPoyXfl0DRhnXgODgo/EPLvb2SlHoCqrRiZY3M9zF39ImHzOtNhxn7UYub4W5p2NBOx0oAkoarKcdTysk0nDBZV9w6/hA6EyGPP/lWrjY/OqHN8HpdULwwi48AjsfDMKR6enqXtnXxK21XE4jPNuUi23fnMAPO9usHDr3zvZzu/WijWs336q54qnZJwqR8+ygKQB2JkvqGiEcnNctLgu7DjrGRleV2Md7z4QexnNIq3USUevv6E+1DPZp8R8s3po6KkkCFHx8z+GmCcMwwzIPgj+KEsro=;LMWAtdGaHiZhRC/sxVVYMw=="
+secured: "nSUDWLBZCVQsU0n1zE+kMdBc9zAeQzdh43xIZifFqdkItUMNlsStbY0IrLrS9ddcBnOdATYgpY6o/nwCHsl3RAATzXXheDqskBjekDXvpEKbzNarfbm2mWZYrPLYobR79feaZi2jXUBSY4IGHboReqLRD7IG5khOBlh87mOhUH4lPvQtlyRR1biO01CzJmKkQ6xjvbaSpnky//CE5vmpUnHTttGZr0CHrFdmlU9Qbq+UJlkAOVC/M4Fr0V4lvVNd4PhSeRaAaI8yOncx3ClGerb4vOIibuPlaTEQbBqwUDvri+K59ucUiSU+YLwP7s4GzMHlQf7AfOEi25dZiajasID3e4X45D/Wjaf04pZ3mkk=;32wQ/59yLjYk7sU+/GiMcA=="
 ---
 
