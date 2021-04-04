@@ -143,6 +143,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "How Joe Biden tamed the left — at least for now"
+    excerpt: "President Biden gives remarks in the State Dining Room of the White House on Friday. (Demetrius Freeman/The Washington Post) Joe Biden launched the early months of his presidency with a one-two combination that’s gone a long way toward taming the party ..."
+    publishedDateTime: 2021-04-04T05:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4R774HUT2UI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Here's exactly how Biden's $2 trillion of infrastructure spending breaks down"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden is set to announce the first part of his two-part infrastructure package this afternoon. It's called the American Jobs Plan, and it will cost about $2 trillion. The package is focused on job creation, traditional ..."
     publishedDateTime: 2021-03-31T17:48:00Z
