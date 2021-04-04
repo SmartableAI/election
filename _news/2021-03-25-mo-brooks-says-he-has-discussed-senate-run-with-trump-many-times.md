@@ -521,22 +521,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "Donald Trump Jr. buys mansion 20 miles from Mar-a-Lago"
-    excerpt: "JUPITER, Fla. (AP) — Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are now Florida home owners. The Palm Beach Post reports that the couple spent $9.7 million this week to buy a 11,000-square-foot (1,000-square-meter), six-bedroom, 11-bath ..."
-    publishedDateTime: 2021-04-01T16:52:00Z
-    webUrl: "https://www.chron.com/news/article/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Wisconsin governor seeks legal fees from Trump, Republicans"
     excerpt: "MADISON, Wis. (AP) — Wisconsin Democratic Gov. Tony Evers is seeking more than $250,000 in legal fees from former President Donald Trump and a Republican Party official related to fighting a pair of election lawsuits filed last year. Evers made the ..."
     publishedDateTime: 2021-04-01T15:45:00Z
@@ -627,6 +611,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump Jr. Buys Mansion 20 Miles From Mar-A-Lago"
+    excerpt: "The Palm Beach Post reports that the couple spent $9.7 million this week to buy a 11,000-square-foot (1,000-square-meter), six-bedroom, 11-bath mansion in the town of Jupiter, about 20 miles (32 kilometers) from the Mar-a-Lago compound where former President Donald Trump and former first lady Melania Trump are living."
+    publishedDateTime: 2021-04-01T14:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-01/donald-trump-jr-buys-mansion-20-miles-from-mar-a-lago"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "0wxAqi/dG4mpFpyWwCCMJjv+mL5QCLH6QlIj7z0NJnN4Empgm7BRpffd8VL4NEI+7dqpXlfwrA77phpeFCvDA2rYE4QYqqH5+MI84oiqDA3krv0ZlLLj1t3QnhkcXjjME08FbyYxaIbdDo57ebJeF7km38K7fpgNqw8IThAp/0J/ZIZyXWKKl54uKh9J1KeYmwHjabxUQiX9YEYuW7gzNtOumKIDbb+WZDjW+KVdbgc3T/SKmxvgVeueKOveB0BrZGdzKeGAaWYZBG2CUqiaO1CukQ7qPPAcG9pLP7Gi5ELOP2Sgp6xhNOsJPEihl8NZv2lGuvF9AqCwVS6oRtNQC6y5xO9libII2XHQlbKu6h78GFAe4UFTD8McBNKiIpHR0pgawPiwlRONPwWTANydTFN8eupH5ufkWAsMcPPTpWaYKDwjnaH6Js4rdmmkD6sbO7F5bZVrrsVyeqrreMFuBchHOgvTrXt5VmFKwBaBI5uhBL4lx0XNoD200pUADJisn7SCotXKs3tZZz66kXR1JA==;uoYSHO1875A91zGA3XO3+w=="
 ---

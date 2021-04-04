@@ -220,6 +220,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden Keeps Aluminum Tariffs on UAE, Reversing Trump Policy"
+    excerpt: "The exemption to the UAE would have gone into effect Feb. 3, but Monday night President Biden blocked it."
+    publishedDateTime: 2021-02-02T01:49:00Z
+    webUrl: "https://www.wsj.com/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-293457/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Joe Biden will keep Trump administration’s UAE aluminum tariffs"
     excerpt: "President Joe Biden will keep in place the Trump administration’s aluminum tariffs on the United Arab Emirates, after initially reversing the policy. In a proclamation issued Monday, the"
     publishedDateTime: 2021-02-02T16:43:00Z

@@ -537,22 +537,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "Donald Trump Jr. buys mansion 20 miles from Mar-a-Lago"
-    excerpt: "JUPITER, Fla. (AP) — Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are now Florida home owners. The Palm Beach Post reports that the couple spent $9.7 million this week to buy a 11,000-square-foot (1,000-square-meter), six-bedroom, 11-bath ..."
-    publishedDateTime: 2021-04-01T16:52:00Z
-    webUrl: "https://www.chron.com/news/article/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Former Vice President Mike Pence reemerges, lays groundwork for 2024 run"
     excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
     publishedDateTime: 2021-03-30T10:55:00Z
@@ -627,6 +611,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump Jr. Buys Mansion 20 Miles From Mar-A-Lago"
+    excerpt: "The Palm Beach Post reports that the couple spent $9.7 million this week to buy a 11,000-square-foot (1,000-square-meter), six-bedroom, 11-bath mansion in the town of Jupiter, about 20 miles (32 kilometers) from the Mar-a-Lago compound where former President Donald Trump and former first lady Melania Trump are living."
+    publishedDateTime: 2021-04-01T14:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-01/donald-trump-jr-buys-mansion-20-miles-from-mar-a-lago"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "j7Sfmcw3OsNNXtUIj2dXOaydBn2MrnNTeke9XHoTjcZYT30cgSiVZ5rlh/64WTmPqn3trV4iEdvtz7YoZsM80e/bQLo24iB1ERDiKBcUmKY2zhXOWUwu3OaWevtFGuBb2cvEIEwN4Z7bZrrmIUdMGWwqZU+l8kVoFoNCUfnTcvdqW2nWqCa5Bo92lhdksRHGGrE7zUZ7hlnBB0huJvbmv+EDhnU2LjJL77tppfSoC1RP5ye9x+qeIy9bDhqAMA/2mCXADeqPUmow6Tf8RZ/arMZq5L5oMgXuOVhnskMFYg81zm75pLGbYH8LEDZWhyftJ2EUAzdx/4OKriDQ9Plg9X4meCul1WLvF/bxvStSG3A=;yYvRLVtGx76WuGdggf4xng=="
 ---

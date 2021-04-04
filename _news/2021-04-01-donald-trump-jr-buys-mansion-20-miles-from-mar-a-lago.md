@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Donald Trump Jr. buys mansion 20 miles from Mar-a-Lago"
-excerpt: "JUPITER, Fla. (AP) — Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are now Florida home owners. The Palm Beach Post reports that the couple spent $9.7 million this week to buy a 11,000-square-foot (1,000-square-meter), six-bedroom, 11-bath ..."
-publishedDateTime: 2021-04-01T16:52:00Z
-originalUrl: "https://www.chron.com/news/article/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
-webUrl: "https://www.chron.com/news/article/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
-ampWebUrl: "https://www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Donald-Trump-Jr-buys-mansion-20-miles-from-16069634.php"
+title: "Donald Trump Jr. Buys Mansion 20 Miles From Mar-A-Lago"
+excerpt: "The Palm Beach Post reports that the couple spent $9.7 million this week to buy a 11,000-square-foot (1,000-square-meter), six-bedroom, 11-bath mansion in the town of Jupiter, about 20 miles (32 kilometers) from the Mar-a-Lago compound where former President Donald Trump and former first lady Melania Trump are living."
+publishedDateTime: 2021-04-01T14:43:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-01/donald-trump-jr-buys-mansion-20-miles-from-mar-a-lago"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-04-01/donald-trump-jr-buys-mansion-20-miles-from-mar-a-lago"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Trump's heir? Pence reemerges, lays groundwork for 2024 run"
@@ -628,6 +624,6 @@ related:
         height: 683
         isCached: true
 
-secured: "29z3NsuIpzEWP+iyeldUciFIiUR/ggbQQ1dNvZzDAk/EV7mgU8seGYu4mPktbZ4aKb4gyimB/q86SzhYjlTN8vuGLwj90zDwllupnYhDVVLHT2C7EsXgnJRY6H7LMuu2rN0hWXWJWnKYh61bsT8DH2wLMgBpJ3rfr2z+sGKWxaMYxAwlNEzPdt5cZk+1VBS7eVGXc+C6yYtRj1NVOCR7opmlAc1K29rh3qHDg8mkLrThhWhIb8udP0j9oRv5SLsUgJokdXLvy8/Wx40xIrj+0lI6FsdIzGzj9dWbTq2jOwLabdkExEzV2Q+Pky+B/+ME5efMRdfLcaJXLTowQ5cGRFqxHxzt5dVuAe93kHSm6ecMdXmfwXcFx8Oy2FbNmfRks9AZ9aBpuUe5BtEOuXf3DezbieF3XH+a9YlDLz5sOnKadc7CrV3nBIyx8Av9F8hFV5iKlcd1sfc+6g+5F8sSjG6chBRKUobomprxLsH+ytP4ZbKKzqGj5wATUSsamijv66WEhKxFhjADy5BLA/6N2A==;vqaD7Gq6HgM8PBqUBMd/7Q=="
+secured: "wqNer9f9XFjfriBhFUJ2fTfQ8ag2U0FlmZlyyBnehUZoXakLAdykDmpLqY3NF4GRtrDC3fH+DbMXmuVtKHJtksDF8BXZkUxoIUvjUo/xuuGlxItXiBMwICLd4nx+jRZL8fGPvKKeTGDSoWKJ3Rsym/hwwvmalYXNE+gef+4VrkEo0TcvQQzkYfY2g3dLwpVhgx4qzoNB7OPKUceUI3rvpAeVBQ7ipeCZzkCvu7H7uPsqrqOTiqV2D+JRufGteYMQbhSbCdPI1+xCYCt7l2HkmRFSADwvzn3SEA1KXAXBovvO4Y6clbwNmKcCQ0mrpqgLERG3WX/abJHN5o2OLHA3TdXev3TTq8OMf1YlzatUTTVMJSzk5jequz0P/vd59+kM3p4Pe4s27lHge+DzAwYSQf+QwRrfzOG4oILHJOcbChmjYSyYwQfFUT0cQGjPL4GASufiIgyb4zGK3JaLW98WsDcWamRagT8chWlvo54DqF1Wln4O+8EibaeUgLQaFS94LaNBrU6nbiSUBb5xd1sZ0g==;2OIdewsH0isZDRjM51hotA=="
 ---
 
