@@ -297,6 +297,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Manchin Puts a Damper on Biden's Infrastructure Plan, Says It Risks U.S. Competitiveness"
+    excerpt: "Senator Joe Manchin, a moderate West Virginia Democrat, criticized the corporate tax increase plan President Joe Biden has proposed to pay for a $2 trillion infrastructure bill, raising concerns it could risk American competitiveness. In an interview with ..."
+    publishedDateTime: 2021-04-05T18:40:00Z
+    webUrl: "https://www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102"
+    ampWebUrl: "https://www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1771680/joe-manchin.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden only wants to raise taxes on the wealthy, but he's misleading families with $400,000-plus income"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden has repeatedly hinged his massive spending plans on a series of tax hikes with the single rule that \"no one making under $400,000 will see their federal taxes go up.\" The assertion is true, depending on your ..."
     publishedDateTime: 2021-04-01T17:05:00Z
@@ -367,6 +383,20 @@ related:
       - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/11/Joe-Manchin.jpg?resize=300%2C300&ssl=1"
         width: 300
         height: 300
+        isCached: true
+  - title: "U.S. President Joe Biden Delivers Remarks Regarding Easter"
+    excerpt: "President Joe Biden (R) waves beside First Lady Jill Biden (L) and the Easter bunny while delivering remarks regarding Easter, on the Truman Balcony at the South Lawn of the White House, in Washington, DC, on Monday, April 5, 2021. The traditional Easter ..."
+    publishedDateTime: 2021-04-05T18:55:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c24df801152d36a75d4fe1f1737b49bc/US-President-Joe-Biden-Delivers-Remarks-Regarding-Easter/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c24df801152d36a75d4fe1f1737b49bc/USA-BIDEN-EASTER.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "qj5wnHBn7KXMdl8KfvyOSSsecTZcOsFsqempMmncC7np2WcoYxuKdlTD0MgV2wm4akwOVo6PAuRKvb8hJIuPgQZsuMKdzyhryMCOry4gkejTZUZK2HBVT4ZutjIacwSmJfqjwR19MiF26/ZKdd53vXg8Ft1SNNfv70DBDNRQP7GoOTh8Euc6540ooFWqD4P4kLGpcSFaisQhkFMTPl9EFWa9vyeu8kNfJFacnG7DfmCB2sdHVwG43ziu2NJRJ6R8lVBRHMHL7Z/mmKXQ6irvjvRO04mc8Mx/dr/01Hgd4HHsEaRKi6KkIJpx5hFnmvKSfDvXef5PfLqaudO9y2P4r7PXb73x0gGP3mfmLJ8FmOY=;WaonOwgmA1clcDQLbdwdRQ=="

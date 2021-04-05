@@ -143,6 +143,22 @@ related:
         width: 867
         height: 545
         isCached: true
+  - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
+    excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
+    publishedDateTime: 2021-04-05T18:20:00Z
+    webUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border"
+    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 139
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_04022021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'"
     excerpt: "Biden says predecessor shouldn’t have access to briefings, which are traditionally offered to presidents even after leaving office"
     publishedDateTime: 2021-02-06T01:34:00Z

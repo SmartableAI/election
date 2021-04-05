@@ -75,6 +75,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
+    excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
+    publishedDateTime: 2021-04-05T19:41:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-comes-to-Oakland-to-promote-2-16078305.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-comes-to-Oakland-to-promote-2-16078305.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-comes-to-Oakland-to-promote-2-16078305.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 74
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/35/40/20830223/5/375x250.jpg"
+        width: 375
+        height: 242
+        isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
     excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
     publishedDateTime: 2021-03-22T17:08:00Z

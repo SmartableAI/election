@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2040
+heat: 2060
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NW"
         width: 867
         height: 545
+        isCached: true
+  - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
+    excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
+    publishedDateTime: 2021-04-05T18:20:00Z
+    webUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border"
+    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 139
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_04022021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'"
     excerpt: "Biden says predecessor shouldn’t have access to briefings, which are traditionally offered to presidents even after leaving office"

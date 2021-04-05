@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Supreme Court dismisses case about Trump blocking critics on Twitter"
+    excerpt: "The court threw out a decision by the Second Circuit Court of Appeals in New York that Trump’s attempts to block critics violated the First Amendment."
+    publishedDateTime: 2021-04-05T18:03:00Z
+    webUrl: "https://nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/"
+    ampWebUrl: "https://nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/justice-clarence-thomas-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pentagon to allow open transgender military service, reversing Trump policy"
     excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
     publishedDateTime: 2021-03-31T20:50:00Z

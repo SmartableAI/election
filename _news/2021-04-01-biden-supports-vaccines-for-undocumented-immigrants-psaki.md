@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigra
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/gloria-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden Welcomes Immigrants At Naturalization Ceremony: \"Thank You For Choosing Us\""
+    excerpt: "PRESIDENT JOE BIDEN: Every immigrant comes to America from different circumstances, and for different reasons. But you all have one thing in common: courage. The courage it takes to sacrifice and make this journey. The courage to leave your homes ..."
+    publishedDateTime: 2021-04-05T18:47:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/05/biden_welcomes_immigrants_at_naturalization_ceremony_thank_you_for_choosing_us.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/53/539713.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "nsUJn5iCQr3lFDkfdwcSZcFeCoGbY4d4NY4S0iOg73HsXOlztLXfy77vQ2HHegnelvf4FVk+RRY8VLRhO6eVAZoqJm4K1Rb99mwcWrjTDEyL7PhMiLi8YTIaagIPYzJlv1NqkKY0trdeyLjWMLW+rPoamVLgg4LLDQLrUmcx5ARDDB/3lHRtE+IgoKcKJGtXAkZOrGqt4FbHeGDYJ3cHIfyJ8ldYywCPZwYzZD4V1aEPVtxfzdlxPhsPpodU5WyIPNhqzM+mkj5tyR7dtA7a9QfLF7nSPnKcTJSYatj1+qescU1ZRw7bRq7gKwRB5TdbaLMGK5TbKtmF0nj97Qh77C/w3I1AuvMzm8UfPmurvSM=;O9/HFnfAwKA0ZkxVOhJ00A=="

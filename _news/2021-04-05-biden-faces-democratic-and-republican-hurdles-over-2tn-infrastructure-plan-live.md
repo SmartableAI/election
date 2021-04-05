@@ -287,6 +287,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Manchin Puts a Damper on Biden's Infrastructure Plan, Says It Risks U.S. Competitiveness"
+    excerpt: "Senator Joe Manchin, a moderate West Virginia Democrat, criticized the corporate tax increase plan President Joe Biden has proposed to pay for a $2 trillion infrastructure bill, raising concerns it could risk American competitiveness. In an interview with ..."
+    publishedDateTime: 2021-04-05T18:40:00Z
+    webUrl: "https://www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102"
+    ampWebUrl: "https://www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1771680/joe-manchin.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden only wants to raise taxes on the wealthy, but he's misleading families with $400,000-plus income"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden has repeatedly hinged his massive spending plans on a series of tax hikes with the single rule that \"no one making under $400,000 will see their federal taxes go up.\" The assertion is true, depending on your ..."
     publishedDateTime: 2021-04-01T17:05:00Z
@@ -372,7 +388,21 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "U.S. President Joe Biden Delivers Remarks Regarding Easter"
+    excerpt: "President Joe Biden (R) waves beside First Lady Jill Biden (L) and the Easter bunny while delivering remarks regarding Easter, on the Truman Balcony at the South Lawn of the White House, in Washington, DC, on Monday, April 5, 2021. The traditional Easter ..."
+    publishedDateTime: 2021-04-05T18:55:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c24df801152d36a75d4fe1f1737b49bc/US-President-Joe-Biden-Delivers-Remarks-Regarding-Easter/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c24df801152d36a75d4fe1f1737b49bc/USA-BIDEN-EASTER.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
-secured: "liWgvN3mJeH1aHKXExrBX9hFz9S+HYqXLhzUd+Sb8RPiDXK//YLybo0JVkiKfIs5dfud2bffXY7Zsc/E48QVQ57b9A/8CQ+GPBhuhddtMEHvHERa7eygoyRAzh+7P4n+HTZ8Oej2mD29ei+2mv2VddpF6lNgHoFKd7pMZfcZWLCNVcdpNWbNrPE7f6pLELeP5pu4NUc/CKsZKZlr/1CipC2Aqk+iNbg+FWI8hfzsfKQNkb23Ss44AWw8kEWl7fTrCg5Hb7g+CwalV+Zi8ntZPrd9TX/Gm0wszWl2oJ6QhPqVpqdNhLF2dazNWTUHVJ1/KH0dkdHSBtFoHBEshMFmo5qSDHeUZIy9SpHJ4963e6E=;Q+ACML5Rs50lK0/wxyp9Qg=="
+secured: "AT6UpSHTVXEGEC35aOpjaHQwu9l+ycRljKkxe9x3MIO0B7U/8pgobqzpZJDQ44ErRBpFrJMGUiBEza4D2DdcXnzZog0VeMfmG/N8EawvPIhEMZnemIHofGxqOfc/IbtRxxB83wWDQpfeOgBkEbct/DH7zSgPB7OIpJGUvIEqxJC61B+GgoPlFWNlJKnmVkrYxH/Y5VSA7RFpx6Ah4/MgBUfCWEG5idd5RAhetCN9C7FHMfFiFDChShSb9nfqCYLJHrVzOBPa0xIbh/5wjliiGs6oYQeRjVPEMI69MCk5e0N7Cbgl+utdCG5pm2QZdG6sZw3QhGUBChKGJUPY71NKjxv9Om+og2COPHeXTrsXF8MlI1Nu2lgqEabWgxAKfErFThKBk7QWrmyHlh+GQLc3B6AtCjEanmCXGGFCf8B+0sNBY44Olh3vjSyteHQzkih3f4GiPxvXpxLEv+EShxAVQLIIOmx5WlWjKaWqRS4Q5+hHcFwVbyn36X9ZVSa5Z2JOB8ZdnF98nkal37YQA3wvcA==;SBBE1M1r+yNPAhkshCGyRQ=="
 ---
 

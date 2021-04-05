@@ -352,6 +352,20 @@ related:
         width: 810
         height: 522
         isCached: true
+  - title: "U.S. President Joe Biden Arrives From Camp David"
+    excerpt: "President Joe Biden and First Lady Jill Biden arrive by Marine One to the White Hous in Washington, DC, on Monday, April 5, 2021. The traditional Easter Egg Roll at the White House with thousands of visitors was not held due to the coronavirus COVID-19 ..."
+    publishedDateTime: 2021-04-05T19:02:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d08cbe22e2d39d7af34c3509b3762e0d/US-President-Joe-Biden-Arrives-From-Camp-David/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d08cbe22e2d39d7af34c3509b3762e0d/USA-BIDEN-EASTER.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "Uw6J0D4yI0aCkOphTWHemQ6chYj2yabBO43IklnnfYP3XLhJMumR4NTgSUGhX66cSMXuWBX+582PqUm0KuiA7CbBVFQLYu5q329aQShLpldaYyNIp/IFbIyqQQXWvMmgxA/UCU4d5ugTmW1ykgofMkeQZzY9vJRnGd8e/7J1FqdHryIDumP8D/DrQh0UV8A1bFQBZmMEXs9pUtUDcrMFh+wo8cRH+azsN0BDE/k3E3fxe6JCO5KeAYxOTzdpRa8xD5cNUSolG0EJmswhLolc96BDN5EyVq5tFdIbbZjLU/Vf4PEmwrck1WoyE67YwGyYBkVYvBwW9Y/W7zMxHqwPPEAvwZDC+Fl8LjKxzV+1WbQ=;4DJ1VNOBPhVSqUFCtBnrSA=="
 ---

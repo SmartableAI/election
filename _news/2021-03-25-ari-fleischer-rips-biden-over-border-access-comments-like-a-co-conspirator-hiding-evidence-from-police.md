@@ -79,6 +79,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden Welcomes Immigrants At Naturalization Ceremony: \"Thank You For Choosing Us\""
+    excerpt: "PRESIDENT JOE BIDEN: Every immigrant comes to America from different circumstances, and for different reasons. But you all have one thing in common: courage. The courage it takes to sacrifice and make this journey. The courage to leave your homes ..."
+    publishedDateTime: 2021-04-05T18:47:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/05/biden_welcomes_immigrants_at_naturalization_ceremony_thank_you_for_choosing_us.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/53/539713.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "bcnYiis0DSdK6Vs5iXGXbwDPQ8Zxy49/NqZhsWGVnAybFbRjpZyMxY+a08bTlA7QsThN/+pBFfSapF8C0JPLP7l0TkW1ZWh2sr6NRXvDkyE0IvpoRcaOCvsQfcxlxtS3aGreILOYLa+qFi4LMz1uwlaLFTwNtL5YhxSVYhAr6OgtNHkYJ/x/bbKoTlaEU3QCGHeWSxowAGuIy9a9fw72dwXlutTU2uCD9YWGBwsp3CDVhy8YDU7eBYasv9q4fWBlypO1DCQOKxM4DRESm9KKBKUgKwqc1RG0p1oJszybK4RQOzSb83NU+ADndma7uwdGqYpkBpiMpEzXr8Lt89uyZs9eIRJbcE2ErxMqK+U+Azg=;8wItL+4WPtBt6M718wh3jA=="
 ---

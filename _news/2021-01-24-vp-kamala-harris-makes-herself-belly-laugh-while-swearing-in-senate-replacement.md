@@ -332,6 +332,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Vice President Kamala Harris Lists in Washington, D.C."
+    excerpt: "Ms. Harris’s former home—a condo at the Westlight complex in the West End—is listing for $1.995 million."
+    publishedDateTime: 2021-04-05T17:39:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-320524/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Vogue offers digital Kamala Harris cover as a print copy after social media backlash"
     excerpt: "\"In celebration of this historic moment, we will be publishing a limited number of special edition #InaugurationDay issues,\" Vogue Magazine wrote in posts shared to Twitter, Facebook and Instagram. The digital cover shows America’s first Black-South Asian woman Vice President-elect wearing a powder blue suit from the Michael Kors Collection suit."
     publishedDateTime: 2021-01-21T00:23:00Z

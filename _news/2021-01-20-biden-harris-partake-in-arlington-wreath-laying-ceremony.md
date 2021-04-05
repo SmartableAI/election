@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-layin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
 type: article
 quality: 200
-heat: 760
+heat: 780
 published: true
 
 provider:
@@ -319,6 +319,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-1230586117.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Vice President Kamala Harris Lists in Washington, D.C."
+    excerpt: "Ms. Harris’s former home—a condo at the Westlight complex in the West End—is listing for $1.995 million."
+    publishedDateTime: 2021-04-05T17:39:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-320524/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "VP Kamala Harris makes herself belly laugh while swearing-in Senate replacement"
     excerpt: "WATCH: 'That was very weird' – Swearing in three new Democratic senators, Vice President Kamala Harris laughs after referring to herself in the third person as the resigned senator from ..."

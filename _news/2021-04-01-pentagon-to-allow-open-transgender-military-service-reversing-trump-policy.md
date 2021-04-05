@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Supreme Court dismisses case about Trump blocking critics on Twitter"
+    excerpt: "The court threw out a decision by the Second Circuit Court of Appeals in New York that Trump’s attempts to block critics violated the First Amendment."
+    publishedDateTime: 2021-04-05T18:03:00Z
+    webUrl: "https://nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/"
+    ampWebUrl: "https://nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/justice-clarence-thomas-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "/1T4j4R1iKNvDMGaZGX2FDo36CpeT+Q/D3ZsSRCriouQ+7MVOpURXNbuQ06pyW6n+aSCRNed79ypLevc0tly4/A8GfWzgSVcDc/n3pLV9MVM3TYFUX0crfrkViR9XnUHtqufMxrYnMbGGZHn7bdEjLX0HLQdCuN/Jahx0mmnwn2aRE9o+Em5h85r+O3LZDZDPgRgnnsUmiql8Ge+gVrYy4fRLiZhJz5/OVN+Q8xuEkLt1OLuGWpIGrTQGBgpPDnUg3G2Kd+Pf1K3ATABoQcgf71adKJXfxkUOI5MZy0OxZZ2zK3WME20MTz7XJi1WIBkj5rMYjS55ME8xfMJL0spkNrbjZp6fY5xJwnhP6VE/5U=;OWaaE5zCNoWAFWpB9g3VAw=="
 ---

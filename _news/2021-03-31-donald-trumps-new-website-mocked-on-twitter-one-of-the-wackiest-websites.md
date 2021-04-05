@@ -152,6 +152,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump Name Change? Former President Uses '45' On Digital Properties"
+    excerpt: "In a rebranding move, Donald Trump is using the number \"45\" in place of his name across some of his political digital properties. The marketing move comes after the 45th president left office on Jan. 20, 2021, and after several failed efforts to overturn ..."
+    publishedDateTime: 2021-04-05T17:47:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-name-change-former-president-uses-45-digital-properties-3175040"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-name-change-former-president-uses-45-digital-properties-3175040?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-name-change-former-president-uses-45-digital-properties-3175040?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
+        isCached: true
   - title: "U.S. Republican House Leader Resists Pressure to Punish Trump Ally Gaetz"
     excerpt: "U.S. Republican House Leader Resists Pressure to Punish Trump Ally Gaetz WASHINGTON (Reuters) - The top Republican in the U.S. House of Representatives on Wednesday resisted calls to punish a staunch ally of President Donald Trump who, according to a U.S ..."
     publishedDateTime: 2021-03-31T21:21:00Z
