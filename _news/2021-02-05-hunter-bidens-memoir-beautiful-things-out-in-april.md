@@ -27,8 +27,8 @@ topics:
 related:
   - title: "Hunter Biden on \"Beautiful Things\" and his struggles with substance abuse"
     excerpt: "Hunter Biden on \"Beautiful Things\" and his struggles with substance abuse Hunter Biden, the son of President Joe Biden, and author of a new memoir, \"Beautiful Things,\" opens up to \"Sunday Morning\" correspondent Tracy Smith about his abuse of drugs and ..."
-    publishedDateTime: 2021-04-04T13:59:00Z
-    webUrl: "https://www.cbsnews.com/video/hunter-biden-on-beautiful-things-and-his-struggles-with-substance-abuse/"
+    publishedDateTime: 2021-04-04T14:15:00Z
+    webUrl: "https://www.cbsnews.com/video/hunter-biden-on-beautiful-things-and-his-struggles-with-substance-abuse/?intcid=CNI-00-10aaa3b"
     type: article
     provider:
       name: CBS News

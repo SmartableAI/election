@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Hunter Biden defends his position on Burisma board, says Trump used it in \"illegitimate way\" during 2020 election"
+    excerpt: "He spoke with \"CBS This Morning\" co-host Anthony Mason about whether his business dealings ever crossed a line — including work for a Ukrainian company that became a big issue in President Trump's first impeachment, and whether he regrets putting his ..."
+    publishedDateTime: 2021-04-05T11:51:00Z
+    webUrl: "https://www.cbsnews.com/news/hunter-biden-trump-burisma-2020-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-trump-burisma-2020-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-trump-burisma-2020-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 134
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/05/97b31f30-03af-48da-8d0e-5c8cceaec4c0/thumbnail/1200x630/4006c1d4fe3e7086367c9816e05b392e/1617623440618.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Jill Biden Speech Prompts Melania Trump Comparisons As Video Watched Over 1 Million Times"
     excerpt: "Melania Trump began trending on Twitter today after Jill Biden made a speech that led to comparisons between the two first ladies. The former first lady has been keeping a low profile since she and her husband Donald Trump left the White House in January."
     publishedDateTime: 2021-04-01T17:01:00Z

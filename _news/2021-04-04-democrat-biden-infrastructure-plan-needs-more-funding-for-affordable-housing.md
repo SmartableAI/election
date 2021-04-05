@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden faces Democratic and Republican hurdles over $2tn infrastructure plan – live"
+    excerpt: "President tries to build momentum in Congress to pass legislation but Republicans and Democrats raise concern over tax-rise plans – follow it live"
+    publishedDateTime: 2021-04-05T12:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/301ea101444231dc505c3f5e325ad5739259a570/0_306_5339_3203/master/5339.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5de875d88fd22ff572e840409e124582"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Hunter Biden on his memoir \"Beautiful Things\" and his struggles with substance abuse"
     excerpt: "And all I can do is cooperate, and trust in the process.\" From the time he was a toddler, Hunter Biden and his older brother, Beau, were fixtures in Joe Biden's public life, and when they were both hurt in the 1972 car crash that killed their mother and ..."
     publishedDateTime: 2021-04-04T14:01:00Z

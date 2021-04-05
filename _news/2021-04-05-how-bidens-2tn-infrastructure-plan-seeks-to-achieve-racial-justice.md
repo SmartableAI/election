@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden faces Democratic and Republican hurdles over $2tn infrastructure plan – live"
+    excerpt: "President tries to build momentum in Congress to pass legislation but Republicans and Democrats raise concern over tax-rise plans – follow it live"
+    publishedDateTime: 2021-04-05T12:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/301ea101444231dc505c3f5e325ad5739259a570/0_306_5339_3203/master/5339.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5de875d88fd22ff572e840409e124582"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Hunter Biden on his memoir \"Beautiful Things\" and his struggles with substance abuse"
     excerpt: "And all I can do is cooperate, and trust in the process.\" From the time he was a toddler, Hunter Biden and his older brother, Beau, were fixtures in Joe Biden's public life, and when they were both hurt in the 1972 car crash that killed their mother and ..."
     publishedDateTime: 2021-04-04T14:01:00Z
@@ -327,6 +343,6 @@ related:
         height: 433
         isCached: true
 
-secured: "Re3cM/ruveQaToLyEyqxEZ4WYqH+/kVzfdjTPvOLJPdzi7ockZ17sftlqExb4vTdsjdyVxEVJNgJC5MiXqQP3RrrnddeBsq6w+n1CUzgO2XI1OuK+/JkV0WM2e5vUJeIVZkijo8cdJEED3/YupcLlrL/oELFY1YaflFWwhTOYbF8IH8DS3X+zYY9DNOdBkRfyn6q4b+8ehdXD4LJUojYp7Us3kxYfS5eVedSF7ZaHeww8cy+FbZ4cFC4Kw9kjJBbQRgeVnqFRHp0VIBTnu9GVS5mJDYKpHfQj81iS9VtGrO8yFTW8RNx0avXA6+wwMph95W3Kl3HjnWYmCCP0S46hw65YACZ/au7qXAYLPE8ePk=;klnCSJ3q54DFVgf2E50cAA=="
+secured: "KOqUlKQXccmx7KNAWZHfYsJLDf9ptlWEPiRX3/TQzgQ6dBXq8jnZ+D4j8W3SWeJVU1A+9eB5APO9q7gnswpP4zW5U6QHNIar1v1Q78l3G+Re908JmbrbwpaTSZLuOURWRhGFlb2PudPmxhTkF0bPyv1fgIyfoG6MTJX9B+/nji2IHiteXO5ANYqy1/K0lmk75rBI7oWXh9VxFx2v5N4ZFNnvRg4eUHqWSF/TPyH4+ITsXlzFFxs8ryKNdazK10VbslPH7F7Ha4InxH1N0Ok80Nbd1A7skGZxGuymRkAQhTsfeWKZBTODLuSizfGRAon7OOB8GhmzxTVLhjXxzHRI4C4+cCBFsC3Vzh6d+r5nmlfwgSBqdTky6el06IkBlMvL6JhB+ZwTl6oxn+VC1Bq9bck9FhY+AxwIXbuKimYb8XpNEnhN5/tFt/V+7ZJl1gYW/a6XS4gnIJTOgngEK8+9Giv0dNudL00c9zGr3yLy7O6HQbetIud+GilWHA6PH1e7UHkvtvxzpS/cQB5RCVrp+A==;xnbdgX7enHLakGMxATFnvw=="
 ---
 

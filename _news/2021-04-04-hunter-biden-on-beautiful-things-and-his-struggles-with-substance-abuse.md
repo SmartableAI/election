@@ -2,9 +2,9 @@
 category: news
 title: "Hunter Biden on \"Beautiful Things\" and his struggles with substance abuse"
 excerpt: "Hunter Biden on \"Beautiful Things\" and his struggles with substance abuse Hunter Biden, the son of President Joe Biden, and author of a new memoir, \"Beautiful Things,\" opens up to \"Sunday Morning\" correspondent Tracy Smith about his abuse of drugs and ..."
-publishedDateTime: 2021-04-04T13:59:00Z
-originalUrl: "https://www.cbsnews.com/video/hunter-biden-on-beautiful-things-and-his-struggles-with-substance-abuse/"
-webUrl: "https://www.cbsnews.com/video/hunter-biden-on-beautiful-things-and-his-struggles-with-substance-abuse/"
+publishedDateTime: 2021-04-04T14:15:00Z
+originalUrl: "https://www.cbsnews.com/video/hunter-biden-on-beautiful-things-and-his-struggles-with-substance-abuse/?intcid=CNI-00-10aaa3b"
+webUrl: "https://www.cbsnews.com/video/hunter-biden-on-beautiful-things-and-his-struggles-with-substance-abuse/?intcid=CNI-00-10aaa3b"
 type: article
 quality: 104
 heat: -1
@@ -41,6 +41,6 @@ related:
       domain: businessinsider.com
     quality: 105
 
-secured: "6dqi/0o7oypslTdW2ZT4UTbBztXFt2Y9hWAcNbpQuULp7fA0vXT3wjfBnkHciWDRqe8akJdpVzIkn9Ii95L3Vxo9JG6lb0taZRWdsERaCgfQNcuqCWiyB4XHYs/r+jFT7awqtmPfNGaleEEFjSlrS08jBIPUofo0M0BiF8LTVbslonj7vyYV3MVgAa0ksYLFeuj73OgYNCD2MgNGSiQOlQUgtrGFkB51oo63CmPT0zvOpQls2AfUOQJ8KbwofdI9VS+1sUsPSRl932R1AkIQSMZYexidnpc59l1RiyaPGrca6PyNN62e8ynDVX/26TqvLp/UMHClmpqTXEuQDOuwueuCmV0SpF6qeptPUEUAag1ELKc1lBQx7ysYjAajHz+KjRzZAY4qi5XWJOOCj3mw80IggIqZo0Ve4+3WFHzGPGDmslk3wllyYotXoTYt0ipL9RIJa02vj82P9rkpItHxgtZMFjySlbTa5X98R5C7a8v4EBqPhQ8dZ0LwzzU37PaXkA4wbGFbMl+o5defPya77g==;wBlb89XI1WTyUr28iU3+Mw=="
+secured: "dY94JQjCHjqSFp+L+QpnK/E7G+AAwUmRGznAdKQoFUdhp341GDE/YOVcwBI01xJL/28kBDiNjjDQCnoJoMq74g+vuIjG6YS6qUICNq+fGH3zia8eEjfdtR3Jxvr/yfc23V2DGhjcJUF7SCn+zcKv7xOZC5Df2nkRaeswG4oT1GutHBkSQndCXlcm42fJDzXfeIqqzba4fdLajao9TZwI0DqhM0yAAV4zM2lA+r8/JQKuqjJc8uBEIGlqj68TRyvKaqxTpSQr6noPNl9uMAQ1La2O8kBEWLKAKV1eGhEHzdlAEewjEouhGFbOLaBUUfD+ftZHHjaZr2oQqJ8SwuQdnn1jKb7Gwit36LMQpC+sZbM=;CtEI2QH8+WtSvH0EI8yU+w=="
 ---
 

@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-05-trump-melania-met-with-cheers-at-easter-church-service-in-florida.md",
+      "title": "Trump, Melania met with cheers at Easter church service in Florida",
+      "excerpt": "Former President Donald Trump and former First Lady Melania Trump spent their Easter in Florida, attending church before spending time with family at an Easter egg roll at their Mar-a-Lago estate.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/",
+      "originalUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-easter-82.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/amp/",
+      "publishedDateTime": "2021-04-05T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-radical-left-crazies-trump-issues-easter-greetings-by-attacking-political-rivals-griping-about-election-loss.md",
       "title": "'Radical Left CRAZIES:' Trump issues Easter greetings by attacking political rivals, griping about election loss",
       "excerpt": "WASHINGTON – Former President Donald Trump marked Easter weekend by attacking his political enemies, repeating false claims about the election, and calling for a boycott of Major League Baseball and other corporations that oppose Georgia's new election law.",
@@ -323,7 +371,7 @@
       "originalUrl": "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter",
       "featuredContent": null,
       "highlight": null,
-      "heat": 240,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -1174,7 +1222,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1525,58 +1573,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-trump-advisor-peter-navarro-went-on-a-wild-rant-on-fox-news-calling-fauci-the-father-of-the-coronavirus.md",
-      "title": "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus",
-      "excerpt": "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
-      "originalUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6064514b6183e1001981972d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
-      "publishedDateTime": "2021-03-31T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

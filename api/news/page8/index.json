@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-24-israel-election-results-may-push-benjamin-netanyahu-into-conflict-with-joe-biden.md",
+      "title": "Israel Election Results May Push Benjamin Netanyahu Into Conflict With Joe Biden",
+      "excerpt": "But with President Joe Biden in office, a further rightward pivot in Israel might pose a problem for Washington, D.C. Netanyahu and his allies have already earned the ire of American Democrats for human rights abuses of Palestinians in Israel, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319",
+      "originalUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1762761/netanyahu-addresses-likud-supporters-after-election-2021.jpg",
+          "width": 3738,
+          "height": 2409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319?amp=1",
+      "publishedDateTime": "2021-03-24T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-trumps-wealthiest-cabinet-member-made-225m-in-outside-income-report.md",
+      "title": "Trump's Wealthiest Cabinet Member Made $225M In 'Outside Income': Report",
+      "excerpt": "Betsy DeVos made at least $225 million in outside income as Trump's education secretary She earned $75 million from Alticor, Amway's parent company She also owned stakes in Neurocore, a brain performance company targeting children Former Secretary of Education Betsy DeVos earned nine figures in outside income during her tenure as a Cabinet member in the Trump administration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
+      "originalUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/27/betsy-devos-special-olympics.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
+      "publishedDateTime": "2021-03-23T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-biden-says-100-million-relief-checks-to-be-distributed-by-wednesday.md",
       "title": "Biden says 100 million relief checks to be distributed by Wednesday",
       "excerpt": "The Biden administration will have distributed 100 million relief checks by Wednesday as part of a $1.9 trillion coronavirus stimulus package, President Joe Biden said on Tuesday.",
@@ -1231,110 +1335,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-house-republicans-who-backed-trump-impeachment-warn-dems-on-iowa-election-challenge.md",
-      "title": "House Republicans who backed Trump impeachment warn Dems on Iowa election challenge",
-      "excerpt": "A group of nine House Republicans that voted to impeach former President Trump has signed a letter to Speaker Nancy Pelosi (D-Calif.) warning her against pursuing an investigation into the Iowa electi",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa",
-      "originalUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/miller-meeksmarianette_hartrita_031921gn-courtesy-rita-hart-camp_iowa.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp",
-      "publishedDateTime": "2021-03-22T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-trump-backs-gop-congressmans-bid-against-georgia-secretary-of-state-brad-raffensperger.md",
-      "title": "Trump backs GOP congressman's bid against Georgia Secretary of State Brad Raffensperger",
-      "excerpt": "Former President Donald Trump on Monday backed a Georgia's congressman's primary challenge against embattled Secretary of State Brad Raffensperger.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/hice-cpac-gty-ps-210322_1616428630849_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "publishedDateTime": "2021-03-22T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

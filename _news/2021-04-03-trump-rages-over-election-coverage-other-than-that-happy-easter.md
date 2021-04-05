@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/546301-trump-rages-over-election-c
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp"
 type: article
 quality: 140
-heat: 240
+heat: 260
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Supreme Court Dismisses Case Over Trump and Twitter Critics"
+    excerpt: "WASHINGTON (AP) — The Supreme Court on Monday dismissed a case over former President Donald Trump's efforts to block critics from his personal Twitter account. The court said there was nothing left to the case after Trump was permanently suspended from ..."
+    publishedDateTime: 2021-04-05T13:46:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-04-05/supreme-court-dismisses-case-over-trump-and-twitter-critics"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "h9YOkW0x3P4d4KwSMnddtwj5s0P0kENbCw9uUYSSfYTio2P0Y/+lbym4n5UB7kiW8gCapSGFGjBCtyB9iNIdseU9olwtVvx3KtSfBlHgHSMotaSOAwWrfs9bYA5YJGbATsOL6X9cGOhecgSWTtxtH9bDK1qK/mLpgH7uztrQ/gus1y99J1JSAdKf7CHagCZKIxkFJ9YUJdGZTkh/zEWGlUh3cMwvLWwB970kgiXfLxPqOv6RdOE1tewArJMuYJo4m6+HhcvalKWNA5kZN/mR4wrkrgRHwBrF4OLUWhveooyVoNX/cH8knRLijRX4SltikBRCmT4zgSz0TZcrkQlpcoS9AnMdLrFbIIvivdUfni6MLRF4WuE3A9Wk9Rr72NQ4p6ceywzAh8KG1xIHkebJ9rVGOxCcwsxO+N35nT45+jiHsO4jGbZd16IM+ruHY0QWtCbvUc5UX/kP9jbyubaRUOUtDiy95yns/zv57PWqJU4YYuQLZANW+1zxOIy77p4w2J8JdzibjJuBycUhC3Iz1Q==;/fiC4HQXVpFagPFsiKF9bg=="
 ---
