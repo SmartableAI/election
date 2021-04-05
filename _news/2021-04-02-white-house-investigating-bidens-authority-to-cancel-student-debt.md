@@ -448,6 +448,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris to finally move into VP mansion after renovations"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff are set to move into Number One Observatory Circle at the U.S. Naval Observatory next week, following a two-month delay for \"home repairs,"
+    publishedDateTime: 2021-04-01T21:50:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
     excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"
     publishedDateTime: 2021-03-31T16:51:00Z

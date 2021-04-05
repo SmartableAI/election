@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Supreme Court vacates ruling barring Trump from blocking Twitter critics, saying case is moot"
+    excerpt: "The Supreme Court on Monday vacated a lower court opinion that said President Donald Trump could not block critics from his Twitter feed, which since has been suspended by the company. The U.S. Court of Appeals for the 2nd Circuit in New York had ruled ..."
+    publishedDateTime: 2021-04-05T14:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-twitter-clarence-thomas/2021/04/05/b05686ee-960f-11eb-b28d-bfa7bb5cb2a5_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-twitter-clarence-thomas/2021/04/05/b05686ee-960f-11eb-b28d-bfa7bb5cb2a5_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-trump-twitter-clarence-thomas/2021/04/05/b05686ee-960f-11eb-b28d-bfa7bb5cb2a5_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJR2R3UWC4I6XMUNX6T3WXFSUU.jpg&w=1440"
+        width: 1440
+        height: 997
+        isCached: true
   - title: "Official: Blinken to reverse Trump-era global rights blueprint that promoted conservative causes, dismissed LGBTQ rights"
     excerpt: "Official: Blinken to reverse Trump-era global rights blueprint that promoted conservative causes, dismissed LGBTQ rights"
     publishedDateTime: 2021-03-30T16:02:00Z

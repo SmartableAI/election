@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Supreme Court dismisses case over Trump blocking Twitter critics because he’s banned from the site"
+    excerpt: "The court said there was nothing left to the case after Trump was permanently suspended from Twitter and ended his presidential term in January."
+    publishedDateTime: 2021-04-05T13:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-twitter-critics-supreme-court-20210405-qp2g5734nff6nd3io4rgi2vb6y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-twitter-critics-supreme-court-20210405-qp2g5734nff6nd3io4rgi2vb6y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-twitter-critics-supreme-court-20210405-qp2g5734nff6nd3io4rgi2vb6y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
+    images:
+      - url: "https://www.chicagotribune.com/resizer/khzi_2y-XHd1Yp1jn1t7Bfvu1bE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQHCL3XD4NHGRKDKBNGOZBAEXI.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Theatre project lets Trump accusers tell their stories"
     excerpt: "The Pussy Grabber Plays – eight short pieces premiering in New York on Monday – humanise the people behind sexual misconduct allegations against the president Lucia Graves Journalist and writer Natasha Stoynoff has co-written a play about Donald Trump ..."
     publishedDateTime: 2021-04-01T11:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voter
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html"
 type: article
 quality: 134
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Supreme Court wipes away ruling that said Trump violated Constitution by blocking Twitter followers"
+    excerpt: "The Supreme Court on Monday wiped away a lower court opinion holding that then-President Donald Trump violated the First Amendment when he blocked followers from his Twitter account.\n    \n"
+    publishedDateTime: 2021-04-05T14:07:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XEw7JhqA9cg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/supreme-court-trump-twitter-followers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/supreme-court-trump-twitter-followers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401220308-conclu-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Reyse5yv0EOoLkjrqeKydiUDshbzBM1xXTqXdoVNe6Wqw+oYCIUtT7Vpa5kSnjzi7ZuaaHUn6lT2x3yp7J3cyZkVM2aueX4JevR4qR9wAthgT2M8yYv2Ml6zbAGxO+sUlFvKvMEa3agSd1CT5AoAVsPO1Oj12NDD9Cwcx4lrhAqUbFFSb2KFLT5c6XBnfMPooz/fYuiVSk24zUUFHEcezs4gUgr4g73JU72Geuy+VD0BzPA9l0yOulA5+zw0F1zmnn5b1mcAAJJaq7usvdiOnwPS2LBzpUrcYQJYBUjplJ7OVN5FHVtH4UveYNYO6nlRfAqdgi5bmvWXw0dZqw/VqyYdvsDlsCn/BbHQT9p3tuQ=;orNWEnucsIulemgbwiZBcg=="
 ---

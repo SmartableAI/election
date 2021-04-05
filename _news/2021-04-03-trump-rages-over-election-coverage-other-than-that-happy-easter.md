@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/546301-trump-rages-over-election-c
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp"
 type: article
 quality: 140
-heat: 260
+heat: 280
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/8f3899ed6621a3df8f5d1b579cbbbb4965837ebc/0_38_4500_2701/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f5aaeeb327fe884a3a0f0741813a7467"
         width: 600
         height: 360
+        isCached: true
+  - title: "Supreme Court tosses dispute over Trump blocking critics on Twitter"
+    excerpt: "Washington — The Supreme Court on Monday ordered a dispute over former President Donald Trump's ability to block his critics on Twitter to be tossed out, bringing the battle over Mr. Trump's Twitter account to a close as he is no longer in office and has ..."
+    publishedDateTime: 2021-04-05T14:06:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-dismisses-trump-twitter-block-case/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-dismisses-trump-twitter-block-case/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-dismisses-trump-twitter-block-case/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/05/8f943e8b-3d89-4e51-8dde-340301a2dc97/thumbnail/1200x630/40af24c84aa08e0d7a63366f9427fe69/gettyimages-1231617290.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Easter Message 'Very Nice,' Insists Adviser Amid Criticism It Was Angry, Resentful"
     excerpt: "Hogan Gidley, adviser to former President Donald Trump, appeared on Fox News Sunday morning to defend a series of Easter statements from Trump that his critics have accused of being political rants capped off with a friendly holiday salutation. A Friday ..."

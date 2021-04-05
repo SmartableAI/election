@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
 type: article
 quality: 175
-heat: 975
+heat: 995
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/29/nyregion/29trumpsevensprings/29trumpsevensprings-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Supreme Court dismisses lawsuit over Trump's Twitter account"
+    excerpt: "WASHINGTON — The Supreme Court on Monday tossed out a lawsuit over former President Donald Trump's Twitter account, after the Justice Department said the end of Trump's presidency made the case a dead letter. The case arose after seven people responded ..."
+    publishedDateTime: 2021-04-05T14:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-dismisses-lawsuit-over-trump-s-twitter-account-n1263030"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263030"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263030"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3441857/210113-donald-trump-phone-se-234p_aa2b3be771e969c8a03fdd93594f5774.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "McCarthy Seeks Thaw With Trump as G.O.P. Rallies Behind Former President"
     excerpt: "The top House Republican met with former President Donald J. Trump, working to mend fences after saying that Mr. Trump bore responsibility for the Jan. 6 attack on the Capitol."

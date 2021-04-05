@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Supreme Court tosses dispute over Trump blocking critics on Twitter"
+    excerpt: "Washington — The Supreme Court on Monday ordered a dispute over former President Donald Trump's ability to block his critics on Twitter to be tossed out, bringing the battle over Mr. Trump's Twitter account to a close as he is no longer in office and has ..."
+    publishedDateTime: 2021-04-05T14:06:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-dismisses-trump-twitter-block-case/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-dismisses-trump-twitter-block-case/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-dismisses-trump-twitter-block-case/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/05/8f943e8b-3d89-4e51-8dde-340301a2dc97/thumbnail/1200x630/40af24c84aa08e0d7a63366f9427fe69/gettyimages-1231617290.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top Trump adviser warned then-president on virus supply shortage, then pursued controversial deals"
     excerpt: "A top adviser privately urged President Donald Trump to acquire critical medical supplies in the early days of the coronavirus outbreak — and after the warning was ignored, pursued his own ad hoc strategy that committed more than $1 billion in federal ..."
     publishedDateTime: 2021-03-31T13:07:00Z

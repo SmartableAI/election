@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden faces Democratic and Republican hurdles over $2tn infrastructure plan – live"
-excerpt: "President tries to build momentum in Congress to pass legislation but Republicans and Democrats raise concern over tax-rise plans – follow it live"
-publishedDateTime: 2021-04-05T12:27:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
+excerpt: "But Slavitt emphasized the country must remain vigilant about limiting the spread of the virus, echoing Joe Biden’s comments on Friday. “We’re headed in the right direction,” Slavitt said. “The worst thing we could do right now is to mistake prog ..."
+publishedDateTime: 2021-04-05T14:14:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates?page=with:block-606b09f98f08611d06d8c78b"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates?page=with:block-606b09f98f08611d06d8c78b"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
 type: article
@@ -343,6 +343,6 @@ related:
         height: 433
         isCached: true
 
-secured: "+Scd+m3NELLXKhSUJEjDQEZpx/7T8FosMPC7scVFEo3r+nJewRcPUFr0Q2UQkWl57NSIIgobAt/CftTHMxKCAU08AgW85Sc3vnrPQqspHgVKRB3ltUXvpgnFXg6QpjEZbd6fKeLg2jt8+9HQT7JT+i88yhUMzThfXRa37Buykg0F1chCV/gDPUmZhob/8UolhR5Lm2KptYQuprM/AI3CyJgsqZ7k4+UpmkZV7a5/SuINizsMZdbtru2XGmP9LH4IJCFj1aO6pmDSpDHZaFdl6K1U0VUBVDnQHkadj6B1SuQwNwSXUPeDEn/9B8MxDBUMoLTYyEujcftWwUB0SYy64770HRFY4rRWDkHSfOEMhpI=;HPuVn9b1GRqKMtJ55A93Mg=="
+secured: "AHWx0hO98saG6904C68o1z/702Qm3Yfndzq1rr/T5E79yJznqXzzFXLU3sVEyQox/Io/fhPXoYRhLNiT0xqzpUAZ3PMoVXKJtnrx99c6510XBxO74ncHbSQVwtzz3Vurnlv3ikVcHMRpMWK4MYtuiE0vYrbtVOWILFtclISWN92MIJJnEEs0JJ6EAsohyNNIWOUgL2s4hUVWoKZ8pEX8wSUDwh0Bs4ONG+w4nVMCp6c/8BNVrJ0Dc8svgsaj6L22Qalr5nvo0N36MN+F+YLcmK1GBkdGg5s6IfWLKRAJY9rjP6gdNFLu3favt/2QCpcwcstkbLEed5GTmD381aS9P7J1qkO3MomJZkerjdLP2OE=;+icgM4rFAwRo1x47ZSAWQA=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Hunter Biden says he has no ‘recollection’ of encounter with ex-stripper whose child he fathered"
+    excerpt: "Hunter Biden, in his forthcoming memoir \"Beautiful Things,\" writes he \"has no recollection\" of an encounter with a stripper from Arkansas who gave birth to their child in 2018. "
+    publishedDateTime: 2021-04-05T14:47:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/esxF6aDscFQ/hunter-biden-no-recollection-encounter-arkansas-child"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-no-recollection-encounter-arkansas-child.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-no-recollection-encounter-arkansas-child.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "DMs6NOA9Q7j51QGTDVDIU7QxEUAabrANbyzQjjvQJWhnM/7Hc5WVS+paNCW5NmgvPd/hkVO6+ZMgJKxDCfH7rlokbPFNAIdTe4ZPiWwJqakweWWHpTrPUOtSEAqSuJZRqvsWUf9almN6kKc0EvmPTYfOoZRo6XdMLi5oJMBQbvaelNeW8pbzAFs9xAGbNal72n3d6cUE1YT0bOdbH3/48Ah8Ca1Fi4lcd080foqnRyl3UBEewMC5pyblCyPZJvBbvOHdNXjN4Q6lag8zFABwORLg/DGShL5op8EvmBXOURBJ16N6dWlVuqYBhe95yk01lXMt8NCxuhDEhNnh4mpBiXcvH7mDXu/UtTv5t2oKhvE=;XvZbV9fV3SIrzQOt3cQKBQ=="
 ---

@@ -206,9 +206,9 @@ related:
         height: 600
         isCached: true
   - title: "Biden faces Democratic and Republican hurdles over $2tn infrastructure plan – live"
-    excerpt: "President tries to build momentum in Congress to pass legislation but Republicans and Democrats raise concern over tax-rise plans – follow it live"
-    publishedDateTime: 2021-04-05T12:27:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
+    excerpt: "But Slavitt emphasized the country must remain vigilant about limiting the spread of the virus, echoing Joe Biden’s comments on Friday. “We’re headed in the right direction,” Slavitt said. “The worst thing we could do right now is to mistake prog ..."
+    publishedDateTime: 2021-04-05T14:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates?page=with:block-606b09f98f08611d06d8c78b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
     type: article

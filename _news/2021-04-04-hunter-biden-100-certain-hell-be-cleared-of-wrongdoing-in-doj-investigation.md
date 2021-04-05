@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-doj-investigation-fina
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-doj-investigation-finances-interview.amp"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hunter Biden says he has no ‘recollection’ of encounter with ex-stripper whose child he fathered"
+    excerpt: "Hunter Biden, in his forthcoming memoir \"Beautiful Things,\" writes he \"has no recollection\" of an encounter with a stripper from Arkansas who gave birth to their child in 2018. "
+    publishedDateTime: 2021-04-05T14:47:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/esxF6aDscFQ/hunter-biden-no-recollection-encounter-arkansas-child"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-no-recollection-encounter-arkansas-child.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-no-recollection-encounter-arkansas-child.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hunter Biden claims he doesn’t know if laptop is his, reveals father once chased him during drug intervention"
     excerpt: "Hunter Biden in a pair of interview clips released Friday claimed that he does not know whether the laptop first reported on by the New York Post during the presidential campaign was his, and revealed that his father, President Biden, once chased him down the family's driveway as he tried to escape an"
     publishedDateTime: 2021-04-02T14:30:50Z

@@ -431,6 +431,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris to finally move into VP mansion after renovations"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff are set to move into Number One Observatory Circle at the U.S. Naval Observatory next week, following a two-month delay for \"home repairs,"
+    publishedDateTime: 2021-04-01T21:50:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House investigating Biden's authority to cancel student debt"
     excerpt: "President Joe Biden's Education Secretary is reportedly investigating the administration's legal authority to cancel some of the $1.7 trillion student loan debt, but the White House says the President still does not support debt relief above $10,000 for ..."
     publishedDateTime: 2021-04-02T02:53:00Z

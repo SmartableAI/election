@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
 type: article
 quality: 161
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_13/3460820/210330-summer-zervos-jm-1439_7f50bec42ce1680f710a53fe0880bf1c.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Justice Thomas grumbles over Trump's social media ban"
+    excerpt: "The decision by social media giants Twitter and Facebook to ban former President Donald Trump from their platforms appears to have drawn the ire of one of America’s most prominent jurists: Justice Clarence Thomas. As the Supreme Court issued an order ..."
+    publishedDateTime: 2021-04-05T14:58:00Z
+    webUrl: "https://www.politico.com/news/2021/04/05/justice-clarence-thomas-trump-twitter-ban-479046"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "lTjyz5FvJWNi1kMpTpauBarRIYr+T4ErZu7CpKcyItdI2htq7Sbsxi8ND9CxG9Xd3G45Zw3c0+9xTGaSKobVyZVOqLPmebpxcAIG60UT7p1gkDsiPOY73UuGs0TXecLzBdIqXwua+TqvR2hjO23b7S6X/EvfbfF6MVnu//uXG4d8zUey/0UjSATdhdsoS+bzEqo2x13NxjHaY6lXeBduN4jWwqFeKErfrauEHZgboTslO4ZWdFYuUoFMafCasmKMNW/d96EwRpz6ZJmxz1VtWuNhg2IPWspWxZ82V8nYYpSda7ugp8H3RjjKEITNEfXzwTvmZd59puEck/oQ9w1l/I5Demo/g5UtyYPBj/oEsag=;VTd1vNK1GTJTvLx3RFkiYg=="
