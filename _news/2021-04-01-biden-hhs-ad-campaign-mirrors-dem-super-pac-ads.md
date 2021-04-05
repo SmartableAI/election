@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hunter Biden details 2019 family drug intervention a month before father announced presidential campaign"
+    excerpt: "In his forthcoming book \"Beautiful Things,\" Hunter Biden delves into his struggles with addiction, including a dramatic intervention that his family staged for him in March 2019."
+    publishedDateTime: 2021-04-05T11:46:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a18JaI0kvws/hunter-biden-2019-family-drug-intervention-presidential-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-2019-family-drug-intervention-presidential-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-2019-family-drug-intervention-presidential-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Joe Biden, Hunter's Laptop & Media Lapdogs"
     excerpt: "They date back to last October and are part of the scandalous information contained on a laptop abandoned by"
     publishedDateTime: 2021-04-04T10:50:00Z

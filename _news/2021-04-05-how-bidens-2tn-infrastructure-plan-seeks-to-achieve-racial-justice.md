@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How Biden's $2tn infrastructure plan seeks to achieve racial justice"
-excerpt: "Progressives have hailed the president’s ambitious plans to rebuild America – and some want bolder action still Lauren Gambino in Washington Joe Biden arrives to speak about his $2tn infrastructure plan at Carpenters Pittsburgh Training Center."
+excerpt: "Joe Biden arrives to speak about his $2tn infrastructure plan at Carpenters Pittsburgh Training Center. Photograph: Jonathan Ernst/Reuters Progressives have hailed the president’s ambitious plans to rebuild America – and some want bolder action still ..."
 publishedDateTime: 2021-04-05T06:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
-webUrl: "https://www.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
+originalUrl: "https://www.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice?share=facebook"
+webUrl: "https://www.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice?share=facebook"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/2b2e9d3e80f3e30be588550dcbb4f156045a8caa/0_280_3106_1864/master/3106.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2ece822b0023b949a01161070e9297a"
+  - url: "https://i.guim.co.uk/img/media/409ca036ca516209d5bb104c87b752529471a394/0_131_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bb313dd7df5d845a3a806363286b8e3c"
     width: 600
     height: 360
     isCached: true
@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hunter Biden on his memoir \"Beautiful Things\" and his struggles with substance abuse"
+    excerpt: "And all I can do is cooperate, and trust in the process.\" From the time he was a toddler, Hunter Biden and his older brother, Beau, were fixtures in Joe Biden's public life, and when they were both hurt in the 1972 car crash that killed their mother and ..."
+    publishedDateTime: 2021-04-05T10:44:00Z
+    webUrl: "https://www.cbsnews.com/news/hunter-biden-interview-memoir-substance-abuse/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-interview-memoir-substance-abuse/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-interview-memoir-substance-abuse/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/03/2b8c7c7c-d809-427c-a3b7-dc4534ca8698/thumbnail/1200x630/33f94a8bd914937e2677cd90ba531051/hunter-biden-sm-1920.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In first press conference, Biden talks immigration, filibuster, China, vaccination goal"
     excerpt: "Biden opened his first formal news conference by setting a new goal of administering 200 million COVID vaccine shots in his first 100 days in office."
     publishedDateTime: 2021-03-26T09:13:00Z
@@ -311,6 +327,6 @@ related:
         height: 433
         isCached: true
 
-secured: "VzQGF19cwNqCrYdLHFmrC1KrSHEr+d8kjqdQNhklnUbM3NJS8TVwgpbxMnRVAxT+0zVXAf0x1aVnFHOqxLIbrKv2xHDD1PcKtm9yUtX6S0Jdmho235bqk7/Gqk/zZ6FOsHEJerOgJzL38h4szVy9bPc+dbuFyHgPGbpkxgEiu74TvaHnIeKaDCyfrhADJcCK4VABbY4tOKc2ahw419tEmhAYAxV31riEGcol870pCv/baa+rETKNmtS+QD5bSy/U2tQwm6+NzWDhxeEuZgIOE0sU4urRZRvpkMFareyUN7IlQlRiUJHtXc1+DR2A2sGYv717Fd7Unjrkcco/kWR0VnMUiTaPDEs9oecrCqSDJ3Q=;fwddf1rbrc4TFlLfR7sOlA=="
+secured: "Re3cM/ruveQaToLyEyqxEZ4WYqH+/kVzfdjTPvOLJPdzi7ockZ17sftlqExb4vTdsjdyVxEVJNgJC5MiXqQP3RrrnddeBsq6w+n1CUzgO2XI1OuK+/JkV0WM2e5vUJeIVZkijo8cdJEED3/YupcLlrL/oELFY1YaflFWwhTOYbF8IH8DS3X+zYY9DNOdBkRfyn6q4b+8ehdXD4LJUojYp7Us3kxYfS5eVedSF7ZaHeww8cy+FbZ4cFC4Kw9kjJBbQRgeVnqFRHp0VIBTnu9GVS5mJDYKpHfQj81iS9VtGrO8yFTW8RNx0avXA6+wwMph95W3Kl3HjnWYmCCP0S46hw65YACZ/au7qXAYLPE8ePk=;klnCSJ3q54DFVgf2E50cAA=="
 ---
 

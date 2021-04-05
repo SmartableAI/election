@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Bidens' dog Major involved in another biting incident"
-excerpt: "The Bidens' dog Major has been involved in another biting incident that required medical attention, two people with knowledge of the incident tell CNN.\n    \n"
-publishedDateTime: 2021-03-30T20:34:58Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iACSbMYFuao/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iACSbMYFuao/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/major-biden-dog-white-house/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/major-biden-dog-white-house/index.html"
+title: "Biden Steps Up Federal Efforts to Combat Domestic Extremism"
+excerpt: "By Zolan Kanno-Youngs and Nicole Hong WASHINGTON — The Biden administration is stepping up efforts to combat domestic extremism, increasing funding to prevent attacks, weighing strategies historically used against foreign terrorist groups and more openly ..."
+publishedDateTime: 2021-04-04T21:18:00Z
+originalUrl: "https://www.nytimes.com/2021/04/04/us/politics/domestic-terrorism-biden.html"
+webUrl: "https://www.nytimes.com/2021/04/04/us/politics/domestic-terrorism-biden.html"
+ampWebUrl: "https://www.nytimes.com/2021/04/04/us/politics/domestic-terrorism-biden.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/04/us/politics/domestic-terrorism-biden.amp.html"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324142609-01-major-biden-0323-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/03/30/us/politics/30dc-extremism1/30dc-extremism1-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -60,6 +61,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222162224-pete-buttigieg-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Bidens' dog Major involved in another biting incident"
+    excerpt: "The Bidens' dog Major has been involved in another biting incident that required medical attention, two people with knowledge of the incident tell CNN.\n    \n"
+    publishedDateTime: 2021-03-30T20:34:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iACSbMYFuao/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/major-biden-dog-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/major-biden-dog-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324142609-01-major-biden-0323-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -191,22 +208,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden Steps Up Federal Efforts to Combat Domestic Extremism"
-    excerpt: "By Zolan Kanno-Youngs and Nicole Hong WASHINGTON — The Biden administration is stepping up efforts to combat domestic extremism, increasing funding to prevent attacks, weighing strategies historically used against foreign terrorist groups and more openly ..."
-    publishedDateTime: 2021-04-04T21:18:00Z
-    webUrl: "https://www.nytimes.com/2021/04/04/us/politics/domestic-terrorism-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/04/us/politics/domestic-terrorism-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/04/us/politics/domestic-terrorism-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/30/us/politics/30dc-extremism1/30dc-extremism1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Biden set to convene his Cabinet in-person for the first time on Thursday"
     excerpt: "(CNN)President Joe Biden is set to convene his Cabinet in-person for the first time Thursday at the White House. The meeting comes one day after he rolls out the first piece of his sweeping infrastructure proposal focused on investments in transportation ..."
     publishedDateTime: 2021-03-31T19:10:00Z
@@ -254,6 +255,6 @@ related:
         height: 629
         isCached: true
 
-secured: "1xum97aY3hOTLCjnLax2WmcOZCa7endVu5nG86EYA982jttPEzsTxsxjtG1lO8WKdZExiZTdDRiveOcAHFIXfFm3FuYJszI8BhveRuUi5oFb+vO7GXDSG1+p3GdLWgzE2AA9QtmPdrRwZOorqS/pQ/8u39Kfb1G8oy9UlQN6De2rnJMY4719HoLhbpVyydZNNp3B+OExMZs/PUXHDnQX+SwUbV+kOn2MuOURBjMa5KHndMldTYrMX1J9BozEM9C/9o9TTQDqEYWuIzRfI7GHnCKTUSoQKvM6kLerA5l4c3++PTnZM4eIoxFmRxiKSOM5upFegQxv88EfOorhxXS3cDQM9zrmNzaNQHt+yzyEPqE=;wKXJDXws4h6Ifgolu/c/1g=="
+secured: "RXsBoCxowGfBh0HvHVtrmNixkSO7moOvasLp1dvAd8YyOEGXnu37PiIJkoevOk2FHyZH95T98q6jdv9aFILVwF3HUQzNeE3xh9k4BcwfaDI6Rt0heGk7P4zYuDW+CXvZnPk41IG1Ed6iQ3XWmIifxAxU3EvF3Ou+ct+UjCUFB1c9epuahNKKQjRlU6itv+AFWgJGY7uHVv2mU3naAgo4DMDfcdGSKjjwP9eOHyB6ntHIOpLaztodeYhS3KA7d+TB0KHw4dC1+g0DPT4eYjL6KnbvNCP6OQJYkM/TCWck4Ig51Mp9VUyF9sPmIevY/G0KM0ljcUv/FwYZ5mfsJUz1eoCR91PBakwQHRn7y+Zf1lo=;V4XkL9h034CfCZpQL/D4vQ=="
 ---
 

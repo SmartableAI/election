@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republicans mobilize for showdown that will help define the Biden presidency"
+    excerpt: "A defining political clash took shape Sunday over Joe Biden's latest effort to reshape the US economy, with Republicans mobilizing against a massive infrastructure plan that could put the President in historic Democratic company.\n    \n"
+    publishedDateTime: 2021-04-05T10:18:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xWJG-9odnS0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/joe-biden-infrastructure-plan-republicans-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/joe-biden-infrastructure-plan-republicans-democrats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331164919-01-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden calls his infrastructure plan bold. Bernie Sanders says more work must be done"
     excerpt: "President Joe Biden's roughly $2 trillion jobs proposal that is focused on infrastructure and the climate crisis is a \"serious proposal,\" Sen. Bernie Sanders said Sunday, but more work must be done on the plan to ensure it addresses major issues concerning the nation's \"human infrastructure.\"\n    \n"
     publishedDateTime: 2021-04-04T14:53:04Z
@@ -191,6 +207,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3458698/210322-joe-biden-jm-1425_7abadd79f5ccc05ffd45fa790b666e5f.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden Steps Up Federal Efforts to Combat Domestic Extremism"
+    excerpt: "By Zolan Kanno-Youngs and Nicole Hong WASHINGTON — The Biden administration is stepping up efforts to combat domestic extremism, increasing funding to prevent attacks, weighing strategies historically used against foreign terrorist groups and more openly ..."
+    publishedDateTime: 2021-04-04T21:18:00Z
+    webUrl: "https://www.nytimes.com/2021/04/04/us/politics/domestic-terrorism-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/04/us/politics/domestic-terrorism-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/04/us/politics/domestic-terrorism-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/30/us/politics/30dc-extremism1/30dc-extremism1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Biden wants to give the nation hope. But a jump in Covid cases is complicating things."
     excerpt: "The Biden administration is struggling over how to portray a burst of new coronavirus cases, even taking pains to avoid saying publicly that the country is experiencing a “surge,” according to three senior administration officials. President Joe Biden ..."

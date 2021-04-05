@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter Biden details 2019 family drug intervention a month before father announced presidential campaign"
+    excerpt: "In his forthcoming book \"Beautiful Things,\" Hunter Biden delves into his struggles with addiction, including a dramatic intervention that his family staged for him in March 2019."
+    publishedDateTime: 2021-04-05T11:46:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a18JaI0kvws/hunter-biden-2019-family-drug-intervention-presidential-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-2019-family-drug-intervention-presidential-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-2019-family-drug-intervention-presidential-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Muua/AZ39iFhfuir2Kmwccjk0LHLYwTp6iVC/3e0psYI/zcit1+wIoomrKlCM3jaLza17cgu7QhciQIYIppTK/jOwD8ek2dZo0qwero4fMZ3GD6SPh4Wg7uiUXfqPh4Z6RIRYATXxcb+qMQyrqW7lChEthrLNXOsdOc2ntHdizqGE88MdNe7ZIW2gFXur1E2qAgjkYTqwXxCUO3Xt4hZUSHv87QM0q3TKPBYsjNFioXdEx+uzb0khR6e1tiNydtbk3chOwSHHYfpUlq/StHJnr0zD82F8VCXJG0x5VCvu+yH8TdhBcpjKL6Gqzo8zA2uQg19dQz+C4f5yjW/DMsxWohnSQqvCldCIVqNDXwHCp8=;B8+pEW7k/ts5FJC6TK78fw=="
 ---

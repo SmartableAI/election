@@ -1,22 +1,22 @@
 ---
 category: news
-title: "'Every step of the way': McConnell pledges battle over Biden infrastructure plan"
-excerpt: "WASHINGTON (Reuters) -President Joe Biden on Thursday faced the prospect of all-out political war with Republicans over his $2 trillion blueprint to revitalize America’s infrastructure, with a top Democrat also offering only partial support over how to ..."
-publishedDateTime: 2021-04-01T23:34:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-mcconnell-idUSKBN2BO68D"
-webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-mcconnell-idUSKBN2BO68D"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO68D"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO68D"
+title: "Hunter Biden on his memoir \"Beautiful Things\" and his struggles with substance abuse"
+excerpt: "And all I can do is cooperate, and trust in the process.\" From the time he was a toddler, Hunter Biden and his older brother, Beau, were fixtures in Joe Biden's public life, and when they were both hurt in the 1972 car crash that killed their mother and ..."
+publishedDateTime: 2021-04-05T10:44:00Z
+originalUrl: "https://www.cbsnews.com/news/hunter-biden-interview-memoir-substance-abuse/"
+webUrl: "https://www.cbsnews.com/news/hunter-biden-interview-memoir-substance-abuse/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-interview-memoir-substance-abuse/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-interview-memoir-substance-abuse/"
 type: article
-quality: 120
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557086703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH30381"
-    width: 796
-    height: 545
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/03/2b8c7c7c-d809-427c-a3b7-dc4534ca8698/thumbnail/1200x630/33f94a8bd914937e2677cd90ba531051/hunter-biden-sm-1920.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -175,6 +175,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Every step of the way': McConnell pledges battle over Biden infrastructure plan"
+    excerpt: "WASHINGTON (Reuters) -President Joe Biden on Thursday faced the prospect of all-out political war with Republicans over his $2 trillion blueprint to revitalize America’s infrastructure, with a top Democrat also offering only partial support over how to ..."
+    publishedDateTime: 2021-04-01T23:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-mcconnell-idUSKBN2BO68D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO68D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO68D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557086703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH30381"
+        width: 796
+        height: 545
+        isCached: true
   - title: "Why green initiatives count as infrastructure, from Biden's top climate officials"
     excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. The first $2 trillion of President Joe Biden's up to $4 trillion infrastructure package includes not only funding for roads and bridges, but also for climate ..."
     publishedDateTime: 2021-04-02T15:27:00Z
@@ -197,22 +213,6 @@ related:
     webUrl: "https://www.cbsnews.com/news/hunter-biden-on-his-memoir-beautiful-things-and-his-struggles-with-substance-abuse/"
     ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-on-his-memoir-beautiful-things-and-his-struggles-with-substance-abuse/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-on-his-memoir-beautiful-things-and-his-struggles-with-substance-abuse/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/03/2b8c7c7c-d809-427c-a3b7-dc4534ca8698/thumbnail/1200x630/33f94a8bd914937e2677cd90ba531051/hunter-biden-sm-1920.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hunter Biden on his memoir \"Beautiful Things\" and his struggles with substance abuse"
-    excerpt: "And all I can do is cooperate, and trust in the process.\" From the time he was a toddler, Hunter Biden and his older brother, Beau, were fixtures in Joe Biden's public life, and when they were both hurt in the 1972 car crash that killed their mother and ..."
-    publishedDateTime: 2021-04-05T10:44:00Z
-    webUrl: "https://www.cbsnews.com/news/hunter-biden-interview-memoir-substance-abuse/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-interview-memoir-substance-abuse/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-interview-memoir-substance-abuse/"
     type: article
     provider:
       name: CBS News
@@ -327,6 +327,6 @@ related:
         height: 433
         isCached: true
 
-secured: "iOM8NMOGFi09oQNSD+izqCj82a6aIJF2Cy5agz+CqdQXzGGn0MXiHpmzqI5X+ZZ58BefP503uZkaPpGHVT4d5FGVNGNuvypUw/czF8p7YCWicnpUTmLAKC/hBGuzLS0RR+mLofiDCUIABH52Sp/X3dGZfQ+hcRijh4pyfOEWz+THYAGSgoiguTA+v8WL91Kvk/YBwj4yI1g9aF1w4pySJmxilFPbFODZ3vWt+eL3A6hwBqj44Wp4jU70UaVlEKvokgFjy6SF/T5tAcbh5d4/QplJWTOG4/c3mmF8x7eI64ED2i2NORBv1dKhrQLYpKSijSqotiFuBvexBcHaLl5IWSt3v9qCqcpBq95MGtr6nGY=;VIw82YlNULwvW85TRBkr/g=="
+secured: "DO1kAtJ0n28/Mgu+it/YIxFaQxLe9OjjE7bPjGoS/SssQsSc0EKmHVRFD1c8FpDgqdWUZxiNPMEbzbUAkqu4XJbzwDKN3J3bAhEVDdKQiIA3XGoQDTirlM1OLGYGkPkh29GMqkRH3va/7euBR1e4RRxBzMrl7mosvZsNcfpPGwUVnYDswPcVnWU+0MU31WnGVSuCNoHbOzm+6mtMdXYY2SXwqnYqAlmiUKAjjN44BTwm71nEBerF0+b2yu85CoUu8X64Bt554RhZbqSM6xrzYDNhVpvLxEyviGnSnFBr/zJw/BwHQQAC7a3IbFRxLed8ynDn37Twx3gn3wVaDBZCGz0eS064vBA1E27d2zLcwXU=;VNn8ZiQXFipB3Mdb8VzZWQ=="
 ---
 
