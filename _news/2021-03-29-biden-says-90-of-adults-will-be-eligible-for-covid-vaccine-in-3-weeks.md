@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccine-eligibility.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccine-eligibility.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28a5b8a0-0106-4568-b113-06ec9d3d7f96/a36165bf-9d2d-4f1f-ad18-bd48814f2c11/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Hunter Biden Whitewashes Almost Everything in Tell-All"
+    excerpt: "As addiction memoirs go, Hunter Biden's Beautiful Things is remarkable in one great sense: As poorly as he comes across, it's his father, President Biden, whose character takes a hit. The Joe Bid…"
+    publishedDateTime: 2021-04-04T19:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/04/hunter_biden_whitewashes_almost_everything_in_tell-all_539678.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/529429_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "rltZU5h8tkxF56DBr8jFIbi+07Qu2gx5Ua02VoxzbcKanaF0LHtbjGJKhcGUDarSHfP7lOOcYbXiorJ/T08+TxNxXLOAIQGxtMbQWyYIwexrtWTp0135ruIARzZs2QCW25l0Hk4gGIDkOmd1AkK/xw0VPUo4HTWTgvz9+PV4bMclPhGGLZBZWVgspsYf+lSlo3oaaFz33pLzllOJzbV7ZPlu3tpz1udPSlXq3XqbLnH7HQkvg4FGJK1zISUs95GMS+kZLLsruS3vursIQE9JypLwDjmDC6r8JtxeXClqZ9sXbdLdJbKetphTy0XaJr4XIXhSWKbAuLQo7PNxwhWuhvRpj0GX94c8MKmGH36Fbe4=;b5/6gI7Pfr2jg9RzP1+ZdA=="

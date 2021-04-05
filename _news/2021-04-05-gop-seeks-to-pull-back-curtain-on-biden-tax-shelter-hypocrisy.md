@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-seeks-to-pull-back-curtain-on-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden vows to get $2T spending bill passed, hits back at GOP criticism: 'I'm going to push as hard as I can'"
+    excerpt: "President Biden on Monday said he will \"push as hard\" as he can to get his $2 trillion spending bill through Congress, despite criticism from Republican lawmakers about its size and the contents of the package."
+    publishedDateTime: 2021-04-05T16:54:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LP3u7QaKQz4/biden-spending-bill-gop-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spending-bill-gop-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-bill-gop-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

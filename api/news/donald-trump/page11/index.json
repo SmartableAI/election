@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-26-amid-absence-trump-sets-up-new-intra-party-battles-for-gop-the-note.md",
+      "title": "Amid absence, Trump sets up new intra-party battles for GOP: The Note",
+      "excerpt": "Trump's brand was built on disruption and the force of his own personality. Even through a quiet period, that disruption is set to continue into at least 2021 and 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
+      "originalUrl": "https://abcnews.go.com/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-rally-ap-jt-210108_1610144889614_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
+      "publishedDateTime": "2021-01-26T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-twitter-on-jill-biden-potentially-being-more-active-first-lady-than-melania-trump-it-wont-be-a-challenge.md",
+      "title": "Twitter On Jill Biden Potentially Being 'More Active' First Lady Than Melania Trump: 'It Won't Be A Challenge'",
+      "excerpt": "During her first five days as first lady, Jill Biden had virtual appearances before governors' spouses, young Latinos and library officials and visited the nonprofit Whitman-Walker Health in Washington,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571",
+      "originalUrl": "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/jill-biden.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571?amp=1",
+      "publishedDateTime": "2021-01-25T21:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-twitters-misinformation-problem-is-much-bigger-than-trump-the-crowd-may-help-solve-it.md",
       "title": "Twitter’s misinformation problem is much bigger than Trump. The crowd may help solve it.",
       "excerpt": "Twitter's Birdwatch pilot lets selected users write corrections and fact checks on potentially misleading tweets.",
@@ -1486,101 +1590,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency.md",
-      "title": "Donald Trump pardons Steve Bannon amid last acts of presidency",
-      "excerpt": "Former senior adviser had previously been considered an unlikely name among the 143 people who received clemency",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 565,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/885db9682b9b36653c7209be17740b92e8d006af/0_108_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cbad3454b95c8ab8d879dbe443aab4c1",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
-      "publishedDateTime": "2021-01-20T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-report-ex-detroit-mayor-kwame-kilpatrick-on-donald-trumps-pardon-list.md",
-      "title": "Report: Ex-Detroit Mayor Kwame Kilpatrick on Donald Trump's pardon list",
-      "excerpt": "Kwame Kilpatrick may get out of prison 20 years early thanks to Donald Trump, who included the ex-mayor on his pardon list, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2021/01/20/kwame-kilpatrick-pardoned-donald-trump-detroit-mayor/4217253001/",
-      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2021/01/20/kwame-kilpatrick-pardoned-donald-trump-detroit-mayor/4217253001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/27/PDTF/0308a838-1ad7-4aea-8dfb-a98c9475b901-mayor_032408_kg.jpg?auto=webp&crop=3103,1746,x0,y159&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/4217253001",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4217253001",
-      "publishedDateTime": "2021-01-19T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

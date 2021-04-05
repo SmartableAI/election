@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Supreme Court dismisses Trump Twitter case as moot, as Thomas highlights 'glaring concern' of platform's power"
-excerpt: "The Supreme Court on Monday deemed former President Donald Trump's appeal of a ruling that said it was unconstitutional for him to block critics, deeming his page to be a protected public forum."
-publishedDateTime: 2021-04-05T15:09:58Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VdJoGb9hHEU/supreme-court-dismisses-trump-twitter-case-moot"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VdJoGb9hHEU/supreme-court-dismisses-trump-twitter-case-moot"
+excerpt: "The Supreme Court on Monday deemed former President Donald Trump's appeal of a ruling that said it was unconstitutional for him to block critics, deeming his page to be a protected public forum. The court called for the case to be dismissed, as Trump is no ..."
+publishedDateTime: 2021-04-05T15:12:00Z
+originalUrl: "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot"
+webUrl: "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot"
 ampWebUrl: "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp"
 type: article
-quality: 155
-heat: 155
+quality: 115
+heat: 115
 published: true
 
 provider:
@@ -22,14 +22,15 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "WEu1alzfe74l5sVkc2Q0ZstUlLuR3rel/W1V45Xzseclytjvcgyqpuz/GuIrWf9uzqcH+1znX99PQ7/cAmuImcyQDqOse9slZKAhc10vngu2bp4op8PyeOcGeflePQmzSTH3Q/vpV01B5JcQAtN25SKT6gPJLqKpJQoLsePQXnvsizSbl75gQ444nB9priEK5qOgXfgIlA/NxSfuKqlfG2yPcx+UhPYbVmWEzEzr7zToOwcN+bwy9ibUqBUt7v7xfNQP26VzUnwaVbb6L5k5oLitv90+WjZco244lkusm08TInzMqbX5Bk9nJfRBRY3ZKKZfsrT3kWWMH2X7+wuzu+gSxxJtrhr9OAmA07lmUPE=;nXZLD1si0kjnYAvYjG5I1g=="
+secured: "0R9pcyofZbQhPK2oHdvEsMuvNJqWNR7q6Ndk/F0q3E/s2xkDfEj4iIX8+UmSXct3xJ9DE3D2dszj0ZXUc9GXGi+rvENWZbiTlDwekoYq/uyWZdH8N7v1A6Y7r4AMM71snV1X3l5vWFgr8Cay8D7zat/39nZOTLDTWkvvtGzZZuvvoZ8kunaUrfd2kSzaU6doJeEvXBtGTk+xXKhu7svagTw6CnBpHDDqJepwi09NIKalYqdHY8V0yAxwJ+TZKGn4q1M9tv9G6ZsBTIO+jWRVV7UUkk+EpY2pTZspPRcG5JEjma/U4w99jEERnqLH2F5I+2h+Bd4WqyQbyYWg9HsygwcDa9+42aTPTmrUYm84Xa0=;rskEQAwW3uHImADjf/VeNQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigatio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/01/us/politics/00donations1/merlin_179465994_5a708364-8923-4b31-9068-df4d5c86e084-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "NYT: Trump campaign duped donors into repeat donations"
+    excerpt: "The New York Times is reporting that former President Donald Trump's campaign tried to make up a fundraising gap during the 2020 election cycle by signing up one-time online donors for repeat donations without their knowledge."
+    publishedDateTime: 2021-04-05T13:23:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/05/new-york-times-trump-campaign-duped-donors-sot-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/05/new-york-times-trump-campaign-duped-donors-sot-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/05/new-york-times-trump-campaign-duped-donors-sot-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401220308-conclu-trump-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "TND7U34ZyEvfutflq/KkR8XugOyAajwiihjtXoP9+nsT/C7y2EhXijK1eqkqzdeKP9V1uaDp5ncUavUqSRzeQZG6IDHdcCgWA3BM+bdd9NqFfhrQNjA9nUC57VtKrXaLuIgzcFhY4WKslxiJVi9K/RRR+MHGQOwNPCrhpQNLTpK6ayrJahC6cxAxjLuM8fe3cXAwTVIXC83A1vyAoUuFWUPxZnd4xUdV0tCF9Bqcf4rN2Ngc/YTtN6RGNjUVC0XwGqamQKpdYXulKc4koIlh7TV2AA1o2NTEE1ykcE3xv2CR8sgoyYVvvOfm2HR9s9K+kfAi88//1McjvPPnmJNhHsnxM34OULNffnfx4emcjpo=;kMZ/1+1n/3N/dJs6xDl+CQ=="

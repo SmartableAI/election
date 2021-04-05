@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here's how Nancy Pelosi could personally benefit from Biden’s $2T spending bill"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., is positioned to potentially personally benefit from President Biden’s $2 trillion spending bill – and here's how she could do it."
+    publishedDateTime: 2021-04-05T16:11:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QUudE0KtKOE/biden-spending-bill-pelosi-tesla-husband"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6006abae-c244-4c3a-9668-00383f221969/3d269837-fe51-4751-9b4e-d1ca0217c647/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former Sen. Perdue slams Biden spending bill as a 'climate change bill at its roots'"
     excerpt: "Former Georgia Senator David Perdue slammed President Biden's $2 trillion infrastructure spending bill Thursday, saying it was \"a climate change bill at its roots.\" "
     publishedDateTime: 2021-04-01T23:56:05Z
@@ -44,6 +60,22 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Republican senators line up against Biden's massive $2.2T spending bill: 'Far cry away from' infrastructure"
+    excerpt: "The opposition is coming even from moderates who attempted to work with Biden on the coronavirus stimulus plan."
+    publishedDateTime: 2021-04-01T13:52:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53yiLDIzkjM/republicans-bidens-spending-bill-far-cry-away-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

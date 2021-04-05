@@ -202,9 +202,9 @@ related:
         height: 600
         isCached: true
   - title: "Biden faces Democratic and Republican hurdles over $2tn infrastructure plan – live"
-    excerpt: "But Slavitt emphasized the country must remain vigilant about limiting the spread of the virus, echoing Joe Biden’s comments on Friday. “We’re headed in the right direction,” Slavitt said. “The worst thing we could do right now is to mistake prog ..."
-    publishedDateTime: 2021-04-05T14:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates?page=with:block-606b09f98f08611d06d8c78b"
+    excerpt: "Senator Joe Manchin, whose vote will likely determine whether Joe Biden’s infrastructure plan can pass the Senate, has expressed criticism of the proposal. In a radio interview with a local West Virginia station today, Machin said he had serious concerns ..."
+    publishedDateTime: 2021-04-05T16:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates?page=with:block-606b35388f083302090e5508"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/05/joe-biden-us-politics-live-infrastructure-covid-coronavirus-latest-updates"
     type: article
@@ -213,7 +213,7 @@ related:
       domain: theguardian.com
     quality: 119
     images:
-      - url: "https://i.guim.co.uk/img/media/301ea101444231dc505c3f5e325ad5739259a570/0_306_5339_3203/master/5339.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5de875d88fd22ff572e840409e124582"
+      - url: "https://i.guim.co.uk/img/media/d1d5761dd6ec36cea3934b289829ea58ebccb010/0_77_5196_3118/master/5196.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9afaba638a859fce2592ce4d5b7729c2"
         width: 600
         height: 360
         isCached: true
@@ -313,6 +313,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President Biden advocates for student loan forgiveness, here's where he stands"
+    excerpt: "President Joe Biden is assessing how the U.S. might tackle student debt. Here's where he stands on the issue."
+    publishedDateTime: 2021-04-05T17:36:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/05/student-loan-forgiveness-president-bidens-stance-issue/7093215002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/05/USAT/04d18657-63b3-4171-bd99-49e9a13d0adc-5ea80e6e-3416-4209-a5ea-5a4ecce8feb3_thumbnail.png?quality=10"
+        width: 480
+        height: 480
+        isCached: true
   - title: "Here are 9 hurdles Biden's infrastructure plan would have to overcome in Congress before it can become law"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% President Joe Biden this week released his opening bid for an infrastructure overhaul, and now the White House and Democratic leaders face the arduous task of getting enough lawmakers on board to get a bill to ..."
     publishedDateTime: 2021-04-02T20:36:00Z
@@ -326,6 +340,22 @@ related:
       - url: "https://i.insider.com/60676384a7d803001963e885?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Manchin Rejects Biden’s Call for a 28 Percent Corporate Tax Rate, But Still Wants Higher Taxes"
+    excerpt: "Senator Joe Manchin has rejected President Biden’s proposal to hike the corporate tax rate to 28 percent, which is a key way that the administration wants to raise money to partially offset the new infrastructure bill. But it’s worth noting that ..."
+    publishedDateTime: 2021-04-05T17:25:00Z
+    webUrl: "https://www.nationalreview.com/corner/joe-manchin-rejects-bidens-call-for-a-28-percent-corporate-tax-rate-but-still-wants-higher-taxes/"
+    ampWebUrl: "https://www.nationalreview.com/corner/joe-manchin-rejects-bidens-call-for-a-28-percent-corporate-tax-rate-but-still-wants-higher-taxes/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-manchin-rejects-bidens-call-for-a-28-percent-corporate-tax-rate-but-still-wants-higher-taxes/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 61
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/11/Joe-Manchin.jpg?resize=300%2C300&ssl=1"
+        width: 300
+        height: 300
         isCached: true
   - title: "President Joe Biden and First Lady Visit the Vietnam War Memorial"
     excerpt: "U.S. President Joe Biden and First Lady Dr. Jill Biden visit the Vietnam War Memorial in Washington, DC on Monday, March 29, 2021. Pool Photo by Stefani Reynolds/UPI"

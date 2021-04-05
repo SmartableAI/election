@@ -58,6 +58,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden pushed to make sure budget funds ICE amid border crisis"
+    excerpt: "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., is urging President Biden to increase funding for Immigration and Customs Enforcement (ICE) to help deal with the effects of the current crisis at the southern border, warning the president against political pressure to defund the agency."
+    publishedDateTime: 2021-04-05T16:17:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H-evmaZ58nY/biden-pushed-to-make-sure-budget-funds-ice-amid-border-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Muua/AZ39iFhfuir2Kmwccjk0LHLYwTp6iVC/3e0psYI/zcit1+wIoomrKlCM3jaLza17cgu7QhciQIYIppTK/jOwD8ek2dZo0qwero4fMZ3GD6SPh4Wg7uiUXfqPh4Z6RIRYATXxcb+qMQyrqW7lChEthrLNXOsdOc2ntHdizqGE88MdNe7ZIW2gFXur1E2qAgjkYTqwXxCUO3Xt4hZUSHv87QM0q3TKPBYsjNFioXdEx+uzb0khR6e1tiNydtbk3chOwSHHYfpUlq/StHJnr0zD82F8VCXJG0x5VCvu+yH8TdhBcpjKL6Gqzo8zA2uQg19dQz+C4f5yjW/DMsxWohnSQqvCldCIVqNDXwHCp8=;B8+pEW7k/ts5FJC6TK78fw=="
 ---

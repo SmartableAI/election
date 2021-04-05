@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disin
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits"
 type: article
 quality: 120
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Supreme Court dismisses as moot case questioning Donald Trump's blocking of critics on Twitter"
+    excerpt: "WASHINGTON – Now-former President Donald Trump may have had about 89 million followers on Twitter before the platform suspended his account, but the Supreme Court apparently isn't interested in how he got along –or didn't–with some of them."
+    publishedDateTime: 2021-04-05T13:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/05/trump-tweets-supreme-court-wont-hear-case-blocking-users/6059714002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6059714002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6059714002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/aa7e541d-70a9-4935-a1b2-02312e9b3ffb-AP_Skilled-Worker-Visas-Lawsuit.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XtG27PT9YcT/ITqOwCj1Ij1EfSNh7jkCUOzPPiQ80pTE1mHzjCAbPOlccyfl+gOgQsNc4QzLwBLuedUBBlus8YVvVmFo2XQMzScQcjEx/8Strh+qvDCTr0847P8moW18WgvfQpQaygwJLkmBMFI0u4LP1GzSAD3ExaDu03Tc/U5x+ed87rX4dGIzv9Ayhe+d6qSgkvaot1rXPCtCE4P4kxvxWG7d84Jh5jJYMog7t/3x6uWIov/7fRAox4qodde4ExYQXnA17x7D2Cyz0Ulxvx+aerHgVmq/HzGDLteWzhqO2C64RJnzlwQaqhyXwrTI1frSO9c37GTCE7R9W7y280NKAZqpqhmUP7WOeCjJCDYMq5YMmSczMlvyyze2hKY3u72YhnPzbJwTk+T5Dze9HXHsIuiO7PvucMI2jbLH+HXlReyxp32cqB/8kQPDv/f84hxJJFFuPY2RPxLdoGcsa10OXSkK2OuiXZ8E1Jvb9baZM4hpl59mAFygMVSz6VXQlyWVI8adYNBVvUcvZEYq7Q==;2RP+686iuvDDTv19Ye/sbw=="
 ---

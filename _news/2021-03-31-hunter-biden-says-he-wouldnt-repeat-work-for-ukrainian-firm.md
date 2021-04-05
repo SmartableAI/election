@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Progressives ramp up pressure on Biden to forgive student loan debt"
+    excerpt: "Progressives are ramping up the pressure on President Biden to forgive student debt relief as Education Secretary Miguel Cardona investigates the administration's legal authority."
+    publishedDateTime: 2021-04-05T16:38:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EW1dYAUoWyE/biden-cancel-student-debt-50000-progressive-pressure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Sean Hannity: Biden administration waging ‘all-out assault’ on American principles"
     excerpt: "President Biden and the Democrats are attempting to destroy American values, \"Hannity\" host Sean Hannity said."
     publishedDateTime: 2021-04-02T02:58:52Z

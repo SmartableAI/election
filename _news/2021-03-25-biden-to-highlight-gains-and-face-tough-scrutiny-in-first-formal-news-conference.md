@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden records video welcoming new US citizens for naturalization ceremonies"
+    excerpt: "President Joe Biden recorded a video that will be played at naturalization ceremonies welcoming new US citizens in which he thanks them for choosing the United States and invokes his own ancestors who emigrated from Ireland.\n    \n"
+    publishedDateTime: 2021-04-05T15:54:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/evwrHYLjwYQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/biden-naturalization-ceremonies-video/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/biden-naturalization-ceremonies-video/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402113445-03-biden-jobs-0402-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'It's a matter of timing': Biden lays out expansive theory of his own presidency"
     excerpt: "Joe Biden offered his most expansive explanation yet of his own presidency on Thursday, presenting himself, at least for now, as a problem solver operating above the bitter divides of Washington politics.\n    \n"
     publishedDateTime: 2021-03-26T10:05:54Z

@@ -190,6 +190,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden records video welcoming new US citizens for naturalization ceremonies"
+    excerpt: "President Joe Biden recorded a video that will be played at naturalization ceremonies welcoming new US citizens in which he thanks them for choosing the United States and invokes his own ancestors who emigrated from Ireland.\n    \n"
+    publishedDateTime: 2021-04-05T15:54:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/evwrHYLjwYQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/biden-naturalization-ceremonies-video/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/biden-naturalization-ceremonies-video/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402113445-03-biden-jobs-0402-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to highlight gains and face tough scrutiny in first formal news conference"
     excerpt: "President Joe Biden's first two months in power went remarkably smoothly considering he took office amid a once-in-a-century pandemic, a consequent economic crisis and his predecessor's refusal to recognize his victory. But in his first formal news conference Thursday, he'll face scrutiny on gun control"
     publishedDateTime: 2021-03-25T05:54:51Z

@@ -616,18 +616,18 @@ related:
         height: 540
         isCached: true
   - title: "Biden willing to push through infrastructure without GOP"
-    excerpt: "[AUDIO ONLY] U.S. President Joe Biden would be willing to push through his $2 trillion infrastructure plan without the support of Republican lawmakers if he cannot reach a bipartisan deal, Energy Secretary Jennifer Granholm said on Sunday."
+    excerpt: "[NFA] U.S. President Joe Biden would be willing to push through his $2 trillion infrastructure plan without the support of Republican lawmakers if he cannot reach a bipartisan deal, Energy Secretary Jennifer Granholm said on Sunday. This report produced by ..."
     publishedDateTime: 2021-04-05T00:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idRCV009KYZ"
+    webUrl: "https://www.reuters.com/video/watch/biden-willing-to-push-through-infrastruc-id728095592?chan=6g5ka85"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210404&i=RCV009KYZ&r=RCV009KYZ&t=2"
-        width: 1200
-        height: 675
+      - url: "https://static.reuters.com/resources/r/?d=20210405&i=OVE743RA7&r=OVE743RA7&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Watch: Trump Uses Wedding Speech To Attack Biden; Asks Crowd 'Do You Miss Me?'"
     excerpt: "... The wedding reception took place at Trump's Mar-a-Lago golf resort in Florida The former president repeated false claims about widespread fraud during the 2020 election Former President Donald Trump on Saturday used a wedding speech at his Mar-A-Lago ..."

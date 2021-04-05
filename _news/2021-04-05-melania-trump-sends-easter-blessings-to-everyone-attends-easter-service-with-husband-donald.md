@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Melania Trump Sends 'Easter Blessings To Everyone,' Attends Easter Service With Husband Donald"
-excerpt: "Melania Trump tweeted an Easter Sunday message for her followers Her supporters returned her Easter greeting, while others mocked the former first lady over her post She and husband Donald Trump ..."
+excerpt: "Melania Trump tweeted a message for her followers on Easter Sunday and attended a church service with husband Donald Trump."
 publishedDateTime: 2021-04-05T01:48:00Z
-originalUrl: "https://ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596"
-webUrl: "https://ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596"
-ampWebUrl: "https://www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596?amp=1"
+originalUrl: "https://www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596"
+webUrl: "https://www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596"
 type: article
-quality: 63
+quality: 43
 heat: -1
 published: false
 
@@ -137,6 +135,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "zi/5ZXekDAPyzIuWO6OHu8e4ZwORt8Puyymb47AA+JeiMWzQl2ItP0/1rCz31bMJcF4Qa6gAjGwENppePbKQAYX0CubY5B9D0frAtE00VW1gxxdZMd6mW5X62YOdePXFLNdUQKwvUuyq7tHyZ7vtlsCMMir46qrdaeJvqpJB2d8RQka8nlZC/pTlL1gaxa6f7KSQY6pKTZ4ZnTFTFRY4hlrGaFgOCdtexIv27ZMgtPv11mrdlN7dIy32CJmAHTpcwJaEPujFUi49eD5xdI+zC9FnX36VqdzzhydS30lgSsYm08nTbr/0tbRj7Z6gsqXMTTziz9EMVMgKA5I8EL1Q+e+hc4gbRytU2OqltATySE+PEZNrti9TrxW0hEKSWtjDUnrreFuTAGHUvXYt8tuuvko9yLEs8fN1gzVqUts3J5rPBtOOH2yvDIYvXzZvDnb/OI3AlHhn5y4O8AQ8RIdJN7nuGea66aOeklSwVtP2twjQKQcSK8jB9AuDf8owPY+wMM7ZTh5fTt1FB0pIiQhcPA==;0frOiS8M+rGvKMK4+si9cg=="
+secured: "S+dcyuel/5hreypQUq5UiMbI+0E/eOjFWcyjRjloO63yucbdVD1NSFLHprz/sQB56Q5004g0br1CWcgbchbKLWOo2RCG6jVLapPYtImuB8M7S4E1DNc8NSqxuEaKu1m+c9Kn+/AsRQxT8ZAv5UYPLDcL88yLzauWBUjvhSocXrH59aQmzaH3rX3w5YyLHx7c9CEyBnSLUKTjJ/EOb9ZBX5ntF+Le5AaaUYcUUJFmEkP1Pn3Ot/0vaqQf6ix6i/jX05GmbefqdY+ODDUW+DrgYKieiH6oE3eFLMAuRCQGrfx7/C0ATZQ+qwKHHCTUc/vFhX+fbrXX/vdWr1rc1CeHQQqJlhRa8KLb3EYPu01uNH8=;JxQzBWhfxfm/oSpYHjmyBw=="
 ---
 

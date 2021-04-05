@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden vows to get $2T spending bill passed, hits back at GOP criticism: 'I'm going to push as hard as I can'"
+    excerpt: "President Biden on Monday said he will \"push as hard\" as he can to get his $2 trillion spending bill through Congress, despite criticism from Republican lawmakers about its size and the contents of the package."
+    publishedDateTime: 2021-04-05T16:54:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LP3u7QaKQz4/biden-spending-bill-gop-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spending-bill-gop-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-bill-gop-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "pqWT5EPIsUNMtKc/sMb4vj+U2QjTeLK/jDHx7Rv5X+wvLrYyp7026FkgnbB5cL13HoQdRqtKl6O5U4BkHcE+/c9xHf7tDbK3EkgZ4Z04Yxu4vzAcxF2m8rihzJb9+R+EresbDZ5Up0IPISp5/nYQXvsCurOOhRR3aPIGau0UhycWKfWjZQAxnCs0axtjG+gLAN55IKDByVMWiFF5NxBgMS5uQQ5+LjLygGozVEFmQgPF/r5AUMHouOhyMbCUriqNid/r+Ot0TFymI3dixPm5NsLevB/bGUJR3YyEQOqp1mYfO48ZWVttEOK/Z1h9Pk2pI91lEF3AfKczgIFXz2um2nEGpuTzfSXvos0i0xElrlw=;Sfz4mR+onQG4HXkrvVLYvw=="
 ---

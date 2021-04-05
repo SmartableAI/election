@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NYT: Trump campaign duped donors into repeat donations"
+    excerpt: "The New York Times is reporting that former President Donald Trump's campaign tried to make up a fundraising gap during the 2020 election cycle by signing up one-time online donors for repeat donations without their knowledge."
+    publishedDateTime: 2021-04-05T13:23:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/05/new-york-times-trump-campaign-duped-donors-sot-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/05/new-york-times-trump-campaign-duped-donors-sot-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/05/new-york-times-trump-campaign-duped-donors-sot-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401220308-conclu-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "nj4ccnUoNui89EuPJyInEe5Hvok7qGVwSkNGXwATByHi5MZDIYjmjCBDo+CFtOOcK1C7NDLh6vgGjU/spwgS1/RDBN8VzUKtY5bj6XEvf7LCWaC4d/Pzo+N6roL6+cVA8DXwZPRW9iRskedssrLjwdRtsjGD6aVDeqSYIesD64wvemKosrIDoh30P6kr8dJNSmCT28RNByvoQDOEgDB9Tq+lV4tvABeonTSuihQvJ6E4ktJbENNoCXTLwlexG1k82NT93uE+TIpHn8K1kuZ9MYsjmvkSkvGT2KIeuDyTzFEn95dDyQ0i10WbRlMohofHNrjXRefOM2xBZq8Zrp/bsMjNChfWxV2UZlRCwJqnnW2DdbBtgYuI55c53ibEgWaXsgrTOft1OsPvfZw4HZFFLUVaJMDiG+KYctUtk7tMpcCFlgdt619KdQSFoZReHtLB7jhsP9QjLi0xdE5pxC+IEmOGUvuj7JbnDRsHejpot/b1h+fWuN8eUwV4Yz2WginpvG0PvEWgt/I56h8Ur6HcXA==;QzpZpMUoXLKWciaByfKLIQ=="
 ---

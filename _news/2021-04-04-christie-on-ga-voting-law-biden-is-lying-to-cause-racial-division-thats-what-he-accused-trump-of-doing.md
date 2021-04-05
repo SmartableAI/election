@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Christie accuses Biden of ‘doing exactly’ what he accused Trump of: ‘Lying to cause racial divisions'"
-    excerpt: "Former New Jersey Gov. Chris Christie accused President Biden of hypocrisy and inciting the same political unrest he vowed to quell during the presidential campaign by giving the public misinformation about Georgia's recently approved voting bill."
-    publishedDateTime: 2021-04-05T13:03:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JXY1CkAgbPM/christie-biden-trump-lying-racial-divisions"
-    ampWebUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump accuses Fauci, Birx of 'trying to reinvent history' on COVID-19 response"
     excerpt: "Former President Donald Trump slammed Anthony Fauci and Deborah Birx on Monday, accusing the infectious disease experts of “trying to reinvent history” in televised interviews detailing their roles in combating the coronavirus pandemic."
     publishedDateTime: 2021-03-29T23:25:23Z
@@ -57,6 +41,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb14def2-f6e9-4f0e-88e8-4bb0b38a9ec8/ffc8e1c0-0304-4e43-8d1f-fa39f4ae0ca9/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Dr. Scott Atlas blasts 'despicable' Birx and Fauci 'trying to overtly rewrite history' on coronavirus, Trump"
+    excerpt: "Dr. Scott Atlas, a member of former President Trump's coronavirus task force, blasted his ex-colleagues Drs. Anthony Fauci and Deborah Birx, after they went on CNN and tried to 'rewrite history'"
+    publishedDateTime: 2021-03-31T04:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4jiTKbgihc/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9425dea-559a-4dae-a3d4-0827e74f47de/9da07aed-eee1-4d47-bd13-f536575751fb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Christie accuses Biden of ‘doing exactly’ what he accused Trump of: ‘Lying to cause racial divisions'"
+    excerpt: "He is doing exactly what he sat around in the campaign and the transition and accused Donald Trump of doing. He is lying to cause racial divisions in this country. That’s what he accused Donald Trump of doing, and he’s a liar and a hypocrite this morning.\""
+    publishedDateTime: 2021-04-05T13:08:00Z
+    webUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions"
+    ampWebUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "3LPT5pJ/xo+h1xs5Gds9FRiB0uuLytF6VyHmzxWfguupA85ljLRTz7D/rl36rDkQ/AymZ03zj6zVtS4vITHBH2LR0wZNaexjfYeis+ELDniIHr7BPdmf5P+CU4uLTdvMZVlJUOhVGgt2OOV73RLCAAgVMXTBDXGj+LkytpERkPLMSryd4J8OkKJAUPWkwe4wPs9/VNnMgcxeSvGGHsshlMgXRAZAMs9yjSd8GC4J1GAWns5q4Tp0QWnsyb1g35W/574oujZfCGqtnsyxppZsvfwWXOwCtuy3ZGReCvWRWeuVN3v1O042uCGoFD1g3PcJyGW6opz/D1mm4m+Im4Q42dguqKZAN8vdwgPmAwCGhdA=;z7AfvBwEfvhSNONHi3WUVw=="
