@@ -1233,16 +1233,16 @@ related:
       domain: bostonglobe.com
     quality: 55
   - title: "Joe Biden Makes Remarks on A Good Jobs Report"
-    excerpt: "U.S. President Joe Biden replies to questions from reporters after delivering remarks on the March jobs report at the White House in Washington on Friday, April 2, 2021. The economy added a robust 916,"
+    excerpt: "U.S. President Joe Biden and first lady Jill Biden walk from the White House in Washington before their departure to Camp David for Easter weekend on Friday, April 2, 2021. The economy added a robust 916,"
     publishedDateTime: 2021-04-02T16:37:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/7165ae55513736e78a7f7831aab79a78/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/265af8b929ae68841dd7f2e2814f1991/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/7165ae55513736e78a7f7831aab79a78/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/265af8b929ae68841dd7f2e2814f1991/BIDEN-JOBS.jpg"
         width: 650
         height: 433
         isCached: true

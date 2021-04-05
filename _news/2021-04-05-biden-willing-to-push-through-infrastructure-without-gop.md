@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden willing to push through infrastructure without GOP"
-excerpt: "[NFA] U.S. President Joe Biden would be willing to push through his $2 trillion infrastructure plan without the support of Republican lawmakers if he cannot reach a bipartisan deal, Energy Secretary Jennifer Granholm said on Sunday."
+excerpt: "[NFA] U.S. President Joe Biden would be willing to push through his $2 trillion infrastructure plan without the support of Republican lawmakers if he cannot reach a bipartisan deal, Energy Secretary Jennifer Granholm said on Sunday. This report produced by ..."
 publishedDateTime: 2021-04-05T00:12:00Z
-originalUrl: "https://www.reuters.com/video/watch/idPoAh?now=true"
-webUrl: "https://www.reuters.com/video/watch/idPoAh?now=true"
+originalUrl: "https://www.reuters.com/video/watch/biden-willing-to-push-through-infrastruc-id728095592?chan=6g5ka85"
+webUrl: "https://www.reuters.com/video/watch/biden-willing-to-push-through-infrastruc-id728095592?chan=6g5ka85"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ajo.prod.reuters.tv/api/v2/img/606a4bb6e4b0653eea1854ab-1617578934636?location=LANDSCAPE"
-    width: 1200
-    height: 675
+  - url: "https://static.reuters.com/resources/r/?d=20210405&i=OVE743RA7&r=OVE743RA7&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -678,6 +678,6 @@ related:
         height: 675
         isCached: true
 
-secured: "iU4uzDIDuzMdgh7/EdaxlaYqpG519w0nLsvBIhCnojF6s//HWVeU76g8OD9BgHHkkFBuqB4JnE0FqyHMuv0HJY2GKcnvCURA8DrH9yWVIz+epWFKWUpHGfBCxus9VAOwrim/oIur7Mmtgu1kv70OyMdL7HNbRmSnj/f+tL0aTAZ78S4RRLftsmlLAj23CGQ7e9Iq9dcQKbNaYB2Vrqf1pE3EQs91+d4MA7jKeozQU1+10m6zxIXAmmapOJGvOAdtUdYqvK4AHN4F7cn94GR7DVZOfcHWKmTPBo5f+fXgXjEFeU1eNmJ956DVgbYbyl8pFH/EmFW/IAYm4kOJKZ2gxwPqb+ABNr49twXErl085Xc=;sD/nj0lKdqxI/7QHIhGzmw=="
+secured: "KM5++lRLXW+jaXRkpqu+GUzmDVF+9gnSfMjwAPsWcxB7rxjrhhWQEogxf5ZoV8HCXmpGirv8jwB1l90tGkwPVS/VNz6bUWP/akCihNCxvws0BE1qp40Str+IiwFUJmZYcBalW6RSO0RUSGRl203i0THUNWUuWhM+B0GGuTKh4+qp3WIHTiFCWh4v+VcAjTpCO0qFaySsupMWLgrxM1yTcrgj1TfA7MXG54F6Iwdm5uzpaF4616jnWVime7bKJRC+6kReE+koKp5ctJh5FezRqMqtc5VcHmveaSgdg4biuMfJkIrfurSP7UAUDWc0mmleLewACTWIxz3iFXRneltKj8f/linGj5gH9cqRzKXP6/4=;4MYf+vBk1rcCaLjeUgHXxA=="
 ---
 

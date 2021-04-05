@@ -602,18 +602,18 @@ related:
         height: 540
         isCached: true
   - title: "Biden willing to push through infrastructure without GOP"
-    excerpt: "[NFA] U.S. President Joe Biden would be willing to push through his $2 trillion infrastructure plan without the support of Republican lawmakers if he cannot reach a bipartisan deal, Energy Secretary Jennifer Granholm said on Sunday."
+    excerpt: "[NFA] U.S. President Joe Biden would be willing to push through his $2 trillion infrastructure plan without the support of Republican lawmakers if he cannot reach a bipartisan deal, Energy Secretary Jennifer Granholm said on Sunday. This report produced by ..."
     publishedDateTime: 2021-04-05T00:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPoAh?now=true"
+    webUrl: "https://www.reuters.com/video/watch/biden-willing-to-push-through-infrastruc-id728095592?chan=6g5ka85"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/606a4bb6e4b0653eea1854ab-1617578934636?location=LANDSCAPE"
-        width: 1200
-        height: 675
+      - url: "https://static.reuters.com/resources/r/?d=20210405&i=OVE743RA7&r=OVE743RA7&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Facebook reportedly removed a video interview with Donald Trump for violating its ban on the former president"
     excerpt: "DOW S&P 500 NASDAQ 100 Facebook has removed a video that featured an interview with former President Donald Trump because it violated its current ban on him, according to Trump's daughter-in-law. Lara Trump, the wife of Eric Trump, posted on Instagram ..."
