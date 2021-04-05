@@ -1,22 +1,22 @@
 ---
 category: news
-title: "The Daily 202: Biden infrastructure push could face SALT-y Democratic challenge"
-excerpt: "Welcome to The Daily 202 newsletter! T ell your friends to sign up here. Support our journalism. Subscribe today. As President Biden tries to corral the votes to muscle through his $2 trillion infrastructure package,"
-publishedDateTime: 2021-04-02T15:30:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/"
-webUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/?outputType=amp"
+title: "How Biden's $2tn infrastructure plan seeks to achieve racial justice"
+excerpt: "Progressives have hailed the president’s ambitious plans to rebuild America – and some want bolder action still Lauren Gambino in Washington Joe Biden arrives to speak about his $2tn infrastructure plan at Carpenters Pittsburgh Training Center."
+publishedDateTime: 2021-04-05T06:01:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
+webUrl: "https://www.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
 type: article
-quality: 121
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5PUJJUMEEI6XIZ63IUJIHFZVQ.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://i.guim.co.uk/img/media/2b2e9d3e80f3e30be588550dcbb4f156045a8caa/0_280_3106_1864/master/3106.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2ece822b0023b949a01161070e9297a"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -95,22 +95,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "How Biden's $2tn infrastructure plan seeks to achieve racial justice"
-    excerpt: "Progressives have hailed the president’s ambitious plans to rebuild America – and some want bolder action still Lauren Gambino in Washington Joe Biden arrives to speak about his $2tn infrastructure plan at Carpenters Pittsburgh Training Center."
-    publishedDateTime: 2021-04-05T06:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/2b2e9d3e80f3e30be588550dcbb4f156045a8caa/0_280_3106_1864/master/3106.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2ece822b0023b949a01161070e9297a"
-        width: 600
-        height: 360
-        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z
@@ -142,6 +126,22 @@ related:
       - url: "https://thehill.com/sites/default/files/torresritchie_ny15.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "The Daily 202: Biden infrastructure push could face SALT-y Democratic challenge"
+    excerpt: "Welcome to The Daily 202 newsletter! T ell your friends to sign up here. Support our journalism. Subscribe today. As President Biden tries to corral the votes to muscle through his $2 trillion infrastructure package,"
+    publishedDateTime: 2021-04-02T15:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5PUJJUMEEI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden faces the challenge of highlighting progress without relaxing restrictions"
     excerpt: "President Joe Biden faces the challenge of highlighting progress without relaxing restrictions in the face of a potential fourth coronavirus surge."
@@ -311,6 +311,6 @@ related:
         height: 433
         isCached: true
 
-secured: "pFGYwUoOzZ7A1awD7j+WDXKTQiw1hCT8czFjxpslVMtZUcvEaA2YkfoexGtMkbaVd8u73JwIGR8OVSsPbczfCXiA6rZIGDvSnReAr07kxgjqWyAaaHRyhD/Wej4mkHuyr1i26m8fnViWE30e71td/zJizl3Lgygq+holUD+aHdg9WcyMZUUqbgaKSfOCbqrsEDTM15Fr6qvTcWAS8CysraAiDWxH7n+wQNQHrAdzFLffBE460k0D7EP+eFA1kWU5H7mpGfS+pYuARQul5W1lN0seQSa6M50LrMhLE3JFqot7my68tz7sQ1xg9B03fDQX+p/Q9ew0inr4aoNxwCcEhYw+0aE/AMpVKfBSr9tK3ww=;psLXUeT4Q0t1KvMokz4/Tg=="
+secured: "VzQGF19cwNqCrYdLHFmrC1KrSHEr+d8kjqdQNhklnUbM3NJS8TVwgpbxMnRVAxT+0zVXAf0x1aVnFHOqxLIbrKv2xHDD1PcKtm9yUtX6S0Jdmho235bqk7/Gqk/zZ6FOsHEJerOgJzL38h4szVy9bPc+dbuFyHgPGbpkxgEiu74TvaHnIeKaDCyfrhADJcCK4VABbY4tOKc2ahw419tEmhAYAxV31riEGcol870pCv/baa+rETKNmtS+QD5bSy/U2tQwm6+NzWDhxeEuZgIOE0sU4urRZRvpkMFareyUN7IlQlRiUJHtXc1+DR2A2sGYv717Fd7Unjrkcco/kWR0VnMUiTaPDEs9oecrCqSDJ3Q=;fwddf1rbrc4TFlLfR7sOlA=="
 ---
 

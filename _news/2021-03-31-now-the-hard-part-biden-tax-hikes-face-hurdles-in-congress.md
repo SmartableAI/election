@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN24Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN24Y"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 125
     images:
       - url: "https://i.guim.co.uk/img/media/9ea173ef4c27cbe27721a8a570f260a6408c0786/0_35_4618_2771/master/4618.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7ff6b88b8a58f4ed3a1fc20844fccbda"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "How Biden's $2tn infrastructure plan seeks to achieve racial justice"
+    excerpt: "Progressives have hailed the president’s ambitious plans to rebuild America – and some want bolder action still Lauren Gambino in Washington Joe Biden arrives to speak about his $2tn infrastructure plan at Carpenters Pittsburgh Training Center."
+    publishedDateTime: 2021-04-05T06:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/2b2e9d3e80f3e30be588550dcbb4f156045a8caa/0_280_3106_1864/master/3106.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2ece822b0023b949a01161070e9297a"
         width: 600
         height: 360
         isCached: true

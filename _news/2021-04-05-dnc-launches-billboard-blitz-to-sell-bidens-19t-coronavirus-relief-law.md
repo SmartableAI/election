@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden adviser called coronavirus pandemic 'best thing that ever happened' to the president, new book reveals"
-excerpt: "A top adviser to President Biden described the coronavirus pandemic as \"the best thing that ever happened\" to Biden, a new book reveals."
-publishedDateTime: 2021-02-24T20:03:00Z
-originalUrl: "https://www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn"
-webUrl: "https://www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn"
-ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn.amp"
+title: "DNC launches billboard blitz to sell Biden's $1.9T coronavirus relief law"
+excerpt: "EXCLUSIVE: The Democratic National Committee is hitting the road in its latest campaign to tout President Biden's $1.9 trillion coronavirus relief plan and call out Republicans who voted against it."
+publishedDateTime: 2021-04-05T09:30:03Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mk8Rn-YM6h8/dnc-billboard-blitz-biden-coronavirus-relief-law"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mk8Rn-YM6h8/dnc-billboard-blitz-biden-coronavirus-relief-law"
+ampWebUrl: "https://www.foxnews.com/politics/dnc-billboard-blitz-biden-coronavirus-relief-law.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dnc-billboard-blitz-biden-coronavirus-relief-law.amp"
 type: article
-quality: 116
+quality: 174
 heat: -1
 published: false
 
@@ -22,13 +22,12 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41e1b327-c827-4b22-85d7-4b6e823b1cd2/1a5c194e-2ef4-4a92-b79b-e3516347f612/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Democratic-National-Committee.2.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -63,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41e1b327-c827-4b22-85d7-4b6e823b1cd2/1a5c194e-2ef4-4a92-b79b-e3516347f612/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "DNC launches billboard blitz to sell Biden's $1.9T coronavirus relief law"
-    excerpt: "EXCLUSIVE: The Democratic National Committee is hitting the road in its latest campaign to tout President Biden's $1.9 trillion coronavirus relief plan and call out Republicans who voted against it."
-    publishedDateTime: 2021-04-05T09:30:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mk8Rn-YM6h8/dnc-billboard-blitz-biden-coronavirus-relief-law"
-    ampWebUrl: "https://www.foxnews.com/politics/dnc-billboard-blitz-biden-coronavirus-relief-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dnc-billboard-blitz-biden-coronavirus-relief-law.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Democratic-National-Committee.2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "House poised to approve Biden's $1.9T coronavirus relief bill in Friday vote"
     excerpt: "The House is poised to pass President Biden's coronavirus relief package on a party-line vote Friday and send the $1.9 trillion measure to the Senate as Congress races to provide a fresh round of aid to Americans still reeling from the pandemic."
@@ -192,7 +175,23 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden adviser called coronavirus pandemic 'best thing that ever happened' to the president, new book reveals"
+    excerpt: "A top adviser to President Biden described the coronavirus pandemic as \"the best thing that ever happened\" to Biden, a new book reveals."
+    publishedDateTime: 2021-02-24T20:03:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41e1b327-c827-4b22-85d7-4b6e823b1cd2/1a5c194e-2ef4-4a92-b79b-e3516347f612/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "3pJ1P2sW6C8rj1ysUEHNGD+kuohuZD6GaX/AkqFV/DXVOxOaO11PJb64jp/8uvAs9YGhKAw9Y2gVmsstBAbSA9Hljf+Bu8RrlYM0pehoaIBS8ufbLf+c7Po3DvajXDXhCLD8KqsxoS8YqrJIYEaGEOlpKEDDXdIuMr1zPvXel8tz8ozc//8XMQUTkkgeR0eogDtGRNqx4jn1LxtC5YnyV5og/LL2yaR9jvL2TJB/XkWBqhpYMcWZzN5NySVH7Qwpllfz1E4oV7IqpmCuEM81643L5nelTNiULEZS3sU+vUgDX5niKXhEcwW49oTBxdozS4MYazTyVAJWB5tcM0MonfPOUYRcLQ30LVnX7q8oxNk=;YHyUeR/4/06FXUw9MUEdjg=="
+secured: "2YufiESVmc94yNQpjaGWVExqfRYfQ6qDH9QPTKIz+Szar64OYeicYTA0w7hsC/Z0oOAQzvuNYaC0xhcN+WuN6Uv/DMnUfXWBKf9fDDSYiTK+xeESWKW/ZKkCU4OkhFcfz1fuiG/7E4uo2JG3Cd5wqgtjRiCzbIe2AKjrsVuKw+arVqQoukzz08sIDjTkGlHGllZQuqzze7SID95krU0U8FwUHD7U4M0IUIYqx43qafHO5xbeTlZ8aERqjOlplLasxz+NUKNCczLRo1hAE8qFuDsY95VsPF7oASOh4USeTkx4JaFbFmfeCwZ6TOsaOqdveWaj5wqbbptkIFtPRY0TIbmkT6tPqixwqOb7fG6IT3k=;YKSfLnGtliqO7PXyx73SJg=="
 ---
 

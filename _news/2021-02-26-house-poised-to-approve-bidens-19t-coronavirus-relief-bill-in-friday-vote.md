@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "DNC launches billboard blitz to sell Biden's $1.9T coronavirus relief law"
+    excerpt: "EXCLUSIVE: The Democratic National Committee is hitting the road in its latest campaign to tout President Biden's $1.9 trillion coronavirus relief plan and call out Republicans who voted against it."
+    publishedDateTime: 2021-04-05T09:30:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mk8Rn-YM6h8/dnc-billboard-blitz-biden-coronavirus-relief-law"
+    ampWebUrl: "https://www.foxnews.com/politics/dnc-billboard-blitz-biden-coronavirus-relief-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dnc-billboard-blitz-biden-coronavirus-relief-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Democratic-National-Committee.2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden to push another coronavirus recovery bill on top of $1.9T package: Psaki"
     excerpt: "President Biden will have \"more to say\" in April about his coronavirus recovery plan focused on issues like health care and women leaving the workforce."
     publishedDateTime: 2021-03-28T15:04:53Z

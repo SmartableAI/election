@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How Biden's $2tn infrastructure plan seeks to achieve racial justice"
+    excerpt: "Progressives have hailed the president’s ambitious plans to rebuild America – and some want bolder action still Lauren Gambino in Washington Joe Biden arrives to speak about his $2tn infrastructure plan at Carpenters Pittsburgh Training Center."
+    publishedDateTime: 2021-04-05T06:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/05/joe-biden-2tn-infrastructure-plan-racial-justice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/2b2e9d3e80f3e30be588550dcbb4f156045a8caa/0_280_3106_1864/master/3106.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2ece822b0023b949a01161070e9297a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z
