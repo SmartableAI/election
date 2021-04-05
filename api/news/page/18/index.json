@@ -2,6 +2,115 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-06-white-house-fires-trump-eeoc-official-after-she-refuses-to-step-down.md",
+      "title": "White House fires Trump EEOC official after she refuses to step down",
+      "excerpt": "The move is part of a push to oust controversial Trump appointees who were seen by some Democrats as hostile to the mission of the agencies they served.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
+      "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UB5BBTT574I6XDC6GLSHWQVVDM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp",
+      "publishedDateTime": "2021-03-06T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins.md",
+      "title": "Haley, Noem Differ in Approach to Trump as 2024 Jockeying Begins",
+      "excerpt": "The only two women so far on lists of potential 2024 Republican presidential candidates—Nikki Haley and Kristi Noem—have taken divergent paths in navigating around the sizable political shadow of former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
+      "originalUrl": "https://www.wsj.com/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-308058/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
+      "publishedDateTime": "2021-03-06T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees.md",
       "title": "Microsoft, Wells Fargo Satisfied Trump Labor Department on Hiring More Black Employees",
       "excerpt": "The Labor Department under the Trump administration closed inquiries last year after the two companies responded to questions about their plans to hire more Black staff.",
@@ -1258,114 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-biden-doj-urges-supreme-court-to-dismiss-sanctuary-city-cases.md",
-      "title": "Biden DOJ urges Supreme Court to dismiss 'sanctuary city' cases",
-      "excerpt": "The Biden administration told the Supreme Court on Thursday that it should dismiss pending cases concerning \"sanctuary cities,\" which limit cooperation between local law enforcement and federal immigration authorities.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d9-_x8xWLoA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d9-_x8xWLoA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210304180339-biden-roosevelt-room-0304-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/04/politics/biden-doj-supreme-court-dismiss-sanctuary-cities/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/biden-doj-supreme-court-dismiss-sanctuary-cities/index.html",
-      "publishedDateTime": "2021-03-04T15:22:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-qanon-shaman-still-feels-sympathy-for-former-president-donald-trump.md",
-      "title": "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump",
-      "excerpt": "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
-      "originalUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

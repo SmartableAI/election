@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-05-gop-loudly-voicing-concerns-about-debt-under-biden-eerily-quiet-under-trump.md",
+      "title": "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump",
+      "excerpt": "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "publishedDateTime": "2021-04-04T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-trump-campaign-and-allies-refund-122m-to-winred-donors-report.md",
       "title": "Trump campaign and allies refund $122M to WinRed donors: report",
       "excerpt": "The Trump campaign and allies including the Republican National Committee refunded more than $120 million to online donors in 2020.",
@@ -278,6 +335,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-barrasso-slams-biden-over-kids-in-captivity-says-he-was-told-to-delete-photos-of-border-facilities.md",
+      "title": "Barrasso slams Biden over kids in 'captivity,' says he was told to delete photos of border facilities",
+      "excerpt": "\"The irony here is that we're hearing a lot about Joe Biden wanting vaccine passports to prove that people have vaccines,\" Barrasso said. \"Meanwhile, the border crossers, they don't even require I.D. We don't know who they are, where they're coming from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "originalUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "publishedDateTime": "2021-04-04T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1244,115 +1358,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta.md",
-      "title": "Donald Trump, GA Gov. Brian Kemp Call Out 'Woke Companies' Like MLB, Delta",
-      "excerpt": "\"Boycott baseball and all of the woke companies that are interfering with Free and Fair Elections. Are you listening Coke, Delta, and all!\" Trump wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827",
-      "originalUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771295/donald-trump.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
-      "publishedDateTime": "2021-04-02T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-watch-trump-was-right-biden-is-a-trojan-horse-for-progressives.md",
-      "title": "WATCH: 'Trump was right, Biden is a Trojan horse for progressives'",
-      "excerpt": "During his first televised response over allegations of sex trafficking a minor, Rep. Matt Gaetz claimed his family was working with the FBI over an alleged extortion plot organized by former federal prosecutor David McGee. Gaetz attempted to change the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "originalUrl": "https://www.politico.com/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/a2/bd/956476cb412383a4047432f027a2/boehner-hpimage-2.jpg",
-          "width": 2320,
-          "height": 1546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "publishedDateTime": "2021-04-02T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

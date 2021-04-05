@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccine-eligibility.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccine-eligibility.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden in Easter message calls getting vaccine a 'moral obligation'"
+    excerpt: "President Biden and First Lady Jill Biden released an Easter video Sunday in which the president insisted that Americans get vaccinated against COVID-19, calling it a \"moral obligation.\""
+    publishedDateTime: 2021-04-04T23:04:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzQAWLzz-W8/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/morita.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden signs law expanding COVID-19 vaccinations for veterans, their spouses and caregivers"
     excerpt: "President Biden signed into law Wednesday, a measure that would expand the Department of Veterans Affairs' ability to provide the coronavirus vaccine for millions of Americans."
     publishedDateTime: 2021-03-24T21:05:46Z

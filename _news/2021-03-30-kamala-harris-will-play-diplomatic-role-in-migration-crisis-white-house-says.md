@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Kamala Harris to finally move into VP mansion after renovations"
-excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff are set to move into Number One Observatory Circle at the U.S. Naval Observatory next week, following a two-month delay for \"home repairs,\" Harris’ chief spokeswoman Symone Sanders said Thursday."
-publishedDateTime: 2021-04-01T21:46:34Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IujFlOv-QKk/kamala-harris-to-finally-move-into-vp-mansion-after-renovations"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IujFlOv-QKk/kamala-harris-to-finally-move-into-vp-mansion-after-renovations"
-ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+title: "Kamala Harris will play 'diplomatic' role in migration crisis, White House says"
+excerpt: "Vice President Kamala Harris will play a \"diplomatic\" role in addressing the migrant surge at the U.S. southern border, White House officials said Monday."
+publishedDateTime: 2021-03-29T23:36:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
 type: article
-quality: 185
+quality: 131
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/8739dfa4-kamala.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -125,6 +125,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris to finally move into VP mansion after renovations"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff are set to move into Number One Observatory Circle at the U.S. Naval Observatory next week, following a two-month delay for \"home repairs,\" Harris’ chief spokeswoman Symone Sanders said Thursday."
+    publishedDateTime: 2021-04-01T21:46:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IujFlOv-QKk/kamala-harris-to-finally-move-into-vp-mansion-after-renovations"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -464,22 +480,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kamala Harris will play 'diplomatic' role in migration crisis, White House says"
-    excerpt: "Vice President Kamala Harris will play a \"diplomatic\" role in addressing the migrant surge at the U.S. southern border, White House officials said Monday."
-    publishedDateTime: 2021-03-29T23:36:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/8739dfa4-kamala.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Kamala Harris yet to hold press briefing despite key role in addressing border crisis"
     excerpt: "Vice President Kamala Harris still hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis."
     publishedDateTime: 2021-03-29T22:21:00Z
@@ -573,6 +573,6 @@ related:
         height: 500
         isCached: true
 
-secured: "I3dpwdXckBP6BiGbtDEYoyTL1k5MTR1HpYgp4oNHn9ydggMvcNXMkF2mxz3BifogNNiaOWrSm5CNaSs9kFjaQ6XaXEf2AmAmVXDLzKb4k3qu1ZVpjkdaoaqKlusf/fzThv9nEC1Mwv6KBwGnriApkvAgf5+kWpnjzJIG0RiFbbOod6fZODqdgRnvyaGWBOn4Co8jcntP7IzdaEsZKWTR+P4SDvn9xz4+dxa+379S5CSi5rYtGUvuArm1KMmZkxcb0DRFB0M7C/CRejU3l5l2ssldyTwnfNq5NuWmpAXWqJ7k5aaHFzsWBBTZN5VInkn1BjwM0uRg+I9OLrNINZismVz1Hcj3+gqfxg33P18+rY4=;+Fki3QMFxlCYO/OIbaSVBw=="
+secured: "MFQzGBcYl4ZTXV1F0iGSzObfJf0OBO5EiyEpKvbmZEMY4fjHgpEudYaqrmV3swyPNtCx3Znl4QmrAheHEtndsrbZuxOqsgbWQA1e/Yx32H9vb3p3AQxAg53PZuSOMmixyRVYQRoODj6gZyBIamX06HTpa11RVrODvbXKeeOQvvDCdq+0sGns/RU1jeqabajNYdDay59WdUIRTpvroTjlBe7e1aU5EF8Sxf6RB4cHqXVVrKcN0+z5V8ajqoD/ZE0j91r7/dkF4XiinZiqL/9Tb3Jt+4gHUqVGr+qVBSrL35XNIm3dGmdYmUjJW6vc+02aUWspMvvRCmrfCzwXG3B94HS03zV9fCIqC9PKJw8vJXg=;NyOSfFBX1fbhrjtHsy8LeA=="
 ---
 

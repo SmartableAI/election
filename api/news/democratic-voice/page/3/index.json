@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-16-us-and-japan-express-concern-over-chinas-aggressive-actions-during-first-trip-by-bidens-top-diplomat.md",
+      "title": "US and Japan express concern over China's 'aggressive actions' during first trip by Biden's top diplomat",
+      "excerpt": "US Secretary of State Antony Blinken criticized China's threats to regional stability during bilateral talks in Tokyo on Tuesday, warning that the United States and Japan would push back if necessary.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210316034657-antony-blinken-lloyd-austin-us-japan-0316-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
+      "publishedDateTime": "2021-03-16T04:54:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-biden-shots-in-arms-and-money-in-pockets.md",
       "title": "Biden: ‘Shots in Arms and Money in Pockets’",
       "excerpt": "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans.",
@@ -1630,62 +1686,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-capitol-hill-has-picked-shalanda-young-to-lead-omb-but-biden-hasnt-yet.md",
-      "title": "Capitol Hill has picked Shalanda Young to lead OMB -- but Biden hasn't yet",
-      "excerpt": "Congressional Democrats are pushing President Joe Biden to nominate Shalanda Young to lead the Office of Management and Budget after Neera Tanden withdrew her nomination amid opposition in the Senate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YqiqCQePBI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YqiqCQePBI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303081850-restricted-01-shalanda-young-0302-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html",
-      "publishedDateTime": "2021-03-05T14:14:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

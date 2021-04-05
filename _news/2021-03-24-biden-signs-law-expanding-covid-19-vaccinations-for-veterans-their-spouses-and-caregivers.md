@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden in Easter message calls getting vaccine a 'moral obligation'"
+    excerpt: "President Biden and First Lady Jill Biden released an Easter video Sunday in which the president insisted that Americans get vaccinated against COVID-19, calling it a \"moral obligation.\""
+    publishedDateTime: 2021-04-04T23:04:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzQAWLzz-W8/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/morita.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Pi6LAFjZSXxJl5vGLqbzrkNoegwkO6+5lbAXuvSdmLhLjXBmdx6T1Uba2ddYPIqPoigYyLNr1Nu3Cp/A2MIDR9BqF8yQQ/QrrgTsqqYX9ByWwy/ECCXTP/lym6te+50ni8j9LzHvwjVlOoAYDXxAHf/WrMyL8A4fc/Xc7PK6kM26RSZpGLMQ2zlVVqnbRSX+ZMBfpxFichlAWExIdDUkteiK2VgxfFXJu+DvxHahb3DvOeJDS7QrM8UN2uLJvAQ4p5AibbZHgMiz4v7egedmN4T/glWzWCwOsGwevukMwmU3CJem7jJ6uI61CpCvqcMdD4w3WHK3BBpwnqo9ymTgPsR6q+7biCsbTFhD4tPGXlI=;S57w53uIhLiZaIBY/9Iy1A=="
 ---

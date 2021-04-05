@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Barrasso slams Biden over kids in 'captivity,' says he was told to delete photos of border facilities"
-    excerpt: "Senate Republican Conference Chair Sen. John Barrasso on Sunday slammed the Biden administration over minors in \"captivity\" at the border being packed \"in like sardines\" as Republicans continue to hammer the president over what they say is a border crisis."
-    publishedDateTime: 2021-04-04T16:29:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gM2vxO6zN0c/barrasso-biden-border-kids-in-captivity-delete-photos"
-    ampWebUrl: "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "UNigsxld7/twy0U+z3JJjwYPMy/lEaV5I/U8oF4BjIQG5wTCA+YxGhtO93QYWOc4jB8k7ph43iZH79JdsDoxivLqEwqpPn82rmRmH8dnJEY1rYocdpdJ5Icxhr6Hh0kXmj6VhhBOw+yqDXhfCIh2QeJP23TmshprSo32ks/cz1Xpu29YWye0qs1J16bQusECODk+bpGhqC2QmYaVB8LrXoLboxTb3kzS8v5KioM4WSsk6VQ5xYauv9fPGOQ0TmfwBLqe2SGi/NBfQoeyo5k94nSXPNpIE9lXr876qdTJSzUgQY3U7xAi3bFvSiyA+scfGFDej/1K6Jr5ndCilU/m4a4XcIFlgVit60qx3Js1L588pSs7UNOFB+/0XP5dgnmaI757ki9wGx1Ogq1rTJp54uA8UCEW6g5h5qtd3yaFexRuaxTJ7ip8gy0+oPi69lcnZynv0JWjsqqeNHP2NDNx7vLdTu/mpSWbnEd3Ht+hUPIPXoBS+73cNJxM2ezuUO/IBdHgiG0hSMvKZLdb8Y1zig==;gsytqnb0wejqCNoBtpZg/w=="
 ---

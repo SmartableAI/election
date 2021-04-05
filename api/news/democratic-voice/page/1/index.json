@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-05-gop-loudly-voicing-concerns-about-debt-under-biden-eerily-quiet-under-trump.md",
+      "title": "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump",
+      "excerpt": "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "publishedDateTime": "2021-04-04T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-the-bidens-encourage-americans-to-get-vaccinated-in-easter-message.md",
       "title": "The Bidens encourage Americans to get vaccinated in Easter message",
       "excerpt": "President Joe Biden and first lady Jill Biden shared well-wishes with Americans celebrating Easter on Sunday and encouraged them to get Covid-19 vaccinations as a moral obligation.\n    \n",
@@ -1609,62 +1666,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html",
       "publishedDateTime": "2021-03-26T03:03:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-biden-says-us-faces-battle-to-prove-democracy-works.md",
-      "title": "Biden says US faces battle to 'prove democracy works' ",
-      "excerpt": "President Joe Biden cast challenges to the US from China, Russia and global shifts in stark terms Thursday, describing \"a battle between the utility of democracies in the 21st century and autocracies.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H7LXCLriSaw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H7LXCLriSaw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325173626-biden-news-conference-ghtits-oped-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/biden-autocracies-versus-democracies/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-autocracies-versus-democracies/index.html",
-      "publishedDateTime": "2021-03-25T17:31:20-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

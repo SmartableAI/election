@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-lists-biden-harris-admi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
 type: article
 quality: 200
-heat: 860
+heat: 880
 published: true
 
 provider:
@@ -463,6 +463,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/rev-mahoney-suing-harris-pelosi-fences-hp2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris will play 'diplomatic' role in migration crisis, White House says"
+    excerpt: "Vice President Kamala Harris will play a \"diplomatic\" role in addressing the migrant surge at the U.S. southern border, White House officials said Monday."
+    publishedDateTime: 2021-03-29T23:36:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/8739dfa4-kamala.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Kamala Harris yet to hold press briefing despite key role in addressing border crisis"
     excerpt: "Vice President Kamala Harris still hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis."

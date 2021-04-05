@@ -2,6 +2,114 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-01-09-twitter-permanently-suspends-trumps-account-to-prevent-further-incitement-of-violence.md",
+      "title": "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'",
+      "excerpt": "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "publishedDateTime": "2021-01-09T00:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-live-updates-trump-permanently-banned-from-twitter.md",
+      "title": "LIVE UPDATES: Trump permanently banned from Twitter",
+      "excerpt": "Follow for the latest updates on the fallout from the riot at the U.S. Capitol.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9k0-9RO3zw/live-updates-trump-permanently-banned-twitter-1-9-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9k0-9RO3zw/live-updates-trump-permanently-banned-twitter-1-9-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 835,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6cb6ff7-33ce-42a6-9e2f-f067a38a46bc/1bd78dbb-65d5-4022-9346-8462544e3b26/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-trump-permanently-banned-twitter-1-9-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-permanently-banned-twitter-1-9-2021.amp",
+      "publishedDateTime": "2021-01-08T22:15:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-federal-judge-blocks-trump-administration-asylum-rule-from-taking-effect.md",
       "title": "Federal judge blocks Trump administration asylum rule from taking effect",
       "excerpt": "A federal judge on Friday blocked a sweeping asylum rule that had been scheduled to take effect nationwide in a matter of days, issuing yet another legal blow to the Trump administration.\n    \n",
@@ -1222,119 +1330,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-ny-attorney-general-demands-investigation-of-trumps-family-members-role-in-fomenting-riots.md",
-      "title": "NY attorney general demands investigation of Trump's, family members' role in fomenting riots",
-      "excerpt": "Letitia James also wants officials to identify and investigate participants in Wednesday's raid on the Capitol",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H4zPhX-8THk/ny-ag-full-investigation-dc-riots",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H4zPhX-8THk/ny-ag-full-investigation-dc-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cbedf04-60c6-401e-b267-a9d2221c950c/0932f180-5a4f-4506-a093-5483fb65583c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ny-ag-full-investigation-dc-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-ag-full-investigation-dc-riots.amp",
-      "publishedDateTime": "2021-01-07T18:58:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-hear-why-klobuchar-fist-bumped-pence-after-electoral-certification.md",
-      "title": "Hear why Klobuchar fist-bumped Pence after Electoral certification",
-      "excerpt": "Sen. Amy Klobuchar (D-MN), tells CNN's Chris Cuomo about the moment Congress finalized President-elect Joe Biden's victory, and about why she chose to fist-bump Vice President Mike Pence after he read the election results.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/STVfKhlsmZw/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/STVfKhlsmZw/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107214242-klobuchar-pence-cpt-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/08/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/08/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "publishedDateTime": "2021-01-07T18:56:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

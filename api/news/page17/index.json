@@ -2,6 +2,118 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-03-09-cotton-on-biden-border-crisis-this-was-altogether-predictable-and-was-predicted-last-year.md",
+      "title": "Cotton on 'Biden border crisis': 'This was altogether predictable' and was 'predicted' last year",
+      "excerpt": "Sen. Tom Cotton R-Ark. blasted the Biden Administration Monday for their role in the current crisis at the U.S.-Mexico border, calling their policy \"recruit and release\" as opposed to \"catch and release.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cDwNpbSXLeM/cotton-biden-border-crisis-altogether-predictable",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cDwNpbSXLeM/cotton-biden-border-crisis-altogether-predictable",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2d65ea6-4669-4750-9f90-a270d335b120/5b2cc511-1777-4f6c-a7a2-c9d0afbbe7e4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cotton-biden-border-crisis-altogether-predictable.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-biden-border-crisis-altogether-predictable.amp",
+      "publishedDateTime": "2021-03-08T21:38:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-trump-jr-media-protected-groper-in-chief-cuomo-because-he-was-willing-to-speak-poorly-about-my-father.md",
+      "title": "Trump Jr.: Media protected 'groper-in-chief' Cuomo because he 'was willing to speak poorly about my father'",
+      "excerpt": "Donald Trump Jr. accused the media on Monday of protecting embattled New York Gov. Andrew Cuomo because he \"was willing to speak poorly about my father.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m74mJmMLu7Y/trump-jr-media-andrew-cuomo-new-york",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m74mJmMLu7Y/trump-jr-media-andrew-cuomo-new-york",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9a8da8a-3b4e-4c81-9e50-bba522f997d2/b583388b-a71a-4066-9833-ae57d9200665/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-jr-media-andrew-cuomo-new-york.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-media-andrew-cuomo-new-york.amp",
+      "publishedDateTime": "2021-03-08T21:17:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-biden-grants-temporary-protected-status-to-hundreds-of-thousands-of-venezuelans-living-in-us.md",
       "title": "Biden grants temporary protected status to hundreds of thousands of Venezuelans living in US",
       "excerpt": "The Biden administration said Monday it will offer temporary legal status to Venezuelans who illegally entered the U.S. after fleeing the nation’s economic crisis.",
@@ -1248,115 +1360,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-white-house-fires-trump-eeoc-official-after-she-refuses-to-step-down.md",
-      "title": "White House fires Trump EEOC official after she refuses to step down",
-      "excerpt": "The move is part of a push to oust controversial Trump appointees who were seen by some Democrats as hostile to the mission of the agencies they served.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
-      "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UB5BBTT574I6XDC6GLSHWQVVDM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp",
-      "publishedDateTime": "2021-03-06T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins.md",
-      "title": "Haley, Noem Differ in Approach to Trump as 2024 Jockeying Begins",
-      "excerpt": "The only two women so far on lists of potential 2024 Republican presidential candidates—Nikki Haley and Kristi Noem—have taken divergent paths in navigating around the sizable political shadow of former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
-      "originalUrl": "https://www.wsj.com/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-308058/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
-      "publishedDateTime": "2021-03-06T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

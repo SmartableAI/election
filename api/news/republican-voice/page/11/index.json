@@ -2,6 +2,62 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-10-biden-admin-erects-tent-city-in-texas-to-handle-influx-of-illegal-immigrants.md",
+      "title": "Biden admin erects tent city in Texas to handle influx of illegal immigrants",
+      "excerpt": "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp",
+      "publishedDateTime": "2021-02-10T15:48:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-nikki-haley-warns-illegal-immigration-hitting-crisis-levels-amid-biden-moves.md",
       "title": "Nikki Haley warns illegal immigration hitting ‘crisis levels,’ amid Biden moves",
       "excerpt": "Nikki Haley on Wednesday warned that illegal immigration is hitting “crisis levels” in the wake of a number of reversals of key Trump-era policies by President Joe Biden -- with the former U.N. ambassador arguing that the U.S. needs to take care of “Americans first.”",
@@ -1595,62 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp",
       "publishedDateTime": "2021-02-05T16:33:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-hunter-biden-still-working-to-unwind-investment-in-chinese-firm.md",
-      "title": "Hunter Biden still ‘working to unwind’ investment in Chinese firm",
-      "excerpt": "President Joe Biden’s son Hunter maintains a holding in a Chinese investment firm, though the White House says he is \"working to unwind his investments.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToFQpqEwa0c/hunter-biden-still-working-to-unwind-investment-in-chinese-firm",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToFQpqEwa0c/hunter-biden-still-working-to-unwind-investment-in-chinese-firm",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1986078c-522a-4d6a-a58f-7367474d50e4/938bb221-54a9-452a-8293-c156892223fb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-still-working-to-unwind-investment-in-chinese-firm.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-still-working-to-unwind-investment-in-chinese-firm.amp",
-      "publishedDateTime": "2021-02-05T14:43:50-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
