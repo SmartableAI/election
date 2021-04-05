@@ -2,118 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-03-30-trump-endorses-drew-mckissick-over-lin-wood-for-south-carolina-gop-chair.md",
-      "title": "Trump endorses Drew McKissick over Lin Wood for South Carolina GOP chair",
-      "excerpt": "Former President Donald Trump affirmed his endorsement of longtime ally Drew McKissick in his bid for re-election as South Carolina GOP chairman on Tuesday, shortly after attorney Lin Wood announced his intent to challenge him for the position.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIjfA_StU2M/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIjfA_StU2M/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Lin-Wood-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "publishedDateTime": "2021-03-30T16:14:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-dems-call-for-firings-of-trump-era-holdovers-in-ssa-over-stimulus-check-delays.md",
-      "title": "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays",
-      "excerpt": "The House Progressive Caucus on Tuesday called for the removal of Trump administration holdover officials they say are responsible for delaying the latest round of stimulus checks to 30 million Americans. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bg53eh9eE6E/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bg53eh9eE6E/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
-      "publishedDateTime": "2021-03-30T13:55:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-31-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights-division.md",
       "title": "Bloomberg, former RNC chair Steele back Biden pick for civil rights division",
       "excerpt": "President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize on voting rights ...",
@@ -660,49 +548,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-the-latest-trump-blasts-fauci-and-birx-as-self-promoters.md",
-      "title": "The Latest: Trump blasts Fauci and Birx as ‘self-promoters’",
-      "excerpt": "WASHINGTON — Former President Donald Trump is slamming two of his most prominent coronavirus advisers. He says Dr. Anthony Fauci and Dr. Deborah Birx are “two self-promoters trying to reinvent history.” Fauci is the chief medical adviser to President ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/article250283305.html",
-      "originalUrl": "https://www.miamiherald.com/news/article250283305.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/8f137469-cf5d-422d-8be6-eafce27a3d46/b3810ed2-9fe2-46d9-a692-71fb4e4ae035/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/article250283305.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/article250283305.html",
-      "publishedDateTime": "2021-03-30T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-blinken-ends-trump-rights-plan-promoting-conservative-agenda.md",
       "title": "Blinken ends Trump rights plan promoting conservative agenda",
       "excerpt": "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons",
@@ -932,7 +777,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1101,7 +946,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1038,
+      "heat": 1058,
       "tags": null,
       "images": [
         {
@@ -1322,6 +1167,170 @@
       "ampWebUrl": "https://www.foxnews.com/politics/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss.amp",
       "publishedDateTime": "2021-03-30T02:29:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-trump-will-be-back-in-office-mypillow-ceo-reveals-plan-for-white-house-return.md",
+      "title": "Trump 'Will Be Back In Office': MyPillow CEO Reveals Plan For White House Return",
+      "excerpt": "Donald Trump will be president again by August, according to a projection made by MyPillow CEO Mike Lindell. The MAGA-supporting pillow maker was on former Trump adviser Steve Bannon’s “War Room: Pandemic” podcast when he made the eyebrow-raising prediction “Donald Trump will be back in office in August,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390",
+      "originalUrl": "https://www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg",
+          "width": 1024,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390?amp=1",
+      "publishedDateTime": "2021-03-29T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-trump-launches-45-office-website-amid-speculation-about-his-future.md",
+      "title": "Trump launches '45 Office' website amid speculation about his future",
+      "excerpt": "Former President Donald Trump and former First Lady Melania Trump launched a website Monday in what his office described as a bid to stay in touch with supporters and coordinate future appearances.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPE8UxvPSdk/trump-launches-45-office-website-amid-speculation-about-future",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPE8UxvPSdk/trump-launches-45-office-website-amid-speculation-about-future",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb14def2-f6e9-4f0e-88e8-4bb0b38a9ec8/ffc8e1c0-0304-4e43-8d1f-fa39f4ae0ca9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-launches-45-office-website-amid-speculation-about-future.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-launches-45-office-website-amid-speculation-about-future.amp",
+      "publishedDateTime": "2021-03-29T18:46:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.md",
+      "title": "Campos-Duffy blasts 'stone-cold political operator' Biden claiming compassion for migrants",
+      "excerpt": "On \"Fox News Primetime,\" host Rachel Campos-Duffy slammed President Biden for claiming the migrant border surge is due to his standing as a friendly, compassionate head of state, saying that the president is really overseeing a humanitarian catastrophe.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7hoNy-nCvg/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7hoNy-nCvg/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.amp",
+      "publishedDateTime": "2021-03-29T17:51:03-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

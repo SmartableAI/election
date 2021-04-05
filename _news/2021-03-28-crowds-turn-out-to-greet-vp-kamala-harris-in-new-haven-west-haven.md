@@ -258,16 +258,16 @@ related:
         height: 600
         isCached: true
   - title: "Kamala Harris has Discussion with Faith Leaders at the White House"
-    excerpt: "U.S. Vice President Kamala Harris holds a roundtable discussion with faith leaders on their efforts to encourage communities to take the COVID-19 vaccine at the White House on Wednesday, March 31, 2021 in Washington, DC. Photo by Yuri Gripas/UPI Featured ..."
+    excerpt: "U.S. Vice President Kamala Harris holds a roundtable discussion with faith leaders on their efforts to encourage communities to take the COVID-19 vaccine at the White House on Wednesday, March 31, 2021 in Washington,"
     publishedDateTime: 2021-03-31T19:12:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b271040e4167263b2aefe673909db5c8/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/HARRIS-FAITH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/b271040e4167263b2aefe673909db5c8/HARRIS-FAITH.jpg"
         width: 650
         height: 433
         isCached: true

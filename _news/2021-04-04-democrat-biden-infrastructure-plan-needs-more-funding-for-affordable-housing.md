@@ -111,6 +111,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Hunter Biden defends taking position on Burisma board"
+    excerpt: "And I don't ... ever want to again to hand a weapon to people that would use it in a illegitimate way that they used the weapon of me against my dad.\" Tags Ukraine Donald Trump Joe Biden Burisma"
+    publishedDateTime: 2021-04-05T15:38:00Z
+    webUrl: "https://thehill.com/homenews/administration/546464-hunter-biden-defends-taking-position-on-burisma-board"
+    ampWebUrl: "https://thehill.com/homenews/administration/546464-hunter-biden-defends-taking-position-on-burisma-board?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546464-hunter-biden-defends-taking-position-on-burisma-board?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden summons public support as GOP bucks infrastructure"
+    excerpt: "WASHINGTON — With an appeal to think big, President Joe Biden is promoting his $2.3 trillion infrastructure plan directly to Americans, summoning public support to push past the Republicans lining up against the massive effort they sum up as big taxes ..."
+    publishedDateTime: 2021-04-05T21:48:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-summons-public-support-as-gop-bucks-infrastructure/2021/04/05/b782d618-9658-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/biden-summons-public-support-as-gop-bucks-infrastructure/2021/04/05/b782d618-9658-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-summons-public-support-as-gop-bucks-infrastructure/2021/04/05/b782d618-9658-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z
@@ -287,6 +319,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "2 Democratic Senators are already saying Biden's infrastructure plan probably needs to change"
+    excerpt: "An envelope. It indicates the ability to send an email. Two Democratic senators have already voiced concerns about President Joe Biden's $2 trillion infrastructure plan. One of them is Sen. Joe Manchin, a moderate Democrat from West Virginia who has ..."
+    publishedDateTime: 2021-04-05T21:42:00Z
+    webUrl: "https://www.businessinsider.com/senate-democrats-bidens-infrastructure-plan-needs-change-warner-manchin-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/senate-democrats-bidens-infrastructure-plan-needs-change-warner-manchin-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-democrats-bidens-infrastructure-plan-needs-change-warner-manchin-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/606b8433856cd700198a344f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Manchin Puts a Damper on Biden's Infrastructure Plan, Says It Risks U.S. Competitiveness"
     excerpt: "Senator Joe Manchin, a moderate West Virginia Democrat, criticized the corporate tax increase plan President Joe Biden has proposed to pay for a $2 trillion infrastructure bill, raising concerns it could risk American competitiveness. In an interview with ..."
     publishedDateTime: 2021-04-05T18:40:00Z
@@ -302,6 +350,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1771680/joe-manchin.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Democratic Sen Joe Manchin says he's against Biden's massive infrastructure bill in its current form"
+    excerpt: "Conservative Democrat Sen. Joe Manchin (W.Va.) on Monday said he was opposed to the Biden administration’s plan to raise the corporate tax to 28 percent to pay for a sweeping infrastructure package."
+    publishedDateTime: 2021-04-05T21:10:00Z
+    webUrl: "https://thehill.com/changing-america/sustainability/infrastructure/546553-democratic-sen-joe-manchin-says-hes-against"
+    ampWebUrl: "https://thehill.com/changing-america/sustainability/infrastructure/546553-democratic-sen-joe-manchin-says-hes-against?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/infrastructure/546553-democratic-sen-joe-manchin-says-hes-against?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 110
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_manchininfrastructure_040521getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Biden only wants to raise taxes on the wealthy, but he's misleading families with $400,000-plus income"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden has repeatedly hinged his massive spending plans on a series of tax hikes with the single rule that \"no one making under $400,000 will see their federal taxes go up.\" The assertion is true, depending on your ..."

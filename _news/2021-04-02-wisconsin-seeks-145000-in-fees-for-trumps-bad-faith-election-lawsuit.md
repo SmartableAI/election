@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6M8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6M8"
 type: article
 quality: 139
-heat: 219
+heat: 239
 published: true
 
 provider:
@@ -85,6 +85,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
     ampWebUrl: "https://www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Wisconsin cities: Trump should pay legal bills for challenge"
+    excerpt: "MADISON, Wis. (AP) — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
+    publishedDateTime: 2021-04-05T21:54:00Z
+    webUrl: "https://www.chron.com/news/article/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
     type: article
     provider:
       name: Houston Chronicle

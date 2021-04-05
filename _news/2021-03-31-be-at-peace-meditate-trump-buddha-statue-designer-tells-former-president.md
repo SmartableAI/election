@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump pushes back on NYT story on campaign refunds"
+    excerpt: "Former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports will backfire on ..."
+    publishedDateTime: 2021-04-05T20:11:00Z
+    webUrl: "https://thehill.com/homenews/campaign/546545-trump-pushes-back-on-nyt-story-on-campaign-refunds"
+    ampWebUrl: "https://thehill.com/homenews/campaign/546545-trump-pushes-back-on-nyt-story-on-campaign-refunds?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546545-trump-pushes-back-on-nyt-story-on-campaign-refunds?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump's Team Sought Stake in Gab But Was Rejected, CEO Andrew Torba Claims"
     excerpt: "The CEO of social media site Gab has claimed he rejected a proposal in January to have former president Donald Trump on the platform. Andrew Torba, who founded the service in 2016, said that representatives of the former president's senior adviser and son ..."
     publishedDateTime: 2021-03-24T10:36:00Z

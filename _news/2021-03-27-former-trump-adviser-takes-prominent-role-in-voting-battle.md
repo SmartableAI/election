@@ -91,6 +91,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Wisconsin cities: Trump should pay legal bills for challenge"
+    excerpt: "MADISON, Wis. (AP) — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
+    publishedDateTime: 2021-04-05T21:54:00Z
+    webUrl: "https://www.chron.com/news/article/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "DVIt9S9r7CTJqvySKg0UNhkOvLqpgVsjg8DXDIzF9uRcWX9JllURE567T9UViFhFMZvcwMxR4ZGCd/Db27ZylYgzCL2f1NMiNJrwcJLemNqLrrGyDGNEZXMs32tWhTD1GrefPBHyxavlnzEZtibZz7qi69ihGurjNwu7ZeCiNWmDv0yxI4CYWK2LSljHjo2OkqM86brjhRxLI9lN3GGxDbnRgVfspihadqLl6fkeIq5yiOA91grEYRMJl46iev8uJBN1S4kSYbQvLgnOmEX79xxHns75D2da4Shg78cUMv3t8D91D7qTBuB6iQS4bH8InQ0azDy9vEBOJYihrhEfFh1QxGtk2iIEDVTDRnvhU6Ycf/vbDWuiIYPPdzA/P+/30yl0+a74k8SWTJWtMJzwy9DsX3jaGj9o3sGEEBYyE2FbkWjag0GCw4VR9znxAZmcjnmxNtHiGMEg464z2tXkdh0Hpe/RscR2cCmsIeh2zSN7PmQWr6ygWulB7kiCot98UiD92hA/VZ03zbzzX9NI8A==;veh5td2BjPKybkFTFkoRkg=="
 ---

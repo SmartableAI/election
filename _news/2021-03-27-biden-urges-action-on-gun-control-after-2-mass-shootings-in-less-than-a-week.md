@@ -544,6 +544,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Two Dem senators balk at Biden's new spending plan"
+    excerpt: "Joe Manchin wants his party's leaders and President Joe Biden to make significant changes to their sweeping new tax-and-spend legislation — and he’s got other Democratic senators with him. The West Virginia Democrat is readying for his second act after ..."
+    publishedDateTime: 2021-04-05T19:12:00Z
+    webUrl: "https://www.politico.com/news/2021/04/05/manchin-biden-spending-plan-479058"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/05/manchin-biden-spending-plan-479058"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/05/manchin-biden-spending-plan-479058"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/cd/cd/349d988a409cb1f5786a36238521/ap21070753566064.jpg"
+        width: 4500
+        height: 2998
+        isCached: true
   - title: "Biden administration working to develop a system for people to prove they've been vaccinated"
     excerpt: "President Joe Biden has predicted that life in the US could be back to normal by Christmas, and as more Americans are vaccinated each day, these vaccine credentials -- commonly called \"vaccine passports\" -- could be key to a return to normalcy by the end ..."
     publishedDateTime: 2021-03-28T19:07:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-ge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html"
 type: article
 quality: 186
-heat: 306
+heat: 326
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005171032-01-parents-college-students-kids-safely-wellness-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Biden administration officials falsely describe infrastructure jobs estimate "
+    excerpt: "Top officials in President Joe Biden's administration have made a series of television and radio appearances to promote the infrastructure proposal Biden unveiled last week, a roughly $2 trillion package the White House has named the American Jobs Plan.\n    \n"
+    publishedDateTime: 2021-04-05T21:28:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nIgNsYCX8yc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/fact-check-biden-infrastructure-jobs-19-million-buttigieg-deese/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/fact-check-biden-infrastructure-jobs-19-million-buttigieg-deese/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401093133-pete-buttigieg-0401-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

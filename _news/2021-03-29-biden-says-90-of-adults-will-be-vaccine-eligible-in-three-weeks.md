@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331164919-01-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Manchin warns Biden's infrastructure bill is in trouble over corporate tax hikes "
+    excerpt: "Sen. Joe Manchin, an influential centrist Democrat, warned Monday that the Biden administration's massive infrastructure package can't pass in its current form because he and a handful of other Senate Democrats believe the corporate tax hikes proposed in the bill -- designed to offset its costs -- are"
+    publishedDateTime: 2021-04-05T20:18:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cCPD86NWEvw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/manchin-infrastructure-bill-tax-hikes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/manchin-infrastructure-bill-tax-hikes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

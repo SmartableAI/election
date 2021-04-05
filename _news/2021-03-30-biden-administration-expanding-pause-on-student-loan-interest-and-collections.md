@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden administration officials falsely describe infrastructure jobs estimate "
+    excerpt: "Top officials in President Joe Biden's administration have made a series of television and radio appearances to promote the infrastructure proposal Biden unveiled last week, a roughly $2 trillion package the White House has named the American Jobs Plan.\n    \n"
+    publishedDateTime: 2021-04-05T21:28:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nIgNsYCX8yc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/fact-check-biden-infrastructure-jobs-19-million-buttigieg-deese/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/fact-check-biden-infrastructure-jobs-19-million-buttigieg-deese/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401093133-pete-buttigieg-0401-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he would 'strongly support' moving the MLB All-Star Game out of Georgia over new voting law"
     excerpt: "President Joe Biden said he would \"strongly support\" moving this year's Major League Baseball All-Star Game out of Georgia following the passage of a sweeping elections bill that brings a wave of new voting restrictions to the state.\n    \n"
     publishedDateTime: 2021-04-01T19:25:25Z

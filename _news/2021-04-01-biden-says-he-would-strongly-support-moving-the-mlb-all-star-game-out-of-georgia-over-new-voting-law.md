@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden administration officials falsely describe infrastructure jobs estimate "
+    excerpt: "Top officials in President Joe Biden's administration have made a series of television and radio appearances to promote the infrastructure proposal Biden unveiled last week, a roughly $2 trillion package the White House has named the American Jobs Plan.\n    \n"
+    publishedDateTime: 2021-04-05T21:28:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nIgNsYCX8yc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/fact-check-biden-infrastructure-jobs-19-million-buttigieg-deese/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/fact-check-biden-infrastructure-jobs-19-million-buttigieg-deese/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401093133-pete-buttigieg-0401-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's latest big sell won't be easy"
     excerpt: "(CNN)It's no April Fool's joke: Infrastructure week is, at last, here. Unveiling the plan on Wednesday, it's yet another sign President Joe Biden is thinking big -- like ... legacy-defining big, and not just when it comes to the multi-trillion dollar price ..."
     publishedDateTime: 2021-04-02T22:32:00Z

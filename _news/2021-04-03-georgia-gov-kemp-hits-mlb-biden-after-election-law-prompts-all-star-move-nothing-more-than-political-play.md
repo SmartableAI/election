@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Georgia Republican name-drops Biden, says voting law should be more restricted like Delaware"
+    excerpt: "A Georgia lawmaker is proposing that his state align its voting laws with New York and Delaware's more restrictive regulations, an admitted \"political stunt\" designed to rebuke criticism from President Biden,"
+    publishedDateTime: 2021-04-05T20:52:00Z
+    webUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14a5ffe4-1a84-4ae0-a7cc-e01e93474179/7ef0499b-9c47-4f44-bcbc-ea6f95267440/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "eNfIxjJf4l+HL+efCiEWuLpj4SRuyzKV7YRV4gt+8Kt/tkw+OrqHN/rbnE+yTquB4nqnLICjfW31JKCc5so7iMgYLm7UMFSAV0P6048RQTxHv12S7tG2Ki6nIRTmbSo1EAO1sBhIx4wGxTkUkN/gkUOoccENMxTEG2WRdnTBxERJAbFd6r3f6LkFH5xBfa29hC2dQncxdUPlEvY4A1vevYXd3DYj0m8uAc0i1DASnKNF7ZAYR4Wsl5eqa/k8Tv1zAFBUPseYxaXnfEQNd35WuS9S2qPVwRcZdQNbwvKbeZaB7gRwy0iJR/ZRXGDqtie490IjrkHXj11TIpqR089z/VDgz1awJ/gc0vha3kf7HaU=;yZ2UONPBDURQ3bsNKCn3eg=="
 ---

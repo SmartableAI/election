@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "VP Harris is the latest White House official to appear with California Gov. Newsom amid recall effort"
+    excerpt: "Top members of the Biden White House have appeared with California's embattled Democratic governor, Gavin Newsom, twice over the last week -- a signal of support for a politician who is likely to face a recall election.\n    \n"
+    publishedDateTime: 2021-04-05T20:25:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qVt0uE2nr84/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/kamala-harris-gavin-newsom/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/kamala-harris-gavin-newsom/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405145532-01-harris-newsom-0405-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris dives into migration diplomacy as GOP aims to make her the face of the border crisis"
     excerpt: "(CNN)Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one ..."
     publishedDateTime: 2021-04-01T06:38:00Z

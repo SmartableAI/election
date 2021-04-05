@@ -75,6 +75,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Kamala Harris returns to Oakland to tout infrastructure, jobs plan"
+    excerpt: "For the first time since assuming office, Vice President Kamala Harris returned to Oakland Monday to promote the administration’s proposal to rebuild the country’s"
+    publishedDateTime: 2021-04-05T17:39:00Z
+    webUrl: "https://www.mercurynews.com/2021/04/05/kamala-harris-returns-to-oakland-to-tout-infrastructure-jobs-plan/"
+    ampWebUrl: "https://www.mercurynews.com/2021/04/05/kamala-harris-returns-to-oakland-to-tout-infrastructure-jobs-plan/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/05/kamala-harris-returns-to-oakland-to-tout-infrastructure-jobs-plan/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/AP21095651805111.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
     excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
     publishedDateTime: 2021-04-05T19:41:00Z

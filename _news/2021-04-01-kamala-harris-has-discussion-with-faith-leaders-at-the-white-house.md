@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris has Discussion with Faith Leaders at the White House"
-excerpt: "U.S. Vice President Kamala Harris holds a roundtable discussion with faith leaders on their efforts to encourage communities to take the COVID-19 vaccine at the White House on Wednesday, March 31, 2021 in Washington, DC. Photo by Yuri Gripas/UPI Featured ..."
+excerpt: "U.S. Vice President Kamala Harris holds a roundtable discussion with faith leaders on their efforts to encourage communities to take the COVID-19 vaccine at the White House on Wednesday, March 31, 2021 in Washington,"
 publishedDateTime: 2021-03-31T19:12:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/b271040e4167263b2aefe673909db5c8/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/b271040e4167263b2aefe673909db5c8/Kamala-Harris-has-Discussion-with-Faith-Leaders-at-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4e56b0fb5b3e3fff8cf9ebf74f303165/HARRIS-FAITH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/b271040e4167263b2aefe673909db5c8/HARRIS-FAITH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -328,6 +328,6 @@ related:
         height: 331
         isCached: true
 
-secured: "NjNeGOyQP2Gyg3UPS2Ba82WoJcdrcJBylWbaDRDhKNUq3o/yEDA/Vqs3dWBLn5bAgnrff0njEdkjvsOKqgdCbmT/NWmHq/ZK4U9thHJ0Pko6p1PcmibwUmhzY45HVTqddIl9n5JK7f612XrrVspedbGgn1yT4BWuh+bwkUEOhBpaRyvw9Cl9p0Qf0KgZekXqomSw51N2FspgfkryVvatlQskeEe0w8/ctzdRC9fu/Ogf818HNnSF1WvWMrNbXmGA2vmJFVCX2XrPUj7UV4Xp/xJ9DXwxtoR1vdX5CCpD7YrlMWllMu5zXrQZoajSw2jC28w9MhtBsOyNlhXXtiE64ozSmFiEC6+w2oV4F63uZaNUTAB3fwA3bB1raqRwhFA6vxADaMzbOlCtUlgwQ+gm7V9J4cFcgGYv81JQytjSlw5a9wpMyqyfH91VezuDZkLuSBwdk9/6FoCG0LmTnfDJOj5hYnutgxPkImzBxRQG5NQf7N2242ECzSKGz6t3elZ9YrOSbRnqGQ4d2nPPf2DZYQ==;N2gknUO55B8TQwF7/BfjgQ=="
+secured: "8NmzUgb0B1dPsb9b7V373dRQmJfphaZOZBAjcqzBRXAHfRvW0aCGOkUAjC3IykGRmGodjhU/iktSlzlp9p+flSLlsJq2HeTorq7B6uzi9otO76UgFyLN1EV/tlzMXqJTZPPFNk36yLNPL0zTXzIWhwCZphDyL+05BnSWbb9z0lmZdQmYEwnl1p+HhFX1WFv/z/eaLv4NxPaWtWSUM0hWKNd/DMn0RQwhu4167NSWX8OI9kGR/+sg5kA8GAXfzDMBI4nJwveavlApfYO0mWo/ANa4iuUse/5keXnZJehMoTFaqppDAKKiujAXi/vay73t7z5VKewsOtud5HyM7F3BAA972ijWonkSyUnZVUFdys0=;zW5nlhXBcsPoyy4Ivhu+EQ=="
 ---
 

@@ -31,21 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. 'Open' to First Direct Talks With Iran Since Trump Left Nuclear Deal 3 Years Ago"
-    excerpt: "The United States has said it is open to holding its first official, direct talks with Iran since former President Donald Trump left a nuclear deal between the Islamic Republic and major world powers three years ago. Following virtual discussions on Friday ..."
-    publishedDateTime: 2021-04-02T15:25:00Z
-    webUrl: "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687"
-    ampWebUrl: "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1"
+  - title: "The staggering scale of the Trump campaign’s opt-out fundraising scheme"
+    excerpt: "That’s what the Trump campaign did, too, except instead of a “sign me up for your hourly newsletters,” the checkboxes focused on encouraging people to demonstrate their fervent support for former president Donald Trump — by making their one-time ..."
+    publishedDateTime: 2021-04-05T20:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIPFG7OWPRCMVDX44YIPVUIDCM.png&w=1440"
+        width: 1440
+        height: 573
+        isCached: true
+  - title: "Trump 'money bomb' scheme raised millions from unwitting donors – report"
+    excerpt: "Practice that used pre-checked boxes and obscure design on fundraising emails condemned as ‘unethical and inappropriate’ Last modified on Sat 3 Apr 2021 15.45 EDT Donald Trump’s 2020 presidential campaign used pre-checked boxes and obscure design on ..."
+    publishedDateTime: 2021-04-03T18:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/7c3b94345e7d9c1981e5298fee284a4497087e54/0_125_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7aba3783a09ff47a21884a828bfcfa9"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme"
+    excerpt: "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ..."
+    publishedDateTime: 2021-04-04T15:23:00Z
+    webUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952"
+    ampWebUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
     quality: 118
     images:
-      - url: "https://d.newsweek.com/en/full/1770282/us-iran-flags-united-nations.jpg"
-        width: 2500
-        height: 1779
+      - url: "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Former JPMorgan executive quits board of company that collected data for Trump 2020 campaign"
+    excerpt: "Blythe Masters, a former top executive at JPMorgan Chase, is quitting the board of Phunware, a company that created a controversial voter data collection app for Donald Trump's 2020 re-election campaign."
+    publishedDateTime: 2021-04-01T21:42:00Z
+    webUrl: "https://www.cbsnews.com/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/01/a95746b1-61b8-487b-b467-7cb8ae7444ca/thumbnail/1200x630/d299cf992ee40f5014c04fd6ddf08d9d/img-aic-2021-blythe-masters.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Supreme Court dismisses as moot case questioning Donald Trump's blocking of critics on Twitter"
+    excerpt: "WASHINGTON – Now-former President Donald Trump may have had about 89 million followers on Twitter before the platform suspended his account, but the Supreme Court apparently isn't interested in how he got along –or didn't–with some of them."
+    publishedDateTime: 2021-04-05T13:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/05/trump-tweets-supreme-court-wont-hear-case-blocking-users/6059714002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6059714002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6059714002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/aa7e541d-70a9-4935-a1b2-02312e9b3ffb-AP_Skilled-Worker-Visas-Lawsuit.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus"
+    excerpt: "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ..."
+    publishedDateTime: 2021-03-31T10:54:00Z
+    webUrl: "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/6064514b6183e1001981972d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "ShzV/7rplG/Vpquts/+EnTq1JH8V/FuP4KOgKlTjzLD1Fb4kqSGQCqpsN3PQZztJdJUa2+B82lqQERe1aiCBM5vha2GKzaW7gb3moOzkzpNm06wuRVyQb9UtoGKDA5fyvA7SOomceqsyPwc+GYi6ESt4Ft8dsftjjpCTzE6PhYxFqL8bKx2J00XOTQQm7UuRuOOLHVw46M3ILAiTTMmPAgwdWdtFYMlx0EoZS+Zppm5R0k0tOUdNWxySxtBl7pR81u394rZ/ENgVZlNLbYTiYMm9hVdIEsG1a2SV+MGi+2FnxYFjshd2yTaIO/RJkrGZ1AKvN3VchUxFIyjw3FVIezpOQuC6j6miO9XjyhEGhNDQuQyF/sArBtAytMBTpDu2/dF/YFNeb3M2Q2hVJRd4g5SeCw6JsRFata3dMG1QRK7iFFJmscU49qGv+3YLlkD0nCH0u1+PekeUhWeLWDLsKtqGRd2YlOwiGU0Sw73AMmAKP3kiH7XuieQJT5hNPFJvNz6DcsjVct12Z0DNJe8FrQ==;Qk8ZGJT7NB0bArhVAX2YHQ=="

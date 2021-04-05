@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-hed-strongly-support-mlb
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/KEMP-CROP-2.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Georgia Republican name-drops Biden, says voting law should be more restricted like Delaware"
+    excerpt: "A Georgia lawmaker is proposing that his state align its voting laws with New York and Delaware's more restrictive regulations, an admitted \"political stunt\" designed to rebuke criticism from President Biden,"
+    publishedDateTime: 2021-04-05T20:52:00Z
+    webUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14a5ffe4-1a84-4ae0-a7cc-e01e93474179/7ef0499b-9c47-4f44-bcbc-ea6f95267440/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xTFh3zINLnZWSPMKPNo5sX8Acc5D7uJx1Yh4prgGYWCRrNvmaMnu6E4vqKhzZULdnimQNdW1xjJDIcTrMjc35E2mlsfRZZBXUoSHqhSjr+rTWDXJ1wCfpatL/epA3ghxSEsvkG9hRov2sXU6c8zD/K1u78TxDoMeq0eB42MQHnrM9+ZOLzwQd/24wE7XSpsX5Hp+hOJSZAdHtKWC5oVeu1W6j7nA8lCgHv2+NduhvecIqut0Cb8fUf7+wnMy14ahImudt+aLzPcHMj/xeB1VtJa7W2wgVscHbyzCwkAMyzAhBCZAmelulznV30km46VRW0Ge9PbT5uxORDy/ovCSrWcgTvuDxdWxq2VlsimS5fk=;KBHY34JUdKd2np+q4s712A=="

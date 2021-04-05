@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-ne
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump pushes back on NYT story on campaign refunds"
+    excerpt: "Former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports will backfire on ..."
+    publishedDateTime: 2021-04-05T20:11:00Z
+    webUrl: "https://thehill.com/homenews/campaign/546545-trump-pushes-back-on-nyt-story-on-campaign-refunds"
+    ampWebUrl: "https://thehill.com/homenews/campaign/546545-trump-pushes-back-on-nyt-story-on-campaign-refunds?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546545-trump-pushes-back-on-nyt-story-on-campaign-refunds?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Be at peace, meditate, Trump Buddha statue designer tells former president"
     excerpt: "XIAMEN, China (Reuters) - Chinese furniture maker Hong Jinshi first created a couple of pint-sized statues of former U.S. President Donald Trump meditating in a Buddhist pose as a fun project for himself last year. Slideshow ( 4 images ) Six months on ..."

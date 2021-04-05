@@ -92,6 +92,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Supreme Court Dismisses Case on Trump Blocking Twitter Followers as Moot"
+    excerpt: "As a plaintiffs lawyer applauds precedent of lower-court ruling against ex-president, Justice Thomas criticizes Twitter’s permanent ban of Trump after Jan. 6 riot at Capitol."
+    publishedDateTime: 2021-04-05T18:46:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-320508/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Pentagon to allow open transgender military service, reversing Trump policy"
     excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
     publishedDateTime: 2021-03-31T20:50:00Z

@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Supreme Court Dismisses Case on Trump Blocking Twitter Followers as Moot"
+    excerpt: "As a plaintiffs lawyer applauds precedent of lower-court ruling against ex-president, Justice Thomas criticizes Twitter’s permanent ban of Trump after Jan. 6 riot at Capitol."
+    publishedDateTime: 2021-04-05T18:46:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-320508/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "/1T4j4R1iKNvDMGaZGX2FDo36CpeT+Q/D3ZsSRCriouQ+7MVOpURXNbuQ06pyW6n+aSCRNed79ypLevc0tly4/A8GfWzgSVcDc/n3pLV9MVM3TYFUX0crfrkViR9XnUHtqufMxrYnMbGGZHn7bdEjLX0HLQdCuN/Jahx0mmnwn2aRE9o+Em5h85r+O3LZDZDPgRgnnsUmiql8Ge+gVrYy4fRLiZhJz5/OVN+Q8xuEkLt1OLuGWpIGrTQGBgpPDnUg3G2Kd+Pf1K3ATABoQcgf71adKJXfxkUOI5MZy0OxZZ2zK3WME20MTz7XJi1WIBkj5rMYjS55ME8xfMJL0spkNrbjZp6fY5xJwnhP6VE/5U=;OWaaE5zCNoWAFWpB9g3VAw=="
 ---

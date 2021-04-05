@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nomin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
 type: article
 quality: 178
-heat: 1038
+heat: 1058
 published: true
 
 provider:
@@ -526,6 +526,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/03/us/politics/03onpolitics-pm-newsletter/03onpolitics-pm-newsletter-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Two Dem senators balk at Biden's new spending plan"
+    excerpt: "Joe Manchin wants his party's leaders and President Joe Biden to make significant changes to their sweeping new tax-and-spend legislation — and he’s got other Democratic senators with him. The West Virginia Democrat is readying for his second act after ..."
+    publishedDateTime: 2021-04-05T19:12:00Z
+    webUrl: "https://www.politico.com/news/2021/04/05/manchin-biden-spending-plan-479058"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/05/manchin-biden-spending-plan-479058"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/05/manchin-biden-spending-plan-479058"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/cd/cd/349d988a409cb1f5786a36238521/ap21070753566064.jpg"
+        width: 4500
+        height: 2998
         isCached: true
   - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
     excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."

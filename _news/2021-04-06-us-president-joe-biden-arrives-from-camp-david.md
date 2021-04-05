@@ -265,6 +265,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "White House press secretary says Biden hasn't 'ruled out' canceling up to $50,000 in student debt"
+    excerpt: "Psaki was asked what President Joe Biden's stance on the issue is after his chief of staff, Ron Klain, recently said Biden is looking into his \"legal authority\" to use executive action for such a move. Biden's press secretary reiterated his willingness to ..."
+    publishedDateTime: 2021-04-05T20:58:00Z
+    webUrl: "https://www.businessinsider.com/biden-student-debt-50k-executive-order-rule-out-psaki-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-student-debt-50k-executive-order-rule-out-psaki-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-student-debt-50k-executive-order-rule-out-psaki-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/606b5ff6a7d803001963ecc9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "North Korea's Kim calls U.S. 'our biggest enemy' in challenge to Biden"
     excerpt: "North Korean leader Kim Jong Un called for more advanced nuclear weapons and said the United States is \"our biggest enemy,\" state media said on Saturday, presenting a stark challenge to President-elect Joe Biden just days before he takes office."
     publishedDateTime: 2021-01-09T09:02:00Z
