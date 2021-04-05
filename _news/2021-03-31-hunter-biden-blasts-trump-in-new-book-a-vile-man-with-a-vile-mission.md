@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 940
+heat: 960
 published: true
 
 provider:
@@ -584,6 +584,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210403&i=OVE6Z3X0F&r=OVE6Z3X0F&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Biden willing to push through infrastructure without GOP"
+    excerpt: "[NFA] U.S. President Joe Biden would be willing to push through his $2 trillion infrastructure plan without the support of Republican lawmakers if he cannot reach a bipartisan deal, Energy Secretary Jennifer Granholm said on Sunday."
+    publishedDateTime: 2021-04-05T00:12:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPoAh?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/606a4bb6e4b0653eea1854ab-1617578934636?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Watch: Trump Uses Wedding Speech To Attack Biden; Asks Crowd 'Do You Miss Me?'"
     excerpt: "... The wedding reception took place at Trump's Mar-a-Lago golf resort in Florida The former president repeated false claims about widespread fraud during the 2020 election Former President Donald Trump on Saturday used a wedding speech at his Mar-A-Lago ..."

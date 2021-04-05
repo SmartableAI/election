@@ -1,33 +1,31 @@
 ---
 category: news
-title: "New York attorney general probes Trump Organization's CFO"
-excerpt: "who has handled former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo 'regrets' not making more progress with North Korea Biden sets off ..."
-publishedDateTime: 2021-04-02T01:12:00Z
-originalUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo"
-webUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo"
-ampWebUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
+title: "Biden willing to push through infrastructure without GOP"
+excerpt: "[NFA] U.S. President Joe Biden would be willing to push through his $2 trillion infrastructure plan without the support of Republican lawmakers if he cannot reach a bipartisan deal, Energy Secretary Jennifer Granholm said on Sunday."
+publishedDateTime: 2021-04-05T00:12:00Z
+originalUrl: "https://www.reuters.com/video/watch/idPoAh?now=true"
+webUrl: "https://www.reuters.com/video/watch/idPoAh?now=true"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg"
-    width: 980
-    height: 551
+  - url: "https://ajo.prod.reuters.tv/api/v2/img/606a4bb6e4b0653eea1854ab-1617578934636?location=LANDSCAPE"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -335,6 +333,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "New York attorney general probes Trump Organization's CFO"
+    excerpt: "who has handled former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo 'regrets' not making more progress with North Korea Biden sets off ..."
+    publishedDateTime: 2021-04-02T01:12:00Z
+    webUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo"
+    ampWebUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden orders flags flown at half-staff in the wake of Capitol attack"
     excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden may find zero GOP support for jobs plan Republicans don't think Biden really wants to work with them Lack of cyber funds in Biden ..."
     publishedDateTime: 2021-04-02T21:16:00Z
@@ -585,20 +599,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Biden willing to push through infrastructure without GOP"
-    excerpt: "[NFA] U.S. President Joe Biden would be willing to push through his $2 trillion infrastructure plan without the support of Republican lawmakers if he cannot reach a bipartisan deal, Energy Secretary Jennifer Granholm said on Sunday."
-    publishedDateTime: 2021-04-05T00:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPoAh?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/606a4bb6e4b0653eea1854ab-1617578934636?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Watch: Trump Uses Wedding Speech To Attack Biden; Asks Crowd 'Do You Miss Me?'"
     excerpt: "... The wedding reception took place at Trump's Mar-a-Lago golf resort in Florida The former president repeated false claims about widespread fraud during the 2020 election Former President Donald Trump on Saturday used a wedding speech at his Mar-A-Lago ..."
     publishedDateTime: 2021-03-29T03:59:00Z
@@ -678,6 +678,6 @@ related:
         height: 675
         isCached: true
 
-secured: "xTyW/wekmqsG1xu5VwDwEeSjwakvM5kmHMTxbCsmFp9pqSSm9oWZUosxOb7INRH838cKccjqpMn3w30rCghGFHDKt+8XXWKdVPPLRZkRDwCauLqnM1WE/B5JYnhH7X6qXFjR0n+bQe/jjmAyMzSOZLdGSEtLlvmNSZrcKvDawJ9VBDw+1h3vnryIhCCxkS65o8/y5Wu+7kmJlm7b6pSd87qugpWDgrNGeo7imgH122OoRHoYg2Hi5UN7Mc3ZDMr0Ju6TAjdwpjNT61fUUZr9UReeEFY/oAlarXMy8z7Q7bDHeqrVBOA2u9OA4VTMzQG8WWpRoShBnm7ROso/uiYrt+MknVs1rfSnNEeKZGfLsGwxkDqalmljItHOXh6/X2MsbV5q888/6gN7gyvaP44mUSHMYEKiX2Pt0NTPFOGjZMbd3ZfLy67H07fspxe2Rxlj3EyLwsTbwMXOfe5tihkfT4NIfaJwYBqhlB/zXVOhSObhDZm7UIG1CSYIFBE+Ac/4L958daSDD5N+64RBbjeLWQ==;0SXVsLi+PhZ8F3rGGoicLw=="
+secured: "iU4uzDIDuzMdgh7/EdaxlaYqpG519w0nLsvBIhCnojF6s//HWVeU76g8OD9BgHHkkFBuqB4JnE0FqyHMuv0HJY2GKcnvCURA8DrH9yWVIz+epWFKWUpHGfBCxus9VAOwrim/oIur7Mmtgu1kv70OyMdL7HNbRmSnj/f+tL0aTAZ78S4RRLftsmlLAj23CGQ7e9Iq9dcQKbNaYB2Vrqf1pE3EQs91+d4MA7jKeozQU1+10m6zxIXAmmapOJGvOAdtUdYqvK4AHN4F7cn94GR7DVZOfcHWKmTPBo5f+fXgXjEFeU1eNmJ956DVgbYbyl8pFH/EmFW/IAYm4kOJKZ2gxwPqb+ABNr49twXErl085Xc=;sD/nj0lKdqxI/7QHIhGzmw=="
 ---
 
