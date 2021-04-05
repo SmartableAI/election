@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/546301-trump-rages-over-election-c
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp"
 type: article
 quality: 140
-heat: 220
+heat: 240
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4IDRPHTVJII6VLM3EVHMTGMTXQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Melania Trump Sends 'Easter Blessings To Everyone,' Attends Easter Service With Husband Donald"
+    excerpt: "Melania Trump tweeted an Easter Sunday message for her followers Her supporters returned her Easter greeting, while others mocked the former first lady over her post She and husband Donald Trump ..."
+    publishedDateTime: 2021-04-05T01:48:00Z
+    webUrl: "https://ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "h9YOkW0x3P4d4KwSMnddtwj5s0P0kENbCw9uUYSSfYTio2P0Y/+lbym4n5UB7kiW8gCapSGFGjBCtyB9iNIdseU9olwtVvx3KtSfBlHgHSMotaSOAwWrfs9bYA5YJGbATsOL6X9cGOhecgSWTtxtH9bDK1qK/mLpgH7uztrQ/gus1y99J1JSAdKf7CHagCZKIxkFJ9YUJdGZTkh/zEWGlUh3cMwvLWwB970kgiXfLxPqOv6RdOE1tewArJMuYJo4m6+HhcvalKWNA5kZN/mR4wrkrgRHwBrF4OLUWhveooyVoNX/cH8knRLijRX4SltikBRCmT4zgSz0TZcrkQlpcoS9AnMdLrFbIIvivdUfni6MLRF4WuE3A9Wk9Rr72NQ4p6ceywzAh8KG1xIHkebJ9rVGOxCcwsxO+N35nT45+jiHsO4jGbZd16IM+ruHY0QWtCbvUc5UX/kP9jbyubaRUOUtDiy95yns/zv57PWqJU4YYuQLZANW+1zxOIy77p4w2J8JdzibjJuBycUhC3Iz1Q==;/fiC4HQXVpFagPFsiKF9bg=="

@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Melania Trump Sends 'Easter Blessings To Everyone,' Attends Easter Service With Husband Donald"
+    excerpt: "Melania Trump tweeted an Easter Sunday message for her followers Her supporters returned her Easter greeting, while others mocked the former first lady over her post She and husband Donald Trump ..."
+    publishedDateTime: 2021-04-05T01:48:00Z
+    webUrl: "https://ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "/Falygwr/I0KfC2jFYSEbhOZn8hoSCAzohxbBen/eoTrTUSPG7axeSm+iPGri0Gm6t24YdAEzBb4pGAketTG1pMCvIZHKp67DYTU/hCvphdaWDtWhf8eNRGFWsRrC5KeFZdq6DRdso1veT9SZZ+ehMlirESD78MmgwDzQMtYgKSfcQHJc8RjH9p7gb8IlBDxVtsYcY/CSxQSvfPAWopWWRDv1GpfTZcxONseukj4wCl8oEKDD2/wI9VGyDUeHWzD/5a6Z86TEjoDHqr4jce3Dq+UhPryPgAIGYXC6fIE683QATZ0QXNU6Pxda4wB+fkERHIV7pj49iePM13vvuald4zapQU6FhGs/GzYk6hpCiKkEZmYdIMUJpsVKnOqDb28zgDIufvU/vDvAZc9ITxS/eKa+BcBijo655bcNdugGt9vqT5v6P1SpGa3DBbdD/cPPg8U5s2a8xvdM34hwbbDJJK+w0ihOibkQiefXMByT7j8n/UorCoWihCl/t0B7SN0fL4+09Ty4xo7PXQa0Yho9A==;DtLHdXD+cn2aMVPA4rCytA=="
 ---

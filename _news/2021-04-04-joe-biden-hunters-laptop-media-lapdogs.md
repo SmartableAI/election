@@ -3,10 +3,10 @@ category: news
 title: "Joe Biden, Hunter's Laptop & Media Lapdogs"
 excerpt: "They date back to last October and are part of the scandalous information contained on a laptop abandoned by"
 publishedDateTime: 2021-04-04T10:50:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/04/04/joe_biden_hunters_laptop_amp_media_lapdogs_539674.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/04/04/joe_biden_hunters_laptop_amp_media_lapdogs_539674.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/04/04/joe_biden_hunters_laptop_amp_media_lapdogs_539674.html"
+webUrl: "https://www.realclearpolitics.com/2021/04/04/joe_biden_hunters_laptop_amp_media_lapdogs_539674.html"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/53/539634_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Biden HHS ad campaign mirrors Dem super PAC ads"
@@ -37,6 +43,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Wt/T74eobj6POekmmPDqjnh/c/oqla29ipnY2BYmSqsJmItmxpxqV9BDtU9Y1A9xzFz20EWmnLGXFgzlOp5GjM7QrX3q/xBaEvpwOmHjkCZ1Q6I2R8vPRtQ5b9gJkUaFkALhfnLPxMHjSXYIWaTB/dTpwsy+220YwUbO+bNWpW1fYyVwUsdQMy0j9TKQDt9rxrqdJfYXU8qCIhPDsig2Xn5bgEgCd4nOJEf3BX9OLyaaD40tCyehZMnM6z+WLv1ill9d40bGW1+6f6PHYhRuqqQPQ8C2Fs/pG+2oD35AX6q5OqlJCfKdciVr6KTRbwGZi19xneT7ovdwUHfXg2jQkz/SdJY7Hms98wfLOAxNzvQ=;iZ91npXlcQXKcQff5ykbpA=="
+secured: "Muua/AZ39iFhfuir2Kmwccjk0LHLYwTp6iVC/3e0psYI/zcit1+wIoomrKlCM3jaLza17cgu7QhciQIYIppTK/jOwD8ek2dZo0qwero4fMZ3GD6SPh4Wg7uiUXfqPh4Z6RIRYATXxcb+qMQyrqW7lChEthrLNXOsdOc2ntHdizqGE88MdNe7ZIW2gFXur1E2qAgjkYTqwXxCUO3Xt4hZUSHv87QM0q3TKPBYsjNFioXdEx+uzb0khR6e1tiNydtbk3chOwSHHYfpUlq/StHJnr0zD82F8VCXJG0x5VCvu+yH8TdhBcpjKL6Gqzo8zA2uQg19dQz+C4f5yjW/DMsxWohnSQqvCldCIVqNDXwHCp8=;B8+pEW7k/ts5FJC6TK78fw=="
 ---
 
