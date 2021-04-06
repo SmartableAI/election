@@ -153,6 +153,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Arizona attorney general invites Kamala Harris to go on border tour"
+    excerpt: "Arizona Attorney General Mark Brnovich has invited Vice President Kamala Harris to take a tour of the border this month, saying she needs to get a first-hand look at the situation she’s been put in charge of solving. Ms. Harris has laughed off ..."
+    publishedDateTime: 2021-04-05T00:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/5/mark-brnovich-arizona-ag-invites-kamala-harris-go-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/5/mark-brnovich-arizona-ag-invites-kamala-harris-go-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/5/mark-brnovich-arizona-ag-invites-kamala-harris-go-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/17/electioneering_claims-governor_cleared_65439_c0-172-2970-1904_s1200x700.jpg?361ae3e60c9646611919956b68ed22b6c3d3fc5f"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris moving into residence at Naval Observatory next week, spokeswoman says"
     excerpt: "Vice President Kamala Harris and her husband, second gentlemen Doug Emhoff, will move next week into their new home at the U.S. Naval Observatory in Washington, D.C., her spokeswoman said Thursday. Symone D. Sanders, the vice president’s senior adviser ..."
     publishedDateTime: 2021-04-01T20:17:00Z

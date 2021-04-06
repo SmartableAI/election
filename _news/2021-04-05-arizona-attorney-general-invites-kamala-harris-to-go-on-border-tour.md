@@ -1,27 +1,29 @@
 ---
 category: news
-title: "What's for lunch, Vice President Kamala Harris? Sally's Apizza"
-excerpt: "NEW HAVEN — What does Vice President Kamala Harris eat for lunch when she comes to New Haven? Sally’s Apizza — or at least that’s what she and/or her entourage ate Friday. Not Pepe’s. Not Modern. Not Zuppardi’s, Ernie’s, Roseland, Abate or Bar."
-publishedDateTime: 2021-03-26T20:18:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/What-s-for-lunch-Vice-President-Kamala-Harris-16056443.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/What-s-for-lunch-Vice-President-Kamala-Harris-16056443.php"
+title: "Arizona attorney general invites Kamala Harris to go on border tour"
+excerpt: "Arizona Attorney General Mark Brnovich has invited Vice President Kamala Harris to take a tour of the border this month, saying she needs to get a first-hand look at the situation she’s been put in charge of solving. Ms. Harris has laughed off ..."
+publishedDateTime: 2021-04-05T00:01:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/apr/5/mark-brnovich-arizona-ag-invites-kamala-harris-go-/"
+webUrl: "https://www.washingtontimes.com/news/2021/apr/5/mark-brnovich-arizona-ag-invites-kamala-harris-go-/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/5/mark-brnovich-arizona-ag-invites-kamala-harris-go-/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/5/mark-brnovich-arizona-ag-invites-kamala-harris-go-/"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/17/24/30/20792890/5/rawImage.jpg"
-    width: 800
-    height: 600
+  - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/17/electioneering_claims-governor_cleared_65439_c0-172-2970-1904_s1200x700.jpg?361ae3e60c9646611919956b68ed22b6c3d3fc5f"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -151,22 +153,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Arizona attorney general invites Kamala Harris to go on border tour"
-    excerpt: "Arizona Attorney General Mark Brnovich has invited Vice President Kamala Harris to take a tour of the border this month, saying she needs to get a first-hand look at the situation she’s been put in charge of solving. Ms. Harris has laughed off ..."
-    publishedDateTime: 2021-04-05T00:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/apr/5/mark-brnovich-arizona-ag-invites-kamala-harris-go-/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/5/mark-brnovich-arizona-ag-invites-kamala-harris-go-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/5/mark-brnovich-arizona-ag-invites-kamala-harris-go-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/17/electioneering_claims-governor_cleared_65439_c0-172-2970-1904_s1200x700.jpg?361ae3e60c9646611919956b68ed22b6c3d3fc5f"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "VP Kamala Harris, HHS open drive to inspire Americans to take COVID-19 vaccine"
     excerpt: "RELATED Pfizer says COVID-19 vaccine 91% effective after 6 months As part of the launch, Vice President Kamala Harris and Surgeon General Vivek Murthy met with founding members on Thursday. The campaign will include public health experts such as the ..."
     publishedDateTime: 2021-04-01T17:09:00Z
@@ -259,6 +245,20 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "What's for lunch, Vice President Kamala Harris? Sally's Apizza"
+    excerpt: "NEW HAVEN — What does Vice President Kamala Harris eat for lunch when she comes to New Haven? Sally’s Apizza — or at least that’s what she and/or her entourage ate Friday. Not Pepe’s. Not Modern. Not Zuppardi’s, Ernie’s, Roseland, Abate or Bar."
+    publishedDateTime: 2021-03-26T20:18:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/What-s-for-lunch-Vice-President-Kamala-Harris-16056443.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/24/30/20792890/5/rawImage.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
     excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
     publishedDateTime: 2021-03-28T06:36:00Z
@@ -344,6 +344,6 @@ related:
         height: 331
         isCached: true
 
-secured: "CShIwajFZx6fD55FcW5XVWzQtxJB4JWsI5EDq/j961zudAvtwH9IEW+UJweiZRLtgvm8iSFJC5jq5rvWJOGl3N0jCuGJ/J7tZbpmcVhQRaFYjspBdHk863ZOTmiYIyhZojrsEfDru784sQIFTFyzwtrWFbZzd7FgHGUVkYVRmpOPpuYRi661CEnnlM6mtXJNCsvI13exqckuTFLXwH9i+EF1xLwI0dHK1KO7EY60WczQzkIp4+u/PiHnz1k/2AuqVYTPZBYH7oGmLbGIGIMNGKaTsAOEAkJQ3VOb6sqGpXVmhMVcb7OOs+L3rr6BAWIdasrnXL+6t2HnJ/06mZtzNhXLNMixVeq5LGJHK9h4IYg=;9VjJg3A2qoJJFrfBLRYCVg=="
+secured: "c72/okRinyOwsegUMYnA9MS2j63H16dLKnbHMOA/MLdg1wDFqBcUkWd5tUzWUSj04FeXdqA/92ERpDUvB6QmDVOOMJ0f+w6nibcGG3/2V8HUXmTjlawTFw0QGkNHMALzeSMNzqlCPlwVVT1Pb72Onf4Z87ii4do4OVGjB24S7T4/roimzLlyr76LU/iqhhAfdvrqiX9eR6be17q2nnddu0mIORex0QTEB/TdKbRQYB9GTA4UZ2+YGlnRGmJOoB0L9BOoUa090ZoGMHiy/YlRi+6p2+cTd7B4Qyf8pmfgORxMcSJ6igkIv3OPWWO/Jc82dafdJ46pOczmxA9biHjel/JB5VrFNjguSFLX1N84e7g=;8qJY6Gy71Flhoeq0s5b9fQ=="
 ---
 

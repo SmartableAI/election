@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden Welcomes Immigrants At Naturalization Ceremony: \"Thank You For Choosing Us\""
-excerpt: "PRESIDENT JOE BIDEN: Every immigrant comes to America from different circumstances, and for different reasons. But you all have one thing in common: courage. The courage it takes to sacrifice and make this journey. The courage to leave your homes ..."
+excerpt: "The White House released the new Biden version of the video that will play to welcome new U.S. citizens at naturalization ceremonies on Monday. \"First and foremost, I want to thank you for choosing us and believing that America is worthy of your aspirations,"
 publishedDateTime: 2021-04-05T18:47:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/05/biden_welcomes_immigrants_at_naturalization_ceremony_thank_you_for_choosing_us.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/05/biden_welcomes_immigrants_at_naturalization_ceremony_thank_you_for_choosing_us.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/05/biden_welcomes_immigrants_at_naturalization_ceremony_thank_you_for_choosing_us.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/05/biden_welcomes_immigrants_at_naturalization_ceremony_thank_you_for_choosing_us.html"
 type: article
 quality: 60
 heat: -1
@@ -107,6 +107,6 @@ related:
         height: 320
         isCached: true
 
-secured: "Q2IE7e/uqinJly0Ik90hGpBJIJovFeQ0D1yiJd9tL5fXs/gJb862GqfocXAI1Fhnc7PfEAORq6rAsIMuVjmSlI3jqF1GrwBEZIk7Cghdy/11FAu3w2yLS+ypiDbXrRZHnKkurug83S9/IENjdx0nqIgqjdFam34+fuSp3bieNcqa+/mytC7aGJCLmWMINJTs1YGahWyXjHFWTDdeREa6hZGXLKVkSA6yfKf55S0AOb2ztx7oiH+FdII2TKbpf8rJxvjML0KdhGSLYccbOLS68Fy5pFAQ2UdbJEVbl6/FdBQ3ZGDSHrH98BwAIrXgC7eRTtt+bAOZCm+ztUf+zvcotPc7O0JqkrDg1tHCHSXdUqPjHKmHumCrwEKgprKB4K1SUTORsnC6wtvW2fNUco2sD0s83d+5daXQxlYDmsRmtcVGFLE1eE29uzzZHKVQxMLFMe5iUu3T2Wiu/Ghp0altu6uJAZsbvcv6FDOz6cjOVBqS/hWLEi+PBX794RASkZkVXUuw6diN3CgM6CFVyVz/+g==;qHxNC0LXu4xDtMmnScLJpw=="
+secured: "Mv+B9rSZ20541MJZZPSXln+CkXH2Ei5sN4rCWvGGYCm5M0ZRq2xEUJocb/8MBYFxVWJdJu/bVvLksd20p5jNDII83bM5rR/kYaBoothXnZqi6Ap4VlfNlawKTMciTl6X/3Wi/R9miin5Dle/bg5m/4NzadJ3fU45sNqM0sl8CBAKBbwYV82P7wn7acl0BWn55/B3SGNxVQF/YMkRGvfKE/CnqFV53s4tITR7BWw+Dmv9DotMwyZ8ZXjP5cTmjoeX7BJSqoa+sklmid8qcrR/p4g12RhJFqKFTvOj8VYERslIiKnuD/dL+eoS+yeqvQi1/KGzRDX5Nvc7mqwlrkbPz9vuiYzz+JKMgIwaEBnkHaw=;hdNNzG6s8mquNXqlCGRG6g=="
 ---
 

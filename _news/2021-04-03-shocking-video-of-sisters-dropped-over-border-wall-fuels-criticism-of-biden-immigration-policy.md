@@ -97,9 +97,9 @@ related:
         height: 320
         isCached: true
   - title: "Biden Welcomes Immigrants At Naturalization Ceremony: \"Thank You For Choosing Us\""
-    excerpt: "PRESIDENT JOE BIDEN: Every immigrant comes to America from different circumstances, and for different reasons. But you all have one thing in common: courage. The courage it takes to sacrifice and make this journey. The courage to leave your homes ..."
+    excerpt: "The White House released the new Biden version of the video that will play to welcome new U.S. citizens at naturalization ceremonies on Monday. \"First and foremost, I want to thank you for choosing us and believing that America is worthy of your aspirations,"
     publishedDateTime: 2021-04-05T18:47:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/05/biden_welcomes_immigrants_at_naturalization_ceremony_thank_you_for_choosing_us.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/05/biden_welcomes_immigrants_at_naturalization_ceremony_thank_you_for_choosing_us.html"
     type: article
     provider:
       name: RealClearPolitics
