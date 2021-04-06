@@ -3610,6 +3610,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris Seeks $2M for Her Washington, DC, Condo"
+    excerpt: "Since being sworn in to the nation's second-highest office, Vice President Kamala Harris has been selling off her real estate. Harris put her tony Washington, DC, condo on the market for $1,995,000 this week."
+    publishedDateTime: 2021-04-06T20:13:00Z
+    webUrl: "https://www.chron.com/realestate/article/Kamala-Harris-Seeks-2M-for-Her-Washington-DC-16081167.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/36/44/20834622/3/rawImage.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "VP Kamala Harris visits a Covid-19 Vaccination Facility in Washington, DC"
     excerpt: "United States Vice President Kamala Harris speaks during a visit to a COVID-19 vaccination facility in an effort to promote the administration's plan to promote vaccinations in areas hit hard by the virus,"
     publishedDateTime: 2021-02-25T15:39:00Z

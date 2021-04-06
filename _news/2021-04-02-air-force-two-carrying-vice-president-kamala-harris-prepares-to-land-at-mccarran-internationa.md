@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vice President Kamala Harris to visit Chicago next week to discuss equitable distribution of COVID-19 vaccine"
-    excerpt: "Vice President Kamala Harris will visit Chicago on Tuesday to talk about equitable distribution of the COVID-19 vaccine, according to the White House. It’s her first official visit here since she and President Joe Biden were inaugurated. In rolling out ..."
-    publishedDateTime: 2021-04-01T03:24:00Z
-    webUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/w4JNZVIqZX0LrYozGoPmn2UnRig=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WI5A4JNE2CBALGRAM2V4LHPXRY.aspx"
-        width: 1200
-        height: 759
-        isCached: true
   - title: "'SNL:' Maya Rudolph, Martin Short play Kamala Harris, Doug Emhoff"
     excerpt: "Saturday Night Live alum Maya Rudolph returned to guest host the sketch-comedy series this weekend. Rudolph reprised her role of Kamala Harris, vice president of the United States, while comedian and former SNL star Martin Short made a surprise appearance as Harris' shy,"
     publishedDateTime: 2021-03-28T16:43:00Z
@@ -183,17 +167,6 @@ related:
         width: 1200
         height: 782
         isCached: true
-  - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
-    excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
-    publishedDateTime: 2021-04-06T14:22:00Z
-    webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 49
 
 secured: "qsEi1EnihVvjrC8Q5DEdt5Wm9tked54ZK9tmqZz+v08vwu+XOE5u2J72TQpiPrFPzyUsHFvuI4578LrA23vmGPByGOj3d0vuQPssUqbyn/gUXX/bTQhXYd6BudIhpRuNdsfAezSN5bGgXXLLGb8f4g+CyYwkEH+jqXqFrcqqbeRUCZDO60T/n4B81r2TP5rYfXrAqN2d7IMqO4BmZRW6YwVfXRyCJsMib/pDIQOdb4XsDnwFF7X/jPd5Iz5MhXl/gQXdFqn+JlnZH6kFc+FCOlk6xlSFuGDSRBVgrb+bPDXISyR9h0sSeLfPqTb6+utkxoHq9W7oWoLltM1KE5A7ltWCJWVW1CxbD7nk9UlSyko=;WEHRMnJr5xR3MQNWogfbVA=="
 ---

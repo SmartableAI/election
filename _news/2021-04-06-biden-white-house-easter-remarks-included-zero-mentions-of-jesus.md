@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-easter-remarks-white-hous
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-easter-remarks-white-house-jesus-mentions.amp"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hunter Biden lost business after revelation of affair with brother's widow Hallie"
-    excerpt: "\"I made a lot of decisions that I probably shouldn't have made,\" Hunter Biden said in a recent interview."
-    publishedDateTime: 2021-04-04T16:24:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZyapbF7wz4/hunter-biden-hallie-business-affair-world-food-program"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1230697183.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Hunter Biden says he has no ‘recollection’ of encounter with ex-stripper whose child he fathered"
     excerpt: "Hunter Biden, in his forthcoming memoir \"Beautiful Things,\" writes he \"has no recollection\" of an encounter with a stripper from Arkansas who gave birth to their child in 2018. "
     publishedDateTime: 2021-04-05T14:47:42Z

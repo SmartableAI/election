@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-22-cpac-2014-trump-compares-obamas-disapproval-rating-to-carters.md",
+      "title": "CPAC 2014: Trump compares Obama's disapproval rating to Carter's",
+      "excerpt": "Addressing CPAC in Oxon Hill, Maryland, real estate magnate-turned-reality TV star Donald Trump claimed that President Obama is turning out to be worse than former President Jimmy Carter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/cpac-2014-trump-compares-obamas-disapproval-rating-to-carters/",
+      "originalUrl": "https://www.cbsnews.com/video/cpac-2014-trump-compares-obamas-disapproval-rating-to-carters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/4e23eae5-a7fb-4320-80a7-d9b4d25ca390/thumbnail/1200x630/5246c015c4d1c805406987e92c06bee6/politics-trump-306-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-21T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns.md",
       "title": "Morning mail: NSW floods worsen, Australia exports 'negative climate policy', Trump returns",
       "excerpt": "After reviewing policies and procedures, Buckingham Palace has acknowledged that “more needs to be done”. Recently Donald Trump has released short, combative statements that many observers have likened to his tweets of old. Photograph: John Raoux/AP ...",
@@ -1514,63 +1566,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-trump-credits-washington-post-for-correcting-georgia-election-report-im-very-happy-they-had-the-courage.md",
-      "title": "Trump credits Washington Post for correcting Georgia election report: I'm 'very happy' they 'had the courage'",
-      "excerpt": "Former President Trump gave credit to The Washington Post after it was forced to issue a major correction on a report about a phone call he had with and Georgia elections investigator Frances Watson.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-washington-post-correction-georgia",
-      "originalUrl": "https://www.foxnews.com/media/trump-washington-post-correction-georgia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d925ce6-0c35-409d-bc00-1b4ed3b7dac7/6dbbe175-d652-468f-944b-810e9ff95a7a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-washington-post-correction-georgia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-washington-post-correction-georgia.amp",
-      "publishedDateTime": "2021-03-16T17:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

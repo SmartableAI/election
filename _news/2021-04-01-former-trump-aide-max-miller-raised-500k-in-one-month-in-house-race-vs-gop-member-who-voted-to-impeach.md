@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
 type: article
 quality: 159
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Former Trump HUD Appointee Fined for Hatch Act Violation"
+    excerpt: "A former Trump administration appointee to the U.S. Department of Housing and Urban Development admitted she violated the Hatch Act by using her position to produce a video about conditions in New York City public housing for the Republican National ..."
+    publishedDateTime: 2021-04-06T19:21:00Z
+    webUrl: "https://www.wsj.com/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
+    ampWebUrl: "https://www.wsj.com/amp/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-321171/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "TS2/Cpr+vE5xhqF2UmGOFMY6WR+Zb3V/mmYmeTtnvcbUOHjDWDjzm2c6Y1UbhQwTAb4fGQY/6qmMqWs+X+v702EaqiDLdPHV/GqAuFfJRu7o6G+pgq/XCogxTIzcLZ1odtRmR4VFgDyr2wgbo5D13zhpRRHXtT5/qwcm5tpk331+f+7MKq8/cizca3udc5ZR5ND6ZT0D1cOTgmwP5i8AHCi6keL6w+yQiiQOO5j8wMcCaTiNAmdsF3Htf7UQA8A+X7sLXFXf69PkyQzZOXf7HoakK3u3oXqAnAONoGkAk24rnuv3qzUp7ZYijs9jjJ86Z0sbz3JrmcK4xC5mmb0WHtPUtbhI0GVRU5yafQ1uhmU=;Fn0fxo2Xqpf7ErnRk7JLhA=="
 ---

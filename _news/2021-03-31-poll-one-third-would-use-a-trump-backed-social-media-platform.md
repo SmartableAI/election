@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-th
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 116
     images:
       - url: "https://s.abcnews.com/images/International/trump-jan6-gty-rc-210305_1614953461904_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Former Trump HUD official fined and barred from federal employment for violating Hatch Act"
+    excerpt: "A former political appointee under the Trump administration has been disciplined ... and Urban Development to support former President Donald Trump's reelection campaign, the U.S. Office of ..."
+    publishedDateTime: 2021-04-06T20:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-hud-official-fined-barred-federal-employment-violating/story?id=76904289"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-hud-official-fined-barred-federal-employment-violating/story?id=76904289"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-hud-official-fined-barred-federal-employment-violating/story?id=76904289"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/Politics/lynne-patton-01-gty-jc-210406_1617734469618_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

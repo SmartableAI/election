@@ -2,6 +2,118 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-11-mcconnell-trashes-bidens-covid-relief-package-as-multitrillion-dollar-trojan-horse.md",
+      "title": "McConnell trashes Biden's COVID relief package as 'multitrillion-dollar Trojan horse'",
+      "excerpt": "Senate Republican leader Mitch McConnell is lambasting President Biden's $1.9 trillion COVID relief package that Democrats passed through Congress along party-line votes as \"a multitrillion-dollar Trojan horse.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2t84hFapu0k/mcconnell-biden-covid-relief-package",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2t84hFapu0k/mcconnell-biden-covid-relief-package",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp",
+      "publishedDateTime": "2021-03-11T10:52:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.md",
+      "title": "Pelosi-Milley phone call about ‘unhinged’ Trump is target of Judicial Watch lawsuit",
+      "excerpt": "House Speaker Nancy Pelosi’s January phone call with U.S. Army Gen. Mark Milley, chairman of the Joint Chiefs of Staff -- in which Pelosi raised concerns about what she described as an \"unhinged\" President Trump -- is now the subject of a Freedom of Information Act (FOIA) lawsuit.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT1wQWKY4X4/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT1wQWKY4X4/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pelosi-milley.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.amp",
+      "publishedDateTime": "2021-03-11T01:47:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-trump-takes-credit-for-china-virus-vaccine-i-hope-everyone-remembers.md",
       "title": "Trump takes credit for 'china virus' vaccine: 'I hope everyone remembers!'",
       "excerpt": "Former President Trump touted his administration's efforts obtaining a COVID-19 vaccine, arguing that without him, Americans wouldn't receive a vaccine for years.",
@@ -1540,120 +1652,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees.md",
-      "title": "Microsoft, Wells Fargo Satisfied Trump Labor Department on Hiring More Black Employees",
-      "excerpt": "The Labor Department under the Trump administration closed inquiries last year after the two companies responded to questions about their plans to hire more Black staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
-      "originalUrl": "https://www.wsj.com/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-307730/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
-      "publishedDateTime": "2021-03-05T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-lincoln-projection-former-adviser-to-disgraced-anti-trump-pac-calls-gop-the-ultimate-grift.md",
-      "title": "Lincoln Projection: Former adviser to disgraced anti-Trump PAC calls GOP 'the ultimate grift'",
-      "excerpt": "Former Lincoln Project senior adviser Kurt Bardella appears to have no issue with throwing stones from glass houses, as he recently accused the Republican Party of becoming the \"ultimate grift.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
-      "originalUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
-      "publishedDateTime": "2021-03-05T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

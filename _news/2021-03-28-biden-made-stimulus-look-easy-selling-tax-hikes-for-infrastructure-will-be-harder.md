@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration projects ongoing need for shelter capacity for migrant children"
+    excerpt: "The Biden administration will need to continue to build up bed capacity and drastically reduce the time it takes to release unaccompanied migrant children to a sponsor like a parent or relative in the US to avoid backlogs in Border Patrol facilities in the coming months, according to internal government"
+    publishedDateTime: 2021-04-06T21:28:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4UGuYlzHG5Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/us-mexico-border-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/us-mexico-border-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402143317-01-mexico-us-border-0322-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "With an eye on history, Biden moves on big, bold and progressive infrastructure package"
     excerpt: "Every day he works from the Oval Office, President Joe Biden stares across from his desk at the portrait of Franklin Delano Roosevelt he selected to hang above his fireplace.\n    \n"
     publishedDateTime: 2021-03-30T23:57:04Z
@@ -558,6 +574,22 @@ related:
       - url: "https://static.politico.com/cd/cd/349d988a409cb1f5786a36238521/ap21070753566064.jpg"
         width: 4500
         height: 2998
+        isCached: true
+  - title: "'Smarten up': Biden admonishes states' restrictive voting laws"
+    excerpt: "President Joe Biden says that it is reassuring to see corporations speak up about restrictive voting laws and admonished states that are pushing new measures that make voting more difficult."
+    publishedDateTime: 2021-04-06T21:28:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/06/joe-biden-georgia-voting-laws-smarten-up-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/06/joe-biden-georgia-voting-laws-smarten-up-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/06/joe-biden-georgia-voting-laws-smarten-up-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406172321-joe-biden-april-6-2021-04-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden Urges Action on Gun Control After 2 Mass Shootings in Less Than a Week"
     excerpt: "The president called for a ban on assault rifles and high-capacity ammunition magazines before flying to Ohio, where he had planned to promote the stimulus package. The Senate confirmed Shalanda D. Young as deputy director of the Office of Management and Budget and Dr."

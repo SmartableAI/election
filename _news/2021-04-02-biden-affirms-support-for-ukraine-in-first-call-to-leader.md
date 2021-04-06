@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -48,9 +48,9 @@ related:
         height: 360
         isCached: true
   - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
-    excerpt: "Joe Biden is now touring a vaccination site in Alexandria, Virginia, where he will soon deliver an update on vaccine distribution in the US. The president told one of the employees at the vaccination site, located at the Virginia Theological Seminary ..."
-    publishedDateTime: 2021-04-06T17:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c7d9d8f08098d4e056432"
+    excerpt: "White House press secretary Jen Psaki was asked whether Vladimir Putin has confirmed his attendance to Joe Biden’s climate summit later this month. Bloomberg News reported today that the Russian president is making plans to attend the virtual summit."
+    publishedDateTime: 2021-04-06T18:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c8a0b8f08098d4e05651c"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
     type: article
@@ -59,7 +59,7 @@ related:
       domain: theguardian.com
     quality: 121
     images:
-      - url: "https://i.guim.co.uk/img/media/a77da5d15e3310643e78095fbbf0dbe303834a43/0_99_5307_3184/master/5307.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fd62229786e5cf0c86525e5fbceff2f"
+      - url: "https://i.guim.co.uk/img/media/c94bc3ce8b8e6da02323a2e4df87408b1e0c4f6c/0_158_4652_2792/master/4652.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c6c7b6781ad3305d641682f77ca4ad21"
         width: 600
         height: 360
         isCached: true
@@ -76,6 +76,22 @@ related:
     quality: 115
     images:
       - url: "https://d.newsweek.com/en/full/1771203/president-joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Joe Biden Remains Firm On July 4 Goal Despite Moving Up Deadline For Adult COVID Vaccinations"
+    excerpt: "President Joe Biden praised the accelerated vaccination in the United States — where a record four million shots were administered in a single day on Saturday— but his administration hasn't backed off his goal of having enough people vaccinated for an ..."
+    publishedDateTime: 2021-04-06T21:01:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-remains-firm-july-4-goal-despite-moving-deadline-adult-covid-vaccinations-1581473"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-remains-firm-july-4-goal-despite-moving-deadline-adult-covid-vaccinations-1581473?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-remains-firm-july-4-goal-despite-moving-deadline-adult-covid-vaccinations-1581473?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1772280/joe-biden.jpg"
         width: 2500
         height: 1667
         isCached: true

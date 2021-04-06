@@ -217,6 +217,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Kamala Harris visits Chicago"
+    excerpt: "Vice President Kamala Harris visits a COVID-19 vaccination site at the International Union of Operating Engineers Local 399 Union Hall on April 6, 2021 in Chicago. Harris stressed the importance of getting vaccinated to union members receiving the vaccine at the hall."
+    publishedDateTime: 2021-04-06T20:20:00Z
+    webUrl: "https://www.chicagotribune.com/news/ct-viz-kamala-harris-chicago-visit-photos-20210406-zpwx3zllvbhpdhkdcxy6ml3lim-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bKE8X5PUmNsbJto4eN8Y39v1RIY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/33N5CXL3DNBKHD7AGLPDHBVIP4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Choice of Alex Padilla for Kamala Harris' Senate seat shakes up California politics"
     excerpt: "As Vice President-elect Kamala Harris resigns from the Senate, California Governor Gavin Newsom has named the state's attorney general, Alex Padilla, to fill the seat. Sophia Bollag, a politics reporter covering the Newsom administration at the Sacramento Bee,"
     publishedDateTime: 2021-01-18T20:58:00Z

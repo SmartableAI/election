@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 1086
         isCached: true
+  - title: "Former Trump HUD official fined and barred from federal employment for violating Hatch Act"
+    excerpt: "A former political appointee under the Trump administration has been disciplined ... and Urban Development to support former President Donald Trump's reelection campaign, the U.S. Office of ..."
+    publishedDateTime: 2021-04-06T20:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-hud-official-fined-barred-federal-employment-violating/story?id=76904289"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-hud-official-fined-barred-federal-employment-violating/story?id=76904289"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-hud-official-fined-barred-federal-employment-violating/story?id=76904289"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/Politics/lynne-patton-01-gty-jc-210406_1617734469618_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In 2016, Trump activated low-turnout Whites. In 2020, he may have done the same with Latinos."
     excerpt: "Florida was one of the first states to report results, and the numbers in heavily Hispanic Miami-Dade County, which Hillary Clinton won by nearly 30 points in 2016, showed Joe Biden leading Donald Trump by a much narrower margin. The shift held ..."
     publishedDateTime: 2021-04-02T14:19:00Z

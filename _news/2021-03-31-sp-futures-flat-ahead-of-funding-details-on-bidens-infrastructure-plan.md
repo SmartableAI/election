@@ -143,6 +143,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden says he has not spoken with Fed Chair Powell"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that he has not spoken to Federal Reserve Chair Jerome Powell, calling the central bank an independent agency."
+    publishedDateTime: 2021-04-06T19:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-federal-reserve-idUSKBN2BT2SK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2SK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2SK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351DY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Democrat: Biden infrastructure plan needs more funding for affordable housing"
     excerpt: "Democratic Rep. Ritchie Torres (N.Y.) on Sunday criticized President Biden Joe Biden Lawmakers say fixing border crisis is Biden's job Trump calls for Republicans to boycott companies amid voting ..."
     publishedDateTime: 2021-04-04T16:15:00Z

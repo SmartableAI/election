@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden lost business after revelation of affair with brother's widow Hallie"
-    excerpt: "\"I made a lot of decisions that I probably shouldn't have made,\" Hunter Biden said in a recent interview."
-    publishedDateTime: 2021-04-04T16:24:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZyapbF7wz4/hunter-biden-hallie-business-affair-world-food-program"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1230697183.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Hunter Biden claims he doesn’t know if laptop is his, reveals father once chased him during drug intervention"
     excerpt: "Hunter Biden in a pair of interview clips released Friday claimed that he does not know whether the laptop first reported on by the New York Post during the presidential campaign was his, and revealed that his father, President Biden, once chased him down the family's driveway as he tried to escape an"
     publishedDateTime: 2021-04-02T14:30:50Z

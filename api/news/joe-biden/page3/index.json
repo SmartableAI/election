@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-16-undocumented-immigrants-see-light-of-hope-in-biden-relief-plan-which-gives-aid-to-their-us-born-children.md",
+      "title": "Undocumented immigrants see 'light of hope' in Biden relief plan which gives aid to their U.S.-born children",
+      "excerpt": "Undocumented workers were mostly left out of past COVID relief. Biden's $1.9 trillion plan would open that door through payments to their children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/11/PNJM/56b66752-bcca-4b40-b322-99f5b37ab7d2-jl_MORENO_FAMILY_31121_01.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4709977001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4709977001",
+      "publishedDateTime": "2021-03-15T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-biden-shots-in-arms-and-money-in-pockets.md",
       "title": "Biden: ‘Shots in Arms and Money in Pockets’",
       "excerpt": "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans.",
@@ -1507,58 +1559,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-biden-facing-resistance-in-congress-courts-gop-governors.md",
-      "title": "Biden, facing resistance in Congress, courts GOP governors",
-      "excerpt": "Biden is spending at least as much time courting Republican governors as he is wooing the senators he needs to pass legislation in Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3R4GDTW3II6XFJXJFQVRTC73E.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-25T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden expected to move up deadline for adults to be eligible for vaccines"
-    excerpt: "President Biden is expected to announce Tuesday that he is moving up the date for adults to become eligible to receive a COVID-19 vaccine by April 19."
-    publishedDateTime: 2021-04-06T15:58:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bCq8B4EwCI/biden-covid-vaccine-eligibility-adults-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccine-eligibility-adults-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccine-eligibility-adults-deadline.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden administration will not require COVID-19 vaccine passports, White House says"
     excerpt: "The White House said Tuesday that the Biden administration will not support a system requiring Americans to carry so-called COVID-19 \"vaccine passports,\" press secretary Jen Psaki said Tuesday."
     publishedDateTime: 2021-04-06T17:55:30Z
@@ -94,20 +78,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28a5b8a0-0106-4568-b113-06ec9d3d7f96/a36165bf-9d2d-4f1f-ad18-bd48814f2c11/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Hunter Biden Whitewashes Almost Everything in Tell-All"
-    excerpt: "As addiction memoirs go, Hunter Biden's Beautiful Things is remarkable in one great sense: As poorly as he comes across, it's his father, President Biden, whose character takes a hit. The Joe Bid…"
-    publishedDateTime: 2021-04-04T19:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/04/hunter_biden_whitewashes_almost_everything_in_tell-all_539678.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/529429_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "v3yjBdeyZOzMYs7uMmR+ARVkENFb+K+B7Caq0S5ejIcZbKRb6b6RIGJHDOuQgwrerVY/SY3zWfopcVU76yLZJ2AdsICEA+Aj74bLlugQtjbAAzJ5VJLjlpyU/bn8iwaDE2ZGnj2htyUYpjNMAw9AV4aFVrKd7I90HQLSA2C/evhxX6bvj22eVBmnebPDcrlkianIlNETezC3c69FQbePA7/hltNgeyDFW3FySnaSJ3sISiZkTWTPQKqgLzeZoA0xx+WVDUZrYzlDTm1btbUUSHm9SAG/GjG7rXz3RHsZysm0MqMdwWozN+bzxUiQkX95vUMPetMwOo9kWEjQJXP7Oel1/AkE/0Ofq2lkCwHs8is=;v9JXETFszhspL9oEebE7KA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-we
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp"
 type: article
 quality: 175
-heat: 475
+heat: 455
 published: true
 
 provider:
@@ -251,15 +251,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden's Border Crisis"
-    excerpt: "Democrats and the liberal media are policing the words we should use to describe the absolute catastrophe we're witnessing each day at the southern border. They don't like crisis or surge."
-    publishedDateTime: 2021-04-05T12:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/05/joe_bidens_border_crisis_539734.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "pQZkSVckRPRe5KR+oP/jYbHc2feTS/85xaHzAi7NpimpGTsDFFVO6DtTQz0p3AOYLpbP1Mb4FGxFgokHnLe03HHn4IFR5U5zdnj04Wg0VejMwMTFTys3zVCGWDto7a0wm3dtkOTbjz81L91VTpPZWkQA1HIs/NF5Vj2RV06RJMNkGHhpiDHm/JMp5dEFTjVB+cxFYyx+ye7FUF0mT23XD1wu4yp5RIh9acCrNSHtpqw4691bFoSUo04xeE48mHFFURwJvuHfsKf5pHKWNAJlY0zV9arjdae55l5vM9d4Cs12J0nB/W1E/4zD1z436xzivuTYL4ApiXj0TI5mpzEeAmCUNhvcF/RJCYPPgYMFoGY=;+3LlS2NQ+HYbOiNUSX0o6Q=="
 ---

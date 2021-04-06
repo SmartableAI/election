@@ -110,6 +110,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
+    excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."
+    publishedDateTime: 2021-04-06T18:42:00Z
+    webUrl: "https://www.cnn.com/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 108
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "JQGlVI3HCrqDCjsgydya1PowfYF9h7Cu659gfB8oXPY/807+J//KinFai+agW6gORX0SgBPSLQY1fY077zPKZBRr1PFobeA0X56m76iGnnHVa22HdesEwwBsWAuJ7z0cI3WtK4GovqOZP5ji/OktOaLQ/BoAstpYV1nXYiwdCphIfqJF4y62BHxQYAyPWrV2p0/71BEE0PbF2Q+pB7mD86va/TQvRAqKuOQg9cF/jDHFVtsatijqrItED2S8yAeInIvO/QgqEdZBcET5cZHqEdAGshsfakV04syaWvFRum+jL699Y6Y8GSwueDzrQQumDY++B6ut98xe56oyqfoxSfZe+lYCtKfcESG1+e4VFwvUlSWuoUVa3KYL4ZaHnzGh/cFQpFrDzdJ8C+FCiHQumVEtt6XmfEgrLdWnUXE0E4KHRUEDJi9xujDPZduNnyiVIlueRmha2vehqHgd58MXYhCg6C85BJQdt2xY6tYQRkGov18jQXxm47ohgH3RfjNYy0meE13MRRJk1cpeKkC1yg==;H/sjbzdBAGaHqnP1fqJ/9Q=="
 ---

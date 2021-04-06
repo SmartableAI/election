@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "‘Momentous error’: Italian businessman mistakenly blacklisted by Trump to sue"
+    excerpt: "Alessandro Bazzoni, who owns a graphic design company in Sardinia, has been unable to trade since 19 January, when his business was slapped with sanctions as part of the Trump administration’s crackdown on blacklisted Venezuelan crude oil. In a case of ..."
+    publishedDateTime: 2021-04-06T18:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error?share=twitter"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/77075f50416d6dfd7c52865ed208c33f15ee696b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4cb2879f6959f413724f182ed9e8d11"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump's last blunder. Small pizzeria in Italy sanctioned instead of a Venezuelan oil exporter."
     excerpt: "Two Italian businesses, a Verona pizzeria and a graphic design studio in Sardinia, were put on a Venezuela sanctions list by mistake."
     publishedDateTime: 2021-04-03T10:36:00Z

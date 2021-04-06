@@ -36,22 +36,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Progressives ramp up pressure on Biden to forgive student loan debt"
-    excerpt: "Progressives are ramping up the pressure on President Biden to forgive student debt relief as Education Secretary Miguel Cardona investigates the administration's legal authority."
-    publishedDateTime: 2021-04-05T16:38:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EW1dYAUoWyE/biden-cancel-student-debt-50000-progressive-pressure"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Sean Hannity: Biden administration waging ‘all-out assault’ on American principles"
     excerpt: "President Biden and the Democrats are attempting to destroy American values, \"Hannity\" host Sean Hannity said."
     publishedDateTime: 2021-04-02T02:58:52Z
@@ -175,22 +159,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Biden-green-thumb.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Joe Biden's Bid to Remake America"
-    excerpt: "If Joe Biden's American Jobs Program, outlined in Pittsburgh, is enacted, then the federal government will take a great leap forward toward"
-    publishedDateTime: 2021-04-02T10:46:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/539501_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "+zDq3iDajHH2+tbYZv4CCnLIuv+sa/3Y8/e35qg0uUXErwqo9AQ3vnY8a50m1ByKg6si/nOPHbQ/NQ9LxbKi3NI0HQHWa2h2cNR0x9dw3zPuGrpMcD8ImzmxFRpkcSV+PeGeMceEwvlh8VSgc/tsnPNTPDgGFdgowgz1HhpL/IkxW9HWRkB72AVWe8ka6dAEgMDd1Ti0aOWeA6lpG57uM/cZkzEa1/cZ6iS6ocZGlCAxjsRwGj/WRJANPc207XfjULT/BCZQZC7DviD9iVW7WY5kN2lHwZEC/1KqU+F6l0uhN/oqa3D5y8VmH1RasirVDQItlxkT+54Sso/CAyS7lV4RxQvIateUOk5susVdwsU=;MEWKDZm0OS5PyCu4Je3H+Q=="

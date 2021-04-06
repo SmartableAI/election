@@ -207,6 +207,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Kamala Harris visits Chicago"
+    excerpt: "Vice President Kamala Harris visits a COVID-19 vaccination site at the International Union of Operating Engineers Local 399 Union Hall on April 6, 2021 in Chicago. Harris stressed the importance of getting vaccinated to union members receiving the vaccine at the hall."
+    publishedDateTime: 2021-04-06T20:20:00Z
+    webUrl: "https://www.chicagotribune.com/news/ct-viz-kamala-harris-chicago-visit-photos-20210406-zpwx3zllvbhpdhkdcxy6ml3lim-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bKE8X5PUmNsbJto4eN8Y39v1RIY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/33N5CXL3DNBKHD7AGLPDHBVIP4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'Representation is important:' Local South Asian-Americans react to Kamala Harris' inauguration as vice president"
     excerpt: "Kamala Harris may be the first woman to serve as vice president of the United States, but her inauguration last week also marked the first time an American of South Asian descent was elected to such a high national office."
     publishedDateTime: 2021-01-26T23:37:00Z

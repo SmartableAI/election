@@ -111,22 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden convenes Cabinet meeting amid border crisis, spending bill push"
-    excerpt: "President Biden held his first Cabinet meeting on Thursday from the East Room at the White House as his administration grapples with the crisis at the U.S. southern border and as officials push a $2 trillion spending bill through Congress."
-    publishedDateTime: 2021-04-01T18:15:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5IVfWQ2FvLY/biden-first-cabinet-meeting-border-crisis-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden judicial nominee would be first Muslim federal judge in US history"
     excerpt: "President Biden on Tuesday nominated Judge Zahid N. Quraishi to be a federal judge on the U.S. District Court for the District of New Jersey, a move that would make the Army veteran the first-ever lifetime-appointed Muslim federal judge if confirmed. "
     publishedDateTime: 2021-03-30T18:43:35Z
@@ -287,22 +271,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
-    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
-    publishedDateTime: 2021-03-31T19:13:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pd3yOTcRUpQ/biden-break-up-voting-bill-manchin"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Cruz demands Biden allow media access to border facilities, after seeing 'inhumane' conditions"
     excerpt: "EXCLUSIVE: Sen. Ted Cruz, R-Texas, on Sunday called on President Biden to open up media access to border facilities where unaccompanied migrant children are being held, after no reporters were allowed on a lawmakers' tour of a facility – and Cruz himself was challenged for taking pictures."
     publishedDateTime: 2021-03-28T17:07:44Z
@@ -363,22 +331,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
-    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
-    publishedDateTime: 2021-03-31T19:18:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jen-Psaki-Biden-Tax-Hike-Infrastructure-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Panetta's Assessment of Biden's First Days"
     excerpt: "Joe Biden is off to an auspicious start with passage of his $1.9 trillion COVID Relief bill, has made excellent appointments, and generally has struck the right tone. Now is when trouble is likely."
     publishedDateTime: 2021-03-30T13:16:00Z
@@ -390,34 +342,6 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/53/539152_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden's Weakness On World Stage Is Dangerous"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-03-30T18:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/30/bidens_weakness_on_world_stage_is_dangerous_539365.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539202_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Joe Biden Is About to Lock Up a Lot of Black People"
-    excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial \"equity\" it's been hyping."
-    publishedDateTime: 2021-04-01T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539402_5_.jpg"
         width: 750
         height: 500
         isCached: true

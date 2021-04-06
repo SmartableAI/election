@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden breaks with Trump and says he'll stick up for Federal Reserve's independence"
+    excerpt: "An envelope. It indicates the ability to send an email. President Joe Biden said on Tuesday he would safeguard the independence of the Federal Reserve, breaking with his predecessor, Donald Trump, who often tried pressuring the central bank to lower the ..."
+    publishedDateTime: 2021-04-06T21:30:00Z
+    webUrl: "https://www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 134
+    images:
+      - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Exclusive: Biden wants to keep Trump policy that boosted armed drone exports - sources"
     excerpt: "WASHINGTON (Reuters) - The Biden administration wants to keep a controversial Trump policy that jump-started sales of armed drones to countries whose human rights records are under scrutiny in the United States and elsewhere, according to sources familiar ..."
     publishedDateTime: 2021-03-25T14:13:00Z
@@ -158,6 +174,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1768815/jill-biden.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "The Trump White House provided reporters with a gusher of leaks. With Biden, everything’s changed."
+    excerpt: "No such thing anymore. The Trump administration says it doesn’t tolerate leakers, but President Trump’s White House is one of the leakiest in modern history. (Victoria Walker/The Washington Post) Since then, the pipeline has gone dry. When the $1.9 ..."
+    publishedDateTime: 2021-04-06T19:56:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/media-biden-leaks-trump-white-house/2021/04/06/a8e53e8a-93f5-11eb-9668-89be11273c09_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/media-biden-leaks-trump-white-house/2021/04/06/a8e53e8a-93f5-11eb-9668-89be11273c09_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/media-biden-leaks-trump-white-house/2021/04/06/a8e53e8a-93f5-11eb-9668-89be11273c09_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 126
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZXDHQCUQWEI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "N Korea confirms missile tests as Biden warns of response"
     excerpt: "North Korea on Friday confirmed it had tested a new guided missile, as President Joe Biden warned of consequences if Pyongyang escalates tensions amid stalled nuclear negotiations. The North’s official Korean Central News Agency said the two “new-type tactical guided projectiles” accurately hit the target off the eastern coast on Thursday."
@@ -463,6 +495,38 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Refugee families urge Biden to keep promise to up admissions"
+    excerpt: "SAN DIEGO — The families of refugees and their supporters, including 124 elected officials, sent President Joe Biden a letter Tuesday urging him to make good on his promise to boost refugee admissions to the United States during the current budget year ..."
+    publishedDateTime: 2021-04-06T20:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/refugee-families-urge-biden-to-keep-promise-to-up-admissions/2021/04/06/d854b298-9712-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/refugee-families-urge-biden-to-keep-promise-to-up-admissions/2021/04/06/d854b298-9712-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugee-families-urge-biden-to-keep-promise-to-up-admissions/2021/04/06/d854b298-9712-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Senate gives Biden a big tool to work around GOP filibuster"
+    excerpt: "WASHINGTON — With a powerful new tool, Senate Majority Leader Chuck Schumer has fresh options for potentially advancing President Joe Biden’s infrastructure package and other priorities past Republican obstruction in the 50-50 split Senate. Support our ..."
+    publishedDateTime: 2021-04-06T21:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/health_care/senate-gives-biden-a-big-tool-to-work-around-gop-filibuster/2021/04/06/5e373910-971f-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/health_care/senate-gives-biden-a-big-tool-to-work-around-gop-filibuster/2021/04/06/5e373910-971f-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/health_care/senate-gives-biden-a-big-tool-to-work-around-gop-filibuster/2021/04/06/5e373910-971f-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z
@@ -494,6 +558,22 @@ related:
       - url: "https://thehill.com/sites/default/files/pelosinancy_031821gn8_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden's infrastructure plan gets boost from Senate 'reconciliation' ruling"
+    excerpt: "Biden to unveil massive infrastructure plan The White House on Tuesday insisted that there is a \"bipartisan path forward\" on passing President Joe Biden's sweeping and costly infrastructure plan ..."
+    publishedDateTime: 2021-04-06T20:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-infrastructure-file-ap-jef-210406_1617738056863_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "U.S. House tax chief offers partial support for Biden infrastructure tax plan"
     excerpt: "WASHINGTON (Reuters) - U.S. Representative Richard Neal, the top Democrat for tax policy in the House, offered only partial support on Thursday for President Joe Biden’s plan to finance his $2 trillion infrastructure plan by raising taxes on corporations."

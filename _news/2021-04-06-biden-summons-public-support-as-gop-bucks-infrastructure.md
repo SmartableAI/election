@@ -127,6 +127,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden says he has not spoken with Fed Chair Powell"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that he has not spoken to Federal Reserve Chair Jerome Powell, calling the central bank an independent agency."
+    publishedDateTime: 2021-04-06T19:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-federal-reserve-idUSKBN2BT2SK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2SK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2SK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351DY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z

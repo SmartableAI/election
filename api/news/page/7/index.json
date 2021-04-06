@@ -2,6 +2,213 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-28-pence-to-headline-benefit-dinner-at-faulkner-university.md",
+      "title": "Pence to headline benefit dinner at Faulkner University",
+      "excerpt": "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur at the Renaissance Hotel and Convention Center on Oct.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php",
+      "publishedDateTime": "2021-03-28T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-snls-kamala-harris-hosts-ted-cruz-for-unity-seder.md",
+      "title": "SNL's Kamala Harris hosts Ted Cruz for 'Unity Seder'",
+      "excerpt": "and Kamala Harris Kamala Harris 5 immediate migration management steps for Kamala Harris White House names members of environmental justice panel Biden 'doesn't care' what Trump does at border ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder",
+      "originalUrl": "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 545,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/mayarudolph_0811.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp",
+      "publishedDateTime": "2021-03-28T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-analysis-why-bidens-marijuana-stance-is-10-years-behind-the-curve.md",
+      "title": "Analysis: Why Biden's marijuana stance is 10 years behind the curve",
+      "excerpt": "President Joe Biden and the federal government are behind the times on marijuana reform.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SXwIj_180RE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SXwIj_180RE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325160346-biden-press-conference-0325-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/28/politics/biden-marijuana-policy-analysis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/biden-marijuana-policy-analysis/index.html",
+      "publishedDateTime": "2021-03-28T05:03:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-former-trump-chief-of-staff-calls-ex-presidents-capitol-riot-claims-manifestly-false.md",
+      "title": "Former Trump chief of staff calls ex-President's Capitol riot claims 'manifestly false'",
+      "excerpt": "The former chief of staff to ex-President Donald Trump on Saturday pushed back against his former boss' recent attempt to whitewash the history of the January 6 Capitol riot.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210327183851-mick-mulvaney-january-6-riot-trump-comments-intv-nr-vpx-00001330-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html",
+      "publishedDateTime": "2021-03-27T17:19:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-maine-gop-rejects-censure-of-sen-susan-collins-after-her-vote-to-convict-trump.md",
       "title": "Maine GOP rejects censure of Sen. Susan Collins after her vote to convict Trump",
       "excerpt": "The Maine Republican Party's state committee on Saturday rejected a censure measure against Sen. Susan Collins, following her vote earlier this year to convict former President Donald Trump in his Senate impeachment trial.\n    \n",
@@ -826,7 +1033,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 715,
+      "heat": 615,
       "tags": null,
       "images": [
         {
@@ -1147,230 +1354,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-us-to-resume-diplomatic-ties-with-palestinians-that-were-cut-under-trump.md",
-      "title": "US to resume diplomatic ties with Palestinians that were cut under Trump",
-      "excerpt": "The US will resume diplomatic ties with Palestinians that were cut under the Trump administration, the US ambassador to the United Nations, Linda Thomas-Greenfield, told the Security Council Thursday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DZvE_ovFllw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DZvE_ovFllw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319143652-linda-thomas-greenfield-0301-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/us-palestinians-diplomatic-ties-two-states/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/us-palestinians-diplomatic-ties-two-states/index.html",
-      "publishedDateTime": "2021-03-25T13:07:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-biden-warns-north-korea-of-responses-if-they-continue-to-test-ballistic-missiles.md",
-      "title": "Biden warns North Korea of 'responses' if they continue to test ballistic missiles",
-      "excerpt": "President Joe Biden warned that there would be \"responses\" if North Korea continues to fire ballistic missiles following the hermit kingdom's second launch in less than a week.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4rDx2lKKbg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4rDx2lKKbg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325134844-09-biden-presser-0325-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/north-korea-joe-biden-warning/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/north-korea-joe-biden-warning/index.html",
-      "publishedDateTime": "2021-03-25T12:38:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-biden-says-gop-state-voting-legislation-makes-makes-jim-crow-look-like-jim-eagle.md",
-      "title": "Biden says GOP state voting legislation makes 'makes Jim Crow look like Jim Eagle'",
-      "excerpt": "President Biden said Republicans’ state voting legislation \"makes Jim Crow look like Jim Eagle\" during his first formal press conference on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgYpejoL8dI/biden-gop-state-voting-legislation-jim-crow-jim-eagle",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgYpejoL8dI/biden-gop-state-voting-legislation-jim-crow-jim-eagle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-gop-state-voting-legislation-jim-crow-jim-eagle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gop-state-voting-legislation-jim-crow-jim-eagle.amp",
-      "publishedDateTime": "2021-03-25T11:55:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-biden-says-he-cant-picture-us-troops-being-in-afghanistan-next-year.md",
-      "title": "Biden says he 'can't picture' US troops being in Afghanistan next year",
-      "excerpt": "President Joe Biden said he \"can't picture\" US troops being in Afghanistan next year.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MEdkK3g2TPU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MEdkK3g2TPU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325134844-10-biden-presser-0325-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html",
-      "publishedDateTime": "2021-03-25T11:44:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

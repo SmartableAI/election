@@ -2,6 +2,274 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-02-suicides-fell-by-2600-in-2020-despite-donald-trumps-lockdown-warnings.md",
+      "title": "Suicides Fell by 2,600 in 2020, Despite Donald Trump's Lockdown Warnings",
+      "excerpt": "Suicides dropped in 2020 amid the COVID-19 pandemic despite former President Donald Trump warning that lockdowns would inspire \"suicides by the thousands\" and cause deaths \"in far greater numbers than the numbers that we're talking about with regard to the virus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585",
+      "originalUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1769526/covid-19-lockdowns-suicide-rate-donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585?amp=1",
+      "publishedDateTime": "2021-04-01T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-trump-and-his-advisors-are-shrugging-off-dojs-capitol-riot-probe-but-they-see-danger-in-the-georgia-and-new-york-investigations.md",
+      "title": "Trump and his advisors are shrugging off DOJ's Capitol riot probe. But they see danger in the Georgia and New York investigations.",
+      "excerpt": "Donald Trump and his advisers are dismissing the threat of any legal exposure tied to the Capitol riots. It's a different story with the Georgia and New York probes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-legal-jeopardy-new-york-georgia-doj-capitol-riot-investigation-2021-4",
+      "originalUrl": "https://www.businessinsider.com/trump-legal-jeopardy-new-york-georgia-doj-capitol-riot-investigation-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6064d49adaf0f10018f99505?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-donald-trump-jr-kimberly-guilfoyle-pay-97-million-for-admirals-cove-home-in-jupiter.md",
+      "title": "Donald Trump Jr., Kimberly Guilfoyle pay $9.7 million for Admirals Cove home in Jupiter",
+      "excerpt": "After months of house hunting, Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are Palm Beach County homeowners. On Wednesday, the high-profile couple paid $9.7 million for a waterfront home in Admirals Cove, an exclusive gated community in Jupiter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2021/03/31/donald-trump-jr-and-kimberly-guilfoyle-buy-9-7-million-jupiter-home/4818798001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2021/03/31/donald-trump-jr-and-kimberly-guilfoyle-buy-9-7-million-jupiter-home/4818798001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/22/NPPP/83afa231-2893-4dbb-a3ab-781026601a69-IMG-6435.JPG?auto=webp&crop=827,466,x0,y157&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4818798001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4818798001",
+      "publishedDateTime": "2021-04-01T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-biden-hhs-ad-campaign-mirrors-dem-super-pac-ads.md",
+      "title": "Biden HHS ad campaign mirrors Dem super PAC ads",
+      "excerpt": "While it is normal for ad blitzes promoting legislation to happen, the ads coincided with a polling memo put out by Priorities USA after the release of the initial ads saying that voters needed to witness Democrats “deliver on policies that provide real benefits to their lives.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e887285-a232-43af-9f21-5ce5e41052d1/0a5d2b63-0c9e-4b53-82ce-05b1b70011c3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
+      "publishedDateTime": "2021-04-01T13:37:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-former-trump-aide-max-miller-raised-500k-in-one-month-in-house-race-vs-gop-member-who-voted-to-impeach.md",
+      "title": "Former Trump aide Max Miller raised 500K in one month in House race vs GOP member who voted to impeach",
+      "excerpt": "Max Miller, the former Trump aide mounting a primary challenge to Ohio Republican Rep. Anthony Gonzalez, raised more than $500,000 in approximately the first month of his campaign, Fox News has learned. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AekWORwQo0/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AekWORwQo0/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp",
+      "publishedDateTime": "2021-04-01T13:21:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-biden-supports-vaccines-for-undocumented-immigrants-psaki.md",
       "title": "Biden supports vaccines for undocumented immigrants: Psaki",
       "excerpt": "White House press secretary Jen Psaki said during Thursday's press briefing that President Biden supports coronavirus vaccines for undocumented immigrants.",
@@ -179,7 +447,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 335,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -388,62 +656,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-01-biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta-over-georgia-election-law.md",
-      "title": "Biden says he'd 'strongly support' MLB moving All-Star game out of Atlanta over Georgia election law",
-      "excerpt": "President Biden expressed support for the idea for the MLB All-Star game to move out of Atlanta in response to the new Georgia election law that has sparked fierce backlash among liberals. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rK41u2MQiqU/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rK41u2MQiqU/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12203dad-15f4-42e5-9f2f-cd88b2139cdf/cd09a844-6f4a-48cf-96bc-23def1df14d0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta.amp",
-      "publishedDateTime": "2021-03-31T22:26:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-jill-biden-urges-farmworkers-to-get-vaccinated-in-california.md",
       "title": "Jill Biden urges farmworkers to get vaccinated in California",
       "excerpt": "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated",
@@ -452,7 +664,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -947,7 +1159,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 398,
+      "heat": 358,
       "tags": null,
       "images": [
         {
@@ -1149,222 +1361,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-new-documents-show-trump-officials-haphazard-and-ineffective-approach-to-procuring-ppe-at-start-of-pandemic-house-committee-says.md",
-      "title": "New documents show Trump officials' 'haphazard and ineffective' approach to procuring PPE at start of pandemic, House committee says ",
-      "excerpt": "The Democratic-led House select committee reviewing the federal response to Covid-19 says it obtained documents that show the Trump administration at the start of the pandemic crisis \"pursued a haphazard and ineffective approach to procurement\" of personal protective equipment and medical supplies.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FVDL7t-jvFY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FVDL7t-jvFY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181019110142-01-capitol-building-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/31/politics/house-covid-committee-trump-administration-navarro-ppp/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/house-covid-committee-trump-administration-navarro-ppp/index.html",
-      "publishedDateTime": "2021-03-31T07:40:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-now-the-hard-part-biden-tax-hikes-face-hurdles-in-congress.md",
-      "title": "Now the hard part: Biden tax hikes face hurdles in Congress",
-      "excerpt": "WASHINGTON (Reuters) -U.S. President Joe Biden’s plan to pay for his $2 trillion infrastructure plan with higher corporate taxes faces hurdles in Congress from Republicans who say it will kill jobs and some of his fellow Democrats who want a bigger write ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-infrastructure-taxes/now-the-hard-part-biden-tax-hikes-face-hurdles-in-congress-idUSKBN2BN24Y?edition-redirect=uk",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-infrastructure-taxes/now-the-hard-part-biden-tax-hikes-face-hurdles-in-congress-idUSKBN2BN24Y?edition-redirect=uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 685,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556903424&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U1CB",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BN24Y",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN24Y",
-      "publishedDateTime": "2021-03-31T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-facebook-removes-video-of-trump-interview-with-daughter-in-law-lara-trump.md",
-      "title": "Facebook removes video of Trump interview with daughter-in-law Lara Trump",
-      "excerpt": "Facebook removed a video of an interview with former President Trump conducted by his daughter-in-law Lara Trump, saying any content “in the voice of Donald Trump” would be scrubbed from the social media platform.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzqlRWb8SEU/facebook-removes-trump-interview-video-daughter-in-law-lara-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzqlRWb8SEU/facebook-removes-trump-interview-video-daughter-in-law-lara-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp",
-      "publishedDateTime": "2021-03-31T07:23:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission.md",
-      "title": "Hunter Biden blasts Trump in new book: 'A vile man with a vile mission'",
-      "excerpt": "President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden economic ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
-      "originalUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1040,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp",
-      "publishedDateTime": "2021-03-31T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

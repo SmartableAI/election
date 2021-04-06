@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ICE detentions plunge under Biden, leaving thousands of empty beds"
-    excerpt: "The Biden administration currently has in custody some 19,000 unaccompanied children, and it released almost 60% of migrant families encountered at the border in February."
-    publishedDateTime: 2021-04-05T19:18:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsDlDzgyvRk/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds"
-    ampWebUrl: "https://www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden pushed to make sure budget funds ICE amid border crisis"
     excerpt: "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., is urging President Biden to increase funding for Immigration and Customs Enforcement (ICE) to help deal with the effects of the current crisis at the southern border, warning the president against political pressure to defund the agency."
     publishedDateTime: 2021-04-05T16:17:05Z
@@ -90,20 +74,6 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/53/539741_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Joe Biden, Hunter's Laptop & Media Lapdogs"
-    excerpt: "They date back to last October and are part of the scandalous information contained on a laptop abandoned by"
-    publishedDateTime: 2021-04-04T10:50:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/04/joe_biden_hunters_laptop_amp_media_lapdogs_539674.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539634_5_.jpg"
         width: 750
         height: 500
         isCached: true
