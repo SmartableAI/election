@@ -1133,6 +1133,22 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Biden and Harris talk about navigating the southern border crisis"
+    excerpt: "(The following is a copy of an imaginary leaked conversation between President Biden and Vice President Kamala Harris secretly recorded in Biden’s basement.) “You want me to do what?” (spontaneously laughing). “Kamala, I want you to take over the ..."
+    publishedDateTime: 2021-04-06T05:05:00Z
+    webUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/"
+    ampWebUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/amp/"
+    cdnAmpWebUrl: "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/amp/"
+    type: article
+    provider:
+      name: The Lowell Sun
+      domain: lowellsun.com
+    quality: 90
+    images:
+      - url: "https://www.lowellsun.com/wp-content/uploads/2021/03/APTOPIX_Biden_89999-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden, Kamala Harris close out Black History Month with a celebration"
     excerpt: "Five things Joe Biden should do in Houston after he gives me $1,400 U.S. presidents of both political parties have a history of hosting official celebrations for Black History Month, bringing celebrities,"
     publishedDateTime: 2021-02-26T18:54:00Z

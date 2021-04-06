@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden budget nominee Tanden faces two tough hearings this week"
-excerpt: "Neera Tanden, U.S. President Joe Biden's nominee to head the Office of Management and Budget, faces what will likely be two contentious confirmation hearings this week, where Senate Republicans are expected to grill her about attacks on members of their party on social"
-publishedDateTime: 2021-02-09T17:26:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-omb/biden-budget-nominee-tanden-faces-two-tough-hearings-this-week-idUSKBN2A91KS"
-webUrl: "https://www.reuters.com/article/us-usa-biden-omb/biden-budget-nominee-tanden-faces-two-tough-hearings-this-week-idUSKBN2A91KS"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A91KS"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A91KS"
+title: "Biden and Harris talk about navigating the southern border crisis"
+excerpt: "(The following is a copy of an imaginary leaked conversation between President Biden and Vice President Kamala Harris secretly recorded in Biden’s basement.) “You want me to do what?” (spontaneously laughing). “Kamala, I want you to take over the ..."
+publishedDateTime: 2021-04-06T05:05:00Z
+originalUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/"
+webUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/"
+ampWebUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/amp/"
+cdnAmpWebUrl: "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/amp/"
 type: article
-quality: 125
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Lowell Sun
+  domain: lowellsun.com
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550919960&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1819W"
-    width: 790
-    height: 545
+  - url: "https://www.lowellsun.com/wp-content/uploads/2021/03/APTOPIX_Biden_89999-1.jpg?w=1024&h=682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -653,6 +649,22 @@ related:
         width: 832
         height: 545
         isCached: true
+  - title: "Biden budget nominee Tanden faces two tough hearings this week"
+    excerpt: "Neera Tanden, U.S. President Joe Biden's nominee to head the Office of Management and Budget, faces what will likely be two contentious confirmation hearings this week, where Senate Republicans are expected to grill her about attacks on members of their party on social"
+    publishedDateTime: 2021-02-09T17:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/biden-budget-nominee-tanden-faces-two-tough-hearings-this-week-idUSKBN2A91KS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A91KS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A91KS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550919960&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1819W"
+        width: 790
+        height: 545
+        isCached: true
   - title: "Biden follows in recent presidential footsteps with Super Bowl interview"
     excerpt: "When U.S. President Joe Biden appears for a CBS interview this Super Bowl Sunday, he will be following a recent White House tradition of using the country's most-watched sporting event to reach a national audience in the tens of millions."
     publishedDateTime: 2021-02-04T04:24:00Z
@@ -1120,22 +1132,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/21/61/20782205/7/rawImage.jpg"
         width: 1600
         height: 1067
-        isCached: true
-  - title: "Biden and Harris talk about navigating the southern border crisis"
-    excerpt: "(The following is a copy of an imaginary leaked conversation between President Biden and Vice President Kamala Harris secretly recorded in Biden’s basement.) “You want me to do what?” (spontaneously laughing). “Kamala, I want you to take over the ..."
-    publishedDateTime: 2021-04-06T05:05:00Z
-    webUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/"
-    ampWebUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/amp/"
-    cdnAmpWebUrl: "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/amp/"
-    type: article
-    provider:
-      name: The Lowell Sun
-      domain: lowellsun.com
-    quality: 90
-    images:
-      - url: "https://www.lowellsun.com/wp-content/uploads/2021/03/APTOPIX_Biden_89999-1.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
     excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
@@ -2220,6 +2216,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "/UwyM1vMBiMbeplBa+KUYbOO6AMXqsvIAoPT7FM/5hXC9jYnvoTlKeK1QIZdoLmv6R4GNfi19+KHED0hh4rAlyYWIQnclAk3cA3/pjj1O+4FWTAlp1frcCYxB3u4hFWnEIbGHTyedAECq5As6J7FhOmCZ3uLALMpOnIOgazIpeDLhsmMBg0WXMr27YBrM7RAAu8Y0RQvDBpk6tN0n4VMHLfmk3qlI/MQGRgxogLNkPOI32EVTnPbzsmHS4rgZqzWOw1Zp0TgQOZvcsZVTv/gz6/z81i2Exp3ejO+e/jZKIYRBtgSrWYeJzoiXwGNgcvCtVa/Hmt8q+aMtve3GJh1fD1LtYedi2s+EZQIymBXRk8=;+KXRZEP+m173esrPHWaztA=="
+secured: "6BhJkC/9WCnvsS6SlFQv2pTUWq4U6Zk/ZbCjy//u6uueJaA1EAqV3Vd9M5Ao+qljlEBqbY8ZZ/wxxg/0JhfYL/XDzr1kFJYar70eXIdF62932purnBDAM/U3Nz6VHazwHUARZG9XXwvJuqClOmUhn/3xKGRc8DiT5PIYR1i/RqfqtW+uixblxL1OP8blMwuGolY7+rU8W/QZhqAHnlCbeaxWt0opKhB1gKbiDpSW4EMy4wb1x4vtVNFddmCcRkjaRepxINhJQ/KXoZ2yx12WQ3/YdZAuQ1Zt/a7ot2S4qyrvox0kq4++87lHDmy191zBUgw8MKmQyKuvUM0Z35m8mRkwE3j1k6ucThKHC+/Aeac=;5y1apcuElbLNx4PLx1E+yQ=="
 ---
 
