@@ -1,33 +1,30 @@
 ---
 category: news
-title: "ICE detentions plunge under Biden, leaving thousands of empty beds"
-excerpt: "The Biden administration currently has in custody some 19,000 unaccompanied children, and it released almost 60% of migrant families encountered at the border in February."
-publishedDateTime: 2021-04-05T19:18:57Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsDlDzgyvRk/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsDlDzgyvRk/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds"
-ampWebUrl: "https://www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
+title: "States Fight Back Against Biden War on the West"
+excerpt: "The states are to serve as \"laboratories of democracy.\" Our Founding Fathers' ingeniousness was recognizing that healthy competition among the states was the best way to devise po"
+publishedDateTime: 2021-04-06T09:32:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
 type: article
-quality: 175
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://assets.realclear.com/images/53/539741_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -46,6 +43,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e887285-a232-43af-9f21-5ce5e41052d1/0a5d2b63-0c9e-4b53-82ce-05b1b70011c3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "ICE detentions plunge under Biden, leaving thousands of empty beds"
+    excerpt: "The Biden administration currently has in custody some 19,000 unaccompanied children, and it released almost 60% of migrant families encountered at the border in February."
+    publishedDateTime: 2021-04-05T19:18:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsDlDzgyvRk/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds"
+    ampWebUrl: "https://www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Hunter Biden details 2019 family drug intervention a month before father announced presidential campaign"
     excerpt: "In his forthcoming book \"Beautiful Things,\" Hunter Biden delves into his struggles with addiction, including a dramatic intervention that his family staged for him in March 2019."
@@ -77,22 +90,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "States Fight Back Against Biden War on the West"
-    excerpt: "The states are to serve as \"laboratories of democracy.\" Our Founding Fathers' ingeniousness was recognizing that healthy competition among the states was the best way to devise po"
-    publishedDateTime: 2021-04-06T09:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/539741_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Joe Biden, Hunter's Laptop & Media Lapdogs"
     excerpt: "They date back to last October and are part of the scandalous information contained on a laptop abandoned by"
     publishedDateTime: 2021-04-04T10:50:00Z
@@ -108,6 +105,6 @@ related:
         height: 500
         isCached: true
 
-secured: "wP1HuWB5D4kJADESZ9yOCu7BEuksq0jfjitaudsp7IEvCOhbueYsq4xjAjAkwXxfkRLP6vHmpFX8mT0fbBF/fbf2gLukludN3R0VkR0j1TFm9xOsk8CXqGLyk0Au/XW3TQanP9VkupB8UBWXQP6s85TBTWFwYtBiryJiM4u02WuY7BeeTth1BfSgPwrJAjQBEamcYszv/ITGUMCxr5/60bKMHS9y2+WSDSLHnVO6qn4gCWH5qja1VbJ8A4XhEmcLAc7zdOHBEJWJ4ULRk/9vqr3ioY/KQEX2ADiztkA6zDJgpLfzRgcfMh2Kwodjts4Jtiq6uK0vtrRwFAPa7GTq+MPUv6QVzOkspQPliPZ4nnQ=;zRXpZ/rrwHObGHZqpOyPlA=="
+secured: "df2EWDUMQnj7uni0RVIRLxAE2dqb+quDQq5+iPTgoW9RzWAtkXWfmuvUPe8wiboAW/eyO6oaHdjlTIcp7vaSTY+1gX6/kHggvNyGH00BfcdqJH/Ax3m5J8nF2GIwN3DN+2NrpXo8wcMzZZDy+pPFTLwghSEUEtyNZDIShXumBJouxb+/JePnqsLPY1ylM2Ukgty+XLckDYmLgL6LTrZwPZgB71XgH+qQSFXBjF2eP3xc8/kVRCeBuXlJN54uZn4TJvs8HLXrBa97BQEqq3WzHWqDO0yTvZME4kuUEOdHZGLmoz1zgJKl8ZwY+M1DBlhB1sXNoxYwKqJQVF/5tpcuMNcNZY4B/C8h5kYtROeij1U=;0+vBfXjMRnogD9NlCkJNNA=="
 ---
 

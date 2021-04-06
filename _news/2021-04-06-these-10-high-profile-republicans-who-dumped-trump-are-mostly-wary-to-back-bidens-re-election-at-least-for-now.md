@@ -1,33 +1,31 @@
 ---
 category: news
-title: "Biden orders sanctions against Myanmar after military coup"
-excerpt: "President Joe Biden is ordering new sanctions against the military regime in Myanmar, taking action after the military staged a coup in the Southeast Asian country and arrested the de facto leader and"
-publishedDateTime: 2021-02-10T23:48:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+title: "These 10 high-profile Republicans who dumped Trump are mostly wary to back Biden's re-election. At least for now."
+excerpt: "It indicates the ability to send an email. Hundreds of high-profile Republicans broke party lines to endorse Joe Biden in 2020, arguing that another four years of then-President Donald Trump would harm the country. Now that President Biden says he plans to ..."
+publishedDateTime: 2021-04-05T20:55:00Z
+originalUrl: "https://www.businessinsider.com/republicans-endorsed-joe-biden-dump-trump-04-2021"
+webUrl: "https://www.businessinsider.com/republicans-endorsed-joe-biden-dump-trump-04-2021"
 type: article
-quality: 125
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://i.insider.com/606b7291a7d803001963ed52?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -575,6 +573,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden orders sanctions against Myanmar after military coup"
+    excerpt: "President Joe Biden is ordering new sanctions against the military regime in Myanmar, taking action after the military staged a coup in the Southeast Asian country and arrested the de facto leader and"
+    publishedDateTime: 2021-02-10T23:48:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-orders-sanctions-against-myanmar-after-military-coup/2021/02/10/8bdb009c-6bd0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden hopes infrastructure can bridge partisan divide"
     excerpt: "President Joe Biden is hoping that launching an effort to build roads and bridges can help to unite Democrats and Republicans in a time of sharp partisan divisions"
     publishedDateTime: 2021-02-11T22:55:00Z
@@ -1079,20 +1093,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "These 10 high-profile Republicans who dumped Trump are mostly wary to back Biden's re-election. At least for now."
-    excerpt: "It indicates the ability to send an email. Hundreds of high-profile Republicans broke party lines to endorse Joe Biden in 2020, arguing that another four years of then-President Donald Trump would harm the country. Now that President Biden says he plans to ..."
-    publishedDateTime: 2021-04-05T20:55:00Z
-    webUrl: "https://www.businessinsider.com/republicans-endorsed-joe-biden-dump-trump-04-2021"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/606b7291a7d803001963ed52?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
     excerpt: "The leader of the Democratic team prosecuting Donald Trump's impeachment trial welled up in tears on Tuesday as he recalled his 24-year-old daughter and son-in-law hiding in fear in the U.S. Capitol during the rampage by the former president's supporters."
     publishedDateTime: 2021-02-10T14:06:00Z
@@ -1506,6 +1506,6 @@ related:
         height: 433
         isCached: true
 
-secured: "9Pfskf+KUxIjJpz7a5efG7lDosJYB25Mant3m1itBCBIT1qTe1UCS/l84tl+bZJO9FYjdtySBUoZl+LmVpFHP0ljmcT89yhFkdnrzofIPfJqjYIsbGHFb6in55/nsW8MHP/7N3NPwq4Otn65ziifS9eBqzRtgtpBY+9IEAiB4HLkDxmP3+F9UHAwnG4biRGONf75tu2cCkjQC+IbzKM3rSScHdIPRpCA68uZFuHrIE1ypAau8s256sjzRaUZqWr9uXp65YJsnSjbfA5h/fxmzOUAoOo2PSrd7alNLVnqMY3X7HphDKGE0QaahnCIz3qjoeEOdo6Z0zYFfH5fODReJjoXNt5N+3OSfNG4bXp1E8k=;CqkLkZA8hc8sO4ndT/KNjw=="
+secured: "pp+2B5mxVU4coouY4hL03hCtIQNd+gfW+rYj6z+8jr+44Kjp9MzKgg0xMpfjSlqerG1YFfnYql1Hza3YYqVDt4WMCsYW0JrULcVQMJW30VmYXGFudgwOzoNPaIhQgODZUcUORWnrlZQNPs8JUgPOCyeqv8a6ANFgdYE8SfAJFimnJxrWXv6pFdgZCpALYo8LWHg4hr1Xf96mjmSlFekn8ldg4sq7T8nDcvKKvMSwRpi+QCoAYXLhN1Ol9DbN1+gsjA445wFCp9U/ZBq6CgU6IWkHG6s1i3CUHBBrCbPOIBiQBcjPefYbfmRPREspFAfCcfNqvLJeJIvAO8e5G2KJyKwmtofqJ4gI2FIXedTm0oQ=;xsSu+eekOdDzLpG6zlmLiQ=="
 ---
 

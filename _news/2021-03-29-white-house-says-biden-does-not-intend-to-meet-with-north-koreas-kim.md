@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 type: article
 quality: 125
-heat: 605
+heat: 625
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/30/b2d945cd-e047-4ffa-b970-413cef79f12a/thumbnail/1200x630g3/80288d47489a876f86f8847f56983db1/gettyimages-1232007099.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diamond and Silk Say Joe Biden Is Not President, 'White House Looked Clearly Empty'"
+    excerpt: "Newsmax hosts Diamond and Silk have claimed that the White House is \"clearly empty\" while suggesting that someone other than President Joe Biden is in charge of the government's executive branch. Lynnette \"Diamond\" Hardaway and Rochelle \"Silk\" Richardson ..."
+    publishedDateTime: 2021-04-06T01:13:00Z
+    webUrl: "https://www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159"
+    ampWebUrl: "https://www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1771778/diamond-silk-joe-biden-white-house.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
     excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."

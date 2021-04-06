@@ -1095,6 +1095,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "These 10 high-profile Republicans who dumped Trump are mostly wary to back Biden's re-election. At least for now."
+    excerpt: "It indicates the ability to send an email. Hundreds of high-profile Republicans broke party lines to endorse Joe Biden in 2020, arguing that another four years of then-President Donald Trump would harm the country. Now that President Biden says he plans to ..."
+    publishedDateTime: 2021-04-05T20:55:00Z
+    webUrl: "https://www.businessinsider.com/republicans-endorsed-joe-biden-dump-trump-04-2021"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/606b7291a7d803001963ed52?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden: Trump should no longer receive intelligence briefings due to 'erratic behavior'"
     excerpt: "In a Feb. 5 clip from an interview with “CBS Evening News with Norah O'Donnell,” President Biden said that he thinks that “there is no need” for former president Donald Trump to continue receiving intelligence briefings."
     publishedDateTime: 2021-02-06T06:02:00Z

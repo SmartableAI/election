@@ -255,6 +255,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diamond and Silk Say Joe Biden Is Not President, 'White House Looked Clearly Empty'"
+    excerpt: "Newsmax hosts Diamond and Silk have claimed that the White House is \"clearly empty\" while suggesting that someone other than President Joe Biden is in charge of the government's executive branch. Lynnette \"Diamond\" Hardaway and Rochelle \"Silk\" Richardson ..."
+    publishedDateTime: 2021-04-06T01:13:00Z
+    webUrl: "https://www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159"
+    ampWebUrl: "https://www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1771778/diamond-silk-joe-biden-white-house.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "White House press secretary says Biden hasn't 'ruled out' canceling up to $50,000 in student debt"
     excerpt: "Psaki was asked what President Joe Biden's stance on the issue is after his chief of staff, Ron Klain, recently said Biden is looking into his \"legal authority\" to use executive action for such a move. Biden's press secretary reiterated his willingness to ..."
     publishedDateTime: 2021-04-05T20:58:00Z

@@ -88,6 +88,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "States Fight Back Against Biden War on the West"
+    excerpt: "The states are to serve as \"laboratories of democracy.\" Our Founding Fathers' ingeniousness was recognizing that healthy competition among the states was the best way to devise po"
+    publishedDateTime: 2021-04-06T09:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/539741_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "Muua/AZ39iFhfuir2Kmwccjk0LHLYwTp6iVC/3e0psYI/zcit1+wIoomrKlCM3jaLza17cgu7QhciQIYIppTK/jOwD8ek2dZo0qwero4fMZ3GD6SPh4Wg7uiUXfqPh4Z6RIRYATXxcb+qMQyrqW7lChEthrLNXOsdOc2ntHdizqGE88MdNe7ZIW2gFXur1E2qAgjkYTqwXxCUO3Xt4hZUSHv87QM0q3TKPBYsjNFioXdEx+uzb0khR6e1tiNydtbk3chOwSHHYfpUlq/StHJnr0zD82F8VCXJG0x5VCvu+yH8TdhBcpjKL6Gqzo8zA2uQg19dQz+C4f5yjW/DMsxWohnSQqvCldCIVqNDXwHCp8=;B8+pEW7k/ts5FJC6TK78fw=="
 ---

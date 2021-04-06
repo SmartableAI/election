@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2060
+heat: 2080
 published: true
 
 provider:
@@ -1078,6 +1078,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/06/USAT/46ee3e15-5b2b-43ad-858b-98c90502e511-AP21036635389025.jpg?auto=webp&crop=5999,3374,x0,y161&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "These 10 high-profile Republicans who dumped Trump are mostly wary to back Biden's re-election. At least for now."
+    excerpt: "It indicates the ability to send an email. Hundreds of high-profile Republicans broke party lines to endorse Joe Biden in 2020, arguing that another four years of then-President Donald Trump would harm the country. Now that President Biden says he plans to ..."
+    publishedDateTime: 2021-04-05T20:55:00Z
+    webUrl: "https://www.businessinsider.com/republicans-endorsed-joe-biden-dump-trump-04-2021"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/606b7291a7d803001963ed52?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'I don't want to come back:' As Trump trial opens, Democrat recalls daughter's fear during riot"
     excerpt: "The leader of the Democratic team prosecuting Donald Trump's impeachment trial welled up in tears on Tuesday as he recalled his 24-year-old daughter and son-in-law hiding in fear in the U.S. Capitol during the rampage by the former president's supporters."

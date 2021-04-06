@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "States Fight Back Against Biden War on the West"
+    excerpt: "The states are to serve as \"laboratories of democracy.\" Our Founding Fathers' ingeniousness was recognizing that healthy competition among the states was the best way to devise po"
+    publishedDateTime: 2021-04-06T09:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/539741_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Joe Biden, Hunter's Laptop & Media Lapdogs"
     excerpt: "They date back to last October and are part of the scandalous information contained on a laptop abandoned by"

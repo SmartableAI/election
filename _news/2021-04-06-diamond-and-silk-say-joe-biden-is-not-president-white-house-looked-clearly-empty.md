@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden's infrastructure plan met with skepticism from some lawmakers"
-excerpt: "Biden's dog Major involved in second nipping incident 2 Capitol ... Democratic leadership will also have to hold onto moderates in order for the legislation to pass. Senator Joe Manchin, a moderate Democrat and one of the key swing votes in the Senate ..."
-publishedDateTime: 2021-03-31T14:02:00Z
-originalUrl: "https://www.cbsnews.com/news/biden-infrastructure-plan-congress-skeptical/"
-webUrl: "https://www.cbsnews.com/news/biden-infrastructure-plan-congress-skeptical/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/biden-infrastructure-plan-congress-skeptical/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-infrastructure-plan-congress-skeptical/"
+title: "Diamond and Silk Say Joe Biden Is Not President, 'White House Looked Clearly Empty'"
+excerpt: "Newsmax hosts Diamond and Silk have claimed that the White House is \"clearly empty\" while suggesting that someone other than President Joe Biden is in charge of the government's executive branch. Lynnette \"Diamond\" Hardaway and Rochelle \"Silk\" Richardson ..."
+publishedDateTime: 2021-04-06T01:13:00Z
+originalUrl: "https://www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159"
+webUrl: "https://www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159"
+ampWebUrl: "https://www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159?amp=1"
 type: article
-quality: 125
+quality: 119
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/31/7d160ae9-b41c-4d32-9e90-7d73d1d7ee11/thumbnail/1200x630/19c83d3d53c1739b5408ac1b6c77d7f0/ap21090456948486.jpg"
-    width: 1200
-    height: 630
+  - url: "https://d.newsweek.com/en/full/1771778/diamond-silk-joe-biden-white-house.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden's infrastructure plan met with skepticism from some lawmakers"
+    excerpt: "Biden's dog Major involved in second nipping incident 2 Capitol ... Democratic leadership will also have to hold onto moderates in order for the legislation to pass. Senator Joe Manchin, a moderate Democrat and one of the key swing votes in the Senate ..."
+    publishedDateTime: 2021-03-31T14:02:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-infrastructure-plan-congress-skeptical/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-infrastructure-plan-congress-skeptical/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-infrastructure-plan-congress-skeptical/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/31/7d160ae9-b41c-4d32-9e90-7d73d1d7ee11/thumbnail/1200x630/19c83d3d53c1739b5408ac1b6c77d7f0/ap21090456948486.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'Major' pain: Biden's dog involved in 2nd biting incident"
     excerpt: "President Joe Biden’s dog Major on Monday was involved in his second biting incident this month WASHINGTON -- President Joe Biden's younger dog Major this week was involved in his second biting ..."
@@ -239,22 +255,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diamond and Silk Say Joe Biden Is Not President, 'White House Looked Clearly Empty'"
-    excerpt: "Newsmax hosts Diamond and Silk have claimed that the White House is \"clearly empty\" while suggesting that someone other than President Joe Biden is in charge of the government's executive branch. Lynnette \"Diamond\" Hardaway and Rochelle \"Silk\" Richardson ..."
-    publishedDateTime: 2021-04-06T01:13:00Z
-    webUrl: "https://www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159"
-    ampWebUrl: "https://www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/diamond-silk-say-joe-biden-not-president-white-house-looked-clearly-empty-1581159?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1771778/diamond-silk-joe-biden-white-house.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
     excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
     publishedDateTime: 2021-04-02T10:12:00Z
@@ -413,6 +413,6 @@ related:
         height: 433
         isCached: true
 
-secured: "CnCVP+QEi7Gyt6B/7y3TqibqNA8UAJbYnmjIc2ocPlLx5gORcHAX3dRjR4lGIlhHkdUq0Zow+qj8gQi5sAJA+IzM9Hxk8CsGZKtwsno+P2/T8EOdf7fEdvkYyCAdna4XcB16/r1rTDyr6Cy4UNoBnBsRb2/hOH4IzpWRKc+t06TEnvZALedrYtWDVHxpNfovovFQOEUGv1ccp4zwLiWMrE2N+sAG0nuPBJyfoz93kPc8vFSveVjqebNZPO9iwcIPQSA+uc5YJxkT5mtLSNKlTvdEL7jffGLa9+BfNZ/PEm83jleCFOsnJ0owqOlvovCwpR6d3UyinqEZ7hAFAV6xzGPAZ836NkpbLHdK1Hw2nQj6zr7hL1yHhXGUDSoF4a9ZCuBWHpnIJVla2N8G8zbZkmcttijcCWop+wQu1jaaK+ra7YLFWDEFFLCZq+WLMwXubk8ryAmO9k3WGofMBR9zsSjdAj/K47UmIwcPXoC+WcEgZs5bQPFWJLjQO2uyGNB04sLqB8ECX13O5J/FwyOorQ==;RIpDC6MlFtZyP/EAnsg31w=="
+secured: "nkiFwl5baUM2fna1GlUlGeIo78fmTcgZ7COxW/CL0xV7IbzQBji8PMKAtMiOpfefBxoC5Pu58NYHSAQHMmbrPKA0TS6fNOzGXZlVVCgUe0luzcwo3PpbOSC0SLL5RXdc6eR2etyX29QzJuWHU74pOnGdVCRHJxWzSfNXWUo/ddQE2mIOJz+szTU3LI/5YTY5gF1OOSHyNGMQY7KoGLYVZUbeoUlLCgGvjGAZw7VMd6GpLykbvPnlvAY1PEj5nJkUW4dWvaFSDmEAW+mF/mZOBVxf9YMGtLs/TRniN3aC1N6INy4UHBN/JWfyrGfWibwnfTy92ppH/HtyrqQQfOHCfbSRtadv0876p5dZ/Tafiig=;6X3iH5UlUwl4QVh4L4cgpQ=="
 ---
 
