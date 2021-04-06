@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nomin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html"
 type: article
 quality: 178
-heat: 1098
+heat: 1118
 published: true
 
 provider:
@@ -695,6 +695,20 @@ related:
     excerpt: "Weekly Trade is a weekly version of POLITICO Pro’s daily Trade policy newsletter, Morning Trade. POLITICO Pro is a policy intelligen"
     publishedDateTime: 2021-04-05T14:00:00Z
     webUrl: "https://www.politico.com/newsletters/weekly-trade/2021/04/05/biden-faces-battery-trade-case-test-794463"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden slated to give more vaccine updates today"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to give more updates on coronavirus vaccine supplies and will visit a Virginia vaccination site. — The prospect of another filibuster-proof stimulus bill could embolden Democrats as they ..."
+    publishedDateTime: 2021-04-06T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/04/06/biden-slated-to-give-more-vaccine-updates-today-794492"
     type: article
     provider:
       name: Politico

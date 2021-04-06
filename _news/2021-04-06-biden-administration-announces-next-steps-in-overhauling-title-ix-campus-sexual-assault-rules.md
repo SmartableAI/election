@@ -720,6 +720,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden slated to give more vaccine updates today"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to give more updates on coronavirus vaccine supplies and will visit a Virginia vaccination site. — The prospect of another filibuster-proof stimulus bill could embolden Democrats as they ..."
+    publishedDateTime: 2021-04-06T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/04/06/biden-slated-to-give-more-vaccine-updates-today-794492"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden names diverse slate of judicial nominees in first effort to reshape federal courts"
     excerpt: "Biden plans to nominate Judge Ketanji Brown Jackson for the U.S. Circuit Court of Appeals for the District of Columbia, filling Attorney General Merrick Garland's former seat."
     publishedDateTime: 2021-03-30T11:58:00Z
@@ -749,6 +763,6 @@ related:
         height: 629
         isCached: true
 
-secured: "cApbQJctnwUoibOM9Uy7TamLe/igZrXhqS3po7NaEXiM4FVHyMKUVMCbn0mc7DJTHOo33y2KGtiycAYlCKM6bV4nv6t7KD2NSzndA6gx8rQ24NdEIgeC5v0hrl1PkyQMODgeLuJpSm+W7pMZA2aTnLeC7rjZOUuK1rJgH4NgMjfXJ+eF2ImHF35xE/9z7+PCIiQdXuz3odrb5b74hWH1Ijccf8/QrEX3hhhBoXtN4JCRRWS2u19jRgor80gOWDe6tTIDA8wz+b36hA8o8TtXIeyZAHb1P1JEaUPUv3409/ExEsXM7l1yFSk1YfjL5ixnvIXm7hUB/kbMKWiGEzBOsrTdZwOqvKb3y+avhSNwPA8=;jQzAA3L6zdyc8PhCFt8jXA=="
+secured: "/vbboOS0gPc1J5orZXjOkrvZ2OXVQIYKJYUna2RzRYEzfHAnvNC+s+LWqeE3Wtt55P9qNGCmfjJ/F5Es/0vTAltd++6Phjpbl6bouj1hpz5+15lg6c3IER5KG+fLJQVFb357L+clwmNp3Jo7umKNTYOy2uk2JXrCMRm65U2AOSvcB8w7pG1WJx/zWJepV8gEP2e6zn55Q2Sr/9E/qMpF+zFdB2kxxXYbTUOA1XhYXJgnIS33GRGc8VSSk7G7AKTQd4aYozpYLKGB7gcc0EcxkjvEBnrVsrTv107LopFWdY8hVSBrfVJAEFsUMyOjBMtLEfRhN1zxWfKrai8xkKStICoHDgSPXaWMNeXFCnMfI36BQZemvsiSbDQSA4jMu52inyP+5XbSluybWMOFHaIbP7gmFxnIGo1T/BEE/1+gzMqxubJmIOWo1os+SW61Nlig9vc6UTAIhdyOFm+CDzwUC/z4VrmRIYU2SdOuPhwV3ZvbZyn6kGxCOPRbXmwfF2KO0NprAlWKD2vjZ5MJ6cExQw==;c8RM22VaVrXdE1CP44WtqA=="
 ---
 

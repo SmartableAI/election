@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Hunter Biden blasts Trump in new book: 'A vile man with a vile mission'"
-excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden economic ..."
-publishedDateTime: 2021-03-31T14:06:00Z
-originalUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission"
-webUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission"
-ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
+title: "Hunter Biden Says His Family Name 'Opened Doors' But Can Be 'a Burden'"
+excerpt: "World Food Program USA Board Chairman Hunter Biden (L) and U.S. Vice President Joe Biden attend the World Food Program USA's Annual McGovern-Dole Leadership Award Ceremony at Organization of American States on April 12, 2016 in Washington, DC. Hunter Biden ..."
+publishedDateTime: 2021-04-06T12:26:00Z
+originalUrl: "https://www.newsweek.com/hunter-biden-says-his-family-name-opened-doors-can-burden-1581245"
+webUrl: "https://www.newsweek.com/hunter-biden-says-his-family-name-opened-doors-can-burden-1581245"
+ampWebUrl: "https://www.newsweek.com/hunter-biden-says-his-family-name-opened-doors-can-burden-1581245?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-says-his-family-name-opened-doors-can-burden-1581245?amp=1"
 type: article
-quality: 140
-heat: 1020
-published: true
+quality: 125
+heat: -1
+published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg"
-    width: 980
-    height: 551
+  - url: "https://d.newsweek.com/en/full/1771905/president-biden-hunter-biden-2016.jpg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
+  - title: "Hunter Biden blasts Trump in new book: 'A vile man with a vile mission'"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden seeks expanded government, tax hikes Five things to watch on Biden infrastructure plan GOP seeks new line of attack on Biden economic ..."
+    publishedDateTime: 2021-03-31T14:06:00Z
+    webUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission"
+    ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Kinzinger raises $2.2 million for reelection fund, anti-Trump PAC"
     excerpt: "Kinzinger faces several potential primary opponents due to his vote to impeach former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo ..."
     publishedDateTime: 2021-04-01T14:37:00Z
@@ -415,22 +431,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Hunter Biden Says His Family Name 'Opened Doors' But Can Be 'a Burden'"
-    excerpt: "World Food Program USA Board Chairman Hunter Biden (L) and U.S. Vice President Joe Biden attend the World Food Program USA's Annual McGovern-Dole Leadership Award Ceremony at Organization of American States on April 12, 2016 in Washington, DC. Hunter Biden ..."
-    publishedDateTime: 2021-04-06T12:26:00Z
-    webUrl: "https://www.newsweek.com/hunter-biden-says-his-family-name-opened-doors-can-burden-1581245"
-    ampWebUrl: "https://www.newsweek.com/hunter-biden-says-his-family-name-opened-doors-can-burden-1581245?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-says-his-family-name-opened-doors-can-burden-1581245?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1771905/president-biden-hunter-biden-2016.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z
@@ -726,6 +726,6 @@ related:
         height: 675
         isCached: true
 
-secured: "gDm4ucgaz2wsg2BgzH9JuK4/mUZ2wB/V1LSIrBUBOist8IiWWM2GwlkcNZ4ZT2auac/4raTMm0inp2lyOxVK2NFqlPKR8QdBSVvHLKLp1RcjA44m0FGLukl2uwO2L7NfLgsFPmQFkN6oxD7pagtS9gkCNmX+hwv7rzHbtZt1FMO1THwtxkQtnFCk5vwU78ZQsaCdZ5gZnzE5HjwSRdlGlgWizqH3QFsRAqya/wrHw7qwrVlq4ctnRhYuwwZRLooENclOPpYccopb44YgKEN4OgQIWO6dbeAMTy6HyG32v2oiyODF7AaJRX7v0+C+xpk89zCR0/z74hN2tRifLfLV/jvWlrAZADQ0w9dUp1zlyg8=;SwkoQaWh+TlXYaPb5HxaeQ=="
+secured: "lLolo4zUlkAjlw0PmnfozLMrVDC3DF/HN/YPuvGxYDkQeMCbJNFER7bGuDAcQtuTcwX3vlO47Jevmz29hG0ZnBMopsoqmSVTkhrDXWcXlGJLq/JVhC7p7knYxQrz7dfuQ+bUhbXawZmKmyAnf9Hwll7/Wjd8lQBtxCJOx+xByKa8QwPy+vo/SAGwjQG9IhbeMbOXx3Hxo08ZyCH1IWfxcOdM/hJnW6GbBOum97MBvZdhtsQ0lFw5k5WVHdJN24jL05xfUUUsWrzVE9DtK/D/y4Kg3M+tHnT9TyHuyr/dhUA56lufVcuIVNYXkuNYoV1PmKOIqAk6cFWytcmm5jcrcVUtelubQKCmSFq09g0G9e0=;KTNBRV3nOMwXgQ+Ts+GPDA=="
 ---
 

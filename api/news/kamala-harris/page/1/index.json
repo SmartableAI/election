@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-06-kamala-harris-promises-white-house-support-for-gavin-newsom-in-recall-election.md",
-      "title": "Kamala Harris promises White House support for Gavin Newsom in recall election",
-      "excerpt": "Vice President Kamala Harris promised White House backing Monday for Gov. Gavin Newsom in his likely recall election, saying she and President Biden “will be supportive as much as we possibly can.” “We are unambiguous in our support for Gov.",
+      "path": "_news/2021-04-06-navy-seabees-built-kamala-harris-a-desk-with-wood-copper-and-nails-from-the-uss-oldest-warship.md",
+      "title": "Navy Seabees built Kamala Harris a desk with wood, copper, and nails from the US's oldest warship",
+      "excerpt": "The USS Constitution is one of the country's first frigates and the oldest commissioned warship still afloat.",
       "sourceUrl": null,
-      "webUrl": "https://www.sfchronicle.com/politics/article/Kamala-Harris-promises-White-House-support-for-16078969.php",
-      "originalUrl": "https://www.sfchronicle.com/politics/article/Kamala-Harris-promises-White-House-support-for-16078969.php",
+      "webUrl": "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4",
+      "originalUrl": "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 132,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/17/35/63/20831449/5/375x250.jpg",
-          "width": 375,
-          "height": 249,
+          "url": "https://i.insider.com/606c764570954f001919560c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.sfchronicle.com/politics/amp/Kamala-Harris-promises-White-House-support-for-16078969.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-promises-White-House-support-for-16078969.php",
-      "publishedDateTime": "2021-04-05T18:24:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4?amp",
+      "publishedDateTime": "2021-04-06T08:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -53,7 +62,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {

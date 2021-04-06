@@ -1,30 +1,24 @@
 ---
 category: news
-title: "'SNL:' Maya Rudolph, Martin Short play Kamala Harris, Doug Emhoff"
-excerpt: "Saturday Night Live alum Maya Rudolph returned to guest host the sketch-comedy series this weekend. Rudolph reprised her role of Kamala Harris, vice president of the United States, while comedian and former SNL star Martin Short made a surprise appearance as Harris' shy,"
-publishedDateTime: 2021-03-28T16:43:00Z
-originalUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
-webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
-ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
+excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
+publishedDateTime: 2021-04-06T14:22:00Z
+originalUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
+webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
+ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
 type: article
-quality: 75
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/5701616939292/2021/1/f2b1a89417fc11cd4b17e790312cb091/v1.5/SNL-Maya-Rudolph-Martin-Short-play-Kamala-Harris-Doug-Emhoff.jpg"
-    width: 800
-    height: 531
-    isCached: true
 
 related:
   - title: "Kamala Harris and Doug Emhoff to move into vice president's residence after two-month delay"
@@ -58,6 +52,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/w4JNZVIqZX0LrYozGoPmn2UnRig=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WI5A4JNE2CBALGRAM2V4LHPXRY.aspx"
         width: 1200
         height: 759
+        isCached: true
+  - title: "'SNL:' Maya Rudolph, Martin Short play Kamala Harris, Doug Emhoff"
+    excerpt: "Saturday Night Live alum Maya Rudolph returned to guest host the sketch-comedy series this weekend. Rudolph reprised her role of Kamala Harris, vice president of the United States, while comedian and former SNL star Martin Short made a surprise appearance as Harris' shy,"
+    publishedDateTime: 2021-03-28T16:43:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/28/saturday-night-live-maya-rudolph/5701616939292/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5701616939292/2021/1/f2b1a89417fc11cd4b17e790312cb091/v1.5/SNL-Maya-Rudolph-Martin-Short-play-Kamala-Harris-Doug-Emhoff.jpg"
+        width: 800
+        height: 531
         isCached: true
   - title: "Kamala Harris returns to Oakland to tout infrastructure, jobs plan"
     excerpt: "For the first time since assuming office, Vice President Kamala Harris returned to Oakland Monday to promote the administration’s proposal to rebuild the country’s"
@@ -169,17 +179,6 @@ related:
         width: 1200
         height: 782
         isCached: true
-  - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
-    excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
-    publishedDateTime: 2021-04-06T14:22:00Z
-    webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 49
   - title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
     excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
     publishedDateTime: 2021-04-02T11:19:00Z
@@ -195,6 +194,6 @@ related:
         height: 800
         isCached: true
 
-secured: "PnC+QlULtFN+S/TEv23J3wG+ITyI2vps/BM/AtVF32O7pjf9EkIgQ5ijhMU/O+CxKKYEpDRia9A69OKuLF1GYhnOyfm+6rjZwe85FaXDBbwh3PkndX5gh9zVeRxTb6/NeXPNeDtKxKs4Wct5FDVUEuNMRTEojtxvPGjJmDocmvKAtTs5jUroeQ5iY9qGvxhIS2FYmql65O5ytzUdxNHE14wMDCDmXlLmmupvQ4M53vl7GGKNZ3ZHxsnhXWRBfG/eF9ZiV6ZElmp6X3z/IHmUJ9BmqcMYATXvrGZTQs7ohZs6twytWqWtewBnZHU6y09Z2mXTbtJqot74xkuRGnrISIqJYQ7riPUSoJSC+GDeLJOF3iqg7/ze8gbV16olRyAdB38Fh3m0bbEnFvsClslVSZIHpEku/xG1bsCqNRrRSr8mRetCCLVC/Qe0N0U3JYxhHO2AMz+gkQvTwcgLbFhVdnzeRmzmpuQmDPRylTSeVZQR12cPd954uuJc63KXoQO0WVtuqR42lpmbG95/fbyelQ==;AZ2bmv80kOEp4KivZdcBpg=="
+secured: "49ctfI6+5WDGihhZhMhGtvRyCe8IqNfhOUruZJTVrogMpuhKuAMulM5PtXbq8yVgpt+WuHUJpSVjRfUH+TxghMqu3XIt/CP1RyxnnMz52Jeb0zn3/I6ajwwo/vWdS7KuvLkLLnL91qi66T601GNcr9K0wmudwFG5f9BngbTpizpctcAmEgiissEPfkqwJfepDTble73mJGW8UVaT1QFS6zc5S2CzcYOvgmU8rM1mEthitbQbM/XMIPJWLe8OuVXMdV2/l1jfvdVxb90kLU/bPtN4uUPZv0LQK/hdCO4WCFfOIe7lYmScvboUK1Exhgh93IoPziWPH6/2I3z0plLNpCBKYpzaq9g/JdW6OqUOe6VshkEeGI6IErp9ikCAM7AlhHxWpj+sbNlP22wHJ08Dxy9dwafQh9VUQOxEi9lop78FQSbhUlHEHmJT/FAlLU15YgPh1rlsKaf5eVscOaP/ZibDje7mvMnq2+dATk13T4EN7B0guv1FDzvlTOmF3F5JTHeSME0N9gJ8qSwpLkhJXw==;PakKIt3D1znbAfdWETuI5A=="
 ---
 

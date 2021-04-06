@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Loyalty or loyal opposition? Democrats test fealty to Biden in special elections"
-excerpt: "CLEVELAND — Nina Turner, the perpetual public face of Sen. Bernie Sanders' unsuccessful presidential campaigns, once compared voting for Joe Biden to eating a bowl of fecal matter. Now Turner is a top contender for Congress. And her Democratic opponents ..."
-publishedDateTime: 2021-04-01T08:30:00Z
-originalUrl: "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618"
-webUrl: "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262618"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262618"
+title: "Biden slated to give more vaccine updates today"
+excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to give more updates on coronavirus vaccine supplies and will visit a Virginia vaccination site. — The prospect of another filibuster-proof stimulus bill could embolden Democrats as they ..."
+publishedDateTime: 2021-04-06T14:00:00Z
+originalUrl: "https://www.politico.com/newsletters/politico-pulse/2021/04/06/biden-slated-to-give-more-vaccine-updates-today-794492"
+webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/04/06/biden-slated-to-give-more-vaccine-updates-today-794492"
 type: article
-quality: 145
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3460821/210330-joe-biden-ew-244p_e7721de5d900180188761ee588df2bac.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -384,6 +382,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Loyalty or loyal opposition? Democrats test fealty to Biden in special elections"
+    excerpt: "CLEVELAND — Nina Turner, the perpetual public face of Sen. Bernie Sanders' unsuccessful presidential campaigns, once compared voting for Joe Biden to eating a bowl of fecal matter. Now Turner is a top contender for Congress. And her Democratic opponents ..."
+    publishedDateTime: 2021-04-01T08:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262618"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262618"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3460821/210330-joe-biden-ew-244p_e7721de5d900180188761ee588df2bac.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden Seeks Assault Weapons Ban and Background Checks"
     excerpt: "Mr. Biden, who had helped pass the landmark Brady Handgun Violence ... even modest gun legislation this year were on display on Tuesday on Capitol Hill. Senator Joe Manchin III, Democrat of West Virginia, has a longstanding bipartisan proposal — written ..."
     publishedDateTime: 2021-03-23T23:54:00Z
@@ -706,20 +720,6 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Biden slated to give more vaccine updates today"
-    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to give more updates on coronavirus vaccine supplies and will visit a Virginia vaccination site. — The prospect of another filibuster-proof stimulus bill could embolden Democrats as they ..."
-    publishedDateTime: 2021-04-06T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/04/06/biden-slated-to-give-more-vaccine-updates-today-794492"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
   - title: "Biden names diverse slate of judicial nominees in first effort to reshape federal courts"
     excerpt: "Biden plans to nominate Judge Ketanji Brown Jackson for the U.S. Circuit Court of Appeals for the District of Columbia, filling Attorney General Merrick Garland's former seat."
     publishedDateTime: 2021-03-30T11:58:00Z
@@ -763,6 +763,6 @@ related:
         height: 629
         isCached: true
 
-secured: "Bi8oaTaO/R3hlJ9ZqjOZ8exKF63rjvjVOLtPcfjc53KvkzxCZe746x0oPzXL11efnQaTJNji+4/ZIY6glTIFraghiVR3YrcSX0AvHQ34rKIhse4TulXjsqvK57OWmael+L6EoiqVgvF1KLSzJ3RmMMfXYBqgvUSKljDrzw8EziSQTE7/BQ/eWOD9Hr3pEn72HYuh/3LPB5HwshdwZ6mnJlparIjxqi7jtzUw7iPEazdkw6HXvcI+6CQ8/lClvxkx7q5UYvF/L6EnxkTO3qoKScureJsJJW69M4kepX7KoLuYEXWZQw+5QqyxkCaThq1OM+dpox8TpZgSG9n9i3tJyiMlvaheAViwTmT0UuQOepOcEsJRpRUqUxhgfozkRg0C+CS7qGLtDUyde4wHwWjq4q0Zv4nOw5B9necE4GcdMqiZ5WKO832+MkvS6LfwJeUZp8994vlxDWnkfBBSD6mdZUF+wf5q0FY+uNWnhvb/Cz/ETEDX34RyTAjmVL53xg32UQ9mm7XBC1+R2L6QAiXDUA==;cEjInzJaJ9w0AoPT296StQ=="
+secured: "pPz00oHChljPM+CxjXm0aQC+7heBIeFjPzXf2qr80taBFrfUN4zRYlLoLGWjx+NGKZkVQtH8SAJmSGwUSyvvpqiOfLMTCzIYs83mxlE8w6bNX6IDK7+0NijlAERoPSJ/WPoJGqheTXc381ikDcfCYhydz+k/1J4hZh49GL1cOFPEY436nB0AvO7XZxesqwqieNyOdTcicizMyoN8RkAZaLlfc10wzOXR+Jofutalw0ACPlggF8U++gjURUCIRwbCLszvAT8VCu4qV8imTNO9JoIGcJp+tgatOGzJeCAs3uf2Y6x3YzBaKTZNEsWtFj9yc6QmT0sVn543YZFxdPmdhigbKXohXdjx1x5DJ7jAFwg=;iUk+vW/0B3bXD02eSvXMPQ=="
 ---
 

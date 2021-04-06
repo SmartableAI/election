@@ -183,6 +183,17 @@ related:
         width: 1200
         height: 782
         isCached: true
+  - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
+    excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
+    publishedDateTime: 2021-04-06T14:22:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 49
 
 secured: "qsEi1EnihVvjrC8Q5DEdt5Wm9tked54ZK9tmqZz+v08vwu+XOE5u2J72TQpiPrFPzyUsHFvuI4578LrA23vmGPByGOj3d0vuQPssUqbyn/gUXX/bTQhXYd6BudIhpRuNdsfAezSN5bGgXXLLGb8f4g+CyYwkEH+jqXqFrcqqbeRUCZDO60T/n4B81r2TP5rYfXrAqN2d7IMqO4BmZRW6YwVfXRyCJsMib/pDIQOdb4XsDnwFF7X/jPd5Iz5MhXl/gQXdFqn+JlnZH6kFc+FCOlk6xlSFuGDSRBVgrb+bPDXISyR9h0sSeLfPqTb6+utkxoHq9W7oWoLltM1KE5A7ltWCJWVW1CxbD7nk9UlSyko=;WEHRMnJr5xR3MQNWogfbVA=="
 ---

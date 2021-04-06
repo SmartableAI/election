@@ -720,6 +720,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden slated to give more vaccine updates today"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to give more updates on coronavirus vaccine supplies and will visit a Virginia vaccination site. — The prospect of another filibuster-proof stimulus bill could embolden Democrats as they ..."
+    publishedDateTime: 2021-04-06T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/04/06/biden-slated-to-give-more-vaccine-updates-today-794492"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden administration announces next steps in overhauling Title IX campus sexual assault rules"
     excerpt: "During the presidential campaign, Joe Biden vowed to scrap the Trump administration's new regulation on campus sexual misconduct, which took effect in August under Title IX, a gender equity law. Former Education Secretary Betsy DeVos had said she had ..."
     publishedDateTime: 2021-04-06T13:00:00Z

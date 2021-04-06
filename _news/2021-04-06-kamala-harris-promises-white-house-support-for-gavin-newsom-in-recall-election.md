@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-promises-Whit
 cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-promises-White-House-support-for-16078969.php"
 type: article
 quality: 86
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: San Francisco Chronicle
@@ -25,6 +25,24 @@ images:
     width: 375
     height: 249
     isCached: true
+
+related:
+  - title: "Navy Seabees built Kamala Harris a desk with wood, copper, and nails from the US's oldest warship"
+    excerpt: "The USS Constitution is one of the country's first frigates and the oldest commissioned warship still afloat."
+    publishedDateTime: 2021-04-06T15:04:00Z
+    webUrl: "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/606c764570954f001919560c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "nIDLQSKoRghUrfaVmbv6RZvltHyskBEvhdFBROoLNdevZKfHXMGbYG3BKHIyFK7rY4uwBPagMB03t4Na88gKdLskX9URHXtFz/e1D38kX7CTuhTZp/dTwyuwWPrvipYUAuLCu5jNUamxnXeBv2Vk9S4Bj1Q7974JPGYtq1N4bQ2VLbIh16hFFE6EOgqAWh5XYfkvV+VkmFHF7wmpMmjXlHfBDtJ2Mp/RBXp5KvCWe7L44e/jDwxQ4rlDdzG84gJxS5OS6iqrlPLvUKF8itaasUkYmos8c9YtaQYATjjkv4zadBtUbIfgSmQgWylKcoGkJ9yYmLnfNGX07oaxN/q6nPQ6XIW3b969xukj+rytIR0XBqntQoa71DITvSTpib01Y7OVlqz27vfNtYCXZYfISdjdv6zmPCqto4h5Rc6W4kUAsDKDCyVEyWk+rvkPdrdBe9uly6kpacotpbvpwcZeIMpeu5v3+BhwANgmvXuOnXayiWq2/+b4Q98RaQsqEQP95Zl/st+z27utrE5qJhSJ4w==;C0pMWRs4uuCJtme8ZOZkxQ=="
 ---

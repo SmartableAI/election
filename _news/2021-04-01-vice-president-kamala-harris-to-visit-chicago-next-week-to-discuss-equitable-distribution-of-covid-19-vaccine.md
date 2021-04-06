@@ -173,6 +173,17 @@ related:
         width: 1200
         height: 782
         isCached: true
+  - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
+    excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
+    publishedDateTime: 2021-04-06T14:22:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 49
   - title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
     excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
     publishedDateTime: 2021-04-02T11:19:00Z

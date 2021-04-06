@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp"
 type: article
 quality: 172
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b56162d-9049-408e-84ef-8f89a7367c85/c862654e-050e-46de-9962-1296c04e66a2/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GOP Rep. Lee Zeldin urged by Trump allies to run for governor of NY amid Cuomo scandals"
+    excerpt: "Trump allies are quietly rallying their support behind Republican Rep. Lee Zeldin, encouraging him to mount a GOP gubernatorial bid against New York Gov. Andrew Cuomo in 2022, Fox News has learned."
+    publishedDateTime: 2021-04-06T15:26:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1bL9NxbVw8s/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Donald Trump Jr. slams Liz Cheney, says Gov. Cuomo ‘would be in jail’ if GOP"
     excerpt: "Donald Trump Jr. on Friday trashed Rep. Liz Cheney and said New York Gov. Andrew Cuomo “would be in jail” already if he were a Republican. The former first son attacked his dad’s"

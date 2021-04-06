@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump Jr. Calls on GOP to Oppose Vaccine Passports or Quit"
+    excerpt: "Donald Trump Jr. urged Republicans to vehemently oppose vaccine passports, calling the measure potentially the \"greatest affront\" on American freedoms in recent history. President Joe Biden's administration is leaving implementation of health passports up ..."
+    publishedDateTime: 2021-04-06T15:13:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-calls-gop-oppose-vaccine-passports-quit-1581316"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-calls-gop-oppose-vaccine-passports-quit-1581316?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-calls-gop-oppose-vaccine-passports-quit-1581316?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1772025/vaccine-passport-gop-trump-jr.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "MKAKnu6T/2CJcdQjULbuL39nLSM6kbyri+FkJWYQ8t0Fv90bfSYvvfZKl9FUylCwoK5814jGgdvy2B3fwnYuphWQZ0bslJu8fL7zIqc5AShVyLzHeQRCf0WV5bBPH21KTLP4teTMC0cNwO4WwC8eyEhjg/W7I8eledtEUKpVNl2m3CYS4BDYxhOgLpDSLb9nUY88gJGLe3HfFL8XN/snShoFzD2m9vQbvmL4/7Xrb9KDaDW6it258com5NL8did9wmYDxIpTL1fyw/Adj1kD6ql4fN9Vk4/VgaB+HEDEbz3Atw4Z1q39UCCM4HLsXdEyIfGWm4HdWJa+O/Iyz+gLBYwS7VjHTvN8iF3uHDHMyknbwPLG3tZC3mgrIcXzyqC/iVEj0aosXgoJMwvaBwCCGQfnGEChDBpqvBkZhl05vK31Y7JsSfcjfJ94IxX3b7Zd0fE+Fw1VKGeFjB8VkuDoisoRKqDmtBmoNKkUDioc6xoNHwRwDOhnbWBJ1E/jtnzfuZ/n9WhXi+L04xSrixXqlg==;JiXXJ3iVKILXUVSdCkh3ag=="
 ---

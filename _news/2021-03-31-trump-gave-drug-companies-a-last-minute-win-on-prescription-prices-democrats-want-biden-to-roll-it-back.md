@@ -431,6 +431,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Hunter Biden Says His Family Name 'Opened Doors' But Can Be 'a Burden'"
+    excerpt: "World Food Program USA Board Chairman Hunter Biden (L) and U.S. Vice President Joe Biden attend the World Food Program USA's Annual McGovern-Dole Leadership Award Ceremony at Organization of American States on April 12, 2016 in Washington, DC. Hunter Biden ..."
+    publishedDateTime: 2021-04-06T12:26:00Z
+    webUrl: "https://www.newsweek.com/hunter-biden-says-his-family-name-opened-doors-can-burden-1581245"
+    ampWebUrl: "https://www.newsweek.com/hunter-biden-says-his-family-name-opened-doors-can-burden-1581245?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-says-his-family-name-opened-doors-can-burden-1581245?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1771905/president-biden-hunter-biden-2016.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Pelosi 'hopeful' Democrats can reform SALT tax in Biden infrastructure bill"
     excerpt: "said Thursday that she's hoping to reform the tax code to help high-income states as part of President Biden Joe Biden The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Biden ..."
     publishedDateTime: 2021-04-01T21:00:00Z
