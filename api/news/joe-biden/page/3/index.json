@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-16-biden-shots-in-arms-and-money-in-pockets.md",
+      "title": "Biden: ‘Shots in Arms and Money in Pockets’",
+      "excerpt": "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/video/us/politics/100000007655482/biden-coronavirus-checks-vaccinations.html",
+      "originalUrl": "https://www.nytimes.com/video/us/politics/100000007655482/biden-coronavirus-checks-vaccinations.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/15/us/politics/15new-washington-briefing-monday-morning-lead/15new-washington-briefing-monday-morning-lead-facebookJumbo.jpg?video-overlay",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-for-biden-theres-no-place-like-a-weekend-home-in-delaware.md",
       "title": "For Biden, there's no place like a weekend home in Delaware",
       "excerpt": "For President Joe Biden, there's no place like a weekend home in Delaware WILMINGTON, Del. -- As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured ...",
@@ -1502,58 +1559,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-biden-urged-to-back-water-justice-bill-to-reverse-decades-of-underinvestment.md",
-      "title": "Biden urged to back water justice bill to reverse decades of underinvestment",
-      "excerpt": "Water Act proposes injection of federal dollars to overhaul ageing infrastructure, create jobs and address inequalities",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/58c77231dce552c519cfbadca53546bbbe4b92fa/0_218_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bc900b56a61f274f18064c23b1e15ed8",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
-      "publishedDateTime": "2021-02-25T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

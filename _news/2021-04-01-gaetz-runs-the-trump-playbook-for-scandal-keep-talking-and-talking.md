@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-sc
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
 type: article
 quality: 135
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_11/3457572/210317-donald-trump-se-527p_03c9a81eb2ae8d70b4f979b6ea4c8f08.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump and his allies abandon Gaetz"
+    excerpt: "Rep. Matt Gaetz (R-Fla.) built a public profile as an unapologetic, unambiguous, omnipresent booster of President Donald Trump. But as his own political career skids toward disaster amid allegations that he had sex with a minor and paid for sex with women ..."
+    publishedDateTime: 2021-04-06T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Reopened offices leave some workers cold, Facebook groups fill the void and Trump's surprising rebrand"
     excerpt: "For many, the next Covid-19 pandemic challenge is a return to \"normalcy.\" This morning we are looking at what going back to the office means, plus Trump ditching his iconic brand and how a Chicago teacher ignited a firestorm over one country's Nazi legacy."

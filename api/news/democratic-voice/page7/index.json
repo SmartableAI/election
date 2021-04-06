@@ -510,6 +510,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-05-live-updates-biden-to-speak-on-economy-hours-after-senate-approves-relief-package.md",
+      "title": "Live Updates: Biden to Speak on Economy Hours After Senate Approves Relief Package",
+      "excerpt": "President Biden and Vice President Harris plan to meet with House Democratic leaders Friday morning to discuss the stimulus package. The Senate approved Mr. Biden’s plan but knocked out the $15 minimum wage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment",
+      "originalUrl": "https://www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-stimulus-letter/05new-washington-stimulus-letter-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment.amp.html",
+      "publishedDateTime": "2021-02-05T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-biden-to-call-for-protecting-lgbtq-rights-globally-in-memo.md",
       "title": "Biden to call for protecting LGBTQ rights globally in memo",
       "excerpt": "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said.",
@@ -1608,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html",
       "publishedDateTime": "2021-01-31T14:25:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-analysis-covering-obama-then-trump-now-biden-whats-changed.md",
-      "title": "Analysis: Covering Obama, then Trump, now Biden: What's changed?",
-      "excerpt": "We're now more than a week out of the Trump era and a week into the Biden era.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wH4gEL5Ywgk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wH4gEL5Ywgk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 730,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170112180414-biden-obama-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/30/politics/covering-biden-trump-obama/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/covering-biden-trump-obama/index.html",
-      "publishedDateTime": "2021-01-30T06:17:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

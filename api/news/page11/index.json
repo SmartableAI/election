@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-19-biden-meets-with-un-security-council-members-to-talk-climate.md",
+      "title": "Biden meets with UN Security Council members to talk climate",
+      "excerpt": "President Joe Biden has told the permanent representatives of the U.N. Security Council that the United States will join the international body’s Group of Friends on Climate and Society ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 605,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_cb93cfce0f6f4c5a8e4aed32c7515b59_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
+      "publishedDateTime": "2021-03-18T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-giroir-accuses-biden-of-playing-fast-and-loose-with-covid-science-taking-credit-for-operation-warp-speed.md",
       "title": "Giroir accuses Biden of playing 'fast and loose' with COVID science, taking credit for Operation Warp Speed",
       "excerpt": "President Biden is somehow able to \"stand up and completely rewrite history and go fast and loose with the science and the data,\" former HHS Assistant Secretary Brett Giroir told \"The Story\" Thursday.",
@@ -1293,58 +1345,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the-greats.md",
-      "title": "Juan Williams is wrong — Trump will be remembered as one of the greats",
-      "excerpt": "I look forward to a day when Americans can look past their hatred and admit that Donald Trump was the most effective, impactful, and forward-thinking president we’ve ever had.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the",
-      "originalUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpgettyimages-1304602669.jpg",
-          "width": 980,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the?amp",
-      "publishedDateTime": "2021-03-17T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

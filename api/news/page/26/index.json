@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-02-23-the-hills-1230-report-presented-by-facebook-supreme-courts-blow-to-trump.md",
+      "title": "The Hill's 12:30 Report - Presented by Facebook - Supreme Court's blow to Trump",
+      "excerpt": "Donald Trump Donald Trump Former Florida officer arrested after live streaming from inside US Capitol during breach, FBI says Schumer says he's working to find votes to confirm Biden's OMB pick Pence declined invitation to attend CPAC: reports MORE\" height=\"326\" width=\"580\" class=\"media-element file-original-image\" data-delta=\"2\" typeof=\"foaf:Image\" src=\" /> To view past editions of The Hill's 12:30 Report,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals",
+      "originalUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_7_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals?amp",
+      "publishedDateTime": "2021-02-22T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-photos-kamala-harris-selling-san-francisco-loft-for-799000.md",
       "title": "Photos: Kamala Harris selling San Francisco loft for $799,000",
       "excerpt": "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco.",
@@ -1280,62 +1332,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-biden-remarks-on-chinas-uighurs-is-bigotry-masquerading-as-cultural-sensitivity-hr-mcmaster-says.md",
-      "title": "Biden remarks on China's Uighurs is 'bigotry masquerading as cultural sensitivity',' H.R. McMaster says",
-      "excerpt": "Former national security adviser H.R. McMaster accused President Biden of \"bigotry masquerading as cultural sensitivity,\" following a town hall event where the president addressed China’s human rights abuses.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Gga4AZwEWM/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Gga4AZwEWM/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a618703-1039-4099-a473-0bf7dd823a8f/546f7729-7ab8-4909-98ae-031711b53461/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says.amp",
-      "publishedDateTime": "2021-02-19T17:55:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

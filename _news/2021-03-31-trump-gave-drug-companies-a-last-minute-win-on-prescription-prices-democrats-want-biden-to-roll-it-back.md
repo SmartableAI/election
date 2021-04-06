@@ -415,6 +415,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden wants lasting impact on courts"
+    excerpt: "President Biden Joe Biden Biden should look to 'Ostpolitik' to negotiate with autocrats The Hill's Morning Report - Biden's infrastructure plan triggers definition debate The Memo: Biden's bet on ..."
+    publishedDateTime: 2021-04-06T10:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/546570-biden-wants-lasting-impact-on-courts"
+    ampWebUrl: "https://thehill.com/homenews/administration/546570-biden-wants-lasting-impact-on-courts?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546570-biden-wants-lasting-impact-on-courts?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_040221getty_judges.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pelosi 'hopeful' Democrats can reform SALT tax in Biden infrastructure bill"
     excerpt: "said Thursday that she's hoping to reform the tax code to help high-income states as part of President Biden Joe Biden The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Biden ..."
     publishedDateTime: 2021-04-01T21:00:00Z

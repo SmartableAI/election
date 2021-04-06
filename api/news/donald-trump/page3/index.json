@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-03-21-trump-will-use-his-own-platform-to-return-to-social-media-after-twitter-ban.md",
-      "title": "Trump will use 'his own platform’ to return to social media after Twitter ban",
-      "excerpt": "Last modified on Sun 21 Mar 2021 13.28 EDT Donald Trump will soon use “his own platform” to return to social media, an adviser said on Sunday, months after the former president was banned from Twitter for inciting the US Capitol riot. 'His new business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform?share=facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b8820e18168688651182ed377b8200453cd4ec97/0_67_3662_2198/master/3662.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ddc69c23776ae3fcd0e41fb42a07b4da",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/trump-twitter-ban-social-media-own-platform",
-      "publishedDateTime": "2021-03-21T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-21-moncef-slaoui-trumps-vaccine-chief-very-concerned-about-gop-vaccine-hesitancy.md",
       "title": "Moncef Slaoui, Trump's vaccine chief, \"very concerned\" about GOP vaccine hesitancy",
       "excerpt": "the former scientific head of Operation Warp Speed during the Trump administration, said he's \"very concerned\" and perplexed by hesitancy among some Republicans to take COVID-19 vaccines, and encouraged former President Donald Trump and GOP leaders to ...",
@@ -1554,6 +1502,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-republicans-are-recycling-trumps-fear-mongering-about-terrorists-entering-the-us-through-mexico.md",
+      "title": "Republicans are recycling Trump's fear-mongering about terrorists entering the US through Mexico",
+      "excerpt": "DOW S&P 500 NASDAQ 100 As record numbers of unaccompanied minors turn up at southern border, congressional Republicans are echoing dubious claims from former President Donald Trump about terrorists attempting to cross into the US from Mexico. House ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
+      "originalUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/605113400347cb00184b61e4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
+      "publishedDateTime": "2021-03-16T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

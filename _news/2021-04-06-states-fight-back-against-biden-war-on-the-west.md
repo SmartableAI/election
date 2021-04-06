@@ -1,10 +1,10 @@
 ---
 category: news
 title: "States Fight Back Against Biden War on the West"
-excerpt: "The states are to serve as \"laboratories of democracy.\" Our Founding Fathers' ingeniousness was recognizing that healthy competition among the states was the best way to devise po"
+excerpt: "This brings us to President Joe Biden. No president in modern times, perhaps ever, has shown such contempt for our system of federalism. So I was thrilled to see this headline from, of all places, Alaska: \"Dunleavy Tells Feds Alaska Is Taking Over ..."
 publishedDateTime: 2021-04-06T09:32:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
 type: article
@@ -105,6 +105,6 @@ related:
         height: 500
         isCached: true
 
-secured: "df2EWDUMQnj7uni0RVIRLxAE2dqb+quDQq5+iPTgoW9RzWAtkXWfmuvUPe8wiboAW/eyO6oaHdjlTIcp7vaSTY+1gX6/kHggvNyGH00BfcdqJH/Ax3m5J8nF2GIwN3DN+2NrpXo8wcMzZZDy+pPFTLwghSEUEtyNZDIShXumBJouxb+/JePnqsLPY1ylM2Ukgty+XLckDYmLgL6LTrZwPZgB71XgH+qQSFXBjF2eP3xc8/kVRCeBuXlJN54uZn4TJvs8HLXrBa97BQEqq3WzHWqDO0yTvZME4kuUEOdHZGLmoz1zgJKl8ZwY+M1DBlhB1sXNoxYwKqJQVF/5tpcuMNcNZY4B/C8h5kYtROeij1U=;0+vBfXjMRnogD9NlCkJNNA=="
+secured: "X0PB2YN89DU/3VjOGw3ba0UttUDbrXcrr4K5t/74NhbPGmUjTp1AkPXj6HeLU/ta9IkcaMzNGC7bANqyA69IfWU1c+QzJa1X41j7hFgS/WoGZKvJM+cHgv5uce5dcjqxV9WfZICrGRIvrsUqKNfSh1wuLcORSujQphH49y4oJqKMXAuZSQX3bqvGAtrEADKRU3nY7hZEfIU3oF00PwMJHT+Adkflq30vhPdTVb1yQZ0GwOHMfJQXHclNfxzl/YDBxwP6dlei6tRaTr5SVkJQjP9Z4r0jdQG+h/C7FQU7tj5tu+qaFeczXNazyCbSKRUXr3xarXzRWB4Hkx6s51mgkwY+Z+1bVFOKFqiKZXIITd8=;wvORSaU3n9oZYaXy0OcqAA=="
 ---
 

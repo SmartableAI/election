@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-04-hunter-biden-says-hes-absolutely-certain-hell-be-cleared-of-wrongdoing-in-doj-probe-into-business-dealings.md",
+      "title": "Hunter Biden says he's 'absolutely certain' he'll be cleared of wrongdoing in DOJ probe into business dealings",
+      "excerpt": "Hunter Biden says he is fully cooperating with the Justice Department's investigation into his business dealings in China and predicted that he will be cleared of any wrong doing in the probe.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0WPRcC74Q4Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0WPRcC74Q4Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210402131357-hunter-biden-cbs-interview-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/04/politics/hunter-biden-doj-investigation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/hunter-biden-doj-investigation/index.html",
+      "publishedDateTime": "2021-04-04T10:25:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-blunt-biden-infrastructure-bill-should-be-30-of-current-level-slams-partisan-add-ons-as-big-mistake.md",
+      "title": "Blunt: Biden 'infrastructure' bill should be 30% of current level, slams partisan add-ons as 'big mistake'",
+      "excerpt": "President Biden's massive spending plan needs to be cut by around 70% for Republicans to get on board, Sen. Roy Blunt, R-Mo., suggested on \"Fox News Sunday.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUlzpMSov2M/sen-blunt-cut-biden-infrastructure-spending",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUlzpMSov2M/sen-blunt-cut-biden-infrastructure-spending",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5cff0088-3ae8-45c5-9d0d-54c3a61230a9/61dedd14-c4dc-4e2d-87d1-b2d706b6d011/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp",
+      "publishedDateTime": "2021-04-04T10:21:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-barrasso-slams-biden-over-kids-in-captivity-says-he-was-told-to-delete-photos-of-border-facilities.md",
       "title": "Barrasso slams Biden over kids in 'captivity,' says he was told to delete photos of border facilities",
       "excerpt": "\"The irony here is that we're hearing a lot about Joe Biden wanting vaccine passports to prove that people have vaccines,\" Barrasso said. \"Meanwhile, the border crossers, they don't even require I.D. We don't know who they are, where they're coming from ...",
@@ -220,6 +332,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-sanders-biden-has-given-a-serious-proposal-based-on-a-serious-problem.md",
+      "title": "Sanders: Biden has given a serious proposal based on a serious problem",
+      "excerpt": "Sen. Bernie Sanders (I-VT) discusses President Joe Biden's infrastructure plan and tells CNN's Jake Tapper that the US needs to address its \"human infrastructure\" as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404095914-sanders-sotu-0404-vpx-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn",
+      "publishedDateTime": "2021-04-04T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -1169,167 +1338,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-to-say-as-a-korean.md",
-      "title": "Ex-Trump Official Sery Kim Rejects Chinese Immigrants, Believes It's OK to Say as a Korean",
-      "excerpt": "She also served served as assistant administrator for the Small Business Administration under former President Donald Trump. Kim also argued that the rise in violent attacks against Asian Americans have always existed but are only now being covered by the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802",
-      "originalUrl": "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771259/sery-kim.jpg",
-          "width": 2048,
-          "height": 1704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1",
-      "publishedDateTime": "2021-04-02T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-pennsylvania-senate-race-emerges-as-a-test-of-progressive-firepower-in-post-trump-era.md",
-      "title": "Pennsylvania Senate race emerges as a test of progressive firepower in post-Trump era",
-      "excerpt": "It is also a test of whether progressives, who have found success in deep-blue House districts in recent years, can extend that formula to competitive Senate races after they helped vanquish former President Donald Trump. Fetterman and Kenyatta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/pennsylvania-senate-race-emerges-test-progressive-firepower-post-trump-era-n1262842",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/pennsylvania-senate-race-emerges-test-progressive-firepower-post-trump-era-n1262842",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_13/3461502/210401-pa-senate-race-malcolm-kenyatta-john-fetterman-split-2x1-se-550p_6f448da845633a2d4d658d16296c5987.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262842",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262842",
-      "publishedDateTime": "2021-04-02T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-biden-affirms-support-for-ukraine-in-first-call-to-leader.md",
-      "title": "Biden affirms support for Ukraine in first call to leader",
-      "excerpt": "President Joe Biden has underscored U.S. support for Ukraine in his first call to that country's leader President Joe Biden underscored U.S. support for Ukraine on Friday in his first call to that ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_407719467cc74e3dac8c0f95498cfa84_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011",
-      "publishedDateTime": "2021-04-02T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

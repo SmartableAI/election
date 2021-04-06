@@ -78,9 +78,9 @@ related:
         height: 720
         isCached: true
   - title: "States Fight Back Against Biden War on the West"
-    excerpt: "The states are to serve as \"laboratories of democracy.\" Our Founding Fathers' ingeniousness was recognizing that healthy competition among the states was the best way to devise po"
+    excerpt: "This brings us to President Joe Biden. No president in modern times, perhaps ever, has shown such contempt for our system of federalism. So I was thrilled to see this headline from, of all places, Alaska: \"Dunleavy Tells Feds Alaska Is Taking Over ..."
     publishedDateTime: 2021-04-06T09:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
     type: article

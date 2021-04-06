@@ -2,6 +2,63 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-05-newsom-recall-timing-is-everything-caleg-passes-schools-bill-high-school-sports-can-resume-youtube-eyes-trump-return.md",
+      "title": "NEWSOM RECALL: Timing is everything — CALEG passes SCHOOLS bill — HIGH SCHOOL SPORTS can resume — YOUTUBE eyes TRUMP return",
+      "excerpt": "Nearly a year after California schools closed their doors to in-person instruction, lawmakers moved on Thursday to get kids back to class by March. However lawmakers chose to vote on the school reopening bill,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/california-playbook/2021/03/05/newsom-recall-timing-is-everything-caleg-passes-schools-bill-high-school-sports-can-resume-youtube-eyes-trump-return-492002",
+      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2021/03/05/newsom-recall-timing-is-everything-caleg-passes-schools-bill-high-school-sports-can-resume-youtube-eyes-trump-return-492002",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-hiring-surged-in-february-the-first-full-month-of-bidens-presidency.md",
       "title": "Hiring surged in February, the first full month of Biden's presidency",
       "excerpt": "Hiring around the U.S. sped up in February, the first full month of the Biden presidency, in a sign that the labor market is gathering strength. Employers added 379,000 jobs last month, the Labor Department said Friday,",
@@ -1292,62 +1349,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-once-omnipresent-kushner-now-mia-from-trumps-political-pack.md",
-      "title": "Once omnipresent Kushner now MIA from Trump's political pack",
-      "excerpt": "As Donald Trump plotted his Conservative Political Action Conference appearance last week, and a broader, more-robust plan to return to politics as an omnipresent disruptor, one person was conspicuously absent from the confab.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUtUDPb2f2c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUtUDPb2f2c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210113111505-jared-kushner-donald-trump-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/04/politics/donald-trump-jared-kushner-political-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/donald-trump-jared-kushner-political-future/index.html",
-      "publishedDateTime": "2021-03-04T04:33:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -64,6 +64,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump and his allies abandon Gaetz"
+    excerpt: "Rep. Matt Gaetz (R-Fla.) built a public profile as an unapologetic, unambiguous, omnipresent booster of President Donald Trump. But as his own political career skids toward disaster amid allegations that he had sex with a minor and paid for sex with women ..."
+    publishedDateTime: 2021-04-06T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "vivoDed3rrSu4mh1+n656IDIUH4HSj0T7tdPKOaN6WroNNq3df2/6cI8+Wvc67YZi3an0PLoylYxzv4IOsHv05KEVplikxPNUEtI9wZ9MnxUhF66qFjP9KsCCMDuzPgrw9HfZRRBrQ+tIGp4ih10shp34lcXpPT+Yg0ZutcCcXG+1H7F416VaK8kzLSF9L+uT4lCD/Z9tNGcVv6/PE/mqeVmhLo1AMdcHPIWz01YO1XB9noK1EVMZB2O/0l6jQiGvfYcumttuo30WOtfRjzUC4v2xovhA0jnKH4vNlSSQVNW8FyBAWC/5gZbqFYs1FCPbD67qQ607gVpSkFZUFQ6XmPhtvBWIP8Dj5uTtlpWrtg=;u/v6LP3L+k/y4alBGkyEuw=="
 ---

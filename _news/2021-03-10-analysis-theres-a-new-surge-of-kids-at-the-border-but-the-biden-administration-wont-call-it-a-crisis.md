@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Biden's zero-carbon revolution would broaden the energy map"
+    excerpt: "President Joe Biden's push for a green power revolution could expand the economic benefits of energy production to a significantly broader swath of communities across America -- if he can maneuver past the blockade of fossil-fuel-producing states that has prevented congressional action on climate change"
+    publishedDateTime: 2021-04-06T04:04:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dYxf_EnrNo4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/infrastructure-plan-biden-green-energy-states/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/infrastructure-plan-biden-green-energy-states/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405160912-01-wind-farm-0330-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "iJa+ccEzKQw7KrriBmGN8ztgVYlbxMLHUWlPepf7g+pLCOQC649NRukdRdrkf6ds/Z0fyBmagrsPqhKqsPvOeyn/gx0S87QFBqsv5lSHEXPqjlznpWn4ymYDdZWZpHsLaMSd/0o+gRgCcUVOz5fHn4MIcYTnMYCmovvyQI9pLpcl3OKHcYJSIMjEgTQgCPxHZKqaapXol+Y1qHvwMRee8ERXDX/2tEU7sh9MvTAkNh0phYxrEYupimD+siNQyAsDAmj0CzxLHCF3z2mVQYmwJmH0WOhK5iDSoxCe/EVO0EIkUeVz5+BHff1LMs/40lciF8Cin+Ooun+sXhtX3HgquvHzUYNWM7ms0pUqvnlwdDc=;6got9KP8Yn6NhgIoT980YQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-06-official-biden-moving-vaccine-eligibility-date-to-april-19.md",
+      "title": "Official: Biden moving vaccine eligibility date to April 19",
+      "excerpt": "President Joe Biden is set to announce that he's shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines WASHINGTON -- President Joe Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_8f3ad97807e84cd5bc8723834d33143e_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
+      "publishedDateTime": "2021-04-06T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-permanent-resident-who-hoped-biden-would-be-his-miracle-is-set-to-be-deported.md",
       "title": "Permanent resident who hoped Biden would be his 'miracle' is set to be deported",
       "excerpt": "Hiding in plain sight Kelvin Silva, 44, hoped President Joe Biden would take a different stance than his predecessor by not deporting him. \"We just need a miracle,\" Silva told ABC News in December.",
@@ -217,6 +269,63 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-sanders-biden-has-given-a-serious-proposal-based-on-a-serious-problem.md",
+      "title": "Sanders: Biden has given a serious proposal based on a serious problem",
+      "excerpt": "Sen. Bernie Sanders (I-VT) discusses President Joe Biden's infrastructure plan and tells CNN's Jake Tapper that the US needs to address its \"human infrastructure\" as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404095914-sanders-sotu-0404-vpx-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn",
+      "publishedDateTime": "2021-04-04T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -636,6 +745,63 @@
       ]
     },
     {
+      "path": "_news/2021-04-02-biden-in-pennsylvania-details-2-trillion-infrastructure-plan.md",
+      "title": "Biden, in Pennsylvania, Details $2 Trillion Infrastructure Plan",
+      "excerpt": "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
+      "originalUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede/31dc-biden-HP-videoSixteenByNineJumbo1600-v3.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
+      "publishedDateTime": "2021-04-01T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-christian-pastor-claims-biden-surrounded-by-demonic-hedge-of-protection.md",
       "title": "Christian Pastor Claims Biden Surrounded By 'Demonic Hedge of Protection'",
       "excerpt": "Pastor Mario Murillo claimed this week that President Joe Biden is surrounded by a \"demonic hedge of protection,\" urging fellow Christians to pray for a \"powerful move of God\" to bring it down. \"War has been declared on your faith,\" Murillo said during the ...",
@@ -794,63 +960,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-jill-biden-in-california-lends-support-to-farmworkers-seeking-vaccinations.md",
-      "title": "Jill Biden, in California, Lends Support to Farmworkers Seeking Vaccinations",
-      "excerpt": "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/31/multimedia/31dc-flotus-promo/31dc-flotus-promo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html",
-      "publishedDateTime": "2021-03-31T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1023,7 +1132,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
       "featuredContent": null,
       "highlight": null,
-      "heat": 980,
+      "heat": 1000,
       "tags": null,
       "images": [
         {
@@ -1116,63 +1225,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-live-updates-biden-to-reveal-2-trillion-infrastructure-plan.md",
-      "title": "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan",
-      "excerpt": "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
-      "originalUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
-      "publishedDateTime": "2021-03-31T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1521,58 +1573,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-biden-taps-sen-manchins-wife-to-co-chair-appalachian-board.md",
-      "title": "Biden taps Sen. Manchin's wife to co-chair Appalachian board",
-      "excerpt": "President Joe Biden is nominating Gayle Manchin, the wife of West Virginia Sen. Joe Manchin, to be the co-chair of the Appalachian Regional Commission WASHINGTON -- President Joe Biden is ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
-      "publishedDateTime": "2021-03-26T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

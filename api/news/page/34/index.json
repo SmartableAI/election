@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-02-09-white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan.md",
+      "title": "White House expects lawmakers' coronavirus aid \"mark up\" will track closely to Biden's plan",
+      "excerpt": "The White House expects the House of Representatives to track closely to President Joe Biden's coronavirus relief plan as it marks up its latest round of legislation to blunt the effects of the COVID-19 pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A822O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A822O",
+      "publishedDateTime": "2021-02-08T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-liz-cheney-in-donald-trump-jrs-2022-crosshairs.md",
       "title": "Liz Cheney in Donald Trump Jr.’s 2022 crosshairs",
       "excerpt": "It’s a long way down the road, but it appears Donald Trump Jr.’s already making plans to travel to Wyoming next year to target Rep. Liz Cheney in the Republican primaries as she runs for re-election.",
@@ -1317,58 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-biden-gives-calif-woman-pep-talk-in-weekly-address-revival.md",
-      "title": "Biden gives Calif. woman pep talk in weekly address revival",
-      "excerpt": "President Joe Biden has given a pep talk to a California woman who was laid off because of the coronavirus pandemic",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Sports/WireAP_96e61c0cee3d4cb9927dbd51881debe3_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
-      "publishedDateTime": "2021-02-06T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
