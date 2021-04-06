@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-11-melania-trump-disappointed-and-disheartened-over-capitol-attack-nation-must-heal-in-a-civil-manner.md",
+      "title": "Melania Trump ‘disappointed and disheartened’ over Capitol attack: ‘Nation must heal in a civil manner'",
+      "excerpt": "The deadly riots unfolded on Wednesday after a rally to support President Trump descended into a mob that stormed the Capitol during the certification of the Electoral College vote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvK_YCPPbTA/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvK_YCPPbTA/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e56d820d-efe3-4b7e-8ffb-0e2cf480f0d1/3b7121e6-427b-4dbd-89b9-9bcaa499ee04/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner.amp",
+      "publishedDateTime": "2021-01-11T05:12:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-biden-announces-william-burns-for-cia-director.md",
       "title": "Biden announces William Burns for CIA director",
       "excerpt": "President-elect Joe Biden announced Ambassador William Burns as his nominee for director of the CIA on Monday.",
@@ -1585,62 +1641,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp",
       "publishedDateTime": "2021-01-07T18:34:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-trump-condemns-heinous-attack-on-capitol-calls-for-healing-and-reconciliation.md",
-      "title": "Trump condemns 'heinous attack' on Capitol, calls for 'healing and reconciliation'",
-      "excerpt": "President Trump condemned Wednesday’s “heinous attack” on the Capitol by his supporters and called for a moment of healing. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZbPTVQ7h-MY/trump-condemns-heinous-attack-capitol-healing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZbPTVQ7h-MY/trump-condemns-heinous-attack-capitol-healing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14916eca-a34a-435c-be33-946448326628/d7fd995c-e60f-4564-b82f-a9101b39de67/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-condemns-heinous-attack-capitol-healing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-condemns-heinous-attack-capitol-healing.amp",
-      "publishedDateTime": "2021-01-07T17:15:18-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

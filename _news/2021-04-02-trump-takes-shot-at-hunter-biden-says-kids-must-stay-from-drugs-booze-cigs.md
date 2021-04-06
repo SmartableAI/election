@@ -154,6 +154,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "All-Star rumble, with Biden and Trump, shows corporate America breaking with GOP"
+    excerpt: "Business support for taking the All-Star Game out of Atlanta because of the Georgia voting law is emblematic of Corporate America's break from the GOP"
+    publishedDateTime: 2021-04-06T07:12:00Z
+    webUrl: "https://www.foxnews.com/media/all-star-rumble-with-biden-and-trump-shows-corporate-america-breaking-with-gop"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Biden-green-thumb.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden's Bid to Remake America"
     excerpt: "If Joe Biden's American Jobs Program, outlined in Pittsburgh, is enacted, then the federal government will take a great leap forward toward"
     publishedDateTime: 2021-04-02T10:46:00Z

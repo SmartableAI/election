@@ -2,6 +2,62 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-17-biden-says-cuomo-should-resign-if-the-investigation-confirms-accusers-claims.md",
+      "title": "Biden says Cuomo should resign if the investigation confirms accusers' claims",
+      "excerpt": "President Biden said Democratic New York Gov. Andrew Cuomo should resign if investigations support the claims made by his accusers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6caaaa06-f983-4f4a-89aa-5a4899682cb2/ff5a3dc7-5d0e-49bc-a55c-89cca417a19e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cuomo-should-resign-investigation.amp",
+      "publishedDateTime": "2021-03-16T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-vp-harris-dodges-question-about-migrant-children-i-havent-been-briefed-on-anything-today-about-it.md",
       "title": "VP Harris dodges question about migrant children: 'I haven't been briefed on anything today about it'",
       "excerpt": "Harris' response comes as the Biden administration has refused to call the perilous border situation a crisis.",
@@ -1279,58 +1335,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-police-chief-art-acevedo-outspoken-against-trump-leaves-houston-for-miami.md",
-      "title": "Police Chief Art Acevedo, Outspoken Against Trump, Leaves Houston For Miami",
-      "excerpt": "Acevedo has defied both a governor and a president, but he has walked arm-in-arm with protestors. Now he will lead the Miami police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078",
-      "originalUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1755724/police-chief-art-acevedo.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078?amp=1",
-      "publishedDateTime": "2021-03-14T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

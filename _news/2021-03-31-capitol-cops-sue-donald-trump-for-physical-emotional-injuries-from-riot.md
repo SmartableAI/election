@@ -319,6 +319,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "U.S. Senate Democrats take aim at Trump 2017 international tax reforms"
+    excerpt: "WASHINGTON (Reuters) - Top Democrats on the Senate Finance Committee on Monday proposed major shifts in former President Donald Trump’s 2017 tax reforms to eliminate what they say are incentives for companies to move operations overseas and shift profits ..."
+    publishedDateTime: 2021-04-05T20:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-tax-idUSKBN2BS1ZZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BS1ZZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BS1ZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210405&t=2&i=1557388601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3410W"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Police officers sue Donald Trump for injuries resulting from Capitol riot"
     excerpt: "Lawsuit seeks damages for ‘physical and emotional injuries caused by Trump’s wrongful conduct inciting a riot’ on 6 January Last modified on Wed 31 Mar 2021 09.58 EDT Two US Capitol Police officers have filed a lawsuit against Donald Trump ..."
     publishedDateTime: 2021-03-31T12:58:00Z

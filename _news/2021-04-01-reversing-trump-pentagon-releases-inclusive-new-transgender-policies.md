@@ -317,6 +317,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "U.S. Senate Democrats take aim at Trump 2017 international tax reforms"
+    excerpt: "WASHINGTON (Reuters) - Top Democrats on the Senate Finance Committee on Monday proposed major shifts in former President Donald Trump’s 2017 tax reforms to eliminate what they say are incentives for companies to move operations overseas and shift profits ..."
+    publishedDateTime: 2021-04-05T20:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-tax-idUSKBN2BS1ZZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BS1ZZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BS1ZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210405&t=2&i=1557388601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3410W"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
     publishedDateTime: 2021-03-31T04:05:00Z

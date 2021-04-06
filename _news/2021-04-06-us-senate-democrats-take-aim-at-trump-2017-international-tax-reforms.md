@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Pentagon announces new policies on transgender troops, reversing Trump-era ban"
-excerpt: "President Joe Biden in an executive order in January reversed the Trump-era ban on transgender troops serving ... The ban on transgender troops was announced by former President Donald Trump in 2017 and took effect in 2019. Secretary of Defense Lloyd ..."
-publishedDateTime: 2021-03-31T19:31:00Z
-originalUrl: "https://www.cbsnews.com/news/transgender-troops-military-policies-updated/"
-webUrl: "https://www.cbsnews.com/news/transgender-troops-military-policies-updated/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
+title: "U.S. Senate Democrats take aim at Trump 2017 international tax reforms"
+excerpt: "WASHINGTON (Reuters) - Top Democrats on the Senate Finance Committee on Monday proposed major shifts in former President Donald Trump’s 2017 tax reforms to eliminate what they say are incentives for companies to move operations overseas and shift profits ..."
+publishedDateTime: 2021-04-05T20:51:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-congress-tax-idUSKBN2BS1ZZ"
+webUrl: "https://www.reuters.com/article/us-usa-congress-tax-idUSKBN2BS1ZZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BS1ZZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BS1ZZ"
 type: article
-quality: 121
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2017/08/29/5ad04d6c-19bf-4652-9788-f4356df1cb3c/thumbnail/1200x630/42323df4d9d19fb6da5aa88315d66253/gettyimages-823246288.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210405&t=2&i=1557388601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3410W"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -319,22 +319,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "U.S. Senate Democrats take aim at Trump 2017 international tax reforms"
-    excerpt: "WASHINGTON (Reuters) - Top Democrats on the Senate Finance Committee on Monday proposed major shifts in former President Donald Trump’s 2017 tax reforms to eliminate what they say are incentives for companies to move operations overseas and shift profits ..."
-    publishedDateTime: 2021-04-05T20:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-tax-idUSKBN2BS1ZZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BS1ZZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BS1ZZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210405&t=2&i=1557388601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3410W"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
     publishedDateTime: 2021-03-31T04:05:00Z
@@ -366,6 +350,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f9deca06bc771f86b15d1cd4d7c3b878b1231361/0_65_2060_1236/master/2060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=365c112e893b7e1d1a06ca9e28be9071"
         width: 600
         height: 360
+        isCached: true
+  - title: "Pentagon announces new policies on transgender troops, reversing Trump-era ban"
+    excerpt: "President Joe Biden in an executive order in January reversed the Trump-era ban on transgender troops serving ... The ban on transgender troops was announced by former President Donald Trump in 2017 and took effect in 2019. Secretary of Defense Lloyd ..."
+    publishedDateTime: 2021-03-31T19:31:00Z
+    webUrl: "https://www.cbsnews.com/news/transgender-troops-military-policies-updated/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2017/08/29/5ad04d6c-19bf-4652-9788-f4356df1cb3c/thumbnail/1200x630/42323df4d9d19fb6da5aa88315d66253/gettyimages-823246288.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Rick Scott Asked Trump to Not Get Involved in 2022 Races Until Candidates Win Primaries"
     excerpt: "U.S. Senator Rick Scott, a Florida Republican who heads the GOP's Senate fundraising arm, wants former President Donald Trump's help in the 2022 election, but he's asking him to hold off a bit. \"I think he wants to win, so I think he's going to work with ..."
@@ -689,6 +689,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "50iv/9R2jwV9g2Dqn25SEheNYGqLfRtxDuVyl9B00GNeZerXoqjV4eFlgx9Dto0djEnC75NCBaLCJN2bF4nlDF49pOJGYfnzwbTOEIpH+F/TrahT2OiG+DWBjjmDW7MRtXz/GfgvQGH3j1slkQZk9ek961Zj2mEv8lSIa0tsBR/OfZNH5KAe3lJJG80GLk38IgYMpYCtwoJ8x2hlsc0rAmkGbtTR+wpRPOc1pCoR/GAaanHHZZRQ6Hn49qhDKKun/WqPtn1x9+Ihu1frf4aKX3jIrd8UPKAAbWLgiUJVudE492Ie61DXEzF4cH6urWGXdPiuYRX2GIH5AZnoPHD8P7MbzouFNnDd4t5qZAcsV87PqNSnAzOaEpzsVvX44QFdPgmM9IU0vxsBeAXu6NmzovT8CS4qSji8NiGjaudyTrpA5xB4kMh8uTTEiRjuiwJfp350dVpnfEUnJTS+cPunOmPfT4UJFtkBRzPV7cAQqAOfsajKh9t6O+0SeqiLDjKQNX7PUlXnWAeH5Pl2x51vJA==;pke/MWsn18rI5SgmPLgJRA=="
+secured: "urFSGvMZ5ZMHkA43lEH+ewyIOwPL7HzBQNVVDHnkHuOjemGx+JZncsUH+j8seCjrhuSu6PzzXURmYkJvZyH0+WOw7z6xTII1Be/f7EQAFa/08tTHOXDOCnYn2E2P16R5YTyB3WCsyrby5pc+YaRSsgL3qoB6I2gi4Ab/Ua54xSd6Q9NXstaBde9RLi4yObCYdTCBIwcn5MOwvLCwFqYLsS3TIY0bWfoK5Ujh1eR8lSCN/tq9Cff/uUVZhdIaoMMZwd+htU95ljr6SPVqy8HW29X29v8ctbn10z81E/ztj2n3sHBq7jyT/6s+ATDJoSZVXvtOA8+7/94NEgNTDRvEfc0LI2HaviwUXrN+ffXSRDU=;lOoVVP3XFyUtjfYcEXuRjA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-31-trump-ally-matt-gaetz-say-he-faces-federal-investigation-regarding-sexual-conduct.md",
+      "title": "Trump ally Matt Gaetz say he faces federal investigation 'regarding sexual conduct'",
+      "excerpt": "Florida Republican congressman says he has never had sexual relationship with underage girl Matt Gaetz, a prominent Republican in Congress and a close ally of Donald Trump, said on Tuesday he was being investigated by the justice department over a former ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e19abbddbb06134f5509b2b4af66e4186711a8d8/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b3f2957a9a90f90582890cf4af0d18a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "publishedDateTime": "2021-03-30T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-14-gop-led-states-file-long-shot-bid-with-scotus-to-defend-trump-era-public-charge-rule.md",
       "title": "14 GOP-led states file long-shot bid with SCOTUS to defend Trump-era 'public charge' rule",
       "excerpt": "Texas and 13 other Republican-led states have filed a long shot bid with the Supreme Court asking the justices to allow the states to defend a controversial Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use certain public benefits, such as Medicaid, food stamps",
@@ -1261,7 +1313,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
       "featuredContent": null,
       "highlight": null,
-      "heat": 970,
+      "heat": 990,
       "tags": null,
       "images": [
         {
@@ -1303,62 +1355,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-dnc-chair-jaime-harrison-who-lost-to-graham-in-november-calls-out-senator-over-guns.md",
-      "title": "DNC chair Jaime Harrison-- who lost to Graham in November-- calls out senator over guns",
-      "excerpt": "Democratic National Committee (DNC) chair Jaime Harrison on Monday said Lindsey Graham was \"embarrassing\" both himself and South Carolina after the senator revealed he would use his AR-15 to defend his home if needed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pMg9SLnuIe8/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pMg9SLnuIe8/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Graham-Harrison-Split.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss.amp",
-      "publishedDateTime": "2021-03-30T02:29:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

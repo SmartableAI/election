@@ -170,6 +170,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "All-Star rumble, with Biden and Trump, shows corporate America breaking with GOP"
+    excerpt: "Business support for taking the All-Star Game out of Atlanta because of the Georgia voting law is emblematic of Corporate America's break from the GOP"
+    publishedDateTime: 2021-04-06T07:12:00Z
+    webUrl: "https://www.foxnews.com/media/all-star-rumble-with-biden-and-trump-shows-corporate-america-breaking-with-gop"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Biden-green-thumb.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "As Biden Stands Down at the Border, America Suffers"
     excerpt: "President Joe Biden is ceasing the execution of federal immigration laws, and the worst crisis in 20 years (by his own Department of Homeland Security secretary's admission) is likely to reach an unprecedented level."
     publishedDateTime: 2021-03-31T10:54:00Z

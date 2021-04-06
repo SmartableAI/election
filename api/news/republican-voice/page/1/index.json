@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-06-biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.md",
+      "title": "Biden WH 'tension' to blame for Major getting agitated, dog expert says",
+      "excerpt": "High-profile dog experts are speaking out about what they believe is really causing Biden's dog Major to act out after he bit two people at the White House in recent weeks, according to a report. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zL3ppeTplHo/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zL3ppeTplHo/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/GettyImages-1232008114.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.amp",
+      "publishedDateTime": "2021-04-05T23:49:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-stephen-miller-if-cartels-had-a-vote-they-would-back-biden-border-policies-unanimously.md",
       "title": "Stephen Miller: 'If cartels had a vote,' they would back Biden border policies 'unanimously'",
       "excerpt": "It is \"deeply insulting\" to describe the Trump administration's border and immigration policies as inhumane, former White House senior adviser Stephen Miller told \"Special Report\" Monday.",
@@ -1586,62 +1642,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read.amp",
       "publishedDateTime": "2021-04-01T13:20:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-biden-supports-vaccines-for-undocumented-immigrants-psaki.md",
-      "title": "Biden supports vaccines for undocumented immigrants: Psaki",
-      "excerpt": "White House press secretary Jen Psaki said during Thursday's press briefing that President Biden supports coronavirus vaccines for undocumented immigrants.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/COVID-Vaccine-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
-      "publishedDateTime": "2021-04-01T12:48:37-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

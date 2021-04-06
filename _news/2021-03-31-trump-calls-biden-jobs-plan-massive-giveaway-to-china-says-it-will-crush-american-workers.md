@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
 type: article
 quality: 178
-heat: 378
+heat: 398
 published: true
 
 provider:
@@ -154,6 +154,20 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31559d35-d060-4ac4-85d0-c5cf2e57997e/cea027d4-af7e-4165-9019-bb52722f5b11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "All-Star rumble, with Biden and Trump, shows corporate America breaking with GOP"
+    excerpt: "Business support for taking the All-Star Game out of Atlanta because of the Georgia voting law is emblematic of Corporate America's break from the GOP"
+    publishedDateTime: 2021-04-06T07:12:00Z
+    webUrl: "https://www.foxnews.com/media/all-star-rumble-with-biden-and-trump-shows-corporate-america-breaking-with-gop"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Biden-green-thumb.jpg"
         width: 1280
         height: 720
         isCached: true
