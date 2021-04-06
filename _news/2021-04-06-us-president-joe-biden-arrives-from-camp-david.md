@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden Arrives From Camp David"
 excerpt: "President Joe Biden and First Lady Jill Biden arrive by Marine One to the White Hous in Washington, DC, on Monday, April 5, 2021. The traditional Easter Egg Roll at the White House with thousands of visitors was not held due to the coronavirus COVID-19 ..."
 publishedDateTime: 2021-04-05T19:02:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/d08cbe22e2d39d7af34c3509b3762e0d/US-President-Joe-Biden-Arrives-From-Camp-David/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/d08cbe22e2d39d7af34c3509b3762e0d/US-President-Joe-Biden-Arrives-From-Camp-David/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bbedb695639b7289aaa20878b9869807/US-President-Joe-Biden-Arrives-From-Camp-David/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bbedb695639b7289aaa20878b9869807/US-President-Joe-Biden-Arrives-From-Camp-David/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/d08cbe22e2d39d7af34c3509b3762e0d/USA-BIDEN-EASTER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/bbedb695639b7289aaa20878b9869807/USA-BIDEN-EASTER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -362,6 +362,20 @@ related:
         width: 810
         height: 522
         isCached: true
+  - title: "AP-NORC poll: Border woes dent Biden approval"
+    excerpt: "More Americans disapprove than approve of how President Joe Biden is handling waves of unaccompanied immigrant children arriving at the U.S.-Mexico border, which suggests immigration policy could be a weak point for the new administration."
+    publishedDateTime: 2021-04-06T00:57:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/06/ap-norc-poll-border-woes-dent-biden-approval/7100670002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d532ad4d-c8b5-4d3a-8517-b077d6938e9b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "North Korea responds to Biden's criticism of ballistic-missile test, accusing administration of 'gangster-like logic'"
     excerpt: "DOW S&P 500 NASDAQ 100 North Korea on Friday issued a scathing statement in response to President Joe Biden's recent condemnation of North Korea's recent missile tests. North Korea's state media quoted top North Korean military official Ri Pyong Chol ..."
     publishedDateTime: 2021-03-27T00:49:00Z
@@ -379,6 +393,6 @@ related:
         height: 600
         isCached: true
 
-secured: "KEV/tii6155Rz9wKizfVMmDA9ie8mWuvdtYzmbWD2mu9bUI3a+Pz4YYw1D8fZpoCq9ZWtafyEgFLVUeqjj+1ykGd/odnEF2vhdh1Oh9jJnh/YCygSYDkJvms/Ak0nT0Fi/quKBgoI0xDibNC+eEh4nwZH1zJ/Axx7xpID2w9p9PQeC0E+EQpGpbbudJ4n1HoEn0jrSo+JjGgVYFcoIqvLRwWWe52YT5FGFQIYY5LVH+kxMrzACRkiYI8NFhGztBtm1ziZrTWXhRezwRgu6IxrYf+VY80KzXcleFoPtPGIbmMuEotYEIHVQnDIXQLZsSfDrwEpeLJbHjrYQDQ9dP52SFiZdpnC7v6ERCjkh9+V1I=;oxNRw0ArWf3WZuekyrTG2A=="
+secured: "k/TQSv8NiUMDfkFD3uDYLCF+XgNkSnIgiuuLR/Oyi++XtiQ+7xDm9r9+miOjM1OaT0OS5IdFJHIPJHnH+b8q2oXj9oC9grpLZphVKcsGsea0NsqSf+YSSyFlloVpm+mozgpXgjFwckybRfFGkW7s/3kN8oq8xgJUcC2o5j4Q/AgV08RHWQJvmRVAhyPVGKIBYByz0IXYxK0Emw3pDZ0iq9pXUsXPJnsZ6IRVOyVgICD+mP2KPBG8XGTkTbALPbUL5qFVfJOy4F9dh62npraEgnfbGlgCNLttspSZrL9PTw5Yey6gkZ0V1eZWl9Kdrmperq6M3yAeRGGBp3lkdqcT9NOgpFFXpqt2Tek1rCwe0XQ=;Dd/NO5jd1FgmvRJGUEM9xA=="
 ---
 

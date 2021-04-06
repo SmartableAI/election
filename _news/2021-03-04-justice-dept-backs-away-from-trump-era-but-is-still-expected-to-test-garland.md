@@ -64,6 +64,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Florida's Trump country stands with Gaetz"
+    excerpt: "“I believe this is nothing more than fake news,” said Larry Hetu, a Gulf Breeze activist who is part of a group trying to get a local bridge renamed after former President Donald Trump. “I don’t believe anything coming from the mainstream medi"
+    publishedDateTime: 2021-04-05T23:51:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/04/05/floridas-trump-country-stands-with-gaetz-1371745"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/37/5f/44583dbc49499b2763024498ce9c/210405-matt-gaetz-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "zn8eAPkuMFZ0kjkoWDlHrKi9va5eT2yiVck/tyq+YZk5uN1ynL4pbkM8bRXcbbpXpRI+hjhA5X07CygZ63LxJTqJ8JWp+kmH/1mopCeNLAmTOht7+lTYS4qYeeGSrbdcCoRvXwKDqXbOe2YBzCDvq7+ZchIly7ku6ZmVRdExJPak0ZtVAA1gRgWbKp/x1/rKqMTnX6KOQgcq1jfRUopMr6fdv783AexGPVkzdcLR9w6XV4ZsaLsKUfpi1lH+gZ4avSZcHv0xqbbYHQKpf+j0nzug5BRX8NVMgQ/bPWdaqxV/qjG4SmFRdtPP1Juga9KYHq4Kq76fgoyeWCDOW+mt32WWWPL1cO6S/4l9dtuCZeU=;orc3KA2y5CCmg/shy26DEw=="
 ---

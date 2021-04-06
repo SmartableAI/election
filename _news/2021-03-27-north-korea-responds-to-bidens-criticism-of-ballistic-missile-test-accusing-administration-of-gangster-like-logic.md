@@ -368,17 +368,31 @@ related:
         width: 810
         height: 522
         isCached: true
+  - title: "AP-NORC poll: Border woes dent Biden approval"
+    excerpt: "More Americans disapprove than approve of how President Joe Biden is handling waves of unaccompanied immigrant children arriving at the U.S.-Mexico border, which suggests immigration policy could be a weak point for the new administration."
+    publishedDateTime: 2021-04-06T00:57:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/06/ap-norc-poll-border-woes-dent-biden-approval/7100670002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d532ad4d-c8b5-4d3a-8517-b077d6938e9b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "U.S. President Joe Biden Arrives From Camp David"
     excerpt: "President Joe Biden and First Lady Jill Biden arrive by Marine One to the White Hous in Washington, DC, on Monday, April 5, 2021. The traditional Easter Egg Roll at the White House with thousands of visitors was not held due to the coronavirus COVID-19 ..."
     publishedDateTime: 2021-04-05T19:02:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d08cbe22e2d39d7af34c3509b3762e0d/US-President-Joe-Biden-Arrives-From-Camp-David/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bbedb695639b7289aaa20878b9869807/US-President-Joe-Biden-Arrives-From-Camp-David/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d08cbe22e2d39d7af34c3509b3762e0d/USA-BIDEN-EASTER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/bbedb695639b7289aaa20878b9869807/USA-BIDEN-EASTER.jpg"
         width: 650
         height: 433
         isCached: true

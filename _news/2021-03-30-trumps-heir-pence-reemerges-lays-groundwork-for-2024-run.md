@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reem
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
 type: article
 quality: 150
-heat: 950
+heat: 970
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/239b67e/2147483647/strip/true/crop/3375x2204+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff0%2F56%2F4919d64a4a1b9047f9b9077081b4%2Fbiden-82377.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "6 in 10 Republicans Want Trump to Run in 2024, Think 2020 Election 'Stolen'"
+    excerpt: "The majority of Republicans want former President Donald Trump to run again in 2024 while an equal number believe the groundless conspiracy theory that the 2020 election \"was stolen\" by President Joe Biden and Democrats. Trump and many of his allies ..."
+    publishedDateTime: 2021-04-05T14:54:00Z
+    webUrl: "https://www.newsweek.com/6-10-republicans-want-trump-run-2024-think-2020-election-stolen-1581031"
+    ampWebUrl: "https://www.newsweek.com/6-10-republicans-want-trump-run-2024-think-2020-election-stolen-1581031?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/6-10-republicans-want-trump-run-2024-think-2020-election-stolen-1581031?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1771605/donald-trump.jpg"
+        width: 1024
+        height: 626
         isCached: true
   - title: "Pro-Trump lawyer says ‘no reasonable person’ would believe her election lies"
     excerpt: "Lawyers for Sidney Powell argued conspiracies she laid out constituted legally protected first amendment speech Last modified on Tue 23 Mar 2021 11.53 EDT A key member of the legal team that sought to steal the 2020 election for Donald Trump is defending ..."

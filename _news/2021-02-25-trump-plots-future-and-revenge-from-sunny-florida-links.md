@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/donald-trump-plans-famil
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/donald-trump-plans-family/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/26/us/politics/26dc-justice1/26dc-justice1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Florida's Trump country stands with Gaetz"
+    excerpt: "“I believe this is nothing more than fake news,” said Larry Hetu, a Gulf Breeze activist who is part of a group trying to get a local bridge renamed after former President Donald Trump. “I don’t believe anything coming from the mainstream medi"
+    publishedDateTime: 2021-04-05T23:51:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/04/05/floridas-trump-country-stands-with-gaetz-1371745"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/37/5f/44583dbc49499b2763024498ce9c/210405-matt-gaetz-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "y5OYIbbkl4sWhh7bUB8Cpy+PPjd7wOBc7VCrcwHnj2G8WHBZz43dSxrN/reicKPAIC2tniFZmUVW6RUdNhenuWc7JJP9geV5i/I/MfrVJ3AY5LUjLHw4Je+4IC6uFSIWHN7ctEaIMjrGyej+Djw2UH+uxKPLJMO7l/cy3GQuDjKz5HPZ0XN87wc1KEsb8L4s3EnB+z1lyXVgn6uuiI8kka3D3cLdOqG6KLLKIF9Pe+i4e7/mrDC3UNmKUDQFfdmD6+9IXMyD0M4kOmGDuXcEuQ8CV2Ris9RkVU9xUAa4IIOAWoqYSzVFEMQiX3dk106vHai0xY1dV5uRuNrbaUScFZz3/hjUgeHS0M13ZpkhaWM=;UsTDIgLep5/vN2Kzeunv6Q=="

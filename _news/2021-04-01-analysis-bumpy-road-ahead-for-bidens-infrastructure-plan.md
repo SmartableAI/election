@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ah
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -98,6 +98,22 @@ related:
   - title: "Americans 'want to see us get it done': Buttigieg on Biden's infrastructure plan"
     excerpt: "Biden lays out massive infrastructure bill Secretary of Transportation Pete Buttigieg said Sunday that he believes it could be possible to get Republicans on board with President Joe Biden's ..."
     publishedDateTime: 2021-04-04T13:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/this-week-pete-buttigieg-02-ap-llr-210403_1617479297934_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Buttigieg on Biden's infrastructure plan: Americans 'want to see us get it done'"
+    excerpt: "Buttigieg Secretary of Transportation Pete Buttigieg said Sunday that he believes it could be possible to get Republicans on board with President Joe Biden's massive, $2 trillion infrastructure ..."
+    publishedDateTime: 2021-04-05T18:09:00Z
     webUrl: "https://abcnews.go.com/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
